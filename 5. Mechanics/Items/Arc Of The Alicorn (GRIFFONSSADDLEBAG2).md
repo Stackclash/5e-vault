@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Arc of the Alicorn
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic ivory bow is sculpted to look like a pair of curved unicorn horns and is strung with the finely braided hair of a pegasus' mane. This bow's damage die is a `dice:d10|noform|noparens|avg` (`d10`) instead of a `dice:d8|noform|noparens|avg` (`d8`).
 

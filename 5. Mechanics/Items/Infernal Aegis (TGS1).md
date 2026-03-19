@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Infernal Aegis
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this shield, you can speak its command word as a bonus action to cause it to become wreathed in harmless, magical flames. The flames cast bright light in a 20-foot radius and dim light for another 20 feet. The flames last until you speak its command word again as a bonus action or until you drop or doff the shield.
 

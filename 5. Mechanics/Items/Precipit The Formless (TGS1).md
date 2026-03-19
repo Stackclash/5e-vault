@@ -20,6 +20,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 15
+item_recharge: dawn
 ---
 # Precipit, the Formless
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, artifact (requires attunement)*  
@@ -30,6 +33,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic coral staff was first found within the Great Reef of the Elemental Plane of Water. Its origins beyond that are entirely unknown, with some suggesting it was made by the plane itself rather than forged or crafted by a mere creature's hands. Attuning to the staff bestows some of its planar powers to you, allowing you to breathe underwater and ignore any of the drawbacks caused by a deep, underwater environment. In addition, while holding the staff, you have resistance to cold damage.
 

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Hatred, the Wrathful Edge
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, artifact (requires attunement by a creature the axe deems worthy)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This black iron axe was forged in the scorching fires of the Magmarath Caldera and has been the decisive end for countless mortal souls. Used as the mark of a Tribunal in the caldera's city, the weapon is an embodiment of anger and spite, and has been enchanted with blood magic that bubbles to the surface each time it's used to end a life. Glimmering veins of lava flicker from its dark metal surface, and roiling, volcanic sparks trail behind it in its wake when swung.
 

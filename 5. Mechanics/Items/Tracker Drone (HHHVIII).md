@@ -9,11 +9,17 @@ aliases:
   - Tracker Drone
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tracker Drone
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tiny, spider-like drone is roughly the size of a tick and has a small degree of sentience due to the animating spirit inside it. While within 30 feet of the drone, you may speak its command word as an action, causing it to become active and tuning it to yourself. Speaking its command word again causes it to deactivate and become lifeless. While active, the drone is capable of moving at a speed of 30 feet, has AC 10 and 1 hit point. It makes both Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) and Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks with a `dice:1d20+5|noform|noparens|text(+5)` bonus.
 

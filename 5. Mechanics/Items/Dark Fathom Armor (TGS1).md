@@ -17,6 +17,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dark Fathom Armor
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), major, very rare*  
@@ -24,6 +27,9 @@ subtype:
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark, sea-soaked suit of armor smells of brine and is covered in eldritch runes. You have a +1 bonus to AC and can breathe normally underwater while wearing this armor.
 

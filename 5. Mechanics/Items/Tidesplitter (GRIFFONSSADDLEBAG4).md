@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Tidesplitter
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), rare (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sharpened bident is covered in swirling water motifs. You gain a +1 bonus to attack and damage rolls made with this magic weapon. Immediately before you make a melee attack with the weapon while underwater, you can move up to 10 feet without provoking opportunity attacks.
 

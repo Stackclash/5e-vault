@@ -9,10 +9,16 @@ aliases:
   - Scalehide Cream
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scalehide Cream
 *Wondrous item, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 As an action, you can rub this dull green cream over your skin. When you do, you sprout thick, olive-green scales like those of a giant lizard or green dragon that last for 1 hour. These scales give you a natural AC of 15 + your Constitution modifier. This natural AC doesn't combine with any worn armor or with a Dexterity bonus to AC.
 

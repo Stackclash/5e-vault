@@ -9,11 +9,17 @@ aliases:
   - Chimera Kite
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chimera Kite
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wondrous kite is normally kept folded up into a single neat pole. You may spend 1 minute unfolding the kite into its flight mode which possesses two great wings, a handle, and a leather harness for the user to strap themselves into. While in flight mode, a creature strapped into the harness can speak the command word to cause the kite to emit a magical burst of wind behind itself that propels it, and the creature strapped into it, up to 80 feet in the direction that it is facing. This ability may be used up to 3 times before the kite runs out of magical energy. The kite regains 1 use of this ability every 12 hours that it is not used.
 

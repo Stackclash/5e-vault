@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Inkbeetle
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Clockwork-Inkbeetle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This minuscule, mechanical beetle is 1 inch long and quietly whirs with a mix of magical and mechanical forces. Placing the beetle on a piece of parchment you hold or carry causes it to spring to life and begin tracking your travels. As you move, so does the beetle: leaving behind a small line of ink. The ink immediately dries and doesn't dissolve in water. In addition, the beetle's small frame allows it to move even while enclosed in a book or similar enclosure without losing its sense of movement or direction.
 

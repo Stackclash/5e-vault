@@ -16,6 +16,9 @@ rarity: artifact
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Armor of the Gnoll Lord
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), cursed item, artifact (requires attunement)*  
@@ -23,6 +26,9 @@ subtype:
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 13.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The savagery of the gnolls is undeniable. So vicious and brutal are they, that they even dream of one day tearing into and dismembering the body of [[/4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]], their own patron deity. Among the most powerful of the gnolls is the myth of a suit of armor crafted from the tanned hide of the Gnoll Lord himself, the gristle and blood soaking into their own skin and giving them demonic power. Far from being disgusted by his followers' brutal veneration, [[/4. World Almanac/NPCs/Yeenoghu (MPMM).md\|Yeenoghu]] actually welcomes them to try; it simply means more prey for him to devour.
 

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Gusting Blowgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 25/100
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic, twisting blowgun channels the air around it to create powerful blasts of wind. When you hit with a ranged attack using this weapon, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) bludgeoning damage, and if the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or be pushed 5 feet away from you. Attacking at long range with this weapon doesn't impose disadvantage on your ranged attack rolls with it.
 

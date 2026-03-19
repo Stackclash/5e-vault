@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Dragon Katana
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), rare*  
@@ -29,6 +32,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shimmering silver katana is always cold to the touch, and a flurry of snow and ice trails behind it whenever it's swung. This sword has the finesse property, and when you hit with an attack using it, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) cold damage.
 

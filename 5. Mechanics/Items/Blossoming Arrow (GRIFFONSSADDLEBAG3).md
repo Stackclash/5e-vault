@@ -16,12 +16,18 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Blossoming Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blossoming-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This twig-like arrow is fletched with split leaves and dotted with tiny blossoms. Its point is a complicated, bulb-like mass, which seems to cover a collection of strange glowing pustules at its center.
 

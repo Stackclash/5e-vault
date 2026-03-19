@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: long-rest
 ---
 # Bloody Marilith (Common)
 *Potion, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bloody-Marilith.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The typical [[/5. Mechanics/Items/Bloody Marilith (GRIFFONSSADDLEBAG2).md\|bloody marilith]], a common potion, is a specialty alcoholic beverage that fills your body with reactive energy. For 1 minute after drinking this potion, you can use a reaction even if you've already taken one since the end of your last turn. Once you take this reaction, the potion's effect ends. The potion is a deep crimson color with a thick consistency that vibrates softly within its bottle, sending ripples along its surface. It smells and tastes of freshly ground pepper, hot spices, and faintly sour tomato juice. Due to its magical nature, the alcohol within this potion affects a creature twice as much as the alcohol within a nonmagical beverage.
 

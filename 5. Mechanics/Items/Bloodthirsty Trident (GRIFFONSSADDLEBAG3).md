@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodthirsty Trident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, uncommon*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This vicious-looking trident is lashed together with nets, leather straps, and bloodied shark bones. When you throw this weapon underwater, it magically swims back to your hand immediately after the attack.
 

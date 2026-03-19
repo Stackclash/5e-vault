@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Leatherbeard
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Leatherbeard.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather mask sits over your mouth and chin and can be worn or removed using an action. While wearing the mask, you grow an illusory beard. You choose the color and style of the beard each time you wear the mask. The beard can be up to 2 feet long. A DC 10 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check reveals the beard is an illusion.
 

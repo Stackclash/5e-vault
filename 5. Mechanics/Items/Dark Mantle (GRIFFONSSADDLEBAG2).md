@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dark Mantle
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dark-Mantle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leathery cloak is made from the remains of a darkmantle. While wearing it, climbing doesn't cost you extra movement, and you have advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check made to climb.
 

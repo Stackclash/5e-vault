@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Mourningsteel Demi-Gauntlets
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Mourningsteel-Demi-Gauntlets.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of dark, open-fingered gauntlets are made from mourningsteel, a metal whose ore has been steeped in the blood of countless fallen creatures. While wearing the gauntlets, you have resistance to necrotic damage.
 

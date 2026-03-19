@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Moving Performances
 *Scroll, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-Moving-Performances.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 By using an action to read the mysterious lyrics on this scroll aloud, your words transform into a magical, enchanting song. You can continue to sing from the scroll as an action on each of your following turns for up to 5 minutes. If you sing for at least 1 minute, you gain a +5 bonus to any Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check you make to sing using the scroll, or a +10 bonus if you sing for the scroll's full duration.
 

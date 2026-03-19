@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horatio's Impossible Ship in a Bottle
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Horatios-Impossible-Ship-in-a-Bottle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sea-tumbled glass bottle has a miniature sailing ship assembled inside it. The bottle weighs 1 pound and is magically sealed with red wax. Despite there being no wind in the bottle, the vessel's sails seemingly billow and turn on their own.
 

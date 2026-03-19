@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Goggles of Night
 *Wondrous item, minor, uncommon*  
 ![[/5. Mechanics/Items/img/goggles-of-night.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing these dark lenses, you have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 60 feet. If you already have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]], wearing the goggles increases its range by 60 feet.
 

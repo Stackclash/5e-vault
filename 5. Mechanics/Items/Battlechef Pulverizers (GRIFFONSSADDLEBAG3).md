@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battlechef Pulverizers
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Battlechef-Pulverizers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of brass knuckles resemble meat tenderizers and smell like blood, butter, salt, and caramelized onions. If you use the knuckles to prepare a meat dish, the food is magically tender and perfectly seasoned to taste.
 

@@ -13,11 +13,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of the Space Worm
 *Potion, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you temporarily gain an other-dimensional awareness of reality, as if the secrets of the universe have been laid bare before you. For the next hour, you have the following benefits:
 

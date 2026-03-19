@@ -13,12 +13,18 @@ weight: 1
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Gem of Seeing
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/gem-of-seeing.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gem has 3 charges. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] out to 120 feet when you peer through the gem.
 

@@ -15,6 +15,9 @@ attunement: true
 attunement-requirement:
   - wizard
 rarity: very-rare
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Aegis Grimoire
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), very rare (requires attunement by a wizard)*  
@@ -22,6 +25,9 @@ rarity: very-rare
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather shield looks like a leather-bound book with brass fixtures. You're considered proficient with this shield while you're attuned to it. The shield has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn.
 

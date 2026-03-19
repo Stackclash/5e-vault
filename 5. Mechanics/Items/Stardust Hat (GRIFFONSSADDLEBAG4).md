@@ -14,11 +14,17 @@ attunement-requirement:
   - warlock
   - wizard
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stardust Hat
 *Wondrous item, uncommon (requires attunement by a druid, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Stardust-Hat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wizard's hat is split into a starburst pattern along the bottom. Small star pendants hang from each of its points. While wearing this hat, you always know which direction is north. At night, you can't become lost by nonmagical means, provided you can see the sky.
 

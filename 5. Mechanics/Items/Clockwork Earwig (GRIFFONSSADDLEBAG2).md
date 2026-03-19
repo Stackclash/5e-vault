@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Earwig
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Clockwork-Earwig.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 1-inch-long, copper mechanism magically coils around and clasps to the side of your ear, fitting as a functional ear cuff. It can be worn or removed using an action. When worn in this way, the mechanism can magically process any sound you hear, granting you the following benefits:
 

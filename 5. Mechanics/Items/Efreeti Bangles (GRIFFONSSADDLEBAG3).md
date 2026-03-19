@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Efreeti Bangles
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Efreeti-Bangles.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing these iron and brass bangles, you can use a bonus action to speak their command word to cause your arms to become ensconced in flames. The flames shed bright light in a 40-foot radius and dim light for an additional 40 feet, and last until you use a bonus action to speak the command word again, or until you drop to 0 hit points or die. The flames are harmless to you.
 

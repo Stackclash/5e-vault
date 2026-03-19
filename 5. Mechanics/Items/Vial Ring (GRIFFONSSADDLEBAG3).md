@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vial Ring
 *Ring, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Vial-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring is made of glass and has a cork stopper at its top like a set gemstone. You can unstopper the ring (no action required) to magically transform it into a small glass vial. The vial holds up to 1 ounce of liquid. The mouth of the vial and ring are both a half inch wide, allowing the cork to remain the same size even when the ring is transformed. When the vial is stoppered, it magically returns to its ring form. Anything contained by the vial magically fits within the ring while it's transformed.
 

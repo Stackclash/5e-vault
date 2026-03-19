@@ -14,11 +14,17 @@ attunement-requirement:
   - creature missing an arm
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Guardian's Reliquary
 *Wondrous item, major, legendary (requires attunement by a creature missing an arm)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Guardians-Reliquary.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ornate prosthetic arm is a reliquary set with glass windows, revealing the suspended skeletal hand and arm of a saint devoted to protecting others. The prosthesis attaches to your arm at the elbow or the shoulder, and it can't be removed against your will as long as you're attuned to it. To attune to this item, you must hold it against your arm for the entire attunement period. While attuned to the prosthesis, you can use an action to remove or reattach it. The prosthetic is a fully capable part of your body.
 

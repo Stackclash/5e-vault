@@ -14,11 +14,17 @@ attunement-requirement:
   - wizard
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hat of Osnomnosis
 *Wondrous item, minor, common (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hat-of-Osnomnosis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This colorful, frumpy hat contains the animated and sentient spirit of a wizard's old pet. While unworn and immobile, it is indistinguishable from a normal hat. When the hat is worn and spoken to or otherwise interacted with, it springs to life and pulls its seams apart to form a stitch-ridden mouth and toothless smile.
 

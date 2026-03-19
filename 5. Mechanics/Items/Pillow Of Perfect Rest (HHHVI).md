@@ -9,11 +9,17 @@ aliases:
   - Pillow of Perfect Rest
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Pillow of Perfect Rest
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pillow is stuffed with couatl feathers and is extraordinarily soft and comfortable. A creature sleeping on this pillow only has good dreams and only requires half their usual sleeping time in order to feel properly rested (the length of a long rest is unaffected though).
 

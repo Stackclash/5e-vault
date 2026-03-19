@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Scepter of Rot and Decay
 *Staff, weapon, cursed item, artifact (requires attunement by a spellcaster)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 In one of the many doomsday prophecies thrown around by the demonology cultists, the main focus is on a single splinter that embeds itself in the World Tree. This mottled-grey splinter is topped with sickly, black fungus caps that spread noxious spores through the tree's systems, infecting it and starting a chain of events that will lead to the collapse of all life in the multiverse. This splinter is the Scepter of Rot and Decay, an artifact crafted from the stem of the Demon Lord [[/4. World Almanac/NPCs/Zuggtmoy (MPMM).md\|Zuggtmoy]]. Many of her deranged cultists believe that this is her ultimate end goal; once she has built up her army of devoted fungus thralls, she will allow her body to be transformed into this scepter and then ultimately conquer all animal and plant life everywhere. We can only hope that this prophecy remains the simple deranged ranting of demon-afflicted madmen.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Winter Ward
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Winter-Ward.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This warm ushanka bears the symbol of a clan of winter wolves, made as a gift to a hunter who aided them against an invasion of giants. While wearing the hat, you gain resistance to cold damage. In addition, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on hearing or smell and on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in snowy terrain. You can speak and understand Winter Wolf, and you have advantage on Charisma checks made to interact with winter wolves.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Great Owl's Crown
 *Wondrous item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Great-Owls-Crown.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to Wisdom checks and Wisdom saving throws while wearing this crown, and you can understand and speak to owls and owlbears.
 

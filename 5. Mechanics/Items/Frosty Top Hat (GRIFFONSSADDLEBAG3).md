@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frosty Top Hat
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Frosty-Top-Hat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A light dusting of snow covers the brim of this bent and beaten top hat. While wearing it, you can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection.
 

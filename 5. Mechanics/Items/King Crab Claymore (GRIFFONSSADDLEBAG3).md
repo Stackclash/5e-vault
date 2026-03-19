@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # King Crab Claymore
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon. While you're attuned to the weapon, crabs and giant crabs are indifferent toward you and will not attack you unless you threaten or harm them. In addition, crabs and giant crabs understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on ability checks you make to influence or interact with crabs.
 

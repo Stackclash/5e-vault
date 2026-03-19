@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Keycoin
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Keycoin.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass coin is 1 inch in diameter and has a keyhole-shaped hole at its center. You can use an action to insert the coin into a keyhole within your reach, causing the door to magically unlock. The coin disappears once it enters the keyhole, even if the door was already unlocked. The coin magically shrinks to fit a smaller keyhole.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Book of Instant Copying
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Book-of-Instant-Copying.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This book has a glass cover and is typically found with `dice:2d10+30|noform|noparens|avg` (`2d10 + 30`) blank pages. As an action, you can place a piece of paper or similar object (such as a leaf or patterned fabric) between the book's glass and the page below it and speak the book's command word. When you do, the book magically inscribes an image of the placed object in black ink as it appears pressed against the glass on the first blank page of the book.
 

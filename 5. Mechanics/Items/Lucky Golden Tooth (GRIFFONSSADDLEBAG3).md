@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lucky Golden Tooth
 *Wondrous item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Lucky-Golden-Tooth.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden tooth fits snuggly in your mouth, making space for itself as if it had grown there naturally. If you're missing a tooth, it takes its place and changes shape to match the original one's. Even if you're not attuned to the tooth, you can use its following properties.
 

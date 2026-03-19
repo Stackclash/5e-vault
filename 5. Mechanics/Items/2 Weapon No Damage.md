@@ -15,10 +15,16 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +2 Weapon (no damage)
 *Major, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +2 bonus to attack rolls made with this weapon.
 

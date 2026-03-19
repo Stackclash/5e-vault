@@ -9,11 +9,17 @@ aliases:
   - Stone Soldier
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stone Soldier
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Stone-Soldier.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fist-sized toy is carved from gray stone into the shape of a rugged foot soldier. You can use an action to toss the toy into an unoccupied space that you can see within 10 feet of you and speak its command word. The toy then springs to life and animates, magically growing to the size of a Medium humanoid when it does. The animated toy uses the statistics for a guard, with the following changes:
 

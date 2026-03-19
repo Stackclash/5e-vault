@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightning Khopesh
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bolt-like blade crackles with electric energy. When you hit with an attack using this magic weapon, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage. In addition, the first time you have advantage on an attack roll and miss using this weapon on each of your turns, the target takes `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage as stray sparks leap from the blade to shock the target.
 

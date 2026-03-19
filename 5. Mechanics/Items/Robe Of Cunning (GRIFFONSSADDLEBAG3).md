@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Robe of Cunning
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Robe-of-Cunning.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silken robe is designed in the likeness of a fox. While wearing it, you have advantage on any Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check you make.
 

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Executioner's Mercy
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare (requires attunement by a lawful creature)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heavy blade is inscribed with old tenets of justice and mercy. When you hit a [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] or [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature for the first time on each of your turns with an attack using this magic weapon, it deals an extra 10 force damage, and one creature of your choice that you can see within 10 feet of you gains 10 temporary hit points.
 

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Forest Eye Staff
 *Staff, weapon, uncommon (requires attunement by a druid or ranger)*  
@@ -33,6 +36,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While this staff is on your person, you can't be [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]]. If you're in a forest, jungle, or similarly wooded area, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks while holding the staff, and you can use an action to cast the [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]] spell from it. This spell can't be cast from the staff again until the next dawn.
 

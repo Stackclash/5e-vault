@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: none
 ---
 # Conspirator's Coat
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Conspirators-Coat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic longcoat is adorned with raven feathers and carved jet buttons. While wearing this coat, you have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) checks. In addition, the coat has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dusk. While wearing the coat, you can use a bonus action to expend 1 of its charges to disappear, releasing up to three ravens from your location under your control that scatter into the air. Each raven has AC 12, 1 hit point, and can fly up to 40 feet as part of this bonus action without provoking opportunity attacks. At the start of your next turn, the ravens vanish, and you reappear in the space of one of the ravens (your choice).
 

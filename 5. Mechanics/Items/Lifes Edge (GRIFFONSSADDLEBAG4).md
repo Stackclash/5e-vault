@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Life's Edge
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement by a paladin)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 At the center of this brilliant, silver sword is a deep groove which leads down to an open gap in its hilt. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Whenever you harness the healing power of your Lay on Hands while holding the weapon, a glimmering sphere of holy light radiates from the center of the blade.
 

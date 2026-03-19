@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Magentan Sun-Saw (Uncommon)
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, uncommon*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The typical [[/5. Mechanics/Items/Magentan Sun Saw (GRIFFONSSADDLEBAG2).md\|magentan sun-saw]], an uncommon item, is a falchion with a curved metal guard that protects your hand. The sword has 7 charges and regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn.
 

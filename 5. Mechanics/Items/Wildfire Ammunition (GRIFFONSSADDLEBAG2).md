@@ -17,11 +17,17 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Wildfire Ammunition
 *Minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wildfire-Ammunition.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ammunition smolders while you hold it, sparking softly with simmering embers. When you use this arrow or bolt to make a ranged weapon attack, it vanishes in a scattering of sparks immediately after it's fired: disappearing into a special extradimensional space without hitting a target. The ammunition's flames burn hotter the longer it remains in this space and can stay there for up to 3 rounds.
 

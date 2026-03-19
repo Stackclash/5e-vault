@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: artifact
 tier: major
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Galea of the Soulfire Phoenix
 *Wondrous item, major, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Galea-of-the-Soulfire-Phoenix.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical helmet once belonged to the Soulfire Phoenix Fara, a paragon to the citizens of the Elemental Plane of Fire who led her people to victory during the Savrayan Wars. While some believe that her ferocity and heroism were a result of [[/5. Mechanics/Bestiary/Elemental/Phoenix (MPMM).md\|phoenix]] blood running through her veins, others claim that a hero will always rise from the ashes when the time is right.
 

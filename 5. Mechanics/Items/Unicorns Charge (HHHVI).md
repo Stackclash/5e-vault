@@ -21,10 +21,16 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Unicorn's Charge
 *Rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 to attack and damage rolls made with this weapon. If you are a good-aligned character, when you hit a creature with this weapon, you may deal an additional `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage in addition to the weapon's damage.
 

@@ -21,12 +21,18 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Black Hole
 *Major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Black-Hole.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This black longsword has a pulsating, cosmic void at its center. The void is a tiny shred of a [[/5. Mechanics/Items/Sphere Of Annihilation.md\|sphere of annihilation]], which only functions to grant this weapon its various properties.
 

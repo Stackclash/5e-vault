@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of Comprehending Languages
 *Wondrous item, minor, uncommon*  
 ![[/5. Mechanics/Items/img/helm-of-comprehending-languages.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helm, you can use an action to cast the [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] spell from it at will.
 

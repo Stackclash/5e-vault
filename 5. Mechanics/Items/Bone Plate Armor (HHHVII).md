@@ -18,6 +18,9 @@ rarity: none
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bone Plate Armor
 *Heavy armor*  
@@ -28,6 +31,9 @@ subtype:
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: 1,500 gp
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Bone** plate consists of shaped, interlocking **bone** plates to cover the entire body. A suit of bone plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 

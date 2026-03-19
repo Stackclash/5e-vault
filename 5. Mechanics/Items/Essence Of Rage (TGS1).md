@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Essence of Rage
 *Potion, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Essence-of-Rage.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This swirling potion tastes like iron and bitter raisins. When you drink this potion, you enter a [rage](/compendium/classes/barbarian.md#Rage%20(Level%201)) that lasts for 1 minute or until you're knocked unconscious. This rage grants you the same effects as the barbarian's class feature at 1st level with the following additional properties:
 

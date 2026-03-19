@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Sliver
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slim blade was forged using strange, unearthly metals from a meteorite. When you use an action to toss this magic dagger into the air, it orbits your body at a distance of `dice:1d3|noform|noparens|avg` (`1d3`) feet. Another creature can use an action to grasp the dagger to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check. You can use an action to seize and either wield or stow the dagger.
 

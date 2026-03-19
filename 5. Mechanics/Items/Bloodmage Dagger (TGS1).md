@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: none
 ---
 # Bloodmage Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement by a spellcaster)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 40/80
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This roughly hewn obsidian dagger is razor sharp and can be used as a spellcasting focus. Its handle is covered in small holes that drink in whatever blood runs down the blade. There's a small reservoir for blood at the dagger's pommel that seems to never completely fill. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Miraculous Mail
 *Scroll, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-Miraculous-Mail.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This scroll of parchment is completely blank except for a small eye-shaped stamp in its corner. When held up to the light, instructions for using the scroll can be read hidden within the paper, which also include its unique command word. You can use an action to speak the scroll's command word, followed by the name of a person or place with which you're familiar on the same plane of existence as you. The scroll then folds itself into a perfect, self-containing envelope with a red wax seal, complete with the eye's shape pressed into it. Anything other than the scroll falls out of the envelope when it folds itself, and any magical effects on it (other than the scroll's normal ones) are also lost.
 

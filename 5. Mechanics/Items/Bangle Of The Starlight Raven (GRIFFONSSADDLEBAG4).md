@@ -10,11 +10,17 @@ aliases:
   - Bangle of the Starlight Raven
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 7
+item_recharge: none
 ---
 # Bangle of the Starlight Raven
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Bangle-of-the-Starlight-Raven.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver bangle feels almost cool or wet to the touch. Pressing its tail feathers inward causes its wings to unfurl, allowing you to place the bangle on your wrist or remove it. While wearing the bangle, gravity pulls more loosely against you: your weight is halved, and your normal jumping distance is doubled. While wearing it between dusk and dawn, you're also under the effects of the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell.
 

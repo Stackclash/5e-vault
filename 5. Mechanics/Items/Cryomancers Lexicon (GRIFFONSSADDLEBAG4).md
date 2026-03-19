@@ -12,11 +12,17 @@ attunement: true
 attunement-requirement:
   - wizard
 rarity: very-rare
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Cryomancer's Lexicon
 *Wondrous item, very rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Cryomancers-Lexicon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This thick book is bound with white leather and is freezing cold to the touch. This book can be used as a spellbook and contains the following spells, which are wizard spells for you while you're attuned to the book: [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[/5. Mechanics/Spells/Otilukes Freezing Sphere.md\|freezing sphere]], [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (cold damage only), [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]], and [[/5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]].
 

@@ -15,10 +15,16 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Clairvoyance
 *Potion, minor, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you gain the effect of the [[/5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
 

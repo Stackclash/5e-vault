@@ -9,11 +9,17 @@ aliases:
   - Basin of Water Control
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Basin of Water Control
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This stone basin measures 1 foot in diameter. If you fill this basin with a sample of water from a source of water that has a radius of less than half a mile, this basin gains a connection to that source of water for 1 hour. A source of water may include a river, a pond, or even a barrel or pitcher. If the source of water is larger than half a mile in radius, this basin has a connection only to the water in a half-mile radius of the point from which you gathered the water.
 

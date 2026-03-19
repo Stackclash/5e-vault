@@ -16,11 +16,17 @@ rarity: varies
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Wand
 *Wand (requires attunement by a spellcaster)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this wand, you gain a bonus to spell attack rolls determined by the wand rarity. In addition, you have advantage on any spell attack roll you make that deals the same damage type as the dragon this wand was crafted from.
 

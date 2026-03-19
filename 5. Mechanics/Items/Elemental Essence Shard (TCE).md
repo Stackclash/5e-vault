@@ -13,11 +13,17 @@ attunement: true
 attunement-requirement:
   - sorcerer
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elemental Essence Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crackling crystal contains the essence of an elemental plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.
 

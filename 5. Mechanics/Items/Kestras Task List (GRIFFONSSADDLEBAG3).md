@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Kestra's Task List
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Kestras-Task-List.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When found, this small pad of paper has `dice:2d10|noform|noparens|avg` (`2d10`) sheets remaining. Each sheet has three checkboxes next to lines on which to write.
 

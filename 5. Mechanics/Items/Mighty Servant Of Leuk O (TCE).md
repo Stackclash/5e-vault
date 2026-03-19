@@ -10,11 +10,17 @@ aliases:
   - Mighty Servant of Leuk-o
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Mighty Servant of Leuk-o
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/mighty-servant-of-leuk-o.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Named for the warlord who infamously employed it, the [[/5. Mechanics/Bestiary/Construct/Mighty Servant Of Leuk O (TCE).md\|Mighty Servant of Leuk-o]] is a fantastically powerful, 10-foot-tall machine that turns into an animate construct when piloted. Crafted of a gleaming black alloy of unknown origin, the servant is often described as a combination of a disproportioned dwarf and an oversized beetle. The servant contains enough space for 1 ton of cargo and a crew compartment within, from which up to two Medium creatures can control it-and potentially execute a spree of unstoppable destruction.
 

@@ -27,6 +27,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 15
+item_recharge: dawn
 ---
 # Royal Incinerator
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, legendary (requires attunement by a druid, sorcerer, warlock, or wizard)*  
@@ -37,6 +40,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crimson and gold staff exudes authority and is always warm to the touch. While held, a mote of harmless fire sparks into life and floats above its crownlike head.
 

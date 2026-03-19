@@ -12,11 +12,17 @@ attunement: true
 attunement-requirement:
   - spellcaster
 rarity: very-rare
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Helm of the Dark Reach
 *Wondrous item, very rare (requires attunement by a spellcaster)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The spatial bending essence trapped in this helm imparts your magic with extra abilities. This helm has 6 charges. Whenever you cast a spell that targets only one creature and uses an attack roll, you may expend a charge to add any of the following effects to the results of your successful hit:
 

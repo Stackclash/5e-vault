@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of the Frostrose
 *Wand, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-the-Frostrose.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This icy wand has a magical blue rose frozen at its center. The flower is a frostrose: a rare and delicate rose found only in the coldest parts of the Everglacier.
 

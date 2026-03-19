@@ -23,10 +23,16 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonbone Weapon (Adult)
 *Rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a bonus to your attack and damage rolls made with this weapon corresponding to its rarity. In addition, when you roll a 20 on your attack roll with this weapon, the target takes an additional 7 damage corresponding to the damage type of the dragon it was harvested from. Attacks made with this weapon have advantage against any target with the dragon creature type.
 

@@ -15,11 +15,17 @@ tier: major
 type: vehicle
 subtype:
   - land
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hoarder's Haul (Uncommon)
 *Wondrous item, vehicle (land), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hoarders-Haul.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical cart is made from the large, hollow horn of a fallen dragon. While all *hoarder's hauls* are made from the horns of dragons, their true magic stems from the strength of the dragon's greed. Uncommon and rare carts have handles and a single wheel at their front and must be physically moved. Very rare versions have a flying speed of 10 feet, can hover up to 20 feet off the ground, and move according to your spoken directions, provided that you are within 30 feet of the cart.
 

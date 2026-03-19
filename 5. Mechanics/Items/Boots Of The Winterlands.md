@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boots of the Winterlands
 *Wondrous item, major, uncommon (requires attunement)*  
 ![[/5. Mechanics/Items/img/boots-of-the-winterlands.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
 

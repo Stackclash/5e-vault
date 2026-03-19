@@ -16,12 +16,18 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Wretched Ring
 *Ring, cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wretched-Ring.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring is carved from blackened bone. The first time you touch it, you can momentarily hear the wails of countless lost souls. You have resistance to necrotic damage and can use the following properties while wearing the ring.
 

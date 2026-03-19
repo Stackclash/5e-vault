@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Nature's Growth
 *Potion, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Potion-of-Natures-Growth.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The muddy slurry at the bottom of this green potion bottle is filled with plant-growing magic. The bottle itself is in the shape of an upside-down tree, with its canopy creating the rounded base of the vessel. You can use an action to either drink the potion or upend it, pouring it onto soil.
 

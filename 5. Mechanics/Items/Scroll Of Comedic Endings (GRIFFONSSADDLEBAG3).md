@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Comedic Endings
 *Scroll, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-Comedic-Endings.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This scroll has been carelessly flattened, folded, and scrawled on with childlike scribbles. In doing so, some of its original scripts and diagrams have been covered or replaced, and a large anvil has been proudly drawn at its center. A creature investigating the scroll can make a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check. On a success, it determines that, while the scroll's original spell is no longer usable, its magic has merely been changed.
 

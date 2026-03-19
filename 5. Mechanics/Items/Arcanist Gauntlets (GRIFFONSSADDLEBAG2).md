@@ -14,11 +14,17 @@ attunement-requirement:
   - spellcaster
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arcanist Gauntlets
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Arcanist-Gauntlets.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of rich silk gloves is guarded by an enchanted mithral shell that sporadically releases arcane power. You can use the gauntlets as a spellcasting focus while wearing them, and when you cast a spell using a spell slot of 5th level or lower, you can choose to roll a `dice:d6|noform|noparens|avg` (`d6`). If you roll a number on the d6 equal to or greater than the spell's slot level, the spell draws on the magic within the gauntlets, instead of your own, and is cast without expending a spell slot. The slot must be of a level you can normally cast. The gauntlets can provide up to 5 levels worth of spell slots in this way each day, and no two slots can be the same level.
 

@@ -13,10 +13,16 @@ rarity: varies
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Healing (*)
 *Potion*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 > [!note]
 > * This item group has the same name and source as the item [[/5. Mechanics/Items/Potion Of Healing.md\|potion of healing]].

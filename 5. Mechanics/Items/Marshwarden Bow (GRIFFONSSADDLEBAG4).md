@@ -21,11 +21,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Marshwarden Bow
 *Rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Marshwarden-bow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bow is made of twisted cypress roots and covered in long, stringy moss. The bowstring is always slick with water. Nonmagical arrows fired from this bow deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) acid or poison damage on a hit (your choice each time). When you're in a forest or swamp and are hidden from a creature, missing with an attack against it doesn't reveal your position.
 

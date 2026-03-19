@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Midnight Dragon's Ichor Candle
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Midnight-Dragons-Ichor-Candle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This candle magically invigorates those who smell it. It comes in a special cup, which features a draconic handle breathing fire. You can use an action to light the candle while holding the cup. Doing so doesn't require any means of lighting a fire: instead, the candle glows from within, as if harboring a hidden flame, before it sputters alight. The candle has 1 hour of burn time, and can't be extinguished once lit. As the wax runs down the candle and onto the rim of the cup, it bubbles and hisses like boiling water.
 

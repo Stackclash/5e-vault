@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Thomas's Dimensional Trousers
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Thomas%27-Dimensional-Trousers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flashy set of pants has four pockets that each lead to a special, extradimensional space. Each pocket is six inches wide at the mouth and can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The pants always weigh 1 pound, regardless of their contents.
 

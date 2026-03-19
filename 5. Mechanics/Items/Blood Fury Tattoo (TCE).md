@@ -14,10 +14,16 @@ rarity: legendary
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Blood Fury Tattoo
 *Wondrous item (tattoo), legendary (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Produced by a special needle, this magic tattoo evokes fury in its form and colors.
 

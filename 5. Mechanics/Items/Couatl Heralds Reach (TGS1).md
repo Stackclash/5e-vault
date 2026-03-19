@@ -23,11 +23,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Couatl Herald's Reach
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Couatl-Heralds-Reach.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden bow is carved to resemble a mighty [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]]. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bow has 4 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) expended charges daily at dawn. When you make a ranged attack against a Large or smaller creature with the bow, you can choose a limb to target and expend 1 of the bow's charges as part of the attack. If the attack hits, the weapon's damage becomes radiant, and the creature is forced to make a DC 15 Dexterity saving throw. On a failed save, that creature's targeted limb is pinned by radiant tethers of magic: holding it to its body or an adjacent surface (if any) for up to 1 minute.
 

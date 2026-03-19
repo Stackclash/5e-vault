@@ -14,11 +14,17 @@ attunement-requirement:
   - monk
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bracers of Spell Reflection
 *Wondrous item, major, very rare (requires attunement by a monk)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bracers-of-Spell-Reflection.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing these mirrored bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield. In addition, you have advantage on saving throws against spells.
 

@@ -9,11 +9,17 @@ aliases:
   - Volcanic Ocarina
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Volcanic Ocarina
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Volcanic-Ocarina.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This stone ocarina is always hot to the touch. When playing it, harmless molten rock spews upward from any uncovered finger hole.
 

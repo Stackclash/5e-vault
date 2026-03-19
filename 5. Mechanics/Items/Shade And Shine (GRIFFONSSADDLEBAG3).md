@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Shade and Shine
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, legendary (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These two axes are magically bound and count as a single magic item with regard to the number of magic items you can attune to. You gain a +2 bonus to attack and damage rolls made with these magic weapons, which return to your open hand after you make a ranged attack with them. If the two axes are separated and you are holding one of them, you can use a bonus action to cause the other one to teleport and reappear in your open hand or at your feet (your choice each time).
 

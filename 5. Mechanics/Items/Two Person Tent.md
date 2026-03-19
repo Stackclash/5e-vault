@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Two-Person Tent
 *Adventuring gear*  
 
 - **Cost**: 2 gp
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A simple and portable canvas shelter, a tent sleeps two.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blast Ooze
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blast-Ooze.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A blast ooze is a 4-inch slab of ooze from a gelatinous cube that's been subjected to volatile alchemy. You can place the ooze on a solid surface using an action; it then sticks to that surface and remains there until a creature within reach of the ooze uses an action to remove it. If the target surface is a hostile creature or an object that's being worn or carried by one, you must make a Dexterity check contested by the creature's Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check. You add your proficiency bonus to this check, and you succeed automatically if the target is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. On a success, you place the ooze on the target.
 

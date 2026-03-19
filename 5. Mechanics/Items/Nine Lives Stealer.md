@@ -25,11 +25,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nine Lives Stealer
 *Major, very rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/nine-lives-stealer.webp#right\|Nine Lives Stealer (Greatsword)]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ogramau's Glass Eye
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ogramaus-Glass-Eye.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass eye has an oozy sheen and seems to be filled with a smoky, viscous liquid inside. Spinning the eye causes the dark liquid to billow within it. It functions like a normal eye while it's in your socket, even if you aren't attuned to it. While using the glass eye in this way, any tears that come from that socket are magically turned black.
 

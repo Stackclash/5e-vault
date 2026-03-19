@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Harp of Valor
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, very rare (requires attunement by a bard)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 80/320
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This elegant bow has 10 strings and can also be used as both a harp and spellcasting focus. You are proficient with this harp while attuned to the weapon, and Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) checks made using the harp are made with advantage. You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, arrows fired from the bow deal thunder damage instead of piercing.
 

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glaive of the Forest Guardian
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The blade of this weapon is made of clear green crystal, and has decorative vines and flora wrapping around its metallic haft. While the weapon is on your person, You have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], and magic can't put you to sleep. If you're a fey or have the Fey Ancestry trait, you can use an action to cast the [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]] spell from the weapon while you're holding it. Once the glaive has been used to cast this spell, it can't do so again until the next dawn.
 

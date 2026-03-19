@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: none
 ---
 # Staff of the Iron Cauldron
 *Staff, weapon, major, very rare (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This iron staff has a thorny cauldron mounted at its head, which belches a noxious fume from its mouth. Grass and similarly Tiny mundane plants wither when its twisted end is planted on them. This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it, and it is always under the effects of the [[/5. Mechanics/Spells/Shillelagh.md\|shillelagh]] spell.
 

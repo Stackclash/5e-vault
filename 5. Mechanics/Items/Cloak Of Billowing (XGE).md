@@ -11,10 +11,16 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of Billowing
 *Wondrous item, minor, common*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this cloak, you can use a bonus action to make it billow dramatically.
 

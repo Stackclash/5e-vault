@@ -16,12 +16,18 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Blazeblood Signet
 *Ring, cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blazeblood-Signet.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The gem at the center of this dark silver ring is always warm to the touch. While wearing the ring, your blood feels unnaturally hot, and it feels as though the ring itself pulses to match your heartbeat. You gain the following benefits while wearing this ring:
 

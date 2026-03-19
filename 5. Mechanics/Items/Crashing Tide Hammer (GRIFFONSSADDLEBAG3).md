@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crashing Tide Hammer
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Crashing-Tide-Hammer.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item takes the form of a metal rod with a slightly weighted, porous end. While grasping the rod, you can use a bonus action to cause a hammer head of swirling salt water to gush forth from the rod and spring into existence. You can use another bonus action while holding it to make the hammer's head disappear. While the hammer's head is summoned, it gains the following properties.
 

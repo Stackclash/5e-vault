@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ball of Wild Earth
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ball-of-Wild-Earth.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This Tiny, sentient pebble is covered in dirt and is likely a remnant of a [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] earth elemental. It rolls about on its own in search of new and unique sources of dirt. When it finds a patch of particularly rich soil, the ball rolls around in it to incorporate the dirt into its form. The ball carries captured moisture inside itself, allowing it to make its form either dusty or clay-like in texture, as well as hard or soft to the touch. A friendly ball of wild earth can magically reshape the dirt it's covered in to form a variety of shapes at will, such as a tiny figurine or a large die, provided that the dirt continues to cover the pebble at its center by doing so.
 

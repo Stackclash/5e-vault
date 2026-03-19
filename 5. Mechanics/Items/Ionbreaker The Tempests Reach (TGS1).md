@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ionbreaker, the Tempest's Reach
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, artifact (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bow was crafted by a powerful [[/5. Mechanics/Bestiary/Elemental/Djinni.md\|djinni]] in the Stormheart: a perpetual maelstrom of wind and electricity in the Elemental Plane of Air. Lost to time, it has remained in the storm for untold centuries absorbing the volatile magic that runs rampant there. You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 

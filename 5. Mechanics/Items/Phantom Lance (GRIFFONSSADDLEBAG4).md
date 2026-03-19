@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Phantom Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), very rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 1d12 force
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lance becomes shrouded in ghostly energy whenever it's thrust. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals force damage instead of piercing damage. While the lance is on your person, you can cast the [[/5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] spell from it, but only as a ritual.
 

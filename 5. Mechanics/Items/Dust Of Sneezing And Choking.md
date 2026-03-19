@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dust of Sneezing and Choking
 *Wondrous item, minor, uncommon*  
 ![[/5. Mechanics/Items/img/dust-of-sneezing-and-choking.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Found in a small container, this powder resembles very fine sand. It appears to be [[/5. Mechanics/Items/Dust Of Disappearance.md\|dust of disappearance]], and an [[/5. Mechanics/Spells/Identify.md\|identify]] spell reveals it to be such. There is enough of it for one use.
 

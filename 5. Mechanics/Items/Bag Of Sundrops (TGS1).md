@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Sundrops
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Bag-of-Sundrops.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small, colorful bag is filled with `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) golden, marble-like orbs called sundrops that glow softly when held. As an action, you can throw a sundrop at a point or object you can see within 30 feet. When you do, the orb explodes into a dazzling pillar of light that lasts until the start of your next turn. The pillar is a 5-foot-radius, 40-foot-high cylinder of bright light centered on the point where the sundrop shattered. The light is sunlight.
 

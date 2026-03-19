@@ -24,11 +24,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Slayer
 *Major, rare*  
 ![[/5. Mechanics/Items/img/dragon-slayer.webp#right\|Dragon Slayer (Greatsword)]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

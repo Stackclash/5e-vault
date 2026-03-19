@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Spoken Letter
 *Scroll, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Spoken-Letter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This scroll resembles a normal sheet of parchment, but magically prevents anything from being written or marked on it. Instead, while holding the scroll, you can speak aloud to record the words you speak onto the parchment, which appear as a neatly written script. Only one side of the parchment can be filled in this way: typically no more than 250 words or 1 minute's worth of speaking. When you're finished with the recording and release the parchment, it magically folds and seals itself into a self-containing envelope. Once a message has been recorded, it can't be replaced with a new one. You also decide what triggers the scroll to relay the recording, as well as what happens to it afterwards.
 

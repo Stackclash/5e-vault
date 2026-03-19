@@ -10,12 +10,18 @@ aliases:
   - Helm of the Cryptkeeper
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Cryptkeeper
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/HelmoftheCryptkeeper.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helm, you may spend your action to target one undead creature you can see within 30 feet of you that has an Intelligence score of less than 10. That undead creature must succeed on a DC 14 Wisdom saving throw or become your servant for 1 minute. While an undead creature is your servant, you may issue simple commands to them while you are conscious through a telepathic link you share (no action required), so long as you are both on the same plane of existence. A simple command is a general course of action such as "Attack that creature", "Run over there", or "Fetch that object". If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
 

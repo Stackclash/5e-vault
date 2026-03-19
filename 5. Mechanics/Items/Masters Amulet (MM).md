@@ -13,9 +13,15 @@ rarity: unknown\Magic
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Master's Amulet
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Every [[/5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
 

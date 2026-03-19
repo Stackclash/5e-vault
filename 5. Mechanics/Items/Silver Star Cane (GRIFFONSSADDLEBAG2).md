@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Star Cane
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), minor, common*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic rapier is indistinguishable from a cane while stowed in its leather-wrapped wooden sheath. You can press a button on top of the cane to extend its handle upward (no action required), revealing a more comfortable grip with which to wield it. The rapier is adorned with eight pearls in the form of a heavenly constellation. When you draw the weapon, the pearls shed bright light in a line 5 feet long and 1 inch wide until the end of your turn. The line always points north.
 

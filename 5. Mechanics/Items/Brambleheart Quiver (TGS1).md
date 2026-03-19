@@ -19,12 +19,18 @@ tier: major
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Brambleheart Quiver
 *Wondrous item, adventuring gear, major, very rare (requires attunement by a ranger)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Brambleheart-Quiver.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden quiver can carry your arrows as well as provide some of its own. The quiver has 4 grown arrows and regrows `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) picked arrows daily at dawn. The grown arrows are thorned and remain attached to the quiver until picked for use (no action required). While you're attuned to the quiver, you gain a +2 bonus to attack and damage rolls made with these magic arrows. A grown arrow is no longer magical after 1 minute has passed since it was first picked from the quiver.
 

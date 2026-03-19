@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: long-rest
 ---
 # Sream's Stoppered Oasis
 *Potion, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Sreams-Stoppered-Oasis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tall decanter is filled with water from a miraculous oasis in the H'rethi Desert and is stoppered with a small, overgrown planter. You can pour the water out of the bottle on top of the planter as an action to create a magical oasis that fills up to a 100-foot-square space over the course of 10 minutes.
 

@@ -9,11 +9,17 @@ aliases:
   - Wishing Well Token
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wishing Well Token
 *Wondrous item, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Wishing-Well-Token.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A wishing well token is a coin that has sat at the bottom of a well for a prolonged period of time. For every ten consecutive years that a mundane coin sits in a well, there is a 1 percent chance that at the end of that time, it transforms into a wishing well token.
 

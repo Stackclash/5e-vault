@@ -25,11 +25,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Enervating Crystal Sword
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Enervating-Crystal-Sword.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The blade of this sword is made of a sickly green crystal. It pulses with an unsettling light while held, which sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

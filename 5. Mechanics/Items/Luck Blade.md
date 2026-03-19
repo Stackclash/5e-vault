@@ -25,11 +25,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Luck Blade
 *Major, legendary (requires attunement)*  
 ![[/5. Mechanics/Items/img/luck-blade.webp#right\|Luck Blade (Shortsword)]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
 

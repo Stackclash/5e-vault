@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Webgrip Rucksack
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Webgrip-Rucksack.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This spiderskin bag is lined with a thin layer of adhesive web. Items stored inside the bag are held in place by the web, preventing stored items from clattering around or being removed without your knowledge. While you're wearing the bag, creatures other than you have disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) checks to steal from the bag.
 

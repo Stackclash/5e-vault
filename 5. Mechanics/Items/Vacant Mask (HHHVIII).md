@@ -9,11 +9,17 @@ aliases:
   - Vacant Mask
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vacant Mask
 *Wondrous item, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blank, featureless mask has been formed from the expressionless face of a skulk that has lost all sense of identity. Once you put on this mask, it merges with you, creating an illusion on you that causes your face to seem completely flat and featureless. You retain the ability to see through the illusion however, and your sense of vision is not impaired. This illusion does not hold up to physical inspection, and a creature can discern the nature of the illusion (but not your true identity underneath) by succeeding on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check.
 

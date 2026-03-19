@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rune-Marked Bracers
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Rune-Marked-Bracers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These bracers were made by giant stone carvers and enchanters. Five elemental runes are carved into the sides of this pair of stone bracers, which magically loosen or tighten around your forearms to fit. Each bracer weighs 10 pounds, but they miraculously become weightless once you attune to them. While wearing the bracers, you gain a +1 bonus to AC.
 

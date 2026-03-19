@@ -15,10 +15,16 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Supreme Healing
 *Potion, minor, very rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You regain `dice:10d4+20|noform|noparens|avg` (`10d4 + 20`) hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 

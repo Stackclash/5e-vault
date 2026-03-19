@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Titan Cricket Greaves
 *Wondrous item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Titan-Cricket-Greaves.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These unusual leg braces are crafted from the legs of a giant cricket. While wearing the braces, your long jump is up to 25 feet and your high jump is up to 15 feet, unless it's already higher, with or without a running start. Further, your walking speed increases by 5 feet.
 

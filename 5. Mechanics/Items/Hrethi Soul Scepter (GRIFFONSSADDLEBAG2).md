@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 20
+item_recharge: dawn
 ---
 # H'rethi Soul Scepter
 *Rod, major, legendary (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hrethi-Soul-Scepter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden scepter has an empty basin at its end that's always hot to the touch, as if it had been left out in the sun. While attuned to the rod, you can walk normally on difficult terrain caused by sand and can tolerate temperatures as hot as 200 degrees Fahrenheit.
 

@@ -9,11 +9,17 @@ aliases:
   - Diplomat's Pouch
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Diplomat's Pouch
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/diplomat-pouch.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A letter placed in this pouch, addressed to someone who owns another diplomat's pouch, disappears, and the recipient listed in the letter finds a copy of it in their pouch. A letter can be listed to multiple recipients with a diplomat's pouch.
 

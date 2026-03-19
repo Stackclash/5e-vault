@@ -25,11 +25,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eternal Slayer
 *Major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Eternal-Slayer.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fiery blade was fashioned from the remains of a cursed iron golem and burns with a relentless thirst for vengeance. While holding this sword, flames billow forth and lick up the edge the blade, casting bright light in a 20-foot radius and dim light for an additional 20 feet. While you're in combat, the light's range is doubled.
 

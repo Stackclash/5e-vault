@@ -12,12 +12,18 @@ weight: 0.5
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Beans
 *Wondrous item, minor, rare*  
 ![[/5. Mechanics/Items/img/bag-of-beans.webp#right]]  
 
 - **Weight**: 0.5 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Inside this heavy cloth bag are `dice:3d4|noform|noparens|avg` (`3d4`) dry beans. The bag weighs ½ pound plus ¼ pound for each bean it contains.
 

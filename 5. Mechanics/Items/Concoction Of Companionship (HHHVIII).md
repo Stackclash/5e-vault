@@ -13,11 +13,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Concoction of Companionship
 *Potion, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gray potion is divided into two layers that never mix: a cloudy top half, and a clear bottom half. As an action, you may drink the cloudy half, allowing another creature to drink the clear half. For the next 7 days, whoever drank the cloudy half is considered the "guardian" and the drinker of the clear half is considered the "charge" as both of you gain a psychic connection with one another. If one creature drinks both halves or if no creature drinks the second half within 1 minute of the first, the magic of this potion fades and it becomes useless.
 

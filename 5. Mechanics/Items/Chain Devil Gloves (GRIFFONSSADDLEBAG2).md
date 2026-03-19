@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chain Devil Gloves
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Chain-Devil-Gloves.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These leather gloves are fashioned from the hands of a slain chain devil. While wearing these gloves, an ethereal chain attaches itself to any weapon you throw that has the thrown property. The chain has a reach of 60 feet and breaks its connection to the weapon if the weapon is held by a creature or if you are ever more than 60 feet away from it. You can have up to 4 of these chains at any time.
 

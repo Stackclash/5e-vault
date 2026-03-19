@@ -10,11 +10,17 @@ aliases:
   - Codex Incabulum
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Codex Incabulum
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-incabulum.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The only codex known to be written during the Caelian Empire, the codex incabulum is often incorrectly cited as the cause of the Fall of Azshan. This is a popular guess repeated so often that it has attained the status of fact. Rather, the codex *stopped* the demonic infestation that razed the ruling city of Kham, confining the sea of fiends that erupted from hell and preventing it from spreading across the world. As a result, no contemporaneous accounts of the sack of the city survive, with the popular histories of the event being authored no earlier than 150 years after the event.
 

@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ol' Stumpy
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, uncommon*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lashed-together stump and stick carry an age-old enchantment from an unknown source. Over time, the strength of the magic has faded, but this heirloom of a weapon has remained in caring hands all the while. Creatures hit with this magic weapon take an extra `dice:1d4|noform|noparens|avg` (`1d4`) poison damage. If the creature is fey, you deal maximum poison damage instead of rolling.
 

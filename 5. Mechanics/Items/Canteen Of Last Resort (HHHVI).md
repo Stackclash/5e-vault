@@ -9,11 +9,17 @@ aliases:
   - Canteen of Last Resort
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Canteen of Last Resort
 *Wondrous item, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This canteen resembles a gourd in the shape of an "8", with the bottom sphere smaller than the top, and with two plugged openings on the top and bottom. When fertile soil is left in the top sphere, the canteen slowly extracts usable nutrients from it, which it filters into an edible slime in the bottom sphere.
 

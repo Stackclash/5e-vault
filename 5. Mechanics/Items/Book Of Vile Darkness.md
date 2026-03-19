@@ -11,12 +11,18 @@ aliases:
 weight: 5
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Book of Vile Darkness
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/book-of-vile-darkness.webp#right]]  
 
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The contents of this foul manuscript of ineffable wickedness are the meat and drink of those in evil's thrall. No mortal was meant to know the secrets it contains, knowledge so horrid that to even glimpse the scrawled pages invites madness.
 

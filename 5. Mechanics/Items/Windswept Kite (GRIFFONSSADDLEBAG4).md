@@ -10,12 +10,18 @@ aliases:
 weight: 1
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Windswept Kite
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Windswept-Kite.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blue silk kite is 5 feet across and is attached to a 60-foot string. It weighs 1 pound and can be folded into a 6-inch square. While holding the kite, you can use a bonus action to toss it aloft and speak its command word. When you do, you also choose how much string to let out, between 10 and 60 feet. The kite then expands to its full size (if it was folded) and creates a cylinder of moderate wind of 10 miles per hour, which allows it to continue flying. The cylinder's height and diameter is the same as the amount of let-out string, up to 60 feet. The kite and top of the cylinder remain centered above your location. You can use another bonus action to speak the flying kite's command word to end the effect and cause it to fall softly back into your hand. You can change the wind's direction at the start of each of your turns for the duration.
 

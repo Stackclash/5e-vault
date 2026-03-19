@@ -12,12 +12,18 @@ weight: 5
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wayfinder Sphere
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wayfinder-Sphere.webp#right)  
 
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This spinning metal sphere is 6 inches in diameter and weighs 5 pounds. You can tap the orb twice as an action to activate it. While activated, the orb records basic details about the space that it can see within 100 feet. The orb has [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to 100 feet, but can't see through heavily obscured areas or illusions. Tapping it twice again deactivates the orb.
 

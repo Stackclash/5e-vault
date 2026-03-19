@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Freezing Gauntlets
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Freezing-Gauntlets.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When not worn, these gauntlets appear to be simple iron cuffs. Once worn, however, creeping plates of crystalline ice form from beneath the metal to encase your arms and hands in icy gauntlets. While wearing the gauntlets, you have resistance to cold damage, and any target you hit with them as part of an unarmed strike takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) cold damage. Alternatively, frost creeps up the metal of any weapon you're holding. If you hit a target with a metal weapon, that target also takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) cold damage from the attack.
 

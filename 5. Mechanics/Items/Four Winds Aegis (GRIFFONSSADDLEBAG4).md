@@ -12,6 +12,9 @@ armorClass: 2
 weight: 6
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Four Winds Aegis
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), rare*  
@@ -19,6 +22,9 @@ rarity: rare
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This spiraling metal shield is remarkably light. While holding it, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 

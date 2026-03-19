@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Halo Circlet
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Halo-Circlet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lustrous, gilded circlet hovers just above your head while worn. The inside of the circlet radiates with a golden glow, like a halo. While wearing it, you can speak, read, and write Celestial. In addition, you can use a bonus action to gain a flying speed of 30 feet until the end of your next turn. When you do, a pair of glimmering wings of golden light appear just behind your back for the duration.
 

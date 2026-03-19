@@ -16,10 +16,16 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +2 All-Purpose Tool
 *Wondrous item, spellcasting focus, rare (requires attunement by an artificer)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the "Equipment" chapter in the "Player's Handbook" for a list of [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]]). Whatever form the tool takes, you are proficient with it.
 

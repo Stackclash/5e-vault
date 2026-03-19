@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Monarch Mantle
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Monarch-Mantle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this silky, scalloped cloak, you can use a bonus action to gain a flying speed of 30 feet until the end of your turn. The cloak flaps behind you like butterfly wings while flying in this way.
 

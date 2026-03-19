@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Bounder's Ball
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bounders-Ball.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This enchanted strip of metal is bound to a friendly spirit, which emits a faint glow and seems to vibrate with excitement when held. When you throw this item, a playful animal spirit appears beside you and chases after it. Immediately after you throw it, the spirit returns the ball to you.
 

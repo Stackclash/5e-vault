@@ -16,12 +16,18 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightning Pylons
 *Rod, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Lightning-Pylons.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These 3-foot-long rods are made using a blend of magic and science and normally come in sets of three. The pylons are tipped with a fragment of a blue dragon's horn. A lightning pylon can extend electricity to any neighboring pylons to create an electrical barrier between them. Each pylon has an electrical charge. Once a charge has been lost, it takes 12 hours to recharge.
 

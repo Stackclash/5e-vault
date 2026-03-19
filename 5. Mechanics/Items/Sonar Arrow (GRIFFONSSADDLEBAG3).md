@@ -16,12 +16,18 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Sonar Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sonar-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This long, dark arrow looks as though it's been pierced through a bat. A target hit by this arrow takes an extra `dice:2d10|noform|noparens|avg` (`2d10`) thunder damage. Hit or miss, when the arrow first impacts with a creature, object, or other solid surface, it emits a brief, magical frequency, which is audible out to a range of 120 feet. Every creature that isn't [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] within the sound's range magically knows the location of every other physical creature and any obvious, uncovered object within the frequency's area at that moment. The arrow then loses its magic and becomes a normal arrow.
 

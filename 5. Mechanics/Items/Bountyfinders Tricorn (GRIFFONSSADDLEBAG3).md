@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bountyfinder's Tricorn
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bountyfinders-Tricorn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You're proficient with water vehicles while wearing this hat, and you have advantage on ability checks made to navigate them. A spade-shaped pin is magically clasped to the hat's edge; you can use an action to touch it and speak the name or description of an object you're looking for. When you do, you cast the [[/5. Mechanics/Spells/Locate Object.md\|locate object]] spell from the pin, targeting that object, and the pin transforms into a magic shovel. This version of the spell doesn't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] and has a duration of 30 minutes.
 

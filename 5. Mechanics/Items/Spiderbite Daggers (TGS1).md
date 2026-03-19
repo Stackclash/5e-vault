@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spiderbite Daggers
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 40/80
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of daggers is made using the harvested fangs of a large, venomous spider. When you hit the same creature on your turn with both daggers, that creature must succeed on a DC 13 Constitution saving throw or take an extra `dice:2d4|noform|noparens|avg` (`2d4`) poison damage and become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of its next turn.
 

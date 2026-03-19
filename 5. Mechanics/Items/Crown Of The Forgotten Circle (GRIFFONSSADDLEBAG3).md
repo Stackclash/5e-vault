@@ -14,12 +14,18 @@ attunement-requirement:
   - druid
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crown of the Forgotten Circle
 *Wondrous item, cursed item, major, very rare (requires attunement by a druid)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Crown-of-the-Forgotten-Circle.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flower crown is forever dried and wilted, and is filled with nettles and briars. While wearing it, you have resistance to necrotic and poison damage, and you always have the [[/5. Mechanics/Spells/Blight.md\|blight]] and [[/5. Mechanics/Spells/Spike Growth.md\|spike growth]] spells prepared. These spells don't count against the total number of spells you can prepare each day.
 

@@ -10,12 +10,18 @@ aliases:
 weight: 1
 attunement: false
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mirrored Ball of Brag'inir
 *Wondrous item, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mirrored-Ball-of-Braginir.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mirrored ball is 3 inches in diameter and weighs 1 pound. Its reflective shards seem held together by a disembodied force of will. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, its mirrored shards drift apart to open the ball.
 

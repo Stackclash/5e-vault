@@ -10,12 +10,18 @@ aliases:
 weight: 0.333
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Soul Coin
 *Wondrous item, uncommon*  
 ![[/5. Mechanics/Items/img/soul-coin.webp#right]]  
 
 - **Weight**: 0.333 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Soul coins are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one-third of a pound, and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each soul coin has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while another might be the victim of a night hag's curse.
 

@@ -14,11 +14,17 @@ rarity: none
 type: gear
 subtype:
   - treasure-gemstone
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Moss Agate
 *Treasure (gemstone)*  
 
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A translucent pink or yellow-white with mossy gray or green markings gemstone.
 

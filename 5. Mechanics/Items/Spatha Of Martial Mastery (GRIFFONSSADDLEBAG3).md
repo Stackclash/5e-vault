@@ -26,6 +26,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spatha of Martial Mastery
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, rare (requires attunement by a barbarian, fighter, monk, or rogue)*  
@@ -34,6 +37,9 @@ subtype:
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A long white ribbon trails behind this shimmering sword, whose blade is forged with swirls of gold. You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, you gain the following benefits.
 

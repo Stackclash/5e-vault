@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Storyteller's Stein
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Storytellers-Stein.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These steins are enchanted with a clever version of the [[/5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] spell that reacts when in the company of a good story. Whenever you tell a story while holding this stein, its lid opens and closes like a mouth to emit sounds and other harmless sensory effects that accompany the tale. For example, if you're telling the story of a thunderstorm at sea, the stein can create the sounds of rumbling thunder and creaking floorboards, or allow you to spew illusory flames after taking a drink from the stein when you tell the story of an ancient red dragon's deadly breath.
 

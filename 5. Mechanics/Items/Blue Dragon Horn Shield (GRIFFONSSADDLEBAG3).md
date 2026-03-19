@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blue Dragon Horn Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shield is carved out of the horn of an adult blue dragon. While holding it, you gain resistance to lightning damage and a +2 bonus to your AC. This bonus is in addition to the shield's normal bonus to AC. While holding the shield, you can use the following properties.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wind Riders
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wind-Riders.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These boots look and feel like pale, dried leaves but are remarkably soft and quiet to walk in. While wearing these boots, you can move normally in difficult terrain caused by strong winds.
 

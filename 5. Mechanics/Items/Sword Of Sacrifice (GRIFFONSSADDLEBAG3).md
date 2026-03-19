@@ -25,11 +25,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Sacrifice
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sword-of-Sacrifice.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can forgo one of your attacks to wound yourself with the sword instead. When you do, you take `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) necrotic damage, which can't be reduced or prevented in any way. Then, choose a creature that you can see within 60 feet of you. That creature becomes cursed by the sword for 1 minute or until your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell). The curse ends early if you end one of your subsequent turns without attacking the creature with the sword. Whenever you hit the cursed creature with the sword, it takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage from the attack. If you slay a cursed creature with the sword, you regain `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) hit points. Dying doesn't end your attunement to the sword.
 

@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Enchantment Breaker
 *Ring, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Enchantment-Breaker.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring's tiny chains rotate slowly around your finger while worn. Whenever you are affected by a spell that restores hit points such as [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] or [[/5. Mechanics/Spells/Healing Word.md\|healing word]], you can use your reaction to reattempt the saving throw against an enchantment spell that's currently affecting you.
 

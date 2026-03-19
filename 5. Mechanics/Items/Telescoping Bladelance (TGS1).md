@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Telescoping Bladelance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), minor, uncommon*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mechanical lance has bladed edges and has the heavy property. You can use a bonus action on your turn to extend or retract the weapon by twisting its handle. The weapon is a normal lance while it's extended. If the lance is retracted, the end of the weapon rests inside the wider, bladed base and is considered to be a [[/5. Mechanics/Items/Greatsword.md\|greatsword]] instead. This greatsword deals `dice:1d12|noform|noparens|avg` (`1d12`) slashing damage instead of 2d6.
 

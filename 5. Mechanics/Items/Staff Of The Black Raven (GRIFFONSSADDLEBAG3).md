@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Staff of the Black Raven
 *Staff, weapon, major, uncommon (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff has a crystalline black raven perched at its top. It can be wielded as a magic quarterstaff. While holding it, you can speak one of the staff's four command words using an action to animate the raven:
 

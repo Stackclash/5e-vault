@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Muralist's Mark
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Muralists-Mark.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This painter's apron is covered with smears of paint, which never entirely dry. While wearing the apron, you can use it and the paints on it as if it were a painter's palette, mixing and manipulating the colors on it indefinitely. The apron magically produces paints in whatever colors you need.
 

@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Jailbreaking
 *Ring, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ring-of-Jailbreaking.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring is made of a simple metal ball and chain. The chain is looped around and attached to either side of the ball, allowing it to be worn on your finger. While wearing the ring, you can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has you [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]]. When you do, the ring's chain breaks and becomes nonmagical.
 

@@ -20,11 +20,17 @@ type: armor
 subtype:
   - heavy
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lionheart Armor
 *Uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Lionheart-Armor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A lion-faced helm adorns this armor. While wearing the armor, you can use a bonus action to speak the armor's command word to summon a lion to an unoccupied space that you can see within 10 feet of you. The lion is under your control, and it takes its turn immediately after yours. On your turn, you can mentally command the lion if it's within 100 feet of you and you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] (no action required). You decide what action the lion takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location.
 

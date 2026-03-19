@@ -17,12 +17,18 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Atlas of Endless Horizons
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 ![[/5. Mechanics/Items/img/atlas-of-endless-horizons.webp#right]]  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This thick book is bound in dark leather, crisscrossed with inlaid silver lines suggesting a map or chart. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [[/5. Mechanics/Spells/Arcane Gate.md\|arcane gate]], [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Gate.md\|gate]], [[/5. Mechanics/Spells/Misty Step.md\|misty step]], [[/5. Mechanics/Spells/Plane Shift.md\|plane shift]], [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]], and [[/5. Mechanics/Spells/Word Of Recall.md\|word of recall]]. It functions as a spellbook for you.
 

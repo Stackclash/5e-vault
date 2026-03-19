@@ -16,11 +16,17 @@ attunement-requirement:
   - leg
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Life's Flower Restorative
 *Wondrous item, major, rare (requires attunement by a creature missing a hand, arm, or leg)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Lifes-Flower-Restorative.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This vital branch pulses with life and resembles a crude limb. To attune to this item, you must attach it to the end of your missing arm or leg, at which point the branch magically forms an elegant copy of the appendage it's replacing. This prosthetic is a fully capable part of your body and can't be removed against your will as long as you're attuned to it.
 

@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Windswept Wyvernplate
 *Medium armor ([[/5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This half plate armor seems to grow lighter when you inhale. You can hold your breath at any point to both lighten the armor and quiet its clattering, negating the normal disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks imposed by half plate armor.
 

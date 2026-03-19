@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Plaguebane Mask
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Plaguebane-Mask.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bird-like mask's blend of magic and science is as unique as it is helpful. It can be easily lifted over your face to eat or speak more clearly. The mask's beak is lined with magical flowers that react to and purify airborne toxins before they pass through it. While wearing the mask, you have advantage against being [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] or diseased from airborne sources, as well as resistance to the poison damage that they might cause.
 

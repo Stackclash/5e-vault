@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Dragon Tamer Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, legendary (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slender, iridescent lance is covered in an enchanted finish that resembles the hardened scales of many dragons. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While attuned to the weapon, you can, understand and speak Draconic.
 

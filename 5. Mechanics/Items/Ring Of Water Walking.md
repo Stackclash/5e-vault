@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Water Walking
 *Ring, major, uncommon*  
 ![[/5. Mechanics/Items/img/ring-of-water-walking.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
 

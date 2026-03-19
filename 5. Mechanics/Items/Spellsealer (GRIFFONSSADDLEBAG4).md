@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spellsealer
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), very rare (requires attunement)*  
@@ -26,6 +29,9 @@ subtype:
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wicked war pick has been used to destroy a powerful wizard's spellbook. The weapon's surface is marked with abjuration wards to contain malevolent spellcraft. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mantle of Spell Resistance
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/mantle-of-spell-resistance.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have advantage on saving throws against spells while you wear this cloak.
 

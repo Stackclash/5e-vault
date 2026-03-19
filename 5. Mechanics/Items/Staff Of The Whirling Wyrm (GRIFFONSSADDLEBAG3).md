@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Staff of the Whirling Wyrm
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement by a monk)*  
@@ -34,6 +37,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This quarterstaff can convert kinetic force into added reach. A silver dragon wraps up the length of the staff, with scales that look like metal plates. You can use this weapon to make the attacks granted to you by your Flurry of Blows. When you use your Flurry of Blows, you can immediately move up to 5 feet, without provoking opportunity attacks, and the staff separates into three sections; the dragon's scales pull apart to reveal a magical chain that connects the weapon's three parts. Each attack granted by your Flurry of Blows that uses the staff has a range of 10 feet. The weapon recombines into its normal form immediately after the last attack.
 

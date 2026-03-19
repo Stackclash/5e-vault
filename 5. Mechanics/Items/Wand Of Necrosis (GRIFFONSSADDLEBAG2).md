@@ -20,11 +20,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Necrosis
 *Wand, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-Necrosis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gnarled, wooden branch has grown over one of the severed fingers of a powerful lich, creating a gruesome and deadly wand. The wand has 7 charges. If the wand has at least 1 charge remaining, you have resistance to necrotic damage while you hold it.
 

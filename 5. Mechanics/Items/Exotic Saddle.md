@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - tack-and-harness
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Exotic Saddle
 *Tack and harness*  
 
 - **Cost**: 60 gp
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An exotic saddle is required for riding any aquatic or flying mount.
 

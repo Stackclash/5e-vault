@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gloves of the Great Badger
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gloves-of-the-Great-Badger.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of fingerless gloves is decorated with badgerlike stripes and fitted with razor-sharp claws. While wearing the gloves, your unarmed strikes with them deal slashing damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. In addition, you gain a burrowing speed of 5 feet.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Shroud of the Unburied
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Shroud-of-the-Unburied.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This canvas burial shroud is permanently stained red and is worn like a cloak. When you're reduced to 0 hit points while wearing the shroud but not killed outright, it magically wraps around you to protect your [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] body. You immediately gain 25 temporary hit points, which remain for 10 minutes or until you regain any hit points, at which point the shroud unwraps from you. While you have these temporary hit points, you can neither gain nor suffer any death saving throw successes or failures, and whenever a creature within 10 feet of you deals damage to you, it immediately takes `dice:2d12|noform|noparens|avg` (`2d12`) necrotic damage.
 

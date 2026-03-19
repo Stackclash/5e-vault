@@ -14,11 +14,17 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vial
 *Adventuring gear*  
 
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A vial can hold up to 4 ounces of liquid.
 

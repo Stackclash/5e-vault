@@ -20,21 +20,21 @@ relationships:
   - Brom Martikov (COS)|son
 partyRelationships:
   Midnight Covenant: Ally
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
-pronounced:
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 > [!infobox]
 > # `=this.file.name`

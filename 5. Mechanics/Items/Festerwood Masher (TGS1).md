@@ -21,11 +21,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Festerwood Masher
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Festerwood-Masher.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This festerwood hammer has amber pustules on its end that have enriched the wood with its corrosive properties. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

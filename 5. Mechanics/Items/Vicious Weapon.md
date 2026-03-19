@@ -76,11 +76,17 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vicious Weapon
 *Major, rare*  
 ![[/5. Mechanics/Items/img/vicious-weapon.webp#right\|Vicious Weapon (Rapier)]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.
 

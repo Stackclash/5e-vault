@@ -12,6 +12,9 @@ armorClass: 2
 weight: 6
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shield of the Eldritch Maw
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), very rare*  
@@ -19,6 +22,9 @@ rarity: very-rare
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The face of this shield is seemingly made of teeth, with a clear, fanglike line through its center. While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 

@@ -13,12 +13,18 @@ weight: 1
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of Health
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/amulet-of-health.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution score is already 19 or higher without it.
 

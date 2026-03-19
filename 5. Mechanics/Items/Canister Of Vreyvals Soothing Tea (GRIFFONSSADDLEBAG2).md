@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Canister of Vreyval's Soothing Tea
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Canister-of-Vreyvals-Soothing-Tea.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small metal canister contains `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) bags of magical tea when found. You can steep a bag of tea for 1 minute in a cup of boiling water to transform the water into a rich, flavorful tea that calms the nerves and revitalizes the spirit. When you drink a cup of the hot tea, you regain `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) hit points and gain the same amount as temporary hit points. In addition, any effect causing you to be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] is suppressed for 1 hour, after which any suppressed effect resumes, provided that its duration hasn't expired in the meantime.
 

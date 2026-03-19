@@ -10,11 +10,17 @@ aliases:
   - Amulet of the Mind Flayer
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Mind Flayer
 *Wondrous item, cursed item, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While you are wearing this amulet, you may spend an action to designate up to 4 willing creatures within 30 feet of you as your thralls. So long as you and your thralls are on the same plane of existence, you may communicate with them telepathically.
 

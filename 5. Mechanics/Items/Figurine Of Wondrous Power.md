@@ -9,11 +9,17 @@ aliases:
   - Figurine of Wondrous Power
 attunement: false
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Figurine of Wondrous Power
 *Wondrous item*  
 ![[/5. Mechanics/Items/img/figurine-of-wondrous-power.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 

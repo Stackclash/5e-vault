@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Foldable Pet
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Foldable-Pet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical piece of paper is folded into an animated origami creature. When found, it is either in the folded form of a bird, a cat, or a fish. While holding the pet, you can use an action to speak its command word to magically refold the paper into one of its other forms.
 

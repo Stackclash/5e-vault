@@ -23,11 +23,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Bow of the Cobra
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bow-of-the-Cobra.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This metallic bow resembles the shape of a mighty cobra and is covered in spots of patina. When you fire an arrow from the bow, you can choose to coat the arrow in a thin layer of acid. A target hit with the acid-coated arrow takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) acid damage. Hit or miss, a nonmagical coated arrow is destroyed after the attack.
 

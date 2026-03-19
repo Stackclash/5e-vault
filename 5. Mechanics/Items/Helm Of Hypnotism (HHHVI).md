@@ -10,11 +10,17 @@ aliases:
   - Helm of Hypnotism
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of Hypnotism
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helmet, if you force a creature to roll a saving throw to resist being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you, that creature makes that saving throw at disadvantage so long as it can see you. In addition, if you succeed on a saving throw to resist being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by a creature you can see, you may spend your reaction to impose an identical effect on that creature, as if you had used that spell or ability yourself.
 

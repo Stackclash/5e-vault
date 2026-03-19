@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Harvest
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, uncommon*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This classic farmer's heirloom depicts wheat and field designs. When you hit a plant creature with an attack using this magic weapon, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) slashing damage. In addition, any nonmagical plant harvested with this sickle magically remains fresh for an extra 7 days.
 

@@ -25,6 +25,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Staff of the Vineyard
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement by a cleric, druid, monk, or ranger)*  
@@ -35,6 +38,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff can be wielded as a magic quarterstaff. A clutch of up to 10 grapes hangs from the end of the staff's magical length of vine. A creature within reach of the staff can use an action to eat one of the grapes, which duplicates the effect of eating a berry from the [[/5. Mechanics/Spells/Goodberry.md\|goodberry]] spell. `dice:1d10|noform|noparens|avg` (`1d10`) eaten grapes regrow on the clutch daily at dawn.
 

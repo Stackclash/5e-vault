@@ -13,12 +13,18 @@ attunement: true
 attunement-requirement:
   - creature of good alignment
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement by a creature of good alignment)*  
 ![[/5. Mechanics/Items/img/book-of-exalted-deeds.webp#right]]  
 
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The definitive treatise on all that is good in the multiverse, the fabled Book of Exalted Deeds figures prominently in many religions. Rather than being a scripture devoted to a particular faith, the book's various authors filled the pages with their own vision of true virtue, providing guidance for defeating evil.
 

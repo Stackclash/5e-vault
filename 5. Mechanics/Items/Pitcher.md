@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pitcher
 *Adventuring gear*  
 
 - **Cost**: 2 cp
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A pitcher holds 1 gallon of liquid.
 

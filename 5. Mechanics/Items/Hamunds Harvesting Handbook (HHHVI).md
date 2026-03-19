@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hamund's Harvesting Handbook
 *Adventuring gear*  
 
 - **Cost**: 50 gp
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 > [!quote] A quote from Hamund  
 > 

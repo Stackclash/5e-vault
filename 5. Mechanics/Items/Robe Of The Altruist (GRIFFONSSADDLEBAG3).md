@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Robe of the Altruist
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Robe-of-the-Altruist.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This journeyman's robe is lined with comforting wool. As an action while wearing the robe, you can expend 1 Hit Die to reach out and touch a willing creature other than yourself, causing it to regain `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) hit points. When you do, that creature also gains advantage on the next ability check or attack roll it makes before the start of your next turn. Once this property of the cloak has been used on a target, it can't be used on that target again until the next dawn.
 

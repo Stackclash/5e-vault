@@ -13,6 +13,9 @@ armorClass: 2
 weight: 6
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Astral Aegis
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), legendary (requires attunement)*  
@@ -20,6 +23,9 @@ rarity: legendary
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark shield reflects an ever-present starry sky. When observed at an angle, it looks as though you could reach through its glossy surface. While holding the shield, you have immunity to radiant damage and gain a +2 bonus to your AC. This bonus is in addition to the shield's normal bonus to AC. The shield has the following properties, which you can use while you hold it.
 

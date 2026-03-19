@@ -14,12 +14,18 @@ weight: 6
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sentinel Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this shield, you have advantage on initiative rolls and Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks. The shield is emblazoned with a symbol of an eye.
 

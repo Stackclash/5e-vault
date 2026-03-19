@@ -17,6 +17,9 @@ rarity: rare
 type: weapon
 subtype:
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Saint Markovia's Thighbone
 *Melee weapon, rare (requires attunement)*  
@@ -24,6 +27,9 @@ subtype:
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Saint Markovia's thighbone has the properties of a [[/5. Mechanics/Items/Mace Of Disruption.md\|mace of disruption]]. If it scores one or more hits against a [[/5. Mechanics/Bestiary/Undead/Vampire.md\|vampire]] or a [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] in the course of a single battle, the thighbone crumbles into dust once the battle concludes.
 

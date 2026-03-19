@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hero's Goblet
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Heros-Goblet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Whenever common wine is drunk from this gilded goblet, it tastes as if it were fine wine instead. While holding the goblet, you can use an action to speak its command word. The goblet then fills with a magical wine; drinking the full goblet of wine, using another action, grants you the following benefits for 1 hour:
 

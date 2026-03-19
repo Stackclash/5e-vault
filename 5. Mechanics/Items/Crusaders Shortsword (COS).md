@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crusader's Shortsword
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]) (requires attunement)*  
@@ -26,6 +29,9 @@ subtype:
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The Crusader's Shortsword is a sentient lawful good [[/5. Mechanics/Items/1 Weapon.md\|+1 shortsword]] (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
 

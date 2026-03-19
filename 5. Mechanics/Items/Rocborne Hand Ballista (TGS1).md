@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Rocborne Hand Ballista
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, very rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 100/400
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This massive, beast-hunting crossbow is carried with its two handles from above instead of by being held from below. You gain a +1 bonus to attack and damage rolls made with this magic weapon. This crossbow uses twice the normal amount of ammunition each time you fire it and deals an extra `dice:1d10|noform|noparens|avg` (`1d10`) piercing damage to any target it hits. The weapon emits a [[/5. Mechanics/Bestiary/Monstrosity/Roc.md\|roc]]-like screech that's audible out to 100 feet each time it's fired.
 

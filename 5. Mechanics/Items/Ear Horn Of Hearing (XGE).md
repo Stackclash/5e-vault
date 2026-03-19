@@ -11,10 +11,16 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ear Horn of Hearing
 *Wondrous item, minor, common*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While held up to your ear, this horn suppresses the effects of the [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] condition on you, allowing you to hear normally.
 

@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Forgework Dragon Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
@@ -21,6 +24,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this plated brass shield, you gain a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC. The shield has a metallic maw in the visage of a dragon forged into the face of the shield, and small plumes of flame occasionally leap from openings in the shield's plates.
 

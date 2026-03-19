@@ -16,11 +16,17 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Doorway Scepter
 *Rod, minor, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Doorway-Scepter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A silver and brass door knocker hangs from the top of this rod. While holding the rod, you can use an action to cast either the [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Knock.md\|knock]], or [[/5. Mechanics/Spells/Passwall.md\|passwall]] spell from it. Once a spell has been cast in this way, that spell can't be cast from the rod again until the next dawn.
 

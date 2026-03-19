@@ -10,10 +10,16 @@ aliases:
 cost: 5000
 attunement: false
 rarity: none
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alchemist's Ice
 
 - **Cost**: 50 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blue-white flask is cool to the touch because it contains a volatile liquid that turns to ice when exposed to air. If the flask is poured over a surface, it creates a 5-foot patch of ice that functions as regular ice for movement purposes. The flask can be thrown at a creature like a flask of alchemist's fire; if it hits, it deals `dice:1d8|noform|noparens|avg` (`1d8`) cold damage and the creature must make a successful DC 10 Dexterity saving throw or its speed becomes 0 until the start of your next turn.
 

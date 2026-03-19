@@ -10,11 +10,17 @@ aliases:
   - Helm of the Horned King
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Helm of the Horned King
 *Wondrous item, artifact (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The Helm of the Horned King is an item often seen in the deranged paintings made by demonic cultists. Formed from the head of the Horned King, [[/4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]], this helm is said to be worn during the end of all things; an apocalyptic badge of office awarded to the being who will unite the disparate factions of the Abyss, defeat the armies of the Nine Hells, and tear down the heavens themselves to allow chaos to reign.
 

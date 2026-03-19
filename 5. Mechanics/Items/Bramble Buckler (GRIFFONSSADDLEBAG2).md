@@ -18,6 +18,9 @@ attunement-requirement:
   - ranger
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bramble Buckler
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a druid or ranger)*  
@@ -25,6 +28,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This twisting mass of tightly knotted thorns forms a functional buckler. Its thorny limbs move ever so slightly to defend against incoming attacks that might otherwise pierce it. When you don the shield, the vines grow harmlessly around the arm and hand that's holding it, preventing it from being unwillingly dropped or disarmed.
 

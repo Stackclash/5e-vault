@@ -9,11 +9,17 @@ aliases:
   - Unicorn Glue
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Unicorn Glue
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slightly translucent pot of glue is the colour of a full moon on a clear day. When a creature attempts to roll hit die during a short rest to recover hit points, 1 dose of this glue may be applied to that creature to allow them to skip the dice roll and instead regain the maximum number of hit points possible.
 

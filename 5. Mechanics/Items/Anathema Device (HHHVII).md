@@ -9,11 +9,17 @@ aliases:
   - Anathema Device
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Anathema Device
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This yuan-ti heart is encased in a complicated contraption of copper wires and other mechanical pieces. You may spend your action to activate this contraption, causing it to shock the heart and forcing it to beat. So long as the heart is beating, you emit an aura of fear in a 30-foot radius circle centered on yourself. Any creature of your choice that starts their turn in that circle must succeed on a DC 17 Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] for 1 minute of any member of your race. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this aura for the next 24 hours.
 

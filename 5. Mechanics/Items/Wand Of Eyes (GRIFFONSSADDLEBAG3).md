@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Eyes
 *Wand, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Eyes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand's glistening white haft has eye-like veins tracing down its length. The wand has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While holding it, you can use an action to expend 1 of its charges to cast the [[/5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] spell from it. This version of the spell remains for 1 minute, and can only be used to see through the sensor. The spell ends early if you are no longer holding the wand.
 

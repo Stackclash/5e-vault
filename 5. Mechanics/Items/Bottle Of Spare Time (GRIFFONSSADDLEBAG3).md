@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Bottle of Spare Time
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bottle-of-Spare-Time.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass bottle is empty when found. When sitting upright, it's indistinguishable from a normal bottle. It's stoppered with a golden skull holding a miniature timepiece in between its teeth. Despite its appearance, the bottle nevertheless functions as a +3 club.
 

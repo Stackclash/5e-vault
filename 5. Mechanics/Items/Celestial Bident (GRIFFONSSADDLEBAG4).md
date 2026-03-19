@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Celestial Bident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a cleric or paladin)*  
@@ -35,6 +38,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bident's prongs are designed as celestial wings. A ball of pure light radiates between the wings, which sheds bright light in a 30-foot radius and dim light for an additional 30 feet. The light is sunlight. While holding the bident, you can use a bonus action to light or extinguish the ball. Alternatively, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 40 feet each or a minimum of 10 feet each. If you're attuned to the celestial bident, you are considered proficient with it.
 

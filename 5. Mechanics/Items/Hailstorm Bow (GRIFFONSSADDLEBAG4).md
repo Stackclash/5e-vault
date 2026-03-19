@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Hailstorm Bow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), legendary (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bow is made of pure ice, which only becomes pliable in your hands once you attune to it. While the bow is on your person, your skin becomes covered in a thin layer of protective frost, granting you a +1 bonus to AC and immunity to cold damage.
 

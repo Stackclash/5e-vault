@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Stone
 *Ring, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ring-of-Stone.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring is made of magical stone. While wearing it, you can use it to cast the [[/5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]] spell (spell save DC 15).
 

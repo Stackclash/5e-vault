@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kobold Diviner's Amulet
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Kobold-Diviners-Amulet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This necklace bears numerous rings and charms from its leather strap. The largest charm is a [[/5. Mechanics/Items/Crystal Ball.md\|crystal ball]], which is grasped by a draconic claw. While wearing the amulet, you can use an action to peer into its [[/5. Mechanics/Items/Crystal Ball.md\|crystal ball]] and predict a number between 1 and 20. Then, roll a `dice:d20|noform|noparens|avg` (`d20`). If the result of the roll has a difference of no more than 2 from the predicted number, you magically foretell a sliver of future possibility. You then ask the GM one question about the events that will or can occur within the next 30 minutes, which must be able to be answered with either "yes," "no," or "uncertain." At the GM's discretion, the [[/5. Mechanics/Items/Crystal Ball.md\|crystal ball]] may alternatively show you a visual answer. Once this property of the amulet has been used, it can't be used again until the next dawn. You must be able to speak Draconic in order to use this property.
 

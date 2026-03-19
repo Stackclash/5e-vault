@@ -10,11 +10,17 @@ aliases:
   - Wand of Confusion
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Wand of Confusion
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 4 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the [[/5. Mechanics/Spells/Confusion.md\|confusion]] spell (save DC 15) from it. For 1 charge, you cast the 4th-level version of the spell. You can increase the spell slot level by one for each additional charge you spend.
 

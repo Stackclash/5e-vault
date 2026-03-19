@@ -10,11 +10,17 @@ aliases:
   - Mask of Multitudes
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Mask of Multitudes
 *Wondrous item, cursed item, artifact (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mask is a treated leather on top of a dark wooden backing. Despite these relatively mundane materials, the mask is incredibly life-like, and it is common for casual observers to believe that it watches them as they travel around the room. It is said that within this mask is every disguise that the demon prince [[/4. World Almanac/NPCs/Fraz Urbluu (MPMM).md\|Fraz-Urb'luu]] ever took, of which there are many. As its hollow eyes gaze upon new visages, it memorizes them and adds them to its evergrowing bank of identities.
 

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gladius of the Everfighter
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, legendary (requires attunement by a fighter)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This worn gladius has been used by numerous famed warriors over centuries. When swung, the sound of a valiant battlecry can be faintly heard. You gain a +3 bonus to attack and damage rolls made with this magic weapon. While holding this weapon, you gain an additional use of your Second Wind and Action Surge class features, but can use Action Surge only once on a turn.
 

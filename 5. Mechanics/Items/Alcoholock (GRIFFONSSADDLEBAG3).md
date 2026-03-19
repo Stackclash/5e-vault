@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alcoholock
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Alcoholock.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lock looks like a small metal tankard, using its handle as the shackle. While it has a keyhole, it doesn't open with a key and can't be picked using [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. Instead, the lock only opens when at least 1 ounce of a particular kind of alcohol is poured into the keyhole.
 

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glass Carver
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), minor, uncommon*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic dagger's edge is lined with a sharp, enchanted crystal that magically pierces through glass. While holding the dagger, you can use an action to cut a straight line up to 1 foot long into a piece of nonmagical glass no more than 1 inch thick. Each line emits a faint glow, allowing you to see any lines you've made. Making these lines requires you to focus, as if concentrating on a spell. Your concentration ends early if you are no longer holding the dagger or aren't within reach of the glass. When your concentration ends, any line you made with the dagger magically vanishes and repairs itself.
 

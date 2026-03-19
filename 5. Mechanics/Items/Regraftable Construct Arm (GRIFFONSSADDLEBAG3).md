@@ -14,12 +14,18 @@ attunement-requirement:
   - creature missing an arm
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Regraftable Construct Arm
 *Wondrous item, cursed item, major, very rare (requires attunement by a creature missing an arm)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Regraftable-Construct-Arm.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sickly flesh golem arm has been repurposed by a powerful necromancer, allowing it to be used as a prosthesis by any creature missing an arm. The prosthesis attaches to your arm at the shoulder, and it can't be removed as long as you're attuned to it. To attune to this item, you must hold it against your shoulder for the entire attunement period, at which point it magically sews itself into place. The arm detaches from you when your attunement to it ends.
 

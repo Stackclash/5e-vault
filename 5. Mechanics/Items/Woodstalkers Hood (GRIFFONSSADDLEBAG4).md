@@ -10,11 +10,17 @@ aliases:
   - Woodstalker's Hood
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Woodstalker's Hood
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Woodstalkers-Hood.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leafy green hood is adorned with a pair of branch-like antlers that grow from either side of it. You gain a +2 bonus to any Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks you make while wearing the hood. If you're wearing the hood in a wooded area, your face becomes heavily obscured in shadow.
 

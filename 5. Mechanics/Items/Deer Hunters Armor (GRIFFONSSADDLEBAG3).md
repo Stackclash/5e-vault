@@ -16,11 +16,17 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deer Hunter's Armor
 *Minor, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Deer-Hunters-Armor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of gray and green armor carries the spirit of the forest within it. While wearing it, you can use it to cast the [[/5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] spell, but only as a ritual. The steed from this version of the spell has half the normal speed and takes the form of a ghostly deer with many-pointed antlers. If the steed is hit by an attack, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 6 or higher, the attack misses. If the steed takes any damage, the spell ends and this property of the armor can't be used again until the next dawn.
 

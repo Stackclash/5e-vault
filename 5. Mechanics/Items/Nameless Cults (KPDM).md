@@ -10,10 +10,16 @@ aliases:
   - Nameless Cults
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nameless Cults
 *Wondrous item, legendary (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dubious old book, bound in heavy leather with iron hasps, details the forbidden secrets and monstrous blasphemy of a multitude of nightmare cults that worship nameless and ghastly entities. It reads like the monologue of a maniac, illustrated with unsettling glyphs and filled with fluctuating moments of vagueness and clarity.
 

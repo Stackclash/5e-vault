@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Magma War Pick
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, rare (requires attunement)*  
@@ -28,6 +31,9 @@ subtype:
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. The war pick deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) fire damage to any target it hits.
 

@@ -17,6 +17,9 @@ attunement-requirement:
   - cleric
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aegis of Radiance
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement by a cleric)*  
@@ -24,6 +27,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shield emits a faint, holy glow when wielded and recognizes your devotion to a higher power. When you attune to this shield, the emblem adorning its face changes to one that represents your chosen deity, allowing you to use the shield as a holy symbol. You gain a +1 bonus to your AC while wielding this shield in addition to the shield's normal bonus to AC.
 

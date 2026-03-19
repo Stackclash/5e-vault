@@ -28,10 +28,16 @@ rarity: none
 type: gear
 subtype:
   - tack-and-harness
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Barding
 *Tack and harness*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
 

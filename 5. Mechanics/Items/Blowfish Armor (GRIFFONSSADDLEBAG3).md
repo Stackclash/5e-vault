@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blowfish Armor
 *Light armor ([[/5. Mechanics/Items/Padded Armor.md\|padded armor]]), major, uncommon*  
@@ -26,6 +29,9 @@ subtype:
 - **Armor Class**: 11 + Dex modifier
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 8.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This padded armor is adorned with spiked, leathery shoulder guards. At the center of each patch of armor is a darkened spot, which feels slightly firmer than the rest of the armor. While wearing this armor, you can use an action to magically inflate and transform into a padded, 10-foot-diameter sphere. You remain in this form for 10 minutes or until you end the effect (no action required). Your body and other equipment are engulfed by the sphere for the duration. You can't see what occurs outside the sphere, and any Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks you make to hear sounds outside it are made with disadvantage. You can speak, but your voice is muffled by the padded sphere. Your speed is reduced to 0, although another creature can carefully push the sphere to roll it; doing so requires the creature to spend 2 feet of movement for every 1 foot it moves while rolling the sphere.
 

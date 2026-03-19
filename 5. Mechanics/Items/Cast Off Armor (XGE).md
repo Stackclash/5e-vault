@@ -35,10 +35,16 @@ subtype:
   - heavy
   - light
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cast-Off Armor
 *Minor, common*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can doff this armor as an action.
 

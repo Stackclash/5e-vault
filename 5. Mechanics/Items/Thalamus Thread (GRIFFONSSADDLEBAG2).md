@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Thalamus Thread
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Thalamus-Thread.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pale gray thread is made from the remains of a powerful mystic's brain. The overdeveloped organ creates a congealed fiber that, once spun, can be used as a functional bowstring. It's always oily to the touch and leaves a faint residue on your fingers when pulled. Ranged attacks made with a weapon strung with this thread are considered magical.
 

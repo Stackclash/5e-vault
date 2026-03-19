@@ -25,11 +25,17 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Thornpiercer
 *Major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Thornpiercer.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rose has a stem large enough to hold like the hilt of a weapon. You can focus on the rose as a bonus action to cause it to grow one of the following weapons from its center: a [[/5. Mechanics/Items/Thornpiercer (TGS1).md\|dagger]], [[/5. Mechanics/Items/Thornpiercer (TGS1).md\|shortsword]], [[/5. Mechanics/Items/Thornpiercer (TGS1).md\|rapier]], or [[/5. Mechanics/Items/Thornpiercer (TGS1).md\|whip]]. If the hilt already has a weapon growing from its center, the existing weapon withers away and disintegrates, allowing the new one to take its place.
 

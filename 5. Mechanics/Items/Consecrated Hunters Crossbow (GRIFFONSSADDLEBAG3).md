@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Consecrated Hunter's Crossbow
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Consecrated-Hunters-Crossbow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic crossbow is detailed with wings and an angelic face at its end. A metal box of crossbow bolts fits into the base of the weapon, which automatically lifts a new bolt into place each time its string is pulled back again to fire. The box holds up to six bolts and can be refilled using an action. While the box holds at least one bolt, the weapon ignores its normal loading property, but must use the next bolt from the box with each attack it makes.
 

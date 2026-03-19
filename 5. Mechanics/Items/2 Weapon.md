@@ -76,10 +76,16 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +2 Weapon
 *Major, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +2 bonus to attack and damage rolls made with this magic weapon.
 

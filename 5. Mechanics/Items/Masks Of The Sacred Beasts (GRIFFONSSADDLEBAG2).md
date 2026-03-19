@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: varies
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Masks of the Sacred Beasts
 *Wondrous item, major (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Masks-of-the-Sacred-Beasts.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 

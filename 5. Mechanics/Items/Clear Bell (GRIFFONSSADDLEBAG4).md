@@ -9,11 +9,17 @@ aliases:
   - Clear Bell
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clear Bell
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Clear-Bell.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you use an action to ring this all-glass handbell, the sound rings out with perfect clarity. Any creature within 30 feet of the bell that can hear it can immediately make a saving throw to end any one effect on it that's causing it to be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]]. The saving throw DC is the same as the original effect's.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Covolt Circlet
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Covolt-Circlet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This jagged circlet is made from covolt, an elemental blue metal that carries storm-like properties. You have resistance to lightning damage while wearing the circlet, and whenever you or another creature that you can see within 60 feet of you takes lightning damage, you can use your reaction to reduce that damage by `dice:2d8|noform|noparens|avg` (`2d8`). When you do, the electricity leaps towards the circlet before being immediately discharged as a beam of lightning in another direction. Choose a different target that you can see within 60 feet of you. That target must succeed on a DC 16 Dexterity saving throw or take lightning damage equal to the amount reduced.
 

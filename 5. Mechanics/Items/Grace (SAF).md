@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Grace
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The blade of this longsword seems to glow white, like it is a beam of light hammered into the shape of a sword. Its hilt is gold-plated and has three embedded sapphires. This longsword has a +1 bonus to attack and damage rolls. Additionally, it gains one charge whenever an attack made with it deals more than 20 damage in a single blow. It can hold up to 3 charges, but all unused charges disappear when you take a long rest.
 

@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mourningsteel Barricade
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This kite shield was once part of a shield wall that fell while allowing the evacuation of innocent townsfolk. The agony and blood of that battle seeped into the metal, allowing it to be reforged years later into a reimagined bulwark.
 

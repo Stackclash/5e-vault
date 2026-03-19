@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Peppermince Sugarbomb
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Peppermince-Sugarbomb.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hard, minty sugarbomb slowly dissolves in your mouth over the course of 1 hour. At any point, you can use a bonus action to crunch down and break the sugarbomb into tiny, painful shards. You take `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage from the shards, but are temporarily enchanted by the candy. While enchanted, your piercing and slashing weapon attacks deal an extra 2 damage to any target hit by them. After 1 minute, the enchantment fades.
 

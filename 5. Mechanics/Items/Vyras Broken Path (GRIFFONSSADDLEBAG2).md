@@ -15,11 +15,17 @@ attunement-requirement:
   - half-elf
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vyra's Broken Path
 *Wondrous item, major, very rare (requires attunement by an elf or half-elf)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Vyras-Broken-Path.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cloak once belonged to an elven archer of masterful skill. Its shoulders are ornamented with furs and seasonal leaves, and it bears a clasp at its center made from intertwined branches. While wearing the cloak, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. As a bonus action, you can use a free hand to break the cloak's clasp and transform the cloak into a [[/5. Mechanics/Items/3 Weapon.md\|+3 longbow]] that appears in your hand. While attuned to the cloak, you are proficient with this magical longbow, and your ranged attacks with it ignore half cover. While holding the bow, you can use a bonus action to speak its command phrase in Elvish, "The arrow's path was true." When you do, the bow transforms into the cloak again and appears draped around your shoulders or in your hand (your choice).
 

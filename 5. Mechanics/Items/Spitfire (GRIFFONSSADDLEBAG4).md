@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Spitfire
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Range**: 100/400
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heavy crossbow is painted a brilliant red and ornamented with golden flames and dragon horns. A dragon's fiery maw glowers from the weapon's front. The weapon has a magically rotating barrel, which easily holds and reloads up to six of your bolts for you. You can use an action to load the barrel with up to six bolts. The barrel spins and automatically reloads the crossbow with the next bolt from the barrel after you make a ranged attack with it, allowing you to ignore the weapon's loading property while it has any loaded bolts.
 

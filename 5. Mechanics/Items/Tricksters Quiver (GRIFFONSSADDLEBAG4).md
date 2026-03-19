@@ -10,11 +10,17 @@ aliases:
   - Trickster's Quiver
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Trickster's Quiver
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Tricksters-Quiver.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This quiver is a favorite among thieves and tricksters. When you're hidden from a creature and miss it with a ranged attack using an arrow pulled from this quiver, making the attack doesn't reveal your position.
 

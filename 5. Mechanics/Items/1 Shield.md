@@ -14,12 +14,18 @@ weight: 6
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +1 Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 

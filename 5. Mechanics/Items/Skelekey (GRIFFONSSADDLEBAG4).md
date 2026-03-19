@@ -9,11 +9,17 @@ aliases:
   - Skelekey
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Skelekey
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Skelekey.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weathered metal key rattles in your hand, as if it's not entirely solid. At its center is a stylized skull with a pair of small, glimmering gems in its eye sockets.
 

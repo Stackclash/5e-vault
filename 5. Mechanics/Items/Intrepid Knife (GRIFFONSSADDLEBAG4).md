@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Intrepid Knife
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), common (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This short, run-of-the-mill dagger can make the timid feel brave, and is a common prop for storytellers. Whenever you make an attack with this weapon, you can create a small, harmless effect in its wake, such as a trail of sparkles or satisfying "whoosh" sound. The effect ends immediately after the attack. In addition, if you're holding the dagger, you gain a +1 bonus to any saving throw you make against being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 

@@ -14,11 +14,17 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Mindmaster's Monocle
 *Wondrous item, major, very rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Mindmasters-Monocle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ancient golden monocle's lens is a roughly hewn ruby. While you wear this monocle, it magically floats in front of your eye, instead of resting on your face, and you can see clearly through its ruby lens. While peering through the lens, you always know if a creature you can see is concentrating on a spell. You perceive a concentrating creature's head as being shrouded in an indigo mist.
 

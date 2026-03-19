@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Helmsman's Shelter
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic shield offers a degree of control over the seas. You gain a +1 bonus to your AC while wielding this shield in addition to the shield's normal bonus to AC. While attuned to the shield, you're proficient with water vehicles.
 

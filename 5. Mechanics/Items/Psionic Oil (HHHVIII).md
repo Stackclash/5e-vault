@@ -13,11 +13,17 @@ rarity: very-rare
 type: gear
 subtype:
   - oil
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Psionic Oil
 *Oil, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You may spend 1 hour rubbing this weapon oil on any nonmagical weapon to irreversibly transform it into your bonded psychic weapon. A bonded psychic weapon is considered magical and has the following properties:
 

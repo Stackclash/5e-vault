@@ -16,12 +16,18 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of Water Absorption
 *Rod, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rod-of-Water-Absorption.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hollow rod has a hole at its end and four sections that each magically hold up to 10 gallons of water. Each hollow section is capped with a ring of glass, allowing you to see inside the rod and know how much water is stored within it. The rod weighs 3 pounds, regardless of how much water is stored inside.
 

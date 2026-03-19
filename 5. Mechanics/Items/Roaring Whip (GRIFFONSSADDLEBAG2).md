@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Roaring Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic whip releases a thunderous burst of sound from it when snapped that can damage faraway targets with its ferocity.
 

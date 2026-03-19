@@ -9,11 +9,17 @@ aliases:
   - Bottled Yawn
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bottled Yawn
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Bottled-Yawn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A yawn has been magically captured within this bottle. Opening or shattering the bottle (such as by throwing it) releases the yawn, forcing any creature within 5 feet of the bottle to make a DC 13 Constitution saving throw. On a failed save, a creature becomes drowsy. A drowsy creature takes a -2 penalty to AC, and its speed is halved. At the end of a drowsy creature's turn, it must make another DC 13 Constitution saving throw. On a failed save, the creature falls asleep and is [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. On a success, the creature is no longer drowsy.
 

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mandible Bident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, uncommon (requires attunement)*  
@@ -34,6 +37,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This chitinous, two-pronged weapon still shudders with predatory instinct, magically biting down on creatures it hits. Once on each of your turns when you hit a Medium or smaller creature with this magic bident with a melee attack, you can force that creature to make a DC 13 Strength or Dexterity saving throw (its choice). On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by you and is held in place by the weapon. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach from this grapple on a success. You can't use the weapon to attack another target while it's grappling a creature in this way, but you can choose to deal `dice:1d8|noform|noparens|avg` (`1d8`) bludgeoning damage to the [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] creature automatically in place of any attack you'd make with it as part of the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, as the weapon's pincers clamp down tightly around the target.
 

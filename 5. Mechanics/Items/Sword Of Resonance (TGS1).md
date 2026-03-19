@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Resonance
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, rare (requires attunement by a bard)*  
@@ -34,6 +37,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This peculiar brass longsword is hollow and has lute strings that run along its blade, allowing you to use this sword as both a lute and spellcasting focus. You're proficient with this lute while you're attuned to the sword. This sword also has the finesse property due to the hollow blade's reduced weight.
 

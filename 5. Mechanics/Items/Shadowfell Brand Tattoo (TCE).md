@@ -14,10 +14,16 @@ rarity: rare
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadowfell Brand Tattoo
 *Wondrous item (tattoo), rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Produced by a special needle, this magic tattoo is dark in color and abstract.
 

@@ -14,11 +14,17 @@ attunement-requirement:
   - spellcaster
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Collar of the Crystal Veil
 *Wondrous item, major, very rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Collar-of-the-Crystal-Veil.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This platinum collar surrounds a chained web of ornate diamonds with a series of armor-like plates. While wearing the necklace, a translucent, glittering veil surrounds you: your AC is equal to 12 + your spellcasting ability modifier if you are wearing no armor and using no shield. In addition, you gain a +1 bonus to saving throws.
 

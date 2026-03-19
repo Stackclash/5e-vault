@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quiver of Elemental Chaos
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Quiver-of-Elemental-Chaos.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This quiver has a lid with 5 holes in it and has depictions of the Elemental Planes on its side. It has 4 buttons along its top that correspond to each of the four elements: Air, Earth, Fire, and Water.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: varies
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonscale Whetstone
 *Wondrous item, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dragonscale-Whetstone.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Certain preserved dragon scales can take on magical properties, either naturally on their own or with the help of a skilled artificer or enchanter. These whetstones are made of such a scale and appear almost gem-like in appearance.
 

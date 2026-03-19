@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frostbite Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
@@ -28,6 +31,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to AC and resistance to cold damage while wearing this armor. In addition, the first time in a turn that a creature within 5 feet hits you with a melee weapon attack while you are wearing this armor, they suffer `dice:2d6|noform|noparens|avg` (`2d6`) cold damage.
 

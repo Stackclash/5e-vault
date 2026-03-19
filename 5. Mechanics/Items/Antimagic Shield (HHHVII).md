@@ -13,6 +13,9 @@ armorClass: 2
 weight: 6
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Antimagic Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), very rare (requires attunement)*  
@@ -20,6 +23,9 @@ rarity: very-rare
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this shield, you have advantage on saving throws against spells, and any creature making a spell attack against you has disadvantage on the attack roll. If you succeed on your saving throw against a spell, or if a spell attack misses you, an additional effect might occur, as determined by rolling a `dice:d6|noform|noparens|avg` (`d6`):
 

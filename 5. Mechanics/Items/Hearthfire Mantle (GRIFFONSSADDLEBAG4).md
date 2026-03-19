@@ -9,11 +9,17 @@ aliases:
   - Hearthfire Mantle
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hearthfire Mantle
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hearthfire-Mantle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The inside of this heavy leather cloak is decorated with the image of a roaring fireplace. Brick-like patches of leather line the rim of the cloak, which always feel fire-warmed to the touch. While wearing the cloak, you can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection. Laying the cloak on the ground or hanging it on a wall with its fiery inside exposed creates as much warmth as a small campfire.
 

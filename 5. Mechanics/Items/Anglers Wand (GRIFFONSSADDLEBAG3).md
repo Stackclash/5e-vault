@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Angler's Wand
 *Wand, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Anglers-Wand.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this wand, you can use an action to speak its command word to transform it into a fishing rod, complete with line and tackle. It remains in this form until you use an action to speak its command word again to transform it back into the wand.
 

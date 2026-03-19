@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blazeblood Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), cursed item, very rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This twisted silver flamberge pulses faintly in your hand. It always feels warm to the touch, especially the blade.
 

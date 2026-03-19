@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Godsteel Wargauntlets
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Godsteel-Wargauntlets.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These golden gauntlets carry a powerful force within them. The gauntlets have 10 charges. While wearing the gauntlets, you gain a +1 bonus to AC, and any target you hit with an unarmed strike or damage-dealing spell with a range of touch takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) force damage. When you deal this bonus force damage, you can choose to expend up to 5 of the gauntlets' charges, dealing an extra `dice:1d10|noform|noparens|avg` (`1d10`) force damage to the target for each expended charge.
 

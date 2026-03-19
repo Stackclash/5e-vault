@@ -35,10 +35,16 @@ subtype:
   - heavy
   - light
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Smoldering Armor
 *Minor, common*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Wisps of harmless, odorless smoke rise from this armor while it is worn.
 

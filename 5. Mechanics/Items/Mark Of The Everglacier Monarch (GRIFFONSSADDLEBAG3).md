@@ -14,12 +14,18 @@ attunement-requirement:
   - spellcaster
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mark of the Everglacier Monarch
 *Wondrous item, cursed item, major, legendary (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mark-of-the-Everglacier-Monarch.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wide necklace is adorned with forever-cold icicles that hang from it. While wearing the necklace, your skin develops a resilient layer of frost, granting you immunity to cold damage and resistance to slashing damage.
 

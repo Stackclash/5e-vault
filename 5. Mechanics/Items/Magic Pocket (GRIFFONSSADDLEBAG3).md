@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Magic Pocket
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Magic-Pocket.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pocket can be tied onto a belt or similarly worn as extra storage. On its own, the pocket can hold up to 6 cubic inches of total volume. However, if the pocket is left in an extradimensional space such as a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]] or handy haversack for at least one hour, it forms a magical connection to that space. You can reach into a magic pocket with such a connection using an action to access the extradimensional space, provided that the source of that space is within 60 feet of you.
 

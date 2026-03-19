@@ -12,12 +12,18 @@ weight: 1
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Griffon Coinpouch
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Griffon-Coinpouch.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This stylized purse is sewn and stitched in the style of [[/5. Mechanics/Items/The Griffons Saddlebag (TGS1).md\|the griffon's saddlebag]], a classic treasure and character from children's stories and legends. The purse is 6 inches across and holds up to 1,000 coins. Coins taken from the purse are miraculously clean and shiny, as if freshly minted. The bag always weighs 1 pound, regardless of the number of coins within it.
 

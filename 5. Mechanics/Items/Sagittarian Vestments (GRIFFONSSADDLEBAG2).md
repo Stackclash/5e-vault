@@ -39,12 +39,18 @@ subtype:
   - heavy
   - light
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sagittarian Vestments
 *Cursed item, major, uncommon (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Sagittarian-Vestments.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is covered by a tabard that bears a crosslike symbol with an arrow at its top. While attuned to the armor, its symbol changes to represent the mark of your deity. You can benefit from the armor, as described below, even if you aren't attuned to it.
 

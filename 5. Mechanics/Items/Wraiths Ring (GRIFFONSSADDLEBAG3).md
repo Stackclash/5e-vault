@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wraith's Ring
 *Ring, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wraiths-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring is made of four shrunken, skeletal fingers that clamp around yours while worn. One of the fingers holds a cracked black pearl, from which faint tufts of smoke curl up. While wearing this ring in dim light or darkness, your forearms and hands appear magically skeletal and ghostly. The effects are illusory.
 

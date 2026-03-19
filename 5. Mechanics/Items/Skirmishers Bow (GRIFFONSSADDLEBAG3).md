@@ -22,11 +22,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Skirmisher's Bow
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Skirmishers-Bow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark bow has a series of smooth red gemstones running down its length. A magic bowstring of pure energy forms between the top and bottom-most gems while held, allowing the otherwise unstrung weapon to be used as a magic bow. Even while unstrung, the weapon remains slightly curved.
 

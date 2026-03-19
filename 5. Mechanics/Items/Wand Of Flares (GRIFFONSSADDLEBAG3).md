@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Flares
 *Wand, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Flares.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand resembles a small torch and brazier. While holding it, you can use an action to cause its brazier-like metal end to alight with a continual flame, which remains until you dispel it (no action required) or until you're no longer holding the wand.
 

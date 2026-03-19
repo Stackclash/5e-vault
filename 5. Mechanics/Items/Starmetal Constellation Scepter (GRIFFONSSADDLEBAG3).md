@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Constellation Scepter
 *Rod, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Starmetal-Constellation-Scepter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This metal scepter has a pair of floating astrolabe rings rotating around its head. Small stars connected by silver lines decorate its surface.
 

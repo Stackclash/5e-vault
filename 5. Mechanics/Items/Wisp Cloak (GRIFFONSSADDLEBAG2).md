@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wisp Cloak
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wisp-Cloak.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This near-weightless cloak billows softly even without wind. While wearing this cloak, you have advantage on death saving throws and can move normally through the space of any Medium or smaller creature once on each of your turns, but can't stop there.
 

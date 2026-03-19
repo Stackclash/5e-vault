@@ -10,11 +10,17 @@ aliases:
   - Cloak of the Arachnid
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of the Arachnid
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This long cloak has undergone a unique tanning process that utilized the magical bile from the magical transformation gland of a drow priestess. While wearing this cloak, you may use your action to speak its command word to meld it to you, causing eight spider legs to grow from your back. These spider legs are capable of growing through clothes and armor without damaging them.
 

@@ -17,11 +17,17 @@ rarity: uncommon
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +1 Rhythm-Maker's Drum
 *Wondrous item, instrument ([[/5. Mechanics/Items/Drum.md\|drum]]), uncommon (requires attunement by a bard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this [[/5. Mechanics/Items/Drum.md\|drum]], you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your bard spells.
 

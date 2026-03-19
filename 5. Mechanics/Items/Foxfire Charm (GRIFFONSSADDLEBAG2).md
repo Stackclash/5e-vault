@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Foxfire Charm
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Foxfire-Charm.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ebony charm is decoratively shaped into a fox's head and is always slightly warm to the touch. It measures 4 inches across and weighs 1/2 pound. If the charm is placed in a sufficiently hot fire, such as in a campfire, forge, or oven that fills up to a 10-foot cube, the charm begins to glow red-hot and creates a harmless, but comfortably warm, fire elemental in an unoccupied space within 5 feet of the fire. The elemental is in the form of a fox and can't move farther than 100 feet from the fire in which its charm is kept. The elemental's singular goal is to supply this fire with fuel. If the fire begins to burn out, the elemental will search the surrounding area for fuel that isn't being worn or carried.
 

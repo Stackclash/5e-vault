@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spirit Sheath
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement by a creature with a Wisdom score of 13 or higher)*  
@@ -32,6 +35,9 @@ subtype:
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This scimitar and its sheath are bound by a spiritual force that resonates with you when you attune to it. The sheath collects and incubates spiritual energy before it's focused and radiated by its blade. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and you are proficient with this scimitar while you're attuned to it. When you make an attack with this weapon, you can use your Wisdom modifier, instead of Strength or Dexterity, for the attack and damage rolls. You must use the same modifier for both rolls.
 

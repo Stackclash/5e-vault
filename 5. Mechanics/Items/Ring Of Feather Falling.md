@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Feather Falling
 *Ring, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/ring-of-feather-falling.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.
 

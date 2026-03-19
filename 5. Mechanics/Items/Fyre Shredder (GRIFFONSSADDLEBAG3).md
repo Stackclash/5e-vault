@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fyre Shredder
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare (requires attunement by a bard)*  
@@ -34,6 +37,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You are proficient with this weapon while you're attuned to it. The sharpened head of this battleaxe doubles as a metal [[/5. Mechanics/Items/Lyre.md\|lyre]], which can be used as a spellcasting focus for you. When played, its notes resound with an electric, tinny sound. Small licks of harmless fire spark from the weapon while it's played.
 

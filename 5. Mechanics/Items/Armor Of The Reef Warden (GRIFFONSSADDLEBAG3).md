@@ -21,11 +21,17 @@ type: armor
 subtype:
   - heavy
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of the Reef Warden
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Armor-of-the-Reef-Warden.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is formed from living coral. While you're attuned to it, the armor magically opens and closes around you whenever you don or doff it, as if you were a welcome part of its ecosystem. As a result, doing so takes only an action, instead of multiple minutes. You also gain a swimming speed equal to your walking speed while wearing the armor, and you can walk normally on any surface while underwater (such as on a wall or ceiling).
 

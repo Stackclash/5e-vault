@@ -16,11 +16,17 @@ attunement-requirement:
   - leg
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Everglacier Prosthesis
 *Wondrous item, major, rare (requires attunement by a creature missing a hand, arm, or leg)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Everglacier-Prosthesis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When found, this item appears to be a roughly hewn length of ice with runes etched into its side. To attune to this item, you must attach it to the end of your missing arm or leg, at which point the ice magically attaches to you and forms an icy copy of the appendage it's replacing. The prosthetic is a fully capable part of your body and can't be removed against your will as long as you're attuned to it.
 

@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sunfire
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement by a cleric or paladin)*  
@@ -34,6 +37,9 @@ subtype:
 - **Range**: 100/400
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded device has an orb at its base with a pair of sunburst pendants. Each pendant is affixed to either side of the orb, which generates a carefully managed and concentrated source of magical sunlight within the orb. From there, the sunlight is channeled through a prismatic barrel into a narrow beam using a series of crystal lenses.
 

@@ -10,11 +10,17 @@ aliases:
   - Amulet of the Desert Tyrant
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 9
+item_recharge: dawn
 ---
 # Amulet of the Desert Tyrant
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item has 9 charges. While wearing this amulet you may spend an action and 1 or more charges to do any of the following:
 

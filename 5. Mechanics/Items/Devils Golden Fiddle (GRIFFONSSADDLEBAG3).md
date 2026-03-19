@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Devil's Golden Fiddle
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Devils-Golden-Fiddle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A devil's golden fiddle is a magical trophy among accomplished musicians. Its gilded exterior is marked by embossed, bat-like wings and a carved devil's head. If you're not attuned to the instrument and attempt to play it, you must succeed on a DC 15 Charisma saving throw or take `dice:1d6|noform|noparens|avg` (`1d6`) psychic damage. Regardless, the fiddle remains silent.
 

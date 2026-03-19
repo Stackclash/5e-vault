@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Heaven's Gavel
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, legendary (requires attunement by a creature of good alignment)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This platinum weapon was a gift from a divine dragon to one of her loyal knights and has been passed down for generations. You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit an evil-aligned creature with the weapon, that creature takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage.
 

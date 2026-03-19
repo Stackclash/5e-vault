@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Blackthorn Spear of the Moonless Hunter
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, rare (requires attunement)*  
@@ -34,6 +37,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This spiny, black bone spear is a favorite among nocturnal hunting tribes. While attuned to the spear, you can always see the faint outline of it, even in total darkness. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

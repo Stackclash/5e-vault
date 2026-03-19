@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Remorhaz Cloak
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Remorhaz-Cloak.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cloak is made using a strip of a remorhaz's winglike fins and is lightly reinforced with plates of its spined carapace. The first time you attune to this item, and then again each day at dawn, you can choose either cold or fire damage: you gain resistance to that damage type until you make the choice again.
 

@@ -19,11 +19,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # +2 Rod of the Pact Keeper
 *Rod, major, rare (requires attunement by a warlock)*  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this rod, you gain a +2 bonus to spell attack rolls and to the saving throw DCs of your warlock spells.
 

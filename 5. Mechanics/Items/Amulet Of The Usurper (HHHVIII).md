@@ -12,11 +12,17 @@ attunement: true
 attunement-requirement:
   - spellcaster
 rarity: legendary
+item_consumable: false
+item_uses: 20
+item_recharge: none
 ---
 # Amulet of the Usurper
 *Wondrous item, legendary (requires attunement by a spellcaster)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This amulet has 20 charges. While wearing it, you may use your action to spend a number of charges for any of the following properties.
 

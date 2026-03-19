@@ -15,11 +15,17 @@ attunement-requirement:
   - ranger
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Pollinator Visor
 *Wondrous item, major, uncommon (requires attunement by a druid or ranger)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Pollinator-Visor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This chitinous mask rests over your ears and can be raised or lowered using an action to sit on top of your head or in front of your eyes. The mask has two large, eye-like lenses that improve your vision and allow you to visualize scents. While wearing the mask over your eyes, you gain advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight and smell.
 

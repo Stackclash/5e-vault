@@ -13,12 +13,18 @@ weight: 10
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Dwarven Boozehound's Backpack
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dwarven-Boozehounds-Backpack.webp#right)  
 
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large, silver tank is nearly 3 feet tall and produces its own magical ale. It has several knobs alongside it and a tapered hose attached to the bottom. The tank holds 8 gallons of [[/5. Mechanics/Items/Ale Gallon.md\|ale]] and completely refills daily at dawn. When you attune to the tank for the first time, it immediately fills with the magical ale. The tank is supported with several leather straps, allowing it to be easily carried. Regardless of how much ale is inside the tank, it always weighs 10 pounds.
 

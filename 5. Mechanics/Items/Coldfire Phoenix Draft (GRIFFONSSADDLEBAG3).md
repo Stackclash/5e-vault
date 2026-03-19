@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Coldfire Phoenix Draft
 *Potion, minor, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Coldfire-Phoenix-Draft.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This frigid potion is made from Everglacier ice that's been boiled by the flames of a phoenix. A single, downy phoenix feather rests inside the bottle, which has turned blue from the potion's magic.
 

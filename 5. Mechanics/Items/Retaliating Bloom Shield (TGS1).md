@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Retaliating Bloom Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
@@ -21,6 +24,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This steel shield hides a slim chamber in its center where magical flora grow and release toxic pollen. The chamber is covered with an intricate, interlocking series of metal plates and flaps that, once released, resembles a flower.
 

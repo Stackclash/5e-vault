@@ -14,10 +14,16 @@ rarity: very-rare
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Ghost Step Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Produced by a special needle, this tattoo shifts and wavers on the skin, parts of it appearing blurred.
 

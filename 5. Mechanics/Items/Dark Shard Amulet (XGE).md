@@ -14,10 +14,16 @@ attunement-requirement:
   - warlock
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Dark Shard Amulet
 *Wondrous item, minor, common (requires attunement by a warlock)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This amulet is fashioned from a single shard of resilient extraplanar material originating from the realm of your warlock patron. While you are wearing it, you gain the following benefits:
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Boreal Pendant
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Boreal-Pendant.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This enlarged, floating snowflake is magically held in place and changes its shape as temperatures fluctuate. While attuned to the pendant you have resistance to cold damage and give off an aura of cheeriness. The snowflake has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges each day at dawn. While wearing it, you can expend 1 or more of its charges to cast the following spells using a spell save DC of 15:
 

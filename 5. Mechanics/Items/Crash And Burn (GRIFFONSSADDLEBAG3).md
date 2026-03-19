@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Crash and Burn
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Crash-and-Burn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These blocky metal gloves have a small magical furnace burning inside them. While wearing this pair of magic gloves, you gain a +1 bonus to the attack and damage rolls of any unarmed strikes made with them, which deal `dice:1d4|noform|noparens|avg` (`1d4`) bludgeoning damage on a hit (unless your unarmed strike damage is already higher). The gloves have 4 charges for the following properties and regain all expended charges daily at dawn.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Mimic's Smilemaker
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mimics-Smilemaker.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bone-handled brush can clean your teeth exceptionally well, resulting in magically fresh breath with every use. You can clean your teeth using the brush over the course of 1 minute. Parts of a mimic's tongue are used to make a comfortable grip and scrubber. The brush creates its own frothing cleaning solution when it's used.
 

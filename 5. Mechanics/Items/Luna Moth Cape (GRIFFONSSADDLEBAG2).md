@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Luna Moth Cape
 *Wondrous item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Luna-Moth-Cape.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This beautiful elven cape is fashioned after the wings of a luna moth. While wearing the cape, you can move an extra 10 feet when you take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action.
 

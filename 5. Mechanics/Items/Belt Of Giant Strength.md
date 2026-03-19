@@ -10,11 +10,17 @@ aliases:
   - Belt of Giant Strength
 attunement: true
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Belt of Giant Strength
 *Wondrous item (requires attunement)*  
 ![[/5. Mechanics/Items/img/belt-of-giant-strength.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 

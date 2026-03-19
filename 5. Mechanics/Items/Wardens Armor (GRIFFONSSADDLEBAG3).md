@@ -17,11 +17,17 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Warden's Armor
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wardens-Armor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heavy armor feels natural to wear, as if you've had it for years. If you are proficient with medium armor (but not heavy), you are proficient with warden's armor, and it is considered medium armor for you while you wear it. If the armor normally has a Strength requirement, the requirement for this version of the armor is reduced by 2.
 

@@ -10,10 +10,16 @@ aliases:
   - Book of Eibon
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Book of Eibon
 *Wondrous item, legendary (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fragmentary black book is reputed to descend from forgotten realms of Hyperborea. It contains puzzling guidelines for frightful necromantic rituals and maddening interdimensional travel.
 

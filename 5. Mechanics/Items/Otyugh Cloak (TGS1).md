@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Otyugh Cloak
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Otyugh-Cloak.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gruesome, magical [[/5. Mechanics/Bestiary/Aberration/Otyugh.md\|otyugh]] pelt still holds some of its natural abilities. A single tendril bearing three eyes hangs from the back of the cloak's hood. While wearing the cloak, you can use an action to telepathically communicate with a creature you can see within 60 feet of you that can understand a language, sending either simple messages or images when you do. The receiving creature can't respond to these messages.
 

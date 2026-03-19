@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Locket of the Stolen Heart
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Locket-of-the-Stolen-Heart.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The portrait inside this tiny golden locket transforms to depict the creature you love most (living or dead) once you attune to it. The love can be familial, romantic, or otherwise devotional. If your feelings change and you fall in love with a different creature while wearing the locket, the portrait transforms again to reflect your current feelings. While wearing the locket, you're immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]].
 

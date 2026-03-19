@@ -14,11 +14,17 @@ attunement-requirement:
   - cleric of good alignment
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Celestial Circlet
 *Wondrous item, major, very rare (requires attunement by a cleric of good alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Celestial-Circlet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden circlet radiates holy energy. A thin halo hovers above your head while you wear it, emitting bright light in a 20-foot radius and dim light for another 20 feet. Small motes of holy light swirl around the apex of the circlet.
 

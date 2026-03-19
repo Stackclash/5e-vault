@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Robe of the Sunless
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Robe-of-the-Sunless.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The folds of this robe are virtually undetectable, as any light that touches it is mysteriously absorbed. Whenever you take radiant damage while wearing this cloak, you can use your reaction to reduce that damage by `dice:1d10+10|noform|noparens|avg` (`1d10 + 10`). If you have the Sunlight Sensitivity trait, you are unaffected by that trait while wearing the robe.
 

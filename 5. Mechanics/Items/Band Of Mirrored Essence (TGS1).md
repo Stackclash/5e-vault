@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Band of Mirrored Essence
 *Ring, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Band-of-Mirrored-Essence.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This unassuming platinum ring is polished to a mirror finish. When you reduce a Small or larger hostile creature to 0 hit points while wearing the ring, you can use your reaction to absorb a portion of that creature's essence into the ring. Looking into the ring shows the reflection of the creature whose essence is held inside. As an action, you can release the captured essence and assume either the creature's appearance or one of its features.
 

@@ -10,11 +10,17 @@ aliases:
   - Amulet of the Forest
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Forest
 *Wondrous item, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This green amulet possesses two sparkling motes of light inside of it. While wearing this amulet, you may spend 1 minute focusing on a living tree within 5 feet of you. If you do so, you gain an innate bond with that tree that lasts for the next 24 hours. This bond grants the tree a low level of sentience, similar to the [[/5. Mechanics/Spells/Speak With Plants.md\|speak with plants]] spell, with the additional bonus that you and the tree may communicate over any distance so long as you are both on the same plane of existence. You may also spend your action to experience what the tree is experiencing until the start of your next turn, during which you are [[/5. Mechanics/Rules/Conditions.md#Deafened\|deaf]] and [[/5. Mechanics/Rules/Conditions.md#Blinded\|blind]] regarding your own senses.
 

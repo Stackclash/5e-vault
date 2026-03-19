@@ -9,11 +9,17 @@ aliases:
   - Living Dentures
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Living Dentures
 *Wondrous item, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of dentures automatically adapts itself to fit inside the mouth of any Medium or smaller creature that attempts to insert it. These dentures automatically fill in any missing teeth of that creature. If you have these dentures inserted, you may spend an action to concentrate on them to give them the appearance of other teeth such as buck teeth or fangs, but no matter what form they take, these dentures are no stronger than human teeth.
 

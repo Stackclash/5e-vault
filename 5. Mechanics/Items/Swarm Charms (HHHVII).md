@@ -9,11 +9,17 @@ aliases:
   - Swarm Charms
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Swarm Charms
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of 4 paper charms on silver chains share an innate connection with each other that allows their wearers to act as if they were one entity. Any willing creature wearing a charm from this set becomes a member of the swarm. Members of the swarm that are on the same plane of existence may communicate with each other telepathically, including the sending of memories and images. In addition, the Intelligence scores of all members of the swarm become equal to that of the member with the highest Intelligence score within 30 feet of them. If a member removes their charm or moves farther than 30 feet away, their Intelligence score returns to normal.
 

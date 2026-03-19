@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: short-rest
 ---
 # Battlechef's Heated Skillet
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), rare*  
@@ -25,6 +28,9 @@ subtype:
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This iron skillet is magically light and wieldy in your grasp, allowing you to swing it as a weapon. You gain a +1 bonus to attack and damage rolls made with this magic weapon. If you're proficient with [[/5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]], you're proficient with the battlechef's heated skillet.
 

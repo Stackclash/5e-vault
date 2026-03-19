@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Rings of Spell Sharing
 *Ring, major, legendary (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Rings-of-Spell-Sharing.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of purple rings are linked by a magical force. Each ring displays an outstretched hand. One ring's hand looks to be casting a spell from a gemstone, while the other ring's hand levitates a larger gem above it; the former is a Siphoning ring, and the latter is a Channeling ring. Only the Channeling ring can be attuned to.
 

@@ -16,6 +16,9 @@ rarity: rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Shellguard Armor
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), rare (requires attunement)*  
@@ -23,6 +26,9 @@ subtype:
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The front of this armor is adorned with a large shell design, which covers your chest. The metal has a pearlescent shimmer. You gain a +1 bonus to AC while wearing this armor. In addition, you can breathe underwater and gain a swimming speed equal to your walking speed.
 

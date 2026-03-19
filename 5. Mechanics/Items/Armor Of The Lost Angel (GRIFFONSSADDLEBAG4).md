@@ -18,6 +18,9 @@ rarity: legendary
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of the Lost Angel
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), cursed item, legendary (requires attunement)*  
@@ -28,6 +31,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark armor is covered in feathery ornamentations and streaks of scarlet. While wearing it, you gain resistance to fire and poison damage, and you can use a bonus action to extend a pair of spectral wings from your back. The color of the wings' feathers is determined by your alignment: black (evil), gray (neutral), or white (good). The wings remain until you use a bonus action to end the effect, during which time you have a flying speed of 30 feet.
 

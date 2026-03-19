@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Killskull Longbow of Dread
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic longbow is adorned with a bear skull and claws. The bow holds up to 4 charges and gains 1 charge whenever you reduce a Small or larger creature to 0 hit points with it. For each charge the bow has, a small, etched line appears on the bear skull adorning the weapon. An etched line vanishes from the skull when its charge is expended.
 

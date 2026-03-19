@@ -15,11 +15,17 @@ attunement-requirement:
   - higher
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Blue Vanguard's Glory
 *Major, very rare (requires attunement by a creature with a constitution score of 17 or higher)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blue-Vanguards-Glory.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brilliant deep blue armor is the bulwark for the king's royal front rank. While you have more than half your Hit Dice remaining, you can spend 1 of them as a bonus action to gain a +2 bonus to AC until the start of your next turn.
 

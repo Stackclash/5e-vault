@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Coralshield Golem
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crablike golem is made of a light but resilient magical coral. While wearing it on your back, you can use a bonus action to command it to move along your arm and don itself. You can command the golem to return to your back using another bonus action.
 

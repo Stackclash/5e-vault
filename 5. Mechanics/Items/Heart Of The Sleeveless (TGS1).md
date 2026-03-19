@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heart of the Sleeveless
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Heart-of-the-Sleeveless.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This vest is made from a luxurious, silky material that seems to always make the wearer appear more fit. The clothing gently hugs the wearer, redistributing weight and muscle to flatter and accentuate their physique. It seems to deflate sadly once taken off.
 

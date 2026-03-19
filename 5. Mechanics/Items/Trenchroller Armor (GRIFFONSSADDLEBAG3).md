@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Trenchroller Armor
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Trenchroller-Armor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heavy, rounded armor is marked by a glowing crystal at its center. While wearing the armor, you gain a +1 bonus to your AC. As a bonus action, you can transform into a 2-foot-diameter metallic sphere. Your equipment melds into the new form. While transformed, your size is Small, and opportunity attacks against you are made with disadvantage. Your senses are unaffected while in this form, although you don't need to breathe for the duration. Your AC also remains the same, but you can only take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]], Disengage, or [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action. You can use a bonus action to take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action while transformed.
 

@@ -17,11 +17,17 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Alchemical Compendium
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Acrid odors cling to this stained, heavy volume. The book's metal fittings are copper, iron, lead, silver, and gold, some frozen mid-transition from one metal to another. When found, the book contains the following spells: [[/5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]], [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]], [[/5. Mechanics/Spells/Flesh To Stone.md\|flesh to stone]], [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[/5. Mechanics/Spells/Magic Weapon.md\|magic weapon]], and [[/5. Mechanics/Spells/Polymorph.md\|polymorph]]. It functions as a spellbook for you.
 

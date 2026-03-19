@@ -16,11 +16,17 @@ attunement-requirement:
   - wizard
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Seer's Starlight Cloak
 *Wondrous item, minor, uncommon (requires attunement by a cleric, druid, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Seers-Starlight--Cloak-.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This deep purple cloak is hemmed with a silver lining that radiates into starburst patterns around the head and arms. When in darkness, tiny stars can be seen from within the cloak's fabric. A constellation of stars in the shape of an eye can always be seen on the front of the cloak's dramatic hood. While wearing the cloak, you can use an action to cast the [[/5. Mechanics/Spells/Guidance.md\|guidance]] spell.
 

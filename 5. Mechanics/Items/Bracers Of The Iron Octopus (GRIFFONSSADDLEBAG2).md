@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bracers of the Iron Octopus
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bracers-of-the-Iron-Octopus.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These iron bracers are ornamented with an embossed octopus and tentacle designs. While wearing the bracers, you gain a +5 bonus on ability checks and saving throws to resist and escape from being [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]].
 

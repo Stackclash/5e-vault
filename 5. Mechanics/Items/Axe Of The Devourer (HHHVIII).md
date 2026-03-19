@@ -19,11 +19,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Axe of the Devourer
 *Cursed item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Whenever you deal a lethal blow to a creature with this weapon, your maximum and current hit points increase by an amount equal to the amount of hit points that creature had remaining just before you killed it. This increase remains until the end of your next long rest.
 

@@ -16,12 +16,18 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Shadow-Fletched Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Shadow-Fletched-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This arrow is barbed with unforgiving spikes and releases a plume of magical shadow when shot. When a creature is hit by the arrow, it must make a DC 15 Constitution saving throw. A creature's Strength score is reduced by `dice:2d4|noform|noparens|avg` (`2d4`) for 1 hour on a failed save, or by half as much on a successful one. This effect can't reduce a creature's Strength score below 6. The arrow then becomes nonmagical.
 

@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Whiffwater Potion
 *Potion, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Whiffwater-Potion.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small glass bottle is in the shape of a nose. The potion inside is a tasteless, gelatinous goo. When you use an action to drink the potion, your breath becomes visible for 1 hour. During that time, you can change what color your breath appears to be. In addition, when you describe a smell using sensory language, your breath's smell changes to reflect the smell you're describing.
 

@@ -10,11 +10,17 @@ aliases:
   - Gem of Teleportation
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Gem of Teleportation
 *Wondrous item, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gem has 5 charges. While holding this gem, you may spend your action and 1 charge in order to teleport yourself and any equipment you are wearing or carrying up to 60 feet to an unoccupied space you can see. This gem regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) charges at dawn.
 

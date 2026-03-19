@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lucky Horseshoes
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Lucky-Horseshoes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Lucky horseshoes normally come in a set of four: one for each of a horse's hooves. Each one shines with a brilliant, brassy luster and has a single four-leaf clover at its center. While all four shoes are affixed to the hooves of a horse or similar creature, the creature gains a +1 bonus to any ability check or saving throw it makes.
 

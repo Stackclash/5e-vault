@@ -9,10 +9,16 @@ aliases:
   - Oil of Defoliation
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Oil of Defoliation
 *Wondrous item, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Sometimes known as weedkiller oil, this greasy brown fluid contains the crushed husks of dozens of locusts. One vial of the oily substance can coat one weapon or up to five pieces of ammunition. Applying the oil takes 1 minute. Once applied, the coated weapon or ammunition deals an additional `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage to plants or plant creatures on every successful hit for the next hour.
 

@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battlebeat Club
 *Weapon ([[/5. Mechanics/Items/Club.md\|club]]), uncommon*  
@@ -26,6 +29,9 @@ subtype:
 - **Damage**: 1d4 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weapon creates a resonant, drumming sound whenever it hits a surface. A creature hit with the club takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) thunder damage from it. When you roll a 20 on an attack roll made with this weapon, the target of the attack must also succeed on a DC 13 Wisdom saving throw or be compelled to dance until the end of its next turn. A dancing creature must use all its movement to dance without leaving its space and has disadvantage on attack rolls and Dexterity saving throws. Other creatures have advantage on attack rolls made against a dancing creature. The creature ceases to dance if it takes any damage. Creatures that can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] are immune to this effect.
 

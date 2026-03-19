@@ -16,12 +16,18 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Camper's Respite
 *Rod, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Campers-Respite.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod weighs 3 pounds and has an iron brazier at its top and spike at its base. You can use a bonus action while holding the rod to speak its first command word and create a magical flame at its top. While lit, this rod functions as a burning torch. You can use a bonus action to speak its command word again to extinguish the flame.
 

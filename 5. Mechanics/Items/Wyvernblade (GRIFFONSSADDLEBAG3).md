@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wyvernblade
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wyvernblade.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blade's guard is fashioned after a wyvern in its design. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Nexus Mirror
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), cursed item, major, rare (requires attunement)*  
@@ -23,6 +26,9 @@ tier: major
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver shield is polished to a mirror finish. Its front is made from a pair of metal doors with lion-headed fixtures. Reflections seen in the shield's surface appear distorted, as if they're seen through a strange fog. While attuned to the shield, you suffer none of the appearance or frailty of old age, although you can still die from it.
 

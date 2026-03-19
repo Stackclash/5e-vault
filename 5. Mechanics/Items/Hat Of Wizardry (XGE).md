@@ -14,10 +14,16 @@ attunement-requirement:
   - wizard
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Hat of Wizardry
 *Wondrous item, minor, common (requires attunement by a wizard)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This antiquated, cone—shaped hat is adorned with gold crescent moons and stars. While you are wearing it, you gain the following benefits:
 

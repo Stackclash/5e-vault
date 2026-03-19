@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Purity Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, legendary (requires attunement by a good-aligned creature)*  
@@ -36,6 +39,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This beautiful spear has a long handle carved of ivory and is tipped with the spiraling horn of a unicorn. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

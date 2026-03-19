@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Criir's Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, artifact (requires attunement)*  
@@ -30,6 +33,9 @@ subtype:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mighty blade belongs to the Astral Griffon Criir, a patron deity of artisans and craftsmen. Only a creature chosen by Criir can attune to this weapon, which is shared by those deemed worthy across the multiverse. Heroes selected to wield the blade are often set on great adventures across the planes of existence, and typically share at least some of the astral griffon's passion for creation.
 

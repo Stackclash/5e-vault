@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Toadstool Veil
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Toadstool-Veil.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 To wear this wide-brimmed cap, you must use an action to secure it in place with a veil, which is tied around your chin. While wearing it, glimmering spores drift down from the cap and linger around you. The top of the cap is plushly made and flops from side to side. You can use an action to magically change the appearance of the mushroom cap while wearing it. Regardless of its new appearance, it must still resemble a mushroom.
 

@@ -12,11 +12,17 @@ weight: 0.5
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Tricks, Rust
 *Wondrous item, major, uncommon*  
 
 - **Weight**: 0.5 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ordinary bag, made from rust cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.
 

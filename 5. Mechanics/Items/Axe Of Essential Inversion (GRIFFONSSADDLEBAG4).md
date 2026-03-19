@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Axe of Essential Inversion
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), legendary (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This axe's mighty twin blades are edged with ruby and sapphire. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d12|noform|noparens|avg` (`1d12`) force damage to any celestial or fiend it hits.
 

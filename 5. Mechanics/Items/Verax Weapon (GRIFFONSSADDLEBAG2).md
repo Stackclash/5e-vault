@@ -24,11 +24,17 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Verax Weapon
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Verax-Weapon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A verax weapon has been made by quenching its metal in the blood of a particular creature while being forged, enchanting the weapon with a magic that hunts down creatures of the chosen type. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

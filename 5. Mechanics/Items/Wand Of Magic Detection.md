@@ -16,12 +16,18 @@ tier: minor
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Magic Detection
 *Wand, minor, uncommon*  
 ![[/5. Mechanics/Items/img/wand-of-magic-detection.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]] spell from it. The wand regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
 

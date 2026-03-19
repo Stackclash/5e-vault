@@ -16,6 +16,9 @@ rarity: legendary
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kraken Tunic
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), legendary (requires attunement)*  
@@ -24,6 +27,9 @@ subtype:
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 13.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you gain a +3 bonus to your AC. In addition, you gain the following benefits:
 

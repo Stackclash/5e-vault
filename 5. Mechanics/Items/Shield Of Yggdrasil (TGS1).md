@@ -18,6 +18,9 @@ attunement-requirement:
   - higher
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Shield of Yggdrasil
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a creature with a Strength score of 17 or higher)*  
@@ -25,6 +28,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You must have a Strength of 17 or higher in order to wield this massive, magical tower shield. The shield is of dwarven make and functions as a small battlement, granting you an additional +1 bonus to your AC while you wield it. This bonus is in addition to the shield's normal bonus to AC.
 

@@ -14,11 +14,17 @@ attunement-requirement:
   - wizard
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crown of the Mindmaster Matriarch
 *Wondrous item, major, rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Crown-of-the-Mindmaster-Matriarch.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden crown is inset with a powerful fire ruby and veiled with light, mithral chain. The crown's descending prongs overlap with your temples and third eye, expanding your mind's commanding reach. While wearing this crown, you can use an action to cast the [[/5. Mechanics/Spells/Rarys Telepathic Bond.md\|telepathic bond]] spell from it.
 

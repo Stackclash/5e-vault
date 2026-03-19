@@ -14,12 +14,18 @@ attunement-requirement:
   - spellcaster
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Weaver's Guise
 *Wondrous item, cursed item, major, uncommon (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Shadow-Weavers-Guise.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This patchwork gray cloak has three bone clasps at its neck. Whenever you cast an evocation spell that deals damage while wearing this cloak, you can choose to change its damage type to necrotic for that casting of the spell.
 

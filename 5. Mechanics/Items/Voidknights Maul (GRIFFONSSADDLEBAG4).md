@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Voidknight's Maul
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), very rare (requires attunement by a paladin)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The crystalline head of this magic hammer has been bathed in the latent magic of the Astral Plane for untold millennia. You gain a +2 bonus to attack and damage rolls made with this magic weapon. While you remain attuned to it, you age at one-tenth your normal rate.
 

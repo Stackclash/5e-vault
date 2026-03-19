@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ramp-Up Ring
 *Ring, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ramp-Up-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The swirls that cover this golden ring seem to slowly writhe. The ring can hold up to 3 charges, and it gains 1 charge at the start of each of your turns in combat. If you score a critical hit while in combat, it immediately gains 3 charges, up to its maximum.
 

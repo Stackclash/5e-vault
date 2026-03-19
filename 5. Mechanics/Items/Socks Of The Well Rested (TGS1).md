@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Socks of the Well-Rested
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Socks-of-the-Well-Rested.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Wearing these comfortable enchanted socks allows you to recover an additional Hit Die (up to your maximum) upon finishing a long rest. You must be wearing both socks on your feet in order to gain this benefit. You can only benefit from wearing one pair of these socks at a time.
 

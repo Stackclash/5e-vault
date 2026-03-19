@@ -9,11 +9,17 @@ aliases:
   - Horn of the Fiendish Voice
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horn of the Fiendish Voice
 *Wondrous item, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you speak into this horn, your voice becomes magically amplified to twice its volume and is changed to sound deeper and more intimidating. A creature that hears this voice may make a DC 10 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to realise it is artificial.
 

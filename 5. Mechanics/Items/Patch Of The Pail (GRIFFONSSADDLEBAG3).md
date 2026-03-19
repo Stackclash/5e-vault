@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Patch of the Pail
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Patch-of-the-Pail.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This canvas patch can be magically attached to a piece of clothing by pressing it against the clothing for 1 minute. The patch remains on the clothing until you remove it. While it's attached to a piece of clothing, the patch's water design magically reshapes itself to always remain level.
 

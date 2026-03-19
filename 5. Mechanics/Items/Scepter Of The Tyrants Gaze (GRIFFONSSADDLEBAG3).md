@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Scepter of the Tyrant's Gaze
 *Rod, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scepter-of-the-Tyrants-Gaze.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded rod features a sculpted eye bound within a mass of entangled tentacles. At the center of the eye is a dark gemstone. While holding the rod, you have advantage on saving throws against spells.
 

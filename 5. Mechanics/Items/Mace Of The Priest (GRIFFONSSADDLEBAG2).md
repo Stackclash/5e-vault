@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Mace of the Priest
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement by a cleric)*  
@@ -30,6 +33,9 @@ subtype:
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic mace is carried by priests and is a symbol of their devotion to ridding the world of evil. While holding it, you can use a bonus action to adjust its telescoping haft, changing it from a [[/5. Mechanics/Items/Mace.md\|mace]] to a [[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]], and vice versa. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

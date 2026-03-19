@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Tag
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Shadow-Tag.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver coin is embossed with the visage of a hooded, near-faceless figure with eyes that are always dark. While holding the coin, you can use an action to whisper its command word and toss it into a creature's shadow that you can see within 10 feet of you. When you do, the coin magically dissolves and tags the creature's shadow, causing a smoky, pitch-dark copy of the coin to appear in your hand instead.
 

@@ -9,11 +9,17 @@ aliases:
   - Mister Bottle
 attunement: false
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Mister Bottle
 *Wondrous item, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mister-Bottle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The sound of sloshing liquid can be heard from this flask whenever you swish it around, even if the flask is empty. You can use an action while holding the empty flask to speak the name of one of the following liquids: beer, honey, mayonnaise, oil, vinegar, water (fresh or salt), or wine. When you do, 8 ounces of that liquid appears within the flask. Afterward, you can use an action to open the flask and either pour the liquid out or drink it.
 

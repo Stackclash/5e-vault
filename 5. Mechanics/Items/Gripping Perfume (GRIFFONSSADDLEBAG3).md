@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gripping Perfume
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Gripping-Perfume.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 1-ounce bottle of perfume is decorated with a ceramic octopus at its top. Its head is actually a fabric balloon, which allows the holder to spray the perfume through one of the octopus's tentacles. The perfume looks like a dark ink when sprayed, but immediately absorbs into the skin and disappears. It does, however, stain clothing.
 

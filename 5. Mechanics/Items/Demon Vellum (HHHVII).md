@@ -9,12 +9,18 @@ aliases:
   - Demon Vellum
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Demon Vellum
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/DemonVellum.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ashy grey vellum is crafted from the skin of a demon and is capable of summoning other demons when it is used to channel words of power. A wizard may choose to inscribe one of their known spells on this sheaf of vellum and insert it into their spellbook. If they do so, whenever they cast that spell, they may cast it as if they had cast it using the highest spell slot level their wizard level would grant them, regardless of the level of the spell slot they actually used.
 

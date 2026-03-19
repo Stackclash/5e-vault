@@ -12,6 +12,9 @@ armorClass: 2
 weight: 6
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battlebeat Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), uncommon*  
@@ -19,6 +22,9 @@ rarity: uncommon
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC. In addition, any thunder damage you take while holding the shield is reduced by `dice:1d6|noform|noparens|avg` (`1d6`).
 

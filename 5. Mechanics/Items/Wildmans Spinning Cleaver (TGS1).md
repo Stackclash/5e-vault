@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wildman's Spinning Cleaver
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, very rare (requires attunement by a barbarian)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This elaborate weapon channels your bloodlust. You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you hit with a ranged attack with this weapon while you're raging, you can add your Rage Damage bonus to the attack's damage. Immediately after making a ranged attack, the weapon flies back to your hand.
 

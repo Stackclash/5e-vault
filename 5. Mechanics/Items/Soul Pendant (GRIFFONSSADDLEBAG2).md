@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Soul Pendant
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Soul-Pendant.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mithral pendant holds a cleanly cut diamond at its center and hangs from a string of polished prayer beads. The pendant has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. When a creature that you can see within 60 feet of you dies while you're wearing this necklace, you can use your reaction to expend 1 of the pendant's charges and speak its command word. When you do, that creature's soul becomes trapped in the pendant for 24 hours or until you use this property of the pendant again as a reaction or you choose to release it as a bonus action on your turn. A nonliving creature or creature without a soul, such as a construct or undead, is immune to this effect. While a soul is trapped in the pendant, you gain a +2 bonus to Wisdom ability checks and Wisdom saving throws while you're wearing it.
 

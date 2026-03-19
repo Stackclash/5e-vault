@@ -13,11 +13,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Rod of Seasons
 *Rod, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod has 4 charges. While holding it, you can use your action to swing it, expending a charge and creating a magical, 30-foot radius aura centered on the rod for the next 10 minutes. This aura becomes a self-contained atmosphere with an effect determined by the season that you designate when you swing the rod which you may choose from below:
 

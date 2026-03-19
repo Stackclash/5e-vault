@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hagstone Amulets
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Hagstone-Amulets.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A hagstone is a naturally occurring stone that's pockmarked with holes and crystalline veins. To be transformed into a magical hagstone amulet, it must be made by a hag. If a hag decides to give away one of these amulets, it always comes at a price.
 

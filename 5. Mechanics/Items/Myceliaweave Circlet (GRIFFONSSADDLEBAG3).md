@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Myceliaweave Circlet
 *Wondrous item, cursed item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Myceliaweave-Circlet.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fungus-covered wooden circlet is riddled with a tangled web of mycelia. While wearing it, you are always under the effects of the [[/5. Mechanics/Spells/Speak With Plants.md\|speak with plants]] spell. This version of the spell only allows you to understand and speak to fungi, instead of all plants. In addition, your Constitution score increases by 2, to a maximum of 22, and you are immune to poison damage. Whenever you would take poison damage, you can instead spend one Hit Die to magically regain hit points (no action required). When you do, roll the Hit Die, add your Constitution modifier, and regain a number of hit points equal to the total.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Grasping Seedling Necklace
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Grasping-Seedling-Necklace.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This necklace features a tiny teardrop glass bauble connected to a metal stopper. It hangs from a plain string or bit of leather cording. Inside the bauble is a single seed, which grows a little bit each day and into a small seedling. The seedling gains 1 charge daily at dawn, up to a maximum of 7 charges. The seedling has 1 leaf for each charge it has. When found, it has `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) charges.
 

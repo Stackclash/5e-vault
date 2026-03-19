@@ -25,12 +25,18 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Magmarath Molten Blaster
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Magmarath-Molten-Blaster.webp#right)  
 
 - **Damage**: 2d8 fire
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Molten veins glimmer from beneath this magic weapon's volcanic body. The crossbow magically creates and loads its own ammunition whenever the drawstring is pulled back, forming a bolt of condensed lava each time. On a hit, it deals `dice:2d8|noform|noparens|avg` (`2d8`) fire damage, instead of the weapon's normal damage. You still add your Dexterity modifier to this damage roll. The ammunition crumbles and turns to ash immediately after it hits or misses a target or if it's removed from the crossbow.
 

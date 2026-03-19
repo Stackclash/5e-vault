@@ -13,11 +13,17 @@ attunement-requirement:
   - bard
   - trickster domain cleric
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mask of Clouds
 *Wondrous item, very rare (requires attunement by a bard or [[/5. Mechanics/Classes/Cleric.md\|Trickster Domain]] cleric)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This two-faced mask has been imbued with divine energy siphoned from a cloud giant smiling one mask.
 

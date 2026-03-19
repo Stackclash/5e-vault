@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Spirit Pike
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement by a cleric)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 1d10 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you're not proficient with pikes, you are nevertheless proficient with the spirit pike while you're attuned to it. When you cast the [[/5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]] spell, you can dissolve this weapon into the air and command the spell's spectral weapon to take the form of the spirit pike. Your spell attacks with this spectral weapon deal force damage equal to `dice:1d10|noform|noparens|avg` (`1d10`) + your spellcasting modifier instead of its normal damage. The spell's damage still increases by `dice:1d8|noform|noparens|avg` (`1d8`) for every two slot levels you use to cast the spell above 2nd.
 

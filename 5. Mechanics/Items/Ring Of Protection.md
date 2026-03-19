@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Protection
 *Ring, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/ring-of-protection.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to AC and saving throws while wearing this ring.
 

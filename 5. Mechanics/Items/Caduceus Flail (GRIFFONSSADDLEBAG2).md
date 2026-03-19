@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Caduceus Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare (requires attunement by a cleric or paladin)*  
@@ -31,6 +34,9 @@ subtype:
 
 - **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This holy flail serves as a conduit for divine warriors and pulses with holy light, allowing you to fend off evil while protecting the wounded. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While holding the flail, you can use a bonus action to speak the weapon's command word to cause it to glow, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. The light lasts until you use a bonus action to speak the command word again or until you drop or stow the flail. When you hit an undead with the glowing flail, that target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage.
 

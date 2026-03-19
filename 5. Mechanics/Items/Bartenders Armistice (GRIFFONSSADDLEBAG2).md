@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bartender's Armistice
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bartenders-Armistice.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A *bartender's armistice* is a magical coaster typically kept by wary tavernkeepers for cases of extreme danger. When found, a bartender's armistice comes in a set of `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) coasters. Each coaster is 4 inches across, and its weight is negligible.
 

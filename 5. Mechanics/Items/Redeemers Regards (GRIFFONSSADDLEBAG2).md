@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Redeemer's Regards
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement by a paladin)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A bow designed for holy warriors who prefer to keep evil at a distance. Any ranged attack you make with this weapon is considered to be a melee weapon attack for the purposes of using your Divine Smite feature and meeting the requirements of any paladin spell you cast with "smite" in its name.
 

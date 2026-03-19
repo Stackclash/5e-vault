@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dune Cowl
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dune-Cowl.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tough leather hat and cowl help protect you against the extreme heat and sun of the desert. While wearing the cowl, you can withstand temperatures as hot as 200 degrees Fahrenheit, and if you have the Sunlight Sensitivity trait, you are unaffected by the trait while wearing the hat.
 

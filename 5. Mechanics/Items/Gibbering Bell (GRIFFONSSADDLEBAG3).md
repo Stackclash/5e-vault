@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gibbering Bell
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Gibbering-Bell.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A piece of gibbering mouther has been latched onto this rusted handbell. When swung through the air, the bell produces a grotesque, fleshy sound instead of a bell's typical metallic clamor. The mouth of the bell also serves as the mouth of the attached monster, biting down on anything that comes too close. As a result, you can use this bell as a makeshift club that deals `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage, instead of its normal damage die, as the mouther bites down on the target as opposed to bludgeoning it.
 

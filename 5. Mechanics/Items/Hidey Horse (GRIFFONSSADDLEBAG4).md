@@ -10,12 +10,18 @@ aliases:
 weight: 10
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hidey Horse
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hidey-Horse.webp#right)  
 
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hollow metal horse is as large and heavy as a riding horse, although the space beneath its legs is covered by metal sheets. It has small windows and a door on its side, which can be opened using an action. The door is large enough for a Medium creature to squeeze through it. Inside the metal horse is enough space for two Medium or three Small creatures to stand; you can use an action to switch places with another creature within the horse. The bottom of the horse is covered in miniature wheels, and the floor is exposed below it. If you're at the front of the horse, it and any other creatures within it magically move with you while you walk beneath it.
 

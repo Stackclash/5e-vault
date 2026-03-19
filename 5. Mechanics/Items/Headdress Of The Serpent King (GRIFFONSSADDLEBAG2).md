@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Headdress of the Serpent King
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Headdress-of-the-Serpent-King.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gold and emerald green headdress channels old and twisting serpentine magic to your bidding. If you take poison damage while wearing this headdress, that damage is reduced by an amount equal to your Constitution modifier.
 

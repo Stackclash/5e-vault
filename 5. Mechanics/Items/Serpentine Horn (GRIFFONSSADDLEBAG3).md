@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Serpentine Horn
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Serpentine-Horn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This metal warhorn is coiled in a tight spiral and sculpted in the shape of a lunging serpent. You can use an action to blow the horn, which is audible out to a range of 150 feet. Each creature within 30 feet of you that can hear the horn must make a DC 13 Wisdom saving throw. On a failed save, a creature can't move in a straight line, and must zigzag, moving back and forth diagonally, toward its destination whenever it moves until the end of your next turn.
 

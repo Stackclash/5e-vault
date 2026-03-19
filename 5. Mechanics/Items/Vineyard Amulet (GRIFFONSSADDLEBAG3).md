@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vineyard Amulet
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Vineyard-Amulet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This necklace is a sprig of an enchanted grapevine that magically grows in a loop. A small grape cluster hangs from it like a pendant, which carries `dice:1d12+10|noform|noparens|avg` (`1d12 + 10`) grapes on it when found. You can pull one of the berries from the necklace using an action, which magically transforms the grape into a bottle of fine wine worth no more than 10 gp. You choose the color and kind of wine each time.
 

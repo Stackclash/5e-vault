@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Film
 *Scroll, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-Film.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Unlike normal scrolls, a scroll of film has multiple uses. Each use requires you to pull out a perforated length of the scroll from its leather case. When found the scroll has `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) lengths.
 

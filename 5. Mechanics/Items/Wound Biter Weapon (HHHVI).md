@@ -22,10 +22,16 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wound Biter Weapon
 *Rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you make a successful hit with this weapon on a creature that is not either an undead or a construct, that creature must succeed on a DC 15 Constitution saving throw or lose `dice:2d6|noform|noparens|avg` (`2d6`) hit points at the start of each of its turns due to an infernal wound. Each time this weapon hits the wounded target, the damage dealt by the wound increases by `dice:2d6|noform|noparens|avg` (`2d6`).
 

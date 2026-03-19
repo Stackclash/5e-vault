@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadowscale Shroud
 *Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, legendary (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Enchanted by powerful drow, this dark and shadowy dragon scale armor protects you from both damage and light. While wearing this armor, you have a +2 bonus to AC and resistance to necrotic damage, and if you have the Sunlight Sensitivity trait, you are unaffected by it.
 

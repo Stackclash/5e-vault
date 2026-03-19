@@ -21,11 +21,17 @@ type: armor
 subtype:
   - light
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloudkept Armor
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Cloudkept-Armor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is buoyed by motes of captured clouds, which have been woven together into a fabric-like hide. While wearing it, you gain a +2 bonus to AC, and your jump distance is increased by 10 feet. If the armor normally imposes disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks, the cloudkept version of the armor doesn't. In addition, the maximum amount of bludgeoning damage you can take from falling is reduced to `dice:1d6|noform|noparens|avg` (`1d6`).
 

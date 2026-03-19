@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Moonwick Candle
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Moonwick-Candle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This candle is made from a gritty wax that, when burnt, creates a cool blue flame. Its hollow silver base is shaped in a crescent with star-shaped holes punched in its sides. While the candle burns, the holes in its base softly glow, and small twinkles of starlight burst from the flickering flame.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rose Quartz Koi
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rose-Quartz-Koi.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This Tiny crystalline sculpture of a fish weighs 2 pounds and looks miraculously lifelike. When you place or release the sculpture at a point underwater, it comes to life and swims around in a 5-foot-cube centered on that point. If placed in a container of salt water that's no larger than 5 feet on a side, the water inside becomes fresh after 10 minutes. You can use an Action to recapture the swimming sculpture.
 

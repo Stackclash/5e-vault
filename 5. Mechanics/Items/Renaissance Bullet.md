@@ -16,11 +16,18 @@ rarity: none
 type: gear
 subtype:
   - ammunition-firearm
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Renaissance Bullet
 *Ammunition (firearm)*  
 
 - **Cost**: 3 sp
 - **Weight**: 0.2 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
+
 
 *Source: Dungeon Master's Guide p. 268*

@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Flask
 *Adventuring gear*  
 
 - **Cost**: 2 cp
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A flask holds 1 pint of liquid.
 

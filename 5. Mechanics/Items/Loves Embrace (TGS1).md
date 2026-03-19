@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Love's Embrace
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, legendary (requires attunement by one or two friendly creatures)*  
@@ -32,6 +35,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon can be attuned to by two friendly creatures together over the course of a long rest. If the weapon is attuned to by two creatures in this way, the weapon's attack and damage bonus becomes +2 instead.
 

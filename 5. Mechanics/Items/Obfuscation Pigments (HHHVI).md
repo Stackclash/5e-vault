@@ -9,11 +9,17 @@ aliases:
   - Obfuscation Pigments
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Obfuscation Pigments
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pot contains enough paint to cover up to 10 square feet of surface area. Any object completely covered by this paint becomes covered in a unique enchantment that makes it elusive and difficult to recognise for the next hour.
 

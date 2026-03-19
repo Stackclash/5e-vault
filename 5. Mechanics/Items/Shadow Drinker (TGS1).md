@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Drinker
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), cursed item, major, very rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 40/80
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wicked dagger can absorb the shadows cast by your enemies. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

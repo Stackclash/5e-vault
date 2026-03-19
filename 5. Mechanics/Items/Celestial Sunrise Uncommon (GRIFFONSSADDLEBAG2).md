@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Celestial Sunrise (Uncommon)
 *Potion, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Celestial-Sunrise.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The following [[/5. Mechanics/Items/Celestial Sunrise (GRIFFONSSADDLEBAG2).md\|celestial sunrise]] is an uncommon variant with additional properties. It also tastes better.
 

@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mistwalker Armor
 *Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, rare (requires attunement)*  
@@ -25,6 +28,9 @@ subtype:
 
 - **Armor Class**: 11 + Dex modifier
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark leather armor releases thin wisps of fog from its seams. While wearing this armor, you can use an action to cast the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell (2nd-level version) from it. Once this property of the armor has been used, it can't be used again until the next dawn.
 

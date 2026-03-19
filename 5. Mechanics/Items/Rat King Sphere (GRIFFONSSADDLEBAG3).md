@@ -13,12 +13,18 @@ weight: 3
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Rat King Sphere
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Rat-King-Sphere.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hollow metal sphere is covered with illustrations of rats, one of which is gilded and wears a small crown. The sphere is 6 inches in diameter and weighs 3 pounds. Holes of various sizes dot its surface, allowing you to peer inside. The sphere is completely empty while a creature isn't attuned to it.
 

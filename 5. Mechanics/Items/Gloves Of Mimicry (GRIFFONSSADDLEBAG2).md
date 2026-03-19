@@ -14,11 +14,17 @@ attunement-requirement:
   - bard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Gloves of Mimicry
 *Wondrous item, major, very rare (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gloves-of-Mimicry.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These brightly colored gloves extend a peculiar psychic magic to your hands and fingers. While wearing the gloves, you can use an action to cast the mage hand spell from them. In addition, you can use an action to cast the [[/5. Mechanics/Spells/Bigbys Hand.md\|arcane hand]] spell from the gloves (save DC 16, spell attack +8). Once the gloves have been used to cast this spell, they can't be used to cast it again until the next dawn.
 

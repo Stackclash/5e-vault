@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chillspike
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, legendary (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d10 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cold steel weapon from the Everglacier is topped with a menacing ice spike that never melts. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The pike deals an extra `dice:1d10|noform|noparens|avg` (`1d10`) cold damage to any target it hits. In addition, attacks with this weapon and its properties ignore resistance to cold damage.
 

@@ -16,12 +16,18 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Baton of Many Sizes
 *Rod, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Baton-of-Many-Sizes.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this segmented, 1-foot-long rod, you can speak its command word as an action to cause it to extend in either direction. The rod can extend up to 50 feet or as far as the surrounding space allows. If the rod touches another creature or surface before reaching its full length, the rod stops moving in that direction. If it stops moving against a solid, unmoving surface, the rod fills the gaps to hold firm against it.
 

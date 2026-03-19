@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ladder (10-foot)
 *Adventuring gear*  
 
 - **Cost**: 1 sp
 - **Weight**: 25.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Ladder (10-foot)
 

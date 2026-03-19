@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battle Tax
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, uncommon (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden battleaxe is the chosen weapon of many merchants and followers of mercantile deities. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

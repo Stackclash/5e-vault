@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Departed Helm
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Departed-Helm.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have resistance to necrotic damage while wearing this helmet. Skeletons and creatures with a challenge rating of 5 or lower with "skeleton" or "skeletal" in the name are also indifferent toward you while you wear it. Such a creature won't attack you unless you threaten or harm them, or unless they're commanded to do so by a creature controlling them. In addition, you can also use an action to determine how long ago a corpse or creature you're touching died or was turned into an undead.
 

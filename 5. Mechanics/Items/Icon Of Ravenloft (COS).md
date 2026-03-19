@@ -13,12 +13,18 @@ attunement: true
 attunement-requirement:
   - creature of good alignment
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Icon of Ravenloft
 *Wondrous item, legendary (requires attunement by a creature of good alignment)*  
 ![[/5. Mechanics/Items/img/icon-of-ravenloft.webp#right]]  
 
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The Icon of Ravenloft is a 12-inch tall statuette made of the purest silver, weighing 10 pounds. It depicts a cleric kneeling in supplication.
 

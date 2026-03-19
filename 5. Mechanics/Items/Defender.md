@@ -25,11 +25,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Defender
 *Major, legendary (requires attunement)*  
 ![[/5. Mechanics/Items/img/defender.webp#right\|Defender (Greatsword)]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 

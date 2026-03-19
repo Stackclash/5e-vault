@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Guiding Eye
 *Wondrous item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Amulet-of-the-Guiding-Eye.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This amulet features two eye-like pendants: one humanoid and one bestial. If you're within 5 feet of a friendly beast, such as a beast companion or familiar (including one created by the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell), you ignore the effects of being [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], provided the beast isn't also [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]].
 

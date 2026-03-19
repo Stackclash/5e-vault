@@ -9,11 +9,17 @@ aliases:
   - Serpent's Cuff
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Serpent's Cuff
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Serpents-Cuff.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this brass ear cuff, you can understand the literal meaning of what snakes say to you, as if by the speak with animals spell, although you have no special ability to speak to them in return. In addition, a tiny, bell-like rattle sits at the end of the snake's tail; it chimes softly in your ear to alert you whenever there's a snake or similar serpentine creatures within 60 feet of you.
 

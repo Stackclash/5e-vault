@@ -13,11 +13,17 @@ rarity: rare
 type: gear
 subtype:
   - oil
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadowflame Oil
 *Oil, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The oil in this vial can be used to coat up to 5 pieces of slashing or piercing ammunition or one slashing or piercing weapon. Applying the oil takes 1 minute. For the next 10 minutes, any creature successfully hit by this weapon or ammunition takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage. If this weapon or ammunition kills a creature, a [[/5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] under your control rises from that corpse[[/5. Mechanics/Rules/Conditions.md#Unconscious\|...] ^[The following text has been removed with this homebrew: (refer to the Monster Manual for the relevant statblock)]. This shadow acts directly after you in the initiative count and disappears after 1 hour or if it or you fall [unconscious]].
 

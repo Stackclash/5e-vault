@@ -20,12 +20,18 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Warmind Wand
 *Wand, major, rare (requires attunement by a half-orc or orc)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Warmind-Wand.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand is made from the shattered hilt and jawbone of a defeated warband leader. It has 7 charges for the following properties and regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand releases a small gasp of breath as its magic escapes it, leaving the wand a nonmagical and mundane sword hilt.
 

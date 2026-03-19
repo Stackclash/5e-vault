@@ -9,11 +9,17 @@ aliases:
   - Bottled Will-o'-Wisp
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bottled Will-o'-Wisp
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Bottled-Will-o-Wisp.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small bottle carries a will-o'-wisp inside it, as well as a trinket from its previous life. The wisp is magically tethered to the trinket as long as it stays within the bottle, keeping the wisp bound to the bottle and incapable of escape on its own.
 

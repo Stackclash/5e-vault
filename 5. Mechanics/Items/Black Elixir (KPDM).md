@@ -13,10 +13,16 @@ rarity: legendary
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Black Elixir
 *Potion, legendary*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This greasy black liquid acts as a poison when drunk or rubbed on flesh. Its unfortunate or foolish user takes `dice:12d6|noform|noparens|avg` (`12d6`) poison damage, or half damage with a successful DC 20 Constitution saving throw.
 

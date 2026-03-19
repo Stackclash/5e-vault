@@ -13,6 +13,9 @@ armorClass: 2
 weight: 6
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 5
+item_recharge: long-rest
 ---
 # Shield of the Unmarked Grave
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), cursed item, legendary (requires attunement)*  
@@ -21,6 +24,9 @@ rarity: legendary
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An ancient tombstone has been transformed into this shield. Despite being made of stone, it only weighs as much as a normal shield. The top of the shield features a carved ribbon, intended for a name, which remains blank. Creatures that strike the shield hear the psychic whispers of the dead ringing in their ears. While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 

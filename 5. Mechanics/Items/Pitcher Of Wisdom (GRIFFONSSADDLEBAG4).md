@@ -9,11 +9,17 @@ aliases:
   - Pitcher of Wisdom
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pitcher of Wisdom
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Pitcher-of-Wisdom.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small clay pot has a comfortable handle and resembles a stylized owl. When you drink a magic potion from this pitcher using an action, such as a [[/5. Mechanics/Items/Potion Of Healing.md\|potion of healing]] or [[/5. Mechanics/Items/Potion Of Giant Strength.md\|potion of giant strength]], you also have advantage on any Wisdom saving throws you make for the duration of the potion's effects, with a minimum duration of until the end of your next turn and a maximum duration of 1 hour.
 

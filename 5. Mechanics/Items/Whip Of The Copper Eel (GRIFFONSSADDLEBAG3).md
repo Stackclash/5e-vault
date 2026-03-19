@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Whip of the Copper Eel
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic whip hums with electricity. It has 4 charges and regains all expended charges daily at dawn. When you hit a creature with this whip, you can expend 1 or more of its charges to deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage to that creature for each charge you spend. You don't suffer the negative effects of underwater fighting when you make an attack with this weapon.
 

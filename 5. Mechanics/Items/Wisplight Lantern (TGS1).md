@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: none
 ---
 # Wisplight Lantern
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Wisplight-Lantern.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark hooded lantern glows with a [[/5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]]'s flame that can reveal the final moments of a creature's life. The lantern sheds bright blue light in a 20-foot radius and dim light for an additional 20 feet. You can use an action to reduce the light's reach or cover it completely.
 

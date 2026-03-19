@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kindle Egg Sugarbomb
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Kindle-Egg-Sugarbomb.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you eat this spicy chocolate sweet as an action, you gain resistance to fire damage and can tolerate cold temperatures as low as 0 degrees Fahrenheit without any additional protection for 1 hour.
 

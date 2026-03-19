@@ -16,11 +16,17 @@ tier: major
 type: gear
 subtype:
   - tack-and-harness
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Turtle Barding
 *Tack and harness, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dragon-Turtle-Barding.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heavy armor is made using salvaged pieces of a dragon turtle's shell and can fit on a variety of common mounts. Once worn, the armor expands over the course of 1 hour to cover the creature with a defensive shell and enhance its natural abilities, granting it the following benefits:
 

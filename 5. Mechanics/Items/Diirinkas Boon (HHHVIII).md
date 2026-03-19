@@ -10,11 +10,17 @@ aliases:
   - Diirinka's Boon
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Diirinka's Boon
 *Wondrous item, uncommon (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While attuned to this item, you cannot be surprised in combat and you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks to spot hidden enemies.
 

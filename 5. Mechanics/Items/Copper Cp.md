@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - treasure-coinage
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Copper (cp)
 *Treasure (coinage)*  
@@ -22,6 +25,9 @@ subtype:
 
 - **Cost**: 1 cp
 - **Weight**: 0.02 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 

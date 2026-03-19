@@ -14,12 +14,18 @@ rarity: rare
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # +2 Dragon Bolt
 *Ammunition ([[/5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolt]]), rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +2 bonus to your attack and damage rolls made with this bolt corresponding to its rarity. When you make a successful hit with this bolt, you also deal an additional `dice:2d8|noform|noparens|avg` (`2d8`) damage of the type corresponding to the damage type this bolt was crafted from. You also have advantage on attacks made with this ammunition against any targets with the dragon creature type.
 

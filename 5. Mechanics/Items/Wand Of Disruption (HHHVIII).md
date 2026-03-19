@@ -14,11 +14,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Wand of Disruption
 *Wand, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 4 charges. As an action, you may expend 1 charge to force a creature that you can see within 60 feet of you to make a DC 19 Constitution saving throw. On a failure, the target creature suffers `dice:6d10|noform|noparens|avg` (`6d10`) necrotic damage, and any magical effect currently affecting them is suppressed until the end of their next turn as if they were under the effect of an [[/5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] spell.
 

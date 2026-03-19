@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Hammer of the Ram
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This all-silver hammer carries a mighty force behind it with every swing. You gain a +1 bonus to attack and damage rolls made with this magic weapon. If the hammer hits an object that isn't being worn or carried, the hit is a critical hit.
 

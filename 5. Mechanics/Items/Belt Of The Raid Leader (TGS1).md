@@ -15,11 +15,17 @@ attunement-requirement:
   - orc
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Belt of the Raid Leader
 *Wondrous item, major, rare (requires attunement by a half-orc or orc)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Belt-of-the-Raid-Leader.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This thick leather belt is reinforced with large rivets and secured with a heavy iron skull buckle. While wearing this belt, you can use an action to let loose a powerful war cry that inspires you and up to 5 friendly creatures within 60 feet of you of your choice that can hear you. An inspired creature has advantage on attack rolls until the start of your next turn. When you use this property of the belt, you can make one weapon attack as a bonus action.
 

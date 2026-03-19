@@ -14,11 +14,17 @@ rarity: rare
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ooze Cube Ring
 *Ring, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Ooze-Cube-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cubic, platinum ring has a sliver of a gelatinous cube inset at its top instead of a gemstone. While wearing it, you gain the following benefits:
 

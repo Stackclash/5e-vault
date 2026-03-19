@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vampiric Helm
 *Wondrous item, cursed item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Vampiric-Helm.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helmet, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on hearing and have [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] out to 10 feet, provided that you're not [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]].
 

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spiker and Striker (dagger)
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This warhammer and nail-like dagger share a magical bond. Despite being a pair of weapons, they are considered to be a single item for the purposes of attuning to them. You gain a +1 bonus to attack and damage rolls made with these magic weapons. While wielding only the warhammer or both it and the dagger in either hand, the warhammer also has the light property.
 

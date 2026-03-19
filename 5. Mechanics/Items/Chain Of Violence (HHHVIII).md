@@ -9,11 +9,17 @@ aliases:
   - Chain of Violence
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chain of Violence
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 20-foot metal chain has one hook on either end. As an action, you may throw one end of this chain at a target within 20 feet of you, forcing them to succeed on a DC 16 Dexterity saving throw or suffer `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage and have the hook lodge itself in their body. If the hook lodges itself in a target, the hook on the end that you hold automatically lodges itself in your own body, dealing `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage to you as well and chaining you and your target together.
 

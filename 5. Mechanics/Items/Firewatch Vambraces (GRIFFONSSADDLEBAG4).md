@@ -10,11 +10,17 @@ aliases:
   - Firewatch Vambraces
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Firewatch Vambraces
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Firewatch-Vambraces.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These adamantine vambraces look like miniature shields; they feel cool in the heat but warm in the cold. You gain a +1 bonus to AC while wearing the vambraces.
 

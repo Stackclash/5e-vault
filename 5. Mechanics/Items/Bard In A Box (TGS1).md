@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bard-in-a-Box
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Bard-in-a-Box.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small music box can play songs at the request of the holder. As a bonus action, you can command the box to play a song for which it has music, causing the contraption to emit a slightly tinny rendition of the musical number. The box can know up to 5 songs at a time but can't recreate lyrics or other creature sounds. The box has a knob on its side to adjust its volume: able to be as quiet as a whisper or as loud as a scream.
 

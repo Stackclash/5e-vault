@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Ring of the Five Lights
 *Ring, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ring-of-the-Five-Lights.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring, you can use an action to cast the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell from it. When you do, the spell creates five orbs of light, instead of four. You can combine four of the lights to form the glowing humanoid form, as described by the spell, or combine all five lights to form one of the following options.
 

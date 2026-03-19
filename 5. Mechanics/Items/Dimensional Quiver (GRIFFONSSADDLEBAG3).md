@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dimensional Quiver
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dimensional-Quiver.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This purple glass quiver is open on both ends and doesn't have a strap. While attuned to it, the quiver floats comfortably within your reach whenever you place it against your body. While attuned to the quiver, you're immune to the [[/5. Mechanics/Spells/Banishment.md\|banishment]] spell and similar magic that would transport you to another plane of existence against your will.
 

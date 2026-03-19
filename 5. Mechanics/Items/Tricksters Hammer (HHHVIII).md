@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Trickster's Hammer
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
   - Two-handed: 1d10 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +2 bonus to attack and damage rolls made with this weapon. When you make a successful critical hit against a creature with this weapon, you add a random extra effect to your attack. Roll a `dice:d4|noform|noparens|avg` (`d4`) and consult the table below for your result:
 

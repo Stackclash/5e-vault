@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lantern of the Frost Watch
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Lantern-of-the-Frost-Watch.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark steel lantern is always cold to the touch, and its cold blue flame releases fine snow instead of smoke. Its magical flame appears over a spike at the lantern's center, which is perpetually covered in ice. While touching the lantern, you can use an action to speak one of the following five command words.
 

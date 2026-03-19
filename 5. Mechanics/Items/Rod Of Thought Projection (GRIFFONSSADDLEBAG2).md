@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of Thought Projection
 *Rod, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rod-of-Thought-Projection.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this rod, you can use an action to create a mental connection with a willing humanoid creature that you can see within 120 feet of you. The connection lasts as long as you concentrate (as if concentrating on a spell), or until the other creature chooses to close it or moves farther than 120 feet away from you. For the duration, you can communicate with it telepathically. In addition, as part of the action to open this connection or as an action on a subsequent turn while it remains open, you can choose to see through the creature's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the creature has. During this time, you are [[/5. Mechanics/Rules/Conditions.md#Deafened\|deaf]] and [[/5. Mechanics/Rules/Conditions.md#Blinded\|blind]] with regard to your own senses.
 

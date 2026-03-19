@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Phoenix Arrow (Generic)
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Phoenix-Arrow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bolt or arrow is fletched with [[/5. Mechanics/Bestiary/Elemental/Phoenix (MPMM).md\|phoenix]] feathers and is magically bound to a small [[/5. Mechanics/Items/Quiver.md\|quiver]]. You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once fired, the ammunition bursts into flames upon impact and deals fire damage instead of piercing. At the start of your next turn, the arrow leaves behind a small pile of ash and reappears in its quiver.
 

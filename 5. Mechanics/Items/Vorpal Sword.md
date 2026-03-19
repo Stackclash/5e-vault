@@ -23,11 +23,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vorpal Sword
 *Major, legendary (requires attunement)*  
 ![[/5. Mechanics/Items/img/vorpal-sword.webp#right\|Vorpal Sword (Longsword)]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: varies
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pact Card
 *Wondrous item, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Pact-Card.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Pact cards are used to temporarily bind the souls of aberrations and demons to your will. When you reduce an aberration or demon to 0 hit points, you can use your reaction to hold out a pact card on your person. That creature must succeed on a Charisma saving throw or instantly disappear, regaining all its hit points and becoming trapped inside the card. A creature with legendary actions automatically succeeds on this saving throw. The card's save DC and the maximum challenge rating creature the card can contain depend on its rarity, as shown on the table below:
 

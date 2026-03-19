@@ -75,11 +75,17 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Weapon of Blind Faith
 *Major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Weapon-of-Blind-Faith.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weapon features a stone sculpture of a blindfolded monk carrying its blade, bludgeon, or similar element of its design. When you make an attack with the weapon and have advantage or disadvantage on the roll, you score a critical hit if the result on both d20s is the same.
 

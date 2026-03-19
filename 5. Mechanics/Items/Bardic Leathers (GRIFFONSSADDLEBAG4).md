@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bardic Leathers
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), very rare (requires attunement by a bard)*  
@@ -25,6 +28,9 @@ subtype:
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor has strands of spun mithral strung between its various studs, adding extra protection and allowing you to play it like a worn instrument. Even if you're not attuned to the armor, you gain a +2 bonus to AC while wearing it, and if you're proficient with lutes or lyres, you add your proficiency bonus to ability checks that involve playing the bardic leathers as an instrument.
 

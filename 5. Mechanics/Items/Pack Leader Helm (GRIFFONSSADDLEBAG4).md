@@ -10,11 +10,17 @@ aliases:
   - Pack Leader Helm
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pack Leader Helm
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Pack-Leader-Helm.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark silver helm looks like a snarling wolf. While wearing it, dogs and wolves understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them. In addition, lycanthropes have disadvantage on attack rolls against you.
 

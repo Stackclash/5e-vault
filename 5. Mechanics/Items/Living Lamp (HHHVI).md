@@ -9,11 +9,17 @@ aliases:
   - Living Lamp
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Living Lamp
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this 1-foot-tall lamp, you may speak a command word as an action to cause it to do any of the following:
 

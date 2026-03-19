@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Adrenal Blades
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of scimitars are made of darkened steel and have feather-like designs. You gain a +1 bonus to attack and damage rolls made with these magic weapons, which are considered to be a single item for the purposes of attuning to them. While holding one of the swords, you always know the general direction and distance of the other. While the swords are on your person, choose one of the following benefits whenever you roll initiative. These benefits last for 1 minute.
 

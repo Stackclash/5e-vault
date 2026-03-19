@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Grave Trodders
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Grave-Trodders.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing these boots, you have resistance to necrotic damage. In addition, the boots have 5 charges and regain `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. You can use an action while touching a corpse with your foot or standing no more than 10 feet above its grave to cast the [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell on it. If more than one corpse is directly below you, the closest one is affected by the spell.
 

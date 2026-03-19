@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Firecracker Crystals
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Firecracker-Crystals.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These multicolored crystals are usually purchased in small bags at festivals and holiday events. As an action, you can throw 1 of these 1-inch crystals against a solid surface within 20 feet of you to crack it apart. When a crystal breaks, it releases the magic inside. The magic ends at the end of your turn and is entirely sensory.
 

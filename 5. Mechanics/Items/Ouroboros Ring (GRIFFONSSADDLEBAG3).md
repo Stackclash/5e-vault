@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ouroboros Ring
 *Ring, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ouroboros-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A silver serpent twists around itself three times to form the shape of this ring. Its tail is bitten by its jeweled head. While wearing the ring, when a creature that you can see (including yourself) rolls a `dice:d20|noform|noparens|avg` (`d20`), you can use your reaction to speak the ring's command word and roll a `dice:d8|noform|noparens|avg` (`d8`). You make this decision after knowing the result of the roll, but before the GM declares the outcome.
 

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Captain's Wright
 *Staff, weapon, major, rare (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is slung together and carved from the mast of a sunken ship. While on a vehicle, you can use the staff to perform a ritual over the course of 1 minute. At the end of the ritual, you and the staff are magically linked to that vehicle. While holding the staff, you gain the following benefits:
 

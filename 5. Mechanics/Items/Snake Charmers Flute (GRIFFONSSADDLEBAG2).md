@@ -16,11 +16,17 @@ tier: minor
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Snake Charmer's Flute
 *Wondrous item, instrument, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Snake-Charmers-Flute.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You must be proficient with wind instruments to use this flute. While you are attuned to the flute, ordinary snakes are indifferent toward you and will not attack you unless you threaten or harm them. For the purposes of this item, this includes flying snakes, poisonous snakes, and constrictor snakes, although swarms and giant versions of such creatures have a 50 percent chance of being indifferent to you instead.
 

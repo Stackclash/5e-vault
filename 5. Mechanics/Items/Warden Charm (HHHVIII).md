@@ -9,11 +9,17 @@ aliases:
   - Warden Charm
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Warden Charm
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This stone charm contains the remains of an eidolon's spirit which does its best to protect whoever is wearing it. If a creature within 5 feet of you attempts to attack you while you are [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] and wearing this item, the spirit within the charm emerges to protect you, forcing the attacking creature to make a DC 16 Wisdom saving throw. On a failed save, the attacking creature suffers `dice:2d6|noform|noparens|avg` (`2d6`) force damage and is forced to pick a new target; wasting the attack if they fail to do so.
 

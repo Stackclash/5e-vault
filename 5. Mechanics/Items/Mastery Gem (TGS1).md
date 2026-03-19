@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mastery Gem
 *Wondrous item, major, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Mastery-Gem.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This red gemstone seems to glint with some sort of liquid inside. The gem is impervious to attacks and damaging effects. The gem contains magic absorbed from countless other sources that it uses to overpower the requirements of certain item attunements. While holding this gem against an item with an attunement requirement you don't meet, you can ignore that requirement and attune to the item anyway. The item can't be a legendary item or artifact. The gem fuses to the surface of the item and encases the area around it in a crystalline shell.
 

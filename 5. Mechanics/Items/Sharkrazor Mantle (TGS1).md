@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sharkrazor Mantle
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Sharkrazor-Mantle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this magic shark-skinned cloak, you have a swimming speed of 60 feet and can breathe underwater. When a creature successfully grapples or restrains you by touching you, that creature takes `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage. A creature takes this damage again at the start of each of its turns while it maintains this grapple or restraint.
 

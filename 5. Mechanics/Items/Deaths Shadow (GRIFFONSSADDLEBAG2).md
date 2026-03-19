@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Death's Shadow
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Deaths-Shadow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This black garnet amulet is carved into the shape of a bird's skull and is adorned with several dark feathers. At its center is a single phoenix feather that serves as a catalyst for this strange talisman's necromantic magic. While wearing this amulet, you are immune to necrotic damage.
 

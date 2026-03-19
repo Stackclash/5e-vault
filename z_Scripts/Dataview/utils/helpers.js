@@ -63,6 +63,50 @@ export function capitalize(str) {
 }
 
 /**
+ * Calculate the price of an item in copper pieces using the item_pricing configuration.
+ * For items with rarity 'none', falls back to the item's hard-coded cost field.
+ * Does NOT apply world economic scale — callers should multiply by that separately.
+ * @param {object} item - Dataview page object for the item
+ * @param {object} pricing - The item_pricing config object from Configuration frontmatter
+ * @returns {number} Price in copper pieces
+ */
+export function calculateItemPrice(item, pricing) {
+    if (!item) return 0
+
+    const rarity = item.rarity ?? 'none'
+
+    // Non-magic items (rarity: none) use their hard-coded cost field
+    if (rarity === 'none') {
+        return item.cost ?? 0
+    }
+
+    const basePrice = pricing?.base_prices?.[rarity] ?? 0
+
+    const magicTier = item.tier ?? 'minor'
+    const tierModifier = pricing?.tier_modifiers?.[magicTier] ?? 1
+
+    const consumableModifier = item.item_consumable
+        ? (pricing?.consumable_modifier ?? 0.5)
+        : 1
+
+    const attunementModifier = item.attunement
+        ? (pricing?.attunement_modifier ?? 0.9)
+        : 1
+
+    const recharge = item.item_recharge ?? 'none'
+    const rechargeModifier = pricing?.recharge_modifiers?.[recharge] ?? 1
+
+    const price =
+        basePrice *
+        tierModifier *
+        consumableModifier *
+        attunementModifier *
+        rechargeModifier
+
+    return Math.round(price)
+}
+
+/**
  * Format a copper-piece amount into a human-readable gp/sp/cp string.
  * Returns "1 cp" for zero or negative values.
  */

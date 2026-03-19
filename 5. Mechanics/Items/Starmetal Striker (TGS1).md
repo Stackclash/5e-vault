@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Striker
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This light hammer was forged using the remains of a comet and is cold to the touch. You gain a +2 bonus to attack and damage rolls made with this magic weapon, and when you hit with an attack using it, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) cold damage. The hammer leaves behind a crackling mist when thrown and immediately flies back to your hand after making a ranged attack with it.
 

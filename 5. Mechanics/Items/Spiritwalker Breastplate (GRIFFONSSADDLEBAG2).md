@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spiritwalker Breastplate
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, rare (requires attunement)*  
@@ -25,6 +28,9 @@ subtype:
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drop to 0 hit points while wearing this armor, your spirit leaves your body and appears as a floating, ghostly version of yourself. The spirit remains there for 1 minute or until you regain consciousness, at which point the spirit returns to your body. For the duration, you don't suffer a death saving throw failure as a result of taking damage, and you can only die from damage if the total damage you take on a turn equals or exceeds your hit point maximum. You still make death saving throws at the start of each of your turns while in this state; however, the number you must roll to succeed on a death saving throw increases by 1 for every 5 feet away from your physical body your spirit is at the start of each of your turns.
 

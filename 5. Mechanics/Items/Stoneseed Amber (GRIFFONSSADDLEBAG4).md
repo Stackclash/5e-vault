@@ -9,11 +9,17 @@ aliases:
   - Stoneseed Amber
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stoneseed Amber
 *Wondrous item, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Stoneseed-Amber.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large hunk of amber holds a magic seed at its center. From the seed grows a twisting vine, which turns to stone as soon as it leaves the amber.
 

@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - tack-and-harness
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Military Saddle
 *Tack and harness*  
 
 - **Cost**: 20 gp
 - **Weight**: 30.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted.
 

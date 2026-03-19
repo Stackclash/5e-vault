@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Faefly
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Clockwork-Faefly.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass clockwork mechanism is 2 inches long and whirs with the hum of tiny gears inside. You can tap the head of the faefly twice as a bonus action. When you do, the mechanism begins to flutter 5 feet in the air. The faefly has AC 10 and 10 hit points and flies in this way until a creature grasps it or it falls to 0 hit points. If you move more than 60 feet from the hovering faefly, it follows you until it is within 60 feet of you. It takes the shortest route to do so. If prevented from moving, the faefly sinks gently to the ground and becomes inactive, and its light fades out. While it's flying, you can use a bonus action to speak its command word to cause it to move up to 20 feet.
 

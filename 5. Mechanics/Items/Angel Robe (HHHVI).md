@@ -10,11 +10,17 @@ aliases:
   - Angel Robe
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Angel Robe
 *Wondrous item, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to AC while wearing this robe and all your weapon attacks are considered magical. In addition, you gain the ability to spend an action to [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] yourself into a humanoid or beast that has a challenge rating equal to or lower than your character level, or back into your true form. You revert to your true form if you die or drop to 0 hit points. If the effect ends due to dropping to 0 hit points, any excess damage carries over to your true form. Any equipment you are wearing or carrying is absorbed or borne by the new form (your choice).
 

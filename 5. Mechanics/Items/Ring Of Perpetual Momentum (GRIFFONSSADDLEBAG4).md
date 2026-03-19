@@ -13,11 +13,17 @@ rarity: rare
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Perpetual Momentum
 *Ring, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Ring-of-Perpetual--Momentum.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring is a hollow glass tube through which a single metal bearing rolls. The bearing never stops, regardless of your movement or gravity. Only a [[/5. Mechanics/Spells/Time Stop.md\|time stop]] spell causes the bearing to briefly pause.
 

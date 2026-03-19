@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mourningsteel Ghost Candle
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Mourningsteel-Ghost-Candle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This candle holder and its candle never run out of wax while it burns, even if you aren't attuned to it. Although wax runs down the sides of the candle, it never drips off it onto the holder, nor does it ever seem to be diminished or consumed. The candle can't be removed from the holder. While the candle burns, ghostly hands reach out from the holder as if to warm their hands by the tiny fire.
 

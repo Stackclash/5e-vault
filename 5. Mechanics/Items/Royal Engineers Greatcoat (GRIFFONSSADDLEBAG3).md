@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Royal Engineer's Greatcoat
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Royal-Engineers-Greatcoat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This stained maroon greatcoat is well worn and decorated with gilded linework and screw-like buttons. You can use an action to put on or remove the coat. While wearing it, you can use an action to reach into one of its oversized sleeves and pull out one of the following sets of tools: [[/5. Mechanics/Items/Carpenters Tools.md\|carpenter's tools]], [[/5. Mechanics/Items/Leatherworkers Tools.md\|leatherworker's tools]], [[/5. Mechanics/Items/Masons Tools.md\|mason's tools]], [[/5. Mechanics/Items/Potters Tools.md\|potter's tools]], [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]], [[/5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], or [[/5. Mechanics/Items/Woodcarvers Tools.md\|woodcarver's tools]]. The tools remain until you pull another set from the coat's sleeves, until they're more than 15 feet away from you, or until you remove the coat. You gain a +1 bonus to any ability check you make using a set of tools pulled from the coat.
 

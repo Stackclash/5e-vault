@@ -13,11 +13,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Turtle Jelly
 *Potion, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this jelly-like potion, you recover `dice:10d4+20|noform|noparens|avg` (`10d4 + 20`) hit points and are cured of any disease.
 

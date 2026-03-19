@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: dawn
 ---
 # Scroll of the New Dawn
 *Scroll, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-the-New-Dawn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This narrow parchment always feels sun-warmed to the touch and gives off a faint glow. Reading the scroll aloud takes 1 minute, at which point the words on the scroll fade and it bursts into an instantaneous flash of sunlight. The scroll is then destroyed. If the reading is interrupted, the scroll is not destroyed.
 

@@ -13,11 +13,17 @@ rarity: artifact
 type: vehicle
 subtype:
   - airship-air
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Titan Ship
 *Wondrous item, airship, vehicle (air), artifact*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ship's hull is formed from the shell of a [[/5. Mechanics/Bestiary/Monstrosity/Tarrasque.md\|tarrasque]] and shares much of its properties. The ship is 30 feet wide, 70 feet long, and 20 feet high. It possesses 3 sails and can travel at 2 1/2 mph in a good wind. The ship has 25 AC, 500 HP, can house 60 passengers, carry 200 tons of cargo and has a damage threshold of 20.
 

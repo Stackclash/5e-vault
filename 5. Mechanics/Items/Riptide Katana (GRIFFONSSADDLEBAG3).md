@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Riptide Katana
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, uncommon (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of silently churning water to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. Despite the nature of this watery blade, it cuts through material like any other sword. A fire elemental or similar creature made of fire that's hit with the weapon takes an extra 5 cold damage from the attack.
 

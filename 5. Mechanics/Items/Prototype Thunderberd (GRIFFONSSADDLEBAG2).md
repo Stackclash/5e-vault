@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Prototype Thunderberd
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This halberd is a long-lost prototype from a nowdissolved military research facility. Electricity magically courses through the weapon along specially channeled grooves in its hollow haft. When you hit with an attack using this halberd, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage.
 

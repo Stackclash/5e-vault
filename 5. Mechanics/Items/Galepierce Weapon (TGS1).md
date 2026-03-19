@@ -30,11 +30,17 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Galepierce Weapon
 *Major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Galepierce-Weapon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These magic weapons have been tempered to glide through the wind, doubling both their normal and long throwing ranges. Ranged attacks made with these weapons against targets that are protected by fog, high winds, and other air-based hindrances are made without the normal disadvantage that those obstructions would typically cause.
 

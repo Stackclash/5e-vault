@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Wyvernwing
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This enchanted greatsword contains a wyvern's wing that's stretched between three thin, collapsed blades. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

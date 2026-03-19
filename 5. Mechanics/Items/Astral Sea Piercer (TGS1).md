@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Astral Sea Piercer
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement)*  
@@ -28,6 +31,9 @@ subtype:
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden war pick was forged in the depths of the Astral Plane and leaves a faint trail of extraplanar energy behind it when swung. You gain a +3 bonus to attack and damage rolls made with this magic weapon, and targets hit by it take an extra `dice:1d4|noform|noparens|avg` (`1d4`) force damage from the attack. In addition, while you're in the Astral Plane, you always know the direction of the nearest portal to another plane of existence.
 

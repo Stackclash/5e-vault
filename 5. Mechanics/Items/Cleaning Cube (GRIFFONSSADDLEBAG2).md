@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cleaning Cube
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Cleaning-Cube.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This Tiny, sentient piece of an enchanted gelatinous cube is harmlessly soapy, instead of acidic, and enjoys cleaning the surfaces it travels across. When found, the *cleaning cube* is a dehydrated, 2-inch cube. While dehydrated, the cube is inanimate and its weight is negligible. You can place the dehydrated cube in 1 or more gallons of water as an action, causing it to animate and grow in size to become a 1-foot cube that weighs 6 pounds. The rehydrated cube moves slowly while animated in this way, methodically cleaning objects and surfaces it comes into contact with. The cube remains hydrated for up to 8 hours, but can be squeezed as an action (as if it were a sponge) to dehydrate it again early.
 

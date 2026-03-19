@@ -15,9 +15,16 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Acid Resistance
 *Potion, minor, uncommon*  
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 
 *Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

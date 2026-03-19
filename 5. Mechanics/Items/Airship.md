@@ -14,10 +14,17 @@ rarity: none
 type: vehicle
 subtype:
   - airship-air
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Airship
 *Airship, vehicle (air)*  
 
 - **Cost**: 20,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
+
 
 *Source: Dungeon Master's Guide p. 119*

@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wailing Ring
 *Ring, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wailing-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tarnished ring is thick and has the texture of over-taut skin. Whenever you charm a creature while wearing this ring, that creature's face appears on the surface, seemingly pulled upward from within. The face is always locked in a panicked, wailing expression. The face remains for the duration of the charm, during which time you can speak into the ring. If you're on the same plane of existence as the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature, it then hears your voice telepathically, allowing you to communicate with it from afar.
 

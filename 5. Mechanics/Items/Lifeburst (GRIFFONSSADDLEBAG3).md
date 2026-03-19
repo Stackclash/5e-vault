@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lifeburst
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement by a cleric or paladin)*  
@@ -31,6 +34,9 @@ subtype:
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. This mace can be used to channel your holy magic. When you hit a creature with this mace, you can expend one spell slot to restore hit points to up to four creatures of your choice within 5 feet of the target of the attack. The amount of hit points restored is equal to `dice:1d6|noform|noparens|avg` (`1d6`) per spell level you expend, up to 3rd. Once you expend a spell slot in this way, you can't expend another spell slot of the same level using the mace again until the next dawn.
 

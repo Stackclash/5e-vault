@@ -10,12 +10,18 @@ aliases:
   - Death Locket
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Death Locket
 *Wondrous item, cursed item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Death-Locket.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This locket is embossed with a dark silver skull on its front; its lower jaw acts as the locket's clasp. Inside the locket is a piece of blackened bone, which remains magically affixed to it. While the locket is on your person, you have resistance to necrotic damage, and you are always under the effects of the [[/5. Mechanics/Spells/Death Ward.md\|death ward]] spell. Once the spell prevents you from dropping to 0 hit points, it ends until the next dawn.
 

@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Wind
 *Ring, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ring-of-Wind.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring is made of magical wind. While wearing it, you can use it to cast the [[/5. Mechanics/Spells/Wind Wall.md\|wind wall]] spell (spell save DC 13).
 

@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +1 Mind Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), very rare (requires attunement)*  
@@ -26,6 +29,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 > [!note]
 > This item is in improved version of the [[/5. Mechanics/Items/Mind Whip (HHHVI).md\|Mind Whip]].

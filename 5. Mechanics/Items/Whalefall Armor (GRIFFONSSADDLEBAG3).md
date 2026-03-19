@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Whalefall Armor
 *Medium armor ([[/5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, very rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is made of repurposed whale bone and lashed together with salt-stained leather strips. While wearing it, you have resistance to poison damage and gain a swimming speed equal to your walking speed. If you're underwater, you also have advantage on any Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]) or Charisma check you make to interact with beasts that have a swimming speed.
 

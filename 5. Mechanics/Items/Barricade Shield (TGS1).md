@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Barricade Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  
@@ -21,6 +24,9 @@ tier: minor
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this sturdy iron shield, you can use an action to plant it on the ground and expand its height and width to stretch up to 15 feet across in either direction, potentially becoming a defensive wall or similar platform. The edges of the shield magically conform to fit the shape of an enclosed space, such as the walls of a tunnel or hallway. While holding the expanded shield in place, your speed becomes 0 and you have disadvantage on Dexterity checks and Dexterity saving throws. Regardless of the shield's size, its weight always remains the same.
 

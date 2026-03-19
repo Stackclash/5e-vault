@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Direstone Dwarven Key
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a dwarf)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dwarven handaxe is specially issued to guards of the Direstone mines, treasury, and prisons. You gain a +1 bonus to attack and damage rolls made with this magic weapon. If it hits a stone object, the hit is automatically a critical hit.
 

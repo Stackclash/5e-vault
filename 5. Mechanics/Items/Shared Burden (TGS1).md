@@ -14,11 +14,17 @@ attunement-requirement:
   - warlock
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shared Burden
 *Wondrous item, major, rare (requires attunement by a warlock)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Shared-Burden.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of chained rings and bracers is a sign of the pact you forged with your patron. When you attune to the item, the small spikes that line the inside of the bands become harmless and feel like a warm, gentle caress against your skin. Once attuned, you can also use it as a spellcasting focus.
 

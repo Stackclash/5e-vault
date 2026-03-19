@@ -23,11 +23,17 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Coral Crasher
 *Major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Coral-Crasher.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This axe is made of a series of corals sprouting from a metal handle. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and you don't suffer the negative effects of underwater combat when you make an attack with it
 

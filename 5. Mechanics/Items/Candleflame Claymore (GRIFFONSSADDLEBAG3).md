@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candleflame Claymore
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weighty blade has an iron candelabra as its hilt. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a target and roll two of the same number on the weapon's slashing damage dice, the target takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) fire damage. If you've taken fire damage from a hostile source since the end of your last turn, the first target you hit with this weapon on your turn automatically takes this extra fire damage.
 

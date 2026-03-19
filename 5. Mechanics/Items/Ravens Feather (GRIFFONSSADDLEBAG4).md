@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Raven's Feather
 *Weapon, rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark scythe is lightly iridescent, like a raven. Its blade looks like a large feather. If you're proficient with martial weapons, you are proficient with the raven's feather. The weapon has the two-handed and heavy properties and uses a damage die of `dice:2d6|noform|noparens|avg` (`2d6`); it deals slashing damage on a hit. When you hit a creature with this weapon, a raven feather appears and floats to the ground below it. The feather is illusory, and it remains in the space for up to 1 minute.
 

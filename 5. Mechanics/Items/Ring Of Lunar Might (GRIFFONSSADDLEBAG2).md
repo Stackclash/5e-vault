@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Lunar Might
 *Ring, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ring-of-Lunar-Might.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This intricate ring has various flowing designs that are both entropic and patterned in nature. While wearing the ring, you can use an action to create an area of gravitational force that extends from you in a 20-foot-radius, 40-foot-high cylinder. The area moves with you and remains as long as you concentrate (as if concentrating on a spell), to a maximum of 10 minutes. You have a semblance of control of the gravity within this cylinder. A friendly creature other than you spends 1 foot of movement for every 2 feet it moves within the area, while hostile creatures must spend 2 feet of movement for every 1 foot moved instead.
 

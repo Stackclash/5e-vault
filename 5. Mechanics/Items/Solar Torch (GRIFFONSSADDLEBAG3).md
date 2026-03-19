@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Solar Torch
 *Rod, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Solar-Torch.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this rod, you can use a bonus action to cause a Tiny sun to float above it. The sun sheds bright light out to 30 feet, and dim light for an additional 30 feet. The light is sunlight. If any of the bright light overlaps with an area of magical darkness, it suppresses that effect in the area (but does not dispel it), allowing creatures to see as normal within the bright light's radius.
 

@@ -9,11 +9,17 @@ aliases:
   - Staff of Mockery
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Staff of Mockery
 *Wondrous item, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gnarled staff possesses a fully functioning mouth set into its head and starts with `dice:1d4|noform|noparens|avg` (`1d4`) charges. While holding this staff, you may use your action and 1 charge to target a humanoid you can see within 10 feet of you. If you do so, this staff repeats everything that humanoid says in an offputting, mocking voice. This voice changes every time you target a new humanoid with this staff. This staff continues copying that humanoid's words until that humanoid moves more than 10 feet away from the staff, 10 minutes pass, or you use your action to deactivate it. This staff regains all expended charges at dawn.
 

@@ -12,12 +12,18 @@ weight: 1
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wind-Up Merchant
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wind-Up-Merchant.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This soft toy figurine is 5 inches tall and weighs 1 pound. You can use an action to wind up the toy using a crank in the back, causing it to release a thin strip of parchment listing 3 magic items and their costs from the list below. The toy then whirs and animates slowly, walking and bowing slightly, and can't be wound up again until 24 hours have passed.
 

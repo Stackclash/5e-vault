@@ -18,6 +18,9 @@ rarity: rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mezzoloth Mail
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing and attuned to this armor, you gain the ability to speak Abyssal and Infernal if you did not know them already. You also gain resistance to poison and acid damage.
 

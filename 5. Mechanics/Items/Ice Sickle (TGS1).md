@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ice Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, uncommon*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic sickle from the Everglacier is perpetually covered in tiny, needle-like icicles along its edge that reform almost as soon as they're gone. The first target hit by this weapon on each of your turns takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) cold damage from the attack.
 

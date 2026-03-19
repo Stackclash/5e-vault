@@ -13,11 +13,17 @@ rarity: common
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Torchlight
 *Wand, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Wand-of-Torchlight.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden wand is twisted into a torch-like shape. Its wood is charred at its flame-shaped tip. While holding the wand, you can use a bonus action to speak its command word, causing a harmless flame to sputter to life at its end. The light sheds bright and dim light like a normal torch, and remains until you use a bonus action to speak the command word again.
 

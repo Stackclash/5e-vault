@@ -14,10 +14,16 @@ rarity: unknown\Magic
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Enchanted Vial
 
 - **Cost**: 3 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Some creature parts have powerful, yet fleeting, magical energies within them. The motes from elementals for example hold traces of their former essences in them but disperse rapidly upon the destruction of their original form.
 

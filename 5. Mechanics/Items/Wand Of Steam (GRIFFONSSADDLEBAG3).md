@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Steam
 *Wand, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Steam.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The shaft of this wand is a clear glass tube filled with bubbling water. This wand has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While holding the wand, you can use an action to expend 1 of its charges to cast the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell from it, which has the following changes:
 

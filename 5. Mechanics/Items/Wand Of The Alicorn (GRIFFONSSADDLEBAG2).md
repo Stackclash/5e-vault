@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of the Alicorn
 *Wand, major, legendary (requires attunement by a good-aligned spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-the-Alicorn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand was made using the horn of a unicorn and feather of a pegasus for the queen for Orostead, a powerful mage whose skilled leadership made her a favorite among her city's citizens and military. The wand has 7 charges, which are used for the following properties, and regains all expended charges daily at dawn.
 

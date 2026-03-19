@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonbolt Blaster
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic item is a unique, two-handed ranged weapon. If you are proficient with light or heavy crossbows, you are proficient with the dragonbolt blaster. A broken piece of a blue dragon's horn is set at the weapon's center, releasing tendrils of shimmering electricity from its point.
 

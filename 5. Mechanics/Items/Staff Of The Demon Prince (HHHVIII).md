@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Staff of the Demon Prince
 *Staff, weapon, cursed item, artifact (requires attunement by a spellcaster)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 It is the belief in several demonic sects that [[/4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]] is fated to die upon the end of the Blood War and the resulting desolation of both devil and demon society. From the ashes of these realms will rise two twins, both of them immensely powerful warlords who shall raise armies against one another and start the war anew. They shall war over a magical Y-shaped staff crafted from the Prince of Demons themselves, with whoever holds it claiming dominion over the other and ushering in a new age of madness.
 

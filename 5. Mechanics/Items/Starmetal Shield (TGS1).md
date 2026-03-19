@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This open metal shield and gauntlet offer a +1 bonus to your armor class instead of a shield's normal bonus. Whenever you're the target of an attack made with a metal weapon or projectile, the bonus becomes +3 instead. The shield hovers above the gauntlet to protect you as if you were wielding it, leaving your hands free.
 

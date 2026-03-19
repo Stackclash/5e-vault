@@ -14,11 +14,17 @@ attunement-requirement:
   - lawful creature
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Polaris Magistrate Codex (rare)
 *Wondrous item, major, rare (requires attunement by a lawful creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Polaris-Magistrate-Codex.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded book of law is a rare magic item that's filled with detailed ordinances regarding Polaris, a city held aloft by astral magic. Through the city's dedicated magistrate, this book has been given the following magical properties.
 

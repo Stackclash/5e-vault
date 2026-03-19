@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Harbinger's Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This whip-like chain flail's head is a sonorous bell from the Temple of Twin Fates, a holy site known for its grim foretellings. This weapon has the reach property and deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) thunder damage to any target it hits. When it hits a target, the bell releases a deep sound that's audible out to 100 feet.
 

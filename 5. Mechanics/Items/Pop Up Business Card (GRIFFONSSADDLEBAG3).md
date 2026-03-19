@@ -12,12 +12,18 @@ weight: 1
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pop-Up Business Card
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Pop-up-Business-Card.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This two-by-three-inch paper card somehow weighs 1 pound and feels like it's made of wood and metal. It looks like a wooden shop sign with a painted lantern on either side.
 

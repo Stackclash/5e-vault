@@ -10,11 +10,17 @@ aliases:
   - Mindwipe Lenses
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Mindwipe Lenses
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These lenses have 10 charges. While wearing and attuned to these lenses, you may expend those charges to do any of the following.
 

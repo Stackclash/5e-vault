@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Festerwood Vizard
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Festerwood-Vizard.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark wooden mask is strangely insect-like and magically conforms to fit your face. While wearing the mask, you gain [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] out to a range of 10 feet. You can put on and remove the mask using an action.
 

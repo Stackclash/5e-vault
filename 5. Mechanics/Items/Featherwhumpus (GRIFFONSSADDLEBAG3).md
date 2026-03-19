@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: varies
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Featherwhumpus
 *Wondrous item, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Featherwhumpus.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A featherwhumpus, a common magic item, is a pillow that releases a seemingly endless stream of feathers behind it when swung. You can use the pillow as if it were a magic club. On a hit, the target takes no damage, and a feathery plume erupts from the pillow, which lightly obscures the target until the end of the turn, at which point the feathers vanish.
 

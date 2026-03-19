@@ -17,6 +17,9 @@ rarity: none
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scale Mail
 *Medium armor*  
@@ -25,6 +28,9 @@ subtype:
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: 50 gp
 - **Weight**: 45.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
 

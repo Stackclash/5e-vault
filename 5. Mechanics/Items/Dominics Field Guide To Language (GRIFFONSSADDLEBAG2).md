@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Dominic's Field Guide to Language
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dominics-Field-Guide-to-Language.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical book is filled with strange, shifting writing. While holding the book, you can use an action to speak its command word followed by a language of your choice, causing the book's pages to become filled with translations between Common and the language you chose. This property can't be used again for 24 hours. When found, the book's pages are filled with translations for a random language.
 

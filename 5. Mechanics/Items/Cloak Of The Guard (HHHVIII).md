@@ -9,11 +9,17 @@ aliases:
   - Cloak of the Guard
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Cloak of the Guard
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this cloak, you cannot be surprised so long as you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], and you may perform up to 4 hours of light activity during a long rest and still gain its benefits; this cloak must be worn during the entirety of the long rest in order for the latter ability to apply.
 

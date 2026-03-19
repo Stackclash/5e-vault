@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  
 ![[/5. Mechanics/Items/img/ring-of-shooting-stars.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring in dim light or darkness, you can cast [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] and [[/5. Mechanics/Spells/Light.md\|light]] from the ring at will. Casting either spell from the ring requires an action.
 

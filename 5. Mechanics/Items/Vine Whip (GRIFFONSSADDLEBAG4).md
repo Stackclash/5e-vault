@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vine Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), uncommon*  
@@ -26,6 +29,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Tightly braided living vines have been rooted to the end of a branch to make this magic whip. The whip adds 10 feet to your reach when you attack with it, instead of 5 feet; if you're a druid or ranger, it instead adds 20 feet to your reach. If you're a druid, you're proficient with the vine whip. This whip can be targeted by the [[/5. Mechanics/Spells/Shillelagh.md\|shillelagh]] spell.
 

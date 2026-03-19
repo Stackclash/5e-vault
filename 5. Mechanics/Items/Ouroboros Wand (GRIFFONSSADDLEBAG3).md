@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Ouroboros Wand
 *Wand, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ouroboros-Wand.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 3 charges and regains all expended charges daily at dawn. While holding the wand, you can expend 1 of its charges to cast the [[/5. Mechanics/Spells/Melfs Acid Arrow.md\|acid arrow]] spell from it, using a spell attack bonus of +7. The arrow created by the spell appears as a snake, rather than an arrow. When you expend the last charge from the wand, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand loses its magic and is transformed into a giant constrictor snake that's hostile toward all creatures (including you). On any other result, the wand immediately regains `dice:1d3|noform|noparens|avg` (`1d3`) charges. Each time this happens, the minimum number you have to roll on the `dice:d20|noform|noparens|avg` (`d20`) to transform it into a snake increases by 1, to a maximum of 5; this number returns to 1 daily at dawn.
 

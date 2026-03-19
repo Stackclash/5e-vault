@@ -10,11 +10,17 @@ aliases:
   - Crown of Celestial Might
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 9
+item_recharge: none
 ---
 # Crown of Celestial Might
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crown either gleams white if it was crafted from a good-aligned empyrean or is a matte black if it was taken from an evil-aligned empyrean. This crown has 9 charges. While wearing this crown you may spend an action to expend 1 or more charges to do any of the following:
 

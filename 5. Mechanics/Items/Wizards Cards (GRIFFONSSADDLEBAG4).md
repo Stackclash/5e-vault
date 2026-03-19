@@ -10,11 +10,17 @@ aliases:
   - Wizards' Cards
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Wizards' Cards
 *Wondrous item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Wizards-Cards.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This [[/5. Mechanics/Items/Playing Card Set.md\|playing card set]] is a partially complete deck of various cards across four unique suits: air, earth, fire, and water. Each suit has an ace, a 2 through 10, and at least two face cards (which sometimes appear more often than others). You can draw up to 2 cards from the deck using a bonus action, provided you have the hands to do so. When you do, the cards glow briefly before vanishing.
 

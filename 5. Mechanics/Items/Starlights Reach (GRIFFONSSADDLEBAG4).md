@@ -10,11 +10,17 @@ aliases:
   - Starlight's Reach
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starlight's Reach
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Starlights-Reach.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These long, silken gloves are dotted with silver stars. While wearing them, you can always see the stars in the sky, even in the daytime, and you can't become lost by nonmagical means as long as you can see them.
 

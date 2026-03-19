@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Godsteel Barrier
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden tower shield emits an almost impenetrable aura of protection from it. While holding this shield, you have a +3 bonus to AC. This bonus is in addition to the shield's normal bonus to AC. In addition, if you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can choose to use your Strength modifier for it, instead of Dexterity. If you succeed on the saving throw using your Strength modifier in this way, you take no damage from the effect, as you interpose your shield between yourself and the source of the effect.
 

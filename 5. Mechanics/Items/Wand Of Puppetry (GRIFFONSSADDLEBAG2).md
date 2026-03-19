@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Puppetry
 *Wand, major, very rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-Puppetry.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand is made of wood and looks like the handle of a marionette. The wand has 7 charges. While holding the wand, you can use an action to expend 1 or more of its charges to attach a number of magical strings equal to the charges spent to a humanoid that you can see within 60 feet of you. You can attach 1 string to each of the creature's limbs, including its head. For example, a humanoid with two legs, two arms, and only one head could have a maximum of 5 strings attached to it. The strings are invisible, but can be seen by a creature with a successful DC 16 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check. Dealing 10 slashing damage with a magical weapon attack to one of the strings (AC 10) causes it to detach and disappear. At the end of each of its turns, a strung creature can make a DC 16 Strength saving throw, breaking free of and destroying any number of the strings connected to it on a success. The strings break early if the creature is more than 100 feet away from you.
 

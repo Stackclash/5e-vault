@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mourningsteel Half Plate
 *Medium armor ([[/5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, legendary (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark armor has been made from mourningsteel, a metal refined from ore found beneath the battlefields of particularly vicious wars. Steeped in the blood from relentless battles, this metal carries with it a magical aversion to all things holy. While wearing this armor, you gain a +1 bonus to AC and have resistance to radiant damage. While you wear it, you gain the following benefits:
 

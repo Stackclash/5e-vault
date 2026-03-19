@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodthirster Scimitar
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This carefully carved bone scimitar belonged to a cult of vicious monks whose extraordinary bloodlust and strength have been all but entirely erased from history. While you hold this magic sword, you have resistance to necrotic damage.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Teleportation Circle Stamp
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Teleportation-Circle-Stamp.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This handheld stamp is covered in arcane glyphs. When found, there is a 20 percent chance that it has a sigil sequence for a permanent teleportation circle carved into its wooden base, which has a diameter of 4 inches.
 

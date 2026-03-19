@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Mend-A-Pillar
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Clockwork-Mend-A-Pillar.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This segmented mechanical caterpillar is 5 inches long, weighs 1 pound, and is made of copper. It has several tiny copper legs that give it a 5-foot walking speed. Within it are multiple containers filled with silk filaments, spools of thread, dyes, and an incredibly strong adhesive. Each of these materials is expelled through a tube in its mouth, and it is equipped with a transmutation lens in its head that allows it to change the adhesive to various kinds of wood, metal, stone, or crystal.
 

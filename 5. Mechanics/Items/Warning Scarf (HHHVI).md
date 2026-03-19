@@ -9,11 +9,17 @@ aliases:
   - Warning Scarf
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Warning Scarf
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While you wear this feather covered scarf, you receive a slight tingling sensation in your neck whenever a hostile creature within 30 feet is looking directly at you. A creature that is aware of this scarf's property may make a DC 10 Wisdom saving throw to not trigger this scarf's ability when they look at you. If they succeed, they do not trigger the scarf's ability, and they are immune to this scarf's effect for the next 24 hours.
 

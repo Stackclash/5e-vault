@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Criir's Scepter
 *Rod, major, artifact (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Criirs-Scepter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This segmented scepter belongs to the Astral Griffon Criir, a patron deity of artisans and craftsmen. Its upper half floats above the lower, along with four dark, metallic shards. At the center of the shards is a dark sphere. While holding the rod, the sphere at its top glows with an ember-like warmth from within. A miniscule, swirling galaxy quickly forms around it.
 

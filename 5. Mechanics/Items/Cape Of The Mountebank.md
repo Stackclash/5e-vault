@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cape of the Mountebank
 *Wondrous item, major, rare*  
 ![[/5. Mechanics/Items/img/cape-of-the-mountebank.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast the [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]] spell as an action. This property of the cape can't be used again until the next dawn.
 

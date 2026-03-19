@@ -21,11 +21,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Gentleman's Saber
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gentlemans-Saber.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This elegant blade has a gently curved handle and a guard in the shape of a shield. Even if you aren't attuned to the sword, you gain a +1 bonus to attack and damage rolls made with this magic weapon, and if you make an opportunity attack with the weapon and hit, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) slashing damage from the attack.
 

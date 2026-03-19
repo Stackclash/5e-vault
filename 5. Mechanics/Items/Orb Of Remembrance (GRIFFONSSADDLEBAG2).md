@@ -12,12 +12,18 @@ weight: 0.5
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Orb of Remembrance
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Orb-of-Remembrance.webp#right)  
 
 - **Weight**: 0.5 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glassy orb is 3 inches in diameter, weighs 1/2 pound, and is wrapped in a golden wire cage. Strange, wispy smoke drifts around inside the orb, creating cloud-like shapes that are almost recognizable as reallife objects.
 

@@ -16,6 +16,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Terminator Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare*  
@@ -24,6 +27,9 @@ subtype:
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Strength**: Requires 15 STR.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you gain a +2 bonus to AC, and anytime you receive fire, cold, lightning, thunder, necrotic, poison, or acid damage, you may spend your reaction to gain resistance to that damage type for the next 10 minutes. You may only have resistance to one damage type at a time through this ability; attempting to use this ability again before the 10 minutes elapses replaces the damage resistance type you already have. In addition, due to the near-organic way in which this metal armor moves, it does not impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks like regular plate armor does.
 

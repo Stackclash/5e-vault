@@ -10,11 +10,17 @@ aliases:
   - Dragon Stone
 attunement: true
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Stone
 *Wondrous item (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You may focus on this item for 1 minute while holding it in order to transform into a half-dragon version of yourself. In this form, you retain all your statistics with the following additions:
 

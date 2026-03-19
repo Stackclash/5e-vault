@@ -10,11 +10,17 @@ aliases:
   - Mask of Fear
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Mask of Fear
 *Wondrous item, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When a creature you can see starts its turn within 30 feet of you while you are wearing this mask, you can create the illusion that you look like one of the creature's departed loved ones or bitter enemies. If the creature can see you, it must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] until the end of its turn.
 

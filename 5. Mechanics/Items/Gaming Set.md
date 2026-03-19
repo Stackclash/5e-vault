@@ -13,10 +13,16 @@ rarity: none
 type: gear
 subtype:
   - gaming-set
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gaming Set
 *Gaming set*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Astronomer's Boon
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Astronomers-Boon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass astrolabe has a glass back that sparkles softly when light shines through it. While looking through the glass at the night sky, the names and patterns of any constellation you can see appear alongside their stars on the astrolabe. At the GM's discretion, you may find one or more of the following constellations while looking through the glass. When you do, the astrolabe begins to glow, and you can use an action to speak the item's command word to gain the constellation's respective benefit:
 

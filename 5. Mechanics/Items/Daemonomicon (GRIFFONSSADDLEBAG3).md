@@ -11,12 +11,18 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Daemonomicon
 *Wondrous item, cursed item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Daemonomicon.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather tome is filled with demonic lore and occult secrets, which are written in Abyssal. You can spend 10 minutes reading through its pages to learn information about an aberration, demon, or cult. At the end of that time, make an Intelligence saving throw. The DC is equal to 10 + half the aberration's or demon's challenge rating (rounded up), or 16 if you used it to learn information about a cult. On a failed save, you take `dice:4d6|noform|noparens|avg` (`4d6`) psychic damage, which can't be reduced or prevented in any way, and learn nothing from the book. You have advantage on the saving throw if you're a warlock with an eldritch or fiendish patron. On a successful save, you learn up to three of the following pieces of information of your choice about an aberration or demon:
 

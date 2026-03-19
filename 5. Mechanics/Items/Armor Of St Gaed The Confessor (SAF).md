@@ -17,6 +17,9 @@ rarity: unknown\Magic
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of St. Gaed the Confessor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]])*  
@@ -26,6 +29,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of magic plate mail covered in silver filigree grants +1 Armor Class to the wearer. Also, once per month, the owner can summon the spirits of the Blue Dragon Phalanx to aid them in battle. The Phalanx serves for 1 hour or two battles, whichever happens first.
 

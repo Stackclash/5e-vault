@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sheer Cold
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare*  
@@ -31,6 +34,9 @@ subtype:
   - Two-handed: 1d10 cold
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The blade of this battleaxe is made from a shard of the Everglacier and never melts. Attacks with the axe deal cold damage instead of slashing, and you gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

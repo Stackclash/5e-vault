@@ -9,11 +9,17 @@ aliases:
   - Ocean Master Paint
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ocean Master Paint
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bucket contains 1 gallon of paint which is capable of coating 10 square feet of material. Coating 100 square feet of material takes 10 minutes. Anytime a creature with either the amphibious or water breathing trait, and an Intelligence score of less than 10 attempts to move within 20 feet of a coated object, they must roll a DC 15 Wisdom saving throw. On a failure, that creature must instead use all of its available speed to move away from the coated object or creature by the safest route possible. If there is no safe route to use, it instead stays where it is and loses the rest of its speed for that turn.
 

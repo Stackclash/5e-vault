@@ -9,11 +9,17 @@ aliases:
   - Hunter's Cup
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Hunter's Cup
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hunters-Cup.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden goblet is covered in a soft layer of moss. Three twisted antlers encircle it. It holds 1 cup of liquid.
 

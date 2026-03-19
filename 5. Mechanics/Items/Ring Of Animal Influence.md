@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Ring of Animal Influence
 *Ring, major, rare*  
 ![[/5. Mechanics/Items/img/ring-of-animal-influence.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells:
 

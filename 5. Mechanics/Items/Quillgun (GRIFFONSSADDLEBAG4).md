@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Quillgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 25/100
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic blowgun is made from a rough spruce branch. At its end is a collection of sharp porcupine quills. The blowgun has 30 quills and regains all expended quills daily at dawn; it then loads itself with 6 of those quills, unless it was already loaded with other ammunition.
 

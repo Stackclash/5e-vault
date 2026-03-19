@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dune Duster
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dune-Duster.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this rugged cloak, you can withstand temperatures as hot as 200 degrees Fahrenheit and are unaffected by difficult terrain created by sand. You also can't be [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]], and when you roll initiative, you gain a +5 bonus to the roll as long as you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 

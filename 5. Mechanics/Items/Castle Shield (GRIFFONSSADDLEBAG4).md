@@ -13,6 +13,9 @@ armorClass: 2
 weight: 6
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Castle Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), very rare (requires attunement)*  
@@ -20,6 +23,9 @@ rarity: very-rare
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tall shield resembles a castle battlement. Despite appearing to be made of stone, it weighs the same as a normal shield. While holding the shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC. Additionally, bludgeoning, piercing, and slashing damage that you take is reduced by 2, unless the source of the damage is a siege weapon or a creature with the Siege Monster trait.
 

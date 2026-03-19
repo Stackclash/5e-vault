@@ -14,11 +14,17 @@ attunement-requirement:
   - bard
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dramus's Dancing Shoes
 *Wondrous item, minor, uncommon (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dramus-Dancing-Shoes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These comfortable, wine-dark slippers give confidence in your dancing abilities. Even if you aren't attuned to the shoes, you have advantage on ability checks made to dance while wearing them. If you are attuned to the shoes while wearing them, you can cause musical notes to play from them whenever you take a step, as if they were instruments, allowing you to use your feet as a spellcasting focus for your bard spells. Ability checks made to dance in this way are made separately from ones made to play music.
 

@@ -14,11 +14,17 @@ attunement-requirement:
   - cleric
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Gauntlets of the Divine Feud
 *Wondrous item, major, very rare (requires attunement by a cleric)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Gauntlets-of-the-Divine-Feud.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These paired gauntlets are the last remnants of a conflict between ancient rivals, one a holy warrior and the other a grim zealot, and remain linked by their feud. You have a +1 bonus to AC and saving throws while wearing these gloves.
 

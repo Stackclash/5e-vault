@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Runic Ammunition
 *Minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Runic-Ammunition.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Runic ammunition resembles normal bolts, arrows, or stones that are etched with runes and are magically discordant to spellcasters. When a creature concentrating on a spell or magical effect is hit by a piece of runic ammunition, that creature makes the resulting Constitution saving throw to maintain its concentration with disadvantage.
 

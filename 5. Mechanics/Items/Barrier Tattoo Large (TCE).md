@@ -14,10 +14,16 @@ rarity: very-rare
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Barrier Tattoo (Large)
 *Wondrous item (tattoo), very rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Produced by a special needle, this magic tattoo depicts protective imagery and uses ink that resembles liquid metal.
 

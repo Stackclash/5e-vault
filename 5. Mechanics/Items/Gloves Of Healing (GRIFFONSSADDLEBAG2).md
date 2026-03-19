@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Gloves of Healing
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gloves-of-Healing.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These silken gloves enhance the rejuvenating power of healers and clerics. While wearing the gloves, whenever you cast a spell of 1st level or higher to restore hit points to one or more creatures, you can choose one target of the spell to regain additional hit points equal to your proficiency bonus.
 

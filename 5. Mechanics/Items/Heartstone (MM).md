@@ -13,10 +13,16 @@ rarity: very-rare
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heartstone
 *Very rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lustrous black gem allows a [[/5. Mechanics/Bestiary/Fiend/Night Hag.md\|night hag]] to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.
 

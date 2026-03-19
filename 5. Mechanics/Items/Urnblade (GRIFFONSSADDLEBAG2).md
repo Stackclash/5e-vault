@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Urnblade
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d6 necrotic
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item appears to be a small cremation urn. While grasping the urn, you can use a bonus action to speak its first command word and cause its lid to unseal. When you do, a curved blade of dark smoke pours from the mouth of the urn. Speaking the command word again reseals the urn and causes the blade to disappear. If you are proficient with shortswords or longswords, you are proficient with the urnblade.
 

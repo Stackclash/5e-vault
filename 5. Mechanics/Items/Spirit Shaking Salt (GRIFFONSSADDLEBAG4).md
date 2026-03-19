@@ -9,11 +9,17 @@ aliases:
   - Spirit-Shaking Salt
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spirit-Shaking Salt
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Spirit-Shaking-Salt.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass salt shaker has a silver skull top and is filled with `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) uses of spirit-shaking salt. While holding the shaker, you can use an action to shake it: you can either cast the salt away from you or sprinkle it on a creature within 5 feet of you.
 

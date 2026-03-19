@@ -9,11 +9,17 @@ aliases:
   - Boneclaw Censer
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boneclaw Censer
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This censer has an innate connection with the boneclaw from whom it was crafted. When held by a creature, faint wisps of smoke will emerge and blow in the direction of that boneclaw if that boneclaw is still animate and on the same plane of existence as the holder. The intensity and thickness of the smoke will increase as proximity to the boneclaw decreases. A creature holding this item may also spend 10 minutes focusing on it, after which, a wisp of smoke will emerge and blow in the direction of the boneclaw's master if it is on the same plane of existence as the censer.
 

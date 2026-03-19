@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Doom Bloom
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Doom-Bloom.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark, velvety lotus has tiny pinpricks of starlight in its petals and releases lofting, magical pollen. Once picked, a doom bloom withers and is destroyed after `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) days. As an action, you can inhale the magical pollen from a picked flower and speak the name of a creature or location that's on the same plane of existence as you, duplicating the effect of the [[/5. Mechanics/Spells/Scrying.md\|scrying]] spell (save DC 15).
 

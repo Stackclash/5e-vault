@@ -13,11 +13,17 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Mummy Rot Juice
 *Potion, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A noxious potion brewed from the corpse dust of a mummy. It carries much of the lethal mummy rot that the cursed creatures are known for. This potion has a murky brown colour and smells roughly like an opened tomb; however, the smell can be covered easily enough with an overpowering scent.
 

@@ -17,11 +17,17 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Planecaller's Codex
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The pages of this book are bound in fiend hide, and its cover is embossed with a diagram of the Great Wheel of the multiverse. When found, the book contains the following spells: [[/5. Mechanics/Spells/Banishment.md\|banishment]], [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]], [[/5. Mechanics/Spells/Gate.md\|gate]], [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]], [[/5. Mechanics/Spells/Planar Binding.md\|planar binding]], and [[/5. Mechanics/Spells/Summon Elemental (TCE).md\|summon elemental]]. It functions as a spellbook for you.
 

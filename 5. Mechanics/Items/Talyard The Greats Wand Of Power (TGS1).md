@@ -16,12 +16,18 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Talyard the Great's Wand of Power
 *Wand, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Talyard-the-Greats-Wand-of-Power.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This normal-looking spruce stick is actually the wand of a famous drunkard. A drunken creature that sees the stick perceives it as a magnificent, colorful wand that radiates with an awesome power.
 

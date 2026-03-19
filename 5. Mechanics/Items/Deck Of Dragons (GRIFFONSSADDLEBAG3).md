@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deck of Dragons
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Deck-of-Dragons-.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This deck of cards can be used as a standard [[/5. Mechanics/Items/Playing Card Set.md\|playing card set]]. Each card bears one of four types of dragons: black, red, bronze, or silver. The deck is made of 52 cards and comes in a wooden carrying case, which depicts each of the four dragons battling for control over their respective corners. While attuned to the deck, you gain a +3 bonus to any check you make using it as a [[/5. Mechanics/Items/Playing Card Set.md\|playing card set]]. You can use a bonus action to magically shuffle the cards of the deck, tapping either the top of the cards or its box when you do.
 

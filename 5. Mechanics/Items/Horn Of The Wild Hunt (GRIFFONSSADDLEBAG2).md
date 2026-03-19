@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Horn of the Wild Hunt
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Horn-of-the-Wild-Hunt.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large, spiraling warhorn has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. You can use an action to expend 1 charge and blow the horn, summoning a war elk as if you had cast the [[/5. Mechanics/Spells/Find Steed.md\|find steed]] spell. A war elk uses the same statistics as a [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] with the following changes: its size is Large, it has AC 14 ([[/5. Mechanics/Items/Barding.md\|hide barding]]), and has 37 hit points. The steed disappears if your attunement to the horn ends.
 

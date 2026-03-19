@@ -10,11 +10,17 @@ aliases:
   - Gauntlets of the Midnight Leopard
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gauntlets of the Midnight Leopard
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Gauntlets-of-the-Midnight-Leopard.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These dark purple leather gloves are lined with a matching leopard's fur. While wearing them, your eyes shimmer in the dark, like a cat's, and you have a climbing speed of 30 feet.
 

@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vainglorious Armor
 *Heavy armor ([[/5. Mechanics/Items/Ring Mail.md\|ring mail]]), cursed item, major, rare (requires attunement)*  
@@ -28,6 +31,9 @@ subtype:
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The torso of this glimmering ring mail is guarded by hundreds of golden, interlocked signet rings. It's always magically clean. While wearing it, you gain a bonus to AC equal to your Charisma modifier (maximum 5). When you make an ability check, saving throw, or attack roll and roll a 20 on the `dice:d20|noform|noparens|avg` (`d20`), you're bolstered by a wave of confidence: you have advantage on the next Charisma check or Charisma saving throw you make within the next minute.
 

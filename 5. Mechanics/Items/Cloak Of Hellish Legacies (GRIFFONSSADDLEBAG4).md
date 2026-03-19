@@ -12,11 +12,17 @@ attunement: true
 attunement-requirement:
   - tiefling
 rarity: very-rare
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Cloak of Hellish Legacies
 *Wondrous item, very rare (requires attunement by a tiefling)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Cloak-of-Hellish-Legacies.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark leather cloak is inscribed with Infernal script along its hems. Its hood has a pair of holes for your horns to fit through. While wearing the cloak, the range of your [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] increases by 30 feet, and you can see normally in magical darkness (as if it were nonmagical) out to a range of 30 feet. If the cloak's hood is up, your face becomes hidden in pitch-dark shadow. Pulling the hood up or down requires an action.
 

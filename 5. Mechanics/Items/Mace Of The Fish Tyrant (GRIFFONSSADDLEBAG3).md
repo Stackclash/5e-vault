@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mace of the Fish Tyrant
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), cursed item, major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The glass head of this mace is a hollow orb filled with water. Inside the orb is a brilliantly colored fish. Despite the movement of the water sloshing about inside the weapon, the fish remains perfectly still inside it. The fish is immortal while it remains within the mace and can't be affected by magic.
 

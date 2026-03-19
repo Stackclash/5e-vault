@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Adventurer's Overcoat
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Adventurers-Overcoat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This well-traveled and now faded overcoat has been worn by countless other mountaineering adventurers. A thin layer of frost hangs along the coat's hem. While wearing the coat, you and friendly creatures within 5 feet of you have resistance to cold damage.
 

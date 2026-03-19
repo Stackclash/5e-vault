@@ -12,10 +12,16 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hat of Disguise
 *Wondrous item, major, uncommon (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this hat, you can use an action to cast the [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] spell from it at will. The spell ends if the hat is removed.
 

@@ -9,11 +9,17 @@ aliases:
   - Lens of Insight
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lens of Insight
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this lens, you may target one creature you can see within 30 feet of you. You make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check contested against the target's Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]). If you win, you magically learn one fact or secret about the target. The target automatically wins if it is immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]].
 

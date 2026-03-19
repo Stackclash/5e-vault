@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Belt of Dwarvenkind
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/belt-of-dwarvenkind.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this belt, you gain the following benefits:
 

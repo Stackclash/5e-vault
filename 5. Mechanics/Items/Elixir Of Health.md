@@ -15,10 +15,16 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Elixir of Health
 *Potion, minor, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, it cures any disease afflicting you, and it removes the [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] conditions. The clear red liquid has tiny bubbles of light in it.
 

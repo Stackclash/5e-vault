@@ -20,6 +20,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nightstalker's Armor of the Northeastern Wind
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This unusual armor is composed of blue metal plates with a horned helm, and was tempered by the frigid breath of an oni.
 

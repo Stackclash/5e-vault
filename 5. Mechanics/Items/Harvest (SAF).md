@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Harvest
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), very rare (requires attunement by an evil creature)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you are a neutral character, this reaping tool functions as a normal weapon with no bonus or special properties. If you are good, touching Harvest deals `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage to you. If you are an evil character, you can use this sickle as a magic weapon with the following properties.
 

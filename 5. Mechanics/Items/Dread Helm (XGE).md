@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dread Helm
 *Wondrous item, minor, common*  
 ![[/5. Mechanics/Items/img/dread-helm.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fearsome steel helm makes your eyes glow red while you wear it.
 

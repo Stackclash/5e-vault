@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Remorhaz Javelin
 *Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, uncommon*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This javelin is decorated with the frill spines and teeth of a slain remorhaz. Targets hit by this magic weapon take an extra `dice:1d4|noform|noparens|avg` (`1d4`) damage. The type of bonus damage is cold if the total of the attack roll is even, or fire damage if the total is odd.
 

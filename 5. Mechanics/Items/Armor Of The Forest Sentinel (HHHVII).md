@@ -18,6 +18,9 @@ rarity: rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of the Forest Sentinel
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Despite being made entirely of bark, this set of armor possesses the same attributes as a normal set of [[/5. Mechanics/Items/Splint Armor.md\|splint armor]].
 

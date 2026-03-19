@@ -15,12 +15,18 @@ attunement-requirement:
   - creature of evil alignment
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 6
+item_recharge: none
 ---
 # Talisman of Ultimate Evil
 *Wondrous item, major, legendary (requires attunement by a creature of evil alignment)*  
 ![[/5. Mechanics/Items/img/talisman-of-ultimate-evil.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes `dice:6d6|noform|noparens|avg` (`6d6`) necrotic damage upon touching the talisman. A good creature takes `dice:8d6|noform|noparens|avg` (`8d6`) necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
 

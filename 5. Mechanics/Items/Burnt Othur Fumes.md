@@ -14,12 +14,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Burnt Othur Fumes
 *Adventuring gear, poison (inhaled)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Poison\|Poison]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) poison damage. After three successful saves, the poison ends.
 

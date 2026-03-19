@@ -12,12 +12,18 @@ weight: 4
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battlechef's Splendid Saucepan
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Battlechefs-Splendid-Saucepan.webp#right)  
 
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic saucepan can be used to turn nearly anything into a delicious and filling meal. You can boil 1 pound of any one or combination of organic, nonmagical materials for 10 minutes or longer to magically transform them into a stew that can nourish up to 4 creatures for 24 hours.
 

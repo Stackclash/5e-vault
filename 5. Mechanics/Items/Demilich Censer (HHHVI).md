@@ -9,11 +9,17 @@ aliases:
   - Demilich Censer
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Demilich Censer
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This censer has an innate connection with the [[/5. Mechanics/Bestiary/Undead/Demilich.md\|demilich]] from whom it was crafted. When held by a creature, faint wisps of smoke will emerge and blow in the direction of that demilich if that demilich is still animate and on the same plane of existence as the holder. The intensity and thickness of the smoke will increase as proximity to the demilich decreases.
 

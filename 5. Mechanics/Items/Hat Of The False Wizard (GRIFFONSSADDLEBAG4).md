@@ -10,12 +10,18 @@ aliases:
   - Hat of the False Wizard
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hat of the False Wizard
 *Wondrous item, cursed item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hat-of-the-False-Wizard.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this hat, you can use an action to cast either the [[/5. Mechanics/Spells/Druidcraft.md\|druidcraft]], [[/5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]], or [[/5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] spell from it.
 

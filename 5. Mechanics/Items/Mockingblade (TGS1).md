@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Mockingblade
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, uncommon (requires attunement by a bard)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic sword helps you more effectively add insult to injury. The sword has 6 charges and regains `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) expended charges daily at dawn. When you hit a creature with this weapon, you can immediately use a bonus action to expend 1 of its charges to cast the [[/5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]] spell from it, using your spell save DC, against that creature. When you do, any words you use to insult the creature appear written along the blade for 1 minute or until replaced by a new insult.
 

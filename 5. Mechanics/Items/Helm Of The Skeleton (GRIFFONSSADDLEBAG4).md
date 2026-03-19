@@ -10,12 +10,18 @@ aliases:
   - Helm of the Skeleton
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Skeleton
 *Wondrous item, cursed item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Helm-of-the-Skeleton.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helmet, any skeleton or skeletal creature that has a challenge rating of 1 or lower is indifferent towards you unless commanded or until either you or your companions harm it. In addition, any damage you deal to an undead creature counts as magical and ignores its Undead Fortitude trait, if it has it; you also only require half as much food and drink as normal. An undead creature wearing this helmet gains a +1 bonus to AC, even if it's not attuned to it.
 

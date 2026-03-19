@@ -9,11 +9,17 @@ aliases:
   - Contingency Cards
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Contingency Cards
 *Wondrous item, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Contingency-Cards.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When found, there are `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) contingency cards in a stack. Each one has a type of circumstance detailed on it. Choose from the table below or roll a number of d20s equal to the cards found to determine what circumstance is written on each card.
 

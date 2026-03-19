@@ -10,11 +10,17 @@ aliases:
   - Fang Keeper
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Fang Keeper
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Fang-Keeper.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A fang keeper is a dark silver necklace that's adorned with one or more monstrous fangs. When found, the necklace has `dice:1d4|noform|noparens|avg` (`1d4`) fangs, which come from one or more creatures with a challenge rating of 1 or lower. Over the course of 1 hour, which can be done during a short rest, you can add one or more teeth to the chain or replace any teeth currently on it; the chain can have no more than 4 teeth on it at a time. While wearing the necklace, you gain the following benefits.
 

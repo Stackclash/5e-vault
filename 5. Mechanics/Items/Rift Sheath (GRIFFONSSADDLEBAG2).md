@@ -16,11 +16,17 @@ tier: major
 type: weapon
 subtype:
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rift Sheath
 *Melee weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rift-Sheath.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark, wooden staff is actually a two-sided sheath for a pair of equally dark [[/5. Mechanics/Items/Shortsword.md\|shortswords]]. While holding the staff with two hands, you can use a bonus action to twist the staff to sheath or unsheath the two swords from it. When unsheathing the swords, the wooden sheath is shunted into a special extradimensional space until you decide to sheath the swords again, at which point it magically reappears between the swords.
 

@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Giantcraft Ambusher
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark metal axe contains the brute force of a fire giant inside and requires a Strength of 15 or higher in order to wield it. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

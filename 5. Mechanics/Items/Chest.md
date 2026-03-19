@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chest
 *Adventuring gear*  
 
 - **Cost**: 5 gp
 - **Weight**: 25.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A chest holds 12 cubic feet or 300 pounds of gear.
 

@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Ledger Scroll
 *Scroll, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ledger-Scroll.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This scroll is wound around a wooden dowel with owl faces on either end. When you use an action to read this scroll, choose a trigger for the scroll, centered on a point you can see within 30 feet of you, as well as up to five pieces of information to be recorded when that circumstance occurs. An [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] sensor appears at that point.
 

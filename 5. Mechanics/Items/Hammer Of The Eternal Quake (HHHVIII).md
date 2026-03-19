@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hammer of the Eternal Quake
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), legendary (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
   - Two-handed: 1d10x>9 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +3 bonus to attack and damage rolls made with this weapon. Strikes made with this weapon have a chance to reverberate constantly, compounding the damage you do to your target. If you roll the maximum value on a damage dice with this weapon, you may reroll that dice, adding the result to your total damage dealt. Rerolled dice may also trigger this effect, and there is no limit to how many times this effect can repeat.
 

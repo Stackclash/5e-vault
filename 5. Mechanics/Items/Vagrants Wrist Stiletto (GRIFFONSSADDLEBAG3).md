@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vagrant's Wrist Stiletto
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Vagrants-Wrist-Stiletto.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This single bracer has a hidden compartment on its underside. Within it lies a thin blade, which can be magically extended from the bracer on your turn (no action required, or as part of the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action) or retracted again using a bonus action. While the blade is extended, it can be used as a magic dagger, but only if that hand is empty. You gain a +1 bonus to attack and damage rolls made with this dagger, which can't be thrown, and you are considered to be holding it while it is extended.
 

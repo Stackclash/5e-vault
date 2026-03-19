@@ -14,11 +14,17 @@ attunement-requirement:
   - spellcaster
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candlecoven Censer
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Candlecoven-Censer.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This incense burner is roughly 6 inches tall and resembles a tiny witch. A stick of incense can be placed inside the burner and lit using an action. The smoke drifts upward and disperses through the hat-like cap at its top. Creatures within 30 feet of the censer can smell its burning incense. Incense in the censer can burn for up to 10 minutes.
 

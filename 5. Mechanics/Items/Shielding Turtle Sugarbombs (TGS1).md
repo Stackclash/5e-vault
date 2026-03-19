@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shielding Turtle Sugarbombs
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Shielding-Turtle-Sugarbombs.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These sticky chocolate candies are filled with an enchanted molasses and caramel center and come in packs of 2. You can eat one of these sugarbombs as an action. When you do, your movement speed is reduced by 10 feet for 1 minute. If you are proficient with shields and are wearing one on your back, you gain a +1 bonus to your AC while your speed is reduced in this way. If you're wielding a shield, you don't gain this bonus to your AC.
 

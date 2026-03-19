@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Knight's Standard of Vigor
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d10 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While wielding this brass pike, you radiate health and vitality. You and other friendly creatures within 10 feet of you are considered proficient in saving throws made to resist becoming [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]]. In addition, when an affected creature other than you regains hit points while in combat from a spell or potion, you can use your reaction to cause that ally to regain an extra `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) hit points.
 

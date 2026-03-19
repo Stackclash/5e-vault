@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Magebane Mask
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Magebane-Mask.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark iron mask was used in the mage realm during the Upheaval, when arcanists were persecuted for their gifts. While holding the mask, you can use an action to place it on the head of a humanoid (or similarly shaped) creature, whereupon it magically resizes and clasps down. If the creature is unwilling, you must make a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check contested by the target's Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check (the target chooses the ability to use). If you succeed, the mask is successfully placed on the creature's head. The mask can only be removed by a creature that uses an action to speak its command word or to make a successful DC 30 Strength check. A creature that removes the mask by force with a successful Strength check also destroys the mask.
 

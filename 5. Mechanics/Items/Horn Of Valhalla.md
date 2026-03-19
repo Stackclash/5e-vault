@@ -9,11 +9,17 @@ aliases:
   - Horn of Valhalla
 attunement: false
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horn of Valhalla
 *Wondrous item*  
 ![[/5. Mechanics/Items/img/horn-of-valhalla.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 

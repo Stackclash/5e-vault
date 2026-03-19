@@ -20,6 +20,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Thwackstaff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement)*  
@@ -30,6 +33,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This festive quarterstaff is decorated with ribbons and other glittering elements. It is perfectly balanced and seems to be made to perform with. This magic quarterstaff has the finesse property and grants you a +1 bonus to Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) checks you make in order to put on an entertaining performance using the quarterstaff.
 

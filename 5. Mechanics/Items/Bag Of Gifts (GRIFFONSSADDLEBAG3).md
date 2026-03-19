@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Gifts
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bag-of-Gifts.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This soft bag is decorated with tiny illustrations of small trinkets and gifts. Striped ribbons line its side and an empty paper tag hangs from its drawstring. The bag is 6 inches across but weighs just over 12 pounds, even if nothing is kept inside it.
 

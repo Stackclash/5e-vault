@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ringmaster's Cape
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ringmasters-Cape.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cape flows dramatically behind you when you move. While wearing it, you gain a +1 bonus to any Charisma check you make, and you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) checks.
 

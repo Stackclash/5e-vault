@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Staff of the Snail (rare)
 *Staff, weapon, major, rare (requires attunement by a spellcaster)*  
@@ -34,6 +37,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden crook has a large snail shell at its top. While holding it, the wood by the shell softens and turns into the body of a large snail, which aimlessly looks around as if to take in its surroundings. The staff can be used as a magical quarterstaff. When found, this staff is an uncommon magic item with the following properties.
 

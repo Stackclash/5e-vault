@@ -12,12 +12,18 @@ weight: 3
 attunement: false
 rarity: artifact
 tier: major
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # The Griffon's Saddlebag
 *Wondrous item, major, artifact*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/The-Griffons-Saddlebag.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These leather bags have the stylized face of a griffon on their front and appear across the multiverse in strange locations. One may be found in the belly of a dragon, while another in the limbs of a great tree. Regardless of where it's found, a *Griffon's Saddlebag* is typically discovered by an adventurer with a destiny.
 

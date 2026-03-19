@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sack
 *Adventuring gear*  
 
 - **Cost**: 1 cp
 - **Weight**: 0.5 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A sack can hold up to 1 cubic foot or 30 pounds of gear.
 

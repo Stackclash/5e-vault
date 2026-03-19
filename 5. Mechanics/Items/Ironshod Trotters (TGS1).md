@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ironshod Trotters
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ironshod-Trotters.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These boots have iron horseshoes embedded in their soles. When you take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action to run while wearing the boots, you can move an extra 10 feet.
 

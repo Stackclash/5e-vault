@@ -17,6 +17,9 @@ attunement-requirement:
   - creature of good alignment
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Couatl Herald's Guard
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a creature of good alignment)*  
@@ -24,6 +27,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic shield is made from yew and covered in durable couatl feathers. When a creature you can see within 10 feet of you takes damage, you can use your reaction to magically take that damage instead of the creature taking it. When you do so, the damage type changes to force. Once this property has been used, it can't be used again until you finish a short or long rest.
 

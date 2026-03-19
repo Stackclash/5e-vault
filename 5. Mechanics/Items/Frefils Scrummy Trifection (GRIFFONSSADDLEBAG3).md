@@ -12,12 +12,18 @@ weight: 6
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frefil's Scrummy Trifection
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Frefils-Scrummy-Trifection.webp#right)  
 
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This chocolate cake is richly flavored with merry berries and goodberries. It weighs 6 pounds and is large enough for 12 servings. Each serving of the cake provides as much nourishment as 1 day of rations. You can eat additional servings of cake even while you're already nourished by it to increase the number of days you can go without eating again, extending the duration by 1 day per additional serving. However, at the GM's discretion, you must also make a DC 10 Constitution saving throw each time you eat another serving. On a failed save, you spend your next action retching and reeling, and you lose the cake's benefits. The saving throw DC increases by 2 for each additional serving you eat, after the first, while still under the effect of one or more other servings.
 

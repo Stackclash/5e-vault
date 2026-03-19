@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Air Render
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 80/320
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you make a ranged attack with this magic bow, you can choose to fire a mote of wind instead of using an arrow. When you do, you gain a +1 bonus to the attack and damage rolls, and you can choose the form the wind takes, causing it to deal either bludgeoning, piercing, or slashing damage (your choice). When you roll a 20 on an attack roll made in this way, the target also suffers from one of the following effects:
 

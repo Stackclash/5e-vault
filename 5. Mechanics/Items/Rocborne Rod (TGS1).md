@@ -17,12 +17,18 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Rocborne Rod
 *Rod, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Rocborne-Rod.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden rod is carved in the representation of five ancient [[/5. Mechanics/Bestiary/Monstrosity/Roc.md\|rocs]]. Motes of their spirits flow through it and allow you to channel some of their lingering power.
 

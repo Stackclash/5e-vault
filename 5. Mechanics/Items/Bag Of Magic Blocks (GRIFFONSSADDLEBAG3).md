@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Magic Blocks
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bag-of-Magic-Blocks.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather bag is filled with magic wooden blocks, which are painted with vibrant colors. There are six types of blocks that can be found in the bag. The GM decides the number of each type of block in the bag or determines it randomly. When found, the bag has `dice:2d6+10|noform|noparens|avg` (`2d6 + 10`) blocks inside it.
 

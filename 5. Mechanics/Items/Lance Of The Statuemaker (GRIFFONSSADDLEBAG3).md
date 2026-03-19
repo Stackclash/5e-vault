@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lance of the Statuemaker
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, very rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lance is made of a stalactite mounted to a brass handle. Its razor-fine point is made of pitch-dark jet. Despite its material, the weapon magically weighs the same as a normal lance. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

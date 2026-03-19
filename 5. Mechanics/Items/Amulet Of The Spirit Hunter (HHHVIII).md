@@ -10,11 +10,17 @@ aliases:
   - Amulet of the Spirit Hunter
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Spirit Hunter
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this amulet, you may use your action to speak the amulet's command word and transform yourself and anything you are wearing or carrying into a spiritual version of yourself for the next hour. If you drop anything, they return to their regular form immediately. While in spiritual form, you have the following benefits:
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Indigo Stray's Conviction
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Indigo-Strays-Conviction.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of midnight-colored gloves effervesce with slow wisps of smoke, and were famously worn by a royal assassin who had been freed of their bindings. At the hems are old, well-worn manacles that have been fastened to the gloves and magically clasp onto your forearms when worn. If you're missing any arms, hands, or fingers when you attune to the gloves, dark, smoky copies of the missing appendages magically rematerialize. The limbs are fully capable parts of your body and remain as long as you're attuned to the gloves.
 

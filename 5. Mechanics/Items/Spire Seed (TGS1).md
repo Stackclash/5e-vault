@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spire Seed
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Spire-Seed.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large tree seed is 1 foot long and surrounded by a protective cone. If you're attuned to the seed and plant it and its cone in soil, it immediately takes root and begins to grow rapidly. It takes 1 month for the seed to fully grow. If you are dead for longer than 1 minute or are on a different plane of existence than the seed for more than 1 day while it grows, the tree dies and the seed is destroyed.
 

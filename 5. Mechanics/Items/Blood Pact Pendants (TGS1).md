@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blood Pact Pendants
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Blood-Pact-Pendants.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These iron pendants come in pairs and are connected by a powerful bond of self-sacrifice. In order to create this bond, you and a friendly creature with whom you are close perform a brief, 1-minute ritual to connect your destinies and forge a blood pact. When you create this blood pact, you must each agree on a number of hit points to permanently sacrifice and reduce your total maximum hit points by (minimum 1). Once a pact has been forged, trickles of the bound creatures' blood are absorbed into the normally clear gems adorning the faces of these pendants. While the gem is filled in this way, it seems to gently swirl and pulse in time with your heartbeat.
 

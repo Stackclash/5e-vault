@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Faeflame Torch
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Faeflame-Torch.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic torch was harvested from a tree in the Safire Wood, one of the most beautiful and deadly fey forests. While holding the torch, you can use a bonus action to speak its first command word, causing eerie blue flames to appear above the head of the torch. The flames shed bright light in a 20-foot radius and dim light for an additional 20 feet. The flames are not extinguished when immersed in water and last until you use a bonus action to speak the command word again or until you stow the torch.
 

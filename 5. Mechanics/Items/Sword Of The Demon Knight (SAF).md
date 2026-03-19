@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of the Demon Knight
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), very rare (requires attunement by an evil creature)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you are a neutral character, this jagged longsword functions as a normal weapon with no bonus or special properties. If you are good, touching Sir Malcoda's blade deals `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage to you. If you are an evil character, you can use the sword of the demon knight as a magic weapon with the following properties.
 

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Couatl Herald's Lash
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement by a creature of good alignment)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slender whip's grip is feathered and comfortable to wield. Its weight has been magically reduced and it gently sways on its own. This weapon has the light property. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

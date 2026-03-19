@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cactus Mace
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, uncommon*  
@@ -27,6 +30,9 @@ subtype:
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical weapon's head is an enchanted cactus that rapidly regrows its missing needles. The first target hit by this weapon on each of your turns takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage from the attack.
 

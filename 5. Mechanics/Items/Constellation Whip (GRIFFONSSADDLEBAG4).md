@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Constellation Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), very rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The handle of this whip is a magic spyglass. When you peer into the night sky through the spyglass, the stars are magically connected by an illusory series of lines that illustrate the namesakes of any constellation you know.
 

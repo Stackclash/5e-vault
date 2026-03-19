@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tormentor's Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare*  
@@ -27,6 +30,9 @@ subtype:
 
 - **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The head of this flail is in the shape of a metal skull that's pierced with large construction spikes. When you hit a creature that's missing any of its hit points with this magic weapon, the creature takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) psychic damage.
 

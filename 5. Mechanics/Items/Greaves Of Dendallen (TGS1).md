@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Greaves of Dendallen
 *Wondrous item, cursed item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Greaves-of-Dendallen.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing these skeletal greaves, you gain a climbing speed equal to your walking speed and can stand on and move across any liquid surface as if it were solid ground. In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow.
 

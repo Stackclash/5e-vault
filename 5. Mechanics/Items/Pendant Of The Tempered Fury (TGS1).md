@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Pendant of the Tempered Fury
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Pendant-of-the-Tempered-Fury.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic silvered pendant glows with a simmering flame of rage trapped inside of its clenched fist. Small sparks shoot out from between the pendant's metal fingers. The fiery anger from the pendant tightens your focus and allows you to shrug off some of the damage you take. If you are wearing no armor and using no shield while you wear this pendant, all bludgeoning, piercing, and slashing damage you take is reduced by 3.
 

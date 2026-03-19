@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Reap and Sew
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), cursed item, major, rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 80/320
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. While attuned to the weapon, you can cast the [[/5. Mechanics/Spells/Mending.md\|mending]] cantrip at will. A special, needle-like bolt is magically bound to the crossbow. When fired, the bolt leaves a faint thread of arcane energy behind it and deals force damage instead of piercing. The bolt returns to the crossbow and loads itself after each attack, ignoring the crossbow's normal loading property.
 

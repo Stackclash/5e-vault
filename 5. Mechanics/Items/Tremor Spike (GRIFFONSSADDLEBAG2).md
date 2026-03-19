@@ -16,12 +16,18 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tremor Spike
 *Rod, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Tremor-Spike.webp#right)  
 
 - **Weight**: 15.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This industrial, hollow rod is 3 feet long and weighs 15 pounds. The rod has a tapered spike on one end and an open, tower-like chimney on the other. Three hinged legs unfold from the sides of the rod, allowing it to stand upright with its spiked end pointed downward. Standing or collapsing the rod in this way requires an action.
 

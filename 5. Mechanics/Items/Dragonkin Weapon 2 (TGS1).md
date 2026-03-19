@@ -27,11 +27,17 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonkin Weapon +2
 *Major, very rare (requires attunement by a dragonborn)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dragonkin-Weapon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These weapons are made of a scaly metal that radiates draconic elements. You gain a +2 bonus to attack and damage rolls made with this magic weapon, and it deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage of the same type as your Breath Weapon racial trait. In addition, while attuned to the weapon, you gain a +2 bonus to your breath weapon's save DC.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Voyage Collar
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Voyage-Collar.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cushioned leather and rope collar is easily adjustable to fit the necks of all manner of creatures. You can place the collar on a willing Medium or smaller creature using an action. If the creature is a friendly beast companion or familiar (such as one summoned by the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell), you can speak the collar's command word as part of this action to create a magical bond between you and the creature. The bond remains until the collar is removed.
 

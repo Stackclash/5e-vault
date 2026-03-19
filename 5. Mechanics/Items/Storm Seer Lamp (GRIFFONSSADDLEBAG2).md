@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Storm Seer Lamp
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Storm-Seer-Lamp.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crystal lantern gives off a faint, refreshing smell that reminds you of being near the ocean. As a bonus action, you can touch the crystal to cause it to glow, casting bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. You can alter the radius or cause the light to fade using a bonus action to touch the crystal again. Once the lamp has glowed for a total of 8 hours, it can't be used again in this way until the next dusk.
 

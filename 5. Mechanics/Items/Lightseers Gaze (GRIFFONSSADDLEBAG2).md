@@ -14,12 +14,18 @@ attunement-requirement:
   - monk
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightseer's Gaze
 *Wondrous item, cursed item, major, legendary (requires attunement by a monk)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Lightseers-Gaze.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flourished mask obscures your eyes and magically stays in place while worn. It once belonged to a wise spiritual leader whose name has been lost to time, but was said to have eschewed personal belongings. While wearing the mask and attuned to it, you gain the following benefits:
 

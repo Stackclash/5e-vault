@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pouch of Mephit Marbles
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Pouch-of-Mephit-Marbles.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This square pouch contains `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) marbles inside it. There are four types of marbles. Roll on the table below for each marble within the pouch to determine how many of each type you have.
 

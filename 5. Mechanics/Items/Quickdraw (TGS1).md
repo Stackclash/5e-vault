@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quickdraw
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This curious contraption is in fact a small, surreptitious hand crossbow that can be worn on a wrist or forearm without requiring a free hand to use it. On the first turn of combat, you can immediately use your reaction to fire the weapon at a creature you can see within range. If you don't fire the crossbow in this way, you can use a bonus action on a subsequent turn to make a single ranged attack with it instead.
 

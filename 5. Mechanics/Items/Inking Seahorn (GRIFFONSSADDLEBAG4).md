@@ -10,11 +10,17 @@ aliases:
   - Inking Seahorn
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Inking Seahorn
 *Wondrous item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Inking-Seahorn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This horn is made from a seashell. A dark metal lip and sculpted octopus hang to the open mouth of the horn. You can breathe underwater while holding the horn so long as you inhale through it.
 

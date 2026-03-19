@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Radiant Defender
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This maul has a narrow shield covering its handle that can be rotated to protect the wielder's grip. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While wielding this guarded maul, taking the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action also gives you a +2 bonus to your AC until the start of your next turn. In addition, when you take the Dodge action and a creature within 5 feet of you misses you with an attack, you can use your reaction to make an attack with the maul against that creature. If you hit, the attack deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage. Once you use your reaction to make an attack in this way, you lose the maul's bonus to your AC until you take the Dodge action again.
 

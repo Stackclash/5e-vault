@@ -23,11 +23,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Phasing Bow
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Phasing-Bow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flexible bow is made from the chitinous legs of a phase spider and retains some of its ethereal properties. When you hit with a ranged attack using this magic bow, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) force damage.
 

@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spellfire Bow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a spellcaster)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This richly polished wooden longbow is ornamented with a silver trim and bowstring. Even if you aren't attuned to the bow, it creates a special arcane arrow when you draw it back without nocking one. When you fire the bow using one of these arcane arrows, you gain a +3 bonus to attack and damage rolls made with this weapon, which deals force damage instead of piercing damage.
 

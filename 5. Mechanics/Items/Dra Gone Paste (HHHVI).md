@@ -13,11 +13,17 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Dra-gone Paste
 *Potion, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You may spend 1 minute applying a dose of this paste to yourself. For the next 24 hours or until the paste is washed off, you have advantage on any Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide from creatures with the dragon subtype as well as disadvantage on any Charisma checks made when interacting with creatures with the dragon subtype. This item has enough paste for 5 doses.
 

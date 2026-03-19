@@ -16,10 +16,16 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Jumping
 *Ring, major, uncommon (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring, you can cast the [[/5. Mechanics/Spells/Jump.md\|jump]] spell from it as a bonus action at will, but can target only yourself when you do so.
 

@@ -10,11 +10,17 @@ aliases:
   - Time Warden Helm
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Time Warden Helm
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Time-Warden-Helm.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helmet has a monocle-like glass clock over its left eye. While wearing it, you always know what time it is. In addition, the helmet allows you to catch glimpses of the near future: you can't be [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]] while you're not [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], and you have advantage on initiative rolls.
 

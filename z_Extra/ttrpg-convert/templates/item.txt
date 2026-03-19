@@ -169,6 +169,44 @@ subtype:
 {/if}
 {/let}
 {/if}
+{#if (resource.tags && (str:concat(resource.tags).contains('item/wondrous/potion') || str:concat(resource.tags).contains('item/wondrous/scroll') || str:concat(resource.tags).contains('item/gear/ammunition') || str:concat(resource.tags).contains('item/weapon/ammunition'))) || (resource.text && (resource.text.toLowerCase().contains('single-use effect') || resource.text.toLowerCase().contains('is single-use')))}
+item_consumable: true
+{#else}
+item_consumable: false
+{/if}
+{#if resource.text}
+{#let descLower=resource.text.toLowerCase()}
+{#if descLower.contains(' charges') && descLower.contains('has ')}
+{#let beforeCharges=descLower.substring(0, descLower.indexOf(' charges'))}
+{#if beforeCharges.contains('has ')}
+{#let afterHas=beforeCharges.substring(beforeCharges.lastIndexOf('has ') + 4)}
+{#if afterHas.startsWith('1') || afterHas.startsWith('2') || afterHas.startsWith('3') || afterHas.startsWith('4') || afterHas.startsWith('5') || afterHas.startsWith('6') || afterHas.startsWith('7') || afterHas.startsWith('8') || afterHas.startsWith('9')}
+item_uses: {afterHas.substring(afterHas.lastIndexOf(' ') + 1)}
+{#else}
+item_uses: 0
+{/if}
+{/let}
+{#else}
+item_uses: 0
+{/if}
+{/let}
+{#else}
+item_uses: 0
+{/if}
+{#if descLower.contains('short rest')}
+item_recharge: short-rest
+{#else if descLower.contains('at dawn')}
+item_recharge: dawn
+{#else if descLower.contains('long rest')}
+item_recharge: long-rest
+{#else}
+item_recharge: none
+{/if}
+{/let}
+{#else}
+item_uses: 0
+item_recharge: none
+{/if}
 ---
 # {resource.name}
 {#if resource.detail }*{resource.detail}*  
@@ -198,8 +236,12 @@ subtype:
 - **Cost**: {resource.cost}
 {/if}{#if resource.weight }
 - **Weight**: {resource.weight} lbs.
-{/if}{#if resource.text }
+{/if}
+```dataviewjs
+await dv.view("views/itemPrice", \{current: dv.current()\})
+```
 
+{#if resource.text }
 {resource.text}
 {/if}
 {#if resource.fluffImages.size > 1 }

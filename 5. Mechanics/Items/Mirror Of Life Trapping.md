@@ -12,12 +12,18 @@ weight: 50
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  
 ![[/5. Mechanics/Items/img/mirror-of-life-trapping.webp#right]]  
 
 - **Weight**: 50.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
 

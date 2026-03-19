@@ -10,11 +10,17 @@ aliases:
   - The Chronos Codex
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Chronos Codex
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-chronos.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Like the codex multiversalis, the origins of the chronos codex are not well recorded. Its earliest reference is in the possession of the Ganarajyan wizard Subhadrangi, who may also be the book's author. The book is also referenced in the Tales of Rupananda, but it's possible Subhadrangi and Rupananda were the same woman. A handful of references talk of a sage who went by both names during that age, but there's no direct confirmation from any contemporary source, and no source definitively claims either women wrote it or indeed gives an independent account of the life of either.
 

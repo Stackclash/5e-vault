@@ -22,11 +22,17 @@ type: armor
 subtype:
   - heavy
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Novanite Armor
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Novanite-Armor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Novanite is a strong metal smelt from ore mined in the Astral Plane. Armor made from this metal absorbs more light than normal and gives off a strange, otherworldly aura. Glimmering cosmos can be seen in the armor's reflections at night. You have a +1 bonus to AC while wearing this armor.
 

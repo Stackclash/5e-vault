@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Eagle Studded Cuirass
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), major, uncommon (requires attunement)*  
@@ -25,6 +28,9 @@ subtype:
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This studded leather armor is worn by an elite guard of a longstanding alliance between elves and humans. While you're wearing it, any critical hit against you becomes a normal hit.
 

@@ -16,10 +16,16 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Ring of Fire Elemental Command
 *Ring, major, legendary (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Fire and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Fire.
 

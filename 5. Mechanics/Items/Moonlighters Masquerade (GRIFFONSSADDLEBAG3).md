@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Moonlighter's Masquerade
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Moonlighters-Masquerade.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This midnight blue mask has been delicately gilded with swirling designs. While wearing it, you can use an action to don an illusory outfit of finery. You choose the appearance of the outfit each time, and you can change the colors of the mask as part of this illusion. The outfit magically hides any armor or clothes you're already wearing, provided that the armor doesn't normally impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. The illusion remains until you dismiss it (no action required) or until you're no longer wearing the mask.
 

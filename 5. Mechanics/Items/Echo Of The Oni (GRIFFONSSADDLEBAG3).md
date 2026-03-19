@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Echo of the Oni
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Echo-of-the-Oni.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tattered leather cloak is lined with a blue, silken lining with gold and white patterns. The cloak contains the lingering power of an oni. While wearing it, you gain a flying speed equal to your walking speed and can hover, but can only fly up to 1 foot off the ground while doing so. In addition, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks, and when you reduce a hostile creature to 0 hit points, you become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until the start of your next turn or until you make an attack or cast a spell.
 

@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deathly Diadem
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Deathly-Diadem.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gruesome crown was worn by a powerful lich before falling into the hands of the adventurers who slayed it. While wearing this crown, you have resistance to necrotic damage, are always under the effects of the tongues spell, and you can cast the speak with dead spell at will. When you cast speak with dead in this way, you can only ask the target 1 question, to which the target answers with either "yes," "no," or "maybe." If the question can't be answered in this way, the spell ends. In addition, while you wear this crown, undead creatures have disadvantage on attack rolls against you.
 

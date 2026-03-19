@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crossbow Bolt Case
 *Adventuring gear*  
 
 - **Cost**: 1 gp
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden case can hold up to twenty [[/5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolts]].
 

@@ -10,12 +10,18 @@ aliases:
   - Orb of the Oozing Hunger
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Orb of the Oozing Hunger
 *Wondrous item, cursed item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/OrboftheOozingHunger.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The worshippers of [[/4. World Almanac/NPCs/Juiblex (MPMM).md\|Juiblex]] are among the most pathetic and depraved of all demon cultists. So indoctrinated into their patron's mantra of consuming everything, Juiblex's worshippers make it their goal to be consumed by the Demon Lord themselves, joining it as one writhing mass for all eternity. In their quiet and meditative moments, these cultists report seeing a single orb made of writhing dark-green slime that seems to stare through their bodies and into their souls. This is the legendary Orb of the Oozing Hunger, a demonic artifact made from Juiblex's body that it intends as its final attempt at assimilating the world into its own mass. Many cultists believe that any defeat that [[/4. World Almanac/NPCs/Juiblex (MPMM).md\|Juiblex]] suffers is actually planned by them as a way to create this orb and spread its influence into corners of the multiverse that it would normally be unable to access.
 

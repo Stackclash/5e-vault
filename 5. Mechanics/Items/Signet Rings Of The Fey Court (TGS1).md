@@ -20,11 +20,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Signet Rings of the Fey Court
 *Ring, major, very rare (requires attunement by an elf, half-elf, or other fey creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Signet-Rings-of-the-Fey-Court.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of wooden rings once belonged to a powerful fey creature who ruled over a domain on their native plane of existence. You must be wearing all four rings in order to attune to and use their magic. While wearing the rings, you know the [[/5. Mechanics/Spells/Druidcraft.md\|druidcraft]] cantrip. In addition, you gain the elf's Trance racial trait if you don't already have it.
 

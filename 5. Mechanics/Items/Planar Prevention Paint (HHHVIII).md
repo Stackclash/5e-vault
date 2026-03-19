@@ -9,11 +9,17 @@ aliases:
   - Planar Prevention Paint
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Planar Prevention Paint
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An area that is enclosed by an outline of this viscous paint becomes magically sealed to teleportation and planar-based transportation. When viewed from another plane, the area appears to have a shimmering barrier of solid light that is impassable. Any travel into or out of the area by any method via a plane other than the one that the paint was used on is impossible. For example, you cannot walk through the barrier while you are in the Border Ethereal, nor can you succeed on a [[/5. Mechanics/Spells/Plane Shift.md\|plane shift]] spell while inside the area.
 

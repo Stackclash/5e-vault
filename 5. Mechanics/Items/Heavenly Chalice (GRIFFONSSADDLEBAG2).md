@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heavenly Chalice
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Heavenly-Chalice.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden goblet is ornamented with 4 glimmering gems and stripes of jet and ivory. It weighs 2 pounds and can hold the contents of one potion. When a [[/5. Mechanics/Items/Potion Of Healing Gv.md\|potion of healing]] (of any rarity) is poured into the cup, a cleric, paladin, or other creature with a magical connection to a celestial can spend 1 minute reciting a prayer over it. At the end of the prayer, the potion becomes sanctified and begins to glow with a calming blue light. When a [[/5. Mechanics/Items/Potion Of Healing Gv.md\|potion of healing]] becomes sanctified, it creates a pool of hit points equal to the maximum number of potential regained hit points possible for that potion.
 

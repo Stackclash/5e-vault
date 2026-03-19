@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Cloak of the Protector's Charge
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Cloak-of-the-Protectors-Charge.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you finish a long rest while wearing this cloak, choose up to four other creatures that you can see within 30 feet of you. You and those creatures then gain 10 temporary hit points. In addition, the cloak has 5 charges and regains `dice:1d3+2|noform|noparens|avg` (`1d3 + 2`) expended charges daily at dawn. While wearing the cloak, you can use a bonus action to expend 1 of its charges to grant a creature that you can see within 30 feet of you `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) temporary hit points.
 

@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of Resistance
 *Major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/armor-of-resistance.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
 

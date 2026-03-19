@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stonebleeder
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), rare*  
@@ -29,6 +32,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +2 bonus to attack and damage rolls with this magic axe, which looks to be made of red crystal. Whenever the axe hits an object or structure made of stone, the hit is a critical hit.
 

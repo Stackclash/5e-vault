@@ -15,11 +15,17 @@ attunement-requirement:
   - ranger
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Pollinator Pants
 *Wondrous item, major, uncommon (requires attunement by a druid or ranger)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Pollinator-Pants.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this pair of black-and-yellow striped pants, any flower you move within 5 feet of magically blossoms, as if by the [[/5. Mechanics/Spells/Druidcraft.md\|druidcraft]] spell.
 

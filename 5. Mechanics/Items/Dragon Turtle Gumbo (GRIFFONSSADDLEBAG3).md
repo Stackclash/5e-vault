@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Turtle Gumbo
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dragon-Turtle-Gumbo.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This spicy dish is made with dragon turtle meat and an assortment of flavorful herbs and vegetables that enrich its savory broth. It takes 1 minute to eat. Once you've eaten the gumbo, you can breathe underwater for 8 hours.
 

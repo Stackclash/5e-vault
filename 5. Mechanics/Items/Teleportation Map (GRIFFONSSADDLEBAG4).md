@@ -13,11 +13,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Teleportation Map
 *Scroll, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Teleportation-Map.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This map is delicately inked on a magic scroll and kept in an elaborate travel case. Almost every teleportation map is different: some show maps of entire continents, whereas others are of local city streets or their immediate surroundings. When found, the GM decides the area and scale of the map on the scroll.
 

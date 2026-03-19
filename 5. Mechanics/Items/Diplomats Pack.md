@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Diplomat's Pack
 *Adventuring gear*  
 
 - **Cost**: 39 gp
 - **Weight**: 36.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Includes:
 

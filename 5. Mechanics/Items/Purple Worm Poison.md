@@ -14,12 +14,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Poison\|Poison]]
 - **Cost**: 2,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This poison must be harvested from a dead or [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] [[/5. Mechanics/Bestiary/Monstrosity/Purple Worm.md\|purple worm]]. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking `dice:12d6|noform|noparens|avg|text(42)` (`12d6`) poison damage on a failed save, or half as much damage on a successful one.
 

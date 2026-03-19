@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Timepiercer
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item appears to be a sword hilt that has a small hole on either end of it. The hilt is made of clear quartz and contains an hourglass with sand inside it. Despite the holes on the hilt, the sand never seems to flow out of the hourglass. You can speak the hilt's command word as a bonus action to cause it to form a thin blade of sand. The hourglass spills sand from the bottom of the hilt that circulates up and around to form the blade and guard of the rapier before returning to the hourglass again through the hole at the top. You can speak the hilt's command word again as a bonus action to cause all the sand to return to the hourglass. While the blade is formed, you gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

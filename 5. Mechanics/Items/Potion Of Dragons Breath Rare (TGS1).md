@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Dragon's Breath (rare)
 *Potion, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Potion-of-Dragons-Breath.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This potion is crafted using the harvested stomach and gizzard of a fallen dragon. Drinking the potion as an action allows you to use an action on your subsequent turns to spew dragon-like projectiles. These projectiles are the same as a dragonborn's breath weapon, whose element and areas of effect are determined by the dragon it was sourced from. The effect lasts for 1 minute. Materials gathered from adult dragons produce rare potions (dealing `dice:4d6|noform|noparens|avg` (`4d6`) damage with the breath weapon, save DC 15).
 

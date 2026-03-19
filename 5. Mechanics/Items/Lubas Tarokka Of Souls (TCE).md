@@ -10,11 +10,17 @@ aliases:
   - Luba's Tarokka of Souls
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Luba's Tarokka of Souls
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/lubas-tarokka-of-souls.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Not all lingering spirits are tragic souls, lost on their way to the hereafter. Some languish as prisoners, souls so wicked mortals dare not free them upon an unsuspecting afterlife.
 

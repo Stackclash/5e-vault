@@ -9,11 +9,17 @@ aliases:
   - Quaal's Feather Token
 attunement: false
 rarity: rare
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Quaal's Feather Token
 *Wondrous item, rare*  
 ![[/5. Mechanics/Items/img/quaals-feather-token.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly.
 

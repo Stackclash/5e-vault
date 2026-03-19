@@ -15,10 +15,16 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Poison
 *Potion, minor, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This concoction looks, smells, and tastes like a [[/5. Mechanics/Items/Potion Of Healing.md\|potion of healing]] or other beneficial potion. However, it is actually poison masked by illusion magic. An [[/5. Mechanics/Spells/Identify.md\|identify]] spell reveals its true nature.
 

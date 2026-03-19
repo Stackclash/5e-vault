@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Skylit Greaves
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Skylit-Greaves.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These mithral greaves feel weightless, despite being made from metal. While wearing the boots, small jets of storming vapor pour from their sides when you move. While wearing the greaves, you are always under the effect of the [[/5. Mechanics/Spells/Jump.md\|jump]] spell, your movement speed increases by 10 feet, and you have resistance to lightning and thunder damage.
 

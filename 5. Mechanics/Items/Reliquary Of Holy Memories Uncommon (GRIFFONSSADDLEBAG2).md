@@ -22,12 +22,18 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Reliquary of Holy Memories (Uncommon)
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), rod, major, uncommon (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Reliquary-of-Holy-Memories.webp#right)  
 
 - **Damage**: 1d6 bludgeoning
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This scepter holds the bones of a powerful martyred saint and are said to contain the echoes of their memories. The rod can also be used as a magic [[/5. Mechanics/Items/Mace.md\|mace]].
 

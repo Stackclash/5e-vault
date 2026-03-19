@@ -24,6 +24,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of Healing
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, or druid)*  
@@ -34,6 +37,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] (1 charge per spell level, up to 4th), [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] (2 charges). or [[/5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] (5 charges).
 

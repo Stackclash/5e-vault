@@ -10,11 +10,17 @@ aliases:
   - Cloak of the Midwinter Solsticekeeper
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Cloak of the Midwinter Solsticekeeper
 *Wondrous item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Cloak-of-the-Midwinter-Solsticekeeper.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This warm red coat carries a feeling of good tidings and midwinter cheer, even in the most bitter of cold. While wearing it, you have resistance to cold damage, and any Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check you make is made with advantage. The cloak also has the following properties.
 

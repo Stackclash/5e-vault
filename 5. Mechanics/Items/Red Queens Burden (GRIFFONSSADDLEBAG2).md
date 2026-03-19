@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Red Queen's Burden
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass, battle-scarred glaive was famously wielded by a tyrannical queen. You must have a Strength score of 17 or higher to wield this weapon. The queen's intensity still burns inside this weapon, making its handle always warm to the touch. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and it deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage to any target it hits.
 

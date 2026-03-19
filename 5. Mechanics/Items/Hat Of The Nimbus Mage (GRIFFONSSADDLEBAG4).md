@@ -15,11 +15,17 @@ attunement-requirement:
   - warlock
   - wizard
 rarity: rare
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Hat of the Nimbus Mage
 *Wondrous item, rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hat-of-the-Nimbus-Mage.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This twin-peaked wizard hat has thin, wispy clouds circling its mountainous spires. You can mentally command the clouds to look like different weather using an action.
 

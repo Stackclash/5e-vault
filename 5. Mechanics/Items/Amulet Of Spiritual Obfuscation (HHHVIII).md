@@ -9,12 +9,18 @@ aliases:
   - Amulet of Spiritual Obfuscation
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of Spiritual Obfuscation
 *Wondrous item, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/AmuletofSpiritualObfuscation.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gold framed amulet has a large red stone in its center, inside of which, is a swirling vortex that resemble souls chasing each other for eternity. The spiritual chaos inside this amulet is capable of masking its wearer's spiritual presence, among other protections. While wearing this amulet, you gain the following benefits:
 

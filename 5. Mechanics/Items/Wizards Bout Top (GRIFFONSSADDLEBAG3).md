@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wizards' Bout Top
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wizards-Bout-Top.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden top is a favorite among children in the wizard city of Orostead, who use them in a local favorite game of Wizards' Bout. Many children repaint their tops to fit their personal aesthetic. You can spin the top using an action; roll a `dice:d8|noform|noparens|avg` (`d8`) and use the table below to determine the illusory effect created by the top. The effects are instantaneous.
 

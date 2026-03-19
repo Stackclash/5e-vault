@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - tool
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Thieves' Tools
 *Tool*  
@@ -22,6 +25,9 @@ subtype:
 
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
 

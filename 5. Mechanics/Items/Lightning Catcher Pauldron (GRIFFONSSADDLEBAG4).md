@@ -10,11 +10,17 @@ aliases:
   - Lightning-Catcher Pauldron
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightning-Catcher Pauldron
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Lightning-Catcher-Pauldron.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have resistance to lightning damage while wearing this metal pauldron. Whenever you take a cumulative 10 points of lightning damage while wearing the pauldron, you gain a special die, called a Dash Die, which is a `dice:d8|noform|noparens|avg` (`d8`). You can only have one Dash Die at a time. On your turn, you can use a bonus action to roll the Dash Die and immediately move a number of feet equal to 5 times the number rolled. The die is then lost.
 

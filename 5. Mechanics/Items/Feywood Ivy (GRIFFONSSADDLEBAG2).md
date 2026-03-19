@@ -16,11 +16,17 @@ attunement-requirement:
   - fey creature
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Feywood Ivy
 *Wondrous item, major, uncommon (requires attunement by a druid, ranger, or fey creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Feywood-Ivy.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tiny seed has a glowing rune on its shell. While holding the seed against a weapon or similar held object, you can speak its first command word as an action to cause the seed to sprout and cover the object with green and purple vines. The vines form a comfortable grip with which to hold the object and also create a protective cover for it, such as a sheath or carrying case, that automatically stows the object while it isn't being held, unless you decide for it not to. You can use an action to speak the first command word again to cause the vines to retreat from the object and return to the seed.
 

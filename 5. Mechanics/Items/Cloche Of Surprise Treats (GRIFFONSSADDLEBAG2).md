@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloche of Surprise Treats
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Cloche-of-Surprise-Treats.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic silver cloche covers a large dinner platter. You can use an action to speak the cloche's command word and remove it from the platter. When you do, use the table below to determine what kind of meal appears.
 

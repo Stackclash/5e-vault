@@ -10,11 +10,17 @@ aliases:
   - Cloak of the Storm Spirit
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of the Storm Spirit
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This electric-blue cloak emanates a constant low hum of the sound of thunder. While wearing and attuned to this cloak, you have resistance to lightning and thunder damage. In addition, you may spend your action to speak the cloak's command word and transform yourself into a living storm for 1 minute or until you spend your action to speak the command word again.
 

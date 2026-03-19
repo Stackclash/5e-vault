@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Fourarm Bracers
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Fourarm-Bracers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These bracers can summon another pair of spectral arms below your existing ones. These arms can be summoned as an action and last for up to 1 minute before disappearing. While active, you can use the arms to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. Each arm can carry up to 10 pounds. The arms stay attached to your torso at all times and cannot be moved to other parts of your body, but can be turned around to face the opposite direction.
 

@@ -10,11 +10,17 @@ aliases:
   - Helm of the Ulitharid
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Ulitharid
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helm, you have telepathy out to a range of 120 feet. In addition, you may spend an action to magically emit psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take `dice:4d12|noform|noparens|avg` (`4d12`) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once this ability has been used once, it cannot be used again until the next dawn.
 

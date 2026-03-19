@@ -12,12 +12,18 @@ weight: 6
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Black Pudding Power Bomb
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Black-Pudding-Power-Bomb.webp#right)  
 
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic iron bomb is the size of a large fist and weighs 6 pounds. A black, sticky ooze has partially leaked from the bomb's top. Holding the bomb and touching the ooze for longer than a few seconds begins to numb your hand.
 

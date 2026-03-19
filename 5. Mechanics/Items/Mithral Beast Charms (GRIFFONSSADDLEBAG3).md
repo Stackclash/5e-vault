@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mithral Beast Charms
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mithral-Beast-Charms.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These mithral charms resemble a type of woodland beast and can be easily worn on jewelry or carried by hand. You can use an action to touch a charm and speak its command word typically the creature's name in Sylvan to cause one or more of that creature to appear in an unoccupied space that you can see within 30 feet of you. Such a creature is considered to be fey, instead of beast, and is friendly to you and your companions. It understands your languages and obeys your spoken commands to the best of its ability (no action required by you), and takes its turn immediately after yours. A summoned creature remains for up to 10 minutes, but disappears early if you use an action to end the effect or if it's reduced to 0 hit points.
 

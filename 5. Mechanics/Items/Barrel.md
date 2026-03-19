@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Barrel
 *Adventuring gear*  
 
 - **Cost**: 2 gp
 - **Weight**: 70.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.
 

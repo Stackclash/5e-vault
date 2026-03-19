@@ -17,11 +17,17 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Heart Weaver's Primer
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pristine book smells faintly of a random scent you find pleasing. When found, the book contains the following spells: [[/5. Mechanics/Spells/Antipathy Sympathy.md\|antipathy/sympathy]], [[/5. Mechanics/Spells/Charm Person.md\|charm person]], [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[/5. Mechanics/Spells/Enthrall.md\|enthrall]], [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]], and [[/5. Mechanics/Spells/Suggestion.md\|suggestion]]. It functions as a spellbook for you.
 

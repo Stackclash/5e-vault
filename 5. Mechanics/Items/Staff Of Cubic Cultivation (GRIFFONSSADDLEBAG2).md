@@ -19,6 +19,9 @@ tier: minor
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of Cubic Cultivation
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), minor, uncommon*  
@@ -29,6 +32,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff has a perfect cube of blue crystal at its top that slowly drips with a viscous ooze. The staff has 10 charges. As an action, you can tap the head of the staff on the ground and expend 1 or more of its charges to create a 5-foot cube of a mysterious, gelatinous material for each expended charge. Each cube appears in an unoccupied space within 5 feet of you or adjacent to another cube you create as part of this action. The cubes are translucent objects that have AC 10, 20 hit points, and resistance to acid damage. Creating a cube in a space smaller than 5 feet across causes the cube to squeeze and fit the space. A cube remains for 1 minute or until it's reduced to 0 hit points, after which it dissolves into a puddle of slime and vanishes.
 

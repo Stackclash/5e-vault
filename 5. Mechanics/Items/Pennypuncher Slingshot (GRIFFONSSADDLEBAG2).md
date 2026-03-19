@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pennypuncher Slingshot
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slingshot requires two hands to attack and is adorned with coin-like designs. You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, when you make a ranged attack with this weapon and use a coin as its ammunition, it deals extra damage on a hit based on the value of the coin you use:
 

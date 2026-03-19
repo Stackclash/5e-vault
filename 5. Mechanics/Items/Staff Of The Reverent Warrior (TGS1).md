@@ -22,6 +22,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of the Reverent Warrior
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a spellcaster)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff was made as a means of worship rather than war by a retired warrior using the weapons he'd once wielded. The staff is adorned with blades and channels the inner focus of a warrior. This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. In addition, attacks made with this weapon can deal either bludgeoning, piercing, or slashing damage (your choice).
 

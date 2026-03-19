@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Disruptor
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), very rare (requires attunement by a chaotic creature)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you are a neutral character, this dull grey longsword functions as a normal weapon with no bonus or special properties. If you are lawful, touching Disruptor deals `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage to you. If you are a chaotic character, you can use Disruptor as a magic weapon with the following properties.
 

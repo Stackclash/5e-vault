@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - tool
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Poisoner's Kit
 *Tool*  
 
 - **Cost**: 50 gp
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 

@@ -13,10 +13,16 @@ attunement-requirement:
   - cleric
   - paladin
 rarity: uncommon
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Guardian Emblem
 *Wondrous item, uncommon (requires attunement by a cleric or paladin)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This emblem is the symbol of a deity or a spiritual tradition. As an action, you can attach the emblem to a suit of armor or a shield or remove it.
 

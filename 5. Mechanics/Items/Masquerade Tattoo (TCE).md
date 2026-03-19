@@ -14,10 +14,16 @@ rarity: common
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Masquerade Tattoo
 *Wondrous item (tattoo), common (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Produced by a special needle, this magic tattoo appears on your body as whatever you desire.
 

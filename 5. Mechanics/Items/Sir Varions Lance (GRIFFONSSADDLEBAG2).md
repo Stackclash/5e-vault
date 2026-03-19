@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sir Varion's Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, uncommon (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weighty lance was originally designed for Sir Varion, a brave knight with a famous disregard for horses. You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon has the heavy property, but is uniquely balanced to function well in close-quarters combat. Attacking a target within 5 feet of you with this weapon doesn't impose disadvantage on the attack roll.
 

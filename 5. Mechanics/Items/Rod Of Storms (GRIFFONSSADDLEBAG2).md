@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Rod of Storms
 *Rod, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rod-of-Storms.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver rod crackles with energy and can redirect or release powerful electric surges. While holding it, if a creature you can see within 30 feet of you takes lightning damage, you can use your reaction to halve that lightning damage and choose another target you can see within 30 feet of you. When you do, that target must succeed on a DC 15 Dexterity saving throw or take lightning damage equal to the lightning damage taken by the creature.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gemini Mask
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Gemini-Mask.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This half-mask remains securely on your face thanks to its full-width diadem, which extends from the mask around the rest of your brow. It functions as a [[/5. Mechanics/Items/Hat Of Disguise.md\|hat of disguise]]. When you use an action to cast the [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] spell from the mask, you can choose to appear identical to another creature that you can see within 60 feet of you. When you do, you can appear up to 3 feet shorter or taller to match the target's height.
 

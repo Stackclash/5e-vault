@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lance of the Hungering Dead
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical, gruesome lance can drain the life force from another creature. The first time on your turn when you hit a hostile living creature with a melee weapon attack using the lance, you deal an extra `dice:1d12|noform|noparens|avg` (`1d12`) necrotic damage. You gain temporary hit points equal to half the necrotic damage dealt, rounded up. Temporary hit points gained from this attack fade after one hour.
 

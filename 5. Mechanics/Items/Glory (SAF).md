@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glory
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), very rare (requires attunement by a good creature)*  
@@ -28,6 +31,9 @@ subtype:
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you are a neutral character, this steel mace functions as a normal weapon with no bonus or special properties. If you are evil, touching this weapon deals `dice:2d8|noform|noparens|avg` (`2d8`) radiant damage to you. If you are a good character, you can use Glory as a magic weapon with the following properties.
 

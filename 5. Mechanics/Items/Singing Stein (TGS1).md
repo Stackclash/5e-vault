@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Singing Stein
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Singing-Stein.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While this pewter stein holds at least a sip's worth of potable alcohol, the face adorning it comes alive to sing songs based on the kind of drink. The stein is not sentient, but does have a pleasant singing voice. If there are multiple steins in the same room, they can sing together in harmony if they have the same drinks within them.
 

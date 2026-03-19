@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Etherean Torch
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Etherean-Torch.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This torch's handle is made of oemmock, a plant that only grows in the Border Ethereal. While holding the torch, you can use an action to speak its command word to make it ignite with a purple flame. The flame produces as much light as a normal torch and can only be extinguished by using an action to speak its command word again. While holding the lit torch, you can see into the Ethereal Plane within the torch's bright light. The torch's light stays purple on the Ethereal Plane, despite everything else being in shades of gray.
 

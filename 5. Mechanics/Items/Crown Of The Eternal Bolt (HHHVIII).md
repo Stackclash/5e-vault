@@ -10,11 +10,17 @@ aliases:
   - Crown of the Eternal Bolt
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Crown of the Eternal Bolt
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing and attuned to this item, you have resistance to lightning damage. This crown also has 6 charges. As an action, you may spend a charge to use any of the following abilities:
 

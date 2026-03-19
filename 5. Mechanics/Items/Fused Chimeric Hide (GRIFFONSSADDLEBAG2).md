@@ -21,6 +21,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fused Chimeric Hide
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, rare (requires attunement by a barbarian or druid)*  
@@ -28,6 +31,9 @@ subtype:
 
 - **Armor Class**: 12 + Dex modifier (max of +2)
 - **Weight**: 12.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is made from the three unique hides of a fearsome chimera, creating an armor that's both imposing and practical. You have a +1 bonus to AC while wearing this armor.
 

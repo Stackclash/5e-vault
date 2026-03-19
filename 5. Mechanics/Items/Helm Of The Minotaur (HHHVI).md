@@ -9,11 +9,17 @@ aliases:
   - Helm of the Minotaur
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Minotaur
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helmet, if you move at least 10 feet straight towards a target in a turn and then make a successful [[/5. Mechanics/Rules/Actions.md#Shove\|shove]] attack, you may choose to deal `dice:2d8|noform|noparens|avg` (`2d8`) piercing damage to your target in addition to the [[/5. Mechanics/Rules/Actions.md#Shove\|shove]] attack's regular results.
 

@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Demon Cannon
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), very rare*  
@@ -27,6 +30,9 @@ subtype:
 - **Range**: 100/400
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This unique crossbow has replaced its string firing mechanism with a single tube inscribed with Abyssal runes that makes this weapon seem more like a handheld cannon with a trigger. When you make a critical hit with this magical weapon against a target, you may choose for your ammunition to burst, creating a 5-foot wide, 60-foot long line of dark energy behind your target that forces all creatures caught in it to make a DC 16 Dexterity saving throw. On a failure, a target takes `dice:4d10|noform|noparens|avg` (`4d10`) force damage, or half that on a success.
 

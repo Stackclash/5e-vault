@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Seraphim's Stiletto
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement by a creature of good alignment)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic dagger is made from elven gold and a fine sliver of unicorn horn. The dagger has a pool of 20 hit points that replenishes daily at dawn. As an action, you can touch this dagger to a creature you can see within 5 feet of you and speak its command word. When you do, you can restore a number of hit points to that creature from the pool, up to the maximum amount remaining in the pool.
 

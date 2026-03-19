@@ -13,11 +13,17 @@ attunement-requirement:
   - cleric
   - paladin
 rarity: legendary
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Amulet of Radiant Protection
 *Wondrous item, legendary (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Amulet-of-Radiant-Protection.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This amulet is decorated with polished platinum, gold, and stained temple glass. While wearing it, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura gain a +1 bonus to AC and saving throws. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet. You can also use the amulet as a holy symbol.
 

@@ -23,11 +23,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Bow of the Spelldrinker
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bow-of-the-Spelldrinker.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded bow creates hazy illusions of the cosmos when drawn. Attacks made with this magic bow deal an extra `dice:1d4|noform|noparens|avg` (`1d4`) force damage to any target hit by it.
 

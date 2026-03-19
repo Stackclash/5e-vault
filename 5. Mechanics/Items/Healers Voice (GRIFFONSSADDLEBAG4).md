@@ -9,11 +9,17 @@ aliases:
   - Healer's Voice
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Healer's Voice
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Healers-Voice.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver and gold necklace hums with a healing energy when you speak certain arcane words. Whenever you cast the [[/5. Mechanics/Spells/Healing Word.md\|healing word]] or [[/5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] spell, you can grant one target of the spell 4 temporary hit points for each `dice:d4|noform|noparens|avg` (`d4`) that rolled a 4. If you roll a 1 on a `dice:d4|noform|noparens|avg` (`d4`), you can reroll the die. You must use the new roll.
 

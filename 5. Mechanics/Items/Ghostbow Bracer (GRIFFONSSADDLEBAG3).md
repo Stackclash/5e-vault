@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Ghostbow Bracer
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ghostbow-Bracer.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather bracer has a blue gemstone embedded on its wrist, which glimmers with an ethereal light. While wearing it, you gain a +2 bonus to damage rolls on ranged attacks made with longbows and shortbows.
 

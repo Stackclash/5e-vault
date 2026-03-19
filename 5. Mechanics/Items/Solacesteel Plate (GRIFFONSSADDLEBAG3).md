@@ -20,6 +20,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Solacesteel Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded armor is made of purified mourningsteel and repels undead aggression. While wearing this armor, you gain a +1 bonus to AC, and you have advantage on any saving throw against a hostile effect from an undead creature. In addition, you can use a bonus action to touch a creature with 0 hit points. When you do, the creature is stabilized.
 

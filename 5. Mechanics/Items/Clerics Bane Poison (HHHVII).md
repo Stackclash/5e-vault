@@ -9,11 +9,17 @@ aliases:
   - Cleric's Bane Poison
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cleric's Bane Poison
 *Poison (injury), rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Poison\|Poison]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Can be used to coat up to 5 pieces of slashing or piercing ammunition or one slashing or piercing weapon. Applying the poison takes 1 action. For the next minute, any creature successfully hit must succeed on a DC 13 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]]. While [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] in this way, a creature also cannot regain hit points.
 

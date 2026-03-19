@@ -9,11 +9,17 @@ aliases:
   - Pickpocket's Pouch
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pickpocket's Pouch
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Pickpockets-Pouch.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This black leather bag sits on your hip to provide easy access when depositing handheld items. It opens and closes silently, and it can stretch to fit about 1 cubic foot of space. You gain a +1 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) checks made while wearing this bag. Objects in the bag can't be detected or seen by divination magic, such as by the [[/5. Mechanics/Spells/Scrying.md\|scrying]] spell or locate object.
 

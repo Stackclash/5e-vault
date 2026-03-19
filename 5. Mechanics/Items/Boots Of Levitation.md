@@ -12,10 +12,16 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boots of Levitation
 *Wondrous item, major, rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While you wear these boots, you can use an action to cast the [[/5. Mechanics/Spells/Levitate.md\|levitate]] spell on yourself at will.
 

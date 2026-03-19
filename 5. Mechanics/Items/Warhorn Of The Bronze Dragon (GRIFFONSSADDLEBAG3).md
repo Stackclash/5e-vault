@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Warhorn of the Bronze Dragon
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Warhorn-of-the-Bronze-Dragon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This warhorn is made from the tip of a bronze dragon's horn and decorated with an elaborate, draconic maw at its end. You can use an action to blow the horn and release an ear-splitting roar that is audible 600 feet away. When this happens, you can choose to cause the horn to release one of the draconic breaths from the options below:
 

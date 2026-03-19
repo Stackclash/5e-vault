@@ -9,11 +9,17 @@ aliases:
   - Thunderbolt Quill
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Thunderbolt Quill
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Thunderbolt-Quill.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This quill writes by burning parchment, velum, or similar surfaces with electricity, instead of using ink. Dusting the surface with the quill's feather erases any mark made with it. It takes half as long as normal to write or copy something using this quill, as it races across a surface with ease.
 

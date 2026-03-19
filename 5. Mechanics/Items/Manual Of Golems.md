@@ -12,12 +12,18 @@ weight: 5
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Manual of Golems
 *Wondrous item, major, very rare*  
 ![[/5. Mechanics/Items/img/manual-of-golems.webp#right]]  
 
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 

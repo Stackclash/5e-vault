@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tome of Advanced Fighting Styles
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Tome-of-Advanced-Fighting-Styles.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This book's magically charged pages are filled with detailed descriptions and illustrations that teach unique styles of combat. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, you gain one of the following Advanced Fighting Styles:
 

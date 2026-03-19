@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Solar Axe
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic weapon is forged using iron from the stars. While you're attuned to this weapon, you can call upon its latent stellar energy to catalyze change within the metal and create endothermic and exothermic reactions. The weapon can be fused into a greataxe or fissioned into two separated [[/5. Mechanics/Items/Battleaxe.md\|battleaxes]]. The weapon has the following properties based on its current state:
 

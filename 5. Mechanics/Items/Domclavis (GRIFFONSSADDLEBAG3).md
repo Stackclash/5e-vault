@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Domclavis
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Domclavis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass key's head is in the shape of a small doorknob and has a keyhole cut into its bit. You can use an action to insert the key into a closed door's keyhole and speak the key's command word while turning it. When you do, the door magically opens to reveal an extradimensional room that's 20 feet on a side with 10-foot-high ceilings. The room is comfortable and dry with various fur rugs and six well-worn armchairs. A fire always burns in its hearth. Furnishings and other objects created by this effect dissipate into smoke if removed from the room. A creature inside the room can open the door to allow other creatures inside. Opening the door from the outside as normal, without the key in its lock, doesn't reveal the extradimensional space.
 

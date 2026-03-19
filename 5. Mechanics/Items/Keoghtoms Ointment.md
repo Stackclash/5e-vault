@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Keoghtom's Ointment
 *Wondrous item, minor, uncommon*  
 ![[/5. Mechanics/Items/img/keoghtoms-ointment.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass jar, 3 inches in diameter, contains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh ½ pound.
 

@@ -19,12 +19,18 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Direstone Runic Wand
 *Wand, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Direstone-Runic-Wand.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A rigid stone wand used by the arcane dwarves of the Direstone mines. The wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to trace one of the following runes in the air to invoke its properties (spell save DC 15):
 

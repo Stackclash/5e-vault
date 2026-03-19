@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Devotee's Censer
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), rare (requires attunement by a cleric or paladin)*  
@@ -29,6 +32,9 @@ subtype:
 
 - **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The rounded head of this flail is perforated with tiny holes, arranged in symbols and patterns. The flail counts as a holy symbol for you. When you hit with an attack using this magic flail, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage.
 

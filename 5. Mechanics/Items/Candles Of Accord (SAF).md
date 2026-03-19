@@ -13,11 +13,17 @@ rarity: rare
 type: gear
 subtype:
   - requires-installation
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candles of Accord
 *Wondrous item, requires installation, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/candles-accord.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of red wax candles burn magically without consuming fuel, symbolizing the alliance between the two holders of the candles. If one candle is lit without the other, it merely provides normal candlelight indefinitely, and extinguishing it does not affect the other candle.
 

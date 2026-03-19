@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Goodberry Gummy Fish
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bag-of-Goodberry-Gummy-Fish.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Goodberry gummy fish are gooey sweets that look like Tiny, gelatinous fish. When found, they typically come in bags of `dice:1d6+10|noform|noparens|avg` (`1d6 + 10`) gummies, which are almost always red.
 

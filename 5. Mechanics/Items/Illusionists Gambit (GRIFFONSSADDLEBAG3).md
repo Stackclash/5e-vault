@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Illusionist's Gambit
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Illusionists-Gambit.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This eye-shaped brass coin depicts an open iris on one side (heads) and a blackened, scratched-out one on the other (tails). While holding it, you can use an action to speak the coin's command word. Then, flip the coin. If it's tails, you vanish and become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until the start of your next turn. If it's heads, nothing happens. Continue to flip the coin again at the start of each of your turns for 1 minute (no action required). The effect ends early if you make an attack or cast a spell while you're [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]]. It also ends early if you're [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or are otherwise unable to flip the coin at the start of your turn.
 

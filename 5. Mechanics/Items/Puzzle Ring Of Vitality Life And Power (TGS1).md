@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Puzzle Ring of Vitality, Life, and Power
 *Ring, major, legendary (requires attunement by a paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Puzzle-Ring-of-Vitality-Life-and-Power.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## The Inner Ring
 

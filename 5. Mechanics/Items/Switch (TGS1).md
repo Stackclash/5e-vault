@@ -19,12 +19,18 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Switch
 *Rod, major, very rare (requires attunement by a druid)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Switch.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This simple, springy rod is made of twisting vines and twigs. While attuned to the rod, you can expend 1 use of your [wild shape](/compendium/classes/druid.md#Wild%20Shape%20(Level%202)) feature as a bonus action to activate it. The rod stays active for a number of hours equal to half your druid level (rounded down).
 

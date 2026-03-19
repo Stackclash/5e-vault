@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Chronomancer's Eyepiece
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Chronomancers-Eyepiece.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This singular lens lets you faintly see and command the flow of time around a target. The eyepiece has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. While wearing the eyepiece, you can expend 1 charge as a reaction at the end of another creature's turn to speak either of the eyepiece's two command words to warp the flow of time around that creature. You must be able to see the target, and it must be within 60 feet of you.
 

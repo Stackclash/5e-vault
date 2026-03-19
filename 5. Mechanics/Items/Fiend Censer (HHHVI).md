@@ -9,11 +9,17 @@ aliases:
   - Fiend Censer
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fiend Censer
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This censer takes the shape of an imp's head with a groove in the crown of its skull for a candle to be placed in. When a lit candle is placed in the groove, the head becomes animate and begins to magically detect fiends around it in the same manner as if through the spell [[/5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]]. If the head detects a fiend within 30 feet of it, it will begin to loudly scream the presence of this fiend as well as where it is located. This head will continue to be active until the candle on its head is either extinguished or removed.
 

@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Warp Anchor
 *Rod, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Warp-Anchor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of batons magically link together to form a complete rod, causing a purple mist to swirl between the two glass orbs on either of its ends. While holding the rod or its batons, you can use an action to speak the rod's first command word to split it into the batons or recombine them again.
 

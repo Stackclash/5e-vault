@@ -10,11 +10,17 @@ aliases:
   - Helm of the Dawn Guardian
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Dawn Guardian
 *Wondrous item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Helm-of-the-Dawn-Guardian.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden helmet radiates a gentle warmth, like the light of the sun. While wearing the helmet, your eyes glow with a soft radiance, and you gain a +1 bonus to AC. If you're in sunlight, the bonus increases to +2.
 

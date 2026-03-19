@@ -17,12 +17,18 @@ tier: major
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Pipes of the Sewers
 *Wondrous item, instrument, major, uncommon (requires attunement)*  
 ![[/5. Mechanics/Items/img/pipes-of-the-sewers.webp#right]]  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.
 

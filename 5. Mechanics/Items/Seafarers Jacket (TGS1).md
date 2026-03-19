@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Seafarer's Jacket
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Seafarers-Jacket.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This long captain's jacket carries with it an air of authority. Water slides off of it with ease and magically enhances your comfort in the ocean. You gain a swimming speed equal to your walking speed while wearing the jacket as well as proficiency with water vehicles and navigator's tools. If you already have proficiency with water vehicles and navigator's tools, your proficiency bonus is doubled when using them. In addition, you can use the jacket to cast the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell at 2nd level. Once the jacket has been used to cast this spell, it can't be used to cast the spell again until the following dawn.
 

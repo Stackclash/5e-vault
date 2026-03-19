@@ -10,12 +10,18 @@ aliases:
   - Yeenoghu's Boon
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Yeenoghu's Boon
 *Wondrous item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/YeenoghusBoon.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you reduce a creature to 0 hit points with a melee attack on your turn while wearing this charm, you may take a bonus action to move up to half your speed and then make another basic melee weapon attack. Once this ability has been used once, it cannot be used again until you have taken a short rest.
 

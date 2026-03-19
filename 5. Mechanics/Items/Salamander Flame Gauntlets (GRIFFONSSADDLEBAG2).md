@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Salamander Flame Gauntlets
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Salamander-Flame-Gauntlets.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These dark metal gauntlets were forged using fire from the heart of a salamander. While wearing them, your unarmed strikes with your hands deal an extra 1d4 fire damage to any target they hit. In addition, you can use a bonus action to cast the [[/5. Mechanics/Spells/Flame Blade.md\|flame blade]] spell (4th-level version, no concentration required) from the gauntlets, using either your spellcasting ability or your choice of Strength or Dexterity for the spellcasting ability of the spell when you do.
 

@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fanfare Ammunition
 *Minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Fanfare-Ammunition.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A favorite among tricksters, this ammunition is intended to distract rather than wound. When you make a ranged attack with this ammunition and hit a target, the attack deals no damage, and the ammunition vanishes and is destroyed on impact. In its place, a noise of your choice erupts from the point of impact, such as the sound of books falling, a dropped coin, or the breaking of glass. You decide the noise and its volume when you fire the ammunition. The sound can be as quiet as a whisper or as loud as a scream. A creature can determine that the sound is an illusion with a successful DC 10 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check.
 

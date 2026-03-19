@@ -27,11 +27,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Holy Avenger
 *Major, legendary (requires attunement by a paladin)*  
 ![[/5. Mechanics/Items/img/holy-avenger.webp#right\|Holy Avenger (Greatsword)]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra `dice:2d10|noform|noparens|avg` (`2d10`) radiant damage.
 

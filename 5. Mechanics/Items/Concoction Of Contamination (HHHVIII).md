@@ -13,12 +13,18 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Concoction of Contamination
 *Potion, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/ConcoctionofContamination.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pale green potion constantly appears to form clots of material inside it that quickly turn grey and dissolve back into the liquid. For 1 hour after you drink this potion, your blood becomes a dangerous disease-carrying fluid. This does not harm you, but it does grant you the following abilities:
 

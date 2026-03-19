@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crossbow of the Flying Fist
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The front of this weapon is carved in the likeness of a wooden fist. Crossbow bolts fired from this weapon deal either bludgeoning or piercing damage on a hit (your choice). If you deal bludgeoning damage to a target in this way, the crossbow bolt impacts the target without piercing it, leaving only a sizable welt or bruise behind. When this happens, you can also choose to have a mage hand appear at the target's location, as if you had cast the spell, provided the target was within 30 feet of you. You can use a bonus action immediately after the attack to control the hand.
 

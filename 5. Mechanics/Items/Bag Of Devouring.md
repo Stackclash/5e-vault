@@ -12,12 +12,18 @@ weight: 15
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Devouring
 *Wondrous item, minor, very rare*  
 ![[/5. Mechanics/Items/img/bag-of-devouring.webp#right]]  
 
 - **Weight**: 15.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bag superficially resembles a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]] but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
 

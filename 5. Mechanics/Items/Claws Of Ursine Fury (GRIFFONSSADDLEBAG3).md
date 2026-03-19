@@ -14,11 +14,17 @@ attunement-requirement:
   - barbarian
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Claws of Ursine Fury
 *Wondrous item, major, rare (requires attunement by a barbarian)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Claws-of-Ursine-Fury.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These clawed gauntlets were fashioned from the remains of a mighty bear, whose essence empowers you while you're raging. Their claws turn your unarmed strikes with your hands into magic weapons that deal slashing damage with a damage die of `dice:1d8|noform|noparens|avg` (`1d8`) (unless your unarmed strike damage is already higher). You must be raging to gain this benefit. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action and make one or more unarmed strikes with the claws, you can make one additional unarmed strike with them as a bonus action.
 

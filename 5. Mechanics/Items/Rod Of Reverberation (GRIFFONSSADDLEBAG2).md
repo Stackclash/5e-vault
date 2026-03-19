@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Rod of Reverberation
 *Rod, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rod-of-Reverberation.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod bears the embossed likeness of an ox at its top, where it splits into two horn-like prongs. When struck, the prongs reverberate with a magical force and electricity.
 

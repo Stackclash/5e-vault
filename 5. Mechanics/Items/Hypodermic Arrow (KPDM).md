@@ -10,10 +10,16 @@ aliases:
 cost: 2500
 attunement: false
 rarity: none
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hypodermic Arrow
 
 - **Cost**: 25 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The head of this arrow is fitted with a syringe that can be filled with liquid. When it strikes a creature, the arrow deals `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage plus the effect of whatever liquid the syringe injects into the creature. Poisons are commonly employed, as are acid, drugs, and various eclectic potions.
 

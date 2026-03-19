@@ -14,11 +14,17 @@ attunement-requirement:
   - ranger
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodscryer Oculus
 *Wondrous item, major, legendary (requires attunement by a ranger)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Bloodscryer-Oculus.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These red goggles have a second set of lenses that magically adjust their distance from your eyes to magnify and focus on targets. While you're attuned to these goggles, you are unaffected by visual obscurity such as fog or smoke and can see up to 60 feet in magical and nonmagical darkness. If you already have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]], wearing the goggles increases its range by 60 feet. Additionally, you gain advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight.
 

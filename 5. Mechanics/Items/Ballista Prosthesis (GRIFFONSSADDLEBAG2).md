@@ -26,6 +26,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ballista Prosthesis
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement by a creature missing an arm, forearm, or hand)*  
@@ -35,6 +38,9 @@ subtype:
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A *ballista prosthesis* is a magical weapon composed of numerous complex mechanical pieces that allow it to act as a functional prosthetic arm. You gain a +1 bonus to attack and damage rolls made with this magic weapon. This crossbow has an internal magazine that can hold up to 20 bolts. While there are bolts in the magazine, the crossbow does not have the loading property. It takes 1 minute to reload the magazine.
 

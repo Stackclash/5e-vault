@@ -10,12 +10,18 @@ aliases:
   - Cloak of the Blood Lord
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Cloak of the Blood Lord
 *Wondrous item, cursed item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/CloakoftheBloodLord.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Under the cover of night, the cultists of [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] blanket themselves in thick, leathery cloaks and steal away into graveyards and cellars to do their master's dark bidding. These dark red cloaks are designed to represent the all-encompassing ambitions of [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] to smother the living under his dominion. Among the cultists is the prophecy of the Cloak of the Blood Lord, a garment fashioned from the wings of a defeated [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] and crafted to continue his legacy. The most zealous among his followers even believe that any 'defeat' that [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] may experience is merely a part of his grand scheme to extend his influence and that he is merely biding his time until his body can be reconstituted and his reign to begin anew.
 

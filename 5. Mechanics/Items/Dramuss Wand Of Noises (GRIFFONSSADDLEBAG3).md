@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Dramus's Wand of Noises
 *Wand, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dramus-Wand-of-Noises.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has a flared tip that leads down into the center of it. The wand has 3 charges and regains all expended charges daily at dawn. While holding the wand, you can use an action to expend 1 of its charges to use one of the following properties:
 

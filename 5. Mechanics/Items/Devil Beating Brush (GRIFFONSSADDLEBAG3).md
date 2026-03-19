@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Devil-Beating Brush
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Devil-Beating-Brush.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Many temple murals depicting great gods and deities have been painted by artists wielding devil-beating brushes, which are blessed by divine magic. While the brush is being held, a constant stream of paint coats its pegasus-hair tip. While holding it, you can use a bonus action to change the paint's color. You gain a +5 bonus to any ability check you make with the brush to paint. The paintbrush counts as a set of [[/5. Mechanics/Items/Painters Supplies.md\|painter's supplies]].
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Null Chalk
 *Wondrous item, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Null-Chalk.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This drab pouch contains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) sticks of dull gray chalk. The chalk feels slightly tingly to the touch.
 

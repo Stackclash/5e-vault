@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightning-Catching Bottle
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Lightning-Catching-Bottle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bottle is stoppered with a pronged metal contraption that magically attracts bolts of electricity to it. When you take lightning damage from a hostile source while the bottle is on your person and not completely covered (such as by a bag or cloak), you can use your reaction to speak the bottle's command word to redirect and contain that lightning within the bottle. When you do, roll `dice:3d10|noform|noparens|avg` (`3d10`), reducing the lightning damage you take in this way by an amount equal to the total (to a minimum of 0) and harmlessly containing that lightning within the bottle. The bottle can contain up to 30 points of lightning damage in this way.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Burrage's Collegiate Case
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Burrages-Collegiate-Case.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lute case is made from a rich, dark wood and is decorated with 33 mithral stars along its lid, with its largest star along the top. The case has five compartments. Four of the case's compartments connect to an extradimensional space that allows it to hold numerous items while never weighing more than 7 pounds. You choose which compartment you access by holding one of the large star's five points whenever you open the lid. The smallest compartment can hold up to 7 [[/5. Mechanics/Items/Flute.md\|flutes]] or similar small instruments. The midsize compartment holds up to 3 large instruments, such as a [[/5. Mechanics/Items/Bagpipes.md\|bagpipe]], [[/5. Mechanics/Items/Drum.md\|drum]], or [[/5. Mechanics/Items/Dulcimer.md\|dulcimer]]. The largest compartment holds up to 4 small stools and a music stand. The fourth compartment doesn't have a defined size, but can hold and categorize up to 60 sheets of written music. If you don't choose a compartment, the case automatically opens to the fifth one, which doesn't connect to an extradimensional space. The fifth compartment has enough room to hold a [[/5. Mechanics/Items/Lute.md\|lute]] inside it.
 

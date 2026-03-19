@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Coldfire Phoenix
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Amulet-of-the--Coldfire-Phoenix.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A blue pendant in the shape of a phoenix clutching a shimmering blue orb hangs from this leather cord. While wearing the necklace, you emit a frigid aura that grants you and creatures of your choice within 10 feet of you resistance to cold damage.
 

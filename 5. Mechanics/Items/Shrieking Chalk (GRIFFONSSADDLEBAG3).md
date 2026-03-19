@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shrieking Chalk
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Shrieking-Chalk.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This piece of chalk doesn't make any marks when used to write with. Instead, it only releases an ear-splitting shriek, which is audible out to a range of 300 feet. You can use an action to scrape the chalk against a solid surface within your reach. When you do, any creature that can hear the chalk within 30 feet of it must make a DC 13 Constitution saving throw. On a failed save, a creature takes `dice:2d10|noform|noparens|avg` (`2d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] until the start of your next turn, as it's overwhelmed by the horrific sound. On a success, a creature takes half as much psychic damage and isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. If a creature is holding anything when it fails the saving throw, it immediately drops what it's holding and cover its ears (provided that it has them). Creatures that have a trait which grants them advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on hearing have disadvantage on this saving throw.
 

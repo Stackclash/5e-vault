@@ -13,11 +13,17 @@ rarity: common
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: long-rest
 ---
 # Gut Rot
 *Potion, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you must succeed on a DC 10 Constitution saving throw or become afflicted with the disease [[/5. Mechanics/Rules/Diseases.md#Gut%20Rot\|gut rot]]. While afflicted with [[/5. Mechanics/Rules/Diseases.md#Gut%20Rot\|gut rot]], any time you attempt to swallow food, you instead suffer `dice:4|noform|noparens|avg` (`4`) necrotic damage and regurgitate that food. At the end of a long rest, you may attempt the saving throw again, ending the disease on a success.
 

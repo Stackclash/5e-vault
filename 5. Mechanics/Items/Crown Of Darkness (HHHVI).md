@@ -10,11 +10,17 @@ aliases:
   - Crown of Darkness
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 9
+item_recharge: none
 ---
 # Crown of Darkness
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crown has 9 charges. While wearing and attuned to this crown, and so long as you are not in bright light, you may spend an action to expend 1 or more of the crown's charges to cast one of the following spells from it, with Intelligence as your spellcasting modifier: [[/5. Mechanics/Spells/Conjure Animals.md\|conjure animals]] (3 charges and may only summon [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarms of rats]], [[/5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]], or [[/5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]]), [[/5. Mechanics/Spells/Darkness.md\|darkness]] (2 charges), [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] (2 charges, plus 1 additional charge for every level above 2nd), [[/5. Mechanics/Spells/Spider Climb.md\|spider climb]] (2 charge), [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (3 charges), [[/5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] (3 charges, plus 1 additional charge for evert level cast above 3rd).
 

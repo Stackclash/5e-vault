@@ -15,11 +15,18 @@ rarity: none
 type: gear
 subtype:
   - artisans-tools
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Potter's Tools
 *Artisan's tools*  
 
 - **Cost**: 10 gp
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
+
 
 *Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 84. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

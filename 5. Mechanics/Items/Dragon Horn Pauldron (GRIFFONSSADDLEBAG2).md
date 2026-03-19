@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Horn Pauldron
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dragon-Horn-Pauldron.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This single pauldron is made from the horn of a fallen dragon. While wearing it, you gain a +1 bonus to AC and have resistance to one damage type, which is determined by the kind of dragon that provided the horn, as shown on the table below.
 

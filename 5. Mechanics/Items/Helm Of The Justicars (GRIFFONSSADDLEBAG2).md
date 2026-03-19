@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 12
+item_recharge: dawn
 ---
 # Helm of the Justicars
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Helm-of-the-Justicars.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helm once belonged to Grand Mage-Arbiter Elodie Scolian, the preeminent leader of the surviving Justicar order. Designed to eliminate the threat that all mages pose to the nonmagical populace, the wearer of this helmet has an uncanny resilience against spells of all kinds. While wearing this helmet, you gain a +1 bonus to AC, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.
 

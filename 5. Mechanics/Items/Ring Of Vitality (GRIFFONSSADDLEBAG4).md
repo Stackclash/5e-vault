@@ -14,11 +14,17 @@ rarity: rare
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Vitality
 *Ring, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Ring-of-Vitality.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring, your hit point maximum increases by 10, and your hit point maximum can't be reduced by any means short of a [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 

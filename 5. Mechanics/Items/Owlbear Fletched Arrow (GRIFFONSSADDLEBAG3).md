@@ -16,12 +16,18 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Owlbear-Fletched Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Owlbear-Fletched-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic arrow is fletched with the feathers of an owlbear. When you use this arrow as part of making a ranged weapon attack against a creature that's behind half or three-quarters cover, that creature gains no benefit from that cover. If the attack hits, the target takes extra piercing damage equal to the bonus to AC that the target would have normally received from being behind cover. Once the arrow deals its extra damage to a creature, it becomes a nonmagical arrow.
 

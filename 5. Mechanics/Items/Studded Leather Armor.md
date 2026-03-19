@@ -16,6 +16,9 @@ rarity: none
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Studded Leather Armor
 *Light armor*  
@@ -23,6 +26,9 @@ subtype:
 - **Armor Class**: 12 + Dex modifier
 - **Cost**: 45 gp
 - **Weight**: 13.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 

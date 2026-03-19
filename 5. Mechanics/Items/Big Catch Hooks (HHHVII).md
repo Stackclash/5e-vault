@@ -9,11 +9,17 @@ aliases:
   - Big Catch Hooks
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Big Catch Hooks
 *Wondrous item, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of 10 hooks are carved from sea spawn teeth and may be attached to any standard fishing rod. Any fish within 10 feet of this hook that can see it must succeed on a DC 10 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by the hook for 1 minute.
 

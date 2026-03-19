@@ -17,6 +17,9 @@ attunement-requirement:
   - paladin
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Oathkeeper's Resolve
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a paladin)*  
@@ -24,6 +27,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This star-shaped mithral buckler weighs 2 pounds and bolsters your sense of holy purpose. While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 

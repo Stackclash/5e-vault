@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Edible Book of Recipes
 *Wondrous item, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Edible-Book-of-Recipes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tome of cooking recipes is enchanted to turn sheets of fine paper into delectable meals. You can write a simple recipe on 1 of the book's pages over the course of 1 minute. As you do, the paper becomes aromatic, smelling like the cuisine you're writing. You can eat the sheet of paper as an action and find that it has the taste, texture, and smell of the food described on its page. The sheet of paper takes the place of a meal.
 

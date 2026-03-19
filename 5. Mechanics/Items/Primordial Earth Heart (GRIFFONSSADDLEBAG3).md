@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Primordial Earth Heart
 *Wondrous item, cursed item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Primordial-Earth-Heart.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crystal-pierced rock is shaped like a heart. It gently pulses while held and is always slightly warmer than body temperature. It is said that the first earth elemental was once a human that joined with such a heart.
 

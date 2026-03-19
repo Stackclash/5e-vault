@@ -15,11 +15,17 @@ attunement-requirement:
   - wizard
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Underworld Asphodel Regalia
 *Wondrous item, major, legendary (requires attunement by a cleric or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Underworld-Asphodel-Regalia.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of royal finery was worn by a noble necromancer with a unique appreciation for the quality of life that extends beyond death. Asphodel blossoms, representing life beyond the tomb, ornament this enchanted outfit. The lush flowers in its laurel crown are nestled among long-dead leaves.
 

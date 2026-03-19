@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Badge of the Savant (Necromancy)
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Badge-of-the-Savant.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A *badge of the savant* is a platinum bookplate that can be magically affixed to a wizard's spellbook. Each badge features a design that represents a different school of magic. While a badge is attached to the cover of your spellbook, the gold and time you must spend to copy a spell of that badge's school of magic into your spellbook is halved. You can collect multiple of these plates and fit them onto the cover of your spellbook, allowing you to gain this benefit for multiple schools of magic at once.
 

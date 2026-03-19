@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Amulet of the Platinum Fang
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Amulet-of-the-Platinum-Fang.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A single fang said to be from a deific dragon hangs on this platinum necklace. The tooth itself is cracked but repaired with molten platinum, sealing it together and retaining its inherent magic. You have resistance to radiant damage while wearing this amulet. In addition, whenever a spell restores hit points to you, you also gain `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) temporary hit points.
 

@@ -22,11 +22,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloudburst
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Cloudburst.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic bow is weightless to hold. The shapes of its extending arms change ever so slightly while held, but always resemble a pair of stylized clouds, and a faint mist wraps around it. The normal range of cloudburst is 30 feet more than a typical bow of its type.
 

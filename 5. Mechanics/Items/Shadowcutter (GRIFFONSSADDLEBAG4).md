@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadowcutter
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), very rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This long, curved sword is made from a dark metal and has a rippled edge. When you swing it, tufts of raw shadowstuff split and tear along its edge, as if you were slicing through smoke. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which has the finesse property. If you're proficient with longswords, you are proficient with the shadowcutter.
 

@@ -10,11 +10,17 @@ aliases:
   - Celestial Helm
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 9
+item_recharge: dawn
 ---
 # Celestial Helm
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helm has 9 charges and regains `dice:1d8|noform|noparens|avg` (`1d8`) charges at dawn. While wearing this helm, you spend an action to expend 1 or more charges to do any of the following:
 

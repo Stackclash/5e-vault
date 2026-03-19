@@ -14,11 +14,17 @@ attunement-requirement:
   - wizard
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Celestial Tome of Healing
 *Wondrous item, major, rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Celestial-Tome-of-Healing.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden-paged tome has a diamond embedded in its cover, which emits a soft glow whenever the book is held. The following spells are written in the book using a strange form of Celestial that's only legible to the creature attuned to it: [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[/5. Mechanics/Spells/Healing Word.md\|healing word]], and [[/5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]]. While attuned to the book, you know the [[/5. Mechanics/Spells/Sacred Flame.md\|sacred flame]] cantrip, and you can prepare the book's spells as if they were wizard spells whenever you finish a long rest. Whenever you expend a spell slot to cast one of these spells, you must expend a slot one level higher than the level at which you cast the spell.
 

@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Galvanic Steelsnare
 *Weapon ([[/5. Mechanics/Items/Net.md\|net]]), major, rare*  
@@ -26,6 +29,9 @@ subtype:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic net is made with fine steel chains and has the heavy property. Magic, leaden weights line the edge of the net and send shocking pulses throughout the metal. The net is resistant to slashing damage and has immunity to all other damage types. Regardless of a creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn while it's restrained by the net.
 

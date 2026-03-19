@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chain (10 feet)
 *Adventuring gear*  
 
 - **Cost**: 5 gp
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
 

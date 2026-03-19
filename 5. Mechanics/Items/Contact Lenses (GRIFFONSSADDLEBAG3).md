@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Contact Lenses
 *Wondrous item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Contact-Lenses.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These small glass lenses fit comfortably over your eyes, becoming [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] while worn. While you're wearing them, you can use a bonus action to alter the appearance of your eyes. The change remains until you use another bonus action to change them again or remove the lenses. When you make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check that relies on sight while wearing the lenses, your bonus to the roll can't be negative.
 

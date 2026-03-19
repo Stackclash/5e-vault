@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Claw Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, uncommon (requires attunement by a creature cursed with lycanthropy)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 2d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can benefit from this magic weapon's following properties even if you aren't attuned to it. The sickle deals `dice:2d4|noform|noparens|avg` (`2d4`) slashing damage on a hit, instead of `dice:1d4|noform|noparens|avg` (`1d4`), and if you're wielding a claw sickle in either hand and engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 

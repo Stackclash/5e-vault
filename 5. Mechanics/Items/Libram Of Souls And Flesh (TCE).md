@@ -17,11 +17,17 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Libram of Souls and Flesh
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 With covers made of skin and fittings of bone, this tome is cold to the touch, and it whispers faintly. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [[/5. Mechanics/Spells/Animate Dead.md\|animate dead]], [[/5. Mechanics/Spells/Circle Of Death.md\|circle of death]], [[/5. Mechanics/Spells/False Life.md\|false life]], [[/5. Mechanics/Spells/Finger Of Death.md\|finger of death]], [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]], [[/5. Mechanics/Spells/Summon Undead (TCE).md\|summon undead]], and [[/5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]]. It functions as a spellbook for you.
 

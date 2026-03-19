@@ -16,6 +16,9 @@ rarity: rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ironleather Splint
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), rare*  
@@ -24,6 +27,9 @@ subtype:
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Strength**: Requires 15 STR.
 - **Weight**: 60.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flexible armor acts like regular splint but does not impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
 

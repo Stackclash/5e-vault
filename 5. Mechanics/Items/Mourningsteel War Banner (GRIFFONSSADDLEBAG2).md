@@ -13,12 +13,18 @@ weight: 7
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Mourningsteel War Banner
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Mourningsteel-War-Banner.webp#right)  
 
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This war standard is adorned with a tattered, bloodied banner of an army long lost to time. The standard is 6 feet tall and weighs 7 pounds, but can be collapsed down to 3 feet tall or extended up to its full length by using a bonus action. While the banner is on your person, you have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 

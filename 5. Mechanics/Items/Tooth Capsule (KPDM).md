@@ -10,10 +10,16 @@ aliases:
 cost: 10000
 attunement: false
 rarity: none
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tooth Capsule
 
 - **Cost**: 100 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A tooth capsule is a false tooth, or a cap that fits over a tooth, that contains a dose of a [[/5. Mechanics/Items/Potion Pill Form (KPDM).md\|potion in pill form]]. (The pill loaded into a tooth capsule can't be changed.) To activate the tooth capsule, you simply bite down on it as a bonus action and make a DC 10 Strength check. On a successful check, the capsule shatters and releases the pill, which you can then swallow, hold in your mouth, or spit out.
 

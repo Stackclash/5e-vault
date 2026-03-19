@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: common
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Masks of the Sacred Beasts (Crocodile)
 *Wondrous item, major, common (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Masks-of-the-Sacred-Beasts.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These dark ceramic and gold masks are fashioned after animals that are sacred in certain cultures. Each mask's appearance and properties are based on the sacred beast it represents. While attuned to a mask, you can end your attunement to it and attune to a different one over the course of 1 minute, instead of over the course of one or more short rests.
 

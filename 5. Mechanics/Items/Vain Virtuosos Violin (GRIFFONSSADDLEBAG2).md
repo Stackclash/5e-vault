@@ -14,12 +14,18 @@ attunement-requirement:
   - bard
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vain Virtuoso's Violin
 *Wondrous item, cursed item, major, uncommon (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Vain-Virtuosos-Violin.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This finely crafted instrument is inlaid with intricate pearl designs. When you give another creature a Bardic Inspiration die using this violin, you also gain one yourself, which is a d4.
 

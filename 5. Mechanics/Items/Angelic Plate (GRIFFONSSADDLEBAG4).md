@@ -18,6 +18,9 @@ rarity: legendary
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Angelic Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), legendary (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shimmering silver armor seems to resist even the shadows cast on it. While wearing it, you have resistance to necrotic and radiant damage.
 

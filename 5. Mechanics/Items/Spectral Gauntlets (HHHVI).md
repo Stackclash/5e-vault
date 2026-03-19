@@ -9,11 +9,17 @@ aliases:
   - Spectral Gauntlets
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spectral Gauntlets
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing these gloves, you are able to see into the Ethereal Plane up to a range of 30 feet. In addition, these gloves are capable of touching objects and creatures in the Border Ethereal as if they were on the same plane of existence as you.
 

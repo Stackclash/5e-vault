@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shield of the Everfighter
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heater shield's center is made of plated sheets of armor. While holding it, you can use a bonus action to speak the shield's command word to cause it to magically collapse and reshape itself into a metal-plated bracer on your arm. While in bracer form, the shield provides no benefit to your AC but leaves your hand free. Speaking the command word again as a bonus action or removing the bracer causes it to become a shield again.
 

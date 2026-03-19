@@ -21,6 +21,9 @@ tier: major
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Nimbus, First Staff of the Thunderbirds
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, major, artifact (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ancient staff was created when a piece of driftwood was struck by lightning, fusing it to a twisted length of glass made from the sand on which it laid. Revered by the Rocborne nomads and other worldly travelers, this one-of-a-kind crook carries with it the power of storms, tempests, and the wind spirits that control them. When it appears, it falls from the sky in the eye of a storm or a flash of lightning.
 

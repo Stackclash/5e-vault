@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Nightmares
 *Scroll, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Scroll-of-Nightmares.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Using an action to read this dark scroll causes horrifying memories, fears, and regrets to violently invade the minds of up to 10 creatures of your choice that you can see within 60 feet of you. Each creature must make a DC 15 Wisdom saving throw. On a failed save, a creature takes `dice:5d10|noform|noparens|avg` (`5d10`) psychic damage and becomes [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute or until it takes damage. On a successful save, a creature takes half as much psychic damage and isn't [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]]. At the GM's discretion, non-sentient creatures, such as some constructs, oozes, plants, and undead, are immune to this effect.
 

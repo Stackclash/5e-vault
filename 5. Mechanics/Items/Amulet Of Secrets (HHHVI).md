@@ -10,11 +10,17 @@ aliases:
   - Amulet of Secrets
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Amulet of Secrets
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blood red amulet is set inside a gold frame the colour of desert sand. While wearing and attuned to this amulet, you gain an uncanny ability to disguise your thoughts and emotions. You become immune to any effect that would sense your emotions or read your thoughts, as well as any divination spell that you refuse. Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) checks made to ascertain your intentions or sincerity have disadvantage.
 

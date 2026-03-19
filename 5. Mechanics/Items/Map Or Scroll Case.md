@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Map or Scroll Case
 *Adventuring gear*  
 
 - **Cost**: 1 gp
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cylindrical leather case can hold up to ten rolled-up [[/5. Mechanics/Items/Paper One Sh(EET).md\|sheets of paper]] or five rolled-up [[/5. Mechanics/Items/Parchment One Sh(EET).md\|sheets of parchment]].
 

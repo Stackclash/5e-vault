@@ -10,11 +10,17 @@ aliases:
   - Metallurgist's Grip
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Metallurgist's Grip
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Metallurgists-Grip.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This plated metal gauntlet extends up your arm. The armored plates are extensively corroded. If you're missing a hand or arm, the item can function as a prosthesis for it. While you're attuned to the gauntlet, it can't be removed from you against your will, and you have resistance to acid damage.
 

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sickle of Cunning
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crescent sickle has a brass fox figurine embedded in its ivory handle. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which has the finesse property. Whenever you make an attack with this weapon using a bonus action, you have advantage on the attack roll.
 

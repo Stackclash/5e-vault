@@ -14,10 +14,17 @@ rarity: none
 type: gear
 subtype:
   - treasure-art-object
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eye patch with a mock eye set in blue sapphire and moonstone
 *Treasure (art object)*  
 
 - **Cost**: 2,500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
+
 
 *Source: Dungeon Master's Guide p. 135*

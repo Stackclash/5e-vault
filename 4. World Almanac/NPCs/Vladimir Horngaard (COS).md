@@ -16,21 +16,25 @@ alignment: Lawful Neutral
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
-location:
-pronounced:
-race: "[[Revenant|Revenant]]"
+location: null
+pronounced: null
+race: '[[Revenant|Revenant]]'
 gender: male
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
+personality: null
 ideal: Vengeance is all I have left.
-bond: I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken though the order may be, my allegiance never dies.
-flaw: Destroying Strahd would end the vampire's torment, and that is something I will never allow.
-goals:
-likes:
-dislikes:
+bond: >-
+  I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken
+  though the order may be, my allegiance never dies.
+flaw: >-
+  Destroying Strahd would end the vampire's torment, and that is something I
+  will never allow.
+goals: null
+likes: null
+dislikes: null
 ---
 > [!infobox]
 > # `=this.file.name`

@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mace of the Iron Crown
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), very rare (requires attunement)*  
@@ -26,6 +29,9 @@ subtype:
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark iron mace is topped with a ring of menacing spikes. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

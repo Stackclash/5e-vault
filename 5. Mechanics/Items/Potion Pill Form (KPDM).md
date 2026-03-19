@@ -9,9 +9,15 @@ aliases:
   - 'Potion, Pill Form'
 attunement: false
 rarity: unknown
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Potion, Pill Form
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 > [!note]
 > Rarity varies by potion type

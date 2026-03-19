@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: dawn
 ---
 # Mobius Scroll
 *Scroll, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mobius-Scroll.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Unlike most scrolls having a dowel at its center or some means of a carrying case, a mobius scroll is a half-twisted length of paper that's been magically connected to itself to form an infinite, continuous sheet.
 

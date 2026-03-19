@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Devil's Detail Eyepatch
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Devils-Detail-Eyepatch.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This well-worn leather eyepatch is enchanted with the illusion of an embroidered eye on the front. While wearing this eyepatch over an eye, whether you're missing one or not, you can magically see from the patch as if it were a working eye. The embroidered eye adorning the front of the patch swivels and moves as you look around while wearing it.
 

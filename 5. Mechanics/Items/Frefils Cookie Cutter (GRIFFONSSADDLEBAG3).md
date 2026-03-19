@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Frefil's Cookie Cutter
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Frefils-Cookie-Cutter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This iron cookie cutter has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn. You can use an action to expend 1 of its charges to press the cutter into a suitably thin and pliable material (such as cookie dough or soft leather), cutting a Tiny humanoid figure out of it. The figure is animated, as if by the [[/5. Mechanics/Spells/Animate Objects.md\|animate objects]] spell, for 10 minutes or until it's reduced to 0 hit points. The figure obeys any verbal commands you issue to it (no action required by you), instead of the mental commands described by the spell. Further, the figure's hit point maximum and any damage dealt by it are halved. If you don't issue any commands to it, it defends itself from hostile creatures, but otherwise takes no actions. If a different creature uses the cookie cutter to create another animated figure, each one that you created ceases to obey you and becomes hostile to you instead.
 

@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Automatic Rifle
 *Weapon*  
@@ -28,5 +31,9 @@ subtype:
 - **Range**: 80/240
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Burst%20Fire\|Burst Fire]], [[/5. Mechanics/Rules/Item Properties.md#Reload\|Reload]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 8.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
+
 
 *Source: Dungeon Master's Guide p. 268*

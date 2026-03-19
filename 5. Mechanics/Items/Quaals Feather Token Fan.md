@@ -11,10 +11,16 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Quaal's Feather Token, Fan
 *Wondrous item, minor, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect.
 

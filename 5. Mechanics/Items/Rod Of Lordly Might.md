@@ -18,12 +18,18 @@ tier: major
 type: weapon
 subtype:
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of Lordly Might
 *Rod ([[/5. Mechanics/Items/Mace.md\|mace]]), melee weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, legendary (requires attunement)*  
 ![[/5. Mechanics/Items/img/rod-of-lordly-might.webp#right]]  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage roll made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
 

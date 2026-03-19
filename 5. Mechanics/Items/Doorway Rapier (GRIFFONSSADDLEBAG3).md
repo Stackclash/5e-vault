@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Doorway Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The guard and pommel of this blade resemble elegant doorknobs. You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you hit a creature with a melee attack using this rapier, you can immediately teleport to an unoccupied space on the other side of the creature. The space you teleport to must be within 5 feet of the target and must be on the target's opposite border or opposite corner from where you made the attack.
 

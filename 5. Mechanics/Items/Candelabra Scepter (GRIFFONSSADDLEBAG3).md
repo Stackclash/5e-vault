@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Candelabra Scepter
 *Rod, major, legendary (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Candelabra-Scepter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass scepter has four magic candles at its top, which spring alight while the scepter is held. The candles shed bright light in a 20-foot radius and dim light for an additional 20 feet. You can use a bonus action to expand or reduce its radius of bright and dim light, to a maximum of 40 feet each or a minimum of 5 feet each. Regardless of how long the candles burn for, their height never changes. Neither water nor wind can extinguish the candles.
 

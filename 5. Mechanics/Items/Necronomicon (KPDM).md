@@ -10,10 +10,16 @@ aliases:
   - Necronomicon
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necronomicon
 *Wondrous item, artifact (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This monstrous-looking tome bound in humanoid skin has an almost palpable aura of dread. A grotesque and ghoulish face is stretched across its loathsome cover.
 

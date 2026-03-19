@@ -22,10 +22,16 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Viper Strike (Very Rare)
 *Very rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you roll a 20 on your attack roll with this weapon, you deal an additional `dice:14|noform|noparens|avg` (`14`) poison damage. You also gain a +1 to attack and damage rolls made with this weapon.
 

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Snowstorm Blowgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, rare*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 25/100
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cold, metal blowgun is 3 feet long and has a vented chamber at its end that billows with a frigid mist. You can use an action to make a special ranged weapon attack using this magic blowgun, targeting one creature or object within the weapon's range. When you do so, you fire three icicle darts from it, with a separate attack roll for each dart. On a hit, a dart deals cold damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Dexterity modifier, instead of the weapon's normal damage.
 

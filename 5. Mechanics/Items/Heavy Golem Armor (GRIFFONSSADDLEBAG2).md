@@ -22,6 +22,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heavy Golem Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, rare (requires attunement by a Small humanoid)*  
@@ -31,6 +34,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heavy set of plate mail is 5½ feet tall, weighs 100 pounds, and is reconfigured from the pieces of an iron golem. Despite the armor's larger size, a series of clever harnesses inside its chest piece comfortably support you inside it. While wearing this armor, your Strength score is 19, unless it's already higher, and you are considered to be a Medium creature. Magic currents run through the inside of the armor and connect to you, allowing you to control the metal limbs as if they were your own. This magical connection causes you to still take any damage you receive while wearing the armor.
 

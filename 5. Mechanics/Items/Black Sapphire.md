@@ -14,11 +14,17 @@ rarity: none
 type: gear
 subtype:
   - treasure-gemstone
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Black Sapphire
 *Treasure (gemstone)*  
 
 - **Cost**: 5,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A translucent lustrous black with glowing highlights gemstone.
 

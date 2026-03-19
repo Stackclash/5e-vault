@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ironleaf Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of armor gives you a +1 bonus to your AC and is lined with ironleaf vines. While wearing this armor, the vines seem to support and quiet its normally loud movements, allowing you to make Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks without disadvantage. In addition, the vines dampen the impact you receive from blunt force, granting you resistance to bludgeoning damage.
 

@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fanfare Blowgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon (requires attunement by a bard)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 25/100
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weapon appears like a normal fanfare trumpet with a royal flag hanging from its center. You can use the weapon and its properties even if you're not attuned to it. While holding it, you can use an action to magically change the design, cut, and colors of the flag; the flag can't be longer than 3 feet in any direction, and regardless of its appearance, it can't be anything but a flag. If you're proficient with horns, you're proficient with the fanfare blowgun. It can also be used as a normal trumpet.
 

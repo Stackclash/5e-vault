@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Instigator's Rod
 *Rod, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Instigators-Rod.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod looks like a normal torch with a brazier made of four metal prongs. While holding the rod, you can use an action to speak either of its two command words.
 

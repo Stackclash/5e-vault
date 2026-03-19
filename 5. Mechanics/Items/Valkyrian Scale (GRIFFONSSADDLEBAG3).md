@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Valkyrian Scale
 *Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The large scales of this armor resemble feathers, which are actually part of magical metal wings that curl around your torso to protect you. While wearing the armor, you can use a bonus action to cause the wings to unfurl and extend from the armor, allowing you to fly up to 30 feet using your movement. You fall to the ground at the end of your turn or when you stop moving in this way.
 

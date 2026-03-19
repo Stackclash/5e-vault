@@ -21,10 +21,16 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sun Stream Bow
 *Very rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bow does not require any physical arrows to be loaded in order to make an attack; instead, whenever its string is drawn back, a Sun Arrow made of solid light is formed in the wielder's pull hand which dissipates after either 6 seconds, or when it hits a solid object, whichever comes first.
 

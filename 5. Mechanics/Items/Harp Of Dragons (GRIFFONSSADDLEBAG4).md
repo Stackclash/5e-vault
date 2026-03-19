@@ -13,12 +13,18 @@ attunement: true
 attunement-requirement:
   - bard
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Harp of Dragons
 *Wondrous item, rare (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Harp-of-Dragons.webp#right)  
 
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This harp is strung with the vocal cords of a felled dragon. As a result, the instrument can create dragonlike effects when Draconic command words are spoken while playing it. The harp is 3 feet tall and weighs 6 pounds. While you're attuned to the harp, you are proficient with it.
 

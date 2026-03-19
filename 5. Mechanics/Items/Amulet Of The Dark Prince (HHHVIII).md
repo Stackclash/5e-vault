@@ -10,11 +10,17 @@ aliases:
   - Amulet of the Dark Prince
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Amulet of the Dark Prince
 *Wondrous item, cursed item, artifact (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The Dark Prince is the master of hedonism, perversion, and twisted indulgences. According to one legend however, the Prince of Pleasure was not always like this. One origin described [[/4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]] as once having been a mortal man, a prince of legendary beauty, charm, and wit. As the prince aged however, he feared losing these gifts that youth had granted him and so he struck a deal with a dark power to retain his good looks forever. Emboldened by this new sense of immortality, the prince proceeded to indulge in every sensual pleasure he could, further corrupting his heart and soul. Upon his eventual death, he descended to the Abyss where he would go on to charm and manipulate his way until he became the Demon Lord [[/4. World Almanac/NPCs/Grazzt (MPMM).md\|Graz'zt]].
 

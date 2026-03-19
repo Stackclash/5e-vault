@@ -16,12 +16,18 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Seething
 *Ring, cursed item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ring-of-Seething.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark band is cool to the touch and has several cracks throughout its otherwise smooth body. When you attune to the ring, choose a creature type: aberration, celestial, dragon, elemental, fey, fiend, or undead. While wearing the ring, its normally cool band glows red hot when a creature of the chosen type is within 60 feet of you. In addition, you have advantage on any saving throw you make to resist being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] by a creature of that type. While seemingly radiating heat, the ring feels only faintly warm to you. Small pieces of the metal band hover above the surface of the ring when glowing in this way.
 

@@ -9,11 +9,17 @@ aliases:
   - Shadow Amulet
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Amulet
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you are holding this item, you may spend an action to summon a [[/5. Mechanics/Bestiary/Fiend/Shadow Demon.md\|shadow demon]] in an unoccupied space within 5 feet of you[[/5. Mechanics/Rules/Conditions.md#Unconscious\|...] ^[The following text has been removed with this homebrew: (refer to the Monster Manual for the relevant statblock)]. This shadow demon is friendly towards you and allies that you designate and obeys your commands. The shadow demon has access to all of its normal abilities and features and acts directly after your turn. The shadow demon disappears after 1 minute, if it drops to 0 hit points, you become [unconscious]], or if it ends its turn more than 30 feet away from the amulet.
 

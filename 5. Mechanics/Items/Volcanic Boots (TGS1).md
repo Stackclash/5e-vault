@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Volcanic Boots
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Volcanic-Boots.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These heavy volcanic stones rearrange themselves to better fit your feet once you've attuned to them. Despite their appearance, the boots are comfortably light and warm. While wearing the boots, you have resistance to fire damage.
 

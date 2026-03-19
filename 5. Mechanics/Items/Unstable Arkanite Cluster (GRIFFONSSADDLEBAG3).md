@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Unstable Arkanite Cluster
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Unstable-Arkanite-Cluster.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Arkanite crystals are brittle red gems that are volatile when subjected to certain reagents. This cluster of arkanite is fused to a delicate glass vial of one such reagent. You can use an action to throw the cluster at a point you can see within 30 feet of you. When you do, the cluster and reagent vial shatter, resulting in an explosive reaction. Each creature within 20 feet of the point must make a DC 13 Dexterity saving throw, taking `dice:4d6|noform|noparens|avg` (`4d6`) piercing damage on a failed save, or half as much damage on a successful one.
 

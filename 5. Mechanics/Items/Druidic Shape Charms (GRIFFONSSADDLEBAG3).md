@@ -14,11 +14,17 @@ attunement-requirement:
   - druid
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Druidic Shape Charms
 *Wondrous item, major, very rare (requires attunement by a druid)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Druidic-Shape-Charms.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These small wooden charms are carved in the shape of recognizable creatures. Each one is about three inches tall and can fit into the top of the charm below. If you have multiple charms, they collectively count as a single magic item for the purposes of determining how many items you can attune to.
 

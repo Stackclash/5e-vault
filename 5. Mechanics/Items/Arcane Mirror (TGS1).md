@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Arcane Mirror
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mirror-like shield is enchanted with abjuration magic that can reflect spells back at their source. While holding the shield, you can use it as a reaction when hit by an attack to cast the shield spell from it. Once this property has been used, it can't be used again until you finish a short or long rest.
 

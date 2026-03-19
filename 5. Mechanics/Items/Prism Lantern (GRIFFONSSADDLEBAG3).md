@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Prism Lantern
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Prism-Lantern.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lantern has a triangular hatch and lens for its light to shine through. A small, clear prism floats at its center. While holding the lantern, you can use a bonus action to cause the prism to glow, shedding bright light in a 30-foot cone and dim light for an additional 30 feet from the lantern. You choose the light's color, using the table below. It remains lit for 1 hour or until you use a bonus action to end the effect. You can change the light's color using a bonus action.
 

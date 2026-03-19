@@ -9,11 +9,17 @@ aliases:
   - Anti-Magic Crystal
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Anti-Magic Crystal
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This roughly basket sized crystal radiates a field of energy that disrupts the normal flow of the multiverse and prevents magical forces from acting in its proximity. This crystal creates an area of antimagic around itself, as in the [[/5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] spell, in a 150-foot radius. This field passes through all solid objects except a layer of lead that is at least 1 inch thick.
 

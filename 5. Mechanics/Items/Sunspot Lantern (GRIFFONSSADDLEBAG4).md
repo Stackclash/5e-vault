@@ -9,11 +9,17 @@ aliases:
   - Sunspot Lantern
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Sunspot Lantern
 *Wondrous item, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Sunspot-Lantern.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While lit, this bullseye lantern burns for 1 hour on 1 pint of oil, shedding bright light in a 60-foot cone and dim light for an additional 60 feet. The bright light is sunlight.
 

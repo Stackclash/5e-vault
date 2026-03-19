@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Dagger Ice
 *Ring, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ring-of-Dagger-Ice.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark silver ring is always cold to the touch. The gemstone set in it is made of dagger ice: a magical ice fragment from the Everglacier. While wearing the ring, you have resistance to cold damage.
 

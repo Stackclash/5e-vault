@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frostburn Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, very rare*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic spear harnesses both ice and fire to duplicate the natural destructive force of a remorhaz. Immediately after you throw the spear and it hits or misses a target, it flies back to your hand.
 

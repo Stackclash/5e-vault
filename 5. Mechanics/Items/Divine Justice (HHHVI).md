@@ -17,10 +17,16 @@ rarity: very-rare
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Divine Justice
 *Very rare (requires attunement by a good-aligned paladin or cleric)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 to attack and damage rolls made with this weapon. When you hit an attack using this weapon, the target takes an additional `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage.
 

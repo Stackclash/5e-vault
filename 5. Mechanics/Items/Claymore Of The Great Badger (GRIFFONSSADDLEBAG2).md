@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Claymore of the Great Badger
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, uncommon*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weighty blade carries with it the strength of the mighty badger. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The sword has 3 charges and regains all expended charges daily at dawn. When you hit a Large or smaller creature with this weapon, you can expend 1 charge from it to push that creature 5 feet away from you.
 

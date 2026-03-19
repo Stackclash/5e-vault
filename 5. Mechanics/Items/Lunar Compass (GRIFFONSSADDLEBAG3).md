@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Lunar Compass
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Lunar-Compass.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This compass has a glass eye on its lid, allowing you to see it even while it's closed. At its center is a shallow moon sculpture, which is always magically shaded to match the current phase of the moon it represents. During the day, the item functions exactly like a normal compass.
 

@@ -23,11 +23,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Webgrip Bow
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Webgrip-Bow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 8-armed bow uses the remains of a spindly spider's legs and maw. The bow has 3 charges and regains all expended charges daily at dawn. When you make a ranged attack with the bow, you can expend 1 of its charges to lace it with sticky spider silk. On a hit, the arrow magically sheds the silk and releases it as a netlike web. If the target is a Medium or smaller creature, it and each Medium or smaller creature within 5 feet of it must succeed on a DC 15 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the end of your next turn. If the target is a Large creature, only it must succeed on the saving throw instead. Huge and larger creatures are unaffected by the web.
 

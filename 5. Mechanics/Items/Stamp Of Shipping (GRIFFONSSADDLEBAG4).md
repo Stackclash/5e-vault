@@ -9,11 +9,17 @@ aliases:
   - Stamp of Shipping
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stamp of Shipping
 *Wondrous item, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Stamp-of-Shipping.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden stamp has a hollow opening at the top of its handle. You can use an action to stamp an object with the stamp, at which point it's magically teleported to another location. When you stamp the object, you name the location (which you must have visited) and a recipient who matches a general description. To be eligible, an object must be Small or smaller and weigh no more than 25 pounds; it also can't be worn or carried or create its own extradimensional space. The location must also be within 100 miles of you.
 

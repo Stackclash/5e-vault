@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Blooddrinker
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), cursed item, legendary (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This axe's handle ends in a bloodied stake, which was once used to slay a powerful vampire. Its blood has since stained the handle and granted it magical properties. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The first time on each of your turns that you hit a creature using this weapon while you have fewer than half your hit points, you regain a number of hit points equal to the number rolled on the weapon's damage die; you don't regain hit points in this way if the target is a construct, plant, or undead.
 

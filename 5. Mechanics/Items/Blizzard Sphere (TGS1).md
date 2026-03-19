@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blizzard Sphere
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Blizzard-Sphere.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass sphere contains a raging blizzard inside. It's cold to the touch and vibrates with the gusts of wind trapped within. As an action, you can throw the orb at a point or object you can see within 30 feet, shattering it on impact. When the orb shatters, the blizzard erupts from the glass in a 20-foot-radius sphere of swirling ice and snow centered on the point of impact. When a creature enters the area for the first time on a turn or starts its turn there, it must make a DC 15 Constitution saving throw. On a failed save, a creature takes `dice:4d8|noform|noparens|avg` (`4d8`) cold damage and its speed is halved until the start of its next turn. On a successful save, a creature takes half as much cold damage and its speed is unaffected.
 

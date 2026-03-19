@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Cymrith
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Forged by elven smiths to thwart the rising tide of evil among them, Cymrith has played a pivotal role in numerous fey confrontations. Thanks to its powerful magic, relentless bloodshed could be turned to peaceful negotiation. If you are fey or have the Fey Ancestry trait, you are proficient with Cymrith and can use your Charisma modifier for attack and damage rolls with it, instead of Strength or Dexterity.
 

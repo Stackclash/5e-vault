@@ -16,12 +16,18 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Pointed Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Pointed-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A creature you hit with this magic arrow must make a DC 16 Wisdom saving throw. On a failed save, the creature takes `dice:3d6|noform|noparens|avg` (`3d6`) psychic damage and must use as much of its movement as possible to move directly away from you on its next turn, using both its movement and [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action in order to do so. A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction. On a successful save, the creature takes half as much psychic damage and isn't compelled to move, as its mind is wracked in order to rid it of this compulsion. Once the arrow has hit a creature, it becomes a nonmagical arrow.
 

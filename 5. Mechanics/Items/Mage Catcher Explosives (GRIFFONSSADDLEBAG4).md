@@ -9,11 +9,17 @@ aliases:
   - Mage-Catcher Explosives
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mage-Catcher Explosives
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mage-Catcher-Explosives.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These eight-sided explosives come in a red linen bag. When found, there are `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) explosives in the bag.
 

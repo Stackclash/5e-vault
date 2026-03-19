@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fireweaver Gloves
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Fireweaver-Gloves.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing these fine golden gloves, you can use an action to cast the [[/5. Mechanics/Spells/Produce Flame.md\|produce flame]] cantrip (spell attack bonus +5) from it. You can hold this and other small nonmagical flames (such as a torch or candle) as if they were tangible objects, and can sculpt them like clay. Once sculpted, a flame retains its form for 1 minute before returning to normal. A nonmagical flame carried in this way burns for 1 hour before dying. If you drop or throw a nonmagical flame, it immediately burns out.
 

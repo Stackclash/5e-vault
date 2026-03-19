@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mimicloak
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Mimicloak.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This strange cloak is made using the enchanted remains of a young mimic. While wearing it, you can use a bonus action to speak its command word to change the style, color, and apparent quality of the cloak. The garment's weight doesn't change. Regardless of its appearance, the cloak can't be anything but a cloak with these properties.
 

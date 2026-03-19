@@ -24,6 +24,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 25
+item_recharge: none
 ---
 # Festerwood Fungal Stave
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a cleric, druid, or sorcerer)*  
@@ -34,6 +37,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fungal staff has 25 charges and regains `dice:1d10+15|noform|noparens|avg` (`1d10 + 15`) expended charges daily at dusk. While holding the staff, you can use an action to expend 1 or more of its charges to cause clusters of noxious mushrooms to magically appear in a number of unoccupied spaces equal to the number of charges you expend. The spaces must be on solid ground within 60 feet of you. Each space becomes difficult terrain for the duration of the effect. When a creature moves into or within a space or area covered by these mushrooms, that creature takes `dice:2d4|noform|noparens|avg` (`2d4`) poison damage for every 5 feet it travels. The mushrooms live for 1 minute or until you dismiss them as a bonus action.
 

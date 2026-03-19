@@ -14,11 +14,17 @@ attunement-requirement:
   - creature of good alignment
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Couatl Herald's Mantle
 *Wondrous item, major, uncommon (requires attunement by a creature of good alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Couatl-Heralds-Mantle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic cloak is given to those deemed kind-hearted and responsible by a celestial. While wearing the mantle, you have advantage on saving throws to resist becoming [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] or diseased. In addition, you are immune to any effect that would sense your emotions.
 

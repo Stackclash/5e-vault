@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Servitude Choker
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Servitude-Choker.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This necklace can animate small nonliving objects and have them fulfill simple tasks for you. As an action, you can drape or wrap the necklace around a Small or smaller nonmagical object that weighs less than 50 pounds and isn't attached to or carried by anything else. The adorned object springs to life, sprouting little arms and legs, and becomes a mindless creature under your control until you remove the necklace or it takes damage. The servant has an AC of 10 and a movement speed of 20 feet.
 

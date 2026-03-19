@@ -12,12 +12,18 @@ weight: 20
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Turtle Pack
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Turtle-Pack.webp#right)  
 
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This backpack is armored with the shell of a mighty turtle. Wearing or removing the backpack requires an action. It functions as a [[/5. Mechanics/Items/Hewards Handy Haversack.md\|Heward's Handy Haversack]] with the following changes and additional benefits:
 

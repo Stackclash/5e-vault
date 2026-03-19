@@ -21,6 +21,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Chain Acolyte Robes
 *Heavy armor ([[/5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, rare (requires attunement by a spellcaster)*  
@@ -29,6 +32,9 @@ subtype:
 - **Armor Class**: 16
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 55.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These acolyte robes are draped in heavy chain mail. You are proficient with this armor and ignore its Strength requirement if you have a spellcasting ability score of at least 13.
 

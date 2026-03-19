@@ -21,6 +21,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cathedral Armor
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, very rare (requires attunement by a cleric or paladin)*  
@@ -28,6 +31,9 @@ subtype:
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The front of this magic armor is covered in a panel of stained glass. Attuning to the armor causes the design of the glass to change to depict your deity, oaths, or similar divine order. You have a +2 bonus to AC while wearing this armor.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ashen Bloom
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ashen-Bloom.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An ashen bloom is a rare flower that grows in earth that's been charred by a phoenix's fire. Once it blooms, it continues to live indefinitely until all of its petals are removed, even if it's plucked from the soil. When found, an ashen bloom has `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) petals remaining. The flower crumbles to ash once its last petal is removed.
 

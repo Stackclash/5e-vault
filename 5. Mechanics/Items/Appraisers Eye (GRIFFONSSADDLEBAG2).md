@@ -14,11 +14,17 @@ attunement-requirement:
   - creature missing an eye
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Appraiser's Eye
 *Wondrous item, major, rare (requires attunement by a creature missing an eye)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Appraisers-Eye.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden sphere is the size of an eyeball with a bejeweled iris. Its weight is negligible. The sphere has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. Even if you aren't attuned to the sphere, you can use it and its charges for the following properties.
 

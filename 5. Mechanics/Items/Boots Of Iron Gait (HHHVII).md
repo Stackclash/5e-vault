@@ -10,12 +10,18 @@ aliases:
 stealth-penalty: true
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boots of Iron Gait
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing these boots, you have disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks, and if you are ever subjected to an effect that would move you against your will, you may spend your reaction to instead not move so long as you are standing on solid ground.
 

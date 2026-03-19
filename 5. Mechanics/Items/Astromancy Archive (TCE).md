@@ -17,11 +17,17 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Astromancy Archive
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass disc of articulated, concentric rings unfolds into an armillary sphere. As a bonus action, you can unfold it into the sphere or back into a disc. When found, it contains the following spells, which are wizard spells for you while you are attuned to it: [[/5. Mechanics/Spells/Augury.md\|augury]], [[/5. Mechanics/Spells/Divination.md\|divination]], [[/5. Mechanics/Spells/Find The Path.md\|find the path]], [[/5. Mechanics/Spells/Foresight.md\|foresight]], [[/5. Mechanics/Spells/Locate Creature.md\|locate creature]], and [[/5. Mechanics/Spells/Locate Object.md\|locate object]]. It functions as a spellbook for you, with spells encoded on the rings.
 

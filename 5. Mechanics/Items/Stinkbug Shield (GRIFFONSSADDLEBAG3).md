@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stinkbug Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
@@ -21,6 +24,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shield is designed in the likeness of a brass stinkbug with green accents. While holding it, you can use your reaction when you're hit by a melee weapon attack to release a gaseous plume of stinking fog from the shield. The attacker must immediately succeed on a DC 13 Constitution saving throw or spend the rest of its action and bonus action retching and reeling. A creature that doesn't need to breathe is immune to this effect, but a creature with a trait that grants it advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on smell has disadvantage on the saving throw. This property of the shield can't be used again until the next dawn.
 

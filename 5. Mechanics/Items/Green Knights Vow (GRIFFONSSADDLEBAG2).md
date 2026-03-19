@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Green Knight's Vow
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Green-Knights-Vow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These dark green adamantine and copper bracers are granted to devout warriors of the Infernal Court and are designed to match their army's signature tower shields. While wearing the bracers, you grow a sweeping pair of horns from your forehead if you are not a [[/5. Mechanics/Races/Tiefling.md\|tiefling]]. If your attunement to the bracers ends, the horns crack and fall away after 24 hours.
 

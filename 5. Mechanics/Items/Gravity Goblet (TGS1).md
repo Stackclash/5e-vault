@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gravity Goblet
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Gravity-Goblet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass and silver goblet is enchanted with a harmless, strange magic. A liquid poured in the cup bends gravity in comical ways, often to the surprise and endrenchment of its drinker. When the cup is tilted, as if to drink, the liquid flows in the opposite direction of gravity—sliding up the cup instead of down it. Once the liquid reaches the edge of the cup, it immediately pours down as normal. Swirling the liquid causes it to flow in the opposite direction in which it's rotated. Any solid object other than ice that floats in the liquid is not affected by the cup's magic.
 

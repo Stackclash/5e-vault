@@ -22,10 +22,16 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hellbolt Striker
 *Very rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 to attack and damage rolls made with this magical weapon. This weapon is lined with a fiendish coil designed to release stored energy once it is charged by a particularly powerful strike. When you make a successful critical hit against a creature with this weapon, up to three other creatures of your choice within 30 feet of your target that you can see must make a DC 20 Dexterity saving throw as an arc of lightning streaks from the original target towards them. Creatures take `dice:5d8|noform|noparens|avg` (`5d8`) lightning damage on a failed save, or half as much damage on a successful one.
 

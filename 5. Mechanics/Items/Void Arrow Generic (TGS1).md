@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Void Arrow (Generic)
 *Minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Void-Arrow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pitch-dark piece of ammunition is composed of densely-packed shadows. A creature hit by this magic ammunition takes psychic damage instead of piercing damage. This ammunition makes no sound when it's fired or strikes a surface, leaves no discernible wounds, and vanishes immediately after hitting a creature.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bullfrog Bugle
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bullfrog-Bugle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This horn sounds like a croaking frog when sounded, which is audible out to a range of 100 feet. When you speak through this horn, frogs, toads, and other beasts with the Amphibious trait can understand the meaning of your words, though the horn doesn't give you any special ability to understand them in return.
 

@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Staff of the Arcanum
 *Staff, weapon, major, legendary (requires attunement by a wizard)*  
@@ -34,6 +37,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is made of both raw and polished obsidian. Your Intelligence and Wisdom scores each increase by 2, up to a maximum of 22, while you're attuned to it. In addition, you can use your Arcane Recovery twice between long rests, instead of once.
 

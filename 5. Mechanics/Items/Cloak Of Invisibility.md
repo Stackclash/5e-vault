@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of Invisibility
 *Wondrous item, major, legendary (requires attunement)*  
 ![[/5. Mechanics/Items/img/cloak-of-invisibility.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this cloak, you can pull its hood over your head to cause yourself to become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]]. While you are [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], anything you are carrying or wearing is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] with you. You become visible when you cease wearing the hood. Pulling the hood up or down requires an action.
 

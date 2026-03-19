@@ -21,11 +21,17 @@ type: armor
 subtype:
   - heavy
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lionguard Chain
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Lionguard-Chain.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor was once the standard equipment of elite guards for a now-fallen empire. You gain a +1 bonus to AC while you wear this armor. In addition, you have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], and you can add your proficiency bonus to any Charisma check with which you aren't already proficient when interacting with common guards or soldiers.
 

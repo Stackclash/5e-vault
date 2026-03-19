@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Names
 *Ring, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ring-of-Names.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A thin strip of parchment lines the inside of this brass signet ring. When you shake hands with a humanoid, you can make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check contested by the target's Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) check. On a success, the target's name becomes written on the ring's parchment, which you magically learn. If the creature has multiple names or is secretive about its true identity, the written name is the one that it would be willing to share with a casual acquaintance. Regardless, a creature is unaware of this effect.
 

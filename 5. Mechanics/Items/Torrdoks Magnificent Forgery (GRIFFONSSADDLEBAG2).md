@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Torrdok's Magnificent Forgery
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Torrdoks-Magnificent-Forgery.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large, gilded mirror is 5 feet tall, 3 feet across, and weighs 20 pounds. While the mirror is against a wall or similar vertical surface, you can speak its first command word using an action to magically fasten the mirror to the wall. You can unfasten the mirror by speaking the command word again using another action.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: legendary
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Life Turner
 *Wondrous item, minor, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Life-Turner.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tiny, spinning hourglass has six seconds' worth of sand inside it and can be easily held or worn as a pendant. When a creature that you can see within 120 feet of you dies, you can use your reaction to speak the hourglass's command word and spin it, allowing you to immediately take an extra turn, interrupting the current turn. At the end of your turn, the dead creature returns to life with a number of hit points equal to your current hit point total (up to its hit point maximum), and you die. If the dead creature was prone, it can immediately stand up (no action required). Once this property has been used, it can't be used again until 1 year has passed.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Borbos's Marvelous Magic Marker
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Borboss-Marvelous-Magic-Marker.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This quill-like tool has a narrow brush that extends from its end, which produces its own ink. You can use this marker in place of ink and a quill as [[/5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]]. While holding it, you can use a bonus action to mentally change the color of the ink that flows from the brush. Decorating the marker's metal casing is a dazzling spectrum of colors, which move and shimmer while the marker is being used. The brush can be retracted into the metal casing to keep it from leaving errant marks by clicking a button at the top of the marker.
 

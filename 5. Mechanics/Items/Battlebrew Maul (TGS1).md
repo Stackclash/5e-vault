@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Battlebrew Maul
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The head of this maul is an alchemical keg that generates battlebrew liquor, a favorite among dwarves and half-orcs. The keg holds up to 4 gallons of the liquor and creates 1 gallon each day at dawn and again each time you roll for initiative while holding it. A creature can use its action to remove or reattach the handle of the maul to the keg, and another action to pour out or stopper it.
 

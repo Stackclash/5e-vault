@@ -12,12 +12,18 @@ weight: 30
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Grass Carpet
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Grass-Carpet.webp#right)  
 
 - **Weight**: 30.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This soft roll of turf is magically fertile. Its soil is 1 inch thick and allows plants of all kinds to grow well within it. Each roll of turf is 5 feet wide and 10 feet long. Its grass and soil are self-containing and will not grow beyond the size of the carpet. The carpet is so fertile that plants growing in its soil require only half the normal amount of sunlight and water they would normally need in order to grow.
 

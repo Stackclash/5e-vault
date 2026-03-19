@@ -15,12 +15,18 @@ attunement-requirement:
   - paladin
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heart of Damned Intervention
 *Wondrous item, cursed item, major, legendary (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Heart-of-Damned-Intervention.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large infernal heart was torn from a powerful archdevil and is 1 foot tall and weighs 10 pounds. It still pulses, softly, and spews out small gouts of flame from an unquenchable fire within. The heart is hot to the touch and is wrapped by strange, writhing chains.
 

@@ -14,10 +14,16 @@ rarity: unknown\Magic
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spirit Paper
 
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Spirit paper is a versatile tool that resembles a square of bleached papyrus. The secrets of its production were only recently discovered, and reverse engineered from secrets brought back from distant necromantic cults. By performing a small ritual with the spirit paper shortly after slaying certain creatures, a copy of that creature's soul is bound to the spirit paper for later use. These copies are not a true soul and are more akin to an echo. These echoes do retain all of the memories from its original body, and a few crafting techniques utilise these echoes to grant an item a low level of sentience or to mimic the abilities of their incorporeal reflections.
 

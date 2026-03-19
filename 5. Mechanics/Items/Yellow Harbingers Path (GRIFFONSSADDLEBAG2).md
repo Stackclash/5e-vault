@@ -22,11 +22,17 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Yellow Harbinger's Path
 *Major, very rare (requires attunement by a creature with a Dexterity score of 17 or higher)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Yellow-Harbingers-Path.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This burnt yellow armor is the mark of a royal scout. Its magical construction is unyielding to all but the most lithe and capable of scouts and huntsmen.
 

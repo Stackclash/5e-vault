@@ -9,11 +9,17 @@ aliases:
   - Anuraag's Crucible
 attunement: false
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Anuraag's Crucible
 *Artifact*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/KPDM/0039.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Thousands of years ago, a powerful alkemancer named Anuraag constructed an enormous crucible in his quest to create the perfect organism. He hoped it would bring forth an immortal being that could surpass the limitations imposed by human flesh and surpass even the gods. Anuraag used the crucible to create so many monstrosities that eventually the local deities had to take action against him. The alkemancer was destroyed for his impertinence, and his crucible was sealed away at the bottom of a mighty chasm.
 

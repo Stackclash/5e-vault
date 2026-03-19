@@ -20,6 +20,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wildskin Armor
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, uncommon (requires attunement by a druid)*  
@@ -27,6 +30,9 @@ subtype:
 
 - **Armor Class**: 12 + Dex modifier (max of +2)
 - **Weight**: 12.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This enchanted hide armor magically conforms to your body and moves naturally with your movements.
 

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arkanotana
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare*  
@@ -31,6 +34,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Arkanotanas are blades from a far-flung age and can sometimes be found in the lairs of sphinxes that have traveled through time.
 

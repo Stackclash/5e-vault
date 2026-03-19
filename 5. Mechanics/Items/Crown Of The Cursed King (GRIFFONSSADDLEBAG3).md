@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crown of the Cursed King
 *Wondrous item, cursed item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Crown-of-the-Cursed-King.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tarnished crown was originally worn by a maddened king, whose hunger for power could seemingly not be stopped. Only with old age was his reign brought to an eventual end, at which time all symbols of his power were systematically destroyed, including this crown. However, his malevolent spirit remains in the form of magical strands of force that hold its pieces together a lasting sign of his unwillingness to cede his rule.
 

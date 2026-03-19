@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of Initiative
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Amulet-of-Initiative.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This amulet is actually a small gong-like bell. It emits a loud ring whenever you roll initiative, which is audible out to a range of 100 feet. You have advantage on initiative rolls while wearing the amulet. Further, your speed increases by 10 feet until the start of your second turn of combat, and you gain the following special reaction:
 

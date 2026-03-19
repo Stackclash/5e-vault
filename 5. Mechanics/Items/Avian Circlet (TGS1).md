@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Avian Circlet
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Avian-Circlet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ornate silver tiara grants you power over certain flying creatures. You can use an action to cast [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] or [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] at will using the circlet. Any creature affected by these spells must be a beast and have a flying speed.
 

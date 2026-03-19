@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Griffon Component Pack
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Griffon-Component-Pack.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This special component pouch is stylized in the fashion of the legendary [[/5. Mechanics/Items/The Griffons Saddlebag (TGS1).md\|griffon's saddlebag]], a classic motif in children's fiction. As an action, you can place an amount of coins equal to 5 gp plus the exact worth of a component you need for a spell you know in the bag and speak its command word, followed by the name of the needed component. When you do, the coins disappear from the bag and are replaced by the material component needed for the spell. Once this property of the bag has been used, it can't be used again until the next dawn.
 

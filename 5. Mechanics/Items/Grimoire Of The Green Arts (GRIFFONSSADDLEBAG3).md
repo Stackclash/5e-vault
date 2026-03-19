@@ -14,11 +14,17 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Grimoire of the Green Arts
 *Wondrous item, major, very rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Grimoire-of-the-Green-Arts.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This green leather book has a gilded cover and painted imagery of sage and witch hazel. The following spells are written in the book using a strange form of Druidic that's only legible to the creature attuned to it: [[/5. Mechanics/Spells/Conjure Animals.md\|conjure animals]], [[/5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[/5. Mechanics/Spells/Goodberry.md\|goodberry]], [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]], [[/5. Mechanics/Spells/Speak With Plants.md\|speak with plants]], [[/5. Mechanics/Spells/Transport Via Plants.md\|transport via plants]], and [[/5. Mechanics/Spells/Wall Of Thorns.md\|wall of thorns]]. While attuned to the book, you know the [[/5. Mechanics/Spells/Druidcraft.md\|druidcraft]] cantrip, and you can prepare the book's spells as if they were wizard spells whenever you finish a long rest.
 

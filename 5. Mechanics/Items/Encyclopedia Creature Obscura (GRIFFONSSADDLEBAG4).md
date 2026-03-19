@@ -9,11 +9,17 @@ aliases:
   - Encyclopedia Creature Obscura
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Encyclopedia Creature Obscura
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Encyclopedia-Creature-Obscura.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 There are fourteen unique entries in this classic, hard-to-find series of encyclopedic tomes, which were originally written by renowned hunters and archdruids. When found, roll a `dice:d20|noform|noparens|avg` (`d20`) or choose from the table below to determine which encyclopedic volume it is.
 

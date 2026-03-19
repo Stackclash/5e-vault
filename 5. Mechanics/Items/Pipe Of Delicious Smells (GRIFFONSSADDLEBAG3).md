@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pipe of Delicious Smells
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Pipe-of-Delicious-Smells.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Smoke from this pipe is normally odorless. While smoking it, you can use an action to exhale a puff of smoke that magically smells like delicious food. You choose what food it smells like, such as a freshly baked pie, stew, or tea. The smell dissipates after a few seconds.
 

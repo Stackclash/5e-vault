@@ -16,21 +16,25 @@ alignment: Lawful Evil
 relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
-location:
-pronounced:
+location: null
+pronounced: null
 race: Dusk Elf
 gender: male
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
+personality: null
 ideal: Loyalty is everything.
-bond: I am a son of King Barov von Zarovich, and I will serve his son - my brother and lord - forever.
-flaw: I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy.
-goals:
-likes:
-dislikes:
+bond: >-
+  I am a son of King Barov von Zarovich, and I will serve his son - my brother
+  and lord - forever.
+flaw: >-
+  I have slain thousands of men. I will slaughter thousands more to preserve the
+  von Zarovich legacy.
+goals: null
+likes: null
+dislikes: null
 ---
 > [!infobox]
 > # `=this.file.name`

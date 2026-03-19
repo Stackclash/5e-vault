@@ -9,11 +9,17 @@ aliases:
   - Spymaster's Cloak
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spymaster's Cloak
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/spymaster-cloak.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 People who meet you tend to forget you. Gather Intel checks have disadvantage against anyone wearing this fine grey cloak.
 

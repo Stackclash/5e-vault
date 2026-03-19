@@ -25,11 +25,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frostburn Blade
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mirrorlight-Stinger.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sword's blade is made entirely of ice and remains perfectly frozen regardless of temperature. A single flame licks at the ice from above the weapon's hilt. While holding the sword, the fire expands to cover the weapon's edge with flame, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. When you hit with an attack using this magic sword, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) cold damage and `dice:1d6|noform|noparens|avg` (`1d6`) fire damage.
 

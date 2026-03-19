@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Quiver of Seasons
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Quiver-of-Seasons.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slender quiver is decorated with a forest of silhouetted trees. You can use a bonus action on each of your turns to speak the quiver's command word to change its season, which also changes its color and design: Spring (green, trees with silver leaves), Summer (yellow, rays of silver sunlight), Autumn (orange, silver leaves falling), or Winter (blue, silver veins on trees).
 

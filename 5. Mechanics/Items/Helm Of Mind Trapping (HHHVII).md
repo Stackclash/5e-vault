@@ -10,11 +10,17 @@ aliases:
   - Helm of Mind Trapping
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of Mind Trapping
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helm, you may spend your action to force a target humanoid within 30 feet of you that you can see to make a contested Intelligence check against you. If the target succeeds, the ability of this item fails, and they become immune to its effects for 24 hours. If you succeed, you store a copy of their mind inside the helm that possesses the target's memory and personality at the time of the copy being made. While wearing the helm you may communicate with this copy telepathically and access any of their memories. In addition, you gain any skill and tool proficiencies that target had, however you use your own proficiency bonus. If the target was a spellcaster, you add all of their known spells to your own spell list, so long as they are on a class spell list and of a spell level that you have access to.
 

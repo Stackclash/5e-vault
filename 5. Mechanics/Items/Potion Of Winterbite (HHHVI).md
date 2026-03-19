@@ -13,11 +13,17 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Winterbite
 *Potion, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, your physiology changes entirely and your blood becomes icy cold for `dice:1d4|noform|noparens|avg` (`1d4`) hours. During this time, you are immune to cold damage, and any time a creature within 5 feet of you hits you with an attack that deals piercing or slashing damage, they suffer `dice:2d6|noform|noparens|avg` (`2d6`) cold damage. This potion is bright blue with frost constantly encasing the glass.
 

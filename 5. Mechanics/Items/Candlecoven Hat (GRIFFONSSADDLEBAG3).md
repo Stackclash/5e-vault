@@ -14,11 +14,17 @@ attunement-requirement:
   - spellcaster
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candlecoven Hat
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Candlecoven-Hat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pointed mage hat is weighed down and stiffened by the solidified wax of 7 candles set atop it. The candles are harmless, require no oxygen, and emit dim light in a 10-foot radius while lit. While wearing the hat, you can use a bonus action to mentally light or extinguish the candles, up to the maximum amount. The candles can only be lit in this way. The maximum number of candles that can be lit depends on the number of times you've used the following property of the hat.
 

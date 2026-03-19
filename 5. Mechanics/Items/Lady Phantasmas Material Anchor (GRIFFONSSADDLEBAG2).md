@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Lady Phantasma's Material Anchor
 *Wondrous item, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Lady-Phantasmas-Material-Anchor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small and rusted anchor charm is bound to a famous, lost ship: the *Lady Phantasma*. This ship and its crew was lost to the Ethereal Plane centuries ago, cursed to remain there for all eternity as punishment for stealing a powerful sea hag's treasured relic. However, this small charm can act as the ship's sole remaining tether to the Material Plane.
 

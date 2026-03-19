@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Slaying Longbow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a good-aligned creature)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This powerful longbow originally served a solar, one of the mighty celestials that guard the heavens from evil. Normally unwieldy in the hands of mortals, this bow was bestowed upon a heroic human centuries ago and has been carefully passed down ever since. When you hit a creature with a ranged attack using this magic weapon, it takes an extra `dice:2d8|noform|noparens|avg` (`2d8`) radiant damage.
 

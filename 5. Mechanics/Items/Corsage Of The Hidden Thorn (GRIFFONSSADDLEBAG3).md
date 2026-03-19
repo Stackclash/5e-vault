@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Corsage of the Hidden Thorn
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Corsage-of-the-Hidden-Thorn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This corsage is teeming with all manner of verdant plant life. Four roses decorate the corsage, whose colors and arrangement can be magically changed using an action while wearing it. You always smell of fresh plants and roses while wearing the corsage.
 

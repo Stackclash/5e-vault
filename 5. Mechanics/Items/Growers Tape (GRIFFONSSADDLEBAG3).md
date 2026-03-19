@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Grower's Tape
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Growers-Tape.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This roll of tape is 1 inch wide and 60 feet long. You can use an action to cut off a length of tape and apply it to a surface. The tape immediately decomposes and turns into fertile soil once it's stuck to a surface. Plants rapidly grow from the soil, becoming fully ripe after 1 hour.
 

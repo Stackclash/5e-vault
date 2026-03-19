@@ -23,11 +23,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Sharpness
 *Major, very rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/sword-of-sharpness.webp#right\|Sword of Sharpness (Greatsword)]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sentry Candle
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sentry-Candle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark candle has a crenelated rim that remains even as the candle melts. While lit, small windows seemingly glow from within the candle's dark wax. The candle's magic is activated when the candle is lit, which requires an action. After burning for 8 hours, the candle is destroyed. You can snuff it out early for use at a later time. Moving the lit candle immediately snuffs it. Deduct the time it burned in increments of 1 minute from the candle's total burn time.
 

@@ -9,11 +9,17 @@ aliases:
   - Heart Scales
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heart Scales
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of golden scales has an unremovable petrified heart placed on one side. If a body part of a creature (such as a lock of hair, bit of nail, etc.) is placed on the other side, this scale judges that creature's character and alignment. If that creature has an evil alignment, the scales will tip towards the body part. If that creature has a neutral alignment, the scales will remain balanced. If that creature has a good alignment, the scales will tip towards the heart.
 

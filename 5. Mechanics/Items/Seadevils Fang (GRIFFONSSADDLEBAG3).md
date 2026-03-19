@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Seadevil's Fang
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This watery blue blade feels like a rumbling tide while held. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While holding it, you can use a bonus action to cause its blade to become inky and black until the start of your next turn. For the duration, creatures hit by the blade are marked with the black ink for 1 minute.
 

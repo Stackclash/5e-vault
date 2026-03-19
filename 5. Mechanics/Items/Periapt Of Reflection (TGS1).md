@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Periapt of Reflection
 *Wondrous item, cursed item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Periapt-of-Reflection.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This perfectly reflective charm magically helps you meditate and focus your mind. While wearing the necklace, you can use your reaction to reroll any Intelligence, Wisdom, or Charisma saving throw that you fail. You must use the new result.
 

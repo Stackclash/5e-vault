@@ -10,11 +10,17 @@ aliases:
   - Blinders Helm
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blinders Helm
 *Wondrous item, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helmet, you gain a [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] out to a range of 60 feet, and are immune to the [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], and [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] conditions.
 

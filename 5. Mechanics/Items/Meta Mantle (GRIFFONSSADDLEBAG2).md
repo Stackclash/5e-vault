@@ -14,11 +14,17 @@ attunement-requirement:
   - sorcerer
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Meta Mantle
 *Wondrous item, major, legendary (requires attunement by a sorcerer)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Meta-Mantle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This short scarlet robe's interior and sleeves hold hundreds of arcane runes that have been embroidered with platinum thread. While wearing the robes, you can change your known Metamagic options whenever you finish a long rest. In addition, you gain the following three Metamagic options to choose from.
 

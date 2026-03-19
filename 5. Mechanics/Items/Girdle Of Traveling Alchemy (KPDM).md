@@ -10,10 +10,16 @@ aliases:
   - Girdle of Traveling Alchemy
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Girdle of Traveling Alchemy
 *Wondrous item, very rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wide leather girdle has many sewn-in pouches and holsters that hold an assortment of empty beakers and vials. Once you have attuned to the girdle, these containers magically fill with the following liquids:
 

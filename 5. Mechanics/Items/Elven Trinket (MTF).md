@@ -13,10 +13,16 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elven Trinket
 *Adventuring gear*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 `dice: [[Elven Trinket (MTF).md#^trinket]]`
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tome of Planar Wonderings and Wanderings
 *Wondrous item, major, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Tome-of-Planar-Wonderings-and-Wanderings.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This book contains musings and detailed intricacies of the nature of the Planes of Existence throughout the multiverse. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Intelligence, Wisdom, and Charisma scores each increase by 1. If either your Intelligence, Wisdom, or Charisma score is already at its maximum, you can increase one of the other two scores by 2, instead of 1.
 

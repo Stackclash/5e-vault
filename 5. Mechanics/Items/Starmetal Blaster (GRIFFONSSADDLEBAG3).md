@@ -24,11 +24,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Blaster
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Starmetal-Blaster.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crossbow doesn't use a standard bowstring or groove for loading bolts. Instead, it uses a pair of electrically charged metal arms to suspend sling bullets above a third strip of charged metal along the weapon's body. When the crossbow's trigger is pulled, a sling bullet is electrically propelled from the weapon at dizzying speeds. Ranged attacks with this magic weapon deal bludgeoning damage instead of their normal damage type, and the first target hit by it on each of your turns takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage.
 

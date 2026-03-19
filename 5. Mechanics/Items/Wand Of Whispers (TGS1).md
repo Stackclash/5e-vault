@@ -19,12 +19,18 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: none
 ---
 # Wand of Whispers
 *Wand, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Wand-of-Whispers.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These wands are sometimes found in the hands of clandestine mages posing as simple townsfolk. Its magic wax and iron design resembles a candle and candlestick. The wand produces a harmless, magical flame that is indistinguishable from normal candlelight, although the wax never melts or changes shape. The flame is harmless and casts bright light in a 5-foot radius and dim light for another 5 feet. While holding the wand, you can extinguish or relight the flame as a bonus action.
 

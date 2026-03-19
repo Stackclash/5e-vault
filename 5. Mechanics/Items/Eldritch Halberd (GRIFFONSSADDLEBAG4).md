@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eldritch Halberd
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), cursed item, uncommon (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A sickly, yellow eye stares unblinkingly from the winged blade of this magic halberd. You can use your Charisma modifier, instead of Strength, for attack and damage rolls made with this magic weapon.
 

@@ -23,10 +23,16 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Star Breaker
 *Very rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls with this weapon. This weapon has 6 charges. While holding this weapon, you may use your bonus action to expend a charge and use either of the following abilities:
 

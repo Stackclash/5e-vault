@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Trap Sweeper
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Trap-Sweeper.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can use an action to speak this broom's command word and sweep the ground with it. When you do, dirt and dust is kicked up by the broom in a 30-foot cone originating from it. The dirt and dust magically glows and clings to the edges of any trap, clearly outlining it for all to see. The trap remains outlined in this way for 1 minute.
 

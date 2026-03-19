@@ -15,10 +15,16 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Gaseous Form
 *Potion, minor, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you gain the effect of the [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] spell for 1 hour (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Seed of Rebirth
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Seed-of-Rebirth.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fist-sized, magic seed can be attuned to by up to 4 creatures over the course of a long rest. Each creature attuned to the seed must participate in gently planting it in fertile soil. The seed immediately begins to flourish, growing into a majestic, flowering tree over the course of 7 days. The tree is 60 feet tall and 5 feet in diameter at its base, and its canopy extends out in a 30-foot radius from the center of the tree. The tree has a number of large limbs equal to the number of creatures attuned to the seed. Once planted in this way, no other creatures can attune to the seed. Your attunement to the seed is broken early if you commit a malicious affront to nature.
 

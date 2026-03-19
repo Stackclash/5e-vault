@@ -15,11 +15,17 @@ attunement-requirement:
   - higher
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Visage of Delight and Disaster
 *Wondrous item, major, legendary (requires attunement by a creature with a Charisma score of 17 or higher)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Visage-of-Delight-and-Disaster.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this mask, you gain 2 [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) dice, which are `dice:d10|noform|noparens|avg` (`d10`)s. These dice are separate from any Bardic Inspiration dice you have from another source. You can use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die. These dice are the same as normal Bardic Inspiration dice, but carry with them additional benefits based on the mood of your performance:
 

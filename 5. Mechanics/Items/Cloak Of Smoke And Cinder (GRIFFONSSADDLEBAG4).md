@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of Smoke and Cinder
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Cloak-of-Smoke-and-Cinder.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This short, hooded mantle is in threadbare tatters after being burned in a magical fire. While wearing it, the embers of that fire still burn, and plumes of smoke drape downward to replace the parts of the cloak that were lost.
 

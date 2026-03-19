@@ -13,11 +13,17 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of the Sahuagin
 *Potion, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This potion uses a sahuagin's blood as a base along with various seaweeds, seashells, and fish scales to produce a mutagenic effect in those who drink it. For the next 10 minutes after drinking this potion, you gain the following benefits:
 

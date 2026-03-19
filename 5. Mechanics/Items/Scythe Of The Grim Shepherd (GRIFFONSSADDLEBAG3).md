@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Scythe of the Grim Shepherd
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The sharpened horns and skull of a great ram rest atop this gnarled staff to form a twin-bladed scythe. On a hit, this weapon deals either bludgeoning or slashing damage (your choice), plus an extra `dice:1d8|noform|noparens|avg` (`1d8`) necrotic damage. It gains 1 charge whenever a creature with a challenge rating of 1 or higher within 60 feet of you is slain, up to a maximum of 10 charges. The staff loses all charges whenever you finish a long rest or if your attunement to it ends. While holding the staff, you can expend 1 or more of its charges for the following properties:
 

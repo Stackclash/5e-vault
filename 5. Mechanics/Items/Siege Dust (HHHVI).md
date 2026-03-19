@@ -9,11 +9,17 @@ aliases:
   - Siege Dust
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Siege Dust
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bag of fine brown dust contains great magical energy that can be imparted on weapons that are left to soak in its power. If a melee weapon that deals bludgeoning damage is left in a bath of this dust for 24 hours, it gains the following properties permanently:
 

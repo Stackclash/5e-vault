@@ -9,11 +9,17 @@ aliases:
   - Bronze Companion
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bronze Companion
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This three-inch tall bronze statue is a perfect replica of any beast. When the command word is spoken, the statue comes to life and mimics the actions and behaviour of the animal it is modelled after. It possesses no other traits of its model animal, except flight which it can mimic up to a speed of 10 ft.
 

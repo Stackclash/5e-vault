@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Relentless Stinger
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic rapier. When you reduce a creature to 0 hit points using this weapon, the next target you hit with it before the end of your next turn takes an extra 10 piercing damage from the attack.
 

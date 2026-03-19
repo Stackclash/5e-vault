@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ravenous Ring
 *Ring, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ravenous-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring, you can use an action to transform your hand into a kraken-like maw and touch a creature within 5 feet of you. When you do, the creature must make a DC 13 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage on a failed save, or half as much damage on a successful one. Your hand then returns to normal. If the creature fails the saving throw, you also gain a number of temporary hit points equal to half the necrotic damage dealt. These temporary hit points remain for 1 minute. Once this property of the ring has been used, it can't be used again until the next dawn.
 

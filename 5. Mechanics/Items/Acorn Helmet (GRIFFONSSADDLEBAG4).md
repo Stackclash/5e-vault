@@ -10,11 +10,17 @@ aliases:
   - Acorn Helmet
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Acorn Helmet
 *Wondrous item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Acorn-Helmet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helmet, any falling damage you take is reduced by half. Furthermore, any damage you take as a result of something falling on you, such as a boulder or ambushing darkmantle, is also halved.
 

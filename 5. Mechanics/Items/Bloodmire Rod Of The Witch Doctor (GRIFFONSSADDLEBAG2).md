@@ -21,11 +21,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 6
+item_recharge: none
 ---
 # Bloodmire Rod of the Witch Doctor
 *Rod, major, rare (requires attunement by a cleric, druid, paladin, or warlock)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bloodmire-Rod-of-the-Witch-Doctor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gnarled wooden scepter from the Bloodmire is set with a strange, cracked opal at its head and can be used as a spellcasting focus. The rod has 6 charges and regains `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) expended charges daily at dusk.
 

@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gilded Ticket
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Gilded-Ticket.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A gilded ticket is a small strip of paper that's outlined with gold leaf. You can use an action to write in a destination along a blank line on the bottom of the paper. Once a destination has been written into the space, it can't be removed.
 

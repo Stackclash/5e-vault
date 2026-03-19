@@ -16,12 +16,18 @@ tier: major
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horn of Blasting
 *Wondrous item, instrument ([[/5. Mechanics/Items/Horn.md\|horn]]), major, rare*  
 ![[/5. Mechanics/Items/img/horn-of-blasting.webp#right]]  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can use an action to speak the horn's command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each creature in the cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes `dice:5d6|noform|noparens|avg` (`5d6`) thunder damage and is [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] for 1 minute. On a successful save, a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]]. Creatures and objects made of glass or crystal have disadvantage on the saving throw and take `dice:10d6|noform|noparens|avg` (`10d6`) thunder damage instead of `dice:5d6|noform|noparens|avg` (`5d6`).
 

@@ -24,11 +24,17 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hammer of Willpower
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Hammer-of-Willpower-.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The might of this hammer changes to reflect your nature, using your innermost morality to overpower those that would oppose you. A creature hit by the hammer takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage for each half of your alignment, for a total of `dice:2d8|noform|noparens|avg` (`2d8`) extra damage. The extra damages' type or types are determined by their associated alignments, as shown on the table below.
 

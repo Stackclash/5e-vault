@@ -23,6 +23,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Cratering Quarterstaff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a creature with a Strength score of 17 or higher)*  
@@ -33,6 +36,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This thick, stony quarterstaff requires a Strength score of 17 or higher in order to wield. Despite glowing with embers, it feels comfortably warm to the touch. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

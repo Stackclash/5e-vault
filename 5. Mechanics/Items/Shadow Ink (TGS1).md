@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Ink
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Shadow-Ink.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Once penned, this special ink can only be seen and read in total darkness. When in darkness, any written or tattooed words, illustrations, or other marks made with this ink glow with a soft, colored light. One bottle of shadow ink has enough ink to fill 10 pages with writing, illustrations, or other such markings.
 

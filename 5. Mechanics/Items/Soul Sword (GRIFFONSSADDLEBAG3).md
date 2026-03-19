@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Soul Sword
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This battered and rusted sword looks like junk. However, it feels like a kindred spirit while you hold it. Even if you're not attuned to the sword, its damage die is a `dice:d4|noform|noparens|avg` (`d4`), or a `dice:d6|noform|noparens|avg` (`d6`) if you hold it with both hands.
 

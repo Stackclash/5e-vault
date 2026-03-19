@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wavebender's Leiomano
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This long wooden oar is ornamented with burnt designs and has a line of shark teeth along its edge. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While holding the leiomano, you can use an action to cast the [[/5. Mechanics/Spells/Control Water.md\|control water]] spell (*Redirect Flow* only) from it. The spell ends early if you are no longer holding the weapon. Once the weapon's been used to cast this spell, it can't do so again until the next dawn.
 

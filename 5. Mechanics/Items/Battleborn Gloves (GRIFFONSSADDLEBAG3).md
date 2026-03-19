@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Battleborn Gloves
 *Wondrous item, cursed item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Battleborn-Gloves.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These gloves have been worn by generations of great warriors and bear the marks and remembrances of their prowess. While wearing the gloves, your Strength or Dexterity score increases by 2 (your choice), up to a maximum of 22. Alternatively, you can increase both your Strength and Dexterity scores by 1. You make this decision when you first attune to the gloves.
 

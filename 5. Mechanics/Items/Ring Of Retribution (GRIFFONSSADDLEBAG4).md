@@ -17,11 +17,17 @@ rarity: rare
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Retribution
 *Ring, rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Ring-of-Retribution.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tarnished iron ring bears a dark pearl at its center. One side of the ring depicts a hellish knight, while the other an angelic priest. While wearing the ring, any armor you wear glimmers with a slight pearlescence. You gain a +1 bonus to AC while wearing this ring, and whenever you would deal fire or radiant damage, you can change the damage type to radiant or fire, respectively. In addition, you gain the following option for your Channel Divinity feature:
 

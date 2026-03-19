@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: its
+item_recharge: dawn
 ---
 # Wand of Merriment
 *Wand, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-Merriment.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand is made from a sprig of holly and exudes an unmistakable aura of cheer from it. It has 10 holly berries that each contain 1 charge and are used to fuel the wand's properties. When you expend a charge from a berry, it wilts away and disappears. The wand regrows `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) missing berries daily at dawn. While you're attuned to the wand, you gain a +2 bonus to Charisma checks and saving throws.
 

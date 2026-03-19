@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chimera Trident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), very rare (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark silver trident is decorated with the sculpted busts of three creatures: a dragon, a goat, and a lion. Each head gives way to one of the trident's three prongs. You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you make a ranged attack using this weapon, it flies back to your hand immediately after the attack.
 

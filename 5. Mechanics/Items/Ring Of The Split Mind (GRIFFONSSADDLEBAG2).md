@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of the Split Mind
 *Ring, major, very rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ring-of-the-Split-Mind.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crimson ring is split into two half-circles that magically hover a hair's breadth apart. While wearing the ring and concentrating on only one spell, you have advantage on Constitution saving throws that you make to maintain your concentration on that spell when you take damage.
 

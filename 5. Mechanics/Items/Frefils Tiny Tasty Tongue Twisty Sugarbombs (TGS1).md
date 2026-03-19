@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frefil's Tiny Tasty Tongue Twisty Sugarbombs
 *Wondrous item, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Frefils-Tiny-Tasty-Tongue-Twisty-Sugarbombs.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small bag of marble-sized gumballs contains 12 enchanted candies. While the color and flavor of each gumball is different, each one's effect is the same. As an action, you can start to chew one of these gumballs to release its magic. For the next 5 minutes while you chew the candy, you understand the literal meaning of any spoken language that you hear. If you speak while chewing the gumball, your accent changes to sound like the creature to whom you're listening: allowing you to sound like a local with minimal effort. The candy's magic and flavor fade 5 minutes after you first start to chew it.
 

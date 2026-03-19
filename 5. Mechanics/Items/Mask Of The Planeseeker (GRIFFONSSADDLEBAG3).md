@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Mask of the Planeseeker
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mask-of-the-Planeseeker.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This elaborate mask was first worn by an interplanar diplomat. While wearing it, you understand any spoken language you hear, and when you speak, any creature that can hear you and knows at least one language can understand what you say. The mask also functions as an [[/5. Mechanics/Items/Amulet Of The Planes.md\|amulet of the planes]]. You can't be teleported against your will or unwillingly transported to another plane of existence by another creature or hostile effect while wearing this mask.
 

@@ -9,11 +9,17 @@ aliases:
   - Dragon's Wrath
 attunement: false
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon's Wrath
 *Wondrous item*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leathery pouch is repurposed from a dragon's breath pouch and has had some of its potency reduced in exchange for long term usability. While holding this item, you may spend an action to squeeze the bag, forcing all creatures in a 15-foot (uncommon), 30-foot (rare), 60-foot (very rare) or 90-foot (legendary) cone to roll a DC 12 (uncommon), DC 15 (rare), DC 18 (very rare), or DC 20 (legendary) Dexterity saving throw, taking `dice:4d6|noform|noparens|avg` (`4d6`) (uncommon), `dice:8d6|noform|noparens|avg` (`8d6`) (rare), `dice:12d6|noform|noparens|avg` (`12d6`) (very rare), or `dice:16d6|noform|noparens|avg` (`16d6`) (legendary) damage on a failed save, or half that on a successful one. The damage type dealt corresponds to the damage type of the dragon from which this item was crafted.
 

@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Brawler's Ring
 *Ring, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Brawlers-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass ring has several splits in its metal that are filled with seams of jade. While wearing this ring, your unarmed strikes deal bludgeoning damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Strength modifier on a hit.
 

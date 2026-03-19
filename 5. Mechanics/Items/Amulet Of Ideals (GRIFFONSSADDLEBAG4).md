@@ -13,11 +13,17 @@ attunement-requirement:
   - cleric
   - paladin
 rarity: rare
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Amulet of Ideals
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Amulet-of-Ideals.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hollow silver locket depicts a pair of heavy temple doors. Pressing the button at its center opens the locket. As part of attuning to the item, you must place a trinket within the hollow space. The trinket must be representative in some way, either to you or to your deity, of your cleric domain or paladin oath. While wearing the amulet, the first time you use your Channel Divinity, it doesn't expend a use of that feature. This property can't be used again until the next dawn.
 

@@ -10,11 +10,17 @@ aliases:
   - Helm of Abyssal Domination
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 11
+item_recharge: dawn
 ---
 # Helm of Abyssal Domination
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helmet has 11 charges. While wearing this helm, you spend an action to expend 1 or more charges to do one of the following:
 

@@ -17,12 +17,18 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Fulminating Treatise
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 ![[/5. Mechanics/Items/img/fulminating-treatise.webp#right]]  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This thick, scorched spellbook reeks of smoke and ozone, and sparks of energy crackles along the edges of its pages. When found, the book contains the following spells: [[/5. Mechanics/Spells/Contingency.md\|contingency]], [[/5. Mechanics/Spells/Fireball.md\|fireball]], [[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]], [[/5. Mechanics/Spells/Leomunds Tiny Hut.md\|Leomund's tiny hut]], [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]], [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]], and [[/5. Mechanics/Spells/Wall Of Force.md\|wall of force]]. It functions as a spellbook for you.
 

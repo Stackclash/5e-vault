@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Darts of the Macaw
 *Minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dart-of-the-Macaw.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic dart has a vibrant macaw at its base, which springs to life when you throw or launch it. Hit or miss, the dart flies back to the space it was thrown or launched from at the end of your turn. If you're in that space, the dart lands in your open hand or at your feet (your choice). The bird then becomes immobile once more.
 

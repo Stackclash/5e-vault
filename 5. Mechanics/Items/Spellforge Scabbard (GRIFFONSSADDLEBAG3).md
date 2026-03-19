@@ -13,12 +13,18 @@ weight: 2
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Spellforge Scabbard
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Spellforge-Scabbard.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This teal leather scabbard is decorated with mithral emblems. While wearing it, you can use a bonus action to drag a weapon across the scabbard. For the next minute, the weapon glows with a faint blue aura, and you can use a bonus action to magically return that weapon to the scabbard, stowing it there. If the weapon was nonmagical, it also becomes magic and has a +1 bonus to attack and damage rolls for the duration. The effect ends early if you use this property again.
 

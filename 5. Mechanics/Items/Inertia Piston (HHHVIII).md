@@ -13,10 +13,16 @@ rarity: rare
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Inertia Piston
 *Rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item may be attached to any melee bludgeoning weapon. Attaching or removing this item from a weapon takes 10 minutes to complete. A weapon can only have one attachment at a time.
 

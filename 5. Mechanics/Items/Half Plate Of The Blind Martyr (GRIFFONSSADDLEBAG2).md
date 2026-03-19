@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Half Plate of the Blind Martyr
 *Medium armor ([[/5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, legendary (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark, battle-scarred half plate armor honors the blind valkyrie, a twisted symbol of impartial war, justice, and repentance. You gain a +2 bonus to AC while wearing this armor.
 

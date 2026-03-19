@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Weaving Wasp Needles
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 0.25 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of dark, chiseled throwing needles are linked by a magical bond. A needle that hits a Large or smaller creature flies around it for 1 minute or until the creature falls to 0 hit points. If both needles fly around the same creature, they spin a magical thread that binds and restrains it. The creature is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until freed or until you take a bonus action to speak the needles' command word to release it. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Once the needles restrain a creature in this way, this property can't be used again until the next dawn.
 

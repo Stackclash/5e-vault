@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - tool
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Navigator's Tools
 *Tool*  
 
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
 

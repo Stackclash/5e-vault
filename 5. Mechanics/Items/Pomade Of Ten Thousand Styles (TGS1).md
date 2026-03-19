@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Pomade of Ten Thousand Styles
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Pomade-of-Ten-Thousand-Styles.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This canister of waxy pomade has magical properties, allowing you to change your hair's color, style, thickness, and length (up to 1 foot longer or shorter per use). The canister steadily replenishes its pomade over time. It can hold up to 4 uses at a time and regains `dice:1d4|noform|noparens|avg` (`1d4`) expended uses each day at dawn. Using 1 use of the pomade takes 1 minute.
 

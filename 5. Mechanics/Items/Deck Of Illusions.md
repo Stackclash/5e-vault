@@ -11,10 +11,16 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deck of Illusions
 *Wondrous item, major, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing `dice:1d20-1|noform|noparens|avg` (` - 1`) cards.
 

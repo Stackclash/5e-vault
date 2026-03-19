@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Sending Slates
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sending-Slates.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Sending slates come in pairs, with each chalkboard slate marked on the back with the same insignia as its twin so the pairing is easily recognized. Each slate has a stick of chalk attached. While holding a slate, you can use an action to write up to 10 words using the attached chalk. The words then appear on the paired slate, provided that both slates are on the same plane of existence. Either slate can be erased or written on using an action in this way, reflecting each change immediately on the paired slate.
 

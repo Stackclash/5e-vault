@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Changing Shapes
 *Ring, major, rare (requires attunement by a sorcerer)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ring-of-Changing-Shapes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic ring is made of solid mercury that bubbles and flows freely around your finger whenever you cast a spell. While wearing the ring, you gain the following benefits:
 

@@ -12,11 +12,17 @@ attunement: true
 attunement-requirement:
   - warforged
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Docent
 *Wondrous item, rare (requires attunement by a warforged)*  
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/070-04-004-docent.webp#right\|A Docent]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A docent is a small metal sphere, about 2 inches across, studded with dragonshards. To attune to a docent, you must embed the item somewhere on your body, such as your chest or your eye socket.
 

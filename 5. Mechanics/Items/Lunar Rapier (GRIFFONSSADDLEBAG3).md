@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lunar Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The dark silver blade of this rapier resonates with a quiet ripple, like the moon's pull on the tide. You gain a +1 bonus to attack and damage rolls made with this magic weapon, or a +2 bonus if it's between dusk and dawn.
 

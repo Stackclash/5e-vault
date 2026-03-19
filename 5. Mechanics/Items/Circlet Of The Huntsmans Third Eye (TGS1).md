@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: none
 ---
 # Circlet of the Huntsman's Third Eye
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Circlet-of-the-Huntsmans-Third-Eye.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This barbed metal circlet features a grotesque yet ornately preserved eye hanging from its center. The eye rests on the forehead of the creature wearing it. While wearing the circlet, its latent cunning guides your hand, giving you advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks.
 

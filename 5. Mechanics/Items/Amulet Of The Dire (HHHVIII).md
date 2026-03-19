@@ -10,11 +10,17 @@ aliases:
   - Amulet of the Dire
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Amulet of the Dire
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this amulet, you may use your action to speak its command word and grow one size larger, doubling your size in all dimensions and multiplying your weight by eight. Everything you are carrying and wearing also increases relative to you; it returns to its original size immediately if it is dropped. If there isn't enough available free space for you to grow, you attain the maximum possible size in the space available.
 

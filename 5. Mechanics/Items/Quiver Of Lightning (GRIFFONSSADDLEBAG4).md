@@ -10,11 +10,17 @@ aliases:
   - Quiver of Lightning
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quiver of Lightning
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Quiver-of-Lightning.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This jagged quiver zigs and zags in a lightninglike fashion. Ammunition you draw from the quiver is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. When you make an attack with the ammunition, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) lightning damage on a hit.
 

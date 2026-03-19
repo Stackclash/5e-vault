@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arm of Balaria
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), uncommon (requires attunement by a monk)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The ends of this quarterstaff are topped with brass hands. Whenever you would make an unarmed strike, you can make a special attack with the weapon instead; this special attack counts as an unarmed strike and uses the damage die for your unarmed strikes as normal. When you make this special attack using the quarterstaff, your reach with the weapon is increased by 5 feet.
 

@@ -13,11 +13,17 @@ rarity: uncommon
 type: gear
 subtype:
   - oil
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Radiant Oil
 *Oil, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You may spend 1 minute applying this oil to an item no larger than 1 cubic foot in volume. For the next hour, the oiled item shines bright light out to a range of 15 feet and then dim light for 15 feet beyond that, and any damage dealt using that item may be treated as radiant damage instead of its usual damage type.
 

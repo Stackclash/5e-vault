@@ -12,12 +12,18 @@ weight: 12
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Insatiable Tome
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Insatiable-Tome.webp#right)  
 
 - **Weight**: 12.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large, ragged tome weighs 12 pounds and has up to one thousand blank vellum pages inside it. The tome is magical and devours any smaller nonmagical book or document placed next to it with rows of hidden teeth over the course of 1 minute. After the tome has eaten a book, you can use an action to speak the tome's command word, followed by the name of a book or document it's eaten, to cause the previously destroyed contents to appear on the blank pages of the book. The contents are magically printed on the tome's pages in the same language or cipher they were originally written in and remain until you speak the tome's command word again to erase them or replace them with another document's contents.
 

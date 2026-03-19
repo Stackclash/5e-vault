@@ -10,11 +10,17 @@ aliases:
   - Codex Multiversalis
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Codex Multiversalis
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-multiversalis.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Certainly the first Wizard to enter history as an owner of the Book of All Worlds was Padmavati, the Alienist. But there's no actual record of her writing it, though scholarly consensus is that only she could have done so. Instead, the accepted wisdom is that she did write it, just not in this manifold. She is from a different world, sages presume. The truth may never be known. The deeds she performed are well-documented, including enacting The Forbidding which permanently exiled the Demon Lord of Death to the Seven City of Hells. If the nature of this ritual is detailed in the codex multiversalis no Wizard since has deciphered it.
 

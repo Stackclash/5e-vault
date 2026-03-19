@@ -16,12 +16,18 @@ rarity: none
 type: weapon
 subtype:
   - explosive
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gunpowder Keg
 *Explosive*  
 
 - **Cost**: 250 gp
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Gunpowder is chiefly used to propel a bullet out of the barrel of a pistol or rifle, or it is formed into a bomb. Gunpowder is sold in small wooden kegs or in water-resistant powder horns.
 

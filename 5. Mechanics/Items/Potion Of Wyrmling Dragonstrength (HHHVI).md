@@ -13,11 +13,17 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Wyrmling Dragonstrength
 *Potion, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you recover `dice:3d4+3|noform|noparens|avg` (`3d4 + 3`) hit points. In addition, you gain resistance to the damage type of the dragon it was crafted from for 1 hour.
 

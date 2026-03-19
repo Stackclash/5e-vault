@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Great Owl's Shroud
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Great-Owls-Shroud.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This draping shoulder cloak flutters softly while worn, even if there isn't a breeze. The cloak has 10 charges and regains all expended charges daily at dawn. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action while wearing this garment, you can replace one or more of your attacks with a special ranged spell attack using the cloak, expending 1 of its charges for each attack you replace. When you do, you flourish the cloak and release a barrage of magical feathers that fly toward the target. You have a +5 bonus to attack rolls made with the cloak, which have a normal range of 30 feet and a long range of 120 feet. On a hit, the target takes `dice:2d4+3|noform|noparens|avg` (`2d4 + 3`) force damage. After the attack, the feathers vanish.
 

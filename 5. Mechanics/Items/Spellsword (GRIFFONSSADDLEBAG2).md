@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spellsword
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d6 force
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item appears to be a shortsword hilt. While grasping the hilt, you can use a bonus action to expend a spell slot of 1st level or higher to activate the sword, causing a blade of pure energy to spring into existence. The sword remains activated for 8 hours, or until you deactivate it early using an action. Once you activate the sword in this way, you can use it as a spellcasting focus, and you are proficient with the spellsword for the duration.
 

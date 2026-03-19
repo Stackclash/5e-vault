@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Griffon Key Loop
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Griffon-Key-Loop.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather key loop is stylized in the fashion of the legendary [[/5. Mechanics/Items/The Griffons Saddlebag (TGS1).md\|griffon's saddlebag]], a classic motif in children's fiction. You can attach a key to the key loop by holding them together for 1 minute. When you do, the key is shunted into an extradimensional space. You can use an action to speak the key loop's command word, causing one or more of the attached keys to reappear on the loop (your choice). Speaking the command word again causes them to disappear once more. You can have up to 10 keys attached to the key loop in this way at a time, and can remove one by gently pulling on it for 1 minute.
 

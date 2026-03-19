@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alchemist's Firethrower
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 30/90
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 8.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This handheld metal device weighs 8 pounds and measures about 2 feet long and 6 inches across at its widest point. Parts of it resemble a crossbow, such as its stock and trigger, but is otherwise unique in its design. It has a pair of gaps in its wooden stock which can hold two flasks of alchemist's fire, fitting the flasks' mouths into a hole in the bottom of the space. Upending a flask into one of the gaps in this way allows its contents to run through a hidden pipeline within the stock and into the rest of the machine, causing a glass-covered chamber on the top of the device to fill with bubbling liquid. When filled in this way, the two vertical slots at the front of the machine give off a warm and foreboding glow.
 

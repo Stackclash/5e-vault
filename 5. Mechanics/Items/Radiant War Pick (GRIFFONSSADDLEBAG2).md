@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Radiant War Pick
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement by a cleric or paladin)*  
@@ -31,6 +34,9 @@ subtype:
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver and golden weapon is wrapped in fragments of holy vestments and glimmers spectacularly in sun and moonlight. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with an attack using this war pick, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage. If the target is a shapechanger or undead, this radiant damage is maximized.
 

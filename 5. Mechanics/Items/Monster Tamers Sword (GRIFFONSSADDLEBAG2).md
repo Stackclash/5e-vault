@@ -25,11 +25,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Monster Tamer's Sword
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Monster-Tamers-Sword.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic weapon exerts dominance over certain creatures and was crafted by a culture known for its hunting and battling of monsters.
 

@@ -13,11 +13,17 @@ attunement-requirement:
   - bard
   - wizard
 rarity: legendary
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Circlet of Resonant Spheres
 *Wondrous item, legendary (requires attunement by a bard or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Circlet-of-Resonant-Spheres.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This metal circlet is surrounded by ten circular openings. Each opening holds a floating metal sphere, which rings softly like a bell when held to your ear. While wearing the circlet, the spheres hover just outside of their respective openings.
 

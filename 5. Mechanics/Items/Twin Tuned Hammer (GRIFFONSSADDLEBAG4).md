@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Twin-Tuned Hammer
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, very rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This two-pronged hammer vibrates with a powerful force whenever it strikes a target. Despite the thunderous nature, the sound it creates can only be heard up to 30 feet away. A target hit with the hammer takes an extra `dice:2d8|noform|noparens|avg` (`2d8`) thunder damage from the attack, or `dice:3d8|noform|noparens|avg` (`3d8`) thunder damage if the target is made of stone, metal, or glass.
 

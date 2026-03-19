@@ -28,6 +28,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Mummy Lord Staff
 *Staff, weapon, cursed item, major, very rare (requires attunement by a bard, cleric, sorcerer, warlock, or wizard)*  
@@ -38,6 +41,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is wrapped in old mummy wrappings salvaged from an unknown burial ground. Its sinewy haft is made from a flesh-colored wood. It can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
 

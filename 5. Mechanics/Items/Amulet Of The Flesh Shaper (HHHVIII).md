@@ -10,11 +10,17 @@ aliases:
   - Amulet of the Flesh-shaper
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 20
+item_recharge: dawn
 ---
 # Amulet of the Flesh-shaper
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wrinkled, pale-pink amulet resembles the shriveled brain of a monstrous entity. This amulet has 20 charges which you may expend to use any of the following abilities:
 

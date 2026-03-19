@@ -12,12 +12,18 @@ weight: 0.5
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Tricks
 *Wondrous item, major, uncommon*  
 ![[/5. Mechanics/Items/img/bag-of-tricks.webp#right]]  
 
 - **Weight**: 0.5 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 

@@ -12,12 +12,18 @@ weight: 1
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necklace of Fireballs
 *Wondrous item, minor, rare*  
 ![[/5. Mechanics/Items/img/necklace-of-fireballs.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This necklace has `dice:1d6+3|noform|noparens|avg` (`1d6 + 3`) beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level [[/5. Mechanics/Spells/Fireball.md\|fireball]] spell (save DC 15).
 

@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Momentary Omniscience
 *Scroll, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-Momentary-Omniscience.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you use an action to read this scroll, everything becomes perfectly clear in a moment of fascinating realization. Despite the arcane phrase's manageable length, the scroll itself is outrageously long and filled with nonsensical grids, lists, smudged diagrams, and other strange musings. The scroll magically unrolls and tears itself in half once it's used, destroying the scroll. Choose one of the following benefits:
 

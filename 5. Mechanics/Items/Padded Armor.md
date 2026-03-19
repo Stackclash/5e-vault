@@ -17,6 +17,9 @@ rarity: none
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Padded Armor
 *Light armor*  
@@ -25,6 +28,9 @@ subtype:
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: 5 gp
 - **Weight**: 8.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Padded armor consists of quilted layers of cloth and batting.
 

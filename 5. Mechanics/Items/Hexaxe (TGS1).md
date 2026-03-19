@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Hexaxe
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a warlock)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This handaxe amplifies curses bestowed on its enemies. The weapon has 3 charges and regains all expended charges daily at dusk. While you're holding the axe and are forced to make a Constitution saving throw to maintain concentration on a warlock spell, you can use your reaction to expend 1 of the axe's charges to add your Charisma modifier to the total of the saving throw.
 

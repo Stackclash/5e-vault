@@ -10,11 +10,17 @@ aliases:
   - Cloak of Safe Harbor
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Cloak of Safe Harbor
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this cloak, you may use your action to pull the hood up over your head, transporting yourself and everything you are wearing and carrying to a pocket dimension that resembles a blank void with a breathable atmosphere. You may stay in this pocket dimension for up to 1 hour per day, which you may do so all at once, or in several shorter increments. If your time runs out or if you take the hood off (no action required) you return to your original plane in the space which you disappeared from, or the nearest unoccupied space if that is impossible.
 

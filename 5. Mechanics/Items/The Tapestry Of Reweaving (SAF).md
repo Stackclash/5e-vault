@@ -13,10 +13,16 @@ rarity: rare
 type: gear
 subtype:
   - requires-installation
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Tapestry of Reweaving
 *Wondrous item, requires installation, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magnificent tapestry at first appears to display a scene depicting life in the local area. The threads are expensively dyed, and real gold and silver are woven into it, giving it brilliant colors and incredibly fine detail. Expressions can be made out on the tiny faces of any people living nearby.
 

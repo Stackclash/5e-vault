@@ -14,11 +14,17 @@ attunement-requirement:
   - dragonborn of neutral alignment
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Ruby Dragon
 *Wondrous item, major, very rare (requires attunement by a dragonborn of neutral alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Helm-of-the-Ruby-Dragon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic gold and ruby helm has been blessed by a powerful, psychic dragon. While wearing this helmet, you have advantage on Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) checks, as well as Intelligence checks made to glean information from an observation or bit of lore. In addition, you can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
 

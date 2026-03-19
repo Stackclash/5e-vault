@@ -24,11 +24,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Jo'Catian Denier
 *Major, uncommon (requires attunement by a creature of neutral alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/JoCatian-Denier.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic weapon comes from a clan of sentient wurms that debilitate their foes with strange magic. This sword has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. When you hit a creature with the sword, you can expend 1 of its charges as part of the attack to force that creature to make a DC 13 saving throw of your choice. On a failed save, a creature is subjected to an effect based on the kind of saving throw it made:
 

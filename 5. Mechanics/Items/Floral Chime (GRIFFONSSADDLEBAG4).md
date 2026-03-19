@@ -9,11 +9,17 @@ aliases:
   - Floral Chime
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Floral Chime
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Floral-Chime.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A faint, floral perfume wafts from this handbell and radiates powerfully from you when you ring it. While holding the bell, you can use an action to ring it and instantly make any flowers blossom, any seed pods open, and any leaf buds bloom that are within 60 feet of you, provided the sound can reach them. Once this property of the bell has been used, it can't be used again for 1 hour.
 

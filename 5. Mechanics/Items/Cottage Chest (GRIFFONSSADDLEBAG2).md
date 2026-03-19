@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Cottage Chest
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Cottage-Chest.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 1-foot-long chest looks like a replica of a woodland cottage and is magically locked. You can use an action to place this chest on the ground and speak its command word. The chest immediately unlocks and grows into a cottage that remains until you use an action to speak the command word that dismisses it, which works only if the cottage is empty. When dismissed, the cottage returns to its normal chest form. If there isn't enough space for the cottage or there are creatures in its area when you speak the command word, the chest remains locked and the action is wasted.
 

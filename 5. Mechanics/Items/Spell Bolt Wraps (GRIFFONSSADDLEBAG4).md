@@ -12,11 +12,17 @@ attunement: true
 attunement-requirement:
   - monk
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spell Bolt Wraps
 *Wondrous item, rare (requires attunement by a monk)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Spell-Bolt-Wraps.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These armwraps are made from cut up strips of spell scrolls. The spell on the scroll is either chill touch (25%), fire bolt (25%), ray of frost (25%), or shocking grasp (25%).
 

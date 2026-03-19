@@ -12,10 +12,16 @@ aliases:
 attunement: true
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Charlatan's Die
 *Wondrous item, minor, common (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Whenever you roll this six-sided die, you can control which number it rolls.
 

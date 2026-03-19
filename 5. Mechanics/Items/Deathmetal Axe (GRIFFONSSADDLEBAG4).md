@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Deathmetal Axe
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), very rare (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This adamantine axe is covered in narrow cracks, which periodically erupt with harmless, magical flame. Along its haft are four strings: plucking a string creates a deep, bone-rattling resonance from the axe. If you're proficient with lutes, you are proficient with the deathmetal axe, and you can play it as if it were a [[/5. Mechanics/Items/Lute.md\|lute]].
 

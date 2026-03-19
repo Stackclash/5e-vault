@@ -14,10 +14,17 @@ rarity: none
 type: vehicle
 subtype:
   - ship-water
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sailing Ship
 *Ship, vehicle (water)*  
 
 - **Cost**: 10,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
+
 
 *Source: Dungeon Master's Guide p. 119. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

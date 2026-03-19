@@ -14,11 +14,17 @@ attunement-requirement:
   - spellcaster
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Focus Circlet
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Focus-Circlet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this silver circlet, you gain a bonus to Constitution saving throws that you make to maintain your concentration on a spell you cast equal to the spell's level, up to a maximum of +3.
 

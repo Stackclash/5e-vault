@@ -16,12 +16,18 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Murderous Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Murderous-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When this magic arrow hits a creature, it immediately explodes into a plume of crow feathers and is destroyed, instead of dealing its normal damage. A flock of ten crows then appears at the target's location. Each crow makes one melee attack against the target, using a +7 attack bonus. On a hit, a crow deals 5 slashing damage as it rakes the target with its sharp talons and beak. The crows fly away and vanish after making the attacks.
 

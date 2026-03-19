@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hand of the Master
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Hand-of-the-Master.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This satin glove has no visible seams and can be easily flipped inside-out to wear on either a left or right hand. While attuned to the glove, you can fit it over a hand that is either missing fingers or missing entirely and have it function as a normal body part.
 

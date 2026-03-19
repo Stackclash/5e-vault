@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stone of Good Luck
 *Wondrous item, major, uncommon (requires attunement)*  
 ![[/5. Mechanics/Items/img/stone-of-good-luck.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
 

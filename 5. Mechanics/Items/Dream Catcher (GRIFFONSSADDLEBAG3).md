@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Dream Catcher
 *Weapon ([[/5. Mechanics/Items/Net.md\|net]]), major, very rare*  
@@ -26,6 +29,9 @@ subtype:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This circular net is stylized with large white feathers around its edge. Unlike a normal net, the dream catcher can restrain a formless creature such as a ghost or water elemental. The net is immune to slashing damage, and it requires a DC 16 Strength check, instead of DC 10, to free a creature from the net.
 

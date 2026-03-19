@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pick and Pocket
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass and steel dagger can also be used as part of a set of [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] when picking locks. You gain a +1 bonus to attack and damage rolls made with this magic weapon, as well as on any ability check you make using [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to pick open a lock, provided you use the dagger as part of the set of tools.
 

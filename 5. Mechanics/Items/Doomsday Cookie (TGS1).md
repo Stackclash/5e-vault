@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Doomsday Cookie
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Doomsday-Cookie.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This black sugarpaste cookie is made using a grim recipe passed down through generations of clerics devoted to gods of death. Inside this hollow cookie is a blank strip of enchanted paper whose writing only appears when you break open the cookie. The paper's writing vaguely predicts the manner in which you'll die. When you open this cookie, roll a `dice:d20|noform|noparens|avg` (`d20`) and use the table below to determine the paper's prediction.
 

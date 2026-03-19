@@ -13,11 +13,17 @@ rarity: legendary
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of the Eternal Tide
 *Potion, legendary*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you imbibe the power of an elder elemental, gaining all the strength of the ocean and the waves. You gain the following benefits for the next hour:
 

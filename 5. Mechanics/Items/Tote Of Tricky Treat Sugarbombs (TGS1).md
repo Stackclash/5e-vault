@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tote of Tricky Treat Sugarbombs
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Tote-of-Tricky-Treat-Sugarbombs.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This canvas bag holds `dice:5d8+10|noform|noparens|avg` (`5d8 + 10`) clove and pumpkin candies inside. A small illusory face appears over the sewn-on pumpkin at night. Each candy has a minor magical effect that lasts for 1 minute unless otherwise specified. Some effects are pleasant, whereas some are mischievous. You can eat a piece of candy using an action. When you do, roll on the table below to determine the candy's effect:
 

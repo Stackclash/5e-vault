@@ -15,11 +15,17 @@ attunement-requirement:
   - higher
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Orange Cicatrizer's Debt
 *Wondrous item, major, legendary (requires attunement by a creature with a wisdom score of 17 or higher)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Orange-Cicatrizers-Debt.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wide-collared necklace is made with beads, precious metals, and amber. While you have at least half your Hit Dice remaining, you can use an action to spend 1 of them and regain a number of hit points equal to your Constitution modifier plus the maximum number possible on the die.
 

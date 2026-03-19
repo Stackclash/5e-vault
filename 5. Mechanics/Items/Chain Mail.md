@@ -18,6 +18,9 @@ rarity: none
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chain Mail
 *Heavy armor*  
@@ -27,6 +30,9 @@ subtype:
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: 75 gp
 - **Weight**: 55.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
 

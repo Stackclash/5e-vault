@@ -14,11 +14,17 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candle
 *Adventuring gear*  
 
 - **Cost**: 1 cp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 

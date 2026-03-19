@@ -12,11 +12,17 @@ attunement: true
 attunement-requirement:
   - spellcaster
 rarity: very-rare
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Talisman of Nature's Wrath
 *Wondrous item, very rare (requires attunement by a spellcaster)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This talisman has 4 charges and channels energy from the elemental plane, bolstering your magic with primal power. If you [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|cast a spell]] that deals either fire, cold, lightning, or thunder damage, you may expend a charge in order to give that spell an additional effect as determined by its damage type:
 

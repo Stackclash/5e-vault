@@ -13,11 +13,17 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Ogre Strength
 *Potion, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you Strength score changes to 17 for one hour. This potion has no effect on you if your Strength score is equal to or greater than that score. This potion is a pale yellow with a reddish tinge.
 

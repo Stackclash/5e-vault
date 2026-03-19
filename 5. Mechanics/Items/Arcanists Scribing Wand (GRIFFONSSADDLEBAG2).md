@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Arcanist's Scribing Wand
 *Wand, major, rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Arcanists-Scribing-Wand.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand's handle has a fountain pen nib at its end that releases its own magical ink. When you use this pen to copy a spell into your spellbook, the gold it takes to do so is halved. Swinging the wand causes tiny droplets of illusory ink to trail behind it.
 

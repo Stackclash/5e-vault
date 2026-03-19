@@ -9,11 +9,17 @@ aliases:
   - Electric Gittern
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Electric Gittern
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Electric-Gittern.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This instrument is strung with the gut of a behir, causing it to crackle with electricity whenever it's played. If you're proficient with lutes, you're considered proficient with the gittern. The gittern has 8 charges and regains up to 4 expended charges daily at dawn, or all expended charges if it's been played for at least 1 hour since the last dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the gittern breaks in half with a sad, off-key whine, and its magic is lost.
 

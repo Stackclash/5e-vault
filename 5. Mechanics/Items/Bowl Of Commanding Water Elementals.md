@@ -12,12 +12,18 @@ weight: 3
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous item, major, rare*  
 ![[/5. Mechanics/Items/img/bowl-of-commanding-water-elementals.webp#right]]  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While this bowl is filled with water, you can use an action to speak the bowl's command word and summon a [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]], as if you had cast the [[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] spell. The bowl can't be used this way again until the next dawn.
 

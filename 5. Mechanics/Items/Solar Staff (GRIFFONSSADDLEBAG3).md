@@ -27,6 +27,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Solar Staff
 *Staff, weapon, major, very rare (requires attunement by a cleric, druid, sorcerer, or wizard)*  
@@ -37,6 +40,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff ends in an open semi-circle at its head. While holding it, you can use a bonus action to cause a floating orb of pure radiance to spring into existence at the center of the half-circle, or to make the orb disappear. The orb sheds bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight.
 

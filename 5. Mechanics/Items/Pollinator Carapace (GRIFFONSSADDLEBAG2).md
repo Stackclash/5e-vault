@@ -25,11 +25,17 @@ type: armor
 subtype:
   - light
   - medium
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Pollinator Carapace
 *Major, uncommon (requires attunement by a druid or ranger)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Pollinator-Carapace.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This black and yellow armor has a billowing plume of soft fur around its neck and chest. Draped over its shoulders is a scalloped cape that's split into two translucent, wing-like ends.
 

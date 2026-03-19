@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Book of Clothier's Croquis
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Book-of-Clothiers-Croquis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic book has only the basic outline of a humanoid drawn on each of its pages. When found, the book has `dice:2d6+8|noform|noparens|avg` (`2d6 + 8`) remaining pages inside. If you spend at least 10 minutes drawing a detailed set of clothes on the outlined humanoid, the page becomes charged with magic. A creature holding a torn-out sheet of charged paper can use its action to speak the book's command phrase, causing the drawn clothes to either magically appear on its body or transform any similar, overlapping garment it's already wearing to match the new appearance. The sheet of paper then turns to dust and is destroyed. If the creature isn't humanoid, the clothes fit as best they can as determined by the GM.
 

@@ -10,11 +10,17 @@ aliases:
   - Mistwalkers
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mistwalkers
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mistwalkers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Your walking speed is increased by 10 feet while wearing these boots. While in fog, you have a flying speed equal to your walking speed; you move through the air as if you're walking.
 

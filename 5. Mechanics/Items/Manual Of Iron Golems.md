@@ -12,12 +12,18 @@ weight: 5
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Manual of Iron Golems
 *Wondrous item, major, very rare*  
 ![[/5. Mechanics/Items/img/manual-of-iron-golems.webp#right]]  
 
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tome contains information and incantations necessary to make a particular type of golem. The DM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a manual of golems and attempts to read it takes `dice:6d6|noform|noparens|avg` (`6d6`) psychic damage.
 

@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Toadstone
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Toadstone.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small jade carving of a frog dangles from a simple cord of leather to be worn as a necklace. While you wear it, you gain a swimming speed equal to your walking speed and can hold your breath for up to 1 hour. In addition, you can cast the [[/5. Mechanics/Spells/Jump.md\|jump]] spell using the necklace, targeting only yourself. Once the necklace has been used to cast this spell, it can't do so again until the next dusk.
 

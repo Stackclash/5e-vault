@@ -14,12 +14,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Assassin's Blood
 *Adventuring gear, poison (ingested)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Poison\|Poison]]
 - **Cost**: 150 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes `dice:1d12|noform|noparens|avg|text(6)` (`1d12`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 24 hours. On a successful save, the creature takes half damage and isn't [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].
 

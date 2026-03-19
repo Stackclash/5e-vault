@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Torchbearer's Sling
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An empty brazier hangs suspended at the center of this sling. Any Tiny nonmagical flammable object or sling bullet that's placed in the brazier immediately sputters and catches fire, shedding bright light in a 20 foot radius and dim light for an additional 20 feet. If a sling bullet is launched from the weapon, it deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) fire damage to any target it hits. The bullet then quickly extinguishes.
 

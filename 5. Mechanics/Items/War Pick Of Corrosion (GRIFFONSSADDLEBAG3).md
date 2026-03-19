@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # War Pick of Corrosion
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement)*  
@@ -28,6 +31,9 @@ subtype:
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weapon resembles the head of an ancient black dragon: its two horns curl behind its head to form the weapon's sharp pick. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) acid damage to any target it hits. This extra acid damage is doubled if the target is made of metal or is wearing metal armor.
 

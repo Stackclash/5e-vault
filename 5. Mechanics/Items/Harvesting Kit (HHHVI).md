@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - tool
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Harvesting Kit
 *Tool*  
 
 - **Cost**: 30 gp
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This kit contains everything the average harvester needs to prepare and harvest a carcass for usable parts including a skinning knife, a bonesaw, 2 [[/5. Mechanics/Items/Vi(AL).md\|glass vials]], [[/5. Mechanics/Items/Pouch.md\|pouches]] of salt, and tweezers. Proficiency with this kit lets you add your proficiency to any check made to "harvest" a creature.
 

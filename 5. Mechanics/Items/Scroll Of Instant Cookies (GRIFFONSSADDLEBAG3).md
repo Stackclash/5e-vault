@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Instant Cookies
 *Scroll, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-Instant-Cookies.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 5-foot scroll of parchment is wrapped around a rolling pin. You can use an action to unroll 1 or more feet of the parchment, pressing it against a solid surface while you do. The pressed parchment immediately transforms into a pastry dough that's been freshly baked and cut into rows of delicious cookies. You choose the shape and flavor of the cookies each time you use the scroll. Every foot of scroll creates 18 cookies when pressed.
 

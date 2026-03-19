@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Monsterbane Lasher
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, very rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mithral whip was once used by a powerful monster hunter. You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, targets hit by the whip take an extra `dice:1d4|noform|noparens|avg` (`1d4`) slashing damage from its attacks.
 

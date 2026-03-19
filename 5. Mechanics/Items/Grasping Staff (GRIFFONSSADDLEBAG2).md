@@ -20,6 +20,9 @@ tier: major
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Grasping Staff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, major, very rare*  
@@ -30,6 +33,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This grotesquely carved stone staff is miraculously light but deathly cold and clammy to the touch. You have resistance to necrotic damage while you hold this staff.
 

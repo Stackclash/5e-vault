@@ -9,11 +9,17 @@ aliases:
   - Skulldugger's Spade
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Skulldugger's Spade
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Skullduggers-Spade.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this spade, you can use an action to touch it to the ground in an unoccupied space and speak its command word. When you do, you immediately remove and destroy up to ten contiguous 5-foot cubes of unworked dirt or stone, starting from the space you touched with the spade; each cube must have at least one face adjacent to the face of another cube. If doing so creates a hole, its openings are immediately obscured by an illusion of the original dirt or stone, as if by the hallucinatory terrain spell (save DC 15), which remains for 8 hours.
 

@@ -10,11 +10,17 @@ aliases:
   - Potentate's Chess Set
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Potentate's Chess Set
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Potentates-Chess-Set.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When found, this chess set is missing half its pieces. The set is contained within a case, which often doubles as the board when opened up. The case itself isn't magical, but the pieces within it are. While the set is on your person and within its case, you can use an action to invoke one of its magical pieces. When you do, a spectral, Medium replica of that piece appears at your location before beginning to move.
 

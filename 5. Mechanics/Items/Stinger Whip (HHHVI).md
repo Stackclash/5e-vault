@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stinger Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare*  
@@ -26,6 +29,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this weapon. This retrofitted tail has a compartment fitted into where the bone devil's poisonous gland would have been, that allows for easier and more efficient uses of poisons. Any poison applied to this weapon lasts twice as long as it normally does and takes half as long to apply. Furthermore, if a creature must roll a Constitution saving throw due to a poison applied to this weapon, that saving throw is made at disadvantage.
 

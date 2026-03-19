@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Calligrapher's Shade
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Calligraphers-Shade.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fountain pen is a favorite among calligraphers and tattoo artists in Ilridun. A small vial is built into the pen as part of its bulbous, yet strangely comfortable handle, and can be filled with ink to supply the pen with a constant flow of it while writing. You gain a +1 bonus to ability checks with [[/5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]] while using this pen, even if you aren't attuned to it.
 

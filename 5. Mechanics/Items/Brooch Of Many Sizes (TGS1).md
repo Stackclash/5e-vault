@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Brooch of Many Sizes
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Brooch-of-Many-Sizes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This metal brooch features a rotatable dial and can be used to secure a cape or adorn a piece of clothing. While wearing the brooch, you can use an action to cast the [[/5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]] spell, targeting only yourself, by turning the dial toward either the larger or smaller figure adorning the sides of the brooch. Once this property of the brooch has been used, it can't be used again until the following dawn.
 

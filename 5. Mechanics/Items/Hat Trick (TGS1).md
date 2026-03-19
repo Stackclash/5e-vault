@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Hat Trick
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Hat-Trick.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gaudy purple hat allows the wearer to perform some minor magical feats. The hat has 3 charges and regains 1 expended charge daily at dawn. While holding the hat, you can expend 1 of its charges as an action to cast the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell from it, pulling the familiar from the hat. The summoned familiar must take the form of either a rabbit or dove, using the statistics for a [[/5. Mechanics/Bestiary/Beast/Weasel.md\|weasel]] or [[/5. Mechanics/Bestiary/Beast/Owl.md\|owl]], respectively. The familiar remains for up to 1 minute, instead of its normal duration, and cannot be used to deliver spells.
 

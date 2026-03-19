@@ -13,11 +13,17 @@ rarity: common
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Ruined Flesh
 *Potion, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you must succeed on a DC 14 Constitution saving throw or break out in severe boils all over your body and have all your bodily hair fall off. This condition remains for 24 hours, after which you return to your normal state, including the regrowth of all the hair you may have lost.
 

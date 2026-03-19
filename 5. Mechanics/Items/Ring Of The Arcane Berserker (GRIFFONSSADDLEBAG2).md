@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Ring of the Arcane Berserker
 *Ring, major, rare (requires attunement by a barbarian)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ring-of-the-Arcane-Berserker.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark silver ring is decorated by a metallic skull with an amethyst gemstone embedded in its forehead. While wearing the ring, you can use an action to cast the [[/5. Mechanics/Spells/Chill Touch.md\|chill touch]] spell (+5 to hit with ranged spell attack) from it.
 

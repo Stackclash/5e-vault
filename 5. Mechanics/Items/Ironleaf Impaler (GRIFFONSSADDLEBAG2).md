@@ -21,11 +21,17 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Ironleaf Impaler
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ironleaf-Impaler.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden weapon is sprouted from a roughly fistsized seed that's still attached to its base. A large, red thorn creates the weapon's pointed tip. Dense, thorny vines coil around the top and bottom of the haft, with small, glowing splits appearing in the wood beneath them. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bucket
 *Adventuring gear*  
 
 - **Cost**: 5 cp
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A bucket holds 3 gallons of liquid or ½ cubic foot of solids.
 

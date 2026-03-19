@@ -9,11 +9,17 @@ aliases:
   - Chime of Exile
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chime of Exile
 *Wondrous item, very rare*  
 ![[/5. Mechanics/Items/img/chime-of-exile.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver chime is engraved with delicate magic sigils. While holding the chime, you can use an action to cast the [[/5. Mechanics/Spells/Banishment.md\|Banishment]] spell (spell save DC 20). If the target of the spell has 50 hit points or fewer, it automatically fails its saving throw. Once the chime has been used to cast the spell, it can't be used this way again until the next dawn.
 

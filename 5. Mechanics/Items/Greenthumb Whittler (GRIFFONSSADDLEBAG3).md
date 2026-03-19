@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Greenthumb Whittler
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Greenthumb-Whittler.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small whittling knife has a green blade and can be used in place of a set of [[/5. Mechanics/Items/Woodcarvers Tools.md\|woodcarver's tools]]. Its wooden handle is decorated with carvings of soft leaves and fitted with a verdant, opal-like gemstone ring.
 

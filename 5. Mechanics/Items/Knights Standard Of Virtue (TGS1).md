@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Knight's Standard of Virtue
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While wielding this decorated glaive, you radiate righteousness. You and other friendly creatures within 10 feet of you are considered proficient in saving throws made to resist becoming [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]]. In addition, when a friendly creature you can see within 10 feet of you takes damage, you can use your reaction to magically reduce the damage they take by up to 5. When you do, you take force damage equal to the amount of damage you reduced in this way.
 

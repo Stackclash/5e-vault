@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Honor
 *Ring, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ring-of-Honor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden ring is shaped like a crown. It can hold up to 5 charges and gains 1 charge each time you slay a Small or larger hostile creature while wearing it. The ring loses all charges if you're reduced to 0 hit points or remove it.
 

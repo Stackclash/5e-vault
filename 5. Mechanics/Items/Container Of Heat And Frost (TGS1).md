@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Container of Heat and Frost
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Container-of-Heat-and-Frost.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heavy iron container is adorned with 3 arcane symbols along the edge of its removable lid. The container can hold up to 1 gallon of liquid. As an action, you can press 1 of the container's arcane glyphs to heat the liquid inside to a boil (212 degrees Fahrenheit), chill it (33 degrees Fahrenheit), or maintain its current temperature (keeping it between 33 and 212 degrees Fahrenheit). Once pressed, the selected glyph glows either red, blue, or yellow, respectively.
 

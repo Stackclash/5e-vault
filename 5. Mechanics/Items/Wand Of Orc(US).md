@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Orcus
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), wand, artifact (requires attunement)*  
@@ -27,6 +30,9 @@ subtype:
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The ghastly Wand of Orcus rarely leaves [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus's]] side. The device, as evil as its creator, shares the demon lord's aims to snuff out the lives of all living things and bind the Material Plane in the stasis of undeath. [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] allows the wand to slip from his grasp from time to time. When it does, it magically appears wherever its master senses an opportunity to achieve some fell goal.
 

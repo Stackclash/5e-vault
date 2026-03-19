@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chronal Sphere
 *Wondrous item, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Chronal-Sphere.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass sphere is roughly fist-sized and weighs 1 pound. It vibrates gently while you hold it as tiny mechanisms whir inside. While holding the sphere, you can use a bonus action to speak its command word, causing spectral clock hands to appear on its curved surface and indicate the current time. The hands remain on the surface of the sphere until you speak the command word again. This property only functions on the Material Plane.
 

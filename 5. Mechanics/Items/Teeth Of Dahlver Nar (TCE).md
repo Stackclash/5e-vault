@@ -10,11 +10,17 @@ aliases:
   - Teeth of Dahlver-Nar
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Teeth of Dahlver-Nar
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/teeth-of-dahlver-nar.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The Teeth of Dahlver-Nar are stories given form. They are a collection of teeth, each suggestive of wildly different origins and made from various materials. The collection rests within a leather pouch, stitched with images of heroes and whimsical creatures. Where the teeth fall, they bring legends to life.
 

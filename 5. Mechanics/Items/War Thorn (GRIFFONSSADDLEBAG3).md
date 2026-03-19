@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # War Thorn
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, uncommon*  
@@ -27,6 +30,9 @@ subtype:
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A large thorn grows from this magic war pick's wooden haft to form the head of the weapon. When you use this weapon to hit a creature with an opportunity attack as the result of that creature's movement, that creature's speed is reduced by 10 feet until the end of the turn.
 

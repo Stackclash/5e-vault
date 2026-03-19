@@ -10,11 +10,17 @@ aliases:
   - Boots of Stone Strength
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boots of Stone Strength
 *Wondrous item, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These hard-toed boots grant their wearer the sturdiness of the earth itself. While wearing these boots and standing on either stone or soil, you gain the following benefits:
 

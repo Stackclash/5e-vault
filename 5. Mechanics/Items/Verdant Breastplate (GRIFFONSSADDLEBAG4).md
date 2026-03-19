@@ -16,6 +16,9 @@ rarity: rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Verdant Breastplate
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), rare (requires attunement)*  
@@ -23,6 +26,9 @@ subtype:
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When found, this breastplate resembles a leather cuirass covered in large, dried leaves. Once you wear and attune to it, however, it springs to life and flourishes; its leaves remain pliable and flexible, but harden against incoming harm to protect you. Sleeping in this armor has no adverse effect on you.
 

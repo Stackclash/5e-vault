@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Radiant Quiver (rare)
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Radiant-Quiver.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A radiant quiver produces special ammunition for your ranged weapon attacks. The ammunition is made of pure light, and appears in your hand when you reach into it without picking a different piece of ammunition. If the quiver is kept in direct sunlight for at least 1 hour, it magically produces up to 20 pieces of the special ammunition at the end of the hour.
 

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Xibalban Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This toothed obsidian blade absorbs any blood that's left on it. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature that is not a construct, plant, or undead with this sword, that creature takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage.
 

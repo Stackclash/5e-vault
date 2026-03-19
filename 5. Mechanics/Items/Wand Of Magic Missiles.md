@@ -16,12 +16,18 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Magic Missiles
 *Wand, major, uncommon*  
 ![[/5. Mechanics/Items/img/wand-of-magic-missiles.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 

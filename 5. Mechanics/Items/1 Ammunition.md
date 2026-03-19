@@ -28,10 +28,16 @@ type: gear
 subtype:
   - ammunition
   - ammunition-firearm
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # +1 Ammunition
 *Ammunition, minor, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 

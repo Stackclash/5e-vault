@@ -26,6 +26,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Phantom Fire Staff
 *Staff, weapon, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -36,6 +39,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden staff is made from the gnarled branch of a tree. While holding it, a swirling blue flame appears at the center of its burnt, claw-shaped head. The flame sheds bright light in a 20-foot radius and dim light for an additional 20 feet. While the fire burns, will-o'-wisps are indifferent toward any creature within the flame's bright light and will not attack you unless you threaten or harm them. You can use a bonus action while holding the staff to snuff out the light or rekindle it.
 

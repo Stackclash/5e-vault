@@ -9,11 +9,17 @@ aliases:
   - Minotaur Compass
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Minotaur Compass
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you hold this compass and focus on a location that you have been to, this compass points you in the direction you would need to take to retrace your steps back to that location, so long as it is on the same plane of existence as you. This may not necessarily be the fastest or the most direct route, especially if you have taken many detours since leaving that location last.
 

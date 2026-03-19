@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rations (1 day)
 *Adventuring gear*  
 
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
 

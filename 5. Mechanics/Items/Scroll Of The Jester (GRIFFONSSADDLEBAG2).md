@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of the Jester
 *Scroll, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Scroll-of-the-Jester.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Using an action to read this scroll, your appearance magically changes to become a jester. At the same time, 8 perfect illusions of jesters that are identical to you appear in random unoccupied spaces within 30 feet of you. When the jesters appear, each creature of your choice within 60 feet of you must succeed on a DC 15 Wisdom saving throw or be charmed by you as if you had cast the [[/5. Mechanics/Spells/Enthrall.md\|enthrall]] spell (no concentration required).
 

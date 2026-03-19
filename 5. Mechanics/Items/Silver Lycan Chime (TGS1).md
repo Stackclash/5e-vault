@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Lycan Chime
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Silver-Lycan-Chime.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small silver bell exudes divination magic, especially while under a full moon. When hung, the bell rings a unique, magical melody if a shapechanger passes no more than 15 feet underneath it. Different kinds of shapechangers cause the bell to emit a different sound. The melody is quiet but is nevertheless audible out to 100 feet.
 

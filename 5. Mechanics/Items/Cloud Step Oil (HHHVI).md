@@ -13,11 +13,17 @@ rarity: very-rare
 type: gear
 subtype:
   - oil
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloud Step Oil
 *Oil, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When some of this oil is poured out, it immediately has a reaction to the air around it and magically expands into a semi-solid cloud that is capable of floating while holding weight on top of it. Up to 50 pounds of weight per square foot can be placed on one of these clouds. If more weight than this is placed on it, that section of cloud disappears instantly. Clouds are self-supporting in the air but can also be used to make structures such as bridges using careful placement of the oil. Clouds weigh virtually nothing and can be moved around if external force is applied to them.
 

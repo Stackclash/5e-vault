@@ -12,10 +12,16 @@ attunement: true
 attunement-requirement:
   - creature of evil alignment.
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Infernal Tack
 *Wondrous item, legendary (requires attunement by a creature of evil alignment.)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A rider binds a [[/5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]] to its service with infernal tack, which consists of a bridle, bit, reins, saddle, and stirrups, along with spurs that are worn by the rider. A nightmare equipped with infernal tack must serve whoever wears the spurs until the wearer dies or the tack is removed.
 

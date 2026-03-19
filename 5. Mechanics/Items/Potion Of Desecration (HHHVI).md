@@ -13,11 +13,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Desecration
 *Potion, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you become cursed. While cursed in this way, you gain [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to 120 ft. if you did not have it already, and whenever you receive necrotic damage, you instead heal the amount of damage you would have taken. In addition, whenever an undead creature with less than 10 Intelligence targets you with a harmful attack or spell, it must first make a DC 18 Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell.
 

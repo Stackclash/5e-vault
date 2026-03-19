@@ -9,11 +9,17 @@ aliases:
   - Lucky Bowl
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Lucky Bowl
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Lucky-Bowl.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bowl is embossed with various laughing monks. A ring is attached to its lip for easy carrying on a belt. When you make an ability check to use the bowl to beg or busk, you gain a +5 bonus to the roll. A creature that drops one or more coins in the bowl magically hears a soft and bell-like laugh from it.
 

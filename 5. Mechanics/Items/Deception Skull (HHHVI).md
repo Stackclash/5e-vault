@@ -9,11 +9,17 @@ aliases:
   - Deception Skull
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deception Skull
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this item, you may spend an action to mentally command this item to mimic an animal sound or humanoid voice that you have heard before. This item will continuously create those sounds for up to 10 minutes or until you spend an action while holding it to command it to stop.
 

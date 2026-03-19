@@ -27,11 +27,17 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Weapon of Verdict
 *Major, uncommon (requires attunement by a creature of good alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Weapon-of-Verdict.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These polished wooden weapons are traditionally used by the clerics and paladins of a righteous order to punish evildoers and aid the needy. Each of these magic weapons is blessed by a powerful priest or celestial. A weapon of verdict has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) charges daily at dawn. You can use these charges to create the following effects:
 

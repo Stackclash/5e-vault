@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Hidden Agenda
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/The-Hidden-Agenda.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This paired brooch and signet ring are typically found together in a fine wooden case, and are a favorite among elite spies and unscrupulous politicians. While wearing the brooch and ring together, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) and Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) checks. The brooch resembles a gilded quill, and the ring has a pair of feathers on either side that encircle a deep blue sapphire.
 

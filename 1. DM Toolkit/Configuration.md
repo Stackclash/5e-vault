@@ -109,6 +109,23 @@ shop_sizes:
   - name: Large
     rarity: rare
     count: 1d2
+item_pricing:
+  base_prices:
+    none: 0
+    common: 10000
+    uncommon: 40000
+    rare: 400000
+    very-rare: 4000000
+    legendary: 20000000
+  tier_modifiers:
+    minor: 0.75
+    major: 1.5
+  consumable_modifier: 0.5
+  attunement_modifier: 0.9
+  recharge_modifiers:
+    dawn: 0.9
+    short-rest: 0.95
+    long-rest: 0.85
 ---
 > [!infobox|n-th]
 > | | |
@@ -199,7 +216,7 @@ actions:
 
 # Configuration
 ```meta-bind
-INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Mapping'), option(3, 'Shop Configuration'), class(tabbed))]
+INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Mapping'), option(3, 'Shop Configuration'), option(4, 'Item Pricing'), class(tabbed))]
 ```
 >[!tabbed-box]
 >>[!div-m] File Location Configuration
@@ -313,6 +330,28 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-shop-size-${i}\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: remove\n      field: shop_sizes\n      index: ${i}\n\`\`\``
 >>   ]))
 >> ```
+>
+>> [!div-m] Item Pricing
+>> > [!columns|no-t 2]
+>> >> ## Base Prices (cp)
+>> >> |||
+>> >> |:---:|:---:|
+>> >> | Common | `INPUT[number:item_pricing.base_prices.common]` |
+>> >> | Uncommon | `INPUT[number:item_pricing.base_prices.uncommon]` |
+>> >> | Rare | `INPUT[number:item_pricing.base_prices.rare]` |
+>> >> | Very Rare | `INPUT[number:item_pricing.base_prices["very-rare"]]` |
+>> >> | Legendary | `INPUT[number:item_pricing.base_prices.legendary]` |
+>> >
+>> >> ## Modifiers
+>> >> |||
+>> >> |:---:|:---:|
+>> >> | Minor Tier | `INPUT[number:item_pricing.tier_modifiers.minor]` |
+>> >> | Major Tier | `INPUT[number:item_pricing.tier_modifiers.major]` |
+>> >> | Consumable | `INPUT[number:item_pricing.consumable_modifier]` |
+>> >> | Attunement | `INPUT[number:item_pricing.attunement_modifier]` |
+>> >> | Recharge: Dawn | `INPUT[number:item_pricing.recharge_modifiers.dawn]` |
+>> >> | Recharge: Short Rest | `INPUT[number:item_pricing.recharge_modifiers["short-rest"]]` |
+>> >> | Recharge: Long Rest | `INPUT[number:item_pricing.recharge_modifiers["long-rest"]]` |
 
 # Stats
 ```datacorejsx

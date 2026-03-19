@@ -10,12 +10,18 @@ aliases:
 weight: 40
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Storm Pole
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 10-foot-long, 40-pound pole constantly crackles with energy and has an innate connection to the storms and clouds. As long as this pole is planted in the ground and under an open sky, a lightning bolt will strike it from the skies every `dice:1d4|noform|noparens|avg` (`1d4`) hours. Any creature within 5 feet of the pole when this happens suffers `dice:12d8|noform|noparens|avg` (`12d8`) lightning damage, or half that on a successful DC 17 Dexterity saving throw.
 

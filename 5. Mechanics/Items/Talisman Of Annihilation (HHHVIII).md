@@ -9,11 +9,17 @@ aliases:
   - Talisman of Annihilation
 attunement: false
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Talisman of Annihilation
 *Wondrous item, legendary*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this talisman, you may use your bonus action to exude an aura of anti-life in a 30-foot radius around you until the start of your next turn. Any creature in the aura that attempts to recover hit points must make a DC 21 Constitution saving throw. On a failure, they recover 0 hit points instead. Undead are immune to this aura.
 

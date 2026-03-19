@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Camilla's Quicksilver Mirror
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Camillas-Quicksilver-Mirror.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hand mirror is roughly 1 foot tall and weighs 1 pound. While gazing into its reflective surface, you see a version of yourself that's ever-so-slightly different. For example, your legs may bend the opposite direction, your eyes may be pitch black, or your reflection simply takes a moment to match whatever it is you're doing. If you look at your reflection in the mirror while holding it and aren't attuned to the mirror, you are forced to make a DC 16 Wisdom saving throw. On a failed save, you are [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of the mirror, are unable to look away from or let go of it, and your speed becomes 0 for the duration. You can repeat this saving throw at the start of each of your turns or whenever you take damage while [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this way, ending the effect on a success. If you can't see the mirror, you have advantage on the saving throw. On a successful save, you are immune to this effect for 24 hours.
 

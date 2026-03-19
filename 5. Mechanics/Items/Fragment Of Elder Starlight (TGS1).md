@@ -12,12 +12,18 @@ weight: 3
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fragment of Elder Starlight
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Fragment-of-Elder-Starlight.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This smooth, egg-shaped crystal is about 6 inches tall, weighs 3 pounds, and sheds bright light out to 20 feet and dim light for an additional 20 feet. The light is sunlight. You can touch the crystal and mentally control its brightness as a bonus action to enlarge, reduce, or snuff out the light's reach up to its maximum range.
 

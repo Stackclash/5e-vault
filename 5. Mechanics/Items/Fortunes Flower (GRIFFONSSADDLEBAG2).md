@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fortune's Flower
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Fortunes-Flower.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These magic flowers are said to bring good luck and are often given as gifts at weddings. You can use an action to pull off and drop one of the flower's five petals. When you do, there is a 5 percent chance that the petal glimmers in a flash of light as a rune is burnt into it, recreating the effects of the [[/5. Mechanics/Spells/Augury.md\|augury]] spell. When it does, `dice:1d6|noform|noparens|avg` (`1d6`) new fortune's flowers grow at that petal's location after 30 days if the ground is suited for growth.
 

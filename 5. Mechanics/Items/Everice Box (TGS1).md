@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Everice Box
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Everice-Box.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large wooden box weighs 25 pounds and is 3 feet long and both 2 feet deep and tall. It has rugged ropes on its left and right sides as well as on the top of its lid. The left and right sides of the box are covered by enchanted slabs of stone that magically keep the contents on the inside of the box at a consistent 40 degrees Fahrenheit. The box can hold up to 10 gallons of liquid, 24 rations, or a Small or smaller creature. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach from the box on a success.
 

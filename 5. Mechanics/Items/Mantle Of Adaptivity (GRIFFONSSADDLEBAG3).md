@@ -14,11 +14,17 @@ attunement-requirement:
   - human
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Mantle of Adaptivity
 *Wondrous item, major, rare (requires attunement by a human)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mantle-of-Adaptivity.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cloak brings out the tenacity and adaptivity of any human who wears it. Choose one of the following options daily at dawn. You gain the benefits of that property while wearing the mantle.
 

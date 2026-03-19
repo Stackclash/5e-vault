@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aciurgist's Blade
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, very rare (requires attunement by a paladin)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This smooth, magic glaive bears holy sigils and oaths down the length of its haft and is always impeccably clean. While holding it, your reach increases by 5 feet when using your Lay on Hands feature.
 

@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arkanotars
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), very rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Arkanotars are weapons from a far-flung age and can sometimes be found in the lairs of sphinxes that have traveled through time. They always come in pairs, and can only be used when worn together. It takes an action to don or doff the arkanotars.
 

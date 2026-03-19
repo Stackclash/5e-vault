@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fool's Mantle
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Fools-Mantle-.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hooded mantle of bells and pomp jingles with every step you take. While wearing the mantle, you can use a bonus action to change its appearance, even if you aren't attuned to it. The new appearance is illusory, which doesn't hold up to physical inspection, and must be either a cape, hat, hood, or mantle. The mantle's appearance remains this way until you use a bonus action to change it again or remove the mantle. If you're attuned to it, the bells only jingle when you choose.
 

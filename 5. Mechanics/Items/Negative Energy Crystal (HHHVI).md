@@ -9,11 +9,17 @@ aliases:
   - Negative Energy Crystal
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Negative Energy Crystal
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This roughly basket sized crystal generates a 150-foot radius field of negative energy that disrupts the natural flow of life in the area. While in this field, creatures cannot regain hit points, and any humanoid that dies inside it rises one round later as a [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]]. This field passes through all solid objects except a layer of silver that is at least 1/2 inch thick. This crystal cannot be deactivated and only stops functioning if it is destroyed.
 

@@ -10,11 +10,17 @@ aliases:
   - Monocle of Focus
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Monocle of Focus
 *Wondrous item, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this item, you may spend an action to focus on a creature you can see within 60 feet of you and designate them as your target. You never suffer from disadvantage when you make weapon attacks against your target, and any opportunity attacks you make against your target is done at advantage.
 

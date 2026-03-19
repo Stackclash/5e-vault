@@ -13,11 +13,17 @@ rarity: rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Wond of Fireballs
 *Wand, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Wond-of-Fireballs.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand functions as a [[/5. Mechanics/Items/Wand Of Fireballs.md\|wand of fireballs]]. However, during the wand's creation, the spell's transcription was riddled with arcane mistakes. As a result, using an action to cast [[/5. Mechanics/Spells/Fireball.md\|fireball]] from the wand can lead to unpredictable outcomes.
 

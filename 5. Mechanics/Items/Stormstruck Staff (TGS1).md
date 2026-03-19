@@ -19,6 +19,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stormstruck Staff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare*  
@@ -29,6 +32,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden staff has been scarred by lightning and embedded with an amplifying crystal at its head. You gain a +1 bonus to attack and damage rolls made with this magic weapon. Small sparks of electricity arc from the crystal, dealing an extra 1 lightning damage to any target hit by the weapon. The gem glows brilliantly and pulses with electrical energy for 1 minute after either the quarterstaff takes lightning damage or you take lightning damage while holding it from any source (other than itself), or while the weapon is under the effects of the [[/5. Mechanics/Spells/Shillelagh.md\|shillelagh]] spell. While the gem is glowing in this way, the extra lightning damage increases to `dice:1d6|noform|noparens|avg` (`1d6`), and the gem emits bright light out to 10 feet and dim light for an additional 10 feet.
 

@@ -13,11 +13,17 @@ attunement-requirement:
   - warlock
   - wizard
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necromancer's Lantern
 *Wondrous item, rare (requires attunement by a warlock or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Necromancers-Lantern.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this grisly lantern, you can use a bonus action to speak its first command word. The lantern then springs alight, shedding bright light in a 30-foot radius and dim light for an additional 30 feet; the light is a sickly green. Speaking the command word again using a bonus action extinguishes the lantern.
 

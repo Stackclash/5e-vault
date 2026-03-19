@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloth of Instant Tables
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Cloth-of-Instant-Tables.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rolled up table cloth is secured by a wood-patterned ring. You can use an action to slide the cloth from the ring and flourish it as if you're about to set a table with it. When you do, a wooden table magically appears on the ground beneath the cloth, provided that there's space for it. The table is 3 feet wide and 5 feet long; the cloth's ring is wrapped around one of its four legs, which can hold as much weight as a normal table's. The table is equipped with two attached benches, which can comfortably sit up to 4 Medium creatures.
 

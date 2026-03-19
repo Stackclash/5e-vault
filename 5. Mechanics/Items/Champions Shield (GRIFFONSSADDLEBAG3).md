@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Champion's Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare*  
@@ -21,6 +24,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This round metal shield is magically covered with `dice:1d4|noform|noparens|avg` (`1d4`) designs of mighty foes, such as dragons, vampires, or krakens. While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC. In addition, you gain 10 temporary hit points each time a creature within 120 feet of you uses a legendary action; these temporary hit points end early if you are no longer holding the shield. If a creature with legendary actions is slain within that range, a new etching depicting that creature's final moments appears amongst the other images. When a creature uses a legendary action to make an attack roll against you or force you to make a saving throw, you can use your reaction while holding the shield to impose disadvantage on the attack roll or grant yourself advantage on the saving throw.
 

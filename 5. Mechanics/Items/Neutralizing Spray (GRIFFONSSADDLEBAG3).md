@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Neutralizing Spray
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Neutralizing-Spray.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small bottle contains a mysterious clear liquid. It has an inflated cushion on its stopper that can be squeezed to spray the liquid from a small nozzle. You can use an action to spray the bottle into a space within 5 feet of you, dousing the area in a 5-foot cube. Any creature or object within the area becomes magically cleaned, as if by the [[/5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] spell, and if it would still have an odor even after being cleaned, the smell is suppressed for 10 minutes.
 

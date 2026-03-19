@@ -12,11 +12,17 @@ weight: 0.0625
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bead of Force
 *Wondrous item, minor, rare*  
 
 - **Weight**: 0.0625 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small black sphere measures ¾ of an inch in diameter and weighs an ounce. Typically, `dice:1d4+4|noform|noparens|avg` (`1d4 + 4`) *beads of force* are found together.
 

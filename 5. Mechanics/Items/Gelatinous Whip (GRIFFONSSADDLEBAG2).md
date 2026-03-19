@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gelatinous Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This whip was pulled from the ooze of a gelatinous cube. When motionless, the whip appears to be a sword hilt with a blob of ooze at its end. When you attack with this magic weapon, the ooze extends elastically to form the length of the whip. This whip adds 10 feet to your reach when you attack with it, instead of 5. Targets hit by this weapon are marked with an acidic residue. At the start of each of your turns, any marked target takes `dice:1d4|noform|noparens|avg` (`1d4`) acid damage, and the acidic residue disappears.
 

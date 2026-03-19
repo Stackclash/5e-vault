@@ -13,11 +13,17 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Pollution Breathing
 *Potion, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you become able to breathe in even the most polluted areas. You automatically succeed any Constitution saving throw provoked by breathing in a polluted, [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], or diseased air.
 

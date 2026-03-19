@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sickle of the Sphinx
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare (requires attunement by a creature with an intelligence score of 13 or higher)*  
@@ -32,6 +35,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The blade of this sickle is made of an azure crystal. Peering through the translucent blade conjures a flurry of existential questions to your mind. You gain a +1 bonus to any Intelligence check or Intelligence saving throw you make while attuned to the sickle. You're proficient with the sickle of the sphinx while you're attuned to it, and it deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage to any creature it hits.
 

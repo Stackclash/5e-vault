@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of the Soul Harvest
 *Ring, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ring-of-the-Soul-Harvest.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring has a design of a sickle and wheat at the top. Reversing the ring shows a design of longboats sailing toward a sunset, representing the afterlife. While wearing the ring, you regain 1 hit point whenever a Small or larger hostile creature is slain within 30 feet of you, provided that you're not [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] and the creature isn't a construct or undead. You can't regain more than 1 hit point per turn in this way.
 

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Emberheart Hammer
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), major, legendary (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d10 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hammer was forged by Loth'remar, one of the founding dwarves of the city of Direstone. It was then given to the Emberheart clan of the same city, where it has served as a token to the lasting bond between their two families. When swung, the head of the hammer emits a flash of forgefire before immediately cooling once more. You can use this weapon as part of a [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]] set. When you do, any check you make using those tools is made with advantage.
 

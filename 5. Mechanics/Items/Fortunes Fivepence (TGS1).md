@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 2
+item_recharge: none
 ---
 # Fortune's Fivepence
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Fortunes-Fivepence.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This electrum coin has a smiling human woman's face on one side (heads) and a scowling fiendish woman's face on the other (tails). While you're within 30 feet of the coin, you can summon it to either your hand or pocket by speaking its command word as a bonus action. Despite its unique appearance, this coin can be spent like a normal coin.
 

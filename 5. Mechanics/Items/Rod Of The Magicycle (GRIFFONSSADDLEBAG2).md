@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of the Magicycle
 *Rod, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rod-of-the-Magicycle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sturdy antler rod is capped on either end with a plush leather handle. You can twist the two handles in opposite directions as an action, releasing an unearthly roar audible out to 100 feet and causing the rod to magically split apart and form a powerful, two-wheeled vehicle made of wood, with the rod's handles at its front. You can twist the handles again as an action to return the vehicle to its rod form. The vehicle can appear underneath you, with you standing astride it, or in an empty space within 5 feet of you (your choice). The vehicle is a Medium magical object, called a magicycle, and has the following properties:
 

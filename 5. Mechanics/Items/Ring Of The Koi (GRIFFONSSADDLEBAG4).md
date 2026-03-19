@@ -13,11 +13,17 @@ rarity: rare
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Ring of the Koi
 *Ring, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Ring-of-the-Koi.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring, you can breathe underwater, and you have a swimming speed equal to your walking speed. In addition, you can swim up waterfalls; doing so costs 2 feet of movement for every 1 foot you move.
 

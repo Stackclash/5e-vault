@@ -21,12 +21,18 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Rod of Resurrection
 *Rod, major, legendary (requires attunement by a cleric, druid, or paladin)*  
 ![[/5. Mechanics/Items/img/rod-of-resurrection.webp#right]]  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The rod has 5 charges. While you hold it, you can use an action to cast one of the following spells from it: [[/5. Mechanics/Spells/He(AL).md\|heal]] (expends 1 charge) or [[/5. Mechanics/Spells/Resurrection.md\|resurrection]] (expends 5 charges).
 

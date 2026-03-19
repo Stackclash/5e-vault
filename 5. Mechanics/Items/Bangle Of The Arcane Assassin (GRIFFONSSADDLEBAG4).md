@@ -12,11 +12,17 @@ attunement: true
 attunement-requirement:
   - spellcaster
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bangle of the Arcane Assassin
 *Wondrous item, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Bangle-of-the-Arcane-Assassin.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Once per turn while wearing this bangle, you can deal an extra `dice:3d6|noform|noparens|avg` (`3d6`) damage to one creature you hit with a spell attack if you have advantage on the attack roll. The damage is of a type dealt by the spell attack. If you're a rogue, you can choose for the amount of extra damage you deal to be equal to your Sneak Attack damage instead; you can still only deal Sneak Attack damage once per turn. If a spell would allow you to attack multiple times over the course of its duration, this extra damage can only be dealt on the turn the spell is cast.
 

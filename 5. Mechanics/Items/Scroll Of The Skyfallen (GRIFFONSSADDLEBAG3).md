@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of the Skyfallen
 *Scroll, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-the-Skyfallen.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sky-blue scroll flutters in a magical breeze and is written in Elvish. Faraway clouds can be seen floating in the background of its parchment and magically sputter into existence upon reaching the edge. Miniscule birds soar through the clouds, both on the paper and off.
 

@@ -16,12 +16,18 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ogramau's Graveyard
 *Wondrous item, major, very rare (requires attunement by a cleric or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ogramaus-Graveyard.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass orb has a miniature graveyard inside and has a base made from a hollowed humanoid skull. It's roughly fist-sized and weighs 1 pound. While the orb is on your person, undead creatures have disadvantage on attack rolls against you. If you're holding the orb, you can use an action to speak one of its two command words.
 

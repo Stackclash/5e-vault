@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Butcher
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), cursed item, artifact (requires attunement)*  
@@ -26,6 +29,9 @@ subtype:
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 It is commonly believed that the three-headed flail known as the Butcher was originally crafted by Yeenoghu himself from the thigh bone and skin of a god he slew himself. Whether that is true or simply one of his own self-aggrandizements is up for debate, but what cannot be contested is the strength of the flail itself. With each head capable of delivering both physical and magical devastation that lingers in both the flesh and the mind, it is Yeenoghu's weapon of choice whenever he decides to destroy something with a little more finesse than his teeth and claws will allow.
 

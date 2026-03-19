@@ -13,12 +13,18 @@ weight: 2
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ceratopper
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ceratopper.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This adamantine helm is fashioned in the likeness of a triceratops and decorated with painted designs. You have a +1 bonus to AC while you wear this helmet. If you move at least 20 feet toward a target and then attack it with a melee weapon attack on the same turn, you can choose to make a special attack using the helmet instead of the weapon. On a hit, the target takes piercing damage equal to `dice:3d4|noform|noparens|avg` (`3d4`) + your Strength modifier. You're proficient with this attack and use your Strength modifier for its attack rolls. If you hit and the target is no more than one size larger than you, it must also succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 

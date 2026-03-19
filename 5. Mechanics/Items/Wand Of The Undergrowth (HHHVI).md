@@ -16,11 +16,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Wand of the Undergrowth
 *Wand, very rare (requires attunement by a spellcaster)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 6 charges. While holding it, you can use an action to expend 1 or more charges to cast the [[/5. Mechanics/Spells/Blight.md\|blight]] spell (save DC 15) from it. For 1 charge, you cast the 4th-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 

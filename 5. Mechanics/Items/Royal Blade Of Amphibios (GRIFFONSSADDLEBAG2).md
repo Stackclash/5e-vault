@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Royal Blade of Amphibios
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This expertly crafted blade is ornamented with rose gold designs of frogs and lily pads. While holding the rapier, you can stand on and move across any liquid surface as if it were solid ground, you can hold your breath for up to 30 minutes at a time, and you gain a swimming speed of 30 feet. In addition, any creature with the Amphibious trait can understand the meaning of your words when you speak, though you gain no special ability to understand them in return.
 

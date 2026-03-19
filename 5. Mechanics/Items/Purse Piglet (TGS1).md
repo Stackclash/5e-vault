@@ -12,12 +12,18 @@ weight: 1
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Purse Piglet
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Purse-Piglet.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ceramic piglet figurine is glazed with a friendly pink coating that's soft to the touch and has a hole in the top that's stoppered with a cork. When you drop a coin in the piglet and stopper it, the figurine springs to life. When it does, it imprints on you and considers you its owner. The owner can hold and gently shake the piglet, causing it to oink happily, and magically know how much money is inside of it.
 

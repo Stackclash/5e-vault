@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hand Mirror of the Medusa
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Hand-Mirror-of-the-Medusa.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hand mirror bears the bust of a medusa at its top. Its silver surface is split into thirds by a pair of metal fangs. While holding it, you have advantage on saving throws against becoming [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], and any creature with the Petrifying Gaze trait that starts its turn within 30 feet of you must also succeed on a saving throw against its own Petrifying Gaze trait. A medusa has disadvantage on the saving throw.
 

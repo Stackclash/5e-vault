@@ -16,11 +16,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Honey Scepter
 *Rod, very rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Honey-Scepter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A quiet buzzing follows this golden scepter, and a honey magically drips from its numerous crevices.
 

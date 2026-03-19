@@ -9,11 +9,17 @@ aliases:
   - Barbed Cloak
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Barbed Cloak
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While you are wearing this cloak, you deal `dice:1d10|noform|noparens|avg` (`1d10`) piercing damage to any creature grappling you at the start of your turn.
 

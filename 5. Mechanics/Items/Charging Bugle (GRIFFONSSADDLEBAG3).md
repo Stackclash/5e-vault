@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Charging Bugle
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Charging-Bugle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blue bugle horn is lined in enchanted copper that can transform sound into electrical force. You can blow a percussive note from the bugle in place of the verbal component when casting a spell of 1st level or higher that deals thunder damage, such as shatter or thunderwave. When you do, any creature or object affected by the spell also takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage. If the spell's damage would be halved on a successful saving throw, this lightning damage is also halved on a successful one.
 

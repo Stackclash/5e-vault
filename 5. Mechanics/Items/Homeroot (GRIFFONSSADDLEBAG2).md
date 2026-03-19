@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Homeroot
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Homeroot.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This piece of gnarled root has several bulbous openings along its twisted length. Enchanted by powerful druids, this root has a tiny door and a small, chimney-like protrusion from its larger end. While holding it, a tiny plume of illusory smoke emanates from the chimney.
 

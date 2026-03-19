@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Dowsing
 *Wand, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-Dowsing.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hazel wand has 3 charges. While holding it, you can use an action to expend 1 of its charges to cast the [[/5. Mechanics/Spells/Locate Object.md\|locate object]] spell from it. When the wand is used to detect water, its range increases to 10 miles.
 

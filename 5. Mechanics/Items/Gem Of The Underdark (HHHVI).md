@@ -10,12 +10,18 @@ aliases:
   - Gem of the Underdark
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 7
+item_recharge: none
 ---
 # Gem of the Underdark
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/GemoftheUnderdark.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gem has 7 charges. While holding this item, you may spend your action in order to expend 1 or more charges to do any of the following:
 

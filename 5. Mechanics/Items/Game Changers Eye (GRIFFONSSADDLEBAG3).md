@@ -14,11 +14,17 @@ attunement-requirement:
   - creature missing an eye
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Game Changer's Eye
 *Wondrous item, major, rare (requires attunement by a creature missing an eye)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Game-Changers-Eye.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rubbery prosthetic eye has a dark polyhedral die at its center, as if it were a pupil. When found, the die has 20 sides. The following properties of the eye can be used even if you aren't attuned to it:
 

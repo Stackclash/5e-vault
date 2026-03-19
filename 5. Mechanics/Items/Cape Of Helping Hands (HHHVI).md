@@ -10,11 +10,17 @@ aliases:
   - Cape of Helping Hands
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cape of Helping Hands
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather cape is formed from two enchanted sheets of leather, connected to a repurposed marilith spine running down the centre.
 

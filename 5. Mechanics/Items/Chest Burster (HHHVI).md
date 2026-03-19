@@ -9,11 +9,17 @@ aliases:
   - Chest Burster
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chest Burster
 *Poison (ingested), rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Poison\|Poison]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This insidious poison is riddled with tiny slaadi eggs, kept preserved inside the noxious solution that serves as this poison's base. A creature that drinks a dose of this poison must succeed on a DC 14 Constitution saving throw or be infected with a disease-a miniscule slaad egg.
 

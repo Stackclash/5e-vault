@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chromatic Obsidian Greataxe
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This prismatic greataxe is made using chromatic obsidian, a dazzling type of stone found where several Elemental Planes meet. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you roll a 20 on an attack roll made with this magic weapon, the target must make a DC 15 Constitution saving throw. A target takes `dice:1d6|noform|noparens|avg` (`1d6`) cold damage, `dice:1d6|noform|noparens|avg` (`1d6`) fire damage, `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage, and `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage on a failed save, or half as much damage on a successful one. Roll the damage dice separately, recording any 6 you roll. For each 6 you roll in this way, use the table below to determine which of the following effects apply.
 

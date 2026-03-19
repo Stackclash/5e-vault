@@ -14,12 +14,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Malice
 *Adventuring gear, poison (inhaled)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Poison\|Poison]]
 - **Cost**: 250 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 hour. The [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] creature is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]].
 

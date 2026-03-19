@@ -50,11 +50,17 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Frostbite Weapon
 *Very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/FrostbiteWeapon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +2 bonus to all attack and damage rolls made with this weapon. When you hit with this weapon, you may choose to deal an extra `dice:3d6|noform|noparens|avg` (`3d6`) cold damage and force the target creature to make a DC 15 Constitution saving throw. On a failed save, for the next minute the target's speed is reduced by 10 feet, is unable to take reactions, and only be able to take either an action or a bonus action on its turn, but not both. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

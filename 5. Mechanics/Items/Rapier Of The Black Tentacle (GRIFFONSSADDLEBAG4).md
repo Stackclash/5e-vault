@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rapier of the Black Tentacle
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), rare*  
@@ -26,6 +29,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark silver rapier sounds weighty as it whips through the air. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When underwater, the weapon gains the reach property (elongating elastically when swung), and you don't have disadvantage on attack rolls with it as a result of underwater combat.
 

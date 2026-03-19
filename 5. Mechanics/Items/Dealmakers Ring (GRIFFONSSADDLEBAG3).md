@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dealmaker's Ring
 *Ring, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dealmakers-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A silver piece has been pressed and shaped into this magic ring. A pair of outstretched hands reach across the surface of the ring towards the center. When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) or Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check with another humanoid and offer out your hand for a handshake, you can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to the ability check. Once this property has been used, it can't be used again until the next dawn.
 

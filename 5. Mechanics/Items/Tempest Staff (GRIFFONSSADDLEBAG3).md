@@ -27,6 +27,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Tempest Staff
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, sorcerer, or wizard)*  
@@ -37,6 +40,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is made from a branch from a tree that's been struck by lightning. The staff has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While holding the staff, you can use an action to expend 1 of its charges to summon a bolt of lightning from the air above a point that you can see within 120 feet of you. Each creature within 5 feet of that point must make a Dexterity saving throw against your spell save DC. A creature takes `dice:4d6|noform|noparens|avg` (`4d6`) lightning damage on a failed save, or half as much damage on a successful one. There must be at least 20 feet of space above the point for the bolt to appear. If there isn't enough space to accommodate the bolt, the action is wasted, but the charge is not expended.
 

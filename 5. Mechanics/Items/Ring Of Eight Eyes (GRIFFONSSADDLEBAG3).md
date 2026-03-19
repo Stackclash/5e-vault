@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Ring of Eight Eyes
 *Ring, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ring-of-Eight-Eyes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring has a silver web design running along it with eight smooth gems placed throughout its pattern. The ring has 8 charges and regains `dice:1d8|noform|noparens|avg` (`1d8`) expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of the ring's charges to summon a Tiny [[/5. Mechanics/Bestiary/Beast/Spider.md\|spider]] in an unoccupied space within 5 feet of you.
 

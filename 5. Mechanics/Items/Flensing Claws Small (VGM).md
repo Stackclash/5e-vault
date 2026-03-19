@@ -15,10 +15,16 @@ rarity: unknown
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Flensing Claws (Small)
 
 - **Damage**: 1d8 slashing
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
 

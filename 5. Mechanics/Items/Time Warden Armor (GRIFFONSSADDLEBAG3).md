@@ -16,6 +16,9 @@ rarity: very-rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Time Warden Armor
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), very rare (requires attunement)*  
@@ -23,6 +26,9 @@ subtype:
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver and brass breastplate is adorned with subtle clock designs. While wearing this armor, you are immune to the [[/5. Mechanics/Spells/Slow.md\|slow]] spell and don't suffer the negative effects of haste when it ends on you.
 

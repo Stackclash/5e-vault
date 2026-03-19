@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hempen Rope (50 feet)
 *Adventuring gear*  
 
 - **Cost**: 1 gp
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
 

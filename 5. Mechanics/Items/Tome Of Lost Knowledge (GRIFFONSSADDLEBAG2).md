@@ -11,12 +11,18 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Tome of Lost Knowledge
 *Wondrous item, cursed item, major, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Tome-of-Lost-Knowledge.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gold-trimmed book's cover is embossed with a portrait of Ogden Fellweaver (see appendix L), a legendary wizard infamous for his ill-gotten knowledge. If you can attune to this item, you can use it as a spellbook and an arcane focus. If your attunement to the book ends, anything written in the book disappears.
 

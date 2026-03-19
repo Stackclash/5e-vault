@@ -10,11 +10,17 @@ aliases:
   - Courier's Cap
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Courier's Cap
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Couriers-Cap.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tan bag cap bears a wax seal on its side and is stamped with a variety of messengers' markings. While wearing the hat, your walking speed is increased by 5 feet.
 

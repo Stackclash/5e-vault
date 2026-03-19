@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Fire Brigade Staff
 *Staff, weapon, rare*  
@@ -29,6 +32,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is encircled with dangling strips of paper. At its top is a special reservoir of water; the reservoir holds 10 gallons of water. It regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended gallons of water daily at dawn, and it can't be refilled by any other mundane or magical means. Regardless of the amount of water inside, the staff always weighs 4 pounds.
 

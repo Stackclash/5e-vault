@@ -17,11 +17,17 @@ rarity: rare
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lyre of Building
 *Wondrous item, instrument ([[/5. Mechanics/Items/Lyre.md\|lyre]]), rare (requires attunement by a bard)*  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this [[/5. Mechanics/Items/Lyre.md\|lyre]], you can cast [[/5. Mechanics/Spells/Mending.md\|mending]] as an action. You can also play the [[/5. Mechanics/Items/Lyre.md\|lyre]] as a reaction when an object or a structure you can see within 300 feet of you takes damage, causing it to be immune to that damage and any further damage of the same type until the start of your next turn.
 

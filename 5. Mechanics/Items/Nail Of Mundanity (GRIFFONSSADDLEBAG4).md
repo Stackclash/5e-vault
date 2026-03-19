@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nail of Mundanity
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare*  
@@ -28,6 +31,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather-wrapped spike has been hammered into a sharpened edge. Eldritch runes run along the back of its blade, and a crude, eye-like rune has been gouged into its side. A creature hit with this weapon takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) force damage from the attack. An aberration always takes the maximum amount of force damage from the dagger.
 

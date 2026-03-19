@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Shield of the Justicars
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
@@ -21,6 +24,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 One of the original arms from the Upheaval, this shield can be used to release a magically discordant pulse. While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Meteoric Javelin
 *Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, rare*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. It has three command words, which activate the following properties. Once a property has been used, that property can't be used again until the next dawn.
 

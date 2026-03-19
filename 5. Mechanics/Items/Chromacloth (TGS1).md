@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chromacloth
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  
@@ -28,6 +31,9 @@ subtype:
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silken cloth is enchanted using a unique blend of abjuration and evocation magic, allowing it to be used for a number of purposes. At any one time it can be one of four colors: red, yellow, green, or blue. You can change the chromacloth's color to another one as an action.
 

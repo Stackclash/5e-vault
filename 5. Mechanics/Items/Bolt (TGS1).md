@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bolt
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, very rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 100/400
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heavy crossbow is made of metal and fires small bolts of electricity instead of normal ammunition. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you pull the string back to load the crossbow, the string crackles with energy and loads a small bolt of lightning ammunition instead. Attacks made with this crossbow deal `dice:1d12|noform|noparens|avg` (`1d12`) lightning damage instead of 1d10 piercing. In addition, whenever you make a ranged attack with this weapon against a metal target or a creature wearing metal armor, you make the attack with advantage.
 

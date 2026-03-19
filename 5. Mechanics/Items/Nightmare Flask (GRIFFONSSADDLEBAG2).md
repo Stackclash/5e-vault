@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Nightmare Flask
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Nightmare-Flask.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass orb has a special funnel at its top that traps bad dreams. When you finish a long rest in which you sleep while the orb is on your person, there is a 25 percent chance that the orb is filled with a small amount of dark, swirling smoke: a visual representation of a collected nightmare. The orb can collect 1 nightmare every 24 hours and can hold up to 10 nightmares in this way.
 

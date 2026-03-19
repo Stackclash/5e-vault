@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Tyrant's Twinblades, Vincere and Punire
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), very rare (requires attunement by an evil creature)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you are a neutral character, these black iron shortswords function as normal weapons with no bonus or special properties. If you are good, touching either weapon deals `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage to you. If you are an evil character, you can use Vincere and Punire as magic weapons with the following properties.
 

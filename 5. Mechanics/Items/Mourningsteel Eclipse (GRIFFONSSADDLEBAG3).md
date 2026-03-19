@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mourningsteel Eclipse
 *Weapon ([[/5. Mechanics/Items/Morningstar.md\|morningstar]]), major, rare*  
@@ -27,6 +30,9 @@ subtype:
 
 - **Damage**: 1d8 piercing
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dreadful spiked weapon is designed to represent the sting of the moon-covered sun. Forged from mourningsteel, the metal that makes this weapon has been steeped in the blood and misery of fallen warriors of brutal conflicts. When you hit with an attack using this magic weapon, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage.
 

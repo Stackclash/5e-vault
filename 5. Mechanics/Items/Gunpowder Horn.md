@@ -16,12 +16,18 @@ rarity: none
 type: weapon
 subtype:
   - explosive
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gunpowder Horn
 *Explosive*  
 
 - **Cost**: 35 gp
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Gunpowder is chiefly used to propel a bullet out of the barrel of a pistol or rifle, or it is formed into a bomb. Gunpowder is sold in small wooden kegs or in water-resistant powder horns.
 

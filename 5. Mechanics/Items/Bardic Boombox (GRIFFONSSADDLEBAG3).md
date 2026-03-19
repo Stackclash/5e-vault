@@ -15,12 +15,18 @@ attunement-requirement:
   - bard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bardic Boombox
 *Wondrous item, major, very rare (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bardic-Boombox.webp#right)  
 
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded box is roughly two feet long, one foot tall, and 6 inches deep. It weighs 5 pounds. While holding the box, you can use it as a spellcasting focus for your bard spells. When you cast a bard spell with a verbal component while holding the box, you gain a +2 bonus to that spell's attack roll or save DC, but the spell's verbal component can be heard out to a range twice as far as normal. If the spell deals thunder damage, you can reroll any 1s or 2s on the damage dice. When you do, you must use the new roll. In addition, you can use the box to inspire a creature up to twice as far as normal with your Bardic Inspiration die, doubling its normal audible range as well.
 

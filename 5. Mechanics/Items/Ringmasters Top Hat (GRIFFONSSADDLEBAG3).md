@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ringmaster's Top Hat
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ringmasters-Top-Hat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This colorful top hat carries a perpetual air of revelry and frivolity with it. While wearing the hat, you can use an action to cast the [[/5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]] spell from it, and you have proficiency with whips.
 

@@ -14,11 +14,17 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ball Bearing
 *Adventuring gear*  
 
 - **Weight**: 0.002 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Most commonly found inside a [[/5. Mechanics/Items/Ball Bearings Bag Of 1000.md\|bag of ball bearings]].
 

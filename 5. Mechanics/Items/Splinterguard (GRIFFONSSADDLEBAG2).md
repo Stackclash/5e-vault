@@ -23,6 +23,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Splinterguard
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), major, rare (requires attunement by a druid or ranger)*  
@@ -32,6 +35,9 @@ subtype:
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The protective panels that adorn this splint armor are made from carefully molded pieces of ironleaf lumber, a wood renowned for its remarkable durability. Even if you aren't attuned to the armor, you gain the following benefits:
 

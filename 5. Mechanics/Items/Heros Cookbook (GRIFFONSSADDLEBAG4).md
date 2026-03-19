@@ -9,11 +9,17 @@ aliases:
   - Hero's Cookbook
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hero's Cookbook
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Heros-Cookbook.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 In the front of this well-worn book is a magical incantation. Reciting the incantation reveals that it's a song to cook to, and follows a catchy melody. The rest of the book is filled with various persons' handwritten recipes and scrawled notes, which all include some form of meat from a creature they'd slain. You can refer to the book's writings to gain a +3 bonus to any check made using [[/5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]].
 

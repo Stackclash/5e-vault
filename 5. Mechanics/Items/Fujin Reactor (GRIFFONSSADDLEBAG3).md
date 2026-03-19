@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fūjin Reactor
 *Rod, major, legendary (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/F%C5%ABjin-Reactor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A glass orb rests at the top of this mechanical scepter, which can be used as a spellcasting focus. At its center is the essence of a powerful wind spirit that's been known by a myriad of names over the course of centuries. Fans hum within the rod, releasing a constant breeze from either of its ends. While holding the rod, you have a flying speed of 30 feet and can hover.
 

@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Rings of the True Companions
 *Ring, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rings-of-the-True-Companions.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These rings typically come in pairs but have been known to come in sets of up to four. Each ring is magically connected and can be attuned to by a different creature. While wearing one of the rings, you can use the following property even if you aren't attuned to it:
 

@@ -21,6 +21,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Nova Armor
 *Major, legendary (requires attunement)*  
@@ -28,6 +31,9 @@ subtype:
 
 - **Armor Class**: 15
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic set of iron armor is forged from metals that fell from the sky. The armor has two parts that can be worn together simultaneously: a chain shirt and a set of half plate armor. You have a +2 bonus to AC and resistance to lightning damage while wearing this armor. While wearing the chain shirt, you can speak the armor's command word as an action to don or doff the *starmetal nova armor's* half plate, causing it to either magically assemble itself around you or release and fall to the ground at your feet. You must be within 30 feet of the half plate in order to don the armor in this way. In addition, you always know which way is north while attuned to the armor.
 

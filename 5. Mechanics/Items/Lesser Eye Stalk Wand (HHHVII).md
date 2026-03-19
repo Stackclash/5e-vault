@@ -14,11 +14,17 @@ rarity: rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Lesser Eye Stalk Wand
 *Wand, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 3 charges. While holding this wand, you may spend an action and 1 charge to shoot a magical ray of energy at a target within 120 feet of you. The type of ray depends on the type of gauth eye stalk that the wand was crafted from. Consult the list below to find out what your wand does.
 

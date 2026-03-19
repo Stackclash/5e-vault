@@ -14,11 +14,17 @@ attunement-requirement:
   - druid
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hide of the Wild Guardian
 *Wondrous item, major, legendary (requires attunement by a druid)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Hide-of-the-Wild-Guardian.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This well-worn gray bearskin cloak has been passed down from druid to druid for generations. While wearing it, you gain the following benefits:
 

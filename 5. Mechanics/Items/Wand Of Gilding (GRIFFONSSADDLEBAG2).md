@@ -20,11 +20,17 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Gilding
 *Wand, major, rare (requires attunement by a bard, sorcerer, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-Gilding.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden wand is a classic royal family heirloom and has a delicate lily at its end that flowers when held. While holding the wand, you can use the following properties:
 

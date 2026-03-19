@@ -12,12 +12,18 @@ weight: 2
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Decanter of Endless Water
 *Wondrous item, minor, uncommon*  
 ![[/5. Mechanics/Items/img/decanter-of-endless-water.webp#right]]  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.
 

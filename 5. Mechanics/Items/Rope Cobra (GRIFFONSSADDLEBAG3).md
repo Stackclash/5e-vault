@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rope Cobra
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Rope-Cobra.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can use an action while holding this 30-foot length of hempen rope to speak its command word. The rope then magically animates and transforms (slightly) into a cobra made of rope. As part of this action, and then again as an action on each of your turns for the duration, you can issue the snake a verbal command, such as "tie yourself around that pillar." The snake only obeys the commands of the creature that animated it. The rope returns to normal and ceases to be animated after 1 minute, after it moves more than 120 feet, or when you use an action to speak its command word again; it can't be animated again until the next dawn.
 

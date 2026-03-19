@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Snuff
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark metal sickle was forged with an unusually harsh angle and has a unique power over light and shadow. You gain a +1 bonus to attack and damage rolls made with this magic weapon. You can speak the sickle's command word as an action to dispel magical lights and extinguish nonmagical flames within 60 feet of you. Magical lights dispelled in this way are affected as if they were targeted by the [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell. Once this property of the sickle has been used, it can't be used again until the next dusk.
 

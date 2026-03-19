@@ -14,11 +14,17 @@ attunement-requirement:
   - wizard
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Orelia's Tome of Beast Familiars
 *Wondrous item, major, rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Orelias-Tome-of-Beast-Familiars.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While attuned to this book, you always have the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell prepared. This spell doesn't count against the number of spells you have prepared.
 

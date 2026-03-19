@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Whistle of Dog Command
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Whistle-of-Dog-Command.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can use an action to blow this whistle, which is only audible to dogs and wolves within 300 feet of you. When you do, choose up to four dogs or wolves that you can see that can hear the whistle. Each creature must make a DC 15 Wisdom saving throw. On a failed save, the creature is affected by a special version of the [[/5. Mechanics/Spells/Command.md\|command]] spell, and it must obey your choice of one of the following commands on its next turn:
 

@@ -16,11 +16,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Faithful Hound's Fetching Femur
 *Rod, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Faithful-Hounds-Fetching-Femur.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod is actually a large bone from a nondescript beast. A small bell and engraved tag hang from its side by a leather strap. The rod can also be used as a magic club that grants a +2 bonus to attack and damage rolls made with it.
 

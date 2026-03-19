@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Fool's Lamp
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Fools-Lamp.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass lamp is decorated with flowing patterns around a blue, glass chamber at its center. Swirling, magenta clouds drift within the lamp and billow eagerly whenever it's held. Created as a grim sculpture by a spiteful djinni, this lamp offers no benefit to those foolish enough to encounter it.
 

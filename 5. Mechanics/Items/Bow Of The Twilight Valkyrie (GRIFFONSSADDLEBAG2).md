@@ -22,11 +22,17 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bow of the Twilight Valkyrie
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bow-of-the-Twilight-Valkyrie.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bow balances the positive and negative magics from the upper and lower planes of existence. Once on each of your turns when you make an attack with the bow as part of the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can channel either positive or negative energy into the attack. When you do, you take a –5 penalty to the attack roll. If you channeled positive energy into the attack and hit, the target takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage, and the next attack roll made against it by a creature other than you before the start of your next turn has advantage. If you channeled negative energy into the attack, the target takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage, and the next attack roll the target makes before the end of your next turn has disadvantage.
 

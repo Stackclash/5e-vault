@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Crown of Deep Winter
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Crown-of-Deep-Winter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This icy crown is made using ice from the Everglacier. While wearing the crown, you have resistance to cold damage. In addition, you can use an action to cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell from it, making only a chill shield when you do. Once the crown has cast this spell, it can't cast it again until the next dawn.
 

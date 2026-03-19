@@ -25,11 +25,17 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ioun Blade
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ioun-Blade.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An Ioun blade is named after Ioun, a god of knowledge and prophecy revered on some worlds. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The blade and crossguard are each inset with a gemstone. While you're attuned to the weapon, you also gain a bonusSavingThrow bonus to Intelligence, Wisdom, and Charisma checks and saving throws.
 

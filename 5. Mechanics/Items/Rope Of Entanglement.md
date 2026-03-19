@@ -12,12 +12,18 @@ weight: 3
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rope of Entanglement
 *Wondrous item, major, rare*  
 ![[/5. Mechanics/Items/img/rope-of-entanglement.webp#right]]  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rope is 30 feet long and weighs 3 pounds. If you hold one end of the rope and use an action to speak its command word, the other end darts forward to entangle a creature you can see within 20 feet of you. The target must succeed on a DC 15 Dexterity saving throw or become [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]].
 

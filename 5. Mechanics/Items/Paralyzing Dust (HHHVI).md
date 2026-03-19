@@ -9,11 +9,17 @@ aliases:
   - Paralyzing Dust
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Paralyzing Dust
 *Wondrous item, poison (inhaled or ingested), uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Poison\|Poison]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You may spend an action to blow this pouch of grey dust into the face of a non-undead creature within 5 feet of you. That creature must succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] for 1 minute. That creature may repeat the saving throw at the end of each of its turn, ending the effect on a success.
 

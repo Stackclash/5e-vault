@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Phoenix Fan
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Phoenix-Fan.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This vibrant paper fan bears a gilded phoenix design and fire opals along its wooden clasp. The fan has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn. While holding the fan, you can use an action to expend 1 or more of its charges to cast one of the following spells from it (save DC 15, spell attack bonus +7): [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] (4 charges), [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] (1 charge; the cloud is made of smoke), [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] (2 charges), or [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (4 charges). Alternatively, you can use a reaction when you or a creature within 60 feet of you falls to expend 1 of the fan's charges to cast the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell on up to five falling creatures within range.
 

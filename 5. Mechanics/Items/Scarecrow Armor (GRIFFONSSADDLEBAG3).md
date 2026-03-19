@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scarecrow Armor
 *Light armor ([[/5. Mechanics/Items/Padded Armor.md\|padded armor]]), cursed item, major, very rare (requires attunement)*  
@@ -28,6 +31,9 @@ subtype:
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 8.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Stray bits of old straw poke out from the seams and edges of this armor. While wearing it, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. This armor doesn't impose disadvantage on your Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks while you're attuned to it.
 

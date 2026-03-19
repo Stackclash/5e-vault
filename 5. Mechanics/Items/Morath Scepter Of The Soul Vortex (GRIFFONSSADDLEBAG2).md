@@ -20,11 +20,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Morath, Scepter of the Soul Vortex
 *Rod, major, artifact (requires attunement by a sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Morath-Scepter-of-the-Soul-Vortex.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This torch-like scepter almost hums with necrotic energy and appeared when the first soul was returned to the Material Plane after its death. Since then, it has been lost and found throughout its gruesome, storied history.
 

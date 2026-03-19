@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Shadowsmoke Dragon Pipe
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Shadowsmoke-Dragon-Pipe.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic pipe leaves behind odorless smoke that dissipates quickly. Its head easily detaches, allowing you to refill it. The pipe has 4 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) expended charges daily at dawn. As an action, you can expend 1 charge to blow a small, condensed smoke ring at a friendly creature (including yourself) that you can see within 30 feet of you.
 

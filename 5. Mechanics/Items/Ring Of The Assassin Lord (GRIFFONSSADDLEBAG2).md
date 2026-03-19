@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of the Assassin Lord
 *Ring, major, legendary (requires attunement by a rogue)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ring-of-the-Assassin-Lord.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dagger-shaped ring has been worn by famous assassins throughout history. While wearing this ring, you can deal your extra Sneak Attack damage twice, instead of once, on each of your turns. The two attacks must be made against different targets, and the Sneak Attack damage for the second attack is halved.
 

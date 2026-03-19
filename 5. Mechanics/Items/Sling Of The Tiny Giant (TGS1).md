@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sling of the Tiny Giant
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wicked sling is devastating against foes larger than yourself. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and when you hit a creature with a ranged attack using this sling, the creature takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) force damage for each size larger than you it is (up to an extra `dice:3d4|noform|noparens|avg` (`3d4`) damage).
 

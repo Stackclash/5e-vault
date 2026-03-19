@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: long-rest
 ---
 # Bottled Abyss
 *Potion, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Bottled-Abyss.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small vial has a single dose of a fuming, pitch-black poison inside of it. When a creature eats or drinks the poison, it takes `dice:4d6|noform|noparens|avg` (`4d6`) psychic damage and must make a DC 18 Constitution saving throw. On a failed save, the creature becomes [[/5. Mechanics/Rules/Conditions.md#Blinded\|blind]] and unable to sleep. When an affected creature attempts to rest, their dreams are plagued with terrible nightmares, preventing them from benefiting from a long rest. The creature can reattempt the saving throw once every 24 hours.
 

@@ -13,11 +13,17 @@ rarity: uncommon
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Minor Eye Stalk Wand
 *Wand, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this wand, you may spend an action to shoot a magical ray of energy at a target creature within 60 feet of you. The type of ray depends on the type of gazer eye stalk that the wand was crafted from. Consult the list below to find out what your wand does.
 

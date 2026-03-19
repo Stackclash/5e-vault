@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodmire Phiale
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bloodmire-Phiale.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shallow, ceramic drinking bowl is enchanted to repurpose spilled blood into new life. The bowl holds up to 8 ounces of blood. Once filled, the blood begins to slowly swirl on its own. If left to sit for 1 hour without spilling, the blood in the bowl becomes a gruesome tonic that pulses with a faint, internal glow.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eaglereign
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Eaglereign.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This thick glove is ornamented with eagle feathers and fitted with an enchanted silk lining. You can use the glove to cast the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell as an action instead of its normal casting time. When you do, the familiar takes the form of an [[/5. Mechanics/Bestiary/Beast/Eagle.md\|eagle]]. The familiar disappears if you are no longer attuned to the glove. Once this property has been used, it can't be used again until the following dawn.
 

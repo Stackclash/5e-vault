@@ -21,11 +21,17 @@ type: armor
 subtype:
   - heavy
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fey-Touched Armor
 *Major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Fey-touched-Armor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing the armor, you are immune to the [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] spell, and other creatures have disadvantage on any check made to discern a disguise you're wearing, such as by a mundane disguise or the [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] spell.
 

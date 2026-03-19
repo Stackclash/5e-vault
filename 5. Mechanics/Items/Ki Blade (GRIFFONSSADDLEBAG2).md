@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ki Blade
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, very rare (requires attunement by a monk)*  
@@ -31,6 +34,9 @@ subtype:
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gently curved blade resonates with the force of your ki. You gain a +2 bonus to attack and damage rolls made with this magic weapon, and while you're attuned to it, your ki point maximum increases by 2.
 

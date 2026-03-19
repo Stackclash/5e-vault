@@ -14,11 +14,17 @@ attunement-requirement:
   - sorcerer
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Sash of Sorcerous Synergy
 *Wondrous item, major, rare (requires attunement by a sorcerer)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Sash-of-Sorcerous-Synergy.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This miraculous, one-shouldered robe is made from fine fabrics that have been steeped in powerful magic and fastened with an ornate buckle. The sash has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. When an ally that you can see within 60 feet of you casts a spell while you're wearing this robe, you can use your reaction to expend 1 or more of the sash's charges to twist the spell with one of your known Metamagic options, without spending any sorcery points. The number of charges you expend is equal to the number of sorcery points the Metamagic option would normally cost. If using the sash would cause the spell to target a second creature, you choose the new target.
 

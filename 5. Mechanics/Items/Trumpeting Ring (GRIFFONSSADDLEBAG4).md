@@ -13,11 +13,17 @@ rarity: uncommon
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Trumpeting Ring
 *Ring, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Trumpeting-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring looks like a miniature trumpet that's wrapped around your finger. While wearing it, you can use an action to hold your hand in one of three ways, as if pantomiming holding a larger trumpet, to magically create a unique effect.
 

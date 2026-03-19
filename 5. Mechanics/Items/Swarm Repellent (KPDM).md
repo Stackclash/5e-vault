@@ -10,10 +10,16 @@ aliases:
 cost: 4000
 attunement: false
 rarity: none
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Swarm Repellent
 
 - **Cost**: 40 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slimy yellow paste can be smeared over exposed parts of the body to protect against attacks by insect swarms. A swarm of ants, beetles, biting flies, wasps, or similar insects that enters your space while you're protected by swarm repellent must make a successful DC 10 Constitution saving throw or be unable to attack you. A repelled swarm can repeat this saving throw at the start of its next turn; most swarms prefer to seek out an unprotected target.
 

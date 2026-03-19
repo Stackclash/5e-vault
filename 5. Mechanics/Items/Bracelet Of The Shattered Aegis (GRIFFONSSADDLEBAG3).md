@@ -14,11 +14,17 @@ attunement-requirement:
   - spellcaster
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 2
+item_recharge: dawn
 ---
 # Bracelet of the Shattered Aegis
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bracelet-of-the-Shattered-Aegis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A smoldering, defensive insignia burns at the center of the cracked glass sphere that rests atop this woven bracelet. The bracelet has 2 charges and regains all expended charges daily at dawn. If the bracelet has at least 1 charge, you gain a +1 bonus to AC while wearing it.
 

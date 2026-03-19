@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: long-rest
 ---
 # Staff of the Eclipse
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
@@ -35,6 +38,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff has a crescent-shaped head made of pockmarked lunar stone. Floating within the crescent stone is a motionless, black orb. Regardless of how you look at the orb, it's always encircled by a ring of fire that faces you. The fire winks out if the staff isn't held. The fire is harmless, and it sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 

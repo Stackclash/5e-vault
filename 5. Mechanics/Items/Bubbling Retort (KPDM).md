@@ -9,10 +9,16 @@ aliases:
   - Bubbling Retort
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bubbling Retort
 *Wondrous item, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This long, thin retort is fashioned from smoky yellow glass and is topped with an intricately carved brass stopper.
 

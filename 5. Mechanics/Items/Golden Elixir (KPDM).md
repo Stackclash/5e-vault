@@ -13,10 +13,16 @@ rarity: legendary
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Golden Elixir
 *Potion, legendary*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The most famous of [[/5. Mechanics/Items/The Six Elixirs (KPDM).md\|the six elixirs]] is this thick, golden, syrupy liquid that grants its imbiber eternal life. The potion completely stops the aging process and renders the imbiber immune to all natural and magical diseases and poisons. The drinker can still be harmed or killed through other methods such as violence, but the march of time no longer holds any threat over him or her.
 

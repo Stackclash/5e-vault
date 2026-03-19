@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arkano Elite Visor
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Arkano-Elite-Visor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This visor is a strange device from a far-flung age and can sometimes be found in the lairs of sphinxes that have traveled through time. The visor is made of pitch-dark glass that can be seen through from only one side.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Hedgewitch's Gardening Gloves
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Hedgewitchs-Gardening-Gloves.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These leafy, long gardening gloves are adorned with enchanted vines that cinch its sides together. While wearing the gloves, you gain a +3 bonus to Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) and Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks made to interact with plants.
 

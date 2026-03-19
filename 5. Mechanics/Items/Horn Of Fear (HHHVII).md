@@ -9,11 +9,17 @@ aliases:
   - Horn of Fear
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horn of Fear
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You may spend your action to blow this hunting horn, emitting a baleful bray that can be heard up to 150 feet away. Any creature other than you that can hear this bray must succeed on a DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] until the end of your next turn. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature that starts its turn within 30 feet of you must use all of its movement on that turn to get as far from you as possible, must finish the move before taking an action, and must take the most direct route, even if hazards lie that way. A target that successfully saves is immune to the effect of this horn for 24 hours.
 

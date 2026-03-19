@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Purging Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  
@@ -31,6 +34,9 @@ subtype:
 - **Range**: 40/80
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This chiseled wooden dagger is a relic crafted from the bough of a holy tree and is always miraculously sharp. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The dagger deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) radiant damage to any target it hits. The extra damage increases to `dice:2d4|noform|noparens|avg` (`2d4`) when you use the dagger to attack an undead creature, causing blue tongues of holy flame to flash along the weapon's edge.
 

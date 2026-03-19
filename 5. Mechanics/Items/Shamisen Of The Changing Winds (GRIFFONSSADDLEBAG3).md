@@ -14,11 +14,17 @@ attunement-requirement:
   - bard
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shamisen of the Changing Winds
 *Wondrous item, major, rare (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Shamisen-of-the-Changing-Winds.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shamisen has a tiny cherry tree growing along its base. When played, the tree's leaves rustle in a magical breeze. You must be proficient with a string instrument to use this shamisen.
 

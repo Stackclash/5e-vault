@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Contingency Band
 *Ring, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Contingency-Band.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Each of this leather ring's three braided bands bears the design of a dark, winding serpent. You can use an action to submerge the ring in a potion of healing or similar healing draft. If the ring is left to sit in a potion for 1 minute in this way, the ring magically consumes it and any of its healing properties. For each potion the ring has consumed, one of its dark serpents glows with a faint red light. The ring can have up to 3 consumed potions at a time.
 

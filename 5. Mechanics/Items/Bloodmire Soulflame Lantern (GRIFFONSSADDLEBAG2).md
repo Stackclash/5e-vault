@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodmire Soulflame Lantern
 *Wondrous item, cursed item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bloodmire-Soulflame-Lantern.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This iron lantern is surrounded by six glass panels and has a sharp spike in its center where a wick would normally be. When you attune to the lantern, it suddenly springs to life with a crimson flame at the top of the spike, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. The flame is magical and can't be extinguished by any means while it burns within the lantern. While the lantern is on your person, you can use a bonus action to mentally expand or reduce the lantern's light, to a maximum of 30 feet each or a minimum of 10 feet each. As part of this bonus action, you can also cause the lantern's glass panels to magically turn black or clear, allowing you to choose whether the lantern's light is shed in a radius, a cone, or entirely hidden by the darkened glass.
 

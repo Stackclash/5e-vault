@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Retaliating Shield of Ink
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  
@@ -21,6 +24,9 @@ tier: minor
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shield has a hidden compartment inside that can spray thick squid ink at attacking creatures. When a Large or smaller creature within 5 feet of you misses you with a melee attack, you can use your reaction to press a button on the shield's handle. When you do, ink sprays from the front of the shield at the face of the attacking creature. That creature must succeed on a DC 13 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until the beginning of its next turn.
 

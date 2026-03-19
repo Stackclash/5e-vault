@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Detective's Notebook
 *Wondrous item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Detectives-Notebook.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This worn notebook is filled with pages of scribbled notes, addendums, and sketches—many of which seem to be added by different sources. While holding the book, whenever you make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check, you gain a +1 bonus to the roll. If you spend at least 10 minutes investigating or interacting with the subject of these checks while writing notes in the book, you make the roll with advantage.
 

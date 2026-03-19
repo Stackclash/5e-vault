@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cursed Fang
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crooked, jet black dagger curses the blood of any creature hit with it. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature with this weapon that isn't a construct, plant, or undead, that creature is cursed until the end of your next turn. While cursed by the dagger, it has disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide and must make a DC 15 Constitution saving throw whenever it magically regains hit points. On a failed save, the creature instead takes necrotic damage equal to the amount healed (maximum 20).
 

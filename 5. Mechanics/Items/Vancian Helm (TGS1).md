@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vancian Helm
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Vancian-Helm.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helmet is made from the reclaimed and partially disenchanted remains of a [[/5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]]. The helm is no longer bound to an amulet. You gain a +1 bonus to AC while you wear this helmet.
 

@@ -29,10 +29,16 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # +1 Frostclaw Weapon
 *Rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to all attack and damage rolls made with this weapon. When you hit with this weapon, you may choose to deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) cold damage. Once you have used this ability once, it can't be used again until the end of your next short rest.
 

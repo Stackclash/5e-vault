@@ -21,6 +21,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elder Sequoia Scale Mail
 *Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a druid)*  
@@ -29,6 +32,9 @@ subtype:
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hardy, natural mail is made with leather and protected with the large outer shell of an elder sequoia seed cone. You gain a +1 bonus to AC while wearing this armor. In addition, while wearing this armor, you can use your Wild Shape to transform into a mighty evergreen tree. The tree is 5 feet across at its base and can be up to 40 feet tall. Its branches extend up to 10 feet away from its trunk and must be at least 5 feet above its base.
 

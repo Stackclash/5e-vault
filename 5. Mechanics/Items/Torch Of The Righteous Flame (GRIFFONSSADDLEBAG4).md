@@ -14,11 +14,17 @@ rarity: very-rare
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Torch of the Righteous Flame
 *Rod, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Torch-of-the-Righteous-Flame.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic torch functions the same as a normal one, but doesn't burn out after 1 hour. Once the torch is lit, it continues to burn until it's extinguished. While the torch is on your person, you have resistance to fire damage.
 

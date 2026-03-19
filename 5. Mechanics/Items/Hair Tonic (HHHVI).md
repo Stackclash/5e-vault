@@ -13,11 +13,17 @@ rarity: common
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Hair Tonic
 *Potion, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you massage this tonic into a patch of skin for 1 minute, that patch of skin experiences extremely rapid hair growth, even if hair growth in that area is not usually possible. Each day for the next 7 days, roll `dice:1d6|noform|noparens|avg` (`1d6`). You grow that many inches in hair over the course of the day in that area.
 

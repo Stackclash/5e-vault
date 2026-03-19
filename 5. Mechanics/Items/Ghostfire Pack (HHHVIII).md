@@ -9,12 +9,18 @@ aliases:
   - Ghostfire Pack
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ghostfire Pack
 *Wondrous item, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/GhostfirePack.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 1-foot cube mechanical pack contains the key components of a cadaver collector's internal engine and is designed to be attached to a suit of plate armor to bolster the wearer's abilities with unholy, mechanical endurance. Attaching this pack to the back of a suit of plate armor takes 1 hour and takes 10 minutes to remove it. A suit of plate armor that has had this pack attached to it has the following properties:
 

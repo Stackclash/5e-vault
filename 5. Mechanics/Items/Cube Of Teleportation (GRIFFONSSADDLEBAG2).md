@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Cube of Teleportation
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Cube-of-Teleportation.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hefty, metal cube is about 6 inches on a side and weighs 3 pounds. One of the cube's sides looks like a metallic stamp, and is made of countless interlocking and shifting panels that reconfigure themselves to magically generate a new, unique sigil sequence daily at dawn, as described in the [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell. Its five other sides are flat and blank, or, at the GM's discretion, have up to 5 different sigil sequences recorded onto them.
 

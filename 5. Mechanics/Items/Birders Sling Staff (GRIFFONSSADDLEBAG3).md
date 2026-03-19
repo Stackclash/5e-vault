@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Birder's Sling Staff
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement)*  
@@ -32,6 +35,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic quarterstaff is decorated with bird ornaments and equipped with a sling at its top. A nest sits in the crook of the sling. You can use the quarterstaff as if it were a sling, provided you hold it with two hands. When you do, the sling's damage die increases to `dice:1d6|noform|noparens|avg` (`1d6`) and its normal and long ranges are doubled.
 

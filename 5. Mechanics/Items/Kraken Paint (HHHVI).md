@@ -9,11 +9,17 @@ aliases:
   - Kraken Paint
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kraken Paint
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A pot of this black paint is enough to cover up to 100 square feet of material. An enclosed space that has had its interior surface covered entirely in kraken paint acts as it were permanently under the effect of the [[/5. Mechanics/Spells/Darkness.md\|darkness]] spell.
 

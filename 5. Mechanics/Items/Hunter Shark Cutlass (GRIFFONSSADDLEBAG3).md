@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hunter Shark Cutlass
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The blade of this sword is carved from the tooth of a giant shark. You gain a +2 bonus to attack and damage rolls made with this magic weapon. If the target is a creature that's missing any of its hit points, it takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) slashing damage from the attack. You have advantage on any Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check made to track a creature you've hit with the sword within the last hour.
 

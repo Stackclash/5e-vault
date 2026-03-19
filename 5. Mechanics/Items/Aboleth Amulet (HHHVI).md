@@ -10,11 +10,17 @@ aliases:
   - Aboleth Amulet
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aboleth Amulet
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pale turquoise amulet seems to have a faint flicker of something moving in it, like seeing a creature in murky waters. While wearing this amulet, you gain [[/5. Mechanics/Spells/Telepathy.md\|telepathy]] out to a range of 120 ft., can understand and speak Deep Speech, and become proficient in Intelligence ([[/5. Mechanics/Rules/Skills.md#History\|History]]) checks if you weren't proficient already.
 

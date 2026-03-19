@@ -18,6 +18,9 @@ rarity: rare
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: none
 ---
 # Gulthias Staff
 *Staff, weapon, rare (requires attunement)*  
@@ -28,6 +31,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Made from the branch of a Gulthias tree (see the [[/5. Mechanics/Bestiary/Plant/Twig Blight.md\|blights]] entry of the Monster Manual), a Gulthias staff is a spongy, black length of wood. Its evil makes beasts visibly uncomfortable while within 30 feet of it. The staff has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) of its expended charges daily at dusk.
 

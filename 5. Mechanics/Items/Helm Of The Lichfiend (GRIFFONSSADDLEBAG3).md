@@ -15,11 +15,17 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Helm of the Lichfiend
 *Wondrous item, major, very rare (requires attunement by a warlock or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Helm-of-the-Lichfiend.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helm is made of carved bone and gilded horns from a powerful demon. While wearing it, you have resistance to fire and necrotic damage. In addition, once on each of your turns when you slay a Medium or smaller fiend or humanoid, you can cause that creature to erupt in a pillar of hellfire. Each other creature of your choice within 10 feet of the slain target must make a DC 16 Dexterity saving throw. A creature takes `dice:4d6|noform|noparens|avg` (`4d6`) fire damage on a failed save, or half as much damage on a successful one. When this happens, the slain creature's fleshy remains are incinerated, leaving only an animated [[/5. Mechanics/Bestiary/Undead/Skeleton.md\|skeleton]] behind with the following changes:
 

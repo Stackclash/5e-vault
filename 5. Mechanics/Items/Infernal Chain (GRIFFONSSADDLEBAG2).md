@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Infernal Chain
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This length of heavy chain has a weight at its end and is always warm to the touch. The chain is 10 feet long and weighs 10 pounds. When you attune to the chain, it magically coils up one of your arms (your choice) and secures itself in place. When you swing it, the chain magically extends from you before returning to coil around your arm once again. You must use a hand in order to swing and use the chain.
 

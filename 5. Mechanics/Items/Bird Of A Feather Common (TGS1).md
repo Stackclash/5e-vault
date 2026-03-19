@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Bird of a Feather (common)
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Bird-of-a-Feather.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small stuffed roc toy is filled with enchanted down. While holding onto the toy and concentrating, you magically gain a flying speed of 20 feet for up to 1 minute. The stuffed toy's weak magic can carry up to 200 pounds.
 

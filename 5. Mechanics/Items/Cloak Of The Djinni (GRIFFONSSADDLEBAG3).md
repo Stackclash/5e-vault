@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Cloak of the Djinni
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Cloak-of-the-Djinni.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This floating, cloud-soft cloak flutters softly on its own even without wind. It has 3 charges and regains 1 charge whenever you finish your turn without using any movement or expending any of the cloak's charges. While wearing the cloak, you can use an action to expend 1 or more of its charges to spin around and emit a powerful twister. Each creature within a 5-foot radius of you must succeed on a DC 15 Strength saving throw or be pushed 5 feet away from you and take `dice:1d8|noform|noparens|avg` (`1d8`) bludgeoning damage.
 

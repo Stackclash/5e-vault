@@ -20,11 +20,17 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blazeball Bat
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blazeball-Bat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden club is held together by iron rings and smolders with crackling embers while held. When you hit a target with a melee attack using this magic weapon, that target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) fire damage.
 

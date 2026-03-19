@@ -14,11 +14,17 @@ attunement-requirement:
   - cleric
   - paladin
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +1 Amulet of the Devout
 *Wondrous item, uncommon (requires attunement by a cleric or paladin)*  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This amulet bears the symbol of a deity inlaid with precious stones or metals. While you wear the holy symbol, you gain a +1 bonus to spell attack rolls and the saving throw DCs of your spells.
 

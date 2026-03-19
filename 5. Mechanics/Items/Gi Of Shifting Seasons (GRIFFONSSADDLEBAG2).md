@@ -14,11 +14,17 @@ attunement-requirement:
   - monk
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gi of Shifting Seasons
 *Wondrous item, major, rare (requires attunement by a monk)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gi-of-Shifting-Seasons.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When found, this gi is gray with a large tree design at its bottom hem. When you attune to the gi, its color and tree design changes to resemble the current season: Winter (blue, leafless), Spring (green, pink blossoms), Summer (red, green leaves), or Autumn (Yellow, red leaves along the bottom hem). While the gi resembles a season, it gains the following respective benefits:
 

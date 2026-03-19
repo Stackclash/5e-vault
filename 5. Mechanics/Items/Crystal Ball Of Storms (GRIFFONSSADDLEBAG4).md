@@ -10,11 +10,17 @@ aliases:
   - Crystal Ball of Storms
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crystal Ball of Storms
 *Wondrous item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Crystal-Ball-of-Storms.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This [[/5. Mechanics/Items/Crystal Ball.md\|crystal ball]] is about 6 inches in diameter. Inside is a perpetual storm that crackles with ferocity. While touching it, you can either cast the [[/5. Mechanics/Spells/Scrying.md\|scrying]] or [[/5. Mechanics/Spells/Call Lightning.md\|call lightning]] spell with it, using a spell save DC of 17.
 

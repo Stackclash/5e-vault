@@ -10,11 +10,17 @@ aliases:
   - Wings of the Guardian
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Wings of the Guardian
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These wings are joined to a leather harness that allows a humanoid to comfortably wear them on their back. While wearing these wings, you have a flight speed equal to your movement speed.
 

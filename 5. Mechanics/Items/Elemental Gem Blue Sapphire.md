@@ -11,10 +11,16 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elemental Gem, Blue Sapphire
 *Wondrous item, minor, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gem contains a mote of elemental energy. When you use an action to break the gem, an [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elemental]] is summoned as if you had cast the [[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] spell, and the gem's magic is lost.
 

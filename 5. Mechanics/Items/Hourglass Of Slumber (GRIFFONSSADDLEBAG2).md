@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Hourglass of Slumber
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hourglass-of-Slumber.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ebony and gold hourglass is filled with nebulous clouds of dreamy smoke instead of sand. The hourglass can act as a 1-minute timer, allowing the smoke to filter from one chamber to the next for the duration.
 

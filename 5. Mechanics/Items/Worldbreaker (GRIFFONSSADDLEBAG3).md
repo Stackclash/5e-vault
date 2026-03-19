@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Worldbreaker
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, legendary (requires attunement by a creature with a strength score of 17 or higher)*  
@@ -32,6 +35,9 @@ subtype:
 - **Damage**: 2d12 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This titanic hammer resembles a darkened globe of impenetrable black iron. When you hit with an attack made with this magic hammer, it deals `dice:2d12|noform|noparens|avg` (`2d12`) bludgeoning damage, instead of `dice:2d6|noform|noparens|avg` (`2d6`). This weapon deals double damage to objects and structures.
 

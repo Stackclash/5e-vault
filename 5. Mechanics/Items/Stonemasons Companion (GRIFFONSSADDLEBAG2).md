@@ -15,11 +15,17 @@ tier: major
 type: gear
 subtype:
   - artisans-tools
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stonemason's Companion
 *Wondrous item, artisan's tools ([[/5. Mechanics/Items/Masons Tools.md\|mason's tools]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Stonemasons-Companion.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These tools were crafted by a lonely stonemason with a desire for a companion. You gain a +1 bonus to ability checks made using this set of mason's tools.
 

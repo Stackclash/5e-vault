@@ -14,11 +14,17 @@ attunement-requirement:
   - warlock
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Gauntlets of Eldritch Ferocity
 *Wondrous item, major, rare (requires attunement by a warlock)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gauntlets-of-Eldritch-Ferocity.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These leather gloves are protected with ancient stone plates inscribed with indecipherable runes. When you hit a target with the [[/5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] spell while wearing these gauntlets and roll damage, you can treat any 1 on a damage die as a 2.
 

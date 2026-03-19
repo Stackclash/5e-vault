@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shield of Missile Attraction
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), cursed item, major, rare (requires attunement)*  
@@ -23,6 +26,9 @@ tier: major
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this shield, you have resistance to damage from ranged weapon attacks.
 

@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Bangle of Sun and Moon
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bangle-of-Sun-and-Moon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bangle features a personified sun and moon, transitioning from gold to silver midway through the band. Three small diamonds mark their eyes. While wearing the bangle, you always know how long it is until sunrise, sunset, midday, and midnight.
 

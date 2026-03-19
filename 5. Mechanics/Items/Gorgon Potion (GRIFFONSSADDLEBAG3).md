@@ -15,11 +15,17 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Gorgon Potion
 *Potion, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Gorgon-Potion.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This potion contains trace amounts of gorgon blood. When you drink this potion, you're immune to being [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] for `dice:1d4|noform|noparens|avg` (`1d4`) hours. If you're already [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], another creature can apply the potion to you and suspend the effect for `dice:1d4|noform|noparens|avg` (`1d4`) hours instead. In either case, for the duration of the potion's effects, your skin hardens into flexible metal plates; your AC can't be lower than 18.
 

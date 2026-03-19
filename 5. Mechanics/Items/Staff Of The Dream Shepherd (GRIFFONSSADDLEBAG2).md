@@ -19,6 +19,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Staff of the Dream Shepherd
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon*  
@@ -29,6 +32,9 @@ subtype:
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff's cushioned handle is lined with soft wool and decorated with star and moon patches. While the staff is within 5 feet of you, you can use an action to immediately fall asleep, but otherwise can't be put to sleep by magical means. While attuned to the staff, you regain 1 extra Hit Die whenever you finish a long rest.
 

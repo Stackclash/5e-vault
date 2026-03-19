@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Robe of Eyes
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/robe-of-eyes.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 

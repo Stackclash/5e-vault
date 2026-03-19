@@ -16,6 +16,9 @@ rarity: very-rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Breastplate of the Boundary
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), cursed item, very rare (requires attunement)*  
@@ -23,6 +26,9 @@ subtype:
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing and attuned to this breastplate, you constantly teeter on the boundary between life and death. You have resistance to necrotic damage, and if you end your turn with 0 hit points, you regain 1 hit point. In addition, you are immune to any spell or ability that would attempt to kill you instantly without dealing damage, instantly reduce you to 0 hit points without dealing damage, or attempt to remove your soul from your body without your consent (except for the curse described below).
 

@@ -13,6 +13,9 @@ armorClass: 2
 weight: 6
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Serpent Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), rare (requires attunement)*  
@@ -20,6 +23,9 @@ rarity: rare
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shield is plated with scales taken from a yuan-ti abomination and pulses with the residual divine magic of the serpent gods. While wearing this shield, you may spend a bonus action to transform the shield and the arm holding it into a single serpent attached to your shoulder for the next 10 minutes.
 

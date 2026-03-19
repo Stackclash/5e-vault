@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonwing Scimitars
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, legendary (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of twin scimitars features draconic guards and winglike blades. Despite there being two weapons, they are considered to be a single item for the purposes of attuning to them. While holding one of the swords, you always know the general direction and distance of the other.
 

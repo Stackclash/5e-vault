@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Grip of Dendallen
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Grip-of-Dendallen.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These black leather and bone chain gloves spread sickness and decay to anything they touch. While wearing the gloves, your unarmed strikes deal necrotic damage, and you can roll a `dice:d6|noform|noparens|avg` (`d6`) in place of the normal damage of your unarmed strikes. This damage is maximized if you hit a plant or plant creature with the attack.
 

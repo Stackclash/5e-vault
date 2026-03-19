@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Herbalist's Journal
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Herbalists-Journal.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This old, leather-bound book is caked in dirt. Inside is an almost unreadable scrawl of words, written in Common, that go into remarkable depth about herbology.
 

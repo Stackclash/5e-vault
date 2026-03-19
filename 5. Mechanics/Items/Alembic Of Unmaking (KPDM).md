@@ -9,10 +9,16 @@ aliases:
   - Alembic of Unmaking
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alembic of Unmaking
 *Wondrous item, very rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large alembic is a glass retort supported by a bronze tripod and connected to a smaller glass container by a bronze spout. The bronze fittings are etched with arcane symbols, and the glass parts of the alembic sometimes emit bright, amethyst sparks.
 

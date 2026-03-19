@@ -9,11 +9,17 @@ aliases:
   - Jar of Lightningflies
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Jar of Lightningflies
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Jar-of-Lightningflies.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blue glass jar was made with sand that was struck by lightning, fusing it into a glass that was then remolded into the vessel. When found, there are `dice:2d4|noform|noparens|avg` (`2d4`) miniscule, fluttering sparks inside the jar, called lightningflies. While at least 1 lightningfly is within the jar, it sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 

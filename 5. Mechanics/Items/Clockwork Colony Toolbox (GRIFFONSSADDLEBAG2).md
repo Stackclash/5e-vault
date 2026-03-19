@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Colony Toolbox
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Clockwork-Colony-Toolbox.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This trim bronze toolbox rattles softly with the sound of bolts, screws, and other tools inside. The box weighs 3 pounds and is 3 feet long, 1 foot wide, and 1 foot deep. Inside the toolbox are four empty, resizable bins with nothing inside. Any metal object left inside the closed toolbox for 1 hour becomes meticulously clean and polished.
 

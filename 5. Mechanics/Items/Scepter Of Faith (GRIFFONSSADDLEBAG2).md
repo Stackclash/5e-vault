@@ -18,11 +18,17 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scepter of Faith
 *Rod, major, very rare (requires attunement by a cleric)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Scepter-of-Faith.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod is imbued with the last remaining magic from a pious saint. While holding the rod, you can use a bonus action to cast the [[/5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]] spell from it on a creature other than you within range. When an attacker within 60 feet of you deals damage to a creature under the effect of this spell, you can use your reaction to cause a spectral shield to appear before it and push the attacker 5 feet away from the creature.
 

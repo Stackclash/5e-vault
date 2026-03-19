@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wraith's Garb
 *Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, uncommon (requires attunement)*  
@@ -25,6 +28,9 @@ subtype:
 
 - **Armor Class**: 11 + Dex modifier
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this dark leather armor in dim light or darkness, a shadowy cape billows behind you and obscures your movements. While the armor's cape is flowing behind you in this way, opportunity attacks against you are made with disadvantage. While attuned, you are considered proficient with this armor even if you lack proficiency with light armor.
 

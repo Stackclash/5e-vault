@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shapeshifter's Circlet
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Shapeshifters-Circlet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ivory circlet allows you to recreate some of the natural features of other creatures. While wearing the circlet, you can spend 1 minute to gently massage your ears, forehead, or temples. When you do, you can choose to create one of the following features or effects:
 

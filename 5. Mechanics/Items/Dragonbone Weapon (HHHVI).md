@@ -10,11 +10,17 @@ aliases:
   - Dragonbone Weapon
 attunement: true
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonbone Weapon
 *(Requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a bonus to your attack and damage rolls made with this weapon corresponding to its rarity. In addition, when you roll a 20 on your attack roll with this weapon, the target takes an additional 3 (uncommon), 7 (rare), or 10 (very rare) damage corresponding to the damage type of the dragon it was harvested from. Attacks made with this weapon have advantage against any target with the dragon creature type.
 

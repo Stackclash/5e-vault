@@ -15,11 +15,17 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gateway Ring
 *Ring, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gateway-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Made from tiny, moss-covered stones, this ring is enchanted with ancient fey magic. You can use an action to speak the ring's command word, followed by the name or description of a precise location on any plane of existence, and toss it into an unoccupied space within 10 feet of you. The ring expands into a 5-foot circular stone portal that's 1 foot thick in the space where it lands, floating 1 foot off the ground, where it remains for up to 1 minute.
 

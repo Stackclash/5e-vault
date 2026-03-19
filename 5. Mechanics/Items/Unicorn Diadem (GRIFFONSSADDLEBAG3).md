@@ -15,11 +15,17 @@ attunement-requirement:
   - paladin
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Unicorn Diadem
 *Wondrous item, major, very rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Unicorn-Diadem.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A unicorn's horn rests at the center of this diadem. While wearing the diadem, you can use it as a spellcasting focus, as if you were holding it. In addition, you have resistance to poison damage and have advantage on saving throws against poison. When you cast a spell while wearing the diadem, you can change the spell's damage type for that casting to radiant damage, unless its normal damage type is necrotic.
 

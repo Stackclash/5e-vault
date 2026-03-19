@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: none
 ---
 # Failed Purity Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), cursed item, major, rare (requires attunement)*  
@@ -34,6 +37,9 @@ subtype:
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The grayed unicorn horn that rests at the top of this sickly spear is fractured and slowly leaks a silver, corrupting fluid. A *failed purity spear* is the rare version of a [[/5. Mechanics/Items/Purity Spear (TGS1).md\|purity spear]], a legendary weapon, that was made by a creature other than an elder fey. Its magic is a sad reminder that while unicorns are paragons of good, even their magic can become toxic when mistreated.
 

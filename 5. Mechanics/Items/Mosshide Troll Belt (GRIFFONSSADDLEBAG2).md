@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mosshide Troll Belt
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Mosshide-Troll-Belt.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Magical, flowering vines have been fashioned around the remains of a troll's hide, preserving a fragment of its renowned regeneration ability. While wearing this belt, your Constitution score increases by 2, to a maximum of 20.
 

@@ -12,12 +12,18 @@ weight: 2
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Force Safe
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Force-Safe.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When not in use, this device appears like a square metallic tile. It's 6 inches on either side, 2 inches deep, and weighs 2 pounds. An indentation at the center of the tile opens into a small hole. When you use an action to place a finger in the indentation, the tile magically pricks it to extract a drop of blood.
 

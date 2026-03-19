@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Moonstone Bracers
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Moonstone-Bracers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These leather bracers are adorned with moonstones and unique wolfen buckles made of silver. While wearing these bracers, you have immunity to damage from the [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]] spell, and have resistance to nonmagical bludgeoning, piercing, and slashing damage from silvered weapons.
 

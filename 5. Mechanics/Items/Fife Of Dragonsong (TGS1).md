@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fife of Dragonsong
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, rare (requires attunement by a bard)*  
@@ -33,6 +36,9 @@ subtype:
 - **Range**: 25/100
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical fife can be played as an instrument or wielded as a deadly weapon. You are proficient with the fife of dragonsong as both an instrument and blowgun while you're attuned to it. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and any target hit by it takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) thunder damage from the attack.
 

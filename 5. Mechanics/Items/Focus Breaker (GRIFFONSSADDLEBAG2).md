@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Focus Breaker
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Forged during the Upheaval, these brutish weapons were given to members of the guard to quell any arcanist uprising. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature concentrating on a spell with this weapon, runes start to glow on the weapon's head, and that creature makes the resulting Constitution saving throw to maintain its concentration with disadvantage.
 

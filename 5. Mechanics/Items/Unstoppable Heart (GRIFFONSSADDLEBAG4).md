@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Unstoppable Heart
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Unstoppable-Heart.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This smooth, copper device looks a bit like a mechanical heart. Glowing red solution moves through its internal chambers and valves in perfect sequence. As part of attuning to the heart, you must hold it against your chest for the duration. Once you're attuned to it, it magically vanishes within your chest and begins to beat alongside your normal heart.
 

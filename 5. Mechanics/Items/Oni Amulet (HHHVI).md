@@ -10,11 +10,17 @@ aliases:
   - Oni Amulet
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Oni Amulet
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The heart of an oni, transfigured into a dark crystal. It seems to pulse with the corrupted radiance of the night, and those that gaze at it long enough swear they can see two pinpricks of white gazing back at them. While attuned to this amulet, you become more oni-like as your eyes become black with large white pupils, and two small, white, ivory nubs grow out of your forehead. If you are both wearing and attuned to this amulet, you gain the following benefits:
 

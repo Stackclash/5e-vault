@@ -12,11 +12,17 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Cube of Force
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/cube-of-force.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains `dice:1d20|noform|noparens|avg` (`1d20`) expended charges daily at dawn.
 

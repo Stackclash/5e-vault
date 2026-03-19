@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Fire Fire!
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  
@@ -30,6 +33,9 @@ subtype:
 - **Range**: 80/320
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hollow metal crossbow was created by a team of [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] and contains an enchanted ember at its core. The crossbow has 3 charges. While the crossbow has at least 1 charge, the inner ember burns brightly when you hold the weapon. While it burns, the crossbow emits bright light in a 20-foot radius and dim light for an additional 20 feet, and any nonmagical bolt fired from the crossbow catches fire and deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage to any target it hits.
 

@@ -15,12 +15,18 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quiver
 *Adventuring gear*  
 
 - **Cost**: 1 gp
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A quiver can hold up to 20 [[/5. Mechanics/Items/Arrow.md\|arrows]].
 

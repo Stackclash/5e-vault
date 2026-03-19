@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Merry Berry
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Merry-Berry.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small fruit is highly sought after by cooks and sweet-lovers everywhere, both for its flavor as well as its unique sensory-enhancing properties. Eating a berry raw yields a taste and texture like that of a rich shortbread: the perfect way to end a day of adventure or travel.
 

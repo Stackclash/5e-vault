@@ -12,12 +12,18 @@ weight: 1
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 50
+item_recharge: none
 ---
 # Gem of Brightness
 *Wondrous item, major, uncommon*  
 ![[/5. Mechanics/Items/img/gem-of-brightness.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:
 

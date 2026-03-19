@@ -11,11 +11,17 @@ aliases:
 attunement: false
 rarity: legendary
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Navis Anima
 *Wondrous item, minor, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Navis-Anima.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A navis anima, or simply an anima, is a sentient gemstone that rests upon a magic pedestal. The gemstone can't be separated from the pedestal, despite the fact that the stone seems only loosely placed atop it. While the anima is on a vehicle, you can perform a ritual to name the gemstone and vehicle, magically binding the two together. The ritual takes 1 hour to complete and requires a bottle of fine wine worth at least 100 gp. Once complete, the pedestal anchors itself to the vehicle and alters its appearance to match the vehicle's design. The chosen name then magically appears on the vehicle in a place of your choice, replacing any name that was already on it. A named anima cannot be renamed.
 

@@ -13,10 +13,16 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Enhance Ability
 *Potion, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Starts as a basic gray potion with no effect. However, if a material component is added, it gains one of the following effects:
 

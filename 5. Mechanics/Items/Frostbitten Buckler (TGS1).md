@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Frostbitten Buckler
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
@@ -22,6 +25,9 @@ tier: major
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This icy shield has 3 charges and regains all of them each day at dawn. When a creature you can see hits you with a melee attack, you can expend 1 of the shield's charges as a reaction to deal `dice:2d4|noform|noparens|avg` (`2d4`) cold damage to the attacking creature. After the attack, you gain that same amount of cold damage as temporary hit points that last for up to 1 minute.
 

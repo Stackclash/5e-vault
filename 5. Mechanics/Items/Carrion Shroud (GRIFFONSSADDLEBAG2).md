@@ -12,12 +12,18 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Carrion Shroud
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Carrion-Shroud.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ruffled cloak of dull feathers and down grants you the resilience and cunning of a ravenous vulture. When you move while wearing this cloak, small, tattered feathers drift from the cloak that vanish when they touch the ground. While wearing the cloak, your Constitution score increases by 2, to a maximum of 20, you have advantage on saving throws against disease and poison, and you have resistance to poison damage.
 

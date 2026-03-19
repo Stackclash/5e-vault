@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 5
+item_recharge: none
 ---
 # Festerwood's Light
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement)*  
@@ -29,6 +32,9 @@ subtype:
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This festerwood rapier's blade is inlaid with scrapings from the Lightspore, the radiant mushroom growing at the center of the Festerwood. You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you're attuned to this rapier, you have advantage on ability checks made to find locations within the Festerwood and are immune to disease. While holding the sword, the blade sheds bright light in a 10-foot radius and dim light for another 10 feet.
 

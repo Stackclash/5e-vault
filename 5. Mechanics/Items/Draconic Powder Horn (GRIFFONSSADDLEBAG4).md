@@ -9,11 +9,17 @@ aliases:
   - Draconic Powder Horn
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Draconic Powder Horn
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Draconic-Powder-Horn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dragon's horn is filled with a dark, explosive powder. Either end of the horn can be opened, allowing for either precise or rapid emptying. The horn can hold enough powder for up to 20 uses. While holding the horn, you can use an action to speak its command word (typically "fire" in Draconic), creating a small spark from its narrow tip and allowing it to be used as a tinderbox.
 

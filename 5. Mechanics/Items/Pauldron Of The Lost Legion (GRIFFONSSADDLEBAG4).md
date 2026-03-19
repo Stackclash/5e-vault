@@ -10,11 +10,17 @@ aliases:
   - Pauldron of the Lost Legion
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Pauldron of the Lost Legion
 *Wondrous item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Pauldron-of-the-Lost-Legion.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pauldron is made of mourningsteel, a metal sometimes found below ancient battlegrounds. A tattered capelet bearing a crest hangs from it.
 

@@ -15,21 +15,21 @@ alignment: Chaotic Neutral
 relationships: []
 partyRelationships:
   Midnight Covenant: Acquaintance
-location: "[[The Amber Temple]]"
-pronounced:
-race: "[[5. Mechanics/Bestiary/Undead/Lich|Lich]]"
+location: '[[The Amber Temple]]'
+pronounced: null
+race: '[[5. Mechanics/Bestiary/Undead/Lich|Lich]]'
 gender: male
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 > [!infobox]
 > # `=this.file.name`

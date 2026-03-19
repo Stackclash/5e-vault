@@ -10,12 +10,18 @@ aliases:
   - Dragon Queen's Cloak
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Dragon Queen's Cloak
 *Wondrous item, cursed item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Dragon-Queens-Cloak.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cloak is made from the wing of a powerful chromatic dragon. Its attached spaulders are decorated with winged designs and black, blue, green, red, and white gemstones.
 

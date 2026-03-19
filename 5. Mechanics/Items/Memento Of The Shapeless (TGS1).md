@@ -25,11 +25,17 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Memento of the Shapeless
 *Major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Memento-of-the-Shapeless.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weapon was forged using the preserved remains of an ancient mimic. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
