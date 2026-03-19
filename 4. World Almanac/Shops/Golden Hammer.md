@@ -23,6 +23,12 @@ tags:
 > |---|---|
 > | **Cost Modifier** | `INPUT[number:cost_modifier]` |
 > | **Items** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
+> ###### Shop Settings
+> |||
+> |---|---|
+> | **Shop Type** | `INPUT[select(<% shopTypeOptions %>):shop_type]` |
+> | **Shop Size** | `INPUT[select(<% shopSizeOptions %>):shop_size]` |
+> | | `BUTTON[generate-inventory]` |
 
 `$= await dv.view("views/locationBreadcrumbs", {current: dv.current()})`
 # `=this.file.name`
