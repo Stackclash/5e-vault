@@ -72,21 +72,60 @@ relationship_mapping:
       female: Niece
     to: Aunt
 active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
+shop_types:
+  - name: Blacksmith
+    item_types: "weapon, armor"
+  - name: Apothecary
+    item_types: wondrous
+  - name: Fletcher
+    item_types: weapon
+  - name: General Store
+    item_types: "weapon, armor, wondrous"
+shop_sizes:
+  - name: Small
+    rarity: none
+    count: 1d4+2
+  - name: Small
+    rarity: common
+    count: 1d4
+  - name: Medium
+    rarity: none
+    count: 2d4+2
+  - name: Medium
+    rarity: common
+    count: 2d4
+  - name: Medium
+    rarity: uncommon
+    count: 1d4
+  - name: Large
+    rarity: none
+    count: 2d6+2
+  - name: Large
+    rarity: common
+    count: 2d6
+  - name: Large
+    rarity: uncommon
+    count: 2d4
+  - name: Large
+    rarity: rare
+    count: 1d2
 item_pricing:
   base_prices:
     none: 0
-    common: 500
-    uncommon: 5000
-    rare: 50000
-    very-rare: 500000
-    legendary: 5000000
+    common: 10000
+    uncommon: 40000
+    rare: 400000
+    very-rare: 4000000
+    legendary: 20000000
+  tier_modifiers:
+    minor: 0.75
+    major: 1.5
   consumable_modifier: 0.5
   attunement_modifier: 0.9
   recharge_modifiers:
-    none: 1
-    dawn: 0.85
+    dawn: 0.9
     short-rest: 0.95
-    long-rest: 0.8
+    long-rest: 0.85
 ---
 > [!infobox|n-th]
 > | | |
@@ -177,7 +216,7 @@ actions:
 
 # Configuration
 ```meta-bind
-INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Mapping'), option(3, 'Item Pricing'), class(tabbed))]
+INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Mapping'), option(3, 'Shop Configuration'), option(4, 'Item Pricing'), class(tabbed))]
 ```
 >[!tabbed-box]
 >>[!div-m] File Location Configuration
@@ -236,6 +275,62 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>   ]))
 >> ```
 >
+>> [!div-m] Shop Configuration
+>> ##### Shop Types
+>> `BUTTON[add-shop-type]`
+>> ```meta-bind-button
+>> label: Add Shop Type
+>> hidden: true
+>> id: add-shop-type
+>> style: primary
+>> actions:
+>>   - type: inlineJS
+>>     code: |-
+>>       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+>>         if (!Array.isArray(fm.shop_types)) {
+>>           fm.shop_types = [{name: '', item_types: ''}]
+>>         } else {
+>>           fm.shop_types = [...fm.shop_types, {name: '', item_types: ''}]
+>>         }
+>>       })
+>> ```
+>> ```dataviewjs
+>> dv.table(['Shop Type', 'Item Types (comma-separated)', 'Delete'],
+>>   (dv.current()['shop_types'] || []).map((st, i) => [
+>>     `\`INPUT[text:shop_types[${i}].name]\``,
+>>     `\`INPUT[text:shop_types[${i}].item_types]\``,
+>>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-shop-type-${i}\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: remove\n      field: shop_types\n      index: ${i}\n\`\`\``
+>>   ]))
+>> ```
+>> ##### Shop Sizes
+>> Each row defines how many items of a given rarity a shop size stocks. Add multiple rows with the same size name for different rarities. Count supports dice notation (e.g. `1d4`, `2d6+1`) or a static number.
+>> `BUTTON[add-shop-size]`
+>> ```meta-bind-button
+>> label: Add Shop Size Entry
+>> hidden: true
+>> id: add-shop-size
+>> style: primary
+>> actions:
+>>   - type: inlineJS
+>>     code: |-
+>>       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+>>         if (!Array.isArray(fm.shop_sizes)) {
+>>           fm.shop_sizes = [{name: '', rarity: '', count: ''}]
+>>         } else {
+>>           fm.shop_sizes = [...fm.shop_sizes, {name: '', rarity: '', count: ''}]
+>>         }
+>>       })
+>> ```
+>> ```dataviewjs
+>> dv.table(['Size Name', 'Rarity', 'Count', 'Delete'],
+>>   (dv.current()['shop_sizes'] || []).map((ss, i) => [
+>>     `\`INPUT[text:shop_sizes[${i}].name]\``,
+>>     `\`INPUT[text:shop_sizes[${i}].rarity]\``,
+>>     `\`INPUT[text:shop_sizes[${i}].count]\``,
+>>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-shop-size-${i}\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: remove\n      field: shop_sizes\n      index: ${i}\n\`\`\``
+>>   ]))
+>> ```
+>
 >> [!div-m] Item Pricing
 >> > [!columns|no-t 2]
 >> >> ## Base Prices (cp)
@@ -250,8 +345,8 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >> >> ## Modifiers
 >> >> |||
 >> >> |:---:|:---:|
->> >> | Minor Tier | `INPUT[number:item_pricing.minor_tier_modifier]` |
->> >> | Major Tier | `INPUT[number:item_pricing.major_tier_modifier]` |
+>> >> | Minor Tier | `INPUT[number:item_pricing.tier_modifiers.minor]` |
+>> >> | Major Tier | `INPUT[number:item_pricing.tier_modifiers.major]` |
 >> >> | Consumable | `INPUT[number:item_pricing.consumable_modifier]` |
 >> >> | Attunement | `INPUT[number:item_pricing.attunement_modifier]` |
 >> >> | Recharge: Dawn | `INPUT[number:item_pricing.recharge_modifiers.dawn]` |

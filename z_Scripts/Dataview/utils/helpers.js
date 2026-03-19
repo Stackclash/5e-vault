@@ -76,29 +76,32 @@ export function calculateItemPrice(item, pricing) {
     const rarity = item.rarity ?? 'none'
 
     // Non-magic items (rarity: none) use their hard-coded cost field
-    if (!rarity || rarity === 'none') {
+    if (rarity === 'none') {
         return item.cost ?? 0
     }
 
-    const basePrices = pricing?.base_prices ?? {}
-    const basePrice = basePrices[rarity] ?? 0
+    const basePrice = pricing?.base_prices?.[rarity] ?? 0
 
-    let price = basePrice
+    const magicTier = item.tier ?? 'minor'
+    const tierModifier = pricing?.tier_modifiers?.[magicTier] ?? 1
 
-    // Consumables are priced at a fraction of a permanent item (default: half price)
-    if (item.item_consumable) {
-        price *= pricing?.consumable_modifier ?? 0.5
-    }
+    const consumableModifier = item.item_consumable
+        ? (pricing?.consumable_modifier ?? 0.5)
+        : 1
 
-    // Attunement is a significant limitation (default: 10% discount)
-    if (item.attunement) {
-        price *= pricing?.attunement_modifier ?? 0.9
-    }
+    const attunementModifier = item.attunement
+        ? (pricing?.attunement_modifier ?? 0.9)
+        : 1
 
-    // Recharge limits reduce value relative to a permanent unlimited-use item
-    const rechargeModifiers = pricing?.recharge_modifiers ?? {}
     const recharge = item.item_recharge ?? 'none'
-    price *= rechargeModifiers[recharge] ?? 1.0
+    const rechargeModifier = pricing?.recharge_modifiers?.[recharge] ?? 1
+
+    const price =
+        basePrice *
+        tierModifier *
+        consumableModifier *
+        attunementModifier *
+        rechargeModifier
 
     return Math.round(price)
 }
