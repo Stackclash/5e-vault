@@ -10,6 +10,7 @@ tags:
   - shop
   - location
 type: Blacksmith
+size: Small
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -28,7 +29,7 @@ type: Blacksmith
 > |||
 > |---|---|
 > | **Shop Type** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: dv.page('Configuration').shop_types.map(t => 'option(' + t.name + ')'), field: 'type' })` |
-> | **Shop Size** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: dv.page('Configuration').shop_sizes.map(t => 'option(' + t.name + ')'), field: 'size' })` |
+> | **Shop Size** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: [...new Set(dv.page('Configuration').shop_sizes.map(t => 'option(' + t.name + ')'))], field: 'size' })` |
 > | | `BUTTON[generate-inventory]` |
 ```meta-bind-button
 style: primary
