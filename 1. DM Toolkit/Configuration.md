@@ -75,21 +75,20 @@ active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for V
 item_pricing:
   base_prices:
     none: 0
-    common: 50000
-    uncommon: 500000
-    rare: 5000000
-    very-rare: 50000000
-    legendary: 500000000
+    common: 10000
+    uncommon: 40000
+    rare: 400000
+    very-rare: 4000000
+    legendary: 20000000
+  tier_modifiers:
+    minor: 0.75
+    major: 1.5
   consumable_modifier: 0.5
   attunement_modifier: 0.9
   recharge_modifiers:
-    none: 1
-    dawn: 0.85
-    short-rest:
-    long-rest: 0.8
-  tier_modifiers:
-    minor: 0.75
-    major: 1.25
+    dawn: 0.9
+    short-rest: 0.95
+    long-rest: 0.85
 ---
 > [!infobox|n-th]
 > | | |
