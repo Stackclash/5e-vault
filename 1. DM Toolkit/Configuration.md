@@ -75,18 +75,21 @@ active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for V
 item_pricing:
   base_prices:
     none: 0
-    common: 5000
-    uncommon: 50000
-    rare: 500000
-    very-rare: 5000000
-    legendary: 50000000
+    common: 50000
+    uncommon: 500000
+    rare: 5000000
+    very-rare: 50000000
+    legendary: 500000000
   consumable_modifier: 0.5
   attunement_modifier: 0.9
   recharge_modifiers:
     none: 1
     dawn: 0.85
-    short-rest: 0.95
+    short-rest:
     long-rest: 0.8
+  tier_modifiers:
+    minor: 0.75
+    major: 1.25
 ---
 > [!infobox|n-th]
 > | | |
@@ -250,8 +253,8 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >> >> ## Modifiers
 >> >> |||
 >> >> |:---:|:---:|
->> >> | Minor Tier | `INPUT[number:item_pricing.minor_tier_modifier]` |
->> >> | Major Tier | `INPUT[number:item_pricing.major_tier_modifier]` |
+>> >> | Minor Tier | `INPUT[number:item_pricing.tier_modifiers.minor]` |
+>> >> | Major Tier | `INPUT[number:item_pricing.tier_modifiers.major]` |
 >> >> | Consumable | `INPUT[number:item_pricing.consumable_modifier]` |
 >> >> | Attunement | `INPUT[number:item_pricing.attunement_modifier]` |
 >> >> | Recharge: Dawn | `INPUT[number:item_pricing.recharge_modifiers.dawn]` |
