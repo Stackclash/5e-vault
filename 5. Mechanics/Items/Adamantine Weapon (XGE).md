@@ -83,13 +83,12 @@ item_recharge: none
 # Adamantine Weapon
 *Major*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Melee weapons made of or coated with adamantine are unusually effective when used to break objects. Whenever an adamantine weapon hits an object, the hit is a critical hit.
 
 The adamantine version of a melee weapon costs 500 gp more than the normal version, whether the weapon is made of the metal or coated with it.
 
 *Source: Xanathar's Guide to Everything p. 78*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

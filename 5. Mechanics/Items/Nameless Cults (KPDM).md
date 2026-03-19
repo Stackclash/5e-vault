@@ -17,6 +17,9 @@ item_recharge: none
 # Nameless Cults
 *Wondrous item, legendary (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dubious old book, bound in heavy leather with iron hasps, details the forbidden secrets and monstrous blasphemy of a multitude of nightmare cults that worship nameless and ghastly entities. It reads like the monologue of a maniac, illustrated with unsettling glyphs and filled with fluctuating moments of vagueness and clarity.
 
@@ -25,7 +28,3 @@ The tome contains all mythos magic spells in this section, plus any additional s
 The book's bearer can reference Nameless Cults whenever he or she makes an Intelligence check to recall information about any aspect of evil or the occult, such as lore about Great Old Ones, mythos creatures, or the cults that worship them. When doing so, the proficiency bonus for that check is doubled.
 
 *Source: Deep Magic p. 343*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

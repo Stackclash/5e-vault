@@ -22,6 +22,9 @@ item_recharge: long-rest
 *Wondrous item, major, legendary (requires attunement by a sorcerer)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Meta-Mantle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This short scarlet robe's interior and sleeves hold hundreds of arcane runes that have been embroidered with platinum thread. While wearing the robes, you can change your known Metamagic options whenever you finish a long rest. In addition, you gain the following three Metamagic options to choose from.
 
@@ -38,7 +41,3 @@ When a creature hits you with an attack or you take damage, you can use your rea
 When you cast a spell that affects an area such as a line, cone, or sphere, you can spend 2 sorcery points to increase its area of affect. A line's length increases by 15 feet, a cone's size increases by 5 feet, a cube's size increases by 5 feet on a side, a sphere's radius increases by 5 feet, and a cylinder's diameter or height increases by 5 feet or 10 feet, respectively (your choice).
 
 *Source: The Griffon's Saddlebag, Book 2 p. 122*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

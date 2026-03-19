@@ -35,6 +35,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The whirring of countless gears can be heard faintly from within this weapon's brass fixtures. You gain a +3 bonus to attack and damage rolls made with this magic weapon, and if your AC is an odd number without the sword, you also gain a +1 bonus to AC while you're attuned to it. AC bonuses from a spell or other temporary magical effect don't affect the bonus given by the sword.
 
@@ -55,7 +58,3 @@ The form of order is a sentient lawful neutral weapon with an Intelligence of 16
 The form of order has an unwaveringly logical personality and is devoid of emotion. Its only directive is to uphold order in the universe, and urges the attuned creature to do what it must to preserve order. If it feels that its attuned creature will not follow that ideal, a conflict may arise.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -37,6 +37,9 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fungal staff has 25 charges and regains `dice:1d10+15|noform|noparens|avg` (`1d10 + 15`) expended charges daily at dusk. While holding the staff, you can use an action to expend 1 or more of its charges to cause clusters of noxious mushrooms to magically appear in a number of unoccupied spaces equal to the number of charges you expend. The spaces must be on solid ground within 60 feet of you. Each space becomes difficult terrain for the duration of the effect. When a creature moves into or within a space or area covered by these mushrooms, that creature takes `dice:2d4|noform|noparens|avg` (`2d4`) poison damage for every 5 feet it travels. The mushrooms live for 1 minute or until you dismiss them as a bonus action.
 
@@ -45,7 +48,3 @@ In addition, while holding the staff, you can use a bonus action to expend 1 or 
 If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff begins to overgrow, destroying the staff and forcing you to drop it in an unoccupied space adjacent to you. A hostile [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] grows in its place.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 62*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

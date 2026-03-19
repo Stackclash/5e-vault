@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slender, iridescent lance is covered in an enchanted finish that resembles the hardened scales of many dragons. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While attuned to the weapon, you can, understand and speak Draconic.
 
@@ -52,7 +55,3 @@ If you move at least 20 feet straight toward a Medium or smaller target and then
 You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 55*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Crystal-Ball-of-Storms.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This [[/5. Mechanics/Items/Crystal Ball.md\|crystal ball]] is about 6 inches in diameter. Inside is a perpetual storm that crackles with ferocity. While touching it, you can either cast the [[/5. Mechanics/Spells/Scrying.md\|scrying]] or [[/5. Mechanics/Spells/Call Lightning.md\|call lightning]] spell with it, using a spell save DC of 17.
 
@@ -28,7 +31,3 @@ Alternatively, you can cast [[/5. Mechanics/Spells/Call Lightning.md\|call light
 If the [[/5. Mechanics/Items/Crystal Ball.md\|crystal ball]] is destroyed, the storm appears outside and centered in the sky above that point. The storm recreates the effects of the [[/5. Mechanics/Spells/Control Weather.md\|control weather]] spell, as determined by the GM. The storm is permanent; only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can dispel it.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

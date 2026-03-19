@@ -24,11 +24,10 @@ item_recharge: none
 
 - **Cost**: 1 gp
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden case can hold up to twenty [[/5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolts]].
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

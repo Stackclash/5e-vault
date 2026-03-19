@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![[/5. Mechanics/Items/img/dread-helm.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fearsome steel helm makes your eyes glow red while you wear it.
 
 *Source: Xanathar's Guide to Everything p. 137*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -21,11 +21,10 @@ item_recharge: none
 # Statuette of Saint Markovia
 
 - **Cost**: 250 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden statuette grants any good-aligned creature that carries it a +1 bonus to saving throws.
 
 *Source: Curse of Strahd p. 152*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

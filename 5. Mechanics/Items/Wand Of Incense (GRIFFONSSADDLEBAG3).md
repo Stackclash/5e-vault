@@ -26,6 +26,9 @@ item_recharge: dawn
 *Wand, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Incense.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item is a magic incense holder sculpted in the design of a smoldering dragon. Its base is wrapped in leather and doubles as the handle of a wand. A stick of special, magic incense appears in the holder daily at dawn, which is held in place by the dragon's mouth and can't be removed until it's burned away. The special incense smells like heady brimstone and fills you with a sense of confidence. While a stick of incense is in the holder, it doubles as a wand.
 
@@ -42,7 +45,3 @@ While you can smell the burning incense, you can't be [[/5. Mechanics/Rules/Cond
 If you have a normal stick of incense, you can use an action to place it in the empty holder. Normal incense burned in the holder never loses any of its total burn time, but is expelled from the holder when the special incense appears each dawn. Incense burned from the holder can be smelled by any creature within 60 feet of it. While holding the wand, you can choose whether or not the incense is burning (no action required).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

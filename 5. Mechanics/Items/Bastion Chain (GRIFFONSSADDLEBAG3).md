@@ -32,11 +32,10 @@ item_recharge: none
 - **Strength**: Requires 13 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 55.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The chains of this armor shift naturally with your movements. You gain a +1 bonus to AC while you wear this armor, which doesn't impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks you make. In addition, the chains flow around you reflexively when you're surrounded; the armor's bonus to AC increases to +2 when three or more hostile creatures are within 5 feet of you.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

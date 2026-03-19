@@ -23,6 +23,9 @@ item_recharge: none
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this shield, you have advantage on saving throws against spells, and any creature making a spell attack against you has disadvantage on the attack roll. If you succeed on your saving throw against a spell, or if a spell attack misses you, an additional effect might occur, as determined by rolling a `dice:d6|noform|noparens|avg` (`d6`):
 
@@ -33,7 +36,3 @@ While wearing this shield, you have advantage on saving throws against spells, a
 This shield loses all its magical properties 1 month after being crafted. After this point, the shield may be reused to create a [[/5. Mechanics/Items/Spellguard Shield.md\|spellguard shield]], counting for 2,000 gp of the crafting cost.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 54*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

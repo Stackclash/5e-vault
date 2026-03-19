@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/belt-of-dwarvenkind.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this belt, you gain the following benefits:
 
@@ -35,7 +38,3 @@ If you aren't a dwarf, you gain the following additional benefits while wearing 
 - You can speak, read, and write Dwarvish.  
 
 *Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

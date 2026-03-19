@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dune-Cowl.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tough leather hat and cowl help protect you against the extreme heat and sun of the desert. While wearing the cowl, you can withstand temperatures as hot as 200 degrees Fahrenheit, and if you have the Sunlight Sensitivity trait, you are unaffected by the trait while wearing the hat.
 
@@ -29,7 +32,3 @@ On your turn, you can mentally command the scorpion if it is within 60 feet of y
 The hat remains in scorpion form for up to 8 hours. If the scorpion is reduced to 0 hit points, it dies and reverts to its hat form. Once this property of the hat has been used, it can't be used again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 75*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

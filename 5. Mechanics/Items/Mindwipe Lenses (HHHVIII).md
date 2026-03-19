@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These lenses have 10 charges. While wearing and attuned to these lenses, you may expend those charges to do any of the following.
 
@@ -40,7 +43,3 @@ You may use an action to expend 4 charges to target one creature you can see wit
 These lenses recover all expended charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 92*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

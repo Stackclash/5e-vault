@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. While holding it, you can use a bonus action to speak its command word. When you do, you are affected by the [[/5. Mechanics/Spells/Haste.md\|haste]] spell, which lasts until the start of your next turn. At the start of your next turn, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1-10, you are affected by the [[/5. Mechanics/Spells/Slow.md\|slow]] spell, or the [[/5. Mechanics/Spells/Haste.md\|haste]] spell on an 11-20. The spell lasts until the start of your next turn, at which point you roll the `dice:d20|noform|noparens|avg` (`d20`) again. Continue to roll the `dice:d20|noform|noparens|avg` (`d20`) at the start of each of your turns in this way for 1 minute, gaining the effects of either the haste or [[/5. Mechanics/Spells/Slow.md\|slow]] spell each turn, or until you end it using a bonus action. This property of the axe can't be used again until the next dawn.
 
@@ -44,7 +47,3 @@ These spells don't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|co
 While holding the axe, if you take damage that reduces you to 0 hit points but doesn't kill you outright, you can use your reaction (before falling [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]) to interrupt the current turn. You then immediately take an extra turn, and regain any hit points you lost since the end of your last turn, up to a maximum of 24 hit points. You are affected by the [[/5. Mechanics/Spells/Haste.md\|haste]] spell for the duration of this extra turn. Once this property of the axe has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

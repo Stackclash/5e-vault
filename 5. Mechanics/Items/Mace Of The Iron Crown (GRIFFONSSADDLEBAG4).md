@@ -29,6 +29,9 @@ item_recharge: none
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark iron mace is topped with a ring of menacing spikes. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
@@ -39,7 +42,3 @@ At the start of each of its turns, a confused creature has a 50 percent chance t
 The crown vanishes and the effect ends after 1 minute or after the third time the creature has either succeeded on the saving throw or hasn't become maddened at the start of its turn; the creature is then immune to this effect for the next 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

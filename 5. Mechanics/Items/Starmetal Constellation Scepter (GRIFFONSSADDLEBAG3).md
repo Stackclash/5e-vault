@@ -24,6 +24,9 @@ item_recharge: none
 *Rod, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Starmetal-Constellation-Scepter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This metal scepter has a pair of floating astrolabe rings rotating around its head. Small stars connected by silver lines decorate its surface.
 
@@ -34,7 +37,3 @@ A creature that starts its turn within the bright light or enters it for the fir
 You can use an action on your turn while holding this scepter to cause two or more of the spheres to emit a beam of light between them, provided that the spheres are no more than 60 feet away from one another. Each beam connects any two spheres, creating a line of light between them that's 1 inch thick. Any creature caught in one or more of the lines must succeed on a DC 15 Dexterity saving throw or take `dice:4d6|noform|noparens|avg` (`4d6`) radiant damage. The beams then vanish.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

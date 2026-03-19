@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Technically this is not a plant, but rather a portion of mud that has had the le
 For 8 hours after using this herb, you do not produce a smell, and any odours that attempt to cling to you are instantly neutralised.
 
 *Source: Hamund's Herbalism Handbook p. 18*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

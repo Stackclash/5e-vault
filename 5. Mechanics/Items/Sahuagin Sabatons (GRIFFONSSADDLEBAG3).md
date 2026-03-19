@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sahuagin-Sabatons.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These armored sabatons fit neatly over any boot or shoe you're already wearing. While wearing them, you have a swimming speed of 30 feet. If you already have a swimming speed, wearing the sabatons increases that speed by 15 feet.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

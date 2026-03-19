@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bramble-Token-Cuff.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This green ear cuff magically grips and coils around your ear while you're wearing it. You can use an action to speak the cuff's command word and throw it on the ground at a point you can see within 30 feet of you. The cuff then shatters, destroying it, and immediately grows into a mass of twisting vines and thorns in one of the following shapes of your choice:
 
@@ -42,7 +45,3 @@ The thorns create a dense wall of bramble-like brush in a straight line up to 30
 
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

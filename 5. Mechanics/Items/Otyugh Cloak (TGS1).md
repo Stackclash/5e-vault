@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Otyugh-Cloak.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gruesome, magical [[/5. Mechanics/Bestiary/Aberration/Otyugh.md\|otyugh]] pelt still holds some of its natural abilities. A single tendril bearing three eyes hangs from the back of the cloak's hood. While wearing the cloak, you can use an action to telepathically communicate with a creature you can see within 60 feet of you that can understand a language, sending either simple messages or images when you do. The receiving creature can't respond to these messages.
 
@@ -27,7 +30,3 @@ The tendril hanging from the hood is 3 feet long and offers some limited articul
 In addition, you can raise or lower the cloak's hood using a bonus action. While the hood is lifted, you can use an action to close your eyes and see through the eyes of the tendril. You can control the tendril while looking through the eyes in this way. When you do, you have darkvision out to a range of 60 feet. You return to your normal senses when you reopen your eyes or lower the hood.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 93*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

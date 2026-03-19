@@ -22,11 +22,10 @@ item_recharge: none
 # Potion of Heroism
 *Potion, minor, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the [[/5. Mechanics/Spells/Bless.md\|bless]] spell (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required). This blue potion bubbles and steams as if boiling.
 
 *Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

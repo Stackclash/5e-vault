@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Cost**: 50 gp
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 > [!quote] A quote from Hamund  
 > 
@@ -32,7 +35,3 @@ item_recharge: none
 This book is filled with all sorts of useful information on the creatures that inhabit the multiverse, specifically, which parts of them are useful for harvesting. Using this book grants you advantage on any "Appraise" ability check.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 145, Hamund's Harvesting Handbook: Volume II p. 67, Hamund's Harvesting Handbook: Volume III p. 107*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

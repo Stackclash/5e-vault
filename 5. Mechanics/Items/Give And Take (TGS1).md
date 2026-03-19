@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of mithral *(Give)* and obsidian *(Take)* scimitars are connected by a sturdy chain. When you engage in two-weapon fighting using both scimitars, you can add your ability modifier to the damage of the second attack.
 
@@ -46,7 +49,3 @@ When you hit a creature with *Give* and expend 1 charge, you and all other creat
 When you hit a creature with *Take* and expend 1 charge, that creature takes `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage, and you and all other creatures within 5 feet of the target take half as much necrotic damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 72*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather cape is formed from two enchanted sheets of leather, connected to a repurposed marilith spine running down the centre.
 
@@ -26,7 +29,3 @@ While wearing this cape, you may speak the command word as an action to animate 
 These extra hands remain for 1 hour or until you dismiss them by repeating the command word as an action. When they disappear, they cannot be used again for the next `dice:1d6|noform|noparens|avg` (`1d6`) hours.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 120*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

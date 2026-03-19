@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Quiver-of-Elemental-Chaos.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This quiver has a lid with 5 holes in it and has depictions of the Elemental Planes on its side. It has 4 buttons along its top that correspond to each of the four elements: Air, Earth, Fire, and Water.
 
@@ -66,7 +69,3 @@ This special piece of sticky ammunition gives off a faint, alchemical odor. This
 This special piece of black ammunition feels smooth like coal to the touch and releases a faint wisp of smoke. This ammunition duplicates the effect of the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell (2nd-level version) at the point of impact, with the exception that this fog is pitch black.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 140*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

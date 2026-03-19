@@ -21,6 +21,9 @@ item_recharge: short-rest
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Redsmith-Carrying-Pack.webp#right)  
 
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rough leather backpack has red binding straps and anvil emblem on its front. Even if it's empty, it sounds like various clattering tools can be found inside it. The bag has a limited demiplane inside of it that's used for carrying impractically heavy [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] from place to place. You can use an action to reach into the bag and magically remove one or more tools from either a glassblower's, smith's, or tinker's tool set from the demiplane. Alternatively, you can choose to remove a miniature anvil from it that's 1 foot long and weighs 20 pounds. A tool or anvil removed from the bag in this way magically disappears and returns to the bag if it's ever more than 60 feet away from the bag or if it goes untouched for 10 minutes. While a tool is within the bag's demiplane, its weight is reduced to 0.
 
@@ -29,7 +32,3 @@ If you have a different magic item with "Redsmith" in the name, you can perform 
 The bag can also be used as a normal backpack.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

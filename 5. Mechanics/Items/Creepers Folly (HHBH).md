@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 100 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A type of ivy distinguishable by its spindly forked leaves that resemble that of
 For 4 hours after using this herb, you cannot be surprised and you make all initiative rolls at advantage.
 
 *Source: Hamund's Herbalism Handbook p. 10*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

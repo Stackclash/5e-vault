@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dryadleaf.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic plant only grows at the base of trees that are often stepped through by [[/5. Mechanics/Bestiary/Fey/Dryad.md\|dryads]]. Its leaves continuously shift as if by a breeze. Touching the plant, even gently, causes its leaves to stop their gentle swaying for 1 minute.
 
@@ -29,7 +32,3 @@ You can move the plant to a pot over the course of 1 minute. When you do, make a
 The plant can survive with surprisingly little air, allowing it to survive in an extradimensional space such as a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]] or [[/5. Mechanics/Items/Portable Hole.md\|portable hole]]. So long as it's watered lightly each day and given a moderate amount of sunlight (weather and environment permitting), the plant grows `dice:1d4|noform|noparens|avg` (`1d4`) missing mature leaves every 7 days.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 57*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Frefils-Jolly-Oozebean-Sugarbombs.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A pack of oozebeans comes with 4 inside it. When you open a pack, roll `dice:4d8|noform|noparens|avg` (`4d8`) and record each number. Use these numbers to determine the kinds of oozebeans found in the bag using the table below. You can eat an oozebean using a bonus action. Each color has an effect that lasts for 1 minute.
 
@@ -43,7 +46,3 @@ You can only be under the effects of 1 sugarbomb that has this feature at a time
 ^oozebean-colors
 
 *Source: The Griffon's Saddlebag, Book 1 p. 69*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

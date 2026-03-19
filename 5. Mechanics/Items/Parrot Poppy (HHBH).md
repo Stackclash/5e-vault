@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -47,7 +50,3 @@ As an action, you may shake this herb, causing it to emit a sound that is audibl
 ^parrot-poppy-sound-table
 
 *Source: Hamund's Herbalism Handbook p. 26*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

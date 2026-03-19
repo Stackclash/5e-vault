@@ -24,6 +24,9 @@ item_recharge: none
 *Melee weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hour-and-Minute.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These two magical weapons are bound by a powerful force. Despite there being two weapons, you only need to attune to one of them to use their properties. While holding one of the weapons, you can use an action to determine the distance and direction of the other paired weapon as long as you're on the same plane of existence.
 
@@ -38,7 +41,3 @@ While holding both weapons in either hand, you gain several benefits:
 - In addition, you can use an action to lay the two weapons down on the ground. When you do, they magically point north before spinning around to align and tell the current time. When they do, 12:00 is always facing north.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 107*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

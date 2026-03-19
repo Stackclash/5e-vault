@@ -33,13 +33,12 @@ item_recharge: none
 - **Range**: 40/80
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic dagger was made from pieces of a slain basilisk and still retains some of its properties. The dagger deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) poison damage to any target it hits.
 
 In addition, when you score a critical hit with this weapon against a Large or smaller creature, that creature must succeed on a DC 13 Constitution saving throw or be restrained until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 32*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

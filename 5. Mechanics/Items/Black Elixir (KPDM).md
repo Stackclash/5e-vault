@@ -20,6 +20,9 @@ item_recharge: none
 # Black Elixir
 *Potion, legendary*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This greasy black liquid acts as a poison when drunk or rubbed on flesh. Its unfortunate or foolish user takes `dice:12d6|noform|noparens|avg` (`12d6`) poison damage, or half damage with a successful DC 20 Constitution saving throw.
 
@@ -30,7 +33,3 @@ Its true power is revealed, however, when black elixir is smeared on a doorway o
 The heart of a marut, the powdered horn of a ki-rin, and a vial of black mud taken from the bottom of a lake that at least one celestial or fiend has bathed in.
 
 *Source: Deep Magic p. 169*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

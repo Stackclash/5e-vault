@@ -22,9 +22,9 @@ item_recharge: none
 *Gaming set*  
 
 - **Cost**: 1 gp
-
-*Source: Player's Handbook p. 154. Available in the Basic Rules (2014)*
-
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})
 ```
+
+
+*Source: Player's Handbook p. 154. Available in the Basic Rules (2014)*

@@ -23,6 +23,9 @@ item_recharge: none
 *Rod, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Instigators-Rod.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod looks like a normal torch with a brazier made of four metal prongs. While holding the rod, you can use an action to speak either of its two command words.
 
@@ -33,7 +36,3 @@ The second command word causes the rod to transform into a pitchfork, which func
 When you make an ability check to intimidate or coerce a creature while holding the rod, you gain a bonus to the roll equal to the number of other creatures within 15 feet of you who are also holding an instigator's rod, up to a maximum bonus of +5. Once you benefit from this bonus, neither you nor any other creature that was involved in determining the bonus of that check can benefit from an instigator's rod again in this way for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

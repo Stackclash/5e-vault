@@ -19,6 +19,9 @@ item_recharge: dawn
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-Charging-Station.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A wand that's left in this wooden device for 8 consecutive hours regains `dice:2d4|noform|noparens|avg` (`2d4`) expended charges the next time it would normally regain charges within 24 hours. This `dice:2d4|noform|noparens|avg` (`2d4`) replaces the normal number of charges the wand regains each day. If a wand doesn't regain charges daily at dawn, dusk, or a similar time, this item has no effect on the wand. An artifact can't benefit from this item. Only one wand can be in the charging station at a time.
 
@@ -27,7 +30,3 @@ If you roll a 4 on both d4s, the wand's maximum number of charges increases by 1
 If having an extra charge would potentially allow you to cast a spell from the wand at a level higher than 9th, the spell can nevertheless not exceed 9th level.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

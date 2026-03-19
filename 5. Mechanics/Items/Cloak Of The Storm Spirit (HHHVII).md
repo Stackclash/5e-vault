@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This electric-blue cloak emanates a constant low hum of the sound of thunder. While wearing and attuned to this cloak, you have resistance to lightning and thunder damage. In addition, you may spend your action to speak the cloak's command word and transform yourself into a living storm for 1 minute or until you spend your action to speak the command word again.
 
@@ -31,7 +34,3 @@ As a living storm, you lack a corporeal form and are instead a vague humanoid sh
 If you are in living storm form while in an area under the effect of the [[/5. Mechanics/Spells/Control Weather.md\|control weather]] spell or similar magic, you instantly revert to your true form. Once this item's ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 55*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

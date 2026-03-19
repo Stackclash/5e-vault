@@ -19,6 +19,9 @@ item_recharge: dawn
 *Wondrous item, major, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sovereignseed-Duffel.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This messenger bag is linked to an extraplanar garden. You can use an action to pull a seed from the bag and place or throw it at a target or point that you can see within 30 feet of you. Alternatively, you can pull a seed from the bag when you make a ranged attack with a sling, using the seed as a sling bullet once on each of your turns. You choose which seed to draw from the bag each time; each one has an effect that triggers upon impact. A seed's effect is centered at the point of impact or at a point of your choice within 5 feet of the target it hits, unless otherwise specified. A seed's effect fails if there isn't a point on the ground within 5 feet of the point of impact or target. At the end of a seed's duration, it turns to a small pile of fertile soil.
 
@@ -49,7 +52,3 @@ This seed replicates the effects of the [[/5. Mechanics/Spells/Entangle.md\|enta
 If you have a sovereignseed satchel, you can use an action to transplant one of its seeds to the duffel. If you spend at least 1 hour per day for the next 7 days tending to the seed, it takes root and is added to the sovereignseed duffel's seed options. If the transplanted seed has a saving throw, its DC is increased to 17. Only one transplanted seed can grow in the duffel at a time, which can be removed with 8 hours of work.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

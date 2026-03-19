@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -39,7 +42,3 @@ You may eat this herb as an action. For the next hour, the maximum volume of you
 
 
 *Source: Hamund's Herbalism Handbook p. 38*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

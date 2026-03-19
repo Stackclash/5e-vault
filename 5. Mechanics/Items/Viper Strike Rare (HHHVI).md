@@ -29,11 +29,10 @@ item_recharge: none
 # Viper Strike (Rare)
 *Rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you roll a 20 on your attack roll with this weapon, you deal an additional `dice:10|noform|noparens|avg` (`10`) poison damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 144*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

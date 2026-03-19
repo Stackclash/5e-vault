@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Turtle-Pack.webp#right)  
 
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This backpack is armored with the shell of a mighty turtle. Wearing or removing the backpack requires an action. It functions as a [[/5. Mechanics/Items/Hewards Handy Haversack.md\|Heward's Handy Haversack]] with the following changes and additional benefits:
 
@@ -37,7 +40,3 @@ While wearing the backpack, you gain a +2 bonus to AC until the start of your ne
 While useful, the bag is a little unwieldy. A creature wearing the backpack can only stand up from being [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] by using an action unless another friendly creature is within 5 feet of it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

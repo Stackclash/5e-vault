@@ -28,11 +28,10 @@ item_recharge: none
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: 5 gp
 - **Weight**: 8.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Padded armor consists of quilted layers of cloth and batting.
 
 *Source: Player's Handbook p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Lightscreen-Hover-Boots.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These hefty boots are miraculously light to walk in. As a bonus action, you can click your heels together while wearing the boots to hover 1 foot off the floor. You can move as normal while hovering in this way using your walking speed, skating above the ground on a plume of blue light. The light sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 
@@ -30,7 +33,3 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 The wall lasts until the start of your next turn. Once you use this property, it can't be used again for `dice:1d4|noform|noparens|avg` (`1d4`) hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 115*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

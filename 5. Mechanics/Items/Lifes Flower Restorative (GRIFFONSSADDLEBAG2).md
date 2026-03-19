@@ -24,6 +24,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement by a creature missing a hand, arm, or leg)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Lifes-Flower-Restorative.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This vital branch pulses with life and resembles a crude limb. To attune to this item, you must attach it to the end of your missing arm or leg, at which point the branch magically forms an elegant copy of the appendage it's replacing. This prosthetic is a fully capable part of your body and can't be removed against your will as long as you're attuned to it.
 
@@ -33,7 +36,3 @@ The prosthetic branch has 10 flowers and regrows `dice:1d6+4|noform|noparens|avg
 - If you start your turn with 0 hit points while the prosthetic has 3 or more remaining flowers, you can choose to expend 3 flowers to regain 5 hit points. This property can't be used again until the next dawn.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 114*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

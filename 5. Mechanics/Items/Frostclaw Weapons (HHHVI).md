@@ -20,6 +20,9 @@ item_recharge: short-rest
 # Frostclaw Weapons
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you are using the rare version of this weapon, you gain a +1 bonus to all attack and damage rolls made with this weapon. When you hit with this weapon, you may choose to deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) cold damage, or `dice:2d6|noform|noparens|avg` (`2d6`) cold damage if you are using the rare version of this weapon. Once you have used this ability once, it can't be used again until the end of your next short rest.
 
@@ -29,7 +32,3 @@ If you are using the rare version of this weapon, you gain a +1 bonus to all att
 - [[/5. Mechanics/Items/1 Frostclaw Weapon (HHHVI).md\|+1 Frostclaw Weapon]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 128*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

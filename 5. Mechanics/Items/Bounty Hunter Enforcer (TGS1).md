@@ -36,6 +36,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This spear has a hollow metal head filled with a spring-loaded [[/5. Mechanics/Items/Net.md\|net]]. Attacks made with this weapon deal bludgeoning damage instead of piercing. When you hit a target with a melee attack using the weapon, you can press a button on the handle as a bonus action to deploy the spring-loaded net. When you do, the target of the attack is restrained if it's Large or smaller. Once the net is deployed, you can retract and reset it as an action. When you do, anything held by the net is released. Attacks with the spear are made with disadvantage while the net is deployed. If something is retrained by the net, you can't use the spear to make weapon attacks.
 
@@ -44,7 +47,3 @@ You can use a bonus action to prime the net to trigger upon impact, allowing it 
 This net follows the net's normal rules but cannot be detached from the spear without destroying the net. You can replace the net with a new one by spending 1 minute reattaching it to the spear.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 38*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item (requires attunement)*  
 ![[/5. Mechanics/Items/img/belt-of-giant-strength.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -29,7 +32,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Belt Of Storm Giant Strength.md\|Belt of Storm Giant Strength]]
 
 *Source: Dungeon Master's Guide p. 155*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

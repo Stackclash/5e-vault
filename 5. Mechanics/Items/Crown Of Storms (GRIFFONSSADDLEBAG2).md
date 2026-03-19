@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Crown-of-Storms.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crown was created by storm giants as a reward for a brave band of much smaller adventurers. While wearing this crown, you have resistance to lightning and thunder damage. If you are subjected to an effect that deals lightning or thunder damage and allows you to make a saving throw to take only half damage, you instead take no lightning or thunder damage if you succeed on the saving throw. If you are a giant, you can choose to wear this crown as a ring, instead.
 
@@ -32,7 +35,3 @@ In addition, you can use a bonus action to take on the aspect of the stormbringe
 Once this property of the crown has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 66*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

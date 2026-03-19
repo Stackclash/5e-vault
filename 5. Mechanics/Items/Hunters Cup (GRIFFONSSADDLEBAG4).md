@@ -17,6 +17,9 @@ item_recharge: long-rest
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hunters-Cup.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden goblet is covered in a soft layer of moss. Three twisted antlers encircle it. It holds 1 cup of liquid.
 
@@ -30,7 +33,3 @@ When the goblet is filled from a free-flowing stream or pond, it begins to glow 
 The water in the goblet ceases to glow after 24 hours or if it's moved more than 100 feet away from where it was filled. Once a creature has drunk from the goblet in this way, it can't be used again until `dice:1d4|noform|noparens|avg` (`1d4`) days have passed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

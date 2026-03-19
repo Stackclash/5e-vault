@@ -28,6 +28,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Direstone-Runic-Wand.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A rigid stone wand used by the arcane dwarves of the Direstone mines. The wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to trace one of the following runes in the air to invoke its properties (spell save DC 15):
 
@@ -56,7 +59,3 @@ Alternatively, you can use the wand to cast the [[/5. Mechanics/Spells/Illusory 
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into stone dust. If you are not a [[/5. Mechanics/Races/Dwarf.md\|dwarf]] when this happens, you must also succeed on a DC 20 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] until freed by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 71*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

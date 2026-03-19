@@ -26,6 +26,9 @@ item_recharge: dawn
 *Rod, major, legendary (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hrethi-Soul-Scepter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden scepter has an empty basin at its end that's always hot to the touch, as if it had been left out in the sun. While attuned to the rod, you can walk normally on difficult terrain caused by sand and can tolerate temperatures as hot as 200 degrees Fahrenheit.
 
@@ -55,7 +58,3 @@ While holding the rod, you can use an action to expend 3 charges to summon a san
 The elemental remains as long as you concentrate (as if concentrating on a spell), up to a maximum of 1 hour, and disappears early if it drops to 0 hit points. It is friendly to you and your companions for the duration. Roll initiative for the elemental, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 96*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -33,6 +33,9 @@ item_recharge: dawn
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Enervating-Crystal-Sword.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The blade of this sword is made of a sickly green crystal. It pulses with an unsettling light while held, which sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -41,7 +44,3 @@ This sword has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`
 Alternatively, you can use an action to hold the sword aloft and expend 2 of its charges to intensify its sickening light, doubling the radius of its bright and dim light to 20 feet, instead of 10. Each creature within the bright light, including yourself, must succeed on a DC 13 Constitution saving throw or be weakened until the end of its next turn. You have advantage on this saving throw. The light then returns to normal.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

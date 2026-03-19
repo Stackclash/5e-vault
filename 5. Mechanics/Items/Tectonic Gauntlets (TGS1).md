@@ -21,6 +21,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Tectonic-Gauntlets.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical set of stone gauntlets imbue your fists with the power of the Elemental Plane of Earth. While wearing and attuned to the gauntlets, your unarmed attacks become magical and deal `dice:1d8|noform|noparens|avg` (`1d8`) bludgeoning damage in place of the normal damage of your unarmed strike (unless it's already higher). In addition, these gloves have 15 charges and regain `dice:1d10+5|noform|noparens|avg` (`1d10 + 5`) expended charges each day at dawn. When you make an unarmed attack with your fists, you can expend up to 5 charges to extend your fist's reach by 5 feet for each expended charge. Your unarmed strikes deal double damage to objects and structures.
 
@@ -52,7 +55,3 @@ he gauntlets have the following random properties:
 The gloves can only be destroyed in the depths of the crystalline mines of Durhun on the Elemental Plane of Earth where they were first created.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 150*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

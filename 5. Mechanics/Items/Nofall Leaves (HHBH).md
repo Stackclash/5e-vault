@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ After a snowstorm, all that can be seen is a blanket of white—except for the p
 As part of using this herb, you must rub it on the soles of your shoes, or your feet if you walk barefoot. For 8 hours after using this herb, you do not sink into deep snow.
 
 *Source: Hamund's Herbalism Handbook p. 25*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

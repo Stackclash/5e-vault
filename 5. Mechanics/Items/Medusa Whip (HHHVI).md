@@ -30,11 +30,10 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weapon has 6 charges. When you successfully hit a creature with this weapon, you may choose to expend 1 or more charges from this weapon. If you do, you add `dice:1d6|noform|noparens|avg` (`1d6`) poison damage to your damage roll for every charge expended. This weapon regains 1 charge every hour.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

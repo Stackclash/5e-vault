@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Boreal-Pendant.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This enlarged, floating snowflake is magically held in place and changes its shape as temperatures fluctuate. While attuned to the pendant you have resistance to cold damage and give off an aura of cheeriness. The snowflake has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges each day at dawn. While wearing it, you can expend 1 or more of its charges to cast the following spells using a spell save DC of 15:
 
@@ -35,7 +38,3 @@ This enlarged, floating snowflake is magically held in place and changes its sha
 If you expend the pendant's last charge, roll a d20. On a 1, the snowflake melts into a puddle of water. After 1 year, the pendant reforms around the magical golden brackets that hold it in place.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 38*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Living-Wig.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -24,7 +27,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Living Wig Rare (GRIFFONSSADDLEBAG4).md\|Living Wig (Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

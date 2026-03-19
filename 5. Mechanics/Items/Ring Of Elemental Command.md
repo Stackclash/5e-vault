@@ -23,6 +23,9 @@ item_recharge: none
 # Ring of Elemental Command
 *Ring, major, legendary (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -32,7 +35,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Ring Of Water Elemental Command.md\|Ring of Water Elemental Command]]
 
 *Source: Dungeon Master's Guide p. 190*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, very rare (requires attunement by a spellcaster)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The spatial bending essence trapped in this helm imparts your magic with extra abilities. This helm has 6 charges. Whenever you cast a spell that targets only one creature and uses an attack roll, you may expend a charge to add any of the following effects to the results of your successful hit:
 
@@ -31,7 +34,3 @@ The spatial bending essence trapped in this helm imparts your magic with extra a
 This helm regains all expended charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 90*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

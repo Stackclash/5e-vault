@@ -18,6 +18,9 @@ item_recharge: none
 # Deck of Illusions
 *Wondrous item, major, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing `dice:1d20-1|noform|noparens|avg` (` - 1`) cards.
 
@@ -67,7 +70,3 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 ^1-playing-card-illusion
 
 *Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

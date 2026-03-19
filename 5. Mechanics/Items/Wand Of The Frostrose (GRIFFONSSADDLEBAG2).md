@@ -26,6 +26,9 @@ item_recharge: dawn
 *Wand, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-the-Frostrose.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This icy wand has a magical blue rose frozen at its center. The flower is a frostrose: a rare and delicate rose found only in the coldest parts of the Everglacier.
 
@@ -36,7 +39,3 @@ The sculptures softly groan and crackle from the pressure they contain within th
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand melts into a puddle of water, and the frostrose at its center crumbles into ashes and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 184*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

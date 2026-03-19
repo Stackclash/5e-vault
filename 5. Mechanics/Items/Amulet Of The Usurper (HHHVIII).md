@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, legendary (requires attunement by a spellcaster)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This amulet has 20 charges. While wearing it, you may use your action to spend a number of charges for any of the following properties.
 
@@ -39,7 +42,3 @@ As an action, you may expend 3 charges to release a 20-foot radius burst of corr
 This amulet regains all expended charges upon the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 81*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

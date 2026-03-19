@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ An incredibly spicy variety of chilli pepper, identifiable by two distinctive nu
 For 8 hours after using this herb, your skin turns bright red and you constantly exhale steam.
 
 *Source: Hamund's Herbalism Handbook p. 13*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

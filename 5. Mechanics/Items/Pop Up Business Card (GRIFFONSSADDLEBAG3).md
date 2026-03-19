@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Pop-up-Business-Card.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This two-by-three-inch paper card somehow weighs 1 pound and feels like it's made of wood and metal. It looks like a wooden shop sign with a painted lantern on either side.
 
@@ -29,7 +32,3 @@ You can use an action to toss the card to a point on the ground within 10 feet o
 When the goblin senses that there's no more business to be done, it snaps its fingers and disappears in a puff of smoke, along with the stall. If the goblin is harmed, both it and the stall immediately disappear. In either case, the card is then destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

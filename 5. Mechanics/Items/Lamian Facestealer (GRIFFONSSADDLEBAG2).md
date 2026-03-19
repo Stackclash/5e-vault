@@ -33,6 +33,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dagger once belonged to an infamous lamian assassin and features a sculpted metal face at the base of the blade. When you attune to this weapon, the metal face magically changes to match your appearance. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -41,7 +44,3 @@ The dagger has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expe
 When you take on a creature's appearance in this way, that creature must make a DC 15 Wisdom saving throw. On a failed save, that creature has disadvantage on Wisdom saving throws and all ability checks as long as it can see you while you share its appearance in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 113*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

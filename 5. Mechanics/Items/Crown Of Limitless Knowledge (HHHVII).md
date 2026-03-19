@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this crown, you gain the following benefits:
 
@@ -28,7 +31,3 @@ While wearing this crown, you gain the following benefits:
 - If your total for an Intelligence check is less than your Intelligence score, you can use that score in place of what you rolled.  
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 56*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

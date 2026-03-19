@@ -30,6 +30,9 @@ item_recharge: none
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of armor gives you a +1 bonus to your AC and is lined with ironleaf vines. While wearing this armor, the vines seem to support and quiet its normally loud movements, allowing you to make Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks without disadvantage. In addition, the vines dampen the impact you receive from blunt force, granting you resistance to bludgeoning damage.
 
@@ -40,7 +43,3 @@ If you take fire damage, the leaves wither for 1 minute. While the leaves are wi
 While wearing this armor, you can use an action to cast the [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] spell from it. Once used, this property can't be used again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 81*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

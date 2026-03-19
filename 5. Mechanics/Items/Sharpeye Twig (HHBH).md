@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 100 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ The brambly *optica ferala* bush is known for its scraggly appearance, being cov
 You may use your bonus action to start chewing this herb. While chewing this herb, you ignore any disadvantage imposed when attempting to make a ranged weapon attack beyond your weapon's normal range. This herb may be chewed for up to one minute, which may be done all at once, or in several smaller segments, using a minimum of one round each time before stopping (no action required).
 
 *Source: Hamund's Herbalism Handbook p. 30*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

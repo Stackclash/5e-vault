@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Purse-Piglet.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ceramic piglet figurine is glazed with a friendly pink coating that's soft to the touch and has a hole in the top that's stoppered with a cork. When you drop a coin in the piglet and stopper it, the figurine springs to life. When it does, it imprints on you and considers you its owner. The owner can hold and gently shake the piglet, causing it to oink happily, and magically know how much money is inside of it.
 
@@ -35,7 +38,3 @@ If the pig's owner dies, the distraught pig empties itself of all its coins: ret
 Placing the piglet inside an extradimensional space created by a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[/5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. When this happens, the piglet is permanently destroyed, and its contents are lost. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and cannot be reopened again.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 100*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -30,6 +30,9 @@ item_recharge: none
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 45.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This enchanted armor is made from [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]] scales that were collected by a generous celestial. You gain a +1 bonus to AC while you wear this armor. This armor does not impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
 
@@ -42,7 +45,3 @@ When you take damage from a creature within 10 feet of you, you can use your rea
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 49*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

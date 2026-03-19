@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 100 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ This member of the cordyceps family is known for its pitch black coloration, lon
 This herb has `dice:1d4|noform|noparens|avg` (`1d4`) charges. As an action, you may spend a charge to rub this herb on either one melee weapon or up to 10 pieces of ammunition, coating it with a parasitic slime. For the next ten minutes, any damage inflicted by a coated weapon or piece of ammunition is not considered as 'harmful' for the sake of ending a [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] condition on an afflicted creature. Once this herb loses all charges, it becomes dried out and is considered worthless.
 
 *Source: Hamund's Herbalism Handbook p. 19*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

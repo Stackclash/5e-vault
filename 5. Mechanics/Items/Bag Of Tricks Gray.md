@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 
 - **Weight**: 0.5 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ordinary bag, made from gray cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.
 
@@ -44,7 +47,3 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 ^creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

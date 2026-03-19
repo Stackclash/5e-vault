@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 At the center of this brilliant, silver sword is a deep groove which leads down to an open gap in its hilt. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Whenever you harness the healing power of your Lay on Hands while holding the weapon, a glimmering sphere of holy light radiates from the center of the blade.
 
@@ -48,7 +51,3 @@ When another creature that you can see within your aura magically regains hit po
 You can use an action to spend 40 hit points from your Lay on Hands pool to cast the [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] spell, which has the following changes. Whenever a friendly creature enters a space within 10 feet of the guardian or starts its turn there, it can choose to gain up to 20 temporary hit points. If you have 17 or more levels in the paladin class, the radius of this effect increases to 30 feet. When the combined number of hit points granted as temporary hit points or dealt as radiant damage reaches 60, the guardian vanishes.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -17,6 +17,9 @@ item_recharge: none
 *Artifact*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/KPDM/0039.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Thousands of years ago, a powerful alkemancer named Anuraag constructed an enormous crucible in his quest to create the perfect organism. He hoped it would bring forth an immortal being that could surpass the limitations imposed by human flesh and surpass even the gods. Anuraag used the crucible to create so many monstrosities that eventually the local deities had to take action against him. The alkemancer was destroyed for his impertinence, and his crucible was sealed away at the bottom of a mighty chasm.
 
@@ -65,7 +68,3 @@ To determine what a creature transforms into, roll a `dice:d20|noform|noparens|a
 Anuraag's crucible can be destroyed if a celestial and a fiend, both of at least challenge rating 15, willingly allow themselves to be transformed at the same time. If this happens, the crucible can't take the burden of transforming both creatures and shatters in a spectacular explosion that deals `dice:20d6|noform|noparens|avg` (`20d6`) piercing damage to all creatures in a 60-foot radius, or half as much damage with a successful DC 15 Dexterity saving throw.
 
 *Source: Deep Magic p. 170*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

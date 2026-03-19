@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mousetrap-Explosive.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fist-sized ball is made from two conjoined hemispheres. The hemispheres are lined with spinning treads, which are used in tandem to drive the ball forward or change directions.
 
@@ -29,7 +32,3 @@ At the end of the ball's movement, it explodes, destroying the ball and sending 
 If you wind the ball up but don't speak the command word, it must be wound up again before the next time you use it. The glue dissolves and vanishes after 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

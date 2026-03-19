@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dragonband.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This metal bracelet hangs loosely from a wrist or ankle and is made from either brass, bronze, copper, gold, or silver wire. The clasp is cast in the shape of a metallic dragon's head matching the metal used in the rest of the band.
 
@@ -36,7 +39,3 @@ While wearing the band, you can use an action to speak its command word and caus
 Optional Footer
 
 *Source: The Griffon's Saddlebag, Book 2 p. 73*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

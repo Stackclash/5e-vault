@@ -22,11 +22,10 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Clangor-Helmet.webp#right)  
 
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helmet was made from a temple bell and weighs 10 pounds. While wearing it, you have resistance to thunder damage and can't be [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]]. In addition, whenever a creature within 5 feet of you deals bludgeoning damage to you with a melee attack, roll a `dice:d6|noform|noparens|avg` (`d6`). On a 5 or 6, the attacking creature takes 5 or 6 thunder damage, respectively.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

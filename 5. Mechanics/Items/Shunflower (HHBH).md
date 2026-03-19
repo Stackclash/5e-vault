@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A curious flower that is said to have been created in fields in which the influe
 A creature that has this herb on their person has disadvantage on Charisma ability checks.
 
 *Source: Hamund's Herbalism Handbook p. 31*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

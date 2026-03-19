@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ This long, wispy vine hangs from trees and grows grey, stringy leaves that resem
 When you use this herb, you become immune to diseases for the next 24 hours and any disease effects that you are currently subjected to have their progression and symptoms halted.
 
 *Source: Hamund's Herbalism Handbook p. 17*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

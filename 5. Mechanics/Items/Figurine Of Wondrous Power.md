@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item*  
 ![[/5. Mechanics/Items/img/figurine-of-wondrous-power.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -31,7 +34,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Figurine Of Wondrous Power Silver Raven.md\|Figurine of Wondrous Power, Silver Raven]]
 
 *Source: Dungeon Master's Guide p. 169*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

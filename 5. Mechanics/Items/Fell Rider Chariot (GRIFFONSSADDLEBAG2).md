@@ -25,6 +25,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Fell-Rider-Chariot.webp#right)  
 
 - **Weight**: 300.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This Large, dark iron chariot weighs 300 pounds and can fit up to four Medium or smaller creatures. While you're in the chariot, you have resistance to fire damage. Two sets of floating, flaming reins appear when you stand in the chariot, which are harmless to you. As an action, you can crack the reins downward to summon two armored [[/5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmares]] that are hitched to the front of the chariot. The nightmares have a +1 bonus to AC and exist until they drop to 0 hit points. You can use an action to dismiss them, which works only if you are standing on the chariot. The nightmares are friendly to you, fight only to protect themselves, and can't be unhitched from the chariot. The nightmares' hitches prevent them from being ridden.
 
@@ -35,7 +38,3 @@ The chariot is drawn where the [[/5. Mechanics/Bestiary/Fiend/Nightmare.md\|nigh
 While both [[/5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmares]] exist, you can use an action while holding the reins to cause the nightmares, the chariot, and any creatures or objects inside it to magically enter the Ethereal Plane from the Material Plane, or vice versa.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 81*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

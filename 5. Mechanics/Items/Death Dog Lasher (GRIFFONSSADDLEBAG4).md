@@ -29,13 +29,12 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This twin-lashed whip was made from the fur and hide of a death dog. A target hit with the whip takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) slashing damage from the attack.
 
 When two of the whip's slashing damage dice roll a 4, the target of the attack must also succeed on a DC 13 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of your next turn. For the duration, this property of the whip ceases to function.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

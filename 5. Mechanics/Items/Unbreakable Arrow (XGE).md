@@ -23,11 +23,10 @@ item_recharge: none
 *Ammunition, minor, common*  
 ![[/5. Mechanics/Items/img/unbreakable-arrow.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This arrow can't be broken, except when it is within an [[/5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
 
 *Source: Xanathar's Guide to Everything p. 139*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

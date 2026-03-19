@@ -23,6 +23,9 @@ item_recharge: none
 *Potion, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Orostead-Iced-Tea.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The typical [[/5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Orostead iced tea]], a common potion, is a specialty alcoholic beverage that creates harmless sensory effects with each sip. When made, a tea has enough for `dice:6+1d4|noform|noparens|avg` (`6 + 1d4`) sips before it's used up, instead of a single use. You can take a sip as an action. When you drink this potion, roll on the table below to determine which one of the following effects occur:
 
@@ -43,7 +46,3 @@ The typical [[/5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Oro
 The drink is incredibly refreshing with notes of lemon, tea, and cherry, and has virtually no alcoholic bite to it. Regardless, due to its magical nature, the alcohol within this potion affects a creature twice as much as the alcohol within a nonmagical beverage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 133*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

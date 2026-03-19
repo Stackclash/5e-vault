@@ -25,6 +25,9 @@ item_recharge: dawn
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The pages of this book are bound in fiend hide, and its cover is embossed with a diagram of the Great Wheel of the multiverse. When found, the book contains the following spells: [[/5. Mechanics/Spells/Banishment.md\|banishment]], [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]], [[/5. Mechanics/Spells/Gate.md\|gate]], [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]], [[/5. Mechanics/Spells/Planar Binding.md\|planar binding]], and [[/5. Mechanics/Spells/Summon Elemental (TCE).md\|summon elemental]]. It functions as a spellbook for you.
 
@@ -36,7 +39,3 @@ The book has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 - When you cast a conjuration spell that summons or creates one creature, you can expend 1 charge to grant that creature advantage on attack rolls for 1 minute.  
 
 *Source: Tasha's Cauldron of Everything p. 134*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

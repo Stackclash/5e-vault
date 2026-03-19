@@ -22,6 +22,9 @@ item_recharge: none
 *Ring, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Ooze-Cube-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cubic, platinum ring has a sliver of a gelatinous cube inset at its top instead of a gemstone. While wearing it, you gain the following benefits:
 
@@ -30,7 +33,3 @@ This cubic, platinum ring has a sliver of a gelatinous cube inset at its top ins
 - You can use an action to make an unarmed strike with the hand wearing the ring. Your hand turns gelatinous and tendril-like for the duration of the attack. On a hit, the target takes acid damage equal to `dice:3d6|noform|noparens|avg` (`3d6`) + your Strength modifier, instead of the normal damage for an unarmed strike. Your hand then returns to normal.  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

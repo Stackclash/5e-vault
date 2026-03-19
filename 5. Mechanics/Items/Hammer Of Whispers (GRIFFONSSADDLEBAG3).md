@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark silver hammer is miraculously light. It has the finesse property, and any target hit with it takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage. Hitting a target with the hammer produces no sound.
 
@@ -44,7 +47,3 @@ This weapon is cursed, and becoming attuned to it extends the curse to you. As l
 When you reduce a creature to 0 hit points using this weapon, make a DC 10 Wisdom saving throw. On a failed save, your mind is plagued with mysterious whispers; you take `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage and are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

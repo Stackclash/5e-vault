@@ -24,13 +24,12 @@ item_recharge: none
 *Ring, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ringmasters-Signet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden ring resembles a stylized lion holding a marble in its fanged mouth. While wearing the ring, you have advantage on ability checks made to interact with beasts. In addition, you can use an action to cast the [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell from the ring; you can't do so again until the next dawn.
 
 If you are attuned to this ring and two other items with "ringmaster's" in their names, this ring gains the following benefit: whenever you use a [[/5. Mechanics/Items/Figurine Of Wondrous Power.md\|figurine of wondrous power]] while wearing the ring, the number of days that have to pass before it can be used again is halved (rounded up).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -35,6 +35,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Seeing the peril his people faced, a young dwarf prince came to believe that his people needed something to unite them. Thus, he set out to forge a weapon that would be such a symbol.
 
@@ -81,7 +84,3 @@ The axe bears a curse that affects any non-dwarf that becomes attuned to it. Eve
 The only way to destroy the axe is to melt it down in the *Earthheart Forge*, where it was created. It must remain in the burning forge for fifty years before it finally succumbs to the fire and is consumed.
 
 *Source: Dungeon Master's Guide p. 221*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

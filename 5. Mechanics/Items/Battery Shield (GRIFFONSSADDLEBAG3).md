@@ -24,11 +24,10 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shield builds up a small electrostatic charge while worn. When a creature makes a melee attack against you using a metal weapon and the attack roll misses by 2 or less, that creature takes `dice:1d4|noform|noparens|avg` (`1d4`) lightning damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

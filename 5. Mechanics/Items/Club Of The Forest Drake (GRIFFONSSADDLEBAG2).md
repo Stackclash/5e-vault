@@ -31,11 +31,10 @@ item_recharge: none
 - **Damage**: 1d4 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden club's head has been naturally formed into the shape of a dragon's maw. As an action, you can speak the club's command word and strike the ground with it to cause a wave of thorns and thrashing vines to spring up from the ground in a 15-foot cone in front of you. Each creature in the area must succeed on a DC 13 Dexterity saving throw or take `dice:2d6|noform|noparens|avg` (`2d6`) slashing damage and be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by the thorns and vines for up to 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] creature can use its action to make a DC 13 Strength or Dexterity check, freeing itself on a success. At the end of each of its turns, a [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] creature takes `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage as it's constricted by the thorny vines. Once this property of the club has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 63*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

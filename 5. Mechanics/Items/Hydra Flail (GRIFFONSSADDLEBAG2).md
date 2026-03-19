@@ -30,11 +30,10 @@ item_recharge: none
 
 - **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flail's spiked head is held in the jaws of a metal hydra figurehead. Whenever you score a critical hit with this weapon against a hostile creature, the weapon magically grows another spiked head. You gain a +2 bonus to damage rolls made with this magic weapon for each head the flail has (to a maximum of +6). After 1 hour, any head the flail grows in this way falls off and disappears.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 108*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -19,13 +19,12 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Battlechef-Pulverizers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of brass knuckles resemble meat tenderizers and smell like blood, butter, salt, and caramelized onions. If you use the knuckles to prepare a meat dish, the food is magically tender and perfectly seasoned to taste.
 
 While wearing the knuckles, you gain a +1 bonus to damage rolls made with unarmed strikes using them, which count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. If you're proficient with cooking utensils, you also gain a +1 bonus to attack rolls with the knuckles.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

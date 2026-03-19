@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-automata.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Written by the Hànz wizard Huang Fei late in the third dynasty of the Xin Empire, the codex automata—*The Book of Machines*—synthesized three thousand years of scholarly thought on the subject of magical constructs and was instantly realized as the definitive work on the subject. Other tomes detail the process of creating a golem, but Fei called this "mere smithery."
 
@@ -58,7 +61,3 @@ No construct will attack you. As an action, you can make a Command check against
 This control lasts 1 hour, after which the construct is free of your influence and cannot be commanded again in this way.
 
 *Source: Strongholds and Followers p. 251*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

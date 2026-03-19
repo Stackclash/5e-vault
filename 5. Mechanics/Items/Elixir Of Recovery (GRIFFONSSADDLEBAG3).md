@@ -22,6 +22,9 @@ item_recharge: none
 # Elixir of Recovery
 *Potion, minor, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 FOR [HEDGE MAGE](/compendium/classes/wizard-hedge-mage-griffonssaddlebag3.md#Hedge%20Mage%20(Level%202)) USE ONLY
 
@@ -32,7 +35,3 @@ Command: "The body, unbroken."
 You regain 2d8 hit points when you drink this elixir. This healing increases to 3d8 when you reach 14th level in this class.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 51*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

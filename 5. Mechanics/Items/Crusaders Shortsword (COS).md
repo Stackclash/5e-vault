@@ -29,6 +29,9 @@ item_recharge: none
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The Crusader's Shortsword is a sentient lawful good [[/5. Mechanics/Items/1 Weapon.md\|+1 shortsword]] (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
 
@@ -39,7 +42,3 @@ The sword's purpose is to fight evil. The sword has the following additional pro
 - While attuned to the weapon, the sword's wielder can use the sword to cast the [[/5. Mechanics/Spells/Crusaders Mantle.md\|crusader's mantle]] spell. Once used, this property of the sword can't be used again until the next dawn.  
 
 *Source: Curse of Strahd p. 81*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

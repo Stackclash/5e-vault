@@ -34,11 +34,10 @@ item_recharge: none
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Cost**: 2 gp
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This whip was constructed using salvaged pieces of a giant scorpion and drips with a sickly venom. Once on each of your turns when you hit a creature with this weapon, you can cause the whip to deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) poison damage. When you do, if the creature is Medium or smaller, it must also succeed on a DC 13 Strength saving throw or be pulled 5 feet closer to you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 155*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Deaths-Shadow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This black garnet amulet is carved into the shape of a bird's skull and is adorned with several dark feathers. At its center is a single phoenix feather that serves as a catalyst for this strange talisman's necromantic magic. While wearing this amulet, you are immune to necrotic damage.
 
@@ -32,7 +35,3 @@ While your shadow form is defending you, your [[/5. Mechanics/Rules/Conditions.m
 Once this property has been used, it can't be used again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 69*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

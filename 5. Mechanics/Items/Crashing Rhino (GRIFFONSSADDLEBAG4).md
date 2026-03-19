@@ -30,6 +30,9 @@ item_recharge: none
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This maul is covered with shards of stone surrounding a pair of giant horns. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you move at least 20 feet in a straight line toward a target and immediately hit it with a melee attack using this hammer, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage and must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If a creature is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in this way, you can immediately use a bonus action to make an additional attack with the hammer against the target. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
@@ -38,7 +41,3 @@ This maul is covered with shards of stone surrounding a pair of giant horns. You
 While holding the hammer, you can use an action to run forward in a straight line, up to 80 feet, without provoking opportunity attacks. While moving in this way, you can move through another creature's space, regardless of its size, and such a creature's space isn't considered difficult terrain for you. Each creature in that line must make a DC 16 Strength saving throw. On a failed save, a creature takes `dice:3d12|noform|noparens|avg` (`3d12`) bludgeoning damage and is thrown up to 10 feet away from you in a direction that is perpendicular to the line (you choose which direction) and lands [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. On a successful save, a creature takes no damage and moves up to 5 feet to an unoccupied space of its choice outside the line. A creature that chooses not to move or can't move makes the saving throw with disadvantage. Once this property of the hammer has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

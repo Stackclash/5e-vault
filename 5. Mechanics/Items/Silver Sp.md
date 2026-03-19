@@ -25,6 +25,9 @@ item_recharge: none
 
 - **Cost**: 1 sp
 - **Weight**: 0.02 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 
@@ -39,7 +42,3 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 *Source: Player's Handbook p. 143*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

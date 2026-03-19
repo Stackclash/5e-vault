@@ -34,6 +34,9 @@ item_recharge: dawn
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic ivory bow is sculpted to look like a pair of curved unicorn horns and is strung with the finely braided hair of a pegasus' mane. This bow's damage die is a `dice:d10|noform|noparens|avg` (`d10`) instead of a `dice:d8|noform|noparens|avg` (`d8`).
 
@@ -52,7 +55,3 @@ While holding the bow, you can use a bonus action to expend 1 of its charges to 
 When you make a ranged attack with the bow, you can expend 1 of its charges to cause the fired arrow to transform into a spectral, charging pegasus. On a hit, the target takes an extra `dice:3d6|noform|noparens|avg` (`3d6`) force damage and must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If the target of the attack is already [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], you ignore the normal disadvantage imposed on ranged attack rolls against [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] creatures and make the roll with advantage instead.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 37*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

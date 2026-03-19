@@ -33,11 +33,10 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of matching brass katars seems to exhale heat in the throes of battle. Katars are daggers primarily used for quick, puncturing strikes, and are wielded in clenched fists. As a result, these daggers lack the thrown property. When you hit a target twice on the same turn using the katars, that target takes an extra `dice:2d4|noform|noparens|avg` (`2d4`) fire damage provided that you're holding the two katars in either hand.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

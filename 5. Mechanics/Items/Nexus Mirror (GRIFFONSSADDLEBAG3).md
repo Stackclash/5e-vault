@@ -26,6 +26,9 @@ item_recharge: dawn
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver shield is polished to a mirror finish. Its front is made from a pair of metal doors with lion-headed fixtures. Reflections seen in the shield's surface appear distorted, as if they're seen through a strange fog. While attuned to the shield, you suffer none of the appearance or frailty of old age, although you can still die from it.
 
@@ -38,7 +41,3 @@ In addition, while you're attuned to the shield, a creature can use it as a tuni
 This item is cursed, and attuning to it extends that curse to you. This curse doesn't prevent you from ending your attunement to the shield, but you remain cursed by it until you're targeted by a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic. While cursed, you age `dice:1d10|noform|noparens|avg` (`1d10`) years each time the shield is used as a tuning fork as part of the [[/5. Mechanics/Spells/Plane Shift.md\|plane shift]] spell. You are only made aware of this curse when you are magically aged by it for the first time.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

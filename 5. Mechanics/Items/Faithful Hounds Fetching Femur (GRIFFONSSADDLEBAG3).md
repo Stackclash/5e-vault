@@ -24,6 +24,9 @@ item_recharge: dawn
 *Rod, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Faithful-Hounds-Fetching-Femur.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod is actually a large bone from a nondescript beast. A small bell and engraved tag hang from its side by a leather strap. The rod can also be used as a magic club that grants a +2 bonus to attack and damage rolls made with it.
 
@@ -38,7 +41,3 @@ The rod has 6 charges and regains `dice:1d6|noform|noparens|avg` (`1d6`) expende
 When you expend the last charge from the rod, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the hound wrenches the bone from your hand and runs away with it, ending the spell early and wasting the action to cast it. The bone then reappears in a random location 1,000 feet away from you after 1 hour.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -17,6 +17,9 @@ item_recharge: dawn
 # Girdle of Traveling Alchemy
 *Wondrous item, very rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wide leather girdle has many sewn-in pouches and holsters that hold an assortment of empty beakers and vials. Once you have attuned to the girdle, these containers magically fill with the following liquids:
 
@@ -31,7 +34,3 @@ This wide leather girdle has many sewn-in pouches and holsters that hold an asso
 Each container magically replenishes each day at dawn, if you are wearing the girdle. All the potions and alchemical substances produced by the girdle lose their properties if they're transferred to another container before being used.
 
 *Source: Deep Magic p. 171*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

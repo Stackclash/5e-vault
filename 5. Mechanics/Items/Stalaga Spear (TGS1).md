@@ -37,6 +37,9 @@ item_recharge: dawn
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic spear is made of dark, polished granite and has a large ruby set in its head. While made of stone, it weighs no more than a normal spear and is enchanted to prevent it from shattering. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -45,7 +48,3 @@ The spear has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expen
 While you're within 60 feet of the stone spike and in a space on or next to a surface of unworked stone or earth, you can use a bonus action to speak the spear's command word to recall it. The stone spike crumbles and the spear inside vanishes back into the surface it came from before reemerging from the surface next to you into your open hand. If you don't have an open hand, it falls to the ground at your feet.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 124*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

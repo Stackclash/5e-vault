@@ -31,6 +31,9 @@ item_recharge: dawn
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden war pick was forged in the depths of the Astral Plane and leaves a faint trail of extraplanar energy behind it when swung. You gain a +3 bonus to attack and damage rolls made with this magic weapon, and targets hit by it take an extra `dice:1d4|noform|noparens|avg` (`1d4`) force damage from the attack. In addition, while you're in the Astral Plane, you always know the direction of the nearest portal to another plane of existence.
 
@@ -43,7 +46,3 @@ Both rifts must be placed on the same plane of existence, and if you create a se
 In addition, you can expend 1 of the war pick's charges when you hit a Small or larger creature with it. When you do, that creature takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) force damage as a rift appears on its body. Rifts that appear on a creature in this way are attached to the creature and move with it until a portal is opened. When a portal opens between two rifts and at least one of the rifts is attached to a creature, the attached creature or creatures must succeed on a DC 17 Charisma saving throw or be immediately shunted through the portal to the other rift's location. Large and larger creatures automatically succeed on this saving throw.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 29*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

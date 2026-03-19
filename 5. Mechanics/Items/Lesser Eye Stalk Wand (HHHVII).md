@@ -22,6 +22,9 @@ item_recharge: dawn
 *Wand, rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 3 charges. While holding this wand, you may spend an action and 1 charge to shoot a magical ray of energy at a target within 120 feet of you. The type of ray depends on the type of gauth eye stalk that the wand was crafted from. Consult the list below to find out what your wand does.
 
@@ -35,7 +38,3 @@ This wand has 3 charges. While holding this wand, you may spend an action and 1 
 The wand recovers `dice:1d2|noform|noparens|avg` (`1d2`) charges at dawn. When you use the last charge of the wand, there is a 10 percent chance that it crumbles into ashes and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 61*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

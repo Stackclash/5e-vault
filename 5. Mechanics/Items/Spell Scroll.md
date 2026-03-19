@@ -20,6 +20,9 @@ item_recharge: none
 # Spell Scroll
 *Scroll*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -35,7 +38,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Spell Scroll 9th Level.md\|Spell Scroll (9th Level)]]
 
 *Source: Dungeon Master's Guide p. 200*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

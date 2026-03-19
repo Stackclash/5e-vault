@@ -24,11 +24,10 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shield depicts a pair of knights reflected across its center. While holding this shield, you can use your reaction when a friendly creature that you can see within 15 feet of you is hit by an attack from a hostile creature. You then teleport to the friendly creature's space, pushing it 5 feet away from you to an unoccupied space of your choice when you do. You take the damage from the attack, even if the total of the attack roll doesn't meet or exceed your AC. Once this property of the shield has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Growers-Tape.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This roll of tape is 1 inch wide and 60 feet long. You can use an action to cut off a length of tape and apply it to a surface. The tape immediately decomposes and turns into fertile soil once it's stuck to a surface. Plants rapidly grow from the soil, becoming fully ripe after 1 hour.
 
@@ -36,7 +39,3 @@ Roll on the table below once for every 1 foot of tape used to determine what gro
 If you use one or more strips of tape to enclose an area, the tape recreates either version of the [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]] spell (your choice) for all plants within that area. For example, you can use 20 feet of tape to enclose a 5-foot square, or 30 feet of tape to enclose a 5-foot-radius circle.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

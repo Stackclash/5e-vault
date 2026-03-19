@@ -19,11 +19,10 @@ item_recharge: none
 # Boots of Levitation
 *Wondrous item, major, rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While you wear these boots, you can use an action to cast the [[/5. Mechanics/Spells/Levitate.md\|levitate]] spell on yourself at will.
 
 *Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

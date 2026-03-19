@@ -21,6 +21,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/iron-bands-of-bilarro.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, it opens into a tangle of metal bands.
 
@@ -31,7 +34,3 @@ A creature, including the one [[/5. Mechanics/Rules/Conditions.md#Restrained\|re
 Once the bands are used, they can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Iron Bands of Binding")*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

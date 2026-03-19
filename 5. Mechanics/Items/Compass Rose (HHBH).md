@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Despite its name, this herb is not actually a rose, nor does it even resemble on
 This leafy herb has `dice:1d6|noform|noparens|avg` (`1d6`) charges. As an action, you may hold this herb flat on your palm. If you do so, the herb will lose one charge and release a puff of visible spores that travel along the path of the wind. This ability functions even in a walled space like a building or deep cave so long as there is a single open passage connected to the area you are in that leads to the outside.
 
 *Source: Hamund's Herbalism Handbook p. 10*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

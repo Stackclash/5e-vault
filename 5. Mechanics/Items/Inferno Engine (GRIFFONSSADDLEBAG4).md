@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The edges of this hulking greatsword are virtually blunt; on a hit, it deals bludgeoning damage, instead of slashing.
 
@@ -42,7 +45,3 @@ You can use an action to level the sword in front of you and expend any number o
 You can use a bonus action while holding the sword to vent the flames harmlessly, expending any number of charges each time you do. If the sword reaches more than 30 charges, it immediately erupts in a fiery blast and loses all its charges. Each creature within 30 feet of you must make a DC 16 Dexterity saving throw. A creature takes `dice:2d10|noform|noparens|avg` (`2d10`) fire damage on a failed save, or half as much damage on a successful one. You automatically fail the saving throw. Any flammable objects within the area that aren't being worn or carried are also ignited.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ An abundant wild-growing weed with a dull, purple flower on its tip. Its main me
 After using this herb, you produce a pleasant smell for the next 4 hours that makes any animal around you trust you instinctively. During this time, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]) checks made to communicate with any animal within 30 feet of you that can hear and smell you.
 
 *Source: Hamund's Herbalism Handbook p. 31*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

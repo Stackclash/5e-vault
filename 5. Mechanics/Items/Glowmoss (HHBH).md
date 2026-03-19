@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A simple and ubiquitous moss, immediately recognisable for the faint blue glow i
 This herb sheds dim light in a 5 foot radius around it.
 
 *Source: Hamund's Herbalism Handbook p. 16*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

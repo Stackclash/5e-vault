@@ -29,11 +29,10 @@ item_recharge: none
 *Major*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Warding-Armor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, any bludgeoning, piercing, or slashing damage you take from nonmagical attacks is reduced by 1 (uncommon), 3 (rare), or 4 (very rare). The very rare version of this armor can also reduce damage in this way from magical attacks, in addition to nonmagical ones.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

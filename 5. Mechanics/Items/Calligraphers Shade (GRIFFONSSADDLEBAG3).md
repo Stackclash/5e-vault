@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Calligraphers-Shade.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fountain pen is a favorite among calligraphers and tattoo artists in Ilridun. A small vial is built into the pen as part of its bulbous, yet strangely comfortable handle, and can be filled with ink to supply the pen with a constant flow of it while writing. You gain a +1 bonus to ability checks with [[/5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]] while using this pen, even if you aren't attuned to it.
 
@@ -40,7 +43,3 @@ When you temporarily dismiss the familiar, it returns to your body as an inanima
 While a familiar exists in this way, the pen can't be used to create another one. The familiar disappears when it drops to 0 hit points or if your attunement to the pen ends, leaving behind a small pool of nonmagical ink.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

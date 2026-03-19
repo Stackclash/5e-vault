@@ -23,6 +23,9 @@ item_recharge: none
 *Potion, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Snake-Oil.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Snake oil is an unreliable concoction of alchemy, druidic knowledge, and luck. When found, the potion's rarity is random: Common (90 percent) or Rare (10 percent). Only an [[/5. Mechanics/Spells/Identify.md\|identify]] spell or similar magic can determine the rarity of the potion.
 
@@ -41,7 +44,3 @@ When you use an action to drink the potion, roll a `dice:d6|noform|noparens|avg`
 ^common-rare
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

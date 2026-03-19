@@ -31,6 +31,9 @@ item_recharge: dawn
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Phasing-Bow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flexible bow is made from the chitinous legs of a phase spider and retains some of its ethereal properties. When you hit with a ranged attack using this magic bow, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) force damage.
 
@@ -39,7 +42,3 @@ The bow has 5 charges and regains all expended charges daily at dawn. When you m
 Alternatively, you can speak the bow's command word as a bonus action to expend 3 of its charges and fire an arrow at a point you can see within the weapon's normal range. When the arrow hits a solid surface, you vanish from your location and reappear in an unoccupied space nearest to that point.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 135*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

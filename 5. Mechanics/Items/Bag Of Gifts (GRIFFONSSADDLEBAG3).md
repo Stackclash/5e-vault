@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bag-of-Gifts.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This soft bag is decorated with tiny illustrations of small trinkets and gifts. Striped ribbons line its side and an empty paper tag hangs from its drawstring. The bag is 6 inches across but weighs just over 12 pounds, even if nothing is kept inside it.
 
@@ -45,7 +48,3 @@ While holding the empty bag, you can use an action to cinch its top closed and l
 Each time that a gift is received from the bag, the bag becomes 1 pound lighter, and the item is removed from the list. If you roll an item on the list that's already been received by a creature, you instead get the item listed in the nearest available row. Once a creature opens a bag of gifts, it can't open another one in this way until it gives the bag to a different creature that hasn't yet opened it. When the last gift has been given, it becomes a nonmagical bag.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

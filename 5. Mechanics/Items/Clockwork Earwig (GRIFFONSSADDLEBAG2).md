@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Clockwork-Earwig.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 1-inch-long, copper mechanism magically coils around and clasps to the side of your ear, fitting as a functional ear cuff. It can be worn or removed using an action. When worn in this way, the mechanism can magically process any sound you hear, granting you the following benefits:
 
@@ -27,7 +30,3 @@ This 1-inch-long, copper mechanism magically coils around and clasps to the side
 - You can speak the earwig's command word as an action to cast the [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] spell from it. The spell ends early if you remove the earwig. This property of the earwig can't be used again until the next dawn.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 62*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

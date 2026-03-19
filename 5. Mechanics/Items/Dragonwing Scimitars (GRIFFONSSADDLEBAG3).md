@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of twin scimitars features draconic guards and winglike blades. Despite there being two weapons, they are considered to be a single item for the purposes of attuning to them. While holding one of the swords, you always know the general direction and distance of the other.
 
@@ -48,7 +51,3 @@ While holding each of the swords in either hand, you can use your reaction when 
 While you're holding the two swords in either hand, you gain a flying speed equal to your walking speed whenever you take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action. You lose this speed at the end of your turn, falling if you are in the air and nothing else is holding you aloft.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

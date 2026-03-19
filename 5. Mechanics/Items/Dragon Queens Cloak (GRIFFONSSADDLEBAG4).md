@@ -19,6 +19,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Dragon-Queens-Cloak.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cloak is made from the wing of a powerful chromatic dragon. Its attached spaulders are decorated with winged designs and black, blue, green, red, and white gemstones.
 
@@ -52,7 +55,3 @@ While wearing the cloak, you can use your reaction to expend 1 of its charges wh
 This cloak is cursed, and becoming attuned to it extends the curse to you. While you remain cursed, you gain the following flaw: "I am resistant to help and relinquishing control over any task. My way is always the best."
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

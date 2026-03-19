@@ -22,6 +22,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Harp-of-Dragons.webp#right)  
 
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This harp is strung with the vocal cords of a felled dragon. As a result, the instrument can create dragonlike effects when Draconic command words are spoken while playing it. The harp is 3 feet tall and weighs 6 pounds. While you're attuned to the harp, you are proficient with it.
 
@@ -44,7 +47,3 @@ The harp creates a gust of wind behind you, propelling you and up to four other 
 The harp creates an instantaneous wave of fear, which affects up to four creatures of your choice within 30 feet of you, provided that the creature can hear the instrument. Each affected creature must succeed on a Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature can make another Wisdom saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

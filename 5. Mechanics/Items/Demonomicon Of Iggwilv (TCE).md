@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/demonomicon-of-iggwilv.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An expansive treatise documenting the Abyss's infinite layers and inhabitants, the Demonomicon of Iggwilv is the most thorough and blasphemous tome of demonology in the multiverse. The tome recounts both the oldest and most current profanities of the Abyss and demons. Demons have attempted to censor the text, and while sections have been ripped from the book's spine, the general chapters remain, ever revealing demonic secrets. And the book holds more than blasphemies. Caged behind lines of script roils a secret piece of the Abyss itself, which keeps the book up-to-date, no matter how many pages are removed, and it longs to be more than mere reference material.
 
@@ -58,7 +61,3 @@ When the tome is discovered, it has `dice:1d4|noform|noparens|avg` (`1d4`) fiend
 To destroy the book, six different demon lords must each tear out a sixth of the book's pages. If this occurs, the pages reappear after 24 hours. Before all those hours pass, anyone who opens the book's remaining binding is transported to a nascent layer of the Abyss that lies hidden within the book. At the heart of this deadly, semi-sentient domain lies a long-lost artifact, *Fraz-Urb'luu's Staff*. If the staff is dragged from the pocket plane, the tome is reduced to a mundane and quite out-of-date copy of the *Tome of Zyx*, the work that served as the foundation for the *Demonomicon*. Once the staff emerges, the demon lord Fraz-Urb'luu instantly knows.
 
 *Source: Tasha's Cauldron of Everything p. 125*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

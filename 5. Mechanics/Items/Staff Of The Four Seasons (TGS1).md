@@ -38,6 +38,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical staff changes with the seasons. You can spend 10 minutes concentrating on the staff to change it to a different season. It remains in this new form for the next 8 hours before reverting to the current season again.
 
@@ -64,7 +67,3 @@ This staff has 10 charges. While holding the staff, you can expend 1 or more of 
 The staff regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff loses all foliage and vitality, becoming a gnarled, nonmagical quarterstaff.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 122*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

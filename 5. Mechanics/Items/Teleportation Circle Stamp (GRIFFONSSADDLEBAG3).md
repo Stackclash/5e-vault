@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Teleportation-Circle-Stamp.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This handheld stamp is covered in arcane glyphs. When found, there is a 20 percent chance that it has a sigil sequence for a permanent teleportation circle carved into its wooden base, which has a diameter of 4 inches.
 
@@ -29,7 +32,3 @@ While holding the carved stamp, you can use an action to apply a wash of fine in
 Any object that's fully within the circle's area is magically teleported to the linked teleportation circle when it disappears. Creatures can't be teleported using this special circle, and any item that creates an extradimensional space, such as a [[/5. Mechanics/Items/Portable Hole.md\|portable hole]], fails to teleport through the circle when it disappears.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

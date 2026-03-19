@@ -26,6 +26,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/necklace-of-prayer-beads.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This necklace has `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.
 
@@ -44,7 +47,3 @@ Six types of magic beads exist. The DM decides the type of each bead on the neck
 ^bead-of-spell
 
 *Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

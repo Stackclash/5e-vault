@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Toadstool-Veil.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 To wear this wide-brimmed cap, you must use an action to secure it in place with a veil, which is tied around your chin. While wearing it, glimmering spores drift down from the cap and linger around you. The top of the cap is plushly made and flops from side to side. You can use an action to magically change the appearance of the mushroom cap while wearing it. Regardless of its new appearance, it must still resemble a mushroom.
 
@@ -38,7 +41,3 @@ While wearing the cap, fungal plant creatures with a challenge rating of 1 or lo
 Once an effect's number has been rolled, the next time that number is rolled before the next dawn, nothing happens.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

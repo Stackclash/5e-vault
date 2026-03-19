@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This steel shield hides a slim chamber in its center where magical flora grow and release toxic pollen. The chamber is covered with an intricate, interlocking series of metal plates and flaps that, once released, resembles a flower.
 
@@ -32,7 +35,3 @@ While holding the shield, you can use your reaction when a Large or smaller crea
 Curious, whirring mechanisms inside the shield automatically retract the chamber's unfurled metallic plates at dusk. Alternatively, you can manually collapse the shield's plates over the course of 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 105*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

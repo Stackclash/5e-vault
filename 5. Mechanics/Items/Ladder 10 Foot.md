@@ -24,11 +24,10 @@ item_recharge: none
 
 - **Cost**: 1 sp
 - **Weight**: 25.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Ladder (10-foot)
 
 *Source: Player's Handbook p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

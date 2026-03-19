@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Contained within these peculiar pinecones is a gas that creates a remarkable end
 As an action, you may throw this pinecone up to 20 feet, causing it to explode upon impact. All creatures within 5 feet of impact must make a DC 15 Constitution saving throw, suffering `dice:4d6|noform|noparens|avg` (`4d6`) cold damage on a failure or half that on a success.
 
 *Source: Hamund's Herbalism Handbook p. 27*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

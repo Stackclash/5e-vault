@@ -26,6 +26,9 @@ item_recharge: dawn
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When found, this breastplate resembles a leather cuirass covered in large, dried leaves. Once you wear and attune to it, however, it springs to life and flourishes; its leaves remain pliable and flexible, but harden against incoming harm to protect you. Sleeping in this armor has no adverse effect on you.
 
@@ -42,7 +45,3 @@ While wearing this armor, you can use an action to expend some of its charges to
 When you cast plant growth using this armor, the plants affected by the spell are enriched for 30 days. The plants yield twice the normal amount of food when harvested.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

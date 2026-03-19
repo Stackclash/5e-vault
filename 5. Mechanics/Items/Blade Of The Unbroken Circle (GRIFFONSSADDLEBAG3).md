@@ -35,6 +35,9 @@ item_recharge: dawn
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blade is made by archdruids from the branch of an ancient tree. Rejuvenating magic pulses through it. You gain a +2 bonus to attack and damage rolls made with this magic weapon. If you're a druid, you're proficient with this weapon, which can also be used as a druidic focus, and the bonus increases to +3.
 
@@ -53,7 +56,3 @@ While holding the sword, you can use an action to expend some of its charges to 
 When you hit a target with the sword, you can expend 1 of its charges to deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to it of a type based on the environment you're in. If an environment has more than one damage type associated with it, you choose which one each time: arctic (cold), coast (cold or fire), desert (fire), forest (bludgeoning, piercing, or slashing), grassland (piercing or slashing), mountain (lightning), swamp (necrotic or poison), or underground (necrotic).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

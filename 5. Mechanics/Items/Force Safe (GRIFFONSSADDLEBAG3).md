@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Force-Safe.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When not in use, this device appears like a square metallic tile. It's 6 inches on either side, 2 inches deep, and weighs 2 pounds. An indentation at the center of the tile opens into a small hole. When you use an action to place a finger in the indentation, the tile magically pricks it to extract a drop of blood.
 
@@ -29,7 +32,3 @@ If the tile isn't activated when it draws blood, it magically activates and crea
 The tile remains active until the same creature's blood is dropped into the hole, at which point the walls of force vanish. A [[/5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell destroys the walls and deactivates the tile immediately.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -35,6 +35,9 @@ item_recharge: dawn
   - Two-handed: 1d10 force
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fractured sword is inhabited by the spirit of its previous wielder. While grasping the hilt, you can use a bonus action to cause a blade of ghostly energy to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with shortswords or longswords, you are proficient with the ghostly blade.
 
@@ -69,7 +72,3 @@ When your spirit is shunted into the sword, the original spirit appears as a gho
 Once the sword has slain the creature that killed its inhabited spirit, the spirit leaves the blade (and can be returned to life), and the weapon transforms into a [[/5. Mechanics/Items/Sun Blade.md\|sun blade]] that has the Blinkstep property. Using this version of Blinkstep allows you to cast [[/5. Mechanics/Spells/Misty Step.md\|misty step]] from it, instead of its usual properties; when you do, you reappear in a flash of bright light.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

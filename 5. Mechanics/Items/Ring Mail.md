@@ -28,11 +28,10 @@ item_recharge: none
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: 30 gp
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.
 
 *Source: Player's Handbook p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

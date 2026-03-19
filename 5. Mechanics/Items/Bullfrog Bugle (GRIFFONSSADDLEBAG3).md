@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bullfrog-Bugle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This horn sounds like a croaking frog when sounded, which is audible out to a range of 100 feet. When you speak through this horn, frogs, toads, and other beasts with the Amphibious trait can understand the meaning of your words, though the horn doesn't give you any special ability to understand them in return.
 
@@ -29,7 +32,3 @@ You can use an action to sound the horn loudly, emitting a resonant croak audibl
 The creature remains for 1 hour or until it's reduced to 0 hit points. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

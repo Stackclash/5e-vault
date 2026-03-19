@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Lantern-of-the-Frost-Watch.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark steel lantern is always cold to the touch, and its cold blue flame releases fine snow instead of smoke. Its magical flame appears over a spike at the lantern's center, which is perpetually covered in ice. While touching the lantern, you can use an action to speak one of the following five command words.
 
@@ -45,7 +48,3 @@ The lantern's flame glows magenta for up to 10 minutes. Invisible creatures and 
 If you speak one of the lantern's command words in this way while its flame is extinguished, it magically lights itself as part of speaking the command word. If you extinguish the lantern's flame while one or more of its effects are active, those effects immediately end.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

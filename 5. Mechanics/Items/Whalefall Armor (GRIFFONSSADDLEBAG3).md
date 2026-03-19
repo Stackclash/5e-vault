@@ -30,6 +30,9 @@ item_recharge: dawn
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is made of repurposed whale bone and lashed together with salt-stained leather strips. While wearing it, you have resistance to poison damage and gain a swimming speed equal to your walking speed. If you're underwater, you also have advantage on any Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]) or Charisma check you make to interact with beasts that have a swimming speed.
 
@@ -48,7 +51,3 @@ While wearing the armor, you can use an action to speak its command word and exp
 When the spirit disappears, roll a `dice:d10|noform|noparens|avg` (`d10`). If the result is equal to or less than 5 + the number of charges you expended as part of the action to summon it, it disappears as normal, and the property can't be used again until the next dawn. If the result is higher than that number, the spirit becomes hostile to you; it remains for 1 additional minute, can't be dismissed, and immediately regains half its maximum number of hit points. When this happens, this property of the armor can't be used again until `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) days have passed, during which time the number of charges the armor regains each day is reduced by half (rounded up).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -29,6 +29,9 @@ item_recharge: long-rest
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 It is commonly believed that the three-headed flail known as the Butcher was originally crafted by Yeenoghu himself from the thigh bone and skin of a god he slew himself. Whether that is true or simply one of his own self-aggrandizements is up for debate, but what cannot be contested is the strength of the flail itself. With each head capable of delivering both physical and magical devastation that lingers in both the flesh and the mind, it is Yeenoghu's weapon of choice whenever he decides to destroy something with a little more finesse than his teeth and claws will allow.
 
@@ -68,7 +71,3 @@ As the weapon of a Demon Lord, The Butcher bares a lingering curse for any morta
 The only way to destroy the Butcher is to feed it to a [[/5. Mechanics/Bestiary/Elemental/Zaratan (MPMM).md\|zaratan]] and allow it to be digested for 100 years inside its cavernous belly. After this, the weapon crumbles into dust and becomes useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 27*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

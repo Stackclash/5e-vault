@@ -21,6 +21,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/bag-of-devouring.webp#right]]  
 
 - **Weight**: 15.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bag superficially resembles a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]] but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
 
@@ -31,7 +34,3 @@ Inanimate objects can be stored in the bag, which can hold a cubic foot of such 
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
 
 *Source: Dungeon Master's Guide p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

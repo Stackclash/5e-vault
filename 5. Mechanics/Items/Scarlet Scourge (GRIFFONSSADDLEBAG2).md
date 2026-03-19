@@ -32,6 +32,9 @@ item_recharge: long-rest
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This whip is made from the severed vertebrae of a slain vampire's victims. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -40,7 +43,3 @@ The whip siphons blood from creatures that it hits. Whenever you hit a Small or 
 For every 5 charges the whip has, the muscle fibers that hold it together loosen and add 5 feet to the weapon's reach.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 154*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

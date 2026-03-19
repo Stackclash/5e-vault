@@ -31,6 +31,9 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Made from the branch of a Gulthias tree (see the [[/5. Mechanics/Bestiary/Plant/Twig Blight.md\|blights]] entry of the Monster Manual), a Gulthias staff is a spongy, black length of wood. Its evil makes beasts visibly uncomfortable while within 30 feet of it. The staff has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) of its expended charges daily at dusk.
 
@@ -45,7 +48,3 @@ The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a
 While you are attuned to the staff, blights and other evil plant creatures don't regard you as hostile unless you harm them.
 
 *Source: Curse of Strahd p. 221*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

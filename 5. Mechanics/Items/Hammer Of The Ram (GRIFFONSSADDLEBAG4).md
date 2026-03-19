@@ -30,6 +30,9 @@ item_recharge: dawn
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This all-silver hammer carries a mighty force behind it with every swing. You gain a +1 bonus to attack and damage rolls made with this magic weapon. If the hammer hits an object that isn't being worn or carried, the hit is a critical hit.
 
@@ -40,7 +43,3 @@ The hammer has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expe
 If you're also attuned to the [[/5. Mechanics/Items/Ring Of The Ram.md\|ring of the ram]], your bonus to attack and damage rolls with the hammer increases to +2, and the hammer's every swing creates a projection of the spectral ram from the ring. The ram lurches forward from the head of the hammer, effectively increasing your reach with the weapon by an additional 5 feet. In addition, the hammer and ring share a pool of charges: any charge you have with the ring can be used for the hammer's properties, and vice versa.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -30,6 +30,9 @@ item_recharge: none
 - **Damage**: 1d12 force
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lance becomes shrouded in ghostly energy whenever it's thrust. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals force damage instead of piercing damage. While the lance is on your person, you can cast the [[/5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] spell from it, but only as a ritual.
 
@@ -42,7 +45,3 @@ In addition, any creature in the steed's line must succeed on a DC 15 Strength s
 The steed vanishes immediately after the attack. If you roll a 12 on any of the d12s for the damage of this attack or effect, this property can be used again. Otherwise, this property can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

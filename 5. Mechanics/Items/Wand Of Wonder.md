@@ -28,6 +28,9 @@ item_recharge: dawn
 ![[/5. Mechanics/Items/img/wand-of-wonder.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space. Roll `dice:d100|noform|noparens|avg` (`d100`) and consult the following table to discover what happens.
 
@@ -66,7 +69,3 @@ The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges d
 ^effect
 
 *Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

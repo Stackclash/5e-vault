@@ -31,11 +31,10 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you gain a +2 bonus to AC, you are immune to necrotic damage, and you are immune to any ability that would attempt to possess your body or remove your soul without your consent. In addition, any time an intangible creature attempts to move through your body (such as if they were on the Border Ethereal or by using the incorporeal movement trait), the attempt fails, and they take `dice:1d10|noform|noparens|avg` (`1d10`) force damage instead.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 92*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

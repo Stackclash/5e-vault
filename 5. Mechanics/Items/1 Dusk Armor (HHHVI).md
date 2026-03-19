@@ -30,11 +30,10 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you have a +1 bonus to AC. In addition, while wearing this armor in dim light or darkness, you may take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action as a bonus action. If you take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action in this way, you do not suffer the usual penalty that normally applies to Stealth (Dexterity) checks made in plate armor.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

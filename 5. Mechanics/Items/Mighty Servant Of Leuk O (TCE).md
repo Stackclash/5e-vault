@@ -18,6 +18,9 @@ item_recharge: long-rest
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/mighty-servant-of-leuk-o.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Named for the warlord who infamously employed it, the [[/5. Mechanics/Bestiary/Construct/Mighty Servant Of Leuk O (TCE).md\|Mighty Servant of Leuk-o]] is a fantastically powerful, 10-foot-tall machine that turns into an animate construct when piloted. Crafted of a gleaming black alloy of unknown origin, the servant is often described as a combination of a disproportioned dwarf and an oversized beetle. The servant contains enough space for 1 ton of cargo and a crew compartment within, from which up to two Medium creatures can control it-and potentially execute a spree of unstoppable destruction.
 
@@ -65,7 +68,3 @@ This does not destroy the servant permanently. Rather, `dice:2d6|noform|noparens
 The servant can be destroyed in two ways. After it has self-destructed, its disconnected pieces can be melted down in one of the forge-temples of its ancient Olman creators. Alternatively, if the servant strikes the Machine of Lum the Mad, both artifacts explode in an eruption that is three times the size and three times the damage as the servant's self-destruct property.
 
 *Source: Tasha's Cauldron of Everything p. 131*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

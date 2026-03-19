@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blast-Ooze.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A blast ooze is a 4-inch slab of ooze from a gelatinous cube that's been subjected to volatile alchemy. You can place the ooze on a solid surface using an action; it then sticks to that surface and remains there until a creature within reach of the ooze uses an action to remove it. If the target surface is a hostile creature or an object that's being worn or carried by one, you must make a Dexterity check contested by the creature's Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check. You add your proficiency bonus to this check, and you succeed automatically if the target is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. On a success, you place the ooze on the target.
 
@@ -27,7 +30,3 @@ You can use an action to carefully ignite a fuse that sticks out from the ooze u
 If you use an action to carefully ignite the fuse, you can choose the number of rounds it takes for the fuse to burn (up to 4), instead of rolling a `dice:d4|noform|noparens|avg` (`d4`). If the fuse is lit another way, the GM rolls the `dice:d4|noform|noparens|avg` (`d4`) in secret. A lit fuse can be extinguished by a creature within reach as normal or if it's doused with water.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

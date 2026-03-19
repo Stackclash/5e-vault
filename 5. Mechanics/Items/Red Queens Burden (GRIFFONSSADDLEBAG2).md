@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass, battle-scarred glaive was famously wielded by a tyrannical queen. You must have a Strength score of 17 or higher to wield this weapon. The queen's intensity still burns inside this weapon, making its handle always warm to the touch. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and it deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage to any target it hits.
 
@@ -63,7 +66,3 @@ Alternatively, while holding the glaive, you can expend 2 of its charges at the 
 The Red Queen's burden makes its wielder angry and untrusting. While attuned to the weapon, you gain the following flaw: "I can only trust one person. Everyone else is either a subject, a threat, or both." You or your GM determine who you can trust. In addition, if you are attuned to the weapon for 24 consecutive hours, your hotheadedness leaves your mind open to weakness and distraction. You are vulnerable to psychic damage and have disadvantage on Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) checks. These effects can be removed with a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but not while you are attuned to the weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 143*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

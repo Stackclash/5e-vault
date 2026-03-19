@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Torrdoks-Magnificent-Forgery.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large, gilded mirror is 5 feet tall, 3 feet across, and weighs 20 pounds. While the mirror is against a wall or similar vertical surface, you can speak its first command word using an action to magically fasten the mirror to the wall. You can unfasten the mirror by speaking the command word again using another action.
 
@@ -27,7 +30,3 @@ While the mirror is fastened to a wall, its reflective surface becomes oily and 
 Anything brought into the demiplane is shunted back to the original room when the mirror is removed from the wall. While the painting remains, it is indistinguishable from a regular painting. A successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) or Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check can reveal the true nature of the painting, but not what command words are required to use it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 177*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

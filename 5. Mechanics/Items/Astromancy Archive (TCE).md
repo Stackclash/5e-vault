@@ -25,6 +25,9 @@ item_recharge: dawn
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass disc of articulated, concentric rings unfolds into an armillary sphere. As a bonus action, you can unfold it into the sphere or back into a disc. When found, it contains the following spells, which are wizard spells for you while you are attuned to it: [[/5. Mechanics/Spells/Augury.md\|augury]], [[/5. Mechanics/Spells/Divination.md\|divination]], [[/5. Mechanics/Spells/Find The Path.md\|find the path]], [[/5. Mechanics/Spells/Foresight.md\|foresight]], [[/5. Mechanics/Spells/Locate Creature.md\|locate creature]], and [[/5. Mechanics/Spells/Locate Object.md\|locate object]]. It functions as a spellbook for you, with spells encoded on the rings.
 
@@ -36,7 +39,3 @@ The archive has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`)
 - When a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to expend 1 charge and force the creature to roll a `dice:d4|noform|noparens|avg` (`d4`) and apply the number rolled as a bonus or penalty (your choice) to the original roll. You can do this after you see the roll but before its effects are applied.  
 
 *Source: Tasha's Cauldron of Everything p. 120*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

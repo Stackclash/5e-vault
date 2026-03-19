@@ -19,6 +19,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hellions-Mask.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The features of this three-eyed mask magically move along with yours while you wear it. While wearing the mask, you have resistance to fire damage, and you can speak and understand Infernal. In addition, you can use your reaction to cast the [[/5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] spell from the mask (save DC 16) when you take damage from a creature that you can see within 60 feet of you. Once the spell has been cast from the mask, it can't do so again until the next dawn.
 
@@ -33,7 +36,3 @@ If you're a tiefling, you gain the following benefits while wearing the mask:
 This mask is cursed, and attuning to it extends the curse to you if you're not a tiefling. While cursed, you can't remove the mask unless you're targeted by the remove curse spell or similar magic. While wearing the mask, you have disadvantage on attack rolls against fiends and on saving throws against their spells and special abilities.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ghostbow-Bracer.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather bracer has a blue gemstone embedded on its wrist, which glimmers with an ethereal light. While wearing it, you gain a +2 bonus to damage rolls on ranged attacks made with longbows and shortbows.
 
@@ -46,7 +49,3 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action using
 You can expend 1 charge as a bonus action to make one ranged attack against a creature using the summoned bow. On a hit, you teleport to an unoccupied space that you can see that's within 15 feet of you. You can't teleport to a space that's closer to the target of the attack in this way.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

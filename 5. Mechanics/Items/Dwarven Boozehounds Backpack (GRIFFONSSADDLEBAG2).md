@@ -22,6 +22,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dwarven-Boozehounds-Backpack.webp#right)  
 
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large, silver tank is nearly 3 feet tall and produces its own magical ale. It has several knobs alongside it and a tapered hose attached to the bottom. The tank holds 8 gallons of [[/5. Mechanics/Items/Ale Gallon.md\|ale]] and completely refills daily at dawn. When you attune to the tank for the first time, it immediately fills with the magical ale. The tank is supported with several leather straps, allowing it to be easily carried. Regardless of how much ale is inside the tank, it always weighs 10 pounds.
 
@@ -30,7 +33,3 @@ You can dispense the magical ale as you would a normal keg, with the exception t
 While carrying the tank, you can use an action to point its hose at a target you can see within 30 feet of you, provided you have a free hand. When you do, the tank expels 1 gallon of the ale in a powerful blast at the target. If the target is an object that isn't being worn or carried and weighs no more than 300 pounds, it is either knocked over or pushed up to 15 feet away from you. If the target is a creature, make a ranged spell attack against it, using an attack bonus of +7. On a hit, the creature takes `dice:1d8|noform|noparens|avg` (`1d8`) bludgeoning damage, is pushed 5 feet away from you, and must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the start of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 76*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

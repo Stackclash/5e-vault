@@ -26,6 +26,9 @@ item_recharge: dawn
 *Ring, major, legendary (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Rings-of-Spell-Sharing.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of purple rings are linked by a magical force. Each ring displays an outstretched hand. One ring's hand looks to be casting a spell from a gemstone, while the other ring's hand levitates a larger gem above it; the former is a Siphoning ring, and the latter is a Channeling ring. Only the Channeling ring can be attuned to.
 
@@ -34,7 +37,3 @@ The ring has 4 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) 
 If the rings have been more than 1 mile away from one another for 24 hours, the Siphoning ring magically appears next to the Channeling ring again.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -25,6 +25,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rust-Arrows.webp#right)  
 
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Rust arrows are typically made in sets of 5 using the remains of a rust monster's antennae and chitinous hide. When found, a quiver of rust arrows contains `dice:1d3+2|noform|noparens|avg` (`1d3 + 2`) of the magic ammunition. Once it hits a target, an arrow flakes away into dust and is destroyed.
 
@@ -33,7 +36,3 @@ When you make a ranged attack with a rust arrow and hit a target that is either 
 If the target is a nonmagical ferrous metal object that isn't being worn or carried, the arrow destroys a 1-foot cube of it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 153*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

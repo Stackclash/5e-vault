@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, common*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cap is usually translucent, but changes colour to match the mood of its wearer, as described below:
 
@@ -32,7 +35,3 @@ This cap is usually translucent, but changes colour to match the mood of its wea
 ^mood-cap-colours
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 135*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

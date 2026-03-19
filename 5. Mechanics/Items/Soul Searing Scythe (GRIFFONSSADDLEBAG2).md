@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass weapon was forged in the heart of the Elemental Plane of Fire. You gain a +2 bonus to attack and damage rolls made with this magic weapon. While holding the scythe, you can use a bonus action to speak its command word, causing soul-rending flames to erupt from the holes in the blade. These flames are harmless to you and shed bright light in a 40-foot radius and dim light for an additional 40 feet. The flames last until you use a bonus action to speak the command word again or until you drop or stow the scythe.
 
@@ -42,7 +45,3 @@ In addition, when you score a critical hit with this weapon against a creature t
 When you reduce a creature to 0 hit points with this weapon, its body and soul are immolated and destroyed unless it is a construct or undead. A creature whose body and soul have been destroyed by the soul-searing scythe can be restored to life only by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or divine intervention.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 164*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 *Scroll, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ledger-Scroll.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This scroll is wound around a wooden dowel with owl faces on either end. When you use an action to read this scroll, choose a trigger for the scroll, centered on a point you can see within 30 feet of you, as well as up to five pieces of information to be recorded when that circumstance occurs. An [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] sensor appears at that point.
 
@@ -35,7 +38,3 @@ The scroll has 60 inches of parchment, and each added line takes up 1 inch of it
 A creature that can see the sensor (such as a creature benefiting from see invisibility or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) sees a watchful owl. The sensor is considered to have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 15 for the purposes of detecting a triggering creature or effect.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

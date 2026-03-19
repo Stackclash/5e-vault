@@ -19,6 +19,9 @@ item_recharge: dawn
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wild-Dice.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of two chipped and weathered wood six-sided dice are infused with unpredictable magic. They come in a small velvet bag whose pattern changes based on the dice's last roll. Otherwise, the dice appear completely unassuming.
 
@@ -42,7 +45,3 @@ The dice have a total of 6 charges and regain `dice:1d6|noform|noparens|avg` (`1
 ^2-effect
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dragon-Horn-Pauldron.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This single pauldron is made from the horn of a fallen dragon. While wearing it, you gain a +1 bonus to AC and have resistance to one damage type, which is determined by the kind of dragon that provided the horn, as shown on the table below.
 
@@ -40,7 +43,3 @@ This single pauldron is made from the horn of a fallen dragon. While wearing it,
 In addition, when you are subjected to an effect that allows you to make a saving throw to take only half damage of this resisted type, you can use your reaction to instead take no damage if you succeed on the saving throw.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 73*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

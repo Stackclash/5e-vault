@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A low-growing flower with yellow-grey petals that can be found in even the most 
 After using this herb, you are covered in a thick layer of blubber-like oil that remains for 4 hours. During this time, you are immune to any cold, fire, poison, or acid damage that you would suffer as a result of touching a target or from hitting them with a melee weapon attack.
 
 *Source: Hamund's Herbalism Handbook p. 7*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

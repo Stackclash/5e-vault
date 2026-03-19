@@ -35,6 +35,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have resistance to cold damage while you hold this staff.
 
@@ -45,7 +48,3 @@ The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges 
 Imprinted on this staff is a fragment of a dead wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
 
 *Source: Curse of Strahd p. 187*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -35,6 +35,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic quarterstaff is decorated with bird ornaments and equipped with a sling at its top. A nest sits in the crook of the sling. You can use the quarterstaff as if it were a sling, provided you hold it with two hands. When you do, the sling's damage die increases to `dice:1d6|noform|noparens|avg` (`1d6`) and its normal and long ranges are doubled.
 
@@ -51,7 +54,3 @@ When you make a ranged attack using the quarterstaff's sling, you can expend 1 o
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff ceases to regain charges and loses its Speak with Birds and Two Birds, One Stone properties.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -25,6 +25,9 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shield punishes certain creatures for their hostility and comes from a culture whose dominion is in direct competition with powerful beasts. While holding this shield, whenever you take damage from a melee attack made by a beast or monstrosity, that creature takes `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage. In addition, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]) checks.
 
@@ -33,7 +36,3 @@ This shield punishes certain creatures for their hostility and comes from a cult
 If you are also attuned to the [[/5. Mechanics/Items/Monster Tamers Sword (GRIFFONSSADDLEBAG2).md\|monster tamer's sword]] and are holding this shield, any creature captured by the sword gains a +1 bonus to its AC and can't be charmed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 124*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

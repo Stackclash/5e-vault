@@ -38,6 +38,9 @@ item_recharge: none
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Cost**: 2 gp
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark metal blade can slip between a person and their spirit to sever their connection to one another. You gain a +3 bonus to attack and damage rolls made with this magic weapon, which deals slashing damage instead of piercing damage.
 
@@ -49,7 +52,3 @@ While holding this weapon, you can use an action to cast the etherealness spell 
 Once this property of the weapon has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 167*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

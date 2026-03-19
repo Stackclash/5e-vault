@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ogramaus-Candle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blood red candle is made from a sickly combination of necrotic organs, but smells like heady herbs while lit. After burning for 1 hour, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.
 
@@ -29,7 +32,3 @@ A turned creature must spend its turns trying to move as far away from the candl
 Alternatively, you can use an action to plant the candle on the skull or head of a corpse, allowing its wax to affix itself to the new base. While it's affixed to the head, you can speak the candle's command word to deduct 5 minutes from its total burn time to ask the corpse up to five questions, as described by the [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

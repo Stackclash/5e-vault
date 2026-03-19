@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This two-pronged hammer vibrates with a powerful force whenever it strikes a target. Despite the thunderous nature, the sound it creates can only be heard up to 30 feet away. A target hit with the hammer takes an extra `dice:2d8|noform|noparens|avg` (`2d8`) thunder damage from the attack, or `dice:3d8|noform|noparens|avg` (`3d8`) thunder damage if the target is made of stone, metal, or glass.
 
@@ -43,7 +46,3 @@ Whenever the hammer deals this bonus thunder damage, it continues to vibrate unt
 - You can roll a `dice:d4|noform|noparens|avg` (`d4`) and add it to your bard spell save DC whenever you cast a spell that deals thunder damage. This bonus ends immediately after you cast the spell.  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

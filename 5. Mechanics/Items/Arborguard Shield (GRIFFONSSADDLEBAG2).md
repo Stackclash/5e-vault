@@ -25,6 +25,9 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This massive wooden shield was made using the bark of an ancient treant. While holding it, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 
@@ -39,7 +42,3 @@ While you're within 30 feet of the wall, you can see through a tree's space (no 
 The wall lasts as long as you concentrate (as if concentrating on a spell), to a maximum of 1 minute, or until it's dispelled by a [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell of 6th-level or higher, or until you are no longer holding the shield. Once this property of the shield has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 37*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

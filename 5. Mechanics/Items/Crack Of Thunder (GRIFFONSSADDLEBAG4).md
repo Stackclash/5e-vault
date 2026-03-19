@@ -33,6 +33,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this sword, you have resistance to lightning damage. When you hit with an attack using this magic sword, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage.
 
@@ -45,7 +48,3 @@ Before you make an attack with this weapon, you can cause it to split apart into
 Whenever a creature within 40 feet of you takes lightning damage, you can use your reaction to take some or all of that lightning damage instead. When you do, electricity arcs from the other creature to you. You choose how much lightning damage to reduce the triggering effect by; you then take that amount of lightning damage instead.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

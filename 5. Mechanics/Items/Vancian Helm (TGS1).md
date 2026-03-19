@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Vancian-Helm.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helmet is made from the reclaimed and partially disenchanted remains of a [[/5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]]. The helm is no longer bound to an amulet. You gain a +1 bonus to AC while you wear this helmet.
 
@@ -32,7 +35,3 @@ While wearing this helmet, you can cast any spell stored in it. The spell uses t
 If you are wearing the helmet when a spell of 5th level or higher is cast into the helm, the spell is expended without effect and you take `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage. While a spell is stored within the helmet, your eyes glow with a brilliant color of your choice while you wear it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 138*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Firewatch-Vambraces.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These adamantine vambraces look like miniature shields; they feel cool in the heat but warm in the cold. You gain a +1 bonus to AC while wearing the vambraces.
 
@@ -28,7 +31,3 @@ You can use an action to cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire sh
 The vambraces can be used to cast this spell twice. They regain all expended uses of it daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

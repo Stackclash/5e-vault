@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ You may use this herb as a weapon, treating it as a [[/5. Mechanics/Items/Dagger
 
 
 *Source: Hamund's Herbalism Handbook p. 13*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

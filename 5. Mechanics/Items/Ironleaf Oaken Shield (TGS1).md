@@ -27,11 +27,10 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This reinforced wooden shield is covered with ironleaf vines that grant you extra protection. You gain a +1 bonus to your AC while wielding this shield in addition to the shield's normal bonus to AC. In addition, the wooden shield reforms itself to fit you whenever you transform into a beast while holding it. When you do, the ironleaf vines and wooden shield latch onto your bestial form, granting you a +1 bonus to your AC while transformed in this way.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 80*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

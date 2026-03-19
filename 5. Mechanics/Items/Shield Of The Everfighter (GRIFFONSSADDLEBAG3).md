@@ -25,6 +25,9 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heater shield's center is made of plated sheets of armor. While holding it, you can use a bonus action to speak the shield's command word to cause it to magically collapse and reshape itself into a metal-plated bracer on your arm. While in bracer form, the shield provides no benefit to your AC but leaves your hand free. Speaking the command word again as a bonus action or removing the bracer causes it to become a shield again.
 
@@ -33,7 +36,3 @@ Alternatively, you can return the bracer to its shield form as a reaction when y
 In addition, if you're a fighter, you gain `dice:1d10|noform|noparens|avg` (`1d10`) temporary hit points when you use either your Action Surge or Second Wind class feature. If you are also holding the gladius of the everfighter, you can transform the shield as part of the same action or bonus action used to transform the weapon.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

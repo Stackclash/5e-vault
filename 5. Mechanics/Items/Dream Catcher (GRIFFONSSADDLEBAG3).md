@@ -29,6 +29,9 @@ item_recharge: dawn
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This circular net is stylized with large white feathers around its edge. Unlike a normal net, the dream catcher can restrain a formless creature such as a ghost or water elemental. The net is immune to slashing damage, and it requires a DC 16 Strength check, instead of DC 10, to free a creature from the net.
 
@@ -37,7 +40,3 @@ The net has 8 charges, which are represented by the number of feathers around th
 When you expend a charge, one of the feathers disappears in a dream-like cloud of smoke. The net regains `dice:1d8|noform|noparens|avg` (`1d8`) expended charges daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

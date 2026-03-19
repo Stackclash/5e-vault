@@ -23,6 +23,9 @@ item_recharge: none
 *Scroll, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Spoken-Letter.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This scroll resembles a normal sheet of parchment, but magically prevents anything from being written or marked on it. Instead, while holding the scroll, you can speak aloud to record the words you speak onto the parchment, which appear as a neatly written script. Only one side of the parchment can be filled in this way: typically no more than 250 words or 1 minute's worth of speaking. When you're finished with the recording and release the parchment, it magically folds and seals itself into a self-containing envelope. Once a message has been recorded, it can't be replaced with a new one. You also decide what triggers the scroll to relay the recording, as well as what happens to it afterwards.
 
@@ -33,7 +36,3 @@ When that circumstance occurs, the envelope opens up and recites the message in 
 A creature can use an action to make a DC 30 Strength check, opening the letter by force on a success. When this happens, the scroll's magic is lost, but the written recording remains.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

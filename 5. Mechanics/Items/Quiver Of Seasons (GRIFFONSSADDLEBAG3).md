@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Quiver-of-Seasons.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slender quiver is decorated with a forest of silhouetted trees. You can use a bonus action on each of your turns to speak the quiver's command word to change its season, which also changes its color and design: Spring (green, trees with silver leaves), Summer (yellow, rays of silver sunlight), Autumn (orange, silver leaves falling), or Winter (blue, silver veins on trees).
 
@@ -46,7 +49,3 @@ The ammunition returns to normal after the attack.
 Other types of magic ammunition containers of this kind exist, such as a bolt case of seasons meant for crossbows, though quivers are most common.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

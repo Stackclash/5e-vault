@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement)*  
 ![[/5. Mechanics/Items/img/boots-of-the-winterlands.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
 
@@ -28,7 +31,3 @@ These furred boots are snug and feel quite warm. While you wear them, you gain t
 - You can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as -100 degrees Fahrenheit.  
 
 *Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

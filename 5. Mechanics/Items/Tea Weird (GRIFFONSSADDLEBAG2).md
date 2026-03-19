@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Tea-Weird.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This Tiny, sentient fragment of a charmed water elemental has an endless desire to create tea. When given a leaf or other potential tea ingredient, its watery form gurgles happily as it begins to steep it, magically heating the water surrounding the ingredient to its ideal brewing temperature. It only picks up materials it chooses to and can control whether or not it's wet to the touch. The tea weird can inhabit up to 1 gallon of water, or as little as 1 ounce. Any water controlled by the tea weird is magical for the duration.
 
@@ -33,7 +36,3 @@ The tea weird is a sentient chaotic good item with an Intelligence of 3, a Wisdo
 The tea weird is dedicated to making tea. It will happily collect moisture, steep it with fresh ingredients, and then separate itself from the freshly brewed tea by pouring it into a cup or similar vessel. It avoids combat at all costs and enjoys resting in cups, kettles, or the pockets of friendly creatures.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 174*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

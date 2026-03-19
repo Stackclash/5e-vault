@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Deathly-Diadem.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gruesome crown was worn by a powerful lich before falling into the hands of the adventurers who slayed it. While wearing this crown, you have resistance to necrotic damage, are always under the effects of the tongues spell, and you can cast the speak with dead spell at will. When you cast speak with dead in this way, you can only ask the target 1 question, to which the target answers with either "yes," "no," or "maybe." If the question can't be answered in this way, the spell ends. In addition, while you wear this crown, undead creatures have disadvantage on attack rolls against you.
 
@@ -31,7 +34,3 @@ This crown is cursed, a fact that is only revealed to you when you die. The firs
 A creature remains cursed in this way until targeted by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or divine intervention. Removing the crown fails to end the curse. While a cursed creature may not reveal that the diadem is cursed, its allies may be able to deduce its presence and effects based on the creature's behavior.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 70*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

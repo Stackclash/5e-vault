@@ -32,6 +32,9 @@ item_recharge: none
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Verax-Weapon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A verax weapon has been made by quenching its metal in the blood of a particular creature while being forged, enchanting the weapon with a magic that hunts down creatures of the chosen type. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -54,7 +57,3 @@ Use the table below to choose or randomly determine what creature type's blood w
 ^creature-type
 
 *Source: The Griffon's Saddlebag, Book 2 p. 180*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

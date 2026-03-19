@@ -26,6 +26,9 @@ item_recharge: dawn
 *Wand, major, legendary (requires attunement by a good-aligned spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-the-Alicorn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand was made using the horn of a unicorn and feather of a pegasus for the queen for Orostead, a powerful mage whose skilled leadership made her a favorite among her city's citizens and military. The wand has 7 charges, which are used for the following properties, and regains all expended charges daily at dawn.
 
@@ -44,7 +47,3 @@ Alternatively, while holding the wand, you can use a bonus action to expend 1 of
 While holding the wand, you can use an action to expend 1 or more charges from the wand to cause a beam of healing light to shine down on a creature you can see within 60 feet of you. The creature regains 10 hit points for each charge you spend and is cured of either one disease or one condition afflicting it. The condition can be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], or [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]]. If a creature regains hit points in this way that would take it above its hit point maximum, that creature gains temporary hit points equal to the number of restored hit points above its hit point maximum.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 184*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

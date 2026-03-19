@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Primordial-Earth-Heart.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crystal-pierced rock is shaped like a heart. It gently pulses while held and is always slightly warmer than body temperature. It is said that the first earth elemental was once a human that joined with such a heart.
 
@@ -35,7 +38,3 @@ While attuned to the heart, you can use an action to cast one of the following s
 This heart is cursed, and attuning to it extends that curse to you. While cursed, the stone and crystals spread across your body, gradually replacing your flesh with pure rock and crystal over the course of 30 days. After 30 days, you no longer need to breathe, you gain a burrowing speed equal to half your walking speed, and you have [[/5. Mechanics/Rules/Senses.md#Tremorsense\|tremorsense]] out to a range of 10 feet. Your weight is also tripled; your swimming speed is reduced to 0 if you have one, and you sink to the bottom of any liquid at a rate of 60 feet per round, at which point you can walk as normal. Only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can end your attunement to the heart and remove the curse, at which point it erupts from your body, landing in a space within 5 feet of you and returning your flesh to normal.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -22,11 +22,10 @@ item_recharge: none
 # +2 Weapon (no damage)
 *Major, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +2 bonus to attack rolls made with this weapon.
 
 *Source: Dungeon Master's Guide p. 213*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

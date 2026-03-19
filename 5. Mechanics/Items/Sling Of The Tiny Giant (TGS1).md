@@ -32,13 +32,12 @@ item_recharge: none
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wicked sling is devastating against foes larger than yourself. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and when you hit a creature with a ranged attack using this sling, the creature takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) force damage for each size larger than you it is (up to an extra `dice:3d4|noform|noparens|avg` (`3d4`) damage).
 
 In addition, when you roll a 20 on an attack roll made with the sling, the target must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet away from you and knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If the affected creature is Large or larger, it has disadvantage on the saving throw.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 117*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

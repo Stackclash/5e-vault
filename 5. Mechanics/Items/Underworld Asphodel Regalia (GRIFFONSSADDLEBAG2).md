@@ -23,6 +23,9 @@ item_recharge: none
 *Wondrous item, major, legendary (requires attunement by a cleric or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Underworld-Asphodel-Regalia.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of royal finery was worn by a noble necromancer with a unique appreciation for the quality of life that extends beyond death. Asphodel blossoms, representing life beyond the tomb, ornament this enchanted outfit. The lush flowers in its laurel crown are nestled among long-dead leaves.
 
@@ -42,7 +45,3 @@ You can use this property a number of times equal to your spellcasting ability m
 You are always under the effects of the [[/5. Mechanics/Spells/Sanctuary.md\|sanctuary]] spell. This version of the spell only affects undead. If you make an attack or cast a spell that affects an undead creature, that creature is immune to this spell's effects for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 178*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

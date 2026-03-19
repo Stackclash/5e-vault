@@ -37,6 +37,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This powerful trident is made of verdigris-covered bronze. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 while you are underwater.
 
@@ -53,7 +56,3 @@ While at least one tentacle remains, you can use an action to repeat these attac
 The gate stays open for 1 minute. It closes early if you dismiss it using a bonus action or if you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or die. Once this property of the trident has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 68*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

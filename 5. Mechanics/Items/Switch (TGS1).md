@@ -28,6 +28,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Switch.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This simple, springy rod is made of twisting vines and twigs. While attuned to the rod, you can expend 1 use of your [wild shape](/compendium/classes/druid.md#Wild%20Shape%20(Level%202)) feature as a bonus action to activate it. The rod stays active for a number of hours equal to half your druid level (rounded down).
 
@@ -38,7 +41,3 @@ While the rod is activated, you can use an action to expend a second use of your
 Switch becomes inactive at the end of its duration, you fall to 0 hit points, or end it early as a bonus action. When it's inactive, it reverts to its normal rod form.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 129*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Rune-Marked-Bracers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These bracers were made by giant stone carvers and enchanters. Five elemental runes are carved into the sides of this pair of stone bracers, which magically loosen or tighten around your forearms to fit. Each bracer weighs 10 pounds, but they miraculously become weightless once you attune to them. While wearing the bracers, you gain a +1 bonus to AC.
 
@@ -46,7 +49,3 @@ The attacker must succeed on a DC 15 Constitution saving throw or become sluggis
 The attacker must succeed on a DC 15 Dexterity saving throw or take `dice:3d8|noform|noparens|avg` (`3d8`) lightning damage and it can't take reactions until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

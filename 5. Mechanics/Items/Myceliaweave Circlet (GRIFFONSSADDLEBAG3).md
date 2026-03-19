@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Myceliaweave-Circlet.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fungus-covered wooden circlet is riddled with a tangled web of mycelia. While wearing it, you are always under the effects of the [[/5. Mechanics/Spells/Speak With Plants.md\|speak with plants]] spell. This version of the spell only allows you to understand and speak to fungi, instead of all plants. In addition, your Constitution score increases by 2, to a maximum of 22, and you are immune to poison damage. Whenever you would take poison damage, you can instead spend one Hit Die to magically regain hit points (no action required). When you do, roll the Hit Die, add your Constitution modifier, and regain a number of hit points equal to the total.
 
@@ -33,7 +36,3 @@ The reanimated creature is considered a fungus for the purposes of being able to
 Once you attune to this magic circlet and wear it, you can't remove it unless you die or are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, as the fungal growth and mycelium network latch onto your body. When your attunement to the circlet ends, your Constitution score is reduced by 2 (to a minimum score of 1) until `dice:2d6+6|noform|noparens|avg` (`2d6 + 6`) days have passed or until you attune to the circlet again. Further, a creature reanimated by the circlet becomes hostile to you and your companions and no longer obeys your commands if your attunement to the circlet ends.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

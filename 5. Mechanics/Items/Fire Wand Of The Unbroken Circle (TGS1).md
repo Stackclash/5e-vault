@@ -28,6 +28,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Fire-Wand-of-the-Unbroken-Circle.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden wand is carved out of ash and is always faintly warm to the touch. Whenever you grip the wand's handle and later look at your palm, it's strangely covered in a fine layer of charcoal. This wand has 7 charges. While holding the wand, you can expend 1 or more of its charges to cast either the [[/5. Mechanics/Spells/Flame Blade.md\|flame blade]] spell (2 charges) or [[/5. Mechanics/Spells/Produce Flame.md\|produce flame]] cantrip (no charges, or 1 charge to cast at 5th level) from it, using a spell attack bonus of +5. When you cast the *flame blade spell* using this wand, the sword's fiery blade appears above the wand's haft instead of in a free hand.
 
@@ -36,7 +39,3 @@ Whenever you would fail a Constitution saving throw to maintain concentration on
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 65*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

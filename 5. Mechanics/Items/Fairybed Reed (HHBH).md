@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A wonderfully beautiful reed that grows a distinctive pad on top covered with in
 You may spend 10 minutes applying this herb to yourself, stuffing its seeds into your armour and lubricating the joints with its oil. If you do so, you ignore any disadvantage to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks that you may have while wearing your armor type.
 
 *Source: Hamund's Herbalism Handbook p. 13*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This festerwood rapier's blade is inlaid with scrapings from the Lightspore, the radiant mushroom growing at the center of the Festerwood. You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you're attuned to this rapier, you have advantage on ability checks made to find locations within the Festerwood and are immune to disease. While holding the sword, the blade sheds bright light in a 10-foot radius and dim light for another 10 feet.
 
@@ -48,7 +51,3 @@ As an action, you can touch a willing creature with the rapier and expend 1 of i
 While holding this rapier, you can use an action to expend 1 of its charges to cast one of the following spells from it (save DC 17, spell attack bonus +9): [[/5. Mechanics/Spells/Charm Person.md\|charm person]] (4th-level version), [[/5. Mechanics/Spells/Compulsion.md\|compulsion]], [[/5. Mechanics/Spells/Confusion.md\|confusion]], [[/5. Mechanics/Spells/Contagion.md\|contagion]], [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], or [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]] (4th-level version). In addition, you can use an action to cast the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell at will while holding the rapier.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 63*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

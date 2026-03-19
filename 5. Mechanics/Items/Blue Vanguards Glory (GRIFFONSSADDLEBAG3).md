@@ -23,6 +23,9 @@ item_recharge: dawn
 *Major, very rare (requires attunement by a creature with a constitution score of 17 or higher)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blue-Vanguards-Glory.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brilliant deep blue armor is the bulwark for the king's royal front rank. While you have more than half your Hit Dice remaining, you can spend 1 of them as a bonus action to gain a +2 bonus to AC until the start of your next turn.
 
@@ -45,7 +48,3 @@ As an action while wearing this armor, you can expend up to 5 of its charges to 
 The Blue Vanguard's glory compels its wearer to be aggressive and overprotective. While attuned to the armor, you gain the following flaw: "I will not tolerate violence towards my friends. I will separate the problem from them with myself." In addition, if you are attuned to the armor for 24 consecutive hours, your commitment to duty extends to the person you trust most. You or your GM determine who this person is. You consider this person your principal charge and you are quick to separate them from acts of aggression, taking on the ire in their stead. You can't attune to the Red Queen's burden or the Violet King's promise. If you're already attuned to either of them, your attunement to it immediately ends once this effect is extended to you. The first creature you meet who is attuned to either of these weapons becomes your principal charge, regardless of who you previously considered it to be. You become [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by them and obey their commands to the best of your ability. If you find the Red Queen's burden or Violet King's promise without an owner, you are compelled to protect it with your life until a rightful owner is found. These effects can be removed with a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but not while you are attuned to the armor.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

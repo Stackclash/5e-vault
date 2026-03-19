@@ -22,6 +22,9 @@ item_recharge: short-rest
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Rat-King-Sphere.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hollow metal sphere is covered with illustrations of rats, one of which is gilded and wears a small crown. The sphere is 6 inches in diameter and weighs 3 pounds. Holes of various sizes dot its surface, allowing you to peer inside. The sphere is completely empty while a creature isn't attuned to it.
 
@@ -56,7 +59,3 @@ While you're attuned to one or more other items with "rat king" in its name, the
 You can summon a swarm of rats to the empty sphere using a special ritual, which takes 1 hour to perform and can be done during a short rest. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

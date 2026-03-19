@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Cost**: 19 gp
 - **Weight**: 24.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Includes:
 
@@ -39,7 +42,3 @@ Includes:
 - a [[/5. Mechanics/Items/Waterskin.md\|waterskin]].  
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

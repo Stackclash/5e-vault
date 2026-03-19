@@ -21,6 +21,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/bag-of-beans.webp#right]]  
 
 - **Weight**: 0.5 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Inside this heavy cloth bag are `dice:3d4|noform|noparens|avg` (`3d4`) dry beans. The bag weighs ½ pound plus ¼ pound for each bean it contains.
 
@@ -47,7 +50,3 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 ^effect
 
 *Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

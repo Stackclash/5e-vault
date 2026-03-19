@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An area that is enclosed by an outline of this viscous paint becomes magically sealed to teleportation and planar-based transportation. When viewed from another plane, the area appears to have a shimmering barrier of solid light that is impassable. Any travel into or out of the area by any method via a plane other than the one that the paint was used on is impossible. For example, you cannot walk through the barrier while you are in the Border Ethereal, nor can you succeed on a [[/5. Mechanics/Spells/Plane Shift.md\|plane shift]] spell while inside the area.
 
@@ -25,7 +28,3 @@ Furthermore, any attempt at teleporting into or out of the area automatically fa
 This item has 1 gallon of paint in it, and each gallon of paint is enough to draw a 5-foot line. The protection that the paint bestows on an area is permanent and can only be removed by damaging the paint enough to break the outline.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

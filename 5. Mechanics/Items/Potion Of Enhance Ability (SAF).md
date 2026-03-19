@@ -20,6 +20,9 @@ item_recharge: none
 # Potion of Enhance Ability
 *Potion, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Starts as a basic gray potion with no effect. However, if a material component is added, it gains one of the following effects:
 
@@ -31,7 +34,3 @@ Starts as a basic gray potion with no effect. However, if a material component i
 - **Potion of Owl's Wisdom.** You have advantage on Wisdom checks for 1 hour. Requires an owl's feather.  
 
 *Source: Strongholds and Followers p. 144*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -83,11 +83,10 @@ item_recharge: none
 # +1 Weapon
 *Major, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 *Source: Dungeon Master's Guide p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

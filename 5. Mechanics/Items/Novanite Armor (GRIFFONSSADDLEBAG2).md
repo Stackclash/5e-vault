@@ -30,6 +30,9 @@ item_recharge: none
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Novanite-Armor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Novanite is a strong metal smelt from ore mined in the Astral Plane. Armor made from this metal absorbs more light than normal and gives off a strange, otherworldly aura. Glimmering cosmos can be seen in the armor's reflections at night. You have a +1 bonus to AC while wearing this armor.
 
@@ -40,7 +43,3 @@ While wearing this armor, you can speak its command word as an action to choose 
 Disappearing and reappearing in this way creates vacuums and waves as space is pushed and pulled around you. Other creatures within 10 feet of you when you vanish or reappear must make a DC 15 Strength saving throw. On a failed save, a creature takes `dice:3d6|noform|noparens|avg` (`3d6`) force damage and is pulled up to 10 feet toward the space you left from, or pushed 10 feet away from the space you reappear in. On a successful save, a creature takes half as much force damage and is not pulled or pushed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 130*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Vigilantes-Mantle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This midnight purple cloak has a hood which covers the top of your face; you can see through a pair of stylized eyes in the hood, which are opaque white. Pulling the hood up or down requires an action. While the hood is pulled up, you're immune to being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], and you gain a +2 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
 
@@ -34,7 +37,3 @@ While the hood is pulled up, you can use a bonus action on each of your turns to
 ^name-benefit
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

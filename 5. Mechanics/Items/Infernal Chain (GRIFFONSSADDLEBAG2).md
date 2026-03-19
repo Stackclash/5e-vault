@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This length of heavy chain has a weight at its end and is always warm to the touch. The chain is 10 feet long and weighs 10 pounds. When you attune to the chain, it magically coils up one of your arms (your choice) and secures itself in place. When you swing it, the chain magically extends from you before returning to coil around your arm once again. You must use a hand in order to swing and use the chain.
 
@@ -44,7 +47,3 @@ You can choose to use this chain instead of your normal reach when you [[/5. Mec
 This chain is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unable to remove the chain from your arm, and at the start of each of your turns while a celestial is within 30 feet of you (that you are aware of), you must succeed on a DC 16 Wisdom saving throw or be compelled to use your action to attack the nearest celestial. In addition, while cursed, you gain the following flaw: "I delight in exploiting my enemy's flaws and fears to make them suffer."
 
 *Source: The Griffon's Saddlebag, Book 2 p. 109*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

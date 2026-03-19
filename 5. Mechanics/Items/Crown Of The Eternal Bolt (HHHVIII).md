@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing and attuned to this item, you have resistance to lightning damage. This crown also has 6 charges. As an action, you may spend a charge to use any of the following abilities:
 
@@ -40,7 +43,3 @@ As part of the action used to do this ability, you must make a weapon attack aga
 This crown regains 1 charge per 20 lightning damage you take in a single turn while wearing it. It also recovers all expended charges at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 86*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

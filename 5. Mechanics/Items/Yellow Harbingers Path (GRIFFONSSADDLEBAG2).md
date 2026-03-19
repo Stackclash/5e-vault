@@ -30,6 +30,9 @@ item_recharge: dawn
 *Major, very rare (requires attunement by a creature with a Dexterity score of 17 or higher)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Yellow-Harbingers-Path.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This burnt yellow armor is the mark of a royal scout. Its magical construction is unyielding to all but the most lithe and capable of scouts and huntsmen.
 
@@ -56,7 +59,3 @@ You can use a bonus action to expend up to 3 of the armor's charges to cast the 
 The Yellow Harbinger's path compels its wearer to be cautious and overprepared. While attuned to the armor, you gain the following flaw: "I am duty-bound to lay out the perfect plan for every situation. Uncertainty is unacceptable." In addition, if you are attuned to the armor for 24 consecutive hours, your commitment to duty extends to the person you trust most. You or your GM determine who this person is. You consider this person your field commander and put their plans ahead of your own and trust them implicitly. You can't attune to the [[/5. Mechanics/Items/Red Queens Burden (GRIFFONSSADDLEBAG2).md\|Red Queen's burden]] or the [[/5. Mechanics/Items/Violet Kings Promise (GRIFFONSSADDLEBAG2).md\|Violet King's promise]]. If you're already attuned to either of them, your attunement to it immediately ends once this effect is extended to you. The first creature you meet who is attuned to either of these weapons becomes your field commander, regardless of who you previously considered it to be. You become charmed by them and obey their commands to the best of your ability. If you find the [[/5. Mechanics/Items/Red Queens Burden (GRIFFONSSADDLEBAG2).md\|Red Queen's burden]] or [[/5. Mechanics/Items/Violet Kings Promise (GRIFFONSSADDLEBAG2).md\|Violet King's promise]] without an owner, you are compelled to protect it with your life until a rightful owner is found. These effects can be removed with a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but not while you are attuned to the armor.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 194*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

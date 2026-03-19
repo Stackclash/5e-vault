@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/crown-of-lies.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 After betraying and nearly destroying the lich Vecna, the warrior Kas found himself trapped in the Shadowfell, imprisoned in a Domain of Dread called Tovag. There, he languished as a vampire. In time, the Dark Powers of the Domain of Dread lured Kas to a hidden forge, where he found the Crown of Lies. Once Kas vowed to deliver Vecna into the Dark Powers' clutches and donned the crown, the Dark Powers released Kas. From there, Kas set out to ruin his former master. Should Kas fail, the Dark Powers will reclaim him.
 
@@ -48,7 +51,3 @@ While wearing this crown in your true form, you can choose for the crown to be v
 If a creature wearing the crown is killed by the creature it is disguised as, the crown disintegrates and is destroyed.
 
 *Source: Vecna: Eve of Ruin p. 6*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

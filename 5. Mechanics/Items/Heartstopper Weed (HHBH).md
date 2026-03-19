@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 50 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ After preparing this herb, you gain an intense calm for the next hour. During th
 
 
 *Source: Hamund's Herbalism Handbook p. 18*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

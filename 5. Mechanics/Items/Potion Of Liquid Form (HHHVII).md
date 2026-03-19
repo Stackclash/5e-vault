@@ -21,6 +21,9 @@ item_recharge: none
 *Potion, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this clear potion, you transform into a water-like liquid form for 1 hour. In this form, you gain the following benefits:
 
@@ -32,7 +35,3 @@ When you drink this clear potion, you transform into a water-like liquid form fo
 Once the hour is over, you return to your normal form. If you return to your normal form in a space that would not support your normal form, you take `dice:4d8|noform|noparens|avg` (`4d8`) force damage at the start of each of your turns until you are in a space that can support you.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 63*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

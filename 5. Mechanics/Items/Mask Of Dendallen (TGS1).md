@@ -21,6 +21,9 @@ item_recharge: long-rest
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Mask-of-Dendallen.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This skull mask covers the top of your face and offers several benefits while worn. The mask has 5 charges and regains all expended charges daily at dusk. While wearing the mask, you can use an action to expend 1 of its charges to cast one of the following spells from it (save DC 16): [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[/5. Mechanics/Spells/Fear.md\|fear]], [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]], or [[/5. Mechanics/Spells/Tongues.md\|tongues]]. You have advantage on Constitution saving throws you make in order to maintain concentration on a spell you cast in this way. In addition, you can read all writing.
 
@@ -43,7 +46,3 @@ When you place this mask over your face for the first time, make a DC 16 Intelli
 ^mask-of-dendallen-effects
 
 *Source: The Griffon's Saddlebag, Book 1 p. 86*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -24,11 +24,10 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small shield is the repurposed pot lid of a famous adventuring chef. While wielding the shield, you have advantage on saving throws to resist or avoid taking fire damage. In addition, if you place the shield face down over a pot or similar vessel that's holding no more than 2 gallons of a water-based liquid inside, the vessel and its liquid comes to a rolling boil after 10 minutes.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 34*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

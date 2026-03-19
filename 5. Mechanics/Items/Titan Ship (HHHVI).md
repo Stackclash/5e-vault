@@ -21,6 +21,9 @@ item_recharge: none
 *Wondrous item, airship, vehicle (air), artifact*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ship's hull is formed from the shell of a [[/5. Mechanics/Bestiary/Monstrosity/Tarrasque.md\|tarrasque]] and shares much of its properties. The ship is 30 feet wide, 70 feet long, and 20 feet high. It possesses 3 sails and can travel at 2 1/2 mph in a good wind. The ship has 25 AC, 500 HP, can house 60 passengers, carry 200 tons of cargo and has a damage threshold of 20.
 
@@ -33,7 +36,3 @@ In addition, this ship is immune to fire damage as well as bludgeoning, piercing
 
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 142*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

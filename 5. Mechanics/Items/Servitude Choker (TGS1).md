@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Servitude-Choker.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This necklace can animate small nonliving objects and have them fulfill simple tasks for you. As an action, you can drape or wrap the necklace around a Small or smaller nonmagical object that weighs less than 50 pounds and isn't attached to or carried by anything else. The adorned object springs to life, sprouting little arms and legs, and becomes a mindless creature under your control until you remove the necklace or it takes damage. The servant has an AC of 10 and a movement speed of 20 feet.
 
@@ -28,7 +31,3 @@ As a bonus action, you can mentally command the servant if it's within 60 feet o
 The necklace can animate an object for up to 8 hours or until it takes damage. When the effect ends, the necklace can't be used again for another `dice:1d8|noform|noparens|avg` (`1d8`) hours.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 111*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

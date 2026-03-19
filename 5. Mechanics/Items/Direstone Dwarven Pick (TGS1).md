@@ -33,11 +33,10 @@ item_recharge: dawn
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This old, weathered war pick is able to effortlessly break and mold stone. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Creatures and objects made of stone that are hit by the war pick take an extra `dice:1d8|noform|noparens|avg` (`1d8`) piercing damage from the attack. In addition, the weapon has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. As an action, you can expend 1 of its charges to cast the [[/5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]] or [[/5. Mechanics/Spells/Stone Shape.md\|stone shape]] spell using the weapon.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 52*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

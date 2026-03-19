@@ -18,6 +18,9 @@ item_recharge: none
 # Sphere of Annihilation
 *Wondrous item, major, legendary*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
 
@@ -39,7 +42,3 @@ If the sphere comes into contact with a planar portal, such as that created by t
 ^result
 
 *Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

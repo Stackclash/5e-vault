@@ -24,11 +24,10 @@ item_recharge: none
 
 - **Cost**: 50 gp
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
 
 *Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

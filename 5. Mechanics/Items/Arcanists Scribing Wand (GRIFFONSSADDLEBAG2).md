@@ -26,6 +26,9 @@ item_recharge: dawn
 *Wand, major, rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Arcanists-Scribing-Wand.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand's handle has a fountain pen nib at its end that releases its own magical ink. When you use this pen to copy a spell into your spellbook, the gold it takes to do so is halved. Swinging the wand causes tiny droplets of illusory ink to trail behind it.
 
@@ -42,7 +45,3 @@ While holding the wand, you can use an action to expend 2 of its charges to caus
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand dissolves into a puddle of mundane ink and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 38*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

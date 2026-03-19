@@ -37,6 +37,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fey staff's shaft is hewn from the wood of an ancient, mysterious oak in the Ebony Glade, whose roots are said to have absorbed the dreams of elves from long ago. A perfect sphere of amber from that same oak hangs suspended in the center of it. While attuned to the staff, you are immune to the [[/5. Mechanics/Spells/Dream.md\|dream]] and [[/5. Mechanics/Spells/Sleep.md\|sleep]] spells.
 
@@ -109,7 +112,3 @@ When you start a long rest, you can focus on a question about an upcoming event 
 While holding the staff, you have resistance to psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

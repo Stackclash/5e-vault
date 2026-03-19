@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dragons-Call.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ear cuff imparts a deeper understanding of draconic history and language upon its wearer. While wearing the ear cuff, you can understand and speak Draconic. In addition, you gain a +1 bonus to any Charisma, Intelligence, or Wisdom ability check you make that involves dragon-related lore.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 57*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

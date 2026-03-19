@@ -23,6 +23,9 @@ item_recharge: none
 *Wondrous item, vehicle (land), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hoarders-Haul.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical cart is made from the large, hollow horn of a fallen dragon. While all *hoarder's hauls* are made from the horns of dragons, their true magic stems from the strength of the dragon's greed. Uncommon and rare carts have handles and a single wheel at their front and must be physically moved. Very rare versions have a flying speed of 10 feet, can hover up to 20 feet off the ground, and move according to your spoken directions, provided that you are within 30 feet of the cart.
 
@@ -33,7 +36,3 @@ When you place a nonliving object in the cart, you can speak the cart's second c
 The cart's properties depend on the item's rarity. The uncommon variant has a carrying capacity of 500 lb., and a save DC of 15. Creatures that fail the saving throw take `dice:3d6|noform|noparens|avg` (`3d6`) psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 104*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

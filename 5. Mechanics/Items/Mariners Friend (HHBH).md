@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ While this low lying shrub may seem like a common weed to the less educated, thi
 For 4 hours after using this herb, any liquid that touches you instantly drains off your body, clothes, and possessions, leaving you completely dry.
 
 *Source: Hamund's Herbalism Handbook p. 23*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

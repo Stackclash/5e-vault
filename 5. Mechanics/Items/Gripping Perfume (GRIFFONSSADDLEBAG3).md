@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Gripping-Perfume.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 1-ounce bottle of perfume is decorated with a ceramic octopus at its top. Its head is actually a fabric balloon, which allows the holder to spray the perfume through one of the octopus's tentacles. The perfume looks like a dark ink when sprayed, but immediately absorbs into the skin and disappears. It does, however, stain clothing.
 
@@ -27,7 +30,3 @@ You can use an action to spray the perfume on a willing creature within 5 feet o
 The bottle has enough perfume for 4 uses.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

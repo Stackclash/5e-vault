@@ -23,6 +23,9 @@ item_recharge: dawn
 *Wondrous item, major, uncommon (requires attunement by a druid or ranger)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Pollinator-Pants.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this pair of black-and-yellow striped pants, any flower you move within 5 feet of magically blossoms, as if by the [[/5. Mechanics/Spells/Druidcraft.md\|druidcraft]] spell.
 
@@ -37,7 +40,3 @@ While you are attuned to three magic items that have this named property, the pa
 When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on each of your turns, you can use a bonus action to make a special unarmed strike against a creature within 5 feet of you. On a hit, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage from the attack. When you roll a 20 on an attack roll made with this unarmed strike, the target takes an extra 10 poison damage from the attack and must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 138*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

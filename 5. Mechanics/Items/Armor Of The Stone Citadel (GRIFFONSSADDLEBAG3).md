@@ -32,6 +32,9 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is made of stone and reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than 17, instead of 15. Castle-like crenellations run along the tops of the armor's various pieces. While wearing the armor, you can't be [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], and you have a damage threshold of 10. In addition, if you are blocking a friendly creature enough to grant it half cover against an attack or hostile effect, that creature instead has three-quarters cover against it.
 
@@ -44,7 +47,3 @@ You can choose to contain any willing or [[/5. Mechanics/Rules/Conditions.md#Unc
 Once this property of the armor has been used, it can't be used again until the next dawn. If you're reduced to 0 temporary hit points and revert to your normal form, it can't be used again until `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) days have passed, instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

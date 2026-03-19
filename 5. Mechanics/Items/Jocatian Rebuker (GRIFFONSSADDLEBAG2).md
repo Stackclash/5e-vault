@@ -27,6 +27,9 @@ item_recharge: dawn
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic shield is forged by a mysterious group of sentient wurms whose work is prized for its craftiness. This shield has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. When you take damage from a creature you can see within 30 feet of you and are holding the shield, you can expend 1 of its charges as a reaction to reduce the damage you take by `dice:1d6|noform|noparens|avg` (`1d6`). When you do, you can also choose an ability. Until the end of its next turn, that creature magically has disadvantage on the next saving throw it makes of the chosen ability.
 
@@ -37,7 +40,3 @@ Once a creature has been affected by this property, it can't be affected by it a
 While you're attuned to this shield as well as the Jo'Catian denier, you can use charges from either item to fuel this shield's properties.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 111*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Thomas%27-Dimensional-Trousers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flashy set of pants has four pockets that each lead to a special, extradimensional space. Each pocket is six inches wide at the mouth and can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The pants always weigh 1 pound, regardless of their contents.
 
@@ -29,7 +32,3 @@ If the pants are overloaded, pierced, or torn, they rupture and tear, scattering
 Placing the pants inside an extradimensional space created by a bag of holding, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 175*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

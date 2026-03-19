@@ -22,6 +22,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Beard-Cannon.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item appears to be a wide, cylindrical hair cuff used for taming unruly hair. The cuff is 4 inches in height and diameter and weighs 1 pound. As part of attuning to the cuff, you must pull it onto your hair or beard, which must be at least one foot long in order to fit. When you finish attuning to the cuff, 6 smaller, spherical beads appear and weave themselves into the hair nearby.
 
@@ -30,7 +33,3 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you 
 After the attack, the retracted hair magically reappears through the cuff, and the fired bead is lost. `dice:1d6|noform|noparens|avg` (`1d6`) fired beads magically reappear in your hair daily at dawn. When not in use as a weapon, the item is indistinguishable from a normal hair cuff.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 43*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

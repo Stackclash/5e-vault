@@ -20,6 +20,9 @@ item_recharge: long-rest
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Winter-Ward.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This warm ushanka bears the symbol of a clan of winter wolves, made as a gift to a hunter who aided them against an invasion of giants. While wearing the hat, you gain resistance to cold damage. In addition, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on hearing or smell and on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in snowy terrain. You can speak and understand Winter Wolf, and you have advantage on Charisma checks made to interact with winter wolves.
 
@@ -36,7 +39,3 @@ When you dismiss the spirit as an action, it can't be summoned again until the n
 If the spirit drops to 0 hit points, it bursts into a flurry of snow and can't be summoned again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

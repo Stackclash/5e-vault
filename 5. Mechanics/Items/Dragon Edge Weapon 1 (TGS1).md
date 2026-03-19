@@ -32,6 +32,9 @@ item_recharge: none
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dragon-Edge-Weapon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weapon is made from the harvested remains of a fallen dragon. With a properly reclaimed claw or tooth, the resource can be forged into a simple piercing or slashing weapon whose latent draconic powers can appear in battle.
 
@@ -40,7 +43,3 @@ The first time you hit a creature on your turn with this weapon with an attack t
 Weapons made from the claws or teeth of dragons change in rarity and power depending on the original dragon's age. Adult dragons can produce rare weapons with a +1 bonus to attack and damage rolls made with them.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 55*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

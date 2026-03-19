@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Traitors-Gauntlet.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of gloves is matched with one dark metal gauntlet, which once belonged to a traitorous knight who was burned for his treason. While wearing these gloves and gauntlet, your unarmed strikes with your hands are turned into magic weapons that deal `dice:1d8|noform|noparens|avg` (`1d8`) necrotic damage.
 
@@ -33,7 +36,3 @@ While unworn, the gauntlet can be magically altered to fit over either hand by s
 This gauntlet is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the gauntlet, keeping it within reach at all times, and you can't remove the gloves. In addition, while you're cursed, you gain the following flaw: "Everyone has an ulterior motive, so I can only count on myself." While you have this flaw, you have disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) and Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks made to interact with friendly creatures, and you can't take the Help action.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 177*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

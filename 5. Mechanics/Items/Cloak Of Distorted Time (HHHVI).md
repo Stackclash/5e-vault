@@ -18,11 +18,10 @@ item_recharge: none
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain advantage on initiative rolls you make while wearing this cloak. If initiative is rolled while you are wearing this robe, you may use your reaction to target up to 7 creatures that you can see within 60 feet of you. The creatures you target re-roll their initiative and keep the new ones.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 122*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

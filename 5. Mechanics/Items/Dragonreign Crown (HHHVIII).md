@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this crown, you gain the following benefits:
 
@@ -28,7 +31,3 @@ While wearing this crown, you gain the following benefits:
 - As an action you may target one dragon you can see within 120 feet of you, forcing them to make a DC 18 Charisma saving throw. If they are a chromatic dragon, they make this save with disadvantage. On a successful save, the target is immune to this ability for 1 hour. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you for 1 hour. While [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] in this way, the target regards you as a trusted friend to be heeded and protected. This effect ends if you or your allies deal damage to the target. If a creature's saving throw is successful or the effect ends for it, the creature is immune to this ability for the next 24 hours.  
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 87*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: dawn
 *Wand, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Steam.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The shaft of this wand is a clear glass tube filled with bubbling water. This wand has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While holding the wand, you can use an action to expend 1 of its charges to cast the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell from it, which has the following changes:
 
@@ -35,7 +38,3 @@ The spell has a duration of 1 minute, instead of 1 hour.
 If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand disappears in a plume of steam and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

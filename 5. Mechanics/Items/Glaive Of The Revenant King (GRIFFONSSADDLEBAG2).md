@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This long-lost silver glaive once belonged to an elven king. Its impeccable elven make lets it be swung nimbly, despite its size. This weapon has the finesse property. In addition, you gain a +3 bonus to attack and damage rolls made with this magic weapon.
 
@@ -56,7 +59,3 @@ You are considered proficient with this weapon if you are an [[/5. Mechanics/Rac
 If you hit a target with this weapon that is either resistant or immune to cold or fire damage, that target loses that resistance or immunity until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 89*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

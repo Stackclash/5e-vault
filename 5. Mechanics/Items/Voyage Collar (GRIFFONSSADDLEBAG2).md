@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Voyage-Collar.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cushioned leather and rope collar is easily adjustable to fit the necks of all manner of creatures. You can place the collar on a willing Medium or smaller creature using an action. If the creature is a friendly beast companion or familiar (such as one summoned by the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell), you can speak the collar's command word as part of this action to create a magical bond between you and the creature. The bond remains until the collar is removed.
 
@@ -27,7 +30,3 @@ You can use a bonus action to speak the collar's command word while you can see 
 If the beast or familiar wearing the collar is a transformed humanoid or other creature, such as by the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell or similar magic, the bond fails when you speak the command word and the collar has no effect. If the bonded creature is a familiar summoned by the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, the collar and familiar disappear into a pocket dimension together whenever you temporarily dismiss it. If the bonded familiar is dismissed forever or drops to 0 hit points, it leaves the collar behind. A creature can only gain the benefits of one magical collar at a time.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 181*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

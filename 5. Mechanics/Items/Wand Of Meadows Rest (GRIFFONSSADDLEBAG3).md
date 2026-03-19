@@ -23,6 +23,9 @@ item_recharge: short-rest
 *Wand, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Meadows-Rest.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand looks and smells like a flourishing sprig of lavender. It has 7 charges for the following properties. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into petals and is destroyed.
 
@@ -35,7 +38,3 @@ While holding the wand, you can use an action to expend 1 or more of its charges
 While holding the wand, you can use an action to expend 7 of its charges and wave it in the air above you. You and up to five willing creatures you choose within 20 feet of you are lulled into a restful sleep. A sleeping creature remains [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] for 10 minutes. It wakes up early if it takes damage or someone uses an action to shake or slap the sleeper awake. If a creature remains asleep for the full duration, it wakes up and gains the benefit of a short rest. This property of the wand fails if you aren't outside.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

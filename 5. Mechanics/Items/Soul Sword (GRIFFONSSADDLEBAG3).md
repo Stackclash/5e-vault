@@ -35,6 +35,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This battered and rusted sword looks like junk. However, it feels like a kindred spirit while you hold it. Even if you're not attuned to the sword, its damage die is a `dice:d4|noform|noparens|avg` (`d4`), or a `dice:d6|noform|noparens|avg` (`d6`) if you hold it with both hands.
 
@@ -54,7 +57,3 @@ A target hit by the illuminated sword takes an extra `dice:1d12|noform|noparens|
 While holding the sword, you can use a bonus action to spend 2 or more Hit Dice to pour your energy into the blade. When you do, the weapon's bonus to attack and damage rolls is increased by 1 for every 2 Hit Dice you spend, up to a maximum total bonus of +3. The dim and bright light emitted by the weapon also increases by 20 feet for each additional +1 bonus it gains in this way. This bonus lasts for 1 hour.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

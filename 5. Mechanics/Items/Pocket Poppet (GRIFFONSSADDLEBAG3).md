@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Pocket-Poppet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This little stuffed doll is featureless and has a small pocket sewn onto its belly. The pocket is large enough for a single coin, ring, or similarly sized object. You can link the poppet to a creature by attaching one or more defining objects to it using pins, wax, and so on. For each defining object, such as a clump of hair, an illustration of the creature's face, or a shred of worn clothing, the connection to the creature becomes stronger.
 
@@ -34,7 +37,3 @@ On a failed save, the object magically vanishes from the poppet's pocket and rea
 ^connection-save-modifier
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

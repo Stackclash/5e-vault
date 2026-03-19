@@ -24,6 +24,9 @@ item_recharge: none
 *Ring, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Band-of-Mirrored-Essence.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This unassuming platinum ring is polished to a mirror finish. When you reduce a Small or larger hostile creature to 0 hit points while wearing the ring, you can use your reaction to absorb a portion of that creature's essence into the ring. Looking into the ring shows the reflection of the creature whose essence is held inside. As an action, you can release the captured essence and assume either the creature's appearance or one of its features.
 
@@ -34,7 +37,3 @@ If you assume one of the creature's features, your body or mind temporarily chan
 Once you capture an essence with the ring, you can't do so again for `dice:1d8|noform|noparens|avg` (`1d8`) hours. You can only have 1 essence at a time. If you capture an essence when you already have one, you replace the original.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 31*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

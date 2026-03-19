@@ -37,6 +37,9 @@ item_recharge: dawn
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Whelm is a powerful warhammer forged by dwarves and lost in the dungeon of White Plume Mountain.
 
@@ -65,7 +68,3 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 Whelm's purpose is to slaughter giants and goblinoids. It also seeks to protect dwarves against all enemies. Conflict arises if the wielder fails to destroy goblins and giants or to protect dwarves. Whelm has ties to the dwarf clan that created it, variously called the Dankil or the Mightyhammer clan. It longs to be returned to that clan. It would do anything to protect those dwarves from harm. The hammer also carries a secret shame. Centuries ago, a dwarf named Ctenmiir wielded it valiantly for a time. But Ctenmiir was turned into a [[/5. Mechanics/Bestiary/Undead/Vampire.md\|vampire]]. His will was strong enough that he bent Whelm to his evil purposes, even killing members of his own clan.
 
 *Source: Dungeon Master's Guide p. 218*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

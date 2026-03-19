@@ -31,6 +31,9 @@ item_recharge: none
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The torso of this glimmering ring mail is guarded by hundreds of golden, interlocked signet rings. It's always magically clean. While wearing it, you gain a bonus to AC equal to your Charisma modifier (maximum 5). When you make an ability check, saving throw, or attack roll and roll a 20 on the `dice:d20|noform|noparens|avg` (`d20`), you're bolstered by a wave of confidence: you have advantage on the next Charisma check or Charisma saving throw you make within the next minute.
 
@@ -39,7 +42,3 @@ The torso of this glimmering ring mail is guarded by hundreds of golden, interlo
 This armor is cursed, and attuning to it extends that curse to you. While you're cursed, you gain the following flaw: "I am easily embarrassed." Furthermore, whenever you make an ability check, saving throw, or attack roll and roll a 1 on the `dice:d20|noform|noparens|avg` (`d20`), any Charisma check or Charisma saving throw you make for the next minute is made with disadvantage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

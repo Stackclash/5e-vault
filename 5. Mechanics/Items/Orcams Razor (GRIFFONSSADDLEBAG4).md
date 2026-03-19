@@ -31,13 +31,12 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rough-hewn axe is used as a decider of arguments in certain orcish societies. A creature hit with the axe takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage from the attack unless it has an Intelligence score of 4 or lower.
 
 When you make a check that's contested by another creature's check while holding the axe, you can choose to force both you and the other creature to make the roll without adding any modifiers to the result. Once this property of the axe has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

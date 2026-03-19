@@ -23,6 +23,9 @@ item_recharge: none
 *Wondrous item, artisan's tools ([[/5. Mechanics/Items/Masons Tools.md\|mason's tools]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Stonemasons-Companion.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These tools were crafted by a lonely stonemason with a desire for a companion. You gain a +1 bonus to ability checks made using this set of mason's tools.
 
@@ -31,7 +34,3 @@ If you are proficient with mason's tools, you can use these tools to carve 10 gp
 When the familiar falls to 0 hit points, the spell ends and it crumbles into a pile of nonmagical rubble. While a familiar created by the stonemason's companion exists, you can't use the tools to create another one.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 172*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

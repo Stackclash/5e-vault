@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wind-Up-Merchant.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This soft toy figurine is 5 inches tall and weighs 1 pound. You can use an action to wind up the toy using a crank in the back, causing it to release a thin strip of parchment listing 3 magic items and their costs from the list below. The toy then whirs and animates slowly, walking and bowing slightly, and can't be wound up again until 24 hours have passed.
 
@@ -51,7 +54,3 @@ The toy remains animated for 5 minutes or until each item has been purchased fro
 An item purchased from the wind-up merchant disappears after 24 hours, or early if you attempt to sell or trade it to another creature.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 191*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Inking-Seahorn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This horn is made from a seashell. A dark metal lip and sculpted octopus hang to the open mouth of the horn. You can breathe underwater while holding the horn so long as you inhale through it.
 
@@ -32,7 +35,3 @@ Each creature in the cone of ink must succeed on a DC 13 Dexterity saving throw 
 The ink remains suspended in the cone's area until the end of your next turn or until it's dispersed by a significant current. For the duration, any creature that moves into the ink for the first time on its turn or starts its turn there must make a DC 13 Dexterity saving throw. On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until the start of its next turn. Regardless, the area is considered heavily obscured.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

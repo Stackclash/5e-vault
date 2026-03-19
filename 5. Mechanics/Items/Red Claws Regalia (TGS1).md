@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Red-Claws-Regalia.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dragon scale robe is miraculously insulated and comfortable. While wearing the robe, you gain the following benefits:
 
@@ -32,7 +35,3 @@ This dragon scale robe is miraculously insulated and comfortable. While wearing 
 The hem of this robe glimmers with slowly shifting embers. While wearing the robe, your steps leave behind small motes of harmless fire and scorched earth that disappear after 1 second.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 103*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

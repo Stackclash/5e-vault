@@ -34,13 +34,12 @@ item_recharge: none
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gently curved blade resonates with the force of your ki. You gain a +2 bonus to attack and damage rolls made with this magic weapon, and while you're attuned to it, your ki point maximum increases by 2.
 
 When you use your Deflect Missiles feature and are holding the ki blade, you can choose to use the weapon to attack the missile instead of capturing it. If you do, the damage you take from the ranged attack is reduced by an extra `dice:1d10|noform|noparens|avg` (`1d10`). If you reduce the damage to 0, the missile is destroyed unless it was magical, in which case it clatters to the ground at your feet. Once you use this property, you can spend 1 ki point to use your Deflect Missiles feature again on the same turn, potentially destroying multiple missiles from the same attacker.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 112*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

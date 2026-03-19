@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you are a neutral character, this ash longbow functions as a normal weapon with no bonus or magical properties. If you are lawful, touching this weapon deals `dice:2d8|noform|noparens|avg` (`2d8`) radiant damage to you. If you are chaotic, you can use the foxglove bow as a magic weapon with the following properties.
 
@@ -42,7 +45,3 @@ Arrows nocked in this bow begin to drip with poison. You may choose to do either
 Whenever you score a critical hit with this bow, roll a `dice:d6|noform|noparens|avg` (`d6`) on the Court of Arcadia row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). Foxglove flowers begin to fall like rain, and the rolled servitor appears behind the target. This servitor fights for you and obeys your commands. They return to Arcadia after 1 minute or if they drop to 0 hit points.
 
 *Source: Strongholds and Followers p. 260*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

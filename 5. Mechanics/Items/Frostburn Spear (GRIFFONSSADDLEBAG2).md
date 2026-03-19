@@ -33,6 +33,9 @@ item_recharge: none
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic spear harnesses both ice and fire to duplicate the natural destructive force of a remorhaz. Immediately after you throw the spear and it hits or misses a target, it flies back to your hand.
 
@@ -43,7 +46,3 @@ While the spear is covered in ice, you have resistance to fire damage. While it'
 In addition, while holding the spear, you can use an action to cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell from it. This version of the spell has a range of 30 feet, instead of self, and can target any creature you can see within range. Once this property of the spear has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 85*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -24,6 +24,9 @@ item_recharge: none
 *Rod, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Solar-Torch.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this rod, you can use a bonus action to cause a Tiny sun to float above it. The sun sheds bright light out to 30 feet, and dim light for an additional 30 feet. The light is sunlight. If any of the bright light overlaps with an area of magical darkness, it suppresses that effect in the area (but does not dispel it), allowing creatures to see as normal within the bright light's radius.
 
@@ -32,7 +35,3 @@ While holding this rod, you can use a bonus action to cause a Tiny sun to float 
 While holding the rod, you can use an action to cast the [[/5. Mechanics/Spells/Sunburst.md\|sunburst]] spell from it (save DC 16), centered on you. You take no damage from the spell when cast in this way, but are still [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] if you fail the saving throw. Each time the rod is used to cast this spell, there is a 50 percent chance that the rod loses this property. When that happens, the rod no longer requires you to be attuned to it in order to use its properties.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

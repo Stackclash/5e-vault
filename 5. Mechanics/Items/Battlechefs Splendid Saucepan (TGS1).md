@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Battlechefs-Splendid-Saucepan.webp#right)  
 
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic saucepan can be used to turn nearly anything into a delicious and filling meal. You can boil 1 pound of any one or combination of organic, nonmagical materials for 10 minutes or longer to magically transform them into a stew that can nourish up to 4 creatures for 24 hours.
 
@@ -29,7 +32,3 @@ The saucepan also functions as a [[/5. Mechanics/Items/Mace.md\|mace]], granting
 If you're not wearing heavy armor, you can use an action to either wear or remove the saucepan as a helmet. While wearing the saucepan in this way, you gain a +1 bonus to your AC.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 34*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

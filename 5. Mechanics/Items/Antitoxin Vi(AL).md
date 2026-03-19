@@ -22,11 +22,10 @@ item_recharge: none
 *Adventuring gear*  
 
 - **Cost**: 50 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

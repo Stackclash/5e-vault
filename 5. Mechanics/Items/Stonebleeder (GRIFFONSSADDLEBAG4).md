@@ -32,13 +32,12 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +2 bonus to attack and damage rolls with this magic axe, which looks to be made of red crystal. Whenever the axe hits an object or structure made of stone, the hit is a critical hit.
 
 When you hit a creature with the axe that's either made of stone, has the Stone Camouflage trait, or is native to the Elemental Plane of Earth, that creature must make a DC 13 Wisdom saving throw. On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of the axe until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -17,6 +17,9 @@ item_recharge: long-rest
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sheet of vellum constantly swirls with random text, runes, and symbols that form vaguely coherent thoughts before they disappear again into the chaos of the ink. As part of a wizard's long rest, they may place this item into their spellbook, placing an enchantment over all of their spells and knowledge. So long as a wizard has this sheet in their spellbook, they may choose to invoke it whenever they cast a spell of level 1 or higher (no action required). If they do so, they must roll a `dice:d6|noform|noparens|avg` (`d6`) and use the table below to determine what random effect occurs.
 
@@ -35,7 +38,3 @@ This sheet of vellum constantly swirls with random text, runes, and symbols that
 ^enigma
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 87*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

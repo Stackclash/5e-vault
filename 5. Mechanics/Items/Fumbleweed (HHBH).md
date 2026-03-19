@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A rather hardy type of grass that has adapted to the harsh desert winds by being
 The next time you are knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] involuntarily after using this herb, you may use your reaction to not be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] instead. After this occurs, this herb breaks and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 15*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

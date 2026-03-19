@@ -23,6 +23,9 @@ item_recharge: none
 *Potion, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wispy-Sour.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -30,7 +33,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Wispy Sour Uncommon (GRIFFONSSADDLEBAG2).md\|Wispy Sour (Uncommon)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 192*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

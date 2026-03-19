@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, rare (requires attunement by a warforged)*  
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/070-04-004-docent.webp#right\|A Docent]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A docent is a small metal sphere, about 2 inches across, studded with dragonshards. To attune to a docent, you must embed the item somewhere on your body, such as your chest or your eye socket.
 
@@ -46,7 +49,3 @@ A docent has the following properties:
 A docent is designed to advise and assist the warforged it's attached to. One of the simple functions of a docent is to serve as a translator. The docent's properties are under its control, and if you have a bad relationship with your docent, it might refuse to assist you.
 
 *Source: Eberron: Rising from the Last War p. 276, Vecna: Eve of Ruin p. 80*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

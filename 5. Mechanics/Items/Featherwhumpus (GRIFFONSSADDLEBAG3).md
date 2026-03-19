@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Featherwhumpus.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A featherwhumpus, a common magic item, is a pillow that releases a seemingly endless stream of feathers behind it when swung. You can use the pillow as if it were a magic club. On a hit, the target takes no damage, and a feathery plume erupts from the pillow, which lightly obscures the target until the end of the turn, at which point the feathers vanish.
 
@@ -30,7 +33,3 @@ The first time you find a featherwhumpus, roll a `dice:d100|noform|noparens|avg`
 - While the pillow's ghost is inhabiting another creature, it's treated as if it were a common featherwhumpus. The ghost magically returns to the pillow if it's forced out of the creature while on the same plane of existence as the pillow, at which point it regains its legendary properties.  
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

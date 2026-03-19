@@ -21,11 +21,10 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Barge-Helm.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flat, rugged helmet lets you run headlong into targets and bowl them over with abandon. If you move at least 20 feet straight toward a target and then [[/5. Mechanics/Rules/Actions.md#Shove\|shove]] them on the same turn, the target takes `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage from being barreled into by the helmet.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 32*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

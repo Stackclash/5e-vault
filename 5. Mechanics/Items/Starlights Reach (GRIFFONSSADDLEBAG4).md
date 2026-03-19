@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Starlights-Reach.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These long, silken gloves are dotted with silver stars. While wearing them, you can always see the stars in the sky, even in the daytime, and you can't become lost by nonmagical means as long as you can see them.
 
@@ -30,7 +33,3 @@ You can use a bonus action to dismiss the javelin. When you do, the shimmering s
 After the javelin attacks for the fifth time, it disappears, and any stars created by it wink out without creating any beams.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

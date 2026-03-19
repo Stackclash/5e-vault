@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -39,7 +42,3 @@ This herb may be prepared by two creatures at the same time by sucking the mucus
 
 
 *Source: Hamund's Herbalism Handbook p. 5*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

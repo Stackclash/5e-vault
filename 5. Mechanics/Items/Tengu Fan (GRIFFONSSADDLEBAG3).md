@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Tengu-Fan.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Typically carried by oni, a tengu fan functions as a [[/5. Mechanics/Items/Wind Fan.md\|wind fan]] with the following changes:
 
@@ -31,7 +34,3 @@ When used to cast the [[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] spe
 The fan can also be used as a magic sickle with a +1 bonus to attack and damage rolls made with it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

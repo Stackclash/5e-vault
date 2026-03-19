@@ -33,6 +33,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When Vecna grew in power, he appointed an evil and ruthless lieutenant, Kas the Bloody Handed, to act as his bodyguard and right hand. This despicable villain served as advisor, warlord, and assassin. His successes earned him Vecna's admiration and a reward: a sword with as dark a pedigree as the man who would wield it.
 
@@ -76,7 +79,3 @@ The Sword of Kas also seeks to destroy anyone corrupted by the Eye and [[/5. Mec
 A creature attuned to both the [[/5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and the [[/5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]] can use the wish property of those combined artifacts to unmake the Sword of Kas. The creature must cast the [[/5. Mechanics/Spells/Wish.md\|wish]] spell and make a Charisma check contested by the Charisma check of the sword. The sword must be within 30 feet of the creature, or the spell fails. If the sword wins the contest, nothing happens, and the [[/5. Mechanics/Spells/Wish.md\|wish]] spell is wasted. If the sword loses the contest, it is destroyed.
 
 *Source: Dungeon Master's Guide p. 226*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

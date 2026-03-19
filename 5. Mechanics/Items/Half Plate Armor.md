@@ -28,11 +28,10 @@ item_recharge: none
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Cost**: 750 gp
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
 *Source: Player's Handbook p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

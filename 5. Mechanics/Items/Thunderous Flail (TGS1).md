@@ -34,6 +34,9 @@ item_recharge: dawn
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flail has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges each day at dawn. You can expend 1 charge to cast the [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell (save DC 15). The ball of the flail is the origin of the spell. As long as the flail has at least 1 charge, you deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage to the first target you hit with it on each of your turns.
 
@@ -44,7 +47,3 @@ The ball of the flail is attached to the chain with a powerful magnetic connecti
 While the ball is detached, you can still use the flail to cast *thunderwave*. When you do, the spell's area of effect becomes a 10-foot radius sphere centered on the ball.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 133*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

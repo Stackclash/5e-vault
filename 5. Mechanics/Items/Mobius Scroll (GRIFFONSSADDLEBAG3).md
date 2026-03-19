@@ -26,6 +26,9 @@ item_recharge: dawn
 *Scroll, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mobius-Scroll.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Unlike most scrolls having a dowel at its center or some means of a carrying case, a mobius scroll is a half-twisted length of paper that's been magically connected to itself to form an infinite, continuous sheet.
 
@@ -50,7 +53,3 @@ You can cast a spell from the scroll as normal while you're attuned to it, even 
 A spell that's copied from the scroll into a spellbook is permanently removed from the scroll. If that spell is rolled on the table above after it's been copied in this way, nothing happens, and the scroll remains blank until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

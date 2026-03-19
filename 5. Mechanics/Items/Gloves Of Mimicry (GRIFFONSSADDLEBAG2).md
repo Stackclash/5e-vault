@@ -22,6 +22,9 @@ item_recharge: dawn
 *Wondrous item, major, very rare (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gloves-of-Mimicry.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These brightly colored gloves extend a peculiar psychic magic to your hands and fingers. While wearing the gloves, you can use an action to cast the mage hand spell from them. In addition, you can use an action to cast the [[/5. Mechanics/Spells/Bigbys Hand.md\|arcane hand]] spell from the gloves (save DC 16, spell attack +8). Once the gloves have been used to cast this spell, they can't be used to cast it again until the next dawn.
 
@@ -44,7 +47,3 @@ By holding your thumb and forefinger less than an inch apart, you can use an act
 You can use an action to remove one of the gloves and expend 1 of their charges to visually slap a creature that you can see within 30 feet of you with it—as if you were challenging it to a duel. That creature must make a DC 16 Wisdom saving throw. On a failed save, the creature takes `dice:2d4|noform|noparens|avg` (`2d4`) psychic damage and `dice:2d4|noform|noparens|avg` (`2d4`) force damage and has disadvantage on attack rolls against creatures other than you until the start of your next turn. On a successful save, the creature takes half as much damage and doesn't suffer disadvantage on its attack rolls. Immediately after the effect, you replace the glove on your hand.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 90*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Amulet-of-the-Lycanthrope.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rounded amulet depicts a harrowing crescent moon with blood-red claw marks running through its center. The markings emit a dim red light on the day of a full moon.
 
@@ -33,7 +36,3 @@ If you're already a lycanthrope and are wearing the amulet, your claw and bite a
 This amulet is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you have disadvantage on saving throws made to resist becoming cursed by lycanthropy.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 34*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

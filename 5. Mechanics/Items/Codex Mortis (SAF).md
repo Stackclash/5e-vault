@@ -18,6 +18,9 @@ item_recharge: long-rest
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-mortis.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Exiled Empress Wu Jiao wasted no time planning her return to the throne and the restoration of the Wu dynasty. Her first goal was the return of her greatest general, the barbarian Lady Czorgan. As Czorgan was dead, this meant much research was in order. But Empress Jiao was already an accomplished wizard, and her first success took less than a year.
 
@@ -54,7 +57,3 @@ You automatically command any undead of less than 9 HD you meet or summon. Maste
 Once an undead is mastered, it may not be replaced until it is destroyed.
 
 *Source: Strongholds and Followers p. 257*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

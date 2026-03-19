@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic dagger teleports back to your hand immediately after you make a ranged attack with it. The dagger has 4 charges, and it regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn.
 
@@ -40,7 +43,3 @@ When you hit a creature with this dagger, you can expend 1 of the weapon's charg
 A mark lasts for 10 minutes. The mark ends early if you mark another creature, if you're ever more than 1,000 feet away from it, or if you use the dagger to teleport (even if it fails).
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

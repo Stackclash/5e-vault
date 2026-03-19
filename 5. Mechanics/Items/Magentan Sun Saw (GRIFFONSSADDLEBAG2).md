@@ -31,6 +31,9 @@ item_recharge: none
 - **Damage**: 1d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -38,7 +41,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Magentan Sun Saw Very Rare (GRIFFONSSADDLEBAG2).md\|Magentan Sun-Saw (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 118*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

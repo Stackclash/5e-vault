@@ -31,6 +31,9 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark armor is covered in feathery ornamentations and streaks of scarlet. While wearing it, you gain resistance to fire and poison damage, and you can use a bonus action to extend a pair of spectral wings from your back. The color of the wings' feathers is determined by your alignment: black (evil), gray (neutral), or white (good). The wings remain until you use a bonus action to end the effect, during which time you have a flying speed of 30 feet.
 
@@ -41,7 +44,3 @@ When you use a bonus action to extend the wings, you create a burst of hellish o
 This armor is cursed, and becoming attuned to it extends the curse to you. While you're cursed, you gain the following flaw: "You can always hear a voice whispering in your mind, giving you extreme perspectives on matters at hand. The perspectives are evil if your alignment is good, good if your alignment is evil, or evil and good if your alignment is neutral. You find it hard to immediately dismiss the voices."
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

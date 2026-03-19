@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this sturdy iron shield, you can use an action to plant it on the ground and expand its height and width to stretch up to 15 feet across in either direction, potentially becoming a defensive wall or similar platform. The edges of the shield magically conform to fit the shape of an enclosed space, such as the walls of a tunnel or hallway. While holding the expanded shield in place, your speed becomes 0 and you have disadvantage on Dexterity checks and Dexterity saving throws. Regardless of the shield's size, its weight always remains the same.
 
@@ -32,7 +35,3 @@ The expanded shield is considered a nonmagical structure that has an AC of 14 an
 Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 32*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

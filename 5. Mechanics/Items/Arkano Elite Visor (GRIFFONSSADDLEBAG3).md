@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Arkano-Elite-Visor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This visor is a strange device from a far-flung age and can sometimes be found in the lairs of sphinxes that have traveled through time. The visor is made of pitch-dark glass that can be seen through from only one side.
 
@@ -37,7 +40,3 @@ If you press button 2, 3 hours of power are deducted, and you gain [[/5. Mechani
 If you press button 3, 5 hours of power are deducted, and you gain [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] out to a range of 60 feet.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

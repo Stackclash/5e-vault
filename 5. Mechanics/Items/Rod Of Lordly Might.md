@@ -27,6 +27,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/rod-of-lordly-might.webp#right]]  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage roll made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
 
@@ -59,7 +62,3 @@ When you hit a creature with a melee attack using the rod, you can force the tar
 While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

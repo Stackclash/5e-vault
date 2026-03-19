@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/baba-yagas-mortar-and-pestle.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The creations of the immortal hag Baba Yaga defy the laws of mortal magic. Among the notorious implements that cement her legend on countless worlds are the artifacts that propel her through the planes: Baba Yaga's Mortar and Pestle. These signature tools of Baba Yaga are a single artifact for purposes of attunement. Should the two objects become separated, the pestle appears next to the mortar at the next dawn.
 
@@ -64,7 +67,3 @@ When you command the mortar to travel, you can instead throw out the dust or pas
 The mortar and pestle are destroyed if they are crushed underfoot by the *Dancing Hut of Baba Yaga* or by Baba Yaga herself.
 
 *Source: Tasha's Cauldron of Everything p. 121*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

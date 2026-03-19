@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/robe-of-eyes.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 
@@ -32,7 +35,3 @@ The eyes on the robe can't be closed or averted. Although you can close or avert
 A [[/5. Mechanics/Spells/Light.md\|light]] spell cast on the robe or a [[/5. Mechanics/Spells/Daylight.md\|daylight]] spell cast within 5 feet of the robe causes you to be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] for 1 minute. At the end of each of your turns, you can make a Constitution saving throw (DC 11 for [[/5. Mechanics/Spells/Light.md\|light]] or DC 15 for [[/5. Mechanics/Spells/Daylight.md\|daylight]]), ending the blindness on a success.
 
 *Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

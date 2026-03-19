@@ -22,9 +22,9 @@ item_recharge: none
 *Airship, vehicle (air)*  
 
 - **Cost**: 20,000 gp
-
-*Source: Dungeon Master's Guide p. 119*
-
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})
 ```
+
+
+*Source: Dungeon Master's Guide p. 119*

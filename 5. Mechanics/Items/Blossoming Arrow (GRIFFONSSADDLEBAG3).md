@@ -25,6 +25,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blossoming-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This twig-like arrow is fletched with split leaves and dotted with tiny blossoms. Its point is a complicated, bulb-like mass, which seems to cover a collection of strange glowing pustules at its center.
 
@@ -35,7 +38,3 @@ Alternatively, if the arrow is planted or otherwise stuck in soil and left to re
 Other types of magic ammunition of this kind exist, such as blossoming bolts meant for a crossbow, though arrows are most common.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

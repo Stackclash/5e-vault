@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 50 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Despite their name and appearance, these electric-blue, fist-sized fruits are no
 For 4 hours after you apply this herb, your walk speed increases by 10 feet and you ignore the effects of difficult terrain.
 
 *Source: Hamund's Herbalism Handbook p. 33*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

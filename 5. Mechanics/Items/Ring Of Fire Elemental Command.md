@@ -23,6 +23,9 @@ item_recharge: dawn
 # Ring of Fire Elemental Command
 *Ring, major, legendary (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Fire and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Fire.
 
@@ -36,7 +39,3 @@ If you help slay a [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire 
 - You can cast the following spells from the ring, expending the necessary number of charges: [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] (1 charge), [[/5. Mechanics/Spells/Fireball.md\|fireball]] (2 charges), and [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (3 charges).  
 
 *Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

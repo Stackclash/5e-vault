@@ -20,13 +20,12 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ogramaus-Glass-Eye.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass eye has an oozy sheen and seems to be filled with a smoky, viscous liquid inside. Spinning the eye causes the dark liquid to billow within it. It functions like a normal eye while it's in your socket, even if you aren't attuned to it. While using the glass eye in this way, any tears that come from that socket are magically turned black.
 
 If you're attuned to the eye and are either holding it or using it to replace a missing one, you always know if there's an undead within 30 feet of you, as well as where it's located. Such a creature isn't detected if it's behind 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

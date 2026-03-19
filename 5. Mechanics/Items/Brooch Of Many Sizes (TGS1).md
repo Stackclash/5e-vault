@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Brooch-of-Many-Sizes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This metal brooch features a rotatable dial and can be used to secure a cape or adorn a piece of clothing. While wearing the brooch, you can use an action to cast the [[/5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]] spell, targeting only yourself, by turning the dial toward either the larger or smaller figure adorning the sides of the brooch. Once this property of the brooch has been used, it can't be used again until the following dawn.
 
@@ -27,7 +30,3 @@ While under the effects of this spell, you can use a bonus action to overload th
 When you return to your original size after overloading the brooch, you can't move or take actions until after your next turn. Once the brooch has been overloaded, it can't be used again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 40*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

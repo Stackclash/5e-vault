@@ -30,11 +30,10 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The metal of this armor was smelted by the unwavering hand of Primus and grants its wearer all the relentless endurance of their mechanical constructs. While wearing this armor, you have a +3 bonus to AC, you are immune to any magical effect that would change your form against your will or reduce your movement speed, and you are immune to the [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], and [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] conditions.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 95*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

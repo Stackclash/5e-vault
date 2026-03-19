@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mask-of-the-Planeseeker.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This elaborate mask was first worn by an interplanar diplomat. While wearing it, you understand any spoken language you hear, and when you speak, any creature that can hear you and knows at least one language can understand what you say. The mask also functions as an [[/5. Mechanics/Items/Amulet Of The Planes.md\|amulet of the planes]]. You can't be teleported against your will or unwillingly transported to another plane of existence by another creature or hostile effect while wearing this mask.
 
@@ -41,7 +44,3 @@ Depending on the plane of existence it's on, the mask's appearance and effect ch
 The mask has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While wearing the mask, you can expend 1 of its charges as a bonus action to change the plane of existence the mask is associated with. After 1 hour, the mask reverts to its normal form.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

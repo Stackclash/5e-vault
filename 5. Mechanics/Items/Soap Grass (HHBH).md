@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Growing in patches of soil with a high alkaline content, soap grass is exactly w
 You may spend 10 minutes rubbing this herb on yourself. If you do so, you become clean of all dirt and muck.
 
 *Source: Hamund's Herbalism Handbook p. 32*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

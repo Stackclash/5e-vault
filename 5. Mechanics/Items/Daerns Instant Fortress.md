@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![[/5. Mechanics/Items/img/daerns-instant-fortress.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
 
@@ -29,7 +32,3 @@ Each creature in the area where the fortress appears must make a DC 15 Dexterity
 The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of [[/5. Mechanics/Spells/Wish.md\|wish]] causes the roof, the door, or one wall to regain 50 hit points.
 
 *Source: Dungeon Master's Guide p. 160. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Instant Fortress")*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

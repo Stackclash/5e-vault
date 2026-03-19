@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Big-Cat-Slippers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These slippers come in pairs of one of four patterns. Each pattern resembles a type of cat found in a different environment. While wearing the slippers, you gain a benefit determined by their pattern.
 
@@ -31,7 +34,3 @@ These slippers come in pairs of one of four patterns. Each pattern resembles a t
 ^pattern-appearance-benefit
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

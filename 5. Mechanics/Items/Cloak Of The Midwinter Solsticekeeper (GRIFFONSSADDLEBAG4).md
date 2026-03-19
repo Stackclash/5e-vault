@@ -18,6 +18,9 @@ item_recharge: long-rest
 *Wondrous item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Cloak-of-the-Midwinter-Solsticekeeper.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This warm red coat carries a feeling of good tidings and midwinter cheer, even in the most bitter of cold. While wearing it, you have resistance to cold damage, and any Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check you make is made with advantage. The cloak also has the following properties.
 
@@ -38,7 +41,3 @@ As an action while wearing the cloak, you can flourish the cloak and draw an obj
 When you give a wrapped item to another creature that suggests an understanding of the other creature's needs, the GM can grant you a special die, called a Giving Die, which is a `dice:d12|noform|noparens|avg` (`d12`). You can roll this `dice:d12|noform|noparens|avg` (`d12`) and add it to the total of any ability check or saving throw you make (before the GM determines if the roll succeeds or fails), at which point the die is lost. The Giving Die remains until you finish a long rest or until it's lost in this way. Once you gain a Giving Die, you can't do so again until you finish a long rest. If the given item was created by the Present property, it remains indefinitely or until it's sold or traded, at which point it turns into a lump of coal.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

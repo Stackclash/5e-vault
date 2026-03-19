@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Magnificent-Pocket-Vanity.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This palm-sized brass device contains enough magical makeup for 3 uses. A creature holding the vanity can use an action to expend 1 of its uses to apply the makeup to itself or another willing creature within reach, at which point the creature's appearance magically changes to one of the following forms, as if by the [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] spell (save DC 13). This version of the spell can visually alter a creature's height by up to 5 feet, although the creature's size does not change, and you roll on the table below to determine which random appearance the creature assumes:
 
@@ -37,7 +40,3 @@ This palm-sized brass device contains enough magical makeup for 3 uses. A creatu
 When the last use of the makeup has been used, the vanity and its makeup become nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 118*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

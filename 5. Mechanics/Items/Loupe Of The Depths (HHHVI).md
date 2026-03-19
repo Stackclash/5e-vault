@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item has 9 charges. While holding this loupe to your eye, you have advantage on any Intelligence checks made to gain knowledge on a nautical or aquatic subject. In addition, you may spend an action and 1 or more charges to do any of the following:
 
@@ -29,7 +32,3 @@ This item has 9 charges. While holding this loupe to your eye, you have advantag
 This item regains `dice:1d8|noform|noparens|avg` (`1d8`) charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 133*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

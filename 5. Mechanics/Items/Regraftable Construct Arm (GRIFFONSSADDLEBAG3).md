@@ -23,6 +23,9 @@ item_recharge: long-rest
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Regraftable-Construct-Arm.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sickly flesh golem arm has been repurposed by a powerful necromancer, allowing it to be used as a prosthesis by any creature missing an arm. The prosthesis attaches to your arm at the shoulder, and it can't be removed as long as you're attuned to it. To attune to this item, you must hold it against your shoulder for the entire attunement period, at which point it magically sews itself into place. The arm detaches from you when your attunement to it ends.
 
@@ -42,7 +45,3 @@ You can use a bonus action to allow the arm's necromantic magic to flood into yo
 This arm is cursed, and attuning to it extends the curse to you. While you remain cursed, you must make a DC 15 Wisdom saving throw whenever you take fire damage. On a failed save, you spend your action on your next turn reeling and panicked. This saving throw can't be made with advantage. If you're under the effects of the Golem Spark property, you make this saving throw whenever you take any damage while you have less than half your hit points remaining. If you die while under the effects of Golem Spark, you immediately return to life with 40 hit points as a flesh golem. For the purpose of the golem's Berserk trait, your creator is the same as the arm's. Only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can return you to your original form.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

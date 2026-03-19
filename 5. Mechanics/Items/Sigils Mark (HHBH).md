@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A type of gorse identified by the copper-brown flowers, shaped into a ring resem
 This herb contains `dice:1d6|noform|noparens|avg` (`1d6`) seeds. As an action, you may crush a seed and rub the resulting oil on yourself, or you may use a seed to make a ranged weapon attack against a creature you can see within 20 feet of you, destroying it and releasing the oil upon impact. Either way, a creature covered by this oil becomes insulated from the winds of fate for the next hour. During this time, whenever the covered creature would make a roll using a `dice:d20|noform|noparens|avg` (`d20`), they instead skip the roll and act as if they rolled a 10 instead.
 
 *Source: Hamund's Herbalism Handbook p. 31*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

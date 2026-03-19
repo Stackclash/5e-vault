@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Wishing-Well-Token.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A wishing well token is a coin that has sat at the bottom of a well for a prolonged period of time. For every ten consecutive years that a mundane coin sits in a well, there is a 1 percent chance that at the end of that time, it transforms into a wishing well token.
 
@@ -27,7 +30,3 @@ The well in which the token was thrown then magically produces pure, potable wat
 Once the coin has been used to make a wish, it becomes a mundane coin without any magical properties again.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

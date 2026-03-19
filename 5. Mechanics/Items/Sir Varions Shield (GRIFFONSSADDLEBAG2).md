@@ -25,11 +25,10 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large shield once belonged to Sir Varion, a noble knight who strode bravely through battles on ice, sand, or swamp. While holding this shield, you ignore nonmagical difficult terrain and have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 162*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

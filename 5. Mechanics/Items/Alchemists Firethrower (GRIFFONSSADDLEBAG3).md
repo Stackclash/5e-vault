@@ -33,6 +33,9 @@ item_recharge: none
 - **Range**: 30/90
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 8.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This handheld metal device weighs 8 pounds and measures about 2 feet long and 6 inches across at its widest point. Parts of it resemble a crossbow, such as its stock and trigger, but is otherwise unique in its design. It has a pair of gaps in its wooden stock which can hold two flasks of alchemist's fire, fitting the flasks' mouths into a hole in the bottom of the space. Upending a flask into one of the gaps in this way allows its contents to run through a hidden pipeline within the stock and into the rest of the machine, causing a glass-covered chamber on the top of the device to fill with bubbling liquid. When filled in this way, the two vertical slots at the front of the machine give off a warm and foreboding glow.
 
@@ -45,7 +48,3 @@ The device loses 1 charge each time you use it to make a ranged weapon attack, w
 Alternatively, while holding the machine, you can use an action to expend 10 of its charges to magically release a belching stream of concentrated alchemist's fire from it in a 30-foot line that is 5 feet wide. Each creature in the line must succeed on a DC 15 Dexterity saving throw or take `dice:8d6|noform|noparens|avg` (`8d6`) fire damage. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

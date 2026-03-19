@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d12 force
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ancient stone axe hilt is intricately carved. At its center is a gap that houses a single, perfect diamond that's magically suspended in place and glows with an uncanny energy. While grasping the hilt, you can use a bonus action to cause a wide blade of pure prismatic light to radiate from the axe's head, or make the blade disappear. The axe's blade emits bright light in a 15-foot radius and dim light for an additional 15 feet.
 
@@ -49,7 +52,3 @@ The light that comes from the diamond at the axe's center and forms the blade ca
 Once this property of the axe has been used, it can't be used again until 12 hours have passed. You can only have one glyph on the axe in this way at a time.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 142*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

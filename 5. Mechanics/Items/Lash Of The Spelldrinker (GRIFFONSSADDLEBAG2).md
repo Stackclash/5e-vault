@@ -34,6 +34,9 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While attuned to this whip, you are considered proficient with it and can use it as a spellcasting focus. In addition, you can use your spellcasting ability modifier for any attack or damage roll made with it, instead of Strength or Dexterity.
 
@@ -42,7 +45,3 @@ When a hostile creature within the whip's reach casts a spell, you can use your 
 When a creature takes force damage from the whip in this way, you can choose to recover an expended spell slot of a level equal to or less than the force damage dealt, up to 3rd level. Once the whip has been used to recover a spell slot in this way, it can't do so again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 113*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

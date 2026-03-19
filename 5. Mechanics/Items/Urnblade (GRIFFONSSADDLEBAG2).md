@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d6 necrotic
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item appears to be a small cremation urn. While grasping the urn, you can use a bonus action to speak its first command word and cause its lid to unseal. When you do, a curved blade of dark smoke pours from the mouth of the urn. Speaking the command word again reseals the urn and causes the blade to disappear. If you are proficient with shortswords or longswords, you are proficient with the urnblade.
 
@@ -48,7 +51,3 @@ The urnblade's bonus to attack and damage rolls becomes +2 while the summoned sh
 The shadow disappears when it drops to 0 hit points, when it's farther than 120 feet from you, or when you use an action to dismiss it. When it disappears, your cast shadow returns. If the shadow drops to 0 hit points, there is a cumulative 5 percent chance that the urn turns to dust and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 179*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

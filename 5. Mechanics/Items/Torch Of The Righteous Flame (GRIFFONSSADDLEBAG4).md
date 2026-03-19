@@ -22,6 +22,9 @@ item_recharge: dawn
 *Rod, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Torch-of-the-Righteous-Flame.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic torch functions the same as a normal one, but doesn't burn out after 1 hour. Once the torch is lit, it continues to burn until it's extinguished. While the torch is on your person, you have resistance to fire damage.
 
@@ -44,7 +47,3 @@ The flame and its light become [[/5. Mechanics/Rules/Conditions.md#Invisible\|in
 You send the flame out from the brazier to a point that you can see within 60 feet of you. The flame remains for 10 minutes, until you use this property again (which doesn't expend a charge), or until you move within 5 feet of it, at which time it magically returns to the brazier. For the duration, any creature other than you that moves within 5 feet of the flame for the first time on a turn or starts its turn there takes `dice:2d6|noform|noparens|avg` (`2d6`) fire damage.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -34,6 +34,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -48,7 +51,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Sword Of Answering Squelcher.md\|Sword of Answering (Squelcher)]]
 
 *Source: Dungeon Master's Guide p. 206*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

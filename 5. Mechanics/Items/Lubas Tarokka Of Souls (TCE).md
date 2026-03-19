@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/lubas-tarokka-of-souls.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Not all lingering spirits are tragic souls, lost on their way to the hereafter. Some languish as prisoners, souls so wicked mortals dare not free them upon an unsuspecting afterlife.
 
@@ -95,7 +98,3 @@ A halfling Vistani, Mother Luba led one of the largest groups of Vistani in the 
 Some years ago, Mother Luba disappeared into the mists, leaving behind only the Tarokka of Souls. It is said that if you draw the Mists card from it, you can hear the whispers of her kind voice.
 
 *Source: Tasha's Cauldron of Everything p. 129*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

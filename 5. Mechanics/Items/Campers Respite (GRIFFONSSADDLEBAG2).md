@@ -25,6 +25,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Campers-Respite.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rod weighs 3 pounds and has an iron brazier at its top and spike at its base. You can use a bonus action while holding the rod to speak its first command word and create a magical flame at its top. While lit, this rod functions as a burning torch. You can use a bonus action to speak its command word again to extinguish the flame.
 
@@ -35,7 +38,3 @@ Inside the tent is a square extradimensional dwelling, 15 feet on a side and 10 
 The tent is immobile and remains for up to 12 hours, until you use an action to speak its second command word again to dismiss it, or until the tent collapses. Dealing 20 damage to the tent (AC 13) causes it to collapse. The tent is immune to poison and psychic damage. The tent reverts to a rod at the end of its duration, and anything inside the tent is forced into the nearest unoccupied space. When the tent becomes a rod again, this property of the rod can't be used again for 12 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 55*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Sleepytime-Sheep-Stuffy.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small, soft stuffed sheep toy is 6 inches from head to tail and smells like lavender. A willing creature holding the stuffy can use an action to speak its command word to immediately fall asleep. This property can't be used again for 8 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 164*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

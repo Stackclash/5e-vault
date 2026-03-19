@@ -24,6 +24,9 @@ item_recharge: none
 *Ring, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/ring-of-resistance.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly.
 
@@ -57,7 +60,3 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 - [[/5. Mechanics/Items/Ring Of Thunder Resistance.md\|Ring of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide p. 192*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

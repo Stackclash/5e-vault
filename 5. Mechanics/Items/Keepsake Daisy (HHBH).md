@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ At first glance, this may seem like an ordinary daisy. However, upon closer insp
 As an action, you may split this daisy vertically in half. A creature holding one half of the daisy may use their action to focus on it, instantly teleporting them and everything they are holding and wearing, to the closest unoccupied space of the other half of the daisy. At this point, both halves disintegrate into useless dust. This ability may only be used when both halves are on the same plane of existence; any attempt to use it otherwise results in no effect.
 
 *Source: Hamund's Herbalism Handbook p. 20*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

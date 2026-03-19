@@ -26,6 +26,9 @@ item_recharge: none
 *Ring, major, rare (requires attunement by a sorcerer)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ring-of-Changing-Shapes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic ring is made of solid mercury that bubbles and flows freely around your finger whenever you cast a spell. While wearing the ring, you gain the following benefits:
 
@@ -40,7 +43,3 @@ To be eligible, the new spell must have the same casting time as the first one a
 As a bonus action, you can spend 5 sorcery points to cast a spell no higher than 5th level that has a casting time of 1 action, even if you've already used your action to cast a spell on this turn. When you do, you can't move or take actions until after your next turn, as a wave of lethargy sweeps over you. This property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 146*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

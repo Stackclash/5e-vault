@@ -19,6 +19,9 @@ item_recharge: dawn
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Corsage-of-the-Hidden-Thorn.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This corsage is teeming with all manner of verdant plant life. Four roses decorate the corsage, whose colors and arrangement can be magically changed using an action while wearing it. You always smell of fresh plants and roses while wearing the corsage.
 
@@ -27,7 +30,3 @@ You can remove a rose from the corsage as if you were unsheathing a weapon. When
 The corsage regrows `dice:1d4|noform|noparens|avg` (`1d4`) missing roses daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

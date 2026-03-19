@@ -22,6 +22,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/book-of-exalted-deeds.webp#right]]  
 
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The definitive treatise on all that is good in the multiverse, the fabled Book of Exalted Deeds figures prominently in many religions. Rather than being a scripture devoted to a particular faith, the book's various authors filled the pages with their own vision of true virtue, providing guidance for defeating evil.
 
@@ -55,7 +58,3 @@ Once you've read and studied the book, you gain a protective halo. This halo she
 It is rumored that the Book of Exalted Deeds can't be destroyed as long as good exists in the multiverse. However, drowning the book in the River Styx removes all writing and imagery from its pages and renders the book powerless for `dice:1d100|noform|noparens|avg` (`1d100`) years.
 
 *Source: Dungeon Master's Guide p. 222*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -17,6 +17,9 @@ item_recharge: none
 *Poison (inhaled), rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Poison\|Poison]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This vial of silvery white gas reacts strongly with air and expands to a 30-foot radius cloud as soon as the vial is opened. Any creature that starts their turn in the cloud must succeed on a Constitution saving throw or be cursed with [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md\|lycanthropy]]. The type of lycanthropy and the DC depends on the type of lycan this gas was created from as outlined in the table below.
 
@@ -34,7 +37,3 @@ The gas cloud remains for 1 minute before dispersing naturally. It may be disper
 ^lycan-type-and-dc
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 133*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

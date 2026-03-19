@@ -41,6 +41,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is wrapped in old mummy wrappings salvaged from an unknown burial ground. Its sinewy haft is made from a flesh-colored wood. It can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
 
@@ -61,7 +64,3 @@ Once per turn when you hit a creature with the staff, you can expend 1 charge to
 This staff is cursed, and attuning to it extends the curse to you. You remain cursed until you're targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While cursed, your hit point maximum is reduced by `dice:3d6|noform|noparens|avg` (`3d6`) each time you drop to 0 hit points. If your hit point maximum is reduced to 0 in this way, you die, and your body is turned to dust. Your hit point maximum remains reduced in this way until you're targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, even if the curse on you ends.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

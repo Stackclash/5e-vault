@@ -33,11 +33,10 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dwarven smithing hammer has runes running from end to end. When beaten against an anvil, the runes around the hammer glow a bright red and emanate heat, allowing a blacksmith to use the hammer to mold weapons and armor using only the hammer and anvil.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

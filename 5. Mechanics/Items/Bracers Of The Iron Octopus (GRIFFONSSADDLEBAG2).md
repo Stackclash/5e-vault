@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bracers-of-the-Iron-Octopus.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These iron bracers are ornamented with an embossed octopus and tentacle designs. While wearing the bracers, you gain a +5 bonus on ability checks and saving throws to resist and escape from being [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]].
 
@@ -30,7 +33,3 @@ This octopus is made of leather and iron, is a construct instead of a beast, and
 If the octopus is reduced to 0 hit points, it dies and reverts to its bracer form. The bracers then shatter and are destroyed. If the octopus reverts to bracer form before losing all its hit points, it regains all of them.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 52*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

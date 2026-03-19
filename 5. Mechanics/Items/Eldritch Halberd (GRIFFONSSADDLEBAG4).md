@@ -30,6 +30,9 @@ item_recharge: none
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A sickly, yellow eye stares unblinkingly from the winged blade of this magic halberd. You can use your Charisma modifier, instead of Strength, for attack and damage rolls made with this magic weapon.
 
@@ -42,7 +45,3 @@ When you use this weapon to either make an attack or cast [[/5. Mechanics/Spells
 This halberd is cursed, and if you aren't a warlock, becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the halberd, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. While you remain cursed, you can feel the watchful eye of the halberd listening to your thoughts: whenever you take psychic damage, roll a `dice:d10|noform|noparens|avg` (`d10`) and add the result to the total psychic damage taken.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

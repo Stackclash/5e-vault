@@ -19,6 +19,9 @@ item_recharge: short-rest
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/CloakoftheBloodLord.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Under the cover of night, the cultists of [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] blanket themselves in thick, leathery cloaks and steal away into graveyards and cellars to do their master's dark bidding. These dark red cloaks are designed to represent the all-encompassing ambitions of [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] to smother the living under his dominion. Among the cultists is the prophecy of the Cloak of the Blood Lord, a garment fashioned from the wings of a defeated [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] and crafted to continue his legacy. The most zealous among his followers even believe that any 'defeat' that [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] may experience is merely a part of his grand scheme to extend his influence and that he is merely biding his time until his body can be reconstituted and his reign to begin anew.
 
@@ -66,7 +69,3 @@ When you become attuned to the cloak, you become cursed. Whenever you finish a l
 Destroying the Cloak of the Blood Lord requires that it be taken to the Positive Energy Plane by the ancient hero whose skull surmounts the [[/5. Mechanics/Items/Wand Of Orc(US).md\|Wand of Orcus]]. For this to happen, the long-lost hero must first be restored to life—no easy task, given the fact that [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] has imprisoned the hero's soul and keeps it hidden and well guarded. Bathing the cloak in positive energy causes it to wither and deteriorate, but unless the above conditions are met, the cloak instantly reforms in a random location in the multiverse, usually in proximity to an easily influenced individual, or someone that worships [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]].
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 101*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

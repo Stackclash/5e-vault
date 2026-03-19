@@ -34,6 +34,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ancient staff was created when a piece of driftwood was struck by lightning, fusing it to a twisted length of glass made from the sand on which it laid. Revered by the Rocborne nomads and other worldly travelers, this one-of-a-kind crook carries with it the power of storms, tempests, and the wind spirits that control them. When it appears, it falls from the sky in the eye of a storm or a flash of lightning.
 
@@ -59,7 +62,3 @@ Some properties of this artifact are locked behind layers of dormant magic. As y
 The only way to destroy Nimbus, First Staff of the Thunderbirds is to keep it in a vacuum for 10 years, depriving it of any air, at which point the staff cracks open to release the swirling storm inside it. If the force of the released storm causes the vacuum to end, the storm escapes and continues to rage above that location for 1 year.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 199*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

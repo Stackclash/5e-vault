@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Flesh-of-Dendallen.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This patchwork shirt is made of enchanted pieces of stitched-together flesh. This shirt has 6 charges and regains `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) expended charges daily at dusk. While wearing this shirt, you can use a bonus action to expend 1 of its charges to cast [[/5. Mechanics/Spells/False Life.md\|false life]], regardless of its usual casting time. In addition, while you have less than half your hit points left, you regain hit points equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Constitution modifier (minimum of 1) at the beginning of each of your turns. You do not regain health if you are [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] or have taken fire or radiant damage since the beginning of your last turn.
 
@@ -31,7 +34,3 @@ When you attune to the shirt and wear it, you're forced to make a DC 20 Strength
 Once you are attuned to the shirt, you cannot remove it unless you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. When you remove it, you take `dice:4d10|noform|noparens|avg` (`4d10`) necrotic damage as the shirt is peeled from your skin.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 66*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

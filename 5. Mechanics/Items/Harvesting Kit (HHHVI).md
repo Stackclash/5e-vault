@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Cost**: 30 gp
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This kit contains everything the average harvester needs to prepare and harvest a carcass for usable parts including a skinning knife, a bonesaw, 2 [[/5. Mechanics/Items/Vi(AL).md\|glass vials]], [[/5. Mechanics/Items/Pouch.md\|pouches]] of salt, and tweezers. Proficiency with this kit lets you add your proficiency to any check made to "harvest" a creature.
 
@@ -34,7 +37,3 @@ This kit contains everything the average harvester needs to prepare and harvest 
 > ![[/5. Mechanics/Rules/Variant Rules/New Proficiency Harvesting Kit (HHHVI).md\|New Proficiency: Harvesting Kit]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 145, Hamund's Harvesting Handbook: Volume II p. 67, Hamund's Harvesting Handbook: Volume III p. 107*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,9 +23,9 @@ item_recharge: none
 *Ammunition (firearm)*  
 
 - **Weight**: 1.0 lbs.
-
-*Source: Dungeon Master's Guide p. 268*
-
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})
 ```
+
+
+*Source: Dungeon Master's Guide p. 268*

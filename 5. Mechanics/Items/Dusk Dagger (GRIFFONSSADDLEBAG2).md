@@ -33,6 +33,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -41,7 +44,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Dusk Dagger Very Rare (GRIFFONSSADDLEBAG2).md\|Dusk Dagger (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 76*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -21,6 +21,9 @@ item_recharge: long-rest
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Grip-of-Dendallen.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These black leather and bone chain gloves spread sickness and decay to anything they touch. While wearing the gloves, your unarmed strikes deal necrotic damage, and you can roll a `dice:d6|noform|noparens|avg` (`d6`) in place of the normal damage of your unarmed strikes. This damage is maximized if you hit a plant or plant creature with the attack.
 
@@ -33,7 +36,3 @@ When you pull these gloves over your hands for the first time, make a DC 16 Wisd
 If you fail the saving throw when first donning the gloves and later remove them, it takes `dice:1d4|noform|noparens|avg` (`1d4`) days for the effects of the rotting flesh to fade.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 74*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

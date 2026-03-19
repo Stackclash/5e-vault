@@ -24,6 +24,9 @@ item_recharge: dawn
 *Ring, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rings-of-the-True-Companions.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These rings typically come in pairs but have been known to come in sets of up to four. Each ring is magically connected and can be attuned to by a different creature. While wearing one of the rings, you can use the following property even if you aren't attuned to it:
 
@@ -40,7 +43,3 @@ If additional creatures are attuned to rings from the set, the rings' collective
 **4 attuned wearers:** When you use the rings to cast [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] on another wearer, you also gain `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) temporary hit points for each charge you spend.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 148*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

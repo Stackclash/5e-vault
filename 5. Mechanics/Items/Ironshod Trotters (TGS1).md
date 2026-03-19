@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ironshod-Trotters.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These boots have iron horseshoes embedded in their soles. When you take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action to run while wearing the boots, you can move an extra 10 feet.
 
@@ -28,7 +31,3 @@ As an action, you can click the boots together to cast the [[/5. Mechanics/Spell
 You remain in this form for up to 8 hours or until you end it as an action. Taking any damage while transformed causes you to revert to your normal form early and take the damage as normal. Once this property of the boots has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 81*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -26,11 +26,10 @@ item_recharge: long-rest
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 13.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to AC while wearing this armor. In addition, when you first attune to this armor, you may choose to be resistant to either cold, fire, or lightning damage while wearing this armor. You may change which damage type you are resistant to after you take a long rest while wearing this armor.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 124*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

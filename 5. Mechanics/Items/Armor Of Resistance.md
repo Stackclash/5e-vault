@@ -24,6 +24,9 @@ item_recharge: none
 *Major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/armor-of-resistance.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
 
@@ -57,7 +60,3 @@ You have resistance to one type of damage while you wear this armor. The DM choo
 - [[/5. Mechanics/Items/Armor Of Thunder Resistance.md\|Armor of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide p. 162*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

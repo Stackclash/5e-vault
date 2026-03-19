@@ -37,6 +37,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff has a fist-sized mirrorlight crystal at its end and can also be used as a magic quarterstaff. While holding the staff, you can use an action to cause the staff's crystal to emit bright light in a 20-foot radius and dim light for an additional 20 feet. The light remains for 1 hour or until you use an action to end it early.
 
@@ -51,7 +54,3 @@ While holding the staff, you can use an action to expend 1 or more of its charge
 While holding the staff, you can use an action to expend 1 of its charges to create an illusory duplicate of yourself in an unoccupied space that you can see up to 60 feet away from you. The duplicate immediately makes two melee spell attacks with its illusory staff against a target within 5 feet of it, using your spell attack bonus. On a hit, the target takes force damage equal to `dice:1d8|noform|noparens|avg` (`1d8`) plus your spellcasting ability modifier. The duplicate then vanishes.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

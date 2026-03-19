@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Whispergust-Mote.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A whispergust mote is a sentient breath of air typically separated from a larger air elemental. When not [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], its form resembles a dollop of blue whipped cream but is weightless and fluid to the touch. The mote can use an action to become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], but it typically only does so when it senses danger. When left to its own devices, the mote will gently tousle the hair of passing creatures or flip a fallen leaf. While it is a form that is defined by its wanderlust, it nevertheless enjoys the company and experiences of adventuring parties that travel to new and unique locations. Most owners of a whispergust mote are rarely so bold as to claim ownership of it at all.
 
@@ -33,7 +36,3 @@ The whispergust mote is a sentient chaotic good item with an Intelligence of 1, 
 The whispergust mote ultimately travels where it wants to go, but knows that companionship is often worth the limitations that come with it. In even the most dull of places, the mote will find ways to entertain itself—often to the panic or frustration of the creatures it travels with.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 188*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

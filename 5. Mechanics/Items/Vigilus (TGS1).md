@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hand crossbow has a small spring-loaded case of 6 bolts attached to its side that automatically reload the crossbow whenever it's fired. While the case has bolts in it, the crossbow ignores its loading property. Once the case is empty, a creature can use an action to reload it with another 6 bolts.
 
@@ -42,7 +45,3 @@ As an action, you can unfurl the crossbow's three collapsible legs and plant it 
 The deployed crossbow has 30 hit points, AC 12, and automatically fails Dexterity and Strength saving throws but passes all others. If it's reduced to 0 hit points, it falls over and can't be deployed again in this way for 1 minute. You can quickly retrieve the deployed crossbow using a bonus action when you enter the same space as it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 136*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

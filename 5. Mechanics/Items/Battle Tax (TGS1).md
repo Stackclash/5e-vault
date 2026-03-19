@@ -35,13 +35,12 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden battleaxe is the chosen weapon of many merchants and followers of mercantile deities. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 When you roll a 20 on an attack roll with this weapon against a Small or larger hostile creature, you magically earn a number of gold coins equal to the attack's damage. When you do, the axe glimmers like a sparkling coin, and you can sense the weight and clink of coins magically falling into your purse, pocket, or bag (your choice). If you have no room for the coins or don't want them to be immediately added to your storage, the coins erupt from the wound you inflict on the target instead. Once the axe generates coins in this way, it can't create any more for 12 hours.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 33*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

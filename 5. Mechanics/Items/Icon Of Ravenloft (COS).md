@@ -22,6 +22,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/icon-of-ravenloft.webp#right]]  
 
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The Icon of Ravenloft is a 12-inch tall statuette made of the purest silver, weighing 10 pounds. It depicts a cleric kneeling in supplication.
 
@@ -42,7 +45,3 @@ You can use the icon as a holy symbol while using the Turn Undead or Turn the Un
 While holding the icon, you can take an action to heal one creature that you can see within 30 feet of you. The target regains `dice:3d8+3|noform|noparens|avg` (`3d8 + 3`) hit points, unless it is an undead, a construct, or a fiend. Once used, this property can't be used again until the next dawn.
 
 *Source: Curse of Strahd p. 222*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

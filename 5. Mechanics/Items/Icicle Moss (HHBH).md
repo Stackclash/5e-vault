@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 200 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ In areas of permafrost, the icicles last so long that they become able to suppor
 This herb may be applied to one melee weapon or up to 10 pieces of ammunition. A weapon that has had this herb applied to it is considered magical and deals an additional `dice:1d8|noform|noparens|avg` (`1d8`) cold damage upon its first successful hit in a turn. This effect lasts for 1 hour.
 
 *Source: Hamund's Herbalism Handbook p. 19*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

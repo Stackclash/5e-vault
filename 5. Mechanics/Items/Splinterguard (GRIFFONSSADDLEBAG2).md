@@ -35,6 +35,9 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The protective panels that adorn this splint armor are made from carefully molded pieces of ironleaf lumber, a wood renowned for its remarkable durability. Even if you aren't attuned to the armor, you gain the following benefits:
 
@@ -43,7 +46,3 @@ While you're wearing this armor, any critical hit against you becomes a normal h
 If you're attuned to this armor, you're considered proficient with it, and you don't suffer disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks you make as a result of wearing it. In addition, creatures hit by the armor's shrapnel when it splinters take `dice:5d8|noform|noparens|avg` (`5d8`) piercing damage, instead of `dice:3d8|noform|noparens|avg` (`3d8`), and you can choose which creatures in the area are affected by it when it happens.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 168*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

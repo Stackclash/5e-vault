@@ -22,13 +22,12 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC. In addition, any thunder damage you take while holding the shield is reduced by `dice:1d6|noform|noparens|avg` (`1d6`).
 
 If you're also holding the battlebeat club, you can use an action to beat the shield with it. When you do, you recreate the effects of the thunderwave spell from the shield (2nd-level version; save DC 15). Once this property of the shield has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -33,6 +33,9 @@ item_recharge: none
 *Cursed item, major, uncommon (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -45,7 +48,3 @@ In addition, while the sword is on your person, you must succeed on a DC 15 Wisd
 You can break the curse in the usual ways. Alternatively, casting [[/5. Mechanics/Spells/Banishment.md\|banishment]] on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.
 
 *Source: Dungeon Master's Guide p. 206*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

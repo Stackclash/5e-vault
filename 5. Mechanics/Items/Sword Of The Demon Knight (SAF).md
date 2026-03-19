@@ -35,6 +35,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you are a neutral character, this jagged longsword functions as a normal weapon with no bonus or special properties. If you are good, touching Sir Malcoda's blade deals `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage to you. If you are an evil character, you can use the sword of the demon knight as a magic weapon with the following properties.
 
@@ -43,7 +46,3 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Wiel
 Whenever you score a critical hit, roll a `dice:d6|noform|noparens|avg` (`d6`) on the Demons row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). Demonic runes appear on the ground and the rolled servitor appears from the shadows. This servitor fights for you and obeys your commands. They return to the Abyss after 1 minute or if they drop to 0 hit points. The demonic eye on the sword's cross-guard focuses intently on any lawful good creature within 30 feet.
 
 *Source: Strongholds and Followers p. 263*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

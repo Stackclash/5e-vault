@@ -30,13 +30,12 @@ item_recharge: none
 
 - **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The head of this flail is in the shape of a metal skull that's pierced with large construction spikes. When you hit a creature that's missing any of its hit points with this magic weapon, the creature takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) psychic damage.
 
 In addition, when you roll a 20 on an attack roll made with this weapon against a creature, that creature must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

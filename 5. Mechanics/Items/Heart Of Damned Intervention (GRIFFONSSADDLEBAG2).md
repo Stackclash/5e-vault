@@ -24,6 +24,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Heart-of-Damned-Intervention.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large infernal heart was torn from a powerful archdevil and is 1 foot tall and weighs 10 pounds. It still pulses, softly, and spews out small gouts of flame from an unquenchable fire within. The heart is hot to the touch and is wrapped by strange, writhing chains.
 
@@ -44,7 +47,3 @@ While cursed, you lose your Channel Divinity feature, and you gain the Channel D
 As an action, you point your finger at a creature you can see within 120 feet of you and speak a powerful, damning curse. That creature and all creatures within 10 feet of it must make a Charisma saving throw. On a failed save, a creature takes fire damage equal to `dice:1d12|noform|noparens|avg` (`1d12`) + your cleric or paladin level and is bound by searing, hellish chains. On a successful save, a creature takes half as much fire damage and isn't bound by the chains. A bound creature's speed is halved, and it takes `dice:1d12|noform|noparens|avg` (`1d12`) fire damage at the start of each of its turns for up to 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 99*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

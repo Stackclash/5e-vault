@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ This algae takes the ominous form of small red clumps that resemble splotches of
 For 8 hours after using this herb, you are immune to poison damage and the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition.
 
 *Source: Hamund's Herbalism Handbook p. 29*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

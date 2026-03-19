@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A variety of corn grown over incredibly fertile soil rich in nitrates and sulphu
 A full pouch of this herb contains 6 charges. As an action, you may expend one or more charges to throw a handful of kernels at a target you can see within 20 feet of you. That target must make a DC 10 Strength saving throw, with the DC increasing by 2 for every charge you expended. On a failure, the target is pushed back 5 feet.
 
 *Source: Hamund's Herbalism Handbook p. 8*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

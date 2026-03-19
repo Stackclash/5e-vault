@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This heavy, steel greatsword creates a powerful fan of flames from curious, whirring chambers mounted to the blade. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The sword has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn.
 
@@ -42,7 +45,3 @@ The jet of flame spreads out in a 15-foot cone and moves with you if you're push
 If you strike an object because of this forced movement, such as a wall or floor, you take `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every charge you expend and are knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If you strike a creature, you and that creature take the same bludgeoning damage and must each succeed on a Strength saving throw (DC 10 + the number of charges you expend) or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: The Griffon's Saddlebag, Book 2 p. 136*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

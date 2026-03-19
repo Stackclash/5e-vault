@@ -21,6 +21,9 @@ item_recharge: none
 *Wand, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 5 charges. While holding this wand, you may spend an action and 1 charge to shoot a magical ray of energy at a target within 90 feet of you. The type of ray depends on the type of spectator eye stalk that the wand was crafted from. Consult the list below to find out what your wand does.
 
@@ -32,7 +35,3 @@ This wand has 5 charges. While holding this wand, you may spend an action and 1 
 When the last charge of this wand is used, it crumbles into dust and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 132*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

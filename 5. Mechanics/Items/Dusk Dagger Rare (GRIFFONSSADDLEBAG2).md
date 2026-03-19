@@ -33,11 +33,10 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This delicately curved dagger is ornamented with several crescent moon designs. When you hit a creature who is completely in dim light or darkness with this magic weapon, that creature takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 76*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

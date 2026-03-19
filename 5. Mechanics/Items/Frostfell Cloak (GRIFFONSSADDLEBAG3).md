@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Frostfell-Cloak.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cloak has an icy, geometric pattern of a snowflake inside its warm lining. While wearing the cloak, you have resistance to cold damage and ignore difficult terrain created by ice or snow. As you walk, snowflakes drift behind you and vanish upon touching the ground.
 
@@ -28,7 +31,3 @@ The cloak has 5 charges and regains all expended charges daily at dawn. Once on 
 The snow is difficult terrain and remains for `dice:1d4|noform|noparens|avg` (`1d4`) rounds, disappearing at the start of your turn on the round that it would end.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ As an action, you may crush this leaf and smell it. If you do so, your sense of 
 
 
 *Source: Hamund's Herbalism Handbook p. 36*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

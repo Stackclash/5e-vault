@@ -19,6 +19,9 @@ item_recharge: dawn
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bottle-of-Spare-Time.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass bottle is empty when found. When sitting upright, it's indistinguishable from a normal bottle. It's stoppered with a golden skull holding a miniature timepiece in between its teeth. Despite its appearance, the bottle nevertheless functions as a +3 club.
 
@@ -29,7 +32,3 @@ Whenever you're affected by a haste or [[/5. Mechanics/Spells/Slow.md\|slow]] sp
 While holding the bottle, you can use an action to remove the stopper and pour the sand out. When you do, the bottle loses all of its remaining charges and duplicates the effects of the [[/5. Mechanics/Spells/Time Stop.md\|time stop]] spell. This version of the spell lasts for a number of rounds equal to the number of charges the club lost when it was poured out. Each time you pour the bottle out, there is a 30 percent chance that the bottle loses this property.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

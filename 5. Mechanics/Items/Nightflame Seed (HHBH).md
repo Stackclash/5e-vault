@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ This seed may be thrown into a fire, causing it to turn a dim blue and mostly di
 
 
 *Source: Hamund's Herbalism Handbook p. 25*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

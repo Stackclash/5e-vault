@@ -31,6 +31,9 @@ item_recharge: dawn
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The head of this maul is an alchemical keg that generates battlebrew liquor, a favorite among dwarves and half-orcs. The keg holds up to 4 gallons of the liquor and creates 1 gallon each day at dawn and again each time you roll for initiative while holding it. A creature can use its action to remove or reattach the handle of the maul to the keg, and another action to pour out or stopper it.
 
@@ -39,7 +42,3 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Whil
 For 1 minute after a target has been sprayed with acid in this way, the next time that target takes fire damage, it takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) fire damage as the liquor ignites.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 33*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

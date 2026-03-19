@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A flower with burnished orange petals, whose beauty belies its rather sinister n
 This herb has 4 charges. As an action, you may wrap this herb's roots around one of your free hands. While you have a creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] with this free hand, you may use your bonus action and 1 charge to force that creature to make a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] as the herb rapidly dehydrates their body. Constructs, undead, and any creature that does not naturally have liquid in its body automatically succeed on this roll. A [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] creature may make the Constitution saving throw again at the end of each of its turns, ending the effect on itself on a success. Once all charges have been used on this herb, it bursts from gorging on liquid and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 29*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

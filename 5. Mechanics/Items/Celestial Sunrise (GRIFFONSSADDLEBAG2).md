@@ -23,6 +23,9 @@ item_recharge: none
 *Potion, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Celestial-Sunrise.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -30,7 +33,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Celestial Sunrise Uncommon (GRIFFONSSADDLEBAG2).md\|Celestial Sunrise (Uncommon)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 57*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

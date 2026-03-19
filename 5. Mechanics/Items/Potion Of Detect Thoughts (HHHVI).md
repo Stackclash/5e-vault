@@ -21,11 +21,10 @@ item_recharge: none
 *Potion, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you gain the effect of the [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell. This potion is completely clear except for a small pink blog floating in the centre of it.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

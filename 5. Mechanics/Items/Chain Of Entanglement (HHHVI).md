@@ -30,6 +30,9 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You may use this weapon instead of your free hand when you make [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] checks. While you have a creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] this way, you cannot make [[/5. Mechanics/Rules/Actions.md#Attack\|attacks]] with this weapon.
 
@@ -38,7 +41,3 @@ Additionally, while holding this item, you may spend an action to speak this ite
 While animate, treat this weapon as if it had 14 Strength and a +2 proficiency bonus for the sake of attack rolls, damage rolls, and grapple checks.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 121*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

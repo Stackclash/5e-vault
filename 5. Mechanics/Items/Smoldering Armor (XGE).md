@@ -42,11 +42,10 @@ item_recharge: none
 # Smoldering Armor
 *Minor, common*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Wisps of harmless, odorless smoke rise from this armor while it is worn.
 
 *Source: Xanathar's Guide to Everything p. 139*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 *Major*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dragonkin-Weapon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -31,7 +34,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Dragonkin Weapon 3 (TGS1).md\|Dragonkin Weapon +3]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 56*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

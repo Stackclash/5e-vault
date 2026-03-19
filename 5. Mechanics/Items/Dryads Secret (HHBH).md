@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 50 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A deep brown nut roughly the size of a fist, they are found buried underneath th
 After using this herb, you produce a pleasant smell for the next 4 hours that causes those around you to become open to suggestion. During this time, you have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) made to convince humanoids to trust or befriend you.
 
 *Source: Hamund's Herbalism Handbook p. 11*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,6 +18,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/GhostfirePack.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 1-foot cube mechanical pack contains the key components of a cadaver collector's internal engine and is designed to be attached to a suit of plate armor to bolster the wearer's abilities with unholy, mechanical endurance. Attaching this pack to the back of a suit of plate armor takes 1 hour and takes 10 minutes to remove it. A suit of plate armor that has had this pack attached to it has the following properties:
 
@@ -26,7 +29,3 @@ This 1-foot cube mechanical pack contains the key components of a cadaver collec
 - The wearer of the suit may use their bonus action to imbue themselves with necrotic energy, causing their next successful weapon attack this turn to deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage. Once this ability has been used once, it cannot be used again until the wearer has killed another creature.  
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 88*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

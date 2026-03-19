@@ -32,11 +32,10 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A carved walking stick with a handle wrapped in worn leather, this magic staff gives you better endurance. While you use this staff as a walking stick while traveling on foot, you have advantage on the first save you make to endure a forced march.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 170*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

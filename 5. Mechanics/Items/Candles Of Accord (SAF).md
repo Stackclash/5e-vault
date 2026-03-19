@@ -21,6 +21,9 @@ item_recharge: none
 *Wondrous item, requires installation, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/candles-accord.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of red wax candles burn magically without consuming fuel, symbolizing the alliance between the two holders of the candles. If one candle is lit without the other, it merely provides normal candlelight indefinitely, and extinguishing it does not affect the other candle.
 
@@ -29,7 +32,3 @@ If both candles are lit together by the owner of an establishment, the owner can
 Gathering Intel using a candle of accord requires meditating for 1 hour with the candle, concentrating on the ally and their territory. At the end of this hour, the owner may make a Gather Intel check, which if successful gives them a vision of the organization they are spying on.
 
 *Source: Strongholds and Followers p. 246*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

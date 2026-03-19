@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-miror.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Written by Durthara, the Empress's Archmage, the Book of Wonder is the first recorded codex and gave the Age of Wonder its name. In those days, the Ganarajyan Empire's word for "magic" translated as "wonder" or "marvel." Magic, then, was newly discovered by Men and seemed a limitless resource. Spells were invented, made fashionable, and forgotten before anyone knew they could be written down.
 
@@ -72,7 +75,3 @@ The codex miror remembers a time when magic was much...friskier. Whenever you ca
 ^result
 
 *Source: Strongholds and Followers p. 254*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

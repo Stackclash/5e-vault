@@ -22,6 +22,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Orelias-Tome-of-Beast-Familiars.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While attuned to this book, you always have the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell prepared. This spell doesn't count against the number of spells you have prepared.
 
@@ -39,7 +42,3 @@ When you cast this spell using a spell slot of 2nd level or higher, your familia
 In addition, when you cast this spell using a spell slot of 2nd level or higher, it requires an extra 10 gp worth of material components for each slot level above 1st. If your attunement to the book ends, any familiar you have disappears, leaving behind no physical form.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 132*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -22,6 +22,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Spellforge-Scabbard.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This teal leather scabbard is decorated with mithral emblems. While wearing it, you can use a bonus action to drag a weapon across the scabbard. For the next minute, the weapon glows with a faint blue aura, and you can use a bonus action to magically return that weapon to the scabbard, stowing it there. If the weapon was nonmagical, it also becomes magic and has a +1 bonus to attack and damage rolls for the duration. The effect ends early if you use this property again.
 
@@ -32,7 +35,3 @@ The scabbard has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 Alternatively, you can use an action to expend 1 of the scabbard's charges to draw any type of melee weapon out of the scabbard. The drawn weapon is spectral, remains for 1 minute, and has a +1 bonus to its attack and damage rolls. Any attack that hits with it deals force damage, instead of its normal damage type. You can use a bonus action to return the spectral weapon to the scabbard, and if the weapon would normally have the heavy property, it doesn't.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

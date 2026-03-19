@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/No-Stones.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This engraved geode has been split apart into two equal halves. A labyrinth is carved into the rock's rough exterior and glows with a faint light.
 
@@ -29,7 +32,3 @@ The geode remains fixed in place until you speak its command word again using a 
 Once a half has been used in this way, that half can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 130*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

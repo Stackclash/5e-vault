@@ -33,6 +33,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic dagger's edge is lined with a sharp, enchanted crystal that magically pierces through glass. While holding the dagger, you can use an action to cut a straight line up to 1 foot long into a piece of nonmagical glass no more than 1 inch thick. Each line emits a faint glow, allowing you to see any lines you've made. Making these lines requires you to focus, as if concentrating on a spell. Your concentration ends early if you are no longer holding the dagger or aren't within reach of the glass. When your concentration ends, any line you made with the dagger magically vanishes and repairs itself.
 
@@ -41,7 +44,3 @@ You can connect these lines to form a cutout shape in the glass. As part of the 
 If the original glass shape is returned to the hole, you can spend 1 minute retracing the cuts made to the glass with the dagger to seamlessly repair the damage done to it, as if by the [[/5. Mechanics/Spells/Mending.md\|mending]] spell.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 89*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

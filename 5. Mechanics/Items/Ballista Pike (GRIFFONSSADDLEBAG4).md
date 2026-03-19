@@ -29,6 +29,9 @@ item_recharge: none
 - **Damage**: 1d10 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sturdy, adamantine pike was once a ballista bolt. If the pike hits an object or structure, the hit is a critical hit.
 
@@ -37,7 +40,3 @@ When you make an attack with the pike you can speak its command word to throw it
 Once this property of the pike has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

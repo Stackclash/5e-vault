@@ -21,6 +21,9 @@ item_recharge: dawn
 *Wondrous item, very rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mediators-Amulet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A small, shattered sword hangs from this gilded chain, and its clasp is made of two shaking hands. While wearing this necklace, you can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]]. It has 5 charges for the following properties, and it regains `dice:1d3+2|noform|noparens|avg` (`1d3 + 2`) expended charges daily at dawn.
 
@@ -33,7 +36,3 @@ You can expend 1 of the necklace's charges as an action to speak a calming strin
 When you restore hit points to a creature, you can choose to expend 1 of the necklace's charges to take an amount of necrotic damage up to the amount restored, which can't be reduced or negated in any way. When you do, the healed creature gains a number of temporary hit points equal to the amount of necrotic damage you took in this way.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -36,6 +36,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you attune to this quarterstaff, it remains solid in your grip but feels pliable within your mind. You can choose to use your Intelligence modifier for the attack and damage rolls made with this weapon instead of Strength. You must use the same modifier for both rolls.
 
@@ -46,7 +49,3 @@ You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 In addition, this quarterstaff has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges daily at dawn. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action with this weapon, you can expend 1 of its charges to cast the [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell from the quarterstaff as a bonus action, instead of its normal casting time. When you do, the missiles are fired from either the bow or the quarterstaff's embossed faces.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

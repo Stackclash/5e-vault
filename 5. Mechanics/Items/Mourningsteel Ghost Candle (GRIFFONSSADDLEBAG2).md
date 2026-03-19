@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Mourningsteel-Ghost-Candle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This candle holder and its candle never run out of wax while it burns, even if you aren't attuned to it. Although wax runs down the sides of the candle, it never drips off it onto the holder, nor does it ever seem to be diminished or consumed. The candle can't be removed from the holder. While the candle burns, ghostly hands reach out from the holder as if to warm their hands by the tiny fire.
 
@@ -28,7 +31,3 @@ If you're holding the lit candle and its holder while attuned to it, [[/5. Mecha
 Once the candle and holder have been used to cast this spell, it can't do so again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 127*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

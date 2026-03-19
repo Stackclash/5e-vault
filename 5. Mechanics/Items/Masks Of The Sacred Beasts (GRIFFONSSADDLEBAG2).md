@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Masks-of-the-Sacred-Beasts.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -30,7 +33,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Masks Of The Sacred Beasts Jackal (GRIFFONSSADDLEBAG2).md\|Masks of the Sacred Beasts (Jackal)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 120*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

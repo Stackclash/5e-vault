@@ -28,11 +28,10 @@ item_recharge: none
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magical weapon. Whenever you successfully hit a creature with this weapon, they must make a DC 16 Wisdom saving throw. On a failure, that creature cannot willingly enter a space that is within 5 feet of you until the start of your next turn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 91*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

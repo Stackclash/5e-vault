@@ -25,13 +25,12 @@ item_recharge: none
 *Wondrous item, instrument ([[/5. Mechanics/Items/Drum.md\|drum]]), uncommon (requires attunement by a bard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this [[/5. Mechanics/Items/Drum.md\|drum]], you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your bard spells.
 
 As an action, you can play the [[/5. Mechanics/Items/Drum.md\|drum]] to regain one use of your Bardic Inspiration feature. This property of the [[/5. Mechanics/Items/Drum.md\|drum]] can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 134*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

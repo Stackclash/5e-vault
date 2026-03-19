@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/The-Hidden-Agenda.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This paired brooch and signet ring are typically found together in a fine wooden case, and are a favorite among elite spies and unscrupulous politicians. While wearing the brooch and ring together, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) and Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) checks. The brooch resembles a gilded quill, and the ring has a pair of feathers on either side that encircle a deep blue sapphire.
 
@@ -28,7 +31,3 @@ While holding or wearing the brooch, you can use a bonus action to speak its com
 While wearing the ring, you can use an action to speak its command word to shunt an object that you're holding into a special demiplane contained in the ring. The object must weigh no more than 10 pounds and be no larger than 1 foot in any direction. It remains in the demiplane until the ring is removed (either willingly or by force) or until you use an action to speak the command word again, at which point it reappears in your hand or at your feet (your choice). Only one object can be stored in the demiplane at a time, during which time the ring's sapphire softly glows. You can wear or remove the ring using an action.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

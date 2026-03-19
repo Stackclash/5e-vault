@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Amulet-of-the-Sentinel.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden amulet of an eye has a large ruby embedded in its center and eight smaller gems around it. The amulet has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges daily at dawn. While wearing this amulet, you can expend 1 or more of its charges to use one of the following properties:
 
@@ -36,7 +39,3 @@ When a creature that you can see within 30 feet of you suffers a critical hit, y
 When one or more creatures that you can see within 30 feet of you are forced to make a saving throw, you can use your reaction to expend 2 or more charges. For 2 charges, you grant one affected creature of your choice advantage on the saving throw. For each additional charge you expend, you grant one more affected creature of your choice advantage on the saving throw. You make this choice after you see the roll, but before the GM says whether the roll succeeds or fails.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 34*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

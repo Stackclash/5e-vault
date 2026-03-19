@@ -38,6 +38,9 @@ item_recharge: long-rest
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff has a crescent-shaped head made of pockmarked lunar stone. Floating within the crescent stone is a motionless, black orb. Regardless of how you look at the orb, it's always encircled by a ring of fire that faces you. The fire winks out if the staff isn't held. The fire is harmless, and it sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
@@ -62,7 +65,3 @@ When you cast wall of fire from the staff, you can choose to cause it to embody 
 You can use a bonus action while holding the staff to expend 1 charge from it to target a 15-foot cube you can see within 60 feet of you. Any nonmagical flames within the cube are extinguished, and any spell of 2nd level or lower creating an area of light that overlaps with the cube is dispelled. As long as you extinguish or dispel at least one source of light, you then gain `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) temporary hit points.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

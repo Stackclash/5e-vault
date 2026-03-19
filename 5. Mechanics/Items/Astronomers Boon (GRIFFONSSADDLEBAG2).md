@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Astronomers-Boon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass astrolabe has a glass back that sparkles softly when light shines through it. While looking through the glass at the night sky, the names and patterns of any constellation you can see appear alongside their stars on the astrolabe. At the GM's discretion, you may find one or more of the following constellations while looking through the glass. When you do, the astrolabe begins to glow, and you can use an action to speak the item's command word to gain the constellation's respective benefit:
 
@@ -37,7 +40,3 @@ This brass astrolabe has a glass back that sparkles softly when light shines thr
 The stars remain until the next dusk, at which point any unused stars vanish and are lost. Once the astrolabe has granted a benefit in this way, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 40*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

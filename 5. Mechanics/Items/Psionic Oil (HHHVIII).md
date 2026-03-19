@@ -21,6 +21,9 @@ item_recharge: none
 *Oil, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You may spend 1 hour rubbing this weapon oil on any nonmagical weapon to irreversibly transform it into your bonded psychic weapon. A bonded psychic weapon is considered magical and has the following properties:
 
@@ -30,7 +33,3 @@ You may spend 1 hour rubbing this weapon oil on any nonmagical weapon to irrever
 You may only have one bonded psychic weapon at a time. If you attempt to bond to another weapon, your connection to the original is lost and it instead becomes a magic weapon that any creature may attune to in order to utilize its special properties.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 95*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

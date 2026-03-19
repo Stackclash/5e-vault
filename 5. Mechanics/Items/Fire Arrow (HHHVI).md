@@ -26,11 +26,10 @@ item_recharge: none
 - **Damage**: 1d6 fire
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These arrows combust upon direct piercing organic material. When you hit a target successfully with this arrow, you deal an additional `dice:1d6|noform|noparens|avg` (`1d6`) fire damage. These arrows lose this property on hit and become regular arrows afterwards.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 127*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

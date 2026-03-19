@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wind-Riders.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These boots look and feel like pale, dried leaves but are remarkably soft and quiet to walk in. While wearing these boots, you can move normally in difficult terrain caused by strong winds.
 
@@ -27,7 +30,3 @@ While wearing these boots, you can use an action to speak their command word to 
 Traveling somewhere while in this form where the swirling leaves are unable to follow you ends the effect early. Once the boots have been used to cast this spell, they can't do so again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 190*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

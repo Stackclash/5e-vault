@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -34,7 +37,3 @@ A curious nut found attached to shrubby plants growing on windswept beaches. Sai
 As an action, you may eat this herb. For the next hour, you constantly generate a weak breeze that circles in a 5-foot radius around yourself.
 
 *Source: Hamund's Herbalism Handbook p. 8*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

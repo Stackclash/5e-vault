@@ -33,6 +33,9 @@ item_recharge: dawn
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic mace is carried by priests and is a symbol of their devotion to ridding the world of evil. While holding it, you can use a bonus action to adjust its telescoping haft, changing it from a [[/5. Mechanics/Items/Mace.md\|mace]] to a [[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]], and vice versa. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -41,7 +44,3 @@ The weapon has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expe
 Alternatively, you can use an action to speak the weapon's command word to cast the [[/5. Mechanics/Spells/He(AL).md\|heal]] spell from it. When you do, the weapon releases a flash of light and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 117*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -38,6 +38,9 @@ item_recharge: none
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A *ballista prosthesis* is a magical weapon composed of numerous complex mechanical pieces that allow it to act as a functional prosthetic arm. You gain a +1 bonus to attack and damage rolls made with this magic weapon. This crossbow has an internal magazine that can hold up to 20 bolts. While there are bolts in the magazine, the crossbow does not have the loading property. It takes 1 minute to reload the magazine.
 
@@ -46,7 +49,3 @@ The prosthesis attaches to your arm at the elbow or the shoulder, and it can't b
 As a bonus action, you can retract the crossbow's limbs to the side of your hand or extend them from there. While retracted, the crossbow is concealed and functions identically to a normal hand. A creature can use an action to make a DC 13 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check, identifying its crossbow components and determining that it's a concealed weapon on a success. While extended, you can use the weapon as if you were holding it, and you can't use that hand for other purposes.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 41*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

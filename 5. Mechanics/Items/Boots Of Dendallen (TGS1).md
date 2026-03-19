@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Boots-of-Dendallen.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These dark, fleshy boots grant marvelous powers and enhance your normal movement. While wearing these boots, you gain a flying speed equal to your walking speed and can hover. You can hover up to 20 feet off the ground in this way, leaving behind a thin trail of shadow when you do. In addition, when you take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action while wearing the boots, you can move an extra 10 feet.
 
@@ -33,7 +36,3 @@ When you pull these boots over your feet for the first time, make a DC 16 Wisdom
 If you fail the saving throw to resist the curse and later remove the boots, you take another `dice:4d8|noform|noparens|avg` (`4d8`) necrotic damage as they painfully tear themselves from your body.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 37*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

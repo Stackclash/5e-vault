@@ -20,6 +20,9 @@ item_recharge: short-rest
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/War-Standard-of-Battlecries.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic battle standard reinforces the fervor of nearby allies. The standard stands up to 10 feet tall but can be collapsed down to 2 feet tall for transport. You can extend the standard to its full height as an action and either hold it aloft with one hand or plant it upright in an unoccupied space on solid ground. You can retrieve the planted standard when you enter its space (no action required). While the standard is extended, allies within 15 feet of it at the start of combat gain a +3 bonus to their initiative.
 
@@ -28,7 +31,3 @@ This standard has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) e
 You can concentrate on the banner over the course of a short rest to change the emblem depicted on it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 142*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

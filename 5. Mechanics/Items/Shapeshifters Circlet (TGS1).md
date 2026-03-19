@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Shapeshifters-Circlet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ivory circlet allows you to recreate some of the natural features of other creatures. While wearing the circlet, you can spend 1 minute to gently massage your ears, forehead, or temples. When you do, you can choose to create one of the following features or effects:
 
@@ -29,7 +32,3 @@ This ivory circlet allows you to recreate some of the natural features of other 
 You can only have 1 of these effects active at a time. The effect lasts until you dismiss it as a bonus action, remove the circlet, or fall unconscious. You don't gain any of the senses or abilities of another creature by recreating its physical features in this way.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 114*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -39,7 +42,3 @@ This herb contains a number of leaves measuring `dice:1d4|noform|noparens|avg` (
 
 
 *Source: Hamund's Herbalism Handbook p. 12*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -37,6 +37,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crystalline spear bends the light it generates in such a way that it becomes tangible. While you hold the spear in one hand and have another hand free, you can speak the spear's command word as an action to cause it to create a ghostly projection of itself in your free hand. Both the spear and its projection have the light property. When you use an action to create a projection in this way, you can make one weapon attack with either the spear or projection as part of that action. The projection lasts for 1 minute or until you dismiss it using a bonus action or until a creature other than you holds it. If you drop or stow the crystalline spear, the projection disappears until you hold the spear again.
 
@@ -45,7 +48,3 @@ If you make a ranged attack with the projection, it disappears after it hits or 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon and its projection. The spear can only have 1 projection active at a time. While it has a projection, both the spear and projection cast bright light in a 10-foot radius and dim light for an additional 10 feet. If you don't have an open hand when the spear creates a projection, the projection is dismissed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 88*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

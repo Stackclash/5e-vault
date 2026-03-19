@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Quiver-of-Lightning.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This jagged quiver zigs and zags in a lightninglike fashion. Ammunition you draw from the quiver is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. When you make an attack with the ammunition, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) lightning damage on a hit.
 
@@ -26,7 +29,3 @@ Alternatively, once on each of your turns, you can reach into the quiver and pul
 In addition, if you make a ranged attack with a [[/5. Mechanics/Items/Javelin Of Lightning.md\|javelin of lightning]], the javelin vanishes after 1 minute (unless you retrieve it) and emerges from the quiver, falling to the floor at your feet when it does.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

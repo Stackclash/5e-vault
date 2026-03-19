@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Devils-Golden-Fiddle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A devil's golden fiddle is a magical trophy among accomplished musicians. Its gilded exterior is marked by embossed, bat-like wings and a carved devil's head. If you're not attuned to the instrument and attempt to play it, you must succeed on a DC 15 Charisma saving throw or take `dice:1d6|noform|noparens|avg` (`1d6`) psychic damage. Regardless, the fiddle remains silent.
 
@@ -42,7 +45,3 @@ When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performan
 This property is only revealed when you lose in a musical competition against another creature. When you do, your attunement to the fiddle ends, and the fiddle immediately becomes attuned to the winning creature, provided that it can be attuned to. The fiddle then immediately begins to play on its own and flies to the side of the attuned creature.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

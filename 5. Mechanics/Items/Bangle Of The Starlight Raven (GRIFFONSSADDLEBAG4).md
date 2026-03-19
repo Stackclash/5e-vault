@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Bangle-of-the-Starlight-Raven.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver bangle feels almost cool or wet to the touch. Pressing its tail feathers inward causes its wings to unfurl, allowing you to place the bangle on your wrist or remove it. While wearing the bangle, gravity pulls more loosely against you: your weight is halved, and your normal jumping distance is doubled. While wearing it between dusk and dawn, you're also under the effects of the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell.
 
@@ -36,7 +39,3 @@ You can expend 2 of the bangle's charges to cast the [[/5. Mechanics/Spells/Loca
 You can expend 1 or more of the bangle's charges to cast the [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell from it. For 1 charge, you cast the 1st-level version of the spell, or the 2nd-level version of the spell between dusk and dawn. You can increase the spell slot level by one for each additional charge you expend. The missiles appear as the illusory ravens hurtling toward each target.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

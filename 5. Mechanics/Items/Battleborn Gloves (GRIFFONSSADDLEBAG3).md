@@ -21,6 +21,9 @@ item_recharge: long-rest
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Battleborn-Gloves.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These gloves have been worn by generations of great warriors and bear the marks and remembrances of their prowess. While wearing the gloves, your Strength or Dexterity score increases by 2 (your choice), up to a maximum of 22. Alternatively, you can increase both your Strength and Dexterity scores by 1. You make this decision when you first attune to the gloves.
 
@@ -57,7 +60,3 @@ As a result, the gloves will gently urge the wearer into combat. The longer it's
 These gloves are cursed, and attuning to them extends that curse to you. You remain cursed until you're targeted by a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic. While cursed, you refuse to remove the gloves, and if you die while wearing them, your soul is immediately drawn into the gloves to join the chorus of other warriors within them. If your body is targeted by a [[/5. Mechanics/Spells/Revivify.md\|revivify]] spell or similar magic, you must make a DC 20 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check. On a success, your spirit escapes the gloves' trapped warriors, allowing the magic to resurrect you. On a failure, the spell fails, your spirit is drawn further into the gloves, and the escape DC increases by 5, up to a maximum of 30.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -37,11 +37,10 @@ item_recharge: none
 # Armor of Gleaming
 *Minor, common*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor never gets dirty.
 
 *Source: Xanathar's Guide to Everything p. 136*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -27,6 +27,9 @@ item_recharge: none
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Saint Markovia's thighbone has the properties of a [[/5. Mechanics/Items/Mace Of Disruption.md\|mace of disruption]]. If it scores one or more hits against a [[/5. Mechanics/Bestiary/Undead/Vampire.md\|vampire]] or a [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] in the course of a single battle, the thighbone crumbles into dust once the battle concludes.
 
@@ -43,7 +46,3 @@ The essence of Markovia's saintliness passed partly into her bones as the rest o
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 *Source: Curse of Strahd p. 222*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

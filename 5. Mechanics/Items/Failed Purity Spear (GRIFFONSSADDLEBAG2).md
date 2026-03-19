@@ -37,6 +37,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The grayed unicorn horn that rests at the top of this sickly spear is fractured and slowly leaks a silver, corrupting fluid. A *failed purity spear* is the rare version of a [[/5. Mechanics/Items/Purity Spear (TGS1).md\|purity spear]], a legendary weapon, that was made by a creature other than an elder fey. Its magic is a sad reminder that while unicorns are paragons of good, even their magic can become toxic when mistreated.
 
@@ -55,7 +58,3 @@ If you move at least 20 feet straight toward a target and then hit it with the s
 This spear is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the spear, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. While you're cursed, you have disadvantage on any saving throw against poison. However, while you are poisoned, you gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 80*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

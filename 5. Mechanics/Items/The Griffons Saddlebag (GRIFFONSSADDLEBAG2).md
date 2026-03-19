@@ -21,6 +21,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/The-Griffons-Saddlebag.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These leather bags have the stylized face of a griffon on their front and appear across the multiverse in strange locations. One may be found in the belly of a dragon, while another in the limbs of a great tree. Regardless of where it's found, a *Griffon's Saddlebag* is typically discovered by an adventurer with a destiny.
 
@@ -65,7 +68,3 @@ If the bag's wearer or allies fail to fulfill Magic Courier quests, it may stop 
 While there is no way to permanently destroy the saddlebag, piercing it with an artifact returns it to its place of origin for repair before it's returned to the multiverse in a new location. Placing a *Griffon's Saddlebag* inside the extradimensional space created by another *Griffon's Saddlebag* returns both items to their place of origin and sends all the items stored within them to the griffon's forge on the Astral Plane.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 174*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

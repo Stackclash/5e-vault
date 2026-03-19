@@ -30,6 +30,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gelatinous net is made with the enchanted remains of a gray ooze. A creature takes `dice:1d6|noform|noparens|avg` (`1d6`) acid damage when it's [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the net and again at the end of each of its turns while it remains restrained by it. If the creature is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers whenever it takes acid damage at the end of one of its turns. The armor is destroyed if the penalty reduces its AC to 10. A creature other than you who touches the net takes `dice:1d6|noform|noparens|avg` (`1d6`) acid damage.
 
@@ -42,7 +45,3 @@ You're immune to damage from the net while you're attuned to it. Picking up the 
 A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. The net's sticky composition makes it more difficult to escape than a mundane one. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. The net has resistance to all damage types. Dealing 10 slashing damage to the net (AC 12) also frees the creature without harming it, ending the effect and tearing the net apart. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 128*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

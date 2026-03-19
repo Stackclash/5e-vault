@@ -25,6 +25,9 @@ item_recharge: dawn
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 To you, this book is a magical spellbook. To anyone else, the book appears to be a volume of verbose romance fiction. As an action, you can change the book's appearance and alter the plot of the romance.
 
@@ -38,7 +41,3 @@ The book has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 - When a creature you can see makes an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to discern the true nature of an illusion spell you cast, or makes a saving throw against an illusion spell you cast, you can use your reaction and expend 1 charge to impose disadvantage on the roll.  
 
 *Source: Tasha's Cauldron of Everything p. 126*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

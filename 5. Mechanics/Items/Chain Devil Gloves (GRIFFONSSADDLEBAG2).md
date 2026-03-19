@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Chain-Devil-Gloves.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These leather gloves are fashioned from the hands of a slain chain devil. While wearing these gloves, an ethereal chain attaches itself to any weapon you throw that has the thrown property. The chain has a reach of 60 feet and breaks its connection to the weapon if the weapon is held by a creature or if you are ever more than 60 feet away from it. You can have up to 4 of these chains at any time.
 
@@ -28,7 +31,3 @@ As an action, you can cause these chains to suddenly retract and pull any attach
 A retracted weapon lands harmlessly at your feet or in an open hand once it reaches you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 58*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

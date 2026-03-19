@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This trident's three horns are made of a chimera's goat horn, lion tooth, and dragon fang. This trident has three abilities, each of which may be used upon a successful melee weapon attack with this weapon.
 
@@ -44,7 +47,3 @@ This trident's three horns are made of a chimera's goat horn, lion tooth, and dr
 Once used, an individual ability may not be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 122*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

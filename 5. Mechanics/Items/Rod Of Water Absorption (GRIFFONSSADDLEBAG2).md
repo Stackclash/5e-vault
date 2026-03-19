@@ -25,6 +25,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rod-of-Water-Absorption.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hollow rod has a hole at its end and four sections that each magically hold up to 10 gallons of water. Each hollow section is capped with a ring of glass, allowing you to see inside the rod and know how much water is stored within it. The rod weighs 3 pounds, regardless of how much water is stored inside.
 
@@ -35,7 +38,3 @@ While holding the rod, you can use an action to speak its second or third comman
 Speaking the third command word causes 10 or more gallons of water to erupt from the rod in a torrent of water, up to the maximum amount remaining within the rod. This water is drawn from the pool of water within the rod. The water is shot in a line 30 feet long and 1 foot wide. Any creature in the line must make a DC 15 Dexterity saving throw. On a failed save, a creature takes `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage for every 10 gallons of water used from the rod and is pushed 10 feet away from you. On a successful save, a creature takes half as much bludgeoning damage and isn't pushed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 150*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

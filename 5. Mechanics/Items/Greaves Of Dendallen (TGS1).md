@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Greaves-of-Dendallen.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing these skeletal greaves, you gain a climbing speed equal to your walking speed and can stand on and move across any liquid surface as if it were solid ground. In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow.
 
@@ -31,7 +34,3 @@ When you first wear the greaves of Dendallen, you feel your legs suddenly ache. 
 You can't remove the greaves until they're targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell. When you remove the greaves, your walking speed becomes 0. For every 24 hours that pass after removing the greaves, your walking speed increases by 5 feet, up to your normal maximum amount.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 74*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

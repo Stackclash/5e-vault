@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Robe-of-Cunning.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silken robe is designed in the likeness of a fox. While wearing it, you have advantage on any Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check you make.
 
@@ -30,7 +33,3 @@ Alternatively, when you're reduced to 0 hit points, you can use your reaction to
 When you expend the last charge from the robe, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the maximum number of charges the robe has is permanently reduced by 1.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

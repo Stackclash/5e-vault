@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helm has 9 charges and regains `dice:1d8|noform|noparens|avg` (`1d8`) charges at dawn. While wearing this helm, you spend an action to expend 1 or more charges to do any of the following:
 
@@ -27,7 +30,3 @@ This helm has 9 charges and regains `dice:1d8|noform|noparens|avg` (`1d8`) charg
 - You release your held melee weapon to hover magically in an unoccupied space within 5 feet of you. If you can see the melee weapon, you can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to your hands. If the hovering sword is targeted by any effect, you are considered to be holding it. The hovering weapon falls if you die or take off the helmet. Otherwise, this effect lasts for 1 minute. This ability may only be used on one melee weapon at a time, any attempt to use it on another while one is already under its effect causes the original one to fall to the ground. (2 charges)  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 120*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -22,11 +22,10 @@ item_recharge: none
 # Potion of Speed
 *Potion, minor, very rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you gain the effect of the [[/5. Mechanics/Spells/Haste.md\|haste]] spell for 1 minute (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required). The potion's yellow fluid is streaked with black and swirls on its own.
 
 *Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

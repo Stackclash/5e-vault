@@ -24,6 +24,9 @@ item_recharge: none
 *Rod, uncommon (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Helm-of-the-Skeleton.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A fire beetle has been preserved within the amber of this otherwise twisted wooden rod. While holding it, you can use an action to cast the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell from it. When you do, the light is warm and fiery, and at the center of each glowing orb is an illusory, ghostly fire beetle; the glowing orbs can be combined to form a beetle-like shape. Alternatively, while you're holding the scepter, you can cause its amber head to glow, shedding warm bright light in a 10-foot radius and dim light for an additional 10 feet. The scepter continues to glow until you drop it or end the effect (no action required).
 
@@ -36,7 +39,3 @@ While holding the rod, you can use an action to cast the [[/5. Mechanics/Spells/
 While the rod is glowing, it can also be used as a magic club. When you attack with the rod, you can use your spellcasting ability modifier, instead of Strength, for the attack and damage rolls.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Tiny specks of starlight gleam from the dark surface of this magic longbow at night. The bow is strung with an invisible string that appears only when it's drawn. When pulled, the string emits a soft yellow glow as motes of starlight appear and float around the bow's frame. Drawing the bow without first nocking an arrow creates a magic arrow of pure starlight in its place and intensifies the bow's glow. The starlit arrow shines bright light in a 20-foot radius and dim light for an additional 20 feet. You gain a +2 bonus to attack and damage rolls made with this weapon when you use a starlit arrow, which deals radiant damage instead of piercing damage. Hit or miss, the starlit arrow disappears immediately after the attack.
 
@@ -46,7 +49,3 @@ In addition, when you use a starlit arrow and roll a 20 on an attack roll made w
 Immediately after a falling star hits the ground or a target, it disappears.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 160*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

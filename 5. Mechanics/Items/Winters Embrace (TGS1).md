@@ -28,11 +28,10 @@ item_recharge: none
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This frosty armor is enchanted to keep its wearer at a constant, comfortable temperature. While wearing this armor, you have resistance to cold and fire damage and ignore difficult terrain created by ice or snow. In addition, while wearing the armor, you can use an action to cast the [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]] spell (6th-level version, save DC 16) from it. When cast in this way, the spell is centered on your location, and you are immune to its effects. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 144*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

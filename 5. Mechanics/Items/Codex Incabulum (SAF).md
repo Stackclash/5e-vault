@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-incabulum.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The only codex known to be written during the Caelian Empire, the codex incabulum is often incorrectly cited as the cause of the Fall of Azshan. This is a popular guess repeated so often that it has attained the status of fact. Rather, the codex *stopped* the demonic infestation that razed the ruling city of Kham, confining the sea of fiends that erupted from hell and preventing it from spreading across the world. As a result, no contemporaneous accounts of the sack of the city survive, with the popular histories of the event being authored no earlier than 150 years after the event.
 
@@ -55,7 +58,3 @@ Once per week as an action, you may sacrifice Hit Dice to summon a [[/5. Mechani
 While the codex incabulum is on the Mundane World, summoned demons and devils cannot summon more demons or devils. Should the *Book of Fiends* ever leave the Mundane World, however, this restriction would be lifted, and then even minor demons could gate in powerful allies, who themselves could gate in more allies, until armies of demons flooded the world.
 
 *Source: Strongholds and Followers p. 250*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

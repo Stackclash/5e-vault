@@ -20,6 +20,9 @@ item_recharge: none
 # Gaming Set
 *Gaming set*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -29,7 +32,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Three Dragon Ante Set.md\|Three-Dragon Ante Set]]
 
 *Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

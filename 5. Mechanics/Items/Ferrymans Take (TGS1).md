@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ferrymans-Take.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These tarnished copper coins are always found in pairs and bear the portrait of a horned man on one side (heads) and a rowboat on the other (tails).
 
@@ -33,7 +36,3 @@ While the coins are heads up over the eyes of an unconscious creature, that crea
 While the coins are tails up over the eyes of a dead creature, that creature is under the effects of the [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell. Its body can't be detected through magical means, and the soul of the creature can't be contacted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 61*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -29,6 +29,9 @@ item_recharge: long-rest
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The exact details differ when describe how [[/4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]] came to own the mighty greataxe, Heartcleaver. Some say he claimed it after slaying the previous Demon Lord that held his seat; others say he stole it from Muradin's forge and as punishment was cursed with his current form; while still others say that he made it himself, quenched in the rivers of boiling blood that run through the Abyss. Regardless of its actual origin, it is agreed by the few lucky enough to survive an encounter with it, that Heartcleaver is one of the most dangerous weapons to have ever been created.
 
@@ -71,7 +74,3 @@ As the weapon of a Demon Lord, Heartcleaver bares a lingering curse for any mort
 The only way to destroy Heartcleaver is to build a labyrinth around it that measures no less than 10 miles in diameter. If Heartcleaver is left completely untouched and unattuned for 100 years at the centre of this labyrinth, it corrodes into a useless hunk of rust and loses all power. Be warned though, that such labyrinths will naturally attract the attention of monsters such as [[/5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]], as well as mortals seeking the hidden treasure inside. If Heartcleaver is disturbed during the 100 years, it must be moved, a new labyrinth built around it, and the process must begin again.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 25*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

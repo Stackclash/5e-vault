@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Wizards-Cards.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This [[/5. Mechanics/Items/Playing Card Set.md\|playing card set]] is a partially complete deck of various cards across four unique suits: air, earth, fire, and water. Each suit has an ace, a 2 through 10, and at least two face cards (which sometimes appear more often than others). You can draw up to 2 cards from the deck using a bonus action, provided you have the hands to do so. When you do, the cards glow briefly before vanishing.
 
@@ -32,7 +35,3 @@ Your current drawn cards are lost if you release the magic stored within them, i
 When found, the deck has `dice:2d20+10|noform|noparens|avg` (`2d20 + 10`) random cards in it. It regains `dice:1d10|noform|noparens|avg` (`1d10`) used cards at random daily at dawn, up to a maximum of 52 cards. If you draw the deck's last card, there's a 50 percent chance that the deck is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -21,11 +21,10 @@ item_recharge: none
 *Oil, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bright green oil is magically attuned to react when it is used to coat a weapon, transmuting itself into a highly corrosive acid that leaves the weapon undamaged. It can be used to coat up to 10 pieces of slashing or piercing ammunition or one slashing or piercing weapon. Applying the oil takes 1 minute. For 1 hour, any successful attack rolls made with a coated weapon deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) acid damage.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 84*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 *Potion, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Djinn-and-Tonic.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -30,7 +33,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Djinn And Tonic Rare (GRIFFONSSADDLEBAG2).md\|Djinn and Tonic (Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 71*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

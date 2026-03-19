@@ -19,6 +19,9 @@ item_recharge: none
 # Ioun Stone, Awareness
 *Wondrous item, major, rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An *Ioun stone* is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun stone* exist, each type a distinct combination of shape and color.
 
@@ -29,7 +32,3 @@ A stone has AC 24, 10 hit points, and resistance to all damage. It is considered
 You can't be [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]] while this dark blue rhomboid orbits your head.
 
 *Source: Dungeon Master's Guide p. 176. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

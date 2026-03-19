@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -34,7 +37,3 @@ These pinky nail-sized seeds are recognisable by their waxy brown exterior and d
 When you apply this herb, you are considered to have drunk a day's worth of fresh water.
 
 *Source: Hamund's Herbalism Handbook p. 26*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

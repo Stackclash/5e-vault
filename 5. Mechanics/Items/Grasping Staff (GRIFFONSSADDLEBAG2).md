@@ -33,6 +33,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This grotesquely carved stone staff is miraculously light but deathly cold and clammy to the touch. You have resistance to necrotic damage while you hold this staff.
 
@@ -41,7 +44,3 @@ The staff has 10 charges. While holding it, you can use an action to expend 1 or
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff turns to ash and summons `dice:2d6|noform|noparens|avg` (`2d6`) hostile tiny undead [[/5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling hands]] within 10 feet of you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 93*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

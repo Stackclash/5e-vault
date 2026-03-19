@@ -31,9 +31,9 @@ item_recharge: none
 - **Range**: 40/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Reload\|Reload]]
 - **Weight**: 3.0 lbs.
-
-*Source: Dungeon Master's Guide p. 268*
-
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})
 ```
+
+
+*Source: Dungeon Master's Guide p. 268*
