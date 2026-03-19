@@ -4,9 +4,6 @@ filters:
 views:
   - type: table
     name: Overview
-    filters:
-      and:
-        - rarity.isEmpty()
     order:
       - file.name
       - type
