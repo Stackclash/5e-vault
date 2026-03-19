@@ -5,7 +5,16 @@ resources: []
 owners: []
 staff: []
 cost_modifier: 1
-items: []
+items:
+  - "[[5. Mechanics/Items/Glaive.md|Glaive]]"
+  - "[[5. Mechanics/Items/Chain Mail.md|Chain Mail]]"
+  - "[[5. Mechanics/Items/Fragmentation Grenade.md|Fragmentation Grenade]]"
+  - "[[5. Mechanics/Items/Hand Crossbow.md|Hand Crossbow]]"
+  - "[[5. Mechanics/Items/Wooden Breastplate (HHHVI).md|Wooden Breastplate (HHHVI)]]"
+  - "[[5. Mechanics/Items/Staff Of Flowers (XGE).md|Staff Of Flowers (XGE)]]"
+  - "[[5. Mechanics/Items/Smoldering Armor (XGE).md|Smoldering Armor (XGE)]]"
+  - "[[5. Mechanics/Items/Staff Of Birdcalls (XGE).md|Staff Of Birdcalls (XGE)]]"
+  - "[[5. Mechanics/Items/Silver Star Cane (GRIFFONSSADDLEBAG2).md|Silver Star Cane (GRIFFONSSADDLEBAG2)]]"
 tags:
   - shop
   - location

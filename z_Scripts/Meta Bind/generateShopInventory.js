@@ -40,8 +40,8 @@ if (!configFile) return
 const configFM = app.metadataCache.getFileCache(configFile)?.frontmatter ?? {}
 const shopFM = app.metadataCache.getFileCache(context.file)?.frontmatter ?? {}
 
-const shopType = shopFM.shop_type
-const shopSize = shopFM.shop_size
+const shopType = shopFM.type
+const shopSize = shopFM.size
 
 if (!shopType || !shopSize) return
 
