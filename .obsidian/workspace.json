@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Shops/Golden Hammer.md",
+                "file": "5. Mechanics/Items/Revolver.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golden Hammer"
+              "title": "Revolver"
             }
           },
           {
@@ -372,8 +372,9 @@
   },
   "active": "0460266046d5dcdf",
   "lastOpenFiles": [
-    "5. Mechanics/Items/Staff Of Flowers (XGE).md",
     "4. World Almanac/Shops/Golden Hammer.md",
+    "5. Mechanics/Items/Yeenoghus Wrath (HHHVII).md",
+    "5. Mechanics/Items/Staff Of Flowers (XGE).md",
     "5. Mechanics/Items/Wooden Breastplate (HHHVI).md",
     "z_Scripts/Meta Bind/generateShopInventory.js",
     "5. Mechanics/Items/Animated Shield.md",
@@ -399,7 +400,6 @@
     "5. Mechanics/Tables/Academy Type (TCE).md",
     "Random Content/Generators/forest-scene-generator.md",
     "Random Content/Generators/npc-backstory-generator.md",
-    "Random Content/Indexes/story-elements.md",
     "Random Content/Generators",
     "Random Content/Indexes",
     "Random Content/Tables",
