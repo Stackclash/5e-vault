@@ -2,6 +2,8 @@
 let templateError = false
 let data = {}
 let dataview = null
+let shopTypeOptions = ''
+let shopSizeOptions = ''
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
@@ -23,6 +25,14 @@ try {
   
   if (!data.owners) data.owners = []
   if (!data.staff) data.staff = []
+
+  shopTypeOptions = (config.shop_types || []).map(st => `option(${st.name})`).join(', ')
+  const seenSizes = new Set()
+  shopSizeOptions = (config.shop_sizes || []).filter(ss => {
+    if (seenSizes.has(ss.name)) return false
+    seenSizes.add(ss.name)
+    return true
+  }).map(ss => `option(${ss.name})`).join(', ')
 
   await init.moveFile(tp, config.locations.shops, data.name)
 
@@ -46,11 +56,22 @@ staff: <%* if (data.staff && data.staff.length == 0) { %>[]<%* } %>
   - "<% dataview.page(staff).file.link.toString() %>"
 <%* } -%>
 cost_modifier: 1
+shop_type: ""
+shop_size: ""
 items: []
 tags:
   - location
   - shop
 ---
+```meta-bind-button
+style: primary
+label: Generate Inventory
+id: generate-inventory
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/generateShopInventory.js
+```
 > [!infobox]
 > # `=this.file.name`
 > |||
@@ -64,6 +85,12 @@ tags:
 > |---|---|
 > | **Cost Modifier** | `INPUT[number:cost_modifier]` |
 > | **Items** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
+> ###### Shop Settings
+> |||
+> |---|---|
+> | **Shop Type** | `INPUT[select(<% shopTypeOptions %>):shop_type]` |
+> | **Shop Size** | `INPUT[select(<% shopSizeOptions %>):shop_size]` |
+> | | `BUTTON[generate-inventory]` |
 
 `$= await dv.view("views/locationBreadcrumbs", {current: dv.current()})`
 # `=this.file.name`
