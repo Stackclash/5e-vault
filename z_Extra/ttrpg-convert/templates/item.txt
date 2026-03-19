@@ -181,7 +181,21 @@ item_consumable: false
 item_consumable: false
 {/if}
 item_uses: 0
+{#if resource.text}
+{#let descLower=resource.text.toLowerCase()}
+{#if descLower.contains('short rest')}
+item_recharge: short-rest
+{#else if descLower.contains('at dawn')}
+item_recharge: dawn
+{#else if descLower.contains('long rest')}
+item_recharge: long-rest
+{#else}
 item_recharge: none
+{/if}
+{/let}
+{#else}
+item_recharge: none
+{/if}
 ---
 # {resource.name}
 {#if resource.detail }*{resource.detail}*  
