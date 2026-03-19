@@ -9,6 +9,9 @@ aliases:
   - Amulet of Spiritual Obfuscation
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of Spiritual Obfuscation
 *Wondrous item, very rare*  
@@ -24,3 +27,7 @@ This gold framed amulet has a large red stone in its center, inside of which, is
 - Undead, celestials, and fiends have disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks to find you, as your chaotic spiritual energy partially masks you from their senses.  
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 80*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

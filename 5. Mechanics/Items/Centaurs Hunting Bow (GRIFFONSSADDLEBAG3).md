@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Centaur's Hunting Bow
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ This hefty wooden hunting bow was fashioned in the likeness of a centaur deity o
 When you hit a creature with a ranged attack using the bow, you can expend 1 of its charges to magically mark that target for 1 minute (no action required). For the duration, the first time you make an attack with the bow on your turn, a single magic missile dart streaks out from the bow toward each marked creature within 80 feet of you. A target can't have more than one mark on it at a time.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

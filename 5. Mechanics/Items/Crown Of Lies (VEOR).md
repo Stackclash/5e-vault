@@ -10,6 +10,9 @@ aliases:
   - Crown of Lies
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crown of Lies
 *Wondrous item, artifact (requires attunement)*  
@@ -45,3 +48,7 @@ While wearing this crown in your true form, you can choose for the crown to be v
 If a creature wearing the crown is killed by the creature it is disguised as, the crown disintegrates and is destroyed.
 
 *Source: Vecna: Eve of Ruin p. 6*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

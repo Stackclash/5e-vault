@@ -9,6 +9,9 @@ aliases:
   - Weirdwater Poison
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Weirdwater Poison
 *Wondrous item, rare*  
@@ -22,3 +25,7 @@ Alternatively, you can pour the entire vial of poison onto the ground using an a
 The [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] disappears after 1 hour.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

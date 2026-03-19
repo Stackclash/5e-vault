@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Prismatic Javelin
 *Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, very rare (requires attunement)*  
@@ -51,3 +54,7 @@ As an action, you can throw the javelin at a point you can see within 120 feet o
 ^prismatic-javelin-beams
 
 *Source: The Griffon's Saddlebag, Book 1 p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Xibalban Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare (requires attunement)*  
@@ -44,3 +47,7 @@ The blood elemental's alignment is neutral evil.
 When you hit with an attack using this sword while the blood elemental is under your control and within 120 feet of you, the elemental regains a number of hit points equal to the necrotic damage dealt by the sword.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 193*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

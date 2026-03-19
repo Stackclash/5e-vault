@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Muralist's Mark
 *Wondrous item, major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ Minor physical damage to the surface doesn't harm you, but its partial destructi
 You can remain in this form for up to 1 hour, all at once or in several shorter bursts, each one using a minimum of 5 minutes from the duration. You can end the effect early using a bonus action. When the effect ends, you reappear in the nearest unoccupied space to your location on the surface. The apron regains 5 minutes of melding capability for every 1 hour it's not in use.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

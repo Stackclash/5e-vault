@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Luna Moth Cape
 *Wondrous item, minor, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ This beautiful elven cape is fashioned after the wings of a luna moth. While wea
 In addition, while wearing this cape, you can speak its command word as a bonus action when you jump to cause it to unfurl and flap downwards, sending you 10 feet into the air when you reach the height of your jump. This property can't be used again until you land on solid ground.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 117*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

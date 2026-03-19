@@ -16,6 +16,9 @@ attunement-requirement:
   - leg
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Life's Flower Restorative
 *Wondrous item, major, rare (requires attunement by a creature missing a hand, arm, or leg)*  
@@ -30,3 +33,7 @@ The prosthetic branch has 10 flowers and regrows `dice:1d6+4|noform|noparens|avg
 - If you start your turn with 0 hit points while the prosthetic has 3 or more remaining flowers, you can choose to expend 3 flowers to regain 5 hit points. This property can't be used again until the next dawn.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 114*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

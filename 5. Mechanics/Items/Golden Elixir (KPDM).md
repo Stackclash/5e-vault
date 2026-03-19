@@ -13,6 +13,9 @@ rarity: legendary
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Golden Elixir
 *Potion, legendary*  
@@ -25,3 +28,7 @@ The most famous of [[/5. Mechanics/Items/The Six Elixirs (KPDM).md\|the six elix
 a thimble of distilled sunlight, the breath of a solar, and the hair of a venerable sage who is at least 100 years old.
 
 *Source: Deep Magic p. 169*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

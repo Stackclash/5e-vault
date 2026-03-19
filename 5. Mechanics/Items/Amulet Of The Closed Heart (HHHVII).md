@@ -10,6 +10,9 @@ aliases:
   - Amulet of the Closed Heart
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Closed Heart
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ While wearing this amulet, you are immune to magic that allows other creatures t
 In addition, you gain the ability to spend your action to create a pulse of emotionally dampening mental energy in a 30-foot radius around yourself. Any creature in that radius that is under a [[/5. Mechanics/Rules/Conditions.md#Charmed\|charm]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|fear]] condition that would end on a successful saving throw may immediately attempt that saving throw, adding your Intelligence modifier in addition to their normal modifiers.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 53*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

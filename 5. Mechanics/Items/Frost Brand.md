@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frost Brand
 *Major, very rare (requires attunement)*  
@@ -38,3 +41,7 @@ In freezing temperatures, the blade sheds bright light in a 10-foot radius and d
 When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.
 
 *Source: Dungeon Master's Guide p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

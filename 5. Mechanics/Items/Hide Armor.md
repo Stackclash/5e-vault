@@ -16,6 +16,9 @@ rarity: none
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hide Armor
 *Medium armor*  
@@ -27,3 +30,7 @@ subtype:
 This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
 
 *Source: Player's Handbook p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

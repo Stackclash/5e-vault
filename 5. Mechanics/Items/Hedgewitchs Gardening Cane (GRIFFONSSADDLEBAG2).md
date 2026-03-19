@@ -20,6 +20,9 @@ tier: minor
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hedgewitch's Gardening Cane
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, minor, common*  
@@ -34,3 +37,7 @@ subtype:
 This wooden walking stick has a silver flower at either end. The flower is blooming on the handle, but merely a bud towards the bottom. While holding the cane, you can use an action to tap it against the ground and mentally command the bottom portion to magically transform into a broom, a hoe, a rake, a shovel, or back into a normal cane.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 101*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

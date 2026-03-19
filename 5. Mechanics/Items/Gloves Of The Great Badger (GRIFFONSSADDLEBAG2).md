@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gloves of the Great Badger
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -29,3 +32,7 @@ While wearing the gloves, you can use a bonus action to invoke the might of a gi
 Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 91*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

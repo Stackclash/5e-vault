@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Torrdok's Magnificent Forgery
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ While the mirror is fastened to a wall, its reflective surface becomes oily and 
 Anything brought into the demiplane is shunted back to the original room when the mirror is removed from the wall. While the painting remains, it is indistinguishable from a regular painting. A successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) or Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check can reveal the true nature of the painting, but not what command words are required to use it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 177*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

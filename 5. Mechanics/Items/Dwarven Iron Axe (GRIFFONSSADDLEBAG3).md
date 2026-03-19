@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Dwarven Iron Axe
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare (requires attunement)*  
@@ -42,3 +45,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. The 
 The axe has 3 charges and regains all expended charges daily at dawn. When you make an attack roll against an illusion using the axe, the illusion is dispelled (as if by the [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell) if the total of the attack roll meets or exceeds 10 + the spell's level. An illusion created by a spell of 6th level or higher is unaffected. When an illusion is dispelled in this way, the axe loses 1 charge.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

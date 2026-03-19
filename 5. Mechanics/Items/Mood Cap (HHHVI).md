@@ -9,6 +9,9 @@ aliases:
   - Mood Cap
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mood Cap
 *Wondrous item, common*  
@@ -29,3 +32,7 @@ This cap is usually translucent, but changes colour to match the mood of its wea
 ^mood-cap-colours
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

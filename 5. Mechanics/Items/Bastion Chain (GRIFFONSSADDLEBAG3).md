@@ -20,6 +20,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bastion Chain
 *Heavy armor ([[/5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, rare (requires attunement)*  
@@ -33,3 +36,7 @@ subtype:
 The chains of this armor shift naturally with your movements. You gain a +1 bonus to AC while you wear this armor, which doesn't impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks you make. In addition, the chains flow around you reflexively when you're surrounded; the armor's bonus to AC increases to +2 when three or more hostile creatures are within 5 feet of you.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

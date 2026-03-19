@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lotus of the Raven Queen
 *Herb, rare*  
@@ -30,3 +33,7 @@ Also known as the black lotus, this exceptionally rare herb is found in the dark
 For the next 24 hours after using this herb, if you suffer a death saving throw failure, you may spend 1 hit die in order to negate that failure instead. You must spend 1 hit die per failure that you wish to negate in the event that an effect would cause you to lose more than 1 at a time.
 
 *Source: Hamund's Herbalism Handbook p. 22*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

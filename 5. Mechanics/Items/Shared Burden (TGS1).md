@@ -14,6 +14,9 @@ attunement-requirement:
   - warlock
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shared Burden
 *Wondrous item, major, rare (requires attunement by a warlock)*  
@@ -25,3 +28,7 @@ This set of chained rings and bracers is a sign of the pact you forged with your
 Whenever you would deal damage to a creature with a warlock spell or cantrip, you can choose to add your Charisma modifier (minimum 1) to the spell's damage. When you do, you take psychic damage equal to half your Charisma modifier (minimum 1), rounded up. This psychic damage ignores resistances and immunities.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 114*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

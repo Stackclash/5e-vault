@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Headband of Intellect
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -21,3 +24,7 @@ tier: major
 Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher without it.
 
 *Source: Dungeon Master's Guide p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

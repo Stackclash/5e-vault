@@ -16,6 +16,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Honey Scepter
 *Rod, very rare (requires attunement by a spellcaster)*  
@@ -35,3 +38,7 @@ While holding the scepter, you can use an action to expend some of its charges t
 The scepter has a sharpened point on its end, allowing you to use it as an improvised dagger, except that it doesn't have the thrown property. The first time on each of your turns that you hit a creature in this way, that creature must succeed on a DC 12 Constitution saving throw or take `dice:2d6|noform|noparens|avg` (`2d6`) poison damage and be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of your next turn. A creature [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] in this way is unable to speak. When you hit a creature with the scepter in this way, you can choose to expend up to 4 of its charges. For each expended charge, the poison damage increases by `dice:1d6|noform|noparens|avg` (`1d6`), and the save DC increases by 2.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

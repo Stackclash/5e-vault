@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boots of Dendallen
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
@@ -30,3 +33,7 @@ When you pull these boots over your feet for the first time, make a DC 16 Wisdom
 If you fail the saving throw to resist the curse and later remove the boots, you take another `dice:4d8|noform|noparens|avg` (`4d8`) necrotic damage as they painfully tear themselves from your body.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 37*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

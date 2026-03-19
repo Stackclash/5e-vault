@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elemental Essence Shard (Water)
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
@@ -32,3 +35,7 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: Tasha's Cauldron of Everything p. 127*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

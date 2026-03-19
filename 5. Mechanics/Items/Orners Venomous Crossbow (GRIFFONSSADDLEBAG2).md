@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Orner's Venomous Crossbow
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement)*  
@@ -37,3 +40,7 @@ This magic crossbow carries a small system of curious tubes and vessels. You gai
 If you expend the crossbow's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the vessels attached to the crossbow shatter and spray poison in a 20-foot-radius sphere centered on your location. Creatures within the sphere take `dice:1d12|noform|noparens|avg` (`1d12`) poison damage and must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 minute. When this happens, the crossbow ceases to be magical and loses all of its additional properties.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

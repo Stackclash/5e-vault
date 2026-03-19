@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bracers of Defense
 *Wondrous item, major, rare (requires attunement)*  
@@ -21,3 +24,7 @@ tier: major
 While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no [[/5. Mechanics/Items/Shield.md\|shield]].
 
 *Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

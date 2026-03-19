@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Soul Pendant
 *Wondrous item, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ In addition, you can use an action to telepathically ask the soul a question, as
 While a creature's soul is trapped in the pendant, its body is under the effect of the [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell. If the creature is returned to life while you have its spirit trapped in this way, the spirit is released from the pendant and returned to its body.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 165*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

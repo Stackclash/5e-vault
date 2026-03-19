@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eaglereign
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -27,3 +30,7 @@ The giant eagle is friendly to you and your companions. Roll initiative for the 
 The giant eagle has a carrying capacity of 480 pounds and can fly at up to 8 miles an hour. It must rest 1 hour for every 3 hours it flies, and it can't fly for more than 9 hours.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 58*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

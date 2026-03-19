@@ -16,6 +16,9 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Seething
 *Ring, cursed item, minor, uncommon (requires attunement)*  
@@ -30,3 +33,7 @@ This dark band is cool to the touch and has several cracks throughout its otherw
 Once you attune to the ring and place it on your finger, you can't remove it unless targeted by a [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell. While cursed, you have disadvantage on any Charisma check or Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check you make that involves a creature of the chosen type. In addition, while you're within 60 feet of one or more creatures of that type, you have disadvantage on attack rolls that target a creature of a different type.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 106*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

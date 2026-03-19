@@ -13,6 +13,9 @@ rarity: legendary
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Ruby Elixir
 *Potion, legendary*  
@@ -25,3 +28,7 @@ This vermilion-hued elixir neutralizes all magical and nonmagical diseases and p
 A mixture of purest cinnabar, the blood of a slain dragon of at least adult age, and the hearts of six celestial tigers willingly donated to the alkemancer.
 
 *Source: Deep Magic p. 170*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

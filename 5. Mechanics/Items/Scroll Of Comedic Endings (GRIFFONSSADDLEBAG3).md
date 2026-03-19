@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Comedic Endings
 *Scroll, minor, rare*  
@@ -30,3 +33,7 @@ Once the anvil appears, it hovers briefly in the air before falling to the groun
 The anvil remains on the ground for 1 minute, at which point it vanishes with a comedic pop.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

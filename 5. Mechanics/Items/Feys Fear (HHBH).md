@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fey's Fear
 *Herb, rare*  
@@ -35,3 +38,7 @@ You may use this herb as a weapon, treating it as a [[/5. Mechanics/Items/Dagger
 
 
 *Source: Hamund's Herbalism Handbook p. 13*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

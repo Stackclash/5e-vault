@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lyre of Building
 *Wondrous item, instrument ([[/5. Mechanics/Items/Lyre.md\|lyre]]), rare (requires attunement by a bard)*  
@@ -28,3 +31,7 @@ While holding this [[/5. Mechanics/Items/Lyre.md\|lyre]], you can cast [[/5. Mec
 In addition, you can play the [[/5. Mechanics/Items/Lyre.md\|lyre]] as an action to cast [[/5. Mechanics/Spells/Fabricate.md\|fabricate]], [[/5. Mechanics/Spells/Move Earth.md\|move earth]], [[/5. Mechanics/Spells/Passwall.md\|passwall]], or [[/5. Mechanics/Spells/Summon Construct (TCE).md\|summon construct]], and that spell can't be cast from it again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 131*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

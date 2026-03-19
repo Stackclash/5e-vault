@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Giant's Silk
 *Herb, rare*  
@@ -30,3 +33,7 @@ Although they appear to be massive vines, these tendril-like herbs are actually 
 This herb may be used in place of 60 feet of rope. You make any Strength ability checks at advantage when using this rope to perform any pushing, pulling, lifting, or climbing.
 
 *Source: Hamund's Herbalism Handbook p. 15*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

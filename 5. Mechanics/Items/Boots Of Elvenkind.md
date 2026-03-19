@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boots of Elvenkind
 *Wondrous item, major, uncommon*  
@@ -20,3 +23,7 @@ tier: major
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks that rely on moving silently.
 
 *Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

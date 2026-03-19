@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Oathbow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
@@ -39,3 +42,7 @@ When you make a ranged attack roll with this weapon against your sworn enemy, yo
 While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
 
 *Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

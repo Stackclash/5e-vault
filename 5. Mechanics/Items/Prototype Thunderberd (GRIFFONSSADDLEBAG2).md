@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Prototype Thunderberd
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ This halberd has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 +
 If you expend the halberd's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the weapon becomes overcharged and splinters into an explosion of shrapnel, destroying the halberd. Each creature within 10 feet of the weapon must make a DC 15 Dexterity saving throw. On a failed save, a creature takes `dice:10d6|noform|noparens|avg` (`10d6`) piercing damage, or half as much damage on a successful one.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

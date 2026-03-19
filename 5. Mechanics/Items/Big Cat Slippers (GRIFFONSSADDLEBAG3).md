@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Big Cat Slippers
 *Wondrous item, minor, uncommon*  
@@ -28,3 +31,7 @@ These slippers come in pairs of one of four patterns. Each pattern resembles a t
 ^pattern-appearance-benefit
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

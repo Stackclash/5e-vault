@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Marid's Tail
 *Herb, rare*  
@@ -30,3 +33,7 @@ This conical plant is often mistaken for coral due to the ridged, blue shell tha
 You may make weapon attacks with this herb, treating it as if it was a [[/5. Mechanics/Items/Dagger.md\|dagger]]. On a successful hit, the herb lodges itself in the target and then bursts, forcing the target to succeed on a DC 15 Strength saving throw or be pushed back 20 feet as a strong blast of water gushes out from the ruptured herb. Once this herb has been used once in this way, it is destroyed and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 23*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

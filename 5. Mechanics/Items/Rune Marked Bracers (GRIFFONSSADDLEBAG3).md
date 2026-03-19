@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rune-Marked Bracers
 *Wondrous item, major, very rare (requires attunement)*  
@@ -43,3 +46,7 @@ The attacker must succeed on a DC 15 Constitution saving throw or become sluggis
 The attacker must succeed on a DC 15 Dexterity saving throw or take `dice:3d8|noform|noparens|avg` (`3d8`) lightning damage and it can't take reactions until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

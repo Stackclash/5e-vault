@@ -12,6 +12,9 @@ weight: 50
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Coldfire Anvil
 *Wondrous item, major, rare*  
@@ -24,3 +27,7 @@ This cold, iron anvil weighs 50 pounds and is 1 and a half feet long. It has thr
 Once the anvil has been used to enchant a weapon in this way, it can't do so again for `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) days.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

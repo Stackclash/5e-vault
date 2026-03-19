@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Bird of a Feather (common)
 *Wondrous item, minor, common*  
@@ -24,3 +27,7 @@ If you take any damage while flying in this way, you lose concentration on the t
 The common variant of this item is single-use, becoming mundane once the magic has been expended.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 35*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

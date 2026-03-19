@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Staff of Awakening
 *Staff, weapon, major, artifact (requires attunement by a spellcaster)*  
@@ -106,3 +109,7 @@ When you start a long rest, you can focus on a question about an upcoming event 
 While holding the staff, you have resistance to psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

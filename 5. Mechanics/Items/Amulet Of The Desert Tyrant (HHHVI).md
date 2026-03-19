@@ -10,6 +10,9 @@ aliases:
   - Amulet of the Desert Tyrant
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 9
+item_recharge: dawn
 ---
 # Amulet of the Desert Tyrant
 *Wondrous item, legendary (requires attunement)*  
@@ -27,3 +30,7 @@ If you die while wearing this amulet, and if this amulet has at least 7 charges 
 This item regains `dice:1d8+1|noform|noparens|avg` (`1d8 + 1`) charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

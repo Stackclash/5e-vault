@@ -16,6 +16,9 @@ rarity: very-rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Time Warden Armor
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), very rare (requires attunement)*  
@@ -38,3 +41,7 @@ When you roll initiative while wearing this armor, use the number rolled on the 
 ^effect
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

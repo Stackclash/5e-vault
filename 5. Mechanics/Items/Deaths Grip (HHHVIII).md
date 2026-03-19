@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Death's Grip
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), very rare*  
@@ -31,3 +34,7 @@ You gain a +1 bonus to attack and damage rolls made with this magical weapon. Wh
 While you have a creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] in this way, you may not make attacks with this weapon.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 86*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

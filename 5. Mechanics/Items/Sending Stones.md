@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sending Stones
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ Sending stones come in pairs, with each smooth stone carved to match the other s
 Once [[/5. Mechanics/Spells/Sending.md\|sending]] is cast through the stones, they can't be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.
 
 *Source: Dungeon Master's Guide p. 199*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

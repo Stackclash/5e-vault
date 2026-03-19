@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Resonance
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, rare (requires attunement by a bard)*  
@@ -40,3 +43,7 @@ This peculiar brass longsword is hollow and has lute strings that run along its 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, the sword's hollow metal blade magically amplifies the music made when using it to inspire allies. Whenever you expend a use of your [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)), the sword begins to reverberate with thunderous energy. The next time you hit a target before the end of your next turn with an attack using the sword, that target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) thunder damage from the attack.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

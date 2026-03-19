@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bow of Mind Thievery
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ Arrows fired from this magic bow deal an extra `dice:1d4|noform|noparens|avg` (`
 When you hit a humanoid with an arrow in this way, you can force that creature to make a DC 15 Wisdom saving throw after the attack. On a failed save, that creature falls under the effects of the [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]] spell for up to 1 minute as if cast by you. This effect does not require concentration. In addition, you can use a bonus action to see through that creature's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the creature has. During this time, you are [[/5. Mechanics/Rules/Conditions.md#Deafened\|deaf]] and [[/5. Mechanics/Rules/Conditions.md#Blinded\|blind]] with regard to your own senses. Once this property of the bow has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 39*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sir Varion's Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, uncommon (requires attunement)*  
@@ -35,3 +38,7 @@ This weighty lance was originally designed for Sir Varion, a brave knight with a
 If you are attuned to [[/5. Mechanics/Items/Sir Varions Shield (GRIFFONSSADDLEBAG2).md\|Sir Varion's shield]], you can wield this weapon with one hand, instead of two, while also holding the shield.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 162*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

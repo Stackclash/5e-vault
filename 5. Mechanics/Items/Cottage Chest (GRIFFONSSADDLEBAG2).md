@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Cottage Chest
 *Wondrous item, minor, rare*  
@@ -28,3 +31,7 @@ Further, fey and fiends can't enter the cottage unless you choose to let them, a
 The cottage is made of wood and plaster, and its magic prevents it from being tipped over or moved. The roof, the door, and the walls (including the windows) each have 60 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can repair the cottage (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of wish causes the roof, the door, or one wall to regain all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 65*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

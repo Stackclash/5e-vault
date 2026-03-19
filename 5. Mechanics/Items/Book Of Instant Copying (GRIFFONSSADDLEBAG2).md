@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Book of Instant Copying
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This book has a glass cover and is typically found with `dice:2d10+30|noform|nop
 Copied magic scrolls or spellbooks appear as nonsensical glyphs when copied in this way. When the last page of the book has been used, you can rebind it with 50 blank new pages using 50 gp of fine materials and 8 hours of work.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 49*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

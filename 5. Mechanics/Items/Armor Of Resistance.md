@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of Resistance
 *Major, rare (requires attunement)*  
@@ -54,3 +57,7 @@ You have resistance to one type of damage while you wear this armor. The DM choo
 - [[/5. Mechanics/Items/Armor Of Thunder Resistance.md\|Armor of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide p. 162*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

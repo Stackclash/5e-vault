@@ -12,6 +12,9 @@ weight: 3
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Widemouth Bucket
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ tier: minor
 This brass bucket in the shape of a fish's open mouth is 12-inches across and tall and weighs 3 pounds while it isn't filled. The bucket can hold up to 10 gallons of liquid, even though it appears to hold only 1. Regardless of how much liquid is inside, the bucket's weight is only increased by the weight of up to 1 gallon of the liquid.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 189*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

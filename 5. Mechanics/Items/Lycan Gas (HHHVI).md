@@ -9,6 +9,9 @@ aliases:
   - Lycan Gas
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lycan Gas
 *Poison (inhaled), rare*  
@@ -31,3 +34,7 @@ The gas cloud remains for 1 minute before dispersing naturally. It may be disper
 ^lycan-type-and-dc
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

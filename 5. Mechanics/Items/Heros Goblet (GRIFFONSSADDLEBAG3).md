@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hero's Goblet
 *Wondrous item, major, rare*  
@@ -26,3 +29,7 @@ Whenever common wine is drunk from this gilded goblet, it tastes as if it were f
 This property of the goblet can't be used again until the next dawn, at which point any of its remaining wine becomes nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

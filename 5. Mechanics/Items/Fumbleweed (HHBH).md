@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fumbleweed
 *Herb, common*  
@@ -30,3 +33,7 @@ A rather hardy type of grass that has adapted to the harsh desert winds by being
 The next time you are knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] involuntarily after using this herb, you may use your reaction to not be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] instead. After this occurs, this herb breaks and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 15*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

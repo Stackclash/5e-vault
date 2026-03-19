@@ -18,6 +18,9 @@ rarity: rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Permafrost Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), rare (requires attunement)*  
@@ -31,3 +34,7 @@ subtype:
 While wearing this armor, you are resistant to cold damage. In addition, whenever you take fire damage, you may use your reaction to halve the damage taken and gain a +2 bonus to your AC until the end of your next turn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

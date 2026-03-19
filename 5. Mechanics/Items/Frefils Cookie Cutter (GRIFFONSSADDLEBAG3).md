@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Frefil's Cookie Cutter
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ This iron cookie cutter has 4 charges and regains `dice:1d4|noform|noparens|avg`
 The figures are magically coated in decorative material upon springing to life, such as icing on cookies or paint on leather. If the figures are made of cookie dough (or similar pastry), they're magically cooked once animated in this way. You decide the appearance of each figure when you create it, even if it doesn't resemble the shape of the cookie cutter itself. Regardless of its shape, it's always Tiny.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

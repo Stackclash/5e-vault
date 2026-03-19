@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hag's Hair
 *Herb, rare*  
@@ -30,3 +33,7 @@ This long, wispy vine hangs from trees and grows grey, stringy leaves that resem
 When you use this herb, you become immune to diseases for the next 24 hours and any disease effects that you are currently subjected to have their progression and symptoms halted.
 
 *Source: Hamund's Herbalism Handbook p. 17*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

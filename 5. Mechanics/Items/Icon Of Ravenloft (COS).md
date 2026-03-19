@@ -13,6 +13,9 @@ attunement: true
 attunement-requirement:
   - creature of good alignment
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Icon of Ravenloft
 *Wondrous item, legendary (requires attunement by a creature of good alignment)*  
@@ -39,3 +42,7 @@ You can use the icon as a holy symbol while using the Turn Undead or Turn the Un
 While holding the icon, you can take an action to heal one creature that you can see within 30 feet of you. The target regains `dice:3d8+3|noform|noparens|avg` (`3d8 + 3`) hit points, unless it is an undead, a construct, or a fiend. Once used, this property can't be used again until the next dawn.
 
 *Source: Curse of Strahd p. 222*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

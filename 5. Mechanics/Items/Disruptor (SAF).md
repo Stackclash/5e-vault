@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Disruptor
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), very rare (requires attunement by a chaotic creature)*  
@@ -40,3 +43,7 @@ You gain a +1 bonus to attack and damage rolls made with this weapon. This bonus
 Whenever you score a critical hit with Disruptor, roll a `dice:d6|noform|noparens|avg` (`d6`) on the Court of All Flesh row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). The critical hit lops a limb off the enemy's body, and the rolled servitor spawns from the severed flesh. This servitor fights for you and obeys your commands. They return to Morphosis ^[Capital city of Primordius, the Sea of Change, the plane of uttermost chaos.] after 1 minute or if they drop to 0 hit points.
 
 *Source: Strongholds and Followers p. 259*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

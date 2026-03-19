@@ -9,6 +9,9 @@ aliases:
   - Lich Censer
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lich Censer
 *Wondrous item, very rare*  
@@ -20,3 +23,7 @@ This censer has an innate connection with the [[/5. Mechanics/Bestiary/Undead/Li
 Once this ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

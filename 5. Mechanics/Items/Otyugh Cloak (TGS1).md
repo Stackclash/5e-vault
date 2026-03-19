@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Otyugh Cloak
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ The tendril hanging from the hood is 3 feet long and offers some limited articul
 In addition, you can raise or lower the cloak's hood using a bonus action. While the hood is lifted, you can use an action to close your eyes and see through the eyes of the tendril. You can control the tendril while looking through the eyes in this way. When you do, you have darkvision out to a range of 60 feet. You return to your normal senses when you reopen your eyes or lower the hood.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 93*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

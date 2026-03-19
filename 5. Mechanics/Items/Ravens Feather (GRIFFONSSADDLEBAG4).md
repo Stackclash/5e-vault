@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Raven's Feather
 *Weapon, rare (requires attunement)*  
@@ -35,3 +38,7 @@ You can use a bonus action to magically summon a swarm of ravens while holding t
 You can only have one swarm of ravens at a time. The summoned swarm is friendly to you and your companions. It shares your initiative and takes its turn immediately after yours. It obeys any mental commands that you issue it (no action required by you). If you don't issue any commands, it defends itself from hostile creatures, but otherwise takes no actions.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

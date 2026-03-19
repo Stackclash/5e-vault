@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Retaliating Bloom Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
@@ -29,3 +32,7 @@ While holding the shield, you can use your reaction when a Large or smaller crea
 Curious, whirring mechanisms inside the shield automatically retract the chamber's unfurled metallic plates at dusk. Alternatively, you can manually collapse the shield's plates over the course of 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 105*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

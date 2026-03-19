@@ -10,6 +10,9 @@ aliases:
   - Vigilante's Mantle
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vigilante's Mantle
 *Wondrous item, rare (requires attunement)*  
@@ -31,3 +34,7 @@ While the hood is pulled up, you can use a bonus action on each of your turns to
 ^name-benefit
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

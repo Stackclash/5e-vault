@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Permanent Parchment
 *Wondrous item, minor, common*  
@@ -24,3 +27,7 @@ While unlocked, you can speak the paper's other command word, "clear", to cause 
 The language the parchment's command words must be spoken in is determined by the creator of the parchment.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 95*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

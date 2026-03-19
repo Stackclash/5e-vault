@@ -9,6 +9,9 @@ aliases:
   - Mage-Catcher Explosives
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mage-Catcher Explosives
 *Wondrous item, rare*  
@@ -26,3 +29,7 @@ A creature with the Antimagic Susceptibility trait that's in the field when it a
 Each bomb that explodes is destroyed, unless you roll an 8 on its `dice:d8|noform|noparens|avg` (`d8`). If you do, the bomb explodes but isn't destroyed, allowing it to be used again at another time.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

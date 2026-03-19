@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Dowsing
 *Wand, major, uncommon (requires attunement)*  
@@ -27,3 +30,7 @@ This hazel wand has 3 charges. While holding it, you can use an action to expend
 The wand regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand bursts into a small cloud of harmless steam.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 182*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

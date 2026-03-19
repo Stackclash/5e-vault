@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stone Swim Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
@@ -36,3 +39,7 @@ While wearing and attuned to this armor, you gain the following abilities:
 - You have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in rocky terrain.  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 142, Hamund's Harvesting Handbook: Volume II p. 65*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

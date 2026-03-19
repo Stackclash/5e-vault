@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Thomas's Dimensional Trousers
 *Wondrous item, minor, uncommon*  
@@ -26,3 +29,7 @@ If the pants are overloaded, pierced, or torn, they rupture and tear, scattering
 Placing the pants inside an extradimensional space created by a bag of holding, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 175*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Cloak of Dragonflight
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of Dragonflight
 *Wondrous item, very rare (requires attunement)*  
@@ -22,3 +25,7 @@ This long cloak resembles the leathery membranes of a dragon's wings and shines 
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

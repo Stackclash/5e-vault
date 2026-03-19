@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Servitude Choker
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -25,3 +28,7 @@ As a bonus action, you can mentally command the servant if it's within 60 feet o
 The necklace can animate an object for up to 8 hours or until it takes damage. When the effect ends, the necklace can't be used again for another `dice:1d8|noform|noparens|avg` (`1d8`) hours.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 111*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

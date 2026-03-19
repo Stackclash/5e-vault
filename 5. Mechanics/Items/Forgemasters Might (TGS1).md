@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Forgemaster's Might
 *Major, legendary (requires attunement by a creature with a Strength score of 17 or higher)*  
@@ -45,3 +48,7 @@ In addition, you know the [[/5. Mechanics/Spells/Mending.md\|mending]] cantrip i
 The hammer deals an additional `dice:2d8|noform|noparens|avg` (`2d8`) bludgeoning damage to constructs and structures hit by it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 66*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

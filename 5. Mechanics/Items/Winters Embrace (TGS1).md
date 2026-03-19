@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Winter's Embrace
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, very rare (requires attunement)*  
@@ -29,3 +32,7 @@ subtype:
 This frosty armor is enchanted to keep its wearer at a constant, comfortable temperature. While wearing this armor, you have resistance to cold and fire damage and ignore difficult terrain created by ice or snow. In addition, while wearing the armor, you can use an action to cast the [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]] spell (6th-level version, save DC 16) from it. When cast in this way, the spell is centered on your location, and you are immune to its effects. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

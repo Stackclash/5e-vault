@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Purple Worm Bulb
 *Herb, rare*  
@@ -35,3 +38,7 @@ After using this herb, your body undergoes a transformation and takes upon sever
 - You gain a [[/5. Mechanics/Rules/Senses.md#Tremorsense\|tremorsense]] out to a range of 60 feet.  
 
 *Source: Hamund's Herbalism Handbook p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

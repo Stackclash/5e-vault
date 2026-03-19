@@ -13,6 +13,9 @@ weight: 3
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crystal Ball of True Seeing
 *Wondrous item, major, legendary (requires attunement)*  
@@ -24,3 +27,7 @@ This [[/5. Mechanics/Items/Crystal Ball.md\|crystal ball]] is about 6 inches in 
 While [[/5. Mechanics/Spells/Scrying.md\|scrying]] with the [[/5. Mechanics/Items/Crystal Ball.md\|crystal ball]], you have [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] with a radius of 120 feet centered on the spell's sensor.
 
 *Source: Dungeon Master's Guide p. 159*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

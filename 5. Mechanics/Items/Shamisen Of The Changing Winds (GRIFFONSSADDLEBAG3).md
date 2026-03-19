@@ -14,6 +14,9 @@ attunement-requirement:
   - bard
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shamisen of the Changing Winds
 *Wondrous item, major, rare (requires attunement by a bard)*  
@@ -43,3 +46,7 @@ While set to this tuning, your spell attacks with the shamisen score a critical 
 Alternatively, you can spend at least 1 minute playing the instrument. When you do, the air around you in a 40-foot radius grows still. The atmosphere within that area becomes comfortable and dry (regardless of the weather), and any creature that isn't [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] and can hear the instrument that starts its turn within the area must succeed on a Wisdom saving throw against your bard spell save DC. On a failed save, a creature is indifferent about targets of your choice that it is hostile toward. This indifference ends if the creature is attacked or harmed by a spell or if it witnesses any of its friends being harmed. The effect lasts until you move, stop playing, or lose [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] (as if [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell). When the effect ends, the creature becomes hostile again, unless the GM rules otherwise. A creature is immune to this effect if it can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]]. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Arkanobow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
@@ -51,3 +54,7 @@ You can use an action to deduct 5 or more minutes from the bow's remaining time 
 You can use a bonus action to deduct 2 minutes from the bow's remaining time to make a single ranged weapon attack with it. If you already hit the target with the bow on this turn, you have advantage on the attack roll, and on a hit, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

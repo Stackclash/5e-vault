@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Nexus Mirror
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), cursed item, major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ In addition, while you're attuned to the shield, a creature can use it as a tuni
 This item is cursed, and attuning to it extends that curse to you. This curse doesn't prevent you from ending your attunement to the shield, but you remain cursed by it until you're targeted by a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic. While cursed, you age `dice:1d10|noform|noparens|avg` (`1d10`) years each time the shield is used as a tuning fork as part of the [[/5. Mechanics/Spells/Plane Shift.md\|plane shift]] spell. You are only made aware of this curse when you are magically aged by it for the first time.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

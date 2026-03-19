@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Headdress of the Serpent King
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  
@@ -28,3 +31,7 @@ While wearing the headdress, ordinary snakes and snakes with a challenge rating 
 This headdress is cursed, and becoming attuned to it extends that curse to you until you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell. Removing the headdress fails to end the curse on you. While cursed, your speech is slightly changed: you hiss when pronouncing "s" sounds.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

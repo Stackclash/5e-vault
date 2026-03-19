@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hunter Shark Cutlass
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ The blade of this sword is carved from the tooth of a giant shark. You gain a +2
 In addition, while the sword is on your person, you gain a swimming speed equal to your walking speed and can breathe underwater. Further, sharks are indifferent toward you and will not attack you unless you threaten or harm them.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

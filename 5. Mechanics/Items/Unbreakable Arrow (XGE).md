@@ -15,6 +15,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Unbreakable Arrow
 *Ammunition, minor, common*  
@@ -24,3 +27,7 @@ subtype:
 This arrow can't be broken, except when it is within an [[/5. Mechanics/Spells/Antimagic Field.md\|antimagic field]].
 
 *Source: Xanathar's Guide to Everything p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

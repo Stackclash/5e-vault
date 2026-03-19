@@ -17,6 +17,9 @@ rarity: very-rare
 type: weapon
 subtype:
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # High Templar's Glaive
 *Melee weapon, very rare (requires attunement)*  
@@ -33,3 +36,7 @@ Whenever you score a critical hit, roll a `dice:d6|noform|noparens|avg` (`d6`) o
 The glaive has a large brass blade on the end of a teak shaft with elemental runes carved into it. The runes glow faintly in the presence of an extraplanar being.
 
 *Source: Strongholds and Followers p. 261*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

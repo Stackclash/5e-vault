@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tengu Fan
 *Wondrous item, major, rare*  
@@ -28,3 +31,7 @@ When used to cast the [[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] spe
 The fan can also be used as a magic sickle with a +1 bonus to attack and damage rolls made with it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

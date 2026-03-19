@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Windrazor
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
@@ -44,3 +47,7 @@ This weapon can manipulate the air around it to generate blades of wind, deliver
 When you hold the sword and take damage from a creature within 5 feet of you, you can use your reaction to expend 1 charge and make a melee attack with the sword against that creature. Additionally, if a creature hits you with a ranged weapon attack, you can use your reaction to expend 1 charge and slash at the projectile, reducing the damage you take by `dice:1d10+5|noform|noparens|avg` (`1d10 + 5`). If you reduce the damage to 0, you destroy the projectile.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

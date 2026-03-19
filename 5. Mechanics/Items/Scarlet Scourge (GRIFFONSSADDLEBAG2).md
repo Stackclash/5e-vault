@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Scarlet Scourge
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ The whip siphons blood from creatures that it hits. Whenever you hit a Small or 
 For every 5 charges the whip has, the muscle fibers that hold it together loosen and add 5 feet to the weapon's reach.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 154*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

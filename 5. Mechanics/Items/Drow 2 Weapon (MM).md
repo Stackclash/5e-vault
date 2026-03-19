@@ -73,6 +73,9 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Drow +2 Weapon
 
@@ -80,3 +83,7 @@ subtype:
 You have a +2 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
 
 *Source: Monster Manual p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

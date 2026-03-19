@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Weapon of Mooring
 *Major, rare (requires attunement)*  
@@ -31,3 +34,7 @@ subtype:
 This weapon is made of a dense iron and has the heavy property. You gain a +1 bonus to attack and damage rolls made with this magic weapon. Whenever you hit a Large or smaller creature with this weapon, that creature's speed is reduced by 5 feet until the end of its next turn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

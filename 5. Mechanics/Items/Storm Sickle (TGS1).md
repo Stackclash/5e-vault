@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Storm Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare*  
@@ -34,3 +37,7 @@ subtype:
 This sickle sparks with electricity as beads of water form and drip from its blade. The weapon can make ranged attacks by slashing through the air to send out blades of storming wind. Ranged attacks with the sickle deal `dice:1d4|noform|noparens|avg` (`1d4`) slashing damage, use Strength as your modifier for its attack and damage rolls, and have a normal range of 20 feet and a long range of 60 feet. When you hit with an attack using this magic sickle, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) lightning damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

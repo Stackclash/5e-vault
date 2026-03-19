@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Club of the Rook
 *Weapon ([[/5. Mechanics/Items/Club.md\|club]]), major, uncommon*  
@@ -34,3 +37,7 @@ This club is a magic weapon and has a weighty stone tower at its end. While hold
 The club's property can't be used again until the next dawn. In the meantime, the club can still be used as a magic weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 63*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

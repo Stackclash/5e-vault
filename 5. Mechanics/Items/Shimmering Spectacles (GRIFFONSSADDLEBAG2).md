@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shimmering Spectacles
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 While wearing these glasses, you can use a bonus action to cause them to briefly shine. When you do, the glasses cast bright light in a 5-foot radius and obscure your eyes until the end of your turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 160*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

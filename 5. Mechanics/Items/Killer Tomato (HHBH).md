@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Killer Tomato
 *Herb, common*  
@@ -30,3 +33,7 @@ A herb with a hyperbolic name, the killer tomato is not actually dangerous—not
 If a creature fails a Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check within 30 feet of this herb, it automatically flies directly at them and automatically splatters onto them, destroying this herb. This effect also triggers if the herb is on your person and you succeed on a saving throw to resist the effects of a [[/5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]], [[/5. Mechanics/Spells/Ottos Irresistible Dance.md\|Otto's irresistible dance]], [[/5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]], or [[/5. Mechanics/Spells/Danse Macabre (XGE).md\|danse macabre]] spell, or similar magic based on jokes, music, or performances, with the herb flying at the creature that cast the spell.
 
 *Source: Hamund's Herbalism Handbook p. 20*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

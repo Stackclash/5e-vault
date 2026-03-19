@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadowscale Shroud
 *Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, legendary (requires attunement)*  
@@ -39,3 +42,7 @@ While in an area of dim light or darkness, you can use an action to turn [[/5. M
 Once this property of the armor has been used, it shouldn't be used again until the next dusk. Each time it is used again before then, you must expend either 6 Hit Dice, rolling each one and taking force damage equal to the total rolled, or suffer one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] (your choice). Force damage taken in this way ignores resistance and immunity.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 158*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

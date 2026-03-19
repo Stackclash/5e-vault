@@ -9,6 +9,9 @@ aliases:
   - Fiend Fuel
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fiend Fuel
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This vial is filled with a concentrated extract of a spine devil's blood and is 
 A creature can end these effects by using its action to make a DC 11 Dexterity check to remove the oil and flames.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 127*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

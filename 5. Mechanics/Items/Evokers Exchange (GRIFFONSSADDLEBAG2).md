@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Evoker's Exchange
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ While wearing this amulet, you can choose to convert the damage from one form of
 If a spell that deals fire damage would normally ignite flammable objects that aren't being worn or carried, it does not if it's converted to lightning damage in this way. However, a spell that deals lightning damage does ignite such objects if it's converted to deal fire damage instead.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 78*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

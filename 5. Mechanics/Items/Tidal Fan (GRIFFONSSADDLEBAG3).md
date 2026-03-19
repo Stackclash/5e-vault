@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tidal Fan
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ You can use an action to bat the wet fan downwards, hard, to cause the water to 
 You can use an action to bat the dry fan down to create a blast of wind from it in a line that's 10 feet wide and 30 feet long. Each creature within the line must succeed on a DC 13 Strength saving throw or be pushed up to 5 feet away from you. Each time you use this property of the fan, there is a cumulative and permanent 10 percent chance that the fan tears apart into nonmagical tatters.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Explorer's Helm
 *Wondrous item, minor, uncommon (requires attunement)*  
@@ -21,3 +24,7 @@ tier: minor
 While wearing this helmet, you're considered proficient with [[/5. Mechanics/Items/Cartographers Tools.md\|cartographer's tools]]. You also have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks, and you always know which way is north if you're outside. In addition, if you've been traveling at a consistent pace for at least 1 hour, nonmagical difficult terrain doesn't slow your travel while you continue at that pace.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

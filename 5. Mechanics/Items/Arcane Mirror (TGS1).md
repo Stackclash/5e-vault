@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Arcane Mirror
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
@@ -28,3 +31,7 @@ This mirror-like shield is enchanted with abjuration magic that can reflect spel
 The shield has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges each day at dawn. When you succeed on a saving throw to resist the effects of a spell that targets only you or are missed by a spell attack, you can use your reaction to learn the level of the spell. As part of your reaction, you can expend a number of the shield's charges equal to the level of the spell (up to 6th level) to reflect that spell back at its source. You can't reflect a spell of 7th level or higher. When you reflect a spell in this way, the caster of the spell must make a DC 16 Dexterity saving throw. On a failed save, the target takes `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage for each expended charge as a bolt of reflected arcane energy hits them. On a successful save, the damage is halved. If you reflect a spell in this way that would cause you to take half damage on a successful save, you take no damage instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

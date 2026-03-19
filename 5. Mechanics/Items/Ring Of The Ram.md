@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Ring of the Ram
 *Ring, major, rare (requires attunement)*  
@@ -27,3 +30,7 @@ This ring has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) e
 Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
 
 *Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

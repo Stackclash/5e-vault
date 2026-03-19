@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candleflame Claymore
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare*  
@@ -34,3 +37,7 @@ This weighty blade has an iron candelabra as its hilt. You gain a +1 bonus to at
 You can use an action to place up to two candles in the candelabra hilt, adding one to each of its twin candle holders. Candles placed and lit in the hilt can burn for up to 8 hours, instead of 1, and shed bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

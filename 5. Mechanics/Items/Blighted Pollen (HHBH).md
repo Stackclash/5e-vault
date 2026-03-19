@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blighted Pollen
 *Herb, rare*  
@@ -42,3 +45,7 @@ This herb has `dice:1d4|noform|noparens|avg` (`1d4`) charges. As an action, you 
 ^effect
 
 *Source: Hamund's Herbalism Handbook p. 7*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Glove of the Aegis
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ This glove holds 5 charges and regains `dice:1d3+2|noform|noparens|avg` (`1d3 + 
 The glove's power cannot be used if you are already wielding a shield.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 72*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

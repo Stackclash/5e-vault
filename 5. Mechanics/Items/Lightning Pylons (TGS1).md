@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightning Pylons
 *Rod, major, rare*  
@@ -32,3 +35,7 @@ When the wall appears, each creature within its area must make a DC 15 Dexterity
 Each magic pylon has AC 15 and 20 hit points. A creature that touches an electrified pylon or hits it with a metal melee weapon takes `dice:1d8|noform|noparens|avg` (`1d8`) lightning damage for each pylon connected to it, including itself. When a pylon is reduced to 0 hit points, it falls over and loses its electrical charge, ending any connection it has to other pylons. A pylon reduced to 0 hit points can't be used again until 2 days have passed, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 84*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

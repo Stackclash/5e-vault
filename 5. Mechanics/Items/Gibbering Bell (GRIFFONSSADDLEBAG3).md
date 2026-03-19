@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gibbering Bell
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ While holding the bell, you can use an action to speak its command word and vigo
 If you fail the saving throw against the bell's gibbering effect, you treat a roll of 5 or 6 on the `dice:d8|noform|noparens|avg` (`d8`) as if it were a 1 to 4, and if you roll a 7 or 8, you ignore the effect and can immediately make a single weapon attack with the bell against a creature of your choice within your reach.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

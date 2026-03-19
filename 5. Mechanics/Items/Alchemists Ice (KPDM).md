@@ -10,6 +10,9 @@ aliases:
 cost: 5000
 attunement: false
 rarity: none
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alchemist's Ice
 
@@ -20,3 +23,7 @@ This blue-white flask is cool to the touch because it contains a volatile liquid
 Alchemist's ice was invented by alkemancers in the tropics as a way of keeping their food and drinks cold, and many restaurants and taverns still use it for this purpose. A vial of alchemist's ice costs 50 gp.
 
 *Source: Deep Magic p. 172*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

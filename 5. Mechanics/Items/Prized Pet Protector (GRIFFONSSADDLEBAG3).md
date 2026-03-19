@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: varies
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Prized Pet Protector
 *Wondrous item, minor*  
@@ -24,3 +27,7 @@ The following prized pet protector is a rare variant with additional properties.
 If the beast wearing the bandana is a transformed humanoid or other creature, such as by the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell or similar magic, the bandana has no effect on it. The bandana can be worn over a collar.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

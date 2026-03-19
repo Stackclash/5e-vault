@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Quaal's Feather Token, Whip
 *Wondrous item, minor, rare*  
@@ -25,3 +28,7 @@ You can use an action to throw the token to a point within 10 feet of you. The t
 As a bonus action on your turn, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of it. The whip disappears after 1 hour, when you use an action to dismiss it, or when you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or die.
 
 *Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Feather Token, Whip")*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

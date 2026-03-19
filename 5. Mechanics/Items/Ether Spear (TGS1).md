@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ether Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  
@@ -40,3 +43,7 @@ This spear can slip through the Ethereal Plane to reach its destination. You gai
 You can use a bonus action to see 60 feet into the Ethereal Plane for 1 minute. Once this property of the spear has been used, it can't be used again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 59*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

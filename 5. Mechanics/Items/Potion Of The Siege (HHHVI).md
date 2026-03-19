@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of the Siege
 *Potion, rare*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you gain the "enlarge" effect of the [[/5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]] spell. In addition, you gain a Strength score of 25 if it was lower than that before, and all of your attacks deal double damage to objects and structures. This potion seems to throb with a dull energy every few seconds, and glass containers holding it seem to crack slightly.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

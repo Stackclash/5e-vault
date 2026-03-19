@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fanfare Blowgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon (requires attunement by a bard)*  
@@ -39,3 +42,7 @@ This weapon appears like a normal fanfare trumpet with a royal flag hanging from
 When you make a ranged weapon attack using this trumpet, it emits a powerful blast of sonic force however, only the target of the attack can hear it. Hit or miss, the target must make a DC 13 Constitution saving throw. On a failed save, it takes `dice:1d6|noform|noparens|avg` (`1d6`) thunder damage, or `dice:2d6|noform|noparens|avg` (`2d6`) thunder damage if it was hit by the blowgun dart. If you're attuned to the weapon, this property uses your bard spell save DC instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

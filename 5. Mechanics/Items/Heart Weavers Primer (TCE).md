@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Heart Weaver's Primer
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
@@ -33,3 +36,7 @@ The book has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 - When you cast an enchantment spell, you can expend 1 charge to impose disadvantage on the first saving throw one target makes against the spell.  
 
 *Source: Tasha's Cauldron of Everything p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -16,6 +16,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Wand of the Undergrowth
 *Wand, very rare (requires attunement by a spellcaster)*  
@@ -29,3 +32,7 @@ The wand regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily a
 Additionally, you may use an action to plant the wand into soft soil. If you do so, the wand drains the energy of all living beings around it. All creatures and plants within a 30-foot radius of the wand are subjected to a DC 15 [[/5. Mechanics/Spells/Blight.md\|blight]] spell (cast at 4th-level). If the total damage dealt to all targets exceeds 65, the wand transforms into a [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mound]] with the same amount of HP that was just dealt, up to a maximum of 136. This [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mound]] has no allegiance to any creature around it and will act in its own interest. If the wand did not deal more than 65 damage, the wand simply crumbles into compost and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

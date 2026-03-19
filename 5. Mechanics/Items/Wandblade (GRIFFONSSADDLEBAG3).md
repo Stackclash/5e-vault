@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wandblade
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
@@ -34,3 +37,7 @@ subtype:
 You gain a +1 bonus to attack and damage rolls using this magic dagger. Its hollow blade is made of magical glass, and its handle can be unscrewed to reveal a space for a single wand. It takes an action to remove a wand from the dagger or to insert one into it. While a wand is inside the dagger, you can use the weapon as either a dagger or wand while holding it. When you use an action for any of the wand's properties or to cast a spell from it, you can immediately use a bonus action to make a single weapon attack using the dagger.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

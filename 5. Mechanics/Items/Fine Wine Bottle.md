@@ -14,6 +14,9 @@ rarity: none
 type: gear
 subtype:
   - food-and-drink
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fine Wine (bottle)
 *Food and drink*  
@@ -21,3 +24,7 @@ subtype:
 - **Cost**: 10 gp
 
 *Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

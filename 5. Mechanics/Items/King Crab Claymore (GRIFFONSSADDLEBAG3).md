@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # King Crab Claymore
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon. Whil
 The sword emits a brief, fiery glow when you roll initiative. Until the end of your first turn of combat, attacks with the sword score a critical hit on a roll of 18, 19, or 20. When you score a critical hit with the sword for the first time on a turn, the target of the attack is also assaulted with crab-like claws made of fire. That target must make a DC 15 Dexterity saving throw, taking `dice:2d6|noform|noparens|avg` (`2d6`) fire damage on a failed save, or half as much damage on a successful one. On a failed saving throw, the target is magically [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] (escape DC 15) by the flaming pincers for 1 minute or until it successfully escapes using an action. Until the grapple ends, that target takes `dice:1d6|noform|noparens|avg` (`1d6`) fire damage at the end of each of its turns.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Axe of Hurricanes
 *Major, uncommon*  
@@ -34,3 +37,7 @@ You can use an action to create a powerful whirlwind around you by swinging this
 Once this property of the axe has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

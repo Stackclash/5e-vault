@@ -14,6 +14,9 @@ rarity: common
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Illuminator's Tattoo
 *Wondrous item (tattoo), common (requires attunement)*  
@@ -34,3 +37,7 @@ While this tattoo is on your skin, you can write with your fingertip as if it we
 As an action, you can touch a piece of writing up to one page in length and speak a creature's name. The writing becomes [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Mister Bottle
 attunement: false
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Mister Bottle
 *Wondrous item, legendary*  
@@ -50,3 +53,7 @@ Mister Bottle used to be a renowned alchemist whose experiments (and misadventur
 If you use an action to pour a magical potion into Mister Bottle's mouth, the potion disappears, but it can be made again using the bottle's Create Potion property. The GM decides the potion's success threshold.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

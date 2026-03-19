@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eversmoking Bottle
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 p
 The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round.
 
 *Source: Dungeon Master's Guide p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

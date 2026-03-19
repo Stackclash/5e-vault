@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Resistance
 *Ring, major, rare (requires attunement)*  
@@ -54,3 +57,7 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 - [[/5. Mechanics/Items/Ring Of Thunder Resistance.md\|Ring of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide p. 192*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

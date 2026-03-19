@@ -10,6 +10,9 @@ aliases:
   - Wizards' Cards
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Wizards' Cards
 *Wondrous item, uncommon (requires attunement)*  
@@ -29,3 +32,7 @@ Your current drawn cards are lost if you release the magic stored within them, i
 When found, the deck has `dice:2d20+10|noform|noparens|avg` (`2d20 + 10`) random cards in it. It regains `dice:1d10|noform|noparens|avg` (`1d10`) used cards at random daily at dawn, up to a maximum of 52 cards. If you draw the deck's last card, there's a 50 percent chance that the deck is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

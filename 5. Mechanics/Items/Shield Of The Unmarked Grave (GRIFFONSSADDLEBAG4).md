@@ -13,6 +13,9 @@ armorClass: 2
 weight: 6
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 5
+item_recharge: long-rest
 ---
 # Shield of the Unmarked Grave
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), cursed item, legendary (requires attunement)*  
@@ -56,3 +59,7 @@ As long as you remain cursed, the spirits within the shield can reach you throug
 ^effect
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

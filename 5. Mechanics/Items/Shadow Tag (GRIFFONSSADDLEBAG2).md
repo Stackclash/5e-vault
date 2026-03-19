@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Tag
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ While you're within 1000 feet of the tagged creature's shadow, small points of l
 If the tagged creature doesn't have a shadow, such as if it becomes [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], the dark coin's eyes disappear until the creature's shadow reappears. The dark coin remains for 24 hours or until you destroy it. If the dark coin lasts for its full duration, there is a 50 percent chance that the normal coin reappears and replaces it. If the coin doesn't reappear at the end of the duration, it's destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 158*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

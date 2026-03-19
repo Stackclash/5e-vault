@@ -10,6 +10,9 @@ aliases:
   - Amulet of the Spirit Hunter
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Spirit Hunter
 *Wondrous item, very rare (requires attunement)*  
@@ -26,3 +29,7 @@ While wearing this amulet, you may use your action to speak the amulet's command
 Once this ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

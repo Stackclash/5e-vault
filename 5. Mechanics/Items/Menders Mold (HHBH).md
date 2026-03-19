@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mender's Mold
 *Herb, common*  
@@ -30,3 +33,7 @@ A truly useful herb coveted by resource-deprived cave dwelling societies. This m
 This herb contains enough mold to cover `dice:1d6|noform|noparens|avg` (`1d6`) square feet. If you use this herb to cover a broken hole or seam in an object, the herb will magically adhere to the edges of the broken area and then permanently transform itself over the course of the next hour into the same materials as that on the edges it is touching. For example, if placed over a hole in a broken wooden floor, the mold will transform itself into wood. The mold retains its black colouration after the transformation and acts as a homogenous piece of material.
 
 *Source: Hamund's Herbalism Handbook p. 23*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

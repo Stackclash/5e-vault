@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Trenchroller Armor
 *Major, very rare (requires attunement)*  
@@ -27,3 +30,7 @@ This heavy, rounded armor is marked by a glowing crystal at its center. While we
 You can remain in this form for up to 1 hour, until you drop to 0 hit points, or until you use a bonus action to return to your normal form. Deduct a minimum of 1 minute from the armor's total transformation time each time you transform, even if you aren't transformed for the full minute. The armor regains all of its expended transformation time daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

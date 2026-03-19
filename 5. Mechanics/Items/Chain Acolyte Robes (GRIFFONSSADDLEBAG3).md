@@ -21,6 +21,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Chain Acolyte Robes
 *Heavy armor ([[/5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, rare (requires attunement by a spellcaster)*  
@@ -41,3 +44,7 @@ While wearing the armor, you can use an action to cast either the hold monster o
 If you are also attuned to a [[/5. Mechanics/Items/Wand Of Binding.md\|wand of binding]], it regains all expended charges daily at dawn. In addition, whenever you use the wand to cast [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] or [[/5. Mechanics/Spells/Hold Person.md\|hold person]], you can choose to have it cast the armor's version of the spell instead. You still use the wand's save DC when casting the spell in this way.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

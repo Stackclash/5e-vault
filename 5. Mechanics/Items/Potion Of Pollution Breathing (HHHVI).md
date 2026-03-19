@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Pollution Breathing
 *Potion, rare*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you become able to breathe in even the most polluted areas. You automatically succeed any Constitution saving throw provoked by breathing in a polluted, [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], or diseased air.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Fulminating Treatise
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
@@ -34,3 +37,7 @@ The book has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 - When one creature you can see takes damage from an evocation spell you cast, you can use your reaction and expend 1 charge to deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) force damage to the creature and knock the creature [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] if it is Large or smaller.  
 
 *Source: Tasha's Cauldron of Everything p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

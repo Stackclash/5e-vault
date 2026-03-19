@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Moonswaddled Armor
 *Major, rare*  
@@ -24,3 +27,7 @@ subtype:
 This comfortable set of armor grants additional protection and respite when worn at night. You gain a +1 bonus to AC while wearing this armor between dusk and dawn, and when you would normally roll 1 or more Hit Dice to restore hit points when taking a short rest after dusk, you instead use the highest number possible for each Hit Die spent.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 90*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

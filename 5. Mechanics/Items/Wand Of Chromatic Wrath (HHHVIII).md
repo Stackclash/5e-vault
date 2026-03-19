@@ -16,6 +16,9 @@ rarity: legendary
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Wand of Chromatic Wrath
 *Wand, legendary (requires attunement by a spellcaster)*  
@@ -27,3 +30,7 @@ This wand has 10 charges. While holding it, whenever you [[/5. Mechanics/Rules/A
 The wand recovers all expended charges at dawn. If you use the last charge on this wand, there is a 10 percent chance that it crumbles into dust and becomes useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

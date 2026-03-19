@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Forecaster's Cloak
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This warm, fur-lined cloak creates illusory representations of the impending weather. While wearing this cloak, you can use an action to open it and speak its command word to create a harmless, sensory effect within the cloak that represents what the weather will be at your location for the next 8 hours. This effect persists for 1 minute or until you close the cloak.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 84*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ attunement-requirement:
   - cleric
   - paladin
 rarity: rare
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Amulet of Ideals
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  
@@ -24,3 +27,7 @@ This hollow silver locket depicts a pair of heavy temple doors. Pressing the but
 The amulet has 5 charges. It regains all expended charges daily at dawn. While wearing the amulet, whenever you cast a spell from your domain or oath spell list, you can expend 1 or more of the amulet's charges to reduce the spell slot level required to cast it by 1 for each charge spent; a spell reduced below 1st level in this way doesn't require you to expend a spell slot. This property can't be used to cast a spell of a level for which you don't have spell slots, nor can it be used to cast a spell of 6th level or higher.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

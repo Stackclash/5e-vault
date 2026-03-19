@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dagger of the Ogre Mage
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, uncommon (requires attunement)*  
@@ -42,3 +45,7 @@ When you cast a cantrip using the sword that deals damage, the sword's damage ty
 ^cantrips-from-magic-items
 
 *Source: The Griffon's Saddlebag, Book 1 p. 51*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Festerwood Logger
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  
@@ -34,3 +37,7 @@ subtype:
 This magic axe is a favorite among lumberjacks. The axe is made entirely of the magically hardened festerwood and sharpened to a menacing edge. The weapon's glimmering yellow pustules leech acid with each attack, causing any target hit by it to take an extra `dice:1d4|noform|noparens|avg` (`1d4`) acid damage. This acid damage is maximized if the target is a plant creature, a nonmagical plant, or an object made of wood.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 63*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heaven's Chance
 *Herb, rare*  
@@ -30,3 +33,7 @@ An unquestionably magical herb found only on remote mountainsides, untouched by 
 Whenever you roll the maximum value on a damage dice, you may reroll that dice and add the new result to your total damage dealt, repeating this process if you roll the maximum value again. There is no limit to the number of times you may do this on a single instance of damage.
 
 *Source: Hamund's Herbalism Handbook p. 18*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

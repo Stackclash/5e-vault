@@ -16,21 +16,21 @@ alignment: Chaotic Good
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
-location: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]"
-pronounced:
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+location: '[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]'
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 > [!infobox]
 > # `=this.file.name`

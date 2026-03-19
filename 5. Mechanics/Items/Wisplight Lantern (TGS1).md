@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: none
 ---
 # Wisplight Lantern
 *Wondrous item, major, rare*  
@@ -24,3 +27,7 @@ The lantern has 4 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1
 Alternatively, while holding the lantern, you can use an action to expend 1 of its charges to speak its command word. If there are any undead creatures within 60 feet of you that aren't behind total cover, the lantern's light flashes red before returning to its normal blue glow.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

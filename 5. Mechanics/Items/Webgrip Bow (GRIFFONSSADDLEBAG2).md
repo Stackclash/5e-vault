@@ -23,6 +23,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Webgrip Bow
 *Major, rare (requires attunement)*  
@@ -36,3 +39,7 @@ This 8-armed bow uses the remains of a spindly spider's legs and maw. The bow ha
 While holding the weapon, you can use an action to speak its command word to summon 2 [[/5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarms of insects]] (spiders) or 1 [[/5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spider]], which appear in unoccupied spaces that you can see within 10 feet of you. The GM has the creatures' statistics. The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. A summoned creature disappears when it drops to 0 hit points, after 1 hour, or when you end the effect early as a bonus action. Once this property of the bow has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 188*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

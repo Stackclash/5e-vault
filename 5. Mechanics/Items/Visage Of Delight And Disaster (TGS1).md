@@ -15,6 +15,9 @@ attunement-requirement:
   - higher
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Visage of Delight and Disaster
 *Wondrous item, major, legendary (requires attunement by a creature with a Charisma score of 17 or higher)*  
@@ -34,3 +37,7 @@ If you inspire a creature with a grim or haunting performance, that creature has
 The expression of the mask subtly changes to reflect your expression or mouth's movement behind the mask. You regain all expended Bardic Inspiration dice when you finish a short or long rest.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

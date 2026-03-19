@@ -12,6 +12,9 @@ attunement: true
 attunement-requirement:
   - tiefling
 rarity: very-rare
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Cloak of Hellish Legacies
 *Wondrous item, very rare (requires attunement by a tiefling)*  
@@ -38,3 +41,7 @@ The cloak has 3 charges and regains all expended charges daily at dawn. You can 
 Whenever you change the cloak's color, you can also choose to change the color of your skin to match the chosen layer. This change lasts until you change the cloak's color again, until you're no longer wearing the cloak, or until you end it early (no action required), at which point you return to your normal color.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

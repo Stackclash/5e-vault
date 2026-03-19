@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Basilisk Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
@@ -36,3 +39,7 @@ This magic dagger was made from pieces of a slain basilisk and still retains som
 In addition, when you score a critical hit with this weapon against a Large or smaller creature, that creature must succeed on a DC 13 Constitution saving throw or be restrained until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

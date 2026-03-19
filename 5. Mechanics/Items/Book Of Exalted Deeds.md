@@ -13,6 +13,9 @@ attunement: true
 attunement-requirement:
   - creature of good alignment
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement by a creature of good alignment)*  
@@ -52,3 +55,7 @@ Once you've read and studied the book, you gain a protective halo. This halo she
 It is rumored that the Book of Exalted Deeds can't be destroyed as long as good exists in the multiverse. However, drowning the book in the River Styx removes all writing and imagery from its pages and renders the book powerless for `dice:1d100|noform|noparens|avg` (`1d100`) years.
 
 *Source: Dungeon Master's Guide p. 222*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

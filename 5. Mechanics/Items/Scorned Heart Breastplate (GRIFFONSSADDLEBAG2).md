@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scorned Heart Breastplate
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), cursed item, major, rare (requires attunement)*  
@@ -34,3 +37,7 @@ This brass breastplate is torn apart in its center by a crimson gemstone. You ga
 This armor is cursed. Attuning to the armor curses you until you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic; removing the armor fails to end the curse. While cursed, you have disadvantage on saving throws to resist becoming charmed, and you have disadvantage on Charisma checks to interact with any creature you find attractive.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 155*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

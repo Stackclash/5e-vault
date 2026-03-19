@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of the Jester
 *Scroll, minor, rare*  
@@ -33,3 +36,7 @@ The jesters remain as long as you concentrate (as if concentrating on a spell), 
 When the last jester disappears, any effects or spells created by the scroll or its jesters end.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 156*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

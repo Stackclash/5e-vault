@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: long-rest
 ---
 # Staff of the Eclipse
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
@@ -59,3 +62,7 @@ When you cast wall of fire from the staff, you can choose to cause it to embody 
 You can use a bonus action while holding the staff to expend 1 charge from it to target a 15-foot cube you can see within 60 feet of you. Any nonmagical flames within the cube are extinguished, and any spell of 2nd level or lower creating an area of light that overlaps with the cube is dispelled. As long as you extinguish or dispel at least one source of light, you then gain `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) temporary hit points.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

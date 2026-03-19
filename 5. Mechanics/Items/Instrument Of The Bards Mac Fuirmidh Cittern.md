@@ -19,6 +19,9 @@ tier: major
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Instrument of the Bards, Mac-Fuirmidh Cittern
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  
@@ -37,3 +40,7 @@ All instruments of the bards can be used to cast the following spells: [[/5. Mec
 In addition, the Mac-Fuirmidh cittern can be used to cast [[/5. Mechanics/Spells/Barkskin.md\|barkskin]], [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], and [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]].
 
 *Source: Dungeon Master's Guide p. 176*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

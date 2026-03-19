@@ -19,6 +19,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Fire Wand of the Unbroken Circle
 *Wand, major, rare (requires attunement by a druid)*  
@@ -33,3 +36,7 @@ Whenever you would fail a Constitution saving throw to maintain concentration on
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 65*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

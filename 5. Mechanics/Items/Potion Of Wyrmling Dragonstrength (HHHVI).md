@@ -13,6 +13,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Wyrmling Dragonstrength
 *Potion, uncommon*  
@@ -25,3 +28,7 @@ When you drink this potion, you recover `dice:3d4+3|noform|noparens|avg` (`3d4 +
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

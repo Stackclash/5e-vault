@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Plate of the Pursuer
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
@@ -31,3 +34,7 @@ subtype:
 While wearing this armor, you gain a +2 bonus to AC, and you may not be teleported or sent to another plane of existence against your will; any attempt to do so automatically fails.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

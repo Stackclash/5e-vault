@@ -14,6 +14,9 @@ attunement-requirement:
   - creature of good alignment
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Gorget of the Holy Soldier
 *Wondrous item, major, legendary (requires attunement by a creature of good alignment)*  
@@ -71,3 +74,7 @@ If you have 10 or more levels in the warlock class, you know if you hear a lie. 
 If you have 10 or more levels in the wizard class, your AC becomes 13 + your Dexterity or Intelligence modifier (your choice). In addition, you have advantage on saving throws against spells and other magical effects.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 92*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

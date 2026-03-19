@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Shifter's Shine
 *Potion, minor*  
@@ -27,3 +30,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Shifters Shine Uncommon (GRIFFONSSADDLEBAG2).md\|Shifter's Shine (Uncommon)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 160*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

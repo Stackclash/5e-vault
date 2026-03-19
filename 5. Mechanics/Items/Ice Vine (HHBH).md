@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ice Vine
 *Herb, common*  
@@ -30,3 +33,7 @@ It is rare to find vines in the arctic, as the arid environment doesn't lend its
 This 10-foot length of vine remains icy-cold regardless of the environmental temperature.
 
 *Source: Hamund's Herbalism Handbook p. 19*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

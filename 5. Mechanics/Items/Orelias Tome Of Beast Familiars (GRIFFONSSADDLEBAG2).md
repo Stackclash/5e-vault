@@ -14,6 +14,9 @@ attunement-requirement:
   - wizard
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Orelia's Tome of Beast Familiars
 *Wondrous item, major, rare (requires attunement by a wizard)*  
@@ -36,3 +39,7 @@ When you cast this spell using a spell slot of 2nd level or higher, your familia
 In addition, when you cast this spell using a spell slot of 2nd level or higher, it requires an extra 10 gp worth of material components for each slot level above 1st. If your attunement to the book ends, any familiar you have disappears, leaving behind no physical form.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

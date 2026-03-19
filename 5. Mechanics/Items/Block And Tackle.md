@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Block and Tackle
 *Adventuring gear*  
@@ -25,3 +28,7 @@ subtype:
 A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

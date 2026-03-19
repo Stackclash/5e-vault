@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Heartcleaver
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), cursed item, artifact (requires attunement)*  
@@ -68,3 +71,7 @@ As the weapon of a Demon Lord, Heartcleaver bares a lingering curse for any mort
 The only way to destroy Heartcleaver is to build a labyrinth around it that measures no less than 10 miles in diameter. If Heartcleaver is left completely untouched and unattuned for 100 years at the centre of this labyrinth, it corrodes into a useless hunk of rust and loses all power. Be warned though, that such labyrinths will naturally attract the attention of monsters such as [[/5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]], as well as mortals seeking the hidden treasure inside. If Heartcleaver is disturbed during the 100 years, it must be moved, a new labyrinth built around it, and the process must begin again.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 25*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

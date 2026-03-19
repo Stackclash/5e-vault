@@ -10,6 +10,9 @@ aliases:
   - Crown of Celestial Might
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 9
+item_recharge: none
 ---
 # Crown of Celestial Might
 *Wondrous item, legendary (requires attunement)*  
@@ -26,3 +29,7 @@ This crown either gleams white if it was crafted from a good-aligned empyrean or
 Additionally, if you fail a saving throw while wearing this crown, you may spend your reaction and 3 charges to succeed on that saving throw instead.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

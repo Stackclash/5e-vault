@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glaive of the Forest Guardian
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  
@@ -43,3 +46,7 @@ Whenever you make an Intelligence or Wisdom check related to the forest you're i
 If you're a ranger, your climbing, swimming, and walking speeds also increase by 5 feet.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stuffy Familiar
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This small stuffed animal is soft to the touch and perfect for hugging. If you c
 While the familiar remains motionless, it is indistinguishable from a normal stuffed animal. If you temporarily dismiss the familiar, the stuffed animal and familiar disappear into a pocket dimension together. If the familiar is dismissed forever or drops to 0 hit points, it leaves the stuffed animal behind.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 173*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

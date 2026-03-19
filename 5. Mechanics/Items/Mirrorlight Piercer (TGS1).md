@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mirrorlight Piercer
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  
@@ -42,3 +45,7 @@ If you make a ranged attack with the projection, it disappears after it hits or 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon and its projection. The spear can only have 1 projection active at a time. While it has a projection, both the spear and projection cast bright light in a 10-foot radius and dim light for an additional 10 feet. If you don't have an open hand when the spear creates a projection, the projection is dismissed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 88*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

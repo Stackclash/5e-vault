@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Mind Shielding
 *Ring, major, uncommon (requires attunement)*  
@@ -29,3 +32,7 @@ You can use an action to cause the ring to become [[/5. Mechanics/Rules/Conditio
 If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication.
 
 *Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

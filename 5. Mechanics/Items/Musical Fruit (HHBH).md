@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Musical Fruit
 *Herb, common*  
@@ -30,3 +33,7 @@ Despite its name, this herb is actually a bean. It has long been favoured by bar
 You may eat this herb as an action. For the next hour, you have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) ability checks made to sing or play musical instruments.
 
 *Source: Hamund's Herbalism Handbook p. 24*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

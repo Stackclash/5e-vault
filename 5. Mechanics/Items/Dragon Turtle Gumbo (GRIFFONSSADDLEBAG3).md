@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Turtle Gumbo
 *Wondrous item, minor, rare*  
@@ -22,3 +25,7 @@ This spicy dish is made with dragon turtle meat and an assortment of flavorful h
 For the same duration, you can use an action to summon forth the heat and power of a dragon turtle, exhaling a scalding wave of steam and spice in a 30-foot cone. Each creature in the area must make a DC 15 Constitution saving throw, taking `dice:4d6|noform|noparens|avg` (`4d6`) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage. Once you exhale in this way three times, you can't do so again for the rest of the duration.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fish Ripper
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
@@ -36,3 +39,7 @@ The blade of this hooked dagger is designed in the likeness of a fish head, and 
 When you roll a 20 on an attack roll made with this weapon against an underwater creature, a swarm of quippers magically appears in the target's space. The swarm takes its turn immediately after yours. On its turn, the swarm only attacks the target creature; it gains a +3 bonus to its attack and damage rolls. The quippers remain for 1 minute, until another swarm of quippers appear in this way, or until the target is slain, at which point they disperse and vanish.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

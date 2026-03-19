@@ -20,6 +20,9 @@ tier: major
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Grasping Staff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, major, very rare*  
@@ -38,3 +41,7 @@ The staff has 10 charges. While holding it, you can use an action to expend 1 or
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff turns to ash and summons `dice:2d6|noform|noparens|avg` (`2d6`) hostile tiny undead [[/5. Mechanics/Bestiary/Undead/Crawling Claw.md\|crawling hands]] within 10 feet of you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 93*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

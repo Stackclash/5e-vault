@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pollen Pipe
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This wooden pipe's bowl is carved in the shape of a flower blossom and dipped in a perfumed wax. Smoking the pipe while there isn't anything packed into the bowl creates an aromatic plume of pollen, which lazily drifts from the pipe's bowl. Any flower that's within 10 feet of the pipe blooms and turns toward it while the pipe is being smoked in this way.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

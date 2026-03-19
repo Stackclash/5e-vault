@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vine Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), uncommon*  
@@ -32,3 +35,7 @@ Tightly braided living vines have been rooted to the end of a branch to make thi
 When you hit a Large or smaller target with the whip, you can choose to pull it up to 10 feet towards you, or 20 feet if you're a druid or ranger. Unless you're a druid, this property of the whip can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

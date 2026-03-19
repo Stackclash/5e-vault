@@ -21,6 +21,9 @@ type: armor
 subtype:
   - light
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloudkept Armor
 *Major, very rare (requires attunement)*  
@@ -38,3 +41,7 @@ You can use an action to cast the [[/5. Mechanics/Spells/Gaseous Form.md\|gaseou
 Once cast in this way, the spell can't be cast from the armor again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

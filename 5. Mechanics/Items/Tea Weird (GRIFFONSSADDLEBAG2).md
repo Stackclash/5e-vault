@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tea Weird
 *Wondrous item, minor, common*  
@@ -30,3 +33,7 @@ The tea weird is a sentient chaotic good item with an Intelligence of 3, a Wisdo
 The tea weird is dedicated to making tea. It will happily collect moisture, steep it with fresh ingredients, and then separate itself from the freshly brewed tea by pouring it into a cup or similar vessel. It avoids combat at all costs and enjoys resting in cups, kettles, or the pockets of friendly creatures.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 174*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

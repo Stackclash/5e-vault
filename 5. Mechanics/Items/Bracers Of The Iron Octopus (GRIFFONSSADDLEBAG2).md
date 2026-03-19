@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bracers of the Iron Octopus
 *Wondrous item, major, rare (requires attunement)*  
@@ -27,3 +30,7 @@ This octopus is made of leather and iron, is a construct instead of a beast, and
 If the octopus is reduced to 0 hit points, it dies and reverts to its bracer form. The bracers then shatter and are destroyed. If the octopus reverts to bracer form before losing all its hit points, it regains all of them.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 52*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

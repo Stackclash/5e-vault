@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blizzard Sphere
 *Wondrous item, minor, rare*  
@@ -22,3 +25,7 @@ This glass sphere contains a raging blizzard inside. It's cold to the touch and 
 The blizzard remains for `dice:1d4|noform|noparens|avg` (`1d4`) rounds or until targeted by a [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell (DC 15 or cast at 5th level or higher). Any surface within the area is covered in a slick sheet of ice and sleet, turning the ground within the sphere into difficult terrain that remains for the effect's duration. While the blizzard persists, the area is heavily obscured.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 35*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

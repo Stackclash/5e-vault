@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Angler's Worldly Fisher
 *Wondrous item, minor, uncommon*  
@@ -20,3 +23,7 @@ tier: minor
 This magic fishing rod can be used anywhere on the Material Plane to fish from the world's waters. While holding this fishing rod, you can use an action to speak its command word and cast it at a point you can see within 30 feet of you. When you do, the end of the line vanishes at the point and magically reappears somewhere else in the Material Plane in a random body of water. Despite not being able to see the end of the rod's line, you can still feel it being tugged at by the water's currents. Any fish you catch in this way reappear at the point where you cast the line. You have advantage on ability checks to catch fish while using this fishing rod.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 36*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Couatl Herald's Lash
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement by a creature of good alignment)*  
@@ -43,3 +46,7 @@ Until this grapple or restraint ends, you can't use the whip against a different
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 48*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

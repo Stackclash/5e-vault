@@ -25,6 +25,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Magmarath Molten Blaster
 *Major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ Molten veins glimmer from beneath this magic weapon's volcanic body. The crossbo
 The crossbow has 5 charges and regains all expended charges daily at dawn. While holding the crossbow, you can expend 1 of its charges using an action. When you do, the crossbow magically projects an explosive mote of fire, which vaguely resembles a fiery mephit. If the last target you hit with one of the crossbow's lava bolts is still within the weapon's normal range, the mote magically strikes that target and explodes. Roll `dice:4d6|noform|noparens|avg` (`4d6`). The target takes fire damage equal to the total, and each creature within 10 feet of the explosion (not including the target) must succeed on a DC 16 Dexterity saving throw or take fire damage equal to half the total.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

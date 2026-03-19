@@ -17,6 +17,9 @@ rarity: very-rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Crystalline Chronicle
 *Wondrous item, spellcasting focus, very rare (requires attunement by a wizard)*  
@@ -34,3 +37,7 @@ The crystal has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`)
 - When you cast a wizard spell, you can expend 1 charge to cast the spell without verbal, somatic, or material components of up to 100 gp value.  
 
 *Source: Tasha's Cauldron of Everything p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

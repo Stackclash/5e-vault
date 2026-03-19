@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Adaptation
 *Potion, rare*  
@@ -29,3 +32,7 @@ When you drink this potion, your form becomes particularly malleable and you qui
 Due to the dubious origins of this potion's ingredients, when this potion's effects end, you must succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for the next hour. This potion's contents constantly change in hue and colour, ranging from a vibrant red, to a dull blue.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

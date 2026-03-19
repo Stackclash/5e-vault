@@ -16,6 +16,9 @@ tier: major
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horn of Valhalla, Brass
 *Wondrous item, instrument ([[/5. Mechanics/Items/Horn.md\|horn]]), major, rare*  
@@ -29,3 +32,7 @@ A brass horn summons `dice:3d4+3|noform|noparens|avg` (`3d4 + 3`) [[/5. Mechanic
 If you blow the horn without meeting its requirement, the summoned [[/5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
 
 *Source: Dungeon Master's Guide p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

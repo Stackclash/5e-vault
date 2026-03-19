@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: long-rest
 ---
 # Orostead Iced Tea (Very Rare)
 *Potion, minor, very rare*  
@@ -40,3 +43,7 @@ When you take a sip of this potion, roll a `dice:d8|noform|noparens|avg` (`d8`) 
 ^very-rare-effect
 
 *Source: The Griffon's Saddlebag, Book 2 p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

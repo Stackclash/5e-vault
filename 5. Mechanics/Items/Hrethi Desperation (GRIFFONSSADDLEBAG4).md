@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # H'rethi Desperation
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement)*  
@@ -39,3 +42,7 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action using
 Any levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] you gain as a result of this weapon's properties are lost after 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

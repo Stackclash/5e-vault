@@ -24,6 +24,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Edge Weapon +2
 *Major, very rare*  
@@ -37,3 +40,7 @@ The first time you hit a creature on your turn with this weapon with an attack t
 Weapons made from the claws or teeth of dragons change in rarity and power depending on the original dragon's age. Ancient dragons can create very rare weapons that have a +2 bonus to attack and damage rolls made with them.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 55*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

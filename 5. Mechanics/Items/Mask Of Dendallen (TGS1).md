@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: long-rest
 ---
 # Mask of Dendallen
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
@@ -40,3 +43,7 @@ When you place this mask over your face for the first time, make a DC 16 Intelli
 ^mask-of-dendallen-effects
 
 *Source: The Griffon's Saddlebag, Book 1 p. 86*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

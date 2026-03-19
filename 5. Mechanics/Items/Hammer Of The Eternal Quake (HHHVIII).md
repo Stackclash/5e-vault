@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hammer of the Eternal Quake
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), legendary (requires attunement)*  
@@ -35,3 +38,7 @@ You have a +3 bonus to attack and damage rolls made with this weapon. Strikes ma
 In addition, while holding this hammer you may use the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action to slam its head into the ground, creating a shockwave that forces all targets within 30 feet of you to succeed on a DC 20 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If you are able to make multiple attacks with the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, this attack replaces one of them.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 89*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

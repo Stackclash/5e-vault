@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Titan's Tooth Claymore
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare*  
@@ -32,3 +35,7 @@ subtype:
 This massive two-handed blade is made from the lost or harvested tooth of a tarrasque. You gain a +2 bonus to attack and damage rolls made with this magic weapon. If it hits an object, the hit is automatically a critical hit. In addition, if you roll a 20 on an attack roll using this weapon, the target takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) slashing damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 175*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

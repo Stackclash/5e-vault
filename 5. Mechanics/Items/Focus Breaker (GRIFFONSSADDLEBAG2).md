@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Focus Breaker
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ Forged during the Upheaval, these brutish weapons were given to members of the g
 As an action, you can speak the weapon's command word and hold it aloft, causing the metal book adorning the head of the maul to wildly turn its pages and shatter. When it does, any spell or magical effect within 60 feet of you is dispelled, as if affected by the [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell (5th-level version). A spell or magical effect cast using a 6th-level spell slot or higher is unaffected in this way. Once this property has been used, it can't be used again and the book disappears from the head of the weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 82*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

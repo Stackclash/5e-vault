@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elemental Gem
 *Wondrous item, minor, uncommon*  
@@ -25,3 +28,7 @@ tier: minor
 - [[/5. Mechanics/Items/Elemental Gem Yellow Diamond.md\|Elemental Gem, Yellow Diamond]]
 
 *Source: Dungeon Master's Guide p. 167*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

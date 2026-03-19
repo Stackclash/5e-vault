@@ -14,6 +14,9 @@ rarity: uncommon
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Mage Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), uncommon*  
@@ -26,3 +29,7 @@ When you fire this arrow from a bow at a target within its normal range, you don
 Other types of magic ammunition of this kind exist, such as mage bolts meant for a crossbow, though arrows are most common.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

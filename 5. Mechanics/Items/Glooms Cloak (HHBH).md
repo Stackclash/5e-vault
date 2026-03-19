@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gloom's Cloak
 *Herb, rare*  
@@ -30,3 +33,7 @@ A rather grim-looking species of ivy that is pitch black in colour and covered i
 You gain resistance to radiant damage for the next 4 hours after using this herb.
 
 *Source: Hamund's Herbalism Handbook p. 16*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

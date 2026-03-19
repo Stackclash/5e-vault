@@ -15,6 +15,9 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Helm of the Lichfiend
 *Wondrous item, major, very rare (requires attunement by a warlock or wizard)*  
@@ -32,3 +35,7 @@ A creature that touches the skeleton or hits it with a melee attack while within
 The [[/5. Mechanics/Bestiary/Undead/Skeleton.md\|skeleton]] remains until you finish a long rest or you use an action to dismiss it, or until it's reduced to 0 hit points. You can have up to three skeletons at a time in this way. If you already have three skeletons when you slay a fiend or humanoid, you can't use the helm to create a pillar of flame or skeleton. The skeleton obeys your verbal commands (no action required by you) and takes its turn immediately after yours. If you don't issue any commands, it defends itself from hostile creatures, but otherwise takes no actions. At the end of its duration, the skeleton's bones crumble away and collapse into a small pile of coal.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

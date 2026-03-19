@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Purse Piglet
 *Wondrous item, minor, rare*  
@@ -32,3 +35,7 @@ If the pig's owner dies, the distraught pig empties itself of all its coins: ret
 Placing the piglet inside an extradimensional space created by a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[/5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. When this happens, the piglet is permanently destroyed, and its contents are lost. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and cannot be reopened again.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 100*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Necrotic Cloak
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necrotic Cloak
 *Wondrous item, very rare (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: very-rare
 While you wear this cloak, you have advantage on death saving throws and are immune to necrotic damage. In addition, whenever a humanoid within 60 feet of you that you can see dies, you may spend your reaction to gain temporary hit points equal to the amount of hit dice that humanoid had.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 62*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

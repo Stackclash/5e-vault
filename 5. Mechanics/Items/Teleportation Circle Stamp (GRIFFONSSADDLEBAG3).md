@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Teleportation Circle Stamp
 *Wondrous item, major, rare*  
@@ -26,3 +29,7 @@ While holding the carved stamp, you can use an action to apply a wash of fine in
 Any object that's fully within the circle's area is magically teleported to the linked teleportation circle when it disappears. Creatures can't be teleported using this special circle, and any item that creates an extradimensional space, such as a [[/5. Mechanics/Items/Portable Hole.md\|portable hole]], fails to teleport through the circle when it disappears.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

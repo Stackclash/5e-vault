@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Revenant Standard
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), very rare (requires attunement by a creature that has died)*  
@@ -44,3 +47,7 @@ While holding the staff, you can expend 1 or more of its charges to cast one of 
 Alternatively, when you hit a creature with the staff, you can expend 1 of its charges to deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage to that creature.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

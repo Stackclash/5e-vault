@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mourningsteel Eclipse
 *Weapon ([[/5. Mechanics/Items/Morningstar.md\|morningstar]]), major, rare*  
@@ -41,3 +44,7 @@ When you hit a creature within the darkness using the morningstar, its bonus nec
 The spell ends early if you drop or stow the morningstar. Once used, this property of the weapon can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

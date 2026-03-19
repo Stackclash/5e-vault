@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Winterlight Bloom
 *Herb, rare*  
@@ -30,3 +33,7 @@ Adventurers say that while deserts have oases, snowfields have winterlight bloom
 You gain resistance to cold damage for 4 hours after using this herb.
 
 *Source: Hamund's Herbalism Handbook p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

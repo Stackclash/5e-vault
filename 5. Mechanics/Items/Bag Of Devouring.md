@@ -12,6 +12,9 @@ weight: 15
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Devouring
 *Wondrous item, minor, very rare*  
@@ -28,3 +31,7 @@ Inanimate objects can be stored in the bag, which can hold a cubic foot of such 
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
 
 *Source: Dungeon Master's Guide p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

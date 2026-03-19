@@ -23,6 +23,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crosier of Divine Power
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a cleric or paladin)*  
@@ -41,3 +44,7 @@ This staff is enchanted with powerful holy magic that manifests as radiant motes
 Each mote lasts for 1 minute or until it's expended. When you roll initiative against a hostile creature, the staff creates 2 motes.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 50*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

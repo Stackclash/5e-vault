@@ -10,6 +10,9 @@ aliases:
   - Hellion's Mask
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hellion's Mask
 *Wondrous item, cursed item, very rare (requires attunement)*  
@@ -30,3 +33,7 @@ If you're a tiefling, you gain the following benefits while wearing the mask:
 This mask is cursed, and attuning to it extends the curse to you if you're not a tiefling. While cursed, you can't remove the mask unless you're targeted by the remove curse spell or similar magic. While wearing the mask, you have disadvantage on attack rolls against fiends and on saving throws against their spells and special abilities.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

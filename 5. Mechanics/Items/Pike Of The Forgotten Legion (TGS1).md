@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 6
+item_recharge: none
 ---
 # Pike of the Forgotten Legion
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, legendary (requires attunement)*  
@@ -41,3 +44,7 @@ Once on each of your turns when you hit a creature with this pike, you can choos
 You can use an action while holding this pike to expend 3 of its charges and point it forward commandingly. Five spectral, pike-wielding warriors appear before you and march in a 25-foot by 50-foot line in a direction you choose. Any creature within that line's area must make a DC 16 Intelligence saving throw. On a failed save, a creature takes `dice:3d10|noform|noparens|avg` (`3d10`) necrotic damage and `dice:3d10|noform|noparens|avg` (`3d10`) psychic damage and is affected by the weapon's *spectral warrior* property. On a success, the creature takes half as much damage and isn't affected by the spectral warriors. Undead creatures automatically succeed on the saving throw.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 96*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

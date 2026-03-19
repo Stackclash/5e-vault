@@ -23,6 +23,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonbone Weapon (Adult)
 *Rare (requires attunement)*  
@@ -34,3 +37,7 @@ You have a bonus to your attack and damage rolls made with this weapon correspon
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

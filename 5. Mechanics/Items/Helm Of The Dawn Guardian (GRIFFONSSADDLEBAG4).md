@@ -10,6 +10,9 @@ aliases:
   - Helm of the Dawn Guardian
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Dawn Guardian
 *Wondrous item, legendary (requires attunement)*  
@@ -23,3 +26,7 @@ The helmet's warmth extends out from you in a 10-foot radius while you wear it. 
 While wearing the helmet, you can use an action to cast the [[/5. Mechanics/Spells/Sunburst.md\|sunburst]] spell (save DC 17). This version of the spell affects a 60-foot cone that originates from you, instead of its normal area of effect. Once this spell has been cast from the helmet, it can't do so again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

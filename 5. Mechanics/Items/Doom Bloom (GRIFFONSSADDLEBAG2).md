@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Doom Bloom
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ If the target of the effect fails the saving throw, the spell succeeds and the f
 Doom blooms typically grow on their own, but can sometimes be found near others. When the flower dies or is destroyed, a new one grows after `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) days in the same place in which it last grew. If the flower was successfully used to duplicate the effect of the [[/5. Mechanics/Spells/Scrying.md\|scrying]] spell, the new flower grows at the location where the spell's sensor first appeared instead. If the sensor followed a creature, there is a 10 percent chance that an additional flower will grow after `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) days at the sensor's location at the end of each minute of the spell's duration.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 72*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

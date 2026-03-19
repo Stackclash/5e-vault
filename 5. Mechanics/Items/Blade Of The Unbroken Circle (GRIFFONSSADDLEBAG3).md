@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Blade of the Unbroken Circle
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
@@ -50,3 +53,7 @@ While holding the sword, you can use an action to expend some of its charges to 
 When you hit a target with the sword, you can expend 1 of its charges to deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to it of a type based on the environment you're in. If an environment has more than one damage type associated with it, you choose which one each time: arctic (cold), coast (cold or fire), desert (fire), forest (bludgeoning, piercing, or slashing), grassland (piercing or slashing), mountain (lightning), swamp (necrotic or poison), or underground (necrotic).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

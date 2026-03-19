@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nature's Curse
 *Herb, rare*  
@@ -30,3 +33,7 @@ While there are many dangerous and toxic plants in the world, the aptly named Na
 This herb contains `dice:1d3|noform|noparens|avg` (`1d3`) charges. To use this herb, you must expend one charge to cover one melee weapon or up to 10 pieces of ammunition in its toxic sap. For the next 10 minutes, any creature successfully hit by this weapon or ammunition must succeed a DC 18 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] in this way, the creature is wracked with horrible pain, causing them to have disadvantage on all saving throws, have their movement speed halved, and any spell they are concentrating on automatically ends at the start of their turn.
 
 *Source: Hamund's Herbalism Handbook p. 25*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

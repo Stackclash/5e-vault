@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crown of the Cursed King
 *Wondrous item, cursed item, major, legendary (requires attunement)*  
@@ -42,3 +45,7 @@ This crown is cursed, and becoming attuned to it extends the curse to you. The e
 While cursed, you gain the following flaw: "I am always in danger of losing everything. I must ensure my legacy is preserved." In addition, you are unwilling to part with the crown, wearing it atop your head at all times. It can't be removed from your head against your will.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

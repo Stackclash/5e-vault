@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horatio's Impossible Ship in a Bottle
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ You can speak the bottle's command word to cause the wax to come apart and open 
 If you keep a similarly sized glass bottle aboard the vessel, the ship and its unseen crew magically reduce in size and appear inside the newly sealed bottle when the ship is run aground. The bottle must have been submerged in the ocean for at least 10 years, and anything onboard the ship when it is resealed falls to the water or ground below.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 106*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

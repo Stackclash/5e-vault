@@ -19,6 +19,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Coil Crook
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon*  
@@ -35,3 +38,7 @@ This smooth red staff is actually made from a rigid length of rope. You can spea
 While holding the staff, you can use an action to cast the [[/5. Mechanics/Spells/Rope Trick.md\|rope trick]] spell from it, using it as the rope required for the spell. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 46*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

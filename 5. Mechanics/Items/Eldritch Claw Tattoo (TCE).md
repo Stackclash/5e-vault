@@ -14,6 +14,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eldritch Claw Tattoo
 *Wondrous item (tattoo), uncommon (requires attunement)*  
@@ -36,3 +39,7 @@ While the tattoo is on your skin, your unarmed strikes are considered magical fo
 As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee attacks with a weapon or an unarmed strike can reach a target up to 15 feet away from you, as inky tendrils launch toward the target. In addition, your melee attacks deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) force damage on a hit. Once used, this bonus action can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

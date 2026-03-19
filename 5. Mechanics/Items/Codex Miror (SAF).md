@@ -10,6 +10,9 @@ aliases:
   - Codex Miror
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Codex Miror
 *Wondrous item, artifact (requires attunement)*  
@@ -69,3 +72,7 @@ The codex miror remembers a time when magic was much...friskier. Whenever you ca
 ^result
 
 *Source: Strongholds and Followers p. 254*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

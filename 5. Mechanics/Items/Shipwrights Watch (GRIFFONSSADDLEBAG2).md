@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shipwright's Watch
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This glimmering spyglass is actually coated in a fine layer of fool's gold. While peering through the spyglass, you can rotate a ring at the front of the telescope to toggle between looking directly ahead of you or directly behind you, as if you were turned around.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 160*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

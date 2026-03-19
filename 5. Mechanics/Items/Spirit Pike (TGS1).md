@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Spirit Pike
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement by a cleric)*  
@@ -39,3 +42,7 @@ Your hands are left free while the pike is dissolved in this way. When the spell
 In addition, the weapon has 4 charges and regains all of them each day at dawn. When you hit a target with a weapon or spell attack using the pike as either a physical or spectral weapon, you can expend 1 charge to deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to the target in addition to the attack's damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 121*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

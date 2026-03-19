@@ -15,6 +15,9 @@ rarity: unknown
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Flensing Claws (Small)
 
@@ -25,3 +28,7 @@ Flensing claws take the form of articulated digits that extend into long metal b
 Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws.
 
 *Source: Volo's Guide to Monsters p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

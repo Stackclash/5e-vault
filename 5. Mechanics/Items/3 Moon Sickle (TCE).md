@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +3 Moon Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), very rare (requires attunement by a druid or ranger)*  
@@ -35,3 +38,7 @@ This silver-bladed sickle glimmers softly with moonlight. While holding this mag
 When you cast a spell that restores hit points, you can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to the amount of hit points restored, provided you are holding the sickle.
 
 *Source: Tasha's Cauldron of Everything p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Swashbuckler's Slippery Saber
 *Major, uncommon (requires attunement)*  
@@ -25,3 +28,7 @@ subtype:
 The handle of this well-worn blade looks like a peeled banana made of brass. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with an attack using this weapon and roll a 6 on its damage die, the target of the attack must succeed on a DC 13 Dexterity saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ attunement: true
 attunement-requirement:
   - spellcaster
 rarity: legendary
+item_consumable: false
+item_uses: 20
+item_recharge: none
 ---
 # Amulet of the Usurper
 *Wondrous item, legendary (requires attunement by a spellcaster)*  
@@ -36,3 +39,7 @@ As an action, you may expend 3 charges to release a 20-foot radius burst of corr
 This amulet regains all expended charges upon the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

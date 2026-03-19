@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Hat Trick
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ This gaudy purple hat allows the wearer to perform some minor magical feats. The
 In addition, while wearing the hat, you can use an action to cast the [[/5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] spell from it. When cast in this way, the spell can only be used to create harmless, illusory effects.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 76*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

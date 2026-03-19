@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Blazeblood Signet
 *Ring, cursed item, major, very rare (requires attunement)*  
@@ -38,3 +41,7 @@ While wearing this ring, you can choose to spend 1 or more Hit Dice whenever you
 This ring is cursed, and attuning to it extends the curse to you. For as long as you remain cursed, you regain half as many hit points whenever a spell or magical effect restores them.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

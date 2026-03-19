@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Neutralizing Spray
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This small bottle contains a mysterious clear liquid. It has an inflated cushion
 The bottle contains enough liquid for 4 uses and regains any used liquid daily at dawn. If you use the last of the liquid, roll a `dice:d4|noform|noparens|avg` (`d4`). On a 1, the liquid no longer magically replenishes.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

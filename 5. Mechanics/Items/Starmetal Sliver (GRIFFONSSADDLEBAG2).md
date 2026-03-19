@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Sliver
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  
@@ -39,3 +42,7 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action while
 In addition, the dagger creates a small gravitational field that wards off harm. While the dagger orbits you, when you are hit by a ranged weapon attack, the damage you take from the attack is reduced by `dice:1d10+4|noform|noparens|avg` (`1d10 + 4`). If the damage is reduced to 0, the missile slows to a stop without hitting you and falls to the ground at your feet.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 171*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

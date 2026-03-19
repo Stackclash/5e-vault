@@ -9,6 +9,9 @@ aliases:
   - Dragon's Mercy
 attunement: false
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon's Mercy
 *Wondrous item*  
@@ -30,3 +33,7 @@ Once this item has been used once, it cannot be used again for `dice:1d4|noform|
 - [[/5. Mechanics/Items/Dragons Mercy Ancient (HHHVI).md\|Dragon's Mercy (Ancient)]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

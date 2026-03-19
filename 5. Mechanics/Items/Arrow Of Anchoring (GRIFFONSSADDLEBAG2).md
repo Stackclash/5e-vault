@@ -17,6 +17,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Arrow of Anchoring
 *Minor, uncommon*  
@@ -28,3 +31,7 @@ This magic piece of ammunition weighs 1 pound but otherwise flies exactly like a
 After this effect ends, the ammunition clatters to the ground and becomes a 2-foot length of nonmagical chain.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 39*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

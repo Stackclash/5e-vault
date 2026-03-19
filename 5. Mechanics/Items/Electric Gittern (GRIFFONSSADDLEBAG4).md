@@ -9,6 +9,9 @@ aliases:
   - Electric Gittern
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Electric Gittern
 *Wondrous item, rare*  
@@ -32,3 +35,7 @@ As an action, you can strum the gittern and expend 4 of its charges to send a bo
 Whenever you deal lightning damage using the gittern, you can immediately use your reaction to play a final, climactic chord. When you do, you can expend up to 4 of the instrument's charges: for each expended charge, the initial lightning damage is increased by `dice:1d8|noform|noparens|avg` (`1d8`).
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

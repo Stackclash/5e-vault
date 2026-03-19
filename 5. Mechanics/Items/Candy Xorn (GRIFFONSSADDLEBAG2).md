@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candy Xorn
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ Candy xorn is a round, waxy candy that typically comes in small bags of `dice:2d
 In addition, each piece of candy xorn has a 5 percent chance to not be candy at all, but actually a gemstone covered in the sugared coating. When you find a gemstone in this way, it can be either [[/5. Mechanics/Items/Eye Agate.md\|eye agate]] (40%, 10 gp), [[/5. Mechanics/Items/Tiger Eye.md\|tiger's eye]] (40%, 10 gp), or [[/5. Mechanics/Items/Amber.md\|amber]] (20%, 100 gp).
 
 *Source: The Griffon's Saddlebag, Book 2 p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

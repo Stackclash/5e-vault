@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Urnblade
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement)*  
@@ -45,3 +48,7 @@ The urnblade's bonus to attack and damage rolls becomes +2 while the summoned sh
 The shadow disappears when it drops to 0 hit points, when it's farther than 120 feet from you, or when you use an action to dismiss it. When it disappears, your cast shadow returns. If the shadow drops to 0 hit points, there is a cumulative 5 percent chance that the urn turns to dust and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 179*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

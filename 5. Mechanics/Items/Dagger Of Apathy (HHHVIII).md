@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dagger of Apathy
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  
@@ -32,3 +35,7 @@ subtype:
 While this item is in your hand, you may use your bonus action to speak its command word, causing it to radiate a lifeless energy for the next minute. While it is radiating this energy, any creature hit by this weapon that is not a construct or undead must succeed on a DC 12 Charisma saving throw or be struck by an overwhelming sense of apathy and lifelessness for 1 minute. An apathetic creature has disadvantage on attack rolls and saving throws, and on its turn may use either an action or a bonus action, but not both. At the end of its turn, a creature affected by this ability may attempt the saving throw again, ending the effect on itself on a success. A creature that succeeds this saving throw is immune to the effects of this dagger for the next 24 hours.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 86*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

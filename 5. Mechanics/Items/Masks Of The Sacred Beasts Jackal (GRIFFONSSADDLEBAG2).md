@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Masks of the Sacred Beasts (Jackal)
 *Wondrous item, major, legendary (requires attunement)*  
@@ -29,3 +32,7 @@ A humanoid killed by this necrotic damage rises at the start of your next turn a
 The [[/5. Mechanics/Bestiary/Undead/Mummy.md\|mummy]] remains until you dismiss it as a bonus action, until it's reduced to 0 hit points, or until you are no longer attuned to any mask of the sacred beast, causing it to turn to dust. You can only create and control one mummy at a time in this way
 
 *Source: The Griffon's Saddlebag, Book 2 p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

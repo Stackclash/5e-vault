@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Badge of the Wayfarer
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ Any creature that teleports to the inn is magically transported with their belon
 The badge's command phrase and purpose is a closely-kept secret. While casting [[/5. Mechanics/Spells/Identify.md\|identify]] on the badge only reveals the fact that the badge is magical, a [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]] spell reveals the badge's command phrase and properties.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 40*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

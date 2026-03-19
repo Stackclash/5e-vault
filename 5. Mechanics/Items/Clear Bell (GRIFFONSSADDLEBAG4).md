@@ -9,6 +9,9 @@ aliases:
   - Clear Bell
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clear Bell
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ When you use an action to ring this all-glass handbell, the sound rings out with
 Once the bell has been rung in this way, it shouldn't be rung again until the next dawn. Each time it's used again before then, it has a cumulative 20 percent chance of not working and shattering into a fine, nonmagical powder.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

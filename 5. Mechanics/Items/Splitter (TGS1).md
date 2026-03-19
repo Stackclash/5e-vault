@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Splitter
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), major, very rare (requires attunement)*  
@@ -43,3 +46,7 @@ If you're wielding the halberd and roll a 10 on the damage die for an attack aga
 If you're wielding the handaxe and quarterstaff in either hand, you gain a +1 bonus to AC and can add your ability modifier to the damage of the second attack when you engage in two-weapon fighting. The quarterstaff deals necrotic damage, and its damage die is maximized if it hits a nonmagical plant or plant creature. If you make a ranged attack with the handaxe, it flies back to your hand immediately after the attack.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 121*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

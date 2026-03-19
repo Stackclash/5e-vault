@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Momentary Omniscience
 *Scroll, minor, rare*  
@@ -36,3 +39,7 @@ You immediately learn the most direct physical route to a creature, location, or
 You immediately learn the solution to a cypher, puzzle, riddle, or similar quandary. If you decode a cypher in this way, such as a secret message or series of ancient glyphs, you also know how to speak, read, and write it for the next 7 days, after which time the knowledge is lost.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Answering (Retorter)
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement by a lawful good creature)*  
@@ -41,3 +44,7 @@ Retorter, the Lawful Good sword, has an aquamarine set in its pommel.
 You gain a +3 bonus to attack and damage rolls made with this sword. In addition, while you hold the sword, you can use your reaction to make one melee attack with it against any creature in your reach that deals damage to you. You have advantage on the attack roll, and any damage dealt with this special attack ignores any damage immunity or resistance the target has.
 
 *Source: Dungeon Master's Guide p. 206*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

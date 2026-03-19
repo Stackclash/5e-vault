@@ -10,6 +10,9 @@ aliases:
   - The Chronos Codex
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Chronos Codex
 *Wondrous item, artifact (requires attunement)*  
@@ -49,3 +52,7 @@ As a bonus action, choose a target and a number from one to six. If the target i
 As an action, you can sacrifice any number of Hit Dice to take an equal number of turns in a row.
 
 *Source: Strongholds and Followers p. 256*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

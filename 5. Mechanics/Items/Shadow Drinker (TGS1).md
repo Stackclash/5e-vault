@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Drinker
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), cursed item, major, very rare (requires attunement)*  
@@ -45,3 +48,7 @@ You can only have 1 shadow absorbed in this way at a time. Once you steal a crea
 You have vulnerability to radiant damage while you're attuned to this weapon.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 112*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

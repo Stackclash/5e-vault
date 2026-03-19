@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Needlecloud Cactus
 *Herb, rare*  
@@ -30,3 +33,7 @@ Despite its name, this plant is in fact not a cactus, but is more related to the
 As part of preparing this herb, you place segments of this herb in strategic places around your clothes and armour. Anytime to you are hit by a melee weapon attack, you may use your reaction to release a spray of sharp needles from the herbs on your body, forcing all creatures within 5 feet of you to make a DC 14 Dexterity saving throw, taking `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage on a failure, or half that on a success. Once you have used this ability 4 times, this herb runs out of needles and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 25*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Seraphim's Stiletto
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement by a creature of good alignment)*  
@@ -39,3 +42,7 @@ This magic dagger is made from elven gold and a fine sliver of unicorn horn. The
 When you hit an undead creature with a melee attack using this dagger, you can expend a number of hit points from the pool, up to the maximum amount remaining, as part of the attack. When you do, you deal extra radiant damage to that creature equal to twice the number of hit points you expend in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 158*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

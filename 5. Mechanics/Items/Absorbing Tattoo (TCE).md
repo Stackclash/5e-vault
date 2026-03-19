@@ -14,6 +14,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Absorbing Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  
@@ -67,3 +70,7 @@ When you take damage of the chosen type, you can use your reaction to gain immun
 - [[/5. Mechanics/Items/Thunder Absorbing Tattoo (TCE).md\|Thunder Absorbing Tattoo]]
 
 *Source: Tasha's Cauldron of Everything p. 119*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

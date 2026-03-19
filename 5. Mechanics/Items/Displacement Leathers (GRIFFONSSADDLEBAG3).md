@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Displacement Leathers
 *Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, uncommon (requires attunement)*  
@@ -29,3 +32,7 @@ subtype:
 This armor creates a blurry afterimage of you while you move. When a creature hits you with an opportunity attack while wearing this armor, roll a `dice:d20|noform|noparens|avg` (`d20`) (no action required). On an 11 or higher, the attack misses and hits a nearby illusion of you instead. On a 10 or lower, the attack hits you. Once this property of the armor has been used for the fourth time, it can't be used again until you finish a long rest.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

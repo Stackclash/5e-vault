@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Lady Phantasma's Material Anchor
 *Wondrous item, minor, very rare*  
@@ -26,3 +29,7 @@ At dawn, the ship's crew is shunted back to the Ethereal Plane, leaving the ship
 If the charm is removed from the *Lady Phantasma* for 24 hours, the ship and its crew vanish and return to the Ethereal Plane until they're summoned again. You can speak the charm's command phrase "Until the tides call once more," to cause the ship and crew to return to the Ethereal Plane early. Any objects on the ship other than what was there when it came from the Ethereal Plane are dropped into the water below the ship when it disappears. If the ship is destroyed while on the Material Plane, the charm is destroyed and turns to flecks of nonmagical rust.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 113*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

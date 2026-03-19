@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Phase Axe
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare (requires attunement)*  
@@ -40,3 +43,7 @@ This crystalline battleaxe seems to be almost transparent when looking at the bl
 If you can see the axe and are within 60 feet of it, you can use a bonus action to return the axe back to your outstretched hand. When you do, the weapon phases through any obstacle in its path that is no more than 5 feet thick or made of lead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 96*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

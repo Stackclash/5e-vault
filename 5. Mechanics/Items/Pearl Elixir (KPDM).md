@@ -13,6 +13,9 @@ rarity: legendary
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Pearl Elixir
 *Potion, legendary*  
@@ -25,3 +28,7 @@ This silvery-white elixir has a variety of effects depending on whether it is dr
 The scale of a merfolk princess, a vial of pure elemental water, and the eye of a kraken.
 
 *Source: Deep Magic p. 170*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

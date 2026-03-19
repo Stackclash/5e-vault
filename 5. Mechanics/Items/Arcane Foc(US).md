@@ -13,6 +13,9 @@ rarity: none
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arcane Focus
 *Spellcasting focus*  
@@ -27,3 +30,7 @@ subtype:
 - [[/5. Mechanics/Items/Wand.md\|Wand]]
 
 *Source: Player's Handbook p. 151*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Rime of the Justicar
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  
@@ -47,3 +50,7 @@ While holding the glaive, you can use a bonus action to cast the [[/5. Mechanics
 This property of the weapon can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

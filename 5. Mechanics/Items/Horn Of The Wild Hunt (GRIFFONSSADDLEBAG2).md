@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Horn of the Wild Hunt
 *Wondrous item, major, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ Alternatively, you can use an action to expend 1 of the horn's charges to speak 
 When you blow the horn, it emits a deep, rumbling tone that is audible 300 feet away.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 106*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

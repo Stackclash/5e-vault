@@ -9,6 +9,9 @@ aliases:
   - Warning Scarf
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Warning Scarf
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ While you wear this feather covered scarf, you receive a slight tingling sensati
 While wearing this scarf, you also gain the ability to twist your head around 180 degrees around without injuring yourself.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

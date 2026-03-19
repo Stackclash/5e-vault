@@ -14,6 +14,9 @@ attunement-requirement:
   - wizard
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Spellwriter's Brace
 *Wondrous item, major, rare (requires attunement by a wizard)*  
@@ -29,3 +32,7 @@ A spellcaster with a spell tattoo can expend a spell slot of the tattooed spell'
 Any spell tattoos created by the brace disappear when you finish a long rest or remove the brace.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 167*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Stamina
 *Potion, uncommon*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you gain a sense of inner strength and vitality. For the next 24 hours, whenever you roll a saving throw to resist an effect that causes [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], you may make that roll at advantage. This potion is a bright blue with what looks like electricity running through it occasionally.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

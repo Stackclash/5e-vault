@@ -13,6 +13,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Bravery
 *Potion, uncommon*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you become immune to the [[/5. Mechanics/Rules/Conditions.md#Frightened\|fear]] condition for 1 hour. This potion is a pale gold colour with a thick consistency.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

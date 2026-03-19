@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fire Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), uncommon*  
@@ -31,3 +34,7 @@ subtype:
 This dagger continually radiates a dull heat that intensifies when sunk into exposed flesh. When you deal damage with this weapon, you may choose for the damage type to be either piercing or fire damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

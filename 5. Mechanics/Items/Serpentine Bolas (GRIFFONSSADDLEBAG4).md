@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Serpentine Bolas
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), rare*  
@@ -32,3 +35,7 @@ You can make a ranged weapon attack with these bolas against a Large or smaller 
 If the original target fails its save, other creatures within 5 feet of it must also succeed on the saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and entangled, as the bolas grow additional lengths of chain to wrap around the creatures' legs. Such a creature remains entangled until the end of its next turn or until it's freed, at which point the extra lengths of chain vanish. If the original target of the attack is freed, any other creature entangled by the bolas are released.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

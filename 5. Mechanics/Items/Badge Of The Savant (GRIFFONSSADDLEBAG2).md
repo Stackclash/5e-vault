@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Badge of the Savant
 *Wondrous item, major, uncommon*  
@@ -37,3 +40,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Badge Of The Savant Transmutation (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Transmutation)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 40*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

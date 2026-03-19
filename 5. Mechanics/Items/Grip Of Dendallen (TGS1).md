@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Grip of Dendallen
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
@@ -30,3 +33,7 @@ When you pull these gloves over your hands for the first time, make a DC 16 Wisd
 If you fail the saving throw when first donning the gloves and later remove them, it takes `dice:1d4|noform|noparens|avg` (`1d4`) days for the effects of the rotting flesh to fade.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 74*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Steel Hawk Handaxe
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  
@@ -36,3 +39,7 @@ When you hurl this magic axe and speak its command word, choose up to 4 differen
 This property can't be used again until the next dawn. In the meantime, the handaxe can still be used as a magic weapon.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

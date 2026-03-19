@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Instant Cookies
 *Scroll, minor, common*  
@@ -26,3 +29,7 @@ This 5-foot scroll of parchment is wrapped around a rolling pin. You can use an 
 When the last of the scroll has been used, it leaves behind the rolling pin, which can be used as a magical club.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

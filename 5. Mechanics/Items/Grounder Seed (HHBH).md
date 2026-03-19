@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Grounder Seed
 *Herb, rare*  
@@ -30,3 +33,7 @@ Found inside pods of a hardy bush, these seeds contain an oil that dries into a 
 You gain resistance to lightning damage for 4 hours after using this herb.
 
 *Source: Hamund's Herbalism Handbook p. 17*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

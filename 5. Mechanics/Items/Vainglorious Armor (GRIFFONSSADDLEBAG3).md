@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vainglorious Armor
 *Heavy armor ([[/5. Mechanics/Items/Ring Mail.md\|ring mail]]), cursed item, major, rare (requires attunement)*  
@@ -36,3 +39,7 @@ The torso of this glimmering ring mail is guarded by hundreds of golden, interlo
 This armor is cursed, and attuning to it extends that curse to you. While you're cursed, you gain the following flaw: "I am easily embarrassed." Furthermore, whenever you make an ability check, saving throw, or attack roll and roll a 1 on the `dice:d20|noform|noparens|avg` (`d20`), any Charisma check or Charisma saving throw you make for the next minute is made with disadvantage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

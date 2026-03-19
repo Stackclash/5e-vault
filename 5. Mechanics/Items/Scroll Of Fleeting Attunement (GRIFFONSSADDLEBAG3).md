@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Fleeting Attunement
 *Scroll, minor, very rare*  
@@ -26,3 +29,7 @@ You can use an action to read this gilded scroll. To do so, you must also be hol
 The check automatically fails if you attempt to attune to a legendary magic item, a cursed one, or an artifact using the scroll.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

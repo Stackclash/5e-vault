@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Attack-In-The-Box
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, uncommon*  
@@ -43,3 +46,7 @@ A colorful box sits at the top of this weapon's wooden handle. Within the box is
 ^effect
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

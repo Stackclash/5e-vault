@@ -19,6 +19,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Braided Quarterstaff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon*  
@@ -35,3 +38,7 @@ This magical quarterstaff is made of a tightly knit length of braided rope. As a
 Tying an object no larger than six inches on a side to the end the rope does not prevent it from reforming into the quarterstaff. The rope can only be broken by magical means. If broken, the rope cannot be transformed back into a quarterstaff.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 39*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

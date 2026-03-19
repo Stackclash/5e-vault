@@ -19,6 +19,9 @@ rarity: artifact
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Rod of Seven Parts
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), rod, artifact (requires attunement)*  
@@ -79,3 +82,7 @@ A piece of the rod may be temporarily destroyed in this way, but each piece re-f
  
 
 *Source: Vecna: Eve of Ruin p. 8*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Stalaga Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  
@@ -42,3 +45,7 @@ The spear has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expen
 While you're within 60 feet of the stone spike and in a space on or next to a surface of unworked stone or earth, you can use a bonus action to speak the spear's command word to recall it. The stone spike crumbles and the spear inside vanishes back into the surface it came from before reemerging from the surface next to you into your open hand. If you don't have an open hand, it falls to the ground at your feet.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

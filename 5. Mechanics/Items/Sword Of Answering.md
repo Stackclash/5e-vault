@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Answering
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
@@ -45,3 +48,7 @@ subtype:
 - [[/5. Mechanics/Items/Sword Of Answering Squelcher.md\|Sword of Answering (Squelcher)]]
 
 *Source: Dungeon Master's Guide p. 206*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

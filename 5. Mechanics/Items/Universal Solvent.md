@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Universal Solvent
 *Wondrous item, minor, legendary*  
@@ -20,3 +23,7 @@ tier: minor
 This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including [[/5. Mechanics/Items/Sovereign Glue.md\|sovereign glue]].
 
 *Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

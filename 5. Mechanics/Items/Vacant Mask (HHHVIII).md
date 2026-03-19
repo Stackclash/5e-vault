@@ -9,6 +9,9 @@ aliases:
   - Vacant Mask
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vacant Mask
 *Wondrous item, common*  
@@ -20,3 +23,7 @@ This blank, featureless mask has been formed from the expressionless face of a s
 Only you may remove the mask, which you may do so by using your action to pry it off your face, ending the illusion immediately.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

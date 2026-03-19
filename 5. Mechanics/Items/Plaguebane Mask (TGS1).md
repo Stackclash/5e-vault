@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Plaguebane Mask
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This bird-like mask's blend of magic and science is as unique as it is helpful. 
 In addition, the flowers have 3 charges and regain `dice:1d3|noform|noparens|avg` (`1d3`) expended charges each day at dawn as new flowers bloom. As an action, you can hold the beak's nostrils closed with a free hand and expend 1 of its charges to exhale a 15-foot cone of thick pollen in front of you. Creatures caught in the pollen must make a DC 15 Constitution saving throw. On a failed save, a creature's speed is halved until the end of its next turn and takes `dice:2d8|noform|noparens|avg` (`2d8`) poison damage. On a success, its speed is unaffected and the poison damage is halved.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 97*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

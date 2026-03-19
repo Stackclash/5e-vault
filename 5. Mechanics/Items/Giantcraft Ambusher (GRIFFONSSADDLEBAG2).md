@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Giantcraft Ambusher
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, rare*  
@@ -34,3 +37,7 @@ This dark metal axe contains the brute force of a fire giant inside and requires
 While holding the weapon, you can speak its command word using a bonus action to magically enlarge it. When you do, the weapon grows to three times its normal size until the start of your next turn. While enlarged, this axe has the reach property and deals an extra `dice:2d12|noform|noparens|avg` (`2d12`) slashing damage to any target it hits. The axe's weight doesn't change. While the axe is enlarged, it doesn't impose disadvantage on your attack rolls due to its larger size. Once this property of the axe has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 88*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

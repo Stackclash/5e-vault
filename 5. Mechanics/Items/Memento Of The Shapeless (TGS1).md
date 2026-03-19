@@ -25,6 +25,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Memento of the Shapeless
 *Major, legendary (requires attunement)*  
@@ -46,3 +49,7 @@ As an action, choose a creature within 30 feet and make a melee attack against i
 If you're missing an arm or forearm, you can graft the weapon to you in its place. If you do, the weapon changes and reforms to match the missing limb. You can add your proficiency bonus to any Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks you make using the limb, or double the bonus if you're already proficient. You can alter the arm's form to turn it into a weapon as needed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 87*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

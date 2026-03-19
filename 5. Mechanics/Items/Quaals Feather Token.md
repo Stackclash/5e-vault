@@ -9,6 +9,9 @@ aliases:
   - Quaal's Feather Token
 attunement: false
 rarity: rare
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Quaal's Feather Token
 *Wondrous item, rare*  
@@ -39,3 +42,7 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 - [[/5. Mechanics/Items/Quaals Feather Token Whip.md\|Quaal's Feather Token, Whip]]
 
 *Source: Dungeon Master's Guide p. 188*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

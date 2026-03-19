@@ -24,6 +24,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hammer of Willpower
 *Major, very rare (requires attunement)*  
@@ -40,3 +43,7 @@ The might of this hammer changes to reflect your nature, using your innermost mo
 ^alignment-1-damage-type-1-alignment-2-damage-type-2
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Murk Blowgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon*  
@@ -36,3 +39,7 @@ A hefty blowgun used by the inhabitants of the Murk: a series of deadly swamps w
 In addition, this blowgun can be wielded as a magic [[/5. Mechanics/Items/Club.md\|club]]
 
 *Source: The Griffon's Saddlebag, Book 2 p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

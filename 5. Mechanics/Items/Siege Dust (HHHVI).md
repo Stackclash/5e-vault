@@ -9,6 +9,9 @@ aliases:
   - Siege Dust
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Siege Dust
 *Wondrous item, very rare*  
@@ -23,3 +26,7 @@ This bag of fine brown dust contains great magical energy that can be imparted o
 - If the wielder of this weapon moves at least 15 feet straight towards a target and then hits them with a melee weapon attack with this weapon, that target suffers an extra `dice:4d8|noform|noparens|avg` (`4d8`) bludgeoning damage and must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 141*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

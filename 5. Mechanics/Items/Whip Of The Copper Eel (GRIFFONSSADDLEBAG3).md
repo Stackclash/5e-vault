@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Whip of the Copper Eel
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon (requires attunement)*  
@@ -35,3 +38,7 @@ This magic whip hums with electricity. It has 4 charges and regains all expended
 When you hit an underwater creature with this whip, it automatically takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage from the attack as if you had expended a charge from it. When this happens, you can still spend charges from the whip to deal additional lightning damage to the creature. If you do, each other creature of your choice within 10 feet of the target must succeed on a DC 13 Constitution saving throw or take lightning damage equal to half the amount dealt to the target.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

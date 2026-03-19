@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Skylit Greaves
 *Wondrous item, major, legendary (requires attunement)*  
@@ -26,3 +29,7 @@ The greaves have 5 charges and regain `dice:1d4+1|noform|noparens|avg` (`1d4 + 1
 - You summon a battering whirlwind around you. Any creature within 5 feet of you must make a DC 17 Strength saving throw. On a failed save, a creature takes `dice:3d8|noform|noparens|avg` (`3d8`) bludgeoning damage and is flung up to 20 feet away from you and knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If a thrown target strikes an object, such as a wall or floor, the target takes `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 17 Dexterity saving throw or take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If the saving throw is successful, the creature takes half the bludgeoning damage and isn't flung away or knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 163*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

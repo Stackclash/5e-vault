@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Riff's Dimensional Ripper
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  
@@ -36,3 +39,7 @@ This roughly forged dagger of goblin make has somehow been enchanted with weak, 
 If using the dagger in this way would cause you to move more than 20 feet, you are shunted out of the planar tear and reappear in your original space instead. When this happens, you take `dice:4d6|noform|noparens|avg` (`4d6`) force damage, and the action is wasted.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

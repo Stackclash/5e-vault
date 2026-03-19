@@ -9,6 +9,9 @@ aliases:
   - Chimera Kite
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chimera Kite
 *Wondrous item, rare*  
@@ -22,3 +25,7 @@ While this kite is airborne and horizontal, it travels forward at a rate of 30 f
 If the harness is strapped to something that is heavier than 400 pounds, the harness will instead break when the command word is spoken, and the kite will fly away.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 121*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Celestial Sunrise (Uncommon)
 *Potion, minor, uncommon*  
@@ -26,3 +29,7 @@ The following [[/5. Mechanics/Items/Celestial Sunrise (GRIFFONSSADDLEBAG2).md\|c
 When you drink this potion, you can see normally in darkness, both magical and nonmagical, for the next 8 hours. In addition, the light cast from your mouth due to the potion's common effects increases, casting bright light out to 40 feet and dim light for an additional 40 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 57*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

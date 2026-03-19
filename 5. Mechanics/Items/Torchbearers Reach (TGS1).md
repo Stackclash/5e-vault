@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Torchbearer's Reach
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  
@@ -34,3 +37,7 @@ This weapon has the light property and deals fire damage instead of slashing. Wh
 The whip's flame is intangible and can't be used to bind a creature or retrieve objects from afar, but can be used to light other fires.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

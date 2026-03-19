@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Young Dragonstrength
 *Potion, rare*  
@@ -25,3 +28,7 @@ When you drink this potion, you recover `dice:6d4+6|noform|noparens|avg` (`6d4 +
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

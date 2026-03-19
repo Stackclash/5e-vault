@@ -14,6 +14,9 @@ rarity: legendary
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Blood Fury Tattoo
 *Wondrous item (tattoo), legendary (requires attunement)*  
@@ -35,3 +38,7 @@ The tattoo has 10 charges, and it regains all expended charges daily at dawn. Wh
 - When a creature you can see damages you, you can expend a charge and use your reaction to make a melee attack against that creature, with advantage on your attack roll.  
 
 *Source: Tasha's Cauldron of Everything p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

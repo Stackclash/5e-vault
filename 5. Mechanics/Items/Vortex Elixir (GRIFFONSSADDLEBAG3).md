@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Vortex Elixir
 *Potion, minor, rare*  
@@ -26,3 +29,7 @@ This potion is effervescent and constantly swirls on its own. When you use an ac
 Immediately after using this bonus action, you can fly up to 10 feet without provoking opportunity attacks. If you are underwater, the vortex is water, instead of wind, but its effects remain the same.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

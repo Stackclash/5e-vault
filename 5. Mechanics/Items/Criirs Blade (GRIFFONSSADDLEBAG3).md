@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Criir's Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, artifact (requires attunement)*  
@@ -60,3 +63,7 @@ While holding the sword, you can expend 1 of its charges as part of making an at
 Only Criir can destroy the weapon, which requires it to be unmade while within the extradimensional space of a Griffon's Saddlebag.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

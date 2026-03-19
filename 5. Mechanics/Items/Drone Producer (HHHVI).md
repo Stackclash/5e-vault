@@ -9,6 +9,9 @@ aliases:
   - Drone Producer
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Drone Producer
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This palm sized box is packed with the harvested remains of a chasme's wings. Yo
 Every time this item is used, there is a 25 percent chance that the internal mechanism will break, rendering it useless.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

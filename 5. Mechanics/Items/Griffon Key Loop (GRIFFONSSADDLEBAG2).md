@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Griffon Key Loop
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This leather key loop is stylized in the fashion of the legendary [[/5. Mechanic
 While holding the key loop, you can touch it to a lock whose key has been attached to the loop. When you do, the lock becomes unlocked or locked (your choice), as if you had used its key. When you shake the key loop, you can faintly hear the sound of its keys jingling.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 95*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glide Weed
 *Herb, rare*  
@@ -35,3 +38,7 @@ For 4 hours after using this herb, you have a swim speed equal to your movement 
 
 
 *Source: Hamund's Herbalism Handbook p. 16*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

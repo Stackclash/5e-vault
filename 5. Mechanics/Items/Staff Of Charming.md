@@ -27,6 +27,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Staff of Charming
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
@@ -45,3 +48,7 @@ If you are holding the staff and fail a saving throw against an enchantment spel
 The staff regains `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff.
 
 *Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Holy Water (flask)
 *Adventuring gear*  
@@ -27,3 +30,7 @@ As an action, you can splash the contents of this flask onto a creature within 5
 A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

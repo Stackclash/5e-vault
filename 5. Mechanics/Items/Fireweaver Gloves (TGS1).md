@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fireweaver Gloves
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -25,3 +28,7 @@ When you cast *produce flame* using the gloves, the spell's duration is 1 hour, 
 In addition, when you take fire damage while wearing these gloves, you can use your reaction to reduce the damage by `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`), provided that you have a free hand.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 65*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

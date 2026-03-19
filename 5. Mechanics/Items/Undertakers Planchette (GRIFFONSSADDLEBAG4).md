@@ -9,6 +9,9 @@ aliases:
   - Undertaker's Planchette
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Undertaker's Planchette
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This planchette is made of bone. You can place the planchette on a surface that 
 The planchette can be used in this way three times. It regains all expended uses daily at dusk. If the ritual is interrupted before the end of the minute, it still expends a use of the planchette.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

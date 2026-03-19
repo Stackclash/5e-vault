@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Foxglove Bow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), very rare (requires attunement by a chaotic creature)*  
@@ -39,3 +42,7 @@ Arrows nocked in this bow begin to drip with poison. You may choose to do either
 Whenever you score a critical hit with this bow, roll a `dice:d6|noform|noparens|avg` (`d6`) on the Court of Arcadia row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). Foxglove flowers begin to fall like rain, and the rolled servitor appears behind the target. This servitor fights for you and obeys your commands. They return to Arcadia after 1 minute or if they drop to 0 hit points.
 
 *Source: Strongholds and Followers p. 260*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

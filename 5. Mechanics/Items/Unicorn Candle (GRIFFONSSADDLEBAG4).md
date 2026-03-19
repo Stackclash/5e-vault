@@ -9,6 +9,9 @@ aliases:
   - Unicorn Candle
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Unicorn Candle
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This golden candle is set in a porcelain and gold-leaf holder, which is shaped l
 Once the candle is destroyed, you can replace it with a normal candle in the empty porcelain holder. The candle becomes a unicorn candle if it's blessed by a unicorn that touches it with its horn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

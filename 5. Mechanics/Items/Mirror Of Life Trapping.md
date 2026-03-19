@@ -12,6 +12,9 @@ weight: 50
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  
@@ -34,3 +37,7 @@ While within 5 feet of the mirror, you can use an action to speak the name of on
 In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
 *Source: Dungeon Master's Guide p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

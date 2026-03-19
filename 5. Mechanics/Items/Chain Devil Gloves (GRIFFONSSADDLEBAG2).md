@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chain Devil Gloves
 *Wondrous item, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ As an action, you can cause these chains to suddenly retract and pull any attach
 A retracted weapon lands harmlessly at your feet or in an open hand once it reaches you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 58*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

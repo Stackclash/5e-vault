@@ -19,6 +19,9 @@ tier: major
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Instrument of the Bards, Cli Lyre
 *Wondrous item, instrument ([[/5. Mechanics/Items/Lyre.md\|lyre]]), major, rare (requires attunement by a bard)*  
@@ -37,3 +40,7 @@ All instruments of the bards can be used to cast the following spells: [[/5. Mec
 In addition, the Cli lyre can be used to cast [[/5. Mechanics/Spells/Stone Shape.md\|stone shape]], [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]], and [[/5. Mechanics/Spells/Wind Wall.md\|wind wall]].
 
 *Source: Dungeon Master's Guide p. 176*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

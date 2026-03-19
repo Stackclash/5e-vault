@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Buried Moonlight
 *Herb, rare*  
@@ -35,3 +38,7 @@ For the next 8 hours after using this herb, you glow with a pale light reminisce
 
 
 *Source: Hamund's Herbalism Handbook p. 9*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

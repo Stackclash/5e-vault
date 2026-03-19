@@ -10,6 +10,9 @@ aliases:
   - Bangle of the Starlight Raven
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 7
+item_recharge: none
 ---
 # Bangle of the Starlight Raven
 *Wondrous item, rare (requires attunement)*  
@@ -33,3 +36,7 @@ You can expend 2 of the bangle's charges to cast the [[/5. Mechanics/Spells/Loca
 You can expend 1 or more of the bangle's charges to cast the [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell from it. For 1 charge, you cast the 1st-level version of the spell, or the 2nd-level version of the spell between dusk and dawn. You can increase the spell slot level by one for each additional charge you expend. The missiles appear as the illusory ravens hurtling toward each target.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

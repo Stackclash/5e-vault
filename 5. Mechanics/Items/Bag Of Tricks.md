@@ -12,6 +12,9 @@ weight: 0.5
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Tricks
 *Wondrous item, major, uncommon*  
@@ -26,3 +29,7 @@ tier: major
 - [[/5. Mechanics/Items/Bag Of Tricks Tan.md\|Bag of Tricks, Tan]]
 
 *Source: Dungeon Master's Guide p. 154*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

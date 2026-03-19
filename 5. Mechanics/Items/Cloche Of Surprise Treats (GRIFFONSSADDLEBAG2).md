@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloche of Surprise Treats
 *Wondrous item, major, very rare*  
@@ -31,3 +34,7 @@ This magic silver cloche covers a large dinner platter. You can use an action to
 Once the cloche has been used to conjure a meal in this way, it can't be used again until a number of days have passed equal to the number rolled on the `dice:d12|noform|noparens|avg` (`d12`).
 
 *Source: The Griffon's Saddlebag, Book 2 p. 62*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

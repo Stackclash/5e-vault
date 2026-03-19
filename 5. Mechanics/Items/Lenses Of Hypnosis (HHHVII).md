@@ -9,6 +9,9 @@ aliases:
   - Lenses of Hypnosis
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lenses of Hypnosis
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ While wearing these lenses, you may spend an action to project a 30-foot cone of
 Once this ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 60*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightning-Catching Bottle
 *Wondrous item, minor, rare*  
@@ -30,3 +33,7 @@ You can restopper the bottle immediately after releasing the lightning in this w
 Once the bottle contains its maximum amount of lightning damage, any additional damage that's redirected to it isn't contained or reduced. Instead, when the bottle redirects lightning damage that would cause it to exceed the maximum amount it can hold, there is a 50 percent chance that the bottle and stopper shatter and are destroyed. When they're destroyed, each creature within 30 feet of the bottle must make a DC 15 Dexterity saving throw. A creature takes 30 lightning damage on a failed save, or 15 lightning damage on a successful one.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

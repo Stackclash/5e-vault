@@ -50,6 +50,9 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Frostbite Weapon
 *Very rare (requires attunement)*  
@@ -61,3 +64,7 @@ You gain a +2 bonus to all attack and damage rolls made with this weapon. When y
 Once this ability has been used once, it cannot be used again until the end of your next short rest. If you roll a 20 on attack roll with this weapon however, the ability may be used again at that time, regardless of if you used it recently or not.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

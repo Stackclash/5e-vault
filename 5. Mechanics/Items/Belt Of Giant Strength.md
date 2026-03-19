@@ -10,6 +10,9 @@ aliases:
   - Belt of Giant Strength
 attunement: true
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Belt of Giant Strength
 *Wondrous item (requires attunement)*  
@@ -26,3 +29,7 @@ rarity: varies
 - [[/5. Mechanics/Items/Belt Of Storm Giant Strength.md\|Belt of Storm Giant Strength]]
 
 *Source: Dungeon Master's Guide p. 155*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

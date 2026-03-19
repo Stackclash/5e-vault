@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kobold Diviner's Amulet
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ For example, you use the amulet and predict the number 14. You then roll a 16 on
 For the purposes of predicting a number on the `dice:d20|noform|noparens|avg` (`d20`), 19 and 20 are considered to have a difference of two from 1 and 2, respectively. Similarly, 20 and 1 are considered to have a difference of one.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

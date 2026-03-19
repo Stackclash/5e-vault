@@ -9,6 +9,9 @@ aliases:
   - Boneclaw Censer
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boneclaw Censer
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This censer has an innate connection with the boneclaw from whom it was crafted.
 Once this ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 83*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

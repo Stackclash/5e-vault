@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heartless Cage Pendant
 *Wondrous item, major, very rare (requires attunement)*  
@@ -29,3 +32,7 @@ A [[/5. Mechanics/Bestiary/Undead/Skeleton.md\|skeleton]] disappears when it dro
 Once the ribcage shatters and the ruby summons the [[/5. Mechanics/Bestiary/Undead/Skeleton.md\|skeletons]], the pendant and gemstone crumble into ashes and are destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 100*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

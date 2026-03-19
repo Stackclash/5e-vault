@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mourningsteel Barricade
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
@@ -30,3 +33,7 @@ When you successfully [[/5. Mechanics/Rules/Actions.md#Shove\|shove]] a creature
 In addition, while holding the shield, you can use an action to shout its command phrase, "My conviction is greater than your might." When you do, each hostile creature within 30 feet of you that can hear you must make a DC 15 Wisdom saving throw. Creatures that can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] automatically succeed on the saving throw. On a failed save, a creature is compelled to use its action to attack you on its next turn. If the creature can make multiple attacks on its turn, it makes all of them against you. A creature that fails the saving throw also takes a-2 penalty to its AC until the end of your next turn; for each creature that takes this penalty, you gain a +1 bonus to your AC for the same duration (up to a maximum bonus of +5). Once this property of the shield has been used, it can't be used again until the next dusk or until you take 15 or more necrotic damage from a single attack or effect from a hostile creature.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

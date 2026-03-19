@@ -13,6 +13,9 @@ attunement: true
 attunement-requirement:
   - bard
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Harp of Dragons
 *Wondrous item, rare (requires attunement by a bard)*  
@@ -41,3 +44,7 @@ The harp creates a gust of wind behind you, propelling you and up to four other 
 The harp creates an instantaneous wave of fear, which affects up to four creatures of your choice within 30 feet of you, provided that the creature can hear the instrument. Each affected creature must succeed on a Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature can make another Wisdom saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

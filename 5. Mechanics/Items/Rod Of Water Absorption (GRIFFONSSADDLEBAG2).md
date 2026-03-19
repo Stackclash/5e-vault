@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of Water Absorption
 *Rod, major, rare*  
@@ -32,3 +35,7 @@ While holding the rod, you can use an action to speak its second or third comman
 Speaking the third command word causes 10 or more gallons of water to erupt from the rod in a torrent of water, up to the maximum amount remaining within the rod. This water is drawn from the pool of water within the rod. The water is shot in a line 30 feet long and 1 foot wide. Any creature in the line must make a DC 15 Dexterity saving throw. On a failed save, a creature takes `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage for every 10 gallons of water used from the rod and is pushed 10 feet away from you. On a successful save, a creature takes half as much bludgeoning damage and isn't pushed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 150*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

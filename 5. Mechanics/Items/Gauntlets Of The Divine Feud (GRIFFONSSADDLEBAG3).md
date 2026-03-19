@@ -14,6 +14,9 @@ attunement-requirement:
   - cleric
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Gauntlets of the Divine Feud
 *Wondrous item, major, very rare (requires attunement by a cleric)*  
@@ -25,3 +28,7 @@ These paired gauntlets are the last remnants of a conflict between ancient rival
 The gloves have a total of 2 charges and regain 1 expended charge daily at dawn. While wearing them, you can use an action to expend 1 of the gauntlets' charges to cast either the [[/5. Mechanics/Spells/Harm.md\|harm]] or [[/5. Mechanics/Spells/He(AL).md\|heal]] spell from them, using your spell save DC. Once you cast a spell from the gauntlets, it can't be cast in this way again until the next dawn. Alternatively, you can expend 2 charges as an action to cast both spells from the gauntlets at the same time. When you do, the spells each have a range of touch.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Wand of Disruption
 *Wand, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ This wand has 4 charges. As an action, you may expend 1 charge to force a creatu
 The wand recovers `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into dust and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

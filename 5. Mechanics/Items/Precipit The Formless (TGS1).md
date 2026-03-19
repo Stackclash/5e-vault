@@ -20,6 +20,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 15
+item_recharge: dawn
 ---
 # Precipit, the Formless
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, artifact (requires attunement)*  
@@ -105,3 +108,7 @@ Precipit, the Formless has the following random properties:
 The only way to destroy the staff is to keep it untouched by water for one hundred years while on the Elemental Plane of Water, at which point it crumbles to dust. Any amount, such as a puff of misty air, a drip of water, or the touch of ice during that time reinvigorates the staff's bounty of water.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 149*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

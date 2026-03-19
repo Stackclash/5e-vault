@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of Arachnida
 *Wondrous item, major, very rare (requires attunement)*  
@@ -26,3 +29,7 @@ This fine garment is made of black silk interwoven with faint silvery threads. W
 - You can use an action to cast the [[/5. Mechanics/Spells/Web.md\|web]] spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn.  
 
 *Source: Dungeon Master's Guide p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

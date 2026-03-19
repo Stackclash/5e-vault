@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Black Hole
 *Major, legendary (requires attunement)*  
@@ -51,3 +54,7 @@ While holding either gravity or mass, you can use a bonus action to cause the ot
 Immediately after black hole is reformed in this way, you can use an action on the same turn to cause a brief tear in spacetime to form. Any creature of your choice that you can see within 120 feet of you must make a DC 16 Strength saving throw. On a failed save, a creature is pulled up to 40 feet toward you and takes `dice:4d10|noform|noparens|avg` (`4d10`) force damage. On a successful save, a creature is pulled half as far and takes half as much force damage. Once this action has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

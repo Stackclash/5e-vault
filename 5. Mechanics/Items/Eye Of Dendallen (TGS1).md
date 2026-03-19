@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eye of Dendallen
 *Wondrous item, cursed item, major, rare (requires attunement)*  
@@ -34,3 +37,7 @@ The eye also doubles as a gruesome familiar. As an action, you can command the e
 Unattuning to the eye or targeting it with the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell causes it to pull itself out of the socket and try to escape. Slaying the eye while it is unattuned to a creature destroys the item.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 60*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

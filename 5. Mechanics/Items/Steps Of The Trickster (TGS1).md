@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Steps of the Trickster
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 These shoes allow you to freely change the sound of your steps when you wear them. Changing the sound of your steps doesn't change their volume, but can make them sound as though the shoes are made from a different material. For example, your steps can sound like a beggar's bare feet, a dancer's sharp heels, or an approaching guard's metal boots.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

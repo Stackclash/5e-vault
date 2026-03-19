@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battlebeat Club
 *Weapon ([[/5. Mechanics/Items/Club.md\|club]]), uncommon*  
@@ -32,3 +35,7 @@ This weapon creates a resonant, drumming sound whenever it hits a surface. A cre
 If you're also holding the [[/5. Mechanics/Items/Battlebeat Shield (GRIFFONSSADDLEBAG4).md\|battlebeat shield]], the save DC is increased to 15.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Warding Staff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a cleric or paladin)*  
@@ -41,3 +44,7 @@ A friendly creature within reach of the staff can use its bonus action to remove
 In addition, while a creature other than you that you can see is carrying the orb, you can use a bonus action to speak the orb's command word and teleport up to 60 feet to an unoccupied space that you can see within 5 feet of that creature. Alternatively, a creature holding the orb can use its bonus action to speak the orb's command word and teleport to an unoccupied space that it can see within 5 feet of you instead. This property of the orb can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 185*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

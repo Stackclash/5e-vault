@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glacier Branch
 *Herb, rare*  
@@ -31,3 +34,7 @@ While at first this may seem like an ordinary branch covered by frost, closer in
 The magical sap contained within this branch expands and hardens quickly after exposure to air, transforming into solid ice. As an action, you may break the tip of this branch and release this sap, creating up to 20 square feet of ice at least 1 foot thick at all points. You may configure this ice structure in any way you wish, but it must be contiguous throughout and be on points reachable by you during your turn. Once created, this ice acts as ordinary ice and will melt at the appropriate temperature. The structure can also be broken—it has 12 AC, 30 hit points, is vulnerable to fire damage and is immune to psychic and poison damage.
 
 *Source: Hamund's Herbalism Handbook p. 16*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodthirsty Bistoury
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  
@@ -36,3 +39,7 @@ This elegant, dark dagger is never bloodstained and effortlessly pierces flesh. 
 When this dagger is used by an evil-aligned creature, any creature hit by it doesn't bleed from the attack or the wound it leaves behind for 10 minutes.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 48*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

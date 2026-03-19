@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dune Duster
 *Wondrous item, major, very rare (requires attunement)*  
@@ -23,3 +26,7 @@ While wearing this rugged cloak, you can withstand temperatures as hot as 200 de
 On your first turn of each combat, your speed is increased by 10 feet, and you can use a bonus action to make a single weapon attack against a creature that hasn't taken its turn yet. If you're first in the initiative order, your speed is increased by 20 feet instead, and the bonus weapon attack is made with advantage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

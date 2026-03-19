@@ -14,6 +14,9 @@ attunement-requirement:
   - spellcaster
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candlecoven Hat
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  
@@ -27,3 +30,7 @@ If a creature that you can see is cursed by you, such as by the [[/5. Mechanics/
 Alternatively, you can use an action to cast the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell from the hat while wearing it. The maximum number of lights you can create with this version of the spell is equal to the number of lit candles atop the hat, up to seven. By combining all seven of these lights, you can create a vaguely humanoid form of Large size, or one of Medium size with six or fewer.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

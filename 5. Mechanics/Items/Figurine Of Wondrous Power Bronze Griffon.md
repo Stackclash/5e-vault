@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Figurine of Wondrous Power, Bronze Griffon
 *Wondrous item, major, rare*  
@@ -27,3 +30,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 This bronze statuette is of a [[/5. Mechanics/Bestiary/Monstrosity/Griffon.md\|griffon]] rampant. It can become a [[/5. Mechanics/Bestiary/Monstrosity/Griffon.md\|griffon]] for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 
 *Source: Dungeon Master's Guide p. 169. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

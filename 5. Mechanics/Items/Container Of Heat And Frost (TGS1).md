@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Container of Heat and Frost
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This heavy iron container is adorned with 3 arcane symbols along the edge of its
 It takes 1 minute to boil or chill a liquid. Pressing the glyph again as an action ends the heating or cooling process early. After boiling or chilling the liquid, the container maintains its hot or cool temperature, respectively.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 47*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

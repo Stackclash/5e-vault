@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Soap Grass
 *Herb, common*  
@@ -30,3 +33,7 @@ Growing in patches of soil with a high alkaline content, soap grass is exactly w
 You may spend 10 minutes rubbing this herb on yourself. If you do so, you become clean of all dirt and muck.
 
 *Source: Hamund's Herbalism Handbook p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

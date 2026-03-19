@@ -9,6 +9,9 @@ aliases:
   - Living Wig
 attunement: false
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Living Wig
 *Wondrous item*  
@@ -21,3 +24,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Living Wig Rare (GRIFFONSSADDLEBAG4).md\|Living Wig (Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

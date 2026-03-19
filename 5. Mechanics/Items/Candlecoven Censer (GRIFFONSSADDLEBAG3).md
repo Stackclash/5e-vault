@@ -14,6 +14,9 @@ attunement-requirement:
   - spellcaster
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candlecoven Censer
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  
@@ -29,3 +32,7 @@ Each time a creature fails the saving throw against the curse, deduct 1 minute f
 If you are attuned to the candlecoven hat, you don't need to be attuned to this item in order to use it. Any creature cursed by the censer is considered to be cursed by you for the purposes of using the hat's properties.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

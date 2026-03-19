@@ -11,6 +11,9 @@ aliases:
 weight: 5
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Book of Vile Darkness
 *Wondrous item, artifact (requires attunement)*  
@@ -72,3 +75,7 @@ A creature attuned to the book for one hundred years can unearth a phrase hidden
 If all evil in the multiverse is wiped out, the book turns to dust and is forever destroyed.
 
 *Source: Dungeon Master's Guide p. 222*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

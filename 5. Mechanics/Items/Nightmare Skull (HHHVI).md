@@ -9,6 +9,9 @@ aliases:
   - Nightmare Skull
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nightmare Skull
 *Wondrous item, rare*  
@@ -19,3 +22,7 @@ rarity: rare
 A creature that sleeps within 30 feet of this item is racked with bad dreams and receives no benefit from that sleep. In addition, while holding this item, you may cast the [[/5. Mechanics/Spells/Sleep.md\|sleep]] spell at 2nd level. Once this ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

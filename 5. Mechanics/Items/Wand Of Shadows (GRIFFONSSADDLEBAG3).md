@@ -20,6 +20,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: none
 ---
 # Wand of Shadows
 *Wand, major, rare (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -41,3 +44,7 @@ As a bonus action, you can expend 2 of the wand's charges to teleport up to 120 
 As an action, you can expend 1 charge to remove your shadow from yourself. The shadow then appears in an unoccupied space that you can see within 5 feet of you, which uses the statistics for a shadow. The shadow is friendly to you and your companions. It obeys your mental commands (no action required by you) and acts on your initiative, but takes its turn immediately after you. It remains for 10 minutes, and it vanishes early if it's reduced to 0 hit points or if it's ever in your space. If the shadow remains for the full duration or if it's reduced to 0 hit points, this property of the wand can't be used again until the next dusk. A humanoid that dies from the shadow's Strength Drain does not create a new shadow.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

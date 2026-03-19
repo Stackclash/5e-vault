@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Astral Shard
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
@@ -28,3 +31,7 @@ This crystal is a solidified shard of the Astral Plane, swirling with silver mis
 When you use a Metamagic option on a spell while you are holding or wearing the shard, immediately after casting the spell you can teleport to an unoccupied space you can see within 30 feet of you.
 
 *Source: Tasha's Cauldron of Everything p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Reliquary of Holy Memories (Rare)
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), rod, major, rare (requires attunement by a cleric or paladin)*  
@@ -34,3 +37,7 @@ This scepter holds the bones of a powerful martyred saint and are said to contai
 While attuned to this rod, you can prepare one additional spell for each bone held within the rod, up to a maximum of 5. The rarity of the reliquary is determined by the number of bones inside. The rare variant of this item contains 3 bones, and you can prepare 3 extra spells while attuned to it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

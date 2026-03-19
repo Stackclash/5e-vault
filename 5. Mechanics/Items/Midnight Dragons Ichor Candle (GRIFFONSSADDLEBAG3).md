@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Midnight Dragon's Ichor Candle
 *Wondrous item, major, very rare*  
@@ -29,3 +32,7 @@ A creature holding the cup can spend the 1 hour of the candle's burn time medita
 These benefits last for 12 hours. At the end of that time, you and any other affected creature immediately suffers one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], plus any other levels lost as a result of the candle. You also lose any remaining spell slots you have, up to 4th level. You suffer none of these effects if you're taking a long rest at the end of the duration, provided you finish the long rest. If the drink is left in the cup without being consumed, it reforms into the candle after 5 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

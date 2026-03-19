@@ -27,6 +27,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candleflame Bow
 *Major, uncommon (requires attunement)*  
@@ -38,3 +41,7 @@ Wrought from metal in the likeness of a brazier, this ranged weapon's grip has b
 If you roll the same number on both `dice:d20|noform|noparens|avg` (`d20`)s when you make a ranged attack roll with advantage or disadvantage using this weapon while its candle is lit, the ammunition becomes wreathed in a conflagration of uncontrollable flames. The arrow or bolt flies toward the target and explodes, destroying the ammunition and dealing `dice:4d6|noform|noparens|avg` (`4d6`) fire damage to the target (instead of the attack's normal damage), or half as much damage if the total of the attack roll was less than the target's AC. This fire ignites flammable objects within 5 feet of the target that aren't being worn or carried. This property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Realmswarden Greataxe
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, legendary (requires attunement)*  
@@ -46,3 +49,7 @@ The light that comes from the diamond at the axe's center and forms the blade ca
 Once this property of the axe has been used, it can't be used again until 12 hours have passed. You can only have one glyph on the axe in this way at a time.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 142*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Healing Arrow (Generic)
 *Minor, uncommon*  
@@ -24,3 +27,7 @@ subtype:
 This magic ammunition is made by the elder clerics of nature and hunting deities. An attack made with this ammunition deals no damage to any target hit by it. When you hit a creature other than yourself with this ammunition, that creature regains hit points equal to `dice:2d4|noform|noparens|avg` (`2d4`) + your Dexterity and Wisdom modifiers (minimum 1). If the target is a friendly creature, you have advantage on the attack. Once it hits a creature, this ammunition dissolves into pure healing magic before it's destroyed. This ammunition has no effect on undead creatures or constructs.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 76*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

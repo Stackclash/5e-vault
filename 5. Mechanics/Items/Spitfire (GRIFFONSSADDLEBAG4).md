@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Spitfire
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), rare (requires attunement)*  
@@ -35,3 +38,7 @@ This heavy crossbow is painted a brilliant red and ornamented with golden flames
 When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action while holding the crossbow, you can forgo one of your attacks to lob an explosive orb of fire from the weapon's maw. The orb flies out to a point of your choice on a solid surface that you can see within 60 feet of you. The orb explodes on impact, creating a 10-foot-radius sphere of flame where it lands. Each creature within the area must make a DC 15 Dexterity saving throw. A creature takes `dice:4d6|noform|noparens|avg` (`4d6`) fire damage on a failed save, or half as much damage on a successful one. Any flammable objects that aren't being worn or carried within the area are ignited. The crossbow has 3 orbs and regains all expended orbs daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

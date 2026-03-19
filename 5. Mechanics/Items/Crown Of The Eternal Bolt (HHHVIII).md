@@ -10,6 +10,9 @@ aliases:
   - Crown of the Eternal Bolt
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Crown of the Eternal Bolt
 *Wondrous item, legendary (requires attunement)*  
@@ -37,3 +40,7 @@ As part of the action used to do this ability, you must make a weapon attack aga
 This crown regains 1 charge per 20 lightning damage you take in a single turn while wearing it. It also recovers all expended charges at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 86*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

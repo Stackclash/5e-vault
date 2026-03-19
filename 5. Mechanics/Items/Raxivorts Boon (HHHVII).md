@@ -10,6 +10,9 @@ aliases:
   - Raxivort's Boon
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Raxivort's Boon
 *Wondrous item, uncommon (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: uncommon
 This boon is crafted from the skin of a xvart warlock, stretched over a frame made of twigs and vermin bones. While wearing this boon, you regain 4 temporary hit points whenever you reduce an enemy to 0 hit points.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

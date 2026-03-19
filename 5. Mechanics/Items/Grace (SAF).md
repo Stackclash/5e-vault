@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Grace
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), rare (requires attunement)*  
@@ -35,3 +38,7 @@ The blade of this longsword seems to glow white, like it is a beam of light hamm
 While the sword holds any charges, it radiates bright light in a 20-foot radius and dim light for an extra 20 feet. As an action, you can expend any number of charges to restore hit points to a creature you can touch with the sword's blade. Expending 1 charge restores 10 hit points, expending 2 charges restores 20 hit points, and expending 3 charges restores 40 hit points.
 
 *Source: Strongholds and Followers p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

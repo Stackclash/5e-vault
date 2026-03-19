@@ -16,6 +16,9 @@ rarity: legendary
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wand of Doom
 *Wand, legendary (requires attunement by a spellcaster)*  
@@ -25,3 +28,7 @@ subtype:
 While holding this wand, you have a +2 bonus to your spell save DC and attack bonus for spell attacks, and any necrotic damage that you deal as the result of a spell deals one additional damage dice. In addition, you may use this wand to cast the [[/5. Mechanics/Spells/Circle Of Death.md\|circle of death]] or [[/5. Mechanics/Spells/Finger Of Death.md\|finger of death]] spells once per day each.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

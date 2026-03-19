@@ -20,6 +20,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Necrosis
 *Wand, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -33,3 +36,7 @@ While holding this wand, you can use an action to expend 1 or more of its charge
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand explodes, destroying the wand in a flash of green light that duplicates the effect of the [[/5. Mechanics/Spells/Finger Of Death.md\|finger of death]] spell, targeting only you. If you become a [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] as a result of this effect, you are under the command of the nearest [[/5. Mechanics/Bestiary/Undead/Lich.md\|MM]] within 100 miles of you, if any.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 182*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

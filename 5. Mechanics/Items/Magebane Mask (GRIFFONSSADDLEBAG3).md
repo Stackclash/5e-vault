@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Magebane Mask
 *Wondrous item, major, very rare*  
@@ -22,3 +25,7 @@ This dark iron mask was used in the mage realm during the Upheaval, when arcanis
 The mask prevents a creature wearing it from casting most spells and being affected by most beneficial magic. A creature wearing the mask can't speak or cast any spell of 5th level or lower. It also can't speak or be spoken to telepathically, nor can it benefit from any magical effects. While wearing the mask, a creature doesn't need to eat or drink.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

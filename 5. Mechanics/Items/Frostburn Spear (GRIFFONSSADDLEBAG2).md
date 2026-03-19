@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frostburn Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, very rare*  
@@ -40,3 +43,7 @@ While the spear is covered in ice, you have resistance to fire damage. While it'
 In addition, while holding the spear, you can use an action to cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell from it. This version of the spell has a range of 30 feet, instead of self, and can target any creature you can see within range. Once this property of the spear has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 85*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

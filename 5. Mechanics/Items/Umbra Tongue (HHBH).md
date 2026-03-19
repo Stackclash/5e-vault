@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Umbra Tongue
 *Herb, rare*  
@@ -30,3 +33,7 @@ For obvious reasons, it is extraordinarily difficult to find plants in the dark 
 For 8 hours after using this herb, you gain 6 temporary hit points whenever you start your turn in darkness.
 
 *Source: Hamund's Herbalism Handbook p. 37*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

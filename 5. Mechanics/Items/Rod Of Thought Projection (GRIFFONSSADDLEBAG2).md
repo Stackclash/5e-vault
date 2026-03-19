@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of Thought Projection
 *Rod, minor, uncommon*  
@@ -26,3 +29,7 @@ While holding this rod, you can use an action to create a mental connection with
 If the creature is unwilling, it must succeed on a DC 13 Wisdom saving throw or have the mental connection be established anyway. The creature is aware of the effect when it makes the saving throw. At the end of each of the creature's turns, it can make another Wisdom saving throw. On a success, the connection is severed, and the effect ends. Once the rod has been used on an unwilling creature in this way, it can't do so again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 150*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

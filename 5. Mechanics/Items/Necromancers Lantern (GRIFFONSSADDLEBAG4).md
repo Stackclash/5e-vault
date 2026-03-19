@@ -13,6 +13,9 @@ attunement-requirement:
   - warlock
   - wizard
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necromancer's Lantern
 *Wondrous item, rare (requires attunement by a warlock or wizard)*  
@@ -26,3 +29,7 @@ Whenever a Small or larger living creature dies within the lantern's light, it g
 The lantern can control up to four skeletons at a time in this way. It can summon up to a total of eight skeletons each day between dusks.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Monsterbane Lasher
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, very rare*  
@@ -34,3 +37,7 @@ This mithral whip was once used by a powerful monster hunter. You gain a +1 bonu
 The whip has 7 runes on its handle that correspond to different damage types: acid, cold, fire, lightning, poison, radiant, or thunder. When you hit a creature with a melee attack using this weapon, you can channel 1 or more of the runes to deal an extra `dice:2d4|noform|noparens|avg` (`2d4`) damage of the type or types that correspond to the channeled runes. For example, you can channel 2 runes to add `dice:2d4|noform|noparens|avg` (`2d4`) acid and `dice:2d4|noform|noparens|avg` (`2d4`) fire damage to an attack against a troll, or 1 rune to add `dice:2d4|noform|noparens|avg` (`2d4`) thunder damage to an attack against a clay golem. Once you add a damage type to an attack in this way, you can't add that type again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 90*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

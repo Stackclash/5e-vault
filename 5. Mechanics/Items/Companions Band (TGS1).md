@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Companion's Band
 *Wondrous item, minor, common (requires attunement)*  
@@ -27,3 +30,7 @@ Once the same spectral companion has remained or has been summoned at least once
 If you die, the band can be attuned to by a different creature. The linked companion follows you to whatever afterlife awaits you or reappears if you're resurrected and summon it once again.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 46*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

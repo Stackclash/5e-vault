@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
@@ -32,3 +35,7 @@ As an action, you can throw the shield at up to 3 clustered targets you can see 
 Make a ranged attack with the shield against each target. You are proficient with these attacks and add either your Dexterity or Strength modifier to its attack and damage rolls. Targets hit by the attack take `dice:2d8|noform|noparens|avg` (`2d8`) magical slashing damage. Once the shield reaches a target or point, it bounces towards the next target or point. The shield flies back to the gauntlet after reaching its final destination, bouncing harmlessly off of anything obstructing its path.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

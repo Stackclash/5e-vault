@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wildman's Spinning Cleaver
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, very rare (requires attunement by a barbarian)*  
@@ -39,3 +42,7 @@ This elaborate weapon channels your bloodlust. You gain a +2 bonus to attack and
 In addition, once on each of your turns when you make a ranged attack with this weapon while you're raging, you can choose to make another ranged attack with it against a different target within 10 feet of the first. This second target can be beyond the handaxe's normal or long ranges. When you make this special attack, the axe flies back to your hand after it hits or misses the second target.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

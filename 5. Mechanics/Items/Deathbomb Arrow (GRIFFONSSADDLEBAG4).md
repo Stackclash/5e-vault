@@ -14,6 +14,9 @@ rarity: very-rare
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Deathbomb Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  
@@ -28,3 +31,7 @@ The save DC changes depending on how close a creature is to the blast: the targe
 Other types of magic ammunition of this kind exist, such as deathbomb bolts meant for a crossbow, though arrows are most common.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

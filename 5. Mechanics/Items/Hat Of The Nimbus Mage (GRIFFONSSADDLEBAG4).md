@@ -15,6 +15,9 @@ attunement-requirement:
   - warlock
   - wizard
 rarity: rare
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Hat of the Nimbus Mage
 *Wondrous item, rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
@@ -34,3 +37,7 @@ While wearing the hat, you can expend 1 or more of its charges to cast the follo
 While wearing the hat, you can use an action to expend 2 of its charges to return any naturally occurring inclement weather within a 1-mile radius, centered on you, to a neutral state. The neutral weather can be clear or with light clouds, cool or warm, and with either a calm or moderate wind. After 8 hours, the weather returns to its previous state, unless the GM rules otherwise. You must be outside to use this property of the hat.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

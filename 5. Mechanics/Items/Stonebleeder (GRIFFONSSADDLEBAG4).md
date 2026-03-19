@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stonebleeder
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), rare*  
@@ -35,3 +38,7 @@ You gain a +2 bonus to attack and damage rolls with this magic axe, which looks 
 When you hit a creature with the axe that's either made of stone, has the Stone Camouflage trait, or is native to the Elemental Plane of Earth, that creature must make a DC 13 Wisdom saving throw. On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of the axe until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

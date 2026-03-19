@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Pendant of the Tempered Fury
 *Wondrous item, major, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ In addition, the pendant has 3 charges and regains `dice:1d3|noform|noparens|avg
 Any flame created by the pendant, whether it be on your hands or on the pendant itself, is harmless to you. While your hands are wreathed in fire in this way, your unarmed strikes are considered magical.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 94*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

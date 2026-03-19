@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mirage Melon
 *Herb, common*  
@@ -30,3 +33,7 @@ While there are many herbs out there that may cause you to see things after eati
 You may eat this herb as an action. For the next 10 minutes, your stomach produces a magical gas that causes you to burp at the start of each of your turns, with each burp emitting a luminescent gas that takes the form of a small illusion of your choosing once it leaves your mouth. Sample illusory effects include butterflies or musical notes. These illusions have neither substance or sound, are obviously fake in nature, and disappear at the start of your next turn.
 
 *Source: Hamund's Herbalism Handbook p. 24*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: none
 ---
 # Failed Purity Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), cursed item, major, rare (requires attunement)*  
@@ -52,3 +55,7 @@ If you move at least 20 feet straight toward a target and then hit it with the s
 This spear is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the spear, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. While you're cursed, you have disadvantage on any saving throw against poison. However, while you are poisoned, you gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 80*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

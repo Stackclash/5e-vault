@@ -16,6 +16,9 @@ tier: major
 type: weapon
 subtype:
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hour and Minute
 *Melee weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ While holding both weapons in either hand, you gain several benefits:
 - In addition, you can use an action to lay the two weapons down on the ground. When you do, they magically point north before spinning around to align and tell the current time. When they do, 12:00 is always facing north.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 107*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

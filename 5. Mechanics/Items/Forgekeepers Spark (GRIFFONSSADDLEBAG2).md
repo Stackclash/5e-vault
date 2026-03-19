@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Forgekeeper's Spark
 *Wondrous item, minor, uncommon*  
@@ -37,3 +40,7 @@ The forgekeeper's spark is a sentient lawful neutral item with an Intelligence o
 The forgekeeper's spark is happiest in the fires of a forge, but also enjoys maintaining campfires. It is strict with the boundaries of its fire, preventing it from spreading uncontrollably, and is resourceful with how it manages any fuel that it's given. It enjoys assisting with tasks, such as cooking and metalworking, and snaps and pops with excited sparks when given something new to heat up.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 84*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

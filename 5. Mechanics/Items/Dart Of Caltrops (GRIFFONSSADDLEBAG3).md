@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dart of Caltrops
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
@@ -36,3 +39,7 @@ The tip of this all-metal dart resembles a single caltrop. If you hit a creature
 Once this property has been used, it can't be used again until the next dawn. In the meantime, the dart can still be used as a magic weapon.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

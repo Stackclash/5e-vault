@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nimblewrap Roll
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ A nimblewrap roll is a roll of gauze, leather, or fabric detailed with flowing p
 You can remove the roll from a weapon over the course of 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

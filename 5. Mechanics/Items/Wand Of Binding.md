@@ -19,6 +19,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  
@@ -37,3 +40,7 @@ While holding the wand, you can use an action to expend some of its charges to c
 While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] or [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]], or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
 
 *Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

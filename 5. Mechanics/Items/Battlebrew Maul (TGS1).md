@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Battlebrew Maul
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare*  
@@ -36,3 +39,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Whil
 For 1 minute after a target has been sprayed with acid in this way, the next time that target takes fire damage, it takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) fire damage as the liquor ignites.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 33*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

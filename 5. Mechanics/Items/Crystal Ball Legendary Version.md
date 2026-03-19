@@ -13,6 +13,9 @@ weight: 3
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crystal Ball (Legendary Version)
 *Wondrous item, major, legendary (requires attunement)*  
@@ -26,3 +29,7 @@ tier: major
 - [[/5. Mechanics/Items/Crystal Ball Of True Seeing.md\|Crystal Ball of True Seeing]]
 
 *Source: Dungeon Master's Guide p. 159*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

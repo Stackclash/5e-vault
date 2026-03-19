@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightscreen Hover Boots
 *Wondrous item, major, rare (requires attunement)*  
@@ -27,3 +30,7 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 The wall lasts until the start of your next turn. Once you use this property, it can't be used again for `dice:1d4|noform|noparens|avg` (`1d4`) hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 115*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

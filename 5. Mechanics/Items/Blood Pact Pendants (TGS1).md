@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blood Pact Pendants
 *Wondrous item, major, very rare*  
@@ -24,3 +27,7 @@ While the bound creatures are wearing their respective pendants and are on the s
 While the bound creatures are wearing their respective pendants and are on the same plane of existence, they're protected by this pact so long as one creature is still conscious. When a bound creature dies, it's immediately revived with `dice:2d10|noform|noparens|avg` (`2d10`) hit points plus twice the number of hit points it had sacrificed. When a creature is revived in this way, the other bound creature immediately falls to 0 hit points and is knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]], ending the blood pact and restoring both creatures' hit point maximums to normal. This property ignores any effect that would normally prevent a creature from falling to 0 hit points. Once the pact is ended in this way, the gems and pendants crack and are no longer magical.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 35*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

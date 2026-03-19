@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Gestures
 *Ring, minor, common*  
@@ -24,3 +27,7 @@ subtype:
 This gaudy ring has a delicately carved pink gem in the shape of a hand at its center. While wearing this ring, you can cast the [[/5. Mechanics/Spells/Minor Illusion.md\|minor illusion]] cantrip at will to enlarge, reduce, and change the color of the hand wearing the ring or any of its fingers. In addition, whenever you make a gesture with the hand wearing this ring, the pink gemstone moves to mimic the gesture and remains that way until you make a new one.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 106*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

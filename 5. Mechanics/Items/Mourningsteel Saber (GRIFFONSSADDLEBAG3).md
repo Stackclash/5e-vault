@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mourningsteel Saber
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ This once-rusted cavalry saber was reforged with mourningsteel scavenged from th
 In addition, you can use a bonus action while holding the weapon to inspire your allies into a rallying charge. Choose up to six creatures that can see and hear you. Until the start of your next turn, those creatures' speeds increase by 10 feet, and the first target that each of them hit before the start of your turn takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage. If a chosen creature is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], the effects of that condition are suppressed until the start of your next turn. Once this property of the weapon has been used, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

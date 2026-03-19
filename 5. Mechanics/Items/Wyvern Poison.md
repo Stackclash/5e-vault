@@ -14,6 +14,9 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  
@@ -24,3 +27,7 @@ subtype:
 This poison must be harvested from a dead or [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] [[/5. Mechanics/Bestiary/Dragon/Wyvern.md\|wyvern]]. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking `dice:7d6|noform|noparens|avg|text(24)` (`7d6`) poison damage on a failed save, or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

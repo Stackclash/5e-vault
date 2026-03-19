@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Magic Pocket
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ The hole to the pocket is 4 inches wide, preventing larger objects from being wi
 Placing the pocket in an extradimensional space while it's already connected to another one immediately severs the connection. After an hour in the new space, the pocket forms a new connection to the space as normal.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ rarity: unknown\Magic
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hag Eye
 
@@ -22,3 +25,7 @@ A hag coven can craft a magic item called a hag eye, which is made from a real e
 A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]]. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 
 *Source: Monster Manual p. 177*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

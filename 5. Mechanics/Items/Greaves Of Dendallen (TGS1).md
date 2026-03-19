@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Greaves of Dendallen
 *Wondrous item, cursed item, major, rare (requires attunement)*  
@@ -28,3 +31,7 @@ When you first wear the greaves of Dendallen, you feel your legs suddenly ache. 
 You can't remove the greaves until they're targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell. When you remove the greaves, your walking speed becomes 0. For every 24 hours that pass after removing the greaves, your walking speed increases by 5 feet, up to your normal maximum amount.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 74*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

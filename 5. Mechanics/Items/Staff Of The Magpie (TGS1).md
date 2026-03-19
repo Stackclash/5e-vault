@@ -22,6 +22,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of the Magpie
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a spellcaster)*  
@@ -38,3 +41,7 @@ This magic stone staff weighs 10 pounds and has the bust of a magpie at its top.
 The staff has 10 charges. While holding the staff, you can use your action to cast one of the following spells from it: [[/5. Mechanics/Spells/Fly.md\|fly]] (3 charges) or [[/5. Mechanics/Spells/Locate Object.md\|locate object]] (2 charges). The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the staff's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff as the magpie springs to life and flies away.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

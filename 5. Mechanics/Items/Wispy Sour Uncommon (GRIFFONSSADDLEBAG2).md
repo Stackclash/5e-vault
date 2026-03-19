@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Wispy Sour (Uncommon)
 *Potion, minor, uncommon*  
@@ -28,3 +31,7 @@ The following wispy sour is an uncommon variant with additional properties. It a
 For 1 minute after drinking this potion, you can regain `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) hit points once on each of your turns when you reduce a hostile creature to 0 hit points. If the creature is a construct or undead, you don't regain any hit points in this way. This variant contains a harmless will-o'-wisp fragment. Hazy visions of lost souls occasionally drift through the drink's cheery liquid.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 192*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

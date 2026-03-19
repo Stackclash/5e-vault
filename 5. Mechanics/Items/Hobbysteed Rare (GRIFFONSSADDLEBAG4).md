@@ -10,6 +10,9 @@ aliases:
 weight: 2
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hobbysteed (Rare)
 *Wondrous item, rare*  
@@ -22,3 +25,7 @@ While holding this stuffed hobby horse, which weighs 2 pounds, you can mount or 
 The toy horse head of every hobbysteed is unique in its appearance, and typically creates a horse that resembles it. A rare hobbysteed creates a [[/5. Mechanics/Bestiary/Celestial/Pegas(US).md\|pegasus]] and uses its statistics, instead of a riding horse, when you speak its command word.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

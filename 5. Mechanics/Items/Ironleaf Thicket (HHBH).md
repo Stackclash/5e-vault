@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ironleaf Thicket
 *Herb, rare*  
@@ -30,3 +33,7 @@ A thick and hardy bush with leaves that display a distinctive metallic lustre. W
 For 4 hours after using this herb, you have a +2 bonus to AC, as well as a shiny metallic grey colouration to your skin.
 
 *Source: Hamund's Herbalism Handbook p. 19*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

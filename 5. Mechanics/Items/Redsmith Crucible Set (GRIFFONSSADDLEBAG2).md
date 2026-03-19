@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Redsmith Crucible Set
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This set of magic [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]] from th
 Once this property of the tools has been used, it can't be used again for 24 hours. In the meantime, the tools can still be used as magic [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]].
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

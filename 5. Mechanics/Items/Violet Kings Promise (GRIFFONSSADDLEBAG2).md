@@ -26,6 +26,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Violet King's Promise
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement by a bard, cleric, paladin, or ranger)*  
@@ -60,3 +63,7 @@ After you roll dice to restore hit points to a single creature or roll damage fo
 The Violet King's promise makes its wielder empathic and reluctant to resort to violence. While attuned to the weapon, you gain the following flaw: "I am slow to resort to violence, even if it's at the cost of my own safety." In addition, if you are attuned to the weapon for 24 consecutive hours, your soft-heartedness causes you to lose your ferocity and battle-readiness. You have disadvantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) checks and take a –5 penalty to initiative rolls. These effects can be removed with a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but not while you are attuned to the weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 180*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

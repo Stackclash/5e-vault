@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Avian Circlet
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This ornate silver tiara grants you power over certain flying creatures. You can
 In addition, you can touch a willing beast with a flying speed. For 1 minute, you can see through the creature's eyes, sharing any of its special visual senses for the duration. You are blinded to your own surroundings while you share its vision in this way. You can end this effect early using an action to return to your normal senses. Once this property has been used, it can't be used again until this next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 30*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pop-Up Business Card
 *Wondrous item, minor, common*  
@@ -26,3 +29,7 @@ You can use an action to toss the card to a point on the ground within 10 feet o
 When the goblin senses that there's no more business to be done, it snaps its fingers and disappears in a puff of smoke, along with the stall. If the goblin is harmed, both it and the stall immediately disappear. In either case, the card is then destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

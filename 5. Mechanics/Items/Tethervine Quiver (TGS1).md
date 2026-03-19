@@ -17,6 +17,9 @@ tier: minor
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Tethervine Quiver
 *Wondrous item, adventuring gear, minor, uncommon (requires attunement)*  
@@ -31,3 +34,7 @@ If you hit a creature with an arrow or bolt that was connected to the vine, the 
 You can only fire a connected piece of ammunition as far as you have the vine to. The plant grows up to 120 feet long and regrows up to 30 feet of vine daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

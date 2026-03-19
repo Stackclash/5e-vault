@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Null Chalk
 *Wondrous item, minor, very rare*  
@@ -28,3 +31,7 @@ The first time a celestial, elemental, fey, fiend, or undead creature attempts t
 This effect lasts for 8 hours or until a break of at least one foot is made in the line, which causes it to instantly lose all magical properties. A creature can spend 1 minute to smudge, smear, erase, or otherwise remove the line enough to disable its effects. When targeted by the [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell, the line is treated as if it were a 6th-level spell. If the line is dispelled in this way, its effects are disabled for 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 91*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

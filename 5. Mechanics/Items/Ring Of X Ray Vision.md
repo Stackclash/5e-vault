@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Ring of X-ray Vision
 *Ring, major, rare (requires attunement)*  
@@ -27,3 +30,7 @@ While wearing this ring, you can use an action to speak its command word. When y
 Whenever you use the ring again before taking a long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
 *Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frozen Fuel
 *Herb, rare*  
@@ -30,3 +33,7 @@ An innocuous looking plant growing in frozen fields that is often overlooked by 
 You may throw this herb as a ranged weapon attack at a point within 20 feet of you that you can see causing the bulb of this herb to burst and forcing all creatures within 5 feet of it to make a DC 15 Dexterity saving throw. On a failure, a creature is covered in a sticky, flammable resin which makes them vulnerable to fire damage. A creature covered in this resin or a creature adjacent to them may use their action to wipe this resin off, ending this effect immediately.
 
 *Source: Hamund's Herbalism Handbook p. 15*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

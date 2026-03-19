@@ -13,6 +13,9 @@ rarity: none
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Druidic Focus
 *Spellcasting focus*  
@@ -26,3 +29,7 @@ subtype:
 - [[/5. Mechanics/Items/Yew Wand.md\|Yew wand]]
 
 *Source: Player's Handbook p. 151*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

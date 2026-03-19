@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gelatinous Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon (requires attunement)*  
@@ -35,3 +38,7 @@ This whip was pulled from the ooze of a gelatinous cube. When motionless, the wh
 While you are attuned to this weapon, its ooze is harmless to you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 87*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

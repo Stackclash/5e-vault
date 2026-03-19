@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Poltergeist Candle Holder
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This pewter candle holder makes your hand feel slightly numb while holding it. While holding it, you can use a bonus action to speak its command word to cause the candle holder to magically hover just above your shoulder. The holder floats back to the ground if anything other than a candle is placed on it. In addition, any candle in the holder releases a thin wisp of smoke while lit. The smoke hangs motionless in the air, regardless of wind, and dissipates after 6 seconds.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

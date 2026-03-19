@@ -10,6 +10,9 @@ aliases:
   - Starlight's Reach
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starlight's Reach
 *Wondrous item, very rare (requires attunement)*  
@@ -27,3 +30,7 @@ You can use a bonus action to dismiss the javelin. When you do, the shimmering s
 After the javelin attacks for the fifth time, it disappears, and any stars created by it wink out without creating any beams.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

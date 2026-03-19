@@ -17,21 +17,21 @@ alignment: Chaotic Evil
 relationships: []
 partyRelationships:
   Midnight Covenant: Friendly
-location:
-pronounced:
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+location: null
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 > [!infobox]
 > # `=this.file.name`

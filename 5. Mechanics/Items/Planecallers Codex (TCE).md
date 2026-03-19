@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Planecaller's Codex
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
@@ -33,3 +36,7 @@ The book has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 - When you cast a conjuration spell that summons or creates one creature, you can expend 1 charge to grant that creature advantage on attack rolls for 1 minute.  
 
 *Source: Tasha's Cauldron of Everything p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

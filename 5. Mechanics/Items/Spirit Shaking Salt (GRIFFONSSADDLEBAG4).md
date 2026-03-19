@@ -9,6 +9,9 @@ aliases:
   - Spirit-Shaking Salt
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spirit-Shaking Salt
 *Wondrous item, uncommon*  
@@ -26,3 +29,7 @@ When you cast the salt away from you, any undead with the Incorporeal Movement t
 When you sprinkle the salt on a possessed creature, the possession immediately ends.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

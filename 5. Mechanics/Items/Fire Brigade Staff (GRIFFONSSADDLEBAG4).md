@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Fire Brigade Staff
 *Staff, weapon, rare*  
@@ -55,3 +58,7 @@ Alternatively, you can use a reaction when a creature that you can see takes fir
 When the bubble pops, any other creature within 5 feet of the surrounded target takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage, or fire damage if the bubble turns into steam.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

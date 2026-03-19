@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scholar's Cap
 *Wondrous item, major (requires attunement)*  
@@ -29,3 +32,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Scholars Cap 3 (TGS1).md\|Scholar's Cap +3]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 109*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

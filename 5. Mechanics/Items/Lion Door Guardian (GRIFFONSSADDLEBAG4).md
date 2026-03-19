@@ -9,6 +9,9 @@ aliases:
   - Lion Door Guardian
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lion Door Guardian
 *Wondrous item, uncommon*  
@@ -22,3 +25,7 @@ If a creature attempts to pick the door's lock or break the door down, the knock
 The lion returns to its normal form and reappears on the door after 1 minute. If the lion is reduced to 0 hit points, it returns to its normal form on the ground at the foot of the door. Regardless, the lion regains all its hit points when it returns to its normal form.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

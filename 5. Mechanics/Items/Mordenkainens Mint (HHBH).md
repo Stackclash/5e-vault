@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mordenkainen's Mint
 *Herb, rare*  
@@ -30,3 +33,7 @@ Named for the famous mage that first discovered them, these arrow shaped mint le
 As a bonus action, you may begin chewing this herb. While chewing this herb, you have advantage on any Constitution saving throws made to maintain concentration on a spell. This herb may be chewed for up to 10 minutes, which must be done consecutively.
 
 *Source: Hamund's Herbalism Handbook p. 24*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

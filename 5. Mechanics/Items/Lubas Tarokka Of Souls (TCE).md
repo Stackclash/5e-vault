@@ -10,6 +10,9 @@ aliases:
   - Luba's Tarokka of Souls
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Luba's Tarokka of Souls
 *Wondrous item, artifact (requires attunement)*  
@@ -92,3 +95,7 @@ A halfling Vistani, Mother Luba led one of the largest groups of Vistani in the 
 Some years ago, Mother Luba disappeared into the mists, leaving behind only the Tarokka of Souls. It is said that if you draw the Mists card from it, you can hear the whispers of her kind voice.
 
 *Source: Tasha's Cauldron of Everything p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -16,6 +16,9 @@ rarity: none
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Studded Leather Armor
 *Light armor*  
@@ -27,3 +30,7 @@ subtype:
 Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
 *Source: Player's Handbook p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

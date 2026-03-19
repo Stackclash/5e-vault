@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hammer of Whispers
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), cursed item, major, uncommon (requires attunement)*  
@@ -41,3 +44,7 @@ This weapon is cursed, and becoming attuned to it extends the curse to you. As l
 When you reduce a creature to 0 hit points using this weapon, make a DC 10 Wisdom saving throw. On a failed save, your mind is plagued with mysterious whispers; you take `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage and are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

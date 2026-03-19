@@ -9,6 +9,9 @@ aliases:
   - Security Antennae
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Security Antennae
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ These long blue rods are the result of applying additional enchantments to the s
 When you plant the antennae in the ground, you may choose for the antennae to not alert you to creatures above or below a certain size of your choosing or creatures moving above or below a certain speed threshold. Once planted, the security antennae cannot be used again for another 16 hours.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

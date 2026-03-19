@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aloyleaf
 *Herb, common*  
@@ -30,3 +33,7 @@ An absolutely wondrous leaf found on bushes and hedges that have grown on top of
 This herb provides enough leaves to cover `dice:1d6|noform|noparens|avg` (`1d6`) square feet. These leaves are as hard as steel, but are as lightweight as normal leaves and never decompose unless buried under soil.
 
 *Source: Hamund's Herbalism Handbook p. 5*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

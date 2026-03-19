@@ -13,6 +13,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Sensing
 *Potion, uncommon*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you gain the ability to sense the presence of any creature within 30 feet of you that is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] or on the Ethereal Plane. You can pinpoint such a creature that is moving. This incredibly fishy smelling potion is a sickly purple colour with cloudy segments that take a more distinct shape when you hold it and imagine things.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

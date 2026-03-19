@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ball of Wild Earth
 *Wondrous item, minor, common*  
@@ -30,3 +33,7 @@ The ball of wild earth is a sentient neutral item with an Intelligence of 2, a W
 The ball of wild earth is most happy when rolling through rich, healthy soil. Most can be found, at least initially, in mountainous farmlands, but even urban ones can enjoy the dust and traces of weird, foreign dirt that are ever-present in well-traveled cities. The quickest way to make a ball of wild earth happy is to give it gemstone dust to roll in, whereas removing the dirt and mud that surround its central pebble is certain to upset it. By reforming the dirt covering its form, the ball can make vague facial expressions based on the emotions its seen other creatures make.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 41*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

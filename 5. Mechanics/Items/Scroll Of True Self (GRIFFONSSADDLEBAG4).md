@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of True Self
 *Scroll, very rare*  
@@ -24,3 +27,7 @@ This long scroll is covered in writing. It takes 1 minute to read it aloud in it
 This scroll is only destroyed if the spell is concentrated on for the full duration and becomes permanent. The spell ends early if another creature reads from the scroll before then and gains its effects.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

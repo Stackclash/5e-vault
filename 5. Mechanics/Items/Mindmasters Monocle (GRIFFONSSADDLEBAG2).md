@@ -14,6 +14,9 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Mindmaster's Monocle
 *Wondrous item, major, very rare (requires attunement by a wizard)*  
@@ -33,3 +36,7 @@ While wearing the monocle, you can use an action to expend some of its charges t
 While wearing the monocle, you can use a bonus action to expend 3 of its charges to attempt to break a creature's concentration on a spell. The target must be within 60 feet of you, and you must be able to see it. When you do, make an Intelligence check contested by the target's spellcasting ability check. If you win the contest, the target's concentration on the spell ends.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

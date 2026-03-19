@@ -25,6 +25,9 @@ type: armor
 subtype:
   - light
   - medium
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Pollinator Carapace
 *Major, uncommon (requires attunement by a druid or ranger)*  
@@ -44,3 +47,7 @@ While you are attuned to three magic items that have this named property, the ar
 While the armor's cape is transformed, it releases a sparkling mist of enchanting pollen. For the duration, any insect or plant creature that targets you with an attack or harmful spell must first make a DC 15 Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

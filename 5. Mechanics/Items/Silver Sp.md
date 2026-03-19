@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - treasure-coinage
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver (sp)
 *Treasure (coinage)*  
@@ -36,3 +39,7 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 *Source: Player's Handbook p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

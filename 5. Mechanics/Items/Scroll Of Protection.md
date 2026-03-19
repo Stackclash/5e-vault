@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Protection
 *Scroll, minor, rare*  
@@ -32,3 +35,7 @@ subtype:
 - [[/5. Mechanics/Items/Scroll Of Protection From Undead.md\|Scroll of Protection from Undead]]
 
 *Source: Dungeon Master's Guide p. 199*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

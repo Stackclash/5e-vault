@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Elixir of Truth
 *Potion, minor, uncommon*  
@@ -29,3 +32,7 @@ Command: Two truths and a lie, each one said when adding an ingredient
 When a creature drinks this elixir, it must make a Charisma saving throw against your wizard spell save DC. A creature can choose to fail this saving throw. On a failed save, the creatures eyes become pale and it can not speak a deliberate lie for the next 10 minutes. An affected creature is aware of the elixirs effect and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 51*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

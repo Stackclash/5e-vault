@@ -10,6 +10,9 @@ aliases:
 cost: 10000
 attunement: false
 rarity: none
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tooth Capsule
 
@@ -22,3 +25,7 @@ Determining whether a tooth in someone else's mouth is a tooth capsule takes a s
 Tooth capsules are usually priced at 100 gp plus the cost of whatever potion they're loaded with. The use of poison or other harmful potions in a tooth capsule is illegal in some places, and the black market price for one in such a place might be much higher.
 
 *Source: Deep Magic p. 172*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

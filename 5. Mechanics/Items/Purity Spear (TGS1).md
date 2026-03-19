@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Purity Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, legendary (requires attunement by a good-aligned creature)*  
@@ -52,3 +55,7 @@ If you move at least 20 feet straight toward a target and hit it with the spear 
 While attuned to the spear, you are immune to being cursed by spells and other abilities. For the purposes of this property, a curse refers to any spell or ability that has "curse" in its name or description. If you are already afflicted with a curse when you attune to the spear or are attuned to a cursed item, you suppress the effects of the curse for as long as you remain attuned to the spear. If you break your attunement with the spear, the curse is no longer suppressed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

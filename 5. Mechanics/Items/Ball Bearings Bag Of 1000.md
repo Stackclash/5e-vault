@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ball Bearings (bag of 1,000)
 *Adventuring gear*  
@@ -25,3 +28,7 @@ subtype:
 As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. A creature moving through the area at half speed doesn't need to make the saving throw.
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

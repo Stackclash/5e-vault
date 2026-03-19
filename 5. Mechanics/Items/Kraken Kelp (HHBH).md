@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kraken Kelp
 *Herb, rare*  
@@ -30,3 +33,7 @@ Inky black and with distinctive bulbs along its length that resembles foreboding
 This herb has `dice:1d8|noform|noparens|avg` (`1d8`) charges, corresponding to the amount of intact bulbs along its length. As part of using this herb, you must expend 1 charge by popping the bulb and applying its inky miasma to yourself. For an hour after being used, you emit a 10-foot radius cloud of darkness that only you can see through. Anything within the cloud is considered "heavily obscured" to any creature other than you.
 
 *Source: Hamund's Herbalism Handbook p. 21*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

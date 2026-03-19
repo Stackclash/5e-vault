@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Red Queen's Burden
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
@@ -60,3 +63,7 @@ Alternatively, while holding the glaive, you can expend 2 of its charges at the 
 The Red Queen's burden makes its wielder angry and untrusting. While attuned to the weapon, you gain the following flaw: "I can only trust one person. Everyone else is either a subject, a threat, or both." You or your GM determine who you can trust. In addition, if you are attuned to the weapon for 24 consecutive hours, your hotheadedness leaves your mind open to weakness and distraction. You are vulnerable to psychic damage and have disadvantage on Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) checks. These effects can be removed with a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but not while you are attuned to the weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

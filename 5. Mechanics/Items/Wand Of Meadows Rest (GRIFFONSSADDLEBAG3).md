@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: short-rest
 ---
 # Wand of Meadow's Rest
 *Wand, major, rare*  
@@ -32,3 +35,7 @@ While holding the wand, you can use an action to expend 1 or more of its charges
 While holding the wand, you can use an action to expend 7 of its charges and wave it in the air above you. You and up to five willing creatures you choose within 20 feet of you are lulled into a restful sleep. A sleeping creature remains [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] for 10 minutes. It wakes up early if it takes damage or someone uses an action to shake or slap the sleeper awake. If a creature remains asleep for the full duration, it wakes up and gains the benefit of a short rest. This property of the wand fails if you aren't outside.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pole of Angling
 *Wondrous item, minor, common*  
@@ -19,3 +22,7 @@ tier: minor
 While holding this 10-foot pole, you can speak a command word and transform it into a fishing pole with a hook, a line, and a reel. Speaking the command word again changes the fishing pole back into a normal 10-foot pole.
 
 *Source: Xanathar's Guide to Everything p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

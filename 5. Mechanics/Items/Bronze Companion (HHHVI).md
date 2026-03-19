@@ -9,6 +9,9 @@ aliases:
   - Bronze Companion
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bronze Companion
 *Wondrous item, uncommon*  
@@ -22,3 +25,7 @@ This statue is friendly towards whoever spoke its command word and obeys basic i
 If its command word is spoken again, the statue becomes inert once more.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

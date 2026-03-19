@@ -13,6 +13,9 @@ rarity: legendary
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Black Elixir
 *Potion, legendary*  
@@ -27,3 +30,7 @@ Its true power is revealed, however, when black elixir is smeared on a doorway o
 The heart of a marut, the powdered horn of a ki-rin, and a vial of black mud taken from the bottom of a lake that at least one celestial or fiend has bathed in.
 
 *Source: Deep Magic p. 169*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

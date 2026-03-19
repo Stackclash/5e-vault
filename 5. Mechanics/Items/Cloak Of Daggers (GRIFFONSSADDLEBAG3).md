@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of Daggers
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ This asymmetrical cloak has a ring of silver daggers along its bottom hem. While
 In addition, you can use a bonus action to summon a magic silver dagger to one or both of your hands, provided that they're empty. Each dagger disappears in a puff of smoke after 1 minute or at the end of your turn if you aren't holding it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

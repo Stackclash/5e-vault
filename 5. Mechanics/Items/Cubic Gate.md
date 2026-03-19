@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Cubic Gate
 *Wondrous item, major, legendary*  
@@ -24,3 +27,7 @@ You can use an action to press one side of the cube to cast the [[/5. Mechanics/
 The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide p. 160. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Inferno Rope
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ This 10-foot long rope smells of sulfur and crackles with embers when moved. As 
 The rope rematerializes at the base of the flames after 1 minute. Once the rope has been lit, it can't be used again in this way until the next dawn. The rope can only be cut by magical means and becomes a nonmagical length of rope once cut.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 80*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

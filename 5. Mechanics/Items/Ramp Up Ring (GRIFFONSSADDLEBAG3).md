@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ramp-Up Ring
 *Ring, major, very rare*  
@@ -28,3 +31,7 @@ While the ring has 3 charges, you gain a +3 bonus to damage rolls from weapon at
 The ring loses all charges when combat ends or when you remove the ring. If you're wearing the ring when it loses these charges, you then gain 4 temporary hit points for each charge lost. These temporary hit points end early if you remove the ring.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

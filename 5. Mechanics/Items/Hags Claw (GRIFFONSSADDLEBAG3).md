@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hag's Claw
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), cursed item, major, legendary (requires attunement)*  
@@ -45,3 +48,7 @@ Whenever you reduce a creature to 0 hit points using the dagger, there's a 10 pe
 A single [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell (or similar magic) fails to end the dagger's curse if your appearance has begun to change as a result of it. For each time your appearance has changed in this way, an additional use of remove curse or similar spell must be cast within a 24-hour period in order to end the curse. Ending the curse returns your appearance to normal.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

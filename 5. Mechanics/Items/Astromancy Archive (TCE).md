@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Astromancy Archive
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
@@ -33,3 +36,7 @@ The archive has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`)
 - When a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to expend 1 charge and force the creature to roll a `dice:d4|noform|noparens|avg` (`d4`) and apply the number rolled as a bonus or penalty (your choice) to the original roll. You can do this after you see the roll but before its effects are applied.  
 
 *Source: Tasha's Cauldron of Everything p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

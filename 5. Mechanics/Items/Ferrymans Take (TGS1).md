@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ferryman's Take
 *Wondrous item, major, rare*  
@@ -30,3 +33,7 @@ While the coins are heads up over the eyes of an unconscious creature, that crea
 While the coins are tails up over the eyes of a dead creature, that creature is under the effects of the [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell. Its body can't be detected through magical means, and the soul of the creature can't be contacted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 61*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

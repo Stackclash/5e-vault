@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Bulette Bulwark
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
@@ -28,3 +31,7 @@ This leather-wrapped shield was made from the armored body of a bulette and stil
 In addition, the shield has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While holding the shield, you can use a bonus action to speak the shield's command word and expend 1 of its charges. When you do, you gain [[/5. Mechanics/Rules/Senses.md#Tremorsense\|tremorsense]] out to a range of 30 feet. This effect lasts as long as you concentrate (as if concentrating on a spell), to a maximum of 1 minute, or until you drop or stow the shield.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 53*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

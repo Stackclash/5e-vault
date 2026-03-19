@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of the Scarecrow
 *Rod, major, uncommon*  
@@ -36,3 +39,7 @@ You can use a bonus action to speak the rod's second command word. If you're hol
 Once a command word has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Merrow Amulet
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Merrow Amulet
 *Wondrous item, uncommon (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: uncommon
 While wearing this amulet you can breathe both air and water and you know the Abyssal and Aquan languages.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

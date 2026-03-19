@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shield of the Everfighter
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
@@ -30,3 +33,7 @@ Alternatively, you can return the bracer to its shield form as a reaction when y
 In addition, if you're a fighter, you gain `dice:1d10|noform|noparens|avg` (`1d10`) temporary hit points when you use either your Action Surge or Second Wind class feature. If you are also holding the gladius of the everfighter, you can transform the shield as part of the same action or bonus action used to transform the weapon.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

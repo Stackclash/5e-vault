@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Courter's Perfume
 *Herb, common*  
@@ -30,3 +33,7 @@ A cream coloured rose able to attract insects of all kinds by magically adapting
 For 4 hours after using this herb, any creature that smells you, perceives you to smell like their favourite scent.
 
 *Source: Hamund's Herbalism Handbook p. 10*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ weight: 12
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alchemy Jug
 *Wondrous item, minor, uncommon*  
@@ -40,3 +43,7 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 ^liquid-max-amount
 
 *Source: Dungeon Master's Guide p. 150*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

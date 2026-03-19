@@ -9,6 +9,9 @@ aliases:
   - Demon Vellum
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Demon Vellum
 *Wondrous item, rare*  
@@ -21,3 +24,7 @@ This ashy grey vellum is crafted from the skin of a demon and is capable of summ
 However, whenever that spell is cast in this way, there is also a 10 percent chance that a demon will appear in an unoccupied space adjacent to the caster. This demon is chosen by the DM but must be of a Challenge Rating equal to or below the spell level that the triggering spell was cast at. This demon acts on its own initiative and is hostile to all non-demons around it but will prioritize attacking the caster if possible. The demon disappears after 1 minute, or if it drops to 0 hit points, whichever comes first.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 57*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

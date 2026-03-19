@@ -10,6 +10,9 @@ aliases:
   - Mask of Fear
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Mask of Fear
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ When a creature you can see starts its turn within 30 feet of you while you are 
 Once you have used this ability once, it cannot be used again until you finish a short rest.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

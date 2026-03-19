@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Hedonic Motivator
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  
@@ -35,3 +38,7 @@ This magic whip once belonged to an especially controlling succubus or incubus. 
 - The creature can add `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) to one ability check, attack roll, or saving throw it makes before the start of your next turn.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 102*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

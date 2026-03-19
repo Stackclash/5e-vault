@@ -9,6 +9,9 @@ aliases:
   - Oil of Defoliation
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Oil of Defoliation
 *Wondrous item, uncommon*  
@@ -19,3 +22,7 @@ Sometimes known as weedkiller oil, this greasy brown fluid contains the crushed 
 The oil can also be applied directly to a willing, helpless, or immobile plant or plant creature. In this case, the substance deals `dice:4d6|noform|noparens|avg` (`4d6`) necrotic damage, which is enough to kill most ordinary plant life smaller than a large tree.
 
 *Source: Deep Magic p. 171*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

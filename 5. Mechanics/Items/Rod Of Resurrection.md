@@ -21,6 +21,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Rod of Resurrection
 *Rod, major, legendary (requires attunement by a cleric, druid, or paladin)*  
@@ -33,3 +36,7 @@ The rod has 5 charges. While you hold it, you can use an action to cast one of t
 The rod regains 1 expended charge daily at dawn. If the rod is reduced to 0 charges, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the rod disappears in a burst of radiance.
 
 *Source: Dungeon Master's Guide p. 197*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Hailstorm Bow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), legendary (requires attunement)*  
@@ -45,3 +48,7 @@ For each charge you expend, you fire a magical arrow of pure ice from the bow in
 For each charge you expend, you fire a magical arrow of pure ice from the bow at a different point on the ground that you can see within 120 feet of you. Each arrow then grows into a 10-foot-square panel that's 1 foot thick and perpendicular to the ground. Each panel has AC 12, 30 hit points, and is vulnerable to fire damage. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice which side) and must make a DC 17 Dexterity saving throw. A creature takes `dice:3d8|noform|noparens|avg` (`3d8`) cold damage on a failed save, or half as much damage on a successful one. Each panel remains for 1 minute or until it's reduced to 0 hit points.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sandtrap Palm
 *Herb, rare*  
@@ -30,3 +33,7 @@ A palm with fronds which secrete a silica-phobic film that repels sand in order 
 You may spend 1 minute wrapping or unwrapping your hands and feet in this herb. While your hands and feet are wrapped in this herb, you suffer no penalty to your movement speed when moving through sandy terrain, and you have advantage on climbing surfaces covered in sand.
 
 *Source: Hamund's Herbalism Handbook p. 30*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

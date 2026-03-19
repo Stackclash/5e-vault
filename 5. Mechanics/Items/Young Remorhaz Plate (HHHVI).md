@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Young Remorhaz Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
@@ -31,3 +34,7 @@ subtype:
 This full set of plate armor was crafted from the insectoid carapace of a remorhaz. While wearing this armor, you have resistance to both fire and cold damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chapel Lantern
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ When the lantern is lit using holy water, the light that it sheds almost shimmer
 Each time that an undead creature takes radiant damage as result of the lantern's bright light, deduct 1 hour from the lantern's total burn time.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

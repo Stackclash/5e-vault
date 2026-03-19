@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hopping Bean
 *Herb, rare*  
@@ -30,3 +33,7 @@ Easily identified by their striking red exterior, these thumb-sized beans are fi
 As an action, you may crack open this herb and inhale the gases within. If you do so, your jump distance is tripled for the next hour.
 
 *Source: Hamund's Herbalism Handbook p. 18*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

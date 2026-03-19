@@ -14,6 +14,9 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Grimoire of the Green Arts
 *Wondrous item, major, very rare (requires attunement by a wizard)*  
@@ -25,3 +28,7 @@ This green leather book has a gilded cover and painted imagery of sage and witch
 If you have the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell prepared while the book is on your person and cast it on yourself, you can choose to retain your Intelligence, Wisdom, and Charisma scores for the duration of the spell. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

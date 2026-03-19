@@ -14,6 +14,9 @@ attunement-requirement:
   - bard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Instrument of Roses and Thorns
 *Wondrous item, major, very rare (requires attunement by a bard)*  
@@ -25,3 +28,7 @@ This string instrument is ornamented with rose and thorn designs. Whenever you u
 A creature that attempts to play the instrument without being attuned to it must succeed on a DC 16 Constitution saving throw or take `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 111*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonband
 *Wondrous item, minor, rare*  
@@ -33,3 +36,7 @@ While wearing the band, you can use an action to speak its command word and caus
 Optional Footer
 
 *Source: The Griffon's Saddlebag, Book 2 p. 73*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

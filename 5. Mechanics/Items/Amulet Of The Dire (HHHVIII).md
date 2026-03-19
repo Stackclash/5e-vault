@@ -10,6 +10,9 @@ aliases:
   - Amulet of the Dire
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Amulet of the Dire
 *Wondrous item, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ While enlarged in this way, you have advantage on Strength checks and Strength s
 This enlarging lasts for 1 hour, after which you return to your original size. You may also end the effect early by speaking the command word again (no action required). Once this ability has been used once, you cannot use it again until you finish a short or long rest.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 80*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

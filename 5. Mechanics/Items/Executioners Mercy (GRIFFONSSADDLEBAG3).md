@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Executioner's Mercy
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare (requires attunement by a lawful creature)*  
@@ -37,3 +40,7 @@ This heavy blade is inscribed with old tenets of justice and mercy. When you hit
 The sword has 4 charges and regains all expended charges daily at dawn. As a bonus action, you can expend 1 of the weapon's charges to touch a creature within your reach with the flat of the blade. For 1 minute, that creature becomes warded against death. While this ward is active, the creature has resistance to slashing damage, and if it is reduced to 0 hit points but not killed outright, the ward is consumed and the creature drops to 1 hit point instead. The effect then ends.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ rarity: legendary
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Iron Elixir
 *Potion, legendary*  
@@ -25,3 +28,7 @@ This dark, grainy liquid tastes positively awful. Anyone imbibing the elixir gai
 The core of an iron golem, a shard of purest adamantine, and the powdered teeth of a mountain giant.
 
 *Source: Deep Magic p. 169*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

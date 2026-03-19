@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of the Space Worm
 *Potion, very rare*  
@@ -30,3 +33,7 @@ When you drink this potion, you temporarily gain an other-dimensional awareness 
 This potion has a chunky consistency and is pitch black. It has a lingering flavor of spice that is vaguely reminiscent of cinnamon.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 94*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

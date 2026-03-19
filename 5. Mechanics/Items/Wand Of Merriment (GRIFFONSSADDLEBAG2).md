@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: its
+item_recharge: dawn
 ---
 # Wand of Merriment
 *Wand, major, very rare (requires attunement)*  
@@ -39,3 +42,7 @@ As an action, you can wave this wand over up to 1 gallon of water and expend 1 c
 If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, all but one of the wand's leaves and berry stems wither away and die. When this happens, the wand becomes a common wand that does not require attunement, but has only 1 charge. This common version of the wand retains only the festive property of its original form and regains the expended charge daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 182*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

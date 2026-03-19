@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of Maleficence
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  
@@ -53,3 +56,7 @@ When a creature you can see within 30 feet of you dies, you may use your reactio
 This staff regains all expended charges at dawn. Whenever you use the last charge, there is a 10 percent chance that this staff disintegrates into feather-like ashes and becomes useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 97. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

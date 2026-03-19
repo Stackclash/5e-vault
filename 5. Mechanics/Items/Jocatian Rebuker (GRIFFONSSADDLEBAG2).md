@@ -17,6 +17,9 @@ attunement-requirement:
   - creature of neutral alignment
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Jo'Catian Rebuker
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a creature of neutral alignment)*  
@@ -34,3 +37,7 @@ Once a creature has been affected by this property, it can't be affected by it a
 While you're attuned to this shield as well as the Jo'Catian denier, you can use charges from either item to fuel this shield's properties.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 111*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

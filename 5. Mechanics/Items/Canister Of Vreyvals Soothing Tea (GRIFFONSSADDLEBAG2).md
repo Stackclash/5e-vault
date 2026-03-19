@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Canister of Vreyval's Soothing Tea
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This small metal canister contains `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) 
 You can drink the tea using an action, although it's most commonly finished over the course of at least 1 minute. If the tea has been left to cool before you drink it, you regain only half the amount of hit points and temporary hit points, and no other effects are suppressed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

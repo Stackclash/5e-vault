@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Hatred, the Wrathful Edge
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, artifact (requires attunement by a creature the axe deems worthy)*  
@@ -72,3 +75,7 @@ The weapon enjoys the sensation of anger. It sees all conflict eventually reachi
 The only way to destroy the axe is to dispel the malevolent spirit within it over time from the Upper Planes. Casting [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] on the weapon every day for 5 years while on an Upper Plane causes the wrathful spirit within it to eventually succumb and perish. When the spirit leaves the axe, it loses all of its properties except for its bonus to attack and damage rolls, but becomes no harder to destroy than a normal magic weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 197*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

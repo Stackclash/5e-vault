@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dagger of First Light
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  
@@ -36,3 +39,7 @@ You have advantage on initiative rolls while holding this weapon. If you're firs
 In addition, you can use a bonus action to speak the weapon's command word to cause its blade to glow. The glowing weapon sheds bright light in a 20-foot radius and dim light for an additional 20 feet. While the weapon is glowing, it deals radiant damage instead of piercing. You can use a bonus action to speak the weapon's command word again to cause its light to fade and return to normal.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 68*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

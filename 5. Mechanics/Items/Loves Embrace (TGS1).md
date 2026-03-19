@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Love's Embrace
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, legendary (requires attunement by one or two friendly creatures)*  
@@ -44,3 +47,7 @@ Each scimitar also has its own elemental effect—either fire or cold—that inf
 Each attuned creature can cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell once at 4th level without expending a spell slot. You do not need material or somatic components when casting it in this way. Once you cast this spell, you cannot cast it again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 85*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

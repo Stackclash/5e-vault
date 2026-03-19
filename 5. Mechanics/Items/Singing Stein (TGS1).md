@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Singing Stein
 *Wondrous item, minor, common*  
@@ -31,3 +34,7 @@ The stein sings songs slightly out of key if the drink inside is poisoned, which
 ^singing-stein-songs
 
 *Source: The Griffon's Saddlebag, Book 1 p. 117*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Patch of the Pail
 *Wondrous item, minor, common*  
@@ -32,3 +35,7 @@ You extinguish all exposed, nonmagical flames of your choice that you can see wi
 Once a patch has been removed from a piece of clothing it's attached to, the patch loses its magic and becomes a mundane patch. If the magic patch is removed from a [[/5. Mechanics/Items/Robe Of Useful Items.md\|robe of useful items]], the patch has a 50 percent chance to keep its magical properties and can be reattached to a piece of clothing again.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Domclavis
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This brass key's head is in the shape of a small doorknob and has a keyhole cut 
 The room remains for up to 1 hour. At the end of the duration, anything not original to the room is shunted out of the space. The effect ends early if the door used to create the extradimensional space is destroyed. Once this property of the key has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

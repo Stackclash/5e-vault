@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pocket Poppet
 *Wondrous item, minor, uncommon*  
@@ -31,3 +34,7 @@ On a failed save, the object magically vanishes from the poppet's pocket and rea
 ^connection-save-modifier
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

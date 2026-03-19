@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cat Eye Glasses
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ These glasses are incredibly dark. When light hits them at the right angle, they
 If you have the Sunlight Sensitivity trait, you are unaffected by the trait while wearing the glasses.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

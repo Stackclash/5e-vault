@@ -9,6 +9,9 @@ aliases:
   - Pickpocket's Pouch
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pickpocket's Pouch
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This black leather bag sits on your hip to provide easy access when depositing h
 The bag has a latch that can be opened in one of two ways. Opening it the first way reveals the inside of the bag as normal. Opening it the second way causes an illusion to appear over the objects in the bag; the illusion is of five loose copper pieces, a quill and ink, and a waterskin. To discern that the contents are an illusion, a creature can use its action to inspect the pouch and must succeed on a DC 13 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. The illusion also fails to hold up to physical inspection.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ooze Cube Ring
 *Ring, rare (requires attunement)*  
@@ -27,3 +30,7 @@ This cubic, platinum ring has a sliver of a gelatinous cube inset at its top ins
 - You can use an action to make an unarmed strike with the hand wearing the ring. Your hand turns gelatinous and tendril-like for the duration of the attack. On a hit, the target takes acid damage equal to `dice:3d6|noform|noparens|avg` (`3d6`) + your Strength modifier, instead of the normal damage for an unarmed strike. Your hand then returns to normal.  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

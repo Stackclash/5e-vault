@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ki-Rin's Bounty
 *Herb, rare*  
@@ -35,3 +38,7 @@ For 4 hours after using this herb, anytime a dice would be rolled to restore hit
 
 
 *Source: Hamund's Herbalism Handbook p. 21*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

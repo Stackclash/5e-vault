@@ -13,6 +13,9 @@ rarity: varies
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Oozo
 *Potion*  
@@ -25,3 +28,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Oozo Very Rare (GRIFFONSSADDLEBAG4).md\|Oozo (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

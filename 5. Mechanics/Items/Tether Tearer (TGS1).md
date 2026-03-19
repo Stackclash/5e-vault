@@ -23,6 +23,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tether Tearer
 *Major, uncommon*  
@@ -32,3 +35,7 @@ subtype:
 This silver axe can temporarily bind a creature to its corporeal form. This axe deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) force damage to any creature it hits that has the *incorporeal movement* trait. When it does, that creature can't benefit from its *incorporeal movement* trait again until the end of its next turn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 131*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

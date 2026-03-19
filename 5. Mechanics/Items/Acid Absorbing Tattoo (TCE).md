@@ -14,6 +14,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Acid Absorbing Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  
@@ -36,3 +39,7 @@ While the tattoo is on your skin, you have resistance to acid damage.
 When you take acid damage, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 119*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

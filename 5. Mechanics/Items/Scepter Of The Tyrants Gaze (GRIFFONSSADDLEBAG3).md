@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Scepter of the Tyrant's Gaze
 *Rod, major, very rare (requires attunement)*  
@@ -45,3 +48,7 @@ The scepter has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 
 Alternatively, you can expend 3 or more charges from the scepter to cast [[/5. Mechanics/Spells/Counterspell.md\|counterspell]] from it, using your reaction. The spell's level increases by 1 for each charge you spend after the third.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Demon Music Box
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Demon Music Box
 *Wondrous item, common*  
@@ -18,3 +21,7 @@ rarity: common
 You may spend an action to wind up and activate this music box, playing an eerie song that changes every time it is played. This song lasts for 1 minute and can be heard from up to 30 feet away.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alchemist's Firethrower
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  
@@ -42,3 +45,7 @@ The device loses 1 charge each time you use it to make a ranged weapon attack, w
 Alternatively, while holding the machine, you can use an action to expend 10 of its charges to magically release a belching stream of concentrated alchemist's fire from it in a 30-foot line that is 5 feet wide. Each creature in the line must succeed on a DC 15 Dexterity saving throw or take `dice:8d6|noform|noparens|avg` (`8d6`) fire damage. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

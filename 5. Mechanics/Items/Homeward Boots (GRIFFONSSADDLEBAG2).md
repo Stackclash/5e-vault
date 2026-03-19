@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Homeward Boots
 *Wondrous item, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ You can speak the boots' second command word as an action while wearing them to 
 Once you use the boots to teleport in this way, they can't do so again until `dice:1d3|noform|noparens|avg` (`1d3`) days have passed. In the meantime, you can still speak the boots' first command word.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 106*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

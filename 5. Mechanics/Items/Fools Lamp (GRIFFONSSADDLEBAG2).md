@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Fool's Lamp
 *Wondrous item, major, very rare*  
@@ -42,3 +45,7 @@ When a creature holding the lamp speaks such a phrase using an action, the GM us
 If a creature affected by the lamp is targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic, one of the lamp's effects on the creature ends.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 82*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

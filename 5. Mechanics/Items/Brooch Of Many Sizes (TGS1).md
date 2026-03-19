@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Brooch of Many Sizes
 *Wondrous item, major, rare*  
@@ -24,3 +27,7 @@ While under the effects of this spell, you can use a bonus action to overload th
 When you return to your original size after overloading the brooch, you can't move or take actions until after your next turn. Once the brooch has been overloaded, it can't be used again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 40*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

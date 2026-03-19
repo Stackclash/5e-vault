@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ashfree Birch
 *Herb, rare*  
@@ -30,3 +33,7 @@ While most birch trees are actually renowned for how long and hot they burn, the
 You may spend 10 minutes placing sheets of this bark to wear underneath your armour and clothes, insulating you against heat and fire. If you do so, whenever you take fire damage, this herb absorbs that damage instead of you. This herb can absorb up to 30 points of fire damage before completely burning away and becoming useless; with any excess damage transferred to you instead. You may remove this herb by spending 1 minute peeling it out of your clothes.
 
 *Source: Hamund's Herbalism Handbook p. 6*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

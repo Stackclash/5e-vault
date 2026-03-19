@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bullfrog Bugle
 *Wondrous item, major, uncommon*  
@@ -26,3 +29,7 @@ You can use an action to sound the horn loudly, emitting a resonant croak audibl
 The creature remains for 1 hour or until it's reduced to 0 hit points. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

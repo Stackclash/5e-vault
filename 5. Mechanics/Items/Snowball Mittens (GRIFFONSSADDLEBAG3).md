@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Snowball Mittens
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 These cozy, knitted mittens have been enchanted to always bring a touch of winter with them. As an action while wearing the mittens, you can clamp your hands together, as if you were forming a snowball. When you open your hands again, a perfectly formed snowball appears in them. Any snow created in this way vanishes after 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

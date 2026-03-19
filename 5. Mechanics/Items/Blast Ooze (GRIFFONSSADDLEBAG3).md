@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blast Ooze
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ You can use an action to carefully ignite a fuse that sticks out from the ooze u
 If you use an action to carefully ignite the fuse, you can choose the number of rounds it takes for the fuse to burn (up to 4), instead of rolling a `dice:d4|noform|noparens|avg` (`d4`). If the fuse is lit another way, the GM rolls the `dice:d4|noform|noparens|avg` (`d4`) in secret. A lit fuse can be extinguished by a creature within reach as normal or if it's doused with water.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

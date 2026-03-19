@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Midnight Smoke
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ This thin stiletto is sheathed within the barrel of a star-filled medwakh pipe. 
 A small, dark ember ignites at the center of the dagger's blade daily at dusk. You can use an action to sheathe the dagger (if it isn't already) and breathe deeply from the pipe. When you do, a thick black smoke emanates from the pipe, which you can exhale in front of you in a 10-foot cone. Each creature within the cone must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until the end of your next turn. The ember is then extinguished, and the smoke vanishes. If you slay a Small or larger hostile creature with the dagger, the dagger's dark ember is relit and this property can be used again.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

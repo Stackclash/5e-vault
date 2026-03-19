@@ -14,6 +14,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Torch of the Righteous Flame
 *Rod, very rare (requires attunement)*  
@@ -41,3 +44,7 @@ The flame and its light become [[/5. Mechanics/Rules/Conditions.md#Invisible\|in
 You send the flame out from the brazier to a point that you can see within 60 feet of you. The flame remains for 10 minutes, until you use this property again (which doesn't expend a charge), or until you move within 5 feet of it, at which time it magically returns to the brazier. For the duration, any creature other than you that moves within 5 feet of the flame for the first time on a turn or starts its turn there takes `dice:2d6|noform|noparens|avg` (`2d6`) fire damage.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

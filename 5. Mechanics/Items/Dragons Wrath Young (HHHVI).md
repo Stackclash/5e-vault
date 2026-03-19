@@ -9,6 +9,9 @@ aliases:
   - Dragon's Wrath (Young)
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon's Wrath (Young)
 *Wondrous item, rare*  
@@ -23,3 +26,7 @@ Once this item has been used once, it cannot be used again for `dice:1d4|noform|
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

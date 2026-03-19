@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mantis Mitts
 *Wondrous item, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ While wearing the mitts, you gain a +1 bonus to the attack and damage rolls of y
 When you roll a 20 on an attack roll for an unarmed strike using your fists while wearing the mitts, the target must also succeed on a DC 15 Wisdom saving throw or become affected by the [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] spell.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

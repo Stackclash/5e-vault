@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Warhorn of the Bronze Dragon
 *Wondrous item, major, rare*  
@@ -30,3 +33,7 @@ The horn releases a wave of repelling force in a 30-foot cone. Each creature wit
 Once a breath has been used, that breath can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

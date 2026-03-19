@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Edible Book of Recipes
 *Wondrous item, minor, very rare*  
@@ -28,3 +31,7 @@ The book can hold up to 50 pages. A book found as treasure usually has `dice:3d1
 When all the pages are removed from the book or you attempt to rebind it early, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the tome bursts into flame and leaves the air in a 60-foot radius smelling like wine and fine cooking. The smell remains for 30 days. After 1 minute, the book's tattered remains transform into a bountiful meal, conjuring a [[/5. Mechanics/Spells/Heroes Feast.md\|heroes' feast]] as if cast by the spell. The book is then destroyed. On any roll other than a 1, the book can be rebound using fine paper costing no less than 5 gp per page.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 58*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

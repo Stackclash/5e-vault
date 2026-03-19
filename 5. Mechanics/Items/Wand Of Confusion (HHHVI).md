@@ -10,6 +10,9 @@ aliases:
   - Wand of Confusion
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Wand of Confusion
 *Wondrous item, very rare (requires attunement)*  
@@ -21,3 +24,7 @@ This wand has 4 charges. While holding it, you can use an action to expend 1 or 
 The wand regains `dice:1d4|noform|noparens|avg` (`1d4`) charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

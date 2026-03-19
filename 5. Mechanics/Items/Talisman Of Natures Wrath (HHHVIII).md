@@ -12,6 +12,9 @@ attunement: true
 attunement-requirement:
   - spellcaster
 rarity: very-rare
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Talisman of Nature's Wrath
 *Wondrous item, very rare (requires attunement by a spellcaster)*  
@@ -39,3 +42,7 @@ Any creature that received thunder damage from your spell must succeed on a Stre
 This item regains all expended charges at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

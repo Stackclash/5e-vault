@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crashing Rhino
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), very rare (requires attunement)*  
@@ -35,3 +38,7 @@ This maul is covered with shards of stone surrounding a pair of giant horns. You
 While holding the hammer, you can use an action to run forward in a straight line, up to 80 feet, without provoking opportunity attacks. While moving in this way, you can move through another creature's space, regardless of its size, and such a creature's space isn't considered difficult terrain for you. Each creature in that line must make a DC 16 Strength saving throw. On a failed save, a creature takes `dice:3d12|noform|noparens|avg` (`3d12`) bludgeoning damage and is thrown up to 10 feet away from you in a direction that is perpendicular to the line (you choose which direction) and lands [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. On a successful save, a creature takes no damage and moves up to 5 feet to an unoccupied space of its choice outside the line. A creature that chooses not to move or can't move makes the saving throw with disadvantage. Once this property of the hammer has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

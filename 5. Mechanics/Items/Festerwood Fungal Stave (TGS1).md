@@ -24,6 +24,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 25
+item_recharge: none
 ---
 # Festerwood Fungal Stave
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a cleric, druid, or sorcerer)*  
@@ -42,3 +45,7 @@ In addition, while holding the staff, you can use a bonus action to expend 1 or 
 If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff begins to overgrow, destroying the staff and forcing you to drop it in an unoccupied space adjacent to you. A hostile [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] grows in its place.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 62*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sea Soap
 *Herb, rare*  
@@ -35,3 +38,7 @@ You gain resistance to acid damage for 4 hours after using this herb.
 
 
 *Source: Hamund's Herbalism Handbook p. 30*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

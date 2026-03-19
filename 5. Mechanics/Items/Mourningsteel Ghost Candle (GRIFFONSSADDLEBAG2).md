@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mourningsteel Ghost Candle
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -25,3 +28,7 @@ If you're holding the lit candle and its holder while attuned to it, [[/5. Mecha
 Once the candle and holder have been used to cast this spell, it can't do so again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 127*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

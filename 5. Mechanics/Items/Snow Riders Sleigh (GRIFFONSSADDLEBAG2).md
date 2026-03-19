@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Snow Rider's Sleigh
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This magic sled moves effortlessly over land as if it were covered in fresh snow and sends small flurries of illusory snowflakes behind it as it travels.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 164*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

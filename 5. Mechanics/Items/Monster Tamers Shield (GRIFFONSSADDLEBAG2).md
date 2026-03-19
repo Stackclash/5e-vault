@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Monster Tamer's Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
@@ -30,3 +33,7 @@ This shield punishes certain creatures for their hostility and comes from a cult
 If you are also attuned to the [[/5. Mechanics/Items/Monster Tamers Sword (GRIFFONSSADDLEBAG2).md\|monster tamer's sword]] and are holding this shield, any creature captured by the sword gains a +1 bonus to its AC and can't be charmed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

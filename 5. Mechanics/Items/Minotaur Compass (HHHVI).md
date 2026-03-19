@@ -9,6 +9,9 @@ aliases:
   - Minotaur Compass
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Minotaur Compass
 *Wondrous item, uncommon*  
@@ -18,3 +21,7 @@ rarity: uncommon
 When you hold this compass and focus on a location that you have been to, this compass points you in the direction you would need to take to retrace your steps back to that location, so long as it is on the same plane of existence as you. This may not necessarily be the fastest or the most direct route, especially if you have taken many detours since leaving that location last.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

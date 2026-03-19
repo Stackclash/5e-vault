@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Infernal Aegis
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
@@ -28,3 +31,7 @@ While holding this shield, you can speak its command word as a bonus action to c
 While holding the shield, you have a +1 bonus to AC as well as resistance to fire damage. This bonus is in addition to the shield's normal bonus to AC. In addition, the shield has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn. While the shield is ablaze, you can expend 1 or more of its charges to cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] (2 charges, warm shield only) or [[/5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] (1 charge, save DC 16) spell from it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 78*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

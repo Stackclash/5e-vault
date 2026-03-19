@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Mace of the Priest
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement by a cleric)*  
@@ -38,3 +41,7 @@ The weapon has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expe
 Alternatively, you can use an action to speak the weapon's command word to cast the [[/5. Mechanics/Spells/He(AL).md\|heal]] spell from it. When you do, the weapon releases a flash of light and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 117*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

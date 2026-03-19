@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chromacloth
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  
@@ -46,3 +49,7 @@ Alternatively, the cloth can be fashioned to be an effective sling. Ammunition f
 ^chromacloth-sling-damage
 
 *Source: The Griffon's Saddlebag, Book 1 p. 42*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

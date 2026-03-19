@@ -10,6 +10,9 @@ aliases:
   - Pipes of the Deceiver
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Pipes of the Deceiver
 *Wondrous item, legendary (requires attunement)*  
@@ -33,3 +36,7 @@ You expend 3 charges and target one creature you can see within 60 feet of you. 
 This pipe regains all expended charges at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Moving Performances
 *Scroll, minor, uncommon*  
@@ -28,3 +31,7 @@ When you sing for at least 1 minute using the scroll in this way, you can lace t
 When you stop singing, the words on the scroll fade, and its magic is lost.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

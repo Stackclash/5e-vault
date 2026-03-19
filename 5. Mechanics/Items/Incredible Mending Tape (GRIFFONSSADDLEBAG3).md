@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Incredible Mending Tape
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This roll of waxy parchment has a thin layer of adhesive on its underside. The t
 Applying the tape in this way can allow you to repair longer breaks and tears, such as a long tear on a sail or a running split on a wooden plank, provided that it's larger than 1 foot in only a single dimension. When you use an action to apply the tape to such an object, you must also use any required movement in order to cover the length of the area to be repaired, attaching one end of the tape to either side of it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

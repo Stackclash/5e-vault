@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eldritch Bident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, rare (requires attunement)*  
@@ -46,3 +49,7 @@ If you're a warlock, you are proficient with this weapon while you're attuned to
 Additionally, if you're a warlock, you can use an action to cast the [[/5. Mechanics/Spells/Plane Shift.md\|plane shift]] spell from the bident while holding it to transport yourself only to the plane of existence and location of your warlock patron. You remain there for up to 24 hours or until you use an action to return to your previous location on your original plane of existence. Once this property of the bident has been used, it can't be used again for one year.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 77*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

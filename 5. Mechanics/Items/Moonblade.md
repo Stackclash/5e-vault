@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Moonblade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
@@ -79,3 +82,7 @@ The weapon is bonded to the family line it is meant to serve. Once it has bonded
 If a moon blade has a flaw, it is overconfidence. Once it has decided on an owner, it believes that only that person should wield it, even if the owner falls short of elven ideals.
 
 *Source: Dungeon Master's Guide p. 217*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

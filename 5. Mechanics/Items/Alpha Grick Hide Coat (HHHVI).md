@@ -15,6 +15,9 @@ rarity: rare
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alpha Grick Hide Coat
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), rare*  
@@ -28,3 +31,7 @@ While wearing this armor, you have advantage on Dexterity ([[/5. Mechanics/Rules
 If this is the rare version of this armor, you also gain a +1 bonus to AC while wearing this item.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

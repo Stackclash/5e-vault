@@ -10,6 +10,9 @@ aliases:
   - Cloak of the Arachnid
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of the Arachnid
 *Wondrous item, very rare (requires attunement)*  
@@ -27,3 +30,7 @@ Each of these legs has a reach roughly equal to the length of one of your legs, 
 These spider legs last for 1 hour or until you cancel them early by speaking the command word again, after which they recede into your back and your cloak reappears. Once used once, this item may not be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 84*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of Initiative
 *Wondrous item, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ This amulet is actually a small gong-like bell. It emits a loud ring whenever yo
 The first time you're hit with an attack before the start of your second turn of each combat, you can use your reaction to immediately make a single weapon attack against the attacker. This reaction can be used even if you're [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]], and allows you to draw a stowed weapon as part of it. If the total of your attack roll is equal to or lower than the attacker's, the triggering attack hits you, and yours misses; if yours is higher, the triggering attack misses you, and you hit the attacker instead. If you hit it with a melee attack, the attack deals an extra damage die of the weapon's type, and the target must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

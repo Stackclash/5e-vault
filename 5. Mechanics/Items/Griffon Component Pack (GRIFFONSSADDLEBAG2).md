@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Griffon Component Pack
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This special component pouch is stylized in the fashion of the legendary [[/5. M
 At the GM's discretion, the bag may consume only the additional 5 gp and leave a note that describes the nearest person or place that can help you find the named component.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 95*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

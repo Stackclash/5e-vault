@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Lunar Compass
 *Wondrous item, minor, rare*  
@@ -22,3 +25,7 @@ This compass has a glass eye on its lid, allowing you to see it even while it's 
 While holding the compass between dusk and dawn, it emits dim light in a 5-foot radius. During this time, you can use an action to speak its command word, followed by the name of a specific fixed location on the same plane of existence as you. If you are outside and can see at least one moon, the needle then points in the direction of the shortest and most direct route (but not necessarily the safest one) to that location. This effect is suspended if you can no longer see the moon (such as if you enter a cave or dense forest), and it ends at dawn or when you're no longer holding the compass. Once you use this property of the compass, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

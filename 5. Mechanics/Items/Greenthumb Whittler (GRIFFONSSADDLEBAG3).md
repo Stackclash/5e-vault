@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Greenthumb Whittler
 *Wondrous item, minor, common*  
@@ -26,3 +29,7 @@ The statue can do minor feats of animation, which you decide upon completing it.
 Up to three statues can be animated at a time in this way. When a fourth statue is completed, the first one ceases to move and loses its magic. Destroying a statue ends the effect.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

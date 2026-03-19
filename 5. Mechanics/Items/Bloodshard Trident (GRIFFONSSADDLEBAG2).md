@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodshard Trident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, rare (requires attunement)*  
@@ -38,3 +41,7 @@ This magic trident has grooves in its obsidian surface that are used to channel 
 When you throw the trident while it has at least 1 floating shard, the weapon flies back to your hand immediately after the attack.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 48*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

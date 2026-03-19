@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Toad Skin Shrub
 *Herb, rare*  
@@ -30,3 +33,7 @@ A type of oleander easily identified by its yellow petals dappled with dark spot
 As an action, you may eat this herb, forcing you to succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for one hour. Regardless of the outcome, you also secrete a toxic slime from your skin for the next hour that forces any creature that touches you or who hits you with a melee weapon attack to succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].
 
 *Source: Hamund's Herbalism Handbook p. 35*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wraith's Circlet
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -25,3 +28,7 @@ While wearing this dark silver circlet in dim light or darkness, a smoky mantle 
 Dying doesn't end your attunement to this magic item. In addition, if you're attuned to three items with this named property, you treat bright light (but not sunlight) as if it were dim light or darkness for the purposes of the items' various properties, and you can use a bonus action to reveal or suppress one or more of the items' visual effects. While an item's visual effects are suppressed, you don't gain the benefits of that item's other properties.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

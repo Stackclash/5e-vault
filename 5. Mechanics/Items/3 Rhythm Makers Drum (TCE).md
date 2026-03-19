@@ -17,6 +17,9 @@ rarity: very-rare
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +3 Rhythm-Maker's Drum
 *Wondrous item, instrument ([[/5. Mechanics/Items/Drum.md\|drum]]), very rare (requires attunement by a bard)*  
@@ -28,3 +31,7 @@ While holding this [[/5. Mechanics/Items/Drum.md\|drum]], you gain a +3 bonus to
 As an action, you can play the [[/5. Mechanics/Items/Drum.md\|drum]] to regain one use of your Bardic Inspiration feature. This property of the [[/5. Mechanics/Items/Drum.md\|drum]] can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

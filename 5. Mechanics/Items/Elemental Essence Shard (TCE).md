@@ -13,6 +13,9 @@ attunement: true
 attunement-requirement:
   - sorcerer
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elemental Essence Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  
@@ -36,3 +39,7 @@ Roll a `dice:d4|noform|noparens|avg` (`d4`) and consult the Elemental Essence Sh
 ^elemental-essence-shards
 
 *Source: Tasha's Cauldron of Everything p. 127*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Quiver of Seasons
 *Wondrous item, major, rare (requires attunement)*  
@@ -43,3 +46,7 @@ The ammunition returns to normal after the attack.
 Other types of magic ammunition containers of this kind exist, such as a bolt case of seasons meant for crossbows, though quivers are most common.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

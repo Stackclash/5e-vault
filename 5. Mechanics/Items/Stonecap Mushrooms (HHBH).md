@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stonecap Mushrooms
 *Herb, rare*  
@@ -30,3 +33,7 @@ These hardy grey mushrooms have the curious property of absorbing the minerals o
 For 8 hours after you use this herb, any critical hits made against you are turned into normal hits and any extra effects that would be triggered by that critical hit are negated.
 
 *Source: Hamund's Herbalism Handbook p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

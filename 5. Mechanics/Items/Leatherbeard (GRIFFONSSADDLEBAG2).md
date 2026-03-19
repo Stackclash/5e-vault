@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Leatherbeard
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This leather mask sits over your mouth and chin and can be worn or removed using
 For every 7 consecutive days that pass in which you do not remove the mask, there is a cumulative 25 percent chance that the beard becomes real. When it does, the mask is destroyed. The real beard doesn't continue to grow unless you can already naturally grow a beard.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 114*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

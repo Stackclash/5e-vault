@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scarecrow Armor
 *Light armor ([[/5. Mechanics/Items/Padded Armor.md\|padded armor]]), cursed item, major, very rare (requires attunement)*  
@@ -38,3 +41,7 @@ While wearing the armor, you can spend one Hit Die when the [[/5. Mechanics/Spel
 This armor is cursed, and attuning to it extends that curse to you. You remain cursed until targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic. Removing the armor fails to end the curse. While cursed, you are vulnerable to fire damage and your insides are turned to straw. Your physical appearance remains unchanged and you no longer need food or water, but you have a 50 percent chance to lose a limb (at the GM's option) as part of suffering a critical hit or as the result of dropping to 0 hit points.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

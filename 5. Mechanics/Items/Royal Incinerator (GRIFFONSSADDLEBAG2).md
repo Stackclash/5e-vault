@@ -27,6 +27,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 15
+item_recharge: dawn
 ---
 # Royal Incinerator
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, legendary (requires attunement by a druid, sorcerer, warlock, or wizard)*  
@@ -53,3 +56,7 @@ When a creature that you can see hits you with an attack while you're holding th
 While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] (4 charges, warm shield only), [[/5. Mechanics/Spells/Fireball.md\|fireball]] (3 or more charges), or [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] (2 or more charges). When you cast [[/5. Mechanics/Spells/Fireball.md\|fireball]] or [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] from the staff in this way, you can increase the spell slot level by one for each additional charge you expend.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 152*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

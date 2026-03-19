@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Tyrannosaurus Rax
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ This bone-carved axe can channel the might of a rampaging tyrannosaurus rex. You
 Your rampage lasts for up to 1 minute. It ends early if you don't move through a hostile creature's space on your turn or if you drop to 0 hit points. This property of the axe can be used twice and regains all expended uses daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 178*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

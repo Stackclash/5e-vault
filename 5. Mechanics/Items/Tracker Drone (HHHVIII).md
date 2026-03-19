@@ -9,6 +9,9 @@ aliases:
   - Tracker Drone
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tracker Drone
 *Wondrous item, very rare*  
@@ -20,3 +23,7 @@ This tiny, spider-like drone is roughly the size of a tick and has a small degre
 So long as you and the drone are on the same plane of existence, it follows your commands which you are able to issue to it telepathically, and you are both always aware of your direction and distance from each other. As an action, the drone is able to bury itself painlessly inside a living creature's skin where it becomes undetectable at a passing glance. If a creature uses its action to examine the creature the drone is hiding in, they may be able to spot a small lump in their skin with a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check. There is no limit to how long the drone can remain inside a creature's body, and it will only be removed if you command it to, or if a creature that has detected it spends their action to dig it out of the body it is hiding in (no check required).
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

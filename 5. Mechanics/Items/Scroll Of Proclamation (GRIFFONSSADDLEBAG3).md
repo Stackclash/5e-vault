@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Proclamation
 *Scroll, minor, common*  
@@ -26,3 +29,7 @@ This long magic scroll is empty when found. You can hold the scroll in front of 
 Once the 250th word has been projected from the scroll, its magic is lost.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

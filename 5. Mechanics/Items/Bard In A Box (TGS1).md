@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bard-in-a-Box
 *Wondrous item, minor, common*  
@@ -24,3 +27,7 @@ Sheet music can be fed into the box through a narrow slot along the bottom of th
 If a new piece of music causes the box to forget an older one, it quickly plays several bars of the now-forgotten number before it slows to a stop.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 31*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Covolt Scythe
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  
@@ -33,3 +36,7 @@ subtype:
 This jagged scythe is forged with covolt, an elemental blue metal that carries storm-like properties. When you hit a creature with an attack using this magic weapon, it takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) lightning damage. Once on each of your turns when you hit a creature with this weapon, you can choose a different creature within 10 feet of the target. That creature must succeed on a DC 15 Dexterity saving throw or take `dice:1d8|noform|noparens|avg` (`1d8`) lightning damage as an arc of electricity lashes out at it from the original target.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 66*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

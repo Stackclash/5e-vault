@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Branding
 *Wand, major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ You can use an action to expend 1 of the wand's charges to make a melee spell at
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand becomes a nonmagical branding iron.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

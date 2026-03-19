@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Quagmire Maul
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ This hammer has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 
 If you expend the last charge from the hammer, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the hammer turns into viscous muck in your hands and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 101*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

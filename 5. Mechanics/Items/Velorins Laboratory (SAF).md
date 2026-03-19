@@ -13,6 +13,9 @@ rarity: rare
 type: gear
 subtype:
   - requires-installation
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Velorin's Laboratory
 *Wondrous item, requires installation, rare*  
@@ -23,3 +26,7 @@ Wondrous item, rare, requires installation This elaborate laboratory contains ev
 When installed in a tower, this laboratory allows the owner to adjust their result up or down by one when rolling on a research chart page 24).
 
 *Source: Strongholds and Followers p. 264*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

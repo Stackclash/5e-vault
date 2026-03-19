@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spire Seed
 *Wondrous item, major, legendary (requires attunement)*  
@@ -35,3 +38,7 @@ If the tree is attacked, it immediately creates a [[/5. Mechanics/Bestiary/Plant
 The tree creates another spire seed once every 100 years.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 119*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

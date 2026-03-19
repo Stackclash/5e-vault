@@ -10,6 +10,9 @@ aliases:
   - Raven Queen's Boon
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Raven Queen's Boon
 *Wondrous item, rare (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: rare
 This boon takes the form of a necklace strung with the Raven Queen's symbol and several feathers plucked from a freshly slain raven. While wearing and attuned to it, you have advantage on death saving throws. In addition, when you make a successful weapon attack against a target, you may choose to deal an additional `dice:1d12|noform|noparens|avg` (`1d12`) necrotic damage. Once this ability has been used once, it may not be used again until you complete a short or long rest.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 95*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Phoenix Rocket Sword
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare (requires attunement)*  
@@ -39,3 +42,7 @@ The jet of flame spreads out in a 15-foot cone and moves with you if you're push
 If you strike an object because of this forced movement, such as a wall or floor, you take `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every charge you expend and are knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If you strike a creature, you and that creature take the same bludgeoning damage and must each succeed on a Strength saving throw (DC 10 + the number of charges you expend) or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: The Griffon's Saddlebag, Book 2 p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

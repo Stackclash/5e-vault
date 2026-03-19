@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Wispy Sour
 *Potion, minor*  
@@ -27,3 +30,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Wispy Sour Uncommon (GRIFFONSSADDLEBAG2).md\|Wispy Sour (Uncommon)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 192*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

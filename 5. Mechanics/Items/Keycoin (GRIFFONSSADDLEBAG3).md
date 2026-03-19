@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Keycoin
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ If the door or lock is held shut with arcane lock, that spell is suppressed for 
 A keycoin's magic isn't lost after it's been used. Instead, it magically reappears in a random location `dice:1d100|noform|noparens|avg` (`1d100`) miles away from you.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

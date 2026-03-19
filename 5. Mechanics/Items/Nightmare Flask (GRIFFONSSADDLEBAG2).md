@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Nightmare Flask
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ You can use an action to throw the flask at a point you can see within 30 feet o
 Alternatively, the orb can be used as a preventative measure against the [[/5. Mechanics/Spells/Dream.md\|dream]] spell. When you're targeted by the [[/5. Mechanics/Spells/Dream.md\|dream]] spell, the caster of the spell must make a DC 17 Wisdom saving throw. On a failed save, the caster takes `dice:1d10|noform|noparens|avg` (`1d10`) psychic damage for each collected nightmare in the flask. The flask then cracks and is destroyed, and the spell fails. On a successful 
 
 *Source: The Griffon's Saddlebag, Book 2 p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

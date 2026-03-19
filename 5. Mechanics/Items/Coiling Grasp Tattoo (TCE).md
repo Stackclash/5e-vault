@@ -14,6 +14,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Coiling Grasp Tattoo
 *Wondrous item (tattoo), uncommon (requires attunement)*  
@@ -32,3 +35,7 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 While the tattoo is on your skin, you can, as an action, cause the tattoo to extrude into inky tendrils, which reach for a creature you can see within 15 feet of you. The creature must succeed on a DC 14 Strength saving throw or take `dice:3d6|noform|noparens|avg` (`3d6`) force damage and be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by you. As an action, the creature can escape the grapple by succeeding on a DC 14 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check. The grapple also ends if you halt it (no action required), if the creature is ever more than 15 feet away from you, or if you use this tattoo on a different creature.
 
 *Source: Tasha's Cauldron of Everything p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Kraken Paint
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kraken Paint
 *Wondrous item, very rare*  
@@ -20,3 +23,7 @@ A pot of this black paint is enough to cover up to 100 square feet of material. 
 You may also spill the entire pot of paint into a body of water as an action to create a 60-foot radius cloud that spreads around corners. This area is considered heavily obscured and each creature that ends its turn there must succeed on a DC 23 Constitution saving throw, taking `dice:3d10|noform|noparens|avg` (`3d10`) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of your next turn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 131*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

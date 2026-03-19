@@ -9,6 +9,9 @@ aliases:
   - Deception Skull
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deception Skull
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ While holding this item, you may spend an action to mentally command this item t
 These sounds are audible from up to 100 feet away, and creatures that hear the sound can tell they are imitations with a successful DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

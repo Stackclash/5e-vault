@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Moonlighter's Masquerade
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ This midnight blue mask has been delicately gilded with swirling designs. While 
 If you're wearing the mask between dusk and dawn, you can also use an action to cast the [[/5. Mechanics/Spells/Charm Person.md\|charm person]] spell (save DC 13) from it. The spell ends early if you successfully charm another creature with it in this way or if the mask is removed. When the spell ends on a creature or if it succeeds on the saving throw, that creature is immune to this effect for the next 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

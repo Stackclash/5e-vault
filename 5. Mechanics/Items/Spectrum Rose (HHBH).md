@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spectrum Rose
 *Herb, rare*  
@@ -35,3 +38,7 @@ For 4 hours after using this herb, you are proficient in all saving throws. If y
 
 
 *Source: Hamund's Herbalism Handbook p. 33*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Skirmisher's Bow
 *Major, rare*  
@@ -35,3 +38,7 @@ Before or after making an attack with the weapon, you can speak its command word
 A target hit by this weapon, regardless of its form, takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage from the attack.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

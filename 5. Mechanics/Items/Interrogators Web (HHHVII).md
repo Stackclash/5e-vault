@@ -17,6 +17,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Interrogator's Web
 *Weapon ([[/5. Mechanics/Items/Net.md\|net]]), rare*  
@@ -29,3 +32,7 @@ This large net is composed of the web-like connective tissue of an elder brain. 
 A creature may use its action to make a DC 20 Strength check, freeing itself or another creature within its reach on a success. Dealing 20 slashing damage to the net (AC 15) also frees the creature, ending the effect and destroying the net.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 60*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

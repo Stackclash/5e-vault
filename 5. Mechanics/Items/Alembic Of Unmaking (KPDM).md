@@ -9,6 +9,9 @@ aliases:
   - Alembic of Unmaking
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alembic of Unmaking
 *Wondrous item, very rare*  
@@ -23,3 +26,7 @@ If an item spends a full hour dissolving in the alembic, its magical energy coal
 An alembic of unmaking can distill or disenchant one item per 24 hours.
 
 *Source: Deep Magic p. 170*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

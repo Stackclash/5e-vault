@@ -13,6 +13,9 @@ rarity: rare
 type: gear
 subtype:
   - curse
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Curse of Spite
 *Wondrous item, curse, cursed item, rare*  
@@ -30,3 +33,7 @@ A creature that dies while under the effects of this curse has their soul transf
 This curse ends permanently on both the item and the afflicted creature if the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic is cast on the cursed item.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

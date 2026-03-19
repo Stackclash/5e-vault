@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Magnificent Pocket Vanity
 *Wondrous item, minor, common*  
@@ -34,3 +37,7 @@ This palm-sized brass device contains enough magical makeup for 3 uses. A creatu
 When the last use of the makeup has been used, the vanity and its makeup become nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

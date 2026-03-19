@@ -14,6 +14,9 @@ attunement-requirement:
   - dragonborn of neutral alignment
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Ruby Dragon
 *Wondrous item, major, very rare (requires attunement by a dragonborn of neutral alignment)*  
@@ -25,3 +28,7 @@ This magic gold and ruby helm has been blessed by a powerful, psychic dragon. Wh
 When you use your breath weapon while wearing this helmet, you can choose to exhale a blast of pure, concussive force. When you do, your breath weapon deals force damage, instead of its normal damage type, and any creature that fails the saving throw takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the end of your next turn. This property of the helm can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 103*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

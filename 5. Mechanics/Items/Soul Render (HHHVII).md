@@ -22,6 +22,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Soul Render
 *Rare*  
@@ -30,3 +33,7 @@ subtype:
 When you use this magical weapon to successfully hit a creature that has the incorporeal movement trait, you deal an additional `dice:1d8|noform|noparens|avg` (`1d8`) damage to them.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 65*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

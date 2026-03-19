@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bead of Refreshment
 *Wondrous item, minor, common*  
@@ -19,3 +22,7 @@ tier: minor
 This spongy, flavorless, gelatinous bead dissolves in liquid, transforming up to a pint of the liquid into fresh, cold drinking water. The bead has no effect on magical liquids or harmful substances such as poison.
 
 *Source: Xanathar's Guide to Everything p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

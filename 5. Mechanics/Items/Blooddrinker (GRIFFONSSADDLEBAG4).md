@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Blooddrinker
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), cursed item, legendary (requires attunement)*  
@@ -51,3 +54,7 @@ While the weapon is on your person, you have resistance to necrotic damage and h
 This axe is cursed, and becoming attuned to it extends the curse to you (even if you're in sunlight). As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. In addition, if the axe doesn't deal damage to at least one other creature that isn't a construct, plant, or undead each day, you suffer one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] the next time you finish a long rest.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Monster Hunter's Pack
 *Adventuring gear*  
@@ -37,3 +40,7 @@ Includes:
 - 3 [[/5. Mechanics/Items/Torch.md\|torches]]  
 
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

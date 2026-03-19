@@ -13,6 +13,9 @@ rarity: varies
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spellwrought Tattoo
 *Wondrous item (tattoo)*  
@@ -28,3 +31,7 @@ subtype:
 - [[/5. Mechanics/Items/Spellwrought Tattoo 5th Level (TCE).md\|Spellwrought Tattoo (5th Level)]]
 
 *Source: Tasha's Cauldron of Everything p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

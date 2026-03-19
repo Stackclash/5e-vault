@@ -10,6 +10,9 @@ aliases:
   - Flask of Storms
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Flask of Storms
 *Wondrous item, very rare (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: very-rare
 This item takes the form of a grey-blue liquid inside a vial roughly the size of a weapon hilt. While holding the flask, you may spend a bonus action to imagine a non-two-handed melee weapon. If you do so, the liquid inside this flask pours out and takes the shape of the weapon you imagined, attaching itself to the flask which acts as the weapon's hilt. This weapon may be used like any other weapon, and attacks made with it are considered magical. Once per turn, when you make a successful attack with this weapon, you may also deal an additional `dice:2d6|noform|noparens|avg` (`2d6`) lightning damage. You may also shape the liquid into an object that is not a weapon, so long as that object is no larger than 1 cubic foot in volume. The liquid returns to its flask if it is ever dropped, or if you spend a bonus action while holding it to mentally command it to do so.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 58*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

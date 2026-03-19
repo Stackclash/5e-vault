@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Locket of the Stolen Heart
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  
@@ -28,3 +31,7 @@ This locket is cursed, and if the creature you love most is dead while you're at
 You remain cursed until you're targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] or [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, if the creature you love is restored to life, or if a creature casts the [[/5. Mechanics/Spells/Dream.md\|dream]] spell and enters your dreams to dissolve the locket's illusions.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 116*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

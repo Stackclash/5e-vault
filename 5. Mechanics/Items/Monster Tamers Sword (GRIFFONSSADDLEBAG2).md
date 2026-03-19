@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Monster Tamer's Sword
 *Major, rare (requires attunement)*  
@@ -40,3 +43,7 @@ As an action while holding the sword, you can speak its command phrase to releas
 While you're holding the sword and the creature is stored within it or within 30 feet of you, you can use a bonus action to speak the weapon's command word and expend 1 or more of its charges to restore 10 hit points to that creature for each charge spent. A captured creature can only regain hit points in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

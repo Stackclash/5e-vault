@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Timber
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ This magical axe is imbued with a destructive force that builds with each consec
 Timber's charges last for up to 1 minute. It loses all charges if you make an attack against a new target, make an attack with a different weapon, or miss with an attack using timber.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

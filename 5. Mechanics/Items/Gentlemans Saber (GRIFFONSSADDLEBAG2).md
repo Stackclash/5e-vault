@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Gentleman's Saber
 *Major, rare (requires attunement)*  
@@ -32,3 +35,7 @@ This elegant blade has a gently curved handle and a guard in the shape of a shie
 If you're attuned to the weapon, the weapon's shieldlike guard changes its design to match your family crest. In addition, the sword has 3 charges, which you can use only if you're attuned to it. When you're hit by a ranged attack while holding the sword, you can use your reaction to expend 1 of its charges to hold the blade in front of you. Roll a `dice:d6|noform|noparens|avg` (`d6`). A domed, spectral barrier appears from the blade's tip, granting you a bonus to AC against ranged attacks equal to the number rolled on the `dice:d6|noform|noparens|avg` (`d6`) until the start of your next turn, including against the triggering attack. The sword regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 87*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

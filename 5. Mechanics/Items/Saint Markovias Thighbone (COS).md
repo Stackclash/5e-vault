@@ -17,6 +17,9 @@ rarity: rare
 type: weapon
 subtype:
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Saint Markovia's Thighbone
 *Melee weapon, rare (requires attunement)*  
@@ -40,3 +43,7 @@ The essence of Markovia's saintliness passed partly into her bones as the rest o
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 *Source: Curse of Strahd p. 222*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

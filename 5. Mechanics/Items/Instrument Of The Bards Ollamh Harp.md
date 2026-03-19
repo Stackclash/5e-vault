@@ -19,6 +19,9 @@ tier: major
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Instrument of the Bards, Ollamh Harp
 *Wondrous item, instrument, major, legendary (requires attunement by a bard)*  
@@ -37,3 +40,7 @@ All instruments of the bards can be used to cast the following spells: [[/5. Mec
 In addition, the Ollamh harp can be used to cast [[/5. Mechanics/Spells/Confusion.md\|confusion]], [[/5. Mechanics/Spells/Control Weather.md\|control weather]], and [[/5. Mechanics/Spells/Fire Storm.md\|fire storm]].
 
 *Source: Dungeon Master's Guide p. 176*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

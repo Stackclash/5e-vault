@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Felling Greataxe
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, uncommon*  
@@ -34,3 +37,7 @@ This large axe has felled thousands of trees since its creation, giving it a rin
 In addition, you have advantage on any ability check you make to cut down a tree when you're using the axe to chop it down.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

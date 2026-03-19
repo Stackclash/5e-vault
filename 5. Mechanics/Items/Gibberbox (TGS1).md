@@ -12,6 +12,9 @@ weight: 7
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gibberbox
 *Wondrous item, major, rare*  
@@ -24,3 +27,7 @@ This magic box is made of enamel and bits of bone that stick together with the g
 This effect lasts for 1 minute or until the box's lid is closed again using an action. Once this property of the box has been used, it can't be used again for 24 hours. Opening the lid again while this property is inactive results in a droning, gurgling sound that turns silent after 1 minute of the box being open. The paste is extremely elastic and can't be removed or separated from the box.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 71*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

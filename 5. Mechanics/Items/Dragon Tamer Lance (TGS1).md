@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Dragon Tamer Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, legendary (requires attunement)*  
@@ -49,3 +52,7 @@ If you move at least 20 feet straight toward a Medium or smaller target and then
 You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 55*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

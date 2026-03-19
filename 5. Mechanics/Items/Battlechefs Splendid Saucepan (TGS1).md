@@ -12,6 +12,9 @@ weight: 4
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battlechef's Splendid Saucepan
 *Wondrous item, major, very rare*  
@@ -26,3 +29,7 @@ The saucepan also functions as a [[/5. Mechanics/Items/Mace.md\|mace]], granting
 If you're not wearing heavy armor, you can use an action to either wear or remove the saucepan as a helmet. While wearing the saucepan in this way, you gain a +1 bonus to your AC.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

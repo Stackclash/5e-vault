@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rageroot
 *Herb, rare*  
@@ -30,3 +33,7 @@ I never thought that anger could be expressed in vegetable form, but I stand cor
 As an action you may eat this root. If you do so, you become immune to the [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|fear]], and [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] conditions for the next 10 minutes as you become filled with a manic rage.
 
 *Source: Hamund's Herbalism Handbook p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

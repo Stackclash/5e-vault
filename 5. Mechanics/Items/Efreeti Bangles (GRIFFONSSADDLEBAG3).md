@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Efreeti Bangles
 *Wondrous item, major, legendary (requires attunement)*  
@@ -23,3 +26,7 @@ While wearing these iron and brass bangles, you can use a bonus action to speak 
 While your arms are alight, the first target you hit with a melee attack on a turn takes an extra `dice:3d6|noform|noparens|avg` (`3d6`) fire damage from the attack, and any creature that you grapple or are [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by takes the same amount of fire damage at the start of each of its turns for the grapple's duration. In addition, while you have at least one hand free, you gain a flying speed of 30 feet, using your arms to propel your flight. If both of your hands are free, the flying speed is doubled.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -20,6 +20,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Warmind Wand
 *Wand, major, rare (requires attunement by a half-orc or orc)*  
@@ -48,3 +51,7 @@ When a friendly creature other than you within 30 feet that can see or hear you 
 When a friendly creature other than you within 30 feet that can see or hear you scores a critical hit, you can use your reaction and expend 1 charge to amplify the brutality of the attack and add an extra `dice:2d4|noform|noparens|avg` (`2d4`) damage to the total of the attack's damage roll.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 142*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

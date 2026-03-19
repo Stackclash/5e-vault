@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Foldable Pet
 *Wondrous item, minor, rare*  
@@ -34,3 +37,7 @@ The foldable pet is a sentient neutral item with an Intelligence of 2, a Wisdom 
 The foldable pet is incredibly curious and loves to explore, finding joy in taking notes of everything it sees. It avoids combat as best as it can, preferring to instead examine every nook and cranny of wherever it happens to be.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

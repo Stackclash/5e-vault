@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Obsidian Star
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ A favorite amongst mage hunters, this midnight-dark obsidian dagger sparkles lik
 When you hit a creature with the dagger, you can expend 1 of its charges to force the target to make a DC 15 Wisdom saving throw. The creature takes an extra `dice:2d8|noform|noparens|avg` (`2d8`) force damage on a failed save, or half as much on a successful one. If the creature is a spellcaster and fails the saving throw, it also can't cast spells of 1st, 2nd, or 3rd level for 1 minute. It can make another DC 15 Wisdom saving throw at the end of each of its turns for the duration, ending the effect on itself on a success.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

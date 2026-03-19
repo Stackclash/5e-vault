@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Barricade Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  
@@ -29,3 +32,7 @@ The expanded shield is considered a nonmagical structure that has an AC of 14 an
 Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

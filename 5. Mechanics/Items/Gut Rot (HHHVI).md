@@ -13,6 +13,9 @@ rarity: common
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: long-rest
 ---
 # Gut Rot
 *Potion, common*  
@@ -24,3 +27,7 @@ When you drink this potion, you must succeed on a DC 10 Constitution saving thro
 If a creature dies while afflicted with [[/5. Mechanics/Rules/Diseases.md#Gut%20Rot\|gut rot]], a [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] sprouts from the mouldering corpse, growing to full size in `dice:2d6|noform|noparens|avg` (`2d6`) days.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -18,6 +18,9 @@ rarity: legendary
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of Nullification
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), legendary (requires attunement)*  
@@ -31,3 +34,7 @@ subtype:
 While wearing this armor, you gain a +3 bonus to AC, you are immune to necrotic damage, and if you are struck by a critical hit, you may use your reaction to turn it into a normal hit instead, cancelling any effects that would normally be triggered by that critical hit.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

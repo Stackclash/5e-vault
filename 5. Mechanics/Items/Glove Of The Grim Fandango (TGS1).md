@@ -14,6 +14,9 @@ attunement-requirement:
   - bard
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glove of the Grim Fandango
 *Wondrous item, major, rare (requires attunement by a bard)*  
@@ -25,3 +28,7 @@ You are proficient with all musical instruments while you wear this glove on you
 In addition, your spell save DC for enchantment spells you cast while performing with the spectral musicians increases by 2 when the affected creature or creatures are listening to your performance.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 72*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

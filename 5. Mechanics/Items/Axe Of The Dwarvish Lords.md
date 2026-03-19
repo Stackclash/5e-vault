@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Axe of the Dwarvish Lords
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), cursed item, artifact (requires attunement)*  
@@ -78,3 +81,7 @@ The axe bears a curse that affects any non-dwarf that becomes attuned to it. Eve
 The only way to destroy the axe is to melt it down in the *Earthheart Forge*, where it was created. It must remain in the burning forge for fifty years before it finally succumbs to the fire and is consumed.
 
 *Source: Dungeon Master's Guide p. 221*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

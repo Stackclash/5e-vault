@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necrolace
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This necklace allows you to absorb the life energy of creatures you slay. When y
 If this damage reduces you to 0 hit points, you're stable but unconscious. When this happens, the creature is healed for twice the amount of hit points you had remaining before you fell unconscious.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 90*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

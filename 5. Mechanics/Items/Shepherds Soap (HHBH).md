@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shepherd's Soap
 *Herb, common*  
@@ -30,3 +33,7 @@ An abundant wild-growing weed with a dull, purple flower on its tip. Its main me
 After using this herb, you produce a pleasant smell for the next 4 hours that makes any animal around you trust you instinctively. During this time, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]) checks made to communicate with any animal within 30 feet of you that can hear and smell you.
 
 *Source: Hamund's Herbalism Handbook p. 31*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

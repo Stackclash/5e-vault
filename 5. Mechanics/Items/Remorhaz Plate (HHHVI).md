@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Remorhaz Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
@@ -38,3 +41,7 @@ If this was crafted from an Adult Remorhaz Carapace, you also gain a +1 bonus to
 - [[/5. Mechanics/Items/Adult Remorhaz Plate (HHHVI).md\|Adult Remorhaz Plate]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

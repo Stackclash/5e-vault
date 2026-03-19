@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sleepytime Sheep Stuffy
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This small, soft stuffed sheep toy is 6 inches from head to tail and smells like lavender. A willing creature holding the stuffy can use an action to speak its command word to immediately fall asleep. This property can't be used again for 8 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 164*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

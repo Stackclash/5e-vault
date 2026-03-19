@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dusk Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major*  
@@ -38,3 +41,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Dusk Dagger Very Rare (GRIFFONSSADDLEBAG2).md\|Dusk Dagger (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 76*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

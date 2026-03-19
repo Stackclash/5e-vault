@@ -27,6 +27,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Tempest Staff
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, sorcerer, or wizard)*  
@@ -43,3 +46,7 @@ This staff is made from a branch from a tree that's been struck by lightning. Th
 If you are outdoors in stormy conditions when you use this staff, the lightning damage increases by `dice:1d6|noform|noparens|avg` (`1d6`).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

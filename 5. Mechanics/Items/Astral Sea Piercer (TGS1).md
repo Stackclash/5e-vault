@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Astral Sea Piercer
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement)*  
@@ -40,3 +43,7 @@ Both rifts must be placed on the same plane of existence, and if you create a se
 In addition, you can expend 1 of the war pick's charges when you hit a Small or larger creature with it. When you do, that creature takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) force damage as a rift appears on its body. Rifts that appear on a creature in this way are attached to the creature and move with it until a portal is opened. When a portal opens between two rifts and at least one of the rifts is attached to a creature, the attached creature or creatures must succeed on a DC 17 Charisma saving throw or be immediately shunted through the portal to the other rift's location. Large and larger creatures automatically succeed on this saving throw.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 29*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

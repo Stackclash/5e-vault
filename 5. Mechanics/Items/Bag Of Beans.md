@@ -12,6 +12,9 @@ weight: 0.5
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Beans
 *Wondrous item, minor, rare*  
@@ -44,3 +47,7 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 ^effect
 
 *Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Ring of Earth Elemental Command
 *Ring, major, legendary (requires attunement)*  
@@ -34,3 +37,7 @@ If you help slay an [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|ear
 - You can cast the following spells from the ring, expending the necessary number of charges: [[/5. Mechanics/Spells/Stone Shape.md\|stone shape]] (2 charges), [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] (3 charges), or [[/5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]] (3 charges).  
 
 *Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

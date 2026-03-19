@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # War Pick of Corrosion
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement)*  
@@ -34,3 +37,7 @@ This weapon resembles the head of an ancient black dragon: its two horns curl be
 The weapon has 5 charges and regains all expended charges daily at dawn. Once on each of your turns when you hit a target with the war pick, you can expend 1 of its charges to increase the pick's acid damage by `dice:3d4|noform|noparens|avg` (`3d4`), to a total of `dice:4d4|noform|noparens|avg` (`4d4`) extra acid damage, for that attack; this acid damage is still doubled if the target is made of metal or is wearing metal armor. If the target is wearing metal armor, it must also succeed on a DC 16 Constitution saving throw or the armor takes a cumulative -2 penalty to the AC it offers, to a minimum of 10 AC, which lasts until it finishes a short or long rest.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

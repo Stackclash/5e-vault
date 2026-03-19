@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Figurine of Wondrous Power, Golden Lions
 *Wondrous item, major, rare*  
@@ -27,3 +30,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a [[/5. Mechanics/Bestiary/Beast/Lion.md\|lion]] for up to 1 hour. Once a [[/5. Mechanics/Bestiary/Beast/Lion.md\|lion]] has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide p. 169. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

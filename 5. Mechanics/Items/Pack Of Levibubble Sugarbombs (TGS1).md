@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pack of LeviBubble Sugarbombs
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This delicious gum comes in packs of 5 and can be blown into large, levitating b
 You can blow this bubble and remove it from your mouth as an action and place it on another creature or object within 5 feet of you. When you do, that creature or object rises 20 feet, vertically, as if under the effects of the *levitate* spell. An unwilling creature must succeed on a Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) or Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check contested by your Dexterity (Acrobatics) or Strength (Athletics) check to resist having the bubble stuck to them. Creatures and objects floating in this way can't change their altitude without popping the bubble.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 94*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

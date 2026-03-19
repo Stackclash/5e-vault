@@ -10,6 +10,9 @@ aliases:
   - Portable Mouth
 attunement: true
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Portable Mouth
 *Wondrous item, common (requires attunement)*  
@@ -20,3 +23,7 @@ rarity: common
 This replica of a mouth is lined with long sharp teeth from a maw demon. So long as you are within 60 feet of it, you may spend an action to command the mouth to begin chewing anything that is placed in it. If no food is inside it, it will bite automatically while slowly moving forward at a rate of 5 feet per round until it either bites something edible or runs into an immovable object. Any food that is properly chewed by this mouth dissolves and is teleported inside your own stomach as if you had eaten it yourself. This mouth becomes inanimate if it is ever more than 60 feet away from you.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 62*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

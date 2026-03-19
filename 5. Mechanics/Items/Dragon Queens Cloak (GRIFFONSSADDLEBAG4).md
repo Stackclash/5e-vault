@@ -10,6 +10,9 @@ aliases:
   - Dragon Queen's Cloak
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Dragon Queen's Cloak
 *Wondrous item, cursed item, legendary (requires attunement)*  
@@ -49,3 +52,7 @@ While wearing the cloak, you can use your reaction to expend 1 of its charges wh
 This cloak is cursed, and becoming attuned to it extends the curse to you. While you remain cursed, you gain the following flaw: "I am resistant to help and relinquishing control over any task. My way is always the best."
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

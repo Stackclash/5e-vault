@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wyrmling Wristlet
 *Wondrous item, minor, rare (requires attunement)*  
@@ -41,3 +44,7 @@ A summoned wyrmling disappears after 1 hour, when it drops to 0 hit points, or w
 When the last bead has been used, the wristlet becomes nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 192*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

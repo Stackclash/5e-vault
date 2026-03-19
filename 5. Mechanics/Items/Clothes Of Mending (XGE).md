@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clothes of Mending
 *Wondrous item, minor, common*  
@@ -19,3 +22,7 @@ tier: minor
 This elegant outfit of traveler's clothes magically mends itself to counteract daily wear and tear. Pieces of the outfit that are destroyed can't be repaired in this way.
 
 *Source: Xanathar's Guide to Everything p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wardancer's Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, rare*  
@@ -39,3 +42,7 @@ This double-bladed spear is extraordinarily light and perfectly balanced for use
 Immediately after you use your bonus action in this way, you can move up to 10 feet without provoking opportunity attacks, though you can't move farther than your remaining movement would allow.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 185*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

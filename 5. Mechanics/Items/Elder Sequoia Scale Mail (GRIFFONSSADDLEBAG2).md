@@ -21,6 +21,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elder Sequoia Scale Mail
 *Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a druid)*  
@@ -35,3 +38,7 @@ This hardy, natural mail is made with leather and protected with the large outer
 The tree has hit points equal to 5 times your druid level, AC 20, and vulnerability to fire damage. While you're a tree, you magically retain your normal senses and gain [[/5. Mechanics/Rules/Senses.md#Tremorsense\|tremorsense]] out to a range of 30 feet, but your speed becomes 0, and you can only use your actions to shuffle your limbs (as if by a breeze or rustling creature), revert to your normal form, or use your Wild Shape again.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 77*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

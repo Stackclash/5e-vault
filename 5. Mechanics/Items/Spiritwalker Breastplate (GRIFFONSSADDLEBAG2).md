@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spiritwalker Breastplate
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, rare (requires attunement)*  
@@ -33,3 +36,7 @@ Your spirit is tethered to your physical body and can't be farther than 30 feet 
 Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 168*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

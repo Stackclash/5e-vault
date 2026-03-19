@@ -14,6 +14,9 @@ attunement-requirement:
   - wizard
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hat of Osnomnosis
 *Wondrous item, minor, common (requires attunement by a wizard)*  
@@ -33,3 +36,7 @@ The hat of osnomnosis is a sentient chaotic good item with an Intelligence of 4,
 The hat loves nothing more than being worn and eating bits of paper and is easily befriended by creatures who pet it. The hat's button eyes can't move, but it uses its cloth folds to change its expression at will.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

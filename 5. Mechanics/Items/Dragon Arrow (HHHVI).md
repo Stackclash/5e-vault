@@ -14,6 +14,9 @@ rarity: varies
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]])*  
@@ -35,3 +38,7 @@ When used in a successful attack, there is a 30 percent chance that this arrow l
 - [[/5. Mechanics/Items/3 Dragon Arrow (HHHVI).md\|+3 Dragon Arrow]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

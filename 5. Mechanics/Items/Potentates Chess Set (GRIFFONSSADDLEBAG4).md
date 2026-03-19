@@ -10,6 +10,9 @@ aliases:
   - Potentate's Chess Set
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Potentate's Chess Set
 *Wondrous item, very rare (requires attunement)*  
@@ -49,3 +52,7 @@ When you invoke the king, you cast [[/5. Mechanics/Spells/Antilife Shell.md\|ant
 A spectral piece disappears immediately after it's used. A piece's movement is blocked by total cover. A complete set has 16 pawns, 4 bishops, 4 knights, 4 rooks, 2 queens, and 2 kings. You add your proficiency bonus to any check you make to play a game with the chess set.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

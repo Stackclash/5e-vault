@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blood Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), uncommon (requires attunement)*  
@@ -40,3 +43,7 @@ When you hit with a melee attack using this magic spear and reduce the target to
 Any creature can wield the spear, but only the character chosen by Kavan to wield it gains a +2 bonus to attack and damage rolls made with this magic weapon.
 
 *Source: Curse of Strahd p. 221*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

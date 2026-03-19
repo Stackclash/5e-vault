@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Basco's Handy Bangle
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This shiny platinum bangle is inlaid with arcane runes that seem to be written b
 There are 10 runes on the bangle that can be activated in this way: [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]], [[/5. Mechanics/Items/Carpenters Tools.md\|carpenter's tools]], [[/5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]], [[/5. Mechanics/Items/Leatherworkers Tools.md\|leatherworker's tools]], [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]], [[/5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], [[/5. Mechanics/Items/Musical Instrument.md\|instruments]] ([[/5. Mechanics/Items/Drum.md\|drum]], [[/5. Mechanics/Items/Flute.md\|flute]], [[/5. Mechanics/Items/Lute.md\|lute]], [[/5. Mechanics/Items/Lyre.md\|lyre]]), [[/5. Mechanics/Items/Navigators Tools.md\|navigator's tools]], [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], and [[/5. Mechanics/Tables/Mounts And Vehicles Waterborne Vehicles (PHB).md\|vehicles (water)]]. If you're already proficient with any of these tools, your proficiency bonus is doubled for any ability check you make that uses the tool while the rune is active.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

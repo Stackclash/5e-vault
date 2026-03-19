@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Kestra's Task List
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ Within 1 hour of finishing a long rest, you can choose to write three different 
 An objective is magically crossed off the sheet when you complete it. If you complete all of the objectives written on the sheet within 24 hours, there is a 50 percent chance that a new sheet magically appears on the pad of paper when the last objective is crossed off. In either case, after 24 hours, the sheet loses its magic, and any remaining `dice:d6|noform|noparens|avg` (`d6`) results are lost. It also loses its magic if you tear off a second sheet from the pad.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

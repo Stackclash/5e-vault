@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deck of Many Things
 *Wondrous item, major, legendary*  
@@ -148,3 +151,7 @@ You lose 10,000 XP, discard this card, and draw from the deck again, counting bo
 You gain 10,000 XP, or you can draw two additional cards beyond your declared draws.
 
 *Source: Dungeon Master's Guide p. 162. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

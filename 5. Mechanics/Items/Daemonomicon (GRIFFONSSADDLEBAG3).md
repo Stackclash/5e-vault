@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Daemonomicon
 *Wondrous item, cursed item, major, very rare*  
@@ -34,3 +37,7 @@ Alternatively, if you read the book to learn about a cult and succeed on the sav
 This book is cursed, and failing the Intelligence saving throw extends the curse to you. While cursed, you are unwilling to part with the book, keeping it within reach at all times, and you have disadvantage on attack rolls against aberrations and demons and on saving throws against their spells and special abilities. If you're a warlock, you also learn the following spells, which don't count against the number of spells you know: [[/5. Mechanics/Spells/Banishment.md\|banishment]], [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[/5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]], and [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]. Charisma is your spellcasting ability for these spells, which you know for as long as you remain cursed. If you have a Book of Shadows, this book replaces it, and whenever you have to make an Intelligence saving throw when reading the book, you can make a Charisma saving throw instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

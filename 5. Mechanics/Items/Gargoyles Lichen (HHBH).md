@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gargoyle's Lichen
 *Herb, common*  
@@ -30,3 +33,7 @@ Quite difficult to find due to its stony-grey complexion, the gargoyle's lichen 
 For 8 hours after using this herb, your skin takes on a hard, grey appearance that resembles stone.
 
 *Source: Hamund's Herbalism Handbook p. 15*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

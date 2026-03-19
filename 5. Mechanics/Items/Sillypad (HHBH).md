@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sillypad
 *Herb, common*  
@@ -44,3 +47,7 @@ As an action you may rub this herb on your skin. If you do so, you undergo a ran
 ^sillypad-effect-table
 
 *Source: Hamund's Herbalism Handbook p. 31*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

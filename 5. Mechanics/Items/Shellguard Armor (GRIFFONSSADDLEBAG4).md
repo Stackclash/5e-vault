@@ -16,6 +16,9 @@ rarity: rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Shellguard Armor
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), rare (requires attunement)*  
@@ -29,3 +32,7 @@ The front of this armor is adorned with a large shell design, which covers your 
 The armor has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn. If you're within 100 feet of a natural body of sea water at that time, it regains all expended charges instead. While wearing the armor, you can use your reaction when you take fire damage to expend 1 of the armor's charges to halve the fire damage you take from the triggering effect.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

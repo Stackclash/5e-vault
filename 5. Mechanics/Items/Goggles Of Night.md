@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Goggles of Night
 *Wondrous item, minor, uncommon*  
@@ -20,3 +23,7 @@ tier: minor
 While wearing these dark lenses, you have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 60 feet. If you already have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]], wearing the goggles increases its range by 60 feet.
 
 *Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

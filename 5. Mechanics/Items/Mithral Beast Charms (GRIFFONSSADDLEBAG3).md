@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mithral Beast Charms
 *Wondrous item, minor, uncommon*  
@@ -36,3 +39,7 @@ Once the charm has been used, it loses its magic and can't be used again. When f
 ^charm-summoned-creatures
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

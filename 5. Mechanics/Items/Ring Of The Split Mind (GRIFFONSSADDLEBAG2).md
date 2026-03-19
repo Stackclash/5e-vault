@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of the Split Mind
 *Ring, major, very rare (requires attunement by a spellcaster)*  
@@ -29,3 +32,7 @@ This crimson ring is split into two half-circles that magically hover a hair's b
 If you're concentrating on a spell of 3rd level or lower and wearing the ring, you can choose to cast another spell of 3rd level or lower that also requires concentration without losing concentration on the first one. While concentrating on two spells in this way, make a Constitution saving throw for each spell as normal whenever you take damage to maintain your concentration. When you do, roll the `dice:d20|noform|noparens|avg` (`d20`) for each spell's saving throw in the order in which you cast them. You are vulnerable to psychic damage while concentrating on two spells in this way. Once this property of the ring has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 148*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

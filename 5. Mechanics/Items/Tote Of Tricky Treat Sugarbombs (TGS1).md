@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tote of Tricky Treat Sugarbombs
 *Wondrous item, minor, common*  
@@ -48,3 +51,7 @@ This canvas bag holds `dice:5d8+10|noform|noparens|avg` (`5d8 + 10`) clove and p
 ^tricky-treat-sugarbomb-effects
 
 *Source: The Griffon's Saddlebag, Book 1 p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

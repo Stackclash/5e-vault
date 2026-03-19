@@ -15,6 +15,9 @@ tier: major
 type: gear
 subtype:
   - artisans-tools
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stonemason's Companion
 *Wondrous item, artisan's tools ([[/5. Mechanics/Items/Masons Tools.md\|mason's tools]]), major, uncommon*  
@@ -28,3 +31,7 @@ If you are proficient with mason's tools, you can use these tools to carve 10 gp
 When the familiar falls to 0 hit points, the spell ends and it crumbles into a pile of nonmagical rubble. While a familiar created by the stonemason's companion exists, you can't use the tools to create another one.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 172*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

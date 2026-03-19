@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crusader's Shortsword
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]) (requires attunement)*  
@@ -36,3 +39,7 @@ The sword's purpose is to fight evil. The sword has the following additional pro
 - While attuned to the weapon, the sword's wielder can use the sword to cast the [[/5. Mechanics/Spells/Crusaders Mantle.md\|crusader's mantle]] spell. Once used, this property of the sword can't be used again until the next dawn.  
 
 *Source: Curse of Strahd p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

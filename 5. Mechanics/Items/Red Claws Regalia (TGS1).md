@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Red Claw's Regalia
 *Wondrous item, major, legendary (requires attunement)*  
@@ -29,3 +32,7 @@ This dragon scale robe is miraculously insulated and comfortable. While wearing 
 The hem of this robe glimmers with slowly shifting embers. While wearing the robe, your steps leave behind small motes of harmless fire and scorched earth that disappear after 1 second.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 103*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

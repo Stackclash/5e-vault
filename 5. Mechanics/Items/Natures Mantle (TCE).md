@@ -14,6 +14,9 @@ attunement-requirement:
   - druid
   - ranger
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nature's Mantle
 *Wondrous item, uncommon (requires attunement by a druid or ranger)*  
@@ -26,3 +29,7 @@ This cloak shifts color and texture to blend with the terrain surrounding you. W
 While you are in an area that is lightly obscured, you can [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] as a bonus action even if you are being directly observed.
 
 *Source: Tasha's Cauldron of Everything p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Festerwood Buckler
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
@@ -25,3 +28,7 @@ tier: major
 This festerwood shield is riddled with amber pustules that glow with a low, yellow light. While holding this magic shield, the pustules emit bright light in a 5-foot radius and dim light for another 5 feet. In addition, while you're holding the shield, you can use your reaction when a creature that you can see within 5 feet of you misses you with an attack to bash that creature with the shield. When you do, that creature must succeed on a DC 13 Dexterity saving throw or take `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) acid damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 62*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

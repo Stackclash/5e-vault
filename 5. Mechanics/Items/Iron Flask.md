@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Iron Flask
 *Wondrous item, major, legendary*  
@@ -62,3 +65,7 @@ An [[/5. Mechanics/Spells/Identify.md\|identify]] spell reveals that a creature 
 ^contents
 
 *Source: Dungeon Master's Guide p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Barrier Coral
 *Herb, rare*  
@@ -35,3 +38,7 @@ This herb may be dragged behind you on the ground as you move, creating a magica
 
 
 *Source: Hamund's Herbalism Handbook p. 6*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

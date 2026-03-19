@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Shield of the Great Badger
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
@@ -28,3 +31,7 @@ This dark silver shield is stylized in the striped likeness of a badger's face. 
 The shield has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. When a creature within 5 feet of you hits you with an attack, you can use your reaction to expend 1 of the shield's charges to cause a spectral badger to emerge from the shield and lash back out at the attacker. The attacking creature must succeed on a DC 13 Dexterity saving throw or take `dice:2d4+3|noform|noparens|avg` (`2d4 + 3`) slashing damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

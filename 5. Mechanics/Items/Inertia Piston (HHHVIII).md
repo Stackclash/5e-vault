@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Inertia Piston
 *Rare*  
@@ -23,3 +26,7 @@ This item may be attached to any melee bludgeoning weapon. Attaching or removing
 If you score a critical hit with a weapon that has this item attached against a creature that is size Large or smaller, you may choose to also knock them [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] or move them up to 5 feet away from you.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 91*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

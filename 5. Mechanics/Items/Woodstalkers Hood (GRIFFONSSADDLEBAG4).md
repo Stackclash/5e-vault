@@ -10,6 +10,9 @@ aliases:
   - Woodstalker's Hood
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Woodstalker's Hood
 *Wondrous item, rare (requires attunement)*  
@@ -33,3 +36,7 @@ You can shift your awareness to a plant that you can see within 300 feet of you.
 You can force up to 4 creatures that you can see within 30 feet of you to make a DC 15 Wisdom saving throw. On a failed save, a creature is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Mockingblade
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, uncommon (requires attunement by a bard)*  
@@ -37,3 +40,7 @@ This magic sword helps you more effectively add insult to injury. The sword has 
 When a creature rolls a 20 on a saving throw against a *vicious mockery* spell cast from the blade in this way, the face adorning the sword's hilt screams insults at you instead until the end of your turn. The insults are audible out to 30 feet and are directed at your deepest insecurities and regrets. Any creature that hears these insults is made aware of your weaknesses, granting it advantage on its next attack roll against you until the start of your next turn. Once the sword screams at you in this way, it can't be used to cast the *vicious mockery* spell again until `dice:1d4|noform|noparens|avg` (`1d4`) days have passed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 89*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Singing Skull
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Singing Skull
 *Wondrous item, uncommon*  
@@ -19,3 +22,7 @@ rarity: uncommon
 While holding this item, you may cast the [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell. Once used, this item cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 96*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

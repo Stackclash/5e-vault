@@ -19,6 +19,9 @@ tier: major
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Instrument of the Bards, Fochlucan Bandore
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  
@@ -37,3 +40,7 @@ All instruments of the bards can be used to cast the following spells: [[/5. Mec
 In addition, the Fochlucan bandore can be used to cast [[/5. Mechanics/Spells/Entangle.md\|entangle]], [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[/5. Mechanics/Spells/Shillelagh.md\|shillelagh]], and [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]].
 
 *Source: Dungeon Master's Guide p. 176*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

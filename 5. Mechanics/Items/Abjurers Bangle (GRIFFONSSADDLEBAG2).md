@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Abjurer's Bangle
 *Wondrous item, minor*  
@@ -31,3 +34,7 @@ You can clasp or remove this metal bracelet around the wrist or ankle of yoursel
 ^rarity-ward-hit-points
 
 *Source: The Griffon's Saddlebag, Book 2 p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

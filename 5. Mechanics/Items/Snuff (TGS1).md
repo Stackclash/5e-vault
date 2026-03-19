@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Snuff
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ As an action, you can draw your hand over the sickle's handle to magically exten
 This weapon is particularly lethal to creatures. Creatures hit by this weapon take an extra `dice:1d6|noform|noparens|avg` (`1d6`) psychic damage. This bonus increases to `dice:2d6|noform|noparens|avg` (`2d6`) if the weapon is transformed into the scythe.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

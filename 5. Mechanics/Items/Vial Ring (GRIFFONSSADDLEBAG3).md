@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vial Ring
 *Ring, minor, common*  
@@ -26,3 +29,7 @@ This ring is made of glass and has a cork stopper at its top like a set gemstone
 While the ring itself is magical, the cork is not. Any cork of the right size can be used to stopper the ring or vial, allowing you to mark the corks as needed or replace them, should they become lost or destroyed by acid or other similar hazardous (albeit bottleable) materials.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

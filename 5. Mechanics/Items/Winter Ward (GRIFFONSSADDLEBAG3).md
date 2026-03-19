@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Winter Ward
 *Wondrous item, major, very rare (requires attunement)*  
@@ -33,3 +36,7 @@ When you dismiss the spirit as an action, it can't be summoned again until the n
 If the spirit drops to 0 hit points, it bursts into a flurry of snow and can't be summoned again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

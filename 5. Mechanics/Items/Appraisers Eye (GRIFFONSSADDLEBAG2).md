@@ -14,6 +14,9 @@ attunement-requirement:
   - creature missing an eye
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Appraiser's Eye
 *Wondrous item, major, rare (requires attunement by a creature missing an eye)*  
@@ -27,3 +30,7 @@ While holding the eye, you can use an action to expend 1 of its charges to cast 
 While you're attuned to the sphere, it also functions like a normal eye while it's in your socket, and you have advantage on Intelligence checks you make to determine an item's value, as well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight. In addition, if you cast [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]] and use the sphere as the material component for the spell while you're attuned to it, the 10 percent chance that the sphere is consumed by the spell isn't cumulative, and in the event that the sphere is consumed by the spell, it loses this property and can no longer be used as a component for the spell, but isn't destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 36*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

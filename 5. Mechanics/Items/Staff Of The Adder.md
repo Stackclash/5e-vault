@@ -24,6 +24,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Staff of the Adder
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warlock)*  
@@ -42,3 +45,7 @@ You can make a melee attack using the snake head, which has a reach of 5 feet. Y
 The snake head can be attacked while it is animate. It has an Armor Class of 15 and 20 hit points. If the head drops to 0 hit points, the staff is destroyed. As long as it's not destroyed, the staff regains all lost hit points when it reverts to its inanimate form.
 
 *Source: Dungeon Master's Guide p. 203*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

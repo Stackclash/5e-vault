@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battlebrew Bomb
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This fist-sized keg contains 1 ounce of extremely old dwarven liquor which is as
 The next time that a target that was sprayed by the liquor takes fire damage within 1 minute, it takes an extra `dice:2d8|noform|noparens|avg` (`2d8`) fire damage as the liquor ignites.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

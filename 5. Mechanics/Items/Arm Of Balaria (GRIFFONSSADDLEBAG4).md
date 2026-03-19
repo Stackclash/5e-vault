@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arm of Balaria
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), uncommon (requires attunement by a monk)*  
@@ -38,3 +41,7 @@ The ends of this quarterstaff are topped with brass hands. Whenever you would ma
 The staff's hands can change into different positions or gestures. Each position allows you to change your unarmed strike's damage type with it: bludgeoning damage (clenched fist), piercing damage (finger point), or slashing damage (hand chop). Whenever you make an unarmed strike with the staff, you can change the gesture of the respective hand as part of the attack.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

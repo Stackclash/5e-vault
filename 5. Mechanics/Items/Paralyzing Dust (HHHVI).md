@@ -9,6 +9,9 @@ aliases:
   - Paralyzing Dust
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Paralyzing Dust
 *Wondrous item, poison (inhaled or ingested), uncommon*  
@@ -20,3 +23,7 @@ You may spend an action to blow this pouch of grey dust into the face of a non-u
 If this dust is dissolved into a liquid first and then drunk by a non-undead creature, they automatically fail the save and all subsequent saves for the next minute.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 136, Hamund's Harvesting Handbook: Volume III p. 92*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

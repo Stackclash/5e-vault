@@ -16,6 +16,9 @@ tier: major
 type: vehicle
 subtype:
   - land
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fell-Rider Chariot
 *Wondrous item, vehicle (land), major, legendary*  
@@ -32,3 +35,7 @@ The chariot is drawn where the [[/5. Mechanics/Bestiary/Fiend/Nightmare.md\|nigh
 While both [[/5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmares]] exist, you can use an action while holding the reins to cause the nightmares, the chariot, and any creatures or objects inside it to magically enter the Ethereal Plane from the Material Plane, or vice versa.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

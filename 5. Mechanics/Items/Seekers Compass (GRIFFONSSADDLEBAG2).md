@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Seeker's Compass
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This brass compass has two needles: one large, and one small. The large needle a
 While holding this compass, you can speak its command word as an action to cast the [[/5. Mechanics/Spells/Locate Object.md\|locate object]] spell from it and activate the smaller needle. This version of the spell has a duration of 1 hour, doesn't require concentration, and causes the smaller needle to indicate the direction of the object located by the spell. If the small needle can't detect the object specified by the spell, it spins wildly for a moment and then becomes motionless again. Once used, this property of the compass can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 157*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

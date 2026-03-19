@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Emberheart Hammer
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), major, legendary (requires attunement)*  
@@ -38,3 +41,7 @@ This hammer was forged by Loth'remar, one of the founding dwarves of the city of
 You gain a +2 bonus to attack and damage rolls made with this magic hammer, which deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to any target it hits. If the target is made of stone, the weapon's bludgeoning damage is doubled. If it's made of metal or is wearing metal armor, the fire damage is doubled. In addition, you have resistance to fire damage while attuned to the hammer. If you are a dwarf, you have immunity to fire damage instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

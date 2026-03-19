@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Primordial Earth Heart
 *Wondrous item, cursed item, major, legendary (requires attunement)*  
@@ -32,3 +35,7 @@ While attuned to the heart, you can use an action to cast one of the following s
 This heart is cursed, and attuning to it extends that curse to you. While cursed, the stone and crystals spread across your body, gradually replacing your flesh with pure rock and crystal over the course of 30 days. After 30 days, you no longer need to breathe, you gain a burrowing speed equal to half your walking speed, and you have [[/5. Mechanics/Rules/Senses.md#Tremorsense\|tremorsense]] out to a range of 10 feet. Your weight is also tripled; your swimming speed is reduced to 0 if you have one, and you sink to the bottom of any liquid at a rate of 60 feet per round, at which point you can walk as normal. Only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can end your attunement to the heart and remove the curse, at which point it erupts from your body, landing in a space within 5 feet of you and returning your flesh to normal.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

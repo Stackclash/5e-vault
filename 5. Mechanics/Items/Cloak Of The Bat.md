@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of the Bat
 *Wondrous item, major, rare (requires attunement)*  
@@ -22,3 +25,7 @@ While wearing this cloak, you have advantage on Dexterity ([[/5. Mechanics/Rules
 While wearing the cloak in an area of dim light or darkness, you can use your action to cast [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] on yourself, transforming into a [[/5. Mechanics/Bestiary/Beast/Bat.md\|bat]]. While you are in the form of the [[/5. Mechanics/Bestiary/Beast/Bat.md\|bat]], you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

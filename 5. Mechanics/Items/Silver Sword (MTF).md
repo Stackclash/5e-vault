@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Sword
 *Weapon, major (requires attunement by a creature that has psionic ability)*  
@@ -34,3 +37,7 @@ subtype:
 You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the [[/5. Mechanics/Spells/Astral Projection.md\|astral projection]] spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 
 *Source: Mordenkainen's Tome of Foes p. 89*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

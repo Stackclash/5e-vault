@@ -13,6 +13,9 @@ armorClass: 2
 weight: 6
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Serpent Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), rare (requires attunement)*  
@@ -28,3 +31,7 @@ This shield does not provide any bonus to AC while it is in serpent form. You ma
 Once this ability has been used, you may not use it again until the end of your next long rest.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

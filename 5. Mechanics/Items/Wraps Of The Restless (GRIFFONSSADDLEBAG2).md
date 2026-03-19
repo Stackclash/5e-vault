@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Wraps of the Restless
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
@@ -30,3 +33,7 @@ The wraps have 3 charges and regain `dice:1d3|noform|noparens|avg` (`1d3`) expen
 Once you don these cursed wraps, you can't doff them unless you are targeted by the remove curse spell or similar magic. While wearing the wraps, you have disadvantage on attack rolls against undead and on saving throws against their spells and special abilities. In addition, while cursed, you don't recover as much from resting. When you roll Hit Dice to regain hit points, roll each one of the dice twice and use the lower result.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 192*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

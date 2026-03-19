@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Grass Whistle Blade
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  
@@ -39,3 +42,7 @@ This blade has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expe
 Undead and creatures immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] can't be put to sleep by this effect.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 73*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

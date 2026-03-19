@@ -10,6 +10,9 @@ aliases:
   - Demonomicon of Iggwilv
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Demonomicon of Iggwilv
 *Wondrous item, artifact (requires attunement)*  
@@ -55,3 +58,7 @@ When the tome is discovered, it has `dice:1d4|noform|noparens|avg` (`1d4`) fiend
 To destroy the book, six different demon lords must each tear out a sixth of the book's pages. If this occurs, the pages reappear after 24 hours. Before all those hours pass, anyone who opens the book's remaining binding is transported to a nascent layer of the Abyss that lies hidden within the book. At the heart of this deadly, semi-sentient domain lies a long-lost artifact, *Fraz-Urb'luu's Staff*. If the staff is dragged from the pocket plane, the tome is reduced to a mundane and quite out-of-date copy of the *Tome of Zyx*, the work that served as the foundation for the *Demonomicon*. Once the staff emerges, the demon lord Fraz-Urb'luu instantly knows.
 
 *Source: Tasha's Cauldron of Everything p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

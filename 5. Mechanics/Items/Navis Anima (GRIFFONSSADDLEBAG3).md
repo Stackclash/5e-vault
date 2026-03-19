@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Navis Anima
 *Wondrous item, minor, legendary*  
@@ -34,3 +37,7 @@ The anima can speak and read Common and can communicate telepathically with crea
 A navis anima is initially blank. Once it has been part of a naming ritual, however, it quickly forms a personality based on its given name, its bound vehicle, and its early interactions with other creatures. For example, a general's warship named the Lord's Blade may have an aggressive, militaristic personality, while a merchant's cart named the Timetable may be meticulous and punctual. However, all animas are protective of those they consider their crew and will prioritize their crew's interests over the interests of others.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

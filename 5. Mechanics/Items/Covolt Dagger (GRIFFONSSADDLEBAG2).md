@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Covolt Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  
@@ -34,3 +37,7 @@ subtype:
 This angular dagger is forged with covolt, an elemental blue metal that carries storm-like properties. When you score a critical hit against a target with an attack made with this magic weapon, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) lightning damage and can't take reactions until the start of its next turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 66*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Shadow Amulet
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Amulet
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ When you are holding this item, you may spend an action to summon a [[/5. Mechan
 Whenever the shadow demon is summoned, there is a 10 percent chance that this item will instead shatter, releasing the shadow demon from the amulet and freeing it from your control. In this case, it rolls for initiative and acts on its own turn, and is unfriendly to any creature around it. It does not disappear unless it is reduced to 0 hit points.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

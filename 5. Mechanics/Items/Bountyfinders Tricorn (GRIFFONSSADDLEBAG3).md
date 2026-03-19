@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bountyfinder's Tricorn
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ You're proficient with water vehicles while wearing this hat, and you have advan
 If you tap the shovel to the targeted object before the end of the spell's duration, the shovel then transforms back into the pin on the hat, which can then be used to cast the spell again. Otherwise, the shovel loses its magic and becomes a normal shovel.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

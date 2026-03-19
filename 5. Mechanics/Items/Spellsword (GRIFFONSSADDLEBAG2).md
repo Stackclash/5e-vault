@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spellsword
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, rare*  
@@ -38,3 +41,7 @@ When you deactivate the weapon early using an action, the remaining magic stored
 The blade emits bright light in a 20-foot radius and dim light for an additional 20 feet, and disappears if the sword is no longer activated or if you let go of the weapon. While holding the activated sword, you can use a bonus action to cause the blade to vanish or reappear.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 167*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ weight: 2
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lantern of Revealing
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ tier: minor
 While lit, this [[/5. Mechanics/Items/Hooded Lantern.md\|hooded lantern]] burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. [[/5. Mechanics/Rules/Conditions.md#Invisible\|Invisible]] creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius.
 
 *Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -16,6 +16,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Shadow-Fletched Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
@@ -28,3 +31,7 @@ This arrow is barbed with unforgiving spikes and releases a plume of magical sha
 Other types of magic ammunition of this kind exist, such as shadow-fletched bolts meant for a crossbow, though arrows are most common.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Skelekey
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Skelekey
 *Wondrous item, rare*  
@@ -22,3 +25,7 @@ This key can be used to open any lock that has a lockpicking DC of 25 or lower. 
 Each time the key is used to open a lock, one of its gems becomes dull and cracked. Once both gems are cracked, the key loses its magic.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

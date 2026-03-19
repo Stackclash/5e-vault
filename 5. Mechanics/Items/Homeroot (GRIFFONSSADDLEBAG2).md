@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Homeroot
 *Wondrous item, minor, rare*  
@@ -30,3 +33,7 @@ A creature that casts the [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]]
 The entrance stump has 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]] spell cast on the stump can repair it, with each casting restoring 10 hit points to it, or all its hit points if cast over the course of 8 hours. If the stump is destroyed, the dwelling collapses and magically shunts anything inside it (other than the furniture) to the nearest unoccupied space next to where the root was buried. When this happens, the earth magically returns to the way it was before the root was buried.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 105*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

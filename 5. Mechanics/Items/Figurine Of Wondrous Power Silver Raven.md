@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Figurine of Wondrous Power, Silver Raven
 *Wondrous item, major, uncommon*  
@@ -27,3 +30,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 This silver statuette of a raven can become a raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell on it at will.
 
 *Source: Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

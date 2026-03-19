@@ -16,6 +16,9 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deer Hunter's Armor
 *Minor, rare (requires attunement)*  
@@ -27,3 +30,7 @@ This set of gray and green armor carries the spirit of the forest within it. Whi
 While wearing the armor, your ranged weapon attacks ignore half and three-quarters cover when the target is using another creature as cover. Your attacks become ghostly as they pass through such creatures, only becoming real again when they reach the target.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Sending Slates
 *Wondrous item, minor, rare*  
@@ -22,3 +25,7 @@ Sending slates come in pairs, with each chalkboard slate marked on the back with
 The slates can be written on in this way up to 10 times. Alternatively, you can expend 5 uses of the slates to draw something more complex on it over the course of 1 minute. Erasing something from the slates does not expend a use from them. The slates regain all expended uses daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

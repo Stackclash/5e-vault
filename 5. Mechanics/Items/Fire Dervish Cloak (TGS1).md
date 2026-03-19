@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Fire Dervish Cloak
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ This breathable cloak sounds like a crackling fire as it billows behind you and 
 If a creature takes fire damage from the cloak, that creature can't make opportunity attacks against you until the end of your turn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

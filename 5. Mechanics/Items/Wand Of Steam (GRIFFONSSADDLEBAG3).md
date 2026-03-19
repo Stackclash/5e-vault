@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Steam
 *Wand, major, uncommon*  
@@ -32,3 +35,7 @@ The spell has a duration of 1 minute, instead of 1 hour.
 If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand disappears in a plume of steam and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

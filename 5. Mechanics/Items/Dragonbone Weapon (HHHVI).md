@@ -10,6 +10,9 @@ aliases:
   - Dragonbone Weapon
 attunement: true
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonbone Weapon
 *(Requires attunement)*  
@@ -28,3 +31,7 @@ You have a bonus to your attack and damage rolls made with this weapon correspon
 - [[/5. Mechanics/Items/Dragonbone Weapon Ancient (HHHVI).md\|Dragonbone Weapon (Ancient)]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

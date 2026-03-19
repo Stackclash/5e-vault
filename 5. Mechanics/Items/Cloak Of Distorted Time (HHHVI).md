@@ -10,6 +10,9 @@ aliases:
   - Cloak of Distorted Time
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of Distorted Time
 *Wondrous item, very rare (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: very-rare
 You gain advantage on initiative rolls you make while wearing this cloak. If initiative is rolled while you are wearing this robe, you may use your reaction to target up to 7 creatures that you can see within 60 feet of you. The creatures you target re-roll their initiative and keep the new ones.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

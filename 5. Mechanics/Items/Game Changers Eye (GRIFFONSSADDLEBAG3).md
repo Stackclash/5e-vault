@@ -14,6 +14,9 @@ attunement-requirement:
   - creature missing an eye
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Game Changer's Eye
 *Wondrous item, major, rare (requires attunement by a creature missing an eye)*  
@@ -49,3 +52,7 @@ The eye releases a burst of chaotic magic each time you use it to reroll a `dice
 ^effect
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

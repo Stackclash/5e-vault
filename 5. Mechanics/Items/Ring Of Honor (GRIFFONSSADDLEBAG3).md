@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Honor
 *Ring, major, rare*  
@@ -36,3 +39,7 @@ You're immune to the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]
 The effect ends early if you're reduced to 0 hit points. If you don't use this property within 24 hours of the ring gaining its 5th charge, the ring loses all charges.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

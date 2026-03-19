@@ -9,6 +9,9 @@ aliases:
   - Horn of Valhalla
 attunement: false
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horn of Valhalla
 *Wondrous item*  
@@ -23,3 +26,7 @@ rarity: varies
 - [[/5. Mechanics/Items/Horn Of Valhalla Silver.md\|Horn of Valhalla, Silver]]
 
 *Source: Dungeon Master's Guide p. 175*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

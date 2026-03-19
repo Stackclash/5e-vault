@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Healer's Heroism
 *Ring, major, uncommon (requires attunement by a spellcaster)*  
@@ -27,3 +30,7 @@ subtype:
 When you use an action to restore hit points to a creature other than yourself while wearing this winged ring, you become infused with heroism. You gain temporary hit points equal to your spellcasting modifier, and until the end of your next turn, you are immune to being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 
 *Source: The Griffon's Saddlebag, Book 2 p. 146*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

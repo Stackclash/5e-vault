@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quicksilver Clay
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This small orb of silver, watery liquid is strangely dry to the touch. While hol
 Eating or drinking the liquid is harmless, but takes `dice:1d4|noform|noparens|avg` (`1d4`) days to exit the body.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 102*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

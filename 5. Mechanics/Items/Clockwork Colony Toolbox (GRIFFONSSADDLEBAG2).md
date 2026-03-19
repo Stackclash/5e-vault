@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Colony Toolbox
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This trim bronze toolbox rattles softly with the sound of bolts, screws, and oth
 Similarly, any small machine (such as a compass or [[/5. Mechanics/Items/Hunting Trap.md\|hunting trap]]) left inside the closed toolbox for 1 hour is magically repaired. Any magical item with "clockwork" in its name regains all its hit points when left in the toolbox in this way. If the magical item has charges or additional magical properties, it regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges and the ability to use those properties again. Once an item or object has been restored in this way, it can't be restored by the toolbox again for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 62*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

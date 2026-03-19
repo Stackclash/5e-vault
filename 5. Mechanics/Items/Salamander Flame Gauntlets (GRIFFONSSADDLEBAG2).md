@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Salamander Flame Gauntlets
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ These dark metal gauntlets were forged using fire from the heart of a salamander
 While holding the fiery blade, you can use an action to make a ranged spell attack with it instead. When you do, the blade becomes a fiery spear with a range of 30 feet. On a hit, the spear deals `dice:4d6|noform|noparens|avg` (`4d6`) fire damage. Immediately after the attack, the fiery blade reforms in your hand.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 153*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

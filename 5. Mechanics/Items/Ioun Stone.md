@@ -10,6 +10,9 @@ aliases:
   - Ioun Stone
 attunement: true
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ioun Stone
 *Wondrous item (requires attunement)*  
@@ -33,3 +36,7 @@ rarity: varies
 - [[/5. Mechanics/Items/Ioun Stone Sustenance.md\|Ioun Stone, Sustenance]]
 
 *Source: Dungeon Master's Guide p. 176*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

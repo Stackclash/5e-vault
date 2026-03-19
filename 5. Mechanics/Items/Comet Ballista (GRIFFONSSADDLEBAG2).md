@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Comet Ballista
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, rare (requires attunement)*  
@@ -39,3 +42,7 @@ This crossbow is partially covered in cold shards of stone and metal and uses [[
 You can use an action to fire the crossbow into the air and speak its command word, choosing a point that you can see within 120 feet of you when you do. The sling bullet scatters into icy dust and is destroyed, but magically conjures a barrage of miniscule falling comets above the point. The comets fall in a 20-foot-radius, 40-foot-tall cylinder centered on that point and disappear once they hit the ground. Each creature within the area must make a DC 13 Dexterity saving throw, taking `dice:8d6|noform|noparens|avg` (`8d6`) cold damage on a failed save, or half as much damage on a successful one. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

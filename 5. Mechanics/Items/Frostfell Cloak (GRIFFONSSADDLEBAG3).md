@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Frostfell Cloak
 *Wondrous item, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ The cloak has 5 charges and regains all expended charges daily at dawn. Once on 
 The snow is difficult terrain and remains for `dice:1d4|noform|noparens|avg` (`1d4`) rounds, disappearing at the start of your turn on the round that it would end.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

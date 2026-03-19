@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shooting Star
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
@@ -43,3 +46,7 @@ In addition, when you use a starlit arrow and roll a 20 on an attack roll made w
 Immediately after a falling star hits the ground or a target, it disappears.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 160*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

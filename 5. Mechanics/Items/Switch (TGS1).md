@@ -19,6 +19,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Switch
 *Rod, major, very rare (requires attunement by a druid)*  
@@ -35,3 +38,7 @@ While the rod is activated, you can use an action to expend a second use of your
 Switch becomes inactive at the end of its duration, you fall to 0 hit points, or end it early as a bonus action. When it's inactive, it reverts to its normal rod form.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

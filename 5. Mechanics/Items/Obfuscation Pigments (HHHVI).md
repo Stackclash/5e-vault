@@ -9,6 +9,9 @@ aliases:
   - Obfuscation Pigments
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Obfuscation Pigments
 *Wondrous item, uncommon*  
@@ -22,3 +25,7 @@ Although the object remains the same visually, it becomes psychologically blocke
 Any attempt to find an item covered in this paint by someone actively searching for it is rolled at disadvantage. However, a creature that touches an item covered in this paint, or who is verbally informed of its presence, ceases to be influenced by this paint's ability.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

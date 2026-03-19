@@ -9,6 +9,9 @@ aliases:
   - Haunted Figure
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Haunted Figure
 *Wondrous item, rare*  
@@ -27,3 +30,7 @@ Use the following statblock for your haunted figure when it is animated:
 > ![[/5. Mechanics/Bestiary/Construct/Haunted Figure (HHHVIII).md#^statblock\|Haunted Figure]]
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 89*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

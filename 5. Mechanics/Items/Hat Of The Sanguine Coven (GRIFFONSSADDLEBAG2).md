@@ -16,6 +16,9 @@ attunement-requirement:
   - wizard
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hat of the Sanguine Coven
 *Wondrous item, major, uncommon (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -28,3 +31,7 @@ This red hat is worn by a coven of witches known for their familiarity with deat
 - When you roll a death saving throw, you can immediately cause the hat to cast the [[/5. Mechanics/Spells/Chill Touch.md\|chill touch]] spell (+5 to hit, no action required) against a creature within 30 feet of you that isn't behind total cover or heavily obscured. If it hits, you gain a +5 bonus to the saving throw.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

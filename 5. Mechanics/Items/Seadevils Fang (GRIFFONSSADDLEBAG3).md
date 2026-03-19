@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Seadevil's Fang
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare*  
@@ -34,3 +37,7 @@ This watery blue blade feels like a rumbling tide while held. You gain a +1 bonu
 If a creature becomes [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] while marked or is already [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], it instead becomes pitch dark and is outlined by a mystical purple aura for the duration of the invisibility. That creature gains no benefit from being [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], and magical, inky tentacles reach up from the ground to grapple it for 1 minute (escape DC 15). Once a creature has been [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] in this way, it can't be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by the tentacles again for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

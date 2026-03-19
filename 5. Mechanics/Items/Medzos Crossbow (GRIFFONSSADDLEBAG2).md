@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Medzo's Crossbow
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare*  
@@ -44,3 +47,7 @@ A target hit with a ranged attack from this crossbow takes `dice:3d4|noform|nopa
 ^matching-number-effect
 
 *Source: The Griffon's Saddlebag, Book 2 p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

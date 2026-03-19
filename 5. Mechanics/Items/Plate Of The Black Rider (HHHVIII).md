@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Plate of the Black Rider
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
@@ -35,3 +38,7 @@ While a creature is your steed, it is completely loyal to your commands and you 
 You may only have one steed at a time; using this ability on another creature while you already have a steed transfers all the benefits from this ability to your new target.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

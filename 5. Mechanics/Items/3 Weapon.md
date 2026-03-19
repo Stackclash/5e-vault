@@ -76,6 +76,9 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +3 Weapon
 *Major, very rare*  
@@ -84,3 +87,7 @@ subtype:
 You have a +3 bonus to attack and damage rolls made with this magic weapon.
 
 *Source: Dungeon Master's Guide p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

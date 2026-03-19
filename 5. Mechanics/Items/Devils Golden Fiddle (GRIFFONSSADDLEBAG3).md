@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Devil's Golden Fiddle
 *Wondrous item, major, rare (requires attunement)*  
@@ -39,3 +42,7 @@ When you make a Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performan
 This property is only revealed when you lose in a musical competition against another creature. When you do, your attunement to the fiddle ends, and the fiddle immediately becomes attuned to the winning creature, provided that it can be attuned to. The fiddle then immediately begins to play on its own and flies to the side of the attuned creature.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

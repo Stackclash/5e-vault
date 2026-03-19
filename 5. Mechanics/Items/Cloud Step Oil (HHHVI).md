@@ -13,6 +13,9 @@ rarity: very-rare
 type: gear
 subtype:
   - oil
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloud Step Oil
 *Oil, very rare*  
@@ -24,3 +27,7 @@ When some of this oil is poured out, it immediately has a reaction to the air ar
 The clouds last for 1 hour after pouring, after which they disappear. One bottle of this oil is enough to create 500 square feet of clouds.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 122, Hamund's Harvesting Handbook: Volume II p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

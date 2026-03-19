@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bardic Leathers
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), very rare (requires attunement by a bard)*  
@@ -31,3 +34,7 @@ This armor has strands of spun mithral strung between its various studs, adding 
 If you're attuned to the armor and have a free hand, you can use your reaction when you're hit by an attack to expend one use of your Bardic Inspiration, using your hand to pluck one of the armor's strings. When you do, you can roll the Bardic Inspiration die and add the result to your AC, potentially causing the triggering attack to miss.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

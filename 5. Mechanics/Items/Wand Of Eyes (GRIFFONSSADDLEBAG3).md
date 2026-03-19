@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Eyes
 *Wand, minor, uncommon*  
@@ -26,3 +29,7 @@ This wand's glistening white haft has eye-like veins tracing down its length. Th
 A creature that can see the sensor (such as a creature benefiting from see invisibility or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) sees a floating, ghostly eyeball.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Faerie Dragon Dust
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Faerie Dragon Dust
 *Wondrous item, uncommon*  
@@ -18,3 +21,7 @@ rarity: uncommon
 You may spend an action to sprinkle some of this dust over yourself. If you do so, you magically turn [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] as if under the effect of the invisibility spell (no concentration required). This pouch contains enough dust for three sprinkles.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 127*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

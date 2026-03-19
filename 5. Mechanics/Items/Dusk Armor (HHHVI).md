@@ -18,6 +18,9 @@ rarity: varies
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dusk Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]) (requires attunement)*  
@@ -37,3 +40,7 @@ While wearing this armor, you have a bonus to AC determined by the armor's rarit
 - [[/5. Mechanics/Items/3 Dusk Armor (HHHVI).md\|+3 Dusk Armor]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hand of the Master
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ This satin glove has no visible seams and can be easily flipped inside-out to we
 In addition, you can cast the [[/5. Mechanics/Spells/Mage Hand.md\|mage hand]] cantrip at will using the glove. When you do, the spectral hand originates within the glove instead of at a point of your choosing. The glove covers the spectral hand as it carries out your commands, leaving your hand or limb uncovered while it does so. Casting *mage hand* using the glove doesn't require any verbal components and doubles both the duration and carrying capacity of the hand.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 75*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

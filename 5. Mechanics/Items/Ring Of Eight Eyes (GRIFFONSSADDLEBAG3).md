@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Ring of Eight Eyes
 *Ring, major, uncommon*  
@@ -26,3 +29,7 @@ This ring has a silver web design running along it with eight smooth gems placed
 The spider has a +7 bonus to its Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks, instead of its normal bonus, and it disappears after 10 minutes or when it drops to 0 hit points. It disappears early if you dismiss it (no action required), if the spider is ever more than 120 feet away from you, or if the ring is used to summon another spider. The spider is friendly to you and your companions. In combat, the spider shares your initiative count, but it takes its turn immediately after yours and can't attack or take any action other than the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] or [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action. For the duration, the spider obeys your mental commands (no action required by you). You can use an action to see through the spider's eyes as if you were in its space.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

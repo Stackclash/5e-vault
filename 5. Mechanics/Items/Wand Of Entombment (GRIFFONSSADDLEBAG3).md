@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Entombment
 *Wand, major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ While holding the wand, you can use an action to expend 4 of its charges to cast
 While holding the wand, you can use an action to send out two nails of pure necrotic energy, targeting a creature you can see within 60 feet of you. Make a ranged spell attack for each nail against the target, using a spell attack bonus of +7. On a hit, the target takes `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage, and its speed is reduced by 5 feet for 1 minute. If this attack reduces a creature's speed to 0 feet, it can't speak for the duration. An affected creature must make a DC 15 Constitution saving throw at the end of each of its turns; on a success, the effects of any nail on it ends. You can send out additional nails by expending 1 or more charges as part of using this property, sending out one additional nail for each charge you expend. This penalty to speed is cumulative.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

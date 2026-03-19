@@ -16,6 +16,9 @@ tier: minor
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Instrument of Scribing
 *Wondrous item, instrument, minor, common (requires attunement)*  
@@ -26,3 +29,7 @@ This musical instrument has 3 charges. While you are playing it, you can use an 
 The instrument regains all expended charges daily at dawn.
 
 *Source: Xanathar's Guide to Everything p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

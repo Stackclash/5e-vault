@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hadiya's Handy Quill
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), minor, uncommon (requires attunement)*  
@@ -39,3 +42,7 @@ When used as a quill, the dart produces its own ink unless you provide it with a
 In addition, you can use a bonus action to speak the quill's third command word to cause it to vanish and reappear as a feather-like tattoo on your body. You choose the design and placement of the tattoo each time. You can use a bonus action to speak the command word again while you have the tattoo to cause it to vanish and reappear as a dart in a free hand or at your feet (your choice).
 
 *Source: The Griffon's Saddlebag, Book 2 p. 97*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

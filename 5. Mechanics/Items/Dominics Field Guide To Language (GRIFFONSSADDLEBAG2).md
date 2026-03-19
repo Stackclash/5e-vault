@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Dominic's Field Guide to Language
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This magical book is filled with strange, shifting writing. While holding the bo
 You can read the book over the course of 1 hour, which can be done during a short rest. When you finish reading, you can magically speak, read, and write the chosen language for 24 hours. Only one creature can read from the book at a time.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 71*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

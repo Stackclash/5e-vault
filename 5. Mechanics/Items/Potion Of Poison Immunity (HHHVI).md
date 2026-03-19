@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Poison Immunity
 *Potion, rare*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you become immune to poison damage and the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition for the next 12 hours. This potion is green with small bubbles on the top.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137, Hamund's Harvesting Handbook: Volume II p. 63*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

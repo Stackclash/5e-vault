@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bounty Hunter Enforcer
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, uncommon*  
@@ -41,3 +44,7 @@ You can use a bonus action to prime the net to trigger upon impact, allowing it 
 This net follows the net's normal rules but cannot be detached from the spear without destroying the net. You can replace the net with a new one by spending 1 minute reattaching it to the spear.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Jar of Lightningflies
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Jar of Lightningflies
 *Wondrous item, rare*  
@@ -22,3 +25,7 @@ You can use an action to unstopper the jar and allow any number of lightningflie
 The jar ceases to be magical while there aren't any lightningflies in it. However, if the jar is struck by naturally occurring lightning, there is a 10 percent chance that another `dice:2d4|noform|noparens|avg` (`2d4`) lightningflies reappear inside it, making it magical once more.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

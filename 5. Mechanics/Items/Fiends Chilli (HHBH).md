@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fiend's chilli
 *Herb, common*  
@@ -30,3 +33,7 @@ An incredibly spicy variety of chilli pepper, identifiable by two distinctive nu
 For 8 hours after using this herb, your skin turns bright red and you constantly exhale steam.
 
 *Source: Hamund's Herbalism Handbook p. 13*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

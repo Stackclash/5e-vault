@@ -21,6 +21,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fused Chimeric Hide
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, rare (requires attunement by a barbarian or druid)*  
@@ -48,3 +51,7 @@ You grow a shimmering mane that wreathes your head and neck, and your teeth beco
 Each aspect lasts for 1 minute. At the end of the duration, you revert to your normal form or beast shape. Once you take on the aspect of a creature in this way, you can't take on that aspect again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 86*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

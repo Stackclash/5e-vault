@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Edge Weapon (Generic)
 *Major*  
@@ -28,3 +31,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Dragon Edge Weapon 2 (TGS1).md\|Dragon Edge Weapon +2]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 55*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

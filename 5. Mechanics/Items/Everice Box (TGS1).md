@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Everice Box
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This large wooden box weighs 25 pounds and is 3 feet long and both 2 feet deep a
 While the box's lid is closed and its latch is shut, you can use an action to speak the box's command word to shrink it and its contents down to a more portable size. The weight of the box and its contents is halved while it's reduced in this way and measures a mere 1 foot long by 8 inches deep and tall. You can speak the box's command word again to return it to its normal size. Opening the latch, whether by choice or by force from the inside, immediately returns the box and its contents to its full size and weight. A living creature can't be reduced in size in this way and forces the lid and latch to open if the box becomes too small for it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 60*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

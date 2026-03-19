@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mage Eater Scythe
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
@@ -37,3 +40,7 @@ When you hit a creature with an attack using this scythe, you can spend 2 or mor
 Alternatively, while holding the scythe, you can use an action to spend 5 Hit Dice to create a magical barrier around yourself. While the barrier exists, you can't be affected or detected by spells of 5th level or lower unless you choose to be, and friendly creatures within 10 feet of you have advantage of saving throws against spells and other magical effects. The barrier remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 minute, or until you drop or stow the scythe.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 117*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

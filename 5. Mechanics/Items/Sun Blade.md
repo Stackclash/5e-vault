@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sun Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, rare (requires attunement)*  
@@ -40,3 +43,7 @@ You gain a +2 bonus to attack and damage rolls made with this weapon, which deal
 The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
 
 *Source: Dungeon Master's Guide p. 205. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

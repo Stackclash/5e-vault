@@ -10,6 +10,9 @@ aliases:
   - Death Locket
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Death Locket
 *Wondrous item, cursed item, very rare (requires attunement)*  
@@ -28,3 +31,7 @@ While holding the locket, you can spend 2 or more Hit Dice to cast the [[/5. Mec
 This locket is cursed. Attuning to it curses you until you are targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic. While you remain cursed, you're unwilling to part with the locket and keep it on your person at all times. If you die while the locket is on your person, your spirit is permanently trapped within the locket, and you can't be revived by any magic other than a [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

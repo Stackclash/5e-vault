@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dwarf's Bane
 *Herb, common*  
@@ -30,3 +33,7 @@ A yellow, sponge-like fungus that many mistake for moss at first inspection. Thi
 When this herb is placed inside any poisonous liquid, all toxins are absorbed by the herb and that liquid becomes harmless and drinkable water. This effect extends to alcohol which is rendered non-alcoholic if subjected to this herb. This herb is capable of removing the toxins from up to 5 gallons of liquid, after which it is rendered useless.
 
 *Source: Hamund's Herbalism Handbook p. 11*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ice Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, uncommon*  
@@ -34,3 +37,7 @@ This magic sickle from the Everglacier is perpetually covered in tiny, needle-li
 > *"Really? You're going to name it that?"*
 
 *Source: The Griffon's Saddlebag, Book 1 p. 78*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

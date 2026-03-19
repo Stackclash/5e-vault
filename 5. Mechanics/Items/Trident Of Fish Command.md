@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Trident of Fish Command
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, uncommon (requires attunement)*  
@@ -38,3 +41,7 @@ subtype:
 This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast [[/5. Mechanics/Spells/Dominate Beast.md\|dominate beast]] (save DC 15) from it on a beast that has an innate swimming speed. The trident regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ attunement-requirement:
   - sorcerer
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Meta Mantle
 *Wondrous item, major, legendary (requires attunement by a sorcerer)*  
@@ -35,3 +38,7 @@ When a creature hits you with an attack or you take damage, you can use your rea
 When you cast a spell that affects an area such as a line, cone, or sphere, you can spend 2 sorcery points to increase its area of affect. A line's length increases by 15 feet, a cone's size increases by 5 feet, a cube's size increases by 5 feet on a side, a sphere's radius increases by 5 feet, and a cylinder's diameter or height increases by 5 feet or 10 feet, respectively (your choice).
 
 *Source: The Griffon's Saddlebag, Book 2 p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Scorching Cleaver
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, very rare (requires attunement)*  
@@ -40,3 +43,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. This
 As an action, you can expend 3 or more of the battleaxe's charges to slash the air in front you. When you do, a line of fire 30 feet long and 5 feet wide erupts from the blade. Creatures within the line must succeed on a Dexterity saving throw or take `dice:1d6|noform|noparens|avg` (`1d6`) fire damage for each expended charge. If you expend 4 or more charges in this way and leave the battleaxe with 0 remaining charges, the weapon overheats. When it overheats, targets within the line take an extra `dice:3d6|noform|noparens|avg` (`3d6`) fire damage, and creatures that succeed on the Dexterity saving throw take half damage instead of avoiding the effect. The DC for this property's saving throw is equal to 8 + your proficiency bonus + the number of charges you expend.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 109*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

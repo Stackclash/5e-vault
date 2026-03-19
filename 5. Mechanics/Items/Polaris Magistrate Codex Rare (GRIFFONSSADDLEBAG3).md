@@ -14,6 +14,9 @@ attunement-requirement:
   - lawful creature
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Polaris Magistrate Codex (rare)
 *Wondrous item, major, rare (requires attunement by a lawful creature)*  
@@ -41,3 +44,7 @@ You can use an action while holding the book to cast the [[/5. Mechanics/Spells/
 While holding the book, you can use your reaction to cast [[/5. Mechanics/Spells/Counterspell.md\|counterspell]] (5th-level version) from it. If the triggering spell was cast at 6th level or higher, the counterspell automatically fails. Once the book has been used to cast this spell, it can't do so again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

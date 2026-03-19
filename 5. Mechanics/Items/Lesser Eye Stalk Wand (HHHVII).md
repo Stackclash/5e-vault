@@ -14,6 +14,9 @@ rarity: rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Lesser Eye Stalk Wand
 *Wand, rare (requires attunement)*  
@@ -32,3 +35,7 @@ This wand has 3 charges. While holding this wand, you may spend an action and 1 
 The wand recovers `dice:1d2|noform|noparens|avg` (`1d2`) charges at dawn. When you use the last charge of the wand, there is a 10 percent chance that it crumbles into ashes and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 61*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

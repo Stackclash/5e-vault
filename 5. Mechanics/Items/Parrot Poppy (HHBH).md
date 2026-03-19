@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Parrot Poppy
 *Herb, common*  
@@ -44,3 +47,7 @@ As an action, you may shake this herb, causing it to emit a sound that is audibl
 ^parrot-poppy-sound-table
 
 *Source: Hamund's Herbalism Handbook p. 26*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

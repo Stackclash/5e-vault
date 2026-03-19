@@ -9,6 +9,9 @@ aliases:
   - Planar Prevention Paint
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Planar Prevention Paint
 *Wondrous item, very rare*  
@@ -22,3 +25,7 @@ Furthermore, any attempt at teleporting into or out of the area automatically fa
 This item has 1 gallon of paint in it, and each gallon of paint is enough to draw a 5-foot line. The protection that the paint bestows on an area is permanent and can only be removed by damaging the paint enough to break the outline.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

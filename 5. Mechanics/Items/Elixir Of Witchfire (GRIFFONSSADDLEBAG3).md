@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Elixir of Witchfire
 *Potion, minor, uncommon*  
@@ -29,3 +32,7 @@ Command: "Burn in mine fire, for evil most dire."
 When a creature drinks this elixir, it takes 3d6 acid damage. The damage increases to 5d6 when you reach 14th level in this class. The poison is nearly tasteless and odorless, but a creature can detect its presence, such as in a food or drink, with a successful Intelligence (Investigation) or Wisdom (Perception) check against your wizard spell save DC. 
 
 *Source: The Griffon's Saddlebag, Book 3 p. 51*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

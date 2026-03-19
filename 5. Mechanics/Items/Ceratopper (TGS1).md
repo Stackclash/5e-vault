@@ -13,6 +13,9 @@ weight: 2
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ceratopper
 *Wondrous item, major, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ This adamantine helm is fashioned in the likeness of a triceratops and decorated
 In addition, while wearing the helmet, you can use an action to cast the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell from it, transforming yourself into a [[/5. Mechanics/Bestiary/Beast/Triceratops.md\|triceratops]]. Once this property has been used, it can't be used again until 2 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 41*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

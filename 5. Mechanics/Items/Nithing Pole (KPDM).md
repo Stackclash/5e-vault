@@ -9,6 +9,9 @@ aliases:
   - Nithing Pole
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nithing Pole
 *Wondrous item, rare*  
@@ -21,3 +24,7 @@ A pole is created to punish a certain person for a specific crime. The target mu
 You determine the effect of the curse when the pole is created. The pole becomes nonmagical only after it has laid its curse on its intended target; an untriggered and forgotten nithing pole remains dangerous for centuries. The curse, once activated, lasts for 8 hours and doesn't require concentration.
 
 *Source: Deep Magic p. 238*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

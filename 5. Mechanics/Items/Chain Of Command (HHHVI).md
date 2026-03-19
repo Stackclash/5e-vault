@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chain of Command
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare (requires attunement)*  
@@ -34,3 +37,7 @@ If you have a creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] 
 You may only have one creature [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] at a time. If you charm another, the effect on the previous creature ends.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 121*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

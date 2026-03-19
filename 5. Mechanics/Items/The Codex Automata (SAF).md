@@ -10,6 +10,9 @@ aliases:
   - The Codex Automata
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Codex Automata
 *Wondrous item, artifact (requires attunement)*  
@@ -55,3 +58,7 @@ No construct will attack you. As an action, you can make a Command check against
 This control lasts 1 hour, after which the construct is free of your influence and cannot be commanded again in this way.
 
 *Source: Strongholds and Followers p. 251*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

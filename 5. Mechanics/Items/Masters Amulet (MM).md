@@ -13,6 +13,9 @@ rarity: unknown\Magic
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Master's Amulet
 
@@ -24,3 +27,7 @@ A shield guardian's solitary focus is to protect the amulet's wearer. The amulet
 A spellcaster can store a single spell within a shield guardian, which can then cast the spell on command or under specific conditions. Many a wizard has been rendered helpless by enemies, only to surprise those foes when its shield guardian unleashes potent magical power.
 
 *Source: Monster Manual p. 271*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

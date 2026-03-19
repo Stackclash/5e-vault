@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Chronomancer's Eyepiece
 *Wondrous item, major, very rare (requires attunement)*  
@@ -29,3 +32,7 @@ If the target is willing, it is teleported back to the space it was at the begin
 If the target is willing, it can immediately choose to move again, up to half its speed, without provoking opportunity attacks. After a target moves in this way, its speed is halved until the end of its next turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 60*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

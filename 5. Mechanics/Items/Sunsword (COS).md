@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sunsword
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), legendary (requires attunement)*  
@@ -50,3 +53,7 @@ The Sunsword is a sentient chaotic good weapon with an Intelligence of 11, a Wis
 The Sunsword's special purpose is to destroy Strahd, not so much because it wants to free the land of Barovia from evil but because it wants revenge for the loss of its crystal blade. The weapon secretly fears its own destruction.
 
 *Source: Curse of Strahd p. 223*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

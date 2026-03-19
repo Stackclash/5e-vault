@@ -16,6 +16,9 @@ type: gear
 subtype:
   - herb
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Firemelon
 *Herb, spellcasting focus, rare*  
@@ -32,3 +35,7 @@ Despite the rather silly name, the firemelon is a rather powerful and inherently
 You may use this herb as an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] when casting your spells. While this herb is your [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]], whenever you roll a 1 or a 2 for fire damage that results from a spell you cast, you can reroll that die and must use the new roll, even if the new roll is a 1 or a 2.
 
 *Source: Hamund's Herbalism Handbook p. 14*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

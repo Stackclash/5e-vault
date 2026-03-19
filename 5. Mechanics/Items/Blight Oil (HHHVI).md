@@ -13,6 +13,9 @@ rarity: common
 type: gear
 subtype:
   - oil
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blight Oil
 *Oil, common*  
@@ -24,3 +27,7 @@ This bottle contains enough oil to cover up to 10 square feet of surface area. O
 The oil dries after 10 minutes, causing the vegetation it was rubbed on to become solid again.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

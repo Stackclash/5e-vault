@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Speed Apple
 *Herb, rare*  
@@ -30,3 +33,7 @@ Despite their name and appearance, these electric-blue, fist-sized fruits are no
 For 4 hours after you apply this herb, your walk speed increases by 10 feet and you ignore the effects of difficult terrain.
 
 *Source: Hamund's Herbalism Handbook p. 33*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Outer Essence Shard (Lawful)
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
@@ -32,3 +35,7 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 You can end one of the following conditions affecting yourself or one creature you can see within 30 feet of you: [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], or [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]].
 
 *Source: Tasha's Cauldron of Everything p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

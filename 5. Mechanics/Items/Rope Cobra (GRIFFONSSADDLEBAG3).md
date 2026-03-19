@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rope Cobra
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ You can use an action while holding this 30-foot length of hempen rope to speak 
 The snake has 2 hit points, like normal rope, although it has resistance to all damage. It has AC 11 and a speed of 30 feet; it can climb walls and objects that aren't smooth at half its normal speed. The snake also has [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] out to a range of 30 feet, is blind beyond that radius, can't attack, and has an escape DC of 10. If the rope is destroyed, whether it's animated or not, it becomes a normal length of nonmagical rope.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

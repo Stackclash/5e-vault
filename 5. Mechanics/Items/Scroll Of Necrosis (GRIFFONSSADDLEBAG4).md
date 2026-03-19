@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Necrosis
 *Scroll, rare*  
@@ -26,3 +29,7 @@ Undead creatures that hear the curse make the saving throw with disadvantage. If
 When the last word of the scroll is read aloud, the parchment sloughs off the bones and is destroyed, leaving only an unidentifiable mush behind.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

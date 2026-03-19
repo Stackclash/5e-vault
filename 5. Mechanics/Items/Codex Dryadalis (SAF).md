@@ -10,6 +10,9 @@ aliases:
   - Codex Dryadalis
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Codex Dryadalis
 *Wondrous item, artifact (requires attunement)*  
@@ -43,3 +46,7 @@ You cease aging and no longer need to sleep. You cannot be [[/5. Mechanics/Rules
 Once per month as an action, you can transform a copse of trees into a unit of [[/5. Mechanics/Optional Features/Treants (SAF).md\|treants]]. The treants serve you for 1 hour or two battles, whichever happens first, after which they root back into the ground and become normal trees again.
 
 *Source: Strongholds and Followers p. 253*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

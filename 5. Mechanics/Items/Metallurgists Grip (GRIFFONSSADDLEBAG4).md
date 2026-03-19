@@ -10,6 +10,9 @@ aliases:
   - Metallurgist's Grip
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Metallurgist's Grip
 *Wondrous item, very rare (requires attunement)*  
@@ -29,3 +32,7 @@ You can use your reaction whenever you take acid damage to reduce the acid damag
 You can use a bonus action to cast the [[/5. Mechanics/Spells/Haste.md\|haste]] spell from the gauntlet. When you do, the spell doesn't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], and you must roll a `dice:d6|noform|noparens|avg` (`d6`) at the end of each of your turns. You take acid damage equal to the result of the `dice:d6|noform|noparens|avg` (`d6`), which can't be prevented or reduced in any way. On a 1, the spell ends. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Timekeeper's Pendulum
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, legendary (requires attunement)*  
@@ -41,3 +44,7 @@ These spells don't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|co
 While holding the axe, if you take damage that reduces you to 0 hit points but doesn't kill you outright, you can use your reaction (before falling [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]) to interrupt the current turn. You then immediately take an extra turn, and regain any hit points you lost since the end of your last turn, up to a maximum of 24 hit points. You are affected by the [[/5. Mechanics/Spells/Haste.md\|haste]] spell for the duration of this extra turn. Once this property of the axe has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

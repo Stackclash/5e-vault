@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Javelin of Lightning
 *Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, uncommon*  
@@ -36,3 +39,7 @@ This javelin is a magic weapon. When you hurl it and speak its command word, it 
 The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.
 
 *Source: Dungeon Master's Guide p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

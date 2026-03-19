@@ -9,6 +9,9 @@ aliases:
   - Sunspot Lantern
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Sunspot Lantern
 *Wondrous item, very rare*  
@@ -22,3 +25,7 @@ While lit, this bullseye lantern burns for 1 hour on 1 pint of oil, shedding bri
 You can use an action to speak the lantern's command word to cast the [[/5. Mechanics/Spells/Sunbeam.md\|sunbeam]] spell from it (save DC 15), provided that the lantern is lit. This version of the spell doesn't require you to concentrate on it, but ends immediately after creating the line of radiance each time you cast it. This property of the lantern can be used three times. It regains all expended uses daily at dawn. If you expend its last use, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the lantern explodes, destroying itself in a burst of light. Each creature within 10 feet of the lantern that's not behind total cover must make a DC 15 Constitution saving throw, taking `dice:4d10|noform|noparens|avg` (`4d10`) radiant damage on a failed save, or half as much damage on a successful one.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

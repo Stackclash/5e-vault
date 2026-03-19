@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Kas
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), artifact (requires attunement)*  
@@ -73,3 +76,7 @@ The Sword of Kas also seeks to destroy anyone corrupted by the Eye and [[/5. Mec
 A creature attuned to both the [[/5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and the [[/5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]] can use the wish property of those combined artifacts to unmake the Sword of Kas. The creature must cast the [[/5. Mechanics/Spells/Wish.md\|wish]] spell and make a Charisma check contested by the Charisma check of the sword. The sword must be within 30 feet of the creature, or the spell fails. If the sword wins the contest, nothing happens, and the [[/5. Mechanics/Spells/Wish.md\|wish]] spell is wasted. If the sword loses the contest, it is destroyed.
 
 *Source: Dungeon Master's Guide p. 226*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

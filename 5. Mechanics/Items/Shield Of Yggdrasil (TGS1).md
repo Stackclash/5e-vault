@@ -18,6 +18,9 @@ attunement-requirement:
   - higher
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Shield of Yggdrasil
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a creature with a Strength score of 17 or higher)*  
@@ -37,3 +40,7 @@ You can doff the shield when planting it by using an action to do so instead of 
 This shield has 3 charges and regains all expended charges each day at dawn. You can expend 1 charge when you plant this shield or later on a subsequent turn as a bonus action to send out metal roots along the ground in a 10-foot radius, centered on the shield. Enemy creatures treat this area as difficult terrain. Moving the shield also moves the roots. The roots remain until you uproot the shield or it falls over.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 115*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

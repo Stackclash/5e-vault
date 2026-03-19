@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Owl Helm
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This helm is designed in the likeness of an owl. While wearing it, you can magic
 When you make an ability check to interact with an owl or related creature, such as a giant owl or owlbear, and are wearing this helm, you can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to the check. Once you do, this property of the helm can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

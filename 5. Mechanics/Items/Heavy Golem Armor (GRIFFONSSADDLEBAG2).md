@@ -22,6 +22,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heavy Golem Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, rare (requires attunement by a Small humanoid)*  
@@ -37,3 +40,7 @@ This heavy set of plate mail is 5½ feet tall, weighs 100 pounds, and is reconfi
 While wearing this armor, you can use a bonus action to speak its command word to force the armor to move more rapidly. When it does, you gain the effect of the [[/5. Mechanics/Spells/Haste.md\|haste]] spell (no concentration required), and the armor's joints creak and groan from the increased strain. At the end of each of your turns while you're under this effect, there is a cumulative 20 percent chance that the armor overheats. When it does, you take `dice:1d10|noform|noparens|avg` (`1d10`) fire damage from the armor, and the effect ends. Once this property of the armor has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 101*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

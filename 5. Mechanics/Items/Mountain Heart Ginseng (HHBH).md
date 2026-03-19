@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mountain Heart Ginseng
 *Herb, rare*  
@@ -30,3 +33,7 @@ Ginseng has been considered a miracle plant for millennia, lauded for its medici
 You have advantage on Constitution saving throws for 8 hours after using this herb.
 
 *Source: Hamund's Herbalism Handbook p. 24*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

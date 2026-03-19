@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Band of Mirrored Essence
 *Ring, major, rare (requires attunement)*  
@@ -31,3 +34,7 @@ If you assume one of the creature's features, your body or mind temporarily chan
 Once you capture an essence with the ring, you can't do so again for `dice:1d8|noform|noparens|avg` (`1d8`) hours. You can only have 1 essence at a time. If you capture an essence when you already have one, you replace the original.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 31*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

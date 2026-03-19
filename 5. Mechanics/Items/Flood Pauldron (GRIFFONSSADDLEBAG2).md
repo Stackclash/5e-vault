@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Flood Pauldron
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -27,3 +30,7 @@ Any creature other than you in the cylinder when it appears must make a DC 13 St
 Once this property of the pauldron has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 82*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

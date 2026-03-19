@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: none
 ---
 # Staff of the Iron Cauldron
 *Staff, weapon, major, very rare (requires attunement)*  
@@ -40,3 +43,7 @@ The staff has 10 charges. While holding it, you can use an action to expend 1 or
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dusk. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff explodes into smoke and all plant life within 500 feet flourishes.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Orostead Iced Tea (Common)
 *Potion, minor, common*  
@@ -40,3 +43,7 @@ The typical [[/5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Oro
 The drink is incredibly refreshing with notes of lemon, tea, and cherry, and has virtually no alcoholic bite to it. Regardless, due to its magical nature, the alcohol within this potion affects a creature twice as much as the alcohol within a nonmagical beverage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

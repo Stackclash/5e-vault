@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Gifts
 *Wondrous item, minor, uncommon*  
@@ -42,3 +45,7 @@ While holding the empty bag, you can use an action to cinch its top closed and l
 Each time that a gift is received from the bag, the bag becomes 1 pound lighter, and the item is removed from the list. If you roll an item on the list that's already been received by a creature, you instead get the item listed in the nearest available row. Once a creature opens a bag of gifts, it can't open another one in this way until it gives the bag to a different creature that hasn't yet opened it. When the last gift has been given, it becomes a nonmagical bag.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

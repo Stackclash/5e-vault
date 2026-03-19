@@ -10,6 +10,9 @@ aliases:
   - Oni Amulet
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Oni Amulet
 *Wondrous item, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ The heart of an oni, transfigured into a dark crystal. It seems to pulse with th
 - You may cast the [[/5. Mechanics/Spells/Charm Person.md\|charm person]] spell once per day. Your spell DC for the casting of this spell is 8 + your Charisma modifier + your proficiency bonus.  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

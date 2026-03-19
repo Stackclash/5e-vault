@@ -9,6 +9,9 @@ aliases:
   - Pitcher of Wisdom
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pitcher of Wisdom
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This small clay pot has a comfortable handle and resembles a stylized owl. When 
 You can pour the potion into the clay pot as part of the action to drink the potion, provided you're not holding anything else in either hand.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Troll's Snot
 *Herb, common*  
@@ -30,3 +33,7 @@ These hanging, pale-green vines grow in along, interconnected formation that res
 For 8 hours after using this herb, your hands exude a sticky substance that grants you advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks made to climb or [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] something, and you cannot be disarmed of an object in your hand involuntarily.
 
 *Source: Hamund's Herbalism Handbook p. 36*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

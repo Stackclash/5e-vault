@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Amulet
 *Wondrous item, minor, common*  
@@ -21,3 +24,7 @@ This copper amulet contains tiny interlocking gears and is powered by magic from
 When you make an attack roll while wearing the amulet, you can forgo rolling the `dice:d20|noform|noparens|avg` (`d20`) to get a 10 on the die. Once used, this property can't be used again until the next dawn.
 
 *Source: Xanathar's Guide to Everything p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

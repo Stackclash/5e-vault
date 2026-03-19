@@ -13,6 +13,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of the Sahuagin
 *Potion, uncommon*  
@@ -28,3 +31,7 @@ This potion uses a sahuagin's blood as a base along with various seaweeds, seash
 When you drink this potion, you must also succeed on a DC 10 Constitution saving throw or undergo a permanent mutation into a sahuagin. As a sahuagin, you lose all of your previous racial traits and instead gain a swim speed of 40 ft., the blood frenzy, limited amphibiousness, and shark telepathy traits from the sahuagin's statblock, and your alignment changes to lawful evil. This mutation can only be cured by a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

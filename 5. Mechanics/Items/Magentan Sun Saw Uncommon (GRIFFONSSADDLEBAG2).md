@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Magentan Sun-Saw (Uncommon)
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, uncommon*  
@@ -34,3 +37,7 @@ The typical [[/5. Mechanics/Items/Magentan Sun Saw (GRIFFONSSADDLEBAG2).md\|mage
 When you hit a target with this magic sword, you can expend 1 of its charges as part of the attack to reach your fingers around the weapon's curved guard and pull it like a trigger. When you do, a line of whirring blades of light springs from the weapon's edge and rips around the length of the sword, rending and tearing into the target to deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage to it. The light is a vibrant magenta.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

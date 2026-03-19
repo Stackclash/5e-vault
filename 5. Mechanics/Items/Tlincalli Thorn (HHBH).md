@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tlincalli Thorn
 *Herb, rare*  
@@ -30,3 +33,7 @@ A particularly fierce looking cactus that grows in a hook shape resembling that 
 For 4 hours after preparing this herb, you gain a +1 bonus to your AC as your skin becomes exceptionally hard and scale-like.
 
 *Source: Hamund's Herbalism Handbook p. 35*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

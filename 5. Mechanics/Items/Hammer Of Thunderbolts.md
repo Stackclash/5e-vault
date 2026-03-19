@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Hammer of Thunderbolts
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, legendary*  
@@ -38,3 +41,7 @@ You must be wearing a *belt of giant strength* (any variety) and [[/5. Mechanics
 The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the end of your next turn. The hammer regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

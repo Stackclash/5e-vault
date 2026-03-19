@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Widow's Tea
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This dark ceramic tea set comes with a teapot and two matching teacups. The mali
 Once this property has been used, it can't be used again until 5 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 189*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

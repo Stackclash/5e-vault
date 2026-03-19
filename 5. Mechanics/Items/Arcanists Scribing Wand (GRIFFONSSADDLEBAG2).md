@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Arcanist's Scribing Wand
 *Wand, major, rare (requires attunement by a wizard)*  
@@ -39,3 +42,7 @@ While holding the wand, you can use an action to expend 2 of its charges to caus
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand dissolves into a puddle of mundane ink and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

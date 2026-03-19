@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glass Carver
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), minor, uncommon*  
@@ -38,3 +41,7 @@ You can connect these lines to form a cutout shape in the glass. As part of the 
 If the original glass shape is returned to the hole, you can spend 1 minute retracing the cuts made to the glass with the dagger to seamlessly repair the damage done to it, as if by the [[/5. Mechanics/Spells/Mending.md\|mending]] spell.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 89*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wavebender's Leiomano
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare*  
@@ -34,3 +37,7 @@ This long wooden oar is ornamented with burnt designs and has a line of shark te
 In addition, if you use this weapon as an oar when rowing a ship, that ship's rowing speed is increased by 5 feet for each wavebender's leiomano being used to row it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

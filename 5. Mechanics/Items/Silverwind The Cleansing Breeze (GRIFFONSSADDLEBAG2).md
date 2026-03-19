@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Silverwind, the Cleansing Breeze
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, artifact*  
@@ -56,3 +59,7 @@ Some properties of this artifact are locked behind layers of dormant magic. As y
 The only way to destroy Silverwind, the Cleansing Breeze is to melt it in the fires of the Magmarath Caldera, a raging volcano in the Lower Planes overrun with fiends. It must remain submerged in the magma for 10 years before it succumbs to the fire and is destroyed. When it does, the volcano erupts.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 200*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

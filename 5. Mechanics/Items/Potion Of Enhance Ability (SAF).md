@@ -13,6 +13,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Enhance Ability
 *Potion, uncommon*  
@@ -28,3 +31,7 @@ Starts as a basic gray potion with no effect. However, if a material component i
 - **Potion of Owl's Wisdom.** You have advantage on Wisdom checks for 1 hour. Requires an owl's feather.  
 
 *Source: Strongholds and Followers p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

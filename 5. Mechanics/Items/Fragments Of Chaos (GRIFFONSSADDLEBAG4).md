@@ -9,6 +9,9 @@ aliases:
   - Fragments of Chaos
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fragments of Chaos
 *Wondrous item, very rare*  
@@ -32,3 +35,7 @@ When found, this necklace has `dice:1d3+2|noform|noparens|avg` (`1d3 + 2`) glass
 ^1-effect
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

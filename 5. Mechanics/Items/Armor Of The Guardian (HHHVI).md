@@ -16,6 +16,9 @@ rarity: rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of the Guardian
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), rare (requires attunement)*  
@@ -29,3 +32,7 @@ While wearing this armor, you gain a +1 bonus to AC. You also gain a special con
 In addition, whenever a creature makes an attack against the wearer of the amulet, you may use your reaction to grant a +2 bonus to the wearer's AC if you are within 5 feet of them.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 119*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

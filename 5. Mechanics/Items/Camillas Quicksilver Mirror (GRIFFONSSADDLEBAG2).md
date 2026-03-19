@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Camilla's Quicksilver Mirror
 *Wondrous item, major, very rare (requires attunement)*  
@@ -33,3 +36,7 @@ The creature's reflection is stored within the mirror. While stored, you can use
 These properties can be used a combined total of three times and regain all expended uses daily at dawn. Using a stored reflection to alter your appearance doesn't count against the mirror's total number of uses.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 54*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Ironleaf Impaler
 *Major, rare (requires attunement)*  
@@ -32,3 +35,7 @@ This wooden weapon is sprouted from a roughly fistsized seed that's still attach
 In addition, this weapon has 5 charges and regains all expended charges daily at dawn. When you make a ranged attack with the weapon, you can choose to expend 1 of its charges. Hit or miss, the weapon explodes into thorny shrapnel after it reaches the target. The target and each creature within 10 feet of it must make a DC 15 Dexterity saving throw. A creatures takes `dice:1d8|noform|noparens|avg` (`1d8`) piercing damage on a failed save, or half as much damage on a successful one. If the target was hit by the attack, it automatically fails the saving throw. Immediately after the weapon explodes, the seed reappears at your location and regrows the weapon into your hand.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 111*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

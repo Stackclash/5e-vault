@@ -14,6 +14,9 @@ attunement-requirement:
   - monk
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fists of the Guiding Star
 *Wondrous item, major, uncommon (requires attunement by a monk)*  
@@ -25,3 +28,7 @@ Stars and celestial bodies glimmer through these hand wrappings. While wearing t
 In addition, you can use an action to cast the [[/5. Mechanics/Spells/Light.md\|light]] cantrip while wearing these wraps.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

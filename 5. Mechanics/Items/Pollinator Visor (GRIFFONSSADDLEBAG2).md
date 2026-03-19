@@ -15,6 +15,9 @@ attunement-requirement:
   - ranger
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Pollinator Visor
 *Wondrous item, major, uncommon (requires attunement by a druid or ranger)*  
@@ -34,3 +37,7 @@ While you are attuned to three magic items that have this named property, the ma
 When you use the mask to cast the [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell, you can direct the insect to surreptitiously follow the spell's recipient for the duration instead. When you do, you must also provide the insect with a trigger word or phrase. When the recipient speaks the trigger word or phrase, the insect magically begins to record the following words spoken by the recipient and any other creature it's speaking to. The insect can record up to 25 total words in this way, or up to 6 second's worth of other sounds. Once it has a recording, you hear it in your mind as the insect magically communicates it to you across any distance, provided that you're on the same plane of existence. The message replicates the sound of any recorded creature's voice. The spell then ends, and the insect makes its way back to where you cast the spell.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

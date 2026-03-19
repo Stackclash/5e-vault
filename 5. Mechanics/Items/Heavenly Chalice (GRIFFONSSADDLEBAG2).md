@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heavenly Chalice
 *Wondrous item, major, rare*  
@@ -24,3 +27,7 @@ When a creature drinks from a sanctified [[/5. Mechanics/Items/Potion Of Healing
 A potion remains sanctified for 24 hours or until it's spilled or poured into another vessel. Once this property of the goblet has been used, it can't be used again for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 101*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

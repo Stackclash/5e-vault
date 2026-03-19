@@ -13,6 +13,9 @@ rarity: varies
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potions of Healing
 *Potion*  
@@ -26,3 +29,7 @@ subtype:
 - [[/5. Mechanics/Items/Potion Of Supreme Healing.md\|Potion of Supreme Healing]]
 
 *Source: Dungeon Master's Guide p. 187*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

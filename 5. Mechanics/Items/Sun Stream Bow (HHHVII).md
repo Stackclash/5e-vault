@@ -21,6 +21,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sun Stream Bow
 *Very rare (requires attunement)*  
@@ -31,3 +34,7 @@ This bow does not require any physical arrows to be loaded in order to make an a
 Sun Arrows deal an additional `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage upon a successful hit and leave a trail of sunlight behind them as they fly through the air. This trail of sunlight illuminates everything in a 5-foot radius around it in bright light and dissipates at the start of the wielder's next turn. The sunlight created by these arrows is considered equivalent to a 3rd level spell for the purposes of overcoming magical darkness.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 65*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Etherean Torch
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ This torch's handle is made of oemmock, a plant that only grows in the Border Et
 While holding the lit torch, you can use an action to take a deep breath and blow into the flame, causing a 15-foot cone of purple fire to erupt from the torch in the same direction. Each creature within the cone must make a DC 13 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg` (`3d6`) fire damage on a failed save, or half as much damage on a successful one. Any object in the cone that isn't being worn or carried, as well as any creature that failed the saving throw, is outlined in a purple light that glows for 1 minute. For the duration, a glowing creature or object can't benefit from being [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]]. Once this property of the torch has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

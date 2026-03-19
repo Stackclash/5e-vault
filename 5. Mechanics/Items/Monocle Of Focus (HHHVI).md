@@ -10,6 +10,9 @@ aliases:
   - Monocle of Focus
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Monocle of Focus
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ While wearing this item, you may spend an action to focus on a creature you can 
 If you lose sight of your target, or if you make an attack against a creature that is not your target, this effect ends immediately.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

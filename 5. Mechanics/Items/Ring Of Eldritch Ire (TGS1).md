@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Ring of Eldritch Ire
 *Ring, major, rare (requires attunement by a warlock)*  
@@ -29,3 +32,7 @@ This cold, warped ring has three yellow gemstones adorning its surface that swiv
 You know a marked creature's general distance and direction from you at all times while it's on the same plane of existence as you. In addition, you perceive a marked creature within 60 feet of you as though you had truesight, and can see through any illusion that stands between you and the marked creature.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 106*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

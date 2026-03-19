@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Reap and Sew
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), cursed item, major, rare (requires attunement)*  
@@ -43,3 +46,7 @@ If the special bolt is somehow destroyed or lost, the bolt reappears loaded in t
 Once attuned to this weapon, you must make a DC 12 Wisdom saving throw whenever you attempt to take a short or long rest. On a failure, you are overcome with the urge to craft and are forced to sew, knit, crochet, or crossstitch feverishly for at least 1 hour before being able to rest. The curse remains even if the attunement ends, but can be undone by any effect that removes a curse such as a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] or [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 103*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

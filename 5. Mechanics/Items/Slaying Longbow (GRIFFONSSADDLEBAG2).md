@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Slaying Longbow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a good-aligned creature)*  
@@ -39,3 +42,7 @@ This powerful longbow originally served a solar, one of the mighty celestials th
 In addition, when you roll a 20 on a ranged attack roll made with this bow against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or die. On a success, a creature takes an extra `dice:6d8|noform|noparens|avg` (`6d8`) radiant damage from the hit instead. A creature automatically succeeds on the saving throw if it is good-aligned or has legendary actions.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 164*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Fang Keeper
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Fang Keeper
 *Wondrous item, rare (requires attunement)*  
@@ -37,3 +40,7 @@ As a bonus action, you can choose a tooth on the necklace. If the tooth came fro
 Once a tooth rots, that same creature's maw can't be summoned again. If another tooth on the necklace is from a creature whose maw has already been summoned in this way, it immediately rots.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

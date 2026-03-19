@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Death Dog Lasher
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), uncommon*  
@@ -32,3 +35,7 @@ This twin-lashed whip was made from the fur and hide of a death dog. A target hi
 When two of the whip's slashing damage dice roll a 4, the target of the attack must also succeed on a DC 13 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of your next turn. For the duration, this property of the whip ceases to function.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

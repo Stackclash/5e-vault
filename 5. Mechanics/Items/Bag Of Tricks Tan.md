@@ -12,6 +12,9 @@ weight: 0.5
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Tricks, Tan
 *Wondrous item, major, uncommon*  
@@ -41,3 +44,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 ^creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

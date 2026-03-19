@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Golem Sapper
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This octagonal device is roughly fist sized and weighs 1/2 pound. As an action, 
 The device's saving throw DC remains reduced after being used. The DC increases by 2 for every 24 hours it isn't in use, up to a maximum DC of 18.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 92*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

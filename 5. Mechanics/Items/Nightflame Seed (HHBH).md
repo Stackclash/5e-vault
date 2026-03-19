@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nightflame Seed
 *Herb, rare*  
@@ -35,3 +38,7 @@ This seed may be thrown into a fire, causing it to turn a dim blue and mostly di
 
 
 *Source: Hamund's Herbalism Handbook p. 25*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

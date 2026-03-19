@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tempest Griffon Feather Cape
 *Wondrous item, major, very rare (requires attunement)*  
@@ -23,3 +26,7 @@ You have resistance to lightning damage and make Dexterity saving throws to resi
 While wearing the cape, you can use an action to speak its command word to transform into a bolt of lightning. When you do, choose an unoccupied space that you can see within 120 feet of you. You disappear from your current location and travel in a line that is 5 feet wide and up to 120 feet long to the chosen space. Any creature in the line or within 5 feet of either your old or new location must make a DC 16 Dexterity saving throw. A creature takes `dice:3d10|noform|noparens|avg` (`3d10`) lightning damage on a failed save, or half as much damage on a successful one. Once this property of the cape has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 131*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

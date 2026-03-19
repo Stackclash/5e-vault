@@ -76,6 +76,9 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Adamantine Weapon
 *Major*  
@@ -86,3 +89,7 @@ Melee weapons made of or coated with adamantine are unusually effective when use
 The adamantine version of a melee weapon costs 500 gp more than the normal version, whether the weapon is made of the metal or coated with it.
 
 *Source: Xanathar's Guide to Everything p. 78*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -17,6 +17,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Bird's-Eye Bolt
 *Minor, common*  
@@ -28,3 +31,7 @@ As an action, you can fire this piece of magic ammunition into the air above you
 A creature that can see the sensor (such as a creature benefiting from [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) sees a luminous, intangible bird about the size of a fist fluttering in the air.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 44*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

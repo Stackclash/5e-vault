@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necromancer's Cuff
 *Wondrous item, minor, uncommon (requires attunement)*  
@@ -21,3 +24,7 @@ tier: minor
 The fingers of this dark silver ear cuff move to gently hold onto your ear. While wearing it, undead creatures can always understand the literal meaning of any language that you speak. In addition, you gain 3 temporary hit points whenever a living creature within 30 feet of you is slain. You can gain these temporary hit points even when you have 0 hit points: when you do, you're immediately stabilized, but are still [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]].
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

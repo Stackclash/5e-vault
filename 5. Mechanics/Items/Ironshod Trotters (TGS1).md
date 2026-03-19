@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ironshod Trotters
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -25,3 +28,7 @@ As an action, you can click the boots together to cast the [[/5. Mechanics/Spell
 You remain in this form for up to 8 hours or until you end it as an action. Taking any damage while transformed causes you to revert to your normal form early and take the damage as normal. Once this property of the boots has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

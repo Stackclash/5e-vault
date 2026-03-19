@@ -12,6 +12,9 @@ attunement: true
 attunement-requirement:
   - spellcaster
 rarity: very-rare
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Helm of the Dark Reach
 *Wondrous item, very rare (requires attunement by a spellcaster)*  
@@ -28,3 +31,7 @@ The spatial bending essence trapped in this helm imparts your magic with extra a
 This helm regains all expended charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 90*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

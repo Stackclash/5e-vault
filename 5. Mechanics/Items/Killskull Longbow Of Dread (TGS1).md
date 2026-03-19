@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Killskull Longbow of Dread
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ This magic longbow is adorned with a bear skull and claws. The bow holds up to 4
 When you hit a creature with a ranged attack using this weapon, you can expend 1 of its charges to cause that creature to take an extra `dice:1d8|noform|noparens|avg` (`1d8`) psychic damage and make a DC 15 Wisdom saving throw. On a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

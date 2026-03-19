@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Amulet of the Sentinel
 *Wondrous item, major, rare (requires attunement)*  
@@ -33,3 +36,7 @@ When a creature that you can see within 30 feet of you suffers a critical hit, y
 When one or more creatures that you can see within 30 feet of you are forced to make a saving throw, you can use your reaction to expend 2 or more charges. For 2 charges, you grant one affected creature of your choice advantage on the saving throw. For each additional charge you expend, you grant one more affected creature of your choice advantage on the saving throw. You make this choice after you see the roll, but before the GM says whether the roll succeeds or fails.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

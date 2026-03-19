@@ -10,6 +10,9 @@ aliases:
   - Helm of the Skeleton
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Skeleton
 *Wondrous item, cursed item, uncommon (requires attunement)*  
@@ -24,3 +27,7 @@ While wearing this helmet, any skeleton or skeletal creature that has a challeng
 This helmet is cursed, and becoming attuned to it extends the curse to you. While cursed, your skin becomes leathery and gaunt against your frame. If you die while cursed and aren't returned to life (such as by the revivify spell), you're transformed into a zombie or skeleton (GM's discretion) after 24 hours. This transformation can be delayed by certain magic, such as the gentle repose spell, until that effect ends.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

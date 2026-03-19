@@ -12,6 +12,9 @@ weight: 2
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Force Safe
 *Wondrous item, minor, rare*  
@@ -26,3 +29,7 @@ If the tile isn't activated when it draws blood, it magically activates and crea
 The tile remains active until the same creature's blood is dropped into the hole, at which point the walls of force vanish. A [[/5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell destroys the walls and deactivates the tile immediately.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

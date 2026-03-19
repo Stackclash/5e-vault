@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bonfire Candle
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 The flame of this candle gives off light like a normal candle, but keeps every creature within its light at a comfortably warm temperature.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

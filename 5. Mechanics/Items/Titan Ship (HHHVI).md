@@ -13,6 +13,9 @@ rarity: artifact
 type: vehicle
 subtype:
   - airship-air
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Titan Ship
 *Wondrous item, airship, vehicle (air), artifact*  
@@ -30,3 +33,7 @@ In addition, this ship is immune to fire damage as well as bludgeoning, piercing
 
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 142*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

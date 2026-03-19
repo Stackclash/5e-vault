@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Royal Blade of Amphibios
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ This expertly crafted blade is ornamented with rose gold designs of frogs and li
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, the blade has 3 charges and regains all expended charges daily at dawn. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action while holding the weapon, you can choose to expend 1 of its charges to transform the blade into a lashing, silver pseudopod that loosely resembles a frog's tongue. Until the end of your turn, the weapon adds 10 feet to your reach when you attack with it and deals slashing damage, instead of piercing, and on a hit, the target must succeed on a DC 16 Strength saving throw or be pulled up to 10 feet straight toward you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 152*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: common
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Masks of the Sacred Beasts (Crocodile)
 *Wondrous item, major, common (requires attunement)*  
@@ -23,3 +26,7 @@ These dark ceramic and gold masks are fashioned after animals that are sacred in
 While wearing a crocodile mask, you gain a swimming speed of 30 feet and can hold your breath for up to 10 minutes at a time.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

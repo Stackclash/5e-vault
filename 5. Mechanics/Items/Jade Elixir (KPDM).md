@@ -13,6 +13,9 @@ rarity: legendary
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Jade Elixir
 *Potion, legendary*  
@@ -25,3 +28,7 @@ This bright green, effervescent elixir grants its consumer incredible Charisma w
 The tears of an invisible stalker, the claw of a pit fiend, and the tongue of a bard of at least 10th level.
 
 *Source: Deep Magic p. 169*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

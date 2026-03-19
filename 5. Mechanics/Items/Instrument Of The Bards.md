@@ -16,6 +16,9 @@ rarity: varies
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Instrument of the Bards
 *Wondrous item, instrument (requires attunement by a bard)*  
@@ -40,3 +43,7 @@ All instruments of the bards can be used to cast the following spells: [[/5. Mec
 - [[/5. Mechanics/Items/Instrument Of The Bards Ollamh Harp.md\|Instrument of the Bards, Ollamh Harp]]
 
 *Source: Dungeon Master's Guide p. 176*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

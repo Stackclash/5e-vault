@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Unstable Arkanite Cluster
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ Arkanite crystals are brittle red gems that are volatile when subjected to certa
 Immediately following the reaction, a single red crystal grows from the point of impact. The crystal grows in a cylinder that is 20 feet tall with a 5-foot radius, centered on the point where the vial shattered. It has 20 hit points, AC 13, and resistance to all damage except thunder damage or damage from siege weapons. A creature in the area of the crystal when it appears is either pushed to the nearest unoccupied space within 5 feet of it or is lifted on top of the crystal (its choice). The crystal is transparent, but lightly obscures everything behind it. It remains for 1 hour or until it drops to 0 hit points. At the end of the duration, the crystal crumbles to dust and vanishes into smoke as it finishes its reactive process.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

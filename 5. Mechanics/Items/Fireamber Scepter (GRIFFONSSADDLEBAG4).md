@@ -16,6 +16,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fireamber Scepter
 *Rod, uncommon (requires attunement by a spellcaster)*  
@@ -33,3 +36,7 @@ While holding the rod, you can use an action to cast the [[/5. Mechanics/Spells/
 While the rod is glowing, it can also be used as a magic club. When you attack with the rod, you can use your spellcasting ability modifier, instead of Strength, for the attack and damage rolls.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

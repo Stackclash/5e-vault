@@ -10,6 +10,9 @@ aliases:
   - Medusa Helm
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Medusa Helm
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ This full helmet is magically fused with the head of a medusa to recreate its pe
 The medusa's visage only possesses enough magic to allow its petrifying gaze ability to function for 1 minute. Anytime this item is used, subtract the amount of time it is used from this minute. Once this time has been expended, this item loses its magical property. This item regains all expended time upon the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

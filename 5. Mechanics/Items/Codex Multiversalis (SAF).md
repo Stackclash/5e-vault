@@ -10,6 +10,9 @@ aliases:
   - Codex Multiversalis
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Codex Multiversalis
 *Wondrous item, artifact (requires attunement)*  
@@ -37,3 +40,7 @@ As an action you can banish any creature not native to the plane you are on, sen
 As an action once per day, you can summon any creature from any row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart. They are free agents, not bound to serve you, and they return to their point of origin after 1 hour.
 
 *Source: Strongholds and Followers p. 259*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

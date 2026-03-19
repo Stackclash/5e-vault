@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glaive of the Revenant King
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
@@ -53,3 +56,7 @@ You are considered proficient with this weapon if you are an [[/5. Mechanics/Rac
 If you hit a target with this weapon that is either resistant or immune to cold or fire damage, that target loses that resistance or immunity until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 89*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

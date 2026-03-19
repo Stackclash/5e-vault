@@ -21,6 +21,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wooden Chain of the Unbroken Circle
 *Medium armor ([[/5. Mechanics/Items/Chain Shirt.md\|chain shirt]]), major, rare (requires attunement by a druid or ranger)*  
@@ -32,3 +35,7 @@ subtype:
 This magic chain shirt is crafted using strange wooden links enchanted by a militant circle of druids. The wooden chain is reinforced with old, natural magic that responds to the wearer's reverent connection to nature. While wearing this armor, you gain a bonus to your AC equal to your Wisdom modifier (max 2) in addition to the armor's normal AC.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 145*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

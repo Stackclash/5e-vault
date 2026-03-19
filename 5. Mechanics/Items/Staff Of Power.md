@@ -24,6 +24,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 20
+item_recharge: dawn
 ---
 # Staff of Power
 *Staff, weapon, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -61,3 +64,7 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 ^distance-from-origin-effect
 
 *Source: Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boots of the Cloud Jumper
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -21,3 +24,7 @@ tier: major
 While wearing these boots, you can jump while in the air as if you'd leapt from solid ground. You can't jump farther than your remaining movement would allow, and you treat all jumps made in this way as they were standing jumps. When you make a mid-air jump, faint clouds fly out from under your feet. The boots allow you to jump in this way once before they need to make contact with a solid surface again. Jumping in this way while falling before landing on solid ground prevents up to 20 feet of fall damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 37*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

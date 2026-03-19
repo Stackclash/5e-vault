@@ -10,6 +10,9 @@ aliases:
   - Orb of the Oozing Hunger
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Orb of the Oozing Hunger
 *Wondrous item, cursed item, artifact (requires attunement)*  
@@ -62,3 +65,7 @@ When you become attuned to the orb, you become cursed. Whenever you finish a lon
 This item can only be destroyed if it is constantly suspended in clean, fresh water for a year. The water must be changed every 24 hours, otherwise it becomes fouled and the process must start over. After it has been kept in water for a year, the orb must be subjected to fire or radiant damage from a good-aligned creature, after which the orb is vaporized, leaving nothing behind except ash. This is easier said than done however, since while in the water, the orb will continuously beckon for cultists and other mad individuals to seek it out and rescue it from its imminent destruction.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 104*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

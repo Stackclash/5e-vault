@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rumble Cotton
 *Herb, rare*  
@@ -30,3 +33,7 @@ A strain of cotton with surprisingly stiff yet supple fibres that allow the plan
 You gain resistance to thunder damage for 4 hours after using this herb.
 
 *Source: Hamund's Herbalism Handbook p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

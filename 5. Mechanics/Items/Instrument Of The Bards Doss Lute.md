@@ -19,6 +19,9 @@ tier: major
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Instrument of the Bards, Doss Lute
 *Wondrous item, instrument ([[/5. Mechanics/Items/Lute.md\|lute]]), major, uncommon (requires attunement by a bard)*  
@@ -37,3 +40,7 @@ All instruments of the bards can be used to cast the following spells: [[/5. Mec
 In addition, the Doss lute can be used to cast [[/5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (fire only), and [[/5. Mechanics/Spells/Protection From Poison.md\|protection from poison]].
 
 *Source: Dungeon Master's Guide p. 176*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

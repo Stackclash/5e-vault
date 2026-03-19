@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stormbrewer Bracers
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ This pair of electrum bracers are always covered in a thin layer of condensation
 In addition, while wearing the bracers, you can use your reaction when you take lightning damage to reduce that damage by `dice:1d8+4|noform|noparens|avg` (`1d8 + 4`) and cause the bracers to gain 1 charge.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 172*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Griffon Coinpouch
 *Wondrous item, minor, common*  
@@ -38,3 +41,7 @@ At the GM's discretion, a small slip of parchment can be found folded among the 
 ^message
 
 *Source: The Griffon's Saddlebag, Book 2 p. 95*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

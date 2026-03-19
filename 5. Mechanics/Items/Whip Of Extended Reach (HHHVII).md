@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Whip of Extended Reach
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare (requires attunement)*  
@@ -32,3 +35,7 @@ You gain a +1 to attack and damage rolls made with this weapon. When you hit a M
 In addition, while holding this 10-foot long weapon, you may spend your action to focus on it and force it to adopt any position or shape you wish, as if it were an extension of your own body. You may spend any subsequent actions to maintain your focus on the whip and either keep it in the same position or move it into a new one. While focusing on the whip, you also are able to feel sensations of touch through the whip. If you attempt to make an [[/5. Mechanics/Rules/Actions.md#Attack\|attack]] with the whip, or do not spend an action focusing on it, it falls limp and you no longer are able to feel through the whip.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 66*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wind-Up Merchant
 *Wondrous item, major, rare*  
@@ -48,3 +51,7 @@ The toy remains animated for 5 minutes or until each item has been purchased fro
 An item purchased from the wind-up merchant disappears after 24 hours, or early if you attempt to sell or trade it to another creature.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 191*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

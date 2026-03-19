@@ -10,6 +10,9 @@ aliases:
   - Amulet of the Trickster
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Trickster
 *Wondrous item, very rare (requires attunement)*  
@@ -21,3 +24,7 @@ When you kill a humanoid while wearing this amulet, you may spend your reaction 
 This polymorph ability may only be used once per dawn to polymorph into each identity you have imprinted. This item loses any imprinted identities it had if attunement to it is ever broken.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 119*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

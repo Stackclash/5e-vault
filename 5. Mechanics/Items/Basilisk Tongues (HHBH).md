@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Basilisk Tongues
 *Herb, rare*  
@@ -30,3 +33,7 @@ A plant with drooping purple-grey flowers, resembling those of a basilisk's tong
 This herb may be applied to one melee weapon or up to 10 pieces of ammunition, covering it in a petrifying oil for 10 minutes. A creature hit by this weapon or ammunition must succeed on a DC 12 Constitution saving throw, or gain one level of the following effects as they begin to turn to stone. The affected creature's movement speed is halved. The affected creature is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. The affected creature is [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] as it turns to stone. The creature may make the Constitution saving throw again at the end of each of their turns, reducing their effect level by one on a success. A [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic cast on an affected creature instantly removes all levels.
 
 *Source: Hamund's Herbalism Handbook p. 6*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

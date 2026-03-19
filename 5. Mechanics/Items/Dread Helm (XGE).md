@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dread Helm
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This fearsome steel helm makes your eyes glow red while you wear it.
 
 *Source: Xanathar's Guide to Everything p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

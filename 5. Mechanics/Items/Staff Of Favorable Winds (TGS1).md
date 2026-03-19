@@ -25,6 +25,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of Favorable Winds
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
@@ -45,3 +48,7 @@ In addition, while holding the staff, you can create a harmless sensory effect u
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff turns to dust and is blown away by a sudden flurry of wind.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

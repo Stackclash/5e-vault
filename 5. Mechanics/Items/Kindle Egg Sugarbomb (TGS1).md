@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kindle Egg Sugarbomb
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ When you eat this spicy chocolate sweet as an action, you gain resistance to fir
 You can only be under the effects of 1 sugarbomb that has this feature at a time. Eating a sugarbomb that has this feature while under the effects of another one causes the effects of the first sugarbomb to immediately end and be replaced by the new one's. This rapid change is difficult to stomach, forcing you to make a DC 13 Constitution saving throw. On a failed save, you gain the effects of the new sugarbomb, but become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 minute. On a success, you gain the effects of the new sugarbomb and are not poisoned.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 82*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

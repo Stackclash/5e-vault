@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Soopa Mushroom
 *Herb, common*  
@@ -30,3 +33,7 @@ A red and white mushroom with small black spots on its stem that are often mista
 As an action, you may eat this herb, causing you to grow one size larger than you normally are; if there is not enough space to accommodate your new size, you revert back to your normal size and this herb is wasted. The effects of this herb lasts for 4 hours, or until you take damage, whichever comes first.
 
 *Source: Hamund's Herbalism Handbook p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

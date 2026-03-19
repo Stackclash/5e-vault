@@ -10,6 +10,9 @@ aliases:
   - Cap of Aggression
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cap of Aggression
 *Wondrous item, uncommon (requires attunement)*  
@@ -21,3 +24,7 @@ While wearing this cap, you may spend your bonus action to designate a creature 
 You may only have one quarry at a time and any attempt at designating a new target as your quarry while you already have a quarry automatically fails. A target remains your quarry until you bathe this cap in fresh blood from their corpse for at least 1 minute or if 24 hours pass since you last designated a quarry.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 55*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

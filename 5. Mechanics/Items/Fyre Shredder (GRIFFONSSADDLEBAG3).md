@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fyre Shredder
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare (requires attunement by a bard)*  
@@ -48,3 +51,7 @@ While holding the axe, you can use a bonus action to cast the [[/5. Mechanics/Sp
 You can use an action to play this [[/5. Mechanics/Items/Lyre.md\|lyre]] and expend a use of your Bardic Inspiration. When you do, you release an energizing wave of harmless fire from the axe. The fire clings to the weapons of any friendly creature within 15 feet of you until the end of your next turn. The first target that each affected creature hits with a weapon attack before the end of your next turn takes extra fire damage equal to your Bardic Inspiration die.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

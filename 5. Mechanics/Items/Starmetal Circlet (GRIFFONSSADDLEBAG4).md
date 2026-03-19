@@ -10,6 +10,9 @@ aliases:
   - Starmetal Circlet
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Circlet
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ This dark metal headpiece grants you a measure of control over nearby metal whil
 In addition, while wearing the circlet, you can use an action to interact with an object made of metal that isn't being worn or carried or move it up to 15 feet. The object must be within 30 feet of you and weigh no more than 20 pounds.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

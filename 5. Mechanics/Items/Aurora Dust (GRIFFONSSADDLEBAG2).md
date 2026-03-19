@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aurora Dust
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This bag is filled with `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) pinches of iridescent blue dust. You can use an action to sprinkle a pinch of it over an open flame. The dust changes the flame's color and light to a mixture of blue, green, and purple, and creates a shimmering aurora the same color above it within the bright light. The dust's effect lasts for the flame's duration (up to 24 hours).
 
 *Source: The Griffon's Saddlebag, Book 2 p. 40*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Arista, Wand of the Spire
 *Wand, major, artifact (requires attunement by a spellcaster)*  
@@ -47,3 +50,7 @@ Some properties of this artifact are locked behind layers of dormant magic. As y
 The only way to destroy *Arista, Wand of the Spire* is to leave it in an [[/5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] on the Ethereal Plane for 100 years, at which point it finally succumbs and becomes nonmagical, allowing it to be easily snapped in two.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 196*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: long-rest
 ---
 # Sream's Stoppered Oasis
 *Potion, minor, rare*  
@@ -30,3 +33,7 @@ The oasis remains for 24 hours or until dispelled by a [[/5. Mechanics/Spells/Di
 Drinking the water in the bottle has no effect, but tastes refreshing.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 168*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

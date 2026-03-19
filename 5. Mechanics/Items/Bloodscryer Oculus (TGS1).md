@@ -14,6 +14,9 @@ attunement-requirement:
   - ranger
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodscryer Oculus
 *Wondrous item, major, legendary (requires attunement by a ranger)*  
@@ -25,3 +28,7 @@ These red goggles have a second set of lenses that magically adjust their distan
 These lenses are also imbued with several innate spells. While wearing the goggles, you can cast the following spells from them, using your spell save DC, but can only target creatures whose blood you can see: [[/5. Mechanics/Spells/Hunters Mark.md\|hunter's mark]] (3rd-level version), [[/5. Mechanics/Spells/Locate Creature.md\|locate creature]], or [[/5. Mechanics/Spells/Scrying.md\|scrying]]. Casting a spell in this way does not require you to concentrate on the spell in order to maintain it. Once the oculus casts a spell in this way, it can't be used to cast that spell again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 36*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

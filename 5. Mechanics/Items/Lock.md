@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lock
 *Adventuring gear*  
@@ -25,3 +28,7 @@ subtype:
 A key is provided with the lock. Without the key, a creature proficient with [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
 
 *Source: Player's Handbook p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

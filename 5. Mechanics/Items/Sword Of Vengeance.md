@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Vengeance
 *Cursed item, major, uncommon (requires attunement)*  
@@ -42,3 +45,7 @@ In addition, while the sword is on your person, you must succeed on a DC 15 Wisd
 You can break the curse in the usual ways. Alternatively, casting [[/5. Mechanics/Spells/Banishment.md\|banishment]] on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.
 
 *Source: Dungeon Master's Guide p. 206*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

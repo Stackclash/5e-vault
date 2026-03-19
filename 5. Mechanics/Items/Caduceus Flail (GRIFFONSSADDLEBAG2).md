@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Caduceus Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare (requires attunement by a cleric or paladin)*  
@@ -37,3 +40,7 @@ This holy flail serves as a conduit for divine warriors and pulses with holy lig
 When you use your Channel Divinity while holding the glowing flail, hostile creatures in the weapon's bright light take radiant damage equal to `dice:1d8|noform|noparens|avg` (`1d8`) + your spellcasting modifier, and friendly creatures in the bright light regain hit points equal to the same amount. This damage is dealt before any other effects from your Channel Divinity. In addition, if your Channel Divinity forces a creature to make a saving throw, any undead in the flail's bright light that fail the saving throw are also blinded until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 54*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

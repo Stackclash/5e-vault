@@ -21,6 +21,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 6
+item_recharge: none
 ---
 # Bloodmire Rod of the Witch Doctor
 *Rod, major, rare (requires attunement by a cleric, druid, paladin, or warlock)*  
@@ -42,3 +45,7 @@ This tether is a sickly red. A creature affected by this tether must make a Cons
 The tether ends after 1 minute. It ends early if you sever the tether (no action required), are no longer holding the rod, the target ends its turn more than 30 feet away from you, the target has total cover from you, or if you or the target fall [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]].
 
 *Source: The Griffon's Saddlebag, Book 2 p. 47*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

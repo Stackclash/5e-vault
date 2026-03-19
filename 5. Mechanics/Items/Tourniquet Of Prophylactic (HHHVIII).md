@@ -9,6 +9,9 @@ aliases:
   - Tourniquet of Prophylactic
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tourniquet of Prophylactic
 *Wondrous item, rare*  
@@ -19,3 +22,7 @@ rarity: rare
 This tourniquet is made from a bulezau tail treated with medicinal herbs and oils. So long as you wear this tourniquet, you have advantage on saving throws to avoid becoming diseased or to end a disease on yourself. Any time you succeed on either of those saving throws, you gain a number of temporary hit points equal to your Constitution modifier.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

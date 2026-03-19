@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shield of the Silver Dragon
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
@@ -28,3 +31,7 @@ The shield is emblazoned with a stylized silver dragon that is the emblem of the
 A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
 *Source: Curse of Strahd p. 68*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

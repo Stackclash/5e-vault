@@ -10,6 +10,9 @@ aliases:
   - Helm of the Cryptkeeper
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Cryptkeeper
 *Wondrous item, rare (requires attunement)*  
@@ -24,3 +27,7 @@ You can use your action to take total and precise control of the target. Until t
 Each time your servant takes damage, it may make a new Wisdom saving throw against this effect, ending it on a success. You may only have one servant at a time. Attempting to make another undead creature your servant instantly causes this effect to end on your old one. An undead that has successfully saved against this ability is immune to this item for the next 24 hours.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 59*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

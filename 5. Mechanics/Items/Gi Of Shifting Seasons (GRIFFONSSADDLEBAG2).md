@@ -14,6 +14,9 @@ attunement-requirement:
   - monk
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gi of Shifting Seasons
 *Wondrous item, major, rare (requires attunement by a monk)*  
@@ -41,3 +44,7 @@ You have advantage on Constitution saving throws. When you use your Patient Defe
 You can change the gi's season to another one of your choice by spending 1 minute in silent meditation. Alternatively, whenever you use an action, bonus action, or reaction to spend 1 or more ki points, you can choose to shift the gi's season by one, moving in chronological order. When you do, you choose whether to gain the season's benefits before or after the action. For example, if the gi is in Autumn and you spend 1 ki point to use Flurry of Blows, the gi can immediately change to represent Winter and grant the season's benefits to your Flurry of Blows.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 88*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Living Dentures
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Living Dentures
 *Wondrous item, common*  
@@ -20,3 +23,7 @@ This set of dentures automatically adapts itself to fit inside the mouth of any 
 When left outside, these teeth chatter loudly for a few seconds every `dice:1d4|noform|noparens|avg` (`1d4`) hours.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

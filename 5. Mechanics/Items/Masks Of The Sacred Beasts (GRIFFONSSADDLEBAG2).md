@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: varies
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Masks of the Sacred Beasts
 *Wondrous item, major (requires attunement)*  
@@ -27,3 +30,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Masks Of The Sacred Beasts Jackal (GRIFFONSSADDLEBAG2).md\|Masks of the Sacred Beasts (Jackal)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

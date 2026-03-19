@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crossbow of the Flying Fist
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement)*  
@@ -37,3 +40,7 @@ The front of this weapon is carved in the likeness of a wooden fist. Crossbow bo
 This version of the [[/5. Mechanics/Spells/Mage Hand.md\|mage hand]] spell can be used to punch a target within 5 feet of it whenever you control it, using a spell attack bonus of +5. On a hit, the hand deals 1 force damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

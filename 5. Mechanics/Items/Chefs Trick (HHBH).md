@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chef's Trick
 *Herb, common*  
@@ -30,3 +33,7 @@ Swamps are not known for their wealth of appetising foodstuffs, but there is one
 As an action, you may crumble and sprinkle it over an edible item such as a meal or drink while thinking of a flavour. This flavour can range from something vague like 'sour' to something specific such as 'a roasted chicken seasoned with oregano.' If you do so, that item tastes like the flavour you were thinking of. A creature that consumes this item may make a DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check to notice the artificial flavouring in it.
 
 *Source: Hamund's Herbalism Handbook p. 9*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

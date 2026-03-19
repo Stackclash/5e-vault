@@ -14,6 +14,9 @@ rarity: common
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Masquerade Tattoo
 *Wondrous item (tattoo), common (requires attunement)*  
@@ -36,3 +39,7 @@ As a bonus action, you can shape the tattoo into any color or pattern and move i
 As an action, you can use the tattoo to cast the [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] spell (DC 13 to discern the disguise). Once the spell is cast from the tattoo, it can't be cast from the tattoo again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 131*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

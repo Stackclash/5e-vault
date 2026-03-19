@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Torchbearer's Sling
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  
@@ -34,3 +37,7 @@ An empty brazier hangs suspended at the center of this sling. Any Tiny nonmagica
 If the sling bullet is a piece of coal or charcoal, the extra fire damage is `dice:1d6|noform|noparens|avg` (`1d6`) instead; the bullet then crumbles and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

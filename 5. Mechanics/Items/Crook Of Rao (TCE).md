@@ -10,6 +10,9 @@ aliases:
   - Crook of Rao
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Crook of Rao
 *Wondrous item, artifact (requires attunement)*  
@@ -63,3 +66,7 @@ When the Crook was last used against Iggwilv, the Witch Queen lashed out at the 
 The Crook of Rao can either be destroyed or repaired by journeying to Mount Celestia and obtaining a tear from the eternally serene god Rao. One way to make the emotionless god cry would be to reunite Rao with the spirit of his first worshiper who sought revelations beyond the multiverse long ago. The Crook dissolves if immersed in the god's tear for a year and a day. If washed in the tear daily for 30 days, the Crook loses its Failing Matrix property.
 
 *Source: Tasha's Cauldron of Everything p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

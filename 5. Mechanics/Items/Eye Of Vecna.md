@@ -10,6 +10,9 @@ aliases:
   - Eye of Vecna
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Eye of Vecna
 *Wondrous item, artifact (requires attunement)*  
@@ -60,3 +63,7 @@ If you are attuned to both the hand and eye, you gain the following additional b
 If the Eye of Vecna and the [[/5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]] are both attached to the same creature, and that creature is slain by the [[/5. Mechanics/Items/Sword Of Kas.md\|Sword of Kas]], both the eye and the hand burst into flame, turn to ash, and are destroyed forever. Any other attempt to destroy the eye or hand seems to work, but the artifact reappears in one of Vecna's many hidden vaults, where it waits to be rediscovered.
 
 *Source: Dungeon Master's Guide p. 224*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

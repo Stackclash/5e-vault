@@ -16,6 +16,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Owlbear-Fletched Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  
@@ -28,3 +31,7 @@ This magic arrow is fletched with the feathers of an owlbear. When you use this 
 Other types of magic ammunition of this kind exist, such as owlbear-fletched bolts meant for a crossbow, though arrows are most common.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

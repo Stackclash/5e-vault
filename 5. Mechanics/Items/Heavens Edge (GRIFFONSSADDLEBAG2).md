@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heaven's Edge
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, legendary (requires attunement)*  
@@ -37,3 +40,7 @@ This ornate dagger is made of multiple pieces that magically hover together, but
 When you roll a 20 on an attack roll made with this weapon against a fiend, the target must make a DC 15 Charisma saving throw. On a failed save, the creature is banished, as if by the [[/5. Mechanics/Spells/Banishment.md\|banishment]] spell. This version of the spell doesn't require concentration but ends early if you become [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or die within the next minute. On a successful save, the creature is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until the start of your next turn and isn't banished.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 100*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

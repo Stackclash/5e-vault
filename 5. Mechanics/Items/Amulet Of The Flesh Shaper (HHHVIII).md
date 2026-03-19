@@ -10,6 +10,9 @@ aliases:
   - Amulet of the Flesh-shaper
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 20
+item_recharge: dawn
 ---
 # Amulet of the Flesh-shaper
 *Wondrous item, legendary (requires attunement)*  
@@ -33,3 +36,7 @@ Using your action and expending 3 charges, you target a willing creature within 
 The amulet regains `dice:2d8+4|noform|noparens|avg` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, this amulet dissolves into a foul ichor and becomes worthless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

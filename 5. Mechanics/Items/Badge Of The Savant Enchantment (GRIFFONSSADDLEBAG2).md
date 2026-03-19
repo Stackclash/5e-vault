@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Badge of the Savant (Enchantment)
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ A *badge of the savant* is a platinum bookplate that can be magically affixed to
 You can use an action to attach or remove a badge from a spellbook by expending a spell slot of a level equal to 1 plus the number of badges already on the book (a maximum of a 9th level spell slot).
 
 *Source: The Griffon's Saddlebag, Book 2 p. 40*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

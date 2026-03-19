@@ -16,6 +16,9 @@ attunement-requirement:
   - fey creature
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Feywood Ivy
 *Wondrous item, major, uncommon (requires attunement by a druid, ranger, or fey creature)*  
@@ -29,3 +32,7 @@ While an object is covered by the vines, you can't be disarmed of that object un
 While the vine-covered object is on your person, you can use a bonus action to speak the vines' second command word to cause them to lash out at a Medium or smaller target that you can see within 5 feet of you. The target must succeed on a DC 13 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]], the target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] and can use an action on each of its turns to make a DC 13 Strength or Dexterity check (its choice), freeing itself and ending the effect on a success. The effect ends early and frees the target if you move more than 5 feet away from it. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

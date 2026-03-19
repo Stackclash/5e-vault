@@ -15,6 +15,9 @@ rarity: rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wanderer's Hide
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), rare*  
@@ -26,3 +29,7 @@ subtype:
 You gain a +1 bonus to AC while wearing this armor. In addition, you automatically succeed any Constitution saving throw to avoid [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] when travelling for long periods of time or travelling in extreme cold or heat.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

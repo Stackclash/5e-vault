@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aberrant Nail
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
@@ -40,3 +43,7 @@ While attuned to this sword, your Intelligence score is 19. It has no effect on 
 In addition, when you roll a 20 on an attack roll made with this sword, the target must succeed on a DC 17 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the start of your next turn, as it's bombarded by a deluge of unintelligible images and thoughts from a realm beyond comprehension.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

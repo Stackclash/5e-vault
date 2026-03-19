@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - ammunition-firearm
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Modern Bullet
 *Ammunition (firearm)*  
@@ -22,3 +25,7 @@ subtype:
 - **Weight**: 0.1 lbs.
 
 *Source: Dungeon Master's Guide p. 268*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

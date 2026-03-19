@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aboleth Stalk
 *Herb, rare*  
@@ -36,3 +39,7 @@ This herb may be prepared by two creatures at the same time by sucking the mucus
 
 
 *Source: Hamund's Herbalism Handbook p. 5*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Inferno Engine
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare (requires attunement)*  
@@ -39,3 +42,7 @@ You can use an action to level the sword in front of you and expend any number o
 You can use a bonus action while holding the sword to vent the flames harmlessly, expending any number of charges each time you do. If the sword reaches more than 30 charges, it immediately erupts in a fiery blast and loses all its charges. Each creature within 30 feet of you must make a DC 16 Dexterity saving throw. A creature takes `dice:2d10|noform|noparens|avg` (`2d10`) fire damage on a failed save, or half as much damage on a successful one. You automatically fail the saving throw. Any flammable objects within the area that aren't being worn or carried are also ignited.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

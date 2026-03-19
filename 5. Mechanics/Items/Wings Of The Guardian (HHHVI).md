@@ -10,6 +10,9 @@ aliases:
   - Wings of the Guardian
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Wings of the Guardian
 *Wondrous item, very rare (requires attunement)*  
@@ -21,3 +24,7 @@ These wings are joined to a leather harness that allows a humanoid to comfortabl
 In addition, you may spend your action to teleport yourself and any equipment you are wearing or carrying, up to 120 feet to an unoccupied space you can see. Once you have used this ability once, you may not use it again until you finish your next short rest.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

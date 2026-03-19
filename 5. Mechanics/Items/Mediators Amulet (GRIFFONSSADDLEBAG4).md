@@ -13,6 +13,9 @@ attunement-requirement:
   - cleric
   - paladin
 rarity: very-rare
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Mediator's Amulet
 *Wondrous item, very rare (requires attunement by a cleric or paladin)*  
@@ -30,3 +33,7 @@ You can expend 1 of the necklace's charges as an action to speak a calming strin
 When you restore hit points to a creature, you can choose to expend 1 of the necklace's charges to take an amount of necrotic damage up to the amount restored, which can't be reduced or negated in any way. When you do, the healed creature gains a number of temporary hit points equal to the amount of necrotic damage you took in this way.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

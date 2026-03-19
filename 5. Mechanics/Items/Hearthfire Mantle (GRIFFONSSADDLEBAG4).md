@@ -9,6 +9,9 @@ aliases:
   - Hearthfire Mantle
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hearthfire Mantle
 *Wondrous item, uncommon*  
@@ -28,3 +31,7 @@ You ignite a flammable object you're holding.
 Nonhostile creatures within 10 feet of you gain `dice:2d6|noform|noparens|avg` (`2d6`) temporary hit points. A creature with these hit points can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection. Once this property of the cloak has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

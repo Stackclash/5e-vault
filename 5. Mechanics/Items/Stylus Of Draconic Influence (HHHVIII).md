@@ -9,6 +9,9 @@ aliases:
   - Stylus of Draconic Influence
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Stylus of Draconic Influence
 *Wondrous item, very rare*  
@@ -20,3 +23,7 @@ This stylus has 8 charges. While holding this stylus, you may spend 1 minute and
 This item recovers `dice:1d8|noform|noparens|avg` (`1d8`) charges at dawn. If you use the last charge, there is a 10 percent chance that it crumbles into dust and becomes useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 97*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

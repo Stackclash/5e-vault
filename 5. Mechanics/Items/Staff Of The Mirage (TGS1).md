@@ -22,6 +22,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of the Mirage
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a wizard)*  
@@ -40,3 +43,7 @@ This magical staff has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (
 You can use an action to expend 1 or more of the staff's charges to cast one of the following spells from it, using your spell save DC. You gain a +2 bonus to your spell save DC when casting one of these spells from the staff: [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] (1 charge), [[/5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]] (4 charges), [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] (2 charges), [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]] (2 charges), [[/5. Mechanics/Spells/Mislead.md\|mislead]] (5 charges), or [[/5. Mechanics/Spells/Silent Image.md\|silent image]] (1 charge).
 
 *Source: The Griffon's Saddlebag, Book 1 p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

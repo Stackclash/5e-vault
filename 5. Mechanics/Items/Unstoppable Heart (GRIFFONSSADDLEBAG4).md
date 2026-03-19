@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Unstoppable Heart
 *Wondrous item, major, very rare (requires attunement)*  
@@ -32,3 +35,7 @@ While inside your body, the heart grants you the following benefits:
 If your attunement to the heart ends, it magically appears in your open hand or in the nearest unoccupied space.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

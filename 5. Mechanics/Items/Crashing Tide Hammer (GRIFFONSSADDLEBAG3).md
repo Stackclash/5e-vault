@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crashing Tide Hammer
 *Major, rare (requires attunement)*  
@@ -29,3 +32,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon, whic
 The first time on each of your turns when you have advantage on an attack roll against a creature and hit it with the hammer, that creature must succeed on a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. Whenever you hit a [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] creature with the hammer, you can choose to push it up to 10 feet away from you, sweeping it away in a roiling tide of salt water.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

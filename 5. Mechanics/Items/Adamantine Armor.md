@@ -29,6 +29,9 @@ type: armor
 subtype:
   - heavy
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Adamantine Armor
 *Major, uncommon*  
@@ -37,3 +40,7 @@ subtype:
 This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.
 
 *Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

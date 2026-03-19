@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hideaway Vase
 *Wondrous item, minor, uncommon*  
@@ -28,3 +31,7 @@ You can remain on the demiplane for up to 8 hours or until the vase is placed in
 While holding the vase, you can use an action to change the style, color, and apparent quality of the vessel. The vase's weight doesn't change. Regardless of its appearance, the vase can't be anything but a vase.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 104*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

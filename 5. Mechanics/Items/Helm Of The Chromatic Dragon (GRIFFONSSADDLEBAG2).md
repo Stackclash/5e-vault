@@ -14,6 +14,9 @@ attunement-requirement:
   - dragonborn of evil alignment
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Helm of the Chromatic Dragon
 *Wondrous item, major, very rare (requires attunement by a dragonborn of evil alignment)*  
@@ -25,3 +28,7 @@ This iridescent helmet has been blessed by a powerful, evil dragon. While wearin
 In addition, when you use your breath weapon, roll a `dice:d6|noform|noparens|avg` (`d6`). On a 5 or 6, you gain an additional use of your breath weapon before you need to finish a short or long rest.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 102*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

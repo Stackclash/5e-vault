@@ -14,6 +14,9 @@ attunement-requirement:
   - human
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Mantle of Adaptivity
 *Wondrous item, major, rare (requires attunement by a human)*  
@@ -49,3 +52,7 @@ You gain resistance to cold damage and ignore difficult terrain created by ice o
 When found, the mantle's property and appearance are from a random property.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

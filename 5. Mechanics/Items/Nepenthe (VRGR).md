@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nepenthe
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), legendary (requires attunement by a paladin)*  
@@ -46,3 +49,7 @@ Nepenthe is a sentient, neutral evil weapon with an Intelligence of 10, a Wisdom
 In its lifetime, the sword has beheaded thousands of criminals, not all of whom were guilty of the crimes for which they were convicted. The sword cannot distinguish the guilty from the innocent. With each beheading, it hungers for more justice and blood. The sword is corrupt and irredeemable.
 
 *Source: Van Richten's Guide to Ravenloft p. 86*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

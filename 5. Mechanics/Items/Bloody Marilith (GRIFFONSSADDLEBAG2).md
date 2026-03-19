@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Bloody Marilith
 *Potion, minor*  
@@ -27,3 +30,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Bloody Marilith Very Rare (GRIFFONSSADDLEBAG2).md\|Bloody Marilith (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 48*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Nightmares
 *Scroll, minor, rare*  
@@ -26,3 +29,7 @@ Using an action to read this dark scroll causes horrifying memories, fears, and 
 Reading the scroll causes its script to flash and burn away as each word is spoken. Once the scroll has been used, it turns to ash and is destroyed, releasing a final wail as its magic is consumed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 156*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

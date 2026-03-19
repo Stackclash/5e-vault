@@ -75,6 +75,9 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Weapon of Showmanship
 *Minor, common*  
@@ -84,3 +87,7 @@ subtype:
 When you reduce a Small or larger creature to 0 hit points or score a critical hit against a target with this weapon, you can create a harmless sensory effect or illusion, as per the [[/5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] spell, as part of that attack. The effect can appear on the target of the attack or in the area immediately surrounding it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

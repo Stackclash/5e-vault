@@ -10,6 +10,9 @@ aliases:
   - Gem of the Underdark
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 7
+item_recharge: none
 ---
 # Gem of the Underdark
 *Wondrous item, rare (requires attunement)*  
@@ -27,3 +30,7 @@ This gem has 7 charges. While holding this item, you may spend your action in or
 This gem regains 1 charge for every 24 hours it spends in the Underdark, up to a maximum of 7 charges.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

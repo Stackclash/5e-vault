@@ -13,6 +13,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Trumpeting Ring
 *Ring, uncommon*  
@@ -34,3 +37,7 @@ While holding your hand to your ear, as if holding an ear trumpet, you have adva
 While holding your closed hand to your mouth, as if holding a trumpet, you can recreate the sounds of a normal trumpet or similar instrument. If you are proficient with wind instruments, you are proficient with this trumpet, and if you're a bard, you can use it as a spellcasting focus for your bard spells.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

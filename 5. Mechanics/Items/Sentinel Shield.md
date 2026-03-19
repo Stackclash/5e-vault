@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sentinel Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
@@ -24,3 +27,7 @@ tier: major
 While holding this shield, you have advantage on initiative rolls and Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks. The shield is emblazoned with a symbol of an eye.
 
 *Source: Dungeon Master's Guide p. 199*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

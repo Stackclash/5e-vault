@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lich Lichen
 *Herb, rare*  
@@ -30,3 +33,7 @@ A pale white lichen resembling bone dust, found growing in dark areas of extreme
 After using this herb, any creatures with the undead creature type have disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks made to detect you.
 
 *Source: Hamund's Herbalism Handbook p. 21*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

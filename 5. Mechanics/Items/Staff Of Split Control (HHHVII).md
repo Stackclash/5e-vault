@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Staff of Split Control
 *Staff, weapon, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ This staff has 6 charges, one for each of the white snake heads on its top. Whil
 This staff regains all lost charges at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 65. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

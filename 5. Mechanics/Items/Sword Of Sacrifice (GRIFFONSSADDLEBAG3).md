@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Sacrifice
 *Major, rare (requires attunement)*  
@@ -38,3 +41,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. When
 As an action, or when you're reduced to 0 hit points (no action required), you can use the sword to end your life in an act of total sacrifice. When you do, you are killed outright, but the sword becomes a [[/5. Mechanics/Items/Dancing Sword.md\|dancing sword]] that you magically control on your initiative count, as if you were alive and not [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. The sword uses your attack bonus and ability modifier for its attack and damage rolls, and it has a +1 bonus to those rolls. The sword drops to the ground next to you and becomes a normal sword of sacrifice after 1 minute or if you're returned to life. Making more than four attacks with the [[/5. Mechanics/Items/Dancing Sword.md\|dancing sword]] doesn't end the effect early. The sword deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage to any target it hits for the duration. Once you've used this property of the sword, you can't do so again.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

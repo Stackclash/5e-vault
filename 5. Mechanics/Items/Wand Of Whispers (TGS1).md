@@ -19,6 +19,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: none
 ---
 # Wand of Whispers
 *Wand, major, rare (requires attunement by a spellcaster)*  
@@ -33,3 +36,7 @@ This wand has 7 charges. While holding the wand, you can use an action to expend
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dusk. If you expend the wand's last charge, roll a d20. On a 1, the magical flame burns out and the wand becomes a mundane candle and candlestick.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

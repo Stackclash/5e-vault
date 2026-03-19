@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quake Hammer
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement)*  
@@ -39,3 +42,7 @@ As an action, you can smash this hammer into the ground to send out intense trem
 The save DC for this effect is equal to 8 + your proficiency bonus + your Strength modifier. Once this property has been used, it can't be used again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 102*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

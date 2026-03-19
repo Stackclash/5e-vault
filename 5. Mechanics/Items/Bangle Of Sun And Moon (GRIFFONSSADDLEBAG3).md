@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Bangle of Sun and Moon
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -25,3 +28,7 @@ The bangle has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expe
 If you have 11 or more levels in the druid class and are wearing this bangle, you can expend 3 charges from the bangle to cast the [[/5. Mechanics/Spells/Sunbeam.md\|sunbeam]] spell from it (save DC 13). When you do, there is a permanent and cumulative 25 percent chance that the bangle is destroyed when the spell ends.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gluebell
 *Herb, rare*  
@@ -35,3 +38,7 @@ This herb contains `dice:1d4|noform|noparens|avg` (`1d4`) ounces of an adhesive 
 
 
 *Source: Hamund's Herbalism Handbook p. 16*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

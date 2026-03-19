@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Planar Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ The rapier has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`
 After the attack, the blade returns to its normal size.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 97*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Amulet of the Platinum Fang
 *Wondrous item, major, very rare (requires attunement)*  
@@ -27,3 +30,7 @@ While wearing the amulet, you can use an action to call forth an instantaneous, 
 If you're a dragonborn, you can choose to use this property in place of your breath weapon. When you do, it can't be used again until you finish a short or long rest, instead of the next dawn. If you use your normal breath weapon, you can choose for it to deal radiant damage, instead of its normal damage type.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

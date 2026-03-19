@@ -12,6 +12,9 @@ weight: 3
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Orb of Direction
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ tier: minor
 While holding this orb, you can use an action to determine which way is north. This property functions only on the Material Plane.
 
 *Source: Xanathar's Guide to Everything p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

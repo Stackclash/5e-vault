@@ -9,6 +9,9 @@ aliases:
   - Canteen of Last Resort
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Canteen of Last Resort
 *Wondrous item, common*  
@@ -20,3 +23,7 @@ This canteen resembles a gourd in the shape of an "8", with the bottom sphere sm
 The top sphere is capable of holding up to 3 pounds of fertile soil, which if left for at least 16 hours, produces enough slime to provide the nutritional requirements of an average humanoid for a day. This slime has a repugnant taste and expires if not eaten within 24 hours.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

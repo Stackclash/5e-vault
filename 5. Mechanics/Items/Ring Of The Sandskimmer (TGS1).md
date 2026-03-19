@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of the Sandskimmer
 *Ring, major, uncommon*  
@@ -24,3 +27,7 @@ subtype:
 This ring is made entirely of sand that ebbs and flows around your finger. The sand is magically held together by a single, perfectly smooth tiger's eye stone that spins in place as the sand brushes past it. While wearing this ring, you leave no footprints behind when you walk in sand, and you treat all nonmagical difficult terrain in sand as if it were normal terrain.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 107*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

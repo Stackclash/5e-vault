@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Boots of Speed
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ While you wear these boots, you can use a bonus action and click the boots' heel
 When the boots' property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.
 
 *Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

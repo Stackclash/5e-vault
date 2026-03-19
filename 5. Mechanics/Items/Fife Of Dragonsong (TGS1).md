@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fife of Dragonsong
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, rare (requires attunement by a bard)*  
@@ -43,3 +46,7 @@ As an action, you can expend one of your uses of [Bardic Inspiration](/compendiu
 An ally within the cone that can hear the note is bolstered by it instead. A friendly creature affected by the note has its speed increased by 10 feet until the end of its next turn and gains 2d6 temporary hit points that last for 10 minutes.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

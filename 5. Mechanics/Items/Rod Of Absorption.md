@@ -17,6 +17,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  
@@ -33,3 +36,7 @@ If you are a spellcaster holding the rod, you can convert energy stored in it in
 A newly found rod has `dice:1d10|noform|noparens|avg` (`1d10`) levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
 
 *Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Firecracker Crystals
 *Wondrous item, minor, common*  
@@ -38,3 +41,7 @@ A bag of the small crystals comes with `dice:1d4+8|noform|noparens|avg|text(10)`
 ^firecracker-crystal-colors
 
 *Source: The Griffon's Saddlebag, Book 1 p. 65*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

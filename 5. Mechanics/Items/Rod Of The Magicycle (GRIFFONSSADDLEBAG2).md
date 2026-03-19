@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of the Magicycle
 *Rod, major, rare*  
@@ -31,3 +34,7 @@ This sturdy antler rod is capped on either end with a plush leather handle. You 
 - When you make a Dexterity saving throw while riding the vehicle, you can use your reaction to gain advantage on the roll. On a successful save, you can drive the vehicle up to 20 feet as part of the reaction. If moving in this way causes you to no longer be in the triggering effect's area, such as an ancient red dragon's fiery breath or an [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]] spell, you instead take no damage, instead of half damage, from the effect. On a failed save, you and the vehicle fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 151*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

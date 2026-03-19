@@ -10,6 +10,9 @@ aliases:
 cost: 2500
 attunement: false
 rarity: none
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hypodermic Arrow
 
@@ -20,3 +23,7 @@ The head of this arrow is fitted with a syringe that can be filled with liquid. 
 A hypodermic arrow is extremely fragile; it always breaks on impact, whether it hits the target or not. One hypodermic arrow costs 25 gp. They're always sold empty, but those found in treasure hoards or among monsters' gear might be already filled. Filling the syringe takes an action, but it can be done hours or days before the arrow is used.
 
 *Source: Deep Magic p. 172*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

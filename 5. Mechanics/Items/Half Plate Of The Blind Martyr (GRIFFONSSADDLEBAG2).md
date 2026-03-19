@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Half Plate of the Blind Martyr
 *Medium armor ([[/5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, legendary (requires attunement)*  
@@ -46,3 +49,7 @@ This armor has 8 charges and regains `dice:1d4+4|noform|noparens|avg` (`1d4 + 4`
 This armor is cursed, and attuning to it extends that curse to you. This curse can only be removed by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or similar magic, removing the armor fails to end the curse. While you're cursed, you are [[/5. Mechanics/Rules/Conditions.md#Blinded\|blind]], but have [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] out to a range of 60 feet while wearing this armor. In addition, whenever you hit a creature with an attack or cast a spell that affects a creature other than yourself, you take 3 psychic damage. This damage ignores resistance and immunity
 
 *Source: The Griffon's Saddlebag, Book 2 p. 97*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

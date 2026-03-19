@@ -19,6 +19,9 @@ tier: minor
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of Cubic Cultivation
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), minor, uncommon*  
@@ -37,3 +40,7 @@ You can climb or walk on the cubes. However, their sticky surfaces are considere
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the gem on top of the staff shatters and is destroyed, creating a gelatinous cube in its place that's hostile toward you. When this happens, the staff becomes a nonmagical quarterstaff.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 169*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

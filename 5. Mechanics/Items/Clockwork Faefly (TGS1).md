@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Faefly
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ If you are within 60 feet of the faefly, you can speak another command word as a
 The faefly is considered a magical object and is not a creature. If the [[/5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it while it has at least 1 hit point, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If the faefly falls to 0 hit points, it can't be used again until 2 days have passed, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 44*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

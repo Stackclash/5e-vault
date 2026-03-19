@@ -14,6 +14,9 @@ attunement-requirement:
   - monk
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Belt of Four Elements
 *Wondrous item, major, very rare (requires attunement by a monk)*  
@@ -25,3 +28,7 @@ This belt is made from stone plates harvested from the Elemental Plane of Earth.
 While wearing the belt, you gain resistance to the channeled gem's associated damage type and deal an extra `dice:1d4|noform|noparens|avg` (`1d4`) damage of that same type to any target you hit with a melee attack. Whenever you use an action, bonus action, or reaction to spend 1 or more ki points, you can choose to shift its planar energy to a different gem of your choice.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

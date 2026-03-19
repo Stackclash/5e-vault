@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mammoth Boots
 *Wondrous item, major, uncommon*  
@@ -20,3 +23,7 @@ tier: major
 These magical boots are as sturdy as the feet of a mammoth. Your weight increases by 50 pounds while wearing these boots, although you don't feel any different, and you ignore difficult terrain caused by snow or ice. In addition, whenever you're pushed against your will, the distance you would be moved is reduced by 5 feet.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 85*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cleaning Cube
 *Wondrous item, minor, common*  
@@ -30,3 +33,7 @@ The cleaning cube is a sentient unaligned item with an Intelligence of 1, a Wisd
 The cleaning cube is happiest finding and dissolving dirt and other grime, and enjoys the feeling of moving across clean, polished surfaces. It doesn't concern itself with combat, preferring to continue its cleaning instead of involving itself in confrontation. If the cube finds a stray coin, gemstone, or other similar small item out of place while it cleans, it will absorb and clean the item until it's removed by a creature as an action or until it becomes dehydrated once again.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 61*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

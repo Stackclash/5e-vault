@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Ring of Evasion
 *Ring, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ subtype:
 This ring has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
 
 *Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dryad's Secret
 *Herb, rare*  
@@ -30,3 +33,7 @@ A deep brown nut roughly the size of a fist, they are found buried underneath th
 After using this herb, you produce a pleasant smell for the next 4 hours that causes those around you to become open to suggestion. During this time, you have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) made to convince humanoids to trust or befriend you.
 
 *Source: Hamund's Herbalism Handbook p. 11*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

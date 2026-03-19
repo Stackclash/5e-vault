@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Seed of Rebirth
 *Wondrous item, major, legendary (requires attunement)*  
@@ -25,3 +28,7 @@ When a creature attuned to the seed dies and remains dead for 1 minute, its soul
 When a creature's attunement to the seed is broken, the branch associated with that creature withers and dies. The tree is magical and can't be destroyed by nonmagical means. If the tree is destroyed, all creatures attuned to the seed are no longer attuned to it. Any creature attuned to the seed is magically alerted if the tree is being attacked or destroyed, or if one of the branches begins to wither. Once all of the tree's branches wither in this way or are destroyed, the tree splits apart and disintegrates, releasing another seed of rebirth to the astral winds that carry it to a new location on a different plane of existence.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 110*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

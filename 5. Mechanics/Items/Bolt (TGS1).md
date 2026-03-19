@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bolt
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ This heavy crossbow is made of metal and fires small bolts of electricity instea
 This crossbow acts as a small lightning rod. If another creature within 10 feet of you takes lightning damage while you're holding the crossbow, you take `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage for every 10 lightning damage the other creature took.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 37*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

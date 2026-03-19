@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wailing Ring
 *Ring, major, uncommon (requires attunement)*  
@@ -29,3 +32,7 @@ If you charm multiple creatures while wearing the ring, you choose which face ap
 Alternatively, you can use an action to pinch the face on the ring, causing it to disappear. When you do, that creature takes `dice:1d10|noform|noparens|avg` (`1d10`) psychic damage and is no longer [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]].
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

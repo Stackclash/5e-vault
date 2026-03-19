@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Cherry Blossom Wand
 *Wand, minor, common*  
@@ -24,3 +27,7 @@ subtype:
 This wand has 7 charges and regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. As an action while holding the wand, you can expend 1 of its charges to target a point that you can see within 60 feet of you. The air in a 20-foot cube centered on that point stirs into a light, dramatic breeze that carries a flurry of delicate pink cherry blossoms on it. The wind and the blossoms vanish immediately at the end of your turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

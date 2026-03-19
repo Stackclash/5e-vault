@@ -21,21 +21,23 @@ relationships:
   - Stefania Martikov|daughter
 partyRelationships:
   Midnight Covenant: Ally
-location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
-pronounced:
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+location: >-
+  [[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of
+  Wines]]
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 > [!infobox]
 > # `=this.file.name`

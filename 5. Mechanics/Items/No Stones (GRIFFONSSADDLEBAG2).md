@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # No-Stones
 *Wondrous item, minor, uncommon*  
@@ -26,3 +29,7 @@ The geode remains fixed in place until you speak its command word again using a 
 Once a half has been used in this way, that half can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 130*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

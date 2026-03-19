@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sir Varion's Helm
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This helm was worn by the iconic hero Sir Varion, whose feats of fearlessness pr
 In addition, when you make a saving throw against being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], you can roll a `dice:d6|noform|noparens|avg` (`d6`) and add the number rolled to the save. This property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 162*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

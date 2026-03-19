@@ -9,6 +9,9 @@ aliases:
   - Frozen Skull
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frozen Skull
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ While holding this skull, you may spend your action to release a pulse of winter
 Once this ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 58*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

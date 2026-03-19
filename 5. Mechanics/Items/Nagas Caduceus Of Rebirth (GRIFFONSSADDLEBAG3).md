@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Naga's Caduceus of Rebirth
 *Rod, minor, rare*  
@@ -32,3 +35,7 @@ A spirit naga is held captive within this rod. 24 hours after the second diamond
 The only way to prevent the naga from returning to life after `dice:1d6|noform|noparens|avg` (`1d6`) days (short of a [[/5. Mechanics/Spells/Wish.md\|wish]] spell), is to slay it with the rod. When you do, both the rod and naga are destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

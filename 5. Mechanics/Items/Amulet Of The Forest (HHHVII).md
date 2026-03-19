@@ -10,6 +10,9 @@ aliases:
   - Amulet of the Forest
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Forest
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ This green amulet possesses two sparkling motes of light inside of it. While wea
 In addition, you may spend 10 minutes focusing on a square patch of soil that is 5 feet on each side. At the end of that 10 minutes, a tree magically grows from that patch of soil. The tree has a diameter of 5 feet and grows until it is 20 feet tall or reaches a solid object above it, whichever comes first. You automatically have an innate bond with this tree, and it disappears automatically 24 hours after it has been created. You may only have one of these trees at a time, attempting to create a new one while another already exists causes the earlier one to disappear early.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 53*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

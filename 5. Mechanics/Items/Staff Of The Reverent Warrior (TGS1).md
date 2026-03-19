@@ -22,6 +22,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of the Reverent Warrior
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a spellcaster)*  
@@ -45,3 +48,7 @@ This staff has 10 charges. While attuned to the staff, you know the [[/5. Mechan
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff, but can still be used to deal either bludgeoning, piercing, or slashing damage with its attacks.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

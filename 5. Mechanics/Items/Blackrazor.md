@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blackrazor
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement by a creature of non-lawful alignment)*  
@@ -65,3 +68,7 @@ Despite its nihilism, Blackrazor feels a strange kinship to [[/5. Mechanics/Item
 Blackrazor's hunger for souls must be regularly fed. If the sword goes three days or more without consuming a soul, a conflict between it and its wielder occurs at the next sunset.
 
 *Source: Dungeon Master's Guide p. 216*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

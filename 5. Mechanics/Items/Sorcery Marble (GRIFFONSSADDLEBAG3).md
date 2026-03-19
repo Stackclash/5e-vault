@@ -14,6 +14,9 @@ attunement-requirement:
   - spellcaster
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Sorcery Marble
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  
@@ -25,3 +28,7 @@ This hollow blue marble has 3 grooves that run along its shell and contains a fa
 A mote of magical energy swirls around inside of the marble for each sorcery point stored inside it. When a mote appears, it causes the marble to split apart along one of its grooves, keeping any separated portions ever-so-slightly apart from the rest, but nevertheless connected.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

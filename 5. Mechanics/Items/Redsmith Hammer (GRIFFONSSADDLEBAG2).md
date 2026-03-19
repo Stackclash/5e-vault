@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Redsmith Hammer
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), minor, common*  
@@ -34,3 +37,7 @@ subtype:
 This dwarven smithing hammer has runes running from end to end. When beaten against an anvil, the runes around the hammer glow a bright red and emanate heat, allowing a blacksmith to use the hammer to mold weapons and armor using only the hammer and anvil.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -17,6 +17,9 @@ rarity: uncommon
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Feywild Shard
 *Wondrous item, spellcasting focus, uncommon (requires attunement by a sorcerer)*  
@@ -31,3 +34,7 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 If you don't have the Wild Magic Sorcerous Origin, once this property is used to roll on the [[/5. Mechanics/Tables/Wild Magic Surge (PHB).md\|Wild Magic Surge]] table, it can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 127*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

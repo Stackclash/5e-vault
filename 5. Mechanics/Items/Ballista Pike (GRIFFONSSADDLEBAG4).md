@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ballista Pike
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), uncommon*  
@@ -34,3 +37,7 @@ When you make an attack with the pike you can speak its command word to throw it
 Once this property of the pike has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

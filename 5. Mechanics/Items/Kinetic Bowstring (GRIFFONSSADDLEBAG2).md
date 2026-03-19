@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kinetic Bowstring
 *Wondrous item, major, rare*  
@@ -20,3 +23,7 @@ tier: major
 This magic bowstring can be used to string a nonmagical bow or crossbow, turning any attack made with it into a magical one. A kinetic bowstring magically amplifies some of the stored kinetic force that it releases when it fires an arrow or bolt. The first ranged attack you make on each of your turns using a weapon strung with this item has twice its normal range, and on a hit, the attack deals one extra die of its damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 112*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

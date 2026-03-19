@@ -13,6 +13,9 @@ rarity: uncommon
 type: gear
 subtype:
   - oil
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Radiant Oil
 *Oil, uncommon*  
@@ -24,3 +27,7 @@ You may spend 1 minute applying this oil to an item no larger than 1 cubic foot 
 Alternatively, you may smash this bottle of oil on a hard surface up to 20 feet away from you. If you do so, the oil violently reacts and creates a blinding flash of light, affecting any creature in a 10-foot radius of it. Any creature in that area must make a DC 11 Constitution saving throw. On a failure, the creature takes `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage and, if the creature can see the light, is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until the end of its next turn. If the saving throw is successful, the creature takes half the damage and isn't [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]].
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

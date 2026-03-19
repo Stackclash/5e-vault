@@ -9,6 +9,9 @@ aliases:
   - Basin of Water Control
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Basin of Water Control
 *Wondrous item, very rare*  
@@ -22,3 +25,7 @@ So long as you hold the basin, you may use your action to exert your influence o
 This basin loses its connection to the water after the 1-hour duration has passed, if you drop the basin, or if the water inside the basin spills out. After this, all effects created by the basin cease immediately. Once used, the basin cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 82*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

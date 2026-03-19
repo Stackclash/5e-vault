@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wizard's Friend
 *Herb, rare*  
@@ -30,3 +33,7 @@ A delightfully eye-catching tulip with a violet hue, this flower can be crushed 
 Over the course of an hour, this herb may be crushed and mixed in order to create a deep purple ink that can be used to inscribe spells into a wizard's spellbook. When used in this way, the ink replaces the gold piece requirements of the inscription. One herb is capable of creating enough ink to replace up to 100 gold pieces worth of spell inscription components.
 
 *Source: Hamund's Herbalism Handbook p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

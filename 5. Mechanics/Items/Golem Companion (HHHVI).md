@@ -9,6 +9,9 @@ aliases:
   - Golem Companion
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Golem Companion
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This 3-inch-tall statue is crafted from whichever material the golem its ashes w
 The statue has 10 AC (regardless of material), 4 hit points, has a move speed of 15 feet, and makes [[/5. Mechanics/Rules/Skills.md#Perception\|perception]] checks with a +5 bonus.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

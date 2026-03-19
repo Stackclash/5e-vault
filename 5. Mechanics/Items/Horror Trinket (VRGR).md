@@ -13,6 +13,9 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horror Trinket
 *Adventuring gear*  
@@ -129,3 +132,7 @@ Before you finish making a character, roll once on the Horror Trinkets table for
 ^horror-trinkets
 
 *Source: Van Richten's Guide to Ravenloft p. 36*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

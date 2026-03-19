@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Bandolier of the Elements
 *Wondrous item, major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ A [[/5. Mechanics/Items/Dagger.md\|dagger]] vanishes if you don't hurl it right 
 ^damage-type
 
 *Source: The Griffon's Saddlebag, Book 2 p. 42*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

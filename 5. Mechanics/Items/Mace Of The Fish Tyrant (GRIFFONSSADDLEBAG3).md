@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mace of the Fish Tyrant
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), cursed item, major, very rare (requires attunement)*  
@@ -56,3 +59,7 @@ This mace is cursed, and becoming attuned to it extends the curse to you. As lon
 You remain cursed until targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or until a [[/5. Mechanics/Spells/Banishment.md\|banishment]] spell of 5th level or higher is cast on the mace. When banished in this way, the mace remains, but the fish is returned to its home plane. You can feel a great sense of relief from the fish as it leaves the mace. When this happens, the weapon becomes a regular +1 mace. However, you are granted a permanent boon by the fish as it departs: you gain resistance to psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

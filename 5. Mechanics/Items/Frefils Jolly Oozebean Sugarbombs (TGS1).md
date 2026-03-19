@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frefil's Jolly Oozebean Sugarbombs
 *Wondrous item, minor, uncommon*  
@@ -40,3 +43,7 @@ You can only be under the effects of 1 sugarbomb that has this feature at a time
 ^oozebean-colors
 
 *Source: The Griffon's Saddlebag, Book 1 p. 69*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Quillgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon*  
@@ -38,3 +41,7 @@ If the blowgun is loaded with 6 quills in this way, it shoots each of those quil
 The blowgun can also be wielded as a magic club. While it has at least 6 quills remaining, it deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage to any target it hits.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

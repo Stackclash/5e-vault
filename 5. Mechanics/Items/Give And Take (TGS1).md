@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Give and Take
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
@@ -43,3 +46,7 @@ When you hit a creature with *Give* and expend 1 charge, you and all other creat
 When you hit a creature with *Take* and expend 1 charge, that creature takes `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage, and you and all other creatures within 5 feet of the target take half as much necrotic damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 72*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

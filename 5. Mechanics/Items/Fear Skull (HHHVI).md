@@ -10,6 +10,9 @@ aliases:
   - Fear Skull
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fear Skull
 *Wondrous item, rare (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: rare
 While holding this item, you may cast the [[/5. Mechanics/Spells/Fear.md\|fear]] spell, requiring no other components. Once this ability has been used once, it cannot be used again until the next dawn. Furthermore, anytime a creature within 30 feet of this skull makes a saving throw to avoid the [[/5. Mechanics/Rules/Conditions.md#Frightened\|fear]] condition, they make that save at disadvantage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 127*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

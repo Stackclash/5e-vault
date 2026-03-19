@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous item, minor, very rare*  
@@ -30,3 +33,7 @@ Nothing created by the pigments can have a value greater than 25 gp. If you pain
 If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.
 
 *Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Marvelous Pigments")*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

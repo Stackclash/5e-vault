@@ -12,6 +12,9 @@ attunement: true
 attunement-requirement:
   - spellcaster
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bangle of the Arcane Assassin
 *Wondrous item, rare (requires attunement by a spellcaster)*  
@@ -23,3 +26,7 @@ Once per turn while wearing this bangle, you can deal an extra `dice:3d6|noform|
 In addition, you can ignore the verbal component required for any enchantment or illusion spell you cast while you're in total darkness and wearing the bangle.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

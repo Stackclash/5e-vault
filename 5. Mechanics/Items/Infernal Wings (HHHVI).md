@@ -10,6 +10,9 @@ aliases:
   - Infernal Wings
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Infernal Wings
 *Wondrous item, rare (requires attunement)*  
@@ -22,3 +25,7 @@ A repurposed pair of wings harvested from a devil and inlaid with enchantments t
 Once the wings have disappeared, they may not be activated again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 131, Hamund's Harvesting Handbook: Volume III p. 91*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

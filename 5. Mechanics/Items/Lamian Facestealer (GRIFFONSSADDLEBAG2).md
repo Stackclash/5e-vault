@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Lamian Facestealer
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
@@ -38,3 +41,7 @@ The dagger has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expe
 When you take on a creature's appearance in this way, that creature must make a DC 15 Wisdom saving throw. On a failed save, that creature has disadvantage on Wisdom saving throws and all ability checks as long as it can see you while you share its appearance in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 113*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

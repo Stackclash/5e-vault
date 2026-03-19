@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frost Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare*  
@@ -31,3 +34,7 @@ subtype:
 This dagger continually radiates a wave of cold that intensifies when sunk into exposed flesh. You have a +1 to attack and damage rolls made with this weapon, and when you deal damage with it, you may choose to convert the piercing damage into frost ^[This is a homebrew addition, replacing the following: cold] damage instead.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 88*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -20,6 +20,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Solacesteel Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ This gilded armor is made of purified mourningsteel and repels undead aggression
 If you're a cleric or paladin and are wearing this armor, immediately after an undead creature deals damage to you with a melee attack, it is automatically destroyed if its challenge rating is 1 or lower.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

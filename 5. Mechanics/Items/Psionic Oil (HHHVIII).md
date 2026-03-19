@@ -13,6 +13,9 @@ rarity: very-rare
 type: gear
 subtype:
   - oil
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Psionic Oil
 *Oil, very rare*  
@@ -27,3 +30,7 @@ You may spend 1 hour rubbing this weapon oil on any nonmagical weapon to irrever
 You may only have one bonded psychic weapon at a time. If you attempt to bond to another weapon, your connection to the original is lost and it instead becomes a magic weapon that any creature may attune to in order to utilize its special properties.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 95*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -78,6 +78,9 @@ subtype:
   - melee
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Weapon of Warning
 *Major, uncommon (requires attunement)*  
@@ -87,3 +90,7 @@ subtype:
 This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]], except when [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
 
 *Source: Dungeon Master's Guide p. 213*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

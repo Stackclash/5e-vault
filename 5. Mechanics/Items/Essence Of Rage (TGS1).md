@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Essence of Rage
 *Potion, minor, rare*  
@@ -29,3 +32,7 @@ This swirling potion tastes like iron and bitter raisins. When you drink this po
 In addition, when you use your action to drink this potion, you can make one weapon attack as a bonus action.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 59*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Corpse Maker's War Paint
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Corpse Maker's War Paint
 *Wondrous item, rare*  
@@ -26,3 +29,7 @@ While in this trance, whenever a creature you can see hits you with a weapon att
 You remain in this frenzied state until either the creature that hit you is dead, you are no longer aware of the location of the creature that hit you, you fall [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]], or the effects of this paint wear off. If a different creature hits you while in this frenzied state, you must make the saving throw as normal, switching your focus to that different creature upon a failed save.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 85*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

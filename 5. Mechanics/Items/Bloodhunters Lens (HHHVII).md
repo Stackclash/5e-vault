@@ -9,6 +9,9 @@ aliases:
   - Bloodhunter's Lens
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodhunter's Lens
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ While wearing this crimson monocle lens, you may activate it by spending your ac
 The lens can be activated for 1 hour, all at once or in smaller increments, using a minimum of 1 minute each time it is activated. The lens regains 10 minutes of use for every 6 hours it is not in use.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 54*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

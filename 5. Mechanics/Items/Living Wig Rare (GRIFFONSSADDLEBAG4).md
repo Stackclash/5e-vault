@@ -9,6 +9,9 @@ aliases:
   - Living Wig (Rare)
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Living Wig (Rare)
 *Wondrous item, rare*  
@@ -34,3 +37,7 @@ If you've been wearing the wig for more than 24 consecutive hours, you gain prof
 If the wig is targeted by a [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell, it becomes a common living wig with no additional properties.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

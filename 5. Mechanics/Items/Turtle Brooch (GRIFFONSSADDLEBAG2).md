@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Turtle Brooch
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This gold and amber brooch resembles a turtle that's been flipped on its back. While you're wearing it, standing up from being [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] costs 5 feet less of your movement (to a minimum of 5 feet).
 
 *Source: The Griffon's Saddlebag, Book 2 p. 178*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

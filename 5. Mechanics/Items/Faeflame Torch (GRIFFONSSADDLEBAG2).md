@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Faeflame Torch
 *Wondrous item, major, rare*  
@@ -24,3 +27,7 @@ You can use an action while holding the lit torch to speak its second or third c
 Speaking the third command word causes the flame to fly from the torch and erupt at a point you can see within 60 feet of you, creating an explosion of blue flames and duplicating the effect of the [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] spell (save DC 15, no concentration required) in a 20-foot radius sphere centered on that point. A creature also takes `dice:3d6|noform|noparens|avg` (`3d6`) fire damage on a failed save, or half as much damage on a successful one. You can choose to end the effect early as a bonus action. When the effect ends, the flame reappears above the torch. The torch can't be used this way again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 79*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Halo Circlet
 *Wondrous item, major, very rare (requires attunement)*  
@@ -31,3 +34,7 @@ While wearing the circlet, you can use your reaction to shroud yourself in celes
 If you're a tiefling and are wearing the circlet, you can choose to deal radiant damage, instead of fire damage, whenever you would deal fire damage to a target. In addition, you can use a bonus action to release a wave of beautiful, discordant energy from the circlet. The wave affects up to 8 creatures of your choice that you can see within 30 feet of you. You choose if an affected creature is either affected by the [[/5. Mechanics/Spells/Bless.md\|bless]] spell or is forced to make a DC 15 Charisma saving throw; on a failed save, it's affected by the [[/5. Mechanics/Spells/Bane.md\|bane]] spell instead. These spells end at the start of your next turn, and any creature affected by them adds or subtracts `dice:2d4|noform|noparens|avg` (`2d4`) from its rolls, respectively, instead of `dice:1d4|noform|noparens|avg` (`1d4`). Once this bonus action has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Grave Trodders
 *Wondrous item, major, rare (requires attunement)*  
@@ -28,3 +31,7 @@ This version of the [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]]
 - If the boots have 0 charges, they can't be used to cast the spell. If you cast the spell from the boots and don't ask the affected corpse any questions, it still expends 1 charge from the boots.  
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

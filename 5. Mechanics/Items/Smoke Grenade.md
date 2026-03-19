@@ -15,6 +15,9 @@ rarity: none
 type: weapon
 subtype:
   - explosive
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Smoke Grenade
 *Explosive*  
@@ -26,3 +29,7 @@ As an action, a character can throw a grenade at a point up to 60 feet away. Wit
 One round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
 
 *Source: Dungeon Master's Guide p. 268*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

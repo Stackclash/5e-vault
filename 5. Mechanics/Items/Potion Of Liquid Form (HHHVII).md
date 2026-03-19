@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Liquid Form
 *Potion, rare*  
@@ -29,3 +32,7 @@ When you drink this clear potion, you transform into a water-like liquid form fo
 Once the hour is over, you return to your normal form. If you return to your normal form in a space that would not support your normal form, you take `dice:4d8|noform|noparens|avg` (`4d8`) force damage at the start of each of your turns until you are in a space that can support you.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 63*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

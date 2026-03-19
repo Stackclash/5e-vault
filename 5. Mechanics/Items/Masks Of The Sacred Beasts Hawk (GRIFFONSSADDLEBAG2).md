@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Masks of the Sacred Beasts (Hawk)
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ These dark ceramic and gold masks are fashioned after animals that are sacred in
 While wearing a hawk mask, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight, and attacking at long range doesn't impose disadvantage on your ranged attack rolls. In addition, you can cast the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell at will, targeting only yourself.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

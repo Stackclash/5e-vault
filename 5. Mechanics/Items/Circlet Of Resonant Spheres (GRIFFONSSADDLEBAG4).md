@@ -13,6 +13,9 @@ attunement-requirement:
   - bard
   - wizard
 rarity: legendary
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Circlet of Resonant Spheres
 *Wondrous item, legendary (requires attunement by a bard or wizard)*  
@@ -34,3 +37,7 @@ The circlet has 10 charges and regains all expended charges daily at dawn. Whene
 Alternatively, while wearing the circlet, you can expend 5 of its charges to cast the commune with nature spell from it over the course of 1 minute. This version of the spell allows you to commune with the very magic around you in a 300-foot radius, even in dungeons or towns, instead of the surrounding area's land and flora. As a result, you can ask it up to three questions that can be answered with a yes or no and that relate to the magic found within that area. The magic isn't necessarily omniscient, so you might receive "unclear" as an answer if a question pertains to information that lies beyond its understanding. In a case where a one-word answer could be misleading, the GM might offer a short phrase as an answer instead. You must ask your questions within 1 minute of casting the spell.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

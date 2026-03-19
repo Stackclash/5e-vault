@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Trident of the Dryad
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, uncommon (requires attunement)*  
@@ -44,3 +47,7 @@ You can use an action to plant the bottom of this trident in fertile ground and 
 The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by detect magic. While touching the tree, you can use an action to speak its command word again to return the trident to its normal form. Any creature in the tree falls when it reverts to a trident. Once this property of the trident has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

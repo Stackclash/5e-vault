@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Robe of Useful Items
 *Wondrous item, minor, uncommon*  
@@ -50,3 +53,7 @@ In addition, the robe has `dice:4d4|noform|noparens|avg` (`4d4`) other patches. 
 ^patch
 
 *Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

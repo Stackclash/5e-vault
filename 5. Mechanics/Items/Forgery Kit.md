@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - tool
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Forgery Kit
 *Tool*  
@@ -25,3 +28,7 @@ subtype:
 This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.
 
 *Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 81. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

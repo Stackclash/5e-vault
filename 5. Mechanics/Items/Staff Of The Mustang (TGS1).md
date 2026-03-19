@@ -20,6 +20,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of the Mustang
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement)*  
@@ -36,3 +39,7 @@ This dark wooden staff is carved in the shape of a majestic stallion. The staff 
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff breaks in two as if bitten and is destroyed. When this happens, the sound of hooves can be heard galloping away in an indiscernible direction.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

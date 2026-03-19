@@ -12,6 +12,9 @@ attunement: true
 attunement-requirement:
   - wizard
 rarity: very-rare
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Cryomancer's Lexicon
 *Wondrous item, very rare (requires attunement by a wizard)*  
@@ -35,3 +38,7 @@ When a creature that you can see (including yourself) takes damage, you can use 
 You can use an action to expend up to 3 of the book's charges to coat yourself in a magical frozen barrier. You gain 10 temporary hit points for each expended charge, and when a creature hits you with a melee attack while you have these hit points, that creature takes 10 cold damage for each spent charge.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

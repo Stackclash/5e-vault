@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Volcanic Boots
 *Wondrous item, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ The boots have 10 charges and regain `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`
 The volcanic effect lasts for 1 minute or until you end it early as a bonus action or fall unconscious.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

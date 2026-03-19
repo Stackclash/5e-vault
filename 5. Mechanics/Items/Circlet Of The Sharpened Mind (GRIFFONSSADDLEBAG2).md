@@ -15,6 +15,9 @@ attunement-requirement:
   - higher
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Circlet of the Sharpened Mind
 *Wondrous item, major, very rare (requires attunement by a creature with an Intelligence score of 17 or higher)*  
@@ -28,3 +31,7 @@ You can replace one of these melee spell attacks with a weapon attack as part of
 When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to make one melee spell attack with one of the summoned swords against the creature, rather than making an opportunity attack.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 60*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

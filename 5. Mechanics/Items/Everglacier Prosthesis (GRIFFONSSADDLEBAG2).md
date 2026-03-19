@@ -16,6 +16,9 @@ attunement-requirement:
   - leg
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Everglacier Prosthesis
 *Wondrous item, major, rare (requires attunement by a creature missing a hand, arm, or leg)*  
@@ -29,3 +32,7 @@ While the prosthetic is attached, you have resistance to cold damage, and your u
 In addition, the prosthesis has 6 icy spikes protruding from its surface. You can use an action while the prosthetic is attached to launch up to 3 of the spikes at one or more targets within 30 feet of you. Make a ranged spell attack for each spike, using an attack bonus of +7. On a hit, the target takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage. `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) launched spikes regrow daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 78*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

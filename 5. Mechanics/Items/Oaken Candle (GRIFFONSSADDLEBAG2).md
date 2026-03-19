@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Oaken Candle
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This magic, bark-like candle emits a green flame when burned, which sheds bright light in a 5-foot radius and dim light for an additional 5 feet. You can light the candle as an action. After burning for `dice:1d8+4|noform|noparens|avg` (`1d8 + 4`) hours, the candle is destroyed and an oak tree no more than 30 feet tall grows in its place over the course of 10 minutes. If there isn't enough room for a tree to grow or the candle isn't placed on solid ground, the candle is destroyed without creating a tree.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 130*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Soul-Searing Scythe
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), major, legendary (requires attunement)*  
@@ -39,3 +42,7 @@ In addition, when you score a critical hit with this weapon against a creature t
 When you reduce a creature to 0 hit points with this weapon, its body and soul are immolated and destroyed unless it is a construct or undead. A creature whose body and soul have been destroyed by the soul-searing scythe can be restored to life only by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or divine intervention.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 164*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Drill Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. On a
 The lance magically stores your movement into its own, spinning faster as you charge forward. Once per turn, if you move at least 20 feet straight toward a target and then attack it with the lance on the same turn, the weapon releases a superheated line of energy from it in the direction of the target. The line is 15 feet long and 5 feet wide. Each creature in that line must succeed on a DC 15 Dexterity saving throw or take `dice:1d10|noform|noparens|avg` (`1d10`) fire damage. If the triggering attack also hits, this fire damage is in addition to the weapon's damage against the target.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

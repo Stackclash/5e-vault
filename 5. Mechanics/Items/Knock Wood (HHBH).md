@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Knock Wood
 *Herb, common*  
@@ -30,3 +33,7 @@ When a fey creature makes their home inside a tree, occasionally they may pass a
 While holding this herb in your hand, if you are forced to make a roll at disadvantage, you may use your reaction to knock this herb against something hard. If you do so, you make your roll as normal instead of at disadvantage. Once this herb has been used once, it loses all power and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 21*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

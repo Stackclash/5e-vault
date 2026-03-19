@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Life Turner
 *Wondrous item, minor, legendary*  
@@ -22,3 +25,7 @@ This tiny, spinning hourglass has six seconds' worth of sand inside it and can b
 When you die as a result of using the hourglass, your body is enchanted by protective magic for 3 hours. During this time, if a spell, such as [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]], has the sole effect of restoring you to life (but not undeath), the caster doesn't need material components to cast the spell on you. In addition, while you're protected by this magic, you are also under the effect of the [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 114*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lash of the Spelldrinker
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement by a spellcaster)*  
@@ -39,3 +42,7 @@ When a hostile creature within the whip's reach casts a spell, you can use your 
 When a creature takes force damage from the whip in this way, you can choose to recover an expended spell slot of a level equal to or less than the force damage dealt, up to 3rd level. Once the whip has been used to recover a spell slot in this way, it can't do so again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 113*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

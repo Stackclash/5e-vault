@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Beads of Meditation
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ This beaded necklace can be used as a set of prayer beads or special rosary. Whi
 If you're a cleric, monk, or paladin, you can use an action to hold onto the beads to further channel your spirituality. If you're a monk, you regain `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended ki points. If you're a cleric or paladin, you regain one use of your Channel Divinity. This property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 43*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ attunement-requirement:
   - creature with an intelligence score of 13
   - higher
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Psychic Quiver
 *Wondrous item, rare (requires attunement by a creature with an intelligence score of 13 or higher)*  
@@ -24,3 +27,7 @@ When you pull a nonmagical arrow from this quiver and immediately make an attack
 Other types of ammunition containers of this kind exist, such as a psychic bolt case meant for crossbow bolts, though quivers are most common.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Carrion Shroud
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
@@ -28,3 +31,7 @@ In addition, while wearing the cloak, you can speak its command word as a bonus 
 This cloak is cursed, and becoming attuned to it extends the curse to you until you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell. As long as you remain cursed, you are unwilling to part with the cloak, keeping it worn at all times. The cloak gives you an insatiable hunger for flesh, and while traditional food can sustain you, you no longer enjoy the smell or taste of it. While cursed, whenever you reduce a creature within 5 feet of you to 0 hit points, you're forced to make a DC 13 Wisdom saving throw. If the creature is a construct, ooze, plant, or undead, you automatically succeed on this saving throw. On a failed save, you are overcome with the urge to tear into the creature's flesh and feast: sacrificing any additional movement, action, or bonus action you had left on your turn. You can repeat this saving throw at the start of each of your following turns, ending your need to feast on a success.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 57*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

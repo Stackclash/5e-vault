@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Moonfallen Maul
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare*  
@@ -32,3 +35,7 @@ subtype:
 This maul's stone head is carved from fallen moon rock. A howling wolf and pockmarked moon are carved into the weapon. You gain a +1 bonus to attack and damage rolls made with this magic weapon, or a +2 bonus if it's between dusk and dawn. When you roll a 20 on an attack roll made with this weapon, the target of the attack must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the end of your next turn. The target has disadvantage on the saving throw if it can see the moon or if it's cursed with lycanthropy. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature immediately falls [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] as it recoils.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

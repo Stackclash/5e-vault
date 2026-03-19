@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lance of the Statuemaker
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, very rare*  
@@ -34,3 +37,7 @@ This lance is made of a stalactite mounted to a brass handle. Its razor-fine poi
 When you reduce a creature to 0 hit points using the lance and choose to knock the creature out instead of killing it, you can leave the lance embedded within the creature as part of the attack. When you do, the target is [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] until another creature uses an action to make a DC 30 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check to pull out the lance or frees it with a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic, at which point the lance falls to the ground and can be used to make attacks again. Once a creature has been [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] in this way, it can't be [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] by the lance again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

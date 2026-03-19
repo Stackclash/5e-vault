@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 24
+item_recharge: none
 ---
 # Figurine of Wondrous Power, Ivory Goats
 *Wondrous item, major, rare*  
@@ -31,3 +34,7 @@ These ivory statuettes of goats are always created in sets of three. Each goat l
 - The goat of terror becomes a [[/5. Mechanics/Bestiary/Beast/Giant Goat.md\|giant goat]] for up to 3 hours. The goat can't attack, but you can remove its horns and use them as weapons. One horn becomes a +1 lance, and the other becomes a +2 longsword. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form. In addition, the goat radiates a 30-foot-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of the goat for 1 minute, or until the goat reverts to figurine form. The [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat's aura for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.  
 
 *Source: Dungeon Master's Guide p. 169. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

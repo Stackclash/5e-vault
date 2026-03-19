@@ -12,6 +12,9 @@ weight: 2
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Barge Helm
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ tier: major
 This flat, rugged helmet lets you run headlong into targets and bowl them over with abandon. If you move at least 20 feet straight toward a target and then [[/5. Mechanics/Rules/Actions.md#Shove\|shove]] them on the same turn, the target takes `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage from being barreled into by the helmet.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

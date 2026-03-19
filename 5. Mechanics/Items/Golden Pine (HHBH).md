@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Golden Pine
 *Herb, rare*  
@@ -30,3 +33,7 @@ A beautiful pine with leaves tinged with the golden light of the sun rising over
 As an action, you may cover one melee weapon or up to 10 pieces of ammunition with the resin from this plant. For the next hour, any time you use that weapon to successfully hit a creature with the dragon type, that creature must make a DC 15 Constitution saving throw. On a failure, all attacks made against that creature are made at advantage until the start of your next turn.
 
 *Source: Hamund's Herbalism Handbook p. 17*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

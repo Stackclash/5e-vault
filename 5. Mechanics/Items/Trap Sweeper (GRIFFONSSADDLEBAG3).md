@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Trap Sweeper
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ Once the broom has been used to sweep for the third time in this way, it can't d
 A trap, for the purpose of this item, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the item would sense an area affected by the [[/5. Mechanics/Spells/Alarm.md\|alarm]] spell, a glyph of warding, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

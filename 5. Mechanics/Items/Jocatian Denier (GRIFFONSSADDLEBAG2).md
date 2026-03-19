@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Jo'Catian Denier
 *Major, uncommon (requires attunement by a creature of neutral alignment)*  
@@ -44,3 +47,7 @@ This magic weapon comes from a clan of sentient wurms that debilitate their foes
 While you're attuned to this weapon as well as the Jo'Catian rebuker, you can use charges from either item to fuel this weapon's properties.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 111*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

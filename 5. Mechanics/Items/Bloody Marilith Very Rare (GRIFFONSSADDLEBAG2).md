@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: long-rest
 ---
 # Bloody Marilith (Very Rare)
 *Potion, minor, very rare*  
@@ -28,3 +31,7 @@ When you drink this potion, you can take one reaction on every turn in a combat 
 Drinking additional [[/5. Mechanics/Items/Bloody Marilith (GRIFFONSSADDLEBAG2).md\|bloody mariliths]] before you finish a long rest leaves your body feeling worn. When the potion's effect ends, you can't move or take actions until after your next turn, as a wave of lethargy sweeps over you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 48*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

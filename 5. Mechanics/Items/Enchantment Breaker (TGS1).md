@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Enchantment Breaker
 *Ring, major, rare*  
@@ -28,3 +31,7 @@ This ring's tiny chains rotate slowly around your finger while worn. Whenever yo
 When you're targeted by an enemy enchantment spell or fail a saving throw against one, you can use your reaction to weaken the enchantment's grip on you and other allies within 10 feet of you: allowing you and nearby allies to roll the enchantment's saving throw with advantage. Once you use this feature, it can't be used again until `dice:1d4|noform|noparens|avg` (`1d4`) days have passed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 59*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

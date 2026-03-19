@@ -9,6 +9,9 @@ aliases:
   - Ocean Master Paint
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ocean Master Paint
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This bucket contains 1 gallon of paint which is capable of coating 10 square fee
 A coated object stays coated for 24 hours. Applying a new coat refreshes the 24-hour duration.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

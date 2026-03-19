@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of the Printless
 *Ring, minor, common*  
@@ -24,3 +27,7 @@ subtype:
 This patinaed copper ring has a waving pattern etched inside it that resembles a traditional fingerprint. While wearing the ring, your hands leave no fingerprints or natural oil behind on objects you touch.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

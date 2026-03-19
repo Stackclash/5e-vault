@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Golden Sun Armor
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), very rare (requires attunement)*  
@@ -31,3 +34,7 @@ subtype:
 You gain a +1 bonus to AC while wearing this armor. While wearing this armor, you may cast the [[/5. Mechanics/Spells/Light.md\|light]] spell on yourself at will without requiring any components. The light shed by this spell is considered to be sunlight.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 58*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

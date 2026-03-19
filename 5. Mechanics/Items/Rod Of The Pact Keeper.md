@@ -19,6 +19,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of the Pact Keeper
 *Rod, major (requires attunement by a warlock)*  
@@ -32,3 +35,7 @@ subtype:
 - [[/5. Mechanics/Items/3 Rod Of The Pact Keeper.md\|+3 Rod of the Pact Keeper]]
 
 *Source: Dungeon Master's Guide p. 197*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

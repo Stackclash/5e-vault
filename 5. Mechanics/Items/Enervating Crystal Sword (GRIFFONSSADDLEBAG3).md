@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Enervating Crystal Sword
 *Major, rare (requires attunement)*  
@@ -38,3 +41,7 @@ This sword has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`
 Alternatively, you can use an action to hold the sword aloft and expend 2 of its charges to intensify its sickening light, doubling the radius of its bright and dim light to 20 feet, instead of 10. Each creature within the bright light, including yourself, must succeed on a DC 13 Constitution saving throw or be weakened until the end of its next turn. You have advantage on this saving throw. The light then returns to normal.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

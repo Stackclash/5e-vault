@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Liftwood
 *Herb, common*  
@@ -31,3 +34,7 @@ There is a legend of a magical tree that once rose out of the world's oceans, fl
 This herb is a piece of magical wood, measuring roughly 6 feet in length and the thickness of an average human's forearm. While holding onto this herb, you may focus on it as an action, giving you a flying speed of 5 feet until the end of your turn. Once used, this herb cannot be used again until the next dawn.
 
 *Source: Hamund's Herbalism Handbook p. 21*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

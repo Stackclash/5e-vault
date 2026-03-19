@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spellwrought Tattoo (5th Level)
 *Wondrous item (tattoo), rare*  
@@ -23,3 +26,7 @@ Produced by a special needle, this magic tattoo contains a single 5th level spel
 The Ability modifier for this spell is +5; the Save DC is 17 and the attack bonus is +9.
 
 *Source: Tasha's Cauldron of Everything p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Dragon Stone (Adult)
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Stone (Adult)
 *Wondrous item, very rare (requires attunement)*  
@@ -29,3 +32,7 @@ While in half-dragon form, your personality changes to align with that of your d
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

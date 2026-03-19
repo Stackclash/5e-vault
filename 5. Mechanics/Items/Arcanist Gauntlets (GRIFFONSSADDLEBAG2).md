@@ -14,6 +14,9 @@ attunement-requirement:
   - spellcaster
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arcanist Gauntlets
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  
@@ -27,3 +30,7 @@ If the number rolled on the `dice:d6|noform|noparens|avg` (`d6`) is less than th
 For example, a 9th-level wizard can use the gauntlets to provide either one 5th-level spell slot or a 4th- and 1st-level spell slot over the course of a day, but not two 2nd- or 3rd-level spell slots.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

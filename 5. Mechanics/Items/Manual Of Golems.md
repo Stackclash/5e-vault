@@ -12,6 +12,9 @@ weight: 5
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Manual of Golems
 *Wondrous item, major, very rare*  
@@ -27,3 +30,7 @@ tier: major
 - [[/5. Mechanics/Items/Manual Of Stone Golems.md\|Manual of Stone Golems]]
 
 *Source: Dungeon Master's Guide p. 180*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

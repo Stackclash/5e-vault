@@ -20,6 +20,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Couatl Herald's Scales
 *Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a creature of good alignment)*  
@@ -39,3 +42,7 @@ When you take damage from a creature within 10 feet of you, you can use your rea
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 49*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Goodberry Gummy Fish
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ A goodberry gummy fish functions like a single berry from the [[/5. Mechanics/Sp
 Alternatively, you can use an action to submerge a gummy in water to magically animate it, using the quipper's statistics. If you submerge 5 or more gummies in water at the same time, they function as a group, using the swarm of quippers' statistics instead. The quippers are friendly to you, but aren't magically compelled to obey any of your commands. After 1 hour, the animated gummies dissolve and are destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

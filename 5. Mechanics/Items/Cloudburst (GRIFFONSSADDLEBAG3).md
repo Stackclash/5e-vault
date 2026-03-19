@@ -22,6 +22,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloudburst
 *Major, rare*  
@@ -33,3 +36,7 @@ This magic bow is weightless to hold. The shapes of its extending arms change ev
 Whenever you use this bow to fire an arrow into water vapor, such as into a low-lying mist or [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell, the vapor immediately disappears from the area in a 10-foot-wide line, following the arrow's trajectory; fog can't reenter that space until the end of your next turn. Air elementals and other creatures made of clouds or mist take an extra `dice:2d6|noform|noparens|avg` (`2d6`) force damage from ranged attacks using the bow.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

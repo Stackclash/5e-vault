@@ -17,6 +17,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dark Fathom Armor
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), major, very rare*  
@@ -30,3 +33,7 @@ This dark, sea-soaked suit of armor smells of brine and is covered in eldritch r
 In addition, while wearing this armor, you can use an action to cast the [[/5. Mechanics/Spells/Evards Black Tentacles.md\|Evard's black tentacles]] spell (save DC 15) from it. When cast in this way, the spell targets a 15-foot square centered on your location that does not follow you when you move. In addition, you do not need to concentrate on the spell and are immune to its effects when cast in this way. Once this property has been used, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 51*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

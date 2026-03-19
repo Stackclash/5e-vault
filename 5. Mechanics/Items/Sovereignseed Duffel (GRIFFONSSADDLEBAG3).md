@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Sovereignseed Duffel
 *Wondrous item, major, legendary*  
@@ -46,3 +49,7 @@ This seed replicates the effects of the [[/5. Mechanics/Spells/Entangle.md\|enta
 If you have a sovereignseed satchel, you can use an action to transplant one of its seeds to the duffel. If you spend at least 1 hour per day for the next 7 days tending to the seed, it takes root and is added to the sovereignseed duffel's seed options. If the transplanted seed has a saving throw, its DC is increased to 17. Only one transplanted seed can grow in the duffel at a time, which can be removed with 8 hours of work.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

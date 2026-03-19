@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Wond of Fireballs
 *Wand, rare*  
@@ -37,3 +40,7 @@ Whenever you cast the [[/5. Mechanics/Spells/Fireball.md\|fireball]] spell from 
 The wand has 7 charges. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand casts [[/5. Mechanics/Spells/Fireball.md\|fireball]], centered on you, and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Freerunner's Armor
 *Minor, common*  
@@ -24,3 +27,7 @@ subtype:
 While wearing this armor, you feel light on your feet and agile. When you make a long jump onto or alongside a wall or similar surface that isn't slippery for the first time on your turn, you can move along that wall for the length of the jump during the move. While on that surface, you can make a second jump, provided you have the movement to do so.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 85*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

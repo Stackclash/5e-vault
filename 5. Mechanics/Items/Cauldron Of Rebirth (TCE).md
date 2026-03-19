@@ -13,6 +13,9 @@ attunement-requirement:
   - druid
   - warlock
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Cauldron of Rebirth
 *Wondrous item, very rare (requires attunement by a druid or warlock)*  
@@ -26,3 +29,7 @@ As an action, you can cause the cauldron to grow large enough for a Medium creat
 If you place the corpse of a humanoid into the cauldron and cover the corpse with 200 pounds of salt (which costs 10 gp) for at least 8 hours, the salt is consumed and the creature returns to life as if by [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]] at the next dawn. Once used, this property can't be used again for 7 days.
 
 *Source: Tasha's Cauldron of Everything p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

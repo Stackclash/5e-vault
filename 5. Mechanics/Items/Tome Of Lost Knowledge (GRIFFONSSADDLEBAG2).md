@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Tome of Lost Knowledge
 *Wondrous item, cursed item, major, legendary*  
@@ -37,3 +40,7 @@ While holding the book, you can use an action to channel its hidden knowledge. W
 This book is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the book, keeping it within reach at all times. In addition, you are compelled to use this book as your spellbook. Each time you prepare a spell from another spellbook, you take psychic damage equal to the spell's level.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 176*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

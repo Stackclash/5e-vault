@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wand of Bubbles
 *Wand, minor, common*  
@@ -24,3 +27,7 @@ subtype:
 While holding this wand, you can use an action to swing it through the air and create either `dice:2d6|noform|noparens|avg` (`2d6`) bubbles up to 6 inches in diameter or `dice:1d4|noform|noparens|avg` (`1d4`) bubbles up to 3 feet in diameter. The bubbles remain until the start of your next turn and float harmlessly through the air. A bubble created by the wand magically resists bursting upon impact, but can be destroyed early by dealing any damage to it. When a bubble bursts, you can choose for it to release a faint, musical note. You choose what color the bubbles are each time you use the wand (although they are always transparent), as well as the kind of musical sound or note that's released each time, if any.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Spirit Naga
 *Wondrous item, major, very rare (requires attunement)*  
@@ -23,3 +26,7 @@ While wearing this platinum pendant, you are immune to the [[/5. Mechanics/Rules
 In addition, if you die while wearing the pendant, you immediately return to life with half your hit points. This property restores any missing body parts, neutralizes any poisons, and cures normal diseases afflicting you when you died, but has no effect if you die of old age. Once you're returned to life in this way, the amulet loses this property.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

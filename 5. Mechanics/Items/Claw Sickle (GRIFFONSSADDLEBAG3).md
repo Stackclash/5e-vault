@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Claw Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, uncommon (requires attunement by a creature cursed with lycanthropy)*  
@@ -37,3 +40,7 @@ You can benefit from this magic weapon's following properties even if you aren't
 If you're attuned to a claw sickle, you also gain a +1 bonus to any attack or damage rolls you make with any claw sickles you're holding.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

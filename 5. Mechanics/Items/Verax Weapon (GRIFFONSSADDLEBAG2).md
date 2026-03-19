@@ -24,6 +24,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Verax Weapon
 *Major, rare*  
@@ -51,3 +54,7 @@ Use the table below to choose or randomly determine what creature type's blood w
 ^creature-type
 
 *Source: The Griffon's Saddlebag, Book 2 p. 180*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

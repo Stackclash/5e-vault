@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Peregrine Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, rare*  
@@ -37,3 +40,7 @@ subtype:
 You gain a +1 bonus to attack and damage rolls made with this magic spear. When you make a ranged attack with this spear, you can speak its command word to cause the weapon to soar through the air straight toward the target and magically build momentum. Hit or miss, the spear flies back to your hand immediately after the attack. On a hit, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage for every 5 feet the spear flew before hitting it, up to a maximum of `dice:12d4|noform|noparens|avg` (`12d4`) extra damage. This property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Winter's Rest
 *Potion, rare*  
@@ -24,3 +27,7 @@ This potion is constantly cool to the touch and appears to have snowflakes float
 If you unwillingly drink this potion, you may make a DC 13 Constitution saving throw to avoid being encased in the ice block, taking only `dice:3d6|noform|noparens|avg` (`3d6`) cold damage instead.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

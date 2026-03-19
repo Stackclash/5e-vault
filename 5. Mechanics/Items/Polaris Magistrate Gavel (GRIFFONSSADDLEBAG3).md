@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Polaris Magistrate Gavel
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement by a lawful creature)*  
@@ -41,3 +44,7 @@ The gavel has 3 charges and regains all expended charges daily at dawn. As an ac
 Creatures you hit with this weapon have disadvantage on saving throws against spells you cast from the gavel until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

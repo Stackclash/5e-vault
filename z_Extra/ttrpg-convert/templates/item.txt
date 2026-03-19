@@ -250,5 +250,5 @@ item_recharge: none
 *Source: {resource.source}*
 
 ```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
+await dv.view("views/itemPrice", \{current: dv.current()\})
 ```

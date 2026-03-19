@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Hurricane Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, very rare (requires attunement)*  
@@ -41,3 +44,7 @@ In addition, you can use the lance to cast the [[/5. Mechanics/Spells/Thunderwav
 You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 78*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

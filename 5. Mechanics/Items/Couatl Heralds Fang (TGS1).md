@@ -25,6 +25,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Couatl Herald's Fang
 *Major, rare (requires attunement)*  
@@ -38,3 +41,7 @@ This vibrant sword carries with it some of the properties of the [[/5. Mechanics
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 48*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

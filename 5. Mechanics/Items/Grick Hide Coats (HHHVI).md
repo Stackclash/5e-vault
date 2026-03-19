@@ -15,6 +15,9 @@ rarity: varies
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Grick Hide Coats
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]])*  
@@ -33,3 +36,7 @@ If this is the rare version of this armor, you also gain a +1 bonus to AC while 
 - [[/5. Mechanics/Items/Alpha Grick Hide Coat (HHHVI).md\|Alpha Grick Hide Coat]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

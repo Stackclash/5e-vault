@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wind and Whirl
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
@@ -39,3 +42,7 @@ You gain a +1 bonus to attack and damage rolls made with these magic weapons, wh
 As an action, you can speak the scimitars' command words and throw the two swords at a point you can see within 60 feet of you. The two weapons spin wildly and create a sudden whirlwind in a 15-foot-radius, 30-foot-high cylinder centered on the point. A target caught in the whirlwind's area must make a DC 15 Strength saving throw. On a failed save, a target takes `dice:6d6|noform|noparens|avg` (`6d6`) bludgeoning damage and is flung up 20 feet away from the point in a random direction and knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If a thrown target strikes an object, such as a wall or floor, the target takes `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 15 Dexterity saving throw or take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. On a successful save, a target takes half as much bludgeoning damage and isn't flung away or knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. The scimitars fly back to your hands immediately after the effect. Once this property of the scimitars has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 190*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ weight: 6
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frefil's Scrummy Trifection
 *Wondrous item, minor, common*  
@@ -24,3 +27,7 @@ This chocolate cake is richly flavored with merry berries and goodberries. It we
 The cake remains fresh and delicious for three years, even when subjected to harsh temperatures or poor storage conditions, such as the inside of an adventurer's bag.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

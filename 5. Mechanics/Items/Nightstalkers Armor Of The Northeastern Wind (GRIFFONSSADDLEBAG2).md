@@ -20,6 +20,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nightstalker's Armor of the Northeastern Wind
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, rare (requires attunement)*  
@@ -48,3 +51,7 @@ While wearing this armor, you can use a bonus action to speak its command word t
 Once this property has been used, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

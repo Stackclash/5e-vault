@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quickdraw
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare*  
@@ -36,3 +39,7 @@ This curious contraption is in fact a small, surreptitious hand crossbow that ca
 In order to use this crossbow, you must also wear two rings on adjacent fingers. One ring carries a thin but flexible string that connects to the firing mechanism of the crossbow. The second ring is equipped with a very small but functional blade that's used to sever the first's string. When the string is severed, the crossbow fires. It takes 1 minute to reset the crossbow and rings.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 102*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

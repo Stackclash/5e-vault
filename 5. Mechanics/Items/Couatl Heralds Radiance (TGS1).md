@@ -22,6 +22,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Couatl Herald's Radiance
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a spellcaster of good alignment)*  
@@ -42,3 +45,7 @@ The staff regains `dice:1d3+2|noform|noparens|avg` (`1d3 + 2`) expended charges 
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 49*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Voidknight's Maul
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), very rare (requires attunement by a paladin)*  
@@ -37,3 +40,7 @@ The crystalline head of this magic hammer has been bathed in the latent magic of
 Whenever you use your Divine Smite feature against a creature, you can choose for it to deal psychic damage instead of radiant damage. Furthermore, when you expend a spell slot of 2nd level or higher to use your Divine Smite, you can force the target of the attack to make a Constitution saving throw against your paladin spell save DC. On a failed save, the creature is affected by the levitate spell. This version of the spell can affect multiple creatures at once, though you must still concentrate on the spell as normal. If your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] on the spell ends, any affected creature gently floats back to the ground. Otherwise, you can use your action to move one or multiple targets affected by the spell vertically, up to 20 feet, dividing the movement between them. Each affected creature must remain within the spell's range.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

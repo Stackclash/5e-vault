@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of the Demon Knight
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), very rare (requires attunement by an evil creature)*  
@@ -40,3 +43,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Wiel
 Whenever you score a critical hit, roll a `dice:d6|noform|noparens|avg` (`d6`) on the Demons row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). Demonic runes appear on the ground and the rolled servitor appears from the shadows. This servitor fights for you and obeys your commands. They return to the Abyss after 1 minute or if they drop to 0 hit points. The demonic eye on the sword's cross-guard focuses intently on any lawful good creature within 30 feet.
 
 *Source: Strongholds and Followers p. 263*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

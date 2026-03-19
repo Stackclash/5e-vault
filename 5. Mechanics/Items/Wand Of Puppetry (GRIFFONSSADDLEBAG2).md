@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Puppetry
 *Wand, major, very rare (requires attunement by a spellcaster)*  
@@ -47,3 +50,7 @@ Alternatively, you can expend 5 charges to cast the [[/5. Mechanics/Spells/Domin
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand becomes nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 183*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

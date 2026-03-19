@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sirensong Silencer
 *Wondrous item, major, uncommon*  
@@ -20,3 +23,7 @@ tier: major
 While wearing the cuff, you have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]]. In addition, tapping the ear cuff twice deafens you, although you can still faintly hear the sound of the ocean (no action required). Tapping the cuff twice again allows you to hear normally once more.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 117*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

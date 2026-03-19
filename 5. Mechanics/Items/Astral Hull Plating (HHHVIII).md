@@ -9,6 +9,9 @@ aliases:
   - Astral Hull Plating
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Astral Hull Plating
 *Wondrous item, very rare*  
@@ -25,3 +28,7 @@ A ship that has been appropriately outfitted by this plating gains a +1 bonus to
 For a ship to be considered appropriately outfitted, two scales are required for every 10 feet of ship length: one on each side.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 82*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

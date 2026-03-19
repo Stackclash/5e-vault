@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Monocle of Clarity
 *Wondrous item, major, rare*  
@@ -32,3 +35,7 @@ While looking through this filter, you have darkvision out to a range of 60 feet
 When gazing through this filter, you see invisible creatures and objects as if they were visible.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 89*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

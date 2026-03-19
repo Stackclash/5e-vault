@@ -18,6 +18,9 @@ rarity: rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of the Forest Sentinel
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), rare (requires attunement)*  
@@ -33,3 +36,7 @@ Despite being made entirely of bark, this set of armor possesses the same attrib
 In addition, while wearing this armor, you may cast the [[/5. Mechanics/Spells/Tree Stride.md\|tree stride]] spell once per day without requiring any spell components or spell slots.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 54*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

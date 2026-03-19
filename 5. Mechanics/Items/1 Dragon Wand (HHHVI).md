@@ -16,6 +16,9 @@ rarity: rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +1 Dragon Wand
 *Wand, rare (requires attunement by a spellcaster)*  
@@ -30,3 +33,7 @@ If that spell attack hits, you also deal (1) extra damage dice of that damage ty
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

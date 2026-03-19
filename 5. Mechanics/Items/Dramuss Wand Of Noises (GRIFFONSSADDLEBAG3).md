@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Dramus's Wand of Noises
 *Wand, major, uncommon*  
@@ -32,3 +35,7 @@ You point the wand at a non-living object that you can see within 30 feet of you
 You cast the [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell from the wand (save DC 13).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

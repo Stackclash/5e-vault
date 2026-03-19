@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chime of Opening
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ This hollow metal tube measures about 1 foot long and weighs 1 pound. You can st
 The chime can be used ten times. After the tenth time it cracks and becomes useless.
 
 *Source: Dungeon Master's Guide p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

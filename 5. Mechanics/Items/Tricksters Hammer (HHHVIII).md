@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Trickster's Hammer
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), very rare (requires attunement)*  
@@ -45,3 +48,7 @@ You have a +2 bonus to attack and damage rolls made with this weapon. When you m
 ^effect
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rustfern
 *Herb, rare*  
@@ -31,3 +34,7 @@ A particularly pesky variety of fern, easily distinguished by the copper tone of
 This herb contains `dice:1d4|noform|noparens|avg` (`1d4`) charges. As an action, you use a charge to blow some of the dust of this herb onto a nonmagical, ferrous metal object within 5 feet of you. If the object isn't being worn or carried, it destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 14 Dexterity saving throw to avoid the dust. If the object touched is either metal armor or a metal shield being worn or carried, it takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed.
 
 *Source: Hamund's Herbalism Handbook p. 29*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

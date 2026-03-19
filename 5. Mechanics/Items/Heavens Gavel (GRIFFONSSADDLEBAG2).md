@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Heaven's Gavel
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, legendary (requires attunement by a creature of good alignment)*  
@@ -37,3 +40,7 @@ This platinum weapon was a gift from a divine dragon to one of her loyal knights
 The maul has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. When you hit a creature no more than one size larger than you with the maul, you can expend up to 3 of its charges as part of the attack. When you do, the target must make a DC 17 Strength saving throw. On a failed save, a creature is launched 10 feet away from you for each expended charge, or half as far on a successful one. If the target hits a solid object by being launched in this way, it takes `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet it had left to travel from the impact. If the solid object is a creature, that creature takes the same amount of bludgeoning damage from the impact as the target of the attack.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 101*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

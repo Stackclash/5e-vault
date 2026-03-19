@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Corsage of the Hidden Thorn
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ You can remove a rose from the corsage as if you were unsheathing a weapon. When
 The corsage regrows `dice:1d4|noform|noparens|avg` (`1d4`) missing roses daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

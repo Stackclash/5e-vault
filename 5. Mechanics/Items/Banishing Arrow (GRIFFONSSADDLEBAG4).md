@@ -14,6 +14,9 @@ rarity: very-rare
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Banishing Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  
@@ -30,3 +33,7 @@ The arrow loses its magic once it banishes a creature in this way.
 Other types of magic ammunition of this kind exist, such as banishing bolts meant for a crossbow, though arrows are most common.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

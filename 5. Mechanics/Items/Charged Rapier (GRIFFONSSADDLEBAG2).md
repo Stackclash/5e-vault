@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Charged Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  
@@ -39,3 +42,7 @@ If you are proficient with this weapon, when you move at least 20 feet in a stra
 If there are any creatures in the line of lightning, roll a `dice:d20|noform|noparens|avg` (`d20`) and add 9 to the roll. If the total of the roll meets or exceeds the AC of any creature in the line, that creature takes `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) lightning damage as you pierce through it as the bolt of lightning.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 58*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Contingency Band
 *Ring, major, rare*  
@@ -26,3 +29,7 @@ Each of this leather ring's three braided bands bears the design of a dark, wind
 Immediately after you take damage while wearing the ring, you can use your reaction to speak its command word and gain the healing effects of one of the ring's consumed potions (your choice). The consumed potion is then lost, and one of the ring's serpents becomes dark once more.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

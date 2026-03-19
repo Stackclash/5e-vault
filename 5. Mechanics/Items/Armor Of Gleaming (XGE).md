@@ -30,6 +30,9 @@ type: armor
 subtype:
   - heavy
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of Gleaming
 *Minor, common*  
@@ -38,3 +41,7 @@ subtype:
 This armor never gets dirty.
 
 *Source: Xanathar's Guide to Everything p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

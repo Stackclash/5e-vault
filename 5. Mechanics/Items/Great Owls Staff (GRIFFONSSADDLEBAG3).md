@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Great Owl's Staff
 *Staff, weapon, major, uncommon (requires attunement by a spellcaster)*  
@@ -42,3 +45,7 @@ The staff has 5 charges. While holding the staff, you can use an action to expen
 The staff regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. If you expend the staff's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff vanishes in a puff of downy feathers and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

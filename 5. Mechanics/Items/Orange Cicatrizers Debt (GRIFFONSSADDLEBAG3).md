@@ -15,6 +15,9 @@ attunement-requirement:
   - higher
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Orange Cicatrizer's Debt
 *Wondrous item, major, legendary (requires attunement by a creature with a wisdom score of 17 or higher)*  
@@ -52,3 +55,7 @@ Each friendly creature within 30 feet of you regains a number of hit points equa
 The Orange Cicatrizer's debt compels its wearer to treat and tend to those who are injured the best way they know how. While attuned to the necklace, you gain the following flaw: "I will mend the flesh together by any means necessary." In addition, if you are attuned to the necklace for 24 consecutive hours, your commitment to duty drives you to hyperfocus your craft onto one person. You or your GM determine who your "eternal patient" is and you put their healing needs before all. You can't attune to the Red Queen's burden or the Violet King's promise. If you are already attuned to either of them, your attunement to it immediately ends once this effect is extended to you. The first creature you meet who is attuned to the Red Queen's burden becomes your sovereign leader, regardless of who you previously considered it to be. You become [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by them and obey their commands to the best of your ability. If you find the Red Queen's burden or the Violet King's promise without an owner, you are compelled to protect it with your life until a rightful owner is found. These effects can be removed with a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but not while you are attuned to the necklace.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

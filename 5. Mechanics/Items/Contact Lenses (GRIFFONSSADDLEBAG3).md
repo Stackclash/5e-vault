@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Contact Lenses
 *Wondrous item, minor, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ These small glass lenses fit comfortably over your eyes, becoming [[/5. Mechanic
 In addition, while maintaining eye contact with a creature within 120 feet of you, both you and that creature can speak telepathically with each other. To understand each other, you each must speak mentally in a language you share.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

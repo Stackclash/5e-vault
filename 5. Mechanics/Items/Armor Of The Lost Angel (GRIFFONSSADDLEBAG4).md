@@ -18,6 +18,9 @@ rarity: legendary
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of the Lost Angel
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), cursed item, legendary (requires attunement)*  
@@ -38,3 +41,7 @@ When you use a bonus action to extend the wings, you create a burst of hellish o
 This armor is cursed, and becoming attuned to it extends the curse to you. While you're cursed, you gain the following flaw: "You can always hear a voice whispering in your mind, giving you extreme perspectives on matters at hand. The perspectives are evil if your alignment is good, good if your alignment is evil, or evil and good if your alignment is neutral. You find it hard to immediately dismiss the voices."
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frost Giant Fork
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), cursed item, major, rare (requires attunement)*  
@@ -42,3 +45,7 @@ This massive utensil comes from the table of a [[/5. Mechanics/Bestiary/Giant/Fr
 While you're attuned to this weapon, your hunger is almost insatiable. You're overwhelmingly compelled to eat twice the amount of food you normally would, and incur 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] if you go a day without eating enough.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 70*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

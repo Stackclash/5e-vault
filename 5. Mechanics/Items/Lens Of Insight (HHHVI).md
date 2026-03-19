@@ -9,6 +9,9 @@ aliases:
   - Lens of Insight
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lens of Insight
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ While wearing this lens, you may target one creature you can see within 30 feet 
 Once this ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

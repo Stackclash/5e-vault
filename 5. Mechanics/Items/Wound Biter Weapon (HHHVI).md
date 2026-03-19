@@ -22,6 +22,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wound Biter Weapon
 *Rare (requires attunement)*  
@@ -32,3 +35,7 @@ When you make a successful hit with this weapon on a creature that is not either
 Any creature adjacent to the wounded target can take an action to staunch the wound with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check. The wound also closes if the target receives magical healing.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

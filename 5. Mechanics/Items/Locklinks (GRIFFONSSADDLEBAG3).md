@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Locklinks
 *Wondrous item, minor, uncommon*  
@@ -28,3 +31,7 @@ You cast the [[/5. Mechanics/Spells/Knock.md\|knock]] spell from the cufflinks w
 You flick your wrist to cause a matching set of [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to appear in that hand. The tools disappear again if you are no longer holding them.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

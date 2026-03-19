@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sword of Life Stealing
 *Major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ When you attack a creature with this magic weapon and roll a 20 on the attack ro
 > Note: According to the SRD, it is an extra `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
 *Source: Dungeon Master's Guide p. 206. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

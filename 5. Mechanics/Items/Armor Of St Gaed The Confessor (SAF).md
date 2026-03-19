@@ -17,6 +17,9 @@ rarity: unknown\Magic
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of St. Gaed the Confessor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]])*  
@@ -32,3 +35,7 @@ This set of magic plate mail covered in silver filigree grants +1 Armor Class to
 The spirits of the Blue Dragonflight will fight your enemies, but if ordered to do anything other than fight in a battle against an enemy army, they stand around looking confused, wondering what's happened to their bodies and the world they once knew.
 
 *Source: Strongholds and Followers p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

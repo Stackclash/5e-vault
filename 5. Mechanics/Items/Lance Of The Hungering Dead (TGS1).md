@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lance of the Hungering Dead
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ This magical, gruesome lance can drain the life force from another creature. The
 You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 83*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

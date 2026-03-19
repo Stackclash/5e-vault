@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Efreeti Bottle
 *Wondrous item, major, very rare*  
@@ -33,3 +36,7 @@ The first time the bottle is opened, the DM rolls to determine what happens.
 ^effect
 
 *Source: Dungeon Master's Guide p. 167. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

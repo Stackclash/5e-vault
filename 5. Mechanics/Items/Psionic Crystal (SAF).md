@@ -10,6 +10,9 @@ aliases:
   - Psionic Crystal
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Psionic Crystal
 *Wondrous item, rare (requires attunement)*  
@@ -29,3 +32,7 @@ Chipped off the hide of a gemstone dragon, this crystal grants you psionic abili
 ^crystal-powers-by-size
 
 *Source: Strongholds and Followers p. 262*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

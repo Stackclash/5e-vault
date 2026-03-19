@@ -24,6 +24,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 50
+item_recharge: dawn
 ---
 # Staff of the Magi
 *Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -63,3 +66,7 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 ^distance-from-origin-damage
 
 *Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

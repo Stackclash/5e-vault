@@ -20,6 +20,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Signet Rings of the Fey Court
 *Ring, major, very rare (requires attunement by an elf, half-elf, or other fey creature)*  
@@ -39,3 +42,7 @@ Alternatively, you can expend any 2 charges from the rings as a reaction when yo
 Once a ring has no remaining charges, the small landscape adorning the top of it withers until it regains its charges.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 116*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

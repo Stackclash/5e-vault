@@ -27,6 +27,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonkin Weapon +1
 *Major, rare (requires attunement by a dragonborn)*  
@@ -38,3 +41,7 @@ These weapons are made of a scaly metal that radiates draconic elements. You gai
 The color of the weapon's metal changes to reflect your own natural colors as a dragonborn once you attune to it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

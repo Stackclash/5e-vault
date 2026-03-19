@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Jingle Berries
 *Herb, common*  
@@ -35,3 +38,7 @@ This herb contains `dice:1d4|noform|noparens|avg` (`1d4`) charges. As an action,
 
 
 *Source: Hamund's Herbalism Handbook p. 20*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

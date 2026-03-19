@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 20
+item_recharge: dawn
 ---
 # H'rethi Soul Scepter
 *Rod, major, legendary (requires attunement by a spellcaster)*  
@@ -52,3 +55,7 @@ While holding the rod, you can use an action to expend 3 charges to summon a san
 The elemental remains as long as you concentrate (as if concentrating on a spell), up to a maximum of 1 hour, and disappears early if it drops to 0 hit points. It is friendly to you and your companions for the duration. Roll initiative for the elemental, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 96*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

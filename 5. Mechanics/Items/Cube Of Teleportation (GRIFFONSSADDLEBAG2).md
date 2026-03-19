@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Cube of Teleportation
 *Wondrous item, minor, rare*  
@@ -26,3 +29,7 @@ The cube has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expend
 Alternatively, you can hold the stamp side of the cube on the ground and focus on it for 1 minute (as if concentrating on a spell). If you hold and focus on the cube for the full duration, it magically applies its unique sigil sequence onto the ground in a 10-foot-diameter [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]], provided that there's enough space to do so. This circle remains for 1 hour, and can only be used as a destination circle for the duration. Once this property has been used, it can't be used again until the next dawn, unless you use an action to expend 1 of the cube's charges to generate a new sigil sequence and regain the use of this property. Once you've placed a unique [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] in this way, you can use this side of the cube as if it were a normal sigil sequence recording for the generated circle.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 67*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

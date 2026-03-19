@@ -12,6 +12,9 @@ weight: 3
 attunement: false
 rarity: artifact
 tier: major
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # The Griffon's Saddlebag
 *Wondrous item, major, artifact*  
@@ -62,3 +65,7 @@ If the bag's wearer or allies fail to fulfill *Magic Courier* quests, it may sto
 While there is no way to permanently destroy the saddlebag, piercing it with an artifact returns it to its place of origin for repair before it's returned to the multiverse in a new location. Placing a *Griffon's Saddlebag* inside the extradimensional space created by another *Griffon's Saddlebag* returns both items to their place of origin and sends all the items stored within them to the griffon's forge on the Astral Plane.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 151*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

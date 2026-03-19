@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Maul of the Guiding Star
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare (requires attunement)*  
@@ -33,3 +36,7 @@ subtype:
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. The maul has 4 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) expended charges daily at dawn. Once on each of your turns when you hit a target with this weapon, you can choose to expend 1 of the weapon's charges. When you do, the target becomes dusted in glimmering starlight, which lasts until the end of your next turn. While glimmering in this way, the next attack roll against that target is made with advantage. Hit or miss, the starlight condenses around the target and then erupts in a flare of astral energy. The target takes `dice:4d6|noform|noparens|avg` (`4d6`) radiant damage if the attack hits, or half as much damage if it misses. Either way, the starlight then ends, and the target is no longer glimmering. This radiant damage is separate from the triggering attack's damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

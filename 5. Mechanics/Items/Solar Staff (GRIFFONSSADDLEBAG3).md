@@ -27,6 +27,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Solar Staff
 *Staff, weapon, major, very rare (requires attunement by a cleric, druid, sorcerer, or wizard)*  
@@ -55,3 +58,7 @@ While holding the staff, you can use an action to expend 1 of its charges to cau
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff glows brilliant white before it turns to dust and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -26,6 +26,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ballista Prosthesis
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement by a creature missing an arm, forearm, or hand)*  
@@ -43,3 +46,7 @@ The prosthesis attaches to your arm at the elbow or the shoulder, and it can't b
 As a bonus action, you can retract the crossbow's limbs to the side of your hand or extend them from there. While retracted, the crossbow is concealed and functions identically to a normal hand. A creature can use an action to make a DC 13 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check, identifying its crossbow components and determining that it's a concealed weapon on a success. While extended, you can use the weapon as if you were holding it, and you can't use that hand for other purposes.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 41*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

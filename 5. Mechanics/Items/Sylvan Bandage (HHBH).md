@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Sylvan Bandage
 *Herb, rare*  
@@ -30,3 +33,7 @@ An ubiquitous, blood-red moss that is found growing on the shaded sides of trees
 When you use this herb during a short rest, you regain any number of hit die you spent to recover hit points during that rest.
 
 *Source: Hamund's Herbalism Handbook p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

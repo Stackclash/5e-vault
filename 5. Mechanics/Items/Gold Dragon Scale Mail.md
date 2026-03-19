@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gold Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  
@@ -32,3 +35,7 @@ Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons
 Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest gold dragon within 30 miles of you. This special action can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ rarity: very-rare
 type: gear
 subtype:
   - requires-installation
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Altar of Unyielding Faith
 *Wondrous item, requires installation, very rare*  
@@ -22,3 +25,7 @@ subtype:
 Install this altar in your temple and choose a row on the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). Whenever you roll on this chart, you may choose the chart entry one higher than the result you rolled.
 
 *Source: Strongholds and Followers p. 246*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

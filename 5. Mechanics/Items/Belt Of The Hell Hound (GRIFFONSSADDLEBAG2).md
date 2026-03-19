@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Belt of the Hell Hound
 *Wondrous item, cursed item, major, rare (requires attunement)*  
@@ -28,3 +31,7 @@ In addition, while wearing this belt, you can use an action to release a hellish
 Once you wear this belt, you can't remove it unless you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While wearing the belt, you must eat twice the normal amount of food each day (a minimum of 2 pounds) to avoid [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. In addition, while wearing the belt, there is a cumulative 10 percent chance when you die and again at the end of each hour you remain dead that you immediately immolate and turn to ash.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 44*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Fire Fire!
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  
@@ -38,3 +41,7 @@ You can expend 1 of the crossbow's charges as an action to cause the ember to sp
 The crossbow regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the magical ember inside the crossbow dies, and the weapon becomes a nonmagical crossbow.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

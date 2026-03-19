@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heartstopper Weed
 *Herb, rare*  
@@ -35,3 +38,7 @@ After preparing this herb, you gain an intense calm for the next hour. During th
 
 
 *Source: Hamund's Herbalism Handbook p. 18*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

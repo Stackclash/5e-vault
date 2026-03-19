@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glory
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), very rare (requires attunement by a good creature)*  
@@ -36,3 +39,7 @@ You gain a +2 bonus to attack and damage rolls made with this weapon, and may ch
 Whenever you score a critical hit with Glory, roll a `dice:d6|noform|noparens|avg` (`d6`) on the Celestial Court row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). Radiant light floods the battlefield and an angelic chorus begins to play. When the light dissipates, the rolled servitor stands next to you. This servitor fights for you and obeys your commands. They return to their plane after 1 minute or if they drop to 0 hit points.
 
 *Source: Strongholds and Followers p. 260*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

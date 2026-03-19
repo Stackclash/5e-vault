@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Life's Edge
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement by a paladin)*  
@@ -45,3 +48,7 @@ When another creature that you can see within your aura magically regains hit po
 You can use an action to spend 40 hit points from your Lay on Hands pool to cast the [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] spell, which has the following changes. Whenever a friendly creature enters a space within 10 feet of the guardian or starts its turn there, it can choose to gain up to 20 temporary hit points. If you have 17 or more levels in the paladin class, the radius of this effect increases to 30 feet. When the combined number of hit points granted as temporary hit points or dealt as radiant damage reaches 60, the guardian vanishes.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

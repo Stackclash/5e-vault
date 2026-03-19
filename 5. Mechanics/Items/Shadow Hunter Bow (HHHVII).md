@@ -20,6 +20,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Hunter Bow
 *Very rare*  
@@ -28,3 +31,7 @@ subtype:
 This ebony black bow is crafted from the dark spine of a yeth hound, and arrows fired from this bow hunt down their prey like the creature it was crafted from. You have a +1 bonus to attack and damage rolls made with this weapon. Arrows fired from this bow are considered magical and ignore half cover and three-quarters cover.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

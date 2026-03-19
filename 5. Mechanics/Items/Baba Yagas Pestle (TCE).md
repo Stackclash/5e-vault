@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 12
+item_recharge: dawn
 ---
 # Baba Yaga's Pestle
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), artifact (requires attunement)*  
@@ -35,3 +38,7 @@ The pestle is a 6-inch-long, worn wooden tool. Once during your turn while you a
 The pestle has 12 charges. When you hit with a melee attack using the pestle, you can expend up to 3 of its charges to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) force damage for each charge expended. The pestle regains all expended charges daily at dawn.
 
 *Source: Tasha's Cauldron of Everything p. 121*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

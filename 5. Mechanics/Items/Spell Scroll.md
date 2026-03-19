@@ -13,6 +13,9 @@ rarity: varies
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Spell Scroll
 *Scroll*  
@@ -32,3 +35,7 @@ subtype:
 - [[/5. Mechanics/Items/Spell Scroll 9th Level.md\|Spell Scroll (9th Level)]]
 
 *Source: Dungeon Master's Guide p. 200*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

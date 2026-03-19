@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quiver of Elemental Chaos
 *Wondrous item, major, legendary (requires attunement)*  
@@ -63,3 +66,7 @@ This special piece of sticky ammunition gives off a faint, alchemical odor. This
 This special piece of black ammunition feels smooth like coal to the touch and releases a faint wisp of smoke. This ammunition duplicates the effect of the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell (2nd-level version) at the point of impact, with the exception that this fog is pitch black.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

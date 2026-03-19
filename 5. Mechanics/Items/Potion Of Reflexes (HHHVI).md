@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Reflexes
 *Potion, very rare*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you gain one reaction on every turn in a combat. This effect lasts for 1 minute, after which you must succeed on a DC 15 Constitution saving throw or gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. This potion is completely clear except for one cloudy grey portion that darts around in the liquid towards anything holding the bottle.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Inkbeetle
 *Wondrous item, major, uncommon*  
@@ -26,3 +29,7 @@ The beetle always knows which direction is north. When placed on a piece of parc
 Attaching one [[/5. Mechanics/Items/Bands Of The Found And Lost (TGS1).md\|Band of the Found and Lost]] to the beetle while you wear the other allows the beetle to move and trace your movements in this way from afar so long as you are both on the same plane of existence.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 45*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

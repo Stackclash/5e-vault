@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Names
 *Ring, minor, common*  
@@ -26,3 +29,7 @@ A thin strip of parchment lines the inside of this brass signet ring. When you s
 Once a name has been written on the parchment, this property of the ring can't be used again until the next dawn, at which time the name disappears from the ring's parchment.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

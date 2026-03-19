@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pouch of Mephit Marbles
 *Wondrous item, minor, uncommon*  
@@ -34,3 +37,7 @@ You can use an action to throw a marble into an unoccupied space that you can se
 The mephit remains for 10 minutes or until it's reduced to 0 hit points. If you throw another marble while a summoned mephit remains, there is a 50 percent chance that the new mephit is hostile to you and doesn't obey your commands.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

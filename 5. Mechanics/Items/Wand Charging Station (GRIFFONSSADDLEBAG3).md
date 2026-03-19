@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Wand Charging Station
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ If you roll a 4 on both d4s, the wand's maximum number of charges increases by 1
 If having an extra charge would potentially allow you to cast a spell from the wand at a level higher than 9th, the spell can nevertheless not exceed 9th level.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

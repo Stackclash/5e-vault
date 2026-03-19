@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Pomade of Ten Thousand Styles
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This canister of waxy pomade has magical properties, allowing you to change your
 Once you've used this product in your hair, it returns to its normal appearance after you finish a long rest. Hair produced by the pomade that's been cut off turns to dust after 24 hours. If you use the pomade every day for 7 days to make the same changes, the changes become permanent.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

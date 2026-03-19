@@ -14,6 +14,9 @@ attunement-requirement:
   - monk
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Zafu of the Wandering Mind
 *Wondrous item, major, rare (requires attunement by a monk)*  
@@ -25,3 +28,7 @@ This soft, elaborately stitched pillow set focuses the intensity of your meditat
 In addition, this pillow has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While meditating on the pillows, you can expend 1 of their charges to cast the [[/5. Mechanics/Spells/Arcane Eye.md\|arcane eye]] spell, without breaking your meditation. You lose concentration on this spell when cast in this way if you end your meditation.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 145*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

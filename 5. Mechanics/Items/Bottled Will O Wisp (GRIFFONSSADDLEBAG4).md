@@ -9,6 +9,9 @@ aliases:
   - Bottled Will-o'-Wisp
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bottled Will-o'-Wisp
 *Wondrous item, uncommon*  
@@ -26,3 +29,7 @@ If the wisp's attack roll misses the target by 5 or more, there is a 50 percent 
 When a wisp becomes untethered from the trinket in the bottle or if the trinket is removed from it, the trinket immediately turns to ash.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Healer's Voice
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Healer's Voice
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This silver and gold necklace hums with a healing energy when you speak certain 
 In addition, whenever you make an ability check to calm, heal, or otherwise soothe another creature, you can roll a `dice:d4|noform|noparens|avg` (`d4`) and add it to the total. Once this property of the necklace has been used, it can't be used again until you or another creature has cast [[/5. Mechanics/Spells/Healing Word.md\|healing word]] or [[/5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] while wearing the necklace.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

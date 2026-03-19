@@ -13,6 +13,9 @@ rarity: common
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Torchlight
 *Wand, common*  
@@ -24,3 +27,7 @@ This wooden wand is twisted into a torch-like shape. Its wood is charred at its 
 The wand has 3 charges and regains all expended charges daily at dawn. While holding the wand, you can use an action to expend 1 of its charges to cast the light spell from it (save DC 10). The light appears warm and fiery; the effect ends early if the wand is used to cast the spell again.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

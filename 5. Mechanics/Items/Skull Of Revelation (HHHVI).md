@@ -9,6 +9,9 @@ aliases:
   - Skull of Revelation
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Skull of Revelation
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This skull has a small black candle embedded in its crown. While this candle is 
 The candle has a duration of 1 hour. Once this duration has expired, the candle must be replaced with another candle that costs 50 gp.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 141*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

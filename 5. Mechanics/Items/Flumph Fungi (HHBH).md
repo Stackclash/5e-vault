@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Flumph Fungi
 *Herb, rare*  
@@ -30,3 +33,7 @@ Featuring two small bulbs growing from the top of its flat, wide cap, this mushr
 After using this herb, you gain a greater awareness and empathy for the people around you for the next 4 hours. During this time, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) checks to ascertain the emotional state of humanoids you interact with.
 
 *Source: Hamund's Herbalism Handbook p. 14*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

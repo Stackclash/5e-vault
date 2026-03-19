@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spiker and Striker (warhammer)
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), rare (requires attunement)*  
@@ -36,3 +39,7 @@ This warhammer and nail-like dagger share a magical bond. Despite being a pair o
 When you hit a target with Spiker (the dagger), you can choose to leave the weapon embedded in the target. The first time you hit that target using Striker (the warhammer) while the dagger is embedded in it, the target takes an extra `dice:1d12|noform|noparens|avg` (`1d12`) piercing damage from the attack. The dagger then magically returns to your hand. It returns early if you don't deal this extra damage before the end of your next turn or if a creature uses an action to remove it from the target. If you don't have a free hand when Spiker returns to you, it lands at your feet instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

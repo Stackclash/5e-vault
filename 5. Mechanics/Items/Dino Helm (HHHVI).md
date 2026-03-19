@@ -9,6 +9,9 @@ aliases:
   - Dino-Helm
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dino-Helm
 *Wondrous item, uncommon*  
@@ -18,3 +21,7 @@ rarity: uncommon
 This helmet is perfectly structured to redirect force away from whatever is contained within, while still delivering devastating strikes when used offensively. While wearing this helmet, you may use the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action to headbutt a creature within 5 feet of you. If you're able to make multiple attacks with the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, this attack replaces one of them. When you headbutt a creature, you make a contested Strength check against them. If you win, that creature is [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the end of your current turn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

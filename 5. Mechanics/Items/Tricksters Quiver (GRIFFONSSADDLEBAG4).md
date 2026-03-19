@@ -10,6 +10,9 @@ aliases:
   - Trickster's Quiver
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Trickster's Quiver
 *Wondrous item, rare (requires attunement)*  
@@ -41,3 +44,7 @@ You can use this property of the quiver once per turn. A transformed arrow is de
 Other types of ammunition containers of this kind exist, such as a trickster's bolt case meant for crossbow bolts, though quivers are most common.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

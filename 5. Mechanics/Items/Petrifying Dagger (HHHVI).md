@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Petrifying Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), uncommon (requires attunement)*  
@@ -34,3 +37,7 @@ If this dagger strikes any non-living organic matter that is smaller than half a
 If a tiny creature is hit by this dagger, they must succeed on a DC 11 Constitution saving throw against being magically [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]]. On a failed save, the creature begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] for 24 hours.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

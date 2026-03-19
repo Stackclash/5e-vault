@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Solacesteel Requiem
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ This weapon is made of sanctified mourningsteel. Whenever you hit a target with 
 In addition, while holding the pike, you can use a bonus action to speak its command word to release an empowering wave of energy. Each creature of your choice within 10 feet of you (including yourself) immediately gains `dice:1d10+10|noform|noparens|avg` (`1d10 + 10`) temporary hit points. These hit points remain until the end of your next turn, during which time each affected creature has advantage on any attack roll or Wisdom saving throw it makes. If you have 17 or more levels in the paladin class, the radius of this wave increases to 30 feet. Once you use this property, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

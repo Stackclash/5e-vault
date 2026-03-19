@@ -10,6 +10,9 @@ aliases:
   - Amulet of Telepathic Control
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of Telepathic Control
 *Wondrous item, very rare (requires attunement)*  
@@ -24,3 +27,7 @@ While wearing this amulet, you gain the following abilities:
 - You may cast the [[/5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] spell without requiring any components or using any spell slots. Once this ability has been used once, it cannot be used again until the next dawn.  
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 53*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

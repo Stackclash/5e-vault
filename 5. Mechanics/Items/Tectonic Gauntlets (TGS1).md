@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: artifact
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Tectonic Gauntlets
 *Wondrous item, cursed item, major, artifact (requires attunement)*  
@@ -49,3 +52,7 @@ he gauntlets have the following random properties:
 The gloves can only be destroyed in the depths of the crystalline mines of Durhun on the Elemental Plane of Earth where they were first created.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 150*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

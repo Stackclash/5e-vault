@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Sloth
 *Potion, rare*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you become overwhelmed with feelings of sluggishness and laziness for the next 10 minutes. While under the effects of this potion, you are unable to take [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action, and whenever any other action on your turn, you must succeed on a DC 14 Wisdom saving throw or waste that action. The bottom of this brown potion contains a sediment that never moves no matter how much the bottle is shaken.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Gorgon Potion
 *Potion, minor, rare*  
@@ -26,3 +29,7 @@ This potion contains trace amounts of gorgon blood. When you drink this potion, 
 While under the effects of the potion, you can use an action to exhale a plume of green vapor from you in a 15-foot cone. When you do, the potion's effects on you end, and both you and any other creature within the area of the vapor must make a DC 13 Constitution saving throw. On a failed save, a creature begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. The [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature must make another DC13 Constitution saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] for 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

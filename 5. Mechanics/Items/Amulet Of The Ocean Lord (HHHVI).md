@@ -10,6 +10,9 @@ aliases:
   - Amulet of the Ocean Lord
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 9
+item_recharge: dawn
 ---
 # Amulet of the Ocean Lord
 *Wondrous item, legendary (requires attunement)*  
@@ -25,3 +28,7 @@ This item has 9 charges. While wearing this amulet, you may spend an action and 
 This item regains `dice:1d8|noform|noparens|avg` (`1d8`) charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 119*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

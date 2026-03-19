@@ -10,6 +10,9 @@ aliases:
 weight: 10
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hidey Horse
 *Wondrous item, rare*  
@@ -52,3 +55,7 @@ While there isn't anything inside the metal horse, you can use an action to spea
 The horse is a magic object with 30 hit points and resistance to all damage. It's immune to poison and psychic damage, although the creatures inside the horse can still be affected by certain area effects, such as a stinking cloud, at the GM's discretion. If the horse is reduced to 0 hit points, it falls over, exposing everything within it and automatically begins to collapse into the box. When this happens, it can't be transformed into the horse again until 24 hours have passed, at which point it regains all of its hit points.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

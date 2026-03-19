@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Soldier's Duty
 *Herb, rare*  
@@ -30,3 +33,7 @@ A type of eucalyptus that developed a resistance to devouring insects by loading
 As an action, you may crush this herb in front of the nose of a creature within 5 feet of you that is on 0 hit points, causing them to regain 1 hit point.
 
 *Source: Hamund's Herbalism Handbook p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

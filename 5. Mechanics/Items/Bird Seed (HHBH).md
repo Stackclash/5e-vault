@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bird Seed
 *Herb, common*  
@@ -30,3 +33,7 @@ Several plants rely on birds to eat their seeds in order to propagate themselves
 This herb has `dice:1d4|noform|noparens|avg` (`1d4`) charges. As an action, you may use one charge to scatter a number of seeds on the ground, causing them to change into a small flock of birds that fly off immediately. These birds are magical in nature and disappear after 1 minute.
 
 *Source: Hamund's Herbalism Handbook p. 7*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

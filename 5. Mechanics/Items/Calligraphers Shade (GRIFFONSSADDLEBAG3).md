@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Calligrapher's Shade
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -37,3 +40,7 @@ When you temporarily dismiss the familiar, it returns to your body as an inanima
 While a familiar exists in this way, the pen can't be used to create another one. The familiar disappears when it drops to 0 hit points or if your attunement to the pen ends, leaving behind a small pool of nonmagical ink.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

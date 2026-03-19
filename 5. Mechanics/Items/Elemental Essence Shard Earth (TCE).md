@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elemental Essence Shard (Earth)
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
@@ -32,3 +35,7 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 You gain resistance to a damage type of your choice until the start of your next turn.
 
 *Source: Tasha's Cauldron of Everything p. 127*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Perpetual Momentum
 *Ring, rare*  
@@ -24,3 +27,7 @@ This ring is a hollow glass tube through which a single metal bearing rolls. The
 While wearing this ring, the first time you're [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]], or affected by lethargy from the [[/5. Mechanics/Spells/Haste.md\|haste]] spell, you ignore the effect. Instead, you suffer the effects of the [[/5. Mechanics/Spells/Slow.md\|slow]] spell until the end of your next turn. Once this property of the ring has been used, it shouldn't be used again until the next dawn. Each time it's used again before then, there is a cumulative 20 percent chance that the effect fails, causing the ring to shatter into useless, nonmagical dust.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

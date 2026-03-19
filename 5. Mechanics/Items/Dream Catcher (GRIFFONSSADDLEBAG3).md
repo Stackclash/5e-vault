@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Dream Catcher
 *Weapon ([[/5. Mechanics/Items/Net.md\|net]]), major, very rare*  
@@ -34,3 +37,7 @@ The net has 8 charges, which are represented by the number of feathers around th
 When you expend a charge, one of the feathers disappears in a dream-like cloud of smoke. The net regains `dice:1d8|noform|noparens|avg` (`1d8`) expended charges daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

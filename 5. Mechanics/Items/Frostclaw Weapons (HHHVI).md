@@ -13,6 +13,9 @@ rarity: varies
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Frostclaw Weapons
 
@@ -26,3 +29,7 @@ If you are using the rare version of this weapon, you gain a +1 bonus to all att
 - [[/5. Mechanics/Items/1 Frostclaw Weapon (HHHVI).md\|+1 Frostclaw Weapon]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Loupe of the Depths
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 9
+item_recharge: dawn
 ---
 # Loupe of the Depths
 *Wondrous item, legendary (requires attunement)*  
@@ -26,3 +29,7 @@ This item has 9 charges. While holding this loupe to your eye, you have advantag
 This item regains `dice:1d8|noform|noparens|avg` (`1d8`) charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

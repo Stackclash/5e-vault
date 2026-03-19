@@ -10,6 +10,9 @@ aliases:
   - Withering Lenses
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Withering Lenses
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ While wearing these lenses, you may target a creature you can see within 30 feet
 Once used, this ability may not be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 66*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

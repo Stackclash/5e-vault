@@ -9,6 +9,9 @@ aliases:
   - Battlechef's Serving Bowls
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battlechef's Serving Bowls
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This pair of silver serving bowls is scratched from seeing battle. Their handles
 If you use the bowls to serve food from, any poison within the food is neutralized.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

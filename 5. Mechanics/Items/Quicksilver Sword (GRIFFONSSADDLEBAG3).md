@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quicksilver Sword
 *Major, very rare (requires attunement)*  
@@ -38,3 +41,7 @@ You can use a bonus action to allow yourself to be [[/5. Mechanics/Rules/Conditi
 When a creature is no longer [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] by one of these properties, the weapon's metal is expelled from the creature and returns to the blade, transforming it back into its longsword form.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

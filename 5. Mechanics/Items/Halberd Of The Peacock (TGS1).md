@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Halberd of the Peacock
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), cursed item, major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. This
 This halberd is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the halberd, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. Whenever you reduce a creature to 0 hit points using this weapon, you must succeed on a DC 12 Wisdom saving throw or be compelled to admire yourself in the mirror until the start of your next turn: sacrificing any remaining movement, action, bonus action, or reactions you may have had. In addition, you automatically fail any Dexterity saving throw you make while admiring yourself in the mirror in this way.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 74*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ weight: 5
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wayfinder Sphere
 *Wondrous item, minor, rare*  
@@ -28,3 +31,7 @@ If you are within 30 feet of it, you can speak a second command word as an actio
 You can speak a third command word as an action, followed by a location name, while within 30 feet of the floating orb to cause it to move on its own. If the named location has been recorded by the orb and is within 1 mile of you, the sphere moves on its own and floats up to 10 feet ahead of you, guiding you to the named location using any of its recorded maps of the area to guide you. Once you reach your destination or speak the command word again, the orb begins to follow you again.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 186*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

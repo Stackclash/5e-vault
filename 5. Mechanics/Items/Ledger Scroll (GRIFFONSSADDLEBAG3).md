@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Ledger Scroll
 *Scroll, minor, uncommon*  
@@ -32,3 +35,7 @@ The scroll has 60 inches of parchment, and each added line takes up 1 inch of it
 A creature that can see the sensor (such as a creature benefiting from see invisibility or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) sees a watchful owl. The sensor is considered to have a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 15 for the purposes of detecting a triggering creature or effect.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

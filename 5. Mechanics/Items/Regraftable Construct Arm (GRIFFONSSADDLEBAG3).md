@@ -14,6 +14,9 @@ attunement-requirement:
   - creature missing an arm
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Regraftable Construct Arm
 *Wondrous item, cursed item, major, very rare (requires attunement by a creature missing an arm)*  
@@ -39,3 +42,7 @@ You can use a bonus action to allow the arm's necromantic magic to flood into yo
 This arm is cursed, and attuning to it extends the curse to you. While you remain cursed, you must make a DC 15 Wisdom saving throw whenever you take fire damage. On a failed save, you spend your action on your next turn reeling and panicked. This saving throw can't be made with advantage. If you're under the effects of the Golem Spark property, you make this saving throw whenever you take any damage while you have less than half your hit points remaining. If you die while under the effects of Golem Spark, you immediately return to life with 40 hit points as a flesh golem. For the purpose of the golem's Berserk trait, your creator is the same as the arm's. Only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can return you to your original form.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

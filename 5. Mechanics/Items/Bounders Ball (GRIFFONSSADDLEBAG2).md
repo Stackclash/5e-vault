@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Bounder's Ball
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ You can attach the *bounder's ball* to the base of a weapon that does not have t
 You can remove the ball from the weapon over the course of a short rest by gently tugging at it, as if from an animal's mouth. The spirit is ethereal and doesn't occupy any space. If you have a [[/5. Mechanics/Items/Companions Band (TGS1).md\|companion's band]], the spirit can interact with the one created by the band.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 50*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

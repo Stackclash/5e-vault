@@ -19,6 +19,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # +3 Rod of the Pact Keeper
 *Rod, major, very rare (requires attunement by a warlock)*  
@@ -30,3 +33,7 @@ While holding this rod, you gain a +3 bonus to spell attack rolls and to the sav
 In addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest.
 
 *Source: Dungeon Master's Guide p. 197*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

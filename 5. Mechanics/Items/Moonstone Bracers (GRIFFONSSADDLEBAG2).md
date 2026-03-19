@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Moonstone Bracers
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ These leather bracers are adorned with moonstones and unique wolfen buckles made
 While wearing the bracers in an area of dim light or darkness, you can use your action to cast [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] on yourself, transforming into a [[/5. Mechanics/Bestiary/Beast/Wolf.md\|wolf]]. While you are in the form of the wolf, you retain your Intelligence, Wisdom, and Charisma scores. The bracers can't be used this way again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

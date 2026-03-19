@@ -17,6 +17,9 @@ attunement-requirement:
   - creature of good alignment
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Couatl Herald's Guard
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a creature of good alignment)*  
@@ -32,3 +35,7 @@ This magic shield is made from yew and covered in durable couatl feathers. When 
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 48*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +2 Dusk Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
@@ -31,3 +34,7 @@ subtype:
 While wearing this armor, you have a +2 bonus to AC. In addition, while wearing this armor in dim light or darkness, you may take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action as a bonus action. If you take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action in this way, you do not suffer the usual penalty that normally applies to Stealth (Dexterity) checks made in plate armor.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

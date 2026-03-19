@@ -20,6 +20,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Thwackstaff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement)*  
@@ -38,3 +41,7 @@ This festive quarterstaff is decorated with ribbons and other glittering element
 This quarterstaff has 3 charges and regains all expended charges daily at dawn. While holding this quarterstaff, you can expend 1 of its charges as a reaction when a creature that you can see hits you with a melee attack. When you do, roll a `dice:d6|noform|noparens|avg` (`d6`). You gain a bonus to AC equal to the number rolled against that attack, potentially causing it to miss you. If the attack misses you as a result of this bonus to AC, you can immediately make one attack with the quarterstaff against the attacking creature as part of your reaction. If you hit, the attack does extra damage equal to the number rolled on the d6.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

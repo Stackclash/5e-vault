@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lunar Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare*  
@@ -34,3 +37,7 @@ The dark silver blade of this rapier resonates with a quiet ripple, like the moo
 While holding the weapon, you can use an action to teleport up to 60 feet to an unoccupied space that you can see. If another creature is within 5 feet of that space, you can immediately make a single attack against it using the rapier. If it's between dusk and dawn, you also become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] immediately after you teleport in this way, and you remain [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until the end of your next turn or until you make an attack or cast a spell. Once this property of the rapier has been used, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

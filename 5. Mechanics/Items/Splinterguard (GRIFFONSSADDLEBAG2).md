@@ -23,6 +23,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Splinterguard
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), major, rare (requires attunement by a druid or ranger)*  
@@ -40,3 +43,7 @@ While you're wearing this armor, any critical hit against you becomes a normal h
 If you're attuned to this armor, you're considered proficient with it, and you don't suffer disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks you make as a result of wearing it. In addition, creatures hit by the armor's shrapnel when it splinters take `dice:5d8|noform|noparens|avg` (`5d8`) piercing damage, instead of `dice:3d8|noform|noparens|avg` (`3d8`), and you can choose which creatures in the area are affected by it when it happens.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 168*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

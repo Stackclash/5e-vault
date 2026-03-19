@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Whalefall Armor
 *Medium armor ([[/5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, very rare (requires attunement)*  
@@ -45,3 +48,7 @@ While wearing the armor, you can use an action to speak its command word and exp
 When the spirit disappears, roll a `dice:d10|noform|noparens|avg` (`d10`). If the result is equal to or less than 5 + the number of charges you expended as part of the action to summon it, it disappears as normal, and the property can't be used again until the next dawn. If the result is higher than that number, the spirit becomes hostile to you; it remains for 1 additional minute, can't be dismissed, and immediately regains half its maximum number of hit points. When this happens, this property of the armor can't be used again until `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) days have passed, during which time the number of charges the armor regains each day is reduced by half (rounded up).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

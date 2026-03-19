@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vox Helm
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This metal helm has a second guard that rests in front of your mouth and alters your voice. You can raise and lower this guard using an action. While wearing the helmet with the guard lowered, your voice sounds obviously enchanted and can be adjusted to modify its pitch, masculinity or femininity, and reverberation at will (no action required).
 
 *Source: The Griffon's Saddlebag, Book 1 p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

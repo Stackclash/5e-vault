@@ -16,6 +16,9 @@ rarity: unknown
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Survival Mantle
 *Medium armor*  
@@ -29,3 +32,7 @@ This carapace-like augmentation encases portions of the wearer's shoulders, neck
 A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]] spell, a [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] spell, inhaled poisons, and the breath weapons of some dragons).
 
 *Source: Volo's Guide to Monsters p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

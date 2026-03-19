@@ -15,6 +15,9 @@ rarity: uncommon
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Grick Hide Coat
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), uncommon*  
@@ -26,3 +29,7 @@ subtype:
 While wearing this armor, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in rocky terrain and on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks made to climb rocky terrain.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

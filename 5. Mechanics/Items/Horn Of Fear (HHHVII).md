@@ -9,6 +9,9 @@ aliases:
   - Horn of Fear
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horn of Fear
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ You may spend your action to blow this hunting horn, emitting a baleful bray tha
 Each time you blow this horn, there is a cumulative 5 percent chance that it will break apart and become useless.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 60*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Xorn-Sole Boots
 *Wondrous item, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ You can use this property for up to 10 minutes, all at once or in several shorte
 When the boots' property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 194*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

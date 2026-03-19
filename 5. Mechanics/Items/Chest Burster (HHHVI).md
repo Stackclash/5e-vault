@@ -9,6 +9,9 @@ aliases:
   - Chest Burster
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chest Burster
 *Poison (ingested), rare*  
@@ -22,3 +25,7 @@ A humanoid host can carry only one slaad egg to term at a time. Over three month
 If the disease is cured before the tadpole's emergence, the unborn slaad is disintegrated. This item contains enough poison for 3 doses.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 121*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

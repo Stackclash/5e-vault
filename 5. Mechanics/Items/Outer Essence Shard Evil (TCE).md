@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Outer Essence Shard (Evil)
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
@@ -32,3 +35,7 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 Choose one creature who takes damage from the spell. That target takes an extra `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage.
 
 *Source: Tasha's Cauldron of Everything p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

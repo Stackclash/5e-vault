@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quick Change Ring
 *Ring, minor, rare*  
@@ -48,3 +51,7 @@ When found, the ring has a 50 percent chance to have a set of bound armor in its
 ^armor
 
 *Source: The Griffon's Saddlebag, Book 2 p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

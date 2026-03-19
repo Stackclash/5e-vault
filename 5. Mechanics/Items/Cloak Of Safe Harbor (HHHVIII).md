@@ -10,6 +10,9 @@ aliases:
   - Cloak of Safe Harbor
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Cloak of Safe Harbor
 *Wondrous item, very rare (requires attunement)*  
@@ -21,3 +24,7 @@ While wearing this cloak, you may use your action to pull the hood up over your 
 If you receive damage while wearing this cloak, you may use your reaction to pull the hood up, transporting you to your pocket dimension and negating the damage you just took. You automatically return to your original space or nearest unoccupied space at the start of your next turn. The time spent in your pocket dimension in this way does not count towards the overall time spent in your pocket dimension for the day and this ability can be used even if you have already been in your pocket dimension for 1 hour this day. However, once you have used the cloak in this way, it may not be used again like this until you finish a short or long rest.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 83*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

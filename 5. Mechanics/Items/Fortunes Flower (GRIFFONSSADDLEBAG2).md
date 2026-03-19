@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fortune's Flower
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ These magic flowers are said to bring good luck and are often given as gifts at 
 The plant has no seeds and can't be repotted for travel. An unpicked fortune's flower regrows one flower every year. Once picked, the flower can survive up to 7 days before it withers and dies.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 84*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

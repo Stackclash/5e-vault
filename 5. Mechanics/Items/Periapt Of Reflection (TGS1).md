@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Periapt of Reflection
 *Wondrous item, cursed item, major, rare (requires attunement)*  
@@ -28,3 +31,7 @@ This curse is only revealed and extended to you when you roll a 1 on a saving th
 While you're cursed, your reflection in any mirrored surface within 10 feet of you turns into an ugly, horrifying visage of your deepest insecurities. In addition, when you fail an Intelligence, Wisdom, or Charisma saving throw (including the roll that reveals this curse), you take `dice:1d8|noform|noparens|avg` (`1d8`) psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 95*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

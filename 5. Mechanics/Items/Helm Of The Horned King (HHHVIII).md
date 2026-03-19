@@ -10,6 +10,9 @@ aliases:
   - Helm of the Horned King
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Helm of the Horned King
 *Wondrous item, artifact (requires attunement)*  
@@ -67,3 +70,7 @@ When you become attuned to the helm, you become cursed. Whenever you finish a lo
 This helm can only be destroyed if the creature wearing and attuned to it is killed by the weapon The [[/5. Mechanics/Items/Butcher (HHHVIII).md\|Butcher]]. At this point, the helm will crumble to dust and become useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 102*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

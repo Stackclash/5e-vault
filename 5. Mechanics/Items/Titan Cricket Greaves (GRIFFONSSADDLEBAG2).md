@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Titan Cricket Greaves
 *Wondrous item, minor, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ These unusual leg braces are crafted from the legs of a giant cricket. While wea
 In addition, you can use an action to rub your legs together while wearing the braces to create the signature sound of one or many crickets. The sound can be as quiet as a whisper or as loud as a scream.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 175*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Mindwipe Lenses
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Mindwipe Lenses
 *Wondrous item, legendary (requires attunement)*  
@@ -37,3 +40,7 @@ You may use an action to expend 4 charges to target one creature you can see wit
 These lenses recover all expended charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 92*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fool's Charm
 *Herb, rare*  
@@ -30,3 +33,7 @@ A succulent related to the jade plant, easily identified by the golden tinge it 
 This herb contains `dice:1d8+4|noform|noparens|avg` (`1d8+4`) charges, with each charge representing one of the remaining leaves on this herb's stem. Any time you roll a 1 on an ability check, attack roll, or saving throw while holding this herb, you may expend a charge in order to reroll that dice and use the new result. Once all charges have been used on this herb, it withers away and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 14*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

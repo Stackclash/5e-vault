@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: artifact
 tier: major
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Galea of the Soulfire Phoenix
 *Wondrous item, major, artifact (requires attunement)*  
@@ -51,3 +54,7 @@ The Galea of the Soulfire Phoenix has the following random properties:
 The only way to destroy the helmet is to feed it to an ancient phoenix. The phoenix dies and is immediately reborn as a result of the intense magic stored within the artifact. When it's reborn, the phoenix has a pronounced crown of golden feathers upon its head. Regardless of how many times it's reborn, the phoenix retains this crown of feathers.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 147*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

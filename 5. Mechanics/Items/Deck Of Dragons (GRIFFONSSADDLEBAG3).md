@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deck of Dragons
 *Wondrous item, major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ You can use each card from the shuffled deck as if it were a magic dart. On a hi
 A thrown card magically reappears on the bottom of the card case immediately after the attack. When you score a critical hit using one of the cards, you can roll the bonus acid, cold, fire, or lightning damage dice two additional times and add them to the extra damage of the critical hit.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

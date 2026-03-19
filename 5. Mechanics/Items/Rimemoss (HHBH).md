@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rimemoss
 *Herb, rare*  
@@ -30,3 +33,7 @@ A pure white variety of moss unique in that it only grows in frigid temperatures
 You may spend 10 minutes lining your clothes with rimemoss. If you do so, you automatically succeed on any Constitution saving throw to resist the negative effects of cold environments and weather.
 
 *Source: Hamund's Herbalism Handbook p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

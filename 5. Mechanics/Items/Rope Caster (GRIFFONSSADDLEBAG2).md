@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rope Caster
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), minor, common*  
@@ -32,3 +35,7 @@ This magic weapon is a favorite among infiltrators. Its firing mechanism has no 
 A creature can use its action to make a DC 10 Strength or Dexterity check, releasing a bound object within its reach on a success.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 152*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

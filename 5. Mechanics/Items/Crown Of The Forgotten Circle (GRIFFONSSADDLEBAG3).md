@@ -14,6 +14,9 @@ attunement-requirement:
   - druid
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crown of the Forgotten Circle
 *Wondrous item, cursed item, major, very rare (requires attunement by a druid)*  
@@ -30,3 +33,7 @@ As an action while wearing the crown, you can choose a point on the ground that 
 This crown is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling and unable to remove the crown. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the number of hit points is reduced by 5 + the spell's level, as the crown's flowers try and fail to rejuvenate themselves with your magic.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: very-rare
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # +3 Dragon Bolt
 *Ammunition ([[/5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolt]]), very rare*  
@@ -29,3 +32,7 @@ When used in a successful attack, there is a 30 percent chance that this bolt lo
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

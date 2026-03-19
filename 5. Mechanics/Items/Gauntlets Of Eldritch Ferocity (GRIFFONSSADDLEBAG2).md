@@ -14,6 +14,9 @@ attunement-requirement:
   - warlock
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Gauntlets of Eldritch Ferocity
 *Wondrous item, major, rare (requires attunement by a warlock)*  
@@ -25,3 +28,7 @@ These leather gloves are protected with ancient stone plates inscribed with inde
 Additionally, while wearing these gauntlets, you can choose to create an additional beam of energy and make an extra attack whenever you cast [[/5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]]. When you roll a 1 or 2 on an attack roll made with this extra beam, you take `dice:3d12|noform|noparens|avg` (`3d12`) necrotic damage, and until you finish a short or long rest, your hit point maximum is reduced by an amount equal to the necrotic damage you take. This necrotic damage ignores resistance and immunity, and if it reduces you to 0 hit points, you die.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 87*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

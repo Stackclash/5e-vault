@@ -14,6 +14,9 @@ rarity: none
 type: gear
 subtype:
   - treasure-art-object
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Embroidered silk handkerchief
 *Treasure (art object)*  
@@ -21,3 +24,7 @@ subtype:
 - **Cost**: 25 gp
 
 *Source: Dungeon Master's Guide p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

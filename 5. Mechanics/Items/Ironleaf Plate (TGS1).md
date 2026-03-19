@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ironleaf Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ If you take fire damage, the leaves wither for 1 minute. While the leaves are wi
 While wearing this armor, you can use an action to cast the [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] spell from it. Once used, this property can't be used again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

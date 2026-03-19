@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crypt Keeper Glaive
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
@@ -45,3 +48,7 @@ Undead creatures killed by this weapon cannot be raised from the dead again.
 The first time on your turn that you land a successful melee attack with this weapon against a creature that is [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], the weapon's damage die is maximized.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 50*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

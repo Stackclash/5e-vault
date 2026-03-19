@@ -15,6 +15,9 @@ rarity: none
 type: gear
 subtype:
   - tool
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Harvesting Kit
 *Tool*  
@@ -31,3 +34,7 @@ This kit contains everything the average harvester needs to prepare and harvest 
 > ![[/5. Mechanics/Rules/Variant Rules/New Proficiency Harvesting Kit (HHHVI).md\|New Proficiency: Harvesting Kit]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 145, Hamund's Harvesting Handbook: Volume II p. 67, Hamund's Harvesting Handbook: Volume III p. 107*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

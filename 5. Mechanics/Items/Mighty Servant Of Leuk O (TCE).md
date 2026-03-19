@@ -10,6 +10,9 @@ aliases:
   - Mighty Servant of Leuk-o
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Mighty Servant of Leuk-o
 *Wondrous item, artifact (requires attunement)*  
@@ -62,3 +65,7 @@ This does not destroy the servant permanently. Rather, `dice:2d6|noform|noparens
 The servant can be destroyed in two ways. After it has self-destructed, its disconnected pieces can be melted down in one of the forge-temples of its ancient Olman creators. Alternatively, if the servant strikes the Machine of Lum the Mad, both artifacts explode in an eruption that is three times the size and three times the damage as the servant's self-destruct property.
 
 *Source: Tasha's Cauldron of Everything p. 131*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

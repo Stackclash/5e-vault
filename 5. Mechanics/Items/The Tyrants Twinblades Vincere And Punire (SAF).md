@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Tyrant's Twinblades, Vincere and Punire
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), very rare (requires attunement by an evil creature)*  
@@ -39,3 +42,7 @@ When you score a critical hit with either blade, roll a `dice:d6|noform|noparens
 If this weapon strikes a demon, it shackles it and pulls it down to Hell, removing it from the battle.
 
 *Source: Strongholds and Followers p. 264*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Copyquill
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This quill is made from a single feather that splits into two towards the top. W
 The quill requires twice as much ink as normal when making a copy in this way.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

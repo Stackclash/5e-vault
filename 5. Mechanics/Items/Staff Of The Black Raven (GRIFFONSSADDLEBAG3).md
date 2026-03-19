@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Staff of the Black Raven
 *Staff, weapon, major, uncommon (requires attunement)*  
@@ -54,3 +57,7 @@ The raven leaves the staff, flying or remaining perched within 30 feet of you fo
 The detached raven has AC 13, 10 hit points, and its movement doesn't provoke opportunity attacks. If it's reduced to 0 hit points, it splits apart into a handful of pieces and stops moving. A [[/5. Mechanics/Spells/Mending.md\|mending]] cantrip can restore the broken raven to its hit point maximum. If the raven returns to the staff, it regains any hit points it lost. Otherwise, the raven magically rematerializes on the staff the next day at dawn, at which point any of its broken pieces are turned to dust and are destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

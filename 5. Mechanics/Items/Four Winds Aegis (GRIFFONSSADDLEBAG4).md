@@ -12,6 +12,9 @@ armorClass: 2
 weight: 6
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Four Winds Aegis
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), rare*  
@@ -29,3 +32,7 @@ In addition, you can throw the shield as if it were a weapon. When you do, it's 
 You can use an action to speak the shield's command word while holding it to cause a powerful tornado to erupt from the shield. The tornado appears in a vertical or horizontal cylinder that's centered on the shield (your choice). The cylinder is 40 feet tall and extends 15 feet from you if it's vertical, or in a line extending from you that's 40 feet long and 15 feet wide if it's horizontal. Each creature within the area of the tornado must make a DC 15 Strength saving throw. On a failed save, a creature takes `dice:3d6|noform|noparens|avg` (`3d6`) bludgeoning damage and is pushed up to 15 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Soul Sword
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare (requires attunement)*  
@@ -51,3 +54,7 @@ A target hit by the illuminated sword takes an extra `dice:1d12|noform|noparens|
 While holding the sword, you can use a bonus action to spend 2 or more Hit Dice to pour your energy into the blade. When you do, the weapon's bonus to attack and damage rolls is increased by 1 for every 2 Hit Dice you spend, up to a maximum total bonus of +3. The dim and bright light emitted by the weapon also increases by 20 feet for each additional +1 bonus it gains in this way. This bonus lasts for 1 hour.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Meteoric Javelin
 *Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, rare*  
@@ -46,3 +49,7 @@ While the javelin is within 120 feet of you and not being held by another creatu
 While holding the javelin, you can use an action to speak the javelin's third command word and throw it 120 feet into the air, where it follows and hovers above you. You can use a bonus action on a subsequent turn to speak this command word again to cause it to plummet down in a fiery blast onto a target that you can see within 120 feet of you. Make a ranged weapon attack against the target. The javelin then flies toward the target from its location above you, ignoring the disadvantage imposed on long range attacks and potentially the effects of certain types of cover. On a hit, the target takes damage from the javelin plus an extra `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage. Hit or miss, the javelin creates a flaming impact on the ground. The target and each creature within 15 feet of it must make a DC 15 Dexterity saving throw. A creature takes `dice:6d6|noform|noparens|avg` (`6d6`) fire damage on a failed save, or half as much damage on a successful one. If there isn't 120 feet of space above you, or if you don't speak the command word again within 1 minute of using this property, the javelin falls harmlessly back to the ground in a random location within 120 feet of you.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

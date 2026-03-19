@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Banshee Vine
 *Herb, rare*  
@@ -31,3 +34,7 @@ This pale-blue vine grows in areas with high concentrations of saltwater and is 
 As an action, you may break this herb in half, causing all of the air inside to be released in a high-pitched wail. All creatures within 30 feet of you that can hear, must succeed on a DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the start of your next turn.
 
 *Source: Hamund's Herbalism Handbook p. 6*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

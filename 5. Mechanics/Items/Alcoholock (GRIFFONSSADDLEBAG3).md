@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alcoholock
 *Wondrous item, minor, common*  
@@ -24,3 +27,7 @@ You can bind an alcoholock to an alcohol by submerging it in the drink for 1 hou
 The poured drink needn't match the exact age, ingredients, or maker of the bound one. For example, if the lock is bound to mead, any mead of the same or similar flavor that's poured into the lock will open it. If the bound drink is a mixture of two or more ingredients, a close approximation of the mixture will open the lock (at the GM's discretion).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

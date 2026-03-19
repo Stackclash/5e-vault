@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Life Tether Ankh
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ While wearing this necklace, you can choose to succeed on a death saving throw y
 If you use the ankh when you would normally suffer two failed death saving throws, you instead gain one success and one failure. If this would cause you to have 3 successful death saving throws as well as 3 failed ones, roll a final death saving throw. On a success, you stabilize. On a failure, you die.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 114*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

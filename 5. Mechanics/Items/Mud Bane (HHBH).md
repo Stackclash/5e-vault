@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mud Bane
 *Herb, rare*  
@@ -30,3 +33,7 @@ A rather ordinary looking plant of scraggly leaves and thin stalks jutting out f
 This herb contains `dice:1d3|noform|noparens|avg` (`1d3`) charges. To use this herb, you must expend one charge to cover one melee weapon or up to 10 pieces of ammunition in a toxic sap. For the next 10 minutes, any creature successfully hit by this weapon or ammunition must succeed on a DC 18 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 minute. If the saving throw failed by 5 or more, the creature is also [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] as they become consumed by violent seizures. At the start of each of their turns and anytime they take damage, the creature may make the saving throw again. On a success, they are no longer[[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
 *Source: Hamund's Herbalism Handbook p. 24*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

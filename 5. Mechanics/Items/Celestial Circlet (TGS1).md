@@ -14,6 +14,9 @@ attunement-requirement:
   - cleric of good alignment
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Celestial Circlet
 *Wondrous item, major, very rare (requires attunement by a cleric of good alignment)*  
@@ -29,3 +32,7 @@ The circlet has 7 charges. As an action while wearing the circlet, you can expen
 The circlet regains `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the halo vanishes and the circlet becomes mundane and nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 41*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

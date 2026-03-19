@@ -10,6 +10,9 @@ aliases:
   - Crown of Limitless Knowledge
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crown of Limitless Knowledge
 *Wondrous item, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ While wearing this crown, you gain the following benefits:
 - If your total for an Intelligence check is less than your Intelligence score, you can use that score in place of what you rolled.  
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

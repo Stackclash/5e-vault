@@ -9,6 +9,9 @@ aliases:
   - Wishing Well Token
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wishing Well Token
 *Wondrous item, very rare*  
@@ -24,3 +27,7 @@ The well in which the token was thrown then magically produces pure, potable wat
 Once the coin has been used to make a wish, it becomes a mundane coin without any magical properties again.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

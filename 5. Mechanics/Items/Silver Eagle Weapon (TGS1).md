@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Eagle Weapon
 *Major, uncommon*  
@@ -31,3 +34,7 @@ subtype:
 You gain a +1 bonus to attack and damage rolls made with this silvered, magic weapon of elven make. This weapon deals `dice:2d6|noform|noparens|avg` (`2d6`) damage instead of its normal damage dice, and landing a critical hit with the weapon doesn't double the weapon's damage dice. Whenever you land an attack with the weapon and roll the same number on both of the weapon's damage dice, you can immediately roll another `dice:d6|noform|noparens|avg` (`d6`) and add it to the weapon's damage dice. You can continue rolling extra damage dice until you roll a number that does not match the previous rolls.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 116*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

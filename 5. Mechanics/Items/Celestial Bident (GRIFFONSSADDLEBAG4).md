@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Celestial Bident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a cleric or paladin)*  
@@ -49,3 +52,7 @@ While the ball of light is present between the bident's prongs, you can use an a
 While holding the weapon, you can use an action to cast the [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] spell from it, using your spell attack bonus. When you do, the bolt appears as a duplicate of the bident made of pure light, and on a hit, any allied creature within 10 feet of the target gains 10 temporary hit points.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

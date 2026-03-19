@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fabric Leaf
 *Herb, common*  
@@ -36,3 +39,7 @@ This herb contains a number of leaves measuring `dice:1d4|noform|noparens|avg` (
 
 
 *Source: Hamund's Herbalism Handbook p. 12*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

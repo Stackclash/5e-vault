@@ -13,6 +13,9 @@ rarity: varies
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Dragonstrength
 *Potion*  
@@ -40,3 +43,7 @@ The rarity and strength of this potion differs depending on the age category of 
 - [[/5. Mechanics/Items/Potion Of Ancient Dragonstrength (HHHVI).md\|Potion of Ancient Dragonstrength]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

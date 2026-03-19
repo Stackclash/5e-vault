@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Nightstalker's Mask
 *Wondrous item, major, rare (requires attunement)*  
@@ -21,3 +24,7 @@ tier: major
 This demon-faced mask has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dusk. While wearing the mask, you can expend 1 of its charges when you take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action to become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until the end of your next turn. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell. If you make an attack against a creature while invisible in this way and hit, the target takes an extra `dice:1d10|noform|noparens|avg` (`1d10`) psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

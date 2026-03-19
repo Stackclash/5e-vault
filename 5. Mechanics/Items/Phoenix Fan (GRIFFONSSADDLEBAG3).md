@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Phoenix Fan
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This vibrant paper fan bears a gilded phoenix design and fire opals along its wo
 You can cast these spells from the fan even if it doesn't have enough charges. When you do, there is a cumulative 20 percent chance that the fan is destroyed for each spent charge beyond the number of remaining charges in the fan. If the fan is destroyed in this way, the spell fails and the action to cast it is wasted, and the fan is consumed by flame as it turns to ash and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

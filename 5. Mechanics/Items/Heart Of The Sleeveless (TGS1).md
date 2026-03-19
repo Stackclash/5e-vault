@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heart of the Sleeveless
 *Wondrous item, minor, common*  
@@ -38,3 +41,7 @@ While worn, the fabric's color changes with the wearer's mood or flash of emotio
 ^heart-of-the-sleeveless-colors
 
 *Source: The Griffon's Saddlebag, Book 1 p. 76*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

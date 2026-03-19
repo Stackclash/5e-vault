@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Shroud of the Unburied
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This canvas burial shroud is permanently stained red and is worn like a cloak. W
 Once the shroud has granted temporary hit points in this way, it can't do so again until 3 days have passed. In the meantime, you must make a DC 5 Constitution saving throw whenever you finish a long rest. On a failed save, you gain only the benefits of a short rest, as you're plagued by horrific visions of long-dead spirits.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Staff of the Demon Prince
 *Staff, weapon, cursed item, artifact (requires attunement by a spellcaster)*  
@@ -79,3 +82,7 @@ When you become attuned to the staff, you become cursed. Whenever you finish a l
 This staff can only be destroyed if the creature attuned to it is slain by a creature attuned to an item made from a material harvested from another Demon Lord. If this occurs, the staff splits down its length into two parts and loses its power. However, if these two parts are thrown together into the waters of the Gaping Maw, the pieces will disappear and then reappear `dice:1d100|noform|noparens|avg` (`1d100`) years later in a random place in the multiverse, fixed and restored to full power.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -16,6 +16,9 @@ rarity: rare
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Demon Leather
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), rare (requires attunement)*  
@@ -27,3 +30,7 @@ subtype:
 You gain a +1 bonus to AC while wearing this armor. In addition, when you first attune to this armor, you may choose to be resistant to either cold, fire, or lightning damage while wearing this armor. You may change which damage type you are resistant to after you take a long rest while wearing this armor.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

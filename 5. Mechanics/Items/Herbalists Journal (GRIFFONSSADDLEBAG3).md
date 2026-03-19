@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Herbalist's Journal
 *Wondrous item, major, uncommon*  
@@ -28,3 +31,7 @@ You can spend 25 gp of materials a collection of rare herbs and roots to enhance
 This feature can also be used to enhance a [[/5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]] (50 gp of materials), a [[/5. Mechanics/Items/Potion Of Superior Healing.md\|potion of superior healing]] (75 gp), or a [[/5. Mechanics/Items/Potion Of Supreme Healing.md\|potion of supreme healing]] (100 gp).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

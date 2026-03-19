@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Devotee's Censer
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), rare (requires attunement by a cleric or paladin)*  
@@ -35,3 +38,7 @@ The rounded head of this flail is perforated with tiny holes, arranged in symbol
 As a bonus action, you can speak the command word to cause the flail to emanate a thin cloud of incense out to 10 feet for 1 minute. At the start of each of your turns, you and any other creatures in the incense each regain `dice:1d4|noform|noparens|avg` (`1d4`) hit points. This property can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

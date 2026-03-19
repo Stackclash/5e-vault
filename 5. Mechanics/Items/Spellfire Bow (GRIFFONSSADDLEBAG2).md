@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spellfire Bow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a spellcaster)*  
@@ -39,3 +42,7 @@ This richly polished wooden longbow is ornamented with a silver trim and bowstri
 If you're attuned to the bow, you are proficient with it and can use it as a spellcasting focus. While holding the weapon, you gain a +3 bonus to any ranged spell attack you make, as the spell is launched through the bow. When you do, you perform any somatic component for the spell by drawing the bow. In addition, when you cast a spell of 1st level or higher that has a range of 5 feet or greater, its range increases by 30 feet.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 166*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

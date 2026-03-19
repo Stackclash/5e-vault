@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Corpse Hands
 *Herb, rare*  
@@ -30,3 +33,7 @@ As can be gleaned from this herb's morbid name, corpse hands resemble a rotting 
 This herb may be applied to one melee weapon or up to 10 pieces of ammunition. A weapon that has had this herb applied to it is considered magical and deals an additional `dice:1d8|noform|noparens|avg` (`1d8`) necrotic damage upon its first successful hit in a turn. This effect lasts for 1 hour.
 
 *Source: Hamund's Herbalism Handbook p. 10*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

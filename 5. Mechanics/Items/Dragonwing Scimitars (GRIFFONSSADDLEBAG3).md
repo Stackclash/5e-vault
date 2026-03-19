@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonwing Scimitars
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, legendary (requires attunement)*  
@@ -45,3 +48,7 @@ While holding each of the swords in either hand, you can use your reaction when 
 While you're holding the two swords in either hand, you gain a flying speed equal to your walking speed whenever you take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action. You lose this speed at the end of your turn, falling if you are in the air and nothing else is holding you aloft.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

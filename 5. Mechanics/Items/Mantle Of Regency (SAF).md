@@ -10,6 +10,9 @@ aliases:
   - Mantle of Regency
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mantle of Regency
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ This billowing red cloak has a mind of its own. It grants the user 30 feet of fl
 You are a much more impressive figure while wearing the mantle. You have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks, and whenever you roll on a follower chart, you can select any result within 10% of your roll.
 
 *Source: Strongholds and Followers p. 261*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

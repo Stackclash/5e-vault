@@ -22,6 +22,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Reliquary of Holy Memories
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), rod, major (requires attunement by a cleric or paladin)*  
@@ -37,3 +40,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Reliquary Of Holy Memories Legendary (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Legendary)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

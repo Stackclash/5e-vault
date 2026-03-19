@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Davy Jones's Key
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, legendary (requires attunement)*  
@@ -50,3 +53,7 @@ While at least one tentacle remains, you can use an action to repeat these attac
 The gate stays open for 1 minute. It closes early if you dismiss it using a bonus action or if you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or die. Once this property of the trident has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 68*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

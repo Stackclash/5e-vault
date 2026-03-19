@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tailor's Gamble
 *Herb, common*  
@@ -46,3 +49,7 @@ As part of preparing this herb, you must soak an article of clothing, a creature
 ^tailors-gamble-colour-table
 
 *Source: Hamund's Herbalism Handbook p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

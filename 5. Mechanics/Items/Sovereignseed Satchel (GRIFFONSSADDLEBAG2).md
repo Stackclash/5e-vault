@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Sovereignseed Satchel
 *Wondrous item, major, rare*  
@@ -34,3 +37,7 @@ This unassuming leather satchel is embroidered with a floral pattern and is conn
 ^optional-caption
 
 *Source: The Griffon's Saddlebag, Book 2 p. 166*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

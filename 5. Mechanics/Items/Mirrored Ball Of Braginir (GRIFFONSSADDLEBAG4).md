@@ -10,6 +10,9 @@ aliases:
 weight: 1
 attunement: false
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mirrored Ball of Brag'inir
 *Wondrous item, legendary*  
@@ -24,3 +27,7 @@ Make a ranged attack roll with an attack bonus equal to your Dexterity modifier 
 This version of the [[/5. Mechanics/Spells/Maze.md\|maze]] spell creates a labyrinth of mirrored walls. When the spell ends, the target reappears in the ball's space or, if there isn't room for it, in the nearest unoccupied space. The ball then vanishes, but reappears in a random location on a different plane of existence. When the target reappears, it takes `dice:10d10|noform|noparens|avg` (`10d10`) psychic damage from the ordeal, or half as much damage if the target escaped the labyrinth and ended the spell early. If the target escapes the labyrinth, it suffers a random short-term madness effect, which lasts for 1 minute. If the target spends the full duration in the labyrinth, it instead suffers a random long-term madness effect that lasts for 7 days.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

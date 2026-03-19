@@ -10,6 +10,9 @@ aliases:
   - Codex Ignis
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Codex Ignis
 *Wondrous item, artifact (requires attunement)*  
@@ -51,3 +54,7 @@ The duplicate is insubstantial and has no hit points. It lasts for a number of r
 While deploying this form, you must sacrifice 1 Hit Die at the end of each round.
 
 *Source: Strongholds and Followers p. 255*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

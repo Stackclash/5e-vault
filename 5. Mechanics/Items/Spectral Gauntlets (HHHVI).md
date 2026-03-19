@@ -9,6 +9,9 @@ aliases:
   - Spectral Gauntlets
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spectral Gauntlets
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ While wearing these gloves, you are able to see into the Ethereal Plane up to a 
 If you use these gloves while [[/5. Mechanics/Rules/Actions.md#Grapple\|grappling]] a creature in the Ethereal Plane, you may spend your action to make a contested Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check against them. If you succeed, you may pull that creature into your plane of existence and into an unoccupied space within 5 feet of you. A creature that is forced out of the Ethereal Plane in this way may not return there for 1 minute.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 141*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

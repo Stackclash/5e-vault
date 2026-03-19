@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dream Saber
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement)*  
@@ -33,3 +36,7 @@ subtype:
 You gain a +1 bonus to attack and damage rolls made with this magic weapon, and any creature it hits takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage. When the damage you deal with this weapon would reduce a creature to 0 hit points, you can choose to magically cause it to fall asleep, instead of dealing the damage. The sleeping creature is [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] for 10 minutes or until it takes damage or someone uses an action to shake or slap it awake. When you cause a creature to fall asleep in this way, you can also force it to make a DC 15 Wisdom saving throw. On a failed save, you immediately learn its surface thoughts and can decide what dreams it has while asleep. Once a creature falls asleep in this way, it is immune to this effect for the next 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 74*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Lens of Forgotten History
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lens of Forgotten History
 *Wondrous item, very rare*  
@@ -20,3 +23,7 @@ While wearing these lenses, you may use this item to cast the spell [[/5. Mechan
 Once you have used this item once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

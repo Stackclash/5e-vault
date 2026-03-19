@@ -9,6 +9,9 @@ aliases:
   - Scalehide Cream
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scalehide Cream
 *Wondrous item, rare*  
@@ -19,3 +22,7 @@ As an action, you can rub this dull green cream over your skin. When you do, you
 A *jar of scalehide cream* contains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) doses.
 
 *Source: Deep Magic p. 172*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

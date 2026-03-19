@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chromatic Obsidian Breastplate
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, rare (requires attunement)*  
@@ -38,3 +41,7 @@ You gain a +1 bonus to AC while wearing this dark, prismatic armor. While wearin
 ^light-color-damage-type
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

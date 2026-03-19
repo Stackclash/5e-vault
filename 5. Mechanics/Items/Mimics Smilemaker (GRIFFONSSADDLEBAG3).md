@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Mimic's Smilemaker
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This bone-handled brush can clean your teeth exceptionally well, resulting in ma
 Your teeth are magically transformed into fangs whenever you finish cleaning your teeth with the brush, and they remain transformed in this way until you finish a long rest. In addition, your tongue becomes stained blue and purple for the duration.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

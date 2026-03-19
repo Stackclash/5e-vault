@@ -10,6 +10,9 @@ aliases:
   - Amulet of Secrets
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Amulet of Secrets
 *Wondrous item, very rare (requires attunement)*  
@@ -21,3 +24,7 @@ This blood red amulet is set inside a gold frame the colour of desert sand. Whil
 In addition, you may use the amulet to cast the spell [[/5. Mechanics/Spells/Zone Of Truth.md\|zone of truth]] without using a spell slot or requiring any components. The DC for the casting of this spell in this way is 8 + your Charisma modifier + your proficiency bonus, and you are exempt from the effects of the spell. Once you have used this ability 3 times in one day, you may not use it again until you finish a long rest.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

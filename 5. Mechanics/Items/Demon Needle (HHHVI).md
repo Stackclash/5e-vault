@@ -22,6 +22,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Demon Needle
 *Rare (requires attunement)*  
@@ -32,3 +35,7 @@ When you attack a creature with this weapon and roll a 20 on the attack roll, th
 This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]].
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

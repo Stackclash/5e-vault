@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hcor'uk the Colossal's Portable Handheld Weapon of Walloping
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ This flail has the two-handed, heavy, and reach properties. Attacks made with th
 The rope and boulder that make this weapon are magically attached and can't be separated. The boulder weighs 200 pounds but is effortless for you to lift once you attune to the weapon.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 76*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

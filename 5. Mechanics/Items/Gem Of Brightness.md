@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 50
+item_recharge: none
 ---
 # Gem of Brightness
 *Wondrous item, major, uncommon*  
@@ -28,3 +31,7 @@ This prism has 50 charges. While you are holding it, you can use an action to sp
 When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 gp.
 
 *Source: Dungeon Master's Guide p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sovereign Glue
 *Wondrous item, minor, legendary*  
@@ -22,3 +25,7 @@ This viscous, milky-white substance can form a permanent adhesive bond between a
 One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of [[/5. Mechanics/Items/Universal Solvent.md\|universal solvent]] or [[/5. Mechanics/Items/Oil Of Etherealness.md\|oil of etherealness]], or with a [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 *Source: Dungeon Master's Guide p. 200. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

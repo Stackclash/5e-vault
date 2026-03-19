@@ -13,6 +13,9 @@ rarity: uncommon
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 5
+item_recharge: none
 ---
 # Lesser Eye Stalk Wand
 *Wand, uncommon*  
@@ -29,3 +32,7 @@ This wand has 5 charges. While holding this wand, you may spend an action and 1 
 When the last charge of this wand is used, it crumbles into dust and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Forest Eye Staff
 *Staff, weapon, uncommon (requires attunement by a druid or ranger)*  
@@ -39,3 +42,7 @@ While this staff is on your person, you can't be [[/5. Mechanics/Rules/Condition
 The staff has a magical leaf that flutters above its top. While holding the staff, you can use an action to speak its command word to cause the leaf to drift up to 30 feet away from the staff in a direction of your choice, as if it were carried by a breeze. You mentally receive visual information from the leaf, which has normal vision and [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to 30 feet, and can look in every direction. The leaf can pass through any opening large enough for a leaf to slip through. The leaf then withers and turns to dust at the start of your next turn, but a new one magically appears above the staff at the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

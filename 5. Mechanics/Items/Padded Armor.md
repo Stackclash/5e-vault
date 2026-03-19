@@ -17,6 +17,9 @@ rarity: none
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Padded Armor
 *Light armor*  
@@ -29,3 +32,7 @@ subtype:
 Padded armor consists of quilted layers of cloth and batting.
 
 *Source: Player's Handbook p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

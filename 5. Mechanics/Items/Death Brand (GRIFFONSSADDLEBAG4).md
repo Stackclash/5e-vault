@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Death Brand
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  
@@ -37,3 +40,7 @@ When you hit a creature with this dagger, you can expend 1 of the weapon's charg
 A mark lasts for 10 minutes. The mark ends early if you mark another creature, if you're ever more than 1,000 feet away from it, or if you use the dagger to teleport (even if it fails).
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

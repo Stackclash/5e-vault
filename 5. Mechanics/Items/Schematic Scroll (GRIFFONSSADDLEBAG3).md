@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Schematic Scroll
 *Scroll, minor, uncommon*  
@@ -28,3 +31,7 @@ You can tap the scroll twice to cause it to project an illusory three-dimensiona
 You can make the illustration or schematic drawn on the scroll permanent and unalterable as an action by stamping it anywhere with a signed wax seal. An illustration sealed in this way can't be updated by magic or mundane means, although its illusory components can still be interacted with while the projection persists. A creature using the scroll as a reference has advantage on any ability check made to repair or build an object patterned after an illustration on this scroll.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mandible Bident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, uncommon (requires attunement)*  
@@ -40,3 +43,7 @@ This chitinous, two-pronged weapon still shudders with predatory instinct, magic
 You can release a creature from the bident's grapple on your turn (no action required). The weapon releases a creature from its grasp early if you let go of the weapon or are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
 *Source: The Griffon's Saddlebag, Book 2 p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

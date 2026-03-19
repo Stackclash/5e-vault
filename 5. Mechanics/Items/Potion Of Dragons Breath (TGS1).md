@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Dragon's Breath
 *Potion, minor*  
@@ -28,3 +31,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Potion Of Dragons Breath Very Rare (TGS1).md\|Potion of Dragon's Breath (very rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

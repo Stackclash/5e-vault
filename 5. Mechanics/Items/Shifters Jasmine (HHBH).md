@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shifter's Jasmine
 *Herb, rare*  
@@ -30,3 +33,7 @@ A jasmine flower with a pearlescent lustre that changes colour with the light. W
 While preparing this herb, you must mentally picture a humanoid form. This form does not need to share the same race, sex, dimensions, or age as your current one, but must be within the realistic bounds for a humanoid of that race (e.g. you cannot picture a 12 foot tall dwarf or an elf with four arms). After using the herb, your body permanently changes to match the form you pictured. Your stats do not change, and you keep all racial abilities you had originally.
 
 *Source: Hamund's Herbalism Handbook p. 31*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

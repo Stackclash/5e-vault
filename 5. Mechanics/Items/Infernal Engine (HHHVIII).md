@@ -9,6 +9,9 @@ aliases:
   - Infernal Engine
 attunement: false
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Infernal Engine
 *Wondrous item, legendary*  
@@ -22,3 +25,7 @@ Once completed, the wagon can be piloted as an action by the creature that spoke
 The wagon may be used for up to 4 hours in one day which may be used all at once or in shorter intervals. The time it takes to form the wagon is not subtracted from this total. The wagon transforms back into the infernal engine instantly if the time elapses, the wagon is reduced to 0 hit points, or the original user speaks the command word again while within 10 feet of it. Once the wagon reverts back into the engine, all used material drops to the ground, inert.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 91*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

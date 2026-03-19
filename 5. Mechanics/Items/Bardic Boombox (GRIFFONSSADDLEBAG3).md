@@ -15,6 +15,9 @@ attunement-requirement:
   - bard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bardic Boombox
 *Wondrous item, major, very rare (requires attunement by a bard)*  
@@ -27,3 +30,7 @@ This gilded box is roughly two feet long, one foot tall, and 6 inches deep. It w
 You can use the box as an amplifier while it's within 120 feet of you, causing your voice or any instrument you play to become up to five times as loud as normal at will (no action required). The amplified sound originates from the box. Alternatively, while the box is within 120 feet of you, you can use an action to speak through it in your own voice. You don't need to move your mouth in order to speak through the box in this way.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arkano Elite Visor
 *Wondrous item, major, very rare*  
@@ -34,3 +37,7 @@ If you press button 2, 3 hours of power are deducted, and you gain [[/5. Mechani
 If you press button 3, 5 hours of power are deducted, and you gain [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] out to a range of 60 feet.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

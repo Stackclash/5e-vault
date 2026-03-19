@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Hammer of the Ram
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), rare (requires attunement)*  
@@ -37,3 +40,7 @@ The hammer has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expe
 If you're also attuned to the [[/5. Mechanics/Items/Ring Of The Ram.md\|ring of the ram]], your bonus to attack and damage rolls with the hammer increases to +2, and the hammer's every swing creates a projection of the spectral ram from the ring. The ram lurches forward from the head of the hammer, effectively increasing your reach with the weapon by an additional 5 feet. In addition, the hammer and ring share a pool of charges: any charge you have with the ring can be used for the hammer's properties, and vice versa.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

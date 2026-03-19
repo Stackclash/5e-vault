@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Puzzle Ring of Vitality, Life, and Power
 *Ring, major, legendary (requires attunement by a paladin)*  
@@ -39,3 +42,7 @@ The inner ring is covered by a silver puzzle ring that grants various benefits. 
 The aura ends early if you take the ring off or are reduced to 0 hit points. Once the aura fades, you can't activate the outer ring again until 1 day has passed for each band that you solved. If you solve all 3 bands, the number of days is reduced by `dice:1d3|noform|noparens|avg` (`1d3`). On a 3, the outer ring can be activated again immediately.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 101*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

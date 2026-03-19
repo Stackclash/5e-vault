@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Scholar's Brush
 *Herb, rare*  
@@ -35,3 +38,7 @@ As part of preparing a list of spells during a long rest, you may crush this her
 
 
 *Source: Hamund's Herbalism Handbook p. 30*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

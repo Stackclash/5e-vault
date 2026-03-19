@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Bell of Alarm
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This brass bell doesn't have a clapper inside it and has 4 charges. As an action
 The bell regains all expended charges daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 44*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Rocborne Hand Ballista
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ This massive, beast-hunting crossbow is carried with its two handles from above 
 This crossbow is blessed with the spirits of great ancestral hunters. The weapon has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. When you attack a Huge or smaller creature with this weapon, you can expend 1 of its charges as part of the attack. If the attack hits, the creature must make a DC 16 Constitution saving throw. On a failed save, its speed is reduced to 0 and it can't take reactions until the start of its next turn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 108*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

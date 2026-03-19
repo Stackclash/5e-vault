@@ -16,6 +16,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Rust Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  
@@ -30,3 +33,7 @@ When you make a ranged attack with a rust arrow and hit a target that is either 
 If the target is a nonmagical ferrous metal object that isn't being worn or carried, the arrow destroys a 1-foot cube of it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 153*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

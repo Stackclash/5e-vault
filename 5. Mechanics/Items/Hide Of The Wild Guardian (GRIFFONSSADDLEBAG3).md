@@ -14,6 +14,9 @@ attunement-requirement:
   - druid
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hide of the Wild Guardian
 *Wondrous item, major, legendary (requires attunement by a druid)*  
@@ -31,3 +34,7 @@ The maximum challenge rating beast you can transform into with your Wild Shape i
 While transformed into a beast, you gain a +3 bonus to AC, as well as to attack and damage rolls with natural weapons, even if the cloak merges into your new form.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

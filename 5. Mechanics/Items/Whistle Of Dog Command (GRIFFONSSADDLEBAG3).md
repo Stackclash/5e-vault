@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Whistle of Dog Command
 *Wondrous item, major, uncommon*  
@@ -46,3 +49,7 @@ The creature releases a loud howl that's audible out to 300 feet. If the creatur
 You don't need to speak in order to issue the chosen command. A shapeshifter is only affected by the whistle if it's in a dog or wolf form when the whistle is blown. Once this property of the whistle has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

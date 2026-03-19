@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Gorgon War Pick
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, rare (requires attunement)*  
@@ -34,3 +37,7 @@ This war pick is made from the metal armor of a gorgon and designed in its visag
 When you roll a 20 on an attack roll against a creature with this weapon, the war pick's metal emits a small plume of weakened gorgon breath. When it does, the target's body begins to stiffen, and it takes a cumulative-10 foot penalty to its speed until it finishes a short or long rest, or until it's targeted by the [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell or similar magic. This penalty can't reduce a creature's speed lower than 5 feet.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

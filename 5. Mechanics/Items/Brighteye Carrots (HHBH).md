@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Brighteye Carrots
 *Herb, rare*  
@@ -30,3 +33,7 @@ These pale-yellow carrots can be found by looking in the few patches of a predom
 For 8 hours after you apply this herb, you gain [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 60 feet, and your eyes shed a dim light in a 5-foot radius.
 
 *Source: Hamund's Herbalism Handbook p. 8*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

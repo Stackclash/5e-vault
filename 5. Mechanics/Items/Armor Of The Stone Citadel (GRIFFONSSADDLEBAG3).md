@@ -20,6 +20,9 @@ tier: major
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of the Stone Citadel
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, legendary (requires attunement)*  
@@ -41,3 +44,7 @@ You can choose to contain any willing or [[/5. Mechanics/Rules/Conditions.md#Unc
 Once this property of the armor has been used, it can't be used again until the next dawn. If you're reduced to 0 temporary hit points and revert to your normal form, it can't be used again until `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) days have passed, instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

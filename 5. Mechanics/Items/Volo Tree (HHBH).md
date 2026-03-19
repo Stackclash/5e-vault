@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Volo Tree
 *Herb, rare*  
@@ -35,3 +38,7 @@ You may spend 10 minutes weaving the fibres of this plant into protective clothi
 
 
 *Source: Hamund's Herbalism Handbook p. 37*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

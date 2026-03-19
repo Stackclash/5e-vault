@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Horn Pauldron
 *Wondrous item, major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ This single pauldron is made from the horn of a fallen dragon. While wearing it,
 In addition, when you are subjected to an effect that allows you to make a saving throw to take only half damage of this resisted type, you can use your reaction to instead take no damage if you succeed on the saving throw.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 73*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

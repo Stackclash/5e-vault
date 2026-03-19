@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spirit Sheath
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement by a creature with a Wisdom score of 13 or higher)*  
@@ -38,3 +41,7 @@ This scimitar and its sheath are bound by a spiritual force that resonates with 
 While holding the sword, you can use a bonus action to cast the [[/5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]] spell from it (spell attack bonus +7, +4 spellcasting ability modifier), creating a spiritual duplicate of the scimitar in the air within range. Once this property of the scimitar has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 168*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

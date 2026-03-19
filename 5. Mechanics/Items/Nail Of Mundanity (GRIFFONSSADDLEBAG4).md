@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nail of Mundanity
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare*  
@@ -38,3 +41,7 @@ For the next 7 days, you have advantage on Charisma checks you make to interact 
 The dagger remains in the creature's chest until the effect is dispelled, the creature dies, or until you use an action to speak the command word again (provided that you're both on the same plane of existence). If the dagger is removed, the creature is immediately slain. The dagger then falls from its chest, and this property can't be used again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

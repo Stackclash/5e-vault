@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gateway Ring
 *Ring, major, very rare*  
@@ -28,3 +31,7 @@ The portal duplicates the effect of the [[/5. Mechanics/Spells/Gate.md\|gate]] s
 You can end the spell and close the portal early by speaking the ring's command word again as an action while touching it with your hand. When you do, the ring returns to its normal size and reappears on your hand. If the portal remains for the full duration, the ring returns to its normal size and falls to the ground on a random side of the portal. Once the ring has been used, it can't be used again until 10 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 86*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

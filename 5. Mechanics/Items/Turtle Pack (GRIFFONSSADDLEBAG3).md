@@ -12,6 +12,9 @@ weight: 20
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Turtle Pack
 *Wondrous item, major, rare*  
@@ -34,3 +37,7 @@ While wearing the backpack, you gain a +2 bonus to AC until the start of your ne
 While useful, the bag is a little unwieldy. A creature wearing the backpack can only stand up from being [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] by using an action unless another friendly creature is within 5 feet of it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

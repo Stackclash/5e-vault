@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sling of the Tiny Giant
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ This wicked sling is devastating against foes larger than yourself. You gain a +
 In addition, when you roll a 20 on an attack roll made with the sling, the target must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet away from you and knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If the affected creature is Large or larger, it has disadvantage on the saving throw.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 117*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Metal Detector
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Metal Detector
 *Wondrous item, uncommon*  
@@ -18,3 +21,7 @@ rarity: uncommon
 While holding this pair of rods in each hand, you may speak a command word to cause them to react to ferrous metal within 30 feet. When within 30 feet of ferrous metal, these rods will vibrate slightly, with the vibrations becoming more intense as they get closer to an item made of ferrous material.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

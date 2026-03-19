@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chain of Entanglement
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare (requires attunement)*  
@@ -35,3 +38,7 @@ Additionally, while holding this item, you may spend an action to speak this ite
 While animate, treat this weapon as if it had 14 Strength and a +2 proficiency bonus for the sake of attack rolls, damage rolls, and grapple checks.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 121*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

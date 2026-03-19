@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Astral Caltrops
 *Wondrous item, minor, rare*  
@@ -22,3 +25,7 @@ As an action, you can spread these magic caltrops over a square area that is 5 f
 When the caltrops are spread on the ground, they become nearly invisible and float up to 1 inch off the ground. A creature notices the caltrops with a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. You can reclaim the invisible caltrops for later use with 1 minute of careful searching and collecting. The caltrops stop floating and become visible once they're reclaimed in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 39*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

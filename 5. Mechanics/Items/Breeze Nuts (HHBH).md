@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Breeze Nuts
 *Herb, common*  
@@ -31,3 +34,7 @@ A curious nut found attached to shrubby plants growing on windswept beaches. Sai
 As an action, you may eat this herb. For the next hour, you constantly generate a weak breeze that circles in a 5-foot radius around yourself.
 
 *Source: Hamund's Herbalism Handbook p. 8*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

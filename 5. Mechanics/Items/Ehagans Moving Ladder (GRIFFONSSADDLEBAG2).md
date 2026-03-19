@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ehagan's Moving Ladder
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This small, square platform is 2 feet across, weighs 4 pounds, and can hold up t
 When the platform's property has been used for a total of 10 minutes, its magic ceases to function until the next dawn. When its magic ends in this way, the platform floats gently to the ground if it is still aloft.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 77*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

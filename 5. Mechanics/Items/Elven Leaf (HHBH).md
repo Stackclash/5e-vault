@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elven Leaf
 *Herb, rare*  
@@ -30,3 +33,7 @@ A well known and ubiquitous herb picked from scraggly bushes and used to make a 
 For 4 hours after using this herb, you gain a sense of calm that inhibits your ability to experience large spikes in emotions. During this time, you have advantage on any ability check or saving throw to resist being affected by the [[/5. Mechanics/Rules/Conditions.md#Frightened\|fear]] condition.
 
 *Source: Hamund's Herbalism Handbook p. 12*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -28,6 +28,9 @@ type: gear
 subtype:
   - ammunition
   - ammunition-firearm
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Walloping Ammunition
 *Ammunition, minor, common*  
@@ -36,3 +39,7 @@ subtype:
 This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: Xanathar's Guide to Everything p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

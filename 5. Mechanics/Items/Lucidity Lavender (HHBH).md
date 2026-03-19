@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lucidity Lavender
 *Herb, rare*  
@@ -35,3 +38,7 @@ After using this herb, you gain a heightened sense of clarity for the next 4 hou
 
 
 *Source: Hamund's Herbalism Handbook p. 22*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

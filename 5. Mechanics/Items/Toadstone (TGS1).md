@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Toadstone
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  
@@ -26,3 +29,7 @@ This small jade carving of a frog dangles from a simple cord of leather to be wo
 This necklace is cursed. Attuning to it curses you until you're targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. Removing the necklace fails to end the curse on you. While you're cursed, your skin is perpetually slightly wet and clammy, and you have only an appetite for insects and other grubs instead of the foods you would normally enjoy eating.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

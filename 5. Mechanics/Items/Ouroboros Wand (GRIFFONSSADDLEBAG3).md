@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Ouroboros Wand
 *Wand, major, rare*  
@@ -26,3 +29,7 @@ This wand has 3 charges and regains all expended charges daily at dawn. While ho
 This version of the [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|giant constrictor snake]] has twice as many hit points. In addition, any creature that it bites must make a DC 16 Constitution saving throw. On a failed save, a creature takes `dice:4d4|noform|noparens|avg` (`4d4`) poison damage and becomes [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 hour. On a success, a creature takes half as much poison damage and isn't [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

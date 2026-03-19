@@ -17,6 +17,9 @@ attunement-requirement:
   - paladin
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necklace of Prayer Beads
 *Wondrous item, major, rare (requires attunement by a cleric, druid, or paladin)*  
@@ -41,3 +44,7 @@ Six types of magic beads exist. The DM decides the type of each bead on the neck
 ^bead-of-spell
 
 *Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

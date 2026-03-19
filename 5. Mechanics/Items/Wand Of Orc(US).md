@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Orcus
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), wand, artifact (requires attunement)*  
@@ -80,3 +83,7 @@ Destroying the Wand of Orcus requires that it be taken to the Positive Energy Pl
 Bathing the wand in positive energy causes it to crack and explode, but unless the above conditions are met, the wand instantly reforms on [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus's]] layer of the Abyss.
 
 *Source: Dungeon Master's Guide p. 227*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

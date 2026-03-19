@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Foxfire Charm
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This ebony charm is decoratively shaped into a fox's head and is always slightly
 The fox uses the statistics for a [[/5. Mechanics/Bestiary/Beast/Cat.md\|cat]], except that it's an elemental instead of a beast, is immune to fire and poison damage, and understands Common and Ignan but can't speak. The elemental has advantage on ability checks to find fuel for its source fire and sheds bright light in a 10-foot radius and dim light for an additional 10 feet. It can carry fuel back to the fire as normal, provided that it's appropriate to the elemental's size. If the elemental drops to 0 hit points, touches fire, or its source fire goes out, it vanishes and the charm grows cold and dark again until it's placed in a new fire.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 85*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

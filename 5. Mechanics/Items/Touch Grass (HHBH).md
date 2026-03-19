@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Touch Grass
 *Herb, rare*  
@@ -30,3 +33,7 @@ Occasionally, patches of ordinary grass can become imbued with a weak magical pr
 When you [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|cast a spell]] that has a range of touch, you may target this herb instead of the spell's usual targets. If you do so, this herb absorbs that spell to be unleashed upon the next valid target that it touches. As an action, you may throw this herb at a target within 20 feet of you, treating it as a ranged weapon attack. On a successful hit, this herb does no damage, but instead unleashes the spell it had stored inside of it on the target instead. This herb can only absorb one spell at a time and can only hold a spell for 10 minutes, after which the magic dissipates and the spell is wasted. Either way, once this herb has released a stored spell, it breaks apart and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 36*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

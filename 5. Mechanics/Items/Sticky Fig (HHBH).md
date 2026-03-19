@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sticky Fig
 *Herb, rare*  
@@ -30,3 +33,7 @@ A strain of fig identifiable by the way it glistens like a diamond in the desert
 As an action, you may eat this herb. For the next hour, you produce a sticky mucus that adheres you to the surface you stand on, giving you advantage on any saving throw or ability check to avoid being moved against your will, as well as giving you a climb speed equal to your walk speed.
 
 *Source: Hamund's Herbalism Handbook p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

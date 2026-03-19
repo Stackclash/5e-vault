@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fool's Mantle
 *Wondrous item, major, rare (requires attunement)*  
@@ -27,3 +30,7 @@ While attuned to the mantle and wearing it, you gain a bonus to any Dexterity ([
 You can use your reaction whenever you take damage from an attack to make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check. The DC for this check is equal to the damage you take, with a minimum DC of 10. On a success, the damage is halved, and if you would have fallen [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] as part of taking that damage, you don't. On a failure, you take the damage as normal, and this property of the mantle can't be used again for 1 hour. If you are a rogue with the Uncanny [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] feature, you automatically succeed on the Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check, and if your speed isn't 0, you can immediately move up to 10 feet without provoking opportunity attacks.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

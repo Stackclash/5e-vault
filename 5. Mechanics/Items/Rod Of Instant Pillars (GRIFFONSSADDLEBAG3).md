@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rod of Instant Pillars
 *Rod, minor, uncommon*  
@@ -26,3 +29,7 @@ This rod looks like a miniature stone pillar. You can use an action to set it do
 The pillar remains until it's moved. When you speak the rod's command word, you can choose the style, color, and apparent quality of the pillar it creates.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

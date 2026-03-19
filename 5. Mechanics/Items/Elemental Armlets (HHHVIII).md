@@ -10,6 +10,9 @@ aliases:
   - Elemental Armlets
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Elemental Armlets
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ When you become attuned to these armlets, you may choose one of the following da
 You may change your chosen damage type at any time by focusing on these armlets for 10 minutes.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 87*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Green Knight's Vow
 *Wondrous item, major, very rare (requires attunement)*  
@@ -39,3 +42,7 @@ You can expend 1 or more charges from the bracers to cast the [[/5. Mechanics/Sp
 The Green Knight's vow makes its wearer tremendously loyal to royalty. While attuned to the bracers, you gain the following flaw: "I will stand by my sovereign leader, no matter what." You or your GM determine who your leader is. In addition, if you are attuned to the bracers for 24 consecutive hours, your commitment to duty drives you to the brink of zealotry. You can't attune to the [[/5. Mechanics/Items/Red Queens Burden (GRIFFONSSADDLEBAG2).md\|Red Queen's burden]] or the [[/5. Mechanics/Items/Violet Kings Promise (GRIFFONSSADDLEBAG2).md\|Violet King's promise]]. If you are already attuned to either of them, your attunement to it immediately ends once this effect is extended to you. The first creature you meet who is attuned to either of these weapons becomes your sovereign leader, regardless of who you previously considered it to be. You become [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by them and obey their commands to the best of your ability. If you find the [[/5. Mechanics/Items/Red Queens Burden (GRIFFONSSADDLEBAG2).md\|Red Queen's burden]] or the [[/5. Mechanics/Items/Violet Kings Promise (GRIFFONSSADDLEBAG2).md\|Violet King's promise]] without an owner, you are compelled to protect it with your life until a rightful owner is found. These effects can be removed with a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but not while you are attuned to the bracers.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 94*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

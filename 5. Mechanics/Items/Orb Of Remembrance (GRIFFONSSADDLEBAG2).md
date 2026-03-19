@@ -12,6 +12,9 @@ weight: 0.5
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Orb of Remembrance
 *Wondrous item, minor, common*  
@@ -26,3 +29,7 @@ While holding the orb, you can use an action to speak its command word, priming 
 An orb remains primed for 1 minute or until used to capture a diorama. Touching a primed orb of remembrance to one that already has a diorama creates a duplicate of the diorama in the primed orb. Speaking the command word again while shaking the orb causes the diorama inside to disappear into smoke, allowing it to be primed once more.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

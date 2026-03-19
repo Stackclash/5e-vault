@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Storm Seer Lamp
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This crystal lantern gives off a faint, refreshing smell that reminds you of bei
 In addition, the lamp can detect incoming storms up to 3 hours before they arrive. If an approaching storm would affect the area within 1 mile of the lamp, the crystal's light becomes an eerie, cold gray.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 172*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

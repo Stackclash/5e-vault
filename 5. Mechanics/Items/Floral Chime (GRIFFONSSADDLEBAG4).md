@@ -9,6 +9,9 @@ aliases:
   - Floral Chime
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Floral Chime
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ A faint, floral perfume wafts from this handbell and radiates powerfully from yo
 Any swarm of insects within earshot of the bell must immediately make a DC 13 Wisdom saving throw or become distracted by the smell of flowers, either from the bell's perfume or from any that bloomed nearby. Regardless, a swarm that fails the saving throw is indifferent towards you and your companions for 1 hour or until it's threatened or harmed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

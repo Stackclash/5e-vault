@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Faithful Hound's Fetching Femur
 *Rod, major, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ The rod has 6 charges and regains `dice:1d6|noform|noparens|avg` (`1d6`) expende
 When you expend the last charge from the rod, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the hound wrenches the bone from your hand and runs away with it, ending the spell early and wasting the action to cast it. The bone then reappears in a random location 1,000 feet away from you after 1 hour.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

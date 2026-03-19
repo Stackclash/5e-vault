@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Rugs
 *Scroll, minor, uncommon*  
@@ -26,3 +29,7 @@ You can use an action to unfurl this illustrated scroll and speak its command wo
 When you use this scroll, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the scroll transforms into a hostile rug of smothering in the nearest unoccupied space within 5 feet of you. This property of the scroll is only revealed when you first speak the scroll's command word. An [[/5. Mechanics/Spells/Identify.md\|identify]] spell fails to reveal it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

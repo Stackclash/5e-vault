@@ -16,6 +16,9 @@ rarity: very-rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Slaad Doublet
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), very rare (requires attunement)*  
@@ -32,3 +35,7 @@ You gain a bonus +1 AC while wearing this armor. While wearing and attuned to th
 - You gain a resistance to either acid, cold, fire, lightning, or thunder damage (choose one upon attuning to this item). You may change which damage type you have resistance to at the end of a short rest.  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 141*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

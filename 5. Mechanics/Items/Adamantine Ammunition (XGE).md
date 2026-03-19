@@ -21,6 +21,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Adamantine Ammunition
 *Ammunition, minor*  
@@ -31,3 +34,7 @@ Ammunition made of or coated with adamantine is unusually effective when used to
 The adamantine version of ten pieces of ammunition costs 500 gp more than the normal version, whether the ammunition is made of the metal or coated with it.
 
 *Source: Xanathar's Guide to Everything p. 78*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

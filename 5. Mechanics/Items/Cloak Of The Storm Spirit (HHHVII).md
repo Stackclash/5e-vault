@@ -10,6 +10,9 @@ aliases:
   - Cloak of the Storm Spirit
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of the Storm Spirit
 *Wondrous item, legendary (requires attunement)*  
@@ -28,3 +31,7 @@ As a living storm, you lack a corporeal form and are instead a vague humanoid sh
 If you are in living storm form while in an area under the effect of the [[/5. Mechanics/Spells/Control Weather.md\|control weather]] spell or similar magic, you instantly revert to your true form. Once this item's ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 55*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

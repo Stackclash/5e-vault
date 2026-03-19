@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mistwalker Armor
 *Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, rare (requires attunement)*  
@@ -31,3 +34,7 @@ This dark leather armor releases thin wisps of fog from its seams. While wearing
 In addition, fog doesn't obscure your vision, and while you're in opaque fog, you can use your movement to teleport to an unoccupied space that you can see in the fog. Doing so costs an amount of movement equal to the distance you teleport.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

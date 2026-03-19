@@ -15,6 +15,9 @@ rarity: none
 type: weapon
 subtype:
   - explosive
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fragmentation Grenade
 *Explosive*  
@@ -26,3 +29,7 @@ As an action, a character can throw a grenade at a point up to 60 feet away. Wit
 Each creature within 20 feet of an exploding fragmentation grenade must make a DC 15 Dexterity saving throw, taking `dice:5d6|noform|noparens|avg` (`5d6`) piercing damage on a failed save, or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide p. 268*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -15,6 +15,9 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Astral Bracelet of Energy
 *Wondrous item, major, very rare (requires attunement by a sorcerer or wizard)*  
@@ -40,3 +43,7 @@ Each kind of astral bracelet has a different list spells that can be cast from i
 ^astral-bracelet-of-energy-spells
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

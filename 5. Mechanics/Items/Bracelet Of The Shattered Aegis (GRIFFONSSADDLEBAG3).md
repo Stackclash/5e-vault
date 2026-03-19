@@ -14,6 +14,9 @@ attunement-requirement:
   - spellcaster
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 2
+item_recharge: dawn
 ---
 # Bracelet of the Shattered Aegis
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  
@@ -25,3 +28,7 @@ A smoldering, defensive insignia burns at the center of the cracked glass sphere
 While wearing the bracelet, you can expend 1 of its charges as a reaction when a friendly creature that you can see within 30 feet of you is hit by an attack. That creature gains a bonus to its AC equal to your spellcasting ability modifier (minimum +1) until the start of your next turn, including against the triggering attack, as a shimmering, magical barrier protects it from harm. If the creature is already under the effect of the [[/5. Mechanics/Spells/Shield.md\|shield]] spell, this property has no effect, and the charge is wasted. If an attacker hits the creature while it's protected by this barrier, the barrier shatters, and any hostile creature within 5 feet of it must make a Dexterity saving throw against your spell save DC. On a failed save, a creature takes `dice:3d8|noform|noparens|avg` (`3d8`) fire damage, or half as much damage on a successful one. When the barrier shatters, the creature loses this bonus to its AC.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

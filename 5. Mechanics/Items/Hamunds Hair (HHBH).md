@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hamund's Hair
 *Herb, rare*  
@@ -30,3 +33,7 @@ Yes, this is a herb discovered by none other than I, Hamund Holderhek! This thic
 You may spend 3 hours applying this herb to armour which involves twisting and weaving the durable yet flexible strands into that armour's weakest areas. After this hour, the armour permanently imparts a +1 bonus to AC when worn. This herb cannot be applied to armour that already has a bonus to AC or to shields.
 
 *Source: Hamund's Herbalism Handbook p. 18*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

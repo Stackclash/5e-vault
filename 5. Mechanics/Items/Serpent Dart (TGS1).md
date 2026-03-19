@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Serpent Dart
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
@@ -34,3 +37,7 @@ subtype:
 You can use an action to cause thick, emerald green poison to coat this magic dart. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 13 Constitution saving throw or take an extra `dice:2d8|noform|noparens|avg` (`2d8`) poison damage from the attack and become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 minute. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 111*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

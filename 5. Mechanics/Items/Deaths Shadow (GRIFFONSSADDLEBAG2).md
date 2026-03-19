@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Death's Shadow
 *Wondrous item, major, legendary (requires attunement)*  
@@ -29,3 +32,7 @@ While your shadow form is defending you, your [[/5. Mechanics/Rules/Conditions.m
 Once this property has been used, it can't be used again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 69*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

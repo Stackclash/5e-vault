@@ -16,6 +16,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Blossoming Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
@@ -32,3 +35,7 @@ Alternatively, if the arrow is planted or otherwise stuck in soil and left to re
 Other types of magic ammunition of this kind exist, such as blossoming bolts meant for a crossbow, though arrows are most common.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

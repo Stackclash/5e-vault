@@ -13,6 +13,9 @@ rarity: varies
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Viper Strike
 
@@ -26,3 +29,7 @@ When you roll a 20 on your attack roll with this weapon, you deal an additional 
 - [[/5. Mechanics/Items/Viper Strike Very Rare (HHHVI).md\|Viper Strike (Very Rare)]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

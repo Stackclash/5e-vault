@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Boreal Pendant
 *Wondrous item, major, rare (requires attunement)*  
@@ -32,3 +35,7 @@ This enlarged, floating snowflake is magically held in place and changes its sha
 If you expend the pendant's last charge, roll a d20. On a 1, the snowflake melts into a puddle of water. After 1 year, the pendant reforms around the magical golden brackets that hold it in place.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

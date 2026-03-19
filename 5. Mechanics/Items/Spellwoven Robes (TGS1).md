@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spellwoven Robes
 *Wondrous item, major, uncommon*  
@@ -20,3 +23,7 @@ tier: major
 These robes are spun from special, magic-sensitive threads, causing arcane glyphs to appear on the robe while you wear it whenever you cast a spell. While wearing these robes and no other armor, your AC is equal to 10 + your spellcasting ability modifier. In addition, whenever you cast a spell of 1st level or higher, you can change the apparent style, color, and apparent material of the robe. Regardless of its appearance, it is always a robe and its weight remains the same.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

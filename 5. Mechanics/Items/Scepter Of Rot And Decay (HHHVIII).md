@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Scepter of Rot and Decay
 *Staff, weapon, cursed item, artifact (requires attunement by a spellcaster)*  
@@ -81,3 +84,7 @@ When you become attuned to the scepter, you become cursed. Whenever you finish a
 The scepter can only be destroyed by planting it in the fabled Flaming Forest of Nessus, the lowest level of the Nine Hells. Once planted in the ground, the scepter will catch flame and wither away to ash, never to return.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

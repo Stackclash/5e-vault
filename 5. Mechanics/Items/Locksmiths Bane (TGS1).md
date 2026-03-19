@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Locksmith's Bane
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ This silver lockpick twists and reorients itself to more easily open locks. You 
 If you roll a 1 in this way and use an ability to reroll the die or otherwise change the result, the item becomes a nonmagical, mundane lock pick but does not cast the spell or disintegrate.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 84*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

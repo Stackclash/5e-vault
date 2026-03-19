@@ -9,6 +9,9 @@ aliases:
   - Idea Bulb
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Idea Bulb
 *Wondrous item, common*  
@@ -20,3 +23,7 @@ This morbid looking glass bulb contains the preserved brain of a cranium rat. Wh
 A creature that comes within 10 feet of this item for the first time in a turn may mentally command them to not react to their presence until they mentally command them to react to them again.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 60*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

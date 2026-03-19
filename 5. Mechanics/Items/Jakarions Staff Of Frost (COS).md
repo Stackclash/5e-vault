@@ -23,6 +23,9 @@ rarity: very-rare
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Jakarion's Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
@@ -42,3 +45,7 @@ The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges 
 Imprinted on this staff is a fragment of a dead wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
 
 *Source: Curse of Strahd p. 187*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

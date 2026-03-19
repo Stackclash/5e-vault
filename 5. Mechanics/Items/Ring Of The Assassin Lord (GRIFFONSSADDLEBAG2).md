@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of the Assassin Lord
 *Ring, major, legendary (requires attunement by a rogue)*  
@@ -29,3 +32,7 @@ This dagger-shaped ring has been worn by famous assassins throughout history. Wh
 The inside of the ring is blank when you first attune to the ring. A small tick mark appears on the band's interior whenever you reduce a creature of challenge rating 1 or higher to 0 hit points with an attack in which you dealt Sneak Attack damage. Once the ring has 50 marks, your Dexterity ability score increases by 2, as does your maximum for that score, and the ring stops adding more marks. If another creature attunes to the ring and gains this bonus, your Dexterity ability score and maximum for that score return to normal.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 147*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

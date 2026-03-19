@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of Comprehending Languages
 *Wondrous item, minor, uncommon*  
@@ -20,3 +23,7 @@ tier: minor
 While wearing this helm, you can use an action to cast the [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] spell from it at will.
 
 *Source: Dungeon Master's Guide p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Outer Essence Shard
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
@@ -40,3 +43,7 @@ Roll a `dice:d4|noform|noparens|avg` (`d4`) and consult the Outer Essence Shards
 ^outer-essence-shards
 
 *Source: Tasha's Cauldron of Everything p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

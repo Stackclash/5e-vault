@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 5
+item_recharge: none
 ---
 # Festerwood's Light
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement)*  
@@ -45,3 +48,7 @@ As an action, you can touch a willing creature with the rapier and expend 1 of i
 While holding this rapier, you can use an action to expend 1 of its charges to cast one of the following spells from it (save DC 17, spell attack bonus +9): [[/5. Mechanics/Spells/Charm Person.md\|charm person]] (4th-level version), [[/5. Mechanics/Spells/Compulsion.md\|compulsion]], [[/5. Mechanics/Spells/Confusion.md\|confusion]], [[/5. Mechanics/Spells/Contagion.md\|contagion]], [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], or [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]] (4th-level version). In addition, you can use an action to cast the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell at will while holding the rapier.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 63*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

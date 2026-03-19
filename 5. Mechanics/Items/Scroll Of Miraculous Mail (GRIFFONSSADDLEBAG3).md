@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Miraculous Mail
 *Scroll, minor, common*  
@@ -28,3 +31,7 @@ The scroll then vanishes, magically reappearing at the location of the person or
 When the scroll vanishes, there's a 10 percent chance that it reappears in a random location on the same plane of existence, instead of its intended destination.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ tier: major
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Nimbus, First Staff of the Thunderbirds
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, major, artifact (requires attunement)*  
@@ -56,3 +59,7 @@ Some properties of this artifact are locked behind layers of dormant magic. As y
 The only way to destroy Nimbus, First Staff of the Thunderbirds is to keep it in a vacuum for 10 years, depriving it of any air, at which point the staff cracks open to release the swirling storm inside it. If the force of the released storm causes the vacuum to end, the storm escapes and continues to rage above that location for 1 year.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 199*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

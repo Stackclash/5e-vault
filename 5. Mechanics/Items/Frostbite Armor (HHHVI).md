@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frostbite Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
@@ -32,3 +35,7 @@ subtype:
 You gain a +1 bonus to AC and resistance to cold damage while wearing this armor. In addition, the first time in a turn that a creature within 5 feet hits you with a melee weapon attack while you are wearing this armor, they suffer `dice:2d6|noform|noparens|avg` (`2d6`) cold damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

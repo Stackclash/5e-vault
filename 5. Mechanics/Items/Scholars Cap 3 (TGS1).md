@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scholar's Cap +3
 *Wondrous item, major, very rare (requires attunement)*  
@@ -23,3 +26,7 @@ This hat carries with it the cleverness and knowledge of many previous scholars.
 In addition, when it would normally take you at least 1 week in order to research a subject, you instead finish that research 3 days faster for each week you would have spent.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 109*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

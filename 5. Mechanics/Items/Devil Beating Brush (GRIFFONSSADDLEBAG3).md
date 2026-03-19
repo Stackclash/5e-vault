@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Devil-Beating Brush
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ Many temple murals depicting great gods and deities have been painted by artists
 You can use an action to paint on a devil. Make a Dexterity or Charisma check using the paintbrush against the devil's AC. On a success, the devil takes `dice:4d6|noform|noparens|avg` (`4d6`) radiant damage. If you roll a 20 on the ability check, the devil must also succeed on a DC 15 Charisma saving throw or be banished to its home plane of existence, unless it's already there.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

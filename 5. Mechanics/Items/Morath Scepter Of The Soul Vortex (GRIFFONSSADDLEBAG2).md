@@ -20,6 +20,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Morath, Scepter of the Soul Vortex
 *Rod, major, artifact (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -69,3 +72,7 @@ The rod bears a curse that affects any non-human that becomes attuned to it. Eve
 The only way to destroy the rod is to destroy Morath while your soul is contained within the rod. When you do, use your original body's statistics and abilities for your soul, with the exception that your hit point maximum is halved. Use the [[/5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] stat block for Morath's soul. From outside the rod, this combat resolves instantaneously, regardless of how much time passed within the rod during the battle. If you die while within the rod in this way, your soul is lost to the Thousand Voices. If Morath dies, the rod is destroyed and you return to your body with 1 hit point, regardless of where your body is at the time.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 198*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

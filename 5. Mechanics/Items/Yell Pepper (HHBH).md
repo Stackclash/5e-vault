@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Yell Pepper
 *Herb, common*  
@@ -36,3 +39,7 @@ You may eat this herb as an action. For the next hour, the maximum volume of you
 
 
 *Source: Hamund's Herbalism Handbook p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

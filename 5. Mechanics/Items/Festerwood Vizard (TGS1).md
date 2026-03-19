@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Festerwood Vizard
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ This dark wooden mask is strangely insect-like and magically conforms to fit you
 In addition, you can summon a [[/5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]] (beetles) that fly out of the mask's mouth and obey your verbal commands as an action. You can command the swarm to move and make an attack as part of the action to summon them and then again on each of your following turns as a bonus action. If the swarm goes 10 minutes without attacking a creature, they dissipate harmlessly to seek food elsewhere. Once this property has been used, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 63*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

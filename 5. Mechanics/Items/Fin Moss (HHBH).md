@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fin Moss
 *Herb, rare*  
@@ -30,3 +33,7 @@ Often mistaken for a school of fish resting on a seabed rock, fin moss is pretty
 You may spend 10 minutes attaching these herbs to 1 melee weapon or up to 10 pieces of ammunition. Any weapon or ammunition that has this moss attached to it suffers no penalty when used underwater. These herbs may only be attached to one weapon or set of ammunition—any attempt to remove them damages them beyond use.
 
 *Source: Hamund's Herbalism Handbook p. 14*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of Immutability
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ This adamantine amulet protects you from magic that would threaten to alter your
 In addition, when you are targeted by the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell, you can choose to automatically succeed on the saving throw.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

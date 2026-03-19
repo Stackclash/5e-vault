@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mourningsteel Obol
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ When the coin is placed in the mouth of a dead creature, that creature gains the
 If the dead creature is returned to life while the coin is in its mouth, the coin is magically transformed into a lustrous metal called solacesteel and then loses its magic. Otherwise, the coin simply loses its magic and remains as mourningsteel after 10 days when the [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell ends.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

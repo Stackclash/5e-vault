@@ -15,6 +15,9 @@ attunement-requirement:
   - half-elf
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vyra's Broken Path
 *Wondrous item, major, very rare (requires attunement by an elf or half-elf)*  
@@ -26,3 +29,7 @@ This cloak once belonged to an elven archer of masterful skill. Its shoulders ar
 While the cloak or bow is on your person, you can use an action to focus your awareness on the surrounding region. For 1 hour, you can sense if any of the following creature types are present within 1 mile of you: aberrations, celestials, dragons, elementals, fey, fiends, and undead. You know the type of any being whose presence you sense, but not its identity. This property doesn't reveal the creatures' location or number. Once this property of the cloak has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 181*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

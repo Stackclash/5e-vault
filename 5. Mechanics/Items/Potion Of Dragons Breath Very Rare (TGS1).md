@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Dragon's Breath (very rare)
 *Potion, minor, very rare*  
@@ -26,3 +29,7 @@ This potion is crafted using the harvested stomach and gizzard of a fallen drago
 It takes 7 days and proficiency with [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] to create the potion, requiring 2 hours of work each day in order to prepare it. Failing to tend to the potion causes it to reset, requiring another 7 days to craft. When the potion resets in this way, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the potion spoils and is lost.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

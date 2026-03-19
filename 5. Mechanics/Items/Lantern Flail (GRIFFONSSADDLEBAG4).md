@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lantern Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), rare (requires attunement)*  
@@ -32,3 +35,7 @@ A fiery lantern hangs at the end of the chain of this flail. You gain a +1 bonus
 While the lantern is alight, it sheds bright light in a 30-foot radius and dim light for an additional 30 feet.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

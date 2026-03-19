@@ -10,6 +10,9 @@ aliases:
   - Mask of Multitudes
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Mask of Multitudes
 *Wondrous item, cursed item, artifact (requires attunement)*  
@@ -55,3 +58,7 @@ When you become attuned to the amulet, you become cursed. Whenever you finish a 
 This item can only be destroyed if it is kept below Castle Greyhawk undisturbed and unused for 100 years, after which the mask will dissolve into dust and become useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 103*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

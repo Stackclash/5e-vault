@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightning Caltrops
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ These magic caltrops function like normal caltrops when scattered. When a creatu
 If a set of lightning caltrops is scattered on the ground within 15 feet of another one, charging either set of caltrops also charges the other.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Book of Clothier's Croquis
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ A transformed garment loses any magical or nonmagical property it may have until
 The drawn clothes and transformed garments remain for up to 4 hours but magically disappear or return to their normal form if you remove them or use an action to speak the command phrase again. The drawn clothes are physical but offer no benefits to AC. Although the drawn clothes and transformed garments can duplicate the appearance of other magic clothes, they don't gain their magical properties.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 49*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scarab Mask
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This mask is made of iridescent brass and is designed in the likeness of a scara
 While wearing this mask, Medium and smaller insects and insect swarms (such as centipedes, spiders, wasps, scorpions, or similar creatures) are indifferent toward you and will not attack you unless you threaten or harm them. In addition, you're immune to any insect-borne disease. If you're already suffering from such a disease, its effects are suppressed while you wear the mask.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

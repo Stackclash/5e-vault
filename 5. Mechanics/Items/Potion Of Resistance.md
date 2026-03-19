@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Resistance
 *Potion, minor, uncommon*  
@@ -34,3 +37,7 @@ subtype:
 - [[/5. Mechanics/Items/Potion Of Thunder Resistance.md\|Potion of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide p. 188*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

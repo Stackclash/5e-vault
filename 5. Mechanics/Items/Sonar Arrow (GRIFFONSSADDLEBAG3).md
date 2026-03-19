@@ -16,6 +16,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Sonar Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
@@ -30,3 +33,7 @@ A creature that has the Keen Hearing trait gains a +5 bonus to any Wisdom ([[/5.
 Other types of magic ammunition of this kind exist, such as sonar bolts meant for a crossbow, though arrows are most common.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

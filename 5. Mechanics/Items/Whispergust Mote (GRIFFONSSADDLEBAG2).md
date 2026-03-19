@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Whispergust Mote
 *Wondrous item, minor, common*  
@@ -30,3 +33,7 @@ The whispergust mote is a sentient chaotic good item with an Intelligence of 1, 
 The whispergust mote ultimately travels where it wants to go, but knows that companionship is often worth the limitations that come with it. In even the most dull of places, the mote will find ways to entertain itself—often to the panic or frustration of the creatures it travels with.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 188*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

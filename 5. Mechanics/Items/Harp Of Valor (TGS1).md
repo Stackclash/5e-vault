@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Harp of Valor
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, very rare (requires attunement by a bard)*  
@@ -39,3 +42,7 @@ This elegant bow has 10 strings and can also be used as both a harp and spellcas
 The bow has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. While holding the bow, you can expend 1 to 5 of its charges as an action to cast either the thunderwave or magic missile spell from it at a spell level equal to the number of expended charges, using your spellcasting modifier and spell save DC.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 75*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Sundrops
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This small, colorful bag is filled with `dice:1d6+4|noform|noparens|avg` (`1d6 +
 A [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell targeting the light ends the effect early.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 30*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

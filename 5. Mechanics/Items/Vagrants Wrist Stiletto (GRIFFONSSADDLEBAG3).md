@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vagrant's Wrist Stiletto
 *Wondrous item, major, rare*  
@@ -24,3 +27,7 @@ If you're a rogue and extend the blade from the bracer as part of the [[/5. Mech
 A creature inspecting the bracer to find the hidden dagger while it's retracted must succeed on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check in order to discover it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

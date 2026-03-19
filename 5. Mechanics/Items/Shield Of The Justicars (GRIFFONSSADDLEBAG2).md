@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Shield of the Justicars
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
@@ -27,3 +30,7 @@ One of the original arms from the Upheaval, this shield can be used to release a
 In addition, the shield has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn. While holding it, when a creature that you can see within 30 feet of you casts a spell, you can use your reaction to expend 1 of the shield's charges and speak its command word. When you do, the target must make a DC 15 Constitution saving throw. On a failed save, the target takes a –2 penalty to its spell attack bonus and saving throw DC until the end of the turn, including against the triggering spell.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 158*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ weight: 2
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Spellforge Scabbard
 *Wondrous item, major, rare (requires attunement)*  
@@ -29,3 +32,7 @@ The scabbard has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 Alternatively, you can use an action to expend 1 of the scabbard's charges to draw any type of melee weapon out of the scabbard. The drawn weapon is spectral, remains for 1 minute, and has a +1 bonus to its attack and damage rolls. Any attack that hits with it deals force damage, instead of its normal damage type. You can use a bonus action to return the spectral weapon to the scabbard, and if the weapon would normally have the heavy property, it doesn't.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

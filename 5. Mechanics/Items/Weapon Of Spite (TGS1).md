@@ -24,6 +24,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Weapon of Spite
 *Major, uncommon*  
@@ -33,3 +36,7 @@ subtype:
 This deep red weapon was made by a vengeful craftsman. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus becomes +2 if the attack is made against a creature who damaged you since your last turn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

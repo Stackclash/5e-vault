@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Frostburn Blade
 *Major, very rare (requires attunement)*  
@@ -36,3 +39,7 @@ This sword's blade is made entirely of ice and remains perfectly frozen regardle
 When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action using this weapon, you can choose to forgo one of the attacks to sweep the blade in front of you, causing a wave of either cold or fire to erupt from the blade in a 30-foot cone. Each creature in the cone must make a DC 16 Dexterity saving throw, taking `dice:4d6|noform|noparens|avg` (`4d6`) cold or fire damage (your choice) on a failed save, or half as much damage on a successful one. Once this property of the sword has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Helm of Mind Trapping
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of Mind Trapping
 *Wondrous item, very rare (requires attunement)*  
@@ -21,3 +24,7 @@ While wearing this helm, you may spend your action to force a target humanoid wi
 The helm may only store one copy of a mind at a time. This copy is only removed if the helm is destroyed or if the wearer makes a copy of a different humanoid's mind. The wearer may also choose to make a copy of their own mind while wearing the helm (no check required).
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 59*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

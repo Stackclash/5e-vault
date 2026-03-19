@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Growth
 *Potion, minor, uncommon*  
@@ -23,3 +26,7 @@ subtype:
 When you drink this potion, you gain the "enlarge" effect of the [[/5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]] spell for `dice:1d4|noform|noparens|avg` (`1d4`) hours (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
 
 *Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

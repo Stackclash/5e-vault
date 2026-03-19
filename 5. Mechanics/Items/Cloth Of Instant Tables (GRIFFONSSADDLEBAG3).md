@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloth of Instant Tables
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This rolled up table cloth is secured by a wood-patterned ring. You can use an a
 The table remains until the cloth is removed from the table, which can be done using an action. As part of the action to remove the cloth and dismiss the table, you can roll it up and secure the cloth within the ring. If the table is destroyed, the cloth becomes a nonmagical table cloth.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

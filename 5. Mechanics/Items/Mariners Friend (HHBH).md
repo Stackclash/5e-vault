@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mariner's Friend
 *Herb, common*  
@@ -30,3 +33,7 @@ While this low lying shrub may seem like a common weed to the less educated, thi
 For 4 hours after using this herb, any liquid that touches you instantly drains off your body, clothes, and possessions, leaving you completely dry.
 
 *Source: Hamund's Herbalism Handbook p. 23*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Furious Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement by a barbarian)*  
@@ -42,3 +45,7 @@ This magic stone flail has the heavy property. If you're raging while holding th
 You can use an action to smash the flail into the ground at a point within the weapon's reach. When you do, the ground erupts, spewing a mixture of earth and fire in a 20-foot cube centered on that point. Each creature other than you in that area must make a DC 16 Dexterity saving throw. On a failed save, a creature takes `dice:2d12|noform|noparens|avg` (`2d12`) bludgeoning damage and `dice:2d12|noform|noparens|avg` (`2d12`) fire damage, or half as much damage on a successful one. In addition, the ground in that area becomes difficult terrain until cleared. It takes 1 minute to clear an affected 5-foot-square space of the rubble by hand. Once this property of the flail has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 86*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

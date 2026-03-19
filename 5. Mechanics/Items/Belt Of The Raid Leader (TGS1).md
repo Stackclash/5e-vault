@@ -15,6 +15,9 @@ attunement-requirement:
   - orc
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Belt of the Raid Leader
 *Wondrous item, major, rare (requires attunement by a half-orc or orc)*  
@@ -26,3 +29,7 @@ This thick leather belt is reinforced with large rivets and secured with a heavy
 Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

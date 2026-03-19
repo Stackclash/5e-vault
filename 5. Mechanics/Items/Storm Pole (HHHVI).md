@@ -10,6 +10,9 @@ aliases:
 weight: 40
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Storm Pole
 *Wondrous item, very rare*  
@@ -22,3 +25,7 @@ This 10-foot-long, 40-pound pole constantly crackles with energy and has an inna
 A switch on the base of the pole may also be flipped, which causes lightning to strike this pole once every 6 seconds (on initiative count 20 if done during combat) for the next minute, after which the switch flips to the off position. A creature may also spend their action to flip the switch back prematurely. Once the switch has been flipped off, it cannot be flipped back on for another 24 hours.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 142*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

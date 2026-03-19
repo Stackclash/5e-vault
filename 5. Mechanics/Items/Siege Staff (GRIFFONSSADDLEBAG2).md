@@ -27,6 +27,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Siege Staff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
@@ -53,3 +56,7 @@ While holding the staff, you can use an action and expend 1 or more charges to c
 While holding the staff, you can use an action and expend 3 charges to magically create and fling a boulder at a point you can see within 60 feet of you. Any target within 5 feet of the point must make a Dexterity saving throw. On a failed save, a target takes `dice:4d8|noform|noparens|avg` (`4d8`) bludgeoning damage, and if it's Medium or smaller, it is also pushed 10 feet away from the point. On a successful save, a target takes half as much bludgeoning damage and isn't pushed. Maximize the bludgeoning damage dice against any object or structure hit by the boulder. After it lands, the boulder disappears.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 161*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

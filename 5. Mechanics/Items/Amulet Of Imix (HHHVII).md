@@ -10,6 +10,9 @@ aliases:
   - Amulet of Imix
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of Imix
 *Wondrous item, rare (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: rare
 While wearing and attuned to this amulet, you gain 5 temporary hit points whenever you reduce an enemy to 0 hit points. In addition, any time you are forced to roll a Constitution saving throw to maintain control of a fire elemental or maintain concentration on a spell that deals fire damage, you do so at advantage.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 53*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

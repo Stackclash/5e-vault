@@ -10,6 +10,9 @@ aliases:
   - Cape of Helping Hands
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cape of Helping Hands
 *Wondrous item, very rare (requires attunement)*  
@@ -23,3 +26,7 @@ While wearing this cape, you may speak the command word as an action to animate 
 These extra hands remain for 1 hour or until you dismiss them by repeating the command word as an action. When they disappear, they cannot be used again for the next `dice:1d6|noform|noparens|avg` (`1d6`) hours.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Lunar Might
 *Ring, major, very rare (requires attunement)*  
@@ -31,3 +34,7 @@ Once the ring has been used to create an area of gravitational force, it can't d
 Alternatively, you can use an action to speak the ring's command word to cast the [[/5. Mechanics/Spells/Reverse Gravity.md\|reverse gravity]] spell (spell DC 16) from it. Once the ring has been used in this way, it loses this property.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 146*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

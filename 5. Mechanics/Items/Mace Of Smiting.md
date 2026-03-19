@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mace of Smiting
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare*  
@@ -36,3 +39,7 @@ When you roll a 20 on an attack roll made with this weapon, the target takes an 
 > Note: According to the SRD, it is an extra `dice:2d6|noform|noparens|avg` (`2d6`) and `dice:4d6|noform|noparens|avg` (`4d6`) bludgeoning damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
 *Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

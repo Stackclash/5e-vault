@@ -16,6 +16,9 @@ rarity: uncommon
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Grell Jerkin
 *Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), uncommon (requires attunement)*  
@@ -27,3 +30,7 @@ subtype:
 While wearing this jerkin you become particularly sensitive to the vibrations and electrical currents around you. So long as you are [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] (including if you just have your eyes closed), you have [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] with a range of 60 feet.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

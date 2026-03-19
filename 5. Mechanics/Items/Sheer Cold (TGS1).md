@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sheer Cold
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare*  
@@ -37,3 +40,7 @@ The blade of this battleaxe is made from a shard of the Everglacier and never me
 When you roll a 20 on an attack roll with this weapon, the ground in the direction of the target in either a 15-foot cone or 30-foot-long, 5-foot-wide line (your choice) is covered in a layer of slick ice for 1 minute, making it difficult terrain. When a creature enters this area for the first time on a turn or starts its turn there, it must succeed on a DC 10 Dexterity saving throw or fall prone. In addition, the original target of the attack must succeed on a DC 15 Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by ice until the start of your next turn. The restrained target can use an action to make a DC 15 Strength check. On a success, the target is freed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 114*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

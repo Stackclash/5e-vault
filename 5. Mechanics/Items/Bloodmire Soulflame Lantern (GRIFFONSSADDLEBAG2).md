@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodmire Soulflame Lantern
 *Wondrous item, cursed item, major, legendary (requires attunement)*  
@@ -37,3 +40,7 @@ This lantern is cursed, and attuning to it extends that curse to you. You remain
 As long as you remain cursed, you are unwilling to part with the lantern, keeping it within reach at all times. In addition, you must continuously feed the lantern's flame using your own vitality. Whenever you gain or spend any number of Hit Dice, you must also sacrifice one Hit Die to the lantern (if you have any). Alternatively, you can use an action to open the lantern's door and hold your hand over the flame, sacrificing one of your Hit Dice when you do. If the lantern isn't given any Hit Dice for 24 hours, you die, and the flame goes out until the lantern is attuned to by another creature or you return to life while still attuned to it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 47*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

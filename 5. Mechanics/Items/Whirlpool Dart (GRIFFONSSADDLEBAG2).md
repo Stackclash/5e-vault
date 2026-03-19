@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Whirlpool Dart
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
@@ -38,3 +41,7 @@ In addition, unsecured objects that are completely within the cylinder are autom
 The dart's property can't be used again until the next dawn. In the meantime, the dart can still be used as a magic weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 188*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

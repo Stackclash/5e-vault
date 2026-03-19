@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: varies
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pact Card
 *Wondrous item, minor*  
@@ -32,3 +35,7 @@ You can use an action to hold out a pact card with a creature trapped inside it.
 The GM has the creature's statistics. Once the creature is summoned, the card burns away in a harmless blue flame and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

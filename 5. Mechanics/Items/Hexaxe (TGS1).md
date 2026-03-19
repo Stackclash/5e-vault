@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Hexaxe
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a warlock)*  
@@ -39,3 +42,7 @@ This handaxe amplifies curses bestowed on its enemies. The weapon has 3 charges 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon against creatures under the effects of a warlock spell you cast that requires concentration.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 77*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

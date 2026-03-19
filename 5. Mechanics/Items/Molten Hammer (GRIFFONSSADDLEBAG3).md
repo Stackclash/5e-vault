@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Molten Hammer
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ This hammer is pulled like glass from molten rock and glows with residual heat f
 Once on each of your turns when you hit a target with this hammer, you can cause the hammer to magically overheat. When you do, the attack deals an extra `dice:2d8|noform|noparens|avg` (`2d8`) fire damage. You then take fire damage equal to half this amount, which can't be reduced or prevented in any way.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

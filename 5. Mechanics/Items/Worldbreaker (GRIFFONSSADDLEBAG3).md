@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Worldbreaker
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, legendary (requires attunement by a creature with a strength score of 17 or higher)*  
@@ -38,3 +41,7 @@ This titanic hammer resembles a darkened globe of impenetrable black iron. When 
 In addition, you can use an action to cast the [[/5. Mechanics/Spells/Earthquake.md\|earthquake]] spell from the hammer (save DC 17), slamming the weapon into the ground as part of the action to cast it. You and up to 10 other creatures of your choice that you can see automatically succeed on the saving throw against being knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] by the spell. This version of the spell extends from you in a 100-foot radius and does not require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], but ends at the end of your next turn. Once this property of the hammer has been used, it can't be used again until a number of days have passed equal to the number of fissures created by the spell (minimum of 1 day).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

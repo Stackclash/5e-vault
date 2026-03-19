@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Radiant War Pick
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement by a cleric or paladin)*  
@@ -39,3 +42,7 @@ In addition, while holding the war pick, you can use an action to expend a use o
 You can use an action to speak the war pick's command word to cause it to shed bright light in a 20-foot radius and dim light for an additional 20 feet. Speaking the command word again puts out the light.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 142*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

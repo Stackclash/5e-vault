@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Orcam's Razor
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), uncommon*  
@@ -34,3 +37,7 @@ This rough-hewn axe is used as a decider of arguments in certain orcish societie
 When you make a check that's contested by another creature's check while holding the axe, you can choose to force both you and the other creature to make the roll without adding any modifiers to the result. Once this property of the axe has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

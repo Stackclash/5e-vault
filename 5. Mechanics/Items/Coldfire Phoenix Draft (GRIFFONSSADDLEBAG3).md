@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Coldfire Phoenix Draft
 *Potion, minor, legendary*  
@@ -26,3 +29,7 @@ This frigid potion is made from Everglacier ice that's been boiled by the flames
 When you drink this potion using an action, you gain resistance to cold damage until you die. When you die, you are immediately returned to life with 1 hit point and 100 temporary hit points. While you have these temporary hit points, you are immune to cold damage, your speed is halved, and you have disadvantage on ability checks.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

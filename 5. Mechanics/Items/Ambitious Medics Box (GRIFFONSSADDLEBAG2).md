@@ -13,6 +13,9 @@ weight: 3
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Ambitious Medic's Box
 *Wondrous item, minor, uncommon (requires attunement)*  
@@ -29,3 +32,7 @@ The right side is locked by a metal clasp decorated with a moon smoking a pipe. 
 While attuned to the box, you are proficient in the [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]] skill and can open either side of the box at any time. If you're already proficient in the [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]] skill, your proficiency bonus is doubled for any ability check you make that uses that skill.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 33*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

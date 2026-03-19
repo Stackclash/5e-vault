@@ -12,6 +12,9 @@ armorClass: 2
 weight: 6
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shield of Far Sight
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), rare*  
@@ -24,3 +27,7 @@ A [[/5. Mechanics/Bestiary/Aberration/Mind Flayer.md\|mind flayer]] skilled at c
 If a shield of far sight is destroyed, the [[/5. Mechanics/Bestiary/Aberration/Mind Flayer.md\|mind flayer]] that created it is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] for `dice:2d12|noform|noparens|avg` (`2d12`) hours.
 
 *Source: Volo's Guide to Monsters p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

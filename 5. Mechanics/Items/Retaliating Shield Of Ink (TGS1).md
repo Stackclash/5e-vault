@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Retaliating Shield of Ink
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  
@@ -29,3 +32,7 @@ The shield can hold up to 3 uses of the ink before needing to be refilled. It ta
 This is a mechanical item whose purpose and functionality can be understood following a successful Intelligence check (DC 12). On a success, you can interpret what the shield does, how to use it, and how to take care of it. You also understand that filling the shield with other volatile or sticky liquids such as acid, poison, grog, oil, or any other solid material such as sand, will damage the machinery inside and take 8 hours of work to repair.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 105*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

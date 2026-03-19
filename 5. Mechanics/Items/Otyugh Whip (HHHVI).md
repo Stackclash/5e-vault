@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Otyugh Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare*  
@@ -29,3 +32,7 @@ subtype:
 You gain a +1 to attack and damage rolls made with this weapon. When you hit a Medium or smaller sized creature with this weapon, you may make a [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] check against them as a free action, using the whip to [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] instead of your free hand. This ability can only be used once per turn. While you have a creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] in this way, you may not attack with this whip.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

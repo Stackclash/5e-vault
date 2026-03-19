@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Celestial Might
 *Potion, very rare*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you regain hit points equal to half of your maximum hit points, and you gain advantage on saving throws against spells and other magical effects for the next minute. This potion gleams a bright gold at all times.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

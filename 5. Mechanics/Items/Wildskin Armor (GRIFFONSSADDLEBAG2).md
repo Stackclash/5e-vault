@@ -20,6 +20,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wildskin Armor
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, uncommon (requires attunement by a druid)*  
@@ -33,3 +36,7 @@ This enchanted hide armor magically conforms to your body and moves naturally wi
 While wearing this armor, you can choose to have it reinforce your new form when you use your Wild Shape. When you do, your AC while you are transformed is equal to 14 + your Dexterity modifier (maximum 2), unless it's already higher. You gain this benefit even if the armor merges into your new form. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 190*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

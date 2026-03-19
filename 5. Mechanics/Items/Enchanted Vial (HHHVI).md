@@ -14,6 +14,9 @@ rarity: unknown\Magic
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Enchanted Vial
 
@@ -26,3 +29,7 @@ An enchanted vial is inlaid with several runes designed to keep any magical reso
 Items that require an enchanted vial to be harvested are fragile by nature and must be stored inside an enchanted vial quickly to prevent degradation. **Any attempt to harvest a material that has an enchanted vial as a requirement must be initiated within 1 minute of the death of its creature.**
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 145, Hamund's Harvesting Handbook: Volume II p. 67, Hamund's Harvesting Handbook: Volume III p. 107*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

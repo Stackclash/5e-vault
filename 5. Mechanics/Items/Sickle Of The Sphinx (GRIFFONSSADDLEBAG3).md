@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sickle of the Sphinx
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare (requires attunement by a creature with an intelligence score of 13 or higher)*  
@@ -38,3 +41,7 @@ The blade of this sickle is made of an azure crystal. Peering through the transl
 While holding the sickle, you can use a bonus action to pose a mind-altering question (such as a riddle or philosophical prompt) to another creature within 30 feet of you that can hear you and understands at least one language. That creature must succeed on a DC 15 Intelligence saving throw or take `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage. This psychic damage increases by `dice:1d4|noform|noparens|avg` (`1d4`) each time you use this property against the same creature on a consecutive turn, to a maximum of `dice:3d4|noform|noparens|avg` (`3d4`) psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Angel Robe
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Angel Robe
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ You gain a +1 bonus to AC while wearing this robe and all your weapon attacks ar
 In a new form, you retain your statistics and ability to speak, but your AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and you gain any statistics and capabilities (except class features, legendary action, and lair actions) that the new form has but that you lack.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 119*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

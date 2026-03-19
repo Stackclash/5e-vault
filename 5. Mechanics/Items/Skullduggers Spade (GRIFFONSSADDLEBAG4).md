@@ -9,6 +9,9 @@ aliases:
   - Skulldugger's Spade
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Skulldugger's Spade
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ While holding this spade, you can use an action to touch it to the ground in an 
 Once you remove ten cubes of dirt or stone in this way, this property of the spade can't be used again for 8 hours.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

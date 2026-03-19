@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Corrupted Strength
 *Potion, rare*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you grow one size larger and your Strength score increases to 21 for 1 hour if it was lower than that before. At the end of this hour you return to your regular size, and your Strength score returns to normal. This potion is a pale red color that swells and ebbs to the rhythm of an invisible heartbeat.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 63*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

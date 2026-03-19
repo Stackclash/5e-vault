@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Charging Bugle
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ This blue bugle horn is lined in enchanted copper that can transform sound into 
 In addition, you can use a bonus action on your first turn of combat to blow an invigorating call from the bugle. Any friendly creature within 30 feet of you (including yourself) that can hear the bugle gains a 5-foot bonus to its speed until the start of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

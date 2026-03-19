@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Staff of the Arcanum
 *Staff, weapon, major, legendary (requires attunement by a wizard)*  
@@ -56,3 +59,7 @@ The staff of the arcanum is a sentient chaotic good staff with an Intelligence o
 The staff of the arcanum is bookish and, at times, stuck up. It enjoys unraveling puzzles. It refuses to lend its strength to liches, however, preventing them and similar necromancers from using the staff's properties. At the GM's discretion, the staff may choose to cast a stored spell on its own (no action required by you).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

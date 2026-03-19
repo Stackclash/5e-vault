@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Icestone Trunk
 *Herb, rare*  
@@ -30,3 +33,7 @@ Petrified wood occurs when a fallen tree is buried in sediment, after which a pr
 As part of using this herb, you must use it to sharpen one slashing or piercing melee weapon, or up to 10 pieces of slashing or piercing ammunition. For the next 4 hours, this weapon or ammunition is considered magical, and whenever it successfully hits a creature, they must make a DC 17 Constitution saving throw as frost attempts to cover their body. Creatures with resistance or immunity to cold damage automatically succeed this saving throw. On a failed save, the affected creature's movement speed is halved and makes all Dexterity saving throws at disadvantage for 1 minute. If the saving throw fails by 5 or more, the creature is also [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] and cannot take reactions as the frost overtakes their body. At the end of each of the creature's turns, they may make the saving throw again, ending the effect on a success. This herb may be used up to 6 times, after which its magic fades and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 19*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

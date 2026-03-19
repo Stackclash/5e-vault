@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wraith's Ring
 *Ring, major, uncommon (requires attunement)*  
@@ -31,3 +34,7 @@ While wearing the ring, you can use an action to cast the [[/5. Mechanics/Spells
 Dying doesn't end your attunement to this magic item. In addition, if you're attuned to three items with this named property, you treat bright light (but not sunlight) as if it were dim light or darkness for the purposes of the items' various properties, and you can use a bonus action to reveal or suppress one or more of the items' visual effects. While an item's visual effects are suppressed, you don't gain the benefits of that item's other properties.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

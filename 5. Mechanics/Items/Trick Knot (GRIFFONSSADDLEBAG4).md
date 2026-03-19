@@ -10,6 +10,9 @@ aliases:
 weight: 5
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Trick Knot
 *Wondrous item, uncommon*  
@@ -22,3 +25,7 @@ This knotted ball of hempen rope weighs 5 pounds. A loop extends from it for eas
 The spell lasts for the full duration or until the rope is pulled from the space. When the spell ends, the rope magically ties itself into a new knotted ball, and this property of the ball can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

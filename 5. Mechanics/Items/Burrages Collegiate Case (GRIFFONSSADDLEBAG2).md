@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Burrage's Collegiate Case
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This lute case is made from a rich, dark wood and is decorated with 33 mithral s
 Retrieving an item from the case requires an action. If you place something other than an [[/5. Mechanics/Items/Musical Instrument.md\|instrument]] or musical object within one of the case's extradimensional compartments, it magically appears next to the case again when you close the lid.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 54*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

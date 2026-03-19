@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Glowmoss
 *Herb, common*  
@@ -30,3 +33,7 @@ A simple and ubiquitous moss, immediately recognisable for the faint blue glow i
 This herb sheds dim light in a 5 foot radius around it.
 
 *Source: Hamund's Herbalism Handbook p. 16*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

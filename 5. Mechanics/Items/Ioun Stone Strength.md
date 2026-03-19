@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ioun Stone, Strength
 *Wondrous item, major, very rare (requires attunement)*  
@@ -26,3 +29,7 @@ A stone has AC 24, 10 hit points, and resistance to all damage. It is considered
 Your Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.
 
 *Source: Dungeon Master's Guide p. 176. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Prepyrus
 *Herb, rare*  
@@ -30,3 +33,7 @@ A reedy plant long favoured by swamp-dwelling people for its papery stalks that 
 During a short rest, you may write down a series of magical incantations on this herb to change your list of prepared spells. You still need to spend the same amount of time to prepare each spell as listed in your class feature, however. This herb may only be used once.
 
 *Source: Hamund's Herbalism Handbook p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

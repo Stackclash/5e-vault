@@ -14,6 +14,9 @@ attunement-requirement:
   - wizard
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Celestial Tome of Healing
 *Wondrous item, major, rare (requires attunement by a wizard)*  
@@ -27,3 +30,7 @@ In addition, your connection to the book gives you magical insight to theology. 
 When you use your Arcane Recovery feature while the book is on your person, you also regain `dice:1d4|noform|noparens|avg` (`1d4`) hit points for each spell slot level you expended to cast a spell from the book since the last time you finished a long rest.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

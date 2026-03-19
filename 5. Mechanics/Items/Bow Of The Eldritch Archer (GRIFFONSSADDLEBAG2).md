@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bow of the Eldritch Archer
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ This unearthly bow is disjointed and gruesome. It's made of an ashen, twisted wo
 These energy projectiles can sometimes pierce enemies. Once on each of your turns when you make an attack using this weapon, you can force another creature 10 feet directly behind the original target to make a DC 15 Dexterity saving throw. On a failed save, the creature takes `dice:1d10|noform|noparens|avg` (`1d10`) force damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 50*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

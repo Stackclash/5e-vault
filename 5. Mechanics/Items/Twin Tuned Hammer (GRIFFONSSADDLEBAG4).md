@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Twin-Tuned Hammer
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, very rare (requires attunement)*  
@@ -40,3 +43,7 @@ Whenever the hammer deals this bonus thunder damage, it continues to vibrate unt
 - You can roll a `dice:d4|noform|noparens|avg` (`d4`) and add it to your bard spell save DC whenever you cast a spell that deals thunder damage. This bonus ends immediately after you cast the spell.  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

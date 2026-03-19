@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Covolt Circlet
 *Wondrous item, major, very rare (requires attunement)*  
@@ -23,3 +26,7 @@ This jagged circlet is made from covolt, an elemental blue metal that carries st
 If you cast a spell that deals either acid, cold, fire, or thunder damage while wearing the circlet, you can choose to use the circlet as a spellcasting focus for that spell. When you do, the damage becomes lightning damage, instead of its original type. Once this property has been used, you shouldn't use it again until the next dawn. Each time you do, there's a cumulative 20 percent chance that you also take `dice:1d8|noform|noparens|avg` (`1d8`) lightning damage for each level of the spell that you transmute. This damage ignores resistance and immunity and can't be reduced or redirected by the circlet. For the purposes of this property, a cantrip counts as a 1st-level spell.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candleflame Helm
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 While wearing this helm, you can use a bonus action to mentally create a tiny flame just above your head. The flame sheds bright light in a 15-foot radius and dim light for an additional 15 feet. While the flame persists, you can use an action to mentally expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each. The flame remains until you use a bonus action to extinguish it, until you remove the helm, or you're [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
 *Source: The Griffon's Saddlebag, Book 2 p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

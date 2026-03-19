@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cloak of Protection
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -21,3 +24,7 @@ tier: major
 You gain a +1 bonus to AC and saving throws while you wear this cloak.
 
 *Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

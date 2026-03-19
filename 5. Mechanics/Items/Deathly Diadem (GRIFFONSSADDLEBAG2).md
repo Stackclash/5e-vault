@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deathly Diadem
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
@@ -28,3 +31,7 @@ This crown is cursed, a fact that is only revealed to you when you die. The firs
 A creature remains cursed in this way until targeted by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or divine intervention. Removing the crown fails to end the curse. While a cursed creature may not reveal that the diadem is cursed, its allies may be able to deduce its presence and effects based on the creature's behavior.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 70*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

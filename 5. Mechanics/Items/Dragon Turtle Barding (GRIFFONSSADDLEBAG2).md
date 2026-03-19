@@ -16,6 +16,9 @@ tier: major
 type: gear
 subtype:
   - tack-and-harness
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Turtle Barding
 *Tack and harness, major, very rare*  
@@ -29,3 +32,7 @@ This heavy armor is made using salvaged pieces of a dragon turtle's shell and ca
 - The creature gains a swimming speed equal to its walking or flying speed, whichever is higher.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 73*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

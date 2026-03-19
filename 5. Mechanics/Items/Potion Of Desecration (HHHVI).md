@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Desecration
 *Potion, very rare*  
@@ -26,3 +29,7 @@ Every night at midnight while cursed, you must succeed on a DC 18 Wisdom saving 
 This curse can only be removed if the death knight from whom the blood was taken is permanently destroyed, after which point the curse immediately ends.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

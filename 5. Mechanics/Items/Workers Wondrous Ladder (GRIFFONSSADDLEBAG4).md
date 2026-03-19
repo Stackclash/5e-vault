@@ -14,6 +14,9 @@ rarity: common
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Worker's Wondrous Ladder
 *Rod, common*  
@@ -26,3 +29,7 @@ This wooden rod looks like the base of a simple ladder. While holding it, you ca
 While holding one of the rods, you can use an action to speak its command word again to cause every other attached rod to magically disappear, leaving you with a single rod again.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

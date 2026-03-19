@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Duplicitous Manuscript
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
@@ -35,3 +38,7 @@ The book has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 - When a creature you can see makes an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to discern the true nature of an illusion spell you cast, or makes a saving throw against an illusion spell you cast, you can use your reaction and expend 1 charge to impose disadvantage on the roll.  
 
 *Source: Tasha's Cauldron of Everything p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

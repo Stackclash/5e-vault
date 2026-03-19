@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Architect's Disdain
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement)*  
@@ -32,3 +35,7 @@ subtype:
 This adamantine war pick is specially designed to tear down walls. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Whenever the war pick hits an object or structure, the hit is a critical hit. In addition, if you hit a magically created object or structure, such as a [[/5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]], with the war pick, you can choose to dispel the wall or object as if by the [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell (6th-level version). The effect fails if the spell or magical effect that created the object or structure was cast using a 7th-level spell slot or higher. Once the war pick has dispelled a structure in this way, this property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

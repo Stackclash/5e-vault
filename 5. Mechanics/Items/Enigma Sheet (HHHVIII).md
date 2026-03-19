@@ -9,6 +9,9 @@ aliases:
   - Enigma Sheet
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Enigma Sheet
 *Wondrous item, rare*  
@@ -32,3 +35,7 @@ This sheet of vellum constantly swirls with random text, runes, and symbols that
 ^enigma
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 87*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

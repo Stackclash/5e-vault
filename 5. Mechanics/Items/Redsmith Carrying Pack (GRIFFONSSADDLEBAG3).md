@@ -12,6 +12,9 @@ weight: 20
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Redsmith Carrying Pack
 *Wondrous item, minor, common*  
@@ -26,3 +29,7 @@ If you have a different magic item with "Redsmith" in the name, you can perform 
 The bag can also be used as a normal backpack.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

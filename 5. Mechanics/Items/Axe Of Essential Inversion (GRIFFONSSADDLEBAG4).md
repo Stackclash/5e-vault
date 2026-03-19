@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Axe of Essential Inversion
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), legendary (requires attunement)*  
@@ -47,3 +50,7 @@ When you hit a celestial or fiend with this weapon, you can expend 1 of its char
 When you reduce a celestial or fiend to 0 hit points using the axe, you can expend 1 of its charges to force the target to make a DC 17 Charisma saving throw. On a failed save, the target's sense of self is shattered; it drops to 1 hit point instead, and its alignment is changed. Lawful becomes chaotic, good becomes evil, and vice versa. If its alignment is true neutral or unaligned, or if the target has legendary actions, this property has no effect on it.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

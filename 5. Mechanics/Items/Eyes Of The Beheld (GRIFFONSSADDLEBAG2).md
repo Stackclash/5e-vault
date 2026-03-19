@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eyes of the Beheld
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ The eyes you can choose to see through in this way must be a part of the set, be
 Each eye has AC 10 and 5 hit points. If it drops to 0 hit points, the eye is destroyed. If a target or area is immune to divination magic or can't be perceived through [[/5. Mechanics/Spells/Scrying.md\|scrying]] sensors, it doesn't appear through the hole. If you find another eye of the beheld, you can connect it to an existing set by holding it against another eye from the set for 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 79*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Helm of the Ulitharid
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Ulitharid
 *Wondrous item, very rare (requires attunement)*  
@@ -21,3 +24,7 @@ While wearing this helm, you have telepathy out to a range of 120 feet. In addit
 While wearing this helm you also mentally receive duplicates of any messages sent or received via telepathy by creatures within 30 feet of you. The original sender and receiver are not made aware of this interception, and you cannot telepathically respond to a duplicated telepathic message.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 59*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

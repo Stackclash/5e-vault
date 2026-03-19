@@ -11,6 +11,9 @@ aliases:
 weight: 3
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Orb of Dragonkind
 *Wondrous item, artifact (requires attunement)*  
@@ -51,3 +54,7 @@ While you control the orb, you can use an action to cause the artifact to issue 
 An Orb of Dragonkind appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A [[/5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
 
 *Source: Dungeon Master's Guide p. 225. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

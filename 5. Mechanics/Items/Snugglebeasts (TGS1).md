@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Snugglebeasts
 *Wondrous item, minor*  
@@ -29,3 +32,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Snugglebeast Tarrasque (TGS1).md\|Snugglebeast (Tarrasque)]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

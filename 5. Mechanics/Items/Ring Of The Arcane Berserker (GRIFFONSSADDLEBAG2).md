@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Ring of the Arcane Berserker
 *Ring, major, rare (requires attunement by a barbarian)*  
@@ -29,3 +32,7 @@ This dark silver ring is decorated by a metallic skull with an amethyst gemstone
 This ring has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While wearing it, you can cast a spell even if you're raging by expending 1 of the ring's charges as part of casting the spell. If you do, your rage does not end at the end of your turn as a result of not attacking a hostile creature. In addition, you can concentrate on spells while raging, but have disadvantage on Constitution saving throws to maintain your concentration on them when you take damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 147*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

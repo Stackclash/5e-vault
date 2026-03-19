@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of the Plagueswarm
 *Wand, cursed item, major, very rare (requires attunement)*  
@@ -38,3 +41,7 @@ Whenever your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]]
 This curse is only revealed if the wand is destroyed as a result of expending its last charge, extending the curse to you when that happens. You can end your attunement to this wand as normal, even though it's cursed. While you're cursed, you are also diseased. Only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can end this curse and disease. While cursed, you have disadvantage on Constitution saving throws, and you must succeed on a DC 16 Intelligence check whenever you attempt to use a magic item property. On a failed save, your action to use the item is wasted. For example, casting a spell from a wand would be considered as using one of its properties, but attacking with a +1 longsword wouldn't.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

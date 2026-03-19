@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Borbos's Marvelous Magic Marker
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This quill-like tool has a narrow brush that extends from its end, which produce
 While holding the marker, you can use a bonus action to triple-click its button. For the next minute, the marker magically erases any ink it's brushed across without a trace, instead of leaving ink behind. This effect ends early if you use a bonus action to triple-click the button again. For the duration, you can erase up to 1 square foot of ink, containing no more than 150 characters or 25 words. Once this property of the pen has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

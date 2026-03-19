@@ -9,6 +9,9 @@ aliases:
   - Living Chalk
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Living Chalk
 *Wondrous item, common*  
@@ -18,3 +21,7 @@ rarity: common
 Images drawn by this chalk are capable of small amounts of movement on their drawing surface, resembling a basic flipbook animation. These images tend to act in a manner imagined by the creature that drew them but are otherwise unaware of their surroundings and cannot move more than 1 foot beyond their original placement. These drawings lose their enchantment and freeze into place 10 minutes after being drawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

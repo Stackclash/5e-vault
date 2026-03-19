@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fanana
 *Herb, common*  
@@ -30,3 +33,7 @@ A rather whimsical fruit that resembles a bunch of green bananas if each fruit w
 This herb has `dice:1d6|noform|noparens|avg` (`1d6`) charges, with each charge corresponding to one of the fruits of the herb. As an action, you may expend one or more charges to burst the fruits, releasing pent up gas inside and creating a burst of wind that is 5 feet wide and has a length equal to 5 times the number of charges expended. This wind is powerful enough to snuff out open flames and knock over small objects, but not enough to knock a creature [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: Hamund's Herbalism Handbook p. 13*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

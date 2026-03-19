@@ -9,6 +9,9 @@ aliases:
   - Stamp of Shipping
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stamp of Shipping
 *Wondrous item, common*  
@@ -34,3 +37,7 @@ You can halve the travel time by doubling the gold required. The amount of gold 
 An object vanishes once it's stamped. It reappears at the named location at the end of the travel time. If an object can't be delivered, or if the location is farther than the paid-for distance would allow, it's returned to the location where it was originally stamped instead, and the gold is wasted.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

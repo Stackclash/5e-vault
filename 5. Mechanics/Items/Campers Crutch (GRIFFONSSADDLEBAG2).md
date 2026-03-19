@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Camper's Crutch
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), minor, common*  
@@ -31,3 +34,7 @@ subtype:
 This enchanted fire poker is a favorite among travelers. Attacks made with this magic weapon deal either bludgeoning or piercing damage (your choice). In addition, as an action, you can use the poker to touch a pile of dry wood or other flammable object that isn't being worn or carried and speak the weapon's command word. When you do, the object catches fire and slowly begins to burn. Once this property has been used, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 55*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

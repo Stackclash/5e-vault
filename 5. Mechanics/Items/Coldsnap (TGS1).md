@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Coldsnap
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ The whip has 3 charges and regains all of them each day at dawn. When you hit a 
 Once you attune to this weapon, its normally frigid handle feels warm to the touch.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 46*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

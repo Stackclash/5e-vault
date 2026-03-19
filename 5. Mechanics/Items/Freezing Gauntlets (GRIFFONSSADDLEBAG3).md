@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Freezing Gauntlets
 *Wondrous item, major, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ When not worn, these gauntlets appear to be simple iron cuffs. Once worn, howeve
 While wearing the gauntlets, you can use an action to hold your hands out and cast the [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] spell from them (save DC 16). Whenever you cast the spell in this way, there is a cumulative 25 percent chance that this version of the spell permanently changes. When it does, the version of cone of cold cast by the gauntlets deals half as much damage, the size of its cone is halved, and once it's cast from the gauntlets, it can't be cast from them again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

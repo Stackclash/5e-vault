@@ -16,6 +16,9 @@ tier: major
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horn of Valhalla, Silver
 *Wondrous item, instrument ([[/5. Mechanics/Items/Horn.md\|horn]]), major, rare*  
@@ -29,3 +32,7 @@ The silver horn summons `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) [[/5. Mecha
 The [[/5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] are friendly to you and your companions and follow your commands.
 
 *Source: Dungeon Master's Guide p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

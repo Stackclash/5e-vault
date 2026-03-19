@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rapier of the Black Tentacle
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), rare*  
@@ -32,3 +35,7 @@ This dark silver rapier sounds weighty as it whips through the air. You gain a +
 While holding the rapier, you can use an action to cast the [[/5. Mechanics/Spells/Evards Black Tentacles.md\|evard's black tentacles]] spell from it (save DC 15). This version of the spell doesn't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]]; it fills a 20-foot cone, originating from you, instead of its normal area and range, and ends at the end of your next turn. Once this property of the rapier has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

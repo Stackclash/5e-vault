@@ -9,6 +9,9 @@ aliases:
   - Swarm Charms
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Swarm Charms
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This set of 4 paper charms on silver chains share an innate connection with each
 This shared connection comes at a price, however. If a member of the swarm becomes subjected to an effect that would impose a Wisdom or Intelligence saving throw, all members of the swarm become targeted by the same effect, even if they would not otherwise be a valid target.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 65*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

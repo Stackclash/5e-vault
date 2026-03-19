@@ -9,6 +9,9 @@ aliases:
   - Figurine of Wondrous Power
 attunement: false
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Figurine of Wondrous Power
 *Wondrous item*  
@@ -28,3 +31,7 @@ rarity: varies
 - [[/5. Mechanics/Items/Figurine Of Wondrous Power Silver Raven.md\|Figurine of Wondrous Power, Silver Raven]]
 
 *Source: Dungeon Master's Guide p. 169*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

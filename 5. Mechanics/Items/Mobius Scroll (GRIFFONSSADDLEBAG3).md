@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: dawn
 ---
 # Mobius Scroll
 *Scroll, major, rare (requires attunement by a spellcaster)*  
@@ -47,3 +50,7 @@ You can cast a spell from the scroll as normal while you're attuned to it, even 
 A spell that's copied from the scroll into a spellbook is permanently removed from the scroll. If that spell is rolled on the table above after it's been copied in this way, nothing happens, and the scroll remains blank until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

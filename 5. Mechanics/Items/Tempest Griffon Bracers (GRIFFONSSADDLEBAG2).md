@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tempest Griffon Bracers
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ While wearing these oiled bracers lined with magic griffon feathers, your speed 
 In addition, you can use an action to speak the bracers' command word to vanish into a plume of sparks and feathers. Choose up to 3 different creatures that you can see within 60 feet of you. Make a melee weapon attack against each target, briefly appearing next to each one before making the attack. A target takes an extra `dice:2d8|noform|noparens|avg` (`2d8`) lightning damage on a hit, or half as much lightning damage on a miss. You can then teleport to an unoccupied space you can see within 5 feet of one of the targets or return to your original space, reappearing in a flourish of electricity, feathers, and wind. Once this property of the bracers has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 174*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

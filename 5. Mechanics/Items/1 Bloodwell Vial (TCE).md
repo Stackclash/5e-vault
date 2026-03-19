@@ -16,6 +16,9 @@ rarity: uncommon
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +1 Bloodwell Vial
 *Wondrous item, spellcasting focus, uncommon (requires attunement by a sorcerer)*  
@@ -26,3 +29,7 @@ To attune to this vial, you must place a few drops of your blood into it. The vi
 In addition, when you roll any Hit Dice to recover hit points while you are carrying the vial, you can regain 5 sorcery points. This property of the vial can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

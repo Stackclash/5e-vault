@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shapeshifter's Circlet
 *Wondrous item, minor, common*  
@@ -26,3 +29,7 @@ This ivory circlet allows you to recreate some of the natural features of other 
 You can only have 1 of these effects active at a time. The effect lasts until you dismiss it as a bonus action, remove the circlet, or fall unconscious. You don't gain any of the senses or abilities of another creature by recreating its physical features in this way.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 114*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

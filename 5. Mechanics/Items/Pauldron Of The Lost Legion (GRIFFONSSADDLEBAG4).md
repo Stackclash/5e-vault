@@ -10,6 +10,9 @@ aliases:
   - Pauldron of the Lost Legion
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Pauldron of the Lost Legion
 *Wondrous item, legendary (requires attunement)*  
@@ -49,3 +52,7 @@ The pauldron of the lost legion's sentience is divided between the 10 spirits tr
 Unburdening Elrik of his guilt (which can be done at the GM's discretion) causes the pauldron to become purified, transforming it into a gold-hued metal called solacesteel when it happens. The solacesteel version of this item isn't sentient, but the spirits' spell attacks use a `dice:d8|noform|noparens|avg` (`d8`) damage die, instead of a `dice:d6|noform|noparens|avg` (`d6`).
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Hammer of Thorns
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), very rare (requires attunement)*  
@@ -38,3 +41,7 @@ You gain a +2 bonus to attack and damage rolls made with this magic weapon. The 
 While holding the hammer, you can use an action to expend 1 or more of its charges to slam it down into the ground. When you do, a wall of thorns appears (save DC 16), as if by the spell, which originates in a space within 5 feet of you. The wall is up to 5 feet long for each charge you expend. This version of the spell doesn't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] and deals no damage to any creature that succeeds on the saving throw when it appears; such a creature is instead pushed to one side of the wall (your choice). The wall remains for the duration of the spell or until this property of the hammer is used again.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

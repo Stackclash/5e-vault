@@ -23,6 +23,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Couatl Herald's Reach
 *Major, rare (requires attunement)*  
@@ -38,3 +41,7 @@ Depending on the pinned limb, the creature may fall over [[/5. Mechanics/Rules/C
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 49*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -20,6 +20,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Gilding
 *Wand, major, rare (requires attunement by a bard, sorcerer, or wizard)*  
@@ -47,3 +50,7 @@ While holding this wand, you can use an action to expend 1 of its charges to cas
 While holding this wand, when you make a Charisma check or saving throw, you can use your reaction and expend 1 of its charges to make the roll with advantage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 182*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

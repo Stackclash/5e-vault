@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mimicloak
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ This strange cloak is made using the enchanted remains of a young mimic. While w
 While wearing this cloak, you have advantage on ability checks made to escape from a [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]]. Whenever you make an ability check to escape a grapple or free yourself from restraints, the creature or object holding you takes `dice:1d10|noform|noparens|avg` (`1d10`) piercing damage as the cloak's fabric magically splits into a toothed maw to bite it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

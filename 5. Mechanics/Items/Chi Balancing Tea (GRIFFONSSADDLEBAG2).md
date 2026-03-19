@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Chi-Balancing Tea
 *Potion, minor, rare*  
@@ -26,3 +29,7 @@ This potion is specially brewed by the monks of Durheim using a unique leaf foun
 When you drink this potion, it cures any short-term madness afflicting you, and if you are [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], it ends those conditions. In addition, if you have 2 or more levels in the monk class, you regain `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended ki points.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 58*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

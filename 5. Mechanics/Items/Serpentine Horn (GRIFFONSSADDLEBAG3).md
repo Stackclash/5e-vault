@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Serpentine Horn
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ When measuring range or moving diagonally on a grid in this way, the first diago
 Each use of the horn's magic has a 10 percent chance of causing the horn to transform into a giant constrictor snake in the nearest unoccupied space, destroying the horn. The snake is hostile to you. It shares your initiative count but takes its turn immediately after yours.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Incense
 *Wand, major, rare (requires attunement by a spellcaster)*  
@@ -39,3 +42,7 @@ While you can smell the burning incense, you can't be [[/5. Mechanics/Rules/Cond
 If you have a normal stick of incense, you can use an action to place it in the empty holder. Normal incense burned in the holder never loses any of its total burn time, but is expelled from the holder when the special incense appears each dawn. Incense burned from the holder can be smelled by any creature within 60 feet of it. While holding the wand, you can choose whether or not the incense is burning (no action required).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

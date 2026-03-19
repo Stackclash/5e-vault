@@ -19,6 +19,9 @@ tier: major
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Brambleheart Quiver
 *Wondrous item, adventuring gear, major, very rare (requires attunement by a ranger)*  
@@ -31,3 +34,7 @@ This wooden quiver can carry your arrows as well as provide some of its own. The
 When you fire and hit a target or point with one of these magic arrows, you can use a bonus action on that same turn to speak the quiver's command word. When you do, that arrow transforms into a thick field of thorns to recreate the effects of the [[/5. Mechanics/Spells/Spike Growth.md\|spike growth]] spell, centered on its location. This effect does not require concentration and lasts until the start of your next turn. If the arrow was lodged in a target when you use this property, that target also takes `dice:2d4|noform|noparens|avg` (`2d4`) piercing damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 39*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

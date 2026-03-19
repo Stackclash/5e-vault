@@ -9,6 +9,9 @@ aliases:
   - Talisman of Annihilation
 attunement: false
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Talisman of Annihilation
 *Wondrous item, legendary*  
@@ -22,3 +25,7 @@ As an action, you may destroy this talisman by breaking it upon the ground. If y
 Any creature that dies either in your aura, or as a result of the anti-life sphere, explodes in a burst of negative energy, forcing all creatures adjacent to them other than you to succeed on a DC 21 Constitution saving throw or take `dice:4d6|noform|noparens|avg` (`4d6`) necrotic damage and, if they exploded due to dying in your aura, granting you advantage on attack rolls against them until the start of their next turn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 98*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

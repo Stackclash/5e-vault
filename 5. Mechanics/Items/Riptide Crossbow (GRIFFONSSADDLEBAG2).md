@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Riptide Crossbow
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ This magic crossbow has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1
 At the start of your next turn, the point erupts, sending out a powerful wave of water in a 20-foot radius that extinguishes all nonmagical flames within the area. The water then vanishes. Any creature in the area when the point erupts must make a DC 15 Strength saving throw. On a failure, a creature takes `dice:3d10|noform|noparens|avg` (`3d10`) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. On a successful save, a creature takes half as much damage and isn't knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: The Griffon's Saddlebag, Book 2 p. 148*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

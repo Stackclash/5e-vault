@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bird of a Feather
 *Wondrous item, minor*  
@@ -27,3 +30,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Bird Of A Feather Uncommon (TGS1).md\|Bird of a Feather (uncommon)]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 35*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Boots of Stone Strength
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boots of Stone Strength
 *Wondrous item, rare (requires attunement)*  
@@ -23,3 +26,7 @@ These hard-toed boots grant their wearer the sturdiness of the earth itself. Whi
 - You ignore any penalties to your movement speed that would be imposed by walking over non-magical stone or soil.  
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 55*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

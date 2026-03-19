@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bullfrog Totem
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 The magical fey spirit of a bullfrog inhabits this mosscovered stone statue. A creature that can see invisible objects can see this spirit swimming through the air around the statue. The statue is 9 inches tall and weighs 3 pounds. Harmless, mundane insects such as flies, gnats, and mosquitos are magically repelled from the statue in a 30-foot-radius sphere that remains centered on it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 53*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

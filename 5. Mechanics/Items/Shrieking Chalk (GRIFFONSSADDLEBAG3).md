@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shrieking Chalk
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This piece of chalk doesn't make any marks when used to write with. Instead, it 
 There's enough chalk for three uses. It grows smaller with each use. Once the chalk is used a third time, any remaining fragments are turned to dust and destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

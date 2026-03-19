@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Giant Captain's Hook
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare*  
@@ -32,3 +35,7 @@ subtype:
 This sickle is made from a giant sea captain's pilfered, sharpened hook. Its wooden handle resembles a tiny barrel. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and you don't suffer the negative effects of underwater combat when you make an attack with it. This weapon's damage die is a `dice:d6|noform|noparens|avg` (`d6`), it deals piercing damage instead of slashing damage on a hit, and it has the heavy property instead of light. It deals maximum damage to creatures underwater.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

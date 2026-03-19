@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Gusting Blowgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon (requires attunement)*  
@@ -37,3 +40,7 @@ This magic, twisting blowgun channels the air around it to create powerful blast
 The blowgun has 3 charges and regains all expended charges daily at dawn. As an action, you can expend 1 of its charges to blow through the weapon to create a line of wind 30 feet long and 5 feet wide. Any Medium or smaller creature in the line must succeed on a DC 13 Strength saving throw or be pushed 10 feet away from you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 96*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Figurine of Wondrous Power, Marble Elephant
 *Wondrous item, major, rare*  
@@ -27,3 +30,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 This marble statuette is about 4 inches high and long. It can become an [[/5. Mechanics/Bestiary/Beast/Elephant.md\|elephant]] for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

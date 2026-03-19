@@ -28,6 +28,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Mummy Lord Staff
 *Staff, weapon, cursed item, major, very rare (requires attunement by a bard, cleric, sorcerer, warlock, or wizard)*  
@@ -58,3 +61,7 @@ Once per turn when you hit a creature with the staff, you can expend 1 charge to
 This staff is cursed, and attuning to it extends the curse to you. You remain cursed until you're targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While cursed, your hit point maximum is reduced by `dice:3d6|noform|noparens|avg` (`3d6`) each time you drop to 0 hit points. If your hit point maximum is reduced to 0 in this way, you die, and your body is turned to dust. Your hit point maximum remains reduced in this way until you're targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, even if the curse on you ends.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

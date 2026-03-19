@@ -10,6 +10,9 @@ aliases:
   - Firewatch Vambraces
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Firewatch Vambraces
 *Wondrous item, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ You can use an action to cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire sh
 The vambraces can be used to cast this spell twice. They regain all expended uses of it daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

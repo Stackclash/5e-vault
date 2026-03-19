@@ -9,6 +9,9 @@ aliases:
   - Draconic Powder Horn
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Draconic Powder Horn
 *Wondrous item, rare*  
@@ -32,3 +35,7 @@ Once a use of the powder catches fire, it's lost. Otherwise, you can spend 1 min
 The horn regains `dice:1d10+10|noform|noparens|avg` (`1d10 + 10`) poured-out uses of powder daily at dawn, at which point any poured-out powder turns to ash. If you use the horn to light either a pile or line of the powder, you can choose for the spark to smolder harmlessly until the start of your next turn, at which point the powder catches fire and explodes.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

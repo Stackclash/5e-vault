@@ -10,6 +10,9 @@ aliases:
   - Time Warden Helm
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Time Warden Helm
 *Wondrous item, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ While wearing the helmet, you can use a bonus action to see the immediate future
 The save DC is equal to 10 plus the number of times this property has been used since dawn. For example, the first time this saving throw is made each day, the DC would be 12, since the property would have been used twice. If you're also wearing the time warden armor, you have advantage on the saving throw.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Angdrelve (Wave of Sorrow)
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), cursed item, artifact (requires attunement)*  
@@ -63,3 +66,7 @@ As the weapon of a Demon Lord, Angdrelve bares a lingering curse for any mortal 
 The only way to destroy Angdrelve is for it to be placed within a pitch-black box and be untouched and unseen by any creature for 200 years, after which it dissolves into a foul ichor.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 26*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

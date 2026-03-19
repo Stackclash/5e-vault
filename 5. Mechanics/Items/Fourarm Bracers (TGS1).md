@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Fourarm Bracers
 *Wondrous item, major, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ In addition, the gems adorning the bracers can amplify the arms' strength for sh
 Alternatively, you can expend 1 charge to double the arms' carrying capacity and increase their duration to 5 minutes instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 67*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

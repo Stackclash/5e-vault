@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wyrmshide Bow
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
@@ -55,3 +58,7 @@ The cowl remains until you lose all these temporary points. Once this property h
 ^dragon-resistance
 
 *Source: The Griffon's Saddlebag, Book 2 p. 193*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

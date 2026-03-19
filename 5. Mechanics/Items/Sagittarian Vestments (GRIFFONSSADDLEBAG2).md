@@ -39,6 +39,9 @@ subtype:
   - heavy
   - light
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sagittarian Vestments
 *Cursed item, major, uncommon (requires attunement by a cleric or paladin)*  
@@ -57,3 +60,7 @@ While attuned to this armor and wearing it, you can use a bonus action to cast t
 This armor is cursed, and becoming attuned to it extends the curse to you until you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell. While cursed, your legs magically change shape to become hooved and equine, unless they already are, and you take a –5 penalty to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. In addition, while cursed, the distance you can jump without a running start is halved.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 153*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

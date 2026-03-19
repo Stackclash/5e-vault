@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Rings of the True Companions
 *Ring, major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ If additional creatures are attuned to rings from the set, the rings' collective
 **4 attuned wearers:** When you use the rings to cast [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] on another wearer, you also gain `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) temporary hit points for each charge you spend.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 148*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

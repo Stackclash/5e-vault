@@ -12,6 +12,9 @@ weight: 12
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Insatiable Tome
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ This large, ragged tome weighs 12 pounds and has up to one thousand blank vellum
 The tome dislikes the taste of magic. Any swallowed pages containing spells, magical sigils, or arcane scrolls are harmlessly spat back out by the tome. However, any notes, spells, or magical sigils that are written in the tome (instead of having been eaten by it) can be recalled if they're either dated, labeled, or titled. Written commentary, notes, and other such addenda to documents within the tome are saved by it and appear whenever the document is recalled again.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 110*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

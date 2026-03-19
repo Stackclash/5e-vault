@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 12
+item_recharge: dawn
 ---
 # Helm of the Justicars
 *Wondrous item, major, legendary (requires attunement)*  
@@ -23,3 +26,7 @@ This helm once belonged to Grand Mage-Arbiter Elodie Scolian, the preeminent lea
 In addition, the helm has 12 charges and regains `dice:2d6|noform|noparens|avg` (`2d6`) expended charges daily at dawn. Whenever you're affected by a spell while wearing this helmet, you can use your reaction to learn the level of the spell and expend any number of charges from the helm (minimum 1 charge). If the number of charges is equal to or greater than the level of the triggering spell, you are unaffected by it. A cantrip is considered to be a 1st-level spell for the purposes of this property.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 102*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

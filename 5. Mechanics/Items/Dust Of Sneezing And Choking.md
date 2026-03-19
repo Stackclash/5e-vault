@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dust of Sneezing and Choking
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ Found in a small container, this powder resembles very fine sand. It appears to 
 When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe while sneezing uncontrollably. A creature affected in this way is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell can also end the effect on a creature.
 
 *Source: Dungeon Master's Guide p. 166. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

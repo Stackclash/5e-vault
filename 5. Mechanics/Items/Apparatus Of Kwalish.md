@@ -12,6 +12,9 @@ weight: 500
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Apparatus of Kwalish
 *Wondrous item, major, legendary*  
@@ -51,3 +54,7 @@ A creature in the compartment can use an action to move as many as two of the ap
 ^apparatus-of-kwalish-levers
 
 *Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

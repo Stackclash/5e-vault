@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Titan's Field
 *Herb, rare*  
@@ -35,3 +38,7 @@ For 8 hours after using this herb, you are connected to the mycelium network, gr
 - Whenever you take damage, you may use your reaction to reduce the damage taken by `dice:1d12|noform|noparens|avg` (`1d12`) by redirecting some of it into the mycelium network itself. Once you have used this ability 6 times, your connection to the mycelium network breaks, and the effect of this herb ends immediately.  
 
 *Source: Hamund's Herbalism Handbook p. 35*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

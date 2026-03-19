@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lucky Horseshoes
 *Wondrous item, minor, rare*  
@@ -26,3 +29,7 @@ Each horseshoe has this property. When a creature wearing the shoes either misse
 This effect can't allow the creature to do the impossible. For example, even with the aid of a lucky horseshoe, a horse can't succeed on an ability check in such a way that allows it to magically fly doing that would require a set of [[/5. Mechanics/Items/Horseshoes Of A Zephyr.md\|horseshoes of a zephyr]] instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

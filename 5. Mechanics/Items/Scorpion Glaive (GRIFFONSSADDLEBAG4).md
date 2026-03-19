@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scorpion Glaive
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), uncommon*  
@@ -30,3 +33,7 @@ subtype:
 This glaive is gently curved. It magically straightens when you thrust it forward. On a hit, the weapon deals either piercing or slashing damage (your choice each time). When you roll a 20 on an attack roll made with this weapon against a creature, that creature must also succeed on a DC 13 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] creature takes `dice:1d6|noform|noparens|avg` (`1d6`) poison damage at the start of each of its turns; it can repeat the Constitution saving throw at the end of each of its turns for the duration, ending the effect on a success.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

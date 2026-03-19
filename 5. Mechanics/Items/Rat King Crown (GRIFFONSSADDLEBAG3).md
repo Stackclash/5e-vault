@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rat King Crown
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -33,3 +36,7 @@ The friendly swarm shares your initiative but takes its turn immediately after y
 The swarm becomes hostile if you remove the crown or if you or your companions harm it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

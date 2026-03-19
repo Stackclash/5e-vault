@@ -9,6 +9,9 @@ aliases:
   - Thunderbolt Quill
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Thunderbolt Quill
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This quill writes by burning parchment, velum, or similar surfaces with electric
 You can use the quill to copy a spell into a spellbook. When you do, the spell doesn't require special ink, halving the gold you must normally spend to do so. If you use this quill to copy a damage-dealing spell into a spellbook, you can choose to change the spell's damage type to either lightning or thunder. You make this choice when you copy the spell into the book. Each time you copy a spell into a book using the quill, roll a `dice:d8|noform|noparens|avg` (`d8`). On a 1, the quill loses its magic after copying the spell, but can still be used as a normal quill.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

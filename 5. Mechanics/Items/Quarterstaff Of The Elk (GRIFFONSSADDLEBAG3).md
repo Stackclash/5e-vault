@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quarterstaff of the Elk
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement)*  
@@ -40,3 +43,7 @@ This wooden staff is carved from an ancestral branch in the likeness of a pair o
 While holding the quarterstaff, any creature you physically shove also takes `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage from the weapon. If another creature within your reach attempts to physically grapple or shove you and fails, that creature immediately takes `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage from the quarterstaff and falls [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

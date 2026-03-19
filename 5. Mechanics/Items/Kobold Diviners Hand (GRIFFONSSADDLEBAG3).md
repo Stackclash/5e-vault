@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kobold Diviner's Hand
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This severed hand of a kobold diviner still twitches on occasion. You can use an
 Once this property of the hand has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

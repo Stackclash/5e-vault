@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hand Mirror of the Medusa
 *Wondrous item, major, very rare*  
@@ -24,3 +27,7 @@ This hand mirror bears the bust of a medusa at its top. Its silver surface is sp
 You can use an action to brandish the mirror in front of you and speak its command word. When you do, you expose it to each creature in a 30-foot cone that originates from you, provided that the creature can see you. Each creature in the area is immediately affected by the [[/5. Mechanics/Spells/Flesh To Stone.md\|flesh to stone]] spell (save DC 16); you must concentrate on the spell as normal. Once this property has been used, it can't be used again until the mirror has been used to petrify a creature with its own Petrifying Gaze trait.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

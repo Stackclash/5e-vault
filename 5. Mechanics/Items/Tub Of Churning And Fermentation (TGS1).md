@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tub of Churning and Fermentation
 *Wondrous item, minor, uncommon*  
@@ -35,3 +38,7 @@ Once the tub has been used in this way, it can't be used again until the followi
 ^tub-of-churning-and-fermentation-results
 
 *Source: The Griffon's Saddlebag, Book 1 p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

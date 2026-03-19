@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Purging Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  
@@ -37,3 +40,7 @@ This chiseled wooden dagger is a relic crafted from the bough of a holy tree and
 When you roll a 20 on an attack roll made with this weapon against an undead creature, you can choose to plunge the blade into the creature's body and leave it there. When you do, the dagger emits bright light in a 15-foot radius and dim light for another 15 feet. The light is sunlight. While the blade is lodged in a target in this way, that target takes `dice:3d4|noform|noparens|avg` (`3d4`) radiant damage at the start of each of its turns, and the dagger continues to emit sunlight. A creature can use an action to make a DC 16 Strength check, freeing the dagger from the target on a success. Once freed, the blade vanishes and reappears on the ground at your feet or in your hand if you have one free.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

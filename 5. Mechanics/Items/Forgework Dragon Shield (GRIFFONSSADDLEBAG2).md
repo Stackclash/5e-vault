@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Forgework Dragon Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
@@ -27,3 +30,7 @@ While holding this plated brass shield, you gain a +1 bonus to AC. This bonus is
 When a creature within 5 feet of you misses you with an attack, you can use your reaction to retaliate with the shield. When you do, a gout of flame erupts from the shield, forcing the attacker to make a DC 15 Dexterity saving throw. On a failed save, the target takes `dice:3d10|noform|noparens|avg` (`3d10`) fire damage and ignites. Until a creature takes an action to douse the fire, the target takes `dice:1d10|noform|noparens|avg` (`1d10`) fire damage at the start of each of its turns. On a successful save, the target takes half as much damage and doesn't ignite. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 84*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

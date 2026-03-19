@@ -18,6 +18,9 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Astral Bracelet of Knowledge
 *Wondrous item, major, very rare (requires attunement by a bard, cleric, druid, ranger, or wizard)*  
@@ -44,3 +47,7 @@ Each kind of astral bracelet has a different list spells that can be cast from i
 ^astral-bracelet-of-knowledge-spells
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

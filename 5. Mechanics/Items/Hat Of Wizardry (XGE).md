@@ -14,6 +14,9 @@ attunement-requirement:
   - wizard
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Hat of Wizardry
 *Wondrous item, minor, common (requires attunement by a wizard)*  
@@ -25,3 +28,7 @@ This antiquated, cone—shaped hat is adorned with gold crescent moons and stars
 - You can try to cast a cantrip that you don't know. The cantrip must be on the wizard spell list, and you must make a DC 10 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check. If the check succeeds, you cast the spell. If the check fails, so does the spell, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a long rest.  
 
 *Source: Xanathar's Guide to Everything p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

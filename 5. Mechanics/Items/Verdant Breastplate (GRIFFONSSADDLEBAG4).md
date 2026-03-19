@@ -16,6 +16,9 @@ rarity: rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Verdant Breastplate
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), rare (requires attunement)*  
@@ -39,3 +42,7 @@ While wearing this armor, you can use an action to expend some of its charges to
 When you cast plant growth using this armor, the plants affected by the spell are enriched for 30 days. The plants yield twice the normal amount of food when harvested.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

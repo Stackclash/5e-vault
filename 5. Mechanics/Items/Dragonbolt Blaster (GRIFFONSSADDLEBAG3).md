@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonbolt Blaster
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  
@@ -38,3 +41,7 @@ The weapon doesn't require physical ammunition, and it has a normal range of 150
 If you take 10 or more lightning damage from a single attack or effect while holding this weapon, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the weapon breaks, but can be repaired with 100gp worth of materials and 8 hours of work. On any other result, the next target hit by the weapon within the next minute takes an extra `dice:1d10|noform|noparens|avg` (`1d10`) lightning damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

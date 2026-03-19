@@ -20,6 +20,9 @@ type: armor
 subtype:
   - heavy
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lionheart Armor
 *Uncommon (requires attunement)*  
@@ -31,3 +34,7 @@ A lion-faced helm adorns this armor. While wearing the armor, you can use a bonu
 The lion remains until you speak the armor's command word again, at which point the lion disappears, and it can't be summoned again for `dice:1d4|noform|noparens|avg` (`1d4`) hours. If the lion is reduced to 0 hit points, it vanishes, and this property of the armor can't be used again until the next dawn. The lion regains any lost hit points whenever it's summoned.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

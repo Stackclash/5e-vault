@@ -12,6 +12,9 @@ attunement: true
 attunement-requirement:
   - monk
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spell Bolt Wraps
 *Wondrous item, rare (requires attunement by a monk)*  
@@ -23,3 +26,7 @@ These armwraps are made from cut up strips of spell scrolls. The spell on the sc
 While wearing the wraps, you can cast the spell on the scroll in place of one of the unarmed strikes from your Flurry of Blows feature. When you do, Wisdom is your spellcasting ability for the spell, and you are proficient with the attack; the spell is cast at your character's level. You can use this property of the wraps once on each of your turns.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Riptide Katana
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, uncommon (requires attunement)*  
@@ -38,3 +41,7 @@ This item appears to be a longsword hilt. While grasping the hilt, you can use a
 While the weapon is on your person, you have a swimming speed of 30 feet. If you make an attack with the weapon while underwater, you're considered to have a reach of 15 feet with the attack. In addition, the first time on each of your turns when you hit an underwater creature with this weapon, you can choose to move it 5 feet in any direction.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Eagle Acolyte Robe
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -21,3 +24,7 @@ tier: major
 This robe is worn by religious and administrative members of the Silver Eagle Forge Coalition. You gain a +1 bonus to saving throws you make while wearing this robe. In addition, whenever you make an attack roll, ability check, or saving throw with advantage or disadvantage and roll the same number on both d20s, you can combine the two rolls and use their sum as the result. If a combined result would equal 20 or higher, it is instead treated as a 20, but is not treated as a critical hit or critical success.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

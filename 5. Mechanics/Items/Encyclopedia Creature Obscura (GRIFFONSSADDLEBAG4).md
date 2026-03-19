@@ -9,6 +9,9 @@ aliases:
   - Encyclopedia Creature Obscura
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Encyclopedia Creature Obscura
 *Wondrous item, rare*  
@@ -44,3 +47,7 @@ If you have at least 5 levels in the ranger class and spend 48 hours over a peri
 Once you gain the book's benefits, the book loses its magic, but regains it in 10 years.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

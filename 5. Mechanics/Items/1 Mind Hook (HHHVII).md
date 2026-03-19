@@ -20,6 +20,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +1 Mind Hook
 *Very rare*  
@@ -28,3 +31,7 @@ subtype:
 You gain a +1 bonus to attack and damage rolls made with this weapon. Whenever you roll a 20 on an attack roll with this weapon, your target becomes [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the start of your next turn.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 61*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

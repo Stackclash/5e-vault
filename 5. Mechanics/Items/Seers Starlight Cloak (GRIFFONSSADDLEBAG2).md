@@ -16,6 +16,9 @@ attunement-requirement:
   - wizard
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Seer's Starlight Cloak
 *Wondrous item, minor, uncommon (requires attunement by a cleric, druid, or wizard)*  
@@ -34,3 +37,7 @@ While you can see the night sky and are wearing the cloak, you can use an action
 Once this property of the cloak has been used, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 157*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Stone Soldier
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stone Soldier
 *Wondrous item, uncommon*  
@@ -28,3 +31,7 @@ The construct is friendly to you and your companions. It understands your langua
 If the construct is reduced to 0 hit points, it dies and reverts to its toy form. The toy then shatters and is destroyed. If the construct reverts to its toy form before losing all its hit points, it regains all of them, but can't be animated again for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

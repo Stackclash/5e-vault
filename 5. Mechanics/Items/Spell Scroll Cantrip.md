@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Spell Scroll (Cantrip)
 *Scroll, minor, common*  
@@ -29,3 +32,7 @@ Once the spell is cast, the words on the scroll fade, and the scroll itself crum
 A spell cast from this scroll has a save DC of 13 and an attack bonus of `dice:1d20+5|noform|noparens|text(+5)`.
 
 *Source: Dungeon Master's Guide p. 199. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

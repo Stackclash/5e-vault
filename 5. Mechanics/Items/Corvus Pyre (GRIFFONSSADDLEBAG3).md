@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Corvus Pyre
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, legendary (requires attunement)*  
@@ -50,3 +53,7 @@ While holding the weapon, you can use a bonus action to curse a creature that yo
 If the curse lasts for its full duration, it rebounds; you take `dice:4d10|noform|noparens|avg` (`4d10`) fire damage, which can't be reduced or prevented in any way. If you're reduced to 0 hit points when this happens, your body is incinerated and turned to ash.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

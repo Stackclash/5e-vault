@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bubblemelon
 *Herb, rare*  
@@ -30,3 +33,7 @@ This plum-sized melon can be found buried under the sand in the shallows of a co
 As an action you may begin chewing this herb. As long as you continue chewing this root, you do not need to breathe. This herb may be chewed for up to 10 minutes, which you may do all at once or over several sessions.
 
 *Source: Hamund's Herbalism Handbook p. 8*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

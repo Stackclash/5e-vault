@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # War Thorn
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, uncommon*  
@@ -33,3 +36,7 @@ A large thorn grows from this magic war pick's wooden haft to form the head of t
 If you are a druid and can cast the [[/5. Mechanics/Spells/Shillelagh.md\|shillelagh]] spell, you can also cast that spell on this weapon. For the duration of the spell, you are considered to be proficient with this weapon.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

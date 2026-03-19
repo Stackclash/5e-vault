@@ -9,6 +9,9 @@ aliases:
   - Bottled Yawn
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bottled Yawn
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ A yawn has been magically captured within this bottle. Opening or shattering the
 A sleeping creature is no longer drowsy. It remains asleep for 10 minutes, until the sleeper takes damage, or until someone uses an action to shake or slap the sleeper awake. Once the yawn is released, the bottle itself becomes nonmagical, and the yawn is lost.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

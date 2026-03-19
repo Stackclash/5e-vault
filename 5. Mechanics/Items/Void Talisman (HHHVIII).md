@@ -10,6 +10,9 @@ aliases:
   - Void Talisman
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Void Talisman
 *Wondrous item, very rare (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: very-rare
 Whenever you reduce a creature to 0 hit points while wearing this talisman, you gain temporary hit points for the next minute equal to half the creature's hit point maximum. While you have temporary hit points from this ability, you have advantage on attack rolls.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

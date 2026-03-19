@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Wretched Ring
 *Ring, cursed item, major, very rare (requires attunement)*  
@@ -38,3 +41,7 @@ You can use an action to summon up to 8 [[/5. Mechanics/Bestiary/Undead/Skeleton
 This ring is cursed, and becoming attuned to it extends the curse to you. When you begin a long rest, make a Wisdom saving throw. The DC is equal to four times the number of times you've used the ring's Smoke Step property since the last time you finished a long rest. On a failed save, you gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] and don't gain any benefit from the long rest, as horrific nightmares keep you awake and restless. The DC then resets to 0.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Troll Amulet
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Troll Amulet
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ This amulet contains the crystallised form of a troll heart preserved in tar. Wh
 Once you have used this ability once, you cannot use it again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 143, Hamund's Harvesting Handbook: Volume III p. 99*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

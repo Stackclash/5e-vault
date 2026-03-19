@@ -14,6 +14,9 @@ attunement-requirement:
   - creature of good alignment
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Couatl Herald's Mantle
 *Wondrous item, major, uncommon (requires attunement by a creature of good alignment)*  
@@ -27,3 +30,7 @@ This magic cloak is given to those deemed kind-hearted and responsible by a cele
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 48*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

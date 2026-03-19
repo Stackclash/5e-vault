@@ -14,6 +14,9 @@ attunement-requirement:
   - bard
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vain Virtuoso's Violin
 *Wondrous item, cursed item, major, uncommon (requires attunement by a bard)*  
@@ -28,3 +31,7 @@ This finely crafted instrument is inlaid with intricate pearl designs. When you 
 This violin is cursed, and becoming attuned to it extends the curse to you. When a creature that you can see (including yourself) fails an ability check, attack roll, or saving throw after adding the bonus from your Bardic Inspiration to the total of the roll, you take psychic damage equal to the number rolled on the Bardic Inspiration die as you lose faith in your own abilities. This damage ignores resistance and immunity.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 179*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

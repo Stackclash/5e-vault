@@ -16,6 +16,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Arrow of Slaying
 *Ammunition, minor, very rare*  
@@ -28,3 +31,7 @@ an arrow of slaying is a magic weapon meant to slay a particular kind of creatur
 Once an arrow of slaying deals its extra damage to a creature, it becomes a nonmagical arrow.
 
 *Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

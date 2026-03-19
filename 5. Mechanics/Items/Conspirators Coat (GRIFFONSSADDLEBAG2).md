@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: none
 ---
 # Conspirator's Coat
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ This magic longcoat is adorned with raven feathers and carved jet buttons. While
 If all the ravens are reduced to 0 hit points, you reappear early in the same space as the last one that died. When you do, any excess damage dealt to the raven carries over to your normal form.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

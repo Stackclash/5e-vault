@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Thunderous Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare (requires attunement)*  
@@ -41,3 +44,7 @@ The ball of the flail is attached to the chain with a powerful magnetic connecti
 While the ball is detached, you can still use the flail to cast *thunderwave*. When you do, the spell's area of effect becomes a 10-foot radius sphere centered on the ball.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

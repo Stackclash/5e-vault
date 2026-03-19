@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stenchblossom
 *Herb, rare*  
@@ -30,3 +33,7 @@ They say a rose by any other name would smell as sweet—in the same vein, the s
 As an action, you may consume this herb, causing you to emit a debilitating odour for the next 10 minutes. During this time, any creature that ends its turn within 5 feet of you and that can smell, must make a DC 12 Constitution saving throw. On a failure, that creature makes all attacks at disadvantage, and attacks against them have advantage as they wretch. This effect ends if the creature moves more than 5 feet away from you, or loses their sense of smell.
 
 *Source: Hamund's Herbalism Handbook p. 34*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

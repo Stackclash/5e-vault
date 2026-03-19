@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Mapping
 *Scroll, minor*  
@@ -27,3 +30,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Scroll Of Mapping Very Rare (GRIFFONSSADDLEBAG2).md\|Scroll of Mapping (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 156*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

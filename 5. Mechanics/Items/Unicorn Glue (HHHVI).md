@@ -9,6 +9,9 @@ aliases:
   - Unicorn Glue
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Unicorn Glue
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This slightly translucent pot of glue is the colour of a full moon on a clear da
 Alternatively, you may reattach a severed appendage by applying 1 dose of this glue to the respective wound and holding the severed appendage to it for 10 minutes. After this time, the limb completely reattaches itself leaving no mark except a faint scar. One pot of unicorn glue contains enough glue for 5 doses.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

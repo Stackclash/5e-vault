@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Spoken Letter
 *Scroll, minor, uncommon*  
@@ -30,3 +33,7 @@ When that circumstance occurs, the envelope opens up and recites the message in 
 A creature can use an action to make a DC 30 Strength check, opening the letter by force on a success. When this happens, the scroll's magic is lost, but the written recording remains.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

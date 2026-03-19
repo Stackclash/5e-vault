@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Horn of Fog
 *Wondrous item, major, uncommon*  
@@ -30,3 +33,7 @@ Any fog, mist, or similar atmospheric effect within 300 feet of you is dispersed
 Once either of the properties of the horn have been used, the horn can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

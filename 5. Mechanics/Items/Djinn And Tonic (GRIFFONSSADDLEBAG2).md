@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Djinn and Tonic
 *Potion, minor*  
@@ -27,3 +30,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Djinn And Tonic Rare (GRIFFONSSADDLEBAG2).md\|Djinn and Tonic (Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 71*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

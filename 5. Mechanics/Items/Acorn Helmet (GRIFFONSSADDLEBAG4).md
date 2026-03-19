@@ -10,6 +10,9 @@ aliases:
   - Acorn Helmet
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Acorn Helmet
 *Wondrous item, uncommon (requires attunement)*  
@@ -21,3 +24,7 @@ While wearing this helmet, any falling damage you take is reduced by half. Furth
 In addition, you have advantage on any Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]) or Charisma check you make to interact with Tiny woodland beasts while wearing the helmet.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

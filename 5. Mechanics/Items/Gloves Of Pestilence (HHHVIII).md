@@ -9,6 +9,9 @@ aliases:
   - Gloves of Pestilence
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gloves of Pestilence
 *Wondrous item, very rare*  
@@ -18,3 +21,7 @@ rarity: very-rare
 While wearing these gloves, you gain a +2 bonus to attack and damage rolls made with your unarmed strikes, and their damage type changes to slashing. In addition, if you make a successful critical hit against a creature with an unarmed strike, that creature must succeed on a DC 16 Constitution saving throw or become infected by a disease for the next minute. Constructs and undead automatically succeed this saving throw. While infected in this way, a creature can't regain hit points and they suffer `dice:1d4|noform|noparens|avg` (`1d4`) necrotic damage at the start of each of their turns. They may make the saving throw again at the end of each of their turns, ending the disease on a success.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 87*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

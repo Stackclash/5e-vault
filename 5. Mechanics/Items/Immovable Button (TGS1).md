@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Immovable Button
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ As a bonus action, you can press this iron shirt button against a piece of fabri
 A creature can use an action to make a DC 20 Strength check, moving the fixed button up to 10 feet on a success. A creature can make a DC 10 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to determine that this button is magical, and if already activated, knows that the fabric around the button can be cut away. The button remains fixed in place for 1 minute before falling. The button's magic is lost once it's been used in this way.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 78*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

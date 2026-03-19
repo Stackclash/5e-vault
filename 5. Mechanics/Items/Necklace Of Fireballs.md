@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necklace of Fireballs
 *Wondrous item, minor, rare*  
@@ -24,3 +27,7 @@ This necklace has `dice:1d6+3|noform|noparens|avg` (`1d6 + 3`) beads hanging fro
 You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the [[/5. Mechanics/Spells/Fireball.md\|fireball]] by 1 for each bead beyond the first.
 
 *Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

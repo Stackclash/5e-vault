@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Echo of the Oni
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
@@ -34,3 +37,7 @@ You're no longer limited in how high you can fly while wearing the cloak.
 This cloak is cursed, a fact that is only revealed when the curse is extended to you. Each time you use the Avatar of the Oni property of this cloak, there is a permanent and cumulative 5 percent chance that the cloak's curse is extended to you. While cursed, the oni's malevolence takes hold of you: your skin turns blue and a pair of sharp ivory horns extends from your forehead, and you are unwilling to part with the cloak. In addition, the cloak casts [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] on you at will (save DC 16), urging you to work toward whatever evil the oni's will desires at the GM's discretion. You remain cursed in this way until the cloak is targeted by a [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell, at which point your form returns to normal and the cloak loses this curse and the Avatar of the Oni property. A [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell fails to end your attunement to the cloak or any of these effects, but does magically reveal the nature of the curse to the creature who cast the spell.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

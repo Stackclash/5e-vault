@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blood Moon Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), cursed item, major, very rare (requires attunement)*  
@@ -42,3 +45,7 @@ When you hit a Small or larger living creature with this weapon, that creature t
 This sword is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. In addition, while you remain cursed, the number of hit points you regain when healed by magical means (other than the sword's effect) is halved.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 45*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

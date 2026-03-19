@@ -16,6 +16,9 @@ tier: minor
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Borboss' Joyous Wand of Color
 *Wand, minor, common*  
@@ -28,3 +31,7 @@ This crystalline, prismatic wand can channel the illustrative intent of its wiel
 If you attempt to draw on an object held or worn by a hostile creature, that creature must succeed on a DC 10 Dexterity saving throw in order to avoid it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

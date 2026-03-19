@@ -14,6 +14,9 @@ rarity: very-rare
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Kraken Bolt
 *Ammunition, very rare*  
@@ -23,3 +26,7 @@ subtype:
 This several-foot-long bolt is designed to be loaded and fired from a [[/5. Mechanics/Objects/Ballista.md\|ballista]], usually one mounted on board a naval ship. An attack made with this bolt has a `dice:1d20+10|noform|noparens|text(+10)` to hit, range 120/480 ft., deals `dice:6d10|noform|noparens|avg` (`6d10`) piercing damage upon a successful hit, and ignores any damage threshold of their target. If the attack is being made against an object or structure, this attack deals `dice:12d10|noform|noparens|avg` (`12d10`) piercing damage instead. Unlike most ballista bolts, kraken bolts may be used again after being shot, so long as they can be retrieved successfully.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 131*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

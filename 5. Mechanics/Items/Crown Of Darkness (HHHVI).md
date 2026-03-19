@@ -10,6 +10,9 @@ aliases:
   - Crown of Darkness
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 9
+item_recharge: none
 ---
 # Crown of Darkness
 *Wondrous item, very rare (requires attunement)*  
@@ -21,3 +24,7 @@ This crown has 9 charges. While wearing and attuned to this crown, and so long a
 The crown recovers `dice:1d8+1|noform|noparens|avg` (`1d8 + 1`) charges at midnight. While wearing and attuned to the crown, you also gain advantage on any Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to [[/5. Mechanics/Rules/Actions.md#Hide\|hide]] in dim light or darkness, and [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to 60 ft.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 123*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Timepiercer
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ This item appears to be a sword hilt that has a small hole on either end of it. 
 While holding the hilt, you can use an action to cast either the [[/5. Mechanics/Spells/Haste.md\|haste]] or [[/5. Mechanics/Spells/Slow.md\|slow]] spell (save DC 16) from it. You have advantage on Constitution saving throws you make in order to maintain concentration on a spell cast in this way. Once a spell has been cast using the hilt, it can't be used to cast that spell again until the next dawn. The sands in the hourglass move quickly while you concentrate on a *haste* spell cast in this way, or more slowly when you concentrate on a *slow* spell.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rat King Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, uncommon (requires attunement)*  
@@ -41,3 +44,7 @@ While you're attuned to one or more other items with "rat king" in its name, the
 When you roll a 1 or 2 on the bonus piercing damage die, you can reroll the die. You must use the new roll, even if it is a 1 or a 2.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

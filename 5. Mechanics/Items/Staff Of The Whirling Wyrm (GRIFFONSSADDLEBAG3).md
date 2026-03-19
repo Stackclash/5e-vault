@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Staff of the Whirling Wyrm
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement by a monk)*  
@@ -40,3 +43,7 @@ This quarterstaff can convert kinetic force into added reach. A silver dragon wr
 In addition, while holding the staff, you can spend 1 ki point as an action to magically be able to speak and read Draconic for 1 hour.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

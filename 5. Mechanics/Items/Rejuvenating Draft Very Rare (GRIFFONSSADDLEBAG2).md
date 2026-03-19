@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Rejuvenating Draft (Very Rare)
 *Potion, minor, very rare*  
@@ -24,3 +27,7 @@ subtype:
 When you drink this potion, you regain `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) spent Hit Dice.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

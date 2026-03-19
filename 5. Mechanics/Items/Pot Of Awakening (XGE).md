@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pot of Awakening
 *Wondrous item, minor, common*  
@@ -21,3 +24,7 @@ If you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30 
 The awakened shrub is friendly toward you. Absent commands from you, it does nothing.
 
 *Source: Xanathar's Guide to Everything p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

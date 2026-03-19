@@ -35,6 +35,9 @@ subtype:
   - heavy
   - light
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mariner's Armor
 *Minor, uncommon*  
@@ -43,3 +46,7 @@ subtype:
 While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs.
 
 *Source: Dungeon Master's Guide p. 181*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

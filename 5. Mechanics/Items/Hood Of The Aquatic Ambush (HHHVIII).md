@@ -9,6 +9,9 @@ aliases:
   - Hood of the Aquatic Ambush
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hood of the Aquatic Ambush
 *Wondrous item, rare*  
@@ -18,3 +21,7 @@ rarity: rare
 While wearing this hood, you can breathe underwater, you have a swimming speed of 60 feet, and if you make a weapon attack against a surprised creature while both of you are submerged in liquid, your attack is considered a critical hit so long as it hits successfully.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 90*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

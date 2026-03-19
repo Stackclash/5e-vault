@@ -16,6 +16,9 @@ rarity: rare
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Reveler's Concertina
 *Wondrous item, instrument, rare (requires attunement by a bard)*  
@@ -26,3 +29,7 @@ While holding this concertina, you gain a +2 bonus to the saving throw DC of you
 As an action, you can use the concertina to cast [[/5. Mechanics/Spells/Ottos Irresistible Dance.md\|Otto's irresistible dance]] from the item. This property of the concertina can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

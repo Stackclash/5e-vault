@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rings of the Secret Scribe
 *Ring, minor, common*  
@@ -24,3 +27,7 @@ subtype:
 This pair of rings only function when worn on adjacent fingers: typically on a thumb and forefinger. While pinching the two fingers together, such as when pantomiming writing with a quill, you can magically write on any surface within one inch of your fingers. The writing itself appears in nonmagical ink in a color of your choice.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

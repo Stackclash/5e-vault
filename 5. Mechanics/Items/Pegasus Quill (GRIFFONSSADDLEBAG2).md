@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pegasus Quill
 *Wondrous item, minor, uncommon*  
@@ -20,3 +23,7 @@ tier: minor
 The feather adorning this quill was a gift from a mighty pegasus and has a beautiful, pearlescent shimmer. When you write with this magic quill, the time it takes for you to write something, such as copying a spell into a spellbook or creating a spell scroll, is halved.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

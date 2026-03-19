@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # +1 Mind Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), very rare (requires attunement)*  
@@ -35,3 +38,7 @@ When you make a [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] check, you m
 You also have a +1 bonus to attack and damage rolls made with this weapon.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 61*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

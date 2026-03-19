@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Medzo's Blade
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare*  
@@ -32,3 +35,7 @@ subtype:
 The red and black hilt of this weapon is decorated with four card suits, and its blade has seven hash marks carved into its side. This magic weapon deals `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage on a hit, instead of `dice:1d8|noform|noparens|avg` (`1d8`). When you hit with an attack using this weapon and roll a 7 on the damage dice, the next attack roll you make with it before the end of your next turn is made with advantage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ rarity: common
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Hair Tonic
 *Potion, common*  
@@ -24,3 +27,7 @@ When you massage this tonic into a patch of skin for 1 minute, that patch of ski
 This bottle has enough hair tonic to cover 10 square feet of skin.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 130*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

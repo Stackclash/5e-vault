@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Magentan Sun-Saw
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major*  
@@ -35,3 +38,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Magentan Sun Saw Very Rare (GRIFFONSSADDLEBAG2).md\|Magentan Sun-Saw (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

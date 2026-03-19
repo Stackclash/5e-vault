@@ -19,6 +19,9 @@ tier: minor
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stalwart Staff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), minor, common*  
@@ -33,3 +36,7 @@ subtype:
 A carved walking stick with a handle wrapped in worn leather, this magic staff gives you better endurance. While you use this staff as a walking stick while traveling on foot, you have advantage on the first save you make to endure a forced march.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 170*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

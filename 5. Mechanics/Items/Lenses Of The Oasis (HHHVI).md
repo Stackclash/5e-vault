@@ -10,6 +10,9 @@ aliases:
   - Lenses of the Oasis
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lenses of the Oasis
 *Wondrous item, rare (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: rare
 While wearing these lenses, you may cast the spells [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] and [[/5. Mechanics/Spells/Minor Illusion.md\|minor illusion]] at will without requiring spell components.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

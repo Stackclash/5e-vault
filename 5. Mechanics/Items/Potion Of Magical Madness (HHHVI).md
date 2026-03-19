@@ -13,6 +13,9 @@ rarity: rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of Magical Madness
 *Potion, rare*  
@@ -24,3 +27,7 @@ When you drink this potion, you go slightly mad for the next `dice:1d4|noform|no
 If you are a spellcaster, you also gain the ability to cast any spell on the cleric spell list (excluding cantrips) for which you would have spell slots available. Any time you cast a spell known in this way, you suffer psychic damage equal to the spell level of that spell multiplied by 3. This damage is unmitigable in any way. Any attempt to record the knowledge of these spells fails as they inevitably become incomprehensible ramblings to you once the madness fades.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

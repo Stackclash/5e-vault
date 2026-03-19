@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Runic Ammunition
 *Minor, rare*  
@@ -26,3 +29,7 @@ Runic ammunition resembles normal bolts, arrows, or stones that are etched with 
 You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 109*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

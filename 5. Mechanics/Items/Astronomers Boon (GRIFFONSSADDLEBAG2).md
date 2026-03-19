@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Astronomer's Boon
 *Wondrous item, major, uncommon*  
@@ -34,3 +37,7 @@ This brass astrolabe has a glass back that sparkles softly when light shines thr
 The stars remain until the next dusk, at which point any unused stars vanish and are lost. Once the astrolabe has granted a benefit in this way, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 40*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadowfell Shard
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
@@ -29,3 +32,7 @@ This dull, cold crystal sits heavy and leaden, saturated by the Shadowfell's des
 When you use a Metamagic option on a spell while you are holding or wearing the shard, you can momentarily curse one creature targeted by the spell; choose one ability score, and until the end of your next turn, the creature has disadvantage on ability checks and saving throws that use that ability.
 
 *Source: Tasha's Cauldron of Everything p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Radiant Teapot
 *Wondrous item, minor, common*  
@@ -32,3 +35,7 @@ This small, ceramic teapot can hold up to two cups of liquid. When left in direc
 ^type-of-tea
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -13,6 +13,9 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Trinket
 *Adventuring gear*  
@@ -79,3 +82,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 ^curse-of-strahd-character-options-gothic-trinket-table
 
 *Source: Curse of Strahd p. 2*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

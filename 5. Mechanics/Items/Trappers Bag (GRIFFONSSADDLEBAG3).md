@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Trapper's Bag
 *Wondrous item, minor, uncommon*  
@@ -36,3 +39,7 @@ This bag clatters around when shaken. Around its base is a toothed, metal rim. I
 Up to four items can be taken from the bag in this way, either all at once or with multiple uses. It regains all expended uses daily at dawn, at which time any item withdrawn from it magically vanishes and returns to the bag. Such an item vanishes early if you or another creature attempts to sell or trade the item. The bag can also be used as a normal backpack.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

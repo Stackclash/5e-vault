@@ -10,6 +10,9 @@ aliases:
 stealth-penalty: true
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Boots of Iron Gait
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ rarity: uncommon
 While wearing these boots, you have disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks, and if you are ever subjected to an effect that would move you against your will, you may spend your reaction to instead not move so long as you are standing on solid ground.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 55*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

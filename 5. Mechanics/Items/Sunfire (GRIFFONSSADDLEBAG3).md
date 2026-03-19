@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sunfire
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement by a cleric or paladin)*  
@@ -44,3 +47,7 @@ The weapon has the light property, and it has a normal range of 100 feet and a l
 If you're not attuned to the weapon and roll a 1 on the attack roll using the weapon, one of the attached sunburst pendants crumbles to dust and is destroyed. For each missing pendant, the weapon's radiant damage is reduced by one damage die. You can use an action to replace a pendant with a new one, which must be worth at least 100 gp.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

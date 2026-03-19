@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dimensional Quiver
 *Wondrous item, major, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ The quiver also functions as an efficient quiver. The first time you hit a targe
 In addition, you can use an action to cast either the [[/5. Mechanics/Spells/Blink.md\|blink]] or [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]] spell from the quiver while it's on your person. When you cast [[/5. Mechanics/Spells/Blink.md\|blink]] in this way, you can see up to 60 feet into the Ethereal Plane and can attack targets there as if they were on your current plane of existence for the duration. Once the quiver has been used to cast a spell, it can't be used to cast that spell again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

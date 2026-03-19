@@ -13,6 +13,9 @@ rarity: rare
 type: gear
 subtype:
   - curse
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Curse of Desolation
 *Wondrous item, curse, cursed item, rare*  
@@ -31,3 +34,7 @@ This scroll contains blasphemous words written in a dark ink, that when read alo
 
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

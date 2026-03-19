@@ -12,6 +12,9 @@ attunement: true
 attunement-requirement:
   - monk
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Winterland Footwraps
 *Wondrous item, rare (requires attunement by a monk)*  
@@ -23,3 +26,7 @@ These blue straps keep a soft fur wrap held against your legs. While wearing the
 When you use your Step of the Wind feature while wearing the wraps, you can walk on water until the end of your turn. When you do, the water beneath your feet magically freezes into a walkable path of floating ice, allowing you to step on it freely. The ice melts after 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

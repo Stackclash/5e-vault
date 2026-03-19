@@ -9,6 +9,9 @@ aliases:
   - Shadow Spikes
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Spikes
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ As an action, you can spread this bag of [[/5. Mechanics/Items/Caltrops Bag Of 2
 When placed in dim light or darkness, these caltrops become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], even to creatures with [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]]. This invisibility lasts until they are exposed to bright light, upon which they return to their normal matte black appearance.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 64*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

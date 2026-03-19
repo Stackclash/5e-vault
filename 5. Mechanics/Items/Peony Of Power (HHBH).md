@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Peony of Power
 *Herb, rare*  
@@ -30,3 +33,7 @@ This highly-sought after flower is not actually a distinct species of flower, bu
 As an action, you may crush this herb in your hand. For the next 10 minutes, anytime you [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|cast a spell]] that expends a spell slot, it is considered to be cast using a spell slot that is 1 level higher than the one you actually used.
 
 *Source: Hamund's Herbalism Handbook p. 27*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

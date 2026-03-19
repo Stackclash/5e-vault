@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Windswept Wyvernplate
 *Medium armor ([[/5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, rare (requires attunement)*  
@@ -33,3 +36,7 @@ This half plate armor seems to grow lighter when you inhale. You can hold your b
 In addition, if you fall while wearing this armor, you can hold your breath as a reaction to cast the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell, targeting only yourself, at will.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

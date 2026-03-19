@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eldritch Halberd
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), cursed item, uncommon (requires attunement)*  
@@ -39,3 +42,7 @@ When you use this weapon to either make an attack or cast [[/5. Mechanics/Spells
 This halberd is cursed, and if you aren't a warlock, becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the halberd, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear. While you remain cursed, you can feel the watchful eye of the halberd listening to your thoughts: whenever you take psychic damage, roll a `dice:d10|noform|noparens|avg` (`d10`) and add the result to the total psychic damage taken.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

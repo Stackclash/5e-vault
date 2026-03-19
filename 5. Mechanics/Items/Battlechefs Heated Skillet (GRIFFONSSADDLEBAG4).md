@@ -18,6 +18,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: short-rest
 ---
 # Battlechef's Heated Skillet
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), rare*  
@@ -33,3 +36,7 @@ The skillet has 3 charges and regains all expended charges whenever you spend at
 When you make an attack with the weapon, you can speak one of its three command words to expend 1 or more of its charges: "hot" (1 charge), "hotter" (2 charges), or "hottest" (3 charges). If the attack hits, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage for each expended charge.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

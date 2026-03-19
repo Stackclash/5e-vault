@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Nightstalker's Kanabo
 *Weapon ([[/5. Mechanics/Items/Greatclub.md\|greatclub]]), major, very rare (requires attunement)*  
@@ -35,3 +38,7 @@ This studded greatclub once belonged to a hungering [[/5. Mechanics/Bestiary/Gia
 The weapon has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dusk. While holding the weapon, you can expend 1 of its charges as a bonus action to cast either the [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] (targeting only yourself ) or [[/5. Mechanics/Spells/Sleep.md\|sleep]] (3rd-level version) spell from it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 90*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

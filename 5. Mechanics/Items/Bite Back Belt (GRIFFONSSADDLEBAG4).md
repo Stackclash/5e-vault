@@ -10,6 +10,9 @@ aliases:
   - Bite-Back Belt
 attunement: true
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bite-Back Belt
 *Wondrous item, uncommon (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: uncommon
 This thick, reinforcing belt is lined with red, tongue-like leather and what appear to be silver teeth. While wearing the belt, whenever you take damage from a bite attack, you can use your reaction to reduce that damage by `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`). When this happens, the belt magically bites back at the attacker using its silvery teeth. Make a melee attack using the belt, with an attack bonus of +5. On a hit, the target takes `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) piercing damage.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

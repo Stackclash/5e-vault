@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dimensional Shackles
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ You can use an action to place these shackles on an [[/5. Mechanics/Rules/Condit
 You and any creature you designate when you use the shackles can use an action to remove them. Once every 30 days, the bound creature can make a DC 30 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. On a success, the creature breaks free and destroys the shackles.
 
 *Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

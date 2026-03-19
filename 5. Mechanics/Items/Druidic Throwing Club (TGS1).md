@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Druidic Throwing Club
 *Weapon ([[/5. Mechanics/Items/Club.md\|club]]), major, rare (requires attunement by a druid or ranger)*  
@@ -38,3 +41,7 @@ subtype:
 This magic wooden club has the thrown property with a normal range of 20 feet and a long range of 60 feet. You gain a +1 bonus to attack and damage rolls made with this magic weapon While attuned to the club, you know the [[/5. Mechanics/Spells/Shillelagh.md\|shillelagh]] cantrip if you don't already know it. If shillelagh is cast on the club, the spell doesn't end when the weapon is thrown. The club flies back to your hand immediately after making a ranged attack with it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 57*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

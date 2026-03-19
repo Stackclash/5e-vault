@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Snake Oil
 *Potion, minor*  
@@ -38,3 +41,7 @@ When you use an action to drink the potion, roll a `dice:d6|noform|noparens|avg`
 ^common-rare
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

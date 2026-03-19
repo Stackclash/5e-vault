@@ -19,6 +19,9 @@ tier: major
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Valkyrian Scale
 *Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ You gain a +2 bonus to your Constitution score, up to a maximum of 20, while wea
 Any damage you take using this property of the armor is magically converted into energy by the wings. If you have no more than half your hit points left, you can attack up to two targets using the wings as an action, provided that the targets are each within 5 feet of you. This special weapon attack has a +7 bonus to hit. On a hit, a target takes force damage equal to the total amount of damage you reduced using the wings. Hit or miss, the recorded damage resets to 0 at the end of this action. This attack doesn't interrupt your flight using the armor's wings.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

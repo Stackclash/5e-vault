@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Cloak of the Djinni
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ This floating, cloud-soft cloak flutters softly on its own even without wind. It
 For each additional charge you expend after the first, you can choose to increase either the radius of the twister by 5 feet or the bludgeoning damage it deals by `dice:1d8|noform|noparens|avg` (`1d8`).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

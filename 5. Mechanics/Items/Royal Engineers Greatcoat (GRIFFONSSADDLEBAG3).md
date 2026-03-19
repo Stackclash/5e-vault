@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Royal Engineer's Greatcoat
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This stained maroon greatcoat is well worn and decorated with gilded linework an
 In addition, if you cast a spell that normally restores hit points to one or more creatures, you can choose to target a damaged construct or object with the spell. If you target a construct, it regains hit points as if it were a living creature. If you target an object, it regains half the number of hit points from the spell and magically repairs itself.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

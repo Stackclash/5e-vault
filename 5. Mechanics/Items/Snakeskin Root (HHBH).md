@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Snakeskin Root
 *Herb, common*  
@@ -30,3 +33,7 @@ A root that resembles the shed skin of a desert viper found buried under the des
 As an action, you may eat this herb. For the next hour, your skin constantly flakes off, leaving a sand-like trail behind yourself, but you suffer no ill effects. At the end of this hour, your skin becomes extremely smooth as if you had exfoliated your entire body.
 
 *Source: Hamund's Herbalism Handbook p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

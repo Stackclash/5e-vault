@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Eclipse Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, uncommon (requires attunement)*  
@@ -40,3 +43,7 @@ When in moonlight, this magic spear casts bright light in a 15-foot radius and d
 In addition, while holding the spear, you can use a bonus action to cast the [[/5. Mechanics/Spells/Branding Smite.md\|branding smite]] spell from it. Once cast in this way, this property can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 76*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

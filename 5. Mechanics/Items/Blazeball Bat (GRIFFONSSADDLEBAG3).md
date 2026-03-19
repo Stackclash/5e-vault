@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blazeball Bat
 *Major, rare*  
@@ -33,3 +36,7 @@ You can use an action while holding the club to speak its command phrase. A ball
 If you roll a 1 when you make this special attack, the ball of fire lands at your feet and detonates. You take `dice:1d8+5|noform|noparens|avg` (`1d8 + 5`) fire damage, and each creature within 10 feet of you (including yourself) must also succeed on a DC 15 Dexterity saving throw or take `dice:1d8|noform|noparens|avg` (`1d8`) fire damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

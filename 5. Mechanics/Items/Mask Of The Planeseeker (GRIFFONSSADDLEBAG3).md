@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Mask of the Planeseeker
 *Wondrous item, major, legendary (requires attunement)*  
@@ -38,3 +41,7 @@ Depending on the plane of existence it's on, the mask's appearance and effect ch
 The mask has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While wearing the mask, you can expend 1 of its charges as a bonus action to change the plane of existence the mask is associated with. After 1 hour, the mask reverts to its normal form.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

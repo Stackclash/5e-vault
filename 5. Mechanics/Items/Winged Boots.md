@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Winged Boots
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ While you wear these boots, you have a flying speed equal to your walking speed.
 The boots regain 2 hours of flying capability for every 12 hours they aren't in use.
 
 *Source: Dungeon Master's Guide p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

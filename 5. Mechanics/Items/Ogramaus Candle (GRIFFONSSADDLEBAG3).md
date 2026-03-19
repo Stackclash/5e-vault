@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ogramau's Candle
 *Wondrous item, minor, very rare*  
@@ -26,3 +29,7 @@ A turned creature must spend its turns trying to move as far away from the candl
 Alternatively, you can use an action to plant the candle on the skull or head of a corpse, allowing its wax to affix itself to the new base. While it's affixed to the head, you can speak the candle's command word to deduct 5 minutes from its total burn time to ask the corpse up to five questions, as described by the [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: unknown\Magic
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spirit Paper
 
@@ -26,3 +29,7 @@ Using spirit paper is often the only way to harvest anything useful from creatur
 Unlike most harvestable materials, materials that require spirit paper to be harvested dissipate very quickly after the death of its creature. Any attempt to harvest a material that has spirit paper as a requirement must be initiated within **1 minute of the death of the creature and takes 10 minutes to successfully complete**.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 145, Hamund's Harvesting Handbook: Volume II p. 67, Hamund's Harvesting Handbook: Volume III p. 107*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

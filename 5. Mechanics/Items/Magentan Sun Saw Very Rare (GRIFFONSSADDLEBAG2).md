@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Magentan Sun-Saw (Very Rare)
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare*  
@@ -34,3 +37,7 @@ The typical [[/5. Mechanics/Items/Magentan Sun Saw (GRIFFONSSADDLEBAG2).md\|mage
 The following magentan sun-saw is a very rare variant with more powerful properties. You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, when you expend 1 of the weapon's charges when you hit with an attack, the light is sunlight (albeit still magenta in color) and deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage to the target, instead of `dice:1d6|noform|noparens|avg` (`1d6`). If the target has the Sunlight Sensitivity or Sunlight Hypersensitivity trait, such as a drow or vampire, it's considered to be in sunlight until the end of its next turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

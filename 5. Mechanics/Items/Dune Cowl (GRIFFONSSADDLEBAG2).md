@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dune Cowl
 *Wondrous item, major, rare*  
@@ -26,3 +29,7 @@ On your turn, you can mentally command the scorpion if it is within 60 feet of y
 The hat remains in scorpion form for up to 8 hours. If the scorpion is reduced to 0 hit points, it dies and reverts to its hat form. Once this property of the hat has been used, it can't be used again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 75*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

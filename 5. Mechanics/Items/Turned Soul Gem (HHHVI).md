@@ -10,6 +10,9 @@ aliases:
   - Turned Soul Gem
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Turned Soul Gem
 *Wondrous item, very rare (requires attunement)*  
@@ -23,3 +26,7 @@ If you die while holding this gem, and if this gem has at least 1 charge, you re
 Crushing this gem releases any soul trapped within, at which point the target's body re-forms in an unoccupied space nearest to the gem and in the same state as when it was trapped.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

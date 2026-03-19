@@ -9,6 +9,9 @@ aliases:
   - Deceptive Eyepatch
 attunement: false
 rarity: common
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deceptive Eyepatch
 *Wondrous item, common*  
@@ -18,3 +21,7 @@ rarity: common
 This eyepatch becomes translucent from the perspective of whoever is wearing it, allowing them to see through it without any penalty to their vision and depth perception.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

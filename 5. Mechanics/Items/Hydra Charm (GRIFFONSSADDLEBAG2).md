@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Hydra Charm
 *Wondrous item, major, very rare (requires attunement)*  
@@ -29,3 +32,7 @@ This golden talisman is made of five twisting hydra heads and hung from a simple
 Once a benefit of the talisman has been used, that benefit can't be used again until you finish a long rest.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 108*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

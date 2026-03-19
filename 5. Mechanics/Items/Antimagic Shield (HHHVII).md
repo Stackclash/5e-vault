@@ -13,6 +13,9 @@ armorClass: 2
 weight: 6
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Antimagic Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), very rare (requires attunement)*  
@@ -30,3 +33,7 @@ While wearing this shield, you have advantage on saving throws against spells, a
 This shield loses all its magical properties 1 month after being crafted. After this point, the shield may be reused to create a [[/5. Mechanics/Items/Spellguard Shield.md\|spellguard shield]], counting for 2,000 gp of the crafting cost.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 54*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

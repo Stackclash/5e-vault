@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon-Kindled Edge
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
@@ -46,3 +49,7 @@ When you use this feature to split a breath attack in this way, the sword gives 
 If you fail a saving throw by 4 or less, you can choose to succeed on it instead. Once this feature of the sword's been used, it can't be used again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

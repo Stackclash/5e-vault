@@ -10,6 +10,9 @@ aliases:
   - Gem of Teleportation
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Gem of Teleportation
 *Wondrous item, rare (requires attunement)*  
@@ -21,3 +24,7 @@ This gem has 5 charges. While holding this gem, you may spend your action and 1 
 Alternatively, you may use 5 charges to cast the spell [[/5. Mechanics/Spells/Plane Shift.md\|plane shift]] through the gem with the plane of Gehenna as your destination. If used in this way, the gem dissolves into a useless black ichor and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129, Hamund's Harvesting Handbook: Volume III p. 88*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

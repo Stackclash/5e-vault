@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodmire Phiale
 *Wondrous item, minor, uncommon*  
@@ -24,3 +27,7 @@ Drinking the entire bowl of still blood causes one of two effects. Roll a `dice:
 The blood's magic fades if it's poured from the bowl without being drunk. Once the bowl has been used in this way, it can't be used again until `dice:1d4|noform|noparens|avg` (`1d4`) days have passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 47*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

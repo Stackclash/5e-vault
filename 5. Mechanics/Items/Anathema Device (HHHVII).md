@@ -9,6 +9,9 @@ aliases:
   - Anathema Device
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Anathema Device
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This yuan-ti heart is encased in a complicated contraption of copper wires and o
 The heart remains beating for 1 minute, or until you drop it from your hand. Once this item has been used once, it cannot be used again for 24 hours.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 54*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
 weight: 0.333
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Soul Coin
 *Wondrous item, uncommon*  
@@ -47,3 +50,7 @@ Soul coins are a currency of the Nine Hells and are highly valued by devils. The
 Soul coins are created by Mammon and his greater devils on Minauros, the third layer of the Nine Hells, in a vast chamber where the captured souls of evil mortals are bound into the coins. These coins are then distributed throughout the Nine Hells to be used for goods and services, infernal deals, dark bargains, and bribes.
 
 *Source: Baldur's Gate: Descent Into Avernus p. 225, Vecna: Eve of Ruin p. 155*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

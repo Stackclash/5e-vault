@@ -23,6 +23,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Phasing Bow
 *Major, very rare (requires attunement)*  
@@ -36,3 +39,7 @@ The bow has 5 charges and regains all expended charges daily at dawn. When you m
 Alternatively, you can speak the bow's command word as a bonus action to expend 3 of its charges and fire an arrow at a point you can see within the weapon's normal range. When the arrow hits a solid surface, you vanish from your location and reappear in an unoccupied space nearest to that point.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

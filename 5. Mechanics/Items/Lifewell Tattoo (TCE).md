@@ -14,6 +14,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lifewell Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  
@@ -36,3 +39,7 @@ You have resistance to necrotic damage.
 When you would be reduced to 0 hit points, you drop to 1 hit point instead. Once used, this property can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 129*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

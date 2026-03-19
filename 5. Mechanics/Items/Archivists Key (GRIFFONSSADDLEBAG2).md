@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Archivist's Key
 *Wondrous item, minor, very rare*  
@@ -22,3 +25,7 @@ This magical key is one of several made by a secret order of historians and arch
 When the spell ends, the key can't be used this way again for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 39*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

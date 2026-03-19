@@ -9,6 +9,9 @@ aliases:
   - Serpent's Cuff
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Serpent's Cuff
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ While wearing this brass ear cuff, you can understand the literal meaning of wha
 If you're [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] while wearing the cuff, you can use an action to clamp its snake mouth down on your ear using a free hand. You take 1 piercing damage from the snake bite, and the poison is neutralized. If you're afflicted by more than one poison, you neutralize one poison that you know is present, or you neutralize one at random. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

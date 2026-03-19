@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Scepter of Faith
 *Rod, major, very rare (requires attunement by a cleric)*  
@@ -29,3 +32,7 @@ This rod is imbued with the last remaining magic from a pious saint. While holdi
 In addition, while holding the rod, you can use an action to cast either the [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] or [[/5. Mechanics/Spells/Find The Path.md\|find the path]] spell. When cast in this way, [[/5. Mechanics/Spells/Find The Path.md\|find the path]] can only be used to find the route to a temple or other holy site. Once the rod has cast either of these spells in this way, it can't be used to cast that spell again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 155*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

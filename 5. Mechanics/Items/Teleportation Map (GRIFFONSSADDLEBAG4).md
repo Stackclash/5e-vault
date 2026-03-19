@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Teleportation Map
 *Scroll, very rare*  
@@ -28,3 +31,7 @@ Maps on a smaller scale can teleport you more accurately than those on a larger 
 Each time you use this scroll, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the scroll bursts into flames (after teleporting you) and is destroyed. This number increases by 1 each time the map's been used, after the first. When found, the map has been used `dice:1d6-3|noform|noparens|avg` (`1d6 - 3`) times (minimum 0).
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

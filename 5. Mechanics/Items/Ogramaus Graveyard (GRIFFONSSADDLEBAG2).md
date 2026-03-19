@@ -16,6 +16,9 @@ attunement-requirement:
   - wizard
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ogramau's Graveyard
 *Wondrous item, major, very rare (requires attunement by a cleric or wizard)*  
@@ -30,3 +33,7 @@ The first command word shunts a Medium or Small humanoid corpse that you can see
 The second command word duplicates the effect of the [[/5. Mechanics/Spells/Animate Dead.md\|animate dead]] spell, using a corpse stored within the orb's demiplane as the target of the spell. A [[/5. Mechanics/Bestiary/Undead/Skeleton.md\|skeleton]] or [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] created in this way appears in an unoccupied space that you can see within 15 feet of you and turns to dust and is destroyed after either 24 hours have passed or it drops to 0 hit points. If you speak this command word again to create a second skeleton or zombie while the first one remains, the first skeleton or zombie turns to dust and is destroyed when the new one appears.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 131*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

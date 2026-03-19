@@ -21,6 +21,9 @@ type: armor
 subtype:
   - heavy
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Armor of the Reef Warden
 *Major, very rare (requires attunement)*  
@@ -48,3 +51,7 @@ When you're hit by a melee attack or are [[/5. Mechanics/Rules/Conditions.md#Gra
 You can use a bonus action on your turn to create a swirling school of spectral fish around you. The fish remain until the start of your next turn and grant any creatures of your choice within 10 feet of you half cover for the duration. If you're underwater, the fish grant three-quarters cover instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

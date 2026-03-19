@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Phantom Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), very rare (requires attunement)*  
@@ -39,3 +42,7 @@ In addition, any creature in the steed's line must succeed on a DC 15 Strength s
 The steed vanishes immediately after the attack. If you roll a 12 on any of the d12s for the damage of this attack or effect, this property can be used again. Otherwise, this property can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

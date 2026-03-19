@@ -12,6 +12,9 @@ armorClass: 2
 weight: 6
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tri-Horn Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), uncommon*  
@@ -23,3 +26,7 @@ rarity: uncommon
 If you move at least 20 feet towards a creature while wearing this shield and then make a successful melee [[/5. Mechanics/Rules/Actions.md#Attack\|attack]] against it in the same turn, you may spend a bonus action to make a [[/5. Mechanics/Rules/Actions.md#Shove\|shove]] attack against that creature.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 142*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

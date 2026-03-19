@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Venombane Armor
 *Major, uncommon (requires attunement)*  
@@ -25,3 +28,7 @@ subtype:
 This armor absorbs poison and allows you to traverse webbed areas more easily. While you're wearing this armor, you can't be caught in webs of any sort and can move through webs as if they were difficult terrain. In addition, when you take poison damage while wearing this armor, you can use your reaction to reduce the damage by `dice:1d8|noform|noparens|avg` (`1d8`) + your Constitution modifier.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -23,6 +23,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Arcanist's Bowstaff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a creature with an Intelligence of 17 or higher)*  
@@ -43,3 +46,7 @@ You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 In addition, this quarterstaff has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges daily at dawn. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action with this weapon, you can expend 1 of its charges to cast the [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell from the quarterstaff as a bonus action, instead of its normal casting time. When you do, the missiles are fired from either the bow or the quarterstaff's embossed faces.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

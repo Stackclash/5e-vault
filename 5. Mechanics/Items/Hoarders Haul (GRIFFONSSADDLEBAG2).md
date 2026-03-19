@@ -15,6 +15,9 @@ tier: major
 type: vehicle
 subtype:
   - land
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hoarder's Haul
 *Wondrous item, vehicle (land), major*  
@@ -28,3 +31,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Hoarders Haul Very Rare (GRIFFONSSADDLEBAG2).md\|Hoarder's Haul (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 104*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

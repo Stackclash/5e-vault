@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Belt of Dwarvenkind
 *Wondrous item, major, rare (requires attunement)*  
@@ -32,3 +35,7 @@ If you aren't a dwarf, you gain the following additional benefits while wearing 
 - You can speak, read, and write Dwarvish.  
 
 *Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

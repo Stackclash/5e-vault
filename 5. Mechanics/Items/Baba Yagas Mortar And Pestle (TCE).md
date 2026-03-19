@@ -10,6 +10,9 @@ aliases:
   - Baba Yaga's Mortar and Pestle
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 12
+item_recharge: dawn
 ---
 # Baba Yaga's Mortar and Pestle
 *Wondrous item, artifact (requires attunement)*  
@@ -61,3 +64,7 @@ When you command the mortar to travel, you can instead throw out the dust or pas
 The mortar and pestle are destroyed if they are crushed underfoot by the *Dancing Hut of Baba Yaga* or by Baba Yaga herself.
 
 *Source: Tasha's Cauldron of Everything p. 121*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chimera Trident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), rare (requires attunement)*  
@@ -41,3 +44,7 @@ This trident's three horns are made of a chimera's goat horn, lion tooth, and dr
 Once used, an individual ability may not be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -16,6 +16,9 @@ attunement-requirement:
   - wizard
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Robe of the Archmagi
 *Wondrous item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -31,3 +34,7 @@ You gain these benefits while wearing the robe:
 - Your spell save DC and spell attack bonus each increase by 2.  
 
 *Source: Dungeon Master's Guide p. 194. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

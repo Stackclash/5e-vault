@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Yeti Brush
 *Herb, rare*  
@@ -30,3 +33,7 @@ Tufted white grass, yeti brush is incredibly easy to miss among the sheets of sn
 You may spend 1 minute wrapping your hands and feet in this grass. If you do so, you suffer no penalty to your movement speed when moving through snowy or icy terrain, and you have advantage on climbing surfaces covered in ice or snow.
 
 *Source: Hamund's Herbalism Handbook p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

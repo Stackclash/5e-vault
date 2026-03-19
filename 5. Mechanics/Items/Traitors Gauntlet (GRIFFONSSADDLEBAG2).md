@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Traitor's Gauntlet
 *Wondrous item, cursed item, major, rare (requires attunement)*  
@@ -30,3 +33,7 @@ While unworn, the gauntlet can be magically altered to fit over either hand by s
 This gauntlet is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the gauntlet, keeping it within reach at all times, and you can't remove the gloves. In addition, while you're cursed, you gain the following flaw: "Everyone has an ulterior motive, so I can only count on myself." While you have this flaw, you have disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) and Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks made to interact with friendly creatures, and you can't take the Help action.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 177*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

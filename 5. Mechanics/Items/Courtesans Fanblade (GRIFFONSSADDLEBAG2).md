@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Courtesan's Fanblade
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon (requires attunement)*  
@@ -37,3 +40,7 @@ This magic dagger is made of two hollow halves that can be opened with a flick o
 This dagger has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While the fan is exposed, you can use an action to cover your face with it and expend 1 of its charges to cast the [[/5. Mechanics/Spells/Charm Person.md\|charm person]] spell (save DC 13) at 1st level. You can increase the spell slot level by one for each additional charge you expend.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 65*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

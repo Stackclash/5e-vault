@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tome of Advanced Fighting Styles
 *Wondrous item, major, very rare*  
@@ -46,3 +49,7 @@ When you hit with an attack using a weapon that has the versatile property, you 
 You can't take an Advanced Fighting Style option more than once, even if you later get to choose again. Once the book has been used to grant an Advanced Fighting Style, it loses its magic, but regains it in a century.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 176*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Great Owl's Crown
 *Wondrous item, minor, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ You gain a +1 bonus to Wisdom checks and Wisdom saving throws while wearing this
 The crown has 5 charges and regains all expended charges daily at dawn. While wearing the crown, you can use an action to expend 1 of its charges to detect if there are any [[/5. Mechanics/Bestiary/Beast/Owl.md\|owl]]s or [[/5. Mechanics/Bestiary/Monstrosity/Owlbear.md\|owlbear]]s within 1000 feet of you. If you detect any owls or owlbears within the crown's range, you learn the direction and distance to the closest one. Alternatively, you can expend 1 of the crown's charges to cast the [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell from it, which must target a beast with a flying speed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

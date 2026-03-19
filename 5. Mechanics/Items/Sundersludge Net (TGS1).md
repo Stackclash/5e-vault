@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sundersludge Net
 *Weapon ([[/5. Mechanics/Items/Net.md\|net]]), major, uncommon (requires attunement)*  
@@ -39,3 +42,7 @@ You're immune to damage from the net while you're attuned to it. Picking up the 
 A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. The net's sticky composition makes it more difficult to escape than a mundane one. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. The net has resistance to all damage types. Dealing 10 slashing damage to the net (AC 12) also frees the creature without harming it, ending the effect and tearing the net apart. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

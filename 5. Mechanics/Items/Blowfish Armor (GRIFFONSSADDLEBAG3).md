@@ -18,6 +18,9 @@ tier: major
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Blowfish Armor
 *Light armor ([[/5. Mechanics/Items/Padded Armor.md\|padded armor]]), major, uncommon*  
@@ -36,3 +39,7 @@ Any creature within 5 feet of you when you transform must succeed on a DC 13 Dex
 If you transform into the sphere while underwater, you immediately rise 60 feet toward the surface. While you remain transformed, you rise 60 feet toward the surface again at the start of each of your turns.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

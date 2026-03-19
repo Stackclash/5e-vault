@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Champion's Greatbow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, rare*  
@@ -36,3 +39,7 @@ This large bow is wrought from the boughs of an old, resilient tree. Its wooden 
 Once on each of your turns when you make a ranged attack with this weapon, you can use the bow to fire a [[/5. Mechanics/Items/Javelin.md\|javelin]] or [[/5. Mechanics/Items/Spear.md\|spear]], instead of an arrow, without affecting the bow's damage die. When you do, the bow's normal and long ranges are halved for the attack. If the attack hits, the target takes extra piercing damage equal to your Strength modifier.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 58*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

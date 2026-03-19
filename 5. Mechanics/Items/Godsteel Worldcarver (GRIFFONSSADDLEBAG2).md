@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Godsteel Worldcarver
 *Major, legendary (requires attunement)*  
@@ -34,3 +37,7 @@ While holding the weapon, you can use a bonus action to magically store it in a 
 When you roll a 20 on an attack roll made with this weapon, you can force the target to make a DC 17 Charisma saving throw. On a failed save, the target takes an extra `dice:3d8|noform|noparens|avg` (`3d8`) radiant damage, and if the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] and banished to a special demiplane until the start of your next turn, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. On a successful save, the target takes half as much radiant damage and isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or transported. If you are a cleric or paladin, you and each creature of your choice within 30 feet of you regains a number of hit points equal to half the radiant damage dealt in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 92*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

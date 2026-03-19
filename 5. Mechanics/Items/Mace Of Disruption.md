@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mace of Disruption
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement)*  
@@ -34,3 +37,7 @@ When you hit a fiend or an undead with this magic weapon, that creature takes an
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 *Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

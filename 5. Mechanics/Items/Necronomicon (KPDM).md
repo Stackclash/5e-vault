@@ -10,6 +10,9 @@ aliases:
   - Necronomicon
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Necronomicon
 *Wondrous item, artifact (requires attunement)*  
@@ -71,3 +74,7 @@ A creature that is attuned to the book and holding it can use an action to cast 
 Pages can be torn from the Necronomicon, but any eldritch lore contained on those pages finds its way back into the book eventually, usually when a new author or translator adds pages to the tome. It is rumored that the Necronomicon can't be destroyed as long as a spawn of the Great Old One Azathoth exists in the multiverse. A short-term solution exists, however: casting the book into the fire of a dying star scorches all the writing and imagery from its pages and renders the book useless for `dice:6d6+6|noform|noparens|avg` (`6d6 + 6`) years.
 
 *Source: Deep Magic p. 343*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

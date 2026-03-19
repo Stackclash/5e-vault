@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Form of Order
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
@@ -52,3 +55,7 @@ The form of order is a sentient lawful neutral weapon with an Intelligence of 16
 The form of order has an unwaveringly logical personality and is devoid of emotion. Its only directive is to uphold order in the universe, and urges the attuned creature to do what it must to preserve order. If it feels that its attuned creature will not follow that ideal, a conflict may arise.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

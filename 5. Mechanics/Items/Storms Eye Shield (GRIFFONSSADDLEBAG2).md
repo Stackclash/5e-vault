@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Storm's Eye Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ In addition, while the shield is flat on the ground, you can perform a 1 minute 
 Once this property of the shield has been used, it can't be used again until it's been in the presence of another thunderstorm for at least 1 hour.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 172*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of the Wagoneer
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ You're considered to be proficient with land vehicles while wearing this amulet,
 Lastly, while wearing this amulet, any mount that's pulling a land vehicle you control gains a +2 bonus to any Constitution saving throw it makes to endure a forced march.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

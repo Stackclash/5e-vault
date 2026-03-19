@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spirit Cleaver
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, legendary (requires attunement by a rogue)*  
@@ -46,3 +49,7 @@ While holding this weapon, you can use an action to cast the etherealness spell 
 Once this property of the weapon has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 167*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

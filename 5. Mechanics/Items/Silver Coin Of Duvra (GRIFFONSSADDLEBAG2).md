@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Coin of Duvra
 *Wondrous item, minor, common (requires attunement)*  
@@ -21,3 +24,7 @@ tier: minor
 This silver coin is embossed with the trickster dragon Duvra on one side (heads), and a sailing ship on the other (tails). Whenever you or another creature you can see flips this coin, you can control whether it lands heads, tails, or on its side.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 161*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

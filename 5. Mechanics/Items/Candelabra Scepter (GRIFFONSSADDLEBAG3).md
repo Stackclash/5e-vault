@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Candelabra Scepter
 *Rod, major, legendary (requires attunement by a spellcaster)*  
@@ -33,3 +36,7 @@ When there are no candles in the scepter, you can use an action to create a clou
 The scepter regains `dice:1d4|noform|noparens|avg` (`1d4`) expended candles daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

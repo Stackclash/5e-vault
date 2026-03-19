@@ -9,6 +9,9 @@ aliases:
   - Flight of Fancy Fascinator
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Flight of Fancy Fascinator
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This raven-feathered hat is decorated with a silvery net, which drapes fashionab
 Once a creature succeeds on the saving throw, it's immune to the hat's effects for the next 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

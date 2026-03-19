@@ -13,6 +13,9 @@ rarity: rare
 type: gear
 subtype:
   - requires-installation
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Tapestry of Reweaving
 *Wondrous item, requires installation, rare*  
@@ -25,3 +28,7 @@ Watching the tapestry closely reveals it is not an idyllic depiction of a time g
 If found uninstalled, the tapestry depicts a scene from wherever it was last installed, and it does not change its scene until it is installed again.
 
 *Source: Strongholds and Followers p. 263*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

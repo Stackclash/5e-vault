@@ -14,6 +14,9 @@ attunement-requirement:
   - sorcerer
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Sash of Sorcerous Synergy
 *Wondrous item, major, rare (requires attunement by a sorcerer)*  
@@ -25,3 +28,7 @@ This miraculous, one-shouldered robe is made from fine fabrics that have been st
 In addition, when you use a Metamagic option on a spell while wearing this sash, you can change the style, color, and material of the garment and buckle. The sash's weight doesn't change. Regardless of its appearance, the sash can't be anything but a one-shouldered robe.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 154*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

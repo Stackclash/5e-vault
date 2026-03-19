@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mask of the Mimic
 *Wondrous item, cursed item, major, uncommon*  
@@ -25,3 +28,7 @@ This mask is designed in the likeness of a mimic: the bane (and untimely end) of
 Once you place this mask on your face, you can't remove it unless you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While wearing the mask, you gain the following flaw: "If I see something of value that I think I can steal, it only makes sense to try."
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

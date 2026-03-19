@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Scythe of the Grim Shepherd
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement)*  
@@ -52,3 +55,7 @@ You can use an action to expend 1 of the weapon's charges to attempt to bring an
 You can use an action to expend 2 of the weapon's charges to summon a grim ram: an all-black goat with four horns. The goat appears in an unoccupied space that you can see within 30 feet of you, and remains until it's reduced to 0 hit points or until you use this property of the weapon again. The goat is friendly to you and your companions. It uses the statistics for a giant goat, but has immunity to necrotic damage and deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage to any creature it hits with a melee attack. The goat obeys any verbal commands that you issue to it. In combat, the goat shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action, unless you take a bonus action on your turn to command it to take another action.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Voltedge
 *Major, rare (requires attunement)*  
@@ -31,3 +34,7 @@ subtype:
 This split metal sword arcs with electricity between its two halves. When you hit with an attack using this magic sword, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage. While holding this sword, you can use an action to unleash a concentrated beam of lightning from the blade in a line that is 60 feet long and 5 feet wide. Each creature within that line must make a DC 15 Dexterity saving throw. A creature takes 4d6 lightning damage on a failed save, or half as much damage on a success. Once this property of the sword has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

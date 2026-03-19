@@ -13,6 +13,9 @@ attunement-requirement:
   - bard
   - trickster domain cleric
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mask of Clouds
 *Wondrous item, very rare (requires attunement by a bard or [[/5. Mechanics/Classes/Cleric.md\|Trickster Domain]] cleric)*  
@@ -24,3 +27,7 @@ This two-faced mask has been imbued with divine energy siphoned from a cloud gia
 While wearing and attuned to this mask, your illusion spells gain a particular potency. Whenever you cast an illusion spell that creates an image, that image becomes physical and emulates the feel, texture, and weight of the real object it is imitating; this allows your images to withstand physical inspection. However, if more than 10 pounds of force are applied to your image, it will burst into a thick, cloud-like fog and then quickly dissipate, thus revealing it as an illusion.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 61*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

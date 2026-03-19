@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Mace of Terror
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement)*  
@@ -34,3 +37,7 @@ This magic weapon has 3 charges. While holding it, you can use an action and exp
 The mace regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

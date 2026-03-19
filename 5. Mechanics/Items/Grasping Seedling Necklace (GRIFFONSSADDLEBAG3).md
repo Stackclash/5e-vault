@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Grasping Seedling Necklace
 *Wondrous item, minor, common*  
@@ -24,3 +27,7 @@ If the seedling has 7 charges, you can use an action to detach the necklace's ba
 The vines wither away and are destroyed after 1 minute. When they do, there is a 50 percent chance that they leave behind a new seed. You can place the seed in the necklace's empty glass bauble to begin growing it into a seedling once again.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

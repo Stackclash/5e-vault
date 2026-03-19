@@ -16,6 +16,9 @@ rarity: artifact
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Armor of the Gnoll Lord
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), cursed item, artifact (requires attunement)*  
@@ -64,3 +67,7 @@ When you become attuned to this armor, you become cursed. Whenever you finish a 
 This armor can only be destroyed if the creature wearing and attuned to it is killed by the weapon [[/5. Mechanics/Items/Heartcleaver (HHHVIII).md\|Heartcleaver]]. At this point, the armor will slough off its wearer and dissolve into a useless ichor.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 100*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

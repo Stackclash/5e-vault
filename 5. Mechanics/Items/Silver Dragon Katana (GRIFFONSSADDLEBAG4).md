@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Dragon Katana
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), rare*  
@@ -35,3 +38,7 @@ This shimmering silver katana is always cold to the touch, and a flurry of snow 
 You can use an action to speak the weapon's command word and swing it down in front of you. When you do, a blast of freezing winds erupts in a 30-foot cone from the blade. Each creature within that area must make a DC 15 Constitution saving throw as it's struck by the flurry of icy shrapnel. A creature takes `dice:2d6|noform|noparens|avg` (`2d6`) slashing damage, `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage, and `dice:2d6|noform|noparens|avg` (`2d6`) cold damage on a failed save, or half as much damage on a success. Once this property of the sword has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

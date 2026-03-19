@@ -13,6 +13,9 @@ weight: 1
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Beard Cannon
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -27,3 +30,7 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you 
 After the attack, the retracted hair magically reappears through the cuff, and the fired bead is lost. `dice:1d6|noform|noparens|avg` (`1d6`) fired beads magically reappear in your hair daily at dawn. When not in use as a weapon, the item is indistinguishable from a normal hair cuff.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 43*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

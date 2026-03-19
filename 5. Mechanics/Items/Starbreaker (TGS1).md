@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starbreaker
 *Weapon ([[/5. Mechanics/Items/Morningstar.md\|morningstar]]), major, rare (requires attunement)*  
@@ -32,3 +35,7 @@ subtype:
 This glowing morningstar casts bright light in a 20-foot radius and dim light for an additional 20 feet while you hold it. You gain a +2 bonus to attack and damage rolls made with this magic weapon. Targets hit by the weapon take an extra `dice:1d4|noform|noparens|avg` (`1d4`) radiant damage. In addition, you can use an action to cast the [[/5. Mechanics/Spells/Daylight.md\|daylight]] spell using the weapon. Once the weapon has been used to cast this spell, it can't do so again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

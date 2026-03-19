@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Turtle Jelly
 *Potion, very rare*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this jelly-like potion, you recover `dice:10d4+20|noform|noparens|avg` (`10d4 + 20`) hit points and are cured of any disease.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

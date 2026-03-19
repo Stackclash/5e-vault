@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Shadowsmoke Dragon Pipe
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ This magic pipe leaves behind odorless smoke that dissipates quickly. Its head e
 A creature can immediately turn invisible when it's affected by the smoke (no action required) or choose to wear the smoke as if it were a physical ring. This ring lasts for 1 minute or until the creature uses a bonus action on one of its turns to turn invisible. A creature turned invisible by the smoke ring reappears at the start of its next turn or when it attacks or cast a spell. A creature can only have 1 smoke ring at any time.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 113*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

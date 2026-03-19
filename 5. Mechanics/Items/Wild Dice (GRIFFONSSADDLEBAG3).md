@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Wild Dice
 *Wondrous item, major, rare*  
@@ -39,3 +42,7 @@ The dice have a total of 6 charges and regain `dice:1d6|noform|noparens|avg` (`1
 ^2-effect
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

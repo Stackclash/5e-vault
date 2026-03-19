@@ -13,6 +13,9 @@ attunement-requirement:
   - cleric
   - paladin of good alignment
 rarity: legendary
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Holy Symbol of Ravenkind
 *Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)*  
@@ -38,3 +41,7 @@ If you have the Turn Undead or the Turn the Unholy feature, you can expend 3 cha
 As an action, you can expend 5 charges while presenting the holy symbol to make it shed bright light in a 30-foot radius and dim light for an additional 30 feet. The light is sunlight and lasts for 10 minutes or until you end the effect (no action required).
 
 *Source: Curse of Strahd p. 222*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

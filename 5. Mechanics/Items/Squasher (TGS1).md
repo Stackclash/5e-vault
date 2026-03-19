@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Squasher
 *Weapon ([[/5. Mechanics/Items/Greatclub.md\|greatclub]]), major, uncommon*  
@@ -32,3 +35,7 @@ subtype:
 This enormous squash is strangely durable and makes for a functional magic weapon. [[/5. Mechanics/Classes/Druid.md\|Druids]] wielding squasher are proficient with the weapon and can use their Wisdom modifier for the weapon's attack and damage rolls instead of Strength.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

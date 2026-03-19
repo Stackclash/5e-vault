@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tome of Planar Wonderings and Wanderings
 *Wondrous item, major, legendary*  
@@ -22,3 +25,7 @@ This book contains musings and detailed intricacies of the nature of the Planes 
 In addition, you gain the ability to magically sense the presence of planar portals or extradimensional spaces. As an action, you detect the distance and direction to either the closest planar portal within 3 miles of you or to the nearest opening to an extradimensional space within 30 feet of you. When you finish studying this book it loses its magic, but regains it in a century.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

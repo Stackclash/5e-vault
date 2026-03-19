@@ -9,6 +9,9 @@ aliases:
   - Gibbering Candle
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gibbering Candle
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This oozing, red wax candle provides the same light as a normal candle. Twisted 
 The candle's magic is activated when the candle is lit, which requires an action. After burning for 1 hour, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 10 minutes from the candle's total burn time.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

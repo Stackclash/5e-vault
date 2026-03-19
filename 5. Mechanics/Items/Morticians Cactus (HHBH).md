@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mortician's Cactus
 *Herb, common*  
@@ -30,3 +33,7 @@ While many cacti contain juices that can be sweet and tasty, this cactus is a no
 For 4 hours after using this herb, you taste and smell terrible. Any creature that makes an attack against you involving biting or using their tongue on you, does so at disadvantage. In addition, you have advantage on any ability check or saving throw made to avoid being swallowed or to be spit out of a creature's stomach.
 
 *Source: Hamund's Herbalism Handbook p. 24*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

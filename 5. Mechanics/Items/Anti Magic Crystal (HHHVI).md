@@ -9,6 +9,9 @@ aliases:
   - Anti-Magic Crystal
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Anti-Magic Crystal
 *Wondrous item, very rare*  
@@ -20,3 +23,7 @@ This roughly basket sized crystal radiates a field of energy that disrupts the n
 This crystal cannot be deactivated (including in other antimagic fields) and only stops functioning if it is destroyed. The crystal has 30 hit points, 15 AC and is immune to poison and psychic damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 119, Hamund's Harvesting Handbook: Volume III p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

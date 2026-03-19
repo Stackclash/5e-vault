@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: short-rest
 ---
 # Aged Goodberry Wine
 *Potion, minor, rare*  
@@ -26,3 +29,7 @@ This bottle of thick red wine is miraculously made from magical goodberries and 
 When you drink this wine, you can regain hit points by spending any number of Hit Dice, as if you'd finished a short rest. You regain 1 extra hit point for each Hit Die you spend in this way. The wine provides enough nourishment to sustain a creature for one day. In addition, for the next hour, whenever you roll a Wisdom or Charisma ability check or saving throw, you add `dice:1d4|noform|noparens|avg` (`1d4`) to the total of the roll.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 33*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

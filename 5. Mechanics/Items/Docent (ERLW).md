@@ -12,6 +12,9 @@ attunement: true
 attunement-requirement:
   - warforged
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Docent
 *Wondrous item, rare (requires attunement by a warforged)*  
@@ -43,3 +46,7 @@ A docent has the following properties:
 A docent is designed to advise and assist the warforged it's attached to. One of the simple functions of a docent is to serve as a translator. The docent's properties are under its control, and if you have a bad relationship with your docent, it might refuse to assist you.
 
 *Source: Eberron: Rising from the Last War p. 276, Vecna: Eve of Ruin p. 80*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

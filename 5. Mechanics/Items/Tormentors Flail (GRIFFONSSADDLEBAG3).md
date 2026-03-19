@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tormentor's Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare*  
@@ -33,3 +36,7 @@ The head of this flail is in the shape of a metal skull that's pierced with larg
 In addition, when you roll a 20 on an attack roll made with this weapon against a creature, that creature must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

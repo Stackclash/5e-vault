@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Rings of Spell Sharing
 *Ring, major, legendary (requires attunement by a spellcaster)*  
@@ -31,3 +34,7 @@ The ring has 4 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) 
 If the rings have been more than 1 mile away from one another for 24 hours, the Siphoning ring magically appears next to the Channeling ring again.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

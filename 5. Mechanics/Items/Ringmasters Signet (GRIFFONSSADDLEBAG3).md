@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ringmaster's Signet
 *Ring, major, uncommon (requires attunement)*  
@@ -27,3 +30,7 @@ This golden ring resembles a stylized lion holding a marble in its fanged mouth.
 If you are attuned to this ring and two other items with "ringmaster's" in their names, this ring gains the following benefit: whenever you use a [[/5. Mechanics/Items/Figurine Of Wondrous Power.md\|figurine of wondrous power]] while wearing the ring, the number of days that have to pass before it can be used again is halved (rounded up).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

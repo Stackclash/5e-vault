@@ -10,6 +10,9 @@ aliases:
 weight: 2
 attunement: false
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hobbysteed
 *Wondrous item*  
@@ -23,3 +26,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Hobbysteed Rare (GRIFFONSSADDLEBAG4).md\|Hobbysteed (Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lupine Mask
 *Wondrous item, major, uncommon*  
@@ -20,3 +23,7 @@ tier: major
 While wearing this dark ceramic mask, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks relying on hearing and smell, as well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]) checks made to interact with dogs and doglike beasts, such as foxes, jackals, and wolves.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 117*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

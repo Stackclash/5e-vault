@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Gloves of Healing
 *Wondrous item, major, rare*  
@@ -22,3 +25,7 @@ These silken gloves enhance the rejuvenating power of healers and clerics. While
 Alternatively, a creature can regain these additional hit points if you use a [[/5. Mechanics/Items/Healers Kit.md\|healer's kit]] to stabilize or restore hit points to it. Once a creature regains extra hit points in this way, it can't do so again until it finishes a short or long rest.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 90*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Ring of Storm Giant Growth
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Storm Giant Growth
 *Wondrous item, very rare (requires attunement)*  
@@ -26,3 +29,7 @@ While wearing this ring, you may speak the command word to grow to the size of a
 Once used, this ring cannot be used again for the next 7 days.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Hedgewitch's Gardening Gloves
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ These leafy, long gardening gloves are adorned with enchanted vines that cinch i
 In addition, the gloves have 2 magical bunches of herbs, one on each glove, that regrow daily at dawn. When you cast a spell that requires [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], you can speak the gloves' command word to consume 1 bunch of herbs. When you do, the herbs dry and crumble, duplicating the effect of the [[/5. Mechanics/Spells/Barkskin.md\|barkskin]] spell on yourself. This effect lasts for as long as you concentrate on the original spell, up to a maximum of 1 hour. It ends early if you remove either of the gloves.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

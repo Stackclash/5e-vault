@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rose of the Queen Valkyrie
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), legendary (requires attunement)*  
@@ -48,3 +51,7 @@ You can use an action to spin the spear above you, sending a cascade of magical 
 When you make a ranged attack with this spear, it returns to your open hand immediately after the attack.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -9,6 +9,9 @@ aliases:
   - Heart Scales
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Heart Scales
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ This set of golden scales has an unremovable petrified heart placed on one side.
 If you are holding this item, you may focus on it while it has a creature's body part on the scale. So long as you remain in contact with this item, you automatically succeed any Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) checks made against the creature whose body part is on the scale.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 59*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Shadow Wing Cape
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shadow Wing Cape
 *Wondrous item, rare (requires attunement)*  
@@ -19,3 +22,7 @@ rarity: rare
 While wearing this cape in dim light, you have a flying speed of 20 feet. This flying speed is increased to 40 feet in darkness.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

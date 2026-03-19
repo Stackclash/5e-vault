@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sir Varion's Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
@@ -26,3 +29,7 @@ tier: major
 This large shield once belonged to Sir Varion, a noble knight who strode bravely through battles on ice, sand, or swamp. While holding this shield, you ignore nonmagical difficult terrain and have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 162*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

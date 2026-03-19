@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - scroll
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Scroll of Film
 *Scroll, minor, common*  
@@ -26,3 +29,7 @@ Unlike normal scrolls, a scroll of film has multiple uses. Each use requires you
 The scroll is partially transparent at its center with gilded edges. While holding a length of the scroll taut out in front of you, you can use an action to speak its command word to cause the transparent portion of the scroll to become opaque. When it does, it records the two-dimensional image of what was seen at that time through the scroll's center on your side of the now opaque paper. The recorded image can be in black and white or color (your choice).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

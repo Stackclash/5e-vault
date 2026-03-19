@@ -19,6 +19,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wand of the War Mage
 *Wand, major (requires attunement by a spellcaster)*  
@@ -32,3 +35,7 @@ subtype:
 - [[/5. Mechanics/Items/3 Wand Of The War Mage.md\|+3 Wand of the War Mage]]
 
 *Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

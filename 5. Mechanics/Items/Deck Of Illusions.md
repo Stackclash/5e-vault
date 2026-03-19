@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Deck of Illusions
 *Wondrous item, major, uncommon*  
@@ -64,3 +67,7 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 ^1-playing-card-illusion
 
 *Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

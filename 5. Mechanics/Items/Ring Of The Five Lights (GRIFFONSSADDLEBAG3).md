@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Ring of the Five Lights
 *Ring, major, uncommon (requires attunement)*  
@@ -35,3 +38,7 @@ The lights combine to form a glowing, five-fingered hand, which duplicates the e
 Alternatively, if you use the ring to cast the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell, you can use a bonus action on each of your turns for the duration of the spell to send one of its glowing lights out toward a target that you can see within 120 feet of you. When you do, each light you send is a single magic missile dart, which deals radiant damage instead of force damage. Doing so reduces the total number of glowing lights from that [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell by one. The ring can send up to 5 magic missile darts in this way, and it regains all expended uses daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

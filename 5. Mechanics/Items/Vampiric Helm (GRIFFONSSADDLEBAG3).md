@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vampiric Helm
 *Wondrous item, cursed item, major, rare (requires attunement)*  
@@ -28,3 +31,7 @@ Once you don this cursed helmet, you can't doff it unless you are targeted by th
 In addition, your teeth grow pointed, and you hunger for blood. If you enter a space within 5 feet of a [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] or [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature on your turn or start your turn there, you must make a DC 15 Wisdom saving throw. You can choose to fail this saving throw. On a failure, you're compelled to use your action to make an unarmed strike against that creature, biting it on a hit. The bite deals piercing damage equal to `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike, plus `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage. You then gain a number of temporary hit points equal to the necrotic damage dealt.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

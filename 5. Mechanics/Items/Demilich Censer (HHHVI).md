@@ -9,6 +9,9 @@ aliases:
   - Demilich Censer
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Demilich Censer
 *Wondrous item, very rare*  
@@ -20,3 +23,7 @@ This censer has an innate connection with the [[/5. Mechanics/Bestiary/Undead/De
 A creature holding this item may also spend 10 minutes focusing on it, after which, a wisp of smoke will emerge and blow in the direction of the demilich's phylactery if it is on the same plane of existence as the censer. Once this ability has been used once, it cannot be used again until the next dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

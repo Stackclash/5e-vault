@@ -20,6 +20,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Torrent Taiaha
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement)*  
@@ -36,3 +39,7 @@ A mote of swirling, magic water circles the top of this wooden staff. This staff
 While holding the staff, you can stand on and move across any liquid surface as if it were solid ground. If you end your turn on a liquid in this way, you sink into it as normal until you stand on solid ground again. In addition, while holding the staff, you can use an action to cast the [[/5. Mechanics/Spells/Control Water.md\|control water]] spell (*Flood* or *Part Water* only) from it. The spell ends early if you are no longer holding the staff. Once the staff's been used to cast this spell, it can't do so again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -27,6 +27,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Weapon of Verdict
 *Major, uncommon (requires attunement by a creature of good alignment)*  
@@ -44,3 +47,7 @@ When you hit a creature with this weapon, you can expend 1 charge to deal an ext
 As an action, you can expend 1 charge to touch a creature other than yourself with this weapon to restore `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) hit points to that creature.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 187*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

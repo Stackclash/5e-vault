@@ -13,6 +13,9 @@ rarity: none
 type: gear
 subtype:
   - null
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Trinket
 *Adventuring gear*  
@@ -130,3 +133,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 ^players-handbook-trinket-table
 
 *Source: Player's Handbook p. 159. Available in the Basic Rules (2014)*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

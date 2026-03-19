@@ -15,6 +15,9 @@ rarity: unknown
 type: wondrous
 subtype:
   - other
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Flensing Claws
 
@@ -32,3 +35,7 @@ Each set of flensing claws is designed for a specific creature and can't be used
 - [[/5. Mechanics/Items/Flensing Claws Huge (VGM).md\|Flensing Claws (Huge)]]
 
 *Source: Volo's Guide to Monsters p. 81*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

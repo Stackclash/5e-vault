@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mace of the Iron Crown
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), very rare (requires attunement)*  
@@ -36,3 +39,7 @@ At the start of each of its turns, a confused creature has a 50 percent chance t
 The crown vanishes and the effect ends after 1 minute or after the third time the creature has either succeeded on the saving throw or hasn't become maddened at the start of its turn; the creature is then immune to this effect for the next 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

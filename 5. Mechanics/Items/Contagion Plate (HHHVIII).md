@@ -18,6 +18,9 @@ rarity: very-rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Contagion Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
@@ -34,3 +37,7 @@ While wearing this armor, you gain a +1 bonus to AC, a swim speed equal to your 
 You may end this effect early by using your bonus action to speak the command word again, ending the aura and removing any befouling effect on contaminated water.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 85*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

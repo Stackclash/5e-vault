@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rush Chillis
 *Herb, rare*  
@@ -30,3 +33,7 @@ A curious, lightning bolt shaped chilli that grows on spindly yellow stalks. Imb
 For 1 hour after using this herb, you can perform up to 2 reactions per round that you regain at the start of each of your turns.
 
 *Source: Hamund's Herbalism Handbook p. 29*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

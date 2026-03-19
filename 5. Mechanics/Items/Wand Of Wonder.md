@@ -19,6 +19,9 @@ tier: major
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Wand of Wonder
 *Wand, major, rare (requires attunement by a spellcaster)*  
@@ -63,3 +66,7 @@ The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges d
 ^effect
 
 *Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

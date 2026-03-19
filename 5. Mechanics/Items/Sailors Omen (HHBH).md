@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sailor's Omen
 *Herb, rare*  
@@ -30,3 +33,7 @@ This algae takes the ominous form of small red clumps that resemble splotches of
 For 8 hours after using this herb, you are immune to poison damage and the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition.
 
 *Source: Hamund's Herbalism Handbook p. 29*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

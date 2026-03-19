@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dream Mantle
 *Wondrous item, major, very rare (requires attunement)*  
@@ -23,3 +26,7 @@ This short purple cape is vaguely iridescent and is difficult to look at from af
 In addition, you can cast the [[/5. Mechanics/Spells/Dream.md\|dream]] spell (save DC 16) using the mantle, using yourself as the messenger within the dream. Once this property of the mantle has been used, it can't be used again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 57*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

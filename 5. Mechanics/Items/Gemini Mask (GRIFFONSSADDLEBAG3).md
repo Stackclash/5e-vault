@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gemini Mask
 *Wondrous item, major, rare (requires attunement)*  
@@ -30,3 +33,7 @@ For the duration of this version of the spell, you gain the following benefits:
 - The spell ends early if you're more than 1 mile away from the other creature.  
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

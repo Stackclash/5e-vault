@@ -10,6 +10,9 @@ aliases:
   - Codex Incabulum
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Codex Incabulum
 *Wondrous item, artifact (requires attunement)*  
@@ -52,3 +55,7 @@ Once per week as an action, you may sacrifice Hit Dice to summon a [[/5. Mechani
 While the codex incabulum is on the Mundane World, summoned demons and devils cannot summon more demons or devils. Should the *Book of Fiends* ever leave the Mundane World, however, this restriction would be lifted, and then even minor demons could gate in powerful allies, who themselves could gate in more allies, until armies of demons flooded the world.
 
 *Source: Strongholds and Followers p. 250*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

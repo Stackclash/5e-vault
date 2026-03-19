@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fairybed Reed
 *Herb, rare*  
@@ -30,3 +33,7 @@ A wonderfully beautiful reed that grows a distinctive pad on top covered with in
 You may spend 10 minutes applying this herb to yourself, stuffing its seeds into your armour and lubricating the joints with its oil. If you do so, you ignore any disadvantage to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks that you may have while wearing your armor type.
 
 *Source: Hamund's Herbalism Handbook p. 13*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

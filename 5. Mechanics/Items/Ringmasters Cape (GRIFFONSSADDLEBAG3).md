@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ringmaster's Cape
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ This cape flows dramatically behind you when you move. While wearing it, you gai
 While wearing the cape, you can use your reaction while falling mid-air (such as after a jump or when falling from a great height) to immediately jump again, as if you had made a standing jump. When you do, your initial fall is harmlessly stopped as part of the new leap. Once you've used this property of the cape, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

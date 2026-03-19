@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Blackthorn Spear of the Moonless Hunter
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, rare (requires attunement)*  
@@ -49,3 +52,7 @@ This spear contains a fragment of the moonless hunter, an ancient spirit that ca
 You can assume the spirit in this way for up to 8 hours. The effect ends early if you release the spirit as a bonus action or if you're farther than 60 feet away from the spear for more than 1 minute. The spirit returns to the spear when you are no longer assuming it, at which point you gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] for every 2 hours you assumed the spirit (minimum 1 level). [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|Exhaustion]] gained in this way can only be reduced by finishing a long rest.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 45*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

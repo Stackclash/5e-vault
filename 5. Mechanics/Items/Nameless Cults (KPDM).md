@@ -10,6 +10,9 @@ aliases:
   - Nameless Cults
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Nameless Cults
 *Wondrous item, legendary (requires attunement)*  
@@ -22,3 +25,7 @@ The tome contains all mythos magic spells in this section, plus any additional s
 The book's bearer can reference Nameless Cults whenever he or she makes an Intelligence check to recall information about any aspect of evil or the occult, such as lore about Great Old Ones, mythos creatures, or the cults that worship them. When doing so, the proficiency bonus for that check is doubled.
 
 *Source: Deep Magic p. 343*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

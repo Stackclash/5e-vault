@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Great Owl's Shroud
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ This draping shoulder cloak flutters softly while worn, even if there isn't a br
 In addition, you can use a reaction when you fall to cast the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell from the cloak, targeting only yourself. Once this property of the cloak has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 94*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

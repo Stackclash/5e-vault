@@ -16,6 +16,9 @@ rarity: legendary
 type: armor
 subtype:
   - light
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kraken Tunic
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), legendary (requires attunement)*  
@@ -31,3 +34,7 @@ While wearing this armor, you gain a +3 bonus to your AC. In addition, you gain 
 - You ignore difficult terrain, and magical effects can't reduce your speed or cause you to be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. You can spend 5 feet of movement to escape from nonmagical restraints or from being [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]].  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

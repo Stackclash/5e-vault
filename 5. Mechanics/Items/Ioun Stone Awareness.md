@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ioun Stone, Awareness
 *Wondrous item, major, rare (requires attunement)*  
@@ -26,3 +29,7 @@ A stone has AC 24, 10 hit points, and resistance to all damage. It is considered
 You can't be [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]] while this dark blue rhomboid orbits your head.
 
 *Source: Dungeon Master's Guide p. 176. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

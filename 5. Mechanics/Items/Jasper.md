@@ -14,6 +14,9 @@ rarity: none
 type: gear
 subtype:
   - treasure-gemstone
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Jasper
 *Treasure (gemstone)*  
@@ -23,3 +26,7 @@ subtype:
 An opaque blue, black, or brown gemstone.
 
 *Source: Dungeon Master's Guide p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

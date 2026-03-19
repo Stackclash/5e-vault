@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Cold Brush
 *Herb, common*  
@@ -30,3 +33,7 @@ An extremely hardy shrub covered in tiny, blue, hair-like leaves. Each of these 
 As part of using this herb, you must rub it on your exposed skin while preparing it. For the next 4 hours, your skin turns a pale blue and becomes icy to the touch. This has no impact on your actual body temperature.
 
 *Source: Hamund's Herbalism Handbook p. 9*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

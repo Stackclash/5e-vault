@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: short-rest
 ---
 # War Standard of Battlecries
 *Wondrous item, major, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ This standard has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) e
 You can concentrate on the banner over the course of a short rest to change the emblem depicted on it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 142*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

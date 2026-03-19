@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Redeemer's Regards
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement by a paladin)*  
@@ -39,3 +42,7 @@ A bow designed for holy warriors who prefer to keep evil at a distance. Any rang
 In addition, when you expend a 1st-level spell slot to use your Divine Smite feature on an attack made with this bow, you can choose to not expend the spell slot instead. This property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

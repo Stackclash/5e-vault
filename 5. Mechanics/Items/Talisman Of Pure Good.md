@@ -15,6 +15,9 @@ attunement-requirement:
   - creature of good alignment
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 7
+item_recharge: none
 ---
 # Talisman of Pure Good
 *Wondrous item, major, legendary (requires attunement by a creature of good alignment)*  
@@ -28,3 +31,7 @@ If you are a good cleric or paladin, you can use the talisman as a holy symbol, 
 The talisman has 7 charges. If you are wearing or holding it, you can use an action to expend 1 charge from it and choose one creature you can see on the ground within 120 feet of you. If the target is of evil alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman disperses into motes of golden light and is destroyed.
 
 *Source: Dungeon Master's Guide p. 207. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

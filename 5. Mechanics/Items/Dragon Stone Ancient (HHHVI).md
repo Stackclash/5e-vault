@@ -10,6 +10,9 @@ aliases:
   - Dragon Stone (Ancient)
 attunement: true
 rarity: legendary
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon Stone (Ancient)
 *Wondrous item, legendary (requires attunement)*  
@@ -31,3 +34,7 @@ If you are attuned to the legendary version of this item, you may engage in deep
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

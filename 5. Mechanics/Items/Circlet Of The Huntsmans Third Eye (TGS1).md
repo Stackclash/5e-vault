@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 5
+item_recharge: none
 ---
 # Circlet of the Huntsman's Third Eye
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
@@ -28,3 +31,7 @@ The circlet has 5 charges and regains all expended charges daily at dusk. While 
 Attuning to the circlet curses you until you are targeted by the remove curse spell or similar magic. Removing the circlet fails to end the curse. While cursed, whenever you roll a 1 on an attack roll or ability check, you take `dice:1d6|noform|noparens|avg` (`1d6`) psychic damage as the eye's intense frustration and scorn pierce your psyche.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 44*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

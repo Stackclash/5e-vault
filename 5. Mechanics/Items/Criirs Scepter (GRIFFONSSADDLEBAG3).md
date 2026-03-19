@@ -18,6 +18,9 @@ tier: major
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Criir's Scepter
 *Rod, major, artifact (requires attunement by a spellcaster)*  
@@ -55,3 +58,7 @@ While holding the scepter, you can use an action to expend all of its remaining 
 Only Criir can destroy the rod, which requires it to be unmade while within the extradimensional space of a Griffon's Saddlebag.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Quiver of Lightning
 attunement: true
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quiver of Lightning
 *Wondrous item, rare (requires attunement)*  
@@ -23,3 +26,7 @@ Alternatively, once on each of your turns, you can reach into the quiver and pul
 In addition, if you make a ranged attack with a [[/5. Mechanics/Items/Javelin Of Lightning.md\|javelin of lightning]], the javelin vanishes after 1 minute (unless you retrieve it) and emerges from the quiver, falling to the floor at your feet when it does.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

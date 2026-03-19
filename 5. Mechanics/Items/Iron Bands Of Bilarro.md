@@ -12,6 +12,9 @@ weight: 1
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Iron Bands of Bilarro
 *Wondrous item, major, rare*  
@@ -28,3 +31,7 @@ A creature, including the one [[/5. Mechanics/Rules/Conditions.md#Restrained\|re
 Once the bands are used, they can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Iron Bands of Binding")*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

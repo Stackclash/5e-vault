@@ -17,6 +17,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Wildfire Ammunition
 *Minor, rare*  
@@ -32,3 +35,7 @@ If the ammunition remains in its extradimensional space for the full duration wi
 An arrow or bolt is destroyed when it explodes in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 189*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

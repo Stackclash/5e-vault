@@ -13,6 +13,9 @@ rarity: very-rare
 type: gear
 subtype:
   - oil
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightning Oil
 *Oil, very rare*  
@@ -24,3 +27,7 @@ A line of lightning constantly crackles through this bottle of cloudy grey liqui
 This bottle has enough liquid in it for 3 doses.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 133*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

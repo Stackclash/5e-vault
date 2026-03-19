@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Clockwork Earwig
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ This 1-inch-long, copper mechanism magically coils around and clasps to the side
 - You can speak the earwig's command word as an action to cast the [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] spell from it. The spell ends early if you remove the earwig. This property of the earwig can't be used again until the next dawn.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 62*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

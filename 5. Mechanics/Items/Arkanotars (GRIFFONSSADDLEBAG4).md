@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Arkanotars
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), very rare*  
@@ -42,3 +45,7 @@ The weapon runs on a power source that's fueled by magic. The weapons' blades ca
 You can use an action to rub the two weapons together and use them to punch forwards, duplicating the effects of the lightning bolt spell when you do (save DC 16). Doing so deducts 10 minutes from the weapons' remaining time, and this property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

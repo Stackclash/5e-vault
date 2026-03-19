@@ -24,6 +24,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of Healing
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, or druid)*  
@@ -40,3 +43,7 @@ This staff has 10 charges. While holding it, you can use an action to expend 1 o
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1. the staff vanishes in a flash of light, lost forever.
 
 *Source: Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

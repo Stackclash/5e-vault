@@ -16,6 +16,9 @@ rarity: rare
 type: armor
 subtype:
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Suit of Shadows
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), rare (requires attunement)*  
@@ -27,3 +30,7 @@ subtype:
 While wearing this armor, you have a +1 bonus to AC and you constantly exude an aura of magical darkness that only you can see in around yourself in a 10-foot radius. Within this aura, non-magical light can be no brighter than dim light. You may turn this aura on or off by speaking the item's command word as a bonus action.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 97*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

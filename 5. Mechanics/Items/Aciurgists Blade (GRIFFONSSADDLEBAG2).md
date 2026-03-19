@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aciurgist's Blade
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, very rare (requires attunement by a paladin)*  
@@ -43,3 +46,7 @@ Once on each of your turns when you expend a spell slot to use your Divine Smite
 - The target can't regain hit points.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 32*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

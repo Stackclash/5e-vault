@@ -14,6 +14,9 @@ rarity: common
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Repellent Lemons
 *Herb, common*  
@@ -35,3 +38,7 @@ For 4 hours after using this herb, creatures with the beast type with an Intelli
 
 
 *Source: Hamund's Herbalism Handbook p. 28*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

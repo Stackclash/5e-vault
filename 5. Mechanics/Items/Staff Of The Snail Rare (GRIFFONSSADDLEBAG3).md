@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Staff of the Snail (rare)
 *Staff, weapon, major, rare (requires attunement by a spellcaster)*  
@@ -64,3 +67,7 @@ The first creature you hit with an attack with this staff on each of your turns 
 While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [[/5. Mechanics/Spells/Antilife Shell.md\|antilife shell]] (5 charges), [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] (4 charges; the form of a Tiny snail), resilient sphere (4 charges), or [[/5. Mechanics/Spells/Slow.md\|slow]] (3 charges).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

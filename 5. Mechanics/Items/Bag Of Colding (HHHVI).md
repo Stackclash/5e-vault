@@ -9,6 +9,9 @@ aliases:
   - Bag of Colding
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bag of Colding
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This bag has a permanent enchantment on it that causes any organic material insi
 The bag is capable of holding up to 3 cubic feet of material inside it and its opening can open up to 1 foot in diameter.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 119, Hamund's Harvesting Handbook: Volume II p. 54, Hamund's Harvesting Handbook: Volume III p. 82*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

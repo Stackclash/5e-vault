@@ -18,6 +18,9 @@ rarity: rare
 type: armor
 subtype:
   - heavy
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mezzoloth Mail
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), rare (requires attunement)*  
@@ -31,3 +34,7 @@ subtype:
 While wearing and attuned to this armor, you gain the ability to speak Abyssal and Infernal if you did not know them already. You also gain resistance to poison and acid damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

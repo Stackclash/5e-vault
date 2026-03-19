@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Captain's Pride
 *Major, rare (requires attunement)*  
@@ -34,3 +37,7 @@ In addition, you can use a bonus action to shift into a watery, elemental form, 
 This form lasts as long as you concentrate (as if concentrating on a spell), to a maximum of 1 minute. Once this property of the armor has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 57*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

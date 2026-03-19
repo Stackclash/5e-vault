@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: varies
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Featherwhumpus
 *Wondrous item, minor*  
@@ -27,3 +30,7 @@ The first time you find a featherwhumpus, roll a `dice:d100|noform|noparens|avg`
 - While the pillow's ghost is inhabiting another creature, it's treated as if it were a common featherwhumpus. The ghost magically returns to the pillow if it's forced out of the creature while on the same plane of existence as the pillow, at which point it regains its legendary properties.  
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

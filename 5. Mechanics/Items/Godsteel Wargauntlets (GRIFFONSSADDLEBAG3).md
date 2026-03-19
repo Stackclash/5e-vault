@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Godsteel Wargauntlets
 *Wondrous item, major, legendary (requires attunement)*  
@@ -23,3 +26,7 @@ These golden gauntlets carry a powerful force within them. The gauntlets have 10
 The gauntlets regain all expended charges daily at dawn. If you're attuned to one or more other magic items with "godsteel" in the name, you don't need to be attuned to these gauntlets in order to use them.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

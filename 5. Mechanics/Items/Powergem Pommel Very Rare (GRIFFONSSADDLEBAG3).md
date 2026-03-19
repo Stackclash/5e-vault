@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Powergem Pommel (very rare)
 *Wondrous item, major, very rare (requires attunement)*  
@@ -32,3 +35,7 @@ A powergem pommel is a magical attachment for a weapon's handle. While you're at
 ^color-example-light-color
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 6
+item_recharge: none
 ---
 # Flesh of Dendallen
 *Wondrous item, cursed item, major, very rare (requires attunement)*  
@@ -28,3 +31,7 @@ When you attune to the shirt and wear it, you're forced to make a DC 20 Strength
 Once you are attuned to the shirt, you cannot remove it unless you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. When you remove it, you take `dice:4d10|noform|noparens|avg` (`4d10`) necrotic damage as the shirt is peeled from your skin.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 66*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

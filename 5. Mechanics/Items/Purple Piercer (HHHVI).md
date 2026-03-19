@@ -22,6 +22,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Purple Piercer
 *Very rare (requires attunement)*  
@@ -30,3 +33,7 @@ subtype:
 This weapon possesses a wickedly curved head, taken from the stinger of a purple worm. You gain +3 to attack and damage rolls made with this weapon. Once per day, you may use a bonus action to cause the spearhead to secrete purple worm venom. The next time you successfully hit a creature with this weapon, the target must succeed on a DC 19 Constitution saving throw, taking `dice:12d6|noform|noparens|avg` (`12d6`) poison damage on a failed save, or half as much damage on a successful one.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

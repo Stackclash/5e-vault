@@ -15,6 +15,9 @@ tier: major
 type: vehicle
 subtype:
   - land
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Hoarder's Haul (Rare)
 *Wondrous item, vehicle (land), major, rare*  
@@ -30,3 +33,7 @@ When you place a nonliving object in the cart, you can speak the cart's second c
 The cart's properties depend on the item's rarity. The uncommon variant has a carrying capacity of 500 lb., and a save DC of 15. Creatures that fail the saving throw take `dice:3d6|noform|noparens|avg` (`3d6`) psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 104*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

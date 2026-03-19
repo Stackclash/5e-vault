@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Webgrip Rucksack
 *Wondrous item, minor, common*  
@@ -24,3 +27,7 @@ The bag and its eight straps adhere to the surface they're pressed against, such
 Even though the eyes adorning the bag are lifeless and unmoving, they still blink on rare occasion.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

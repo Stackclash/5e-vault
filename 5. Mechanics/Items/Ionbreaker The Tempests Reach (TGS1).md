@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ionbreaker, the Tempest's Reach
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, artifact (requires attunement)*  
@@ -92,3 +95,7 @@ Ionbreaker, the Tempest's Reach has the following random properties:
 The bow can be destroyed if it's struck by lightning in the Stormheart at the same time as it's hit by a hammer of pure adamantine against a similarly adamantine anvil by a creature attuned to the bow. Once destroyed, all creatures within 60 feet of the bow take `dice:10d10|noform|noparens|avg` (`10d10`) lightning damage and `dice:10d10|noform|noparens|avg` (`10d10`) force damage. If a creature is reduced to 0 hit points by this damage, it's immediately turned to ash and can only be revived by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 148*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

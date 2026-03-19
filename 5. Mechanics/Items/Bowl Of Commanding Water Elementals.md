@@ -12,6 +12,9 @@ weight: 3
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous item, major, rare*  
@@ -24,3 +27,7 @@ While this bowl is filled with water, you can use an action to speak the bowl's 
 The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons.
 
 *Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

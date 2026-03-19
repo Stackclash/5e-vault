@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Dragon Turtle Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
@@ -27,3 +30,7 @@ This shield is made from a piece of reclaimed dragon turtle shell. The brass dra
 Once this property has been used, the shield's reservoir is empty and can't be used again in this way until the next dawn when it replenishes or until it's submerged in nonmagical salt water for 1 hour.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sharkrazor Mantle
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ While wearing this magic shark-skinned cloak, you have a swimming speed of 60 fe
 In addition, while wearing the cloak, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) and Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks made to find or track a creature that's missing any of its hit points, and when you attack a creature you can't see that's below its hit point maximum, you make the attack as if you can see it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 114*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

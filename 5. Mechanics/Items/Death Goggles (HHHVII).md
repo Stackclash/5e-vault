@@ -9,6 +9,9 @@ aliases:
   - Death Goggles
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Death Goggles
 *Wondrous item, rare*  
@@ -20,3 +23,7 @@ While wearing these goggles, you may spend your action to target a humanoid with
 If the targeted humanoid has never killed another humanoid, you instead become [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] for 1 minute.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 57*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

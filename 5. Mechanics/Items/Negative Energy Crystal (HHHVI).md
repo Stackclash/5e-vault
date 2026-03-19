@@ -9,6 +9,9 @@ aliases:
   - Negative Energy Crystal
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Negative Energy Crystal
 *Wondrous item, very rare*  
@@ -20,3 +23,7 @@ This roughly basket sized crystal generates a 150-foot radius field of negative 
 The crystal has 30 hit points, 15 AC and is immune to poison and psychic damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 135*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

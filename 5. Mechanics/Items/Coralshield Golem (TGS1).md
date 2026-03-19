@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Coralshield Golem
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
@@ -28,3 +31,7 @@ This crablike golem is made of a light but resilient magical coral. While wearin
 If you don't have a free hand or refuse to drop what you're holding when the golem attempts to don itself, it returns and reattaches to your back.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 47*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

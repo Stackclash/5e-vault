@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Knight's Standard of Vigor
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Whil
 You can concentrate on the weapon's flag over the course of a short rest to change its design and color.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 82*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

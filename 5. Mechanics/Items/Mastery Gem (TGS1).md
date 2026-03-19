@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mastery Gem
 *Wondrous item, major, legendary*  
@@ -22,3 +25,7 @@ This red gemstone seems to glint with some sort of liquid inside. The gem is imp
 You can unattune to the new item as normal, even if the item is cursed. Unattuning to a cursed item in this way breaks the curse's effects on you. When you unattune to an item in this way, the gem detaches from the item, allowing you to use it on another one. The crystalline shell remains on the unattuned item. When you remove the crystal in this way, it takes the item's magic with it: turning the unattuned item into a mundane and nonmagical item.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 87*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

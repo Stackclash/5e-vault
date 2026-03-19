@@ -13,6 +13,9 @@ attunement-requirement:
   - cleric
   - paladin
 rarity: legendary
+item_consumable: false
+item_uses: 7
+item_recharge: dawn
 ---
 # Amulet of Radiant Protection
 *Wondrous item, legendary (requires attunement by a cleric or paladin)*  
@@ -24,3 +27,7 @@ This amulet is decorated with polished platinum, gold, and stained temple glass.
 The amulet has 7 charges and regains `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) expended charges daily at dawn. While wearing the amulet, you can use a bonus action to expend up to 4 of its charges. Roll a `dice:d8|noform|noparens|avg` (`d8`) for each charge you expend and choose up to 4 creatures within the aura. Each of those creatures then gains a number of temporary hit points equal to the total of the roll plus your spellcasting ability modifier.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

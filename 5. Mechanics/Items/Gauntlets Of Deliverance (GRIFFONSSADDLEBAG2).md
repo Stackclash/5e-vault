@@ -14,6 +14,9 @@ attunement-requirement:
   - paladin
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gauntlets of Deliverance
 *Wondrous item, major, uncommon (requires attunement by a paladin)*  
@@ -25,3 +28,7 @@ These silver gauntlets are inscribed with powerful sigils that absorb malady and
 The gauntlets can only hold one condition at a time. Any contained condition is lost if you contain another one in order to make room for the new condition.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 87*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

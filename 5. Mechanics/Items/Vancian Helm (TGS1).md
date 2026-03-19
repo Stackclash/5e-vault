@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vancian Helm
 *Wondrous item, major, rare (requires attunement)*  
@@ -29,3 +32,7 @@ While wearing this helmet, you can cast any spell stored in it. The spell uses t
 If you are wearing the helmet when a spell of 5th level or higher is cast into the helm, the spell is expended without effect and you take `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage. While a spell is stored within the helmet, your eyes glow with a brilliant color of your choice while you wear it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 138*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

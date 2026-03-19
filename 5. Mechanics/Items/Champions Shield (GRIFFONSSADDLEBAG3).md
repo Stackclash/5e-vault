@@ -14,6 +14,9 @@ weight: 6
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Champion's Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare*  
@@ -27,3 +30,7 @@ This round metal shield is magically covered with `dice:1d4|noform|noparens|avg`
 The shield is always under the effects of the [[/5. Mechanics/Spells/Programmed Illusion.md\|programmed illusion]] spell, and its triggering condition is when you use an action to touch a foe's design on the shield and speak the item's command word. The scripted performance is of that creature's final minute, before it was slain, and the illusion appears in a 5-foot cube in front of the shield.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

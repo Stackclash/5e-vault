@@ -17,6 +17,9 @@ tier: minor
 type: gear
 subtype:
   - ammunition
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Dragonbreath Ammunition
 *Minor, rare*  
@@ -35,3 +38,7 @@ This metallic ammunition flies effortlessly on its own when fired. When you take
 ^ammunition-metal-area-damage-type
 
 *Source: The Griffon's Saddlebag, Book 2 p. 74*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ attunement-requirement:
   - non-lawful dragonborn
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of the Broken Dragon
 *Wondrous item, cursed item, major, very rare (requires attunement by a non-lawful dragonborn)*  
@@ -28,3 +31,7 @@ This helmet is made of harsh, angular shapes that come together into the shape o
 This helmet is cursed with gnawing insecurity and self-doubt. Attuning to the helmet curses you until you are targeted by the remove curse spell or similar magic. While cursed, you are unwilling to remove the helm, and you gain the following flaw: "Whatever course of action I take, there is a voice in my head that screams at me to do the opposite. The voice is never silent."
 
 *Source: The Griffon's Saddlebag, Book 2 p. 102*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

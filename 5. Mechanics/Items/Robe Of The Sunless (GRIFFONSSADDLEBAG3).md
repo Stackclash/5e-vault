@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Robe of the Sunless
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ The folds of this robe are virtually undetectable, as any light that touches it 
 In addition, you can use an action to cast either the [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] or [[/5. Mechanics/Spells/Unseen Servant.md\|unseen servant]] spell from the robe while wearing it. The unseen servant created by the robe appears as a shadowy figure in dim and bright light, but is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] in darkness. The servant remains for the duration of the spell, until it's reduced to 0 hit points, or until the cloak is used to cast the spell again. If the servant is destroyed, the robe can't be used to cast the spell again until the next dusk. Once the robe is used to cast [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]], it can't do so again until the next dusk. Any spell cast from the robe ends early if you remove the robe.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

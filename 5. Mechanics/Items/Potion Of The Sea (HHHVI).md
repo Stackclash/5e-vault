@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Potion of the Sea
 *Potion, very rare*  
@@ -22,3 +25,7 @@ subtype:
 When you drink this potion, you gain several properties of the kraken for the next hour. During this time, you have a swim speed of 60 feet, can breathe freely in water and gain immunity to lightning damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

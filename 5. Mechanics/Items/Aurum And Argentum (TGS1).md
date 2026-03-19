@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aurum and Argentum
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
@@ -36,3 +39,7 @@ This gold and silver set of daggers seem ordinary when used on their own, but be
 In addition, if you hit the same target with both daggers in the same round, it takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage from the second attack and can't use its reaction until the end of your turn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 30*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

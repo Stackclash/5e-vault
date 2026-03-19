@@ -13,6 +13,9 @@ weight: 3
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Rat King Sphere
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -53,3 +56,7 @@ While you're attuned to one or more other items with "rat king" in its name, the
 You can summon a swarm of rats to the empty sphere using a special ritual, which takes 1 hour to perform and can be done during a short rest. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Creeper's Folly
 *Herb, rare*  
@@ -30,3 +33,7 @@ A type of ivy distinguishable by its spindly forked leaves that resemble that of
 For 4 hours after using this herb, you cannot be surprised and you make all initiative rolls at advantage.
 
 *Source: Hamund's Herbalism Handbook p. 10*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

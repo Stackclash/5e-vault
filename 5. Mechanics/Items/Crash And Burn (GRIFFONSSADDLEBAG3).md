@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Crash and Burn
 *Wondrous item, major, rare (requires attunement)*  
@@ -33,3 +36,7 @@ While wearing the gloves, you can use a bonus action to expend 1 of their charge
 You can continue to use the Burn and Crash properties even after you've expended the last charge from the gloves. Each time you do, there is a 50 percent chance that the gloves sputter and backfire. When it does, you take `dice:4d4|noform|noparens|avg` (`4d4`) fire damage, the action or bonus action is wasted, and the Exhaust property can't be used again until the next dawn; at which point you regain 2 expended charges the next dawn instead of 4.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dusk Dagger (Very Rare)
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare*  
@@ -34,3 +37,7 @@ subtype:
 This delicately curved dagger is ornamented with several crescent moon designs. When you hit a creature who is completely in dim light or darkness with this magic weapon, that creature takes an extra `dice:1d12|noform|noparens|avg` (`1d12`) psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 76*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

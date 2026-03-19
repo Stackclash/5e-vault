@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Concoction of Companionship
 *Potion, very rare*  
@@ -24,3 +27,7 @@ This gray potion is divided into two layers that never mix: a cloudy top half, a
 Guardians and charges may communicate telepathically over any distance and are always aware of each other's location, direction, and distance from each other, so long as they are on the same plane of existence as each other. If a creature within the guardian's reach damages their charge, they may spend their reaction to make a melee weapon attack against the damaging creature. This attack is made with advantage. In addition, if a charge starts their turn with 0 hit points while within 60 feet of their guardian, they instantly stabilize.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 84*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

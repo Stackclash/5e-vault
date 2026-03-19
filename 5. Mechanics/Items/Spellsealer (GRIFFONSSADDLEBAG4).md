@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Spellsealer
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), very rare (requires attunement)*  
@@ -40,3 +43,7 @@ You magically know the names of `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) dif
 You magically prevent the target from casting a spell you name until the start of your next turn. If the creature attempts to cast the spell, it must first make a DC 16 Constitution saving throw. On a success, the creature casts the spell. On a failure, the spell fails, and the action is wasted. Regardless of whether it succeeds or fails, the creature then takes `dice:1d10|noform|noparens|avg` (`1d10`) force damage.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

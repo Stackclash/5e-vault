@@ -9,6 +9,9 @@ aliases:
   - Dragon's Wrath
 attunement: false
 rarity: varies
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragon's Wrath
 *Wondrous item*  
@@ -30,3 +33,7 @@ Once this item has been used once, it cannot be used again for `dice:1d4|noform|
 - [[/5. Mechanics/Items/Dragons Wrath Ancient (HHHVI).md\|Dragon's Wrath (Ancient)]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

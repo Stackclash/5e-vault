@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Infernal Chain
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement)*  
@@ -41,3 +44,7 @@ You can choose to use this chain instead of your normal reach when you [[/5. Mec
 This chain is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unable to remove the chain from your arm, and at the start of each of your turns while a celestial is within 30 feet of you (that you are aware of), you must succeed on a DC 16 Wisdom saving throw or be compelled to use your action to attack the nearest celestial. In addition, while cursed, you gain the following flaw: "I delight in exploiting my enemy's flaws and fears to make them suffer."
 
 *Source: The Griffon's Saddlebag, Book 2 p. 109*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Cymrith
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement)*  
@@ -45,3 +48,7 @@ Cymrith is a sentient chaotic good rapier with an Intelligence of 10, a Wisdom o
 Cymrith yearns for the destruction of evil fey creatures and urges you to seek out these creatures and either kill them or turn them toward the path of good.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

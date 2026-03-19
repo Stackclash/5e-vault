@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Shifter's Shine (Uncommon)
 *Potion, minor, uncommon*  
@@ -28,3 +31,7 @@ The following [[/5. Mechanics/Items/Shifters Shine (GRIFFONSSADDLEBAG2).md\|shif
 When you drink this potion, you gain the effects of the [[/5. Mechanics/Spells/Alter Self.md\|alter self]] spell for 1 hour (no concentration required) or until you end the effect as a bonus action.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 160*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

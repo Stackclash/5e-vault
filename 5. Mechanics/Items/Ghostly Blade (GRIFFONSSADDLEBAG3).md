@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Ghostly Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), cursed item, major, very rare (requires attunement)*  
@@ -66,3 +69,7 @@ When your spirit is shunted into the sword, the original spirit appears as a gho
 Once the sword has slain the creature that killed its inhabited spirit, the spirit leaves the blade (and can be returned to life), and the weapon transforms into a [[/5. Mechanics/Items/Sun Blade.md\|sun blade]] that has the Blinkstep property. Using this version of Blinkstep allows you to cast [[/5. Mechanics/Spells/Misty Step.md\|misty step]] from it, instead of its usual properties; when you do, you reappear in a flash of bright light.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

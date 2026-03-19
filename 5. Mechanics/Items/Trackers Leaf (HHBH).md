@@ -14,6 +14,9 @@ rarity: rare
 type: gear
 subtype:
   - herb
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tracker's Leaf
 *Herb, rare*  
@@ -35,3 +38,7 @@ As an action, you may crush this leaf and smell it. If you do so, your sense of 
 
 
 *Source: Hamund's Herbalism Handbook p. 36*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

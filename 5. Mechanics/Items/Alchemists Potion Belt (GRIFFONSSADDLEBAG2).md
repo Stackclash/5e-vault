@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Alchemist's Potion Belt
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This enchanted belt has two stoppers that magically resize to fit the mouth of a
 When you roll a 1 on a Dexterity saving throw or are hit by a critical hit, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, one of the bottles on the belt shatters and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 33*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

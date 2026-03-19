@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ouroboros Ring
 *Ring, minor, rare*  
@@ -28,3 +31,7 @@ When you do, you alter the number rolled on the `dice:d20|noform|noparens|avg` (
 Once this property of the ring has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

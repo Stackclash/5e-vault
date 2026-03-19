@@ -9,6 +9,9 @@ aliases:
   - Volcanic Ocarina
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Volcanic Ocarina
 *Wondrous item, rare*  
@@ -32,3 +35,7 @@ When you play this melody, choose a stone or earthen structure that you can see 
 When you play this melody, choose a point on the ground that you can see within 60 feet of you. The ground then shakes, like an earthquake, in a 20-foot-radius circle that's centered on that point. Each creature within the area must succeed on a DC 15 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and take `dice:3d6|noform|noparens|avg` (`3d6`) bludgeoning damage. A 10-foot-deep fissure then opens immediately after in a straight line, which runs through the center of the circle. The line is 5 feet wide and up to 40 feet long. Any creature within the line must succeed on an additional DC 15 Dexterity saving throw or fall 10 feet down into the fissure. A creature that failed the saving throw for the earthquake makes this second saving throw with disadvantage.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

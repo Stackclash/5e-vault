@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vineyard Amulet
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This necklace is a sprig of an enchanted grapevine that magically grows in a loo
 When the last grape is removed, the bundle's stem falls off and is destroyed. The amulet loses its magic, but can still be planted to sprout a new, nonmagical grape vine.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

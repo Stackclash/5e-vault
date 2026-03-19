@@ -13,6 +13,9 @@ rarity: rare
 type: gear
 subtype:
   - requires-installation
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Candles of Accord
 *Wondrous item, requires installation, rare*  
@@ -26,3 +29,7 @@ If both candles are lit together by the owner of an establishment, the owner can
 Gathering Intel using a candle of accord requires meditating for 1 hour with the candle, concentrating on the ally and their territory. At the end of this hour, the owner may make a Gather Intel check, which if successful gives them a vision of the organization they are spying on.
 
 *Source: Strongholds and Followers p. 246*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

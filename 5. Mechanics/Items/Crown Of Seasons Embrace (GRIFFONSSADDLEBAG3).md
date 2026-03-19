@@ -16,6 +16,9 @@ attunement-requirement:
   - fey
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Crown of Season's Embrace
 *Wondrous item, major, very rare (requires attunement by an elf, half-elf, or fey)*  
@@ -43,3 +46,7 @@ When you first attune to the crown, and then again daily at dawn, you can choose
 ^season-color-damage-type
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

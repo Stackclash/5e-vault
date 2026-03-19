@@ -16,6 +16,9 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Camper's Respite
 *Rod, minor, uncommon*  
@@ -32,3 +35,7 @@ Inside the tent is a square extradimensional dwelling, 15 feet on a side and 10 
 The tent is immobile and remains for up to 12 hours, until you use an action to speak its second command word again to dismiss it, or until the tent collapses. Dealing 20 damage to the tent (AC 13) causes it to collapse. The tent is immune to poison and psychic damage. The tent reverts to a rod at the end of its duration, and anything inside the tent is forced into the nearest unoccupied space. When the tent becomes a rod again, this property of the rod can't be used again for 12 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 55*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

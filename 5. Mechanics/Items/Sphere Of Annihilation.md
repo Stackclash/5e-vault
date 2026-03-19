@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sphere of Annihilation
 *Wondrous item, major, legendary*  
@@ -36,3 +39,7 @@ If the sphere comes into contact with a planar portal, such as that created by t
 ^result
 
 *Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Prism Lantern
 *Wondrous item, major, rare*  
@@ -33,3 +36,7 @@ If the lantern is shedding this cone of light, you can use an action while holdi
 ^color-damage-type
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

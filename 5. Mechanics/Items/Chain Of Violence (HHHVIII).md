@@ -9,6 +9,9 @@ aliases:
   - Chain of Violence
 attunement: false
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chain of Violence
 *Wondrous item, very rare*  
@@ -20,3 +23,7 @@ This 20-foot metal chain has one hook on either end. As an action, you may throw
 While chained in this way, neither creature may willingly move more than 20 feet away from the other and they may not take any action that does not involve attempting to damage the other chained creature. The hooks can only be removed once at least one of the chained creatures dies, or another creature adjacent to one of the chained creatures removes the hook from their body with a successful DC 16 Strength check, at which point the other hook will also automatically dislodge.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 83*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

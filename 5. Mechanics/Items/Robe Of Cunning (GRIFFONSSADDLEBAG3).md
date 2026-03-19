@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Robe of Cunning
 *Wondrous item, major, rare (requires attunement)*  
@@ -27,3 +30,7 @@ Alternatively, when you're reduced to 0 hit points, you can use your reaction to
 When you expend the last charge from the robe, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the maximum number of charges the robe has is permanently reduced by 1.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

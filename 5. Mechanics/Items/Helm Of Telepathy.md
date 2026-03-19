@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Helm of Telepathy
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ While wearing this helm, you can use an action to cast the [[/5. Mechanics/Spell
 While focusing on a creature with [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], you can use an action to cast the [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] spell (save DC 13) from the helm on that creature. Once used, the suggestion property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

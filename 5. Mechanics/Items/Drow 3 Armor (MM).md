@@ -33,6 +33,9 @@ subtype:
   - heavy
   - light
   - medium
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Drow +3 Armor
 
@@ -40,3 +43,7 @@ subtype:
 You have a +3 bonus to AC while wearing this armor. This armor loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
 
 *Source: Monster Manual p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

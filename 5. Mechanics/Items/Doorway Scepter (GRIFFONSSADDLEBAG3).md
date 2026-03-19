@@ -16,6 +16,9 @@ tier: minor
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Doorway Scepter
 *Rod, minor, rare (requires attunement)*  
@@ -27,3 +30,7 @@ A silver and brass door knocker hangs from the top of this rod. While holding th
 Alternatively, you can use a bonus action to minimize and transform the rod into a lockpick, which functions as a set of [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] and grants a +2 bonus to any ability check you make that uses it. The rod remains in this form until you use a bonus action to return it to its normal form or until you're no longer holding it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

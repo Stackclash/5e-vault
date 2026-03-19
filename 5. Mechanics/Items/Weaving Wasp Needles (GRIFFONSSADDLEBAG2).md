@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: short-rest
 ---
 # Weaving Wasp Needles
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
@@ -36,3 +39,7 @@ This pair of dark, chiseled throwing needles are linked by a magical bond. A nee
 In addition, you can use the needles as a set of [[/5. Mechanics/Items/Weavers Tools.md\|weaver's tools]]. These magical needles can act on their own to either mend a simple tear or craft a simple garment given the proper materials in 1 minute or over the course of a short rest, respectively. As an action, you can speak the needles' other command word, followed by a description of the task, to cause them to spring to life and begin sewing and crafting. Uttering this command word again causes them to stop early and fall to the ground.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 187*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

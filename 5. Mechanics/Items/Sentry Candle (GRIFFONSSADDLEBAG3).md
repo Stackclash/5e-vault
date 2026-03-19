@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Sentry Candle
 *Wondrous item, minor, common*  
@@ -22,3 +25,7 @@ This dark candle has a crenelated rim that remains even as the candle melts. Whi
 While lit, the candle sheds dim light in a 15-foot radius. Any creature within that light is mentally alerted whenever another Tiny or larger creature enters the area within 60 feet of the candle.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

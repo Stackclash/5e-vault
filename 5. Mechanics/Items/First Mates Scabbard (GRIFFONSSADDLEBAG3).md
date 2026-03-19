@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # First Mate's Scabbard
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ This emerald green scabbard has been enchanted with the element of surprise. You
 Once this property of the scabbard has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

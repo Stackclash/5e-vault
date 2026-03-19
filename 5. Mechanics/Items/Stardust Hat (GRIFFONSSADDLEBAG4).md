@@ -14,6 +14,9 @@ attunement-requirement:
   - warlock
   - wizard
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Stardust Hat
 *Wondrous item, uncommon (requires attunement by a druid, warlock, or wizard)*  
@@ -25,3 +28,7 @@ This wizard's hat is split into a starburst pattern along the bottom. Small star
 In addition, while wearing the hat, you can use an action to cast the [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]] spell from the hat, using your spell save DC. Between dusk and dawn, this version of the spell creates a wave of radiant energy when the moonlit beam crashes onto the ground; until the start of your next turn, the cylinder has a radius of 10 feet, instead of 5 feet. Once this property of the hat has been used, it can't be used again until the next dawn or dusk.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

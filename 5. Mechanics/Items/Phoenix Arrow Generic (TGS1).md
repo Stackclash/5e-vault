@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Phoenix Arrow (Generic)
 *Major, rare*  
@@ -28,3 +31,7 @@ You can speak the ammunition's command word as a bonus action before firing it t
 You can store up to 10 other arrows in the quiver but can only have 1 Phoenix Arrow bound to it at a time. If the arrow is ever destroyed, it reappears in the quiver after 24 hours. Firing the arrow or bolt into an antimagic field renders it nonmagical while within the field, allowing the ammunition to be permanently destroyed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 96*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

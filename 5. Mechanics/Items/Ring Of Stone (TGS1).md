@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Stone
 *Ring, major, rare*  
@@ -26,3 +29,7 @@ This ring is made of magical stone. While wearing it, you can use it to cast the
 When cast from the ring, the wall must be in a circle centered on you. The *wall of stone* is 10 feet tall and 6 inches thick.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 107*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

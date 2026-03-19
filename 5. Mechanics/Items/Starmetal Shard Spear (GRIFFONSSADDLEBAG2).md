@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Shard Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, rare (requires attunement)*  
@@ -40,3 +43,7 @@ This weapon's otherwise small blade is made larger by 3 sharp fragments of starm
 Immediately after you make a ranged attack with the spear, the weapon flies back to your hand.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 171*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

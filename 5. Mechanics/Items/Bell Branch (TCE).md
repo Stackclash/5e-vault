@@ -17,6 +17,9 @@ rarity: rare
 type: gear
 subtype:
   - spellcasting-focus
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Bell Branch
 *Wondrous item, spellcasting focus, rare (requires attunement by a druid or warlock)*  
@@ -30,3 +33,7 @@ The branch has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) 
 - As an action, you can expend 1 charge to cast [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]].  
 
 *Source: Tasha's Cauldron of Everything p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

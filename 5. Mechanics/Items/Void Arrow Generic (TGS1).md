@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Void Arrow (Generic)
 *Minor, uncommon*  
@@ -24,3 +27,7 @@ subtype:
 This pitch-dark piece of ammunition is composed of densely-packed shadows. A creature hit by this magic ammunition takes psychic damage instead of piercing damage. This ammunition makes no sound when it's fired or strikes a surface, leaves no discernible wounds, and vanishes immediately after hitting a creature.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -10,6 +10,9 @@ aliases:
   - Codex Mortis
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Codex Mortis
 *Wondrous item, artifact (requires attunement)*  
@@ -51,3 +54,7 @@ You automatically command any undead of less than 9 HD you meet or summon. Maste
 Once an undead is mastered, it may not be replaced until it is destroyed.
 
 *Source: Strongholds and Followers p. 257*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

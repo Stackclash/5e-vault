@@ -15,6 +15,9 @@ attunement-requirement:
   - wizard
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Tome of the Stilled Tongue
 *Wondrous item, major, legendary (requires attunement by a wizard)*  
@@ -30,3 +33,7 @@ While attuned to the book, you can remove the tongue from the book's cover. If y
 Vecna watches anyone using this tome. He can also write cryptic messages in the book. These messages appear at midnight and fade away after they are read.
 
 *Source: Dungeon Master's Guide p. 208*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

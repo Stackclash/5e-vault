@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Crown of Storms
 *Wondrous item, major, legendary (requires attunement)*  
@@ -29,3 +32,7 @@ In addition, you can use a bonus action to take on the aspect of the stormbringe
 Once this property of the crown has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 66*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bloodthirsty Trident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, uncommon*  
@@ -43,3 +46,7 @@ While holding this weapon underwater, you can prick an exposed bit of your flesh
 The trident remains animated for 1 minute, and it regains all lost hit points when this effect ends. The trident reverts to its inanimate form early if it is targeted by a [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell or similar effect. Once this property has been used, it can't be used again until the next dawn. If the animated trident is reduced to 0 hit points, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 20, it drops to 1 hit point instead. On any other result, the trident becomes inanimate and loses the Animate Shark property.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

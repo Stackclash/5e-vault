@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Lycan Chime
 *Wondrous item, major, uncommon*  
@@ -22,3 +25,7 @@ This small silver bell exudes divination magic, especially while under a full mo
 Under a full moon, the range of the bell's magic changes. During a full moon, any shapechanger within 60 feet of the bell causes it to play its melody.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 117*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

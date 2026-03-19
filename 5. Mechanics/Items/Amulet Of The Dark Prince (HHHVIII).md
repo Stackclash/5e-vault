@@ -10,6 +10,9 @@ aliases:
   - Amulet of the Dark Prince
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Amulet of the Dark Prince
 *Wondrous item, cursed item, artifact (requires attunement)*  
@@ -60,3 +63,7 @@ When you become attuned to the amulet, you become cursed. Whenever you finish a 
 This item can only be destroyed by leaving it in a 1-foot cubed lead box lined on the inside with mirrors. The amulet must remain within this box for 100 years, unseen by any creature during that entire time. If the amulet is ever removed from this box or if a creature looks upon the amulet, the process must restart from the beginning. After 100 years, the amulet crumbles into dust and becomes worthless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 100*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

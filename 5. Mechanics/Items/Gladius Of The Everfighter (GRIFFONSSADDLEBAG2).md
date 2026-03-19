@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gladius of the Everfighter
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, legendary (requires attunement by a fighter)*  
@@ -51,3 +54,7 @@ The gladius of the everfighter is sworn to do battle for eternity. It grows tire
 If the gladius enjoys a fight that would normally end in the death of the opposing creature, it can choose to knock the creature out instead of killing it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 88*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

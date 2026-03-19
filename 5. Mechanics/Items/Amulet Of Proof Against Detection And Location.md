@@ -13,6 +13,9 @@ weight: 1
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ tier: major
 While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
 
 *Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

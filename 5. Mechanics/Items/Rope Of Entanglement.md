@@ -12,6 +12,9 @@ weight: 3
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rope of Entanglement
 *Wondrous item, major, rare*  
@@ -26,3 +29,7 @@ You can release the creature by using a bonus action to speak a second command w
 The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
 
 *Source: Dungeon Master's Guide p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

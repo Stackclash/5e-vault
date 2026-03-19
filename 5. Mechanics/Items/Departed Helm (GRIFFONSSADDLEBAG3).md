@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Departed Helm
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ You have resistance to necrotic damage while wearing this helmet. Skeletons and 
 When determining the time of death or turning to undeath of a corpse or creature, the accuracy depends on the recency of the event. If the event happened within the last 24 hours, you know the exact minute when it occurred. Otherwise, you know only the hour (within 7 days), day (within 30 days), week (within 6 months), month (within 1 year), year (within 10 years), decade (within 100 years), or century for any time longer.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

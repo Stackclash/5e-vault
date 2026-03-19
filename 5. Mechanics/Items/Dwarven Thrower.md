@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dwarven Thrower
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), major, very rare (requires attunement by a dwarf)*  
@@ -40,3 +43,7 @@ subtype:
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage or, if the target is a giant, `dice:2d8|noform|noparens|avg` (`2d8`) damage. Immediately after the attack, the weapon flies back to your hand.
 
 *Source: Dungeon Master's Guide p. 167. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

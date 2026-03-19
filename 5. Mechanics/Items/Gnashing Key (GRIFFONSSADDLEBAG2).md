@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Gnashing Key
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This curious brass key is animated by a weak enchantment. When placed in the key
 While the key is destroying a lock, the sound of breaking tumblers and grating metal can be heard out to a range of 90 feet.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 91*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

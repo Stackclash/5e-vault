@@ -22,6 +22,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Whirling Weapons
 *Major, rare*  
@@ -33,3 +36,7 @@ These magic weapons were forged with lightweight metals and designed for speed r
 In addition, if you have the Two-Weapon Fighting fighting style, you can add your ability modifier to the damage of the bonus attacks.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 188*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

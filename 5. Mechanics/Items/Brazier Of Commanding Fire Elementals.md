@@ -12,6 +12,9 @@ weight: 5
 attunement: false
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous item, major, rare*  
@@ -24,3 +27,7 @@ While a fire burns in this brass brazier, you can use an action to speak the bra
 The brazier weighs 5 pounds.
 
 *Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

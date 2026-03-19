@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Stolen Alacrity
 *Ring, minor, uncommon*  
@@ -28,3 +31,7 @@ If you aren't surprised while wearing this ring, you can use your reaction when 
 If the GM doesn't share the initiative order with you, you can choose up to three creatures that you can see within 30 feet of you as part of this reaction. You immediately learn whether each of those creatures acts before or after you in the initiative order. Afterward, choose one of those creatures to make the saving throw as normal.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 147*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

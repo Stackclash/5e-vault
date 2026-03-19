@@ -23,6 +23,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Bow of the Cobra
 *Major, rare (requires attunement)*  
@@ -34,3 +37,7 @@ This metallic bow resembles the shape of a mighty cobra and is covered in spots 
 In addition, the bow has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action using this bow, you can expend 1 of its charges to replace one of your weapon attacks with a special attack. This special attack duplicates the effect of the [[/5. Mechanics/Spells/Melfs Acid Arrow.md\|acid arrow]] spell and uses the same attack bonus as your normal weapon attacks with the bow.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 50*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

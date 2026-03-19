@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Toadstool Veil
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -35,3 +38,7 @@ While wearing the cap, fungal plant creatures with a challenge rating of 1 or lo
 Once an effect's number has been rolled, the next time that number is rolled before the next dawn, nothing happens.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

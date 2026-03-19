@@ -18,6 +18,9 @@ rarity: rare
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: none
 ---
 # Gulthias Staff
 *Staff, weapon, rare (requires attunement)*  
@@ -42,3 +45,7 @@ The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a
 While you are attuned to the staff, blights and other evil plant creatures don't regard you as hostile unless you harm them.
 
 *Source: Curse of Strahd p. 221*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

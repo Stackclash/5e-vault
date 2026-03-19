@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Kraken's Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  
@@ -36,3 +39,7 @@ As an action, you can force a creature you can see within 10 feet of you to make
 You can't use the whip to attack while grappling a creature with it in this way. While holding the whip, you can end the grapple at any time (no action required), and your movement speed is halved when you move more than 10 feet away from the grappled creature as you drag it along behind you.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 83*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

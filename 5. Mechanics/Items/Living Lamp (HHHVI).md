@@ -9,6 +9,9 @@ aliases:
   - Living Lamp
 attunement: false
 rarity: rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Living Lamp
 *Wondrous item, rare*  
@@ -24,3 +27,7 @@ While holding this 1-foot-tall lamp, you may speak a command word as an action t
 While holding the lamp, you may speak the command word again to change it to any of the other lighting options, turn the lamp off, or to make it so that the light emitted is only visible to the creature holding the lamp. The fire inside this lamp never runs out of fuel and can burn indefinitely in any environment in which fire is capable of burning.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 133, Hamund's Harvesting Handbook: Volume II p. 61*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

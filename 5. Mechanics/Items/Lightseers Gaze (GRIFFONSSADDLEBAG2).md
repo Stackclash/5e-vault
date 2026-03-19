@@ -14,6 +14,9 @@ attunement-requirement:
   - monk
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Lightseer's Gaze
 *Wondrous item, cursed item, major, legendary (requires attunement by a monk)*  
@@ -34,3 +37,7 @@ This flourished mask obscures your eyes and magically stays in place while worn.
 This item is cursed, and attuning to it extends that curse to you. You can't remove the mask while cursed in this way. You remain cursed until it's ended by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or similar magic. When you become cursed, your name remains known to only you but becomes lost to the rest of the universe, at the GM's discretion. You must choose a new name. This new name replaces every instance of your lost name throughout history, and becomes the only known name for you among all creatures who once knew your lost name. While cursed, you take `dice:5d10|noform|noparens|avg` (`5d10`) psychic damage whenever you attempt to speak, write, or otherwise share or communicate your lost name. Regardless of how you attempt to share the lost name, it always comes across as your new one.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 116*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

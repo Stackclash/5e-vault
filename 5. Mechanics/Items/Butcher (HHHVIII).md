@@ -19,6 +19,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Butcher
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), cursed item, artifact (requires attunement)*  
@@ -65,3 +68,7 @@ As the weapon of a Demon Lord, The Butcher bares a lingering curse for any morta
 The only way to destroy the Butcher is to feed it to a [[/5. Mechanics/Bestiary/Elemental/Zaratan (MPMM).md\|zaratan]] and allow it to be digested for 100 years inside its cavernous belly. After this, the weapon crumbles into dust and becomes useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 27*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

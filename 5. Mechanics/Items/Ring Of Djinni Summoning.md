@@ -16,6 +16,9 @@ tier: major
 type: wondrous
 subtype:
   - ring
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ring of Djinni Summoning
 *Ring, major, legendary (requires attunement)*  
@@ -29,3 +32,7 @@ While summoned, the [[/5. Mechanics/Bestiary/Elemental/Djinni.md\|djinni]] is fr
 After the [[/5. Mechanics/Bestiary/Elemental/Djinni.md\|djinni]] departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the [[/5. Mechanics/Bestiary/Elemental/Djinni.md\|djinni]] dies.
 
 *Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bartender's Armistice
 *Wondrous item, minor, rare*  
@@ -28,3 +31,7 @@ Each creature within the field has advantage on any Charisma ([[/5. Mechanics/Ru
 The coaster has AC 15 and 25 hit points. The field remains for 10 minutes or until the coaster drops to 0 hit points, at which point the coaster is destroyed and the field ends. If the field ends after the full duration, there is a 10 percent chance that the coaster remains magical and can be used again. Otherwise, the coaster becomes nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 42*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

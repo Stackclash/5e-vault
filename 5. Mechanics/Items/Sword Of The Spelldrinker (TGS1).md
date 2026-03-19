@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 2
+item_recharge: none
 ---
 # Sword of the Spelldrinker
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
@@ -42,3 +45,7 @@ You can use an action while holding the sword to release an absorbed spell. When
 The interrupted spell remains absorbed by the sword for up to 8 hours or until released. Absorbing a new spell replaces the one stored within the sword.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 130*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

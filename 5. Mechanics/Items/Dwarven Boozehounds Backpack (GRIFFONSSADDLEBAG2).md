@@ -13,6 +13,9 @@ weight: 10
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: dawn
 ---
 # Dwarven Boozehound's Backpack
 *Wondrous item, major, rare (requires attunement)*  
@@ -27,3 +30,7 @@ You can dispense the magical ale as you would a normal keg, with the exception t
 While carrying the tank, you can use an action to point its hose at a target you can see within 30 feet of you, provided you have a free hand. When you do, the tank expels 1 gallon of the ale in a powerful blast at the target. If the target is an object that isn't being worn or carried and weighs no more than 300 pounds, it is either knocked over or pushed up to 15 feet away from you. If the target is a creature, make a ranged spell attack against it, using an attack bonus of +7. On a hit, the creature takes `dice:1d8|noform|noparens|avg` (`1d8`) bludgeoning damage, is pushed 5 feet away from you, and must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the start of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 76*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

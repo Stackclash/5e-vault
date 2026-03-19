@@ -12,6 +12,9 @@ weight: 2
 attunement: false
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Quiver of Ehlonna
 *Wondrous item, major, uncommon*  
@@ -24,3 +27,7 @@ Each of the quiver's three compartments connects to an extradimensional space th
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 
 *Source: Dungeon Master's Guide p. 189. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Efficient Quiver")*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

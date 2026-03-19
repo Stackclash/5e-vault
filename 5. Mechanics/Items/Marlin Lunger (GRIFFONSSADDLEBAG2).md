@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Marlin Lunger
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, uncommon (requires attunement)*  
@@ -33,3 +36,7 @@ subtype:
 This rapier allows you to sail through the water to pierce your foes. You gain a +1 bonus to attack and damage rolls made with this magic weapon, and you don't suffer the negative effects of underwater fighting when you make an attack with it. Once on each of your turns when you attack with this rapier while underwater, you can glide up to 15 feet through the water, as part of that action, immediately before or after the attack.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 120*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

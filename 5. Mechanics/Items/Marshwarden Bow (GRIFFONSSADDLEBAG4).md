@@ -21,6 +21,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Marshwarden Bow
 *Rare (requires attunement)*  
@@ -34,3 +37,7 @@ This bow is made of twisted cypress roots and covered in long, stringy moss. The
 When you hit a target with an arrow fired from this bow, you can cause it to erupt in a putrid cloud centered on the target, duplicating the effect of the [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] spell (save DC 15). This version of the spell doesn't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]]. Once this property of the bow has been used, it can't be used again until the next dawn or until it's spent at least 1 hour submerged in naturally occurring swamp water.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

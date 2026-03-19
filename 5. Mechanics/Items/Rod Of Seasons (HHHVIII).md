@@ -13,6 +13,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - rod
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Rod of Seasons
 *Rod, very rare*  
@@ -40,3 +43,7 @@ The aura becomes filled with the slowing cold of winter. The space within the au
 If this rod is swung again before 10 minutes has passed, the user may expend another charge to change the aura's effect to a different season, ending the original one in the process and refreshing the duration. This rod regains all expended charges at dawn. If you use the last charge, there is a 25 percent chance that the rod crumbles into dust and becomes useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 95*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dryad's Key
 *Wondrous item, minor, rare*  
@@ -20,3 +23,7 @@ tier: minor
 This lush, green leaf has a bug-bitten, key-like tooth at the bottom of its stem. While holding the leaf, you can use an action to speak its command word and place it into or against a Large or larger tree, turning it like a key and casting the [[/5. Mechanics/Spells/Transport Via Plants.md\|transport via plants]] spell from it, using the tree as the entrance for the spell. Once the leaf has been used in this way, it withers and becomes a nonmagical leaf.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

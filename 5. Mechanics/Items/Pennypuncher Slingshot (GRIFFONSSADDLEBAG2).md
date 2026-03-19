@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Pennypuncher Slingshot
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, rare*  
@@ -43,3 +46,7 @@ This slingshot requires two hands to attack and is adorned with coin-like design
 Recovering coins fired in this way follows the normal rules for recovering ammunition. Depending on the nature of the battlefield, you may recover more or fewer coins than normal as determined by the GM.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 134*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -16,6 +16,9 @@ tier: minor
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Wand of Conducting
 *Wand, minor, common*  
@@ -27,3 +30,7 @@ This wand has 3 charges. While holding it, you can use an action to expend 1 of 
 The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, a sad tuba sound plays as the wand crumbles to dust and is destroyed.
 
 *Source: Xanathar's Guide to Everything p. 140*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

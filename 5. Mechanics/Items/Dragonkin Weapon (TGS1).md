@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonkin Weapon
 *Major*  
@@ -28,3 +31,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Dragonkin Weapon 3 (TGS1).md\|Dragonkin Weapon +3]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 56*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

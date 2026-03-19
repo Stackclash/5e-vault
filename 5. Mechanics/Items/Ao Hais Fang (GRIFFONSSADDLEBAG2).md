@@ -24,6 +24,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ao Hai's Fang
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement by a monk)*  
@@ -49,3 +52,7 @@ As a bonus action, you can spend 4 ki points to channel the fury of a powerful d
 This rage lasts for 1 minute and ends early if you are knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. You can also end your rage on your turn as a bonus action. This property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 36*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

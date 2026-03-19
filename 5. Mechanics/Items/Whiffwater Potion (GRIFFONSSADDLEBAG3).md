@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Whiffwater Potion
 *Potion, minor, common*  
@@ -26,3 +29,7 @@ This small glass bottle is in the shape of a nose. The potion inside is a tastel
 If a described smell would normally cause a creature to retch or have a magical property (such as the [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] spell or hezrou's Stench trait), your breath has a smell reminiscent of such an effect, but is otherwise harmless.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

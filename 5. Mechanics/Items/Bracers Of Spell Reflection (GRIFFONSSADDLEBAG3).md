@@ -14,6 +14,9 @@ attunement-requirement:
   - monk
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bracers of Spell Reflection
 *Wondrous item, major, very rare (requires attunement by a monk)*  
@@ -25,3 +28,7 @@ While wearing these mirrored bracers, you gain a +2 bonus to AC if you are weari
 While wearing the bracers, you can use your Deflect Missiles feature when you're hit by a ranged spell attack, reducing its damage as if it were from a ranged weapon. If you reduce the damage to 0, you don't suffer any of the spell's effects and can immediately reflect the spell back at the attacker. The reflected spell uses the same spell attack bonus and spell save DC as when it was originally cast.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

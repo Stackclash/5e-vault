@@ -25,6 +25,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ioun Blade
 *Major, very rare (requires attunement)*  
@@ -36,3 +39,7 @@ An Ioun blade is named after Ioun, a god of knowledge and prophecy revered on so
 If you're also attuned to an [[/5. Mechanics/Items/Ioun Stone.md\|Ioun stone]], you don't need to attune to this weapon to use its properties. Furthermore, you can choose to have that stone magically replace one of the gemstones in the sword, instead of having it orbit your head. For each replaced stone, the sword's bonuses increase by 1.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

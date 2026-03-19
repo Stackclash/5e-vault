@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Shipwrecker
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ Barnacles and frost cover this magic war pick, which has the heavy property. Tar
 When a creature or effect would move you against your will while you're holding the war pick, you can use your reaction to immediately drop the weapon. When you do, a magical chain tethers you to the weapon, and neither you nor the weapon can be moved against your will until the end of the turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

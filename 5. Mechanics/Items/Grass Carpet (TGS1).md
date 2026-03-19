@@ -12,6 +12,9 @@ weight: 30
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Grass Carpet
 *Wondrous item, minor, common*  
@@ -26,3 +29,7 @@ For every 1 inch of the soil's depth, the carpet provides the same amount of nut
 The carpet weighs 30 pounds and takes 1 minute to roll up or out. While rolled up, it has a 1-foot diameter. The carpet can be cut into smaller plots using a magical blade, with each plot measuring at least 1 foot long and wide.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 73*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

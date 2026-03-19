@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wave
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a creature that worships a god of the sea)*  
@@ -56,3 +59,7 @@ Wave zealously desires to convert mortals to the worship of one or more sea gods
 Wave harbors a secret doubt about its own nature and purpose. For all its devotion to the sea gods, Wave fears that it was intended to bring about a particular sea god's demise. This destiny is something Wave might not be able to avert.
 
 *Source: Dungeon Master's Guide p. 218*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

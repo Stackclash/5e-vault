@@ -15,6 +15,9 @@ tier: major
 type: wondrous
 subtype:
   - generic-variant
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Consecrated Hunter's Crossbow
 *Major, rare*  
@@ -26,3 +29,7 @@ This magic crossbow is detailed with wings and an angelic face at its end. A met
 When the weapon is drawn, radiant, celestial runes appear on the front of the crossbow. A target hit by a bolt fired from this weapon takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) radiant damage. If the target is a fiend, undead, or shapechanger, you deal the maximum extra radiant damage, instead of rolling.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

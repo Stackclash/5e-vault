@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mosshide Troll Belt
 *Wondrous item, major, rare (requires attunement)*  
@@ -23,3 +26,7 @@ Magical, flowering vines have been fashioned around the remains of a troll's hid
 In addition, the belt's restorative magic activates when it senses danger. While in combat, you regain `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) hit points at the start of your turn if you have less than half your hit points left. This property ceases to function for 1 hour if you take acid or fire damage, or until the next dawn if you drop to 0 hit points.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 124*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

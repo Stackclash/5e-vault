@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: rare
 tier: major
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Clockwork Healerbee
 *Wondrous item, major, rare (requires attunement)*  
@@ -25,3 +28,7 @@ The bee has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) e
 The bee is considered a magical object and is not a creature. It has AC 15, 10 hit points, and has resistance to all damage. If the [[/5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the bee while it has at least 1 hit point, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If the bee drops to 0 hit points, it can't be used again for 24 hours, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 45*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

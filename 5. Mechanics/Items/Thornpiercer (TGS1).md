@@ -25,6 +25,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: long-rest
 ---
 # Thornpiercer
 *Major, legendary (requires attunement)*  
@@ -54,3 +57,7 @@ The first creature hit by this weapon on each of your turns must make a DC 17 Co
 When you hit a Medium or smaller target with this weapon, you can attempt to grapple it with the whip. When you do, the target must succeed on a DC 17 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by viny whip. A grappled target takes `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage from the whip's thorns at the start of each of its turns until it's freed. A creature can use its action to make a DC 17 Strength check, freeing itself or another creature within its reach on a success. The whip breaks off from the hilt when you successfully grapple a target in this way, allowing you to move freely while the target remains grappled.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 132*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

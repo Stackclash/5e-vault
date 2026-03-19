@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Mirrorlight Edge
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement)*  
@@ -37,3 +40,7 @@ When you hit a target with this weapon while it has at least 1 projection, the g
 The sword emits dim light in a 10-foot radius while it has 1 projection and 20 feet while it has 2. Sheathing the scimitar contains the projections and their light without dismissing them.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 88*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

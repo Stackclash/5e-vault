@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Wizards' Bout Top
 *Wondrous item, minor, common*  
@@ -52,3 +55,7 @@ Both players take turns spinning their tops. Each round is called a bout, and th
 ^element-trumps-wizards-bout-effect
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

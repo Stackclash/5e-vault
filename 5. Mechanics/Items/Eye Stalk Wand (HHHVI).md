@@ -14,6 +14,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - wand
+item_consumable: false
+item_uses: 5
+item_recharge: dawn
 ---
 # Eye Stalk Wand
 *Wand, very rare (requires attunement)*  
@@ -36,3 +39,7 @@ This wand has 5 charges. While holding this wand, you may spend an action and 1 
 This wand recovers `dice:1d4|noform|noparens|avg` (`1d4`) charges at dawn. When you use the last charge of the wand, there is a 10 percent chance that it crumbles into ashes and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

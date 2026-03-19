@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Ashen Bloom
 *Wondrous item, minor, rare*  
@@ -38,3 +41,7 @@ You can smoke one petal in a pipe or similar object over the course of 1 minute,
 You can steep one petal in 8 ounces of cold water over the course of 10 minutes, by which point the water is boiling and crimson. Drinking all of this tea, which takes at least 1 minute, reduces your [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] level by one.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

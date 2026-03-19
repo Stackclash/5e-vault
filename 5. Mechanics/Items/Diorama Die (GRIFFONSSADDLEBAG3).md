@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Diorama Die
 *Wondrous item, minor, common*  
@@ -34,3 +37,7 @@ When the die lands on a number, it opens up to expose a miniature, illusory dior
 ^scene-cast-dropped-shaken-spun-placed
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

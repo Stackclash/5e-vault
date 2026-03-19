@@ -10,6 +10,9 @@ aliases:
   - Eye and Hand of Vecna
 attunement: true
 rarity: artifact
+item_consumable: false
+item_uses: 8
+item_recharge: dawn
 ---
 # Eye and Hand of Vecna
 *Wondrous item, artifact (requires attunement)*  
@@ -73,3 +76,7 @@ If the [[/5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and the [[/5. Mecha
 - [[/5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]]
 
 *Source: Dungeon Master's Guide p. 224*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

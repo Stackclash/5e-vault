@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # The Hidden Agenda
 *Wondrous item, major, very rare (requires attunement)*  
@@ -25,3 +28,7 @@ While holding or wearing the brooch, you can use a bonus action to speak its com
 While wearing the ring, you can use an action to speak its command word to shunt an object that you're holding into a special demiplane contained in the ring. The object must weigh no more than 10 pounds and be no larger than 1 foot in any direction. It remains in the demiplane until the ring is removed (either willingly or by force) or until you use an action to speak the command word again, at which point it reappears in your hand or at your feet (your choice). Only one object can be stored in the demiplane at a time, during which time the ring's sapphire softly glows. You can wear or remove the ring using an action.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

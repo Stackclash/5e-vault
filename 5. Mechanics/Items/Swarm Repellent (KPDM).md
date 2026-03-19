@@ -10,6 +10,9 @@ aliases:
 cost: 4000
 attunement: false
 rarity: none
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Swarm Repellent
 
@@ -20,3 +23,7 @@ This slimy yellow paste can be smeared over exposed parts of the body to protect
 A jar of swarm repellent costs 40 gp and holds enough paste to protect two Medium or four Small creatures. Applying the repellent takes 1 minute, so it's not a good option in the middle of combat, but it's effective for 1 hour or until you're immersed in water.
 
 *Source: Deep Magic p. 172*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

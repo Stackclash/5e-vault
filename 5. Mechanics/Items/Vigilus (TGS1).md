@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Vigilus
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement)*  
@@ -39,3 +42,7 @@ As an action, you can unfurl the crossbow's three collapsible legs and plant it 
 The deployed crossbow has 30 hit points, AC 12, and automatically fails Dexterity and Strength saving throws but passes all others. If it's reduced to 0 hit points, it falls over and can't be deployed again in this way for 1 minute. You can quickly retrieve the deployed crossbow using a bonus action when you enter the same space as it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 136*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

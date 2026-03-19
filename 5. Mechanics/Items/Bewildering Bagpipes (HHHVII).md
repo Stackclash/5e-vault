@@ -13,6 +13,9 @@ rarity: uncommon
 type: gear
 subtype:
   - instrument
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Bewildering Bagpipes
 *Wondrous item, instrument, uncommon*  
@@ -22,3 +25,7 @@ subtype:
 This set of [[/5. Mechanics/Items/Bagpipes.md\|bagpipes]] creates a sound similar to that of a grung's chirr when used. If a bard uses this instrument as a spellcasting focus while attempting to [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|cast a spell]] that would impose the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charm]] condition on a target, the range of that spell is doubled.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 54*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

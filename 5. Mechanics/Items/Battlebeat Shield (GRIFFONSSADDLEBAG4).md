@@ -12,6 +12,9 @@ armorClass: 2
 weight: 6
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Battlebeat Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), uncommon*  
@@ -25,3 +28,7 @@ While holding this shield, you have a +1 bonus to AC. This bonus is in addition 
 If you're also holding the battlebeat club, you can use an action to beat the shield with it. When you do, you recreate the effects of the thunderwave spell from the shield (2nd-level version; save DC 15). Once this property of the shield has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

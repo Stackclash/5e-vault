@@ -15,6 +15,9 @@ weight: 6
 attunement: true
 rarity: legendary
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Godsteel Barrier
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
@@ -28,3 +31,7 @@ This golden tower shield emits an almost impenetrable aura of protection from it
 While holding the shield, you can use a bonus action to gain 25 temporary hit points and extend the shield's aura to protect your nearby allies. Choose up to four other creatures that you can see within 60 feet of you. The extended aura lasts for 10 minutes or until your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] ends (as if [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell); it ends early if the effect is targeted by a [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell of 5th level or higher, or if you're no longer holding the shield. For the duration, each of those creatures gains a +3 bonus to AC. A creature loses this bonus if it's ever more than 60 feet away from you. In addition, you can use a bonus action on each of your turns to change which creatures within the aura's range gain this bonus to AC. If you have any temporary hit points granted by this or another item with "godsteel" in the name, your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] on this effect can't be broken as a result of taking damage. Once this property of the shield has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

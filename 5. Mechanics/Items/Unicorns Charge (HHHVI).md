@@ -21,6 +21,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Unicorn's Charge
 *Rare*  
@@ -31,3 +34,7 @@ You gain a +1 to attack and damage rolls made with this weapon. If you are a goo
 Once you use this ability you may not use it again for one hour, or until you have landed the killing blow on an evil-aligned creature, whichever comes first.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 143*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

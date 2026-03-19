@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: none
 ---
 # Rejuvenating Draft
 *Potion, minor*  
@@ -29,3 +32,7 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Rejuvenating Draft Legendary (GRIFFONSSADDLEBAG2).md\|Rejuvenating Draft (Legendary)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

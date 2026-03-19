@@ -23,6 +23,9 @@ subtype:
   - martial
   - melee
   - simple
+item_consumable: false
+item_uses: 6
+item_recharge: dawn
 ---
 # Star Breaker
 *Very rare (requires attunement)*  
@@ -36,3 +39,7 @@ You gain a +1 bonus to attack and damage rolls with this weapon. This weapon has
 This weapon regains all expended charges daily at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 97*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

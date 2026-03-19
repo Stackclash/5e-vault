@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 3
+item_recharge: none
 ---
 # Hourglass of Slumber
 *Wondrous item, major, very rare*  
@@ -25,3 +28,7 @@ The hourglass has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) e
 - Each time a sleeping creature takes damage, it must make a Constitution saving throw, waking up on a success. The DC is equal to 20 minus half the damage dealt (minimum DC 10). After 3 failed saves, a creature automatically wakes up.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 107*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

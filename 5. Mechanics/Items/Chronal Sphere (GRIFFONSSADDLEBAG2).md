@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: very-rare
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chronal Sphere
 *Wondrous item, minor, very rare*  
@@ -24,3 +27,7 @@ This brass sphere is roughly fist-sized and weighs 1 pound. It vibrates gently w
 While holding the sphere, you can use an action to cast either the [[/5. Mechanics/Spells/Haste.md\|haste]] or [[/5. Mechanics/Spells/Slow.md\|slow]] spell (save DC 18, no concentration required) from it. Once the sphere has been used to cast a spell in this way, it can't be used to cast that spell again. When the sphere has been used to cast both of these spells, it loses this property.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 60*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

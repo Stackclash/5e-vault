@@ -23,6 +23,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Storm Thrower Harpoon
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, legendary (requires attunement)*  
@@ -46,3 +49,7 @@ In addition, this trident acts as a conduit for the sky's ferocious power. Immed
 You can use your action to try to impale and pull a creature toward you. If your target is a creature that is no more than one size larger than you, you can make a ranged weapon attack against it using the trident. If you hit, you can attempt to pull the impaled creature toward you by making a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check contested by the target's Strength (Athletics) check. If you succeed, you can pull the creature up to 20 feet toward you.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

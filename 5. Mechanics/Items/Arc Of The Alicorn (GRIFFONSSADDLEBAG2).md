@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - martial
   - ranged
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Arc of the Alicorn
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
@@ -49,3 +52,7 @@ While holding the bow, you can use a bonus action to expend 1 of its charges to 
 When you make a ranged attack with the bow, you can expend 1 of its charges to cause the fired arrow to transform into a spectral, charging pegasus. On a hit, the target takes an extra `dice:3d6|noform|noparens|avg` (`3d6`) force damage and must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If the target of the attack is already [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], you ignore the normal disadvantage imposed on ranged attack rolls against [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] creatures and make the roll with advantage instead.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 37*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

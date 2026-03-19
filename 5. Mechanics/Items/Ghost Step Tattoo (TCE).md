@@ -14,6 +14,9 @@ rarity: very-rare
 type: wondrous
 subtype:
   - tattoo
+item_consumable: false
+item_uses: 3
+item_recharge: dawn
 ---
 # Ghost Step Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  
@@ -36,3 +39,7 @@ The tattoo has 3 charges, and it regains all expended charges daily at dawn. As 
 - You can move through creatures and solid objects as if they were difficult terrain. If you end your turn in a solid object, you take `dice:1d10|noform|noparens|avg` (`1d10`) force damage. If the effect ends while you are inside a solid object, you instead are shunted to the nearest unoccupied space, and you take `dice:1d10|noform|noparens|avg` (`1d10`) force damage for every 5 feet traveled.  
 
 *Source: Tasha's Cauldron of Everything p. 128*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

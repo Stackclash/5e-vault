@@ -16,6 +16,9 @@ tier: major
 type: weapon
 subtype:
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Rift Sheath
 *Melee weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement)*  
@@ -35,3 +38,7 @@ While wielded as a [[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]], you ga
 These magic [[/5. Mechanics/Items/Shortsword.md\|shortswords]] have the thrown property with a normal range of 15 feet and a long range of 30 feet. Hit or miss, the shortsword vanishes in a mirage-like distortion and immediately reappears in your hand after the attack. When you hit with a ranged attack using one of the swords, you can use your reaction to teleport to an unoccupied space that you can see within 5 feet of the target. When you do, you have advantage on the next attack roll you make against that target before the end of your next turn. Once this property has been used, it can't be used again until 1 hour has passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

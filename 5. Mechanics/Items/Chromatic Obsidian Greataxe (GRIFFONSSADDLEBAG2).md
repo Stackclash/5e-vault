@@ -21,6 +21,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Chromatic Obsidian Greataxe
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, rare (requires attunement)*  
@@ -41,3 +44,7 @@ This prismatic greataxe is made using chromatic obsidian, a dazzling type of sto
 ^damage-type-effect
 
 *Source: The Griffon's Saddlebag, Book 2 p. 59*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

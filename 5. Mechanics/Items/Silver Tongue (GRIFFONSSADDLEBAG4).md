@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - melee
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Silver Tongue
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  
@@ -33,3 +36,7 @@ subtype:
 This solid silver dagger is embossed with a smiling face on its hilt. You gain a +2 bonus to attack and damage rolls made with this magic weapon. If the dagger is on your person, you also gain a +2 bonus to any Charisma check you make that involves speaking. If you're a bard, whenever a creature rolls one of your Bardic Inspiration dice, it gains a +2 bonus to the roll.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

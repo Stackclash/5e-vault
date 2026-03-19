@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Doomsday Cookie
 *Wondrous item, minor, uncommon*  
@@ -52,3 +55,7 @@ Regardless of its grim foretellings, the cookie itself is a delicious snack that
 ^doomsday-cookie-predictions
 
 *Source: The Griffon's Saddlebag, Book 1 p. 53*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

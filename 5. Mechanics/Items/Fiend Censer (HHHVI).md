@@ -9,6 +9,9 @@ aliases:
   - Fiend Censer
 attunement: false
 rarity: uncommon
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Fiend Censer
 *Wondrous item, uncommon*  
@@ -20,3 +23,7 @@ This censer takes the shape of an imp's head with a groove in the crown of its s
 If a fiend is aware of the fiend censer when they enter its detection range for the first time, they may make a DC 15 Charisma saving throw to avoid detection by the censer.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 127*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

@@ -22,6 +22,9 @@ type: weapon
 subtype:
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Air Render
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
@@ -47,3 +50,7 @@ If the mote of wind dealt piercing damage, you can immediately make another atta
 If the mote of wind dealt slashing damage, each other creature within 5 feet of the original target must succeed on a DC 15 Dexterity saving throw or take `dice:2d6|noform|noparens|avg` (`2d6`) slashing damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 33*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

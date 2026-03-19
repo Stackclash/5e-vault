@@ -14,6 +14,9 @@ attunement-requirement:
   - druid
 rarity: very-rare
 tier: major
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Druidic Shape Charms
 *Wondrous item, major, very rare (requires attunement by a druid)*  
@@ -41,3 +44,7 @@ While a charm is on your person, you can use an action to expend two uses of you
 ^charm
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

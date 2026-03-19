@@ -20,6 +20,9 @@ type: weapon
 subtype:
   - martial
   - melee
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Telescoping Bladelance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), minor, uncommon*  
@@ -38,3 +41,7 @@ While the weapon is retracted, you can choose to extend it as a bonus action imm
 You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 131*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

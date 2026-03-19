@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Detective's Notebook
 *Wondrous item, minor, uncommon (requires attunement)*  
@@ -23,3 +26,7 @@ This worn notebook is filled with pages of scribbled notes, addendums, and sketc
 In addition, you can use an action to cast the [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], or [[/5. Mechanics/Spells/Locate Object.md\|locate object]] spell from the book (save DC 13). Once the book has been used to cast one of these spells, it shouldn't be used to cast a spell again in this way until the next dawn. Each time it is used again before then, the book has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 70*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

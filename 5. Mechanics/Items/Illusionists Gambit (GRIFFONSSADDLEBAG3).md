@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: uncommon
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Illusionist's Gambit
 *Wondrous item, minor, uncommon*  
@@ -22,3 +25,7 @@ This eye-shaped brass coin depicts an open iris on one side (heads) and a blacke
 The coin can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

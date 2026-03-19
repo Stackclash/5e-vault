@@ -25,6 +25,9 @@ tier: major
 type: weapon
 subtype:
   - simple
+item_consumable: false
+item_uses: 10
+item_recharge: dawn
 ---
 # Staff of the Four Seasons
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
@@ -61,3 +64,7 @@ This staff has 10 charges. While holding the staff, you can expend 1 or more of 
 The staff regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff loses all foliage and vitality, becoming a gnarled, nonmagical quarterstaff.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 122*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

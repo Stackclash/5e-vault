@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: varies
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Dragonscale Whetstone
 *Wondrous item, minor*  
@@ -46,3 +49,7 @@ A whetstone has 5 uses. When you use the last use, it loses its gem-like shine a
 ^dragon-bonus-damage-type
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

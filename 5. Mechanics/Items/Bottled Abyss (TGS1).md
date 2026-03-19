@@ -15,6 +15,9 @@ tier: minor
 type: wondrous
 subtype:
   - potion
+item_consumable: true
+item_uses: 0
+item_recharge: long-rest
 ---
 # Bottled Abyss
 *Potion, minor, very rare*  
@@ -26,3 +29,7 @@ This small vial has a single dose of a fuming, pitch-black poison inside of it. 
 The poison lasts until the affected creature succeeds on a saving throw or is cured by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[/5. Mechanics/Spells/He(AL).md\|heal]], or [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 38*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

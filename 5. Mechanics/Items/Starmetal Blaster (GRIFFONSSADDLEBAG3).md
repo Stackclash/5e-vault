@@ -24,6 +24,9 @@ subtype:
   - martial
   - ranged
   - simple
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Starmetal Blaster
 *Major, rare*  
@@ -35,3 +38,7 @@ This crossbow doesn't use a standard bowstring or groove for loading bolts. Inst
 You can use an action to preload the crossbow with up to 4 sling bullets, which hover in a single-file line above its charged metal strip until they're fired. While the crossbow is preloaded in this way, you can choose to ignore its loading property. When you do, you fire one of the preloaded bullets for each attack you make with it after the first. Alternatively, you can choose to fire any number of preloaded bullets from the weapon as part of a ranged attack you make with it, making a single roll for the attack regardless of the number of bullets fired. On a hit, the target takes the weapon's damage plus an extra `dice:1d4|noform|noparens|avg` (`1d4`) bludgeoning damage for each bullet that was fired from the crossbow after the first.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

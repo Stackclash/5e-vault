@@ -11,6 +11,9 @@ aliases:
 attunement: false
 rarity: common
 tier: minor
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Prism Glasses
 *Wondrous item, minor, common*  
@@ -20,3 +23,7 @@ tier: minor
 This pair of magical glasses fits snugly against your face without needing to rest over your ears. The lenses are made using miniscule prisms that amplify color in dim conditions. If you have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] while wearing these glasses, you perceive color for the first 15 feet you see in darkness, instead of shades of gray. In addition, a colorblind creature wearing these glasses can perceive color normally.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 139*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

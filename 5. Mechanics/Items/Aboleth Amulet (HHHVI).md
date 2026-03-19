@@ -10,6 +10,9 @@ aliases:
   - Aboleth Amulet
 attunement: true
 rarity: very-rare
+item_consumable: false
+item_uses: 0
+item_recharge: none
 ---
 # Aboleth Amulet
 *Wondrous item, very rare (requires attunement)*  
@@ -23,3 +26,7 @@ You may also spend an action to target one creature you can see within 30 feet o
 You may only have up to 3 targets [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] in this way at a time. If you successfully charm another target while you already have 3 targets [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], the charm effect ends on the creature that you [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] first. Whenever the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] target takes damage, they may repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from you. If a creature succeeds on either resisting the charm effect or if the charm effect on them ends, they become immune to this ability for the next 24 hours.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 118*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```

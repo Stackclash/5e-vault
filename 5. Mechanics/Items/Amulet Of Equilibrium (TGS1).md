@@ -12,6 +12,9 @@ aliases:
 attunement: true
 rarity: uncommon
 tier: major
+item_consumable: false
+item_uses: 4
+item_recharge: dawn
 ---
 # Amulet of Equilibrium
 *Wondrous item, major, uncommon (requires attunement)*  
@@ -25,3 +28,7 @@ The amulet has 4 charges and regains 2 expended charges daily at dawn. When you 
 Whenever you take cold, fire, or lightning damage from a hostile creature, the amulet regains 1 charge.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 27*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
