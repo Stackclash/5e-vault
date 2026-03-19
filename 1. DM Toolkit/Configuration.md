@@ -72,6 +72,21 @@ relationship_mapping:
       female: Niece
     to: Aunt
 active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
+item_pricing:
+  base_prices:
+    none: 0
+    common: 10000
+    uncommon: 50000
+    rare: 500000
+    very-rare: 5000000
+    legendary: 50000000
+  consumable_modifier: 0.5
+  attunement_modifier: 0.9
+  recharge_modifiers:
+    none: 1
+    dawn: 0.85
+    short-rest: 0.95
+    long-rest: 0.8
 ---
 > [!infobox|n-th]
 > | | |
@@ -162,7 +177,7 @@ actions:
 
 # Configuration
 ```meta-bind
-INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Mapping'), class(tabbed))]
+INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Mapping'), option(3, 'Item Pricing'), class(tabbed))]
 ```
 >[!tabbed-box]
 >>[!div-m] File Location Configuration
@@ -220,6 +235,26 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: relationship_mapping\n      index: ${i}\n\`\`\``
 >>   ]))
 >> ```
+>
+>> [!div-m] Item Pricing
+>> > [!columns|no-t 2]
+>> >> ## Base Prices (cp)
+>> >> |||
+>> >> |:---:|:---:|
+>> >> | Common | `INPUT[number:item_pricing.base_prices.common]` |
+>> >> | Uncommon | `INPUT[number:item_pricing.base_prices.uncommon]` |
+>> >> | Rare | `INPUT[number:item_pricing.base_prices.rare]` |
+>> >> | Very Rare | `INPUT[number:item_pricing.base_prices["very-rare"]]` |
+>> >> | Legendary | `INPUT[number:item_pricing.base_prices.legendary]` |
+>> >
+>> >> ## Modifiers
+>> >> |||
+>> >> |:---:|:---:|
+>> >> | Consumable | `INPUT[number:item_pricing.consumable_modifier]` |
+>> >> | Attunement | `INPUT[number:item_pricing.attunement_modifier]` |
+>> >> | Recharge: Dawn | `INPUT[number:item_pricing.recharge_modifiers.dawn]` |
+>> >> | Recharge: Short Rest | `INPUT[number:item_pricing.recharge_modifiers["short-rest"]]` |
+>> >> | Recharge: Long Rest | `INPUT[number:item_pricing.recharge_modifiers["long-rest"]]` |
 
 # Stats
 ```datacorejsx
