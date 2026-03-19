@@ -4,11 +4,6 @@ filters:
 views:
   - type: table
     name: Overview
-    filters:
-      and:
-        - "!cost.isEmpty()"
-        - "!rarity.isEmpty()"
-        - rarity != "none"
     order:
       - file.name
       - type
