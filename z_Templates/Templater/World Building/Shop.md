@@ -2,8 +2,6 @@
 let templateError = false
 let data = {}
 let dataview = null
-let shopTypeOptions = ''
-let shopSizeOptions = ''
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
@@ -25,14 +23,6 @@ try {
   
   if (!data.owners) data.owners = []
   if (!data.staff) data.staff = []
-
-  shopTypeOptions = (config.shop_types || []).map(st => `option(${st.name})`).join(', ')
-  const seenSizes = new Set()
-  shopSizeOptions = (config.shop_sizes || []).filter(ss => {
-    if (seenSizes.has(ss.name)) return false
-    seenSizes.add(ss.name)
-    return true
-  }).map(ss => `option(${ss.name})`).join(', ')
 
   await init.moveFile(tp, config.locations.shops, data.name)
 
@@ -88,8 +78,8 @@ actions:
 > ###### Shop Settings
 > |||
 > |---|---|
-> | **Shop Type** | `INPUT[select(<% shopTypeOptions %>):shop_type]` |
-> | **Shop Size** | `INPUT[select(<% shopSizeOptions %>):shop_size]` |
+> | **Shop Type** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: dv.page('Configuration').shop_types.map(t => 'option(' + t.name + ')'), field: 'type' })` |
+> | **Shop Size** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: [...new Set(dv.page('Configuration').shop_sizes.map(t => 'option(' + t.name + ')'))], field: 'size' })` |
 > | | `BUTTON[generate-inventory]` |
 
 `$= await dv.view("views/locationBreadcrumbs", {current: dv.current()})`
