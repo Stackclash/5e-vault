@@ -169,6 +169,19 @@ subtype:
 {/if}
 {/let}
 {/if}
+{#if resource.tags}
+{#let allTagsStr=str:concat(resource.tags)}
+{#if allTagsStr.contains('item/wondrous/potion') || allTagsStr.contains('item/wondrous/scroll') || allTagsStr.contains('item/gear/ammunition') || allTagsStr.contains('item/weapon/ammunition')}
+item_consumable: true
+{#else}
+item_consumable: false
+{/if}
+{/let}
+{#else}
+item_consumable: false
+{/if}
+item_uses: 0
+item_recharge: none
 ---
 # {resource.name}
 {#if resource.detail }*{resource.detail}*  
@@ -210,3 +223,7 @@ subtype:
 {/if}
 
 *Source: {resource.source}*
+
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
