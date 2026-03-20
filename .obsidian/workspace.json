@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -370,8 +370,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0460266046d5dcdf",
+  "active": "53a87fe0d4817be6",
   "lastOpenFiles": [
+    "3. The Party/Parties/Midnight Covenant.md",
+    "5. Mechanics/Items/Revolver.md",
     "4. World Almanac/Shops/Golden Hammer.md",
     "5. Mechanics/Items/Yeenoghus Wrath (HHHVII).md",
     "5. Mechanics/Items/Staff Of Flowers (XGE).md",
@@ -382,7 +384,6 @@
     "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
     "1. DM Toolkit/Tools/Weather Generation.md",
     "5. Mechanics/Items/Bracers Of Defense.md",
-    "3. The Party/Parties/Midnight Covenant.md",
     "5. Mechanics/Items/1 Rod Of The Pact Keeper.md",
     "5. Mechanics/Items/Items.md",
     "5. Mechanics/Items/3 Weapon.md",
@@ -399,7 +400,6 @@
     "1. DM Toolkit/Tools/Vistani Lore.md",
     "5. Mechanics/Tables/Academy Type (TCE).md",
     "Random Content/Generators/forest-scene-generator.md",
-    "Random Content/Generators/npc-backstory-generator.md",
     "Random Content/Generators",
     "Random Content/Indexes",
     "Random Content/Tables",
