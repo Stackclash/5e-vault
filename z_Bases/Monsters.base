@@ -42,6 +42,9 @@ views:
       - ac
       - type
       - environments
+    sort:
+      - property: cr
+        direction: ASC
   - type: table
     name: Celestials
     filters:
