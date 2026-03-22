@@ -42,6 +42,9 @@ views:
       - ac
       - type
       - environments
+    sort:
+      - property: cr
+        direction: ASC
   - type: table
     name: Celestials
     filters:
@@ -145,6 +148,7 @@ views:
     filters:
       and:
         - type == "humanoid"
+        - cr >= 5
     order:
       - file.name
       - alignment
@@ -156,7 +160,7 @@ views:
       - environments
     sort:
       - property: cr
-        direction: DESC
+        direction: ASC
   - type: table
     name: Monstrosities
     filters:
