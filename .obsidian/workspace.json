@@ -75,8 +75,7 @@
               "title": "304524-Well-kempt_Library_print_friendly"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,11 +294,26 @@
           }
         ],
         "currentTab": 8
+      },
+      {
+        "id": "f35b5ee601f72198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4febda689f51286a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,14 +340,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bd32d9bba3399655",
+  "active": "6897624284990b0a",
   "lastOpenFiles": [
+    "6. Resources/Resources/The Well-Kempt Library_ A Collection of Spellbooks/304524-Well-kempt_Library_print_friendly.pdf",
     "5. Mechanics/Items/Javelin Of Lightning.md",
     "5. Mechanics/Spells/Glyph Of Warding.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "1. DM Toolkit/Configuration.md",
-    "6. Resources/Resources/The Well-Kempt Library_ A Collection of Spellbooks/304524-Well-kempt_Library_print_friendly.pdf",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "4. World Almanac/Settlements/Bruokdon.md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S37 New Session Journal.md",
@@ -358,7 +372,6 @@
     "Random Content/Tables/forest-visual-elements.md",
     "Random Content/Tables/npc-backstory-hardship.md",
     "Random Content/Tables/npc-backstory-.md",
-    "Random Content/Tables/npc-backstory-origin.md",
     "Random Content/Generators",
     "Random Content/Indexes",
     "Random Content/Tables",
