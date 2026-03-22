@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview
+obsidianUIMode: edit
 date: 2026-03-22
 summary:
 fc-date: 973-2-25
-fc-end: 
-timelines: 
+fc-end:
+timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
