@@ -67,15 +67,18 @@
             "id": "bd32d9bba3399655",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "6. Resources/Resources/The Well-Kempt Library_ A Collection of Spellbooks/304524-Well-kempt_Library_print_friendly.pdf"
+                "file": "5. Mechanics/Bestiary/Humanoid/Conjurer Wizard (MPMM).md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "304524-Well-kempt_Library_print_friendly"
+              "icon": "lucide-file",
+              "title": "Conjurer Wizard (MPMM)"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -340,11 +343,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6897624284990b0a",
+  "active": "bd32d9bba3399655",
   "lastOpenFiles": [
-    "5. Mechanics/Spells/Summon Elemental (TCE).md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "6. Resources/Resources/The Well-Kempt Library_ A Collection of Spellbooks/304524-Well-kempt_Library_print_friendly.pdf",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
+    "5. Mechanics/Spells/Summon Elemental (TCE).md",
     "5. Mechanics/Items/Javelin Of Lightning.md",
     "5. Mechanics/Spells/Glyph Of Warding.md",
     "3. The Party/Players/Faerah Duskrane.md",
@@ -372,7 +375,6 @@
     "Random Content/Indexes/npc-names.md",
     "Random Content/Tables/forest-visual-elements.md",
     "Random Content/Tables/npc-backstory-hardship.md",
-    "Random Content/Tables/npc-backstory-.md",
     "Random Content/Generators",
     "Random Content/Indexes",
     "Random Content/Tables",
