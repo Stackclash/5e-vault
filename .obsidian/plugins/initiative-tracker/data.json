@@ -1,16 +1,6 @@
 {
   "players": [
     {
-      "note": "Marin",
-      "path": "3. The Party/Players/Marin.md",
-      "name": "Marin",
-      "ac": 19,
-      "hp": 75,
-      "level": 10,
-      "modifier": 3,
-      "player": true
-    },
-    {
       "note": "Redgrave",
       "path": "3. The Party/Players/Redgrave.md",
       "name": "Redgrave",
@@ -39,20 +29,41 @@
       "level": 10,
       "modifier": 7,
       "player": true
+    },
+    {
+      "note": "Wisp",
+      "path": "3. The Party/Players/Wisp.md",
+      "name": "Wisp",
+      "ac": 14,
+      "hp": 42,
+      "level": 10,
+      "modifier": 4,
+      "player": true
+    },
+    {
+      "note": "Roark Battleborn",
+      "path": "3. The Party/Players/Roark Battleborn.md",
+      "name": "Roark Battleborn",
+      "ac": 15,
+      "hp": 137,
+      "level": 10,
+      "modifier": 2,
+      "player": true
     }
   ],
   "parties": [
     {
-      "name": "Curse of Strahd",
+      "name": "Midnight Covenant",
       "players": [
         "Redgrave",
-        "Marin",
         "Yevelda Ovak ",
-        "Faerah Duskrane"
+        "Faerah Duskrane",
+        "Wisp",
+        "Roark Battleborn"
       ]
     }
   ],
-  "defaultParty": "Curse of Strahd",
+  "defaultParty": "Midnight Covenant",
   "statuses": [
     {
       "name": "Blinded",
@@ -173,7 +184,7 @@
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
-  "rpgSystem": "dnd5e-lazygm",
+  "rpgSystem": "dnd5e-cr2-simple",
   "logging": true,
   "logFolder": "2. Scratch Notes",
   "resolveTies": "playerFirst",
