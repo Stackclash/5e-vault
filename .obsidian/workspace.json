@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3a11396001515b21",
+        "id": "50378272774e7166",
         "type": "tabs",
         "children": [
           {
-            "id": "ff51a18aee7dff95",
+            "id": "c7bfdb91243f3cd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Builder.md",
+                "file": "1. DM Toolkit/Configuration.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Builder"
-            }
-          },
-          {
-            "id": "6cbf787b47dded06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-14"
-            }
-          },
-          {
-            "id": "ad5b9e6278d63a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "S36 The Big City"
-            }
-          },
-          {
-            "id": "071b6acc4ded1d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abjurer Wizard (MPMM)"
-            }
-          },
-          {
-            "id": "8b2afbe27b2814f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. The Party/Parties/Midnight Covenant.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Midnight Covenant"
-            }
-          },
-          {
-            "id": "67f6784223e33a15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Toolkit/Tools/Vistani Lore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vistani Lore"
+              "title": "Configuration"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,13 +271,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "67f6784223e33a15",
+  "active": "c7bfdb91243f3cd2",
   "lastOpenFiles": [
+    "1. DM Toolkit/Tools/Vistani Lore.md",
+    "3. The Party/Parties/Midnight Covenant.md",
+    "5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md",
+    "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-14.md",
     "z_Scripts/Meta Bind/generateShopInventory.js",
     "1. DM Toolkit/Tools/Weather Generation.md",
     "z_Scripts/Dataview/views/itemPrice.js",
     "z_Scripts/JS/weather.json",
-    "1. DM Toolkit/Tools/Vistani Lore.md",
     "5. Mechanics/Tables/Academy Type (TCE).md",
     "Random Content/Generators/forest-scene-generator.md",
     "Random Content/Generators/npc-backstory-generator.md",
@@ -375,11 +308,7 @@
     "z_Bases/Monsters.base",
     "z_Scripts/Dataview/utils/helpers.js",
     "z_Scripts/Dataview/render/tables.js",
-    "z_Scripts/Dataview/render/lists.js",
     "4. World Almanac/Settlements/Bruokdon.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-14.md",
-    "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
-    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "5. Mechanics/Bestiary/Plant/img/shambling-mound-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/phase-spider-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/bulette-2.webp",
