@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3a11396001515b21",
+        "id": "7dbe80a2ca8dde83",
         "type": "tabs",
         "children": [
           {
-            "id": "ff51a18aee7dff95",
+            "id": "e5b77428d507a3e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Prompt Builder.md",
-                "mode": "preview",
-                "source": false
+                "file": "z_Bases/Monsters.base",
+                "viewName": "Humanoids"
               },
-              "icon": "lucide-file",
-              "title": "Prompt Builder"
+              "icon": "lucide-table",
+              "title": "Monsters"
             }
           },
           {
-            "id": "6cbf787b47dded06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-14"
-            }
-          },
-          {
-            "id": "ad5b9e6278d63a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "S36 The Big City"
-            }
-          },
-          {
-            "id": "071b6acc4ded1d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abjurer Wizard (MPMM)"
-            }
-          },
-          {
-            "id": "8b2afbe27b2814f7",
+            "id": "2ea1bc29ee5ca362",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,51 +33,8 @@
               "icon": "lucide-file",
               "title": "Midnight Covenant"
             }
-          },
-          {
-            "id": "53a87fe0d4817be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Toolkit/Configuration.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configuration"
-            }
-          },
-          {
-            "id": "0460266046d5dcdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Items/Revolver.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revolver"
-            }
-          },
-          {
-            "id": "f66ced75f8707a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "S36 The Big City"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -370,18 +284,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "53a87fe0d4817be6",
+  "active": "e5b77428d507a3e2",
   "lastOpenFiles": [
     "3. The Party/Parties/Midnight Covenant.md",
+    "1. DM Toolkit/Configuration.md",
+    "z_Bases/Monsters.base",
+    "Prompt Builder.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-14.md",
+    "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
     "5. Mechanics/Items/Revolver.md",
+    "5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md",
     "4. World Almanac/Shops/Golden Hammer.md",
     "5. Mechanics/Items/Yeenoghus Wrath (HHHVII).md",
     "5. Mechanics/Items/Staff Of Flowers (XGE).md",
     "5. Mechanics/Items/Wooden Breastplate (HHHVI).md",
     "z_Scripts/Meta Bind/generateShopInventory.js",
     "5. Mechanics/Items/Animated Shield.md",
-    "1. DM Toolkit/Configuration.md",
-    "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
     "1. DM Toolkit/Tools/Weather Generation.md",
     "5. Mechanics/Items/Bracers Of Defense.md",
     "5. Mechanics/Items/1 Rod Of The Pact Keeper.md",
@@ -395,16 +313,11 @@
     "5. Mechanics/Items/Amulet Of Proof Against Detection And Location.md",
     "5. Mechanics/Items/Armor Of Resistance.md",
     "5. Mechanics/Items/Armor Of Radiant Resistance.md",
-    "5. Mechanics/Items/Blowgun Needle.md",
     "z_Scripts/JS/weather.json",
-    "1. DM Toolkit/Tools/Vistani Lore.md",
-    "5. Mechanics/Tables/Academy Type (TCE).md",
-    "Random Content/Generators/forest-scene-generator.md",
     "Random Content/Generators",
     "Random Content/Indexes",
     "Random Content/Tables",
     "Random Content",
-    "z_Bases/Monsters.base",
     "z_Scripts/Dataview/utils/helpers.js",
     "z_Scripts/Dataview/render/tables.js",
     "z_Scripts/Dataview/render/lists.js",

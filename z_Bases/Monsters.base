@@ -145,6 +145,7 @@ views:
     filters:
       and:
         - type == "humanoid"
+        - cr > 6
     order:
       - file.name
       - alignment
@@ -156,7 +157,7 @@ views:
       - environments
     sort:
       - property: cr
-        direction: DESC
+        direction: ASC
   - type: table
     name: Monstrosities
     filters:
