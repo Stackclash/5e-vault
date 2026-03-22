@@ -62,8 +62,21 @@
               "icon": "lucide-file",
               "title": "Bruokdon"
             }
+          },
+          {
+            "id": "bd32d9bba3399655",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "6. Resources/Resources/The Well-Kempt Library_ A Collection of Spellbooks/304524-Well-kempt_Library_print_friendly.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "304524-Well-kempt_Library_print_friendly"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -313,17 +326,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6897624284990b0a",
+  "active": "bd32d9bba3399655",
   "lastOpenFiles": [
-    "4. World Almanac/Settlements/Bruokdon.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
     "1. DM Toolkit/Configuration.md",
+    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
-    "1. DM Toolkit/Session Journals/Midnight Covenant/S13 The History of Strahd.md",
+    "4. World Almanac/Settlements/Bruokdon.md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S37 New Session Journal.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
+    "1. DM Toolkit/Session Journals/Midnight Covenant/S13 The History of Strahd.md",
     "4. World Almanac/Shops/Golden Hammer.md",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
-    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "Session Prep.md",
     "1. DM Toolkit/Tools/Vistani Lore.md",
     "3. The Party/Parties/Midnight Covenant.md",
