@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Humanoid/Evoker Wizard (MPMM).md",
+                "file": "5. Mechanics/Bestiary/Humanoid/Archmage.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evoker Wizard (MPMM)"
+              "title": "Archmage"
             }
           },
           {
@@ -288,6 +288,7 @@
   "active": "e5b77428d507a3e2",
   "lastOpenFiles": [
     "z_Bases/Monsters.base",
+    "5. Mechanics/Bestiary/Humanoid/Evoker Wizard (MPMM).md",
     "3. The Party/Parties/Midnight Covenant.md",
     "1. DM Toolkit/Configuration.md",
     "Prompt Builder.md",
@@ -313,7 +314,6 @@
     "5. Mechanics/Items/Cloak Of The Manta Ray.md",
     "5. Mechanics/Items/Amulet Of Proof Against Detection And Location.md",
     "5. Mechanics/Items/Armor Of Resistance.md",
-    "5. Mechanics/Items/Armor Of Radiant Resistance.md",
     "z_Scripts/JS/weather.json",
     "Random Content/Generators",
     "Random Content/Indexes",
