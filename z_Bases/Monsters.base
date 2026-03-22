@@ -145,7 +145,7 @@ views:
     filters:
       and:
         - type == "humanoid"
-        - cr > 5
+        - cr >= 5
     order:
       - file.name
       - alignment
