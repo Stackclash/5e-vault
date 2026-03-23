@@ -69,16 +69,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Spells/Zone Of Truth.md",
+                "file": "5. Mechanics/Bestiary/Humanoid/Assassin.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zone Of Truth"
+              "title": "Assassin"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,18 +342,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bd32d9bba3399655",
+  "active": "6897624284990b0a",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Humanoid/Conjurer Wizard (MPMM).md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
+    "5. Mechanics/Bestiary/Humanoid/Assassin.md",
+    "5. Mechanics/Classes/Rogue Assassin.md",
     "5. Mechanics/Spells/Zone Of Truth.md",
+    "5. Mechanics/Spells/Summon Elemental (TCE).md",
+    "5. Mechanics/Bestiary/Humanoid/Evoker Wizard (MPMM).md",
     "1. DM Toolkit/DM Screen.md",
     "5. Mechanics/Spells/Command.md",
     "5. Mechanics/Spells/Hypnotic Pattern.md",
     "5. Mechanics/Spells/Color Spray.md",
     "5. Mechanics/Spells/Dispel Magic.md",
-    "5. Mechanics/Bestiary/Humanoid/Conjurer Wizard (MPMM).md",
     "6. Resources/Resources/The Well-Kempt Library_ A Collection of Spellbooks/304524-Well-kempt_Library_print_friendly.pdf",
-    "5. Mechanics/Spells/Summon Elemental (TCE).md",
     "5. Mechanics/Items/Javelin Of Lightning.md",
     "5. Mechanics/Spells/Glyph Of Warding.md",
     "3. The Party/Players/Faerah Duskrane.md",
@@ -370,12 +372,9 @@
     "1. DM Toolkit/Tools/Vistani Lore.md",
     "3. The Party/Parties/Midnight Covenant.md",
     "5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md",
-    "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
     "z_Scripts/Meta Bind/generateShopInventory.js",
-    "1. DM Toolkit/Tools/Weather Generation.md",
     "z_Scripts/Dataview/views/itemPrice.js",
     "z_Scripts/JS/weather.json",
-    "5. Mechanics/Tables/Academy Type (TCE).md",
     "Random Content/Generators",
     "Random Content/Indexes",
     "Random Content/Tables",
