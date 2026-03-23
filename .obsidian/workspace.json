@@ -77,7 +77,8 @@
               "title": "Zone Of Truth"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -342,8 +343,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6897624284990b0a",
+  "active": "bd32d9bba3399655",
   "lastOpenFiles": [
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "5. Mechanics/Spells/Zone Of Truth.md",
     "1. DM Toolkit/DM Screen.md",
     "5. Mechanics/Spells/Command.md",
@@ -352,7 +354,6 @@
     "5. Mechanics/Spells/Dispel Magic.md",
     "5. Mechanics/Bestiary/Humanoid/Conjurer Wizard (MPMM).md",
     "6. Resources/Resources/The Well-Kempt Library_ A Collection of Spellbooks/304524-Well-kempt_Library_print_friendly.pdf",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "5. Mechanics/Spells/Summon Elemental (TCE).md",
     "5. Mechanics/Items/Javelin Of Lightning.md",
     "5. Mechanics/Spells/Glyph Of Warding.md",
