@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Spells/Command.md",
+                "file": "1. DM Toolkit/DM Screen.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command"
+              "title": "DM Screen"
             }
           }
         ],
@@ -345,6 +345,7 @@
   },
   "active": "bd32d9bba3399655",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Command.md",
     "5. Mechanics/Spells/Hypnotic Pattern.md",
     "5. Mechanics/Spells/Color Spray.md",
     "5. Mechanics/Spells/Dispel Magic.md",
@@ -375,7 +376,6 @@
     "z_Scripts/JS/weather.json",
     "5. Mechanics/Tables/Academy Type (TCE).md",
     "Random Content/Generators/forest-scene-generator.md",
-    "Random Content/Generators/npc-backstory-generator.md",
     "Random Content/Generators",
     "Random Content/Indexes",
     "Random Content/Tables",
