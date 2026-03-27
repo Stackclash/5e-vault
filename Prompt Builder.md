@@ -5,6 +5,7 @@ template_definitions:
   name:
     label: Name
     type: text
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Fixing Crafting in D&D.md
 ---
 ```datacorejsx
 function normalizeToken(token) {
