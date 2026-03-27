@@ -84,10 +84,10 @@ context:
     source: home_settlement
     transform: note_title
 
-  settlement_summary:
+  settlement_population:
     type: note_field
     source: home_settlement
-    field: summary
+    field: population
 
   location_name:
     type: derived
@@ -124,8 +124,7 @@ NPC input:
 
 Home settlement:
 - Note: {{home_settlement}}
-- Settlement name: {{settlement_name}}
-- Settlement summary: {{settlement_summary}}
+- Settlement population: {{settlement_population}}
 
 {{#if current_location}}Current location:
 - Note: {{current_location}}
