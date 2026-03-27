@@ -1,18 +1,10 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: Prompt Builder Templates/Example Demonstration.md
+selected_prompt_path: Prompt Builder Templates/DM Knowledge Summarizer.md
 template_definitions:
   name:
     label: Name
     type: text
-npc_name_value: Test NPC
-concept_value: This is the party's favorite NPC
-race_value: Human
-alignment_value: Lawful Good
-home_settlement_value: 4. World Almanac/Settlements/Vallaki.md
-current_location_value: ""
-occupation_value: Blacksmith
-physical_description_value: Very Tall
 ---
 ```datacorejsx
 function normalizeToken(token) {
