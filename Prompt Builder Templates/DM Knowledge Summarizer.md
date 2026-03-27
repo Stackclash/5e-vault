@@ -4,7 +4,13 @@ fields:
     type: suggester
     label: Note to Summarize
     query: '@page and path("1. DM Toolkit/Knowledge/Sources")'
-    required: false
+    required: true
+context:
+  category_notes:
+    type: datacore_query
+    query: '@page and path("1. DM Toolkit/Knowledge/Info")'
+    format: bullet_name_and_field
+    field: summary
 ---
 
 You are helping maintain my Dungeon Mastering second brain in Obsidian.
@@ -39,7 +45,7 @@ You may not:
 - create new evergreen notes unless clearly necessary
 
 Existing evergreen notes:
-{{}}
+{{category_notes}}
 
 Return:
 1. A concise summary of the useful ideas from the source
