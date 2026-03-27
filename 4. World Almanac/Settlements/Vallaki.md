@@ -5,7 +5,7 @@ images:
   - z_Assets/PlaceholderImage.png
 pronounced:
 resources:
-population:
+population: 100
 terrain:
 rulers:
 government:

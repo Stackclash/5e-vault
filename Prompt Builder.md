@@ -1,14 +1,12 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: Prompt Builder Templates/NPC Generator.md
+selected_prompt_path: Prompt Builder Templates/Example Demonstration.md
 template_definitions:
   name:
     label: Name
     type: text
-location_value: 4. World Almanac/Settlements/Bruokdon.md
-race_value: Elf
-occupation_value: Horse de
-include_secrets_value: false
+npc_name_value: H
+concept_value: d
 ---
 ```datacorejsx
 return function PromptBuilderV2() {
