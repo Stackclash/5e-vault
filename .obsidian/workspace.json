@@ -49,7 +49,8 @@
               "title": "Village of Barovia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -299,13 +300,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6897624284990b0a",
+  "active": "675ba8cdabcb4722",
   "lastOpenFiles": [
+    "Prompt Builder.md",
     "Prompt Builder Templates/NPC Generator.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/10 Chapter 8 The Village Of Krezk.md",
     "1. DM Toolkit/Configuration.md",
-    "Prompt Builder.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "5. Mechanics/Bestiary/Humanoid/Conjurer Wizard (MPMM).md",
     "5. Mechanics/Bestiary/Humanoid/Assassin.md",
