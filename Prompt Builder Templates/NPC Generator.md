@@ -28,15 +28,10 @@ template_definitions:
     label: Include Secret
 
 context_definitions:
-  location_summary:
+  location_population:
     type: note_field
     source_token: location
-    field: summary
-
-  nearby_npcs:
-    type: datacore_query
-    query: '@page and path("4. World Almanac/NPCs")'
-    format: list_names
+    field: population
 
 output:
   mode: yaml
@@ -47,8 +42,7 @@ You are generating a Dungeons & Dragons NPC.
 Use the following inputs and context.
 
 Location: {{location}}
-Location Summary: {{location_summary}}
-Nearby NPCs: {{nearby_npcs}}
+Location Population: {{location_population}}
 
 Generate frontmatter for this NPC.
 

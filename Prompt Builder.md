@@ -9,6 +9,7 @@ include_secret_value: true
 location_value: 4. World Almanac/Settlements/Village of Barovia.md
 gender_value: Male
 race_value: Human
+occupation_value: Hello
 ---
 ```datacorejsx
 return function PromptBuilderV2() {
