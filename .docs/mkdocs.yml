@@ -1,0 +1,69 @@
+site_name: D&D 5e Obsidian Vault
+site_description: Documentation for the D&D 5e Obsidian Vault — a comprehensive campaign management system
+repo_url: https://github.com/Stackclash/5e-vault
+repo_name: Stackclash/5e-vault
+
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+
+plugins:
+  - search
+  - include-markdown
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - attr_list
+  - tables
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Templates:
+      - Overview: vault-templates/index.md
+      - DM Prep: vault-templates/dm-prep.md
+      - Party: vault-templates/party.md
+      - World Building: vault-templates/world-building.md
+      - Story: vault-templates/story.md
+      - Functional: vault-templates/functional.md
+      - Extra: vault-templates/extra.md
+  - Scripts:
+      - Overview: scripts/index.md
+      - Templater Scripts: scripts/templater.md
+      - Dataview Scripts: scripts/dataview.md
+      - Meta Bind Scripts: scripts/meta-bind.md
+      - Standalone Scripts: scripts/standalone.md
+      - Datacore Scripts: scripts/datacore.md
+  - Plugins:
+      - Overview: plugins/index.md
+  - Tools:
+      - Overview: tools/index.md
+      - Weather Generation: tools/weather-generation.md
+      - Shop Inventory Generation: tools/shop-inventory.md
+      - Configuration Reference: tools/configuration.md
