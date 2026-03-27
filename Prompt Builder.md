@@ -50,12 +50,45 @@ function normalizePreviewValue(value) {
   return String(value)
 }
 
-function formatQueryResults(results, format) {
+function formatQueryResults(results, format, field) {
+  function getFieldValue(result, fieldName) {
+    if (!fieldName) return ""
+    const value = result.value(fieldName)
+    return normalizePreviewValue(value)
+  }
+
   switch (format) {
     case "bullet_list":
       return results.map(r => `- ${r.$name}`).join("\n")
+
     case "wikilinks":
       return results.map(r => `[[${r.$path}|${r.$name}]]`).join(", ")
+
+    case "name_and_field":
+      return results
+        .map(r => {
+          const fieldValue = getFieldValue(r, field)
+          return fieldValue ? `${r.$name} — ${fieldValue}` : r.$name
+        })
+        .join("\n")
+
+    case "bullet_name_and_field":
+      return results
+        .map(r => {
+          const fieldValue = getFieldValue(r, field)
+          return fieldValue ? `- ${r.$name} — ${fieldValue}` : `- ${r.$name}`
+        })
+        .join("\n")
+
+    case "wikilink_and_field":
+      return results
+        .map(r => {
+          const link = `[[${r.$path}|${r.$name}]]`
+          const fieldValue = getFieldValue(r, field)
+          return fieldValue ? `${link} — ${fieldValue}` : link
+        })
+        .join("\n")
+
     case "list_names":
     default:
       return results.map(r => r.$name).join(", ")
