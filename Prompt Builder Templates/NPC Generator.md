@@ -24,7 +24,7 @@ fields:
     label: Include Secrets
 
 context:
-  location_summary:
+  location_population:
     type: note_field
     source: location
     field: population

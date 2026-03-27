@@ -6,7 +6,9 @@ template_definitions:
     label: Name
     type: text
 location_value: 4. World Almanac/Settlements/Bruokdon.md
-race_value: Human
+race_value: Elf
+occupation_value: Horse de
+include_secrets_value: false
 ---
 ```datacorejsx
 return function PromptBuilderV2() {
@@ -17,31 +19,37 @@ return function PromptBuilderV2() {
     currentPage.value("selected_prompt_path") || ""
   )
 
-  const previousPromptRef = dc.useRef(currentPage.value("selected_prompt_path") || "")
   const [templateText, setTemplateText] = dc.useState("")
   const [values, setValues] = dc.useState({})
+  const previousPromptRef = dc.useRef(currentPage.value("selected_prompt_path") || "")
 
   const templatePage = promptTemplates.find(p => p.$path === selectedPromptPath)
   const fields = templatePage?.value("fields") || {}
   const contextDefs = templatePage?.value("context") || {}
 
   function normalizeToken(token) {
-    return token.replaceAll(" ", "_").trim()
+    return String(token || "").replaceAll(" ", "_").trim()
   }
 
   function humanizeToken(token) {
-    return token
+    return normalizeToken(token)
       .replaceAll("_", " ")
       .replace(/\b\w/g, c => c.toUpperCase())
   }
 
   function stripFrontmatter(text) {
-    return text.replace(/^---[\s\S]*?---/, "").trim()
+    return String(text || "").replace(/^---[\s\S]*?---/, "").trim()
+  }
+
+  function extractTokens(text) {
+    return [...String(text || "").matchAll(/{{(.*?)}}/g)]
+      .map(m => m[1].trim())
+      .filter((v, i, a) => a.indexOf(v) === i)
   }
 
   function normalizePreviewValue(value) {
     if (value == null) return ""
-    if (Array.isArray(value)) return value.map(normalizePreviewValue).join(", ")
+    if (Array.isArray(value)) return value.map(normalizePreviewValue).filter(Boolean).join(", ")
     if (typeof value === "boolean") return value ? "true" : ""
     if (typeof value === "string" && value.endsWith(".md")) {
       return value.split("/").pop().replace(".md", "")
@@ -50,12 +58,6 @@ return function PromptBuilderV2() {
       return value.path.split("/").pop().replace(".md", "")
     }
     return String(value)
-  }
-
-  function extractTokens(text) {
-    return [...text.matchAll(/{{(.*?)}}/g)]
-      .map(m => m[1].trim())
-      .filter((v, i, a) => a.indexOf(v) === i)
   }
 
   function getStoredValue(field) {
@@ -125,70 +127,10 @@ return function PromptBuilderV2() {
     })
   }, [selectedPromptPath, templatePage?.$mtime])
 
-  const templateTokens = dc.useMemo(() => {
-    return extractTokens(templateText)
-  }, [templateText])
+  const fieldEntries = Object.entries(fields)
+  const templateTokens = extractTokens(templateText)
 
-  const fieldEntries = dc.useMemo(() => {
-    return Object.entries(fields)
-  }, [templatePage?.$mtime, selectedPromptPath])
-
-  const resolvedContext = dc.useMemo(() => {
-    const out = {}
-
-    for (const [token, def] of Object.entries(contextDefs)) {
-      if (def.type === "static") {
-        out[token] = def.value ?? ""
-        continue
-      }
-
-      if (def.type === "derived") {
-        const sourceToken = normalizeToken(def.source || "")
-        const sourceField = `${sourceToken}_value`
-        const raw = getStoredValue(sourceField)
-
-        if (!raw) {
-          out[token] = ""
-          continue
-        }
-
-        if (def.transform === "note_title") {
-          out[token] = normalizePreviewValue(raw)
-        } else {
-          out[token] = normalizePreviewValue(raw)
-        }
-
-        continue
-      }
-
-      if (def.type === "note_field") {
-        const sourceToken = normalizeToken(def.source || "")
-        const sourceField = `${sourceToken}_value`
-        const sourcePath = getStoredValue(sourceField)
-
-        if (!sourcePath || typeof sourcePath !== "string") {
-          out[token] = ""
-          continue
-        }
-
-        const sourcePage = dc.useQuery(`@page and $path = "${sourcePath}"`)[0]
-        out[token] = sourcePage?.value(def.field) ?? ""
-        continue
-      }
-
-      if (def.type === "datacore_query") {
-        const results = dc.useQuery(def.query || "")
-        out[token] = formatQueryResults(results, def.format)
-        continue
-      }
-
-      out[token] = ""
-    }
-
-    return out
-  }, [JSON.stringify(values), selectedPromptPath, templatePage?.$mtime])
-
-  const preview = dc.useMemo(() => {
+  function buildPreview(resolvedContext) {
     let output = templateText
     const errors = []
     const warnings = []
@@ -197,7 +139,7 @@ return function PromptBuilderV2() {
       const fieldKey = `${normalizeToken(fieldName)}_value`
       const raw = getStoredValue(fieldKey)
 
-      if (def.required && (raw === "" || raw == null || raw === false)) {
+      if (def?.required && (raw === "" || raw == null || raw === false)) {
         errors.push(`Missing required field: ${fieldName}`)
       }
     }
@@ -205,13 +147,12 @@ return function PromptBuilderV2() {
     output = output.replace(/{{#if\s+(.+?)}}([\s\S]*?){{\/if}}/g, (_, tokenName, inner) => {
       const normalized = normalizeToken(tokenName)
 
-      if (fields[normalized]) {
-        const fieldKey = `${normalized}_value`
-        const raw = getStoredValue(fieldKey)
+      if (normalized in fields) {
+        const raw = getStoredValue(`${normalized}_value`)
         return raw ? inner : ""
       }
 
-      if (contextDefs[normalized]) {
+      if (normalized in contextDefs) {
         const raw = resolvedContext[normalized]
         return raw ? inner : ""
       }
@@ -262,15 +203,7 @@ return function PromptBuilderV2() {
       .trim()
 
     return { output, errors, warnings }
-  }, [
-    templateText,
-    templateTokens,
-    fieldEntries,
-    resolvedContext,
-    JSON.stringify(values),
-    selectedPromptPath,
-    templatePage?.$mtime
-  ])
+  }
 
   function TextField({ token, def }) {
     const field = `${token}_value`
@@ -278,7 +211,7 @@ return function PromptBuilderV2() {
     const value = getStoredValue(field)
 
     return (
-      <div key={token}>
+      <div>
         <label>{label}</label>
         <input
           type="text"
@@ -296,7 +229,7 @@ return function PromptBuilderV2() {
     const value = getStoredValue(field)
 
     return (
-      <div key={token}>
+      <div>
         <label>{label}</label>
         <textarea
           value={value}
@@ -313,7 +246,7 @@ return function PromptBuilderV2() {
     const value = !!getStoredValue(field)
 
     return (
-      <div key={token}>
+      <div>
         <label>
           <input
             type="checkbox"
@@ -326,24 +259,39 @@ return function PromptBuilderV2() {
     )
   }
 
-  function SelectField({ token, def }) {
+  function SelectQueryField({ token, def }) {
     const field = `${token}_value`
     const label = def.label || humanizeToken(token)
     const value = getStoredValue(field)
-
-    let options = []
-
-    if (def.options) {
-      options = def.options.map(o =>
-        typeof o === "string" ? { label: o, value: o } : o
-      )
-    } else if (def.query) {
-      const results = dc.useQuery(def.query)
-      options = results.map(p => ({ label: p.$name, value: p.$path }))
-    }
+    const results = dc.useQuery(def.query || "")
+    const options = results.map(p => ({ label: p.$name, value: p.$path }))
 
     return (
-      <div key={token}>
+      <div>
+        <label>{label}</label>
+        <select
+          value={value}
+          onChange={e => setValue(field, e.target.value)}
+        >
+          <option value=""></option>
+          {options.map(o => (
+            <option key={o.value} value={o.value}>{o.label}</option>
+          ))}
+        </select>
+      </div>
+    )
+  }
+
+  function SelectStaticField({ token, def }) {
+    const field = `${token}_value`
+    const label = def.label || humanizeToken(token)
+    const value = getStoredValue(field)
+    const options = (def.options || []).map(o =>
+      typeof o === "string" ? { label: o, value: o } : o
+    )
+
+    return (
+      <div>
         <label>{label}</label>
         <select
           value={value}
@@ -362,18 +310,17 @@ return function PromptBuilderV2() {
     const field = `${token}_value`
     const label = def.label || humanizeToken(token)
     const storedValue = getStoredValue(field)
-
-    const results = def.query ? dc.useQuery(def.query) : []
+    const results = dc.useQuery(def.query || "")
     const allOptions = results.map(p => ({
       label: p.$name,
       value: p.$path
     }))
 
-    const computedInitialLabel =
+    const initialLabel =
       allOptions.find(o => o.value === storedValue)?.label ||
       (typeof storedValue === "string" && !storedValue.endsWith(".md") ? storedValue : "")
 
-    const [inputValue, setInputValue] = dc.useState(computedInitialLabel)
+    const [inputValue, setInputValue] = dc.useState(initialLabel)
 
     dc.useEffect(() => {
       const nextLabel =
@@ -387,7 +334,7 @@ return function PromptBuilderV2() {
     )
 
     return (
-      <div key={token}>
+      <div>
         <label>{label}</label>
         <input
           list={`${field}_list`}
@@ -418,19 +365,110 @@ return function PromptBuilderV2() {
   }
 
   function FieldRenderer({ token, def }) {
-    switch (def.type) {
-      case "textarea":
-        return <TextAreaField token={token} def={def} />
-      case "toggle":
-        return <ToggleField token={token} def={def} />
-      case "select":
-        return <SelectField token={token} def={def} />
-      case "suggester":
-        return <SuggesterField token={token} def={def} />
-      default:
-        return <TextField token={token} def={def} />
+    if (def.type === "textarea") {
+      return <TextAreaField token={token} def={def} />
     }
+
+    if (def.type === "toggle") {
+      return <ToggleField token={token} def={def} />
+    }
+
+    if (def.type === "select" && def.query) {
+      return <SelectQueryField token={token} def={def} />
+    }
+
+    if (def.type === "select") {
+      return <SelectStaticField token={token} def={def} />
+    }
+
+    if (def.type === "suggester") {
+      return <SuggesterField token={token} def={def} />
+    }
+
+    return <TextField token={token} def={def} />
   }
+
+  function StaticContextResolver({ token, def, children }) {
+    return children(def.value ?? "")
+  }
+
+  function DerivedContextResolver({ token, def, children }) {
+    const sourceToken = normalizeToken(def.source || "")
+    const sourceField = `${sourceToken}_value`
+    const raw = getStoredValue(sourceField)
+
+    let result = ""
+
+    if (raw) {
+      if (def.transform === "note_title") {
+        result = normalizePreviewValue(raw)
+      } else {
+        result = normalizePreviewValue(raw)
+      }
+    }
+
+    return children(result)
+  }
+
+  function NoteFieldContextResolver({ token, def, children }) {
+    const sourceToken = normalizeToken(def.source || "")
+    const sourceField = `${sourceToken}_value`
+    const sourcePath = getStoredValue(sourceField)
+    const sourceQuery = sourcePath ? dc.useQuery(`@page and $path = "${sourcePath}"`) : []
+    const sourcePage = sourceQuery[0]
+    const result = sourcePage?.value(def.field) ?? ""
+
+    return children(result)
+  }
+
+  function DatacoreQueryContextResolver({ token, def, children }) {
+    const results = dc.useQuery(def.query || "")
+    const result = formatQueryResults(results, def.format)
+    return children(result)
+  }
+
+  function ContextValueResolver({ token, def, children }) {
+    if (def.type === "static") {
+      return <StaticContextResolver token={token} def={def} children={children} />
+    }
+
+    if (def.type === "derived") {
+      return <DerivedContextResolver token={token} def={def} children={children} />
+    }
+
+    if (def.type === "note_field") {
+      return <NoteFieldContextResolver token={token} def={def} children={children} />
+    }
+
+    if (def.type === "datacore_query") {
+      return <DatacoreQueryContextResolver token={token} def={def} children={children} />
+    }
+
+    return children("")
+  }
+
+  function ContextCollector({ contextEntries, index, resolvedSoFar, children }) {
+    if (index >= contextEntries.length) {
+      return children(resolvedSoFar)
+    }
+
+    const [token, def] = contextEntries[index]
+
+    return (
+      <ContextValueResolver token={token} def={def}>
+        {(resolvedValue) => (
+          <ContextCollector
+            contextEntries={contextEntries}
+            index={index + 1}
+            resolvedSoFar={{ ...resolvedSoFar, [token]: resolvedValue }}
+            children={children}
+          />
+        )}
+      </ContextValueResolver>
+    )
+  }
+
+  const contextEntries = Object.entries(contextDefs)
 
   return (
     <div>
@@ -454,36 +492,46 @@ return function PromptBuilderV2() {
       }
 
       {selectedPromptPath && templateText && (
-        <div style={{
-          display: "grid",
-          gridTemplateColumns: "1fr 1fr",
-          gap: "1rem"
-        }}>
-          <div>
-            <h3>Prompt Inputs</h3>
-            {fieldEntries.map(([token, def]) => (
-              <FieldRenderer key={token} token={normalizeToken(token)} def={def} />
-            ))}
-          </div>
+        <ContextCollector contextEntries={contextEntries} index={0} resolvedSoFar={{}}>
+          {(resolvedContext) => {
+            const preview = buildPreview(resolvedContext)
 
-          <div>
-            <h3>Prompt Preview</h3>
+            return (
+              <div style={{
+                display: "grid",
+                gridTemplateColumns: "1fr 1fr",
+                gap: "1rem"
+              }}>
+                <div>
+                  <h3>Prompt Inputs</h3>
+                  {fieldEntries.map(([token, def]) => (
+                    <div key={token}>
+                      <FieldRenderer token={normalizeToken(token)} def={def} />
+                    </div>
+                  ))}
+                </div>
 
-            {preview.errors.length > 0 && (
-              <div class="callout callout-error">
-                {preview.errors.map((e, i) => <div key={i}>{e}</div>)}
+                <div>
+                  <h3>Prompt Preview</h3>
+
+                  {preview.errors.length > 0 && (
+                    <div class="callout callout-error">
+                      {preview.errors.map((e, i) => <div key={i}>{e}</div>)}
+                    </div>
+                  )}
+
+                  {preview.warnings.length > 0 && (
+                    <div class="callout callout-warning">
+                      {preview.warnings.map((w, i) => <div key={i}>{w}</div>)}
+                    </div>
+                  )}
+
+                  <pre>{preview.output}</pre>
+                </div>
               </div>
-            )}
-
-            {preview.warnings.length > 0 && (
-              <div class="callout callout-warning">
-                {preview.warnings.map((w, i) => <div key={i}>{w}</div>)}
-              </div>
-            )}
-
-            <pre>{preview.output}</pre>
-          </div>
-        </div>
+            )
+          }}
+        </ContextCollector>
       )}
     </div>
   )
