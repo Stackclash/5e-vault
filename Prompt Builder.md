@@ -5,7 +5,7 @@ template_definitions:
   name:
     label: Name
     type: text
-include_secret_value: false
+include_secret_value: true
 location_value: 4. World Almanac/Settlements/Village of Barovia.md
 gender_value: Male
 race_value: Human

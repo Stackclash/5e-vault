@@ -13,71 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
+                "file": "Prompt Builder.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-22"
+              "title": "Prompt Builder"
             }
           },
           {
-            "id": "c7bfdb91243f3cd2",
+            "id": "675ba8cdabcb4722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/Session Journals/Midnight Covenant/S37 New Session Journal.md",
-                "mode": "preview",
+                "file": "Prompt Builder Templates/NPC Generator.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S37 New Session Journal"
-            }
-          },
-          {
-            "id": "47a95ae6798b4607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Umbral Athenaeum"
-            }
-          },
-          {
-            "id": "49b22d1a1b64b16d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Settlements/Bruokdon.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bruokdon"
-            }
-          },
-          {
-            "id": "bd32d9bba3399655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Humanoid/Assassin.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assassin"
+              "title": "NPC Generator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,26 +255,11 @@
           }
         ],
         "currentTab": 8
-      },
-      {
-        "id": "f35b5ee601f72198",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4febda689f51286a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,10 +286,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6897624284990b0a",
+  "active": "675ba8cdabcb4722",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Humanoid/Conjurer Wizard (MPMM).md",
+    "Prompt Builder.md",
+    "Prompt Builder Templates/NPC Generator.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
+    "5. Mechanics/Bestiary/Humanoid/Conjurer Wizard (MPMM).md",
     "5. Mechanics/Bestiary/Humanoid/Assassin.md",
     "5. Mechanics/Classes/Rogue Assassin.md",
     "5. Mechanics/Spells/Zone Of Truth.md",
@@ -370,8 +316,6 @@
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "Session Prep.md",
     "1. DM Toolkit/Tools/Vistani Lore.md",
-    "3. The Party/Parties/Midnight Covenant.md",
-    "5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md",
     "z_Scripts/Meta Bind/generateShopInventory.js",
     "z_Scripts/Dataview/views/itemPrice.js",
     "z_Scripts/JS/weather.json",
