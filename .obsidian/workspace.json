@@ -49,8 +49,7 @@
               "title": "Village of Barovia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,10 +299,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "675ba8cdabcb4722",
+  "active": "6897624284990b0a",
   "lastOpenFiles": [
-    "Prompt Builder.md",
     "Prompt Builder Templates/NPC Generator.md",
+    "Prompt Builder.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "6. Resources/5e Modules/Curse Of Strahd/10 Chapter 8 The Village Of Krezk.md",
     "1. DM Toolkit/Configuration.md",

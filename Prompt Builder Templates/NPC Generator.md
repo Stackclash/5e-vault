@@ -1,53 +1,47 @@
 ---
-template_definitions:
+fields:
+  location:
+    type: suggester
+    label: Location
+    query: '@page and path("4. World Almanac/Settlements")'
+    required: true
+
   race:
     type: select
+    label: Race
     options:
       - Human
       - Elf
       - Dwarf
-      - Halfling
-      - Tiefling
-
-  gender:
-    type: select
-    options:
-      - Male
-      - Female
-      - Nonbinary
+    required: true
 
   occupation:
     type: text
+    label: Occupation
 
-  location:
-    type: suggester
-    query: '@page and path("4. World Almanac/Settlements")'
-
-  include_secret:
+  include_secrets:
     type: toggle
-    label: Include Secret
+    label: Include Secrets
 
-context_definitions:
-  location_population:
+context:
+  location_summary:
     type: note_field
-    source_token: location
+    source: location
     field: population
-
-output:
-  mode: yaml
 ---
 
 You are generating a Dungeons & Dragons NPC.
 
-Use the following inputs and context.
-
 Location: {{location}}
 Location Population: {{location_population}}
 
-Generate frontmatter for this NPC.
+Create an NPC appropriate for this location.
 
+Return YAML frontmatter with:
 race: {{race}}
-gender: {{gender}}
+gender:
+age:
+alignment:
 occupation: {{occupation}}
 physical description:
 history:
@@ -58,4 +52,4 @@ flaw:
 likes:
 dislikes:
 goals:
-{{#if include_secret}}secrets:{{/if}}
+{{#if include_secrets}}secrets:{{/if}}
