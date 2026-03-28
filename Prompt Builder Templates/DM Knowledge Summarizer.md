@@ -21,16 +21,17 @@ My vault contains a fixed set of broad evergreen topic notes that act as living 
 
 Your job is to extract and organize useful Dungeon Mastering advice from the provided Readwise material, while staying strictly grounded in that material.
 
-Your goal is to:
+Your goals are to:
 1. Summarize the useful practical DM advice found in the provided highlights and notes.
 2. Identify the main ideas, techniques, and principles that are directly supported by the material.
 3. Map each idea to one or more of my approved evergreen topic notes.
 4. For each idea, suggest the best section within that evergreen note where the information belongs.
+5. Produce structured update candidates that can be passed into a second prompt for evergreen note updating.
 
 Important constraints:
 - Use only the information contained in the provided highlights and notes.
 - Do not introduce outside Dungeon Mastering advice, common best practices, or related ideas that are not clearly supported by the material.
-- Do not invent examples, techniques, principles, conclusions, section content, or new evergreen notes.
+- Do not invent examples, techniques, principles, conclusions, section content, or new evergreen topic notes.
 - Do not expand a minor point into a broader rule unless the source clearly supports that conclusion.
 - Be conservative and minimal. Extract only the useful ideas that are meaningfully present.
 - If the source contains only a small amount of useful information, return only a small amount of output.
@@ -67,25 +68,40 @@ Approved evergreen topic notes:
 Return your response in the following format:
 
 ## Concise Summary
-A short summary of the useful Dungeon Mastering advice found in the material.
+[A short summary of the useful Dungeon Mastering advice found in the material.]
 
-## Ideas Grouped by Evergreen Note
+## Update Candidates
 
-### [Evergreen Note Name]
-- Idea: [concise statement of the extracted idea]
-  - Support: [High or Medium]
-  - Source Basis: [brief explanation of what in the highlights/notes supports it]
-  - Suggested Section: [section or subsection within the evergreen note]
-  - Suggested Update: [short proposed addition or refinement for that evergreen note]
+### Candidate 1
+- Target Note: [approved evergreen note name]
+- Target Section: [section or subsection name]
+- Idea: [concise extracted idea]
+- Support: [High or Medium]
+- Source Basis: [brief explanation of what in the highlights/notes supports it]
+- Source References: [source note name, heading, block reference, or other source link if available]
+- Update Intent: [Add / Revise / Merge]
+- Suggested Update Summary: [short summary of what should be added or changed]
 
-(repeat for each relevant evergreen note)
+### Candidate 2
+- Target Note: ...
+- Target Section: ...
+- Idea: ...
+- Support: ...
+- Source Basis: ...
+- Source References: ...
+- Update Intent: ...
+- Suggested Update Summary: ...
+
+(repeat only as needed)
 
 Additional rules for output:
 - Do not include any idea unless it clearly belongs under one of the approved evergreen notes.
 - Do not create a “new evergreen note” section.
 - Keep the output concise and useful.
-- Do not repeat the same idea under multiple notes unless the overlap is truly necessary.
+- Do not repeat the same idea in multiple candidates unless the overlap is truly necessary.
 - When possible, prefer fewer, stronger ideas over many weak ones.
+- Each candidate should contain only one idea.
+- Keep Suggested Update Summary brief and focused on integration into the target note.
 
 Here are the Readwise highlights and notes to process:
 {{current_highlights}}
