@@ -6,38 +6,27 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot THE FIRST ACT of a D&D Campaign.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Adventure Design.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Villains and Antagonists.md
 update_candidates_for_note_value: |-
-  Target Note: Adventure Design
-  Target Section: Inciting Incident
-  Idea: The opening should be built around a clearly defined inciting incident that explains why this moment matters and why the players should care now.
+  Target Note: DM Prep
+  Target Section: Session One Structure
+  Idea: Consider ending session one with the inciting incident as a strong “mic drop” moment to create momentum for the next session.
   Support: High
-  Source Basis: The material explicitly frames the inciting incident as the event that makes the story begin and says the DM should determine why this point in time is significant.
+  Source Basis: One highlight explicitly recommends holding the inciting incident for the end of session one so the first game ends on a bang and builds excitement.
   Source References:
-  [[How to Plot THE FIRST ACT of a D&D Campaign#^976748492]]
+  [[How to Plot THE FIRST ACT of a D&D Campaign#^976748567]]
   Update Intent: Add
-  Suggested Update Summary: Add a note that first-act adventure design should identify the specific event that starts the story and gives the party a reason to engage.
+  Suggested Update Summary: Add a session-one pacing note about saving the major turn into the story for the end of the first session.
   ---
-  Target Note: Adventure Design
-  Target Section: Escalation and Clue Placement
-  Idea: Early trials should escalate danger and skill tests while dropping small hints about the larger threat, without resolving the mystery too quickly.
+  Target Note: DM Prep
+  Target Section: Preparing Main Beats
+  Idea: Prep the main beats of the first act clearly enough that players have direction and the DM can recover smoothly when play goes off track, while still setting up the second act.
   Support: High
-  Source Basis: The highlights describe a “Trail of Trials” that tests the party, raises the stakes with each encounter, and seeds hints of the BBEG while preserving mystery.
+  Source Basis: The final highlight says that when the main beats are plotted, the players have direction, the DM can guide things back on track, and the second act is set up.
   Source References:
-  [[How to Plot THE FIRST ACT of a D&D Campaign#^976748749]]
-  [[How to Plot THE FIRST ACT of a D&D Campaign#^976749170]]
+  [[How to Plot THE FIRST ACT of a D&D Campaign#^976752987]]
   Update Intent: Add
-  Suggested Update Summary: Add guidance for structuring early adventure beats as escalating trials that both challenge players and foreshadow the wider conflict.
-  ---
-  Target Note: Adventure Design
-  Target Section: Pacing Between Major Beats
-  Idea: Use lighter interludes between major plot points to reduce tension and give room for world interaction before the next escalation.
-  Support: High
-  Source Basis: The material explicitly recommends lighthearted episodes such as festivals, holidays, or shopping between bigger plot developments.
-  Source References:
-  [[How to Plot THE FIRST ACT of a D&D Campaign#^976752241]]
-  Update Intent: Add
-  Suggested Update Summary: Add a pacing note on placing low-pressure interludes between heavier story beats.
+  Suggested Update Summary: Add a prep note about plotting core first-act beats to maintain direction without locking the campaign into rigid outcomes.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
