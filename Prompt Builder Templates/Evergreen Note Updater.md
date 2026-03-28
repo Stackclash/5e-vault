@@ -43,6 +43,18 @@ Important constraints:
 - Only suggest a new subsection if the existing structure truly does not have a good place for the new material.
 - Keep the writing concise, practical, and consistent with the note’s role as a broad DM doctrine note.
 
+Source reference requirements:
+- Every factual addition or revision in Proposed Text must include one or more Obsidian footnote references.
+- Use inline footnote markers like `[^1]`, `[^2]`, etc.
+- After all proposed updates, include a `## Footnotes` section containing the footnote definitions.
+- Each footnote definition must use this exact format:
+  `[^1]: [[<wikilink to source>#^<blocklink to highlight in source>]]`
+- Number footnotes sequentially in the order they first appear across the entire response.
+- If multiple statements in the same paragraph come from the same source highlight, you may reuse the same footnote.
+- If a statement is supported by multiple source highlights, you may include multiple footnotes inline.
+- Do not invent source links or block IDs. Use only the exact source wikilinks and highlight block links provided in the update candidates or source material.
+- If a candidate does not include a usable source wikilink and block reference, do not cite it with a fabricated footnote. Instead, mention that the source reference is incomplete in the Reason or Duplication Check section.
+
 You may:
 - rephrase candidate ideas into cleaner evergreen-note wording
 - merge similar candidates together
@@ -74,13 +86,13 @@ Return your response in the following format:
 ### [Target Section Name]
 - Update Type: [Add / Revise / Merge]
 - Proposed Text:
-[write the exact text to add, or the exact revised version of the text that should replace/reshape existing content]
+[write the exact text to add, or the exact revised version of the text that should replace/reshape existing content; include inline Obsidian footnote references like `[^1]`]
 
 - Reason:
 [brief explanation of why this update belongs in this section and how it uses the candidate material]
 
 - Source References:
-[source note name, heading, block reference, or other source link if available]
+[list the relevant source wikilinks and block references used for this update]
 
 (repeat only as needed)
 
@@ -92,8 +104,14 @@ Return your response in the following format:
 - [Optional: suggest a new subsection name only if necessary.]
 - [If no structural change is needed, write: "No structural changes needed."]
 
+## Footnotes
+[^1]: [[<wikilink to source>#^<blocklink to highlight in source>]]
+[^2]: [[<wikilink to source>#^<blocklink to highlight in source>]]
+
 Additional rules for output:
 - Keep updates targeted rather than rewriting large portions of the note.
 - Prefer integrating ideas into existing sections over creating new sections.
 - If several candidates belong together, combine them into one coherent proposed update.
 - Proposed Text should be ready to paste into the evergreen note with minimal editing.
+- Every statement in Proposed Text that comes from the source material must be traceable through footnotes.
+- Do not place footnotes inside the Reason section unless necessary; prioritize putting them in Proposed Text.
