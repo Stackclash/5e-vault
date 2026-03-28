@@ -1,32 +1,11 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: Prompt Builder Templates/Evergreen Note Updater.md
+selected_prompt_path: Prompt Builder Templates/DM Knowledge Summarizer.md
 template_definitions:
   name:
     label: Name
     type: text
-current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot THE FIRST ACT of a D&D Campaign.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Villains and Antagonists.md
-update_candidates_for_note_value: |-
-  Target Note: DM Prep
-  Target Section: Session One Structure
-  Idea: Consider ending session one with the inciting incident as a strong “mic drop” moment to create momentum for the next session.
-  Support: High
-  Source Basis: One highlight explicitly recommends holding the inciting incident for the end of session one so the first game ends on a bang and builds excitement.
-  Source References:
-  [[How to Plot THE FIRST ACT of a D&D Campaign#^976748567]]
-  Update Intent: Add
-  Suggested Update Summary: Add a session-one pacing note about saving the major turn into the story for the end of the first session.
-  ---
-  Target Note: DM Prep
-  Target Section: Preparing Main Beats
-  Idea: Prep the main beats of the first act clearly enough that players have direction and the DM can recover smoothly when play goes off track, while still setting up the second act.
-  Support: High
-  Source Basis: The final highlight says that when the main beats are plotted, the players have direction, the DM can guide things back on track, and the second act is set up.
-  Source References:
-  [[How to Plot THE FIRST ACT of a D&D Campaign#^976752987]]
-  Update Intent: Add
-  Suggested Update Summary: Add a prep note about plotting core first-act beats to maintain direction without locking the campaign into rigid outcomes.
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot ACT 2 of Your D&D Campaign Game Master Tips and Tricks.md
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {

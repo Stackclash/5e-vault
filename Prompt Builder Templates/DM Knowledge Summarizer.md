@@ -37,8 +37,8 @@ Important constraints:
 - If the source contains only a small amount of useful information, return only a small amount of output.
 - Only include ideas with High or Medium support from the provided material.
 - Exclude any idea that is only weakly implied.
-- You must map ideas only to the approved evergreen topic notes listed below.
-- Do not propose, invent, rename, or recommend new evergreen topic notes.
+- You must try to map ideas only to the approved evergreen topic notes listed below.
+- Only propose new evergreen topic notes if the informaation doesn't fit in an existing evergreen topic and the information is unique and useful enough to warrant saving
 - If an idea is too narrow to stand alone, place it under the closest existing evergreen note and suggest a subsection or section name.
 
 Source reference requirements:
