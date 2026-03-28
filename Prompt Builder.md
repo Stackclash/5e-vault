@@ -6,28 +6,38 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot THE FIRST ACT of a D&D Campaign.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Adventure Design.md
 update_candidates_for_note_value: |-
-  Target Note: Campaign Structure
-  Target Section: Player Buy-In and Commitment
-  Idea: By the end of the introduction, players should feel anchored in the world with personal motivations that align with the unfolding story.
+  Target Note: Adventure Design
+  Target Section: Inciting Incident
+  Idea: The opening should be built around a clearly defined inciting incident that explains why this moment matters and why the players should care now.
   Support: High
-  Source Basis: One highlight explicitly states that the introduction should establish the players as the central characters and leave them anchored in the world with aligned motivations.
+  Source Basis: The material explicitly frames the inciting incident as the event that makes the story begin and says the DM should determine why this point in time is significant.
   Source References:
-  [[How to Plot THE FIRST ACT of a D&D Campaign#^976752418]]
+  [[How to Plot THE FIRST ACT of a D&D Campaign#^976748492]]
   Update Intent: Add
-  Suggested Update Summary: Add a first-act benchmark describing the desired end state of the intro phase: grounded characters with reasons to pursue the campaign.
+  Suggested Update Summary: Add a note that first-act adventure design should identify the specific event that starts the story and gives the party a reason to engage.
   ---
-  Target Note: Campaign Structure
-  Target Section: Integrating Character Backstories
-  Idea: Character backstories should be woven into the early narrative so the campaign becomes personally meaningful instead of feeling detached from the party.
+  Target Note: Adventure Design
+  Target Section: Escalation and Clue Placement
+  Idea: Early trials should escalate danger and skill tests while dropping small hints about the larger threat, without resolving the mystery too quickly.
   Support: High
-  Source Basis: The highlights directly say PC backstories should be part of the narrative and later recommend tying major reveals and the point of no return back into those backstories.
+  Source Basis: The highlights describe a “Trail of Trials” that tests the party, raises the stakes with each encounter, and seeds hints of the BBEG while preserving mystery.
   Source References:
-  [[How to Plot THE FIRST ACT of a D&D Campaign#^976749499]]
-  [[How to Plot THE FIRST ACT of a D&D Campaign#^976752123]]
+  [[How to Plot THE FIRST ACT of a D&D Campaign#^976748749]]
+  [[How to Plot THE FIRST ACT of a D&D Campaign#^976749170]]
   Update Intent: Add
-  Suggested Update Summary: Add a note that first-act structure should pull character backstory threads into the central conflict to personalize commitment.
+  Suggested Update Summary: Add guidance for structuring early adventure beats as escalating trials that both challenge players and foreshadow the wider conflict.
+  ---
+  Target Note: Adventure Design
+  Target Section: Pacing Between Major Beats
+  Idea: Use lighter interludes between major plot points to reduce tension and give room for world interaction before the next escalation.
+  Support: High
+  Source Basis: The material explicitly recommends lighthearted episodes such as festivals, holidays, or shopping between bigger plot developments.
+  Source References:
+  [[How to Plot THE FIRST ACT of a D&D Campaign#^976752241]]
+  Update Intent: Add
+  Suggested Update Summary: Add a pacing note on placing low-pressure interludes between heavier story beats.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
