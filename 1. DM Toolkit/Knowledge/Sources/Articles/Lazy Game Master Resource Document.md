@@ -3,6 +3,7 @@ id: 42031715
 created: 2024-07-04
 updated: 2024-07-05
 title: Lazy Game Master Resource Document
+processed: false
 author:
   - SlyFlourish
 uri: https://readwise.io/bookreview/42031715

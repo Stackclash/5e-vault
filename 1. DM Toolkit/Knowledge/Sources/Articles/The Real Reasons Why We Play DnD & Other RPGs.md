@@ -3,6 +3,7 @@ id: 57676110
 created: 2026-01-18
 updated: 2026-01-18
 title: The Real Reasons Why We Play DnD & Other RPGs
+processed: false
 author:
   - How to be a Great GM
 uri: https://readwise.io/bookreview/57676110

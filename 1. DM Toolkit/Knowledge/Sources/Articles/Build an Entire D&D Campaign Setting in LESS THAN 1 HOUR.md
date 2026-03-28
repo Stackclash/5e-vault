@@ -3,6 +3,7 @@ id: 57632352
 created: 2026-01-16
 updated: 2026-01-16
 title: Build an Entire D&D Campaign Setting in LESS THAN 1 HOUR
+processed: false
 author:
   - The Fantasy Forge
 uri: https://readwise.io/bookreview/57632352

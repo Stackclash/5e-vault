@@ -3,7 +3,7 @@ fields:
   current_note:
     type: suggester
     label: Note to Summarize
-    query: '@page and path("1. DM Toolkit/Knowledge/Sources")'
+    query: '@page and path("1. DM Toolkit/Knowledge/Sources") and !processed'
     required: true
 context:
   evergreen_notes:

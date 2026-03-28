@@ -3,6 +3,7 @@ id: 39765184
 created: 2024-04-19
 updated: 2024-04-19
 title: How Long Should An Adventure Be?
+processed: false
 author:
   - Matthew Colville
 uri: https://readwise.io/bookreview/39765184

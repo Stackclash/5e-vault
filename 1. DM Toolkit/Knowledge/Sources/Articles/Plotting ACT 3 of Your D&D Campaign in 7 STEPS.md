@@ -3,6 +3,7 @@ id: 57527923
 created: 2026-01-12
 updated: 2026-01-12
 title: Plotting ACT 3 of Your D&D Campaign in 7 STEPS
+processed: true
 author:
   - The Fantasy Forge
 uri: https://readwise.io/bookreview/57527923

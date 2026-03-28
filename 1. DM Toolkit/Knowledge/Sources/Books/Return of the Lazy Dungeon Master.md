@@ -3,6 +3,7 @@ id: 25960869
 created: 2023-10-25
 updated: 2023-10-25
 title: Return of the Lazy Dungeon Master
+processed: false
 author:
   - Michael Shea
 uri: https://readwise.io/bookreview/25960869

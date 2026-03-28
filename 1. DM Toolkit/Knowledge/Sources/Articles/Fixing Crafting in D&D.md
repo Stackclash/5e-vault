@@ -3,6 +3,7 @@ id: 42899646
 created: 2024-08-04
 updated: 2025-04-05
 title: Fixing Crafting in D&D
+processed: false
 author:
   - DnD Shorts
 uri: https://readwise.io/bookreview/42899646
