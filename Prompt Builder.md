@@ -1,11 +1,55 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: Prompt Builder Templates/DM Knowledge Summarizer.md
+selected_prompt_path: Prompt Builder Templates/Evergreen Note Updater.md
 template_definitions:
   name:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot ACT 2 of Your D&D Campaign Game Master Tips and Tricks.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
+update_candidates_for_note_value: |-
+  Target Note: Campaign Structure
+  Target Section: Act Two Escalation
+  Idea: Act Two should deepen conflict by making it more personal through subplots, moral dilemmas, and challenges that test character beliefs and motivations.
+  Support: High
+  Source Basis: The highlights directly say Act Two should deepen conflict, introduce complex subplots, and test beliefs and motivations so players care more personally about the story and world.
+  Source References:
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976753689]]
+  Update Intent: Add
+  Suggested Update Summary: Add guidance that Act Two should shift from simple progression into personally meaningful conflict tied to character beliefs and motivations.
+  ---
+  Target Note: Campaign Structure
+  Target Section: Midpoint Reversal
+  Idea: The midpoint of Act Two should feel like a major reversal that changes the tone of the campaign’s second half.
+  Support: High
+  Source Basis: The highlights describe the road to the midpoint as a false hope moment and say the midpoint should be a complete 180 that sets the tone for the rest of the story.
+  Source References:
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976781567]]
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976781783]]
+  Update Intent: Add
+  Suggested Update Summary: Add a note that the midpoint should not be minor; it should sharply reframe the campaign and establish the tone of the back half.
+  ---
+  Target Note: Campaign Structure
+  Target Section: Ordeal, Recovery, and Regrouping
+  Idea: After a major loss or ordeal, Act Two should include a recovery phase with a smaller win that rebuilds confidence and lets the party regroup.
+  Support: High
+  Source Basis: The highlights explicitly describe an ordeal followed by a recovery phase that should feel less punishing, includes mission success, and helps rebuild party confidence after a real loss.
+  Source References:
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976781695]]
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976781823]]
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976781933]]
+  Update Intent: Add
+  Suggested Update Summary: Add a pattern for following a major setback with a recovery beat that gives the party a win, time to regroup, and restored momentum.
+  ---
+  Target Note: Campaign Structure
+  Target Section: Act Two as Final Boss Setup
+  Idea: By the end of Act Two, the party should be regrouping, beginning to form a plan, and holding enough hope and tools to commit to the climactic confrontation.
+  Support: High
+  Source Basis: The final highlight directly states that Act Two is about setting up the final boss and that the party should be regrouping, rethinking, building a plan, and holding onto hope and tools.
+  Source References:
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976782129]]
+  Update Intent: Add
+  Suggested Update Summary: Add an end-of-Act-Two checkpoint: the party should emerge with a plan forming, renewed hope, and resources for the final push.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
