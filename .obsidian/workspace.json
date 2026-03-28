@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/Knowledge/Info/Campaign Structure.md",
+                "file": "1. DM Toolkit/Knowledge/Info/Rewards and Progression.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Structure"
+              "title": "Rewards and Progression"
             }
           }
         ]
@@ -301,9 +301,10 @@
   },
   "active": "6897624284990b0a",
   "lastOpenFiles": [
+    "1. DM Toolkit/Knowledge/Info/Rewards and Progression.md",
     "1. DM Toolkit/Knowledge/Info/Campaign Structure.md",
-    "1. DM Toolkit/Configuration.md",
     "Prompt Builder.md",
+    "1. DM Toolkit/Configuration.md",
     "Prompt Builder Templates/DM Knowledge Summarizer.md",
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
     "1. DM Toolkit/Knowledge/Sources/Articles/How to Run D&D at High Levels- Adjusting Story & Power.md",
@@ -331,7 +332,6 @@
     "1. DM Toolkit/Knowledge/Sources/Books",
     "1. DM Toolkit/Knowledge/Books/Books.md",
     "1. DM Toolkit/Knowledge/Info/Combat Encounters.md",
-    "1. DM Toolkit/Knowledge/Sync.md",
     "1. DM Toolkit/Knowledge/Tweets",
     "1. DM Toolkit/Knowledge/Podcasts",
     "1. DM Toolkit/Knowledge/Articles",

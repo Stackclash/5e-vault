@@ -5,20 +5,41 @@ template_definitions:
   name:
     label: Name
     type: text
-current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot ACT 2 of Your D&D Campaign Game Master Tips and Tricks.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Rewards and Progression.md
-update_candidates_for_note_value: |-
-  Target Note: Rewards and Progression
-  Target Section: Hope-Giving Rewards
-  Idea: The reward phase of Act Two should provide hope and practical help such as knowledge, tools, allies, or a boon that supports the final confrontation.
-  Support: Medium
-  Source Basis: The document note explicitly frames the reward as knowledge, artifact, ally, or boon after setback, and the highlights say the reward should pair a world-shattering moment with hope and give the party tools and a plan for the final boss.
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Plotting ACT 3 of Your D&D Campaign in 7 STEPS.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
+update_candidates_for_note_value: |
+  Target Note: Campaign Structure
+  Target Section: Act 3 / Road Back and Regrouping
+  Idea: After a major setback, Act 3 can begin with the party choosing to return despite fear and defeat, optionally supported by downtime or a time jump so they can regroup before the final push.
+  Support: High
+  Source Basis: The highlights explicitly frame the start of Act 3 as the party being beaten and afraid, then deciding to take the road back, with downtime or a time jump suggested to let them regroup and breathe.
   Source References:
-  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976781965]]
-  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976781995]]
-  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976782129]]
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783237]]
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783262]]
   Update Intent: Add
-  Suggested Update Summary: Add a note that mid-campaign rewards should restore hope and grant concrete means to prepare for the climax.
+  Suggested Update Summary: Add an Act 3 opening pattern built around regrouping after defeat before the final advance.
+  ---
+  Target Note: Campaign Structure
+  Target Section: Turning Points and Commitment
+  Idea: A rescue or outside intervention can function as the moment that restores the party’s chance of success and shifts them from doubt into commitment.
+  Support: High
+  Source Basis: The highlights describe a “rescue from without,” note that an ally can even the playing field, and explicitly frame this as the moment the party moves from “I don’t think we can do this” to “we have to do this now.”
+  Source References:
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784048]]
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784122]]
+  Update Intent: Add
+  Suggested Update Summary: Add a note on rescue or allied intervention as an Act 3 turning point that renews momentum and commitment.
+  ---
+  Target Note: Campaign Structure
+  Target Section: Final Threshold
+  Idea: Include a distinct “final threshold” moment where the party stops treating the crisis as something that must be addressed and instead accepts that they are the ones who must act.
+  Support: High
+  Source Basis: The highlight explicitly contrasts earlier motivation with the Act 3 moment when the party decides they are the only ones who can do something, naming this the crossing of the final threshold.
+  Source References:
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784201]]
+  Update Intent: Add
+  Suggested Update Summary: Add the final-threshold beat as the commitment point that locks the party into the climax.
+  ---
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
