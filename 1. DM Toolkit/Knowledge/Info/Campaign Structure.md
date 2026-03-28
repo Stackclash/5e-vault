@@ -22,6 +22,9 @@ By the end of Act Two, the party should be regrouping, rethinking their situatio
 # Act Three Road Back and Regrouping
 Act Three can begin with the party returning to the conflict from a place of fear, defeat, or exhaustion, choosing to take the road back even after the story has reached one of its darkest points.[^11] A short period of downtime or a time jump can help this transition by giving the party space to regroup, breathe, and prepare for the final push.[^12]
 
+# Time Pressure and Rest Denial
+Mechanical pressure becomes more meaningful when it is paired with story pressure that keeps events moving forward.[^18] When the party is racing an advancing timeline, a long rest can become impractical not because it is forbidden, but because waiting carries consequences.[^18] Used this way, urgency helps make rest decisions matter and pushes the party to manage resources more carefully.[^18]
+
 # Final Threshold
 A rescue, allied intervention, or other outside aid can serve as the turning point that restores the party’s real chance of success and shifts them from doubt into commitment.[^13][^14] From there, the campaign can include a distinct final-threshold moment where the party stops thinking only in terms of needing to respond and instead accepts that they are the ones who must act.[^15]
 
@@ -45,3 +48,4 @@ After the climax, the campaign should leave room for celebration, reflection, gr
 [^15]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784201]]
 [^16]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976785719]]
 [^17]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976785983]]
+[^18]: [[Your Players Aren't Overpowered...you Just Need THIS#^991840909]]

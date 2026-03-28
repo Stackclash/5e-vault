@@ -5,18 +5,8 @@ template_definitions:
   name:
     label: Name
     type: text
-current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Your Players Aren't Overpowered...you Just Need THIS.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
-update_candidates_for_note_value: |-
-  Target Note: Campaign Structure
-  Target Section: Time Pressure and Rest Denial
-  Idea: Combining mechanical pressure with story pressure can limit easy resting and force players to make smarter decisions with their resources.
-  Support: High
-  Source Basis: The source gives the example of a ritual that must be stopped before dawn, making a long rest impractical because events continue moving forward.
-  Source References:
-  [[Your Players Aren't Overpowered...you Just Need THIS#^991840909]]
-  Update Intent: Add
-  Suggested Update Summary: Add guidance on using advancing timelines and urgent stakes so rest decisions become meaningful and resource use matters.
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Run D&D at High Levels- Adjusting Story & Power.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Combat Encounters.md
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {

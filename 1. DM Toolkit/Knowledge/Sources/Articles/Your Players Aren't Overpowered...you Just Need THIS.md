@@ -3,7 +3,7 @@ id: 58597793
 created: 2026-02-26
 updated: 2026-02-26
 title: Your Players Aren't Overpowered...you Just Need THIS
-processed: false
+processed: true
 author:
   - The Fantasy Forge
 uri: https://readwise.io/bookreview/58597793
