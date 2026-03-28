@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Toolkit/Knowledge/Info/Campaign Structure.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -301,10 +301,10 @@
   },
   "active": "6897624284990b0a",
   "lastOpenFiles": [
-    "1. DM Toolkit/Knowledge/Info/Campaign Structure.md",
-    "1. DM Toolkit/Configuration.md",
-    "Prompt Builder.md",
     "Prompt Builder Templates/DM Knowledge Summarizer.md",
+    "1. DM Toolkit/Knowledge/Info/Campaign Structure.md",
+    "Prompt Builder.md",
+    "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
     "1. DM Toolkit/Knowledge/Sources/Articles/How to Run D&D at High Levels- Adjusting Story & Power.md",
     "1. DM Toolkit/Knowledge/Sources/Articles/Your Players Aren't Overpowered...you Just Need THIS.md",

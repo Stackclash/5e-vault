@@ -1,11 +1,33 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: Prompt Builder Templates/DM Knowledge Summarizer.md
+selected_prompt_path: Prompt Builder Templates/Evergreen Note Updater.md
 template_definitions:
   name:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot THE FIRST ACT of a D&D Campaign.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
+update_candidates_for_note_value: |-
+  Target Note: Campaign Structure
+  Target Section: Player Buy-In and Commitment
+  Idea: By the end of the introduction, players should feel anchored in the world with personal motivations that align with the unfolding story.
+  Support: High
+  Source Basis: One highlight explicitly states that the introduction should establish the players as the central characters and leave them anchored in the world with aligned motivations.
+  Source References:
+  [[How to Plot THE FIRST ACT of a D&D Campaign#^976752418]]
+  Update Intent: Add
+  Suggested Update Summary: Add a first-act benchmark describing the desired end state of the intro phase: grounded characters with reasons to pursue the campaign.
+  ---
+  Target Note: Campaign Structure
+  Target Section: Integrating Character Backstories
+  Idea: Character backstories should be woven into the early narrative so the campaign becomes personally meaningful instead of feeling detached from the party.
+  Support: High
+  Source Basis: The highlights directly say PC backstories should be part of the narrative and later recommend tying major reveals and the point of no return back into those backstories.
+  Source References:
+  [[How to Plot THE FIRST ACT of a D&D Campaign#^976749499]]
+  [[How to Plot THE FIRST ACT of a D&D Campaign#^976752123]]
+  Update Intent: Add
+  Suggested Update Summary: Add a note that first-act structure should pull character backstory threads into the central conflict to personalize commitment.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
