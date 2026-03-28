@@ -14,6 +14,10 @@ fields:
     type: textarea
     label: Candidates for updates
 context:
+  target_note_name:
+    type: derived
+    source: current_evernote
+    transform: note_title
   current_evergreen_note:
     type: note_content
     source: current_evernote

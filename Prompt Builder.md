@@ -6,6 +6,43 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot THE FIRST ACT of a D&D Campaign.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
+update_candidates_for_note_value: |-
+  Target Note: Campaign Structure
+  Target Section: Inciting Incident
+  Idea: Define why the campaign begins at this specific moment by identifying a clear inciting incident and making sure the players have a reason to care about it.
+  Support: High
+  Source Basis: The material directly says to decide why this moment matters, what makes it special, and what event truly begins the story.
+  Source References: How to Plot THE FIRST ACT of a D&D Campaign; document note; highlight ^976748492
+  Update Intent: Add
+  Suggested Update Summary: Add a section on framing the campaign’s opening around a specific moment that matters and clearly starts the story.
+  ---
+  Target Note: Campaign Structure
+  Target Section: Session One Ending
+  Idea: Consider ending session one with the inciting incident as a strong turning point that excites players and locks in the campaign’s momentum.
+  Support: High
+  Source Basis: The source directly recommends saving the inciting incident as the “big mic drop” at the end of session one.
+  Source References: How to Plot THE FIRST ACT of a D&D Campaign; highlight ^976748567
+  Update Intent: Add
+  Suggested Update Summary: Add a note that session one can end on the inciting incident to create momentum and anticipation for the next phase.
+  ---
+  Target Note: Campaign Structure
+  Target Section: Pacing Between Major Beats
+  Idea: Between major plot beats, include lighter episodes that lower tension before the next escalation.
+  Support: High
+  Source Basis: The highlights explicitly recommend lighthearted episodes such as festivals, holidays, or shopping between larger plot points.
+  Source References: How to Plot THE FIRST ACT of a D&D Campaign; highlight ^976752241
+  Update Intent: Add
+  Suggested Update Summary: Add a pacing note on using lighter interludes between major story beats to release tension before the next escalation.
+  ---
+  Target Note: Campaign Structure
+  Target Section: First Act to Second Act Transition
+  Idea: The first act should not only introduce the campaign, but also leave the party anchored in the story and positioned for the second act.
+  Support: High
+  Source Basis: The material says the introduction should anchor players in the world with aligned motivations, and that the main beats of the opening should set the stage for the second act.
+  Source References: How to Plot THE FIRST ACT of a D&D Campaign; document note; highlights ^976752418, ^976752987
+  Update Intent: Add
+  Suggested Update Summary: Add guidance that the first act should end with clear player investment and a handoff into the campaign’s next phase.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
