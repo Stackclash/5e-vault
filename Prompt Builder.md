@@ -8,6 +8,15 @@ template_definitions:
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Fixing Crafting in D&D.md
 ---
 ```datacorejsx
+function truncateText(text, maxChars) {
+  if (!maxChars || text.length <= maxChars) return text
+  return text.slice(0, maxChars).trim() + "\n...[truncated]"
+}
+
+function stripMarkdownFrontmatter(text) {
+  return String(text || "").replace(/^---[\s\S]*?---/, "").trim()
+}
+
 function normalizeToken(token) {
   return String(token || "").replaceAll(" ", "_").trim()
 }
@@ -339,6 +348,44 @@ function FieldRenderer({ token, def, getStoredValue, setValue, dc }) {
   return <TextField token={token} def={def} getStoredValue={getStoredValue} setValue={setValue} />
 }
 
+function NoteContentContextResolver({ def, getStoredValue, dc, children }) {
+  const sourceToken = normalizeToken(def.source || "")
+  const sourceField = `${sourceToken}_value`
+  const sourcePath = getStoredValue(sourceField)
+
+  const [content, setContent] = dc.useState("")
+
+  dc.useEffect(() => {
+    if (!sourcePath || typeof sourcePath !== "string") {
+      setContent("")
+      return
+    }
+
+    const file = app.vault.getAbstractFileByPath(sourcePath)
+
+    if (!file) {
+      setContent("")
+      return
+    }
+
+    app.vault.cachedRead(file).then(text => {
+      let output = text
+
+      if (def.strip_frontmatter !== false) {
+        output = stripMarkdownFrontmatter(output)
+      }
+
+      if (def.max_chars) {
+        output = truncateText(output, def.max_chars)
+      }
+
+      setContent(output)
+    })
+  }, [sourcePath, def.strip_frontmatter, def.max_chars])
+
+  return children(content)
+}
+
 function StaticContextResolver({ def, children }) {
   return children(def.value ?? "")
 }
@@ -387,6 +434,10 @@ function ContextValueResolver({ def, getStoredValue, dc, children }) {
 
   if (def.type === "note_field") {
     return <NoteFieldContextResolver def={def} getStoredValue={getStoredValue} dc={dc} children={children} />
+  }
+
+  if (def.type === "note_content") {
+    return <NoteContentContextResolver def={def} getStoredValue={getStoredValue} dc={dc} children={children} />
   }
 
   if (def.type === "datacore_query") {
