@@ -7,7 +7,7 @@ template_definitions:
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Plotting ACT 3 of Your D&D Campaign in 7 STEPS.md
 current_evernote_value: 1. DM Toolkit/Knowledge/Info/Adventure Design.md
-update_candidates_for_note_value: |
+update_candidates_for_note_value: |-
   Target Note: Adventure Design
   Target Section: Escalation Before the Climax
   Idea: Place a sequence of increasingly difficult challenges between the party’s regrouping and the climax, and make each challenge serve the larger story rather than functioning as filler.
@@ -19,6 +19,15 @@ update_candidates_for_note_value: |
   Update Intent: Add
   Suggested Update Summary: Add guidance for Act 3 escalation through multiple story-relevant challenges before the climax.
   ---
+  Target Note: Adventure Design
+  Target Section: Final Approach Obstacles
+  Idea: Put the last hurdles on the literal path to the climax, and use a mix of enemy forces, physical barriers, or moral dilemmas that force hard choices and reinforce the bigger picture.
+  Support: High
+  Source Basis: The source lists officers, armies, beasts, mountains, outposts, and moral dilemmas as final challenges, and says they should act as the last hurdle while the party is moving toward the climax.
+  Source References:
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784623]]
+  Update Intent: Add
+  Suggested Update Summary: Add a section on final approach obstacles that pressure commitment before the climax.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
