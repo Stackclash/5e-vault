@@ -6,28 +6,17 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Plotting ACT 3 of Your D&D Campaign in 7 STEPS.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Adventure Design.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Villains and Antagonists.md
 update_candidates_for_note_value: |-
-  Target Note: Adventure Design
-  Target Section: Escalation Before the Climax
-  Idea: Place a sequence of increasingly difficult challenges between the party’s regrouping and the climax, and make each challenge serve the larger story rather than functioning as filler.
+  Target Note: Villains and Antagonists
+  Target Section: Turning the Tide in the Finale
+  Idea: A climactic turning point can be driven by earlier player setup, sacrifice, a successful plan or trap, or divine intervention, and should visibly shift the villain from dominance into fear, anger, or disbelief.
   Support: High
-  Source Basis: The material directly says there should be a series of increasingly difficult challenges between the road back and the next step, and that each should serve the greater story.
+  Source Basis: The highlight directly lists these possible turning points and describes the villain’s emotional reversal as the sign that the tide has changed.
   Source References:
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783721]]
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783861]]
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976785617]]
   Update Intent: Add
-  Suggested Update Summary: Add guidance for Act 3 escalation through multiple story-relevant challenges before the climax.
-  ---
-  Target Note: Adventure Design
-  Target Section: Final Approach Obstacles
-  Idea: Put the last hurdles on the literal path to the climax, and use a mix of enemy forces, physical barriers, or moral dilemmas that force hard choices and reinforce the bigger picture.
-  Support: High
-  Source Basis: The source lists officers, armies, beasts, mountains, outposts, and moral dilemmas as final challenges, and says they should act as the last hurdle while the party is moving toward the climax.
-  Source References:
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784623]]
-  Update Intent: Add
-  Suggested Update Summary: Add a section on final approach obstacles that pressure commitment before the climax.
+  Suggested Update Summary: Add a finale turning-point note centered on visible reversal of villain momentum.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
