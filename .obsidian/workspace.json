@@ -49,8 +49,7 @@
               "title": "Campaign Structure"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,10 +299,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "94d0ba0f18f6917d",
+  "active": "6897624284990b0a",
   "lastOpenFiles": [
-    "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Knowledge/Info/Campaign Structure.md",
+    "1. DM Toolkit/Configuration.md",
     "Prompt Builder.md",
     "Prompt Builder Templates/DM Knowledge Summarizer.md",
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
