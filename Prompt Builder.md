@@ -6,37 +6,18 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Plotting ACT 3 of Your D&D Campaign in 7 STEPS.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/DM Prep.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Combat Encounters.md
 update_candidates_for_note_value: |-
-  Target Note: DM Prep
-  Target Section: Planning the Final Assault
-  Idea: Build in a real planning phase before the final assault so players can strategize with the knowledge, allies, and resources they have accumulated and feel in control of their fate.
+  Target Note: Combat Encounters
+  Target Section: Designing the Final Battle
+  Idea: The final battle should pay off the campaign by incorporating allied support, the party’s chosen strategies, and moments that highlight character growth and individual strengths.
   Support: High
-  Source Basis: The source explicitly says to let the party plan, describes the planning phase as critical, and ties it to player agency and use of accumulated resources.
+  Source Basis: The material says the climax should feel epic in scale, involve allies and the strategies the party devised, and include moments that spotlight each character’s strengths or teamwork.
   Source References:
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784478]]
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784740]]
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976785238]]
   Update Intent: Add
-  Suggested Update Summary: Add a prep principle to deliberately make room for player planning before the finale.
-  ---
-  Target Note: DM Prep
-  Target Section: Preparing for Branching Finales
-  Idea: For the final sequence, prepare for multiple likely approaches and know how each route can still converge on the main climax.
-  Support: High
-  Source Basis: The highlight directly says to have a plan for each direction the party might go and figure out a way to bring it back to the main final point.
-  Source References:
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784527]]
-  Update Intent: Add
-  Suggested Update Summary: Add branching-finale prep guidance so multiple approaches can still resolve at the central confrontation.
-  ---
-  Target Note: DM Prep
-  Target Section: Preparing for Branching Finales
-  Idea: For the final sequence, prepare for multiple likely approaches and know how each route can still converge on the main climax.
-  Support: High
-  Source Basis: The highlight directly says to have a plan for each direction the party might go and figure out a way to bring it back to the main final point.
-  Source References:
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784527]]
-  Update Intent: Add
-  Suggested Update Summary: Add branching-finale prep guidance so multiple approaches can still resolve at the central confrontation.
+  Suggested Update Summary: Add final-battle design guidance focused on allies, payoff of player strategy, and character spotlight moments.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
