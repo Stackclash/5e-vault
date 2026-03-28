@@ -6,17 +6,19 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot ACT 2 of Your D&D Campaign Game Master Tips and Tricks.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/DM Prep.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Rewards and Progression.md
 update_candidates_for_note_value: |-
-  Target Note: DM Prep
-  Target Section: Calibrating Stakes with the Group
-  Idea: Before pushing Act Two into heavier stakes, decide with the group how intense and involved they want the story to be.
-  Support: High
-  Source Basis: One highlight explicitly says the DM should determine with the party how high-stakes and stressful they want the story to become.
+  Target Note: Rewards and Progression
+  Target Section: Hope-Giving Rewards
+  Idea: The reward phase of Act Two should provide hope and practical help such as knowledge, tools, allies, or a boon that supports the final confrontation.
+  Support: Medium
+  Source Basis: The document note explicitly frames the reward as knowledge, artifact, ally, or boon after setback, and the highlights say the reward should pair a world-shattering moment with hope and give the party tools and a plan for the final boss.
   Source References:
-  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976761675]]
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976781965]]
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976781995]]
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976782129]]
   Update Intent: Add
-  Suggested Update Summary: Add a reminder to align on desired story intensity before escalating Act Two pressure.
+  Suggested Update Summary: Add a note that mid-campaign rewards should restore hope and grant concrete means to prepare for the climax.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
