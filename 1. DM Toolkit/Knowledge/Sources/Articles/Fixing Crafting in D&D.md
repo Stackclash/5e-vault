@@ -9,12 +9,6 @@ uri: https://readwise.io/bookreview/42899646
 ---
 
 
-
-%%
-ID: 42899646
-Updated: 2025-04-05
-%%
-
 ![]( https://i.ytimg.com/vi/H1tr7SVRIJo/maxresdefault.jpg)
 
 # About

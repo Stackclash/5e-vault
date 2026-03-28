@@ -9,12 +9,6 @@ uri: https://readwise.io/bookreview/57527923
 ---
 
 
-
-%%
-ID: 57527923
-Updated: 2026-01-12
-%%
-
 ![]( https://i.ytimg.com/vi/fpOyc8KHClY/maxresdefault.jpg)
 
 # About

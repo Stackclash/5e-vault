@@ -9,12 +9,6 @@ uri: https://readwise.io/bookreview/57632352
 ---
 
 
-
-%%
-ID: 57632352
-Updated: 2026-01-16
-%%
-
 ![]( https://i.ytimg.com/vi/GJMaOLlU9gI/maxresdefault.jpg)
 
 # About

@@ -9,12 +9,6 @@ uri: https://readwise.io/bookreview/25960869
 ---
 
 
-
-%%
-ID: 25960869
-Updated: 2023-10-25
-%%
-
 ![]( https://images-na.ssl-images-amazon.com/images/I/51rAphSjRWL._SL5000_.jpg)
 
 # About
