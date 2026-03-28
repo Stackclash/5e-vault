@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "0fe8891ed78283bf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
             "id": "42b8fe85d87447c0",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "DM Knowledge Summarizer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,11 +285,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0fe8891ed78283bf",
+  "active": "6897624284990b0a",
   "lastOpenFiles": [
+    "1. DM Toolkit/Knowledge/Info/Villains and Antagonists.md",
+    "1. DM Toolkit/Knowledge/Info/NPCs.md",
+    "1. DM Toolkit/Knowledge/Info/World Building.md",
+    "Prompt Builder Templates/DM Knowledge Summarizer.md",
     "Untitled.md",
     "Prompt Builder.md",
-    "Prompt Builder Templates/DM Knowledge Summarizer.md",
     "4. World Almanac/Settlements/Vallaki.md",
     "1. DM Toolkit/Knowledge/Info/Exploration.md",
     "1. DM Toolkit/Knowledge/Info/Social Encounters.md",
@@ -324,9 +314,6 @@
     "5. Mechanics/Bestiary/Humanoid/Evoker Wizard (MPMM).md",
     "1. DM Toolkit/DM Screen.md",
     "5. Mechanics/Spells/Command.md",
-    "5. Mechanics/Spells/Hypnotic Pattern.md",
-    "5. Mechanics/Spells/Color Spray.md",
-    "5. Mechanics/Spells/Dispel Magic.md",
     "6. Resources/Resources/The Well-Kempt Library_ A Collection of Spellbooks/304524-Well-kempt_Library_print_friendly.pdf",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "z_Scripts/Meta Bind/generateShopInventory.js",

@@ -92,7 +92,7 @@ function formatQueryResults(results, format, field) {
       return results
         .map(r => {
           const fieldValue = getFieldValue(r, field)
-          return fieldValue ? `- ${r.$name} — ${fieldValue}` : `- ${r.$name}`
+          return fieldValue ? `- ${r.$name}: ${fieldValue}` : `- ${r.$name}`
         })
         .join("\n")
 
@@ -433,7 +433,6 @@ function NoteFieldContextResolver({ def, getStoredValue, dc, children }) {
 }
 
 function DatacoreQueryContextResolver({ def, dc, children }) {
-  console.log(def)
   const results = dc.useQuery(def.query || "")
   return children(formatQueryResults(results, def.format, def.field))
 }
