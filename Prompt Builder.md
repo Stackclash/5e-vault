@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: Prompt Builder Templates/Evergreen Note Updater.md
+selected_prompt_path: Prompt Builder Templates/DM Knowledge Summarizer.md
 template_definitions:
   name:
     label: Name
     type: text
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How Epic D&D Stories Come to Be.md
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
