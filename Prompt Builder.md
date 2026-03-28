@@ -5,7 +5,7 @@ template_definitions:
   name:
     label: Name
     type: text
-current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot THE FIRST ACT of a D&D Campaign.md
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot ACT 2 of Your D&D Campaign Game Master Tips and Tricks.md
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
@@ -433,8 +433,9 @@ function NoteFieldContextResolver({ def, getStoredValue, dc, children }) {
 }
 
 function DatacoreQueryContextResolver({ def, dc, children }) {
+  console.log(def)
   const results = dc.useQuery(def.query || "")
-  return children(formatQueryResults(results, def.format))
+  return children(formatQueryResults(results, def.format, def.field))
 }
 
 function ContextValueResolver({ def, getStoredValue, dc, children }) {

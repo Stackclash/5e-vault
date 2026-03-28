@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "0fe8891ed78283bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "42b8fe85d87447c0",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "DM Knowledge Summarizer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -285,17 +298,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6897624284990b0a",
+  "active": "0fe8891ed78283bf",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Prompt Builder.md",
     "Prompt Builder Templates/DM Knowledge Summarizer.md",
     "4. World Almanac/Settlements/Vallaki.md",
-    "Prompt Builder.md",
     "1. DM Toolkit/Knowledge/Info/Exploration.md",
     "1. DM Toolkit/Knowledge/Info/Social Encounters.md",
     "1. DM Toolkit/Knowledge/Info/Combat Encounters.md",
     "1. DM Toolkit/Knowledge/Info/DM Prep.md",
     "Prompt Builder Templates/Evergreen Note Updater.md",
-    "Untitled.md",
     "1. DM Toolkit/Knowledge/Info",
     "Prompt Builder Templates/Example Demonstration.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
