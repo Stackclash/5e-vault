@@ -5,6 +5,7 @@ template_definitions:
   name:
     label: Name
     type: text
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot THE FIRST ACT of a D&D Campaign.md
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {

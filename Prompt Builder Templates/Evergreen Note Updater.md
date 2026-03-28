@@ -1,3 +1,26 @@
+---
+fields:
+  current_note:
+    type: suggester
+    label: Note to Summarize
+    query: '@page and path("1. DM Toolkit/Knowledge/Sources")'
+    required: true
+  current_evernote:
+    type: suggester
+    label: Evergreen Note to Update
+    query: '@page and path("1. DM Toolkit/Knowledge/Info")'
+    required: true
+  update_candidates_for_note:
+    type: textarea
+    label: Candidates for updates
+context:
+  current_evergreen_note:
+    type: note_content
+    source: current_evernote
+  source_highlights:
+    type: note_content
+    source: current_note
+---
 You are helping maintain a broad evergreen Dungeon Mastering topic note in Obsidian.
 
 Your task is to create a reviewable update for the target evergreen note using only the provided update candidates and source material.
