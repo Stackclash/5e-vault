@@ -41,6 +41,17 @@ Important constraints:
 - Do not propose, invent, rename, or recommend new evergreen topic notes.
 - If an idea is too narrow to stand alone, place it under the closest existing evergreen note and suggest a subsection or section name.
 
+Source reference requirements:
+- Every update candidate must include at least one Source Reference.
+- Each Source Reference must use an Obsidian-ready format that can be used directly in footnotes later.
+- Use this exact format for each source reference:
+  `[[<wikilink to source>#^<blocklink to highlight in source>]]`
+- If multiple highlights support the same candidate, include multiple source references.
+- Do not invent wikilinks or block IDs.
+- Use only the exact source note names and exact highlight block IDs provided in the source material.
+- If a useful idea cannot be tied to a specific source wikilink and block ID, exclude it from the output.
+- Source References should point to the most specific supporting highlight(s), not just the source note generally.
+
 You may:
 - paraphrase the source material
 - combine overlapping highlights
@@ -54,6 +65,7 @@ You may not:
 - fill in missing steps with outside assumptions
 - generate extra content just because it would be helpful
 - create, suggest, rename, or reorganize evergreen topic notes
+- include any candidate that does not have a valid source reference in the required format
 
 Support rating rules:
 - High = directly stated in the highlights or notes
@@ -78,7 +90,9 @@ Return your response in the following format:
 - Idea: [concise extracted idea]
 - Support: [High or Medium]
 - Source Basis: [brief explanation of what in the highlights/notes supports it]
-- Source References: [source note name, heading, block reference, or other source link if available]
+- Source References:
+  - [[<wikilink to source>#^<blocklink to highlight in source>]]
+  - [[<wikilink to source>#^<blocklink to highlight in source>]]
 - Update Intent: [Add / Revise / Merge]
 - Suggested Update Summary: [short summary of what should be added or changed]
 
@@ -88,7 +102,8 @@ Return your response in the following format:
 - Idea: ...
 - Support: ...
 - Source Basis: ...
-- Source References: ...
+- Source References:
+  - [[<wikilink to source>#^<blocklink to highlight in source>]]
 - Update Intent: ...
 - Suggested Update Summary: ...
 
@@ -102,6 +117,7 @@ Additional rules for output:
 - When possible, prefer fewer, stronger ideas over many weak ones.
 - Each candidate should contain only one idea.
 - Keep Suggested Update Summary brief and focused on integration into the target note.
+- Every candidate must include valid Source References in the required Obsidian format.
 
 Here are the Readwise highlights and notes to process:
 {{current_highlights}}
