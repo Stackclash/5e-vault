@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Vallaki.md",
-                "mode": "preview",
+                "file": "Prompt Builder Templates/DM Knowledge Summarizer.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vallaki"
+              "title": "DM Knowledge Summarizer"
             }
           }
         ]
@@ -287,6 +287,9 @@
   },
   "active": "6897624284990b0a",
   "lastOpenFiles": [
+    "Prompt Builder Templates/DM Knowledge Summarizer.md",
+    "4. World Almanac/Settlements/Vallaki.md",
+    "Prompt Builder.md",
     "1. DM Toolkit/Knowledge/Info/Exploration.md",
     "1. DM Toolkit/Knowledge/Info/Social Encounters.md",
     "1. DM Toolkit/Knowledge/Info/Combat Encounters.md",
@@ -294,10 +297,7 @@
     "Prompt Builder Templates/Evergreen Note Updater.md",
     "Untitled.md",
     "1. DM Toolkit/Knowledge/Info",
-    "Prompt Builder.md",
-    "Prompt Builder Templates/DM Knowledge Summarizer.md",
     "Prompt Builder Templates/Example Demonstration.md",
-    "4. World Almanac/Settlements/Vallaki.md",
     "4. World Almanac/Settlements/Village of Barovia.md",
     "Prompt Builder Templates/NPC Generator.md",
     "6. Resources/5e Modules/Curse Of Strahd/10 Chapter 8 The Village Of Krezk.md",

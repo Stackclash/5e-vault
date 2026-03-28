@@ -5,7 +5,7 @@ template_definitions:
   name:
     label: Name
     type: text
-current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How Epic D&D Stories Come to Be.md
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot THE FIRST ACT of a D&D Campaign.md
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
@@ -55,7 +55,21 @@ function normalizePreviewValue(value) {
 function formatQueryResults(results, format, field) {
   function getFieldValue(result, fieldName) {
     if (!fieldName) return ""
-    const value = result.value(fieldName)
+
+    let value = ""
+
+    if (typeof result?.value === "function") {
+      value = result.value(fieldName)
+    }
+
+    if (value == null || value === "") {
+      value = result?.[fieldName]
+    }
+
+    if ((value == null || value === "") && result?.$frontmatter) {
+      value = result.$frontmatter[fieldName]
+    }
+
     return normalizePreviewValue(value)
   }
 

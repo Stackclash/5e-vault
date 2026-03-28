@@ -9,7 +9,7 @@ context:
   evergreen_notes:
     type: datacore_query
     query: '@page and path("1. DM Toolkit/Knowledge/Info")'
-    format: bullet_name_and_field
+    format: name_and_field
     field: summary
   current_highlights:
     type: note_content
