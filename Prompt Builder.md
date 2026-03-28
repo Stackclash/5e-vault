@@ -5,7 +5,7 @@ template_definitions:
   name:
     label: Name
     type: text
-current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Fixing Crafting in D&D.md
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Run D&D at High Levels- Adjusting Story & Power.md
 current_highlights_value: 1. DM Toolkit/Knowledge/Sources/Articles/How Epic D&D Stories Come to Be.md
 ---
 ```datacorejsx

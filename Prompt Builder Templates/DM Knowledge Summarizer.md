@@ -59,9 +59,6 @@ Only return ideas rated High or Medium.
 Here are my current evergreen topic notes:
 {{evergreen_notes}}
 
-Here are the Readwise highlights and notes to process:
-{{current_highlights}}
-
 Return your response in the following format:
 
 ## Concise Summary
@@ -88,3 +85,6 @@ Additional rules for output:
 - Keep the output concise and useful.
 - Do not repeat the same idea under multiple notes unless the overlap is truly necessary.
 - When possible, prefer fewer, stronger ideas over many weak ones.
+
+Here are the Readwise highlights and notes to process:
+{{current_highlights}}
