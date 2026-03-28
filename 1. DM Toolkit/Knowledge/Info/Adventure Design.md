@@ -9,6 +9,7 @@ Early adventure beats can be structured as escalating trials that test the party
 
 # Pacing Between Major Beats
 Use lighter interludes between major plot developments to lower tension and give players space to interact with the world before the next escalation.[^4] These quieter beats can sit between heavier story moments without replacing the main forward movement of the adventure.[^4]
+Lighter beats between major developments can also carry small obstacles or hazards that gradually wear down hit points and limited-use abilities before the next major confrontation.[^11] Used this way, lower-stakes pressure helps those quieter stretches continue shaping the party’s condition without replacing the adventure’s larger forward movement.[^11]
 
 # Player Commitment and Burden Choice
 As the adventure deepens, major burdens or commitments land best when the characters are given a meaningful chance to choose them for themselves rather than simply being carried along by the plot.[^7]
@@ -26,3 +27,4 @@ As the adventure closes in on its climax, place the last hurdles directly on the
 [^8]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783721]]
 [^9]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783861]]
 [^10]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784623]]
+[^11]: [[Your Players Aren't Overpowered...you Just Need THIS#^991840029]]

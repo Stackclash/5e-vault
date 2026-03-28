@@ -6,17 +6,17 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Your Players Aren't Overpowered...you Just Need THIS.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Adventure Design.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
 update_candidates_for_note_value: |-
-  Target Note: Adventure Design
-  Target Section: Building Resource Pressure Between Major Scenes
-  Idea: Smaller, lower-stakes obstacles and encounters can be used to chip away at hit points and limited-use abilities before major confrontations.
+  Target Note: Campaign Structure
+  Target Section: Time Pressure and Rest Denial
+  Idea: Combining mechanical pressure with story pressure can limit easy resting and force players to make smarter decisions with their resources.
   Support: High
-  Source Basis: The highlights recommend sprinkling in smaller encounters and hazards such as wolves, a collapsing bridge, or a cursed zone to gradually consume HP and player resources.
+  Source Basis: The source gives the example of a ritual that must be stopped before dawn, making a long rest impractical because events continue moving forward.
   Source References:
-  [[Your Players Aren't Overpowered...you Just Need THIS#^991840029]]
+  [[Your Players Aren't Overpowered...you Just Need THIS#^991840909]]
   Update Intent: Add
-  Suggested Update Summary: Add a note on using minor encounters and environmental obstacles to create cumulative pressure before larger scenes.
+  Suggested Update Summary: Add guidance on using advancing timelines and urgent stakes so rest decisions become meaningful and resource use matters.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
