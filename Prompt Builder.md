@@ -6,38 +6,17 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Your Players Aren't Overpowered...you Just Need THIS.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Combat Encounters.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Adventure Design.md
 update_candidates_for_note_value: |-
-  Target Note: Combat Encounters
-  Target Section: Resource Attrition as Encounter Balance
-  Idea: 5E encounter difficulty depends heavily on draining party resources over time, not just on the raw strength of a single fight.
+  Target Note: Adventure Design
+  Target Section: Building Resource Pressure Between Major Scenes
+  Idea: Smaller, lower-stakes obstacles and encounters can be used to chip away at hit points and limited-use abilities before major confrontations.
   Support: High
-  Source Basis: The highlights directly state that the game expects multiple encounters between long rests and that resource attrition is the real balancing mechanic, affecting spell slots, rages, bardic inspiration, superiority dice, and similar limited-use abilities.
+  Source Basis: The highlights recommend sprinkling in smaller encounters and hazards such as wolves, a collapsing bridge, or a cursed zone to gradually consume HP and player resources.
   Source References:
-  [[Your Players Aren't Overpowered...you Just Need THIS#^991839016]]
-  [[Your Players Aren't Overpowered...you Just Need THIS#^991839286]]
+  [[Your Players Aren't Overpowered...you Just Need THIS#^991840029]]
   Update Intent: Add
-  Suggested Update Summary: Add a section explaining that encounter balance in 5E relies on cumulative resource drain across the adventuring day, not isolated monster difficulty.
-  ---
-  Target Note: Combat Encounters
-  Target Section: Avoid Difficulty Inflation
-  Idea: Increasing monster durability or damage is not the same as increasing tension; it can instead make fights longer and more bloated.
-  Support: High
-  Source Basis: The highlights directly warn against doubling HP, adding more actions, or otherwise inflating numbers as a default response, stating that this stretches combat without necessarily making it more exciting.
-  Source References:
-  [[Your Players Aren't Overpowered...you Just Need THIS#^991839411]]
-  Update Intent: Add
-  Suggested Update Summary: Add guidance distinguishing raw difficulty inflation from actual tension, with a note that bigger numbers can create bloat instead of excitement.
-  ---
-  Target Note: Combat Encounters
-  Target Section: Encounter Variety and Situational Pressure
-  Idea: Tension improves when encounters include varied pressures and goals, rather than always being straightforward fights to eliminate enemies.
-  Support: High
-  Source Basis: The source directly says that when every encounter is just “roll initiative, kill the bad guys,” difficulty tends to become numeric inflation, while real tension comes from encounter variety and situational pressure.
-  Source References:
-  [[Your Players Aren't Overpowered...you Just Need THIS#^991839411]]
-  Update Intent: Add
-  Suggested Update Summary: Add a section emphasizing that encounter design should vary pressure and objectives instead of relying on repeated stand-up fights.
+  Suggested Update Summary: Add a note on using minor encounters and environmental obstacles to create cumulative pressure before larger scenes.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {

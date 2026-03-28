@@ -13,8 +13,14 @@ Before the final assault, build in a real planning phase where the players can s
 # Preparing for Branching Finales
 For the final sequence, prepare for multiple likely approaches the party might take, and know how each path can still be brought back to the main final point.[^5]
 
+# Checking Encounter Pressure Before Raising Difficulty
+If encounters consistently feel too easy, first check whether the party is facing enough pressure between long rests rather than assuming the characters are simply too strong.[^6][^7] In practice, narrative-heavy pacing can skip the grind the game expects, which removes the attrition that normally helps keep challenge in place.[^8]
+
 [^1]: [[How to Plot THE FIRST ACT of a D&D Campaign#^976748567]]
 [^2]: [[How to Plot THE FIRST ACT of a D&D Campaign#^976752987]]
 [^3]: [[How to Plot ACT 2 of Your D&D Campaign Game Master Tips and Tricks#^976761675]]
 [^4]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784478]]
 [^5]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784527]]
+[^6]: [[Your Players Aren't Overpowered...you Just Need THIS#^991838782]]
+[^7]: [[Your Players Aren't Overpowered...you Just Need THIS#^991838946]]
+[^8]: [[Your Players Aren't Overpowered...you Just Need THIS#^991839136]]
