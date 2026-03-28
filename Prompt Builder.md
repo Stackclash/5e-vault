@@ -6,17 +6,37 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Plotting ACT 3 of Your D&D Campaign in 7 STEPS.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Villains and Antagonists.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/DM Prep.md
 update_candidates_for_note_value: |-
-  Target Note: Villains and Antagonists
-  Target Section: Turning the Tide in the Finale
-  Idea: A climactic turning point can be driven by earlier player setup, sacrifice, a successful plan or trap, or divine intervention, and should visibly shift the villain from dominance into fear, anger, or disbelief.
+  Target Note: DM Prep
+  Target Section: Planning the Final Assault
+  Idea: Build in a real planning phase before the final assault so players can strategize with the knowledge, allies, and resources they have accumulated and feel in control of their fate.
   Support: High
-  Source Basis: The highlight directly lists these possible turning points and describes the villain’s emotional reversal as the sign that the tide has changed.
+  Source Basis: The source explicitly says to let the party plan, describes the planning phase as critical, and ties it to player agency and use of accumulated resources.
   Source References:
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976785617]]
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784478]]
   Update Intent: Add
-  Suggested Update Summary: Add a finale turning-point note centered on visible reversal of villain momentum.
+  Suggested Update Summary: Add a prep principle to deliberately make room for player planning before the finale.
+  ---
+  Target Note: DM Prep
+  Target Section: Preparing for Branching Finales
+  Idea: For the final sequence, prepare for multiple likely approaches and know how each route can still converge on the main climax.
+  Support: High
+  Source Basis: The highlight directly says to have a plan for each direction the party might go and figure out a way to bring it back to the main final point.
+  Source References:
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784527]]
+  Update Intent: Add
+  Suggested Update Summary: Add branching-finale prep guidance so multiple approaches can still resolve at the central confrontation.
+  ---
+  Target Note: DM Prep
+  Target Section: Preparing for Branching Finales
+  Idea: For the final sequence, prepare for multiple likely approaches and know how each route can still converge on the main climax.
+  Support: High
+  Source Basis: The highlight directly says to have a plan for each direction the party might go and figure out a way to bring it back to the main final point.
+  Source References:
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784527]]
+  Update Intent: Add
+  Suggested Update Summary: Add branching-finale prep guidance so multiple approaches can still resolve at the central confrontation.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
