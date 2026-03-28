@@ -6,39 +6,18 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/Plotting ACT 3 of Your D&D Campaign in 7 STEPS.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Adventure Design.md
 update_candidates_for_note_value: |
-  Target Note: Campaign Structure
-  Target Section: Act 3 / Road Back and Regrouping
-  Idea: After a major setback, Act 3 can begin with the party choosing to return despite fear and defeat, optionally supported by downtime or a time jump so they can regroup before the final push.
+  Target Note: Adventure Design
+  Target Section: Escalation Before the Climax
+  Idea: Place a sequence of increasingly difficult challenges between the party’s regrouping and the climax, and make each challenge serve the larger story rather than functioning as filler.
   Support: High
-  Source Basis: The highlights explicitly frame the start of Act 3 as the party being beaten and afraid, then deciding to take the road back, with downtime or a time jump suggested to let them regroup and breathe.
+  Source Basis: The material directly says there should be a series of increasingly difficult challenges between the road back and the next step, and that each should serve the greater story.
   Source References:
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783237]]
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783262]]
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783721]]
+  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783861]]
   Update Intent: Add
-  Suggested Update Summary: Add an Act 3 opening pattern built around regrouping after defeat before the final advance.
-  ---
-  Target Note: Campaign Structure
-  Target Section: Turning Points and Commitment
-  Idea: A rescue or outside intervention can function as the moment that restores the party’s chance of success and shifts them from doubt into commitment.
-  Support: High
-  Source Basis: The highlights describe a “rescue from without,” note that an ally can even the playing field, and explicitly frame this as the moment the party moves from “I don’t think we can do this” to “we have to do this now.”
-  Source References:
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784048]]
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784122]]
-  Update Intent: Add
-  Suggested Update Summary: Add a note on rescue or allied intervention as an Act 3 turning point that renews momentum and commitment.
-  ---
-  Target Note: Campaign Structure
-  Target Section: Final Threshold
-  Idea: Include a distinct “final threshold” moment where the party stops treating the crisis as something that must be addressed and instead accepts that they are the ones who must act.
-  Support: High
-  Source Basis: The highlight explicitly contrasts earlier motivation with the Act 3 moment when the party decides they are the only ones who can do something, naming this the crossing of the final threshold.
-  Source References:
-  [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784201]]
-  Update Intent: Add
-  Suggested Update Summary: Add the final-threshold beat as the commitment point that locks the party into the climax.
+  Suggested Update Summary: Add guidance for Act 3 escalation through multiple story-relevant challenges before the climax.
   ---
 ---
 ```datacorejsx
