@@ -6,28 +6,17 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Plot ACT 2 of Your D&D Campaign Game Master Tips and Tricks.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Adventure Design.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/DM Prep.md
 update_candidates_for_note_value: |-
-  Target Note: Adventure Design
-  Target Section: Act Two Beat Structure
-  Idea: The opening movement of Act Two should add more tests, enemies, and allies as the party advances toward the midpoint.
+  Target Note: DM Prep
+  Target Section: Calibrating Stakes with the Group
+  Idea: Before pushing Act Two into heavier stakes, decide with the group how intense and involved they want the story to be.
   Support: High
-  Source Basis: The material explicitly frames the first part of Act Two as setting up more tests, more enemies, and more allies, while the document note frames this as part of a staged structure leading toward the midpoint.
+  Source Basis: One highlight explicitly says the DM should determine with the party how high-stakes and stressful they want the story to become.
   Source References:
-  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976762359]]
-  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976755415]]
+  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976761675]]
   Update Intent: Add
-  Suggested Update Summary: Add a short Act Two structure note that the early phase should expand pressure and possibilities through new tests, enemies, and allies.
-  ---
-  Target Note: Adventure Design
-  Target Section: Player Buy-In and Burden Choice
-  Idea: Major Act Two burdens should be presented as a meaningful choice the characters voluntarily take on.
-  Support: High
-  Source Basis: The highlight explicitly uses Frodo’s example to argue that taking on the burden should be a choice, and the document note repeats that the final burden should become a clear, voluntary choice.
-  Source References:
-  [[How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks#^976763009]]
-  Update Intent: Add
-  Suggested Update Summary: Add guidance that key Act Two commitments land better when the party chooses to accept the burden.
+  Suggested Update Summary: Add a reminder to align on desired story intensity before escalating Act Two pressure.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
