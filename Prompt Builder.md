@@ -1,22 +1,11 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: Prompt Builder Templates/Evergreen Note Updater.md
+selected_prompt_path: Prompt Builder Templates/DM Knowledge Summarizer.md
 template_definitions:
   name:
     label: Name
     type: text
-current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Run D&D at High Levels- Adjusting Story & Power.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/DM Prep.md
-update_candidates_for_note_value: |-
-  Target Note: DM Prep
-  Target Section: Prep for Flexibility
-  Idea: High-level play requires the DM to expect improvisation during sessions because not everything can be planned in advance.
-  Support: High
-  Source Basis: The highlight directly states that the DM cannot plan everything in advance and should be ready to improvise in response to the players.
-  Source References:
-  [[How to Run D&D at High Levels: Adjusting Story & Power#^994020989]]
-  Update Intent: Add
-  Suggested Update Summary: Add a note that high-level prep should leave room for live adaptation instead of trying to pre-plan every outcome.
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/I Stole 14 D&D Homebrew Rules and They Made My Game Better.md
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {

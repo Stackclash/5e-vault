@@ -6,7 +6,6 @@ Consider pacing session one so the inciting incident lands at the end as a stron
 
 # Preparing Main Beats
 Prep the main beats of the first act clearly enough that the players have direction, you know where the campaign is headed, and you can guide play back toward the core path if things drift.[^2] This prep should also leave you positioned to set up the second act rather than treating the opening as a disconnected sequence of sessions.[^2] Before escalating Act Two into heavier or more stressful territory, align with the group on how intense and involved they want that story to become.[^3]
-
 Even with strong prep, leave room for live adaptation during play because you cannot plan everything in advance, especially as the game reaches higher levels.[^9] Prep should support flexible response at the table rather than assuming every important development can be fully anticipated beforehand.[^9]
 
 # Planning the Final Assault
@@ -27,41 +26,3 @@ If encounters consistently feel too easy, first check whether the party is facin
 [^7]: [[Your Players Aren't Overpowered...you Just Need THIS#^991838946]]
 [^8]: [[Your Players Aren't Overpowered...you Just Need THIS#^991839136]]
 [^9]: [[How to Run D&D at High Levels: Adjusting Story & Power#^994020989]]
-
-## Proposed Updates
-
-### Update 1
-
-* Target Section: Preparing Main Beats
-
-* Placement: Insert into the existing section **"Preparing Main Beats"** after the current paragraph ending **"how intense and involved they want that story to become.[^3]"**
-
-* Update Type: Add
-
-* Proposed Text:
-  Even with strong prep, leave room for live adaptation during play because you cannot plan everything in advance, especially as the game reaches higher levels.[^9] Prep should support flexible response at the table rather than assuming every important development can be fully anticipated beforehand.[^9]
-
-* Reason:
-  This fits best in **"Preparing Main Beats"** because the current section is already about how much to prep, how clearly to prep it, and how to keep that prep usable as play develops. The candidate refines that doctrine by adding a supported limit on preplanning and a concise reminder that prep should preserve flexibility rather than try to predetermine every outcome.
-
-* Source References:
-
-  * [[How to Run D&D at High Levels: Adjusting Story & Power#^994020989]]
-
-## Duplication Check
-
-* This overlaps lightly with the current emphasis on prepping main beats rather than everything in exhaustive detail, so it is better merged into **"Preparing Main Beats"** instead of added as a separate top-level section.
-* No candidate content had to be excluded for missing source references.
-* No major duplication detected. 
-
-## Structural Notes
-
-* No structural changes needed.
-
-## Footnote Continuation Check
-
-* Highest existing footnote in current note: [^8]
-* New footnotes in this response begin at: [^9]
-
-## Footnotes
-
