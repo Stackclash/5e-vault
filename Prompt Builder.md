@@ -6,28 +6,17 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Run D&D at High Levels- Adjusting Story & Power.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Combat Encounters.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/DM Prep.md
 update_candidates_for_note_value: |-
-  Target Note: Combat Encounters
-  Target Section: Adjusting for Rising PC Power
-  Idea: As PCs gain levels and stronger abilities, the DM should continuously adjust challenges instead of assuming previous encounter expectations will still hold.
+  Target Note: DM Prep
+  Target Section: Prep for Flexibility
+  Idea: High-level play requires the DM to expect improvisation during sessions because not everything can be planned in advance.
   Support: High
-  Source Basis: One highlight explicitly says to constantly adjust the game as PCs gain power and levels, and another says encounter-building rules break down, especially in higher-level play.
+  Source Basis: The highlight directly states that the DM cannot plan everything in advance and should be ready to improvise in response to the players.
   Source References:
-  [[How to Run D&D at High Levels: Adjusting Story & Power#^991861389]]
-  [[How to Run D&D at High Levels: Adjusting Story & Power#^993953576]]
+  [[How to Run D&D at High Levels: Adjusting Story & Power#^994020989]]
   Update Intent: Add
-  Suggested Update Summary: Add a caution that standard encounter-building expectations become unreliable and require ongoing recalibration as PC power increases.
-  ---
-  Target Note: Combat Encounters
-  Target Section: Layered Encounter Design at High Levels
-  Idea: High-level combat encounters need added structure and pressure elements such as terrain, waves, and environmental effects rather than simple stand-up fights.
-  Support: High
-  Source Basis: The material directly says that basic monster placement is no longer enough at higher levels and calls for terrain, waves, environmental effects, and similar encounter elements.
-  Source References:
-  [[How to Run D&D at High Levels: Adjusting Story & Power#^994021874]]
-  Update Intent: Add
-  Suggested Update Summary: Add a high-level encounter design section focused on using layered battlefield elements to keep combat engaging.
+  Suggested Update Summary: Add a note that high-level prep should leave room for live adaptation instead of trying to pre-plan every outcome.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
