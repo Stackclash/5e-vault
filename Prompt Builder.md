@@ -6,38 +6,28 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Run D&D at High Levels- Adjusting Story & Power.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Combat Encounters.md
 update_candidates_for_note_value: |-
-  Target Note: Campaign Structure
-  Target Section: Tier-Based Scope and Stakes
-  Idea: As campaigns move into higher tiers, the story should expand in scope and stakes to match the PCs’ rising power and influence.
+  Target Note: Combat Encounters
+  Target Section: Adjusting for Rising PC Power
+  Idea: As PCs gain levels and stronger abilities, the DM should continuously adjust challenges instead of assuming previous encounter expectations will still hold.
   Support: High
-  Source Basis: The highlights explicitly say that higher-level play requires adjusting both story and power level, and that the scope of story and plot should grow as the campaign advances through tiers of play.
+  Source Basis: One highlight explicitly says to constantly adjust the game as PCs gain power and levels, and another says encounter-building rules break down, especially in higher-level play.
   Source References:
-  [[How to Run D&D at High Levels: Adjusting Story & Power#^991844134]]
-  [[How to Run D&D at High Levels: Adjusting Story & Power#^991844481]]
+  [[How to Run D&D at High Levels: Adjusting Story & Power#^991861389]]
+  [[How to Run D&D at High Levels: Adjusting Story & Power#^993953576]]
   Update Intent: Add
-  Suggested Update Summary: Add guidance that campaign stakes and story scope should scale upward with tier progression rather than staying at low-level concerns.
+  Suggested Update Summary: Add a caution that standard encounter-building expectations become unreliable and require ongoing recalibration as PC power increases.
   ---
-  Target Note: Campaign Structure
-  Target Section: High-Level Party Status and Setting Response
-  Idea: By levels 11–16, the campaign world should reflect that the PCs are major figures with rare power, broad reputation, and meaningful political influence.
+  Target Note: Combat Encounters
+  Target Section: Layered Encounter Design at High Levels
+  Idea: High-level combat encounters need added structure and pressure elements such as terrain, waves, and environmental effects rather than simple stand-up fights.
   Support: High
-  Source Basis: The material directly states that at levels 11–16, PCs become masters of the realm, gain major influence, and are respected even by rulers.
+  Source Basis: The material directly says that basic monster placement is no longer enough at higher levels and calls for terrain, waves, environmental effects, and similar encounter elements.
   Source References:
-  [[How to Run D&D at High Levels: Adjusting Story & Power#^991844870]]
+  [[How to Run D&D at High Levels: Adjusting Story & Power#^994021874]]
   Update Intent: Add
-  Suggested Update Summary: Add a section on changing the world’s response to high-level PCs so the campaign reflects their status and influence.
-  ---
-  Target Note: Campaign Structure
-  Target Section: Consequences Beyond Death
-  Idea: High-level campaigns should not rely on ordinary character death as the main source of tension because resurrection effects make PCs much harder to remove permanently.
-  Support: High
-  Source Basis: The source explicitly says high-level PCs are practically unkillable because spells such as raise dead, resurrection, and reincarnation reduce the finality of death.
-  Source References:
-  [[How to Run D&D at High Levels: Adjusting Story & Power#^994022503]]
-  Update Intent: Add
-  Suggested Update Summary: Add a note that high-level campaign tension should account for the reduced permanence of death.
+  Suggested Update Summary: Add a high-level encounter design section focused on using layered battlefield elements to keep combat engaging.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {

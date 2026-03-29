@@ -4,6 +4,9 @@ summary: Covers building adventures as playable structures, including objectives
 # Inciting Incident
 Build the opening around a clearly defined inciting incident that explains why this specific moment matters and what makes it the point where the story truly begins.[^1] The inciting incident should also give the players a clear reason to care about what is happening now and to engage with the adventure.[^1]
 
+# Matching Adventure Scale to Tier
+At lower levels, adventures should stay small in scope and focus on local problems, weaker threats, and non-epic stakes.[^12] As play moves into the next tier, adventures can widen into broader threats with stronger opposition and more serious consequences for failure.[^13] When the party reaches that point, failure should feel larger than a single local inconvenience and instead carry wider regional weight.[^13]
+
 # Escalation and Clue Placement
 Early adventure beats can be structured as escalating trials that test the party’s skills, push them into real danger, and gradually make the conflict feel more serious and personal.[^2] As those trials progress, raise the stakes from encounter to encounter while dropping small hints about the larger threat, but leave enough mystery intact that the wider conflict is not revealed too quickly.[^3] In the opening movement of Act Two, that escalation can widen through additional tests, enemies, and allies as the party is pushed toward the midpoint of the adventure.[^5][^6] Late in the adventure, escalation can take the form of a sequence of increasingly difficult challenges placed between the party’s regrouping and the climax, with each challenge advancing the larger story instead of feeling like filler.[^8][^9]
 
@@ -28,3 +31,5 @@ As the adventure closes in on its climax, place the last hurdles directly on the
 [^9]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976783861]]
 [^10]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976784623]]
 [^11]: [[Your Players Aren't Overpowered...you Just Need THIS#^991840029]]
+[^12]: [[How to Run D&D at High Levels: Adjusting Story & Power#^991844498]]
+[^13]: [[How to Run D&D at High Levels: Adjusting Story & Power#^991844619]]

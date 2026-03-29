@@ -7,6 +7,12 @@ Character backstories should be woven into the early campaign structure so the n
 # Player Buy-In and Commitment
 By the end of the introduction, players should feel anchored in the world as the central characters of the story, with personal motivations that align with the unfolding campaign.[^3]
 
+# Tier-Based Scope and Stakes
+As the campaign moves into higher tiers, the scope of the story and the stakes should expand to match the party’s growing power and influence.[^19][^20] Early play should remain local in scope, while higher-level play should push the campaign toward broader consequences and larger-scale conflicts.[^20]
+
+# High-Level Party Status and Setting Response
+At higher levels, the campaign world should treat the party as major figures whose power, reputation, and political influence have become part of the campaign’s structure.[^21] By this stage, they are no longer operating as unknown adventurers, and the setting should reflect that shift in how rulers and the wider world respond to them.[^21]
+
 # Act Two Escalation
 Act Two should deepen the conflict by introducing more personal pressure through subplots, moral dilemmas, and challenges that test the characters’ beliefs and motivations.[^4] As the campaign escalates, the conflict should feel less external and more bound up with why the characters care about the world and what they are willing to fight for.[^4]
 
@@ -24,6 +30,9 @@ Act Three can begin with the party returning to the conflict from a place of fea
 
 # Time Pressure and Rest Denial
 Mechanical pressure becomes more meaningful when it is paired with story pressure that keeps events moving forward.[^18] When the party is racing an advancing timeline, a long rest can become impractical not because it is forbidden, but because waiting carries consequences.[^18] Used this way, urgency helps make rest decisions matter and pushes the party to manage resources more carefully.[^18]
+
+# Consequences Beyond Death
+At high levels, ordinary character death becomes a less reliable source of campaign tension because resurrection magic reduces its finality.[^22] Campaign pressure should therefore not depend too heavily on death alone carrying the full weight of consequences.[^22]
 
 # Final Threshold
 A rescue, allied intervention, or other outside aid can serve as the turning point that restores the party’s real chance of success and shifts them from doubt into commitment.[^13][^14] From there, the campaign can include a distinct final-threshold moment where the party stops thinking only in terms of needing to respond and instead accepts that they are the ones who must act.[^15]
@@ -49,3 +58,7 @@ After the climax, the campaign should leave room for celebration, reflection, gr
 [^16]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976785719]]
 [^17]: [[Plotting ACT 3 of Your D&D Campaign in 7 STEPS#^976785983]]
 [^18]: [[Your Players Aren't Overpowered...you Just Need THIS#^991840909]]
+[^19]: [[How to Run D&D at High Levels: Adjusting Story & Power#^991844134]]
+[^20]: [[How to Run D&D at High Levels: Adjusting Story & Power#^991844481]]
+[^21]: [[How to Run D&D at High Levels: Adjusting Story & Power#^991844870]]
+[^22]: [[How to Run D&D at High Levels: Adjusting Story & Power#^994022503]]
