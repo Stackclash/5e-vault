@@ -6,7 +6,38 @@ template_definitions:
     label: Name
     type: text
 current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/How to Run D&D at High Levels- Adjusting Story & Power.md
-current_evernote_value: 1. DM Toolkit/Knowledge/Info/Combat Encounters.md
+current_evernote_value: 1. DM Toolkit/Knowledge/Info/Campaign Structure.md
+update_candidates_for_note_value: |-
+  Target Note: Campaign Structure
+  Target Section: Tier-Based Scope and Stakes
+  Idea: As campaigns move into higher tiers, the story should expand in scope and stakes to match the PCs’ rising power and influence.
+  Support: High
+  Source Basis: The highlights explicitly say that higher-level play requires adjusting both story and power level, and that the scope of story and plot should grow as the campaign advances through tiers of play.
+  Source References:
+  [[How to Run D&D at High Levels: Adjusting Story & Power#^991844134]]
+  [[How to Run D&D at High Levels: Adjusting Story & Power#^991844481]]
+  Update Intent: Add
+  Suggested Update Summary: Add guidance that campaign stakes and story scope should scale upward with tier progression rather than staying at low-level concerns.
+  ---
+  Target Note: Campaign Structure
+  Target Section: High-Level Party Status and Setting Response
+  Idea: By levels 11–16, the campaign world should reflect that the PCs are major figures with rare power, broad reputation, and meaningful political influence.
+  Support: High
+  Source Basis: The material directly states that at levels 11–16, PCs become masters of the realm, gain major influence, and are respected even by rulers.
+  Source References:
+  [[How to Run D&D at High Levels: Adjusting Story & Power#^991844870]]
+  Update Intent: Add
+  Suggested Update Summary: Add a section on changing the world’s response to high-level PCs so the campaign reflects their status and influence.
+  ---
+  Target Note: Campaign Structure
+  Target Section: Consequences Beyond Death
+  Idea: High-level campaigns should not rely on ordinary character death as the main source of tension because resurrection effects make PCs much harder to remove permanently.
+  Support: High
+  Source Basis: The source explicitly says high-level PCs are practically unkillable because spells such as raise dead, resurrection, and reincarnation reduce the finality of death.
+  Source References:
+  [[How to Run D&D at High Levels: Adjusting Story & Power#^994022503]]
+  Update Intent: Add
+  Suggested Update Summary: Add a note that high-level campaign tension should account for the reduced permanence of death.
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
