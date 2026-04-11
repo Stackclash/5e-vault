@@ -1,7 +1,10 @@
 ---
 obsidianUIMode: preview
 date: 2025-04-19
-summary:
+summary: |-
+  Van Richten and Faerah sneak away to the prisons and fall into the trap and find Ezmerelda and Emil.
+  Defeats Strahd
+  Returns to Vallaki and captures Fiona and the Watcher brothers.
 fc-date: 973-2-24
 fc-end: 973-2-24
 timelines:

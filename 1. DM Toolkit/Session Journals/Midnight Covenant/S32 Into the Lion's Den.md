@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 date: 2025-03-15
-summary:
+summary: |-
+  Party teleports to Castle Ravenloft and tries to sneak in but is caught and brought to the main chamber with the rest of the guests.
+  Breaks up Strahd's wedding
 fc-date: 973-2-24
 fc-end: 973-2-24
 timelines:
