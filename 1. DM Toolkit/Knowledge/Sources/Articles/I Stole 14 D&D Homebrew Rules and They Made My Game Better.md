@@ -3,17 +3,12 @@ id: 57553025
 created: 2026-01-13
 updated: 2026-01-13
 title: I Stole 14 D&D Homebrew Rules and They Made My Game Better
+processed: false
 author:
   - Power Word Spill
 uri: https://readwise.io/bookreview/57553025
 ---
 
-
-
-%%
-ID: 57553025
-Updated: 2026-01-13
-%%
 
 ![]( https://i.ytimg.com/vi/6oGbf88QeG0/maxresdefault.jpg)
 

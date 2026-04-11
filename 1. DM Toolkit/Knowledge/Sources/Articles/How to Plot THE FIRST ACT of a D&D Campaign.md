@@ -3,17 +3,12 @@ id: 57526516
 created: 2026-01-12
 updated: 2026-01-12
 title: How to Plot THE FIRST ACT of a D&D Campaign
+processed: true
 author:
   - The Fantasy Forge
 uri: https://readwise.io/bookreview/57526516
 ---
 
-
-
-%%
-ID: 57526516
-Updated: 2026-01-12
-%%
 
 ![]( https://i.ytimg.com/vi/EdDE1fw0oYg/maxresdefault.jpg)
 
@@ -88,9 +83,7 @@ I mean, if your initial threat is a plague that's been spreading around a local 
 
 ---
 
-  And speaking of our heroes, step four is to get their back stories flowing as part of the narrative. Why? Because you don't spend time with a party of people and not get to know them. Eventually you start asking questions. Plus, if everyone is keeping secrets and being edgy, it just gets old really, really quick. Your PC back stories are threads that can and should be
-
-woven into the narrative that gave them to you for a reason. ^976749499
+  And speaking of our heroes, step four is to get their back stories flowing as part of the narrative. Why? Because you don't spend time with a party of people and not get to know them. Eventually you start asking questions. Plus, if everyone is keeping secrets and being edgy, it just gets old really, really quick. Your PC back stories are threads that can and should be woven into the narrative that gave them to you for a reason. ^976749499
 
 [View Highlight](https://read.readwise.io/read/01ker2ebne8vpbevm5c0ms2sss)
 

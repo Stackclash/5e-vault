@@ -3,17 +3,12 @@ id: 42879461
 created: 2024-08-04
 updated: 2024-08-04
 title: How to Stop Your Players From Getting Bored.
+processed: false
 author:
   - Bonus Action
 uri: https://readwise.io/bookreview/42879461
 ---
 
-
-
-%%
-ID: 42879461
-Updated: 2024-08-04
-%%
 
 ![]( https://i.ytimg.com/vi/7cZFKAibGho/maxresdefault.jpg)
 

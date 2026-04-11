@@ -3,17 +3,12 @@ id: 57527923
 created: 2026-01-12
 updated: 2026-01-12
 title: Plotting ACT 3 of Your D&D Campaign in 7 STEPS
+processed: true
 author:
   - The Fantasy Forge
 uri: https://readwise.io/bookreview/57527923
 ---
 
-
-
-%%
-ID: 57527923
-Updated: 2026-01-12
-%%
 
 ![]( https://i.ytimg.com/vi/fpOyc8KHClY/maxresdefault.jpg)
 
@@ -50,9 +45,7 @@ Background: I am designing Act 3 of a Dungeons & Dragons campaign — the climac
 # Highlights
 
 
-  Now, Act three is all about the resolution to your story, obviously. This is where everything boils together. Stakes are at their highest. The story might feel its darkest, and it all starts with the road back. The party is defeated. They are probably afraid.
-
-And this next step is all about them deciding to take the road back home. ^976783237
+  Now, Act three is all about the resolution to your story, obviously. This is where everything boils together. Stakes are at their highest. The story might feel its darkest, and it all starts with the road back. The party is defeated. They are probably afraid. And this next step is all about them deciding to take the road back home. ^976783237
 
 [View Highlight](https://read.readwise.io/read/01ker8gsf1pm3xw9pn0m4vf4s9)
 
@@ -76,9 +69,7 @@ And this next step is all about them deciding to take the road back home. ^97678
 
 ---
 
-  And speaking of step two, we have the rescue or the rescue from without. Now, in Joseph Campbell's, the hero with 1000 faces, the rescue from without is a really important part and pivotal to the character's growth.
-
-So in step two for the campaign, the heroes may find themselves in a situation where they literally need rescuing. ^976784048
+  And speaking of step two, we have the rescue or the rescue from without. Now, in Joseph Campbell's, the hero with 1000 faces, the rescue from without is a really important part and pivotal to the character's growth. So in step two for the campaign, the heroes may find themselves in a situation where they literally need rescuing. ^976784048
 
 [View Highlight](https://read.readwise.io/read/01ker918amkddq4k2nzpdp3688)
 

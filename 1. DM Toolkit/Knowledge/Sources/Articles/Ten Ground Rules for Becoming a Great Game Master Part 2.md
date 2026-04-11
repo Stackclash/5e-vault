@@ -3,17 +3,12 @@ id: 57605001
 created: 2026-01-15
 updated: 2026-01-15
 title: Ten Ground Rules for Becoming a Great Game Master | Part 2
+processed: false
 author:
   - How to be a Great GM
 uri: https://readwise.io/bookreview/57605001
 ---
 
-
-
-%%
-ID: 57605001
-Updated: 2026-01-15
-%%
 
 ![]( https://i.ytimg.com/vi/8w5rxJEI9qc/maxresdefault.jpg)
 

@@ -3,17 +3,12 @@ id: 57527040
 created: 2026-01-12
 updated: 2026-01-12
 title: How to Plot ACT 2 of Your D&D Campaign | Game Master Tips and Tricks
+processed: true
 author:
   - The Fantasy Forge
 uri: https://readwise.io/bookreview/57527040
 ---
 
-
-
-%%
-ID: 57527040
-Updated: 2026-01-12
-%%
 
 ![]( https://i.ytimg.com/vi/y56A5sWmkbM/maxresdefault.jpg)
 

@@ -3,17 +3,12 @@ id: 58598205
 created: 2026-02-26
 updated: 2026-03-06
 title: "How to Run D&D at High Levels: Adjusting Story & Power"
+processed: true
 author:
   - the DM Lair
 uri: https://readwise.io/bookreview/58598205
 ---
 
-
-
-%%
-ID: 58598205
-Updated: 2026-03-06
-%%
 
 ![]( https://i.ytimg.com/vi_webp/oa-ZF366VvE/maxresdefault.webp)
 

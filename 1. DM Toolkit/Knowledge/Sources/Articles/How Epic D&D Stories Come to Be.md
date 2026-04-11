@@ -3,17 +3,12 @@ id: 57627094
 created: 2026-01-16
 updated: 2026-01-16
 title: How Epic D&D Stories Come to Be
+processed: false
 author:
   - How to be a Great GM
 uri: https://readwise.io/bookreview/57627094
 ---
 
-
-
-%%
-ID: 57627094
-Updated: 2026-01-16
-%%
 
 ![]( https://i.ytimg.com/vi/B3_gH3Dvkto/maxresdefault.jpg)
 

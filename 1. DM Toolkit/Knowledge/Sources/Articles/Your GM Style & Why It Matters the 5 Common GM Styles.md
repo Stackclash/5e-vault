@@ -3,17 +3,12 @@ id: 57728844
 created: 2026-01-20
 updated: 2026-02-05
 title: Your GM Style & Why It Matters | the 5 Common GM Styles
+processed: false
 author:
   - How to be a Great GM
 uri: https://readwise.io/bookreview/57728844
 ---
 
-
-
-%%
-ID: 57728844
-Updated: 2026-02-05
-%%
 
 ![]( https://i.ytimg.com/vi/9yNuNPG5H-8/maxresdefault.jpg)
 

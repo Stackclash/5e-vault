@@ -3,17 +3,12 @@ id: 30471009
 created: 2023-07-25
 updated: 2023-07-25
 title: Obsidian - Lets Learn Obsidian 2
+processed: false
 author:
   - Josh Plunkett
 uri: https://readwise.io/bookreview/30471009
 ---
 
-
-
-%%
-ID: 30471009
-Updated: 2023-07-25
-%%
 
 ![]( https://i.ytimg.com/vi/FVmdd942Y2c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBKbvva7T6H8zLTqK_V6AaPHJ9s0Q)
 

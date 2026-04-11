@@ -1,62 +1,559 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: Prompt Builder Templates/NPC Generator.md
+selected_prompt_path: Prompt Builder Templates/DM Knowledge Summarizer.md
 template_definitions:
   name:
     label: Name
     type: text
-include_secret_value: false
-location_value: 4. World Almanac/Settlements/Village of Barovia.md
-gender_value: Male
-race_value: Human
+current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/I Stole 14 D&D Homebrew Rules and They Made My Game Better.md
 ---
 ```datacorejsx
+function truncateText(text, maxChars) {
+  if (!maxChars || text.length <= maxChars) return text
+  return text.slice(0, maxChars).trim() + "\n...[truncated]"
+}
+
+function stripMarkdownFrontmatter(text) {
+  return String(text || "").replace(/^---[\s\S]*?---/, "").trim()
+}
+
+function normalizeToken(token) {
+  return String(token || "").replaceAll(" ", "_").trim()
+}
+
+function humanizeToken(token) {
+  return normalizeToken(token)
+    .replaceAll("_", " ")
+    .replace(/\b\w/g, c => c.toUpperCase())
+}
+
+function stripFrontmatter(text) {
+  return String(text || "").replace(/^---[\s\S]*?---/, "").trim()
+}
+
+function extractTokens(text) {
+  return [...String(text || "").matchAll(/{{(.*?)}}/g)]
+    .map(m => m[1].trim())
+    .filter((v, i, a) => a.indexOf(v) === i)
+}
+
+function normalizePreviewValue(value) {
+  if (value == null) return ""
+  if (Array.isArray(value)) {
+    return value.map(normalizePreviewValue).filter(Boolean).join(", ")
+  }
+  if (typeof value === "boolean") return value ? "true" : ""
+  if (typeof value === "string" && value.endsWith(".md")) {
+    return value.split("/").pop().replace(".md", "")
+  }
+  if (value?.path) {
+    return value.path.split("/").pop().replace(".md", "")
+  }
+  return String(value)
+}
+
+function formatQueryResults(results, format, field) {
+  function getFieldValue(result, fieldName) {
+    if (!fieldName) return ""
+
+    let value = ""
+
+    if (typeof result?.value === "function") {
+      value = result.value(fieldName)
+    }
+
+    if (value == null || value === "") {
+      value = result?.[fieldName]
+    }
+
+    if ((value == null || value === "") && result?.$frontmatter) {
+      value = result.$frontmatter[fieldName]
+    }
+
+    return normalizePreviewValue(value)
+  }
+
+  switch (format) {
+    case "bullet_list":
+      return results.map(r => `- ${r.$name}`).join("\n")
+
+    case "wikilinks":
+      return results.map(r => `[[${r.$path}|${r.$name}]]`).join(", ")
+
+    case "name_and_field":
+      return results
+        .map(r => {
+          const fieldValue = getFieldValue(r, field)
+          return fieldValue ? `${r.$name} — ${fieldValue}` : r.$name
+        })
+        .join("\n")
+
+    case "bullet_name_and_field":
+      return results
+        .map(r => {
+          const fieldValue = getFieldValue(r, field)
+          return fieldValue ? `- ${r.$name}: ${fieldValue}` : `- ${r.$name}`
+        })
+        .join("\n")
+
+    case "wikilink_and_field":
+      return results
+        .map(r => {
+          const link = `[[${r.$path}|${r.$name}]]`
+          const fieldValue = getFieldValue(r, field)
+          return fieldValue ? `${link} — ${fieldValue}` : link
+        })
+        .join("\n")
+
+    case "list_names":
+    default:
+      return results.map(r => r.$name).join(", ")
+  }
+}
+
+function buildPreview({ templateText, fields, contextDefs, getStoredValue, resolvedContext }) {
+  let output = templateText
+  const errors = []
+  const warnings = []
+
+  for (const [fieldName, def] of Object.entries(fields || {})) {
+    const fieldKey = `${normalizeToken(fieldName)}_value`
+    const raw = getStoredValue(fieldKey)
+
+    if (def?.required && (raw === "" || raw == null || raw === false)) {
+      errors.push(`Missing required field: ${fieldName}`)
+    }
+  }
+
+  output = output.replace(/{{#if\s+(.+?)}}([\s\S]*?){{\/if}}/g, (_, tokenName, inner) => {
+    const normalized = normalizeToken(tokenName)
+
+    if (normalized in (fields || {})) {
+      const raw = getStoredValue(`${normalized}_value`)
+      return raw ? inner : ""
+    }
+
+    if (normalized in (contextDefs || {})) {
+      const raw = resolvedContext[normalized]
+      return raw ? inner : ""
+    }
+
+    errors.push(`Unknown conditional token: ${tokenName}`)
+    return ""
+  })
+
+  const plainTokens = extractTokens(output).filter(
+    t => !t.startsWith("#if ") && !t.startsWith("/if")
+  )
+
+  for (const token of plainTokens) {
+    const normalized = normalizeToken(token)
+    const isField = normalized in (fields || {})
+    const isContext = normalized in (contextDefs || {})
+
+    if (!isField && !isContext) {
+      errors.push(`Unknown token: ${token}`)
+      continue
+    }
+
+    let rawValue = ""
+    if (isContext) {
+      rawValue = resolvedContext[normalized]
+    } else {
+      rawValue = getStoredValue(`${normalized}_value`)
+    }
+
+    const replacement = normalizePreviewValue(rawValue)
+
+    if (replacement === "") {
+      if (isField && fields[normalized]?.required) {
+        errors.push(`Missing value for token: ${token}`)
+      } else if (isContext) {
+        warnings.push(`Context token resolved empty: ${token}`)
+      }
+      continue
+    }
+
+    output = output.replaceAll(`{{${token}}}`, replacement)
+  }
+
+  output = output
+    .replace(/{{#if\s+.+?}}/g, "")
+    .replace(/{{\/if}}/g, "")
+    .trim()
+
+  return { output, errors, warnings }
+}
+
+function TextField({ token, def, getStoredValue, setValue }) {
+  const field = `${token}_value`
+  const label = def.label || humanizeToken(token)
+  const value = getStoredValue(field)
+
+  return (
+    <div>
+      <label>{label}</label>
+      <input
+        type="text"
+        value={value}
+        placeholder={def.placeholder || ""}
+        onChange={e => setValue(field, e.target.value)}
+      />
+    </div>
+  )
+}
+
+function TextAreaField({ token, def, getStoredValue, setValue }) {
+  const field = `${token}_value`
+  const label = def.label || humanizeToken(token)
+  const value = getStoredValue(field)
+
+  return (
+    <div>
+      <label>{label}</label>
+      <textarea
+        value={value}
+        placeholder={def.placeholder || ""}
+        onChange={e => setValue(field, e.target.value)}
+      />
+    </div>
+  )
+}
+
+function ToggleField({ token, def, getStoredValue, setValue }) {
+  const field = `${token}_value`
+  const label = def.label || humanizeToken(token)
+  const value = !!getStoredValue(field)
+
+  return (
+    <div>
+      <label>
+        <input
+          type="checkbox"
+          checked={value}
+          onChange={e => setValue(field, e.target.checked)}
+        />
+        {" "}{label}
+      </label>
+    </div>
+  )
+}
+
+function SelectStaticField({ token, def, getStoredValue, setValue }) {
+  const field = `${token}_value`
+  const label = def.label || humanizeToken(token)
+  const value = getStoredValue(field)
+  const options = (def.options || []).map(o =>
+    typeof o === "string" ? { label: o, value: o } : o
+  )
+
+  return (
+    <div>
+      <label>{label}</label>
+      <select value={value} onChange={e => setValue(field, e.target.value)}>
+        <option value=""></option>
+        {options.map(o => (
+          <option key={o.value} value={o.value}>{o.label}</option>
+        ))}
+      </select>
+    </div>
+  )
+}
+
+function SelectQueryField({ token, def, getStoredValue, setValue, dc }) {
+  const field = `${token}_value`
+  const label = def.label || humanizeToken(token)
+  const value = getStoredValue(field)
+  const results = dc.useQuery(def.query || "")
+  const options = results.map(p => ({ label: p.$name, value: p.$path }))
+
+  return (
+    <div>
+      <label>{label}</label>
+      <select value={value} onChange={e => setValue(field, e.target.value)}>
+        <option value=""></option>
+        {options.map(o => (
+          <option key={o.value} value={o.value}>{o.label}</option>
+        ))}
+      </select>
+    </div>
+  )
+}
+
+function SuggesterField({ token, def, getStoredValue, setValue, dc }) {
+  const field = `${token}_value`
+  const label = def.label || humanizeToken(token)
+  const storedValue = getStoredValue(field)
+  const results = dc.useQuery(def.query || "")
+  const allOptions = results.map(p => ({
+    label: p.$name,
+    value: p.$path
+  }))
+
+  const initialLabel =
+    allOptions.find(o => o.value === storedValue)?.label ||
+    (typeof storedValue === "string" && !storedValue.endsWith(".md") ? storedValue : "")
+
+  const [inputValue, setInputValue] = dc.useState(initialLabel)
+
+  dc.useEffect(() => {
+    const nextLabel =
+      allOptions.find(o => o.value === storedValue)?.label ||
+      (typeof storedValue === "string" && !storedValue.endsWith(".md") ? storedValue : "")
+    setInputValue(nextLabel)
+  }, [storedValue, results.length])
+
+  const filteredOptions = allOptions.filter(o =>
+    o.label.toLowerCase().includes((inputValue || "").toLowerCase())
+  )
+
+  return (
+    <div>
+      <label>{label}</label>
+      <input
+        list={`${field}_list`}
+        value={inputValue}
+        placeholder={def.placeholder || ""}
+        onChange={e => {
+          const text = e.target.value
+          setInputValue(text)
+
+          const exactMatch = allOptions.find(
+            o => o.label.toLowerCase() === text.toLowerCase()
+          )
+
+          if (exactMatch) {
+            setValue(field, exactMatch.value)
+          } else if (text === "") {
+            setValue(field, "")
+          }
+        }}
+      />
+      <datalist id={`${field}_list`}>
+        {filteredOptions.map(o => (
+          <option key={o.value} value={o.label} />
+        ))}
+      </datalist>
+    </div>
+  )
+}
+
+function FieldRenderer({ token, def, getStoredValue, setValue, dc }) {
+  if (def.type === "textarea") {
+    return <TextAreaField token={token} def={def} getStoredValue={getStoredValue} setValue={setValue} />
+  }
+
+  if (def.type === "toggle") {
+    return <ToggleField token={token} def={def} getStoredValue={getStoredValue} setValue={setValue} />
+  }
+
+  if (def.type === "select" && def.query) {
+    return <SelectQueryField token={token} def={def} getStoredValue={getStoredValue} setValue={setValue} dc={dc} />
+  }
+
+  if (def.type === "select") {
+    return <SelectStaticField token={token} def={def} getStoredValue={getStoredValue} setValue={setValue} />
+  }
+
+  if (def.type === "suggester") {
+    return <SuggesterField token={token} def={def} getStoredValue={getStoredValue} setValue={setValue} dc={dc} />
+  }
+
+  return <TextField token={token} def={def} getStoredValue={getStoredValue} setValue={setValue} />
+}
+
+function NoteContentContextResolver({ def, getStoredValue, dc, children }) {
+  const sourceToken = normalizeToken(def.source || "")
+  const sourceField = `${sourceToken}_value`
+  const sourcePath = getStoredValue(sourceField)
+
+  const [content, setContent] = dc.useState("")
+
+  dc.useEffect(() => {
+    if (!sourcePath || typeof sourcePath !== "string") {
+      setContent("")
+      return
+    }
+
+    const file = app.vault.getAbstractFileByPath(sourcePath)
+
+    if (!file) {
+      setContent("")
+      return
+    }
+
+    app.vault.cachedRead(file).then(text => {
+      let output = text
+
+      if (def.strip_frontmatter !== false) {
+        output = stripMarkdownFrontmatter(output)
+      }
+
+      if (def.max_chars) {
+        output = truncateText(output, def.max_chars)
+      }
+
+      setContent(output)
+    })
+  }, [sourcePath, def.strip_frontmatter, def.max_chars])
+
+  return children(content)
+}
+
+function StaticContextResolver({ def, children }) {
+  return children(def.value ?? "")
+}
+
+function DerivedContextResolver({ def, getStoredValue, children }) {
+  const sourceToken = normalizeToken(def.source || "")
+  const sourceField = `${sourceToken}_value`
+  const raw = getStoredValue(sourceField)
+
+  let result = ""
+  if (raw) {
+    if (def.transform === "note_title") {
+      result = normalizePreviewValue(raw)
+    } else {
+      result = normalizePreviewValue(raw)
+    }
+  }
+
+  return children(result)
+}
+
+function NoteFieldContextResolver({ def, getStoredValue, dc, children }) {
+  const sourceToken = normalizeToken(def.source || "")
+  const sourceField = `${sourceToken}_value`
+  const sourcePath = getStoredValue(sourceField)
+  const sourceQuery = sourcePath ? dc.useQuery(`@page and $path = "${sourcePath}"`) : []
+  const sourcePage = sourceQuery[0]
+  const result = sourcePage?.value(def.field) ?? ""
+
+  return children(result)
+}
+
+function DatacoreQueryContextResolver({ def, dc, children }) {
+  const results = dc.useQuery(def.query || "")
+  return children(formatQueryResults(results, def.format, def.field))
+}
+
+function ContextValueResolver({ def, getStoredValue, dc, children }) {
+  if (def.type === "static") {
+    return <StaticContextResolver def={def} children={children} />
+  }
+
+  if (def.type === "derived") {
+    return <DerivedContextResolver def={def} getStoredValue={getStoredValue} children={children} />
+  }
+
+  if (def.type === "note_field") {
+    return <NoteFieldContextResolver def={def} getStoredValue={getStoredValue} dc={dc} children={children} />
+  }
+
+  if (def.type === "note_content") {
+    return <NoteContentContextResolver def={def} getStoredValue={getStoredValue} dc={dc} children={children} />
+  }
+
+  if (def.type === "datacore_query") {
+    return <DatacoreQueryContextResolver def={def} dc={dc} children={children} />
+  }
+
+  return children("")
+}
+
+function ContextCollector({ contextEntries, index, resolvedSoFar, getStoredValue, dc, children }) {
+  if (index >= contextEntries.length) {
+    return children(resolvedSoFar)
+  }
+
+  const [token, def] = contextEntries[index]
+
+  return (
+    <ContextValueResolver def={def} getStoredValue={getStoredValue} dc={dc}>
+      {(resolvedValue) => (
+        <ContextCollector
+          contextEntries={contextEntries}
+          index={index + 1}
+          resolvedSoFar={{ ...resolvedSoFar, [token]: resolvedValue }}
+          getStoredValue={getStoredValue}
+          dc={dc}
+          children={children}
+        />
+      )}
+    </ContextValueResolver>
+  )
+}
+
 return function PromptBuilderV2() {
   const currentPage = dc.useCurrentFile()
   const promptTemplates = dc.useQuery(`@page and path("Prompt Builder Templates")`)
+  const [copyState, setCopyState] = dc.useState("")
+
+  function copyPrompt(text) {
+    navigator.clipboard.writeText(text).then(() => {
+      setCopyState("Copied")
+      setTimeout(() => setCopyState(""), 1200)
+    })
+  }
 
   const [selectedPromptPath, setSelectedPromptPath] = dc.useState(
     currentPage.value("selected_prompt_path") || ""
   )
 
-  const previousPromptRef = dc.useRef(currentPage.value("selected_prompt_path") || "")
-
   const [templateText, setTemplateText] = dc.useState("")
   const [values, setValues] = dc.useState({})
-  const [contextValues, setContextValues] = dc.useState({})
-  const [copyState, setCopyState] = dc.useState("")
+  const previousPromptRef = dc.useRef(currentPage.value("selected_prompt_path") || "")
+  const writeTimeoutRef = dc.useRef({})
 
   const templatePage = promptTemplates.find(p => p.$path === selectedPromptPath)
+  const fields = templatePage?.value("fields") || {}
+  const contextDefs = templatePage?.value("context") || {}
 
-  const templateDefs = Object.assign(
-    {},
-    currentPage.value("template_definitions") || {},
-    templatePage?.value("template_definitions") || {}
-  )
+  function getStoredValue(field) {
+    return values[field] ?? currentPage.value(field) ?? ""
+  }
 
-  const contextDefs = Object.assign(
-    {},
-    currentPage.value("context_definitions") || {},
-    templatePage?.value("context_definitions") || {}
-  )
+  function setValue(field, val) {
+    setValues(v => ({ ...v, [field]: val }))
 
-  const outputConfig = templatePage?.value("output") || {}
+    if (writeTimeoutRef.current[field]) {
+      clearTimeout(writeTimeoutRef.current[field])
+    }
+
+    writeTimeoutRef.current[field] = setTimeout(() => {
+      app.fileManager.processFrontMatter(
+        app.workspace.getActiveFile(),
+        fm => { fm[field] = val }
+      )
+    }, 250)
+  }
+
+  dc.useEffect(() => {
+    return () => {
+      Object.values(writeTimeoutRef.current).forEach(timeoutId => clearTimeout(timeoutId))
+    }
+  }, [])
 
   dc.useEffect(() => {
     const previous = previousPromptRef.current
 
     if (previous && previous !== selectedPromptPath) {
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), fm => {
-        fm.selected_prompt_path = selectedPromptPath
-        const keys = Object.keys(fm).filter(k => k.endsWith("_value"))
-        for (const key of keys) delete fm[key]
-      })
+      app.fileManager.processFrontMatter(
+        app.workspace.getActiveFile(),
+        fm => {
+          fm.selected_prompt_path = selectedPromptPath
+          const keys = Object.keys(fm).filter(k => k.endsWith("_value"))
+          for (const key of keys) delete fm[key]
+        }
+      )
       setValues({})
-      setContextValues({})
     } else if (!previous) {
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), fm => {
-        fm.selected_prompt_path = selectedPromptPath
-      })
+      app.fileManager.processFrontMatter(
+        app.workspace.getActiveFile(),
+        fm => {
+          fm.selected_prompt_path = selectedPromptPath
+        }
+      )
     }
 
     previousPromptRef.current = selectedPromptPath
@@ -75,283 +572,12 @@ return function PromptBuilderV2() {
     }
 
     app.vault.cachedRead(file).then(text => {
-      const cleaned = text.replace(/^---[\s\S]*?---/, "").trim()
-      setTemplateText(cleaned)
+      setTemplateText(stripFrontmatter(text))
     })
   }, [selectedPromptPath, templatePage?.$mtime])
 
-  const orderedFields = dc.useMemo(() => {
-    return Object.entries(templateDefs)
-  }, [templatePage?.$mtime, selectedPromptPath])
-
-  function normalizeToken(token) {
-    return token.replaceAll(" ", "_").trim()
-  }
-
-  function humanizeToken(token) {
-    return token
-      .replaceAll("_", " ")
-      .replace(/\b\w/g, c => c.toUpperCase())
-  }
-
-  function normalizePreviewValue(value) {
-    if (value == null) return ""
-    if (Array.isArray(value)) return value.map(normalizePreviewValue).join(", ")
-    if (typeof value === "string" && value.endsWith(".md")) {
-      return value.split("/").pop().replace(".md", "")
-    }
-    if (value?.path) {
-      return value.path.split("/").pop().replace(".md", "")
-    }
-    if (typeof value === "boolean") return value ? "true" : "false"
-    return String(value)
-  }
-
-  function setValue(field, val) {
-    setValues(v => ({ ...v, [field]: val }))
-    app.fileManager.processFrontMatter(app.workspace.getActiveFile(), fm => {
-      fm[field] = val
-    })
-  }
-
-  async function computeContextValues() {
-    const computed = {}
-
-    for (const [token, def] of Object.entries(contextDefs)) {
-      if (def.type === "note_field") {
-        const sourceToken = normalizeToken(def.source_token || "")
-        const sourceField = `${sourceToken}_value`
-        const sourcePath = values[sourceField] ?? currentPage.value(sourceField)
-
-        if (!sourcePath) {
-          computed[token] = ""
-          continue
-        }
-
-        const sourcePage = dc.useQuery(`@page and $path = "${sourcePath}"`)[0]
-        computed[token] = sourcePage?.value(def.field) ?? ""
-      }
-
-      if (def.type === "datacore_query") {
-        const results = dc.useQuery(def.query || "")
-        if (def.format === "list_names") {
-          computed[token] = results.map(r => r.$name).join(", ")
-        } else if (def.format === "bullet_list") {
-          computed[token] = results.map(r => `- ${r.$name}`).join("\n")
-        } else {
-          computed[token] = results.map(r => r.$name).join(", ")
-        }
-      }
-
-      if (def.type === "static") {
-        computed[token] = def.value ?? ""
-      }
-    }
-
-    setContextValues(computed)
-  }
-
-  dc.useEffect(() => {
-    computeContextValues()
-  }, [JSON.stringify(values), selectedPromptPath, templatePage?.$mtime])
-
-  const templateTokens = dc.useMemo(() => {
-    return [...templateText.matchAll(/{{(.*?)}}/g)]
-      .map(m => m[1].trim())
-      .filter((v, i, a) => a.indexOf(v) === i)
-  }, [templateText])
-
-  const preview = dc.useMemo(() => {
-    let output = templateText
-    const errors = []
-    const warnings = []
-
-    const conditionalRegex = /{{#if\s+(.+?)}}([\s\S]*?){{\/if}}/g
-    output = output.replace(conditionalRegex, (_, tokenName, inner) => {
-      const normalized = normalizeToken(tokenName)
-      const field = `${normalized}_value`
-      const rawValue = values[field] ?? currentPage.value(field)
-      return rawValue ? inner : ""
-    })
-
-    for (const token of templateTokens) {
-      if (token.startsWith("#if ") || token.startsWith("/if")) continue
-
-      const normalized = normalizeToken(token)
-
-      let rawValue = contextValues[normalized]
-
-      if (rawValue == null || rawValue === "") {
-        const field = `${normalized}_value`
-        rawValue = values[field] ?? currentPage.value(field)
-      }
-
-      const previewValue = normalizePreviewValue(rawValue)
-
-      const isDefinedField = normalized in templateDefs
-      const isDefinedContext = normalized in contextDefs
-
-      if (!isDefinedField && !isDefinedContext) {
-        errors.push(`Unknown token: ${token}`)
-        continue
-      }
-
-      if (previewValue === "") {
-        if (isDefinedField && templateDefs[normalized]?.type !== "toggle") {
-          errors.push(`Missing value for: ${token}`)
-        } else if (isDefinedContext) {
-          warnings.push(`Context token resolved empty: ${token}`)
-        }
-        continue
-      }
-
-      output = output.replaceAll(`{{${token}}}`, previewValue)
-    }
-
-    output = output
-      .replace(/{{#if\s+.+?}}/g, "")
-      .replace(/{{\/if}}/g, "")
-      .trim()
-
-    let formattedOutput = output
-
-    if (outputConfig.mode === "yaml") {
-      formattedOutput = `---\n${output}\n---`
-    } else if (outputConfig.mode === "markdown_codeblock") {
-      formattedOutput = "```md\n" + output + "\n```"
-    }
-
-    return {
-      output: formattedOutput,
-      rawOutput: output,
-      errors,
-      warnings
-    }
-  }, [
-    templateText,
-    templateTokens,
-    values,
-    contextValues,
-    selectedPromptPath,
-    templatePage?.$mtime
-  ])
-
-  function renderField(token, def) {
-    const field = `${token}_value`
-    const label = def.label || humanizeToken(token)
-    const storedValue = values[field] ?? currentPage.value(field) ?? ""
-
-    if (def.type === "textarea") {
-      return (
-        <div key={token}>
-          <label>{label}</label>
-          <textarea
-            value={storedValue}
-            onChange={e => setValue(field, e.target.value)}
-          />
-        </div>
-      )
-    }
-
-    if (def.type === "toggle") {
-      return (
-        <div key={token}>
-          <label>
-            <input
-              type="checkbox"
-              checked={!!storedValue}
-              onChange={e => setValue(field, e.target.checked)}
-            />
-            {" "}{label}
-          </label>
-        </div>
-      )
-    }
-
-    if (def.type === "select") {
-      let options = []
-
-      if (def.options) {
-        options = def.options.map(o =>
-          typeof o === "string" ? { label: o, value: o } : o
-        )
-      } else if (def.query) {
-        const results = dc.useQuery(def.query)
-        options = results.map(p => ({ label: p.$name, value: p.$path }))
-      }
-
-      return (
-        <div key={token}>
-          <label>{label}</label>
-          <select
-            value={storedValue}
-            onChange={e => setValue(field, e.target.value)}
-          >
-            <option value=""></option>
-            {options.map(o => (
-              <option key={o.value} value={o.value}>{o.label}</option>
-            ))}
-          </select>
-        </div>
-      )
-    }
-
-    if (def.type === "suggester") {
-      const results = def.query ? dc.useQuery(def.query) : []
-      const allOptions = results.map(p => ({
-        label: p.$name,
-        value: p.$path
-      }))
-
-      const initialLabel =
-        allOptions.find(o => o.value === storedValue)?.label ||
-        (typeof storedValue === "string" && !storedValue.endsWith(".md") ? storedValue : "")
-
-      const [inputValue, setInputValue] = dc.useState(initialLabel)
-
-      const filteredOptions = allOptions.filter(o =>
-        o.label.toLowerCase().includes((inputValue || "").toLowerCase())
-      )
-
-      return (
-        <div key={token}>
-          <label>{label}</label>
-          <input
-            list={`${field}_list`}
-            value={inputValue}
-            onChange={e => {
-              const text = e.target.value
-              setInputValue(text)
-
-              const match = allOptions.find(
-                o => o.label.toLowerCase() === text.toLowerCase()
-              )
-
-              if (match) {
-                setValue(field, match.value)
-              }
-            }}
-          />
-          <datalist id={`${field}_list`}>
-            {filteredOptions.map(o => (
-              <option key={o.value} value={o.label} />
-            ))}
-          </datalist>
-        </div>
-      )
-    }
-
-    return (
-      <div key={token}>
-        <label>{label}</label>
-        <input
-          type="text"
-          value={storedValue}
-          onChange={e => setValue(field, e.target.value)}
-        />
-      </div>
-    )
-  }
+  const fieldEntries = Object.entries(fields)
+  const contextEntries = Object.entries(contextDefs)
 
   return (
     <div>
@@ -375,42 +601,73 @@ return function PromptBuilderV2() {
       }
 
       {selectedPromptPath && templateText && (
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1rem" }}>
-          <div>
-            <h3>Prompt Inputs</h3>
-            {orderedFields.map(([token, def]) => renderField(token, def))}
-          </div>
+        <ContextCollector
+          contextEntries={contextEntries}
+          index={0}
+          resolvedSoFar={{}}
+          getStoredValue={getStoredValue}
+          dc={dc}
+        >
+          {(resolvedContext) => {
+            const preview = buildPreview({
+              templateText,
+              fields,
+              contextDefs,
+              getStoredValue,
+              resolvedContext
+            })
 
-          <div>
-            <h3>Prompt Preview</h3>
+            return (
+              <div style={{
+                display: "grid",
+                gridTemplateColumns: "1fr 1fr",
+                gap: "1rem"
+              }}>
+                <div>
+                  <h3>Prompt Inputs</h3>
+                  {fieldEntries.map(([token, def]) => (
+                    <div key={`field-${normalizeToken(token)}`}>
+                      <FieldRenderer
+                        token={normalizeToken(token)}
+                        def={def}
+                        getStoredValue={getStoredValue}
+                        setValue={setValue}
+                        dc={dc}
+                      />
+                    </div>
+                  ))}
+                </div>
 
-            {preview.errors.length > 0 && (
-              <div class="callout callout-error">
-                {preview.errors.map((e, i) => <div key={i}>{e}</div>)}
+                <div>
+                  <h3>Prompt Preview</h3>
+                  <div style={{ marginTop: "0.75rem" }}>
+                    <button onClick={() => copyPrompt(preview.output)}>
+                      Copy Prompt
+                    </button>
+
+                    {copyState && (
+                      <span style={{ marginLeft: "0.5rem" }}>{copyState}</span>
+                    )}
+                  </div>
+
+                  {preview.errors.length > 0 && (
+                    <div class="callout callout-error">
+                      {preview.errors.map((e, i) => <div key={i}>{e}</div>)}
+                    </div>
+                  )}
+
+                  {preview.warnings.length > 0 && (
+                    <div class="callout callout-warning">
+                      {preview.warnings.map((w, i) => <div key={i}>{w}</div>)}
+                    </div>
+                  )}
+
+                  <pre>{preview.output}</pre>
+                </div>
               </div>
-            )}
-
-            {preview.warnings.length > 0 && (
-              <div class="callout callout-warning">
-                {preview.warnings.map((w, i) => <div key={i}>{w}</div>)}
-              </div>
-            )}
-
-            <pre>{preview.output}</pre>
-
-            <button
-              onClick={() => {
-                navigator.clipboard.writeText(preview.rawOutput)
-                setCopyState("Copied")
-                setTimeout(() => setCopyState(""), 1200)
-              }}
-            >
-              Copy AI Output
-            </button>
-
-            {copyState && <span style={{ marginLeft: "0.5rem" }}>{copyState}</span>}
-          </div>
-        </div>
+            )
+          }}
+        </ContextCollector>
       )}
     </div>
   )
