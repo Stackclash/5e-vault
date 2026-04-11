@@ -126,5 +126,6 @@
   "firstTimeInsertOverview": true,
   "fvGlobalSettings": {
     "autoUpdateLinks": false
-  }
+  },
+  "hideFolderNoteNameInPath": false
 }
