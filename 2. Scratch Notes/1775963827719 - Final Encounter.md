@@ -26,3 +26,13 @@
 ### Round 1
 
 ##### Faerah Duskrane's turn
+Combat stopped
+Assassin 1 initiative changed to 14
+Assassin 2 initiative changed to 23
+Assassin 3 initiative changed to 7
+Roark Battleborn initiative changed to 9
+Faerah Duskrane initiative changed to 15
+Redgrave initiative changed to 19
+Wisp initiative changed to 22
+Yevelda Ovak  initiative changed to 16
+Combat re-started

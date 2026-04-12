@@ -163,7 +163,7 @@
     "creatures": [
       {
         "name": "Redgrave",
-        "initiative": 15,
+        "initiative": 19,
         "static": false,
         "modifier": -1,
         "hp": 48,
@@ -185,7 +185,7 @@
       },
       {
         "name": "Yevelda Ovak ",
-        "initiative": 12,
+        "initiative": 16,
         "static": false,
         "modifier": 2,
         "hp": 92,
@@ -207,7 +207,7 @@
       },
       {
         "name": "Faerah Duskrane",
-        "initiative": 25,
+        "initiative": 15,
         "static": false,
         "modifier": 7,
         "hp": 63,
@@ -229,7 +229,7 @@
       },
       {
         "name": "Wisp",
-        "initiative": 17,
+        "initiative": 22,
         "static": false,
         "modifier": 4,
         "hp": 42,
@@ -251,7 +251,7 @@
       },
       {
         "name": "Roark Battleborn",
-        "initiative": 19,
+        "initiative": 9,
         "static": false,
         "modifier": 2,
         "hp": 137,
@@ -317,7 +317,7 @@
       },
       {
         "name": "Assassin",
-        "initiative": 20,
+        "initiative": 14,
         "static": false,
         "modifier": 3,
         "hp": 78,
@@ -339,7 +339,7 @@
       },
       {
         "name": "Assassin",
-        "initiative": 15,
+        "initiative": 23,
         "static": false,
         "modifier": 3,
         "hp": 78,
@@ -361,7 +361,7 @@
       },
       {
         "name": "Assassin",
-        "initiative": 11,
+        "initiative": 7,
         "static": false,
         "modifier": 3,
         "hp": 78,
