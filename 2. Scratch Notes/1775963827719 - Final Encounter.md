@@ -1,0 +1,28 @@
+**Combat started 4/11/2026, 10:17:07 PM**
+
+
+## Players
+| Player | Initiative | HP | Statuses |
+| --- | :-: | :-: | :-: |
+| Faerah Duskrane | 25 | 63/63 | - |
+| Roark Battleborn | 19 | 137/137 | - |
+| Wisp | 17 | 42/42 | - |
+| Redgrave | 15 | 48/48 | - |
+| Yevelda Ovak  | 12 | 92/92 | - |
+## Creatures
+| Creature | Initiative  | HP | Statuses |
+| --- | :-: | :-: | :-: |
+| Assassin 1 | 20 | 78/78 | - |
+| Evoker Wizard (MPMM) 2 | 16 | 121/121 | - |
+| Assassin 2 | 15 | 78/78 | - |
+| Necromancer Wizard (MPMM) 1 | 14 | 110/110 | - |
+| Evoker Wizard (MPMM) 1 | 13 | 121/121 | - |
+| Assassin 3 | 11 | 78/78 | - |
+| Necromancer Wizard (MPMM) 2 | 7 | 110/110 | - |
+
+
+## Combat Log
+
+### Round 1
+
+##### Faerah Duskrane's turn

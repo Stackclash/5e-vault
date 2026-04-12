@@ -5745,7 +5745,7 @@ Start processing...`),await this.monitorPipeline(n)}catch(a){console.error("Batc
 `;r+=`# You can edit this file manually before restarting.
 
 `,r+=`WORKING_DIR=${I}
-`,r+=`HOST=0.0.0.0
+`,r+=`HOST=127.0.0.1
 `,r+=`PORT=9621
 `,r+=`SUMMARY_LANGUAGE=${this.settings.lightRagSummaryLanguage||"English"}
 `,r+=`
