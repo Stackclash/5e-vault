@@ -36,3 +36,11 @@ Redgrave initiative changed to 19
 Wisp initiative changed to 22
 Yevelda Ovak  initiative changed to 16
 Combat re-started
+##### Necromancer Wizard (MPMM) 1's turn
+##### Faerah Duskrane's turn
+##### Evoker Wizard (MPMM) 2's turn
+##### Yevelda Ovak 's turn
+##### Redgrave's turn
+##### Wisp's turn
+##### Assassin 2's turn
+##### Wisp's turn
