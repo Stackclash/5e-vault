@@ -102,23 +102,9 @@
               "icon": "lucide-file",
               "title": "2026-03-22"
             }
-          },
-          {
-            "id": "6a663c1a0f8082ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Spells/Animate Objects.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Animate Objects"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -348,8 +334,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_991b3b480ac8",
-                "creatureName": "Assassin"
+                "creatureId": "ID_380bf82b49f8",
+                "creatureName": "Evoker Wizard (MPMM)"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -386,8 +372,9 @@
       "neural-composer:Open Neural Composer": false
     }
   },
-  "active": "6a663c1a0f8082ca",
+  "active": "8b13ee939aeba906",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Animate Objects.md",
     "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "5. Mechanics/Classes/Barbarian.md",
@@ -413,7 +400,6 @@
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
     "1. DM Toolkit/Knowledge/Sources/Articles/Your GM Style & Why It Matters the 5 Common GM Styles.md",
     "1. DM Toolkit/Knowledge/Sources/Articles/The Real Reasons Why We Play DnD & Other RPGs.md",
-    "1. DM Toolkit/Knowledge/Sources/Articles/Build an Entire D&D Campaign Setting in LESS THAN 1 HOUR.md",
     "1. DM Toolkit/Knowledge/Sources/Tweets",
     "1. DM Toolkit/Knowledge/Sources/Podcasts",
     "1. DM Toolkit/Knowledge/Sources/Articles",
