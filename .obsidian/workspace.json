@@ -36,6 +36,16 @@
             }
           },
           {
+            "id": "eb4d195207f5e4ee",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
             "id": "66a84b0632d62428",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,8 +236,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -310,12 +320,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,15 +347,15 @@
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
-      "neural-composer:Open Neural Composer": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "79cbe89df7132544",
+  "active": "f2fbbddf6a286fc9",
   "lastOpenFiles": [
-    "1. DM Toolkit/Configuration.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S38 New Session Journal.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
+    "5. Mechanics/Items/Immovable Rod.md",
+    "1. DM Toolkit/Configuration.md",
     "4. World Almanac/NPCs/Merrin Thricefold.md",
     "4. World Almanac/NPCs/NPCs.md",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
@@ -369,7 +378,6 @@
     "1. DM Toolkit/Knowledge/Sources/Articles/Build an Entire D&D Campaign Setting in LESS THAN 1 HOUR.md",
     "1. DM Toolkit/Knowledge/Sources/Articles/How Epic D&D Stories Come to Be.md",
     "1. DM Toolkit/Knowledge/Sources/Articles/Ten Ground Rules for Becoming a Great Game Master Part 2.md",
-    "1. DM Toolkit/Knowledge/Sources/Articles/Ten Ground Rules for Becoming a Great Game Master Part 1.md",
     "1. DM Toolkit/Knowledge/Sources/Tweets",
     "1. DM Toolkit/Knowledge/Sources/Podcasts",
     "1. DM Toolkit/Knowledge/Sources/Articles",
