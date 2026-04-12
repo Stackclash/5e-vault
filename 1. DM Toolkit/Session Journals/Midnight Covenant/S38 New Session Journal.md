@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: edit
-date: 2026-03-22
+obsidianUIMode: preview
+date: 2026-04-11
 summary:
 fc-date: 973-2-25
-fc-end:
-timelines:
+fc-end: 
+timelines: 
   - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[2026-04-11|Session Prep]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2026-04-11.md|2026-04-11]]"
 tags:
   - session-journal
 ---
