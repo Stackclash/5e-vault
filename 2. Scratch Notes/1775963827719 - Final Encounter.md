@@ -46,3 +46,7 @@ Combat re-started
 ##### Wisp's turn
 ##### Redgrave's turn
 Necromancer Wizard (MPMM) 1 was healed for 13 HP.
+Necromancer Wizard (MPMM) 1 was healed for 13 HP.
+Necromancer Wizard (MPMM) 1 took 13 damage.
+Necromancer Wizard (MPMM) 1 took 26 damage.
+##### Yevelda Ovak 's turn
