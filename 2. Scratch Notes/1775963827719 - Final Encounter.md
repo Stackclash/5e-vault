@@ -50,3 +50,4 @@ Necromancer Wizard (MPMM) 1 was healed for 13 HP.
 Necromancer Wizard (MPMM) 1 took 13 damage.
 Necromancer Wizard (MPMM) 1 took 26 damage.
 ##### Yevelda Ovak 's turn
+##### Evoker Wizard (MPMM) 2's turn
