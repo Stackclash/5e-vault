@@ -58,3 +58,7 @@ Necromancer Wizard (MPMM) 1 took 37 damage.
 ##### Evoker Wizard (MPMM) 1's turn
 ##### Roark Battleborn's turn
 ##### Necromancer Wizard (MPMM) 2's turn
+##### Assassin 3's turn
+### Round 2
+##### Assassin 2's turn
+##### Wisp's turn

@@ -245,7 +245,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -309,7 +309,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "20d8 + 20",
@@ -428,7 +428,7 @@
     ],
     "state": true,
     "name": "Final Encounter",
-    "round": 1,
+    "round": 2,
     "logFile": "2. Scratch Notes/1775963827719 - Final Encounter.md",
     "rollHP": false
   },
