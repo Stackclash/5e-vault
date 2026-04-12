@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
 date: 2026-04-11
-summary:
+summary: |-
+  - Dareliean - alchemist madman
+  - 
 fc-date: 973-2-25
-fc-end: 
-timelines: 
+fc-end:
+timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
