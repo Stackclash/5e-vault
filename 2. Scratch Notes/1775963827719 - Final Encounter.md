@@ -44,3 +44,5 @@ Combat re-started
 ##### Wisp's turn
 ##### Assassin 2's turn
 ##### Wisp's turn
+##### Redgrave's turn
+Necromancer Wizard (MPMM) 1 was healed for 13 HP.
