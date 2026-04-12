@@ -54,3 +54,5 @@ Necromancer Wizard (MPMM) 1 took 26 damage.
 ##### Faerah Duskrane's turn
 Necromancer Wizard (MPMM) 1 took 37 damage.
 ##### Necromancer Wizard (MPMM) 1's turn
+##### Assassin 1's turn
+##### Evoker Wizard (MPMM) 1's turn
