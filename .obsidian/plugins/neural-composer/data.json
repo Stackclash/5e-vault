@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "providers": [
     {
       "type": "openai",
@@ -298,6 +298,9 @@
     "enableTools": true,
     "maxAutoIterations": 1
   },
+  "lightRagUseRemote": false,
+  "lightRagServerUrl": "http://localhost:9621",
+  "lightRagApiKey": "",
   "enableAutoStartServer": false,
   "lightRagCommand": "lightrag-server",
   "lightRagWorkDir": "/Users/rcox/Projects/Personal/5e-vault/.neural_memory",
