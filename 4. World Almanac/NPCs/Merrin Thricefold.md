@@ -11,11 +11,11 @@ tags:
 aliases:
   - Merrin Thricefold
 pronounced:
-race: "[[5. Mechanics/Races/Aarakocra (DMG).md|Aarakocra (DMG)]]"
+race: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]"
 gender: male
 age: 62
 alignment: Chaotic Good
-occupation: ""
+occupation: []
 groups: []
 religions: []
 personality: Quick-witted, paranoid, and deeply curious. Merrin rarely answers a question directly if a riddle would do instead.˜
