@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -333,8 +333,9 @@
       "neural-composer:Open Neural Composer": false
     }
   },
-  "active": "512bdf913974532a",
+  "active": "0433f371c1cf8166",
   "lastOpenFiles": [
+    "4. World Almanac/Settlements/Bruokdon.md",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "5. Mechanics/Items/Horseshoes Of Speed.md",
     "1. DM Toolkit/Tools/Critical Tables.md",
@@ -360,7 +361,6 @@
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-04-11.md",
     "Prompt Builder Templates/DM Knowledge Summarizer.md",
-    "Prompt Builder.md",
     "1. DM Toolkit/Knowledge/Sources/Tweets",
     "1. DM Toolkit/Knowledge/Sources/Podcasts",
     "1. DM Toolkit/Knowledge/Sources/Articles",
