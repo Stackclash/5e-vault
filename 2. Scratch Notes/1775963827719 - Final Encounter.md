@@ -64,3 +64,5 @@ Necromancer Wizard (MPMM) 1 took 37 damage.
 ##### Wisp's turn
 ##### Redgrave's turn
 ##### Yevelda Ovak 's turn
+Assassin 3 took 18 damage.
+Assassin 3 took 32 damage.
