@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
-                "mode": "preview",
+                "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-28"
+              "title": "2026-05-02"
             }
           },
           {
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -333,15 +333,15 @@
       "neural-composer:Open Neural Composer": false
     }
   },
-  "active": "512bdf913974532a",
+  "active": "40aa1838545e192f",
   "lastOpenFiles": [
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
+    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
+    "4. World Almanac/Settlements/Bruokdon.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-04-11.md",
     "5. Mechanics/Classes/Cleric Trickery Domain.md",
-    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
-    "4. World Almanac/Settlements/Bruokdon.md",
     "5. Mechanics/Spells/Teleport.md",
     "1. DM Toolkit/Configuration.md",
     "4. World Almanac/NPCs/Merrin Thricefold.md",
