@@ -285,17 +285,17 @@
         "currentTab": 4
       },
       {
-        "id": "033ae3a57ba3e24e",
+        "id": "59b4eff079fbedf0",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2e8cb4f9e83134",
+            "id": "76b6d140c4d05fa9",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_8b7a6979c899",
-                "creatureName": "Necromancer Wizard (MPMM)"
+                "creatureId": "ID_991b3b480ac8",
+                "creatureName": "Assassin"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"

@@ -245,7 +245,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -377,7 +377,7 @@
           "Unconscious"
         ],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "12d8 + 24",
@@ -417,7 +417,7 @@
         "currentAC": 12,
         "path": "5. Mechanics/Bestiary/Humanoid/Evoker Wizard (MPMM).md",
         "id": "ID_380bf82b49f8",
-        "currentHP": 121,
+        "currentHP": 103,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -430,7 +430,7 @@
     ],
     "state": true,
     "name": "Final Encounter",
-    "round": 2,
+    "round": 3,
     "logFile": "2. Scratch Notes/1775963827719 - Final Encounter.md",
     "rollHP": false
   },
