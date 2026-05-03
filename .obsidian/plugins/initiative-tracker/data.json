@@ -283,9 +283,11 @@
         "currentAC": 12,
         "path": "5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md",
         "id": "ID_fbab580958d9",
-        "currentHP": 34,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,

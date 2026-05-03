@@ -82,3 +82,5 @@ Evoker Wizard (MPMM) 2 took 18 damage.
 ### Round 3
 ##### Assassin 2's turn
 ##### Wisp's turn
+Necromancer Wizard (MPMM) 1 took 28 damage.
+Necromancer Wizard (MPMM) 1 took 6 damage.
