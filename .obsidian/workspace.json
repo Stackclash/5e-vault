@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -72,9 +72,23 @@
               "icon": "lucide-file",
               "title": "Bruokdon"
             }
+          },
+          {
+            "id": "b7d7a4d716849479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Toolkit/Configuration.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuration"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -329,22 +343,21 @@
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false,
-      "neural-composer:Open Neural Composer": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "c4dff75fe39603cd",
+  "active": "66a84b0632d62428",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Archmortician Valeris Thorne.md",
-    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
-    "4. World Almanac/Settlements/Bruokdon.md",
-    "5. Mechanics/Spells/Zone Of Truth.md",
     "1. DM Toolkit/Configuration.md",
+    "4. World Almanac/Settlements/Bruokdon.md",
+    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
+    "5. Mechanics/Classes/Cleric Trickery Domain.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md",
+    "4. World Almanac/NPCs/Archmortician Valeris Thorne.md",
+    "5. Mechanics/Spells/Zone Of Truth.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-04-11.md",
-    "5. Mechanics/Classes/Cleric Trickery Domain.md",
     "5. Mechanics/Spells/Teleport.md",
     "4. World Almanac/NPCs/Merrin Thricefold.md",
     "5. Mechanics/Spells/Dimension Door.md",
