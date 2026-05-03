@@ -107,3 +107,10 @@ Assassin 2 took 36 damage.
 Necromancer Wizard (MPMM) 2 took 14 damage.
 Necromancer Wizard (MPMM) 2 took 22 damage.
 Necromancer Wizard (MPMM) 2 took 2 damage.
+.
+Necromancer Wizard (MPMM) 2 took 2 damage.
+##### Necromancer Wizard (MPMM) 2's turn
+##### Assassin 3's turn
+### Round 4
+##### Assassin 2's turn
+##### Wisp's turn

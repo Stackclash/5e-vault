@@ -245,7 +245,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -267,7 +267,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -307,9 +307,11 @@
         "currentAC": 12,
         "path": "5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md",
         "id": "ID_8b7a6979c899",
-        "currentHP": 2,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -434,7 +436,7 @@
     ],
     "state": true,
     "name": "Final Encounter",
-    "round": 3,
+    "round": 4,
     "logFile": "2. Scratch Notes/1775963827719 - Final Encounter.md",
     "rollHP": false
   },
