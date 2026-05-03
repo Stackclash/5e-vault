@@ -67,3 +67,7 @@ Necromancer Wizard (MPMM) 1 took 37 damage.
 Assassin 3 took 18 damage.
 Assassin 3 took 32 damage.
 ##### Evoker Wizard (MPMM) 2's turn
+##### Faerah Duskrane's turn
+##### Necromancer Wizard (MPMM) 1's turn
+##### Assassin 1's turn
+##### Evoker Wizard (MPMM) 1's turn
