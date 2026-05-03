@@ -71,3 +71,10 @@ Assassin 3 took 32 damage.
 ##### Necromancer Wizard (MPMM) 1's turn
 ##### Assassin 1's turn
 ##### Evoker Wizard (MPMM) 1's turn
+##### Roark Battleborn's turn
+Assassin 3 took 15 damage.
+##### Necromancer Wizard (MPMM) 2's turn
+Necromancer Wizard (MPMM) 2 took 12 damage.
+Necromancer Wizard (MPMM) 2 took 16 damage.
+##### Assassin 3's turn
+Assassin 3 took 13 damage.

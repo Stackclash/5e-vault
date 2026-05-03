@@ -285,17 +285,17 @@
         "currentTab": 4
       },
       {
-        "id": "efc9f8243f95c670",
+        "id": "033ae3a57ba3e24e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a013415ecd980e7",
+            "id": "fd2e8cb4f9e83134",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_092b08aaab89",
-                "creatureName": "Evoker Wizard (MPMM)"
+                "creatureId": "ID_8b7a6979c899",
+                "creatureName": "Necromancer Wizard (MPMM)"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
