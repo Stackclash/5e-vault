@@ -114,3 +114,9 @@ Necromancer Wizard (MPMM) 2 took 2 damage.
 ### Round 4
 ##### Assassin 2's turn
 ##### Wisp's turn
+Assassin 1 took 12 damage.
+##### Redgrave's turn
+Evoker Wizard (MPMM) 2 took 18 damage.
+Assassin 1 took 18 damage.
+Evoker Wizard (MPMM) 2 took 22 damage.
+Evoker Wizard (MPMM) 2 took 6 damage.
