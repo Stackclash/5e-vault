@@ -102,3 +102,8 @@ Necromancer Wizard (MPMM) 2 took 20 damage.
 Assassin 2 took 36 damage.
 ##### Necromancer Wizard (MPMM) 1's turn
 ##### Assassin 1's turn
+##### Evoker Wizard (MPMM) 1's turn
+##### Roark Battleborn's turn
+Necromancer Wizard (MPMM) 2 took 14 damage.
+Necromancer Wizard (MPMM) 2 took 22 damage.
+Necromancer Wizard (MPMM) 2 took 2 damage.
