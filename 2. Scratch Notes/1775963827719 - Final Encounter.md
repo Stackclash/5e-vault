@@ -62,3 +62,5 @@ Necromancer Wizard (MPMM) 1 took 37 damage.
 ### Round 2
 ##### Assassin 2's turn
 ##### Wisp's turn
+##### Redgrave's turn
+##### Yevelda Ovak 's turn
