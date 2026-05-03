@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -87,8 +87,7 @@
               "title": "Configuration"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
