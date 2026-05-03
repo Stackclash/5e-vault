@@ -85,3 +85,12 @@ Evoker Wizard (MPMM) 2 took 18 damage.
 Necromancer Wizard (MPMM) 1 took 28 damage.
 Necromancer Wizard (MPMM) 1 took 6 damage.
 ##### Redgrave's turn
+Assassin 2 took 11 damage.
+Evoker Wizard (MPMM) 1 took 22 damage.
+Evoker Wizard (MPMM) 2 took 22 damage.
+Assassin 2 took 22 damage.
+Evoker Wizard (MPMM) 2 took 2 damage.
+Assassin 1 took 9 damage. Assassin 2 took 9 damage.
+Evoker Wizard (MPMM) 1 took 20 damage.
+Evoker Wizard (MPMM) 1 was healed for 24 HP.
+Evoker Wizard (MPMM) 2 took 24 damage.
