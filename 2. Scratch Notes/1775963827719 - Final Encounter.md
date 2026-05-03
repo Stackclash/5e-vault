@@ -66,3 +66,4 @@ Necromancer Wizard (MPMM) 1 took 37 damage.
 ##### Yevelda Ovak 's turn
 Assassin 3 took 18 damage.
 Assassin 3 took 32 damage.
+##### Evoker Wizard (MPMM) 2's turn
