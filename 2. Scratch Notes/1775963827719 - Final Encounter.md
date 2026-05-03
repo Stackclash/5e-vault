@@ -94,3 +94,8 @@ Assassin 1 took 9 damage. Assassin 2 took 9 damage.
 Evoker Wizard (MPMM) 1 took 20 damage.
 Evoker Wizard (MPMM) 1 was healed for 24 HP.
 Evoker Wizard (MPMM) 2 took 24 damage.
+Necromancer Wizard (MPMM) 2 took 22 damage.
+Necromancer Wizard (MPMM) 2 took 20 damage.
+##### Yevelda Ovak 's turn
+##### Evoker Wizard (MPMM) 2's turn
+##### Faerah Duskrane's turn
