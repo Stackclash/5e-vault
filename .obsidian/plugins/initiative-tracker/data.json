@@ -223,7 +223,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -333,7 +333,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "12d8 + 24",
@@ -351,9 +351,11 @@
         "currentAC": 15,
         "path": "5. Mechanics/Bestiary/Humanoid/Assassin.md",
         "id": "ID_991b3b480ac8",
-        "currentHP": 36,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,

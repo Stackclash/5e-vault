@@ -99,3 +99,6 @@ Necromancer Wizard (MPMM) 2 took 20 damage.
 ##### Yevelda Ovak 's turn
 ##### Evoker Wizard (MPMM) 2's turn
 ##### Faerah Duskrane's turn
+Assassin 2 took 36 damage.
+##### Necromancer Wizard (MPMM) 1's turn
+##### Assassin 1's turn
