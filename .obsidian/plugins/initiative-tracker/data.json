@@ -536,8 +536,7 @@
             "fey",
             "giant",
             "celestial",
-            "swarm of tiny beasts",
-            "goblinoid"
+            "swarm of tiny beasts"
           ],
           "id": "ID_DEFAULT_TYPE_FILTER",
           "derive": true
@@ -563,25 +562,8 @@
             "any chaotic alignment",
             "neutral good",
             "chaotic neutral",
-            "neutral good or neutral evil",
-            "any evil alignment",
-            "any good alignment",
-            "typically  chaotic evil",
-            "typically  neutral evil",
-            "chaotic good or neutral evil",
-            "typically  lawful good",
-            "typically  lawful evil",
-            "lawful",
-            "chaotic",
-            "typically  lawful neutral",
-            "typically  neutral",
-            "as the eidolon's alignment",
-            "typically  chaotic neutral",
-            "typically  chaotic good",
-            "any non-chaotic alignment",
-            "any non-evil alignment",
-            "typically  any non-chaotic alignment",
-            "typically  neutral good"
+            "neutral good (50%) or neutral evil (50%)",
+            "any evil alignment"
           ],
           "id": "ID_DEFAULT_ALIGNMENT_FILTER",
           "derive": true
