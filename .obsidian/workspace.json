@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -333,17 +333,19 @@
       "neural-composer:Open Neural Composer": false
     }
   },
-  "active": "512bdf913974532a",
+  "active": "c4dff75fe39603cd",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Archmortician Valeris Thorne.md",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
+    "4. World Almanac/Settlements/Bruokdon.md",
+    "5. Mechanics/Spells/Zone Of Truth.md",
+    "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
-    "4. World Almanac/Settlements/Bruokdon.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-04-11.md",
     "5. Mechanics/Classes/Cleric Trickery Domain.md",
     "5. Mechanics/Spells/Teleport.md",
-    "1. DM Toolkit/Configuration.md",
     "4. World Almanac/NPCs/Merrin Thricefold.md",
     "5. Mechanics/Spells/Dimension Door.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-01-11.md",
@@ -359,8 +361,6 @@
     "5. Mechanics/Items/Immovable Rod.md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S38 New Session Journal.md",
     "5. Mechanics/Spells/Glyph Of Warding.md",
-    "5. Mechanics/Spells/Animate Objects.md",
-    "5. Mechanics/Classes/Barbarian.md",
     "1. DM Toolkit/Knowledge/Sources/Tweets",
     "1. DM Toolkit/Knowledge/Sources/Podcasts",
     "1. DM Toolkit/Knowledge/Sources/Articles",
