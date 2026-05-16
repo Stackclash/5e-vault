@@ -6968,31 +6968,46 @@ function create_if_block_6(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "datetime-local");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_6*/
-          ctx[9]
+          ctx[10]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*$value*/
+      if (dirty & /*name*/
       4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
+      if (dirty & /*$value*/
+      8) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7013,31 +7028,46 @@ function create_if_block_5(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "time");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_5*/
-          ctx[8]
+          ctx[9]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*$value*/
+      if (dirty & /*name*/
       4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
+      if (dirty & /*$value*/
+      8) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7058,31 +7088,46 @@ function create_if_block_4(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "date");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_4*/
-          ctx[7]
+          ctx[8]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*$value*/
+      if (dirty & /*name*/
       4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
+      if (dirty & /*$value*/
+      8) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7103,31 +7148,46 @@ function create_if_block_3(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "tel");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_3*/
-          ctx[6]
+          ctx[7]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
-      if (dirty & /*$value*/
+      if (dirty & /*name*/
       4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
+      if (dirty & /*$value*/
+      8) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7148,32 +7208,47 @@ function create_if_block_2(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "email");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_2*/
-          ctx[5]
+          ctx[6]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*name*/
+      4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
       if (dirty & /*$value*/
-      4 && input.value !== /*$value*/
-      ctx2[2]) {
+      8 && input.value !== /*$value*/
+      ctx2[3]) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7194,32 +7269,47 @@ function create_if_block_1(ctx) {
     c() {
       input = element("input");
       attr(input, "type", "text");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler_1*/
-          ctx[4]
+          ctx[5]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*name*/
+      4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
       if (dirty & /*$value*/
-      4 && input.value !== /*$value*/
-      ctx2[2]) {
+      8 && input.value !== /*$value*/
+      ctx2[3]) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7241,32 +7331,47 @@ function create_if_block(ctx) {
       input = element("input");
       attr(input, "type", "number");
       attr(input, "step", "any");
+      attr(
+        input,
+        "name",
+        /*name*/
+        ctx[2]
+      );
     },
     m(target, anchor) {
       insert(target, input, anchor);
       set_input_value(
         input,
         /*$value*/
-        ctx[2]
+        ctx[3]
       );
       if (!mounted) {
         dispose = listen(
           input,
           "input",
           /*input_input_handler*/
-          ctx[3]
+          ctx[4]
         );
         mounted = true;
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*name*/
+      4) {
+        attr(
+          input,
+          "name",
+          /*name*/
+          ctx2[2]
+        );
+      }
       if (dirty & /*$value*/
-      4 && to_number(input.value) !== /*$value*/
-      ctx2[2]) {
+      8 && to_number(input.value) !== /*$value*/
+      ctx2[3]) {
         set_input_value(
           input,
           /*$value*/
-          ctx2[2]
+          ctx2[3]
         );
       }
     },
@@ -7357,11 +7462,12 @@ function create_fragment(ctx) {
   };
 }
 function instance($$self, $$props, $$invalidate) {
-  let $value, $$unsubscribe_value = noop, $$subscribe_value = () => ($$unsubscribe_value(), $$unsubscribe_value = subscribe(value, ($$value) => $$invalidate(2, $value = $$value)), value);
+  let $value, $$unsubscribe_value = noop, $$subscribe_value = () => ($$unsubscribe_value(), $$unsubscribe_value = subscribe(value, ($$value) => $$invalidate(3, $value = $$value)), value);
   $$self.$$.on_destroy.push(() => $$unsubscribe_value());
   let { value } = $$props;
   $$subscribe_value();
   let { inputType: inputType2 } = $$props;
+  let { name = "" } = $$props;
   function input_input_handler() {
     $value = to_number(this.value);
     value.set($value);
@@ -7395,10 +7501,13 @@ function instance($$self, $$props, $$invalidate) {
       $$subscribe_value($$invalidate(0, value = $$props2.value));
     if ("inputType" in $$props2)
       $$invalidate(1, inputType2 = $$props2.inputType);
+    if ("name" in $$props2)
+      $$invalidate(2, name = $$props2.name);
   };
   return [
     value,
     inputType2,
+    name,
     $value,
     input_input_handler,
     input_input_handler_1,
@@ -7412,7 +7521,7 @@ function instance($$self, $$props, $$invalidate) {
 var InputField = class extends SvelteComponent {
   constructor(options) {
     super();
-    init4(this, options, instance, create_fragment, safe_not_equal, { value: 0, inputType: 1 });
+    init4(this, options, instance, create_fragment, safe_not_equal, { value: 0, inputType: 1, name: 2 });
   }
 };
 var InputField_default = InputField;
@@ -7522,7 +7631,7 @@ var get_info_slot_changes = (dirty) => ({});
 var get_info_slot_context = (ctx) => ({});
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[8] = list[i];
+  child_ctx[9] = list[i];
   return child_ctx;
 }
 function create_if_block2(ctx) {
@@ -7547,7 +7656,7 @@ function create_each_block(ctx) {
   let div;
   let t_value = (
     /*error*/
-    ctx[8] + ""
+    ctx[9] + ""
   );
   let t;
   return {
@@ -7562,8 +7671,8 @@ function create_each_block(ctx) {
     },
     p(ctx2, dirty) {
       if (dirty & /*$errors*/
-      32 && t_value !== (t_value = /*error*/
-      ctx2[8] + ""))
+      64 && t_value !== (t_value = /*error*/
+      ctx2[9] + ""))
         set_data(t, t_value);
     },
     d(detaching) {
@@ -7587,6 +7696,7 @@ function create_fragment2(ctx) {
   let t6;
   let div3;
   let div4_class_value;
+  let div4_data_field_name_value;
   let current;
   let if_block = (
     /*required*/
@@ -7594,7 +7704,7 @@ function create_fragment2(ctx) {
   );
   let each_value = ensure_array_like(
     /*$errors*/
-    ctx[5]
+    ctx[6]
   );
   let each_blocks = [];
   for (let i = 0; i < each_value.length; i += 1) {
@@ -7602,24 +7712,24 @@ function create_fragment2(ctx) {
   }
   const info_slot_template = (
     /*#slots*/
-    ctx[7].info
+    ctx[8].info
   );
   const info_slot = create_slot(
     info_slot_template,
     ctx,
     /*$$scope*/
-    ctx[6],
+    ctx[7],
     get_info_slot_context
   );
   const default_slot_template = (
     /*#slots*/
-    ctx[7].default
+    ctx[8].default
   );
   const default_slot = create_slot(
     default_slot_template,
     ctx,
     /*$$scope*/
-    ctx[6],
+    ctx[7],
     null
   );
   return {
@@ -7659,10 +7769,12 @@ function create_fragment2(ctx) {
         div3,
         "error",
         /*$errors*/
-        ctx[5].length > 0
+        ctx[6].length > 0
       );
       attr(div4, "class", div4_class_value = "setting-item " + /*className*/
       ctx[4] + " svelte-1v9nyvr");
+      attr(div4, "data-field-name", div4_data_field_name_value = /*name*/
+      ctx[5] || void 0);
     },
     m(target, anchor) {
       insert(target, div4, anchor);
@@ -7722,10 +7834,10 @@ function create_fragment2(ctx) {
           ctx2[2]
         );
       if (dirty & /*$errors*/
-      32) {
+      64) {
         each_value = ensure_array_like(
           /*$errors*/
-          ctx2[5]
+          ctx2[6]
         );
         let i;
         for (i = 0; i < each_value.length; i += 1) {
@@ -7745,20 +7857,20 @@ function create_fragment2(ctx) {
       }
       if (info_slot) {
         if (info_slot.p && (!current || dirty & /*$$scope*/
-        64)) {
+        128)) {
           update_slot_base(
             info_slot,
             info_slot_template,
             ctx2,
             /*$$scope*/
-            ctx2[6],
+            ctx2[7],
             !current ? get_all_dirty_from_scope(
               /*$$scope*/
-              ctx2[6]
+              ctx2[7]
             ) : get_slot_changes(
               info_slot_template,
               /*$$scope*/
-              ctx2[6],
+              ctx2[7],
               dirty,
               get_info_slot_changes
             ),
@@ -7768,20 +7880,20 @@ function create_fragment2(ctx) {
       }
       if (default_slot) {
         if (default_slot.p && (!current || dirty & /*$$scope*/
-        64)) {
+        128)) {
           update_slot_base(
             default_slot,
             default_slot_template,
             ctx2,
             /*$$scope*/
-            ctx2[6],
+            ctx2[7],
             !current ? get_all_dirty_from_scope(
               /*$$scope*/
-              ctx2[6]
+              ctx2[7]
             ) : get_slot_changes(
               default_slot_template,
               /*$$scope*/
-              ctx2[6],
+              ctx2[7],
               dirty,
               null
             ),
@@ -7790,18 +7902,23 @@ function create_fragment2(ctx) {
         }
       }
       if (!current || dirty & /*$errors*/
-      32) {
+      64) {
         toggle_class(
           div3,
           "error",
           /*$errors*/
-          ctx2[5].length > 0
+          ctx2[6].length > 0
         );
       }
       if (!current || dirty & /*className*/
       16 && div4_class_value !== (div4_class_value = "setting-item " + /*className*/
       ctx2[4] + " svelte-1v9nyvr")) {
         attr(div4, "class", div4_class_value);
+      }
+      if (!current || dirty & /*name*/
+      32 && div4_data_field_name_value !== (div4_data_field_name_value = /*name*/
+      ctx2[5] || void 0)) {
+        attr(div4, "data-field-name", div4_data_field_name_value);
       }
     },
     i(local) {
@@ -7831,7 +7948,7 @@ function create_fragment2(ctx) {
   };
 }
 function instance2($$self, $$props, $$invalidate) {
-  let $errors, $$unsubscribe_errors = noop, $$subscribe_errors = () => ($$unsubscribe_errors(), $$unsubscribe_errors = subscribe(errors, ($$value) => $$invalidate(5, $errors = $$value)), errors);
+  let $errors, $$unsubscribe_errors = noop, $$subscribe_errors = () => ($$unsubscribe_errors(), $$unsubscribe_errors = subscribe(errors, ($$value) => $$invalidate(6, $errors = $$value)), errors);
   $$self.$$.on_destroy.push(() => $$unsubscribe_errors());
   let { $$slots: slots = {}, $$scope } = $$props;
   let { errors = readable([]) } = $$props;
@@ -7840,6 +7957,7 @@ function instance2($$self, $$props, $$invalidate) {
   let { description = "" } = $$props;
   let { required = false } = $$props;
   let { className = "" } = $$props;
+  let { name = "" } = $$props;
   $$self.$$set = ($$props2) => {
     if ("errors" in $$props2)
       $$subscribe_errors($$invalidate(0, errors = $$props2.errors));
@@ -7851,10 +7969,12 @@ function instance2($$self, $$props, $$invalidate) {
       $$invalidate(3, required = $$props2.required);
     if ("className" in $$props2)
       $$invalidate(4, className = $$props2.className);
+    if ("name" in $$props2)
+      $$invalidate(5, name = $$props2.name);
     if ("$$scope" in $$props2)
-      $$invalidate(6, $$scope = $$props2.$$scope);
+      $$invalidate(7, $$scope = $$props2.$$scope);
   };
-  return [errors, label, description, required, className, $errors, $$scope, slots];
+  return [errors, label, description, required, className, name, $errors, $$scope, slots];
 }
 var ObsidianInputWrapper = class extends SvelteComponent {
   constructor(options) {
@@ -7870,7 +7990,8 @@ var ObsidianInputWrapper = class extends SvelteComponent {
         label: 1,
         description: 2,
         required: 3,
-        className: 4
+        className: 4,
+        name: 5
       },
       add_css
     );
@@ -8916,6 +9037,7 @@ var DataviewSuggest = class extends import_obsidian5.AbstractInputSuggest {
 // src/views/components/Form/InputDataview.svelte
 function create_default_slot(ctx) {
   let input_1;
+  let input_1_name_value;
   let dataviewSuggest_action;
   let mounted;
   let dispose;
@@ -8923,6 +9045,8 @@ function create_default_slot(ctx) {
     c() {
       input_1 = element("input");
       attr(input_1, "type", "text");
+      attr(input_1, "name", input_1_name_value = /*field*/
+      ctx[0].name);
     },
     m(target, anchor) {
       insert(target, input_1, anchor);
@@ -8946,6 +9070,11 @@ function create_default_slot(ctx) {
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*field*/
+      1 && input_1_name_value !== (input_1_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(input_1, "name", input_1_name_value);
+      }
       if (dirty & /*$value*/
       8 && input_1.value !== /*$value*/
       ctx2[3]) {
@@ -8973,6 +9102,10 @@ function create_fragment6(ctx) {
       errors: (
         /*errors*/
         ctx[2]
+      ),
+      name: (
+        /*field*/
+        ctx[0].name
       ),
       label: (
         /*field*/
@@ -9003,6 +9136,10 @@ function create_fragment6(ctx) {
         ctx2[2];
       if (dirty & /*field*/
       1)
+        obsidianinputwrapper_changes.name = /*field*/
+        ctx2[0].name;
+      if (dirty & /*field*/
+      1)
         obsidianinputwrapper_changes.label = /*field*/
         ctx2[0].label || /*field*/
         ctx2[0].name;
@@ -9010,8 +9147,8 @@ function create_fragment6(ctx) {
       1)
         obsidianinputwrapper_changes.description = /*field*/
         ctx2[0].description;
-      if (dirty & /*$$scope, $value*/
-      1032) {
+      if (dirty & /*$$scope, field, $value*/
+      1033) {
         obsidianinputwrapper_changes.$$scope = { dirty, ctx: ctx2 };
       }
       obsidianinputwrapper.$set(obsidianinputwrapper_changes);
@@ -9136,8 +9273,11 @@ var FolderSuggest = class extends import_obsidian6.AbstractInputSuggest {
 // src/views/components/Form/useObsidianSetting.ts
 var import_obsidian7 = require("obsidian");
 function useSetting(element2, field) {
-  new import_obsidian7.Setting(element2).setName(field.name).setDesc(field.description).then(field.customizer || (() => {
+  const setting = new import_obsidian7.Setting(element2).setName(field.name).setDesc(field.description).then(field.customizer || (() => {
   }));
+  if (field.fieldName) {
+    setting.settingEl.setAttribute("data-field-name", field.fieldName);
+  }
 }
 
 // src/views/components/Form/InputFolder.svelte
@@ -9164,6 +9304,10 @@ function create_fragment7(ctx) {
             /*field*/
             ctx[0].description || ""
           ),
+          fieldName: (
+            /*field*/
+            ctx[0].name
+          ),
           customizer: (
             /*customizer*/
             ctx[2]
@@ -9184,6 +9328,10 @@ function create_fragment7(ctx) {
           description: (
             /*field*/
             ctx2[0].description || ""
+          ),
+          fieldName: (
+            /*field*/
+            ctx2[0].name
           ),
           customizer: (
             /*customizer*/
@@ -10573,11 +10721,12 @@ Fuse.config = Config;
 
 // src/suggesters/suggestFile.ts
 var FileSuggest = class extends import_obsidian8.AbstractInputSuggest {
-  constructor(app, inputEl, strategy, folder) {
+  constructor(app, inputEl, strategy, folder, getExcludedBasenames = () => []) {
     super(app, inputEl);
     this.app = app;
     this.inputEl = inputEl;
     this.strategy = strategy;
+    this.getExcludedBasenames = getExcludedBasenames;
     this.reportedErrors = /* @__PURE__ */ new Set();
     this.folders = Array.isArray(folder) ? folder : [folder];
   }
@@ -10589,8 +10738,10 @@ var FileSuggest = class extends import_obsidian8.AbstractInputSuggest {
         log_error(err);
       }
     });
+    const excluded = new Set(this.getExcludedBasenames());
     const enriched = pipe2(
       files,
+      Array_exports.filter((file) => !excluded.has(file.basename)),
       Array_exports.map((file) => enrich_tfile(file, this.app))
     );
     if (input_str === "")
@@ -10658,6 +10809,7 @@ var FileSuggest = class extends import_obsidian8.AbstractInputSuggest {
 // src/views/components/Form/InputNote.svelte
 function create_default_slot2(ctx) {
   let input_1;
+  let input_1_name_value;
   let noteSuggest_action;
   let mounted;
   let dispose;
@@ -10665,6 +10817,8 @@ function create_default_slot2(ctx) {
     c() {
       input_1 = element("input");
       attr(input_1, "type", "text");
+      attr(input_1, "name", input_1_name_value = /*field*/
+      ctx[0].name);
     },
     m(target, anchor) {
       insert(target, input_1, anchor);
@@ -10688,6 +10842,11 @@ function create_default_slot2(ctx) {
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*field*/
+      1 && input_1_name_value !== (input_1_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(input_1, "name", input_1_name_value);
+      }
       if (dirty & /*$value*/
       8 && input_1.value !== /*$value*/
       ctx2[3]) {
@@ -10715,6 +10874,10 @@ function create_fragment8(ctx) {
       errors: (
         /*errors*/
         ctx[2]
+      ),
+      name: (
+        /*field*/
+        ctx[0].name
       ),
       label: (
         /*field*/
@@ -10745,6 +10908,10 @@ function create_fragment8(ctx) {
         ctx2[2];
       if (dirty & /*field*/
       1)
+        obsidianinputwrapper_changes.name = /*field*/
+        ctx2[0].name;
+      if (dirty & /*field*/
+      1)
         obsidianinputwrapper_changes.label = /*field*/
         ctx2[0].label || /*field*/
         ctx2[0].name;
@@ -10752,8 +10919,8 @@ function create_fragment8(ctx) {
       1)
         obsidianinputwrapper_changes.description = /*field*/
         ctx2[0].description;
-      if (dirty & /*$$scope, $value*/
-      264) {
+      if (dirty & /*$$scope, field, $value*/
+      265) {
         obsidianinputwrapper_changes.$$scope = { dirty, ctx: ctx2 };
       }
       obsidianinputwrapper.$set(obsidianinputwrapper_changes);
@@ -11692,11 +11859,17 @@ async function MultiSelectModel(fieldInput, app, values) {
                 return file.basename;
               },
               selectSuggestion(file) {
-                values.update((x) => [...x, file.basename]);
+                values.update(
+                  (x) => x.includes(file.basename) ? x : [...x, file.basename]
+                );
                 return "";
               }
             },
-            folders
+            folders,
+            () => {
+              var _a;
+              return (_a = get_store_value(values)) != null ? _a : [];
+            }
           );
         },
         removeValue
@@ -11844,12 +12017,15 @@ var InputTag_default = InputTag;
 var import_obsidian10 = require("obsidian");
 function create_default_slot3(ctx) {
   let textarea;
+  let textarea_name_value;
   let customizeTextArea_action;
   let mounted;
   let dispose;
   return {
     c() {
       textarea = element("textarea");
+      attr(textarea, "name", textarea_name_value = /*field*/
+      ctx[0].name);
     },
     m(target, anchor) {
       insert(target, textarea, anchor);
@@ -11873,6 +12049,11 @@ function create_default_slot3(ctx) {
       }
     },
     p(ctx2, dirty) {
+      if (dirty & /*field*/
+      1 && textarea_name_value !== (textarea_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(textarea, "name", textarea_name_value);
+      }
       if (dirty & /*$value*/
       8) {
         set_input_value(
@@ -11899,6 +12080,10 @@ function create_fragment12(ctx) {
       errors: (
         /*errors*/
         ctx[2]
+      ),
+      name: (
+        /*field*/
+        ctx[0].name
       ),
       label: (
         /*field*/
@@ -11930,6 +12115,10 @@ function create_fragment12(ctx) {
         ctx2[2];
       if (dirty & /*field*/
       1)
+        obsidianinputwrapper_changes.name = /*field*/
+        ctx2[0].name;
+      if (dirty & /*field*/
+      1)
         obsidianinputwrapper_changes.label = /*field*/
         ctx2[0].label || /*field*/
         ctx2[0].name;
@@ -11937,8 +12126,8 @@ function create_fragment12(ctx) {
       1)
         obsidianinputwrapper_changes.description = /*field*/
         ctx2[0].description;
-      if (dirty & /*$$scope, $value*/
-      72) {
+      if (dirty & /*$$scope, field, $value*/
+      73) {
         obsidianinputwrapper_changes.$$scope = { dirty, ctx: ctx2 };
       }
       obsidianinputwrapper.$set(obsidianinputwrapper_changes);
@@ -12222,6 +12411,7 @@ function get_else_ctx(ctx) {
 }
 function create_else_block3(ctx) {
   let select;
+  let select_name_value;
   let mounted;
   let dispose;
   let each_value_1 = ensure_array_like(Object.entries(
@@ -12238,6 +12428,8 @@ function create_else_block3(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
+      attr(select, "name", select_name_value = /*field*/
+      ctx[0].name);
       attr(select, "class", "dropdown");
       if (
         /*$value*/
@@ -12294,6 +12486,11 @@ function create_else_block3(ctx) {
         }
         each_blocks.length = each_value_1.length;
       }
+      if (dirty & /*field*/
+      1 && select_name_value !== (select_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(select, "name", select_name_value);
+      }
       if (dirty & /*$value, Object, getNoteOptions, input*/
       50) {
         select_option(
@@ -12315,6 +12512,7 @@ function create_else_block3(ctx) {
 }
 function create_if_block6(ctx) {
   let select;
+  let select_name_value;
   let mounted;
   let dispose;
   let each_value = ensure_array_like(
@@ -12331,6 +12529,8 @@ function create_if_block6(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
+      attr(select, "name", select_name_value = /*field*/
+      ctx[0].name);
       attr(select, "class", "dropdown");
       if (
         /*$value*/
@@ -12386,6 +12586,11 @@ function create_if_block6(ctx) {
           each_blocks[i].d(1);
         }
         each_blocks.length = each_value.length;
+      }
+      if (dirty & /*field*/
+      1 && select_name_value !== (select_name_value = /*field*/
+      ctx2[0].name)) {
+        attr(select, "name", select_name_value);
       }
       if (dirty & /*$value, Object, getNoteOptions, input*/
       50) {
@@ -12539,6 +12744,10 @@ function create_fragment15(ctx) {
         /*errors*/
         ctx[2]
       ),
+      name: (
+        /*field*/
+        ctx[0].name
+      ),
       label: (
         /*field*/
         ctx[0].label || /*field*/
@@ -12568,6 +12777,10 @@ function create_fragment15(ctx) {
         ctx2[2];
       if (dirty & /*field*/
       1)
+        obsidianinput_changes.name = /*field*/
+        ctx2[0].name;
+      if (dirty & /*field*/
+      1)
         obsidianinput_changes.label = /*field*/
         ctx2[0].label || /*field*/
         ctx2[0].name;
@@ -12575,8 +12788,8 @@ function create_fragment15(ctx) {
       1)
         obsidianinput_changes.description = /*field*/
         ctx2[0].description;
-      if (dirty & /*$$scope, $value, input*/
-      65554) {
+      if (dirty & /*$$scope, field, $value, input*/
+      65555) {
         obsidianinput_changes.$$scope = { dirty, ctx: ctx2 };
       }
       obsidianinput.$set(obsidianinput_changes);
@@ -12697,6 +12910,10 @@ function create_fragment16(ctx) {
             /*field*/
             ctx[0].description || ""
           ),
+          fieldName: (
+            /*field*/
+            ctx[0].name
+          ),
           customizer: (
             /*customizer*/
             ctx[2]
@@ -12717,6 +12934,10 @@ function create_fragment16(ctx) {
           description: (
             /*field*/
             ctx2[0].description || ""
+          ),
+          fieldName: (
+            /*field*/
+            ctx2[0].name
           ),
           customizer: (
             /*customizer*/
@@ -12935,6 +13156,10 @@ function create_if_block7(ctx) {
   let current;
   obsidianinputwrapper = new ObsidianInputWrapper_default({
     props: {
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -12962,6 +13187,10 @@ function create_if_block7(ctx) {
     },
     p(ctx2, dirty) {
       const obsidianinputwrapper_changes = {};
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -13005,6 +13234,10 @@ function create_else_block4(ctx) {
         /*errors*/
         ctx[6]
       ),
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -13036,6 +13269,10 @@ function create_else_block4(ctx) {
       64)
         obsidianinputwrapper_changes.errors = /*errors*/
         ctx2[6];
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -13079,6 +13316,10 @@ function create_if_block_122(ctx) {
         /*errors*/
         ctx[6]
       ),
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -13110,6 +13351,10 @@ function create_if_block_122(ctx) {
       64)
         obsidianinputwrapper_changes.errors = /*errors*/
         ctx2[6];
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -13153,6 +13398,10 @@ function create_if_block_10(ctx) {
         /*errors*/
         ctx[6]
       ),
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -13184,6 +13433,10 @@ function create_if_block_10(ctx) {
       64)
         obsidianinputwrapper_changes.errors = /*errors*/
         ctx2[6];
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -13223,6 +13476,10 @@ function create_if_block_9(ctx) {
   let current;
   obsidianinputwrapper = new ObsidianInputWrapper_default({
     props: {
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       label: (
         /*definition*/
         ctx[0].label || /*definition*/
@@ -13246,6 +13503,10 @@ function create_if_block_9(ctx) {
     },
     p(ctx2, dirty) {
       const obsidianinputwrapper_changes = {};
+      if (dirty & /*definition*/
+      1)
+        obsidianinputwrapper_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*definition*/
       1)
         obsidianinputwrapper_changes.label = /*definition*/
@@ -13743,6 +14004,10 @@ function create_else_block_1(ctx) {
   let current;
   inputfield = new InputField_default({
     props: {
+      name: (
+        /*definition*/
+        ctx[0].name
+      ),
       value: (
         /*value*/
         ctx[7]
@@ -13763,6 +14028,10 @@ function create_else_block_1(ctx) {
     },
     p(ctx2, dirty) {
       const inputfield_changes = {};
+      if (dirty & /*definition*/
+      1)
+        inputfield_changes.name = /*definition*/
+        ctx2[0].name;
       if (dirty & /*value*/
       128)
         inputfield_changes.value = /*value*/

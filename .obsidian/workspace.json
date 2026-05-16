@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a11c6e8afef3636",
+        "id": "1801986006d4d0ed",
         "type": "tabs",
         "children": [
           {
-            "id": "6885f31172ae76ce",
+            "id": "d260953be1b217a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,16 +150,6 @@
             }
           },
           {
-            "id": "1c419e6cc9c132fc",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "4a776c06296f55a8",
             "type": "leaf",
             "state": {
@@ -227,28 +217,19 @@
               "icon": "note-glyph",
               "title": "Edit form"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "f82351d185f7fa20",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bb10c1ae0fbe182b",
+            "id": "4b6ee1513fea83d5",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {
-                "creatureId": "ID_380bf82b49f8",
-                "creatureName": "Evoker Wizard (MPMM)"
-              },
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -257,6 +238,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
       "bases:Create new base": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
@@ -271,7 +254,6 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "media-extended:Open external media": false,
       "modalforms:Edit forms": false,
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
@@ -279,10 +261,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6885f31172ae76ce",
+  "active": "d260953be1b217a3",
   "lastOpenFiles": [
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-16.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
     "1. DM Toolkit/Configuration.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md",
     "4. World Almanac/Settlements/Bruokdon.md",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "5. Mechanics/Classes/Cleric Trickery Domain.md",
@@ -305,8 +289,6 @@
     "1. DM Toolkit/Session Journals/Midnight Covenant/S39 New Session Journal.md",
     "5. Mechanics/Items/Horseshoes Of Speed.md",
     "1. DM Toolkit/Tools/Critical Tables.md",
-    "5. Mechanics/Items/Candle Of Invocation.md",
-    "5. Mechanics/Items/Potion Of Healing.md",
     "1. DM Toolkit/Knowledge/Sources/Tweets",
     "1. DM Toolkit/Knowledge/Sources/Podcasts",
     "1. DM Toolkit/Knowledge/Sources/Articles",
