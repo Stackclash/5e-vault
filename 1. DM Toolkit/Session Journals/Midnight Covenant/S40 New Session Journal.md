@@ -59,3 +59,4 @@ Found spell scrolls:
 The Jaded Necklace:** a necklace made of precious green stone. Upon wearing this item, you instantly gain 1 point of exhaustion. However, you also now cannot be charmed, frightened, stunned, or attacked in a surprise round—nothing seems to faze you, anymore.
 
 [[Amulet Of Dragonkin (HHHVII)]]
+[[Necklace Of Adaptation]]
