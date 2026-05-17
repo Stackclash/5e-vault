@@ -38,12 +38,12 @@
           "maximized": false
         },
         "Ricks-MacBook-Pro.local": {
-          "x": -1280,
-          "y": 30,
+          "x": 320,
+          "y": 210,
           "width": 1280,
           "height": 690,
           "fullscreen": false,
-          "maximized": true
+          "maximized": false
         }
       }
     },
