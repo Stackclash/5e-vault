@@ -41,3 +41,7 @@ Description
 
 ## What Happened
 Small description.
+
+The silent ascendency - Vecna cult
+The Eternal Watch - Group that captured Vecna
+Revealed that Vecna needs a metaphysical truth to attain appothe
