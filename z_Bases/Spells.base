@@ -17,6 +17,9 @@ properties:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - school == "Illusion"
     order:
       - file.name
       - school
@@ -34,5 +37,5 @@ views:
       - formula.area size
     sort:
       - property: level
-        direction: ASC
+        direction: DESC
     summaries: {}
