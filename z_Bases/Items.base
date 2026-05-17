@@ -4,6 +4,9 @@ filters:
 views:
   - type: table
     name: Overview
+    filters:
+      and:
+        - rarity == "uncommon"
     order:
       - file.name
       - type
