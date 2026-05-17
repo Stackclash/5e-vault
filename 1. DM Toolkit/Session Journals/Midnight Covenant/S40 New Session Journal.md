@@ -50,3 +50,7 @@ Come up with pantheon
 
 - Slept twice
 - [[Professor Gousse Windcaller]] will give the [[Well Of Many Worlds]] to the party to travel to different planes
+
+Found spell scrolls:
+- Scroll of spider climb
+- scroll of poison spray
