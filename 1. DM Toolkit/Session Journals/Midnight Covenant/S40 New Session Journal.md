@@ -45,3 +45,4 @@ Small description.
 The silent ascendency - Vecna cult
 The Eternal Watch - Group that captured Vecna
 Revealed that Vecna needs a metaphysical truth to attain appotheosis
+Come up with what [[Roark Battleborn|Roark's]] sword does and comes from
