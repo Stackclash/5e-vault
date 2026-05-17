@@ -47,3 +47,6 @@ The Eternal Watch - Group that captured Vecna
 Revealed that Vecna needs a metaphysical truth to attain appotheosis
 Come up with what [[Roark Battleborn|Roark's]] sword does and comes from
 Come up with pantheon
+
+- Slept twice
+- [[Professor Gousse Windcaller]] will give the [[Well Of Many Worlds]] to the party to travel to different planes
