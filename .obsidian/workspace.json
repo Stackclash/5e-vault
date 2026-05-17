@@ -53,14 +53,12 @@
             "id": "a9cda04b13e3d893",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3. The Party/Players/Players.md",
-                "mode": "preview",
-                "source": false
+                "file": "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Players"
+              "icon": "lucide-file-text",
+              "title": "810199-PlanarPassages-v10_pf"
             }
           },
           {
@@ -320,6 +318,9 @@
   },
   "active": "a9cda04b13e3d893",
   "lastOpenFiles": [
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10.pdf",
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
+    "3. The Party/Players/Players.md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S17 Secrets long Dead.md",
     "5. Mechanics/Spells/Plane Shift.md",
     "5. Mechanics/Spells/Detect Magic.md",
@@ -339,14 +340,12 @@
     "5. Mechanics/Spells/Phantom Light (KPDM).md",
     "5. Mechanics/Spells/Nip At The Heels (KPDM).md",
     "5. Mechanics/Spells/Programmed Illusion.md",
-    "3. The Party/Players/Players.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-22.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-04-11.md",
     "Session Prep.md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S39 New Session Journal.md",
-    "4. World Almanac/Settlements/Bruokdon.md",
     "1. DM Toolkit/Knowledge/Sources/Tweets",
     "1. DM Toolkit/Knowledge/Sources/Podcasts",
     "1. DM Toolkit/Knowledge/Sources/Articles",
@@ -355,7 +354,6 @@
     "1. DM Toolkit/Knowledge/Sources",
     "1. DM Toolkit/Knowledge/Tweets",
     "1. DM Toolkit/Knowledge/Podcasts",
-    "1. DM Toolkit/Knowledge/Articles",
     "5. Mechanics/Bestiary/Plant/img/shambling-mound-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/phase-spider-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/bulette-2.webp",
