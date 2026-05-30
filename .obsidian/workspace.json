@@ -75,7 +75,8 @@
               "title": "DM Screen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -315,10 +316,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "16cc78f04004a980",
+  "active": "1b6dbe4f5f1511e5",
   "lastOpenFiles": [
-    "1. DM Toolkit/Session Journals/Midnight Covenant/S41 New Session Journal.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
+    "1. DM Toolkit/Session Journals/Midnight Covenant/S41 New Session Journal.md",
     "1. DM Toolkit/DM Screen.md",
     "5. Mechanics/Classes/Barbarian.md",
     "1. DM Toolkit/Configuration.md",

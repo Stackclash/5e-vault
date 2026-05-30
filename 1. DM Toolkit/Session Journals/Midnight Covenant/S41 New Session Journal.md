@@ -48,4 +48,7 @@ creatures:
 - 4: [[Blackguard (MPMM)]]
 - 3: [[Master Thief (MPMM)]]
 - 1: [[Assassin]]
+---
+creatures:
+- 1: [[Flesh Golem]]
 ```

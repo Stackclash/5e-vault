@@ -179,7 +179,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -245,7 +245,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -409,6 +409,27 @@
         "hidden": false,
         "friendly": false,
         "hit_dice": "12d8 + 24",
+        "rollHP": false
+      },
+      {
+        "name": "Flesh Golem",
+        "initiative": 1,
+        "static": false,
+        "modifier": -1,
+        "hp": 93,
+        "currentMaxHP": 93,
+        "cr": "5",
+        "ac": 9,
+        "currentAC": 9,
+        "id": "ID_3b1839ead899",
+        "currentHP": 93,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "11d8 + 43",
         "rollHP": false
       }
     ],
