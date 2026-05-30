@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "providers": [
     {
       "type": "openai",
@@ -320,5 +320,6 @@
   "lightRagMaxAsync": 4,
   "lightRagMaxParallelInsert": 1,
   "lightRagChunkSize": 1200,
-  "lightRagChunkOverlap": 100
+  "lightRagChunkOverlap": 100,
+  "lightRagSyncFolder": ""
 }
