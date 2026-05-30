@@ -63,8 +63,7 @@
               "title": "Dancing Lights"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,8 +304,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "cb0f270eb7ffe116",
+  "active": "16cc78f04004a980",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Dancing Lights.md",
     "5. Mechanics/Spells/Hypnotic Pattern.md",
     "1. DM Toolkit/Configuration.md",
     "5. Mechanics/Bestiary/Humanoid/Archmage.md",
@@ -332,7 +332,6 @@
     "Untitled.md",
     "Session Prep 1.md",
     "Session Prep.md",
-    "CLAUDE.md",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "z_Assets/Locations/bruokdon.png",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
