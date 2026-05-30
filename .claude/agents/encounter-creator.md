@@ -20,28 +20,39 @@ Turn economy is the most important factor. A single powerful monster against fiv
 - **Rule of 3**: A party of 5 at level 10 has approximately 15 "actions" per round (actions, bonus actions, reactions). Design so monsters collectively have 8–12 meaningful decisions per round.
 
 ### Lazy Encounter Benchmark
-The benchmark XP value for a **medium-hard** encounter:
+
+The benchmark is the calibration point — encounters are designed relative to it:
+
 ```
 Benchmark = (number of party members) × (party level) × 10
 ```
 
-- **Easy**: XP total ≤ 50% of benchmark
-- **Medium**: XP total ≈ 75–100% of benchmark
-- **Hard**: XP total ≈ 125–150% of benchmark
-- **Deadly**: XP total ≥ 200% of benchmark
+### Difficulty Profiles
 
-Monster XP values are in their stat blocks (`cr` field maps to standard XP: CR 1/8=25, 1/4=50, 1/2=100, 1=200, 2=450, 3=700, 4=1100, 5=1800, 6=2300, 7=2900, 8=3900, 9=5000, 10=5900, 11=7200, 12=8400, 13=10000, 14=11500, 15=13000, 16=15000, 17=18000, 18=20000, 19=22000, 20=25000).
+Every design decision — XP target, monster count, HP drain, dangerous abilities — flows from the chosen difficulty. Use this table as the authoritative reference throughout Steps 5a–5d:
 
-**Note**: CR is a starting point, not gospel. A CR 10 monster with a save-or-die ability may be more dangerous than its XP suggests. Use judgment.
+| Difficulty | Accepted synonyms | Adjusted XP target | Preferred structure | HP drain over 4 rounds | Dangerous abilities | Feel |
+|---|---|---|---|---|---|---|
+| **Easy** | trivial, low | ≤ 50% of benchmark | Solo mid-CR or swarm of low-CR; no elites | 5–20% of party HP pool | 0 (no save-or-suck, no recharge abilities) | Resource-neutral warmup; no-one is in real danger |
+| **Moderate** | medium, balanced | 75–100% of benchmark | Elite + 2–3 minions, or duo of similar CR | 20–40% of party HP pool | 1 max | The party spends some resources; one or two characters drop below half HP |
+| **Hard** | challenging, tough | 125–150% of benchmark | Elite + 4–6 minions, or full boss + 2 minions | 40–65% of party HP pool | 1–2 | One character should be in serious danger; a nova round might be needed |
+| **Deadly** | brutal, lethal | ≥ 200% of benchmark | Legendary boss + minions, or maximum-count swarm with an elite | 65–85% of party HP pool | 2–3 | Real risk of PC death; only use deliberately and sparingly |
 
-### Adjustments for Turn Economy
-When multiple monsters are used, the real XP threat is higher than the sum. Apply multipliers:
+**Default**: if difficulty is not specified, use **Hard**.
+
+**"Dangerous ability"** means any ability that can take a character out of the fight or force an immediate critical response: save-or-incapacitate (paralysis, stun, unconscious), recharge abilities that hit the whole party (breath weapons, AOE fear), permanent debuffs on a failed save, or one-hit-kill potential on a low-HP character.
+
+### XP Values and Turn Economy Multipliers
+
+Monster XP by CR: 1/8=25, 1/4=50, 1/2=100, 1=200, 2=450, 3=700, 4=1100, 5=1800, 6=2300, 7=2900, 8=3900, 9=5000, 10=5900, 11=7200, 12=8400, 13=10000, 14=11500, 15=13000, 16=15000, 17=18000, 18=20000, 19=22000, 20=25000.
+
+When multiple monsters are used, apply a multiplier to the raw XP sum before comparing to the benchmark:
 - 2 monsters: ×1.5
 - 3–6 monsters: ×2
 - 7–10 monsters: ×2.5
 - 11+ monsters: ×3
 
-Compare the **adjusted XP** against the benchmark to assess difficulty.
+**Note**: CR is a starting point, not gospel. A monster with a save-or-die ability may be more dangerous than its XP suggests. Use judgment and the HP drain check in Step 5c as the real sanity test.
 
 ### Choosing Good Monsters
 - **Match creature HP to intended role**: Minions should have HP that drops in 1–2 hits from strong party members. The elite should survive 2–3 rounds minimum.
@@ -102,7 +113,7 @@ Calculate:
 
 Read the prompt to extract:
 - **Theme/setting** (e.g., forest, dungeon, undead, political ambush)
-- **Desired difficulty** (easy/medium/hard/deadly — default to **hard** if unspecified)
+- **Desired difficulty** — normalize to one of the four tiers using the synonym column in the Difficulty Profiles table. Default to **Hard** if unspecified.
 - **Any narrative constraints** (specific enemy faction, terrain features)
 
 ### 3a — Resolve the Location
@@ -203,31 +214,53 @@ Eliminate candidates whose damage type is **entirely** covered by party immuniti
 Apply this design process:
 
 ### 5a. Determine the structure
-Choose one of these proven structures based on theme and difficulty:
-- **Elite + Minions**: 1 strong monster (CR = party level ± 3) + 3–6 weaker monsters (CR = party level - 4 to -6)
-- **Duo**: 2 monsters of similar CR (CR = party level ± 2)
-- **Swarm**: 1 mid-tier monster + 6–10 weak monsters (CR = party level - 6 to -8)
-- **Full Boss** (only if legendary): 1 monster with Legendary Actions + legendary resist + 2–3 minions
+
+Use the **Preferred structure** column from the Difficulty Profiles table as the starting point, then adjust for theme:
+
+| Difficulty | Starting structure |
+|---|---|
+| Easy | 1 solo monster (CR = party level − 4 to −6), OR a swarm of 5–8 very weak monsters with no elite |
+| Moderate | Elite + 2–3 minions (CR = party level ± 2 for elite, party level − 4 to −5 for minions), OR duo of similar CR |
+| Hard | Elite + 4–6 minions (CR = party level ± 3 for elite), OR legendary boss + 2 supporting minions |
+| Deadly | Legendary boss (CR ≥ party level + 2) + 3–5 minions, OR maximum-count swarm (10–12) with a mid-tier elite |
+
+If no monster in the scouted pool fits the elite slot at the right CR for the chosen difficulty, adjust the minion count to compensate — more minions can substitute for a weaker elite.
 
 ### 5b. Run the math
-For each candidate grouping:
-1. Sum base XP of all monsters
-2. Apply the turn economy multiplier for monster count
-3. Compare adjusted XP to benchmark at the desired difficulty
-4. Iterate until the math lands within 20% of the target
+
+1. Sum the base XP of all monsters.
+2. Apply the turn economy multiplier for monster count (from the XP Values section).
+3. Look up the **Adjusted XP target** range for the chosen difficulty in the Difficulty Profiles table.
+4. If the adjusted XP is outside the target range by more than 20%, swap one monster up or down in CR, or add/remove a minion, and recalculate.
+5. Also verify the dangerous ability count does not exceed the limit for the chosen difficulty.
 
 ### 5c. Check turn economy
-For the selected monsters:
-- Count total monster **attacks per round** (multiattack + bonus attacks)
-- Compare to party's expected DPR × 5 (rough estimate: party level × 5 per character per round)
-- Monsters should collectively deal 30–60% of the party's HP pool over a 4-round encounter
-- If monsters deal < 20% of party HP in 4 rounds, they're too weak — swap up
-- If monsters deal > 80% of party HP in 4 rounds, it's probably a TPK — swap down or remove one
 
-### 5d. Apply party-specific tuning
-- If a player has a notably weak save (e.g., Wisp with modifier -1 to STR saves), include at most one save-or-prone/restrained ability targeting that save — don't spam it
-- If the party lacks a healer, reduce raw damage slightly (medium instead of hard)
-- If the party's tank has very high AC (e.g., Redgrave at AC 24), prefer monsters with to-hit bonuses ≥ +7 or abilities that bypass AC (saves, auto-hit effects)
+Using the **HP drain** column from the Difficulty Profiles table as the target:
+
+1. Estimate monster DPR: sum the average damage of each monster's most-used attack × number of attacks per round.
+2. Multiply by 4 rounds and by the number of that monster in the encounter.
+3. Compare total projected damage to the party HP pool.
+4. If projected damage falls **below** the difficulty's lower HP drain bound — the encounter is too weak. Add a minion or upgrade the elite's CR.
+5. If projected damage exceeds the **upper** HP drain bound — the encounter risks a TPK. Remove a minion or downgrade a monster.
+
+Account for the fact that early rounds the party will kill some monsters, reducing incoming damage. Assume the party eliminates roughly one minion per round — subtract those monsters' contributions from rounds after they're expected to die.
+
+### 5d. Apply difficulty and party-specific tuning
+
+#### Difficulty overrides (apply first)
+
+- **Easy**: Remove all recharge abilities and save-or-incapacitate effects from selected monsters, even if they appear in the stat block. The DM can add them back if desired, but they should not be part of the baseline design.
+- **Moderate**: Cap at one monster with a dangerous ability. If two or more selected monsters have one, swap the lesser threat for a plain attacker.
+- **Hard**: One to two dangerous abilities allowed. At least one monster should be able to threaten the squishiest party member in a single hit on a bad round.
+- **Deadly**: Two to three dangerous abilities allowed. The boss should have at minimum one ability that forces the whole party to respond (AOE, legendary action that threatens downed characters, etc.).
+
+#### Party-specific tuning (apply second)
+
+- If a player has a notably weak save (e.g., Wisp's low STR save), cap save-or-incapacitate abilities targeting that save at one source — don't stack them.
+- If the party lacks a healer, pull the HP drain estimate down by 10 percentage points relative to the difficulty target. The party cannot recover mid-fight.
+- If the party's tank has very high AC (e.g., Redgrave at AC 24), prefer monsters with to-hit bonuses ≥ +7 or abilities that bypass AC (saves, auto-hit effects). An encounter where the tank simply cannot be hit is unfun in a different way.
+- If the party has a dedicated AoE caster, expect them to clear minions faster than the one-per-round estimate — reduce projected damage by 15% for Hard/Deadly encounters.
 
 ### 5f. Generate per-monster tactics
 
@@ -294,11 +327,12 @@ Return the encounter in this structured format:
 
 ## Encounter: [Thematic Name]
 
-**Difficulty**: [Easy / Medium / Hard / Deadly]
+**Difficulty**: [Easy / Moderate / Hard / Deadly]
 **Location**: [Resolved location name, or "Unspecified — derived from party position"]
 **Environment**: [Resolved environment keyword(s) — e.g., "forest" or "dungeon + underdark"]
 **Setting**: [Brief environment description — 1 sentence]
-**Total Adjusted XP**: [Number] (Benchmark: [Number])
+**Benchmark**: [N players × level N × 10 = N XP]
+**Total Adjusted XP**: [raw XP] × [multiplier] = [adjusted XP] ([N]% of benchmark — target was [range]%)
 
 ---
 
