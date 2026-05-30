@@ -102,7 +102,7 @@ Read all active player notes in parallel. From each extract:
 Calculate:
 - **Party size** (N)
 - **Party level** (use average if mixed, or the most common level)
-- **Lazy Encounter Benchmark** = N × level × 10
+- **Lazy Encounter Benchmark** = N × level (e.g. 5 players × level 10 = 50)
 - **Party HP pool** = sum of all HP (total punishment the encounter can deal before a TPK)
 - **Weakest saves** — the most common low-proficiency saves across the party
 - **Party roles** — identify if the party is missing a healer, tank, etc. (relevant for difficulty tuning)
@@ -330,8 +330,8 @@ Return the encounter in this structured format:
 **Location**: [Resolved location name, or "Unspecified — derived from party position"]
 **Environment**: [Resolved environment keyword(s) — e.g., "forest" or "dungeon + underdark"]
 **Setting**: [Brief environment description — 1 sentence]
-**Benchmark**: [N players × level N × 10]
-**Difficulty calibration**: [N]% of benchmark (target: [range]%)
+**Benchmark**: [N players × level N = N]
+**CR Sum**: [CR₁ + CR₂ + … = total] ([N]% of benchmark — target for [difficulty] was [range]%)
 
 ---
 
