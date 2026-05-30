@@ -51,7 +51,7 @@ background:
   organizations:
   allies:
   enemies:
-  notes:
+  notes: Sword's name Uthraad.
 classes:
   - name: "[[5. Mechanics/Classes/Barbarian.md|Barbarian]]"
     subClass: "[[5. Mechanics/Classes/Barbarian Path Of The Berserker.md|Barbarian Path Of The Berserker]]"
