@@ -81,12 +81,14 @@
             "id": "2363c9eef5ea1693",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf"
+                "file": "3. The Party/Players/Roark Battleborn.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "810199-PlanarPassages-ColorCodedMaps"
+              "icon": "lucide-file",
+              "title": "Roark Battleborn"
             }
           }
         ],
@@ -333,6 +335,7 @@
   },
   "active": "2363c9eef5ea1693",
   "lastOpenFiles": [
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
     "5. Mechanics/Bestiary/Humanoid/Master Thief (MPMM).md",
@@ -354,13 +357,11 @@
     "1. DM Toolkit/Inbox.md",
     "1. DM Toolkit/DM Screen.md",
     "1. DM Toolkit/DM Quick Reference.md",
-    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "z_Assets/Locations/bruokdon.png",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "5. Mechanics/Spells/Plane Shift.md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S39 New Session Journal.md",
     "5. Mechanics/Items/Amulet Of Dragonkin (HHHVII).md",
-    "5. Mechanics/Items/Necklace Of Adaptation.md",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10.pdf",
     "1. DM Toolkit/Knowledge/Sources/Tweets",
