@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -273,9 +273,8 @@
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false,
-      "neural-composer:Open Neural Composer": false,
-      "relations:Open Relations graph": false
+      "relations:Open Relations graph": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "16cc78f04004a980",
