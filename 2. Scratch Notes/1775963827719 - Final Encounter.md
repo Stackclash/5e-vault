@@ -120,3 +120,7 @@ Evoker Wizard (MPMM) 2 took 18 damage.
 Assassin 1 took 18 damage.
 Evoker Wizard (MPMM) 2 took 22 damage.
 Evoker Wizard (MPMM) 2 took 6 damage.
+Yevelda Ovak  initiative changed to 20
+Wisp initiative changed to 16
+Redgrave initiative changed to 9
+Roark Battleborn initiative changed to 17

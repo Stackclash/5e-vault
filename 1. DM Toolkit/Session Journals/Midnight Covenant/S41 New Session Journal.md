@@ -41,3 +41,11 @@ Description
 
 ## What Happened
 Small description.
+
+```encounter-table
+name: Warehouse
+creatures:
+- 4: [[Blackguard (MPMM)|Blackguard]]
+- 3: [[Master Thief (MPMM)|Master Thief]]
+- 1: [[Assassin]]
+```
