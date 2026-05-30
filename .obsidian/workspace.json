@@ -372,48 +372,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "f4d3d1fcb2a13400",
-    "type": "floating",
-    "children": [
-      {
-        "id": "33e603ee0763e489",
-        "type": "window",
-        "children": [
-          {
-            "id": "eafc103bee2aa49e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "996f7b46547af4f8",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "z_Assets/Locations/bruokdon.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "bruokdon"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1313,
-        "y": 94,
-        "width": 1024,
-        "height": 690,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "a9cda04b13e3d893",
   "lastOpenFiles": [
+    "z_Assets/Locations/bruokdon.png",
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "5. Mechanics/Spells/Plane Shift.md",
-    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S39 New Session Journal.md",
     "5. Mechanics/Items/Amulet Of Dragonkin (HHHVII).md",
     "5. Mechanics/Items/Necklace Of Adaptation.md",
@@ -423,7 +387,6 @@
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-16.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md",
     "4. World Almanac/Settlements/Bruokdon.md",
-    "z_Assets/Locations/bruokdon.png",
     "1. DM Toolkit/Configuration.md",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10.pdf",
