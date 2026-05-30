@@ -182,7 +182,9 @@ Select 8–15 candidates (prioritizing the preferred pool from 4a). For each, re
 - `damage_immunities`, `damage_resistances`
 - `condition_immunities`
 - Speed and movement modes (fly, swim, burrow) — note if movement mode suits the environment (e.g., a swimmer in an underwater encounter)
-- Key traits and actions (multiattack, save-or-suck abilities, legendary actions, lair actions, recharge abilities)
+- `stats` — specifically the Intelligence score (index 3 in the stats array, or the `intelligence` key if named)
+- Key traits and actions (multiattack, save-or-suck abilities, legendary actions, lair actions, recharge abilities) — note any abilities with tactical implications (forced movement, concentration-breakers, summons, self-healing, escape abilities)
+- Any lore prose in the note body that describes the creature's behavior, motivations, or hunting patterns
 - XP value (derive from CR using the table above)
 
 Note each candidate's **environment fit**:
@@ -227,6 +229,61 @@ For the selected monsters:
 - If the party lacks a healer, reduce raw damage slightly (medium instead of hard)
 - If the party's tank has very high AC (e.g., Redgrave at AC 24), prefer monsters with to-hit bonuses ≥ +7 or abilities that bypass AC (saves, auto-hit effects)
 
+### 5f. Generate per-monster tactics
+
+For each monster in the final encounter, derive its behavior from three sources: **Intelligence score**, **combat role**, and **flavor/lore**.
+
+#### Intelligence tiers
+
+Use the monster's INT score to set the ceiling on tactical sophistication. A creature can't execute a plan it isn't smart enough to form:
+
+| INT | Tier | Behavioral profile |
+|-----|------|--------------------|
+| 1–3 | **Mindless** | No tactics. Moves toward the nearest creature and attacks. Ignores conditions on itself. Doesn't react to casualties. |
+| 4–6 | **Instinctual** | Basic predator logic. Targets the closest or most visible enemy. Will flee or scatter if reduced to ≤25% HP (unless undead/construct). May frenzy when bloodied. |
+| 7–9 | **Low cunning** | Understands pack dynamics. Will focus-fire the same target as allies, protect the leader, and attempt flanking. Retreats to cover when badly hurt but won't abandon the fight. |
+| 10–12 | **Average** | Plans a turn ahead. Uses cover and choke points. Coordinates ability usage (e.g., one monster grapples while another attacks). Recognizes spellcasters and may prioritize them. |
+| 13–15 | **Bright** | Reads the battlefield. Targets concentration spells, isolates vulnerable characters, saves powerful abilities for the right moment. Adjusts strategy if the opening gambit fails. |
+| 16+  | **Brilliant** | Full tactical awareness. Predicts party behavior, baits reactions, uses legendary actions to deny recovery. Has a contingency for likely party counters. Fights to escape if losing, not to the death. |
+
+#### Role-based behavior overlays
+
+Layer the combat role on top of the INT tier:
+
+- **Elite**: Acts last in its own group to react to what minions have done. Targets the most dangerous PC (highest DPR or most disruptive spells), not the nearest one (INT ≥ 10 only).
+- **Minion**: Clusters to enable the elite's abilities (flanking, pack tactics, herding the party). Expendable — doesn't break off to chase fleeing PCs.
+- **Controller**: Stays at maximum range. Prioritizes positioning abilities (push, pull, restrain) over raw damage. Uses the environment (doorways, ledges, darkness) to limit party movement.
+- **Skirmisher**: Hits and withdraws. Avoids being surrounded. Uses Disengage or movement abilities to stay at an edge of the combat, re-engaging when opportunistic.
+
+#### Flavor and lore overlays
+
+Read the monster's prose description and trait names for behavioral signals that override or enrich the INT tier. Examples:
+- A creature described as a "cunning ambush predator" attacks from hiding on round 1 even if it has INT 4.
+- A monster with the *Pack Tactics* trait knows it needs adjacent allies to function — it actively closes to melee rather than ranging.
+- A creature with *Rampage* or *Blood Frenzy* changes target logic when bloodied — note this as a mid-fight pivot.
+- A monster with a recharge ability (e.g., breath weapon on 5–6) should save other actions to maximize the window when it recharges — this applies even at low INT since it's an instinctive behavior.
+- Undead and constructs don't feel fear or pain — they never flee, never hesitate, never protect themselves.
+- A monster with summoning traits may delay attacking to summon first, buying itself more action economy.
+
+#### Tactics output format (per monster)
+
+For each monster, produce:
+```
+[Monster Name] (INT [score] — [Tier])
+- Priority target: [who they go for and why]
+- Round 1: [what they do on their very first turn]
+- Core loop: [the 1-2 action pattern they repeat most rounds]
+- Special trigger: [if/when they use their most powerful or conditional ability]
+- When losing: [behavior at ≤50% HP or when allies start dying]
+```
+
+### 5e. Environment coherence check
+Review the final monster list against the resolved environment:
+- At least one monster should be **Native** to the environment — a fight in a swamp with zero swamp-native creatures feels arbitrary
+- Movement modes should make sense — don't include a monster with only a swim speed in a mountain encounter unless the prompt gives a reason
+- If the environment has a distinctive terrain feature (darkness underground, difficult terrain in swamp, verticality on a cliff), at least one monster should exploit it (darkvision in underdark, a flier on a cliff face, a creature with Swamp camouflage)
+- If every monster is a **Stretch** fit, flag this explicitly in the output and suggest an alternative
+
 ---
 
 ## Step 6 — Format the Encounter
@@ -238,6 +295,8 @@ Return the encounter in this structured format:
 ## Encounter: [Thematic Name]
 
 **Difficulty**: [Easy / Medium / Hard / Deadly]
+**Location**: [Resolved location name, or "Unspecified — derived from party position"]
+**Environment**: [Resolved environment keyword(s) — e.g., "forest" or "dungeon + underdark"]
 **Setting**: [Brief environment description — 1 sentence]
 **Total Adjusted XP**: [Number] (Benchmark: [Number])
 
@@ -245,9 +304,9 @@ Return the encounter in this structured format:
 
 ### Combatants
 
-| Monster | Qty | CR | HP each | AC | Role |
-|---------|-----|----|---------|----|------|
-| [Name]  |  N  | N  |   NNN   | NN | [Elite / Minion / Controller / Skirmisher] |
+| Monster | Qty | CR | HP each | AC | Role | Env Fit |
+|---------|-----|----|---------|----|------|---------|
+| [Name]  |  N  | N  |   NNN   | NN | [Elite / Minion / Controller / Skirmisher] | [Native / Plausible / Stretch] |
 
 **Wikilinks**: [[path/to/Monster.md]] for each monster (for DM reference in Obsidian)
 
@@ -263,12 +322,29 @@ Return the encounter in this structured format:
 
 ---
 
-### Tactical Notes
+### Tactics
 
-- **Opening round**: [What the monsters do on their first turn — positioning, ambush, who focuses whom]
-- **Mid-fight pivot**: [How the encounter changes as monsters die or the party loses resources]
-- **Signature moment**: [The 1–2 memorable tactical beats this encounter creates — e.g., "the necromancer raises a fallen minion", "the troll regenerates after the party thinks they killed it"]
-- **Terrain suggestions**: [Optional — if terrain would make this more interesting, suggest 1–2 features]
+#### Per-Monster Behavior
+
+[One block per monster, following the format defined in Step 5f:]
+
+**[Monster Name]** (INT [N] — [Tier])
+- **Priority target**: [who they go for and why]
+- **Round 1**: [what they do on their very first turn — setup, positioning, or opening attack]
+- **Core loop**: [the 1–2 action pattern they repeat most rounds]
+- **Special trigger**: [when/how they use their most powerful or conditional ability]
+- **When losing**: [behavior at ≤50% HP or when allies start dying]
+
+[Repeat for each distinct monster type]
+
+---
+
+#### Combat Flow
+
+- **Opening**: [How the encounter starts — ambush or open ground, who acts first, what the monsters' priority target is in round 1]
+- **Mid-fight**: [How the dynamic shifts — when the first minion drops, when the elite uses its signature ability, how the monsters adapt if the party focuses one target]
+- **Signature moment**: [The 1–2 memorable beats designed into this encounter — the thing the players will remember]
+- **Terrain**: [How the environment shapes the fight — cover, elevation, hazards, darkness, chokepoints; which monsters exploit it and how]
 
 ---
 
