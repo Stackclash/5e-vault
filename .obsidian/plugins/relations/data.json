@@ -1,0 +1,103 @@
+{
+  "relationshipTypes": [
+    {
+      "name": "ally",
+      "color": "#22c55e",
+      "symmetric": true,
+      "pair": false,
+      "treeLayout": false,
+      "lineStyle": "solid",
+      "genealogy": false
+    },
+    {
+      "name": "enemy",
+      "color": "#dc2626",
+      "symmetric": true,
+      "pair": false,
+      "treeLayout": false,
+      "lineStyle": "solid",
+      "genealogy": false
+    },
+    {
+      "name": "family",
+      "color": "#eab308",
+      "symmetric": true,
+      "pair": false,
+      "treeLayout": true,
+      "lineStyle": "solid",
+      "genealogy": false
+    },
+    {
+      "name": "friend",
+      "color": "#0891b2",
+      "symmetric": true,
+      "pair": false,
+      "treeLayout": false,
+      "lineStyle": "solid",
+      "genealogy": false
+    },
+    {
+      "name": "rival",
+      "color": "#fb923c",
+      "symmetric": true,
+      "pair": false,
+      "treeLayout": false,
+      "lineStyle": "dashed",
+      "genealogy": false
+    },
+    {
+      "name": "spouse",
+      "color": "#d946ef",
+      "symmetric": true,
+      "pair": true,
+      "treeLayout": false,
+      "lineStyle": "double",
+      "genealogy": false
+    },
+    {
+      "name": "lover",
+      "color": "#fb7185",
+      "symmetric": true,
+      "pair": false,
+      "treeLayout": false,
+      "lineStyle": "dashed",
+      "genealogy": false
+    },
+    {
+      "name": "mentor",
+      "color": "#8b5cf6",
+      "symmetric": false,
+      "pair": false,
+      "treeLayout": false,
+      "lineStyle": "dotted",
+      "genealogy": false
+    },
+    {
+      "name": "parent",
+      "color": "#b45309",
+      "symmetric": false,
+      "pair": false,
+      "treeLayout": true,
+      "lineStyle": "solid",
+      "genealogy": true
+    },
+    {
+      "name": "location",
+      "color": "#999999",
+      "symmetric": true,
+      "pair": false,
+      "treeLayout": false,
+      "lineStyle": "solid",
+      "genealogy": false
+    }
+  ],
+  "imageProperty": "npcimage",
+  "folderScopes": [],
+  "requiredTags": [],
+  "showLegend": true,
+  "layout": "fcose",
+  "showNodeLabels": true,
+  "localGraphDepth": 2,
+  "animateLayout": true,
+  "lockedLayouts": {}
+}
