@@ -9,7 +9,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[Session Prep 1.md|Session Prep 1]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md|2026-05-30]]"
 tags:
   - session-journal
 ---
