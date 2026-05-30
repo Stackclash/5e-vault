@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Flesh Golem"
             }
+          },
+          {
+            "id": "2363c9eef5ea1693",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "810199-PlanarPassages-ColorCodedMaps"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -319,10 +331,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "16cc78f04004a980",
+  "active": "2363c9eef5ea1693",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Humanoid/Master Thief (MPMM).md",
+    "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
+    "5. Mechanics/Bestiary/Humanoid/Master Thief (MPMM).md",
     "5. Mechanics/Bestiary/Humanoid/Blackguard (MPMM).md",
     "5. Mechanics/Bestiary/Construct/Flesh Golem.md",
     "5. Mechanics/Tables/Flesh Golem (HHHVI).md",
@@ -330,7 +343,6 @@
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "Prompt Builder.md",
     "5. Mechanics/Bestiary/Celestial/Deva.md",
-    "1. DM Toolkit/Configuration.md",
     "5. Mechanics/Races/Githzerai (MPMM).md",
     "5. Mechanics/Bestiary/Elemental/Air Elemental Myrmidon (MPMM).md",
     "5. Mechanics/Tables/Air Elemental Myrmidon (HHHVIII).md",
