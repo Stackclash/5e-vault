@@ -122,16 +122,21 @@ Things set up but not yet paid off — DM notes, unresolved plot points, loose e
 
 When you see a wikilink like `[[Some Note]]` or `[[path/to/Note.md|Alias]]`:
 
-1. If it contains a `.md` path, use that path directly.
-2. If it's just a name, run: `find "/Users/rcox/Projects/Personal/5e-vault" -name "Some Note.md" -not -path "*/5. Mechanics/*"` to locate it.
+1. If it contains a `.md` path, use that path directly (resolved against the vault root).
+2. If it's just a name, run: `find "$VAULT_ROOT" -name "Some Note.md" -not -path "*/5. Mechanics/*"` to locate it.
 3. Prefer results outside `5. Mechanics/` (those are generated compendium entries, not lore notes).
 4. If the file doesn't exist, note it as `[unlinked: Some Note]` in your output.
 
 ## Vault Root
 
-All paths are relative to: `/Users/rcox/Projects/Personal/5e-vault/`
+**Determine the vault root at runtime — do not hardcode a path.**
 
-Use absolute paths when calling Read. Example:
+Run this as your very first action:
+
+```bash
+pwd
 ```
-/Users/rcox/Projects/Personal/5e-vault/4. World Almanac/Worlds/Eldoria.md
-```
+
+The output is your `$VAULT_ROOT`. All subsequent paths are absolute: `$VAULT_ROOT/4. World Almanac/Worlds/Eldoria.md`.
+
+On Windows the path will use backslashes (e.g. `C:\Users\...`); on macOS/Linux it will use forward slashes. Use whatever `pwd` returns verbatim — don't convert separators.
