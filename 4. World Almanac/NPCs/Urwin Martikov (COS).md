@@ -68,8 +68,7 @@ history:
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
-```relations
-```
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description
