@@ -5,7 +5,6 @@ template_definitions:
   name:
     label: Name
     type: text
-current_note_value: 1. DM Toolkit/Knowledge/Sources/Articles/I Stole 14 D&D Homebrew Rules and They Made My Game Better.md
 ---
 ```datacorejsx
 function truncateText(text, maxChars) {
