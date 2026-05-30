@@ -9,7 +9,8 @@ tags:
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
 condition: healthy
-images: []
+images:
+  - 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
 aliases:
   - Urwin Martikov
 alignment: Lawful Good
