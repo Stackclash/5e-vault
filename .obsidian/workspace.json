@@ -76,8 +76,22 @@
               "icon": "lucide-file",
               "title": "Alchemy Jug"
             }
+          },
+          {
+            "id": "6b7fd5bda15c7732",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "z_Bases/Items.base",
+                "viewName": "Overview"
+              },
+              "icon": "lucide-table",
+              "title": "Items"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -317,12 +331,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "16cc78f04004a980",
+  "active": "6b7fd5bda15c7732",
   "lastOpenFiles": [
-    "1. DM Toolkit/Tools/Critical Tables.md",
-    "5. Mechanics/Items/Alchemy Jug.md",
     "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
+    "1. DM Toolkit/Tools/Critical Tables.md",
+    "5. Mechanics/Items/Alchemy Jug.md",
     "1. DM Toolkit/Websites.md",
     "1. DM Toolkit/Sound Board.md",
     "z_Bases/Spells.base",
