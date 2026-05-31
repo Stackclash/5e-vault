@@ -49,7 +49,8 @@
               "title": "Critical Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,15 +290,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "16cc78f04004a980",
+  "active": "8b1513f3befa5eed",
   "lastOpenFiles": [
+    "5. Mechanics/Classes/Rogue.md",
+    "1. DM Toolkit/Configuration.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S41 New Session Journal.md",
     "1. DM Toolkit/Tools/Critical Tables.md",
-    "1. DM Toolkit/Configuration.md",
     "5. Mechanics/Bestiary/Humanoid/Archmage.md",
     "5. Mechanics/Spells/Animate Objects.md",
     "1. DM Toolkit/DM Screen.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
     "5. Mechanics/Classes/Barbarian.md",
     "1. DM Toolkit/DM Quick Reference.md",
     "5. Mechanics/Spells/Dancing Lights.md",
@@ -316,7 +318,6 @@
     "5. Mechanics/Bestiary/Humanoid/Hedge Mage (GRIFFONSSADDLEBAG3).md",
     "5. Mechanics/Bestiary/Humanoid/Acolyte Of The Way (SAF).md",
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
-    "5. Mechanics/Bestiary/Bestiary.md",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "z_Assets/Locations/bruokdon.png",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
