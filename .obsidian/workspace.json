@@ -62,6 +62,20 @@
               "icon": "lucide-file",
               "title": "Critical Tables"
             }
+          },
+          {
+            "id": "c714ad82eccaedbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Items/Alchemy Jug.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alchemy Jug"
+            }
           }
         ]
       }
@@ -305,13 +319,14 @@
   },
   "active": "16cc78f04004a980",
   "lastOpenFiles": [
-    "1. DM Toolkit/Websites.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
-    "1. DM Toolkit/Sound Board.md",
     "1. DM Toolkit/Tools/Critical Tables.md",
+    "5. Mechanics/Items/Alchemy Jug.md",
+    "1. DM Toolkit/Configuration.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
+    "1. DM Toolkit/Websites.md",
+    "1. DM Toolkit/Sound Board.md",
     "z_Bases/Spells.base",
     "5. Mechanics/Spells/Minor Illusion.md",
-    "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S41 New Session Journal.md",
     "5. Mechanics/Items/Javelin Of Lightning.md",
     "5. Mechanics/Spells/Darkness.md",
@@ -331,7 +346,6 @@
     "5. Mechanics/Spells/Dancing Lights.md",
     "2. Scratch Notes/1780183369289 - Warehouse.md",
     "5. Mechanics/Spells/Hypnotic Pattern.md",
-    "5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Mind Fire (VRGR).md",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "z_Assets/Locations/bruokdon.png",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
