@@ -83,15 +83,15 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "z_Bases/Items.base",
-                "viewName": "Overview"
+                "file": "z_Bases/Spells.base",
+                "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Items"
+              "title": "Spells"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -331,17 +331,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6b7fd5bda15c7732",
+  "active": "1b6dbe4f5f1511e5",
   "lastOpenFiles": [
-    "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
+    "1. DM Toolkit/Session Journals/Midnight Covenant/S41 New Session Journal.md",
     "1. DM Toolkit/Tools/Critical Tables.md",
     "5. Mechanics/Items/Alchemy Jug.md",
+    "z_Bases/Spells.base",
+    "5. Mechanics/Spells/Curse Of Yig (KPDM).md",
+    "5. Mechanics/Spells/Planar Ally.md",
+    "z_Bases/Items.base",
+    "1. DM Toolkit/Configuration.md",
     "1. DM Toolkit/Websites.md",
     "1. DM Toolkit/Sound Board.md",
-    "z_Bases/Spells.base",
     "5. Mechanics/Spells/Minor Illusion.md",
-    "1. DM Toolkit/Session Journals/Midnight Covenant/S41 New Session Journal.md",
     "5. Mechanics/Items/Javelin Of Lightning.md",
     "5. Mechanics/Spells/Darkness.md",
     "5. Mechanics/Spells/Spirit Guardians.md",
@@ -357,9 +360,6 @@
     "1. DM Toolkit/DM Screen.md",
     "5. Mechanics/Classes/Barbarian.md",
     "1. DM Toolkit/DM Quick Reference.md",
-    "5. Mechanics/Spells/Dancing Lights.md",
-    "2. Scratch Notes/1780183369289 - Warehouse.md",
-    "5. Mechanics/Spells/Hypnotic Pattern.md",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "z_Assets/Locations/bruokdon.png",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
@@ -369,7 +369,6 @@
     "1. DM Toolkit/Knowledge/Sources/Articles",
     "1. DM Toolkit/Knowledge/Sources/Supplementals",
     "1. DM Toolkit/Knowledge/Sources/Books",
-    "1. DM Toolkit/Knowledge/Sources",
     "5. Mechanics/Bestiary/Plant/img/shambling-mound-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/phase-spider-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/bulette-2.webp",

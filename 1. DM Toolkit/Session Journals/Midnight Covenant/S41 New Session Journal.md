@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2026-05-30
-summary:
+summary: The party raids the warehouse and clears out the enemies. During t
 fc-date: 973-2-27
 fc-end:
 timelines:
