@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2026-05-30
-summary: The party raids the warehouse and clears out the enemies. During t
+summary: The party raids the warehouse and clears out the enemies. During the battle Faerah was able to capture the leader of the thieves, Tavish Ironwood.
 fc-date: 973-2-27
 fc-end:
 timelines:
