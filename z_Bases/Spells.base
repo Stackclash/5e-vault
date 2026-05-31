@@ -19,7 +19,7 @@ views:
     name: Table
     filters:
       and:
-        - school == "Illusion"
+        - level >= 5
     order:
       - file.name
       - school
