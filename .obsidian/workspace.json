@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Spells/Disintegrate.md",
+                "file": "5. Mechanics/Spells/Fireball.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disintegrate"
+              "title": "Fireball"
             }
           },
           {
@@ -104,8 +104,7 @@
               "title": "Wild Trajectory (KPDM)"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -345,8 +344,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1ef9a85a34b94a45",
+  "active": "16cc78f04004a980",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Fireball.md",
+    "5. Mechanics/Spells/Disintegrate.md",
     "z_Bases/Spells.base",
     "5. Mechanics/Spells/Contingency.md",
     "5. Mechanics/Spells/Wild Trajectory (KPDM).md",
@@ -372,7 +373,6 @@
     "5. Mechanics/Bestiary/Humanoid/Warlock Of The Great Old One (MPMM).md",
     "5. Mechanics/Bestiary/Humanoid/Transmuter Wizard (MPMM).md",
     "5. Mechanics/Bestiary/Humanoid/Thaumaturgist (SAF).md",
-    "5. Mechanics/Bestiary/Humanoid/Quaggoth.md",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "z_Assets/Locations/bruokdon.png",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
