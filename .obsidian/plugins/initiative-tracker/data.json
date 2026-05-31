@@ -201,7 +201,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -300,7 +300,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "rollHP": false
@@ -435,7 +435,7 @@
     ],
     "state": true,
     "name": "Warehouse",
-    "round": 2,
+    "round": 3,
     "logFile": "2. Scratch Notes/1780183369289 - Warehouse.md",
     "rollHP": false
   },
