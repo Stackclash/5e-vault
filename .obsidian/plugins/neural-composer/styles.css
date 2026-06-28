@@ -1918,28 +1918,29 @@ button.nrlcmp-chat-input-model-select {
   align-items: center;
 }
 
+/* Graph-view toolbar controls — use Obsidian CSS variables so the icons /
+   text / borders stay legible against both dark and light themes. */
 .nrlcmp-graph-view .nrlcmp-toolbar-input {
-  background: rgba(0, 0, 0, 0.6);
+  background: var(--background-secondary);
   border: 1px solid var(--text-accent);
-  color: #ffffff;
+  color: var(--text-normal);
   padding: 6px 10px;
   border-radius: 6px;
   outline: none;
   width: 200px;
-  backdrop-filter: blur(4px);
   font-family: var(--font-monospace);
   transition: width 0.2s ease;
 }
 
 .nrlcmp-graph-view .nrlcmp-toolbar-input:focus {
   width: 250px;
-  background: rgba(0, 0, 0, 0.8);
+  background: var(--background-primary);
 }
 
 .nrlcmp-graph-view .nrlcmp-toolbar-btn {
-  background: rgba(0, 0, 0, 0.6);
-  border: 1px solid #444444;
-  color: #cccccc;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  color: var(--text-normal);
   padding: 6px;
   border-radius: 6px;
   cursor: pointer;
@@ -2021,26 +2022,30 @@ button.nrlcmp-chat-input-model-select {
 }
 
 .nrlcmp-graph-view .nrlcmp-toolbar-btn:hover {
-  background: rgba(255, 255, 255, 0.1);
-  color: #ffffff;
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+.nrlcmp-graph-view .nrlcmp-toolbar-btn svg {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  stroke: currentColor;
+  fill: none;
 }
 
 .nrlcmp-toolbar-sep {
   width: 1px;
   height: 20px;
-  background: rgba(255, 255, 255, 0.2);
+  background: var(--background-modifier-border);
   margin: 0 2px;
 }
 
 .nrlcmp-toolbar-stats {
   font-size: 11px;
-  color: rgba(255, 255, 255, 0.55);
+  color: var(--text-muted);
   white-space: nowrap;
   margin-left: 4px;
-}
-
-.theme-light .nrlcmp-toolbar-stats {
-  color: rgba(0, 0, 0, 0.45);
 }
 
 .nrlcmp-loading {
@@ -2157,10 +2162,10 @@ button.nrlcmp-chat-input-model-select {
   border-radius: 8px;
   padding: 0;
   z-index: 50;
-  color: #eeeeee;
+  color: var(--text-normal);
   overflow-y: auto;
   display: none;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
   backdrop-filter: blur(10px);
   font-family: var(--font-monospace);
   font-size: 13px;
@@ -2231,7 +2236,7 @@ button.nrlcmp-chat-input-model-select {
 .nrlcmp-details-btn {
   background: rgba(0, 0, 0, 0.2);
   border: none;
-  color: white;
+  color: var(--text-on-accent);
   cursor: pointer;
   padding: 2px 8px;
   border-radius: 4px;
@@ -2453,9 +2458,9 @@ button.nrlcmp-chat-input-model-select {
 .nrlcmp-details-input {
   width: 100%;
   margin-bottom: 10px;
-  background: #333333;
-  color: white;
-  border: 1px solid #555555;
+  background: var(--background-modifier-form-field);
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border);
   padding: 4px;
   font-family: inherit;
 }
@@ -3009,4 +3014,126 @@ button.nrlcmp-chat-input-model-select {
   transition:
     color 0.15s ease,
     stroke 0.15s ease;
+}
+
+/* ── Graph view: non-desktop layout ────────────────────────────────────────
+   On phones and tablets (anything that isn't the electron desktop app) the
+   mobile-only toolbar buttons appear and the toolbar wraps so buttons don't
+   get pushed off-screen. The sidebar OVERLAY rules below are scoped to
+   actually-narrow viewports so iPad landscape keeps the sidebar inline.
+*/
+.nrlcmp-toolbar-btn-mobile {
+  display: none;
+}
+
+.nrlcmp-graph-view.nrlcmp-mobile-layout .nrlcmp-toolbar-btn-mobile {
+  display: inline-flex;
+}
+
+.nrlcmp-graph-view.nrlcmp-mobile-layout .nrlcmp-toolbar {
+  flex-wrap: wrap;
+  max-width: calc(100% - 30px);
+}
+
+/* On tablet/iPad (> 720px) the sidebar is an inline flex child.
+   Hiding it collapses it so the graph zone can use the full width. */
+@media (min-width: 721px) {
+  .nrlcmp-graph-view.nrlcmp-mobile-layout.nrlcmp-sidebar-hidden
+    .nrlcmp-sidebar {
+    display: none;
+  }
+}
+
+/* Sidebar overlay: only on actually-narrow viewports. iPad in landscape /
+   split-view halves stay wide enough to keep the sidebar inline. The 720px
+   breakpoint is a soft "fits the 320px sidebar plus a usable graph zone". */
+@media (max-width: 720px) {
+  .nrlcmp-graph-view.nrlcmp-mobile-layout .nrlcmp-sidebar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: min(85vw, 320px);
+    min-width: 0;
+    max-width: 85vw;
+    z-index: 30;
+    box-shadow: -2px 0 8px rgba(0, 0, 0, 0.35);
+    transition: transform 0.22s ease;
+    transform: translateX(0);
+  }
+  .nrlcmp-graph-view.nrlcmp-mobile-layout.nrlcmp-sidebar-hidden
+    .nrlcmp-sidebar {
+    transform: translateX(100%);
+  }
+  /* When the sidebar overlays the graph, give the graph zone the full width
+     so sigma sizes the canvas correctly. */
+  .nrlcmp-graph-view.nrlcmp-mobile-layout .nrlcmp-graph-zone {
+    flex-basis: 100%;
+  }
+  /* Compact the toolbar input on phones so the rest of the buttons fit. */
+  .nrlcmp-graph-view.nrlcmp-mobile-layout .nrlcmp-toolbar-input {
+    width: 130px;
+  }
+  .nrlcmp-graph-view.nrlcmp-mobile-layout .nrlcmp-toolbar-input:focus {
+    width: 170px;
+  }
+  /* The 320px floating details panel covers most of a phone screen. Make it
+     nearly full-width with safe margins instead. */
+  .nrlcmp-graph-view.nrlcmp-mobile-layout .nrlcmp-details-panel {
+    width: calc(100vw - 24px);
+    max-width: 360px;
+    right: 12px;
+    top: 80px;
+    max-height: 60%;
+  }
+}
+
+/* Sidebar header: place the mobile close button immediately after the title. */
+.nrlcmp-sidebar-title-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.nrlcmp-sidebar-title-row h4 {
+  margin: 0;
+}
+.nrlcmp-sidebar-close {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.nrlcmp-sidebar-close:hover {
+  color: var(--text-normal);
+  background: var(--background-modifier-hover);
+}
+
+/* Stacked setting: places the control below the name/description instead of
+   beside it. Used on non-desktop for text inputs and textareas that need the
+   full width to be usable (folder paths, glob-pattern textareas, etc.). */
+.nrlcmp-setting-stacked {
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.nrlcmp-setting-stacked .setting-item-info {
+  width: 100%;
+  padding-right: 0;
+}
+
+.nrlcmp-setting-stacked .setting-item-control {
+  width: 100%;
+  justify-content: stretch;
+  padding-top: 6px;
+}
+
+.nrlcmp-setting-stacked .setting-item-control input[type='text'],
+.nrlcmp-setting-stacked .setting-item-control textarea {
+  width: 100%;
+  box-sizing: border-box;
 }

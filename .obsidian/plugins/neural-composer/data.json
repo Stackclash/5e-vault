@@ -321,5 +321,7 @@
   "lightRagMaxParallelInsert": 1,
   "lightRagChunkSize": 1200,
   "lightRagChunkOverlap": 100,
-  "lightRagSyncFolder": ""
+  "lightRagSyncFolder": "",
+  "lightRagExcludePatterns": [],
+  "lightRagExcludeHiddenFiles": true
 }
