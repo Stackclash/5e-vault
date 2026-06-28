@@ -20,6 +20,7 @@ views:
     filters:
       and:
         - level >= 5
+        - formula["area size"].isEmpty()
     order:
       - file.name
       - school
