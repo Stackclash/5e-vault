@@ -20,7 +20,7 @@ views:
     filters:
       and:
         - level >= 5
-        - formula["area size"].isEmpty()
+        - '!formula["area shape"].isEmpty()'
     order:
       - file.name
       - school

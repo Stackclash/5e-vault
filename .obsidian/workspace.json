@@ -75,6 +75,20 @@
               "icon": "lucide-table",
               "title": "Spells"
             }
+          },
+          {
+            "id": "40cb1f9e4895aa93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Spells/Black Hole (KPDM).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Hole (KPDM)"
+            }
           }
         ],
         "currentTab": 4
@@ -320,6 +334,9 @@
   },
   "active": "49d0f7719260ab72",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Black Hole (KPDM).md",
+    "5. Mechanics/Spells/Celebration (KPDM).md",
+    "z_Bases/Spells.base",
     "1. DM Toolkit/Configuration.md",
     "5. Mechanics/Bestiary/Construct/Shield Guardian.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md",
@@ -344,9 +361,6 @@
     "1. DM Toolkit/Tools/Story Engine/Builder.md",
     "1. DM Toolkit/Calculators/Travel.md",
     "1. DM Toolkit/Calculators/Currency.md",
-    "1. DM Toolkit/Campaigns/The Hunt for Vecna.md",
-    "1. DM Toolkit/Knowledge/Info/Campaign Structure.md",
-    "z_Bases/Spells.base",
     "z_Bases/Items.base",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "z_Assets/Locations/bruokdon.png",
