@@ -41,3 +41,6 @@ Description
 
 ## What Happened
 - Human Centipede conversation tangent
+- Tavish Ironwood was questioned by party
+- Tavish gave up [[Lord Caldris Velmont]]
+- Tavish was hit by a [[Feeblemind]] enchantment brand on his back
