@@ -21,6 +21,7 @@ views:
       and:
         - level >= 5
         - '!formula["area shape"].isEmpty()'
+        - file.name.contains("darkness")
     order:
       - file.name
       - school
