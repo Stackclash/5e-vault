@@ -104,23 +104,9 @@
               "icon": "lucide-file",
               "title": "Black Hole (KPDM)"
             }
-          },
-          {
-            "id": "daf955dbde26a4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Humanoid/Assassin.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assassin"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -361,19 +347,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "49d0f7719260ab72",
+  "active": "40cb1f9e4895aa93",
   "lastOpenFiles": [
-    "z_Bases/Spells.base",
+    "3. The Party/Players/Roark Battleborn.md",
     "5. Mechanics/Bestiary/Humanoid/Assassin.md",
+    "5. Mechanics/Spells/Creeping Darkness (KPDM).md",
+    "z_Bases/Spells.base",
     "5. Mechanics/Spells/Fireball.md",
     "5. Mechanics/Spells/Feeblemind.md",
     "4. World Almanac/Settlements/Bruokdon.md",
     "5. Mechanics/Items/Boots Of Striding And Springing.md",
     "5. Mechanics/Spells/Lightning Bolt.md",
     "5. Mechanics/Spells/Wall Of Force.md",
-    "3. The Party/Players/Roark Battleborn.md",
     "3. The Party/Players/Yevelda Ovak.md",
-    "5. Mechanics/Spells/Creeping Darkness (KPDM).md",
     "5. Mechanics/Spells/Darkness.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "3. The Party/Players/Wisp.md",
