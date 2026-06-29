@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -388,8 +388,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6dc07ef35e76c6ac",
+  "active": "daf955dbde26a4a1",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Glyph Of Warding.md",
     "1. DM Toolkit/Configuration.md",
     "5. Mechanics/Spells/Lightning Bolt.md",
     "5. Mechanics/Spells/Arcane Lock.md",
@@ -416,7 +417,6 @@
     "1. DM Toolkit/Locations Visited.md",
     "1. DM Toolkit/Inbox.md",
     "1. DM Toolkit/DM Screen.md",
-    "1. DM Toolkit/DM Quick Reference.md",
     "z_Bases/Items.base",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
     "z_Assets/Locations/bruokdon.png",
