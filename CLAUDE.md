@@ -100,12 +100,45 @@ await init.moveFile(tp, config.locations.myPath, data.name)
 
 ## Active Campaign / World / Party
 
-The vault's active context is stored in `1. DM Toolkit/Configuration.md` frontmatter:
-- `active_world` — current world (link to `4. World Almanac/Worlds/`)
-- `active_party` — current party (link to `3. The Party/Parties/`)
-- `active_campaign` — current campaign (link to `1. DM Toolkit/Campaigns/`)
+The vault's active context is stored in `1. DM Toolkit/Configuration.md` frontmatter — this is the single source of truth. Resolve these links before acting; never hardcode the current campaign, world, or party name:
+- `active_world` — current world (link to `4. World Almanac/Worlds/`). Currently Eldoria.
+- `active_party` — current party (link to `3. The Party/Parties/`). Currently Midnight Covenant.
+- `active_campaign` — current campaign (link to `1. DM Toolkit/Campaigns/`). Currently The Hunt for Vecna.
 
 Scripts and templates read this via `dataview.api.page('Configuration')`.
+
+### Campaign bible
+
+The `active_campaign` note **is** the campaign bible. It defines the campaign's premise, tone, power level, active threads, and content lines & veils. All campaign agents follow it. If it's missing or silent on a point that matters (e.g. tone or lines & veils aren't written down yet), agents ask rather than assume.
+
+### Party roster
+
+The `active_party` note is the roster. Size, levels, and composition are surfaced there via its Dataview character and session-log queries — read the note rather than assuming. Encounter balancing uses the Lazy DM (Sly Flourish) encounter benchmark, per the party note's encounter infobox.
+
+### Continuity pointers
+
+- **Open threads / hooks:** quest notes in `3. The Party/Quests/`, plus the per-character "Character Tie-Ins" threads in the active campaign note.
+- **Session notes:** `1. DM Toolkit/Session Journals/<Party Name>/` (currently `.../Midnight Covenant/`).
+
+## Campaign Agent Team
+
+Four agents in `.claude/agents/` handle campaign work — delegate D&D tasks to them:
+
+- `dm-assistant` — orchestrator: session prep, post-session wrap-up, continuity, campaign Q&A. Run `claude --agent dm-assistant` for a DM-focused session.
+- `world-builder` — NPCs, settlements, regions, dungeons, landmarks, factions.
+- `story-creator` — quests, arcs, hooks, foreshadowing, pacing.
+- `encounter-builder` — balanced combat, social, and puzzle encounters for the current party.
+
+### Rules that bind every campaign agent
+
+1. Read existing vault lore on a subject before creating anything new. If new content would contradict established material, flag the conflict — never silently resolve it.
+2. Established canon (names, deaths, treaties, outcomes the DM has finalized) is locked unless the DM explicitly reopens it.
+3. Keep DM-only information (secrets, hidden motives, unrevealed twists) clearly separated and labeled — never blended into player-facing text.
+4. Follow the active campaign note (the campaign bible) for tone, power level, and lines & veils.
+5. Work iteratively: outline → DM approval → full detail. Don't jump to a finished draft unless asked.
+6. Ask targeted questions when a request is underspecified rather than guessing.
+7. Act as an expert collaborator: push back or offer alternatives when something is mechanically off or inconsistent with the established world.
+8. Follow this file's Note Authoring Rules, Frontmatter Tags, and Folder Map — always via the `vault-note` skill. Never invent new conventions. If no convention covers a case, deliver content in the reply and ask before creating files.
 
 ## 5e Mechanics Content Generation
 
