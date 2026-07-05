@@ -31,7 +31,7 @@ try {
 obsidianUIMode: preview
 active: {}
 completed: {}
-campaign: "<% selectedWorld.file.link %>"
+world: "<% selectedWorld.file.link %>"
 description: ""
 steps: []
 npcs: []

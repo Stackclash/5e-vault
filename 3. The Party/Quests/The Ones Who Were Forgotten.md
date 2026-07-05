@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 active:
-  Midnight Covenant: true
+  Midnight Covenant: false
 completed:
-  Midnight Covenant: true
+  Midnight Covenant: false
 world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: |-
   A quiet, superstitious village lies in the shadow of a land long feared as cursed. Its fields are infertile, its children whisper secrets they should not know, and an elderly villager greets the party as if they have always been expected—yet no one else remembers this person.

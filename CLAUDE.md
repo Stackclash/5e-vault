@@ -36,6 +36,31 @@ Each note type has a canonical tag used by Dataview/Datacore queries throughout 
 
 Missing or wrong tags break Dataview/Datacore queries silently — always include the correct tag.
 
+**Location co-tag:** location-type notes (region, settlement, place-of-interest, shop, world) carry a **second `location` tag** in addition to their specific tag — e.g. a settlement is tagged both `#settlement` and `#location`. The `#location` tag is what populates location-picker dropdowns throughout the vault.
+
+### Frontmatter Schemas
+
+Every note starts with `obsidianUIMode: preview` as its first frontmatter key. Canonical field sets per note type live in `z_Templates/Templater/`; the summary below covers the fields queries and scripts depend on:
+
+| Note type | Key frontmatter fields |
+|---|---|
+| **NPC** | `statblock: inline`, `location` (wikilink to container), `condition: healthy`, `relationships`, `race`, `gender`, `age`, `alignment`, `occupation`, `groups`, `religions`, `personality`, `ideal`, `bond`, `flaw`, `goals`, `likes`, `dislikes`, `partyRelationships` (map keyed by party name), `pronounced`, `aliases`, `images` |
+| **Location** (region / settlement / place-of-interest) | `location` (wikilink to parent), `images`, `pronounced`, `resources`, `population`, `terrain`, `rulers`, `government`, `army`, `religions`, `imports`, `exports`, `aliases`; tags = specific type + `location` |
+| **Shop** | `location`, `owners`, `staff`, `cost_modifier: 1`, `shop_type`, `shop_size`, `items`, `resources`; tags = `shop` + `location` |
+| **World** | `economic_scale`, `calendar`; tags = `world` + `location` |
+| **Quest** | `active` (map keyed by party → bool), `completed` (map keyed by party → bool), `world` (wikilink), `description`, `steps`, `npcs` |
+| **Player character** | Full D&D Beyond schema (`statblock: true`, `active`, `level`, `ac`, `hp`, `abilityScores`, `savingThrows`, `skills`, `classes`, `classFeatures`, etc.), plus `party` and `location` wikilinks. Generated from a D&D Beyond import — do not hand-author. |
+| **Party** | Travel/time-tracking fields (`hours_per_day`, `travel_speed`, `travel_multiplier`, `exhaustion_level`, `movement`, `speed`, `travel_hours_per_day`, etc.) |
+| **Session prep** | `date`, tag `session-prep` (minimal) |
+| **Session journal** | `date`, `summary`, `party` (wikilink), `prep-notes` (wikilink to the prep note), plus fantasy-calendar fields `fc-date`, `fc-end`, `fc-category: Session`, `timelines`, `calendar`, `aat-render-enabled: true`; optional `locations` |
+| **Campaign** | `party` (wikilink), `world` (wikilink), tag `campaign` |
+
+Two cross-cutting conventions:
+- **`location` encodes the world hierarchy** (World → Region → Settlement → Place of Interest). Set it to the immediate parent as a wikilink, not a folder path.
+- **Per-party state is stored as maps keyed by the party's note name**, not bare booleans — quest `active`/`completed`, NPC `partyRelationships`.
+
+> Note: the Quest Templater template (`z_Templates/Templater/Campaign/Quest.md`) currently writes `campaign:` instead of `world:` and is out of date; existing quest notes use `world:`, which is authoritative.
+
 ## Folder Map
 
 | Content Type | Folder |
