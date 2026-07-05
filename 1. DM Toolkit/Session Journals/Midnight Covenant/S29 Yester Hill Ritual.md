@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 date: 2025-01-19
-summary:
+summary: |-
+  With the captured druid broken by Seluvis's interrogation, the party stormed the crown of Yester Hill and shattered the dark druids' ritual before it could be completed. In the fighting the druids called up the Gulthias Avatar, a towering horror of blighted wood, and the party cut it down among the standing stones. As Faerah approached the Gulthias Tree its vines seized her and began dragging her in — but she called on Eilistraee, and a shaft of moonlight lanced down, driving the vines back. At the tree's base they recovered the second of the Wizard of Wines' stolen gems, along with the Yester Hill Axe and the Gulthias Staff.
 fc-date: 973-2-23
 fc-end: 973-2-23
 timelines:

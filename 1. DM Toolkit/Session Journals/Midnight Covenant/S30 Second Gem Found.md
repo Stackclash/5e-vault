@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 date: 2025-02-21
-summary: 
+summary: |-
+  With the second gem recovered and Yester Hill behind them, the party turned to planning their next move against Strahd. Much of the day was spent in council — weighing what they had learned, taking stock of their allies and resources, and deciding how and where to make their stand.
 fc-date: 973-2-23
 fc-end: 973-2-24
 timelines:

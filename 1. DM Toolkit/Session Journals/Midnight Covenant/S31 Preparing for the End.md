@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 date: 2025-02-28
-summary:
+summary: |-
+  With Strahd holding Ireena captive and intent on making her his bride, the party spent their remaining time preparing for the wedding that would become their battlefield. They armed themselves with enchanted broaches that shift color to pass silent signals, and counted their hidden allies — Rictavio, Ezmerelda Davenir, and the Abbot — each expected to turn on Strahd once the ceremony began. Seluvis, Marin, and Faerah visited Blinsky's toy shop, coming away with a Music Box of Mind Shielding, a Cackling Skull Bomb, and a Jack-in-the-Dark. In prayer, Faerah received a cryptic charge from Eilistraee: to seek out "the heart that could grant a boon for the final battle" — a mystery that would not be answered until they walked the halls of Castle Ravenloft.
 fc-date: 973-2-24
 fc-end: 973-2-24
 timelines:
