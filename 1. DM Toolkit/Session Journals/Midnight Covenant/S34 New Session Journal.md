@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 date: 2025-12-21
-summary:
+summary: |-
+  With Strahd destroyed, the fog that had bound Barovia for centuries at last lifted. The party gathered their allies to look to the future. Rictavio and Ezmerelda chose to remain behind, hunting the monsters that still lurked so the villages could finally know peace. Emil returned to his den to reclaim leadership of his werewolves, vowing to be no threat to the people of Barovia. Urwin took a seat on the Vallaki council, pledging to help the town prosper. Seluvis and Marin also elected to stay and help rebuild. Their work in Barovia complete, the Midnight Covenant prepared to move on — closing the book on the horrors of Barovia.
 fc-date: 973-2-24
 fc-end: 973-2-24
 timelines:

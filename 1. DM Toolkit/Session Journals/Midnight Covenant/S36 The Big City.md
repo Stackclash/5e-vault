@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 date: 2026-02-28
-summary:
+summary: |-
+  The party arrived in the bustling city of Bruokdon — Redgrave's old hometown. A guard named Chaz escorted them to the register office, where they formally registered their company as the Midnight Covenant. Redgrave reconnected with the Artisan Guild and the Watchers over the Fallen, of which he was already a member, and settled back into a house in the city. At the Golden Hammer, a smithy run by his old friend the goliath Arnoth, the party outfitted themselves with an array of enchanted gear. Their true purpose in Bruokdon, however, was to seek out Professor Gousse — a council member at the Umbral Aethenaeum, the city's magical school — in hopes its vast library might hold answers about Vecna.
 fc-date: 973-2-24
 fc-end: 973-2-25
 timelines:

@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 date: 2026-05-02
-summary:
+summary: |-
+  In the kidnappers' headquarters the party finished off their foes, taking several prisoner and freeing the captive old man at last — Martin Thricefold, who revealed himself a follower of the same deity Roark's father served. Within the hideout they also came upon an alchemist's lab, abandoned by its owner. They brought Martin back to the safety of Redgrave's house and delivered the prisoners to the Umbral Aethenaeum. Returning to their research, the party scoured the library for any reference to Vecna — but each time they drew near, the words would vanish from the page before their eyes.
 fc-date: 973-2-25
 fc-end: 
 timelines: 

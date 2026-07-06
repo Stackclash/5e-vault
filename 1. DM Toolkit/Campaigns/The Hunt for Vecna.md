@@ -59,6 +59,13 @@ Content-safety boundaries every agent must respect.
 1. Force truth into the world to the point where a god is required to hold it.
 2. *(TODO — next step in the plan)*
 
+> [!warning]- DM only — Vecna's methods (party unaware)
+> As Vecna departed [[Barovia]], he tested his truth-manipulating magic on the town of [[Thornmere]] in [[Greenfall]] — the first observed instance of his power to force and erase truth:
+> - He erased [[Eamon Morcant]] from the villagers' memories, making a man who had lived there his whole life into a shunned "stranger." The spell succeeded.
+> - The town's children instead "knew too much truth" — retaining impossible knowledge of the party's deeds in Barovia, an unintended overflow of the same magic.
+>
+> The party broke the rune beneath Eamon's house (S35), restoring the villagers' memories and curing the children — but **they do not know Vecna was responsible.**
+
 # Character Tie-Ins
 
 How each PC's story hooks into the campaign. These are threads and open questions, not locked outcomes — develop them with the DM.
@@ -69,6 +76,7 @@ How each PC's story hooks into the campaign. These are threads and open question
 	- What has the guild been doing?
 	- Do they know about the members in [[Barovia]]?
 - His Artisan guild — potential source of quests.
+- Member of the **Watchers over the Fallen**, a faction in his hometown of [[Bruokdon]] (alongside the Artisan Guild). *(TODO — faction undefined; develop its purpose, structure, and any tie to the Vecna hunt.)*
 
 ### [[Faerah Duskrane]]
 - Patron is [[Drow Eilistraee (MTF)|Eilistraee]].
@@ -92,6 +100,8 @@ Open questions and hooks the agents should track for continuity:
 
 - Vecna's next step toward forcing "truth" into the world *(see The Villain, step 2)*.
 - The fate and activity of the Order of the Silver Dragon *([[Redgrave]])*.
+- Vecna's truth-magic loose in [[Greenfall]] — the Thornmere incident and its ripples; the party is unaware of his hand in it *(see The Villain: Vecna)*.
+- The **Watchers over the Fallen** faction and Redgrave's ties to it *([[Redgrave]])*.
 - The Underdark / Eilistraee connection *([[Faerah Duskrane]])*.
 - Wisp's slumbering master and fading power *([[Wisp]])*.
 - The Fortunes of Ravenloft — locations tracked below.
