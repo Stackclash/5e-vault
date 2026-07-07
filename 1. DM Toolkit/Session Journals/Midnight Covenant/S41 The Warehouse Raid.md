@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2026-05-30
-summary: ""
+summary: "Acting on the note recovered from the smugglers' hideout, Faerah had slipped away to scout the warehouse from the air, and the Covenant laid their plans. When the raid came, they struck from two directions at once: Wisp and Faerah flew to the warehouse's upper level to hunt down the leader, while the rest of the party broke through the front doors. Inside waited a hardened crew — blackguards, master thieves, an assassin, and a lumbering flesh golem — and the fight was fierce. The leader, Tavish Ironwood, tried to flee the closing net, but Faerah ran him down and took him hostage. Seeing their master cornered and certain to talk, one of his own bodyguards turned on him, trying to cut Tavish down before he could be taken alive. The party cut through the last of the resistance and hauled Tavish away in chains. Among the crates they found the smugglers' haul — boxes upon boxes of minor magical items — and kept a few choice pieces for themselves."
 fc-date: 973-2-27
 fc-end: 973-2-27
 timelines:
