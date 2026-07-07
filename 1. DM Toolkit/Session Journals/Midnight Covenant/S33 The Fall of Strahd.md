@@ -1,10 +1,7 @@
 ---
 obsidianUIMode: preview
 date: 2025-04-19
-summary: |-
-  Van Richten and Faerah sneak away to the prisons and fall into the trap and find Ezmerelda and Emil.
-  Defeats Strahd
-  Returns to Vallaki and captures Fiona and the Watcher brothers.
+summary: ""
 fc-date: 973-2-24
 fc-end: 973-2-24
 timelines:
@@ -16,6 +13,8 @@ party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2025-10-25.md|2025-10-25]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
 > ## Info

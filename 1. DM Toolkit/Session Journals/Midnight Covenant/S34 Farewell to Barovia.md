@@ -1,17 +1,20 @@
 ---
 obsidianUIMode: preview
-date: 2026-05-30
-summary: The party raids the warehouse and clears out the enemies. During the battle Faerah was able to capture the leader of the thieves, Tavish Ironwood.
-fc-date: 973-2-27
-fc-end:
+date: 2025-12-21
+summary: With Strahd destroyed, the fog that had bound Barovia for centuries at last lifted. The party gathered their allies to look to the future. Rictavio and Ezmerelda chose to remain behind, hunting the monsters that still lurked so the villages could finally know peace. Emil returned to his den to reclaim leadership of his werewolves, vowing to be no threat to the people of Barovia. Urwin took a seat on the Vallaki council, pledging to help the town prosper. Seluvis and Marin also elected to stay and help rebuild. Their work in Barovia complete, the Midnight Covenant prepared to move on — closing the book on the horrors of Barovia.
+fc-date: 973-2-24
+fc-end: 973-2-24
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
+calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md|2026-05-30]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2025-12-21.md|2025-12-21]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
 > ## Info
@@ -40,15 +43,4 @@ Who Did They Meet?
 Description
 
 ## What Happened
-Small description.
 
-```encounter-table
-name: Warehouse
-creatures:
-- 4: [[Blackguard (MPMM)]]
-- 3: [[Master Thief (MPMM)]]
-- 1: [[Assassin]]
----
-creatures:
-- 1: [[Flesh Golem]]
-```

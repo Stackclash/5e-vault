@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
 date: 2026-05-16
-summary:
+summary: "Deep in research at the Umbral Aethenaeum, the party combed the library for anything tied to Vecna. The pages fought them — words slipping away as they read — but two names surfaced again and again before vanishing: the Silent Ascendency and the Eternal Watch. Little more than the names would reveal itself. Professor Gousse agreed to let the party use the Well of Many Worlds for their coming journey into the planes of existence. Among their finds were several spell scrolls and a few curious magic items: the Jaded Necklace, an Amulet of Dragonkin, and a Necklace of Adaptation."
 fc-date: 973-2-25
-fc-end: 
-timelines: 
+fc-end: 973-2-27
+timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
@@ -12,6 +12,8 @@ party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 prep-notes: "[[Session Prep.md|Session Prep]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 ---
 > [!infobox]
 > ## Info

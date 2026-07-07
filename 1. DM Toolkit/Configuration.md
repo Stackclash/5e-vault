@@ -133,7 +133,7 @@ item_pricing:
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
 > | **Active World** | `INPUT[suggester(optionQuery(#world)):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
-mm
+
 # Current Party/World Info
 ```dataviewjs
 const { getDate } = await self.require.import("z_Scripts/JS/calendarDate.js");

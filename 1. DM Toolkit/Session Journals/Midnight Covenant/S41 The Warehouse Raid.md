@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
-date: 2026-04-11
-summary: |-
-  - Dareliean - alchemist madman
-  - 
-fc-date: 973-2-25
-fc-end:
+date: 2026-05-30
+summary: ""
+fc-date: 973-2-27
+fc-end: 973-2-27
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2026-04-11.md|2026-04-11]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md|2026-05-30]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 ---
 > [!infobox]
 > ## Info
@@ -42,4 +42,15 @@ Who Did They Meet?
 Description
 
 ## What Happened
-Small description.
+The party raids the warehouse and clears out the enemies. During the battle Faerah was able to capture the leader of the thieves, Tavish Ironwood.
+
+```encounter-table
+name: Warehouse
+creatures:
+- 4: [[Blackguard (MPMM)]]
+- 3: [[Master Thief (MPMM)]]
+- 1: [[Assassin]]
+---
+creatures:
+- 1: [[Flesh Golem]]
+```

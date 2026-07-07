@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
-date: 2025-12-21
-summary: |-
-  With Strahd destroyed, the fog that had bound Barovia for centuries at last lifted. The party gathered their allies to look to the future. Rictavio and Ezmerelda chose to remain behind, hunting the monsters that still lurked so the villages could finally know peace. Emil returned to his den to reclaim leadership of his werewolves, vowing to be no threat to the people of Barovia. Urwin took a seat on the Vallaki council, pledging to help the town prosper. Seluvis and Marin also elected to stay and help rebuild. Their work in Barovia complete, the Midnight Covenant prepared to move on — closing the book on the horrors of Barovia.
-fc-date: 973-2-24
-fc-end: 973-2-24
+date: 2026-05-02
+summary: In the kidnappers' headquarters the party finished off their foes, taking several prisoner and freeing the captive old man at last — Martin Thricefold, who revealed himself a follower of the same deity Roark's father served. Within the hideout they also came upon an alchemist's lab, abandoned by its owner. They brought Martin back to the safety of Redgrave's house and delivered the prisoners to the Umbral Aethenaeum. Returning to their research, the party scoured the library for any reference to Vecna — but each time they drew near, the words would vanish from the page before their eyes.
+fc-date: 973-2-25
+fc-end: 973-2-25
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
-calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2025-12-21.md|2025-12-21]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md|2026-05-02]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 ---
 > [!infobox]
 > ## Info
@@ -42,4 +42,4 @@ Who Did They Meet?
 Description
 
 ## What Happened
-
+Small description.

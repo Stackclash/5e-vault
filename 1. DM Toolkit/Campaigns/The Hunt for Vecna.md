@@ -102,6 +102,7 @@ Open questions and hooks the agents should track for continuity:
 - The fate and activity of the Order of the Silver Dragon *([[Redgrave]])*.
 - Vecna's truth-magic loose in [[Greenfall]] — the Thornmere incident and its ripples; the party is unaware of his hand in it *(see The Villain: Vecna)*.
 - The **Watchers over the Fallen** faction and Redgrave's ties to it *([[Redgrave]])*.
+- [[Lord Caldris Velmont]] — a council member of the [[Umbral Aethenaeum]] secretly backing the Bruokdon thieves, whose true aim is to **siphon the party's magical power** (not the enchanted items they steal). The party broke into his home and found "Velmont" waiting in a hidden basement room; his true identity is an open question, picked up at the start of the next session.
 - The Underdark / Eilistraee connection *([[Faerah Duskrane]])*.
 - Wisp's slumbering master and fading power *([[Wisp]])*.
 - The Fortunes of Ravenloft — locations tracked below.

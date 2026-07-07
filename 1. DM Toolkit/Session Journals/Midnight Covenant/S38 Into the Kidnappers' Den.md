@@ -1,18 +1,19 @@
 ---
 obsidianUIMode: preview
-date: 2026-05-02
-summary: |-
-  In the kidnappers' headquarters the party finished off their foes, taking several prisoner and freeing the captive old man at last — Martin Thricefold, who revealed himself a follower of the same deity Roark's father served. Within the hideout they also came upon an alchemist's lab, abandoned by its owner. They brought Martin back to the safety of Redgrave's house and delivered the prisoners to the Umbral Aethenaeum. Returning to their research, the party scoured the library for any reference to Vecna — but each time they drew near, the words would vanish from the page before their eyes.
+date: 2026-04-11
+summary: ""
 fc-date: 973-2-25
-fc-end: 
-timelines: 
+fc-end: 973-2-25
+timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md|2026-05-02]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2026-04-11.md|2026-04-11]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 ---
 > [!infobox]
 > ## Info
