@@ -19,9 +19,11 @@ obsidianUIMode: preview
 
 # Premise
 
-The **[[Midnight Covenant]]** has become entangled in the schemes of **[[Vecna]]**, the Whispered One — the lich-god of secrets who seeks to ascend into the **God of Truth** and rewrite reality itself. The campaign is set in the world of **[[Eldoria]]**, and its current arc runs through the mists of **[[Barovia]]** (the events of *Curse of Strahd*), where the party hunts the Fortunes of Ravenloft while the larger threat of Vecna gathers behind the veil.
+The **[[Midnight Covenant]]** unknowingly freed **[[Vecna]]**, the Whispered One. In the halls of Castle Ravenloft, [[Redgrave]] drove the final blow into Strahd von Zarovich, drawing his soul out with the Amulet of Ravenkind and a stake through the heart. As the castle fell, a beam of purple energy erupted from Mount Ghakis, where the Amber Temple lies — Strahd's death was "the final piece," a voice told them, that broke the seal binding Vecna inside. It promised ruin to come, and named itself (S33). The party knows this; it's the reason the hunt bears his name.
 
-> [!note] DM: this premise is a working synthesis of the existing notes — refine the throughline (how Barovia connects to Vecna's ascension, what the party knows vs. what is hidden) as canon firms up.
+The campaign is set in the world of **[[Eldoria]]**. Barovia's mists are behind them — the current arc centers on **[[Bruokdon]]**, where the party researches Vecna at the Umbral Athenaeum and closes in on the **Silent Ascendency**, his mortal network, while Vecna works to force his ascension into the **God of Truth** and rewrite reality itself.
+
+> [!note] See **The Hunt — Campaign Arc** below for the full stage-by-stage roadmap, and **Character Tie-Ins** for how each PC's thread intersects it.
 
 # Tone
 
@@ -56,8 +58,10 @@ Content-safety boundaries every agent must respect.
 
 ### End Goal: become the God of Truth and dominate reality itself
 
-1. Force truth into the world to the point where a god is required to hold it.
-2. *(TODO — next step in the plan)*
+1. **Force truth into the world** — *done.* Tested on [[Thornmere]] (see DM-only note below); the party doesn't know he caused it.
+2. **Harvest raw power** — *active.* The Silent Ascendency, his mortal network, is buying up far more stolen magic items than [[Lord Caldris Velmont]]'s smuggling ring normally moves, siphoning their magical energy toward the ascension — and, per S42, has escalated to targeting the party's own accumulated magical power directly.
+3. **Claim a vessel** — *upcoming.* Weakened and newly escaped, Vecna needs a physical anchor or champion to act fully in the material world.
+4. **Force the Ascension Rite** — *the endgame.* Once power and a vessel are secured, Vecna moves to force his godhood into being at a cosmic nexus.
 
 > [!warning]- DM only — Vecna's methods (party unaware)
 > As Vecna departed [[Barovia]], he tested his truth-manipulating magic on the town of [[Thornmere]] in [[Greenfall]] — the first observed instance of his power to force and erase truth:
@@ -66,45 +70,59 @@ Content-safety boundaries every agent must respect.
 >
 > The party broke the rune beneath Eamon's house (S35), restoring the villagers' memories and curing the children — but **they do not know Vecna was responsible.**
 
+# The Hunt — Campaign Arc
+
+The party's journey to stop Vecna, in seven stages. Vecna's plan (above) keeps advancing on its own timeline regardless of which stage the party is in — these are the party's moves, not his. Stage numbers are pacing scaffolding, not a railroad — treat each as a situation, not a fixed scene order.
+
+1. **Force Truth** *(complete, DM-only, pre-dates the current arc)* — the Thornmere/[[Eamon Morcant]] incident. Villain step 1.
+2. **Harvest Power — [[Bruokdon]]** *(active)* — unmasking [[Lord Caldris Velmont]] and the Umbral Athenaeum smuggling ring exposes the Silent Ascendency's item-energy pipeline. Villain step 2.
+3. **The Great Library** *(next)* — via the Well of Many Worlds, with [[Professor Gousse Windcaller]]'s help, the party seeks records Eldoria's own archives can no longer hold (the vanishing-text research of S39-40). Expect Silent Ascendency agents already there, erasing the same truths. Hinge point: this is where the party gets their map for the rest of the hunt.
+4. **Claim a Vessel** *(upcoming)* — the trail leads to Vecna's vessel candidates, [[Izek Strazni (COS)|Izek Strazni]] and [[Anastrasya Karelova (COS)|Anastrasya Karelova]]. Spotlights [[Yevelda Ovak]] and [[Redgrave]]. Villain step 3.
+5. **The Underdark** *(upcoming)* — [[Faerah Duskrane]]'s sister resurfaces. Answers Eilistraee's stance on Vecna in the fiction rather than in advance.
+6. **The Eternal Watch** *(upcoming)* — the party tracks down the order that has watched the Amber Temple for centuries, seeking a way to save [[Wisp]]'s master. Sets the rules for the finale.
+7. **The Ascension Rite — Finale** *(upcoming)* — all threads converge. Villain step 4.
+
 # Character Tie-Ins
 
 How each PC's story hooks into the campaign. These are threads and open questions, not locked outcomes — develop them with the DM.
 
 ### [[Redgrave]]
-- The soul within belongs to a member of the Order of the Silver Dragon.
-- What if the Order isn't completely gone?
-	- What has the guild been doing?
-	- Do they know about the members in [[Barovia]]?
-- His Artisan guild — potential source of quests.
-- Member of the **Watchers over the Fallen**, a faction in his hometown of [[Bruokdon]] (alongside the Artisan Guild). *(TODO — faction undefined; develop its purpose, structure, and any tie to the Vecna hunt.)*
+- The soul within belongs to a member of the Order of the Silver Dragon — likely captured mid-investigation into Eludrax's soul-vessel experiments, the same forbidden soul-craft that (unknown to Strahd) fed the seal binding Vecna at the Amber Temple. Redgrave's own killing blow on Strahd was the "final piece" that broke that seal (S33) — he freed Vecna without knowing it.
+- What remains of the Order of the Silver Dragon is undefined but expected to resurface at Hunt Stage 4 (Claim a Vessel), recognizing the soul-craft in both Redgrave and whatever the Silent Ascendency is attempting.
+- His Artisan Guild and membership in the **Watchers over the Fallen**, a faction in his hometown of [[Bruokdon]], remain *(TODO — undefined; develop purpose, structure, and any tie to the hunt.)*
 
 ### [[Faerah Duskrane]]
 - Patron is [[Drow Eilistraee (MTF)|Eilistraee]].
-- How to tie the story back to the Underdark?
-	- Need to develop the Underdark further.
-	- What customizations could be made to it?
-- What is [[Drow Eilistraee (MTF)|Eilistraee's]] stance on Vecna's plan?
+- Her sister — believed killed fleeing the Underdark — may actually be alive, having escaped it independently. Surfaces at Hunt Stage 5 (The Underdark); exact location and circumstances of the reunion are still open.
+- Eilistraee's stance on Vecna's ascension will be answered in the fiction during that stage rather than decided in advance.
 
 ### [[Yevelda Ovak]]
 - Parents were killed defending [[Barovia]].
+- [[Izek Strazni (COS)|Izek Strazni]] — last seen alive in Van Richten's Tower (S16), never found after Castle Ravenloft's fall — was claimed by Vecna's power in the moment of his escape and bound to serve him. Surfaces at Hunt Stage 4 (Claim a Vessel) as a personal rescue-or-mercy dilemma.
 
 ### [[Wisp]]
-- Why is their master in a magical slumber, and why is Wisp's power fading?
+- A cat familiar carrying spellcasting power that actually belongs to their master — a member of the Eternal Watch, the order that has watched over the Amber Temple for centuries. The ward the master maintained broke the instant Vecna escaped, throwing him into the coma he's been in since; Wisp's borrowed power is fraying as a result.
+- Finding the Eternal Watch (Hunt Stage 6) to save him is Wisp's throughline.
 
 ### [[Roark Battleborn]]
-- *(TODO — develop tie-in)*
+- His father is a Trickster God, bound — like all gods — by an ancient compact never to act in ways that would strip mortals of their own agency. He cannot move against Vecna directly; Roark, his mortal son, is the sanctioned loophole.
+- [[Martin Thricefold]] is bonded to protect Roark on the god's behalf, having received a warning years ago that the corruption of knowledge would be Vecna's first sign of return — a warning that's already proven true at the Umbral Athenaeum.
+- Roark's arc is growing into the role of his father's hands in the mortal world.
 
 # Active Threads
 
 Open questions and hooks the agents should track for continuity:
 
-- Vecna's next step toward forcing "truth" into the world *(see The Villain, step 2)*.
-- The fate and activity of the Order of the Silver Dragon *([[Redgrave]])*.
+- **The Silent Ascendency** — Vecna's mortal network. Buying up far more stolen magic items than [[Lord Caldris Velmont]]'s ring normally moves, to siphon their energy toward the ascension (Hunt Stage 2) — and, per S42, escalating to target the party's own magical power directly. Velmont's true identity and role in the Ascendency is an open question, picked up at the start of the next session.
+- **The Eternal Watch** — an ancient order that has watched over the Amber Temple for centuries. [[Wisp]]'s master is a member; the ward he maintained broke the instant Vecna escaped, dropping him into a coma. Surfaces at Hunt Stage 6.
+- The fate and activity of the Order of the Silver Dragon *([[Redgrave]])* — expected to resurface at Hunt Stage 4, tied to Eludrax's soul-vessel craft.
 - Vecna's truth-magic loose in [[Greenfall]] — the Thornmere incident and its ripples; the party is unaware of his hand in it *(see The Villain: Vecna)*.
-- The **Watchers over the Fallen** faction and Redgrave's ties to it *([[Redgrave]])*.
-- [[Lord Caldris Velmont]] — a council member of the [[Umbral Aethenaeum]] secretly backing the Bruokdon thieves, whose true aim is to **siphon the party's magical power** (not the enchanted items they steal). The party broke into his home and found "Velmont" waiting in a hidden basement room; his true identity is an open question, picked up at the start of the next session.
-- The Underdark / Eilistraee connection *([[Faerah Duskrane]])*.
-- Wisp's slumbering master and fading power *([[Wisp]])*.
+- The **Watchers over the Fallen** faction and Redgrave's ties to it *([[Redgrave]])* — undefined, needs developing.
+- The Underdark / Eilistraee connection, and whether [[Faerah Duskrane]]'s sister survived and escaped it *(Hunt Stage 5)*.
+- [[Izek Strazni (COS)|Izek Strazni]] — missing since Castle Ravenloft's fall; claimed by Vecna's power in that moment, now bound to serve him *([[Yevelda Ovak]], Hunt Stage 4)*.
+- [[Anastrasya Karelova (COS)|Anastrasya Karelova]] — fled Strahd's wedding battle and survived; a candidate for Vecna's forces to recruit as vessel or enforcer *(Hunt Stage 4)*.
+- The Great Library, reached via the Well of Many Worlds with [[Professor Gousse Windcaller]]'s help — next session; expect Silent Ascendency agents already at work there *(Hunt Stage 3)*.
+- The gods' non-interference compact and Roark's father, the Trickster God — background force shaping [[Roark Battleborn]]'s arc; [[Merrin Thricefold]] acts as the god's indirect agent.
 - The Fortunes of Ravenloft — locations tracked below.
 
 ## Fortunes of Ravenloft
@@ -120,6 +138,13 @@ Facts the DM has finalized. Agents treat these as fixed unless the DM explicitly
 - [[Redgrave]] carries the soul of an Order of the Silver Dragon member.
 - [[Faerah Duskrane]] is a servant of [[Drow Eilistraee (MTF)|Eilistraee]].
 - [[Yevelda Ovak]]'s parents died defending [[Barovia]].
+- Killing Strahd (S33) — specifically Redgrave's final blow, drawing out Strahd's soul — delivered "the final piece" that freed Vecna from the Amber Temple. The party witnessed this and knows it.
+- Roark's father is a Trickster God, bound by the gods' ancient non-interference compact; Roark is his sanctioned mortal agent.
+- [[Wisp]]'s master is a member of the Eternal Watch and fell into a coma the instant Vecna's escape broke the ward he maintained.
+- [[Izek Strazni (COS)|Izek Strazni]] survived the fall of Castle Ravenloft and was claimed by Vecna's power in that moment; he now serves him.
+- [[Anastrasya Karelova (COS)|Anastrasya Karelova]] survived Strahd's wedding-night battle and fled; she is being courted by Vecna's forces.
+- The Silent Ascendency is buying up stolen magic items from [[Lord Caldris Velmont]]'s ring — and, per S42, targeting the party's own magical power — to siphon energy toward Vecna's ascension.
+- [[Faerah Duskrane]]'s sister may have survived and escaped the Underdark.
 
 # Timelines
 ```aat-vertical

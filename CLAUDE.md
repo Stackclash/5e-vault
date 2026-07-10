@@ -134,7 +134,7 @@ Scripts and templates read this via `dataview.api.page('Configuration')`.
 
 ### Campaign bible
 
-The `active_campaign` note **is** the campaign bible. It defines the campaign's premise, tone, power level, active threads, and content lines & veils. All campaign agents follow it. If it's missing or silent on a point that matters (e.g. tone or lines & veils aren't written down yet), agents ask rather than assume.
+The `active_campaign` note **is** the campaign bible. It defines the campaign's premise, tone, power level, active threads, and content lines & veils. All campaign work follows it. If it's missing or silent on a point that matters (e.g. tone or lines & veils aren't written down yet), ask rather than assume.
 
 ### Party roster
 
@@ -145,16 +145,20 @@ The `active_party` note is the roster. Size, levels, and composition are surface
 - **Open threads / hooks:** quest notes in `3. The Party/Quests/`, plus the per-character "Character Tie-Ins" threads in the active campaign note.
 - **Session notes:** `1. DM Toolkit/Session Journals/<Party Name>/` (currently `.../Midnight Covenant/`).
 
-## Campaign Agent Team
+## Campaign Assistant & Skills
 
-Four agents in `.claude/agents/` handle campaign work — delegate D&D tasks to them:
+Campaign craft lives in project skills (`.claude/skills/`) loaded into the working conversation, plus one agent:
 
-- `dm-assistant` — orchestrator: session prep, post-session wrap-up, continuity, campaign Q&A. Run `claude --agent dm-assistant` for a DM-focused session.
-- `world-builder` — NPCs, settlements, regions, dungeons, landmarks, factions.
-- `story-creator` — quests, arcs, hooks, foreshadowing, pacing.
-- `encounter-builder` — balanced combat, social, and puzzle encounters for the current party.
+- `dm-assistant` (agent, `.claude/agents/`) — the DM's collaborator: session prep, post-session wrap-up, continuity, campaign Q&A, live-play support. Run `claude --agent dm-assistant` for a DM-focused session; it loads the skills below as needed.
+- `world-builder` (skill) — NPCs, settlements, regions, dungeons, landmarks, factions.
+- `story-creator` (skill) — quests, arcs, hooks, foreshadowing, pacing; writes encounter briefs, no combat math.
+- `encounter-builder` (skill) — balanced combat, social, and puzzle encounters for the current party; treasure and magic-item rewards, existing or custom.
+- `lore-researcher` (skill) — discovery methods for campaign history: session-journal sweeps, the world-hierarchy walk via `location` links, NPC connections, backlink greps.
+- `dnd-qa` (skill) — rules, monsters, spells, and items answered from `5. Mechanics/` (read-only).
 
-### Rules that bind every campaign agent
+Load the matching skill before doing that kind of work, whether or not the session runs as dm-assistant. Note for all vault reading: **Dataview queries do not render outside Obsidian** — resolve rosters, quest lists, and similar data from note frontmatter (e.g. player notes' `party`/`active`/`level` fields), not from query blocks.
+
+### Rules that bind all campaign work
 
 1. Read existing vault lore on a subject before creating anything new. If new content would contradict established material, flag the conflict — never silently resolve it.
 2. Established canon (names, deaths, treaties, outcomes the DM has finalized) is locked unless the DM explicitly reopens it.
