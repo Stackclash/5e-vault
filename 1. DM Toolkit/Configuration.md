@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 active_world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 active_party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
 locations:
   preps: 1. DM Toolkit/Session Prep/
   journals: 1. DM Toolkit/Session Journals/
@@ -71,7 +72,6 @@ relationship_mapping:
       male: Nephew
       female: Niece
     to: Aunt
-active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
 shop_types:
   - name: Blacksmith
     item_types: "weapon, armor"
