@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-07-18.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov (COS).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-18"
+              "title": "Urwin Martikov (COS)"
             }
           },
           {
@@ -27,16 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Parriwimple (COS).md",
+                "file": "4. World Almanac/Shops/Golden Hammer.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parriwimple (COS)"
+              "title": "Golden Hammer"
             }
           },
           {
-            "id": "3dd31108bdf8a8d1",
+            "id": "e5f71c791c5272fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,19 +288,20 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
       "relations:Open Relations graph": false,
-      "realclaudian:Open Claudian": false,
-      "agent-client:Open agent client": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3dd31108bdf8a8d1",
+  "active": "cbcffd96243f2ece",
   "lastOpenFiles": [
+    "1. DM Toolkit/Configuration.md",
+    "4. World Almanac/Shops/Golden Hammer.md",
+    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
+    "5. Mechanics/Items/Longbow.md",
+    "5. Mechanics/Items/Pointed Arrow (GRIFFONSSADDLEBAG3).md",
     "4. World Almanac/NPCs/Parriwimple (COS).md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-07-18.md",
     "4. World Almanac/Shops/Bildrath's Mercantile.md",
     "4. World Almanac/Shops/Shops.md",
-    "1. DM Toolkit/Configuration.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-07-18.md",
-    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "4. World Almanac/NPCs/Seer Ithildra Moonveil.md",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "4. World Almanac/NPCs/Professor Gousse Windcaller.md",
@@ -331,9 +332,6 @@
     "z_Bases/NPCs.base",
     "4. World Almanac/NPCs/Kiril Stoyanovich (COS).md",
     "1. DM Toolkit/Session Journals/Midnight Covenant/S15 The Seige of the Werewolves.md",
-    "4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-07-11.md",
     "4. World Almanac/NPCs/Mab.md.tmp.6558.54b42e44efaa",
     "z_Bases/Spells.base",
     "z_Bases/Items.base",
