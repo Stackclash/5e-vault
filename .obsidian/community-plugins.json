@@ -6,7 +6,6 @@
   "obsidian-banners",
   "calendarium",
   "carousel",
-  "datacore",
   "dataview",
   "new-tab-default-page",
   "dnd-ui-toolkit",
@@ -35,5 +34,7 @@
   "obsidian-dice-roller",
   "readwise-mirror",
   "folder-notes",
-  "relations"
+  "relations",
+  "datacore",
+  "dndbeyond-importer"
 ]

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 active:
   Midnight Covenant: false
 completed:
-  Midnight Covenant: false
+  Midnight Covenant: true
 world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: |-
   A quiet, superstitious village lies in the shadow of a land long feared as cursed. Its fields are infertile, its children whisper secrets they should not know, and an elderly villager greets the party as if they have always been expected—yet no one else remembers this person.
@@ -13,6 +13,8 @@ description: |-
   The village trembles as old secrets resurface. Crops fail where graves were long forgotten. Children begin naming the dead. Parents begin to question their own memories. The party must decide how to respond: uncover and preserve the truth, protect the villagers from it, or navigate a delicate balance between both. Every choice carries consequences, and every action will shape how the village—and perhaps the wider world—remembers what truly happened.
 steps:
   - text: The party enters the village and meets Eamon.
+    completed:
+      Midnight Covenant: true
 npcs:
   - name: "[[4. World Almanac/NPCs/Eamon Morcant.md|Eamon Morcant]]"
     description: Greets the party as they enter the village and recognizes them by name. No one else in the village knows who he is.
