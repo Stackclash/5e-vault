@@ -2,10 +2,11 @@
 let templateError = false
 let formattedDate = ''
 let selectedParty = null
+let selectedCampaign = null
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
-  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['preps', 'parties'])
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['preps', 'parties', 'campaigns'])
 
   const data = await init.openForm(modalForm, {
     title: "Session Prep Setup",
@@ -20,7 +21,13 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   selectedParty = dataview.page(data.party)
 
-  await tp.file.move(path.join(config.locations.preps, selectedParty.file.name, formattedDate), tp.file.find_tfile(tp.file.title))
+  // Prep notes are organized by campaign. Resolve the campaign that owns the selected party.
+  selectedCampaign = dataview.pages(`"${config.locations.campaigns}"`).find(c => c.party && c.party.path === selectedParty.file.path)
+  if (!selectedCampaign) {
+    throw new Error(`No campaign found whose party is ${selectedParty.file.name}`)
+  }
+
+  await tp.file.move(path.join(config.locations.preps, selectedCampaign.file.name, formattedDate), tp.file.find_tfile(tp.file.title))
 } catch (e) {
   templateError = e.message
   console.error(e)

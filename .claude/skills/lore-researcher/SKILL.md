@@ -13,10 +13,10 @@ Read `1. DM Toolkit/Configuration.md` frontmatter for `active_campaign`, then re
 
 ## Where campaign history lives
 
-- **Session journals:** `1. DM Toolkit/Session Journals/<Party Name>/S<N> <Title>.md`. Frontmatter `date` is the real-world session date, `fc-date` the in-world date, and `summary` a player-facing recap — the body holds the full detail, so read it when precision matters. Read in `S<N>` order for chronology.
+- **Session journals:** `1. DM Toolkit/Session Journals/<Campaign Name>/S<N> <Title>.md`. Frontmatter `date` is the real-world session date, `fc-date` the in-world date, and `summary` a player-facing recap — the body holds the full detail, so read it when precision matters. Read in `S<N>` order for chronology.
 - **Campaign bible:** the `active_campaign` note. Premise, Tone, Lines & Veils, The Villain, Character Tie-Ins, Active Threads, Locked Canon, Timelines. This note is DM-only.
 - **Quests:** `3. The Party/Quests/` — `active`/`completed` frontmatter are maps keyed by party note name.
-- **Session prep notes:** `1. DM Toolkit/Session Prep/` — what was planned, useful for contrast with what happened.
+- **Session prep notes:** `1. DM Toolkit/Session Prep/<Campaign Name>/` — what was planned, useful for contrast with what happened.
 
 ## Walking the world hierarchy
 

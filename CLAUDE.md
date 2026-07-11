@@ -91,8 +91,9 @@ Two cross-cutting conventions:
 | Random content | `Random Content/` |
 | Diagrams | `Excalidraw/` |
 
-Session journals are further nested by party name:
-`1. DM Toolkit/Session Journals/<Party Name>/S<N> <Title>.md`
+Session journals and session prep notes are further nested by campaign name:
+`1. DM Toolkit/Session Journals/<Campaign Name>/S<N> <Title>.md`
+`1. DM Toolkit/Session Prep/<Campaign Name>/<YYYY-MM-DD>.md`
 
 ## Scripts Architecture (`z_Scripts/`)
 
@@ -143,7 +144,7 @@ The active party note (the campaign note's `party` field) is the roster. Size, l
 ### Continuity pointers
 
 - **Open threads / hooks:** quest notes in `3. The Party/Quests/`, plus the per-character "Character Tie-Ins" threads in the active campaign note.
-- **Session notes:** `1. DM Toolkit/Session Journals/<Party Name>/` (currently `.../Midnight Covenant/`).
+- **Session notes:** `1. DM Toolkit/Session Journals/<Campaign Name>/` (currently `.../The Hunt for Vecna/`).
 
 ## Campaign Assistant & Skills
 
