@@ -7,7 +7,8 @@
       "pair": false,
       "treeLayout": false,
       "lineStyle": "solid",
-      "genealogy": false
+      "genealogy": false,
+      "group": ""
     },
     {
       "name": "enemy",
@@ -16,7 +17,8 @@
       "pair": false,
       "treeLayout": false,
       "lineStyle": "solid",
-      "genealogy": false
+      "genealogy": false,
+      "group": ""
     },
     {
       "name": "family",
@@ -25,7 +27,8 @@
       "pair": false,
       "treeLayout": true,
       "lineStyle": "solid",
-      "genealogy": false
+      "genealogy": false,
+      "group": ""
     },
     {
       "name": "friend",
@@ -34,7 +37,8 @@
       "pair": false,
       "treeLayout": false,
       "lineStyle": "solid",
-      "genealogy": false
+      "genealogy": false,
+      "group": ""
     },
     {
       "name": "rival",
@@ -43,7 +47,8 @@
       "pair": false,
       "treeLayout": false,
       "lineStyle": "dashed",
-      "genealogy": false
+      "genealogy": false,
+      "group": ""
     },
     {
       "name": "spouse",
@@ -52,7 +57,8 @@
       "pair": true,
       "treeLayout": false,
       "lineStyle": "double",
-      "genealogy": false
+      "genealogy": false,
+      "group": ""
     },
     {
       "name": "lover",
@@ -61,7 +67,8 @@
       "pair": false,
       "treeLayout": false,
       "lineStyle": "dashed",
-      "genealogy": false
+      "genealogy": false,
+      "group": ""
     },
     {
       "name": "mentor",
@@ -70,7 +77,8 @@
       "pair": false,
       "treeLayout": false,
       "lineStyle": "dotted",
-      "genealogy": false
+      "genealogy": false,
+      "group": ""
     },
     {
       "name": "parent",
@@ -79,7 +87,8 @@
       "pair": false,
       "treeLayout": true,
       "lineStyle": "solid",
-      "genealogy": true
+      "genealogy": true,
+      "group": ""
     },
     {
       "name": "location",
@@ -88,16 +97,26 @@
       "pair": false,
       "treeLayout": false,
       "lineStyle": "solid",
-      "genealogy": false
+      "genealogy": false,
+      "group": ""
     }
   ],
-  "imageProperty": "npcimage",
+  "imageProperty": "images",
   "folderScopes": [],
   "requiredTags": [],
   "showLegend": true,
   "layout": "fcose",
+  "disabledTypes": [],
   "showNodeLabels": true,
   "localGraphDepth": 2,
   "animateLayout": true,
-  "lockedLayouts": {}
+  "ringColorProperty": "",
+  "ringColorRules": [],
+  "topLeftIconProperty": "",
+  "topRightIconProperty": "",
+  "bottomLeftIconProperty": "",
+  "bottomRightIconProperty": "",
+  "subtextProperty": "",
+  "lockedLayouts": {},
+  "edgeLabels": {}
 }

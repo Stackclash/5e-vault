@@ -4,7 +4,7 @@ statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Umbral Athenaeum.md|The Umbral Athenaeum]]"
 condition: healthy
 images:
-  - z_Assets/PlaceholderImage.png
+  - z_Assets/NPCs/Valeris Thorne.png
 relationships: []
 tags:
   - npc
