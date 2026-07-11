@@ -115,170 +115,17 @@ var hasRequiredDist;
 function requireDist () {
 	if (hasRequiredDist) return dist;
 	hasRequiredDist = 1;
-	(function (exports) {
-		Object.defineProperty(exports, "__esModule", { value: true });
-		exports.Lock = void 0;
+	(function (exports$1) {
+		Object.defineProperty(exports$1, "__esModule", { value: true });
+		exports$1.Lock = void 0;
 		const lock_1 = requireLock();
-		Object.defineProperty(exports, "Lock", { enumerable: true, get: function () { return lock_1.Lock; } });
+		Object.defineProperty(exports$1, "Lock", { enumerable: true, get: function () { return lock_1.Lock; } });
 		
 	} (dist));
 	return dist;
 }
 
 var distExports = requireDist();
-
-const DEFAULT_SETTINGS = {
-    atomicHighlights: false,
-    atomicParentProperty: 'rw-parent',
-    atomicInheritParentFrontmatter: false,
-    atomicConditionalAtomize: false,
-    baseFolderName: 'Readwise',
-    apiToken: null,
-    lastUpdated: null,
-    autoSync: true,
-    highlightSortOldestToNewest: true,
-    highlightSortByLocation: true,
-    highlightDiscard: false,
-    syncNotesOnly: false,
-    colonSubstitute: '-',
-    logFile: true,
-    logFileName: 'Sync.md',
-    syncNotifications: true,
-    frontMatter: true,
-    frontMatterTemplate: `{#- Frontmatter Template - also called *Properties* in Obsidian -#} 
-id: {{ id }}
-created: {{ created }}
-updated: {{ updated }}
-title: {{ title }}
-{# The \`normalize_author\` filter will remove prefixes like 'Dr.', 'Prof.' and others from the author field, for more consistent author names across your library. Remove it if you want to keep this and consult the Wiki for more information. #}
-author: [ {{ author | normalize_author | join(', ') }} ]
-`,
-    headerTemplate: `
-%%
-ID: {{ id }}
-Updated: {{ updated }}
-%%
-
-![]( {{ cover_image_url }})
-
-# About
-Title: [[{{ title }}]]
-Authors: [[{{ author | join(']], [[') }}]]
-Category: #{{ category }}
-{%- if tags %}
-Tags: {{ tags }}
-{%- endif %}
-Number of Highlights: =={{ num_highlights }}==
-Readwise URL: {{ highlights_url }}
-{%- if source_url %}
-Source URL: {{ source_url }}
-{%- endif %}
-Date: [[{{ created }}]]
-Last Highlighted: *{{ last_highlight_at }}*
-{%- if summary %}
-Summary: {{ summary }}
-{%- endif %}
-
----
-
-{%- if document_note %}
-# Document Note
-
-{{ document_note }}
-{%- endif %}
-
-# Highlights
-
-`,
-    highlightTemplate: `{{ text }}{%- if category == 'books' %} ([{{ location }}]({{ location_url }})){%- endif %}{%- if color %} %% Color: {{ color }} %%{%- endif %} ^{{id}}{%- if note %}
-
-Note: {{ note }}
-{%- endif %}{%- if tags %}
-
-Tags: {{ tags }}
-{%- endif %}{%- if url %}
-
-[View Highlight]({{ url }})
-{%- endif %}
-
----
-`,
-    useSlugify: false,
-    slugifySeparator: '-',
-    slugifyLowercase: true,
-    trackFiles: true,
-    trackingProperty: 'uri',
-    trackAcrossVault: false,
-    deleteDuplicates: false,
-    enableFileNameUpdates: false,
-    protectFrontmatter: false,
-    protectedFields: 'connections\nstatus\ntags',
-    updateFrontmatter: true,
-    syncPropertiesToReadwise: false,
-    titleProperty: 'title',
-    authorProperty: 'author',
-    debugMode: false,
-    useCustomFilename: false,
-    filenameTemplate: '{{title}}',
-    filterNotesByTag: false,
-    filteredTags: [],
-};
-const FRONTMATTER_TO_ESCAPE = ['title', 'sanitized_title', 'author', 'authorStr'];
-const EMPTY_FRONTMATTER = '---\n---\n';
-// Core Template
-const NUNJUCKS_CORE_TEMPLATE = `
-{%- block header %}
-{#- Render the header using the header template #}
-{%- set id = doc.id %}
-{%- set highlights_url = doc.readwise_url %}
-{%- set unique_url = doc.unique_url %}
-{%- set source_url = doc.source_url %}
-{%- set title = doc.title %}
-{%- set sanitized_title = doc.sanitized_title %}
-{%- set author = doc.author %}
-{%- set authorStr = doc.authorStr %}
-{%- set document_note = doc.document_note %}
-{%- set summary = doc.summary %}
-{%- set category = doc.category %}
-{%- set num_highlights = doc.num_highlights %}
-{%- set created = doc.created %}
-{%- set updated = doc.updated %}
-{%- set cover_image_url = doc.cover_image_url %}
-{%- set last_highlight_at = doc.last_highlight_at %}
-{%- set tags = doc.tags %}
-{%- set highlight_tags = doc.highlight_tags %}
-{%- set tags_nohash = doc.tags_nohash %}
-{%- set hl_tags_nohash = doc.hl_tags_nohash %}
-{% include headerTemplate ignore missing %}
-{%- endblock header %}
-
-{%- block highlights %}
-  {%- for highlight in highlights %}
-  {#- Render each highlight using the highlight template #}
-  {#- The parent context (book) is available in the highlight template #}
-  {#- We have to set the variables here as context for the highlight template #}
-    {%- set id = highlight.id %}
-    {%- set text = highlight.text %}
-    {%- set note = highlight.note %}
-    {%- set location = highlight.location %}
-    {%- set locationUrl = highlight.location_url %}
-    {%- set location_url = highlight.location_url %}
-    {%- set url = highlight.url %}
-    {%- set color = highlight.color %}
-    {%- set created_at = highlight.created_at | date("YYYY-MM-DD") %}
-    {%- set updated_at = highlight.updated_at | date("YYYY-MM-DD") %}
-    {%- set highlighted_at = highlight.highlighted_at | date("YYYY-MM-DD") %}
-    {%- set tags = highlight.tags %}
-    {%- set category = book.category %}
-  {% include highlightTemplate ignore missing %}
-  {%- endfor %}
-{%- endblock highlights %}`;
-// YAML options
-const YAML_INDENT = '  ';
-// Other options
-const AUTHOR_SEPARATORS = /(?:,\s*and\s*)|(?:\s+and\s+)|(?:,\s*)/;
-const READWISE_REVIEW_URL_BASE = 'https://readwise.io/bookreview/';
-const READWISE_URI_FIELD = 'readwise_url';
 
 /* eslint-disable no-control-regex */
 
@@ -360,7 +207,7 @@ var hasRequiredNunjucks;
 function requireNunjucks () {
 	if (hasRequiredNunjucks) return nunjucks$1.exports;
 	hasRequiredNunjucks = 1;
-	(function (module, exports) {
+	(function (module, exports$1) {
 		(function webpackUniversalModuleDefinition(root, factory) {
 			module.exports = factory();
 		})(typeof self !== 'undefined' ? self : nunjucks, function() {
@@ -400,9 +247,9 @@ function requireNunjucks () {
 		/******/ 	__webpack_require__.c = installedModules;
 		/******/
 		/******/ 	// define getter function for harmony exports
-		/******/ 	__webpack_require__.d = function(exports, name, getter) {
-		/******/ 		if(!__webpack_require__.o(exports, name)) {
-		/******/ 			Object.defineProperty(exports, name, {
+		/******/ 	__webpack_require__.d = function(exports$1, name, getter) {
+		/******/ 		if(!__webpack_require__.o(exports$1, name)) {
+		/******/ 			Object.defineProperty(exports$1, name, {
 		/******/ 				configurable: false,
 		/******/ 				enumerable: true,
 		/******/ 				get: getter
@@ -431,7 +278,7 @@ function requireNunjucks () {
 		/************************************************************************/
 		/******/ ([
 		/* 0 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		var ArrayProto = Array.prototype;
@@ -445,18 +292,18 @@ function requireNunjucks () {
 		  '\\': '&#92;'
 		};
 		var escapeRegex = /[&"'<>\\]/g;
-		var exports = module.exports = {};
+		var exports$1 = module.exports = {};
 		function hasOwnProp(obj, k) {
 		  return ObjProto.hasOwnProperty.call(obj, k);
 		}
-		exports.hasOwnProp = hasOwnProp;
+		exports$1.hasOwnProp = hasOwnProp;
 		function lookupEscape(ch) {
 		  return escapeMap[ch];
 		}
 		function _prettifyError(path, withInternals, err) {
 		  if (!err.Update) {
 		    // not one of ours, cast it
-		    err = new exports.TemplateError(err);
+		    err = new exports$1.TemplateError(err);
 		  }
 		  err.Update(path);
 
@@ -468,7 +315,7 @@ function requireNunjucks () {
 		  }
 		  return err;
 		}
-		exports._prettifyError = _prettifyError;
+		exports$1._prettifyError = _prettifyError;
 		function TemplateError(message, lineno, colno) {
 		  var err;
 		  var cause;
@@ -552,27 +399,27 @@ function requireNunjucks () {
 		    }
 		  });
 		}
-		exports.TemplateError = TemplateError;
+		exports$1.TemplateError = TemplateError;
 		function escape(val) {
 		  return val.replace(escapeRegex, lookupEscape);
 		}
-		exports.escape = escape;
+		exports$1.escape = escape;
 		function isFunction(obj) {
 		  return ObjProto.toString.call(obj) === '[object Function]';
 		}
-		exports.isFunction = isFunction;
+		exports$1.isFunction = isFunction;
 		function isArray(obj) {
 		  return ObjProto.toString.call(obj) === '[object Array]';
 		}
-		exports.isArray = isArray;
+		exports$1.isArray = isArray;
 		function isString(obj) {
 		  return ObjProto.toString.call(obj) === '[object String]';
 		}
-		exports.isString = isString;
+		exports$1.isString = isString;
 		function isObject(obj) {
 		  return ObjProto.toString.call(obj) === '[object Object]';
 		}
-		exports.isObject = isObject;
+		exports$1.isObject = isObject;
 
 		/**
 		 * @param {string|number} attr
@@ -611,7 +458,7 @@ function requireNunjucks () {
 		    return _item;
 		  };
 		}
-		exports.getAttrGetter = getAttrGetter;
+		exports$1.getAttrGetter = getAttrGetter;
 		function groupBy(obj, val, throwOnUndefined) {
 		  var result = {};
 		  var iterator = isFunction(val) ? val : getAttrGetter(val);
@@ -625,11 +472,11 @@ function requireNunjucks () {
 		  }
 		  return result;
 		}
-		exports.groupBy = groupBy;
+		exports$1.groupBy = groupBy;
 		function toArray(obj) {
 		  return Array.prototype.slice.call(obj);
 		}
-		exports.toArray = toArray;
+		exports$1.toArray = toArray;
 		function without(array) {
 		  var result = [];
 		  if (!array) {
@@ -645,7 +492,7 @@ function requireNunjucks () {
 		  }
 		  return result;
 		}
-		exports.without = without;
+		exports$1.without = without;
 		function repeat(char_, n) {
 		  var str = '';
 		  for (var i = 0; i < n; i++) {
@@ -653,7 +500,7 @@ function requireNunjucks () {
 		  }
 		  return str;
 		}
-		exports.repeat = repeat;
+		exports$1.repeat = repeat;
 		function each(obj, func, context) {
 		  if (obj == null) {
 		    return;
@@ -666,7 +513,7 @@ function requireNunjucks () {
 		    }
 		  }
 		}
-		exports.each = each;
+		exports$1.each = each;
 		function map(obj, func) {
 		  var results = [];
 		  if (obj == null) {
@@ -683,7 +530,7 @@ function requireNunjucks () {
 		  }
 		  return results;
 		}
-		exports.map = map;
+		exports$1.map = map;
 		function asyncIter(arr, iter, cb) {
 		  var i = -1;
 		  function next() {
@@ -696,7 +543,7 @@ function requireNunjucks () {
 		  }
 		  next();
 		}
-		exports.asyncIter = asyncIter;
+		exports$1.asyncIter = asyncIter;
 		function asyncFor(obj, iter, cb) {
 		  var keys = keys_(obj || {});
 		  var len = keys.length;
@@ -712,11 +559,11 @@ function requireNunjucks () {
 		  }
 		  next();
 		}
-		exports.asyncFor = asyncFor;
+		exports$1.asyncFor = asyncFor;
 		function indexOf(arr, searchElement, fromIndex) {
 		  return Array.prototype.indexOf.call(arr || [], searchElement, fromIndex);
 		}
-		exports.indexOf = indexOf;
+		exports$1.indexOf = indexOf;
 		function keys_(obj) {
 		  /* eslint-disable no-restricted-syntax */
 		  var arr = [];
@@ -727,19 +574,19 @@ function requireNunjucks () {
 		  }
 		  return arr;
 		}
-		exports.keys = keys_;
+		exports$1.keys = keys_;
 		function _entries(obj) {
 		  return keys_(obj).map(function (k) {
 		    return [k, obj[k]];
 		  });
 		}
-		exports._entries = _entries;
+		exports$1._entries = _entries;
 		function _values(obj) {
 		  return keys_(obj).map(function (k) {
 		    return obj[k];
 		  });
 		}
-		exports._values = _values;
+		exports$1._values = _values;
 		function extend(obj1, obj2) {
 		  obj1 = obj1 || {};
 		  keys_(obj2).forEach(function (k) {
@@ -747,7 +594,7 @@ function requireNunjucks () {
 		  });
 		  return obj1;
 		}
-		exports._assign = exports.extend = extend;
+		exports$1._assign = exports$1.extend = extend;
 		function inOperator(key, val) {
 		  if (isArray(val) || isString(val)) {
 		    return val.indexOf(key) !== -1;
@@ -756,11 +603,11 @@ function requireNunjucks () {
 		  }
 		  throw new Error('Cannot use "in" operator to search for "' + key + '" in unexpected types.');
 		}
-		exports.inOperator = inOperator;
+		exports$1.inOperator = inOperator;
 
 		/***/ }),
 		/* 1 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		// A simple class system, more documentation to come
@@ -864,7 +711,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 2 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		var lib = __webpack_require__(0);
@@ -1201,7 +1048,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 3 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, _toPropertyKey(descriptor.key), descriptor); } }
@@ -1555,13 +1402,13 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 4 */
-		/***/ (function(module, exports) {
+		/***/ (function(module, exports$1) {
 
 
 
 		/***/ }),
 		/* 5 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		function _inheritsLoose(subClass, superClass) { subClass.prototype = Object.create(superClass.prototype); subClass.prototype.constructor = subClass; _setPrototypeOf(subClass, superClass); }
@@ -2592,7 +2439,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 6 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		function _inheritsLoose(subClass, superClass) { subClass.prototype = Object.create(superClass.prototype); subClass.prototype.constructor = subClass; _setPrototypeOf(subClass, superClass); }
@@ -2617,7 +2464,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 7 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		function _inheritsLoose(subClass, superClass) { subClass.prototype = Object.create(superClass.prototype); subClass.prototype.constructor = subClass; _setPrototypeOf(subClass, superClass); }
@@ -3169,7 +3016,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 8 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		function _inheritsLoose(subClass, superClass) { subClass.prototype = Object.create(superClass.prototype); subClass.prototype.constructor = subClass; _setPrototypeOf(subClass, superClass); }
@@ -4201,7 +4048,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 9 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		var lib = __webpack_require__(0);
@@ -4679,7 +4526,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 10 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		function _inheritsLoose(subClass, superClass) { subClass.prototype = Object.create(superClass.prototype); subClass.prototype.constructor = subClass; _setPrototypeOf(subClass, superClass); }
@@ -4777,7 +4624,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 11 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		var lib = __webpack_require__(0);
@@ -4863,7 +4710,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 12 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		// rawAsap provides everything we need except exception management.
@@ -4934,7 +4781,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 13 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 		/* WEBPACK VAR INJECTION */(function(global) {
 
 		// Use the fastest means possible to execute a task in its own turn, with
@@ -5154,11 +5001,11 @@ function requireNunjucks () {
 		// back into ASAP proper.
 		// https://github.com/tildeio/rsvp.js/blob/cddf7232546a9cf858524b75cde6f9edf72620a7/lib/rsvp/asap.js
 
-		/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(14)));
+		/* WEBPACK VAR INJECTION */}.call(exports$1, __webpack_require__(14)));
 
 		/***/ }),
 		/* 14 */
-		/***/ (function(module, exports) {
+		/***/ (function(module, exports$1) {
 
 		var g;
 
@@ -5185,7 +5032,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 15 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 		var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;// MIT license (by Elan Shanker).
 		(function(globals) {
@@ -5262,7 +5109,7 @@ function requireNunjucks () {
 		  {
 		    !(__WEBPACK_AMD_DEFINE_ARRAY__ = [], __WEBPACK_AMD_DEFINE_RESULT__ = (function () {
 		      return waterfall;
-		    }).apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__),
+		    }).apply(exports$1, __WEBPACK_AMD_DEFINE_ARRAY__),
 						__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__)); // RequireJS
 		  }
 		})();
@@ -5270,7 +5117,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 16 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 		// Copyright Joyent, Inc. and other Node contributors.
 		//
 		// Permission is hereby granted, free of charge, to any person obtaining a
@@ -5771,7 +5618,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 17 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		var nodes = __webpack_require__(3);
@@ -5941,19 +5788,19 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 18 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		var lib = __webpack_require__(0);
 		var r = __webpack_require__(2);
-		var exports = module.exports = {};
+		var exports$1 = module.exports = {};
 		function normalize(value, defaultValue) {
 		  if (value === null || value === undefined || value === false) {
 		    return defaultValue;
 		  }
 		  return value;
 		}
-		exports.abs = Math.abs;
+		exports$1.abs = Math.abs;
 		function isNaN(num) {
 		  return num !== num; // eslint-disable-line no-self-compare
 		}
@@ -5979,13 +5826,13 @@ function requireNunjucks () {
 		  }
 		  return res;
 		}
-		exports.batch = batch;
+		exports$1.batch = batch;
 		function capitalize(str) {
 		  str = normalize(str, '');
 		  var ret = str.toLowerCase();
 		  return r.copySafeness(str, ret.charAt(0).toUpperCase() + ret.slice(1));
 		}
-		exports.capitalize = capitalize;
+		exports$1.capitalize = capitalize;
 		function center(str, width) {
 		  str = normalize(str, '');
 		  width = width || 80;
@@ -5997,7 +5844,7 @@ function requireNunjucks () {
 		  var post = lib.repeat(' ', spaces / 2);
 		  return r.copySafeness(str, pre + str + post);
 		}
-		exports.center = center;
+		exports$1.center = center;
 		function default_(val, def, bool) {
 		  if (bool) {
 		    return val || def;
@@ -6007,7 +5854,7 @@ function requireNunjucks () {
 		}
 
 		// TODO: it is confusing to export something called 'default'
-		exports['default'] = default_; // eslint-disable-line dot-notation
+		exports$1['default'] = default_; // eslint-disable-line dot-notation
 
 		function dictsort(val, caseSensitive, by) {
 		  if (!lib.isObject(val)) {
@@ -6043,11 +5890,11 @@ function requireNunjucks () {
 
 		  return array;
 		}
-		exports.dictsort = dictsort;
+		exports$1.dictsort = dictsort;
 		function dump(obj, spaces) {
 		  return JSON.stringify(obj, null, spaces);
 		}
-		exports.dump = dump;
+		exports$1.dump = dump;
 		function escape(str) {
 		  if (str instanceof r.SafeString) {
 		    return str;
@@ -6055,7 +5902,7 @@ function requireNunjucks () {
 		  str = str === null || str === undefined ? '' : str;
 		  return r.markSafe(lib.escape(str.toString()));
 		}
-		exports.escape = escape;
+		exports$1.escape = escape;
 		function safe(str) {
 		  if (str instanceof r.SafeString) {
 		    return str;
@@ -6063,20 +5910,20 @@ function requireNunjucks () {
 		  str = str === null || str === undefined ? '' : str;
 		  return r.markSafe(str.toString());
 		}
-		exports.safe = safe;
+		exports$1.safe = safe;
 		function first(arr) {
 		  return arr[0];
 		}
-		exports.first = first;
+		exports$1.first = first;
 		function forceescape(str) {
 		  str = str === null || str === undefined ? '' : str;
 		  return r.markSafe(lib.escape(str.toString()));
 		}
-		exports.forceescape = forceescape;
+		exports$1.forceescape = forceescape;
 		function groupby(arr, attr) {
 		  return lib.groupBy(arr, attr, this.env.opts.throwOnUndefined);
 		}
-		exports.groupby = groupby;
+		exports$1.groupby = groupby;
 		function indent(str, width, indentfirst) {
 		  str = normalize(str, '');
 		  if (str === '') {
@@ -6091,7 +5938,7 @@ function requireNunjucks () {
 		  }).join('\n');
 		  return r.copySafeness(str, res);
 		}
-		exports.indent = indent;
+		exports$1.indent = indent;
 		function join(arr, del, attr) {
 		  del = del || '';
 		  if (attr) {
@@ -6101,11 +5948,11 @@ function requireNunjucks () {
 		  }
 		  return arr.join(del);
 		}
-		exports.join = join;
+		exports$1.join = join;
 		function last(arr) {
 		  return arr[arr.length - 1];
 		}
-		exports.last = last;
+		exports$1.last = last;
 		function lengthFilter(val) {
 		  var value = normalize(val, '');
 		  if (value !== undefined) {
@@ -6121,7 +5968,7 @@ function requireNunjucks () {
 		  }
 		  return 0;
 		}
-		exports.length = lengthFilter;
+		exports$1.length = lengthFilter;
 		function list(val) {
 		  if (lib.isString(val)) {
 		    return val.split('');
@@ -6140,23 +5987,23 @@ function requireNunjucks () {
 		    throw new lib.TemplateError('list filter: type not iterable');
 		  }
 		}
-		exports.list = list;
+		exports$1.list = list;
 		function lower(str) {
 		  str = normalize(str, '');
 		  return str.toLowerCase();
 		}
-		exports.lower = lower;
+		exports$1.lower = lower;
 		function nl2br(str) {
 		  if (str === null || str === undefined) {
 		    return '';
 		  }
 		  return r.copySafeness(str, str.replace(/\r\n|\n/g, '<br />\n'));
 		}
-		exports.nl2br = nl2br;
+		exports$1.nl2br = nl2br;
 		function random(arr) {
 		  return arr[Math.floor(Math.random() * arr.length)];
 		}
-		exports.random = random;
+		exports$1.random = random;
 
 		/**
 		 * Construct select or reject filter
@@ -6177,20 +6024,20 @@ function requireNunjucks () {
 		  }
 		  return filter;
 		}
-		exports.reject = getSelectOrReject(false);
+		exports$1.reject = getSelectOrReject(false);
 		function rejectattr(arr, attr) {
 		  return arr.filter(function (item) {
 		    return !item[attr];
 		  });
 		}
-		exports.rejectattr = rejectattr;
-		exports.select = getSelectOrReject(true);
+		exports$1.rejectattr = rejectattr;
+		exports$1.select = getSelectOrReject(true);
 		function selectattr(arr, attr) {
 		  return arr.filter(function (item) {
 		    return !!item[attr];
 		  });
 		}
-		exports.selectattr = selectattr;
+		exports$1.selectattr = selectattr;
 		function replace(str, old, new_, maxCount) {
 		  var originalStr = str;
 		  if (old instanceof RegExp) {
@@ -6254,7 +6101,7 @@ function requireNunjucks () {
 		  }
 		  return r.copySafeness(originalStr, res);
 		}
-		exports.replace = replace;
+		exports$1.replace = replace;
 		function reverse(val) {
 		  var arr;
 		  if (lib.isString(val)) {
@@ -6271,7 +6118,7 @@ function requireNunjucks () {
 		  }
 		  return arr;
 		}
-		exports.reverse = reverse;
+		exports$1.reverse = reverse;
 		function round(val, precision, method) {
 		  precision = precision || 0;
 		  var factor = Math.pow(10, precision);
@@ -6285,7 +6132,7 @@ function requireNunjucks () {
 		  }
 		  return rounder(val * factor) / factor;
 		}
-		exports.round = round;
+		exports$1.round = round;
 		function slice(arr, slices, fillWith) {
 		  var sliceLength = Math.floor(arr.length / slices);
 		  var extra = arr.length % slices;
@@ -6305,7 +6152,7 @@ function requireNunjucks () {
 		  }
 		  return res;
 		}
-		exports.slice = slice;
+		exports$1.slice = slice;
 		function sum(arr, attr, start) {
 		  if (start === void 0) {
 		    start = 0;
@@ -6319,8 +6166,8 @@ function requireNunjucks () {
 		    return a + b;
 		  }, 0);
 		}
-		exports.sum = sum;
-		exports.sort = r.makeMacro(['value', 'reverse', 'case_sensitive', 'attribute'], [], function sortFilter(arr, reversed, caseSens, attr) {
+		exports$1.sum = sum;
+		exports$1.sort = r.makeMacro(['value', 'reverse', 'case_sensitive', 'attribute'], [], function sortFilter(arr, reversed, caseSens, attr) {
 		  var _this = this;
 		  // Copy it
 		  var array = lib.map(arr, function (v) {
@@ -6350,7 +6197,7 @@ function requireNunjucks () {
 		function string(obj) {
 		  return r.copySafeness(obj, obj);
 		}
-		exports.string = string;
+		exports$1.string = string;
 		function striptags(input, preserveLinebreaks) {
 		  input = normalize(input, '');
 		  var tags = /<\/?([a-z][a-z0-9]*)\b[^>]*>|<!--[\s\S]*?-->/gi;
@@ -6366,7 +6213,7 @@ function requireNunjucks () {
 		  }
 		  return r.copySafeness(input, res);
 		}
-		exports.striptags = striptags;
+		exports$1.striptags = striptags;
 		function title(str) {
 		  str = normalize(str, '');
 		  var words = str.split(' ').map(function (word) {
@@ -6374,11 +6221,11 @@ function requireNunjucks () {
 		  });
 		  return r.copySafeness(str, words.join(' '));
 		}
-		exports.title = title;
+		exports$1.title = title;
 		function trim(str) {
 		  return r.copySafeness(str, str.replace(/^\s*|\s*$/g, ''));
 		}
-		exports.trim = trim;
+		exports$1.trim = trim;
 		function truncate(input, length, killwords, end) {
 		  var orig = input;
 		  input = normalize(input, '');
@@ -6398,12 +6245,12 @@ function requireNunjucks () {
 		  input += end !== undefined && end !== null ? end : '...';
 		  return r.copySafeness(orig, input);
 		}
-		exports.truncate = truncate;
+		exports$1.truncate = truncate;
 		function upper(str) {
 		  str = normalize(str, '');
 		  return str.toUpperCase();
 		}
-		exports.upper = upper;
+		exports$1.upper = upper;
 		function urlencode(obj) {
 		  var enc = encodeURIComponent;
 		  if (lib.isString(obj)) {
@@ -6417,7 +6264,7 @@ function requireNunjucks () {
 		    }).join('&');
 		  }
 		}
-		exports.urlencode = urlencode;
+		exports$1.urlencode = urlencode;
 
 		// For the jinja regexp, see
 		// https://github.com/mitsuhiko/jinja2/blob/f15b814dcba6aa12bc74d1f7d0c881d55f7126be/jinja2/utils.py#L20-L23
@@ -6464,18 +6311,18 @@ function requireNunjucks () {
 		  });
 		  return words.join('');
 		}
-		exports.urlize = urlize;
+		exports$1.urlize = urlize;
 		function wordcount(str) {
 		  str = normalize(str, '');
 		  var words = str ? str.match(/\w+/g) : null;
 		  return words ? words.length : null;
 		}
-		exports.wordcount = wordcount;
+		exports$1.wordcount = wordcount;
 		function float(val, def) {
 		  var res = parseFloat(val);
 		  return isNaN(res) ? def : res;
 		}
-		exports.float = float;
+		exports$1.float = float;
 		var intFilter = r.makeMacro(['value', 'default', 'base'], [], function doInt(value, defaultValue, base) {
 		  if (base === void 0) {
 		    base = 10;
@@ -6483,15 +6330,15 @@ function requireNunjucks () {
 		  var res = parseInt(value, base);
 		  return isNaN(res) ? defaultValue : res;
 		});
-		exports.int = intFilter;
+		exports$1.int = intFilter;
 
 		// Aliases
-		exports.d = exports.default;
-		exports.e = exports.escape;
+		exports$1.d = exports$1.default;
+		exports$1.e = exports$1.escape;
 
 		/***/ }),
 		/* 19 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		function _inheritsLoose(subClass, superClass) { subClass.prototype = Object.create(superClass.prototype); subClass.prototype.constructor = subClass; _setPrototypeOf(subClass, superClass); }
@@ -6526,7 +6373,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 20 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		var SafeString = __webpack_require__(2).SafeString;
@@ -6539,7 +6386,7 @@ function requireNunjucks () {
 		function callable(value) {
 		  return typeof value === 'function';
 		}
-		exports.callable = callable;
+		exports$1.callable = callable;
 
 		/**
 		 * Returns `true` if the object is strictly not `undefined`.
@@ -6549,7 +6396,7 @@ function requireNunjucks () {
 		function defined(value) {
 		  return value !== undefined;
 		}
-		exports.defined = defined;
+		exports$1.defined = defined;
 
 		/**
 		 * Returns `true` if the operand (one) is divisble by the test's argument
@@ -6561,7 +6408,7 @@ function requireNunjucks () {
 		function divisibleby(one, two) {
 		  return one % two === 0;
 		}
-		exports.divisibleby = divisibleby;
+		exports$1.divisibleby = divisibleby;
 
 		/**
 		 * Returns true if the string has been escaped (i.e., is a SafeString).
@@ -6571,7 +6418,7 @@ function requireNunjucks () {
 		function escaped(value) {
 		  return value instanceof SafeString;
 		}
-		exports.escaped = escaped;
+		exports$1.escaped = escaped;
 
 		/**
 		 * Returns `true` if the arguments are strictly equal.
@@ -6581,11 +6428,11 @@ function requireNunjucks () {
 		function equalto(one, two) {
 		  return one === two;
 		}
-		exports.equalto = equalto;
+		exports$1.equalto = equalto;
 
 		// Aliases
-		exports.eq = exports.equalto;
-		exports.sameas = exports.equalto;
+		exports$1.eq = exports$1.equalto;
+		exports$1.sameas = exports$1.equalto;
 
 		/**
 		 * Returns `true` if the value is evenly divisible by 2.
@@ -6595,7 +6442,7 @@ function requireNunjucks () {
 		function even(value) {
 		  return value % 2 === 0;
 		}
-		exports.even = even;
+		exports$1.even = even;
 
 		/**
 		 * Returns `true` if the value is falsy - if I recall correctly, '', 0, false,
@@ -6608,7 +6455,7 @@ function requireNunjucks () {
 		function falsy(value) {
 		  return !value;
 		}
-		exports.falsy = falsy;
+		exports$1.falsy = falsy;
 
 		/**
 		 * Returns `true` if the operand (one) is greater or equal to the test's
@@ -6620,7 +6467,7 @@ function requireNunjucks () {
 		function ge(one, two) {
 		  return one >= two;
 		}
-		exports.ge = ge;
+		exports$1.ge = ge;
 
 		/**
 		 * Returns `true` if the operand (one) is greater than the test's argument
@@ -6632,10 +6479,10 @@ function requireNunjucks () {
 		function greaterthan(one, two) {
 		  return one > two;
 		}
-		exports.greaterthan = greaterthan;
+		exports$1.greaterthan = greaterthan;
 
 		// alias
-		exports.gt = exports.greaterthan;
+		exports$1.gt = exports$1.greaterthan;
 
 		/**
 		 * Returns `true` if the operand (one) is less than or equal to the test's
@@ -6647,7 +6494,7 @@ function requireNunjucks () {
 		function le(one, two) {
 		  return one <= two;
 		}
-		exports.le = le;
+		exports$1.le = le;
 
 		/**
 		 * Returns `true` if the operand (one) is less than the test's passed argument
@@ -6659,10 +6506,10 @@ function requireNunjucks () {
 		function lessthan(one, two) {
 		  return one < two;
 		}
-		exports.lessthan = lessthan;
+		exports$1.lessthan = lessthan;
 
 		// alias
-		exports.lt = exports.lessthan;
+		exports$1.lt = exports$1.lessthan;
 
 		/**
 		 * Returns `true` if the string is lowercased.
@@ -6672,7 +6519,7 @@ function requireNunjucks () {
 		function lower(value) {
 		  return value.toLowerCase() === value;
 		}
-		exports.lower = lower;
+		exports$1.lower = lower;
 
 		/**
 		 * Returns `true` if the operand (one) is less than or equal to the test's
@@ -6684,7 +6531,7 @@ function requireNunjucks () {
 		function ne(one, two) {
 		  return one !== two;
 		}
-		exports.ne = ne;
+		exports$1.ne = ne;
 
 		/**
 		 * Returns true if the value is strictly equal to `null`.
@@ -6694,7 +6541,7 @@ function requireNunjucks () {
 		function nullTest(value) {
 		  return value === null;
 		}
-		exports.null = nullTest;
+		exports$1.null = nullTest;
 
 		/**
 		 * Returns true if value is a number.
@@ -6704,7 +6551,7 @@ function requireNunjucks () {
 		function number(value) {
 		  return typeof value === 'number';
 		}
-		exports.number = number;
+		exports$1.number = number;
 
 		/**
 		 * Returns `true` if the value is *not* evenly divisible by 2.
@@ -6714,7 +6561,7 @@ function requireNunjucks () {
 		function odd(value) {
 		  return value % 2 === 1;
 		}
-		exports.odd = odd;
+		exports$1.odd = odd;
 
 		/**
 		 * Returns `true` if the value is a string, `false` if not.
@@ -6724,7 +6571,7 @@ function requireNunjucks () {
 		function string(value) {
 		  return typeof value === 'string';
 		}
-		exports.string = string;
+		exports$1.string = string;
 
 		/**
 		 * Returns `true` if the value is not in the list of things considered falsy:
@@ -6735,7 +6582,7 @@ function requireNunjucks () {
 		function truthy(value) {
 		  return !!value;
 		}
-		exports.truthy = truthy;
+		exports$1.truthy = truthy;
 
 		/**
 		 * Returns `true` if the value is undefined.
@@ -6745,7 +6592,7 @@ function requireNunjucks () {
 		function undefinedTest(value) {
 		  return value === undefined;
 		}
-		exports.undefined = undefinedTest;
+		exports$1.undefined = undefinedTest;
 
 		/**
 		 * Returns `true` if the string is uppercased.
@@ -6755,7 +6602,7 @@ function requireNunjucks () {
 		function upper(value) {
 		  return value.toUpperCase() === value;
 		}
-		exports.upper = upper;
+		exports$1.upper = upper;
 
 		/**
 		 * If ES6 features are available, returns `true` if the value implements the
@@ -6774,7 +6621,7 @@ function requireNunjucks () {
 		    return Array.isArray(value) || typeof value === 'string';
 		  }
 		}
-		exports.iterable = iterable;
+		exports$1.iterable = iterable;
 
 		/**
 		 * If ES6 features are available, returns `true` if the value is an object hash
@@ -6791,11 +6638,11 @@ function requireNunjucks () {
 		    return bool;
 		  }
 		}
-		exports.mapping = mapping;
+		exports$1.mapping = mapping;
 
 		/***/ }),
 		/* 21 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		function _cycler(items) {
@@ -6864,7 +6711,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 22 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 		var path = __webpack_require__(4);
 		module.exports = function express(env, app) {
@@ -6890,7 +6737,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 23 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		var fs = __webpack_require__(4);
@@ -7002,7 +6849,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 24 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 
 		function precompileGlobal(templates, opts) {
@@ -7023,7 +6870,7 @@ function requireNunjucks () {
 
 		/***/ }),
 		/* 25 */
-		/***/ (function(module, exports, __webpack_require__) {
+		/***/ (function(module, exports$1, __webpack_require__) {
 
 		function installCompat() {
 
@@ -7371,7 +7218,6 @@ class Atomizer {
      * @param _contents
      * @returns
      */
-    // biome-ignore lint/suspicious/noExplicitAny: Context can be any object
     atomize(_contents, ctx) {
         // Create a new ReadwiseDocument from the atomized content
         const contents = this._env.renderString(_contents, ctx);
@@ -7403,14 +7249,16 @@ class AtomizeExtension {
         this.pass = pass;
         this.tags = ['atomize', 'frontmatter'];
     }
-    // biome-ignore lint/suspicious/noExplicitAny: Context can be any object
     parse(parser, nodes) {
         // Get the tag token
         const tok = parser.nextToken();
+        if (!tok) {
+            throw new Error('Unexpected end of token stream in atomizer parser.');
+        }
         switch (tok.value) {
             case 'atomize': {
                 // Parse arguments
-                const args = parser.parseSignature(null, true);
+                const args = parser.parseSignature(undefined, true);
                 parser.advanceAfterBlockEnd(tok.value);
                 // Parse main content
                 const body = parser.parseUntilBlocks('endatomize');
@@ -7419,13 +7267,15 @@ class AtomizeExtension {
             }
             case 'frontmatter': {
                 // Get the tag token
-                const args = parser.parseSignature(null, true);
+                const args = parser.parseSignature(undefined, true);
                 parser.advanceAfterBlockEnd(tok.value);
                 // Get frontmatter block
                 const frontmatter = parser.parseUntilBlocks('endfrontmatter');
                 parser.advanceAfterBlockEnd();
                 return new nodes.CallExtension(this, 'runFrontmatter', args, [frontmatter]);
             }
+            default:
+                throw new Error(`Unknown atomizer tag: ${tok.value}`);
         }
     }
     /**
@@ -7500,1700 +7350,2403 @@ ${content}
     }
 }
 
-var md5$1 = {exports: {}};
-
-var crypt = {exports: {}};
-
-var hasRequiredCrypt;
-
-function requireCrypt () {
-	if (hasRequiredCrypt) return crypt.exports;
-	hasRequiredCrypt = 1;
-	(function() {
-	  var base64map
-	      = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/',
-
-	  crypt$1 = {
-	    // Bit-wise rotation left
-	    rotl: function(n, b) {
-	      return (n << b) | (n >>> (32 - b));
-	    },
-
-	    // Bit-wise rotation right
-	    rotr: function(n, b) {
-	      return (n << (32 - b)) | (n >>> b);
-	    },
-
-	    // Swap big-endian to little-endian and vice versa
-	    endian: function(n) {
-	      // If number given, swap endian
-	      if (n.constructor == Number) {
-	        return crypt$1.rotl(n, 8) & 0x00FF00FF | crypt$1.rotl(n, 24) & 0xFF00FF00;
-	      }
-
-	      // Else, assume array and swap all items
-	      for (var i = 0; i < n.length; i++)
-	        n[i] = crypt$1.endian(n[i]);
-	      return n;
-	    },
-
-	    // Generate an array of any length of random bytes
-	    randomBytes: function(n) {
-	      for (var bytes = []; n > 0; n--)
-	        bytes.push(Math.floor(Math.random() * 256));
-	      return bytes;
-	    },
-
-	    // Convert a byte array to big-endian 32-bit words
-	    bytesToWords: function(bytes) {
-	      for (var words = [], i = 0, b = 0; i < bytes.length; i++, b += 8)
-	        words[b >>> 5] |= bytes[i] << (24 - b % 32);
-	      return words;
-	    },
-
-	    // Convert big-endian 32-bit words to a byte array
-	    wordsToBytes: function(words) {
-	      for (var bytes = [], b = 0; b < words.length * 32; b += 8)
-	        bytes.push((words[b >>> 5] >>> (24 - b % 32)) & 0xFF);
-	      return bytes;
-	    },
-
-	    // Convert a byte array to a hex string
-	    bytesToHex: function(bytes) {
-	      for (var hex = [], i = 0; i < bytes.length; i++) {
-	        hex.push((bytes[i] >>> 4).toString(16));
-	        hex.push((bytes[i] & 0xF).toString(16));
-	      }
-	      return hex.join('');
-	    },
-
-	    // Convert a hex string to a byte array
-	    hexToBytes: function(hex) {
-	      for (var bytes = [], c = 0; c < hex.length; c += 2)
-	        bytes.push(parseInt(hex.substr(c, 2), 16));
-	      return bytes;
-	    },
-
-	    // Convert a byte array to a base-64 string
-	    bytesToBase64: function(bytes) {
-	      for (var base64 = [], i = 0; i < bytes.length; i += 3) {
-	        var triplet = (bytes[i] << 16) | (bytes[i + 1] << 8) | bytes[i + 2];
-	        for (var j = 0; j < 4; j++)
-	          if (i * 8 + j * 6 <= bytes.length * 8)
-	            base64.push(base64map.charAt((triplet >>> 6 * (3 - j)) & 0x3F));
-	          else
-	            base64.push('=');
-	      }
-	      return base64.join('');
-	    },
-
-	    // Convert a base-64 string to a byte array
-	    base64ToBytes: function(base64) {
-	      // Remove non-base-64 characters
-	      base64 = base64.replace(/[^A-Z0-9+\/]/ig, '');
-
-	      for (var bytes = [], i = 0, imod4 = 0; i < base64.length;
-	          imod4 = ++i % 4) {
-	        if (imod4 == 0) continue;
-	        bytes.push(((base64map.indexOf(base64.charAt(i - 1))
-	            & (Math.pow(2, -2 * imod4 + 8) - 1)) << (imod4 * 2))
-	            | (base64map.indexOf(base64.charAt(i)) >>> (6 - imod4 * 2)));
-	      }
-	      return bytes;
-	    }
-	  };
-
-	  crypt.exports = crypt$1;
-	})();
-	return crypt.exports;
-}
-
-var charenc_1;
-var hasRequiredCharenc;
-
-function requireCharenc () {
-	if (hasRequiredCharenc) return charenc_1;
-	hasRequiredCharenc = 1;
-	var charenc = {
-	  // UTF-8 encoding
-	  utf8: {
-	    // Convert a string to a byte array
-	    stringToBytes: function(str) {
-	      return charenc.bin.stringToBytes(unescape(encodeURIComponent(str)));
-	    },
-
-	    // Convert a byte array to a string
-	    bytesToString: function(bytes) {
-	      return decodeURIComponent(escape(charenc.bin.bytesToString(bytes)));
-	    }
-	  },
-
-	  // Binary encoding
-	  bin: {
-	    // Convert a string to a byte array
-	    stringToBytes: function(str) {
-	      for (var bytes = [], i = 0; i < str.length; i++)
-	        bytes.push(str.charCodeAt(i) & 0xFF);
-	      return bytes;
-	    },
-
-	    // Convert a byte array to a string
-	    bytesToString: function(bytes) {
-	      for (var str = [], i = 0; i < bytes.length; i++)
-	        str.push(String.fromCharCode(bytes[i]));
-	      return str.join('');
-	    }
-	  }
-	};
-
-	charenc_1 = charenc;
-	return charenc_1;
-}
-
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
-
-var isBuffer_1;
-var hasRequiredIsBuffer;
-
-function requireIsBuffer () {
-	if (hasRequiredIsBuffer) return isBuffer_1;
-	hasRequiredIsBuffer = 1;
-	// The _isBuffer check is for Safari 5-7 support, because it's missing
-	// Object.prototype.constructor. Remove this eventually
-	isBuffer_1 = function (obj) {
-	  return obj != null && (isBuffer(obj) || isSlowBuffer(obj) || !!obj._isBuffer)
-	};
-
-	function isBuffer (obj) {
-	  return !!obj.constructor && typeof obj.constructor.isBuffer === 'function' && obj.constructor.isBuffer(obj)
+function escapeStringRegexp(string) {
+	if (typeof string !== 'string') {
+		throw new TypeError('Expected a string');
 	}
 
-	// For Node v0.10 support. Remove this eventually.
-	function isSlowBuffer (obj) {
-	  return typeof obj.readFloatLE === 'function' && typeof obj.slice === 'function' && isBuffer(obj.slice(0, 0))
-	}
-	return isBuffer_1;
+	// Escape characters with special meaning either inside or outside character sets.
+	// Use a simple backslash escape when it’s always valid, and a `\xnn` escape when the simpler form would be disallowed by Unicode patterns’ stricter grammar.
+	return string
+		.replace(/[|\\{}()[\]^$+*?.]/g, '\\$&')
+		.replace(/-/g, '\\x2d');
 }
 
-var hasRequiredMd5;
+const replacements = [
+	// German umlauts
+	['ß', 'ss'],
+	['ẞ', 'Ss'],
+	['ä', 'ae'],
+	['Ä', 'Ae'],
+	['ö', 'oe'],
+	['Ö', 'Oe'],
+	['ü', 'ue'],
+	['Ü', 'Ue'],
 
-function requireMd5 () {
-	if (hasRequiredMd5) return md5$1.exports;
-	hasRequiredMd5 = 1;
-	(function(){
-	  var crypt = requireCrypt(),
-	      utf8 = requireCharenc().utf8,
-	      isBuffer = requireIsBuffer(),
-	      bin = requireCharenc().bin,
+	// Latin
+	['À', 'A'],
+	['Á', 'A'],
+	['Â', 'A'],
+	['Ã', 'A'],
+	['Ä', 'Ae'],
+	['Å', 'A'],
+	['Æ', 'AE'],
+	['Ç', 'C'],
+	['È', 'E'],
+	['É', 'E'],
+	['Ê', 'E'],
+	['Ë', 'E'],
+	['Ì', 'I'],
+	['Í', 'I'],
+	['Î', 'I'],
+	['Ï', 'I'],
+	['Ð', 'D'],
+	['Ñ', 'N'],
+	['Ò', 'O'],
+	['Ó', 'O'],
+	['Ô', 'O'],
+	['Õ', 'O'],
+	['Ö', 'Oe'],
+	['Ő', 'O'],
+	['Ø', 'O'],
+	['Ù', 'U'],
+	['Ú', 'U'],
+	['Û', 'U'],
+	['Ü', 'Ue'],
+	['Ű', 'U'],
+	['Ý', 'Y'],
+	['Þ', 'TH'],
+	['ß', 'ss'],
+	['à', 'a'],
+	['á', 'a'],
+	['â', 'a'],
+	['ã', 'a'],
+	['ä', 'ae'],
+	['å', 'a'],
+	['æ', 'ae'],
+	['ç', 'c'],
+	['è', 'e'],
+	['é', 'e'],
+	['ê', 'e'],
+	['ë', 'e'],
+	['ì', 'i'],
+	['í', 'i'],
+	['î', 'i'],
+	['ï', 'i'],
+	['ð', 'd'],
+	['ñ', 'n'],
+	['ò', 'o'],
+	['ó', 'o'],
+	['ô', 'o'],
+	['õ', 'o'],
+	['ö', 'oe'],
+	['ő', 'o'],
+	['ø', 'o'],
+	['ù', 'u'],
+	['ú', 'u'],
+	['û', 'u'],
+	['ü', 'ue'],
+	['ű', 'u'],
+	['ý', 'y'],
+	['þ', 'th'],
+	['ÿ', 'y'],
+	['ẞ', 'SS'],
 
-	  // The core
-	  md5 = function (message, options) {
-	    // Convert to byte array
-	    if (message.constructor == String)
-	      if (options && options.encoding === 'binary')
-	        message = bin.stringToBytes(message);
-	      else
-	        message = utf8.stringToBytes(message);
-	    else if (isBuffer(message))
-	      message = Array.prototype.slice.call(message, 0);
-	    else if (!Array.isArray(message) && message.constructor !== Uint8Array)
-	      message = message.toString();
-	    // else, assume byte array already
+	// Vietnamese
+	['à', 'a'],
+	['À', 'A'],
+	['á', 'a'],
+	['Á', 'A'],
+	['â', 'a'],
+	['Â', 'A'],
+	['ã', 'a'],
+	['Ã', 'A'],
+	['è', 'e'],
+	['È', 'E'],
+	['é', 'e'],
+	['É', 'E'],
+	['ê', 'e'],
+	['Ê', 'E'],
+	['ì', 'i'],
+	['Ì', 'I'],
+	['í', 'i'],
+	['Í', 'I'],
+	['ò', 'o'],
+	['Ò', 'O'],
+	['ó', 'o'],
+	['Ó', 'O'],
+	['ô', 'o'],
+	['Ô', 'O'],
+	['õ', 'o'],
+	['Õ', 'O'],
+	['ù', 'u'],
+	['Ù', 'U'],
+	['ú', 'u'],
+	['Ú', 'U'],
+	['ý', 'y'],
+	['Ý', 'Y'],
+	['ă', 'a'],
+	['Ă', 'A'],
+	['Đ', 'D'],
+	['đ', 'd'],
+	['ĩ', 'i'],
+	['Ĩ', 'I'],
+	['ũ', 'u'],
+	['Ũ', 'U'],
+	['ơ', 'o'],
+	['Ơ', 'O'],
+	['ư', 'u'],
+	['Ư', 'U'],
+	['ạ', 'a'],
+	['Ạ', 'A'],
+	['ả', 'a'],
+	['Ả', 'A'],
+	['ấ', 'a'],
+	['Ấ', 'A'],
+	['ầ', 'a'],
+	['Ầ', 'A'],
+	['ẩ', 'a'],
+	['Ẩ', 'A'],
+	['ẫ', 'a'],
+	['Ẫ', 'A'],
+	['ậ', 'a'],
+	['Ậ', 'A'],
+	['ắ', 'a'],
+	['Ắ', 'A'],
+	['ằ', 'a'],
+	['Ằ', 'A'],
+	['ẳ', 'a'],
+	['Ẳ', 'A'],
+	['ẵ', 'a'],
+	['Ẵ', 'A'],
+	['ặ', 'a'],
+	['Ặ', 'A'],
+	['ẹ', 'e'],
+	['Ẹ', 'E'],
+	['ẻ', 'e'],
+	['Ẻ', 'E'],
+	['ẽ', 'e'],
+	['Ẽ', 'E'],
+	['ế', 'e'],
+	['Ế', 'E'],
+	['ề', 'e'],
+	['Ề', 'E'],
+	['ể', 'e'],
+	['Ể', 'E'],
+	['ễ', 'e'],
+	['Ễ', 'E'],
+	['ệ', 'e'],
+	['Ệ', 'E'],
+	['ỉ', 'i'],
+	['Ỉ', 'I'],
+	['ị', 'i'],
+	['Ị', 'I'],
+	['ọ', 'o'],
+	['Ọ', 'O'],
+	['ỏ', 'o'],
+	['Ỏ', 'O'],
+	['ố', 'o'],
+	['Ố', 'O'],
+	['ồ', 'o'],
+	['Ồ', 'O'],
+	['ổ', 'o'],
+	['Ổ', 'O'],
+	['ỗ', 'o'],
+	['Ỗ', 'O'],
+	['ộ', 'o'],
+	['Ộ', 'O'],
+	['ớ', 'o'],
+	['Ớ', 'O'],
+	['ờ', 'o'],
+	['Ờ', 'O'],
+	['ở', 'o'],
+	['Ở', 'O'],
+	['ỡ', 'o'],
+	['Ỡ', 'O'],
+	['ợ', 'o'],
+	['Ợ', 'O'],
+	['ụ', 'u'],
+	['Ụ', 'U'],
+	['ủ', 'u'],
+	['Ủ', 'U'],
+	['ứ', 'u'],
+	['Ứ', 'U'],
+	['ừ', 'u'],
+	['Ừ', 'U'],
+	['ử', 'u'],
+	['Ử', 'U'],
+	['ữ', 'u'],
+	['Ữ', 'U'],
+	['ự', 'u'],
+	['Ự', 'U'],
+	['ỳ', 'y'],
+	['Ỳ', 'Y'],
+	['ỵ', 'y'],
+	['Ỵ', 'Y'],
+	['ỷ', 'y'],
+	['Ỷ', 'Y'],
+	['ỹ', 'y'],
+	['Ỹ', 'Y'],
 
-	    var m = crypt.bytesToWords(message),
-	        l = message.length * 8,
-	        a =  1732584193,
-	        b = -271733879,
-	        c = -1732584194,
-	        d =  271733878;
+	// Arabic
+	['ء', 'e'],
+	['آ', 'a'],
+	['أ', 'a'],
+	['ؤ', 'w'],
+	['إ', 'i'],
+	['ئ', 'y'],
+	['ا', 'a'],
+	['ب', 'b'],
+	['ة', 't'],
+	['ت', 't'],
+	['ث', 'th'],
+	['ج', 'j'],
+	['ح', 'h'],
+	['خ', 'kh'],
+	['د', 'd'],
+	['ذ', 'dh'],
+	['ر', 'r'],
+	['ز', 'z'],
+	['س', 's'],
+	['ش', 'sh'],
+	['ص', 's'],
+	['ض', 'd'],
+	['ط', 't'],
+	['ظ', 'z'],
+	['ع', 'e'],
+	['غ', 'gh'],
+	['ـ', '_'],
+	['ف', 'f'],
+	['ق', 'q'],
+	['ك', 'k'],
+	['ل', 'l'],
+	['م', 'm'],
+	['ن', 'n'],
+	['ه', 'h'],
+	['و', 'w'],
+	['ى', 'a'],
+	['ي', 'y'],
+	['َ‎', 'a'],
+	['ُ', 'u'],
+	['ِ‎', 'i'],
+	['٠', '0'],
+	['١', '1'],
+	['٢', '2'],
+	['٣', '3'],
+	['٤', '4'],
+	['٥', '5'],
+	['٦', '6'],
+	['٧', '7'],
+	['٨', '8'],
+	['٩', '9'],
 
-	    // Swap endian
-	    for (var i = 0; i < m.length; i++) {
-	      m[i] = ((m[i] <<  8) | (m[i] >>> 24)) & 0x00FF00FF |
-	             ((m[i] << 24) | (m[i] >>>  8)) & 0xFF00FF00;
-	    }
+	// Persian / Farsi
+	['چ', 'ch'],
+	['ک', 'k'],
+	['گ', 'g'],
+	['پ', 'p'],
+	['ژ', 'zh'],
+	['ی', 'y'],
+	['۰', '0'],
+	['۱', '1'],
+	['۲', '2'],
+	['۳', '3'],
+	['۴', '4'],
+	['۵', '5'],
+	['۶', '6'],
+	['۷', '7'],
+	['۸', '8'],
+	['۹', '9'],
 
-	    // Padding
-	    m[l >>> 5] |= 0x80 << (l % 32);
-	    m[(((l + 64) >>> 9) << 4) + 14] = l;
+	// Pashto
+	['ټ', 'p'],
+	['ځ', 'z'],
+	['څ', 'c'],
+	['ډ', 'd'],
+	['ﺫ', 'd'],
+	['ﺭ', 'r'],
+	['ړ', 'r'],
+	['ﺯ', 'z'],
+	['ږ', 'g'],
+	['ښ', 'x'],
+	['ګ', 'g'],
+	['ڼ', 'n'],
+	['ۀ', 'e'],
+	['ې', 'e'],
+	['ۍ', 'ai'],
 
-	    // Method shortcuts
-	    var FF = md5._ff,
-	        GG = md5._gg,
-	        HH = md5._hh,
-	        II = md5._ii;
+	// Urdu
+	['ٹ', 't'],
+	['ڈ', 'd'],
+	['ڑ', 'r'],
+	['ں', 'n'],
+	['ہ', 'h'],
+	['ھ', 'h'],
+	['ے', 'e'],
 
-	    for (var i = 0; i < m.length; i += 16) {
+	// Russian
+	['А', 'A'],
+	['а', 'a'],
+	['Б', 'B'],
+	['б', 'b'],
+	['В', 'V'],
+	['в', 'v'],
+	['Г', 'G'],
+	['г', 'g'],
+	['Д', 'D'],
+	['д', 'd'],
+	['ъе', 'ye'],
+	['Ъе', 'Ye'],
+	['ъЕ', 'yE'],
+	['ЪЕ', 'YE'],
+	['Е', 'E'],
+	['е', 'e'],
+	['Ё', 'Yo'],
+	['ё', 'yo'],
+	['Ж', 'Zh'],
+	['ж', 'zh'],
+	['З', 'Z'],
+	['з', 'z'],
+	['И', 'I'],
+	['и', 'i'],
+	['ый', 'iy'],
+	['Ый', 'Iy'],
+	['ЫЙ', 'IY'],
+	['ыЙ', 'iY'],
+	['Й', 'Y'],
+	['й', 'y'],
+	['К', 'K'],
+	['к', 'k'],
+	['Л', 'L'],
+	['л', 'l'],
+	['М', 'M'],
+	['м', 'm'],
+	['Н', 'N'],
+	['н', 'n'],
+	['О', 'O'],
+	['о', 'o'],
+	['П', 'P'],
+	['п', 'p'],
+	['Р', 'R'],
+	['р', 'r'],
+	['С', 'S'],
+	['с', 's'],
+	['Т', 'T'],
+	['т', 't'],
+	['У', 'U'],
+	['у', 'u'],
+	['Ф', 'F'],
+	['ф', 'f'],
+	['Х', 'Kh'],
+	['х', 'kh'],
+	['Ц', 'Ts'],
+	['ц', 'ts'],
+	['Ч', 'Ch'],
+	['ч', 'ch'],
+	['Ш', 'Sh'],
+	['ш', 'sh'],
+	['Щ', 'Sch'],
+	['щ', 'sch'],
+	['Ъ', ''],
+	['ъ', ''],
+	['Ы', 'Y'],
+	['ы', 'y'],
+	['Ь', ''],
+	['ь', ''],
+	['Э', 'E'],
+	['э', 'e'],
+	['Ю', 'Yu'],
+	['ю', 'yu'],
+	['Я', 'Ya'],
+	['я', 'ya'],
 
-	      var aa = a,
-	          bb = b,
-	          cc = c,
-	          dd = d;
+	// Romanian
+	['ă', 'a'],
+	['Ă', 'A'],
+	['ș', 's'],
+	['Ș', 'S'],
+	['ț', 't'],
+	['Ț', 'T'],
+	['ţ', 't'],
+	['Ţ', 'T'],
 
-	      a = FF(a, b, c, d, m[i+ 0],  7, -680876936);
-	      d = FF(d, a, b, c, m[i+ 1], 12, -389564586);
-	      c = FF(c, d, a, b, m[i+ 2], 17,  606105819);
-	      b = FF(b, c, d, a, m[i+ 3], 22, -1044525330);
-	      a = FF(a, b, c, d, m[i+ 4],  7, -176418897);
-	      d = FF(d, a, b, c, m[i+ 5], 12,  1200080426);
-	      c = FF(c, d, a, b, m[i+ 6], 17, -1473231341);
-	      b = FF(b, c, d, a, m[i+ 7], 22, -45705983);
-	      a = FF(a, b, c, d, m[i+ 8],  7,  1770035416);
-	      d = FF(d, a, b, c, m[i+ 9], 12, -1958414417);
-	      c = FF(c, d, a, b, m[i+10], 17, -42063);
-	      b = FF(b, c, d, a, m[i+11], 22, -1990404162);
-	      a = FF(a, b, c, d, m[i+12],  7,  1804603682);
-	      d = FF(d, a, b, c, m[i+13], 12, -40341101);
-	      c = FF(c, d, a, b, m[i+14], 17, -1502002290);
-	      b = FF(b, c, d, a, m[i+15], 22,  1236535329);
+	// Turkish
+	['ş', 's'],
+	['Ş', 'S'],
+	['ç', 'c'],
+	['Ç', 'C'],
+	['ğ', 'g'],
+	['Ğ', 'G'],
+	['ı', 'i'],
+	['İ', 'I'],
 
-	      a = GG(a, b, c, d, m[i+ 1],  5, -165796510);
-	      d = GG(d, a, b, c, m[i+ 6],  9, -1069501632);
-	      c = GG(c, d, a, b, m[i+11], 14,  643717713);
-	      b = GG(b, c, d, a, m[i+ 0], 20, -373897302);
-	      a = GG(a, b, c, d, m[i+ 5],  5, -701558691);
-	      d = GG(d, a, b, c, m[i+10],  9,  38016083);
-	      c = GG(c, d, a, b, m[i+15], 14, -660478335);
-	      b = GG(b, c, d, a, m[i+ 4], 20, -405537848);
-	      a = GG(a, b, c, d, m[i+ 9],  5,  568446438);
-	      d = GG(d, a, b, c, m[i+14],  9, -1019803690);
-	      c = GG(c, d, a, b, m[i+ 3], 14, -187363961);
-	      b = GG(b, c, d, a, m[i+ 8], 20,  1163531501);
-	      a = GG(a, b, c, d, m[i+13],  5, -1444681467);
-	      d = GG(d, a, b, c, m[i+ 2],  9, -51403784);
-	      c = GG(c, d, a, b, m[i+ 7], 14,  1735328473);
-	      b = GG(b, c, d, a, m[i+12], 20, -1926607734);
+	// Armenian
+	['ա', 'a'],
+	['Ա', 'A'],
+	['բ', 'b'],
+	['Բ', 'B'],
+	['գ', 'g'],
+	['Գ', 'G'],
+	['դ', 'd'],
+	['Դ', 'D'],
+	['ե', 'ye'],
+	['Ե', 'Ye'],
+	['զ', 'z'],
+	['Զ', 'Z'],
+	['է', 'e'],
+	['Է', 'E'],
+	['ը', 'y'],
+	['Ը', 'Y'],
+	['թ', 't'],
+	['Թ', 'T'],
+	['ժ', 'zh'],
+	['Ժ', 'Zh'],
+	['ի', 'i'],
+	['Ի', 'I'],
+	['լ', 'l'],
+	['Լ', 'L'],
+	['խ', 'kh'],
+	['Խ', 'Kh'],
+	['ծ', 'ts'],
+	['Ծ', 'Ts'],
+	['կ', 'k'],
+	['Կ', 'K'],
+	['հ', 'h'],
+	['Հ', 'H'],
+	['ձ', 'dz'],
+	['Ձ', 'Dz'],
+	['ղ', 'gh'],
+	['Ղ', 'Gh'],
+	['ճ', 'tch'],
+	['Ճ', 'Tch'],
+	['մ', 'm'],
+	['Մ', 'M'],
+	['յ', 'y'],
+	['Յ', 'Y'],
+	['ն', 'n'],
+	['Ն', 'N'],
+	['շ', 'sh'],
+	['Շ', 'Sh'],
+	['ո', 'vo'],
+	['Ո', 'Vo'],
+	['չ', 'ch'],
+	['Չ', 'Ch'],
+	['պ', 'p'],
+	['Պ', 'P'],
+	['ջ', 'j'],
+	['Ջ', 'J'],
+	['ռ', 'r'],
+	['Ռ', 'R'],
+	['ս', 's'],
+	['Ս', 'S'],
+	['վ', 'v'],
+	['Վ', 'V'],
+	['տ', 't'],
+	['Տ', 'T'],
+	['ր', 'r'],
+	['Ր', 'R'],
+	['ց', 'c'],
+	['Ց', 'C'],
+	['ու', 'u'],
+	['ՈՒ', 'U'],
+	['Ու', 'U'],
+	['փ', 'p'],
+	['Փ', 'P'],
+	['ք', 'q'],
+	['Ք', 'Q'],
+	['օ', 'o'],
+	['Օ', 'O'],
+	['ֆ', 'f'],
+	['Ֆ', 'F'],
+	['և', 'yev'],
 
-	      a = HH(a, b, c, d, m[i+ 5],  4, -378558);
-	      d = HH(d, a, b, c, m[i+ 8], 11, -2022574463);
-	      c = HH(c, d, a, b, m[i+11], 16,  1839030562);
-	      b = HH(b, c, d, a, m[i+14], 23, -35309556);
-	      a = HH(a, b, c, d, m[i+ 1],  4, -1530992060);
-	      d = HH(d, a, b, c, m[i+ 4], 11,  1272893353);
-	      c = HH(c, d, a, b, m[i+ 7], 16, -155497632);
-	      b = HH(b, c, d, a, m[i+10], 23, -1094730640);
-	      a = HH(a, b, c, d, m[i+13],  4,  681279174);
-	      d = HH(d, a, b, c, m[i+ 0], 11, -358537222);
-	      c = HH(c, d, a, b, m[i+ 3], 16, -722521979);
-	      b = HH(b, c, d, a, m[i+ 6], 23,  76029189);
-	      a = HH(a, b, c, d, m[i+ 9],  4, -640364487);
-	      d = HH(d, a, b, c, m[i+12], 11, -421815835);
-	      c = HH(c, d, a, b, m[i+15], 16,  530742520);
-	      b = HH(b, c, d, a, m[i+ 2], 23, -995338651);
+	// Georgian
+	['ა', 'a'],
+	['ბ', 'b'],
+	['გ', 'g'],
+	['დ', 'd'],
+	['ე', 'e'],
+	['ვ', 'v'],
+	['ზ', 'z'],
+	['თ', 't'],
+	['ი', 'i'],
+	['კ', 'k'],
+	['ლ', 'l'],
+	['მ', 'm'],
+	['ნ', 'n'],
+	['ო', 'o'],
+	['პ', 'p'],
+	['ჟ', 'zh'],
+	['რ', 'r'],
+	['ს', 's'],
+	['ტ', 't'],
+	['უ', 'u'],
+	['ფ', 'ph'],
+	['ქ', 'q'],
+	['ღ', 'gh'],
+	['ყ', 'k'],
+	['შ', 'sh'],
+	['ჩ', 'ch'],
+	['ც', 'ts'],
+	['ძ', 'dz'],
+	['წ', 'ts'],
+	['ჭ', 'tch'],
+	['ხ', 'kh'],
+	['ჯ', 'j'],
+	['ჰ', 'h'],
 
-	      a = II(a, b, c, d, m[i+ 0],  6, -198630844);
-	      d = II(d, a, b, c, m[i+ 7], 10,  1126891415);
-	      c = II(c, d, a, b, m[i+14], 15, -1416354905);
-	      b = II(b, c, d, a, m[i+ 5], 21, -57434055);
-	      a = II(a, b, c, d, m[i+12],  6,  1700485571);
-	      d = II(d, a, b, c, m[i+ 3], 10, -1894986606);
-	      c = II(c, d, a, b, m[i+10], 15, -1051523);
-	      b = II(b, c, d, a, m[i+ 1], 21, -2054922799);
-	      a = II(a, b, c, d, m[i+ 8],  6,  1873313359);
-	      d = II(d, a, b, c, m[i+15], 10, -30611744);
-	      c = II(c, d, a, b, m[i+ 6], 15, -1560198380);
-	      b = II(b, c, d, a, m[i+13], 21,  1309151649);
-	      a = II(a, b, c, d, m[i+ 4],  6, -145523070);
-	      d = II(d, a, b, c, m[i+11], 10, -1120210379);
-	      c = II(c, d, a, b, m[i+ 2], 15,  718787259);
-	      b = II(b, c, d, a, m[i+ 9], 21, -343485551);
+	// Czech
+	['č', 'c'],
+	['ď', 'd'],
+	['ě', 'e'],
+	['ň', 'n'],
+	['ř', 'r'],
+	['š', 's'],
+	['ť', 't'],
+	['ů', 'u'],
+	['ž', 'z'],
+	['Č', 'C'],
+	['Ď', 'D'],
+	['Ě', 'E'],
+	['Ň', 'N'],
+	['Ř', 'R'],
+	['Š', 'S'],
+	['Ť', 'T'],
+	['Ů', 'U'],
+	['Ž', 'Z'],
 
-	      a = (a + aa) >>> 0;
-	      b = (b + bb) >>> 0;
-	      c = (c + cc) >>> 0;
-	      d = (d + dd) >>> 0;
-	    }
+	// Dhivehi
+	['ހ', 'h'],
+	['ށ', 'sh'],
+	['ނ', 'n'],
+	['ރ', 'r'],
+	['ބ', 'b'],
+	['ޅ', 'lh'],
+	['ކ', 'k'],
+	['އ', 'a'],
+	['ވ', 'v'],
+	['މ', 'm'],
+	['ފ', 'f'],
+	['ދ', 'dh'],
+	['ތ', 'th'],
+	['ލ', 'l'],
+	['ގ', 'g'],
+	['ޏ', 'gn'],
+	['ސ', 's'],
+	['ޑ', 'd'],
+	['ޒ', 'z'],
+	['ޓ', 't'],
+	['ޔ', 'y'],
+	['ޕ', 'p'],
+	['ޖ', 'j'],
+	['ޗ', 'ch'],
+	['ޘ', 'tt'],
+	['ޙ', 'hh'],
+	['ޚ', 'kh'],
+	['ޛ', 'th'],
+	['ޜ', 'z'],
+	['ޝ', 'sh'],
+	['ޞ', 's'],
+	['ޟ', 'd'],
+	['ޠ', 't'],
+	['ޡ', 'z'],
+	['ޢ', 'a'],
+	['ޣ', 'gh'],
+	['ޤ', 'q'],
+	['ޥ', 'w'],
+	['ަ', 'a'],
+	['ާ', 'aa'],
+	['ި', 'i'],
+	['ީ', 'ee'],
+	['ު', 'u'],
+	['ޫ', 'oo'],
+	['ެ', 'e'],
+	['ޭ', 'ey'],
+	['ޮ', 'o'],
+	['ޯ', 'oa'],
+	['ް', ''],
 
-	    return crypt.endian([a, b, c, d]);
-	  };
+	// Greek
+	['α', 'a'],
+	['β', 'v'],
+	['γ', 'g'],
+	['δ', 'd'],
+	['ε', 'e'],
+	['ζ', 'z'],
+	['η', 'i'],
+	['θ', 'th'],
+	['ι', 'i'],
+	['κ', 'k'],
+	['λ', 'l'],
+	['μ', 'm'],
+	['ν', 'n'],
+	['ξ', 'ks'],
+	['ο', 'o'],
+	['π', 'p'],
+	['ρ', 'r'],
+	['σ', 's'],
+	['τ', 't'],
+	['υ', 'y'],
+	['φ', 'f'],
+	['χ', 'x'],
+	['ψ', 'ps'],
+	['ω', 'o'],
+	['ά', 'a'],
+	['έ', 'e'],
+	['ί', 'i'],
+	['ό', 'o'],
+	['ύ', 'y'],
+	['ή', 'i'],
+	['ώ', 'o'],
+	['ς', 's'],
+	['ϊ', 'i'],
+	['ΰ', 'y'],
+	['ϋ', 'y'],
+	['ΐ', 'i'],
+	['Α', 'A'],
+	['Β', 'B'],
+	['Γ', 'G'],
+	['Δ', 'D'],
+	['Ε', 'E'],
+	['Ζ', 'Z'],
+	['Η', 'I'],
+	['Θ', 'TH'],
+	['Ι', 'I'],
+	['Κ', 'K'],
+	['Λ', 'L'],
+	['Μ', 'M'],
+	['Ν', 'N'],
+	['Ξ', 'KS'],
+	['Ο', 'O'],
+	['Π', 'P'],
+	['Ρ', 'R'],
+	['Σ', 'S'],
+	['Τ', 'T'],
+	['Υ', 'Y'],
+	['Φ', 'F'],
+	['Χ', 'X'],
+	['Ψ', 'PS'],
+	['Ω', 'O'],
+	['Ά', 'A'],
+	['Έ', 'E'],
+	['Ί', 'I'],
+	['Ό', 'O'],
+	['Ύ', 'Y'],
+	['Ή', 'I'],
+	['Ώ', 'O'],
+	['Ϊ', 'I'],
+	['Ϋ', 'Y'],
 
-	  // Auxiliary functions
-	  md5._ff  = function (a, b, c, d, x, s, t) {
-	    var n = a + (b & c | ~b & d) + (x >>> 0) + t;
-	    return ((n << s) | (n >>> (32 - s))) + b;
-	  };
-	  md5._gg  = function (a, b, c, d, x, s, t) {
-	    var n = a + (b & d | c & ~d) + (x >>> 0) + t;
-	    return ((n << s) | (n >>> (32 - s))) + b;
-	  };
-	  md5._hh  = function (a, b, c, d, x, s, t) {
-	    var n = a + (b ^ c ^ d) + (x >>> 0) + t;
-	    return ((n << s) | (n >>> (32 - s))) + b;
-	  };
-	  md5._ii  = function (a, b, c, d, x, s, t) {
-	    var n = a + (c ^ (b | ~d)) + (x >>> 0) + t;
-	    return ((n << s) | (n >>> (32 - s))) + b;
-	  };
+	// Disabled as it conflicts with German and Latin.
+	// Hungarian
+	// ['ä', 'a'],
+	// ['Ä', 'A'],
+	// ['ö', 'o'],
+	// ['Ö', 'O'],
+	// ['ü', 'u'],
+	// ['Ü', 'U'],
+	// ['ű', 'u'],
+	// ['Ű', 'U'],
 
-	  // Package private blocksize
-	  md5._blocksize = 16;
-	  md5._digestsize = 16;
+	// Latvian
+	['ā', 'a'],
+	['ē', 'e'],
+	['ģ', 'g'],
+	['ī', 'i'],
+	['ķ', 'k'],
+	['ļ', 'l'],
+	['ņ', 'n'],
+	['ū', 'u'],
+	['Ā', 'A'],
+	['Ē', 'E'],
+	['Ģ', 'G'],
+	['Ī', 'I'],
+	['Ķ', 'K'],
+	['Ļ', 'L'],
+	['Ņ', 'N'],
+	['Ū', 'U'],
+	['č', 'c'],
+	['š', 's'],
+	['ž', 'z'],
+	['Č', 'C'],
+	['Š', 'S'],
+	['Ž', 'Z'],
 
-	  md5$1.exports = function (message, options) {
-	    if (message === undefined || message === null)
-	      throw new Error('Illegal argument ' + message);
+	// Lithuanian
+	['ą', 'a'],
+	['č', 'c'],
+	['ę', 'e'],
+	['ė', 'e'],
+	['į', 'i'],
+	['š', 's'],
+	['ų', 'u'],
+	['ū', 'u'],
+	['ž', 'z'],
+	['Ą', 'A'],
+	['Č', 'C'],
+	['Ę', 'E'],
+	['Ė', 'E'],
+	['Į', 'I'],
+	['Š', 'S'],
+	['Ų', 'U'],
+	['Ū', 'U'],
 
-	    var digestbytes = crypt.wordsToBytes(md5(message, options));
-	    return options && options.asBytes ? digestbytes :
-	        options && options.asString ? bin.bytesToString(digestbytes) :
-	        crypt.bytesToHex(digestbytes);
-	  };
+	// Macedonian
+	['Ќ', 'Kj'],
+	['ќ', 'kj'],
+	['Љ', 'Lj'],
+	['љ', 'lj'],
+	['Њ', 'Nj'],
+	['њ', 'nj'],
+	['Тс', 'Ts'],
+	['тс', 'ts'],
 
-	})();
-	return md5$1.exports;
-}
+	// Polish
+	['ą', 'a'],
+	['ć', 'c'],
+	['ę', 'e'],
+	['ł', 'l'],
+	['ń', 'n'],
+	['ś', 's'],
+	['ź', 'z'],
+	['ż', 'z'],
+	['Ą', 'A'],
+	['Ć', 'C'],
+	['Ę', 'E'],
+	['Ł', 'L'],
+	['Ń', 'N'],
+	['Ś', 'S'],
+	['Ź', 'Z'],
+	['Ż', 'Z'],
 
-var md5Exports = requireMd5();
-var md5 = /*@__PURE__*/getDefaultExportFromCjs(md5Exports);
+	// Disabled as it conflicts with Vietnamese.
+	// Serbian
+	// ['љ', 'lj'],
+	// ['њ', 'nj'],
+	// ['Љ', 'Lj'],
+	// ['Њ', 'Nj'],
+	// ['đ', 'dj'],
+	// ['Đ', 'Dj'],
+	// ['ђ', 'dj'],
+	// ['ј', 'j'],
+	// ['ћ', 'c'],
+	// ['џ', 'dz'],
+	// ['Ђ', 'Dj'],
+	// ['Ј', 'j'],
+	// ['Ћ', 'C'],
+	// ['Џ', 'Dz'],
 
-/**
- * Determines whether a file is a Readwise-tracked note by checking a configured frontmatter property.
- *
- * Checks the frontmatter property named by `settings.trackingProperty` and returns true if its string value starts with `READWISE_REVIEW_URL_BASE`.
- * Returns false for a falsy `file`, a missing or non-string property, or a value that does not start with the Readwise base URL.
- *
- * @param settings - Plugin settings; `settings.trackingProperty` is the frontmatter key to inspect.
- * @returns True if the file is tracked by Readwise, otherwise false.
- */
-function isTrackedReadwiseNote(file, app, settings) {
-    if (!file) {
-        return false;
-    }
-    const trackingProperty = settings.trackingProperty;
-    const fileCache = app.metadataCache.getFileCache(file);
-    const frontmatterValue = fileCache?.frontmatter?.[trackingProperty];
-    if (typeof frontmatterValue !== 'string') {
-        return false;
-    }
-    return frontmatterValue.startsWith(READWISE_REVIEW_URL_BASE);
-}
-/**
- * Returns whether a file is located inside the configured Readwise library folder.
- *
- * Traverses the file's parent folders upward and compares each folder's path to
- * `settings.baseFolderName` (trimmed). If `file` is falsy or `settings.baseFolderName`
- * is empty after trimming, the function returns false.
- *
- * @param file - The file to check (may be null/undefined).
- * @param settings - Plugin settings; `baseFolderName` is used (whitespace trimmed) as the root folder name to match.
- * @returns True if an ancestor folder's path equals the configured base folder name; otherwise false.
- */
-function isInReadwiseLibrary(file, settings) {
-    if (!file)
-        return false;
-    const baseFolderName = settings.baseFolderName?.trim();
-    if (!baseFolderName)
-        return false;
-    let currentFolder = file.parent;
-    while (currentFolder) {
-        if (currentFolder.path === baseFolderName) {
-            return true;
-        }
-        currentFolder = currentFolder.parent;
-    }
-    return false;
-}
+	// Disabled as it conflicts with German and Latin.
+	// Slovak
+	// ['ä', 'a'],
+	// ['Ä', 'A'],
+	// ['ľ', 'l'],
+	// ['ĺ', 'l'],
+	// ['ŕ', 'r'],
+	// ['Ľ', 'L'],
+	// ['Ĺ', 'L'],
+	// ['Ŕ', 'R'],
 
-class DeduplicatingVaultWriter {
-    constructor(app, settings, frontmatterManager, logger, notify) {
-        this.app = app;
-        this.settings = settings;
-        this.frontmatterManager = frontmatterManager;
-        this.logger = logger;
-        this.notify = notify;
-        this.totalFileCount = 0;
-        this.fileCount = 0;
-        this.vault = app.vault;
-    }
-    notifyFileCount() {
-        this.fileCount++;
-        this.notify.setStatusBarText(`Readwise: ${this.fileCount} of ${this.totalFileCount} files processed`);
-    }
-    /**
-     * Creates a normalized path for any vault path
-     * @param segments - Path segments to join
-     * @returns Normalized path string
-     */
-    getNormalizedPath(...segments) {
-        return obsidian.normalizePath(segments.join('/'));
-    }
-    /**
-     * Creates category folders in the vault
-     *
-     * @param categories - The categories to create folders for
-     */
-    async createCategoryFolders(categories) {
-        for (const category of categories) {
-            const path = this.getCategoryPath(category);
-            const abstractFolder = this.vault.getAbstractFileByPath(path);
-            if (!abstractFolder) {
-                await this.vault.createFolder(path);
-                this.logger.info('Successfully created folder', path);
-            }
-        }
-    }
-    /**
-     * Finds files in the vault with matching readwise_url
-     *
-     * @param doc The readwise document to find matches for
-     * @returns An array of matching files
-     */
-    async findExistingByHighlightsUrl(doc) {
-        if (!this.settings.trackFiles || !this.settings.trackingProperty || !doc.readwise_url) {
-            return []; // No tracking or no readwise_url
-        }
-        // Get all files in the vault
-        const files = this.vault.getMarkdownFiles();
-        // Filter files by the tracking property
-        return files.filter((file) => {
-            const metadata = this.app.metadataCache.getFileCache(file);
-            const isTracked = isTrackedReadwiseNote(file, this.app, this.settings);
-            const isInLibrary = isInReadwiseLibrary(file, this.settings);
-            // If trackAcrossVault is enabled, only check if it's a Readwise note.
-            // Otherwise, check if it's a Readwise note AND in the Readwise library.
-            const shouldKeep = this.settings.trackAcrossVault ? isTracked : isTracked && isInLibrary;
-            if (!shouldKeep) {
-                return false;
-            }
-            // Compare the tracking property value to the readwise_url
-            return metadata?.frontmatter?.[this.settings.trackingProperty] === doc.readwise_url;
-        });
-    }
-    /**
-     * Generates a short hash based on the metadata ID
-     *
-     * @param doc - The readwise document to generate a hash for
-     * @returns A short hash
-     */
-    generateShortHash(doc) {
-        return md5(doc.id.toString()).substring(0, 4);
-    }
-    /**
-     * Gets the category path for a given category
-     *
-     * @param file - The file to get the category for
-     * @returns The normalized category path
-     */
-    getCategoryPathFromFile(file) {
-        const category = file.type === 'base' ? file.doc.category : 'Highlight';
-        return this.getCategoryPath(category);
-    }
-    getCategoryPath(category) {
-        const formattedCategory = category.charAt(0).toUpperCase() + category.slice(1);
-        return this.getNormalizedPath(this.settings.baseFolderName, formattedCategory);
-    }
-    /**
-     * Updates an existing file with new contents and frontmatter
-     *
-     * @param readwiseFile - The readwise file containing doc and contents
-     */
-    async updateExistingFile(readwiseFile) {
-        if (!(readwiseFile.primary instanceof obsidian.TFile)) {
-            this.logger.error('Primary file is not a TFile instance', { primary: readwiseFile.primary });
-            throw new Error('Primary file is not a TFile instance. This should not happen');
-        }
-        const file = readwiseFile.primary;
-        this.notifyFileCount();
-        try {
-            // Process frontmatter atomically
-            await this.app.fileManager.processFrontMatter(file, (existingFrontmatter) => {
-                // Only update frontmatter if frontmatter is enabled
-                const hasFrontmatter = Object.keys(existingFrontmatter).length > 0;
-                const updatedFrontmatter = this.frontmatterManager.getFrontmatter(readwiseFile, hasFrontmatter);
-                // Clean up existing frontmatter if updateFrontmatter is disabled
-                if (!this.settings.updateFrontmatter) {
-                    for (const key in existingFrontmatter) {
-                        delete existingFrontmatter[key];
-                    }
-                }
-                this.logger.debug(`Updating file ${file.path} with new frontmatter`, updatedFrontmatter);
-                for (const [key, value] of updatedFrontmatter.entries()) {
-                    existingFrontmatter[key] = value;
-                }
-            });
-            await this.fileWrite(file, readwiseFile.contents);
-        }
-        catch (err) {
-            this.logger.error(`Readwise: Attempt to update file ${file.path} failed`, err);
-            throw err;
-        }
-    }
-    /**
-     * Marks a file as a duplicate in its frontmatter or deletes it
-     *
-     * @param file - The duplicate file to handle
-     * @param readwiseFile - The readwise file containing doc metadata
-     */
-    async handleDuplicate(file, readwiseFile) {
-        this.notifyFileCount();
-        const frontmatter = this.frontmatterManager.getFrontmatter(readwiseFile);
-        try {
-            if (this.settings.deleteDuplicates) {
-                this.logger.debug(`Trashing duplicate ${file.path}`);
-                await this.vault.trash(file, true);
-            }
-            else {
-                frontmatter.set('duplicate', true);
-                this.logger.debug(`Marking file ${file.path} as duplicate`, frontmatter);
-                await this.frontmatterManager.writeUpdatedFrontmatter(file, frontmatter);
-            }
-        }
-        catch (err) {
-            this.logger.error(`Failed to handle duplicate ${file.path}`, err);
-            throw err;
-        }
-    }
-    /**
-     * Processes an array of ReadwiseFile objects by normalizing their paths,
-     * grouping them by their computed path (including category and filename),
-     * and then processing each group to handle potential duplicates.
-     *
-     * @param readwiseFiles - An array of ReadwiseFile objects to be processed.
-     * @returns A Promise that resolves when all file groups have been processed.
-     */
-    async process(readwiseFiles) {
-        // Reset the file count
-        this.totalFileCount = readwiseFiles.length;
-        this.fileCount = 0;
-        this.notify.setStatusBarText(`Readwise: ${this.totalFileCount} files to process`);
-        // Group by path (which includes category and filename)
-        const groupedByPath = new Map();
-        for (const file of readwiseFiles) {
-            let path;
-            if (file.primary instanceof obsidian.TFile) {
-                // If we have a primary TFile, use its path for grouping
-                path = file.primary.path;
-            }
-            else if (typeof file.primary === 'string') {
-                // If we have a primary path string, use it for grouping
-                path = file.primary;
-            }
-            // Use lowercase path for comparison as filesystems are (potentially) case-insensitive
-            if (!groupedByPath.has(path.toLowerCase())) {
-                groupedByPath.set(path.toLowerCase(), []);
-            }
-            groupedByPath.get(path.toLowerCase()).push(file);
-        }
-        // Process each path group (i.e. files with the same category and filename)
-        for (const [path, groupFiles] of groupedByPath) {
-            this.logger.debug('Processing path group', { path, groupFiles });
-            // Process the files in the path group
-            await this.writePathGroup(groupFiles);
-        }
-    }
-    async processFrontmatter(readwiseFiles) {
-        this.logger.debug('Processing frontmatter for Readwise files', { readwiseFiles });
-        // Reset the file count
-        this.totalFileCount = readwiseFiles.length;
-        this.fileCount = 0;
-        this.notify.setStatusBarText(`Readwise: ${this.totalFileCount} files to process`);
-        // Process each file
-        for (const readwiseFile of readwiseFiles) {
-            const files = await this.findExistingByHighlightsUrl(readwiseFile.doc);
-            for (const file of files) {
-                // Since we are only updating frontmatter, for existing files, we can use the Obsidian file manager for atomic frontmatter updates
-                this.app.fileManager.processFrontMatter(file, (existingFrontmatter) => {
-                    const updates = this.frontmatterManager.getFrontmatter(readwiseFile);
-                    const filteredFrontMatter = this.settings.protectFrontmatter
-                        ? this.frontmatterManager.filterProtectedFrontmatter(updates)
-                        : updates;
-                    Object.assign(existingFrontmatter, filteredFrontMatter.toObject());
-                });
-                this.notifyFileCount();
-            }
-        }
-    }
-    /**
-     * Processes a path group of files, identified duplicates and writes
-     * the files to the vault according to the tracking settings
-     * @param readwiseFiles - The files to process
-     */
-    async writePathGroup(readwiseFiles) {
-        // First, check if files are tracked (and have readwise_url), sort by doc id
-        /*
-         * Process tracked files by filename
-         * Files that share the same filename are duplicates,
-         * those with the tracking property will be treated first
-         */
-        if (this.settings.trackFiles && this.settings.trackingProperty) {
-            // Update or create primary file based on readwise_url
-            for (const file of readwiseFiles) {
-                await this.processTrackedFile(file);
-            }
-        }
-        else {
-            // All files are untracked - append hash to all but the first,
-            this.logger.debug('Files are untracked - appending hash to all but the first', { files: readwiseFiles });
-            const [primary, ...duplicates] = readwiseFiles;
-            await this.writeFileToVault(primary, true);
-            for (const duplicate of duplicates) {
-                await this.writeFileToVault(duplicate);
-            }
-        }
-    }
-    /**
-     * Processes a tracked file, updating or creating it in the vault, and handling its atomicity
-     * @param baseFile - The primary base file to process
-     * @returns The created or updated file
-     */
-    async processTrackedFile(baseFile) {
-        let processedPrimary = null;
-        if (baseFile.primary instanceof obsidian.TFile) {
-            // TODO: Add an option to the plugin to link remote duplicates to the primary file
-            await this.updateExistingFile(baseFile);
-            for (const duplicate of baseFile.duplicates) {
-                this.logger.warn('Existing duplicate file found', { duplicate });
-                await this.handleDuplicate(duplicate, baseFile);
-            }
-            processedPrimary = baseFile.primary;
-        }
-        else {
-            processedPrimary = await this.writeFileToVault(baseFile);
-        }
-        // If we have any atoms, process them (atoms will be empty of conditional atomizer leads to no atoms)
-        if (this.settings.atomicHighlights && processedPrimary && baseFile.atoms?.length > 0) {
-            await this.processAtomicHighlights(processedPrimary, baseFile);
-        }
-    }
-    /**
-     * Writes a file to the vault with frontmatter and contents
-     * @param file - The readwise or atomic file to write
-     * @param overwrite - Whether to overwrite an existing file or create with hash
-     * @returns The created or updated file
-     */
-    async writeFileToVault(file, overwrite) {
-        /**
-         * This method looks quite convoluted and complex, which is due to the fact that
-         * the vault methods to get files are case-sensitive, but the filesystem is probably not.
-         *
-         * This means that we need to check if the file exists in the vault (case insensitive)
-         * via the DataAdapter, and if it does, we need to check if it's the same file as the one
-         * we're trying to write.
-         */
-        if (file.type === 'base')
-            this.notifyFileCount();
-        const path = this.getNormalizedPath(this.getCategoryPathFromFile(file), `${file.basename}.md`);
-        try {
-            const frontmatter = this.frontmatterManager.getFrontmatter(file);
-            const fileOptions = {
-                ctime: new Date(file.doc.created).getTime(),
-                mtime: new Date(file.doc.updated).getTime(),
-            };
-            const fileExists = await this.app.vault.adapter.exists(path, false);
-            if (fileExists) {
-                if (overwrite) {
-                    const existingFile = await this.vault.getFileByPath(path);
-                    this.logger.debug('Overwriting existing file', { doc: file.doc, ...fileOptions });
-                    await this.frontmatterWrite(existingFile, frontmatter);
-                    await this.fileWrite(existingFile, file.contents, fileOptions);
-                    return existingFile;
-                }
-                // Create new path with hash
-                const hash = this.generateShortHash(file.doc);
-                const newPath = this.getNormalizedPath(this.getCategoryPathFromFile(file), `${file.basename} ${hash}.md`);
-                const newFileExists = await this.app.vault.adapter.exists(newPath, false);
-                if (newFileExists) {
-                    const existingNewFile = await this.vault.getFileByPath(newPath);
-                    this.logger.debug('Overwriting existing file (with hash)', { doc: file.doc, ...fileOptions });
-                    await this.frontmatterWrite(existingNewFile, frontmatter);
-                    await this.fileWrite(existingNewFile, file.contents, fileOptions);
-                    return existingNewFile;
-                }
-                this.logger.debug('Creating new file (with hash)', { doc: file.doc, ...fileOptions });
-                const newFile = await this.vault.create(newPath, file.contents, fileOptions);
-                await this.frontmatterWrite(newFile, frontmatter);
-                return newFile;
-            }
-            // If the file doesn't exist, create it
-            this.logger.debug('Creating new file', { doc: file.doc, ...fileOptions });
-            const newFile = await this.vault.create(path, file.contents, fileOptions);
-            await this.frontmatterWrite(newFile, frontmatter);
-            return newFile;
-        }
-        catch (err) {
-            this.logger.error(`Failed to create file '${path}'`, err);
-            throw new Error(`Failed to create file '${path}'. ${err}`);
-        }
-    }
-    /**
-     * Processes atomic highlights for a given primary file and readwise file
-     * @param primaryFile
-     * @param readwiseFile
-     * @returns
-     */
-    async processAtomicHighlights(_primaryFile, readwiseFile) {
-        if (readwiseFile.atoms.length === 0) {
-            return;
-        }
-        // FIXME: Implement this for Backlinks
-        // Make sure we keep track of the "parent" file we've written
-        // through a special field based on `_primaryFile`
-        for (const atom of readwiseFile.atoms) {
-            const basename = atom.basename || `${readwiseFile.basename}-${atom.id}`;
-            const atomicFile = {
-                type: 'atom',
-                id: atom.id,
-                basename, // Sanitize the basename
-                doc: readwiseFile.doc,
-                contents: atom.content,
-                frontmatter: atom.frontmatter,
-            };
-            await this.writeFileToVault(atomicFile, true); // We overwrite
-        }
-    }
-    /**
-     *
-     * @param existingFile
-     * @param frontmatter
-     */
-    async frontmatterWrite(existingFile, frontmatter) {
-        // biome-ignore lint/suspicious/noExplicitAny: Obsidian API exposes this as any
-        await this.app.fileManager.processFrontMatter(existingFile, (existingFrontmatter) => {
-            for (const [key, value] of frontmatter.entries()) {
-                existingFrontmatter[key] = value;
-            }
-        });
-    }
-    /**
-     * Write contents atomically
-     * @param existingFile - The existing file to update
-     * @param fileContents - The new contents to write
-     * @param fileOptions - The file options (ctime, mtime)
-     * @returns The updated file
-     */
-    async fileWrite(existingFile, fileContents, fileOptions) {
-        await this.vault.process(existingFile, (data) => {
-            // readwiseFile.contents
-            const fmi = obsidian.getFrontMatterInfo(data);
-            if (fmi?.exists) {
-                // Return unchanged frontmatter + new contents
-                return `${data.slice(0, fmi.contentStart)}\n${fileContents}`;
-            }
-            return data;
-        }, fileOptions);
-        return existingFile;
-    }
-}
+	// Disabled as it conflicts with German and Latin.
+	// Swedish
+	// ['å', 'o'],
+	// ['Å', 'o'],
+	// ['ä', 'a'],
+	// ['Ä', 'A'],
+	// ['ë', 'e'],
+	// ['Ë', 'E'],
+	// ['ö', 'o'],
+	// ['Ö', 'O'],
 
-/**
- * Custom error class for Frontmatter-related errors
- */
-class FrontmatterError extends Error {
-    constructor(message, cause) {
-        super(message);
-        this.cause = cause;
-        this.name = 'FrontmatterError';
-    }
-}
-/**
- * Represents and manages YAML frontmatter in markdown documents
- */
-class Frontmatter {
-    /**
-     * Creates a new Frontmatter instance
-     */
-    constructor(data = {}) {
-        this.data = this.validateData(data);
-    }
-    /**
-     * Validates frontmatter data using YAML parse/stringify
-     */
-    validateData(data) {
-        try {
-            const yamlString = obsidian.stringifyYaml(data);
-            const parsed = obsidian.parseYaml(yamlString);
-            if (typeof parsed !== 'object' || parsed === null) {
-                throw new Error('Frontmatter must be an object');
-            }
-            return parsed;
-        }
-        catch (error) {
-            throw new FrontmatterError('Invalid frontmatter data', error);
-        }
-    }
-    /**
-     * Gets a value from the frontmatter
-     */
-    get(key) {
-        return this.data[key];
-    }
-    /**
-     * Gets a value from the frontmatter or throws if it doesn't exist
-     */
-    getOrThrow(key) {
-        const value = this.get(key);
-        if (value === undefined) {
-            throw new FrontmatterError(`Required frontmatter key "${key}" not found`);
-        }
-        return value;
-    }
-    /**
-     * Sets a value in the frontmatter
-     */
-    set(key, value) {
-        const newData = { ...this.data, [key]: value };
-        this.validateData(newData); // Validate before updating
-        this.data[key] = value;
-        return this;
-    }
-    /**
-     * Checks if a key exists in the frontmatter
-     */
-    has(key) {
-        return key in this.data;
-    }
-    /**
-     * Deletes a key from the frontmatter
-     */
-    delete(key) {
-        return delete this.data[key];
-    }
-    /**
-     * Gets all keys in the frontmatter
-     */
-    keys() {
-        return Object.keys(this.data);
-    }
-    /**
-     * Gets all values in the frontmatter
-     */
-    values() {
-        return Object.values(this.data);
-    }
-    /**
-     * Creates a new Frontmatter instance from an array of key-value pairs
-     */
-    static fromEntries(entries) {
-        return new Frontmatter(Object.fromEntries(entries));
-    }
-    /**
-     * Gets all entries in the frontmatter
-     */
-    entries() {
-        return Object.entries(this.data);
-    }
-    /**
-     * Merges additional frontmatter data into the current instance
-     */
-    merge(updates) {
-        const updateData = updates instanceof Frontmatter ? updates.toObject() : updates;
-        const newData = { ...this.data, ...updateData };
-        this.validateData(newData); // Validate merged data
-        Object.assign(this.data, updateData);
-        return this;
-    }
-    /**
-     * Converts the frontmatter to a YAML string
-     */
-    toString() {
-        if (Object.keys(this.data).length === 0) {
-            return '';
-        }
-        return [Frontmatter.DELIMITER, obsidian.stringifyYaml(this.data).trim(), Frontmatter.DELIMITER].join('\n');
-    }
-    /**
-     * Converts the frontmatter to a plain object
-     */
-    toObject() {
-        return { ...this.data };
-    }
-    /**
-     * Creates a deep clone of the frontmatter
-     */
-    clone() {
-        return new Frontmatter(this.toObject());
-    }
-    /**
-     * Creates a Frontmatter instance from a YAML string
-     */
-    static fromString(content) {
-        if (!content.trim()) {
-            return new Frontmatter();
-        }
-        const match = content.match(Frontmatter.REGEX);
-        if (!match) {
-            return new Frontmatter();
-        }
-        try {
-            const yamlContent = match[2];
-            const data = obsidian.parseYaml(yamlContent);
-            if (typeof data !== 'object' || data === null) {
-                throw new Error('Frontmatter must be an object');
-            }
-            return new Frontmatter(data);
-        }
-        catch (error) {
-            throw new FrontmatterError('Failed to parse frontmatter', error);
-        }
-    }
-    /**
-     * Checks if a string contains valid frontmatter
-     */
-    static isValid(content) {
-        try {
-            Frontmatter.fromString(content);
-            return true;
-        }
-        catch {
-            return false;
-        }
-    }
-    /**
-     * Iterator implementation
-     */
-    [Symbol.iterator]() {
-        return this.entries()[Symbol.iterator]();
-    }
-}
-Frontmatter.DELIMITER = '---';
-Frontmatter.REGEX = /^(---\n([\s\S]*?)\n---\s*)/;
+	// Ukrainian
+	['Є', 'Ye'],
+	['І', 'I'],
+	['Ї', 'Yi'],
+	['Ґ', 'G'],
+	['є', 'ye'],
+	['і', 'i'],
+	['ї', 'yi'],
+	['ґ', 'g'],
 
-//
-// Sample data for testing the Frontmatter Template
-// The data is synthetic and inteded to stress-test
-// the validity of the generated YAML
-// TODO: Add more sample data for testing
-// TODO: Base it on Readwise API and not internal metadata
-//
-const testTags = [
-    { id: 1, name: 'important' },
-    { id: 2, name: 'quote: reference' },
-    { id: 3, name: 'follow-up & review' },
-    { id: 4, name: 'chapter 1: introduction' },
-    { id: 5, name: 'status: to-do' },
-    { id: 6, name: 'tags with spaces' },
-    { id: 7, name: 'tags-with-dashes' },
-    { id: 8, name: 'tags_with_underscores' },
-    { id: 9, name: '!special#chars@in%tags' },
-    { id: 10, name: 'nested/path/tag' },
+	// Dutch
+	['Ĳ', 'IJ'],
+	['ĳ', 'ij'],
+
+	// Danish
+	// ['Æ', 'Ae'],
+	// ['Ø', 'Oe'],
+	// ['Å', 'Aa'],
+	// ['æ', 'ae'],
+	// ['ø', 'oe'],
+	// ['å', 'aa']
+
+	// Currencies
+	['¢', 'c'],
+	['¥', 'Y'],
+	['߿', 'b'],
+	['৳', 't'],
+	['૱', 'Bo'],
+	['฿', 'B'],
+	['₠', 'CE'],
+	['₡', 'C'],
+	['₢', 'Cr'],
+	['₣', 'F'],
+	['₥', 'm'],
+	['₦', 'N'],
+	['₧', 'Pt'],
+	['₨', 'Rs'],
+	['₩', 'W'],
+	['₫', 's'],
+	['€', 'E'],
+	['₭', 'K'],
+	['₮', 'T'],
+	['₯', 'Dp'],
+	['₰', 'S'],
+	['₱', 'P'],
+	['₲', 'G'],
+	['₳', 'A'],
+	['₴', 'S'],
+	['₵', 'C'],
+	['₶', 'tt'],
+	['₷', 'S'],
+	['₸', 'T'],
+	['₹', 'R'],
+	['₺', 'L'],
+	['₽', 'P'],
+	['₿', 'B'],
+	['﹩', '$'],
+	['￠', 'c'],
+	['￥', 'Y'],
+	['￦', 'W'],
+
+	// Latin
+	['𝐀', 'A'],
+	['𝐁', 'B'],
+	['𝐂', 'C'],
+	['𝐃', 'D'],
+	['𝐄', 'E'],
+	['𝐅', 'F'],
+	['𝐆', 'G'],
+	['𝐇', 'H'],
+	['𝐈', 'I'],
+	['𝐉', 'J'],
+	['𝐊', 'K'],
+	['𝐋', 'L'],
+	['𝐌', 'M'],
+	['𝐍', 'N'],
+	['𝐎', 'O'],
+	['𝐏', 'P'],
+	['𝐐', 'Q'],
+	['𝐑', 'R'],
+	['𝐒', 'S'],
+	['𝐓', 'T'],
+	['𝐔', 'U'],
+	['𝐕', 'V'],
+	['𝐖', 'W'],
+	['𝐗', 'X'],
+	['𝐘', 'Y'],
+	['𝐙', 'Z'],
+	['𝐚', 'a'],
+	['𝐛', 'b'],
+	['𝐜', 'c'],
+	['𝐝', 'd'],
+	['𝐞', 'e'],
+	['𝐟', 'f'],
+	['𝐠', 'g'],
+	['𝐡', 'h'],
+	['𝐢', 'i'],
+	['𝐣', 'j'],
+	['𝐤', 'k'],
+	['𝐥', 'l'],
+	['𝐦', 'm'],
+	['𝐧', 'n'],
+	['𝐨', 'o'],
+	['𝐩', 'p'],
+	['𝐪', 'q'],
+	['𝐫', 'r'],
+	['𝐬', 's'],
+	['𝐭', 't'],
+	['𝐮', 'u'],
+	['𝐯', 'v'],
+	['𝐰', 'w'],
+	['𝐱', 'x'],
+	['𝐲', 'y'],
+	['𝐳', 'z'],
+	['𝐴', 'A'],
+	['𝐵', 'B'],
+	['𝐶', 'C'],
+	['𝐷', 'D'],
+	['𝐸', 'E'],
+	['𝐹', 'F'],
+	['𝐺', 'G'],
+	['𝐻', 'H'],
+	['𝐼', 'I'],
+	['𝐽', 'J'],
+	['𝐾', 'K'],
+	['𝐿', 'L'],
+	['𝑀', 'M'],
+	['𝑁', 'N'],
+	['𝑂', 'O'],
+	['𝑃', 'P'],
+	['𝑄', 'Q'],
+	['𝑅', 'R'],
+	['𝑆', 'S'],
+	['𝑇', 'T'],
+	['𝑈', 'U'],
+	['𝑉', 'V'],
+	['𝑊', 'W'],
+	['𝑋', 'X'],
+	['𝑌', 'Y'],
+	['𝑍', 'Z'],
+	['𝑎', 'a'],
+	['𝑏', 'b'],
+	['𝑐', 'c'],
+	['𝑑', 'd'],
+	['𝑒', 'e'],
+	['𝑓', 'f'],
+	['𝑔', 'g'],
+	['𝑖', 'i'],
+	['𝑗', 'j'],
+	['𝑘', 'k'],
+	['𝑙', 'l'],
+	['𝑚', 'm'],
+	['𝑛', 'n'],
+	['𝑜', 'o'],
+	['𝑝', 'p'],
+	['𝑞', 'q'],
+	['𝑟', 'r'],
+	['𝑠', 's'],
+	['𝑡', 't'],
+	['𝑢', 'u'],
+	['𝑣', 'v'],
+	['𝑤', 'w'],
+	['𝑥', 'x'],
+	['𝑦', 'y'],
+	['𝑧', 'z'],
+	['𝑨', 'A'],
+	['𝑩', 'B'],
+	['𝑪', 'C'],
+	['𝑫', 'D'],
+	['𝑬', 'E'],
+	['𝑭', 'F'],
+	['𝑮', 'G'],
+	['𝑯', 'H'],
+	['𝑰', 'I'],
+	['𝑱', 'J'],
+	['𝑲', 'K'],
+	['𝑳', 'L'],
+	['𝑴', 'M'],
+	['𝑵', 'N'],
+	['𝑶', 'O'],
+	['𝑷', 'P'],
+	['𝑸', 'Q'],
+	['𝑹', 'R'],
+	['𝑺', 'S'],
+	['𝑻', 'T'],
+	['𝑼', 'U'],
+	['𝑽', 'V'],
+	['𝑾', 'W'],
+	['𝑿', 'X'],
+	['𝒀', 'Y'],
+	['𝒁', 'Z'],
+	['𝒂', 'a'],
+	['𝒃', 'b'],
+	['𝒄', 'c'],
+	['𝒅', 'd'],
+	['𝒆', 'e'],
+	['𝒇', 'f'],
+	['𝒈', 'g'],
+	['𝒉', 'h'],
+	['𝒊', 'i'],
+	['𝒋', 'j'],
+	['𝒌', 'k'],
+	['𝒍', 'l'],
+	['𝒎', 'm'],
+	['𝒏', 'n'],
+	['𝒐', 'o'],
+	['𝒑', 'p'],
+	['𝒒', 'q'],
+	['𝒓', 'r'],
+	['𝒔', 's'],
+	['𝒕', 't'],
+	['𝒖', 'u'],
+	['𝒗', 'v'],
+	['𝒘', 'w'],
+	['𝒙', 'x'],
+	['𝒚', 'y'],
+	['𝒛', 'z'],
+	['𝒜', 'A'],
+	['𝒞', 'C'],
+	['𝒟', 'D'],
+	['𝒢', 'g'],
+	['𝒥', 'J'],
+	['𝒦', 'K'],
+	['𝒩', 'N'],
+	['𝒪', 'O'],
+	['𝒫', 'P'],
+	['𝒬', 'Q'],
+	['𝒮', 'S'],
+	['𝒯', 'T'],
+	['𝒰', 'U'],
+	['𝒱', 'V'],
+	['𝒲', 'W'],
+	['𝒳', 'X'],
+	['𝒴', 'Y'],
+	['𝒵', 'Z'],
+	['𝒶', 'a'],
+	['𝒷', 'b'],
+	['𝒸', 'c'],
+	['𝒹', 'd'],
+	['𝒻', 'f'],
+	['𝒽', 'h'],
+	['𝒾', 'i'],
+	['𝒿', 'j'],
+	['𝓀', 'h'],
+	['𝓁', 'l'],
+	['𝓂', 'm'],
+	['𝓃', 'n'],
+	['𝓅', 'p'],
+	['𝓆', 'q'],
+	['𝓇', 'r'],
+	['𝓈', 's'],
+	['𝓉', 't'],
+	['𝓊', 'u'],
+	['𝓋', 'v'],
+	['𝓌', 'w'],
+	['𝓍', 'x'],
+	['𝓎', 'y'],
+	['𝓏', 'z'],
+	['𝓐', 'A'],
+	['𝓑', 'B'],
+	['𝓒', 'C'],
+	['𝓓', 'D'],
+	['𝓔', 'E'],
+	['𝓕', 'F'],
+	['𝓖', 'G'],
+	['𝓗', 'H'],
+	['𝓘', 'I'],
+	['𝓙', 'J'],
+	['𝓚', 'K'],
+	['𝓛', 'L'],
+	['𝓜', 'M'],
+	['𝓝', 'N'],
+	['𝓞', 'O'],
+	['𝓟', 'P'],
+	['𝓠', 'Q'],
+	['𝓡', 'R'],
+	['𝓢', 'S'],
+	['𝓣', 'T'],
+	['𝓤', 'U'],
+	['𝓥', 'V'],
+	['𝓦', 'W'],
+	['𝓧', 'X'],
+	['𝓨', 'Y'],
+	['𝓩', 'Z'],
+	['𝓪', 'a'],
+	['𝓫', 'b'],
+	['𝓬', 'c'],
+	['𝓭', 'd'],
+	['𝓮', 'e'],
+	['𝓯', 'f'],
+	['𝓰', 'g'],
+	['𝓱', 'h'],
+	['𝓲', 'i'],
+	['𝓳', 'j'],
+	['𝓴', 'k'],
+	['𝓵', 'l'],
+	['𝓶', 'm'],
+	['𝓷', 'n'],
+	['𝓸', 'o'],
+	['𝓹', 'p'],
+	['𝓺', 'q'],
+	['𝓻', 'r'],
+	['𝓼', 's'],
+	['𝓽', 't'],
+	['𝓾', 'u'],
+	['𝓿', 'v'],
+	['𝔀', 'w'],
+	['𝔁', 'x'],
+	['𝔂', 'y'],
+	['𝔃', 'z'],
+	['𝔄', 'A'],
+	['𝔅', 'B'],
+	['𝔇', 'D'],
+	['𝔈', 'E'],
+	['𝔉', 'F'],
+	['𝔊', 'G'],
+	['𝔍', 'J'],
+	['𝔎', 'K'],
+	['𝔏', 'L'],
+	['𝔐', 'M'],
+	['𝔑', 'N'],
+	['𝔒', 'O'],
+	['𝔓', 'P'],
+	['𝔔', 'Q'],
+	['𝔖', 'S'],
+	['𝔗', 'T'],
+	['𝔘', 'U'],
+	['𝔙', 'V'],
+	['𝔚', 'W'],
+	['𝔛', 'X'],
+	['𝔜', 'Y'],
+	['𝔞', 'a'],
+	['𝔟', 'b'],
+	['𝔠', 'c'],
+	['𝔡', 'd'],
+	['𝔢', 'e'],
+	['𝔣', 'f'],
+	['𝔤', 'g'],
+	['𝔥', 'h'],
+	['𝔦', 'i'],
+	['𝔧', 'j'],
+	['𝔨', 'k'],
+	['𝔩', 'l'],
+	['𝔪', 'm'],
+	['𝔫', 'n'],
+	['𝔬', 'o'],
+	['𝔭', 'p'],
+	['𝔮', 'q'],
+	['𝔯', 'r'],
+	['𝔰', 's'],
+	['𝔱', 't'],
+	['𝔲', 'u'],
+	['𝔳', 'v'],
+	['𝔴', 'w'],
+	['𝔵', 'x'],
+	['𝔶', 'y'],
+	['𝔷', 'z'],
+	['𝔸', 'A'],
+	['𝔹', 'B'],
+	['𝔻', 'D'],
+	['𝔼', 'E'],
+	['𝔽', 'F'],
+	['𝔾', 'G'],
+	['𝕀', 'I'],
+	['𝕁', 'J'],
+	['𝕂', 'K'],
+	['𝕃', 'L'],
+	['𝕄', 'M'],
+	['𝕆', 'N'],
+	['𝕊', 'S'],
+	['𝕋', 'T'],
+	['𝕌', 'U'],
+	['𝕍', 'V'],
+	['𝕎', 'W'],
+	['𝕏', 'X'],
+	['𝕐', 'Y'],
+	['𝕒', 'a'],
+	['𝕓', 'b'],
+	['𝕔', 'c'],
+	['𝕕', 'd'],
+	['𝕖', 'e'],
+	['𝕗', 'f'],
+	['𝕘', 'g'],
+	['𝕙', 'h'],
+	['𝕚', 'i'],
+	['𝕛', 'j'],
+	['𝕜', 'k'],
+	['𝕝', 'l'],
+	['𝕞', 'm'],
+	['𝕟', 'n'],
+	['𝕠', 'o'],
+	['𝕡', 'p'],
+	['𝕢', 'q'],
+	['𝕣', 'r'],
+	['𝕤', 's'],
+	['𝕥', 't'],
+	['𝕦', 'u'],
+	['𝕧', 'v'],
+	['𝕨', 'w'],
+	['𝕩', 'x'],
+	['𝕪', 'y'],
+	['𝕫', 'z'],
+	['𝕬', 'A'],
+	['𝕭', 'B'],
+	['𝕮', 'C'],
+	['𝕯', 'D'],
+	['𝕰', 'E'],
+	['𝕱', 'F'],
+	['𝕲', 'G'],
+	['𝕳', 'H'],
+	['𝕴', 'I'],
+	['𝕵', 'J'],
+	['𝕶', 'K'],
+	['𝕷', 'L'],
+	['𝕸', 'M'],
+	['𝕹', 'N'],
+	['𝕺', 'O'],
+	['𝕻', 'P'],
+	['𝕼', 'Q'],
+	['𝕽', 'R'],
+	['𝕾', 'S'],
+	['𝕿', 'T'],
+	['𝖀', 'U'],
+	['𝖁', 'V'],
+	['𝖂', 'W'],
+	['𝖃', 'X'],
+	['𝖄', 'Y'],
+	['𝖅', 'Z'],
+	['𝖆', 'a'],
+	['𝖇', 'b'],
+	['𝖈', 'c'],
+	['𝖉', 'd'],
+	['𝖊', 'e'],
+	['𝖋', 'f'],
+	['𝖌', 'g'],
+	['𝖍', 'h'],
+	['𝖎', 'i'],
+	['𝖏', 'j'],
+	['𝖐', 'k'],
+	['𝖑', 'l'],
+	['𝖒', 'm'],
+	['𝖓', 'n'],
+	['𝖔', 'o'],
+	['𝖕', 'p'],
+	['𝖖', 'q'],
+	['𝖗', 'r'],
+	['𝖘', 's'],
+	['𝖙', 't'],
+	['𝖚', 'u'],
+	['𝖛', 'v'],
+	['𝖜', 'w'],
+	['𝖝', 'x'],
+	['𝖞', 'y'],
+	['𝖟', 'z'],
+	['𝖠', 'A'],
+	['𝖡', 'B'],
+	['𝖢', 'C'],
+	['𝖣', 'D'],
+	['𝖤', 'E'],
+	['𝖥', 'F'],
+	['𝖦', 'G'],
+	['𝖧', 'H'],
+	['𝖨', 'I'],
+	['𝖩', 'J'],
+	['𝖪', 'K'],
+	['𝖫', 'L'],
+	['𝖬', 'M'],
+	['𝖭', 'N'],
+	['𝖮', 'O'],
+	['𝖯', 'P'],
+	['𝖰', 'Q'],
+	['𝖱', 'R'],
+	['𝖲', 'S'],
+	['𝖳', 'T'],
+	['𝖴', 'U'],
+	['𝖵', 'V'],
+	['𝖶', 'W'],
+	['𝖷', 'X'],
+	['𝖸', 'Y'],
+	['𝖹', 'Z'],
+	['𝖺', 'a'],
+	['𝖻', 'b'],
+	['𝖼', 'c'],
+	['𝖽', 'd'],
+	['𝖾', 'e'],
+	['𝖿', 'f'],
+	['𝗀', 'g'],
+	['𝗁', 'h'],
+	['𝗂', 'i'],
+	['𝗃', 'j'],
+	['𝗄', 'k'],
+	['𝗅', 'l'],
+	['𝗆', 'm'],
+	['𝗇', 'n'],
+	['𝗈', 'o'],
+	['𝗉', 'p'],
+	['𝗊', 'q'],
+	['𝗋', 'r'],
+	['𝗌', 's'],
+	['𝗍', 't'],
+	['𝗎', 'u'],
+	['𝗏', 'v'],
+	['𝗐', 'w'],
+	['𝗑', 'x'],
+	['𝗒', 'y'],
+	['𝗓', 'z'],
+	['𝗔', 'A'],
+	['𝗕', 'B'],
+	['𝗖', 'C'],
+	['𝗗', 'D'],
+	['𝗘', 'E'],
+	['𝗙', 'F'],
+	['𝗚', 'G'],
+	['𝗛', 'H'],
+	['𝗜', 'I'],
+	['𝗝', 'J'],
+	['𝗞', 'K'],
+	['𝗟', 'L'],
+	['𝗠', 'M'],
+	['𝗡', 'N'],
+	['𝗢', 'O'],
+	['𝗣', 'P'],
+	['𝗤', 'Q'],
+	['𝗥', 'R'],
+	['𝗦', 'S'],
+	['𝗧', 'T'],
+	['𝗨', 'U'],
+	['𝗩', 'V'],
+	['𝗪', 'W'],
+	['𝗫', 'X'],
+	['𝗬', 'Y'],
+	['𝗭', 'Z'],
+	['𝗮', 'a'],
+	['𝗯', 'b'],
+	['𝗰', 'c'],
+	['𝗱', 'd'],
+	['𝗲', 'e'],
+	['𝗳', 'f'],
+	['𝗴', 'g'],
+	['𝗵', 'h'],
+	['𝗶', 'i'],
+	['𝗷', 'j'],
+	['𝗸', 'k'],
+	['𝗹', 'l'],
+	['𝗺', 'm'],
+	['𝗻', 'n'],
+	['𝗼', 'o'],
+	['𝗽', 'p'],
+	['𝗾', 'q'],
+	['𝗿', 'r'],
+	['𝘀', 's'],
+	['𝘁', 't'],
+	['𝘂', 'u'],
+	['𝘃', 'v'],
+	['𝘄', 'w'],
+	['𝘅', 'x'],
+	['𝘆', 'y'],
+	['𝘇', 'z'],
+	['𝘈', 'A'],
+	['𝘉', 'B'],
+	['𝘊', 'C'],
+	['𝘋', 'D'],
+	['𝘌', 'E'],
+	['𝘍', 'F'],
+	['𝘎', 'G'],
+	['𝘏', 'H'],
+	['𝘐', 'I'],
+	['𝘑', 'J'],
+	['𝘒', 'K'],
+	['𝘓', 'L'],
+	['𝘔', 'M'],
+	['𝘕', 'N'],
+	['𝘖', 'O'],
+	['𝘗', 'P'],
+	['𝘘', 'Q'],
+	['𝘙', 'R'],
+	['𝘚', 'S'],
+	['𝘛', 'T'],
+	['𝘜', 'U'],
+	['𝘝', 'V'],
+	['𝘞', 'W'],
+	['𝘟', 'X'],
+	['𝘠', 'Y'],
+	['𝘡', 'Z'],
+	['𝘢', 'a'],
+	['𝘣', 'b'],
+	['𝘤', 'c'],
+	['𝘥', 'd'],
+	['𝘦', 'e'],
+	['𝘧', 'f'],
+	['𝘨', 'g'],
+	['𝘩', 'h'],
+	['𝘪', 'i'],
+	['𝘫', 'j'],
+	['𝘬', 'k'],
+	['𝘭', 'l'],
+	['𝘮', 'm'],
+	['𝘯', 'n'],
+	['𝘰', 'o'],
+	['𝘱', 'p'],
+	['𝘲', 'q'],
+	['𝘳', 'r'],
+	['𝘴', 's'],
+	['𝘵', 't'],
+	['𝘶', 'u'],
+	['𝘷', 'v'],
+	['𝘸', 'w'],
+	['𝘹', 'x'],
+	['𝘺', 'y'],
+	['𝘻', 'z'],
+	['𝘼', 'A'],
+	['𝘽', 'B'],
+	['𝘾', 'C'],
+	['𝘿', 'D'],
+	['𝙀', 'E'],
+	['𝙁', 'F'],
+	['𝙂', 'G'],
+	['𝙃', 'H'],
+	['𝙄', 'I'],
+	['𝙅', 'J'],
+	['𝙆', 'K'],
+	['𝙇', 'L'],
+	['𝙈', 'M'],
+	['𝙉', 'N'],
+	['𝙊', 'O'],
+	['𝙋', 'P'],
+	['𝙌', 'Q'],
+	['𝙍', 'R'],
+	['𝙎', 'S'],
+	['𝙏', 'T'],
+	['𝙐', 'U'],
+	['𝙑', 'V'],
+	['𝙒', 'W'],
+	['𝙓', 'X'],
+	['𝙔', 'Y'],
+	['𝙕', 'Z'],
+	['𝙖', 'a'],
+	['𝙗', 'b'],
+	['𝙘', 'c'],
+	['𝙙', 'd'],
+	['𝙚', 'e'],
+	['𝙛', 'f'],
+	['𝙜', 'g'],
+	['𝙝', 'h'],
+	['𝙞', 'i'],
+	['𝙟', 'j'],
+	['𝙠', 'k'],
+	['𝙡', 'l'],
+	['𝙢', 'm'],
+	['𝙣', 'n'],
+	['𝙤', 'o'],
+	['𝙥', 'p'],
+	['𝙦', 'q'],
+	['𝙧', 'r'],
+	['𝙨', 's'],
+	['𝙩', 't'],
+	['𝙪', 'u'],
+	['𝙫', 'v'],
+	['𝙬', 'w'],
+	['𝙭', 'x'],
+	['𝙮', 'y'],
+	['𝙯', 'z'],
+	['𝙰', 'A'],
+	['𝙱', 'B'],
+	['𝙲', 'C'],
+	['𝙳', 'D'],
+	['𝙴', 'E'],
+	['𝙵', 'F'],
+	['𝙶', 'G'],
+	['𝙷', 'H'],
+	['𝙸', 'I'],
+	['𝙹', 'J'],
+	['𝙺', 'K'],
+	['𝙻', 'L'],
+	['𝙼', 'M'],
+	['𝙽', 'N'],
+	['𝙾', 'O'],
+	['𝙿', 'P'],
+	['𝚀', 'Q'],
+	['𝚁', 'R'],
+	['𝚂', 'S'],
+	['𝚃', 'T'],
+	['𝚄', 'U'],
+	['𝚅', 'V'],
+	['𝚆', 'W'],
+	['𝚇', 'X'],
+	['𝚈', 'Y'],
+	['𝚉', 'Z'],
+	['𝚊', 'a'],
+	['𝚋', 'b'],
+	['𝚌', 'c'],
+	['𝚍', 'd'],
+	['𝚎', 'e'],
+	['𝚏', 'f'],
+	['𝚐', 'g'],
+	['𝚑', 'h'],
+	['𝚒', 'i'],
+	['𝚓', 'j'],
+	['𝚔', 'k'],
+	['𝚕', 'l'],
+	['𝚖', 'm'],
+	['𝚗', 'n'],
+	['𝚘', 'o'],
+	['𝚙', 'p'],
+	['𝚚', 'q'],
+	['𝚛', 'r'],
+	['𝚜', 's'],
+	['𝚝', 't'],
+	['𝚞', 'u'],
+	['𝚟', 'v'],
+	['𝚠', 'w'],
+	['𝚡', 'x'],
+	['𝚢', 'y'],
+	['𝚣', 'z'],
+
+	// Dotless letters
+	['𝚤', 'l'],
+	['𝚥', 'j'],
+
+	// Greek
+	['𝛢', 'A'],
+	['𝛣', 'B'],
+	['𝛤', 'G'],
+	['𝛥', 'D'],
+	['𝛦', 'E'],
+	['𝛧', 'Z'],
+	['𝛨', 'I'],
+	['𝛩', 'TH'],
+	['𝛪', 'I'],
+	['𝛫', 'K'],
+	['𝛬', 'L'],
+	['𝛭', 'M'],
+	['𝛮', 'N'],
+	['𝛯', 'KS'],
+	['𝛰', 'O'],
+	['𝛱', 'P'],
+	['𝛲', 'R'],
+	['𝛳', 'TH'],
+	['𝛴', 'S'],
+	['𝛵', 'T'],
+	['𝛶', 'Y'],
+	['𝛷', 'F'],
+	['𝛸', 'x'],
+	['𝛹', 'PS'],
+	['𝛺', 'O'],
+	['𝛻', 'D'],
+	['𝛼', 'a'],
+	['𝛽', 'b'],
+	['𝛾', 'g'],
+	['𝛿', 'd'],
+	['𝜀', 'e'],
+	['𝜁', 'z'],
+	['𝜂', 'i'],
+	['𝜃', 'th'],
+	['𝜄', 'i'],
+	['𝜅', 'k'],
+	['𝜆', 'l'],
+	['𝜇', 'm'],
+	['𝜈', 'n'],
+	['𝜉', 'ks'],
+	['𝜊', 'o'],
+	['𝜋', 'p'],
+	['𝜌', 'r'],
+	['𝜍', 's'],
+	['𝜎', 's'],
+	['𝜏', 't'],
+	['𝜐', 'y'],
+	['𝜑', 'f'],
+	['𝜒', 'x'],
+	['𝜓', 'ps'],
+	['𝜔', 'o'],
+	['𝜕', 'd'],
+	['𝜖', 'E'],
+	['𝜗', 'TH'],
+	['𝜘', 'K'],
+	['𝜙', 'f'],
+	['𝜚', 'r'],
+	['𝜛', 'p'],
+	['𝜜', 'A'],
+	['𝜝', 'V'],
+	['𝜞', 'G'],
+	['𝜟', 'D'],
+	['𝜠', 'E'],
+	['𝜡', 'Z'],
+	['𝜢', 'I'],
+	['𝜣', 'TH'],
+	['𝜤', 'I'],
+	['𝜥', 'K'],
+	['𝜦', 'L'],
+	['𝜧', 'M'],
+	['𝜨', 'N'],
+	['𝜩', 'KS'],
+	['𝜪', 'O'],
+	['𝜫', 'P'],
+	['𝜬', 'S'],
+	['𝜭', 'TH'],
+	['𝜮', 'S'],
+	['𝜯', 'T'],
+	['𝜰', 'Y'],
+	['𝜱', 'F'],
+	['𝜲', 'X'],
+	['𝜳', 'PS'],
+	['𝜴', 'O'],
+	['𝜵', 'D'],
+	['𝜶', 'a'],
+	['𝜷', 'v'],
+	['𝜸', 'g'],
+	['𝜹', 'd'],
+	['𝜺', 'e'],
+	['𝜻', 'z'],
+	['𝜼', 'i'],
+	['𝜽', 'th'],
+	['𝜾', 'i'],
+	['𝜿', 'k'],
+	['𝝀', 'l'],
+	['𝝁', 'm'],
+	['𝝂', 'n'],
+	['𝝃', 'ks'],
+	['𝝄', 'o'],
+	['𝝅', 'p'],
+	['𝝆', 'r'],
+	['𝝇', 's'],
+	['𝝈', 's'],
+	['𝝉', 't'],
+	['𝝊', 'y'],
+	['𝝋', 'f'],
+	['𝝌', 'x'],
+	['𝝍', 'ps'],
+	['𝝎', 'o'],
+	['𝝏', 'a'],
+	['𝝐', 'e'],
+	['𝝑', 'i'],
+	['𝝒', 'k'],
+	['𝝓', 'f'],
+	['𝝔', 'r'],
+	['𝝕', 'p'],
+	['𝝖', 'A'],
+	['𝝗', 'B'],
+	['𝝘', 'G'],
+	['𝝙', 'D'],
+	['𝝚', 'E'],
+	['𝝛', 'Z'],
+	['𝝜', 'I'],
+	['𝝝', 'TH'],
+	['𝝞', 'I'],
+	['𝝟', 'K'],
+	['𝝠', 'L'],
+	['𝝡', 'M'],
+	['𝝢', 'N'],
+	['𝝣', 'KS'],
+	['𝝤', 'O'],
+	['𝝥', 'P'],
+	['𝝦', 'R'],
+	['𝝧', 'TH'],
+	['𝝨', 'S'],
+	['𝝩', 'T'],
+	['𝝪', 'Y'],
+	['𝝫', 'F'],
+	['𝝬', 'X'],
+	['𝝭', 'PS'],
+	['𝝮', 'O'],
+	['𝝯', 'D'],
+	['𝝰', 'a'],
+	['𝝱', 'v'],
+	['𝝲', 'g'],
+	['𝝳', 'd'],
+	['𝝴', 'e'],
+	['𝝵', 'z'],
+	['𝝶', 'i'],
+	['𝝷', 'th'],
+	['𝝸', 'i'],
+	['𝝹', 'k'],
+	['𝝺', 'l'],
+	['𝝻', 'm'],
+	['𝝼', 'n'],
+	['𝝽', 'ks'],
+	['𝝾', 'o'],
+	['𝝿', 'p'],
+	['𝞀', 'r'],
+	['𝞁', 's'],
+	['𝞂', 's'],
+	['𝞃', 't'],
+	['𝞄', 'y'],
+	['𝞅', 'f'],
+	['𝞆', 'x'],
+	['𝞇', 'ps'],
+	['𝞈', 'o'],
+	['𝞉', 'a'],
+	['𝞊', 'e'],
+	['𝞋', 'i'],
+	['𝞌', 'k'],
+	['𝞍', 'f'],
+	['𝞎', 'r'],
+	['𝞏', 'p'],
+	['𝞐', 'A'],
+	['𝞑', 'V'],
+	['𝞒', 'G'],
+	['𝞓', 'D'],
+	['𝞔', 'E'],
+	['𝞕', 'Z'],
+	['𝞖', 'I'],
+	['𝞗', 'TH'],
+	['𝞘', 'I'],
+	['𝞙', 'K'],
+	['𝞚', 'L'],
+	['𝞛', 'M'],
+	['𝞜', 'N'],
+	['𝞝', 'KS'],
+	['𝞞', 'O'],
+	['𝞟', 'P'],
+	['𝞠', 'S'],
+	['𝞡', 'TH'],
+	['𝞢', 'S'],
+	['𝞣', 'T'],
+	['𝞤', 'Y'],
+	['𝞥', 'F'],
+	['𝞦', 'X'],
+	['𝞧', 'PS'],
+	['𝞨', 'O'],
+	['𝞩', 'D'],
+	['𝞪', 'av'],
+	['𝞫', 'g'],
+	['𝞬', 'd'],
+	['𝞭', 'e'],
+	['𝞮', 'z'],
+	['𝞯', 'i'],
+	['𝞰', 'i'],
+	['𝞱', 'th'],
+	['𝞲', 'i'],
+	['𝞳', 'k'],
+	['𝞴', 'l'],
+	['𝞵', 'm'],
+	['𝞶', 'n'],
+	['𝞷', 'ks'],
+	['𝞸', 'o'],
+	['𝞹', 'p'],
+	['𝞺', 'r'],
+	['𝞻', 's'],
+	['𝞼', 's'],
+	['𝞽', 't'],
+	['𝞾', 'y'],
+	['𝞿', 'f'],
+	['𝟀', 'x'],
+	['𝟁', 'ps'],
+	['𝟂', 'o'],
+	['𝟃', 'a'],
+	['𝟄', 'e'],
+	['𝟅', 'i'],
+	['𝟆', 'k'],
+	['𝟇', 'f'],
+	['𝟈', 'r'],
+	['𝟉', 'p'],
+	['𝟊', 'F'],
+	['𝟋', 'f'],
+	['⒜', '(a)'],
+	['⒝', '(b)'],
+	['⒞', '(c)'],
+	['⒟', '(d)'],
+	['⒠', '(e)'],
+	['⒡', '(f)'],
+	['⒢', '(g)'],
+	['⒣', '(h)'],
+	['⒤', '(i)'],
+	['⒥', '(j)'],
+	['⒦', '(k)'],
+	['⒧', '(l)'],
+	['⒨', '(m)'],
+	['⒩', '(n)'],
+	['⒪', '(o)'],
+	['⒫', '(p)'],
+	['⒬', '(q)'],
+	['⒭', '(r)'],
+	['⒮', '(s)'],
+	['⒯', '(t)'],
+	['⒰', '(u)'],
+	['⒱', '(v)'],
+	['⒲', '(w)'],
+	['⒳', '(x)'],
+	['⒴', '(y)'],
+	['⒵', '(z)'],
+	['Ⓐ', '(A)'],
+	['Ⓑ', '(B)'],
+	['Ⓒ', '(C)'],
+	['Ⓓ', '(D)'],
+	['Ⓔ', '(E)'],
+	['Ⓕ', '(F)'],
+	['Ⓖ', '(G)'],
+	['Ⓗ', '(H)'],
+	['Ⓘ', '(I)'],
+	['Ⓙ', '(J)'],
+	['Ⓚ', '(K)'],
+	['Ⓛ', '(L)'],
+	['Ⓝ', '(N)'],
+	['Ⓞ', '(O)'],
+	['Ⓟ', '(P)'],
+	['Ⓠ', '(Q)'],
+	['Ⓡ', '(R)'],
+	['Ⓢ', '(S)'],
+	['Ⓣ', '(T)'],
+	['Ⓤ', '(U)'],
+	['Ⓥ', '(V)'],
+	['Ⓦ', '(W)'],
+	['Ⓧ', '(X)'],
+	['Ⓨ', '(Y)'],
+	['Ⓩ', '(Z)'],
+	['ⓐ', '(a)'],
+	['ⓑ', '(b)'],
+	['ⓒ', '(b)'],
+	['ⓓ', '(c)'],
+	['ⓔ', '(e)'],
+	['ⓕ', '(f)'],
+	['ⓖ', '(g)'],
+	['ⓗ', '(h)'],
+	['ⓘ', '(i)'],
+	['ⓙ', '(j)'],
+	['ⓚ', '(k)'],
+	['ⓛ', '(l)'],
+	['ⓜ', '(m)'],
+	['ⓝ', '(n)'],
+	['ⓞ', '(o)'],
+	['ⓟ', '(p)'],
+	['ⓠ', '(q)'],
+	['ⓡ', '(r)'],
+	['ⓢ', '(s)'],
+	['ⓣ', '(t)'],
+	['ⓤ', '(u)'],
+	['ⓥ', '(v)'],
+	['ⓦ', '(w)'],
+	['ⓧ', '(x)'],
+	['ⓨ', '(y)'],
+	['ⓩ', '(z)'],
+
+	// Maltese
+	['Ċ', 'C'],
+	['ċ', 'c'],
+	['Ġ', 'G'],
+	['ġ', 'g'],
+	['Ħ', 'H'],
+	['ħ', 'h'],
+	['Ż', 'Z'],
+	['ż', 'z'],
+
+	// Numbers
+	['𝟎', '0'],
+	['𝟏', '1'],
+	['𝟐', '2'],
+	['𝟑', '3'],
+	['𝟒', '4'],
+	['𝟓', '5'],
+	['𝟔', '6'],
+	['𝟕', '7'],
+	['𝟖', '8'],
+	['𝟗', '9'],
+	['𝟘', '0'],
+	['𝟙', '1'],
+	['𝟚', '2'],
+	['𝟛', '3'],
+	['𝟜', '4'],
+	['𝟝', '5'],
+	['𝟞', '6'],
+	['𝟟', '7'],
+	['𝟠', '8'],
+	['𝟡', '9'],
+	['𝟢', '0'],
+	['𝟣', '1'],
+	['𝟤', '2'],
+	['𝟥', '3'],
+	['𝟦', '4'],
+	['𝟧', '5'],
+	['𝟨', '6'],
+	['𝟩', '7'],
+	['𝟪', '8'],
+	['𝟫', '9'],
+	['𝟬', '0'],
+	['𝟭', '1'],
+	['𝟮', '2'],
+	['𝟯', '3'],
+	['𝟰', '4'],
+	['𝟱', '5'],
+	['𝟲', '6'],
+	['𝟳', '7'],
+	['𝟴', '8'],
+	['𝟵', '9'],
+	['𝟶', '0'],
+	['𝟷', '1'],
+	['𝟸', '2'],
+	['𝟹', '3'],
+	['𝟺', '4'],
+	['𝟻', '5'],
+	['𝟼', '6'],
+	['𝟽', '7'],
+	['𝟾', '8'],
+	['𝟿', '9'],
+	['①', '1'],
+	['②', '2'],
+	['③', '3'],
+	['④', '4'],
+	['⑤', '5'],
+	['⑥', '6'],
+	['⑦', '7'],
+	['⑧', '8'],
+	['⑨', '9'],
+	['⑩', '10'],
+	['⑪', '11'],
+	['⑫', '12'],
+	['⑬', '13'],
+	['⑭', '14'],
+	['⑮', '15'],
+	['⑯', '16'],
+	['⑰', '17'],
+	['⑱', '18'],
+	['⑲', '19'],
+	['⑳', '20'],
+	['⑴', '1'],
+	['⑵', '2'],
+	['⑶', '3'],
+	['⑷', '4'],
+	['⑸', '5'],
+	['⑹', '6'],
+	['⑺', '7'],
+	['⑻', '8'],
+	['⑼', '9'],
+	['⑽', '10'],
+	['⑾', '11'],
+	['⑿', '12'],
+	['⒀', '13'],
+	['⒁', '14'],
+	['⒂', '15'],
+	['⒃', '16'],
+	['⒄', '17'],
+	['⒅', '18'],
+	['⒆', '19'],
+	['⒇', '20'],
+	['⒈', '1.'],
+	['⒉', '2.'],
+	['⒊', '3.'],
+	['⒋', '4.'],
+	['⒌', '5.'],
+	['⒍', '6.'],
+	['⒎', '7.'],
+	['⒏', '8.'],
+	['⒐', '9.'],
+	['⒑', '10.'],
+	['⒒', '11.'],
+	['⒓', '12.'],
+	['⒔', '13.'],
+	['⒕', '14.'],
+	['⒖', '15.'],
+	['⒗', '16.'],
+	['⒘', '17.'],
+	['⒙', '18.'],
+	['⒚', '19.'],
+	['⒛', '20.'],
+	['⓪', '0'],
+	['⓫', '11'],
+	['⓬', '12'],
+	['⓭', '13'],
+	['⓮', '14'],
+	['⓯', '15'],
+	['⓰', '16'],
+	['⓱', '17'],
+	['⓲', '18'],
+	['⓳', '19'],
+	['⓴', '20'],
+	['⓵', '1'],
+	['⓶', '2'],
+	['⓷', '3'],
+	['⓸', '4'],
+	['⓹', '5'],
+	['⓺', '6'],
+	['⓻', '7'],
+	['⓼', '8'],
+	['⓽', '9'],
+	['⓾', '10'],
+	['⓿', '0'],
+
+	// Punctuation
+	['🙰', '&'],
+	['🙱', '&'],
+	['🙲', '&'],
+	['🙳', '&'],
+	['🙴', '&'],
+	['🙵', '&'],
+	['🙶', '"'],
+	['🙷', '"'],
+	['🙸', '"'],
+	['‽', '?!'],
+	['🙹', '?!'],
+	['🙺', '?!'],
+	['🙻', '?!'],
+	['🙼', '/'],
+	['🙽', '\\'],
+
+	// Alchemy
+	['🜇', 'AR'],
+	['🜈', 'V'],
+	['🜉', 'V'],
+	['🜆', 'VR'],
+	['🜅', 'VF'],
+	['🜩', '2'],
+	['🜪', '5'],
+	['🝡', 'f'],
+	['🝢', 'W'],
+	['🝣', 'U'],
+	['🝧', 'V'],
+	['🝨', 'T'],
+	['🝪', 'V'],
+	['🝫', 'MB'],
+	['🝬', 'VB'],
+	['🝲', '3B'],
+	['🝳', '3B'],
+
+	// Emojis
+	['💯', '100'],
+	['🔙', 'BACK'],
+	['🔚', 'END'],
+	['🔛', 'ON!'],
+	['🔜', 'SOON'],
+	['🔝', 'TOP'],
+	['🔞', '18'],
+	['🔤', 'abc'],
+	['🔠', 'ABCD'],
+	['🔡', 'abcd'],
+	['🔢', '1234'],
+	['🔣', 'T&@%'],
+	['#️⃣', '#'],
+	['*️⃣', '*'],
+	['0️⃣', '0'],
+	['1️⃣', '1'],
+	['2️⃣', '2'],
+	['3️⃣', '3'],
+	['4️⃣', '4'],
+	['5️⃣', '5'],
+	['6️⃣', '6'],
+	['7️⃣', '7'],
+	['8️⃣', '8'],
+	['9️⃣', '9'],
+	['🔟', '10'],
+	['🅰️', 'A'],
+	['🅱️', 'B'],
+	['🆎', 'AB'],
+	['🆑', 'CL'],
+	['🅾️', 'O'],
+	['🅿', 'P'],
+	['🆘', 'SOS'],
+	['🅲', 'C'],
+	['🅳', 'D'],
+	['🅴', 'E'],
+	['🅵', 'F'],
+	['🅶', 'G'],
+	['🅷', 'H'],
+	['🅸', 'I'],
+	['🅹', 'J'],
+	['🅺', 'K'],
+	['🅻', 'L'],
+	['🅼', 'M'],
+	['🅽', 'N'],
+	['🆀', 'Q'],
+	['🆁', 'R'],
+	['🆂', 'S'],
+	['🆃', 'T'],
+	['🆄', 'U'],
+	['🆅', 'V'],
+	['🆆', 'W'],
+	['🆇', 'X'],
+	['🆈', 'Y'],
+	['🆉', 'Z']
 ];
-const sampleMetadata = {
-    id: 12345,
-    readwise_url: 'https://readwise.io/bookreview/12345',
-    unique_url: 'https://unique.com/[brackets]',
-    source_url: 'https://test.com/path?q=special chars: & +',
-    title: "My Book:\nA Subtitle's Journey",
-    sanitized_title: "My Book - A Subtitle's Journey",
-    author: ["Tim O'Reilly", '"Doc" Smith', 'Homer Simpson'],
-    authorStr: '[[Tim O\'Reilly]], [["Doc" Smith]] and [["Homer Simpson"]]',
-    document_note: 'Line 1\nLine 2\nLine 3: Important!',
-    summary: 'Contains > and < symbols\nAnd some * wildcards & ampersands',
-    category: 'books & articles',
-    num_highlights: 42,
-    created: '2024-03-15T10:30:00Z',
-    updated: '', // Test empty value
-    cover_image_url: 'https://example.com/image?size=large&type=cover',
-    highlights: [
-        {
-            id: 12345,
-            is_deleted: false,
-            text: 'Quote with \'nested\' "quotes" and: colons',
-            note: 'Annotation with *markdown* and\nmultiple\nlines',
-            location: 42,
-            location_type: 'page',
-            highlighted_at: '2024-03-15T10:30:00Z',
-            created_at: '2024-03-15T10:30:00Z',
-            updated_at: '2024-03-15T11:45:00Z',
-            url: 'https://example.com/book?page=42&highlight=12345',
-            readwise_url: 'https://readwise.io/open/006757643',
-            color: 'yellow',
-            book_id: 98765,
-            is_discard: false,
-            is_favorite: true,
-            tags: [testTags[0], testTags[1], testTags[2]],
-        },
-        {
-            id: 12346,
-            is_deleted: true,
-            text: 'Multi-line\ntext\nwith: colons',
-            note: '',
-            location: 0,
-            location_type: '',
-            highlighted_at: '2024-03-16T09:15:00Z',
-            created_at: '2024-03-16T09:15:00Z',
-            updated_at: '2024-03-16T09:15:00Z',
-            url: null,
-            readwise_url: 'https://readwise.io/open/326757643',
-            color: 'blue',
-            book_id: 98765,
-            is_discard: true,
-            is_favorite: false,
-            tags: [testTags[3], testTags[4], testTags[5]],
-        },
-        {
-            id: 12347,
-            is_deleted: false,
-            text: 'Another insightful quote with special characters: @#$%',
-            note: 'This is a note with *emphasis* and a newline\nfor clarity.',
-            location: 15,
-            location_type: 'paragraph',
-            highlighted_at: '2024-03-17T10:00:00Z',
-            created_at: '2024-03-17T10:00:00Z',
-            updated_at: '2024-03-17T10:00:00Z',
-            url: 'https://example.com/book?page=15&highlight=12347',
-            readwise_url: 'https://readwise.io/open/32675625343',
-            color: 'green',
-            book_id: 98766,
-            is_discard: false,
-            is_favorite: true,
-            tags: [testTags[1], testTags[6]],
-        },
-        {
-            id: 12348,
-            is_deleted: false,
-            text: 'A discarded highlight that is not deleted.',
-            note: 'This highlight is marked as discarded but not deleted.',
-            location: 30,
-            location_type: 'chapter',
-            highlighted_at: '2024-03-18T11:00:00Z',
-            created_at: '2024-03-18T11:00:00Z',
-            updated_at: '2024-03-18T11:00:00Z',
-            url: 'https://example.com/book?page=30&highlight=12348',
-            readwise_url: 'https://readwise.io/open/378727643',
-            color: 'red',
-            book_id: 98767,
-            is_discard: true,
-            is_favorite: false,
-            tags: [testTags[2], testTags[7]],
-        },
-    ],
-    last_highlight_at: '2024-03-16T09:15:00Z', // Test null value
-    tags: '#reading, #non-fiction: genre',
-    highlight_tags: '#quote, #important: flag',
-    tags_nohash: "'reading', 'non-fiction: genre'",
-    hl_tags_nohash: "'quote', 'important: flag'",
+
+const doCustomReplacements = (string, replacements) => {
+	for (const [key, value] of replacements) {
+		// TODO: Use `String#replaceAll()` when targeting Node.js 16.
+		string = string.replace(new RegExp(escapeStringRegexp(key), 'g'), value);
+	}
+
+	return string;
 };
 
+function transliterate(string, options) {
+	if (typeof string !== 'string') {
+		throw new TypeError(`Expected a string, got \`${typeof string}\``);
+	}
+
+	options = {
+		customReplacements: [],
+		...options
+	};
+
+	const customReplacements = new Map([
+		...replacements,
+		...options.customReplacements
+	]);
+
+	string = string.normalize();
+	string = doCustomReplacements(string, customReplacements);
+	string = string.normalize('NFD').replace(/\p{Diacritic}/gu, '').normalize();
+
+	return string;
+}
+
+const overridableReplacements = [
+	['&', ' and '],
+	['🦄', ' unicorn '],
+	['♥', ' love ']
+];
+
+const decamelize = string => {
+	return string
+		// Separate capitalized words.
+		.replace(/([A-Z]{2,})(\d+)/g, '$1 $2')
+		.replace(/([a-z\d]+)([A-Z]{2,})/g, '$1 $2')
+
+		.replace(/([a-z\d])([A-Z])/g, '$1 $2')
+		// `[a-rt-z]` matches all lowercase characters except `s`.
+		// This avoids matching plural acronyms like `APIs`.
+		.replace(/([A-Z]+)([A-Z][a-rt-z\d]+)/g, '$1 $2');
+};
+
+const removeMootSeparators = (string, separator) => {
+	const escapedSeparator = escapeStringRegexp(separator);
+
+	return string
+		.replace(new RegExp(`${escapedSeparator}{2,}`, 'g'), separator)
+		.replace(new RegExp(`^${escapedSeparator}|${escapedSeparator}$`, 'g'), '');
+};
+
+const buildPatternSlug = options => {
+	let negationSetPattern = 'a-z\\d';
+	negationSetPattern += options.lowercase ? '' : 'A-Z';
+
+	if (options.preserveCharacters.length > 0) {
+		for (const character of options.preserveCharacters) {
+			if (character === options.separator) {
+				throw new Error(`The separator character \`${options.separator}\` cannot be included in preserved characters: ${options.preserveCharacters}`);
+			}
+
+			negationSetPattern += escapeStringRegexp(character);
+		}
+	}
+
+	return new RegExp(`[^${negationSetPattern}]+`, 'g');
+};
+
+function slugify(string, options) {
+	if (typeof string !== 'string') {
+		throw new TypeError(`Expected a string, got \`${typeof string}\``);
+	}
+
+	options = {
+		separator: '-',
+		lowercase: true,
+		decamelize: true,
+		customReplacements: [],
+		preserveLeadingUnderscore: false,
+		preserveTrailingDash: false,
+		preserveCharacters: [],
+		...options
+	};
+
+	const shouldPrependUnderscore = options.preserveLeadingUnderscore && string.startsWith('_');
+	const shouldAppendDash = options.preserveTrailingDash && string.endsWith('-');
+
+	const customReplacements = new Map([
+		...overridableReplacements,
+		...options.customReplacements
+	]);
+
+	string = transliterate(string, {customReplacements});
+
+	if (options.decamelize) {
+		string = decamelize(string);
+	}
+
+	const patternSlug = buildPatternSlug(options);
+
+	if (options.lowercase) {
+		string = string.toLowerCase();
+	}
+
+	// Detect contractions/possessives by looking for any word followed by a `'t`
+	// or `'s` in isolation and then remove it.
+	string = string.replace(/([a-zA-Z\d]+)'([ts])(\s|$)/g, '$1$2$3');
+
+	string = string.replace(patternSlug, options.separator);
+	string = string.replace(/\\/g, '');
+
+	if (options.separator) {
+		string = removeMootSeparators(string, options.separator);
+	}
+
+	if (shouldPrependUnderscore) {
+		string = `_${string}`;
+	}
+
+	if (shouldAppendDash) {
+		string = `${string}-`;
+	}
+
+	return string;
+}
+
+const DEFAULT_SETTINGS = {
+    atomicHighlights: false,
+    atomicParentProperty: 'rw-parent',
+    atomicInheritParentFrontmatter: false,
+    atomicConditionalAtomize: false,
+    baseFolderName: 'Readwise',
+    apiToken: null,
+    lastUpdated: null,
+    autoSync: true,
+    highlightSortOldestToNewest: true,
+    highlightSortByLocation: true,
+    highlightDiscard: false,
+    syncNotesOnly: false,
+    colonSubstitute: '-',
+    logFile: true,
+    logFileName: 'Sync.md',
+    syncNotifications: true,
+    frontMatter: true,
+    frontMatterTemplate: `{#- Frontmatter Template - also called *Properties* in Obsidian -#} 
+id: {{ id }}
+created: {{ created }}
+updated: {{ updated }}
+title: {{ title }}
+{# The \`normalize_author\` filter will remove prefixes like 'Dr.', 'Prof.' and others from the author field, for more consistent author names across your library. Remove it if you want to keep this and consult the Wiki for more information. #}
+author: [ {{ author | normalize_author | join(', ') }} ]
+`,
+    headerTemplate: `%%
+ID: {{ id }}
+Updated: {{ updated }}
+%%
+
+![]({{ cover_image_url }})
+
+# About
+Title: [[{{ title }}]]
+Authors: [[{{ author | join(']], [[') }}]]
+Category: #{{ category }}
+{%- if tags %}
+Tags: {{ tags }}
+{%- endif %}
+Number of Highlights: =={{ num_highlights }}==
+Readwise URL: {{ highlights_url }}
+{%- if source_url %}
+Source URL: {{ source_url }}
+{%- endif %}
+Date: [[{{ created }}]]
+Last Highlighted: *{{ last_highlight_at }}*
+{%- if summary %}
+Summary: {{ summary }}
+{%- endif %}
+
+---
+
+{%- if document_note %}
+# Document Note
+
+{{ document_note }}
+{%- endif %}
+
+# Highlights
+`,
+    highlightTemplate: `{{ text }}{%- if category == 'books' %} ([{{ location }}]({{ location_url }})){%- endif %}{%- if color %} %% Color: {{ color }} %%{%- endif %} ^{{id}}{%- if note %}
+
+Note: {{ note }}
+{%- endif %}{%- if tags %}
+
+Tags: {{ tags }}
+{%- endif %}{%- if url %}
+
+[View Highlight]({{ url }})
+{%- endif %}
+
+---
+`,
+    useSlugify: false,
+    slugifySeparator: '-',
+    slugifyLowercase: true,
+    trackFiles: true,
+    trackingProperty: 'uri',
+    trackAcrossVault: false,
+    deleteDuplicates: false,
+    enableFileNameUpdates: false,
+    protectFrontmatter: false,
+    protectedFields: 'connections\nstatus\ntags',
+    updateFrontmatter: true,
+    syncPropertiesToReadwise: false,
+    titleProperty: 'title',
+    authorProperty: 'author',
+    debugMode: false,
+    useCustomFilename: false,
+    filenameTemplate: '{{title}}',
+    filterNotesByTag: false,
+    filteredTags: [],
+};
+const FRONTMATTER_TO_ESCAPE = ['title', 'sanitized_title', 'author', 'authorStr'];
+const EMPTY_FRONTMATTER = '---\n---\n';
+// Core Template
+const NUNJUCKS_CORE_TEMPLATE = `{%- block header -%}
+{#- Render the header using the header template -#}
+{%- set id = doc.id -%}
+{%- set highlights_url = doc.readwise_url -%}
+{%- set unique_url = doc.unique_url -%}
+{%- set source_url = doc.source_url -%}
+{%- set title = doc.title -%}
+{%- set sanitized_title = doc.sanitized_title -%}
+{%- set author = doc.author -%}
+{%- set authorStr = doc.authorStr -%}
+{%- set document_note = doc.document_note -%}
+{%- set summary = doc.summary -%}
+{%- set category = doc.category -%}
+{%- set num_highlights = doc.num_highlights -%}
+{%- set created = doc.created -%}
+{%- set updated = doc.updated -%}
+{%- set cover_image_url = doc.cover_image_url -%}
+{%- set last_highlight_at = doc.last_highlight_at -%}
+{%- set tags = doc.tags -%}
+{%- set highlight_tags = doc.highlight_tags -%}
+{%- set tags_nohash = doc.tags_nohash -%}
+{%- set hl_tags_nohash = doc.hl_tags_nohash -%}
+{%- include headerTemplate ignore missing -%}
+{%- endblock header -%}
+{%- block highlights -%}
+  {%- for highlight in highlights -%}
+  {#- Render each highlight using the highlight template -#}
+  {#- The parent context (book) is available in the highlight template -#}
+  {#- We have to set the variables here as context for the highlight template -#}
+    {%- set id = highlight.id %}
+    {%- set text = highlight.text %}
+    {%- set note = highlight.note %}
+    {%- set location = highlight.location %}
+    {%- set locationUrl = highlight.location_url %}
+    {%- set location_url = highlight.location_url %}
+    {%- set url = highlight.url %}
+    {%- set color = highlight.color %}
+    {%- set created_at = highlight.created_at | date("YYYY-MM-DD") %}
+    {%- set updated_at = highlight.updated_at | date("YYYY-MM-DD") %}
+    {%- set highlighted_at = highlight.highlighted_at | date("YYYY-MM-DD") %}
+    {%- set tags = highlight.tags %}
+    {%- set category = book.category -%}
+  {% include highlightTemplate ignore missing %}
+  {%- endfor -%}
+{%- endblock highlights -%}`;
+// YAML options
+const YAML_INDENT = '  ';
+// Other options
+const AUTHOR_SEPARATORS = /(?:,\s*and\s*)|(?:\s+and\s+)|(?:,\s*)/;
+const READWISE_REVIEW_URL_BASE = 'https://readwise.io/bookreview/';
+const READWISE_URI_FIELD = 'readwise_url';
+
 /**
- * FrontmatterUtils.ts
+ *  Normalizes the filename by replacing critical characters
+ *  and ensuring it is a valid filename
+ * @param filename - The filename to normalize
+ * @returns The normalized filename
  */
-/**
- * Sanitizes the frontmatter template by removing delimiters and trimming whitespace
- * @param template - Frontmatter template to sanitize
- * @returns Sanitized frontmatter template
- */
-function sanitizeFrontmatterTemplate(template) {
-    let sanitizedTemplate = template;
-    // Ensure frontmatter delimiters are removed
-    sanitizedTemplate = sanitizedTemplate.replaceAll(`${Frontmatter.DELIMITER}`, '');
-    // Trim leading/trailing whitespace
-    sanitizedTemplate = sanitizedTemplate.trim();
-    return sanitizedTemplate;
+function normalizeFilename(filename, settings) {
+    const { useSlugify, colonSubstitute, slugifySeparator, slugifyLowercase } = settings;
+    const normalizedFilename = useSlugify
+        ? slugify(filename.replace(/:/g, colonSubstitute ?? '-'), {
+            separator: slugifySeparator,
+            lowercase: slugifyLowercase,
+        }).slice(0, 252)
+        : // ... else filenamify the title and limit to 252 characters (to account for the `.md` which will be added)
+            filenamify(filename.replace(/:/g, colonSubstitute ?? '-'), {
+                replacement: ' ',
+                maxLength: 252,
+            })
+                // Ensure we remove additional critical characters, replace multiple spaces with one, and trim
+                // Replace # as this interferes with WikiLinks (other characters are taken care of in "filenamify")
+                .replace(/[#]+/g, ' ')
+                .replace(/ +/g, ' ')
+                .trim();
+    return obsidian.normalizePath(normalizedFilename);
 }
 /**
- * Validates the frontmatter template
- * @param template - Frontmatter template to validate
- * @returns Validation result
+ * Check if a file is within a folder (including subfolders)
  */
-function validateFrontmatterTemplate(env, template) {
-    let renderedTemplate = '';
-    try {
-        renderedTemplate = env.renderString(sanitizeFrontmatterTemplate(template), escapeMetadata(sampleMetadata, FRONTMATTER_TO_ESCAPE));
-        obsidian.parseYaml(renderedTemplate);
-        return { isValidYaml: true };
-    }
-    catch (error) {
-        return {
-            isValidYaml: false,
-            error: `Invalid YAML or Template: ${error.message}`,
-            preview: renderedTemplate,
-        };
-    }
+function isFileInFolder(file, folder) {
+    return file.path.startsWith(`${folder.path}/`);
 }
 /**
- * Analyzes a string for YAML frontmatter characteristics
- * @param value - String to analyze
- * @returns Analysis of string characteristics
+ * Check if a folder is in the Readwise library hierarchy
  */
-function analyzeString(value) {
-    if (!value) {
-        return {
-            hasSingleQuotes: false,
-            hasDoubleQuotes: false,
-            isValueEscapedAlready: false,
-        };
-    }
-    return {
-        hasSingleQuotes: value.includes("'"),
-        hasDoubleQuotes: value.includes('"'),
-        isValueEscapedAlready: isStringEscaped(value),
-    };
-}
-/**
- * Checks if a string is already escaped
- * @param value - String to check
- */
-function isStringEscaped(value) {
-    if (value.length <= 1)
+function isFolderInReadwiseLibrary(folder, ctx) {
+    const baseFolderName = obsidian.normalizePath(ctx.settings.baseFolderName?.trim() ?? '');
+    if (!baseFolderName)
         return false;
-    return (value.startsWith("'") && value.endsWith("'")) || (value.startsWith('"') && value.endsWith('"'));
+    // Check if folder is the base folder or anywhere within its hierarchy
+    return folder.path === baseFolderName || folder.path.startsWith(`${baseFolderName}/`);
 }
 /**
- * Handles multiline string formatting
- * @param value - String to format
- * @returns Formatted multiline string
+ * Get tracking URL from a file's frontmatter
  */
-function formatMultilineString(value) {
-    return `>-\n${YAML_INDENT}${value.replace(/\n/g, `\n${YAML_INDENT}`)}`;
-}
-/**
- * Escapes a value for YAML frontmatter
- * @param value - Value to escape
- * @param options - Escape options
- */
-function escapeValue(value, { multiline = false } = {}) {
-    if (!value)
-        return '""';
-    if (analyzeString(value).isValueEscapedAlready)
-        return value;
-    if (value.includes('\n') && multiline) {
-        return formatMultilineString(value);
-    }
-    const cleanValue = normalizeString(value);
-    return quoteString(cleanValue);
-}
-/**
- * Normalizes a string by cleaning whitespace
- */
-function normalizeString(value) {
-    return value.replace(/\n/g, ' ').replace(/\s+/g, ' ').trim();
-}
-/**
- * Applies appropriate quoting to a string
- */
-function quoteString(value) {
-    const state = analyzeString(value);
-    if (!state.hasSingleQuotes && !state.hasDoubleQuotes) {
-        return `"${value}"`;
-    }
-    if (state.hasDoubleQuotes && !state.hasSingleQuotes) {
-        return `'${value}'`;
-    }
-    if (state.hasSingleQuotes && !state.hasDoubleQuotes) {
-        return `"${value}"`;
-    }
-    return `"${value.replace(/"/g, '\\"')}"`;
-}
-// Before metadata is used
-function escapeMetadata(metadata, fieldsToProcess) {
-    // Copy the metadata object to avoid modifying the original
-    const processedMetadata = { ...metadata };
-    for (const field of fieldsToProcess) {
-        if (field in processedMetadata && processedMetadata[field]) {
-            const key = field;
-            const value = processedMetadata[key];
-            if (Array.isArray(value)) {
-                processedMetadata[key] = value.map((item) => typeof item === 'string' ? escapeValue(item) : item);
-            }
-            else if (typeof value === 'string') {
-                processedMetadata[key] = escapeValue(value);
-            }
-        }
-    }
-    return processedMetadata;
-}
-
-class FrontmatterManager {
-    constructor(settings, logger, env, fm) {
-        this.settings = settings;
-        this.logger = logger;
-        this.env = env;
-        this.fm = fm;
-    }
-    /**
-     * Get updated and merged frontmatter based on a document's existing frontmatter
-     * @param file - Document to process
-     * @param existingFrontmatter? - Existing frontmatter cache (optional, default is none)
-     * @returns
-     */
-    getFrontmatter(file, existingFrontmatter = false) {
-        try {
-            /**
-             * We treat this differently by type
-             * - The BaseFile *updates* existing frontmatter from the Cache
-             * - The AtomicFile *updates* the parent frontmatter with its own template
-             **/
-            switch (file.type) {
-                case 'base': {
-                    const updatedFrontmatter = this.getBaseFrontmatter(file.doc);
-                    // Add tracking property if enabled
-                    if (this.settings.trackFiles)
-                        updatedFrontmatter.set(this.settings.trackingProperty, file.doc[READWISE_URI_FIELD]);
-                    // Only filter update if all conditions are fulfilled
-                    if (this.settings.frontMatter &&
-                        this.settings.updateFrontmatter &&
-                        this.settings.protectFrontmatter &&
-                        existingFrontmatter) {
-                        return this.filterProtectedFrontmatter(updatedFrontmatter);
-                    }
-                    return updatedFrontmatter;
-                }
-                case 'atom': {
-                    // Only add "parent frontmatter" if enabled
-                    let atomicFrontmatter = this.settings.atomicInheritParentFrontmatter
-                        ? this.getBaseFrontmatter(file.doc)
-                        : new Frontmatter();
-                    const currentFrontmatter = Frontmatter.fromString(file.frontmatter);
-                    const highlight = file.doc.highlights.find((h) => h.id === file.id);
-                    if (currentFrontmatter.keys().length > 0) {
-                        const filteredUpdates = this.settings.protectFrontmatter
-                            ? this.filterProtectedFrontmatter(currentFrontmatter)
-                            : currentFrontmatter;
-                        atomicFrontmatter = atomicFrontmatter.merge(filteredUpdates);
-                    }
-                    // Get readwise_url by finding the highlight with the corresponding ID – throw an error if not found
-                    atomicFrontmatter.set(this.settings.atomicParentProperty, file.doc[READWISE_URI_FIELD]);
-                    if (!highlight) {
-                        throw new Error(`Highlight with id ${file.id} not found while building atomic frontmatter.`);
-                    }
-                    const highlightUri = highlight[READWISE_URI_FIELD];
-                    if (!highlightUri) {
-                        throw new Error(`Highlight with id ${file.id} is missing ${READWISE_URI_FIELD}.`);
-                    }
-                    atomicFrontmatter.set(this.settings.trackingProperty, highlightUri);
-                    return atomicFrontmatter;
-                }
-            }
-        }
-        catch (error) {
-            throw new FrontmatterError('Failed to update frontmatter', error);
-        }
-    }
-    /**
-     * Processes the frontmatter template according to the relevant settings and returns the raw frontmatter record
-     * @param metadata - The metadata to process
-     * @returns The frontmatter record
-     */
-    getBaseFrontmatter(metadata) {
-        // Render a template if frontmatter is managed or file tracking is set
-        if (!this.settings.frontMatter && !this.settings.trackFiles) {
-            return new Frontmatter();
-        }
-        try {
-            // Get frontmatter template string
-            // Add Sync properties
-            const frontmatterTemplate = this.settings.frontMatter ? this.settings.frontMatterTemplate : EMPTY_FRONTMATTER;
-            this.logger.debug(`Processing merged frontmatter template\n${frontmatterTemplate}`);
-            // Render and parse the template into YAML
-            const template = new nunjucksExports.Template(frontmatterTemplate, this.env, null, true);
-            const renderedTemplate = template
-                .render(escapeMetadata(metadata, FRONTMATTER_TO_ESCAPE))
-                .replaceAll(Frontmatter.DELIMITER, '')
-                .trim();
-            const yaml = obsidian.parseYaml(renderedTemplate);
-            return new Frontmatter(yaml);
-        }
-        catch (error) {
-            if (error instanceof Error) {
-                this.logger.error('Error processing frontmatter template:', error.message);
-                throw new FrontmatterError(`Failed to process frontmatter: ${error.message}`, error);
-            }
-            this.logger.error('Unknown error processing frontmatter:', error);
-            throw new FrontmatterError('Failed to process frontmatter due to unknown error', error);
-        }
-    }
-    /**
-     * Filters out protected fields from the frontmatter updates
-     * @param updates - The frontmatter updates to filter
-     * @returns Filtered frontmatter without protected fields
-     */
-    filterProtectedFrontmatter(updates) {
-        const protectedFields = this.settings.protectedFields
-            .split('\n')
-            .map((f) => f.trim())
-            .filter(Boolean);
-        // Using static methods from Frontmatter class
-        return Frontmatter.fromEntries(updates.entries().filter(([key]) => !protectedFields.includes(key)));
-    }
-    async writeUpdatedFrontmatter(file, updates) {
-        // File carries a reference to the vault
-        try {
-            await this.fm.processFrontMatter(file, (frontmatter) => {
-                // Biome doesn't like assing via { ... frontmatter, ...updates }
-                // Iterate over keys in updates and set them in frontmatter
-                for (const [key, value] of updates.entries()) {
-                    frontmatter[key] = value;
-                }
-            });
-        }
-        catch (error) {
-            throw new FrontmatterError('Failed to write frontmatter', error);
-        }
-    }
-}
-
-/**
- * Logger service
- * @module services/logger
- */
-class Logger {
-    constructor(debugMode) {
-        this.debugMode = debugMode;
-    }
-    group(label) {
-        if (this.debugMode)
-            console.group(`Readwise Mirror: ${label}`);
-    }
-    groupEnd() {
-        if (this.debugMode)
-            console.groupEnd();
-    }
-    setDebugMode(debugMode) {
-        this.debugMode = debugMode;
-    }
-    // biome-ignore lint/suspicious/noExplicitAny: console.debug accepts any type
-    debug(...messages) {
-        this.debugMode && console.debug('Readwise Mirror:', ...messages);
-    }
-    // biome-ignore lint/suspicious/noExplicitAny: console.info accepts any type
-    info(...messages) {
-        this.debugMode && console.info('Readwise Mirror:', ...messages);
-    }
-    // biome-ignore lint/suspicious/noExplicitAny: console.warn accepts any type
-    warn(...messages) {
-        console.warn('Readwise Mirror:', ...messages);
-    }
-    // biome-ignore lint/suspicious/noExplicitAny: console.error accepts any type
-    error(...messages) {
-        console.error('Readwise Mirror:', ...messages);
-    }
-    time(label) {
-        console.time(`Readwise Mirror: ${label}`);
-    }
-    // biome-ignore lint/suspicious/noExplicitAny: console.timeLog accepts any type
-    timeLog(label, ...messages) {
-        console.timeLog(`Readwise Mirror: ${label}`, ...messages);
-    }
-    timeEnd(label) {
-        console.timeEnd(`Readwise Mirror: ${label}`);
-    }
-}
-
-const API_ENDPOINT = 'https://readwise.io/api/v2';
-const API_PAGE_SIZE = 1000; // number of results per page, default 100 / max 1000
-class TokenValidationError extends Error {
-    constructor(message) {
-        super(message);
-        this.name = 'TokenValidationError';
-    }
-}
-/**
- * Readwise API class
- */
-class ReadwiseApi {
-    constructor(apiToken, notify, logger) {
-        this.apiToken = apiToken;
-        this.notify = notify;
-        this.logger = logger;
-        this.validateToken().then((isValid) => {
-            this.validToken = isValid;
-        });
-        if (!apiToken) {
-            throw new Error('API Token Required!');
-        }
-    }
-    /**
-     * Sets the API token for the Readwise API instance
-     * @param apiToken - The API token to set
-     */
-    setToken(apiToken) {
-        this.apiToken = apiToken;
-        this.validateToken()
-            .then((isValid) => {
-            this.validToken = isValid;
-        })
-            .catch((e) => {
-            this.logger.error(`Failed to set token: ${e.message}`);
-            this.validToken = false;
-        });
-    }
-    /**
-     * Returns the options object for the Readwise API instance
-     * @returns {Record<string, unknown>} - Returns an object containing the headers for the API request
-     */
-    get options() {
-        return {
-            headers: {
-                'Content-Type': 'application/json',
-                Authorization: `Token ${this.apiToken}`,
-            },
-        };
-    }
-    /**
-     * Returns the validation status of the API token
-     * @returns {boolean} - Returns a boolean indicating if the token is valid
-     */
-    hasValidToken() {
-        if (this.validToken === undefined) {
-            return false;
-        }
-        return this.validToken;
-    }
-    /**
-     * Checks if the token is valid by making a request to the Readwise API
-     * @returns {Promise<boolean>} - Returns a promise that resolves to a boolean indicating if the token is valid
-     */
-    async validateToken() {
-        try {
-            const response = await obsidian.requestUrl({ url: `${API_ENDPOINT}/auth`, ...this.options });
-            this.validToken = response.status === 204;
-            return this.validToken;
-        }
-        catch (error) {
-            throw new TokenValidationError(`Token validation failed: ${error instanceof Error ? error.message : String(error)}`);
-        }
-    }
-    /**
-     * Fetches data from the Readwise API - if lastUpdated or bookID aren't provided, fetch everything.
-     * @param contentType - The type of content to fetch from the API
-     * @param lastUpdated - The date to fetch updates from
-     * @param bookId - The ID of the book to fetch highlights from
-     * @returns {Promise<Export[]>} - Returns a promise that resolves to an array of Export objects
-     * @throws {Error} - Throws an error if the request fails
-     */
-    async fetchData(contentType = 'export', lastUpdated, bookId, includeDeleted) {
-        const url = `${API_ENDPOINT}/${contentType}?`;
-        let data;
-        let nextPageCursor;
-        const results = [];
-        this.logger.group(`Fetch Data: ${contentType}`);
-        this.logger.debug('Fetch parameters:', { lastUpdated, bookId, includeDeleted });
-        try {
-            while (true) {
-                const queryParams = new URLSearchParams();
-                queryParams.append('page_size', API_PAGE_SIZE.toString());
-                if (lastUpdated && lastUpdated !== '') {
-                    queryParams.append('updatedAfter', lastUpdated);
-                }
-                if (bookId) {
-                    queryParams.append('ids', bookId.toString());
-                }
-                if (nextPageCursor) {
-                    queryParams.append('pageCursor', nextPageCursor);
-                }
-                if (contentType === 'export' && includeDeleted) {
-                    queryParams.append('includeDeleted', 'true');
-                }
-                // Notify user of progress
-                if (lastUpdated)
-                    this.logger.info(`Checking for new content since ${lastUpdated}`);
-                if (bookId)
-                    this.logger.debug(`Checking for all highlights on book ID: ${bookId}`);
-                let statusBarText = `Readwise: Fetching ${contentType}`;
-                if (data?.count)
-                    statusBarText += ` (${results.length})`;
-                this.notify.setStatusBarText(statusBarText);
-                // FIXME: When fetching very long period of data, the request might fail due to an URL which is too long (Error 414)
-                const response = await obsidian.requestUrl({ url: url + queryParams.toString(), ...this.options });
-                data = response.json;
-                if (!response && response.status !== 429) {
-                    this.logger.error(`Failed to fetch data. Status: ${response.status}`);
-                    throw new Error(`Failed to fetch data. Status: ${response.status}`);
-                }
-                if (response.status === 429) {
-                    // Error handling for rate limit throttling
-                    let rateLimitedDelayTime = Number.parseInt(response.headers['Retry-After'], 10) * 1000 + 1000;
-                    if (Number.isNaN(rateLimitedDelayTime)) {
-                        // Default to a 1-second delay if 'Retry-After' is missing or invalid
-                        this.logger.warn("'Retry-After' header is missing or invalid. Defaulting to 1 second delay.");
-                        rateLimitedDelayTime = 1000;
-                    }
-                    else {
-                        this.logger.warn(`API Rate Limited, waiting to retry for ${rateLimitedDelayTime}`);
-                    }
-                    this.notify.setStatusBarText(`Readwise: API Rate Limited, waiting ${rateLimitedDelayTime}`);
-                    await new Promise((_) => setTimeout(_, rateLimitedDelayTime));
-                    this.logger.info('Trying to fetch highlights again...');
-                    this.notify.setStatusBarText('Readwise: Attempting to retry...');
-                }
-                else {
-                    if (data.results && Array.isArray(data.results)) {
-                        results.push(...data.results);
-                    }
-                    else {
-                        this.logger.warn('No results found in the response data.');
-                    }
-                    nextPageCursor = data.nextPageCursor;
-                    if (!nextPageCursor) {
-                        break;
-                    }
-                    this.logger.debug(`There are more records left, proceeding to next page: ${data.nextPageCursor}`);
-                }
-            }
-        }
-        finally {
-            this.logger.groupEnd();
-        }
-        if (results.length > 0)
-            this.logger.info(`Processed ${results.length} total ${contentType} results successfully`);
-        return results;
-    }
-    /**
-     * Builds a library object from the fetched data
-     * @param results - The fetched data from the Readwise API
-     * @returns {Promise<Library>} - Returns a promise that resolves to a Library object
-     */
-    async buildLibrary(results) {
-        const library = {
-            categories: new Set(),
-            books: {},
-            highlightCount: 0,
-        };
-        // Sort results by user_book_id ascending
-        const sortedResults = [...results].sort((a, b) => a.user_book_id - b.user_book_id);
-        for (const record of sortedResults) {
-            library.books[record.user_book_id] = record;
-            library.categories.add(record.category);
-            library.highlightCount += record.highlights.length;
-        }
-        return library;
-    }
-    /**
-     * Fetches all highlights from Readwise API
-     * @returns {Promise<Library>} - Returns a promise that resolves to a Library object
-     */
-    async downloadFullLibrary() {
-        const records = (await this.fetchData('export', undefined, undefined, true));
-        return this.buildLibrary(records);
-    }
-    /**
-     * Fetches updates from Readwise API
-     * @param lastUpdated - The date to fetch updates from
-     * @returns {Promise<Library>} - Returns a promise that resolves to a Library object
-     */
-    async downloadUpdates(lastUpdated) {
-        // Fetch updated books and then fetch all their highlights
-        const recordsUpdated = (await this.fetchData('export', lastUpdated, undefined, true));
-        const bookIds = recordsUpdated.map((r) => r.user_book_id);
-        this.logger.debug(`Fetched ids of ${bookIds.length} updated books...`);
-        if (bookIds.length > 0) {
-            const CHUNK = 100;
-            let merged = [];
-            for (let i = 0; i < bookIds.length; i += CHUNK) {
-                const chunk = bookIds.slice(i, i + CHUNK);
-                const page = (await this.fetchData('export', undefined, chunk, true));
-                merged = merged.concat(page);
-            }
-            return this.buildLibrary(merged);
-        }
-        // Essentially return an empty library
-        return this.buildLibrary(recordsUpdated);
-    }
-    /**
-     * Fetches single book from Readwise API
-     * @param bookId - The ID of the book to fetch
-     * @returns {Promise<Library>} - Returns a promise that resolves to a Library object
-     */
-    async downloadSingleBook(bookId) {
-        // Fetch single book and return library
-        const recordsUpdated = (await this.fetchData('export', undefined, [bookId], true));
-        return this.buildLibrary(recordsUpdated);
-    }
-}
-
-/**
- * Custom Nunjucks Loader for Readwise templates
- * Extends the base Loader to load templates from a provided mapping "in memory"
- */
-class ReadwiseLoader extends nunjucksExports.Loader {
-    constructor(templates = {}) {
-        super();
-        this.templates = templates;
-    }
-    setSource(name, src) {
-        this.templates[name] = src;
-        this.emit('update', name);
-    }
-    getSource(name) {
-        // Custom logic to retrieve the template source by name
-        if (this.templates[name]) {
-            return {
-                src: this.templates[name],
-                path: name,
-                noCache: true,
-            };
-        }
-        return null;
-    }
-}
-/**
- * Custom Nunjucks environment with Readwise-specific filters
- * Extends the base Environment to add custom filters for formatting content
- */
-class ReadwiseEnvironment extends nunjucksExports.Environment {
-    constructor(loader, opts) {
-        super(loader, { ...opts, autoescape: false });
-        this.atoms = [];
-        this.setupFilters();
-        this.addExtension('AtomizeExtension', new AtomizeExtension(this.atoms, 'FIRST'));
-    }
-    /**
-     * Initialize custom filters for the Readwise environment
-     */
-    setupFilters() {
-        // Convert newlines to blockquotes
-        this.addFilter('bq', (str) => {
-            if (typeof str !== 'string')
-                return str;
-            return str
-                .split(/\r?\n/)
-                .map((line) => `> ${line}`)
-                .join('\r\n');
-        });
-        // Test if string contains .qa
-        this.addFilter('is_qa', (str) => {
-            if (typeof str !== 'string')
-                return false;
-            return str.includes('.qa');
-        });
-        // Convert .qa format to Q&A format
-        this.addFilter('qa', (str) => {
-            if (typeof str !== 'string')
-                return str;
-            return str.replace(/\.qa(.*)\?(.*)/g, '**Q:**$1?\r\n\r\n**A:**$2');
-        });
-        // Add a date filter
-        this.addFilter('date', (date, format) => {
-            return obsidian.moment(date).format(format);
-        });
-        // Add a filter to normalize author names by removing titles like dr. prof. etc.
-        this.addFilter('normalize_author', (author) => {
-            const normalize = (a) => a
-                .replace(/\b(dr|drs|prof|professor|sir|lord|lady|dame|ms|miss|mrs|mr|mx|lt|col)\b\.?/gi, '')
-                .replace(/\s+/g, ' ')
-                .trim();
-            if (typeof author === 'string') {
-                return normalize(author);
-            }
-            if (Array.isArray(author)) {
-                return author.map(normalize);
-            }
-            return author;
-        });
-        // biome-ignore lint/suspicious/noExplicitAny: stringifyYaml is accepting `any`
-        this.addFilter('fme', (value) => {
-            // Return if null/undefined
-            if (value === null || value === undefined) {
-                return null;
-            }
-            // This is a bit of a hack, but a realiable way to get multi-line yaml right
-            const _key = md5(value);
-            const _value = obsidian.stringifyYaml({ [_key]: value })
-                .replace(`${_key}: `, '')
-                .trim();
-            // If `stringifyYaml` doesn't return a multi-line YAML line, we return it as one
-            if (_value.includes('\n') && _value.indexOf('|') !== 0) {
-                return `|-\n${YAML_INDENT}${_value}\n`;
-            }
-            // Ensure we properly return the value with a leading space
-            return ` ${_value}`;
-        });
-    }
+function getTrackingUrl(file, ctx) {
+    const fileCache = ctx.app.metadataCache.getFileCache(file);
+    const trackingProperty = ctx.settings.trackingProperty;
+    const trackingUrl = fileCache?.frontmatter?.[trackingProperty];
+    return typeof trackingUrl === 'string' && trackingUrl.startsWith(READWISE_REVIEW_URL_BASE) ? trackingUrl : undefined;
 }
 
 const MSEC_IN_HOUR = 60 * 60 * 1000;
@@ -13336,32 +13889,2420 @@ main.version = version;
 //aliases:
 main.plugin = main.extend;
 
-class ConfirmDialog extends obsidian.Modal {
-    constructor(app, title, prompt, onSubmit) {
-        super(app);
-        this.titleEl.setText(title);
-        if (typeof prompt === 'string') {
-            this.contentEl.createEl('p', {
-                text: prompt,
-            });
+/**
+ * Convert lastUpdated string to human readable format
+ * @param lastUpdated
+ * @returns Human readable format of lastUpdated
+ */
+function humanReadableFormat(lastUpdated) {
+    if (!lastUpdated)
+        return '';
+    return main.now().since(main(lastUpdated)).rounded;
+}
+
+/**
+ * Determines whether a file is a Readwise-tracked note by checking a configured frontmatter property.
+ *
+ * Checks the frontmatter property named by `settings.trackingProperty` and returns true if its string value starts with `READWISE_REVIEW_URL_BASE`.
+ * Returns false for a falsy `file`, a missing or non-string property, or a value that does not start with the Readwise base URL.
+ *
+ * @param settings - Plugin settings; `settings.trackingProperty` is the frontmatter key to inspect.
+ * @returns True if the file is tracked by Readwise, otherwise false.
+ */
+function isTrackedReadwiseNote(file, app, settings) {
+    if (!file) {
+        return false;
+    }
+    const trackingProperty = settings.trackingProperty;
+    const fileCache = app.metadataCache.getFileCache(file);
+    const frontmatterValue = fileCache?.frontmatter?.[trackingProperty];
+    if (typeof frontmatterValue !== 'string') {
+        return false;
+    }
+    return frontmatterValue.startsWith(READWISE_REVIEW_URL_BASE);
+}
+/**
+ * Returns whether a file is located inside the configured Readwise library folder.
+ *
+ * Traverses the file's parent folders upward and compares each folder's path to
+ * `settings.baseFolderName` (trimmed). If `file` is falsy or `settings.baseFolderName`
+ * is empty after trimming, the function returns false.
+ *
+ * @param file - The file to check (may be null/undefined).
+ * @param settings - Plugin settings; `baseFolderName` is used (whitespace trimmed) as the root folder name to match.
+ * @returns True if an ancestor folder's path equals the configured base folder name; otherwise false.
+ */
+function isInReadwiseLibrary(file, settings) {
+    if (!file)
+        return false;
+    const baseFolderName = settings.baseFolderName?.trim();
+    if (!baseFolderName)
+        return false;
+    let currentFolder = file.parent;
+    while (currentFolder) {
+        if (currentFolder.path === baseFolderName) {
+            return true;
         }
-        else {
-            this.contentEl.appendChild(prompt);
-        }
-        new obsidian.Setting(this.contentEl)
-            .addButton((btn) => btn
-            .setButtonText('OK')
-            .setCta()
-            .onClick(() => {
-            this.close();
-            onSubmit(true);
-        }))
-            .addButton((btn) => btn.setButtonText('Cancel').onClick(() => {
-            this.close();
-            onSubmit(false);
-        }));
+        currentFolder = currentFolder.parent;
+    }
+    return false;
+}
+
+const API_ENDPOINT = 'https://readwise.io/api/v2';
+const API_PAGE_SIZE = 1000; // number of results per page, default 100 / max 1000
+const MAX_RATE_LIMIT_RETRIES = 5;
+class TokenValidationError extends Error {
+    constructor(message) {
+        super(message);
+        this.name = 'TokenValidationError';
     }
 }
+/**
+ * Readwise API class
+ */
+class ReadwiseApi {
+    static async validateTokenValue(apiToken) {
+        if (!apiToken) {
+            return false;
+        }
+        try {
+            const response = await obsidian.requestUrl({
+                url: `${API_ENDPOINT}/auth`,
+                headers: {
+                    'Content-Type': 'application/json',
+                    Authorization: `Token ${apiToken}`,
+                },
+            });
+            return response.status === 204;
+        }
+        catch (error) {
+            throw new TokenValidationError(`Token validation failed: ${error instanceof Error ? error.message : String(error)}`);
+        }
+    }
+    constructor(ctx) {
+        this.ctx = ctx;
+        if (!ctx.settings.apiToken) {
+            throw new Error('API Token Required!');
+        }
+    }
+    // The only way to create an instance
+    static async create(ctx) {
+        const api = new ReadwiseApi(ctx);
+        await api.validateToken(); // Await validation before returning
+        return api;
+    }
+    isExportRecord(value) {
+        return (typeof value === 'object' &&
+            value !== null &&
+            'user_book_id' in value &&
+            'highlights' in value &&
+            Array.isArray(value.highlights));
+    }
+    /**
+     * Returns the options object for the Readwise API instance
+     * @returns {Record<string, unknown>} - Returns an object containing the headers for the API request
+     */
+    get options() {
+        return {
+            headers: {
+                'Content-Type': 'application/json',
+                Authorization: `Token ${this.ctx.settings.apiToken}`,
+            },
+        };
+    }
+    /**
+     * Returns the validation status of the API token
+     * @returns {boolean} - Returns a boolean indicating if the token is valid
+     */
+    hasValidToken() {
+        if (this.validToken === undefined) {
+            return false;
+        }
+        return this.validToken;
+    }
+    /**
+     * Checks if the token is valid by making a request to the Readwise API
+     * @returns {Promise<boolean>} - Returns a promise that resolves to a boolean indicating if the token is valid
+     */
+    async validateToken() {
+        try {
+            const response = await obsidian.requestUrl({ url: `${API_ENDPOINT}/auth`, ...this.options });
+            this.validToken = response.status === 204;
+            return this.validToken;
+        }
+        catch (error) {
+            throw new TokenValidationError(`Token validation failed: ${error instanceof Error ? error.message : String(error)}`);
+        }
+    }
+    /**
+     * Fetches data from the Readwise API - if lastUpdated or bookID aren't provided, fetch everything.
+     * @param contentType - The type of content to fetch from the API
+     * @param lastUpdated - The date to fetch updates from
+     * @param bookId - The ID of the book to fetch highlights from
+     * @returns {Promise<Export[]>} - Returns a promise that resolves to an array of Export objects
+     * @throws {Error} - Throws an error if the request fails
+     */
+    async fetchData(contentType = 'export', lastUpdated, bookId, includeDeleted) {
+        const url = `${API_ENDPOINT}/${contentType}?`;
+        let data;
+        let nextPageCursor;
+        let rateLimitRetries = 0;
+        const results = [];
+        this.ctx.logger.group(`Fetch Data: ${contentType}`);
+        this.ctx.logger.debug('Fetch parameters:', { lastUpdated, bookId, includeDeleted });
+        try {
+            while (true) {
+                const queryParams = new URLSearchParams();
+                queryParams.append('page_size', API_PAGE_SIZE.toString());
+                if (lastUpdated && lastUpdated !== '') {
+                    queryParams.append('updatedAfter', lastUpdated);
+                }
+                if (bookId && bookId.length > 0) {
+                    queryParams.append('ids', bookId.join(','));
+                }
+                if (nextPageCursor) {
+                    queryParams.append('pageCursor', nextPageCursor);
+                }
+                if (contentType === 'export' && includeDeleted) {
+                    queryParams.append('includeDeleted', 'true');
+                }
+                // Notify user of progress
+                if (lastUpdated)
+                    this.ctx.logger.debug(`Checking for new content since ${lastUpdated}`);
+                if (bookId && bookId.length > 0) {
+                    this.ctx.logger.debug(`Checking for all highlights on book IDs: ${bookId.join(',')}`);
+                }
+                let statusBarText = `Readwise: Fetching ${contentType}`;
+                if (data?.count)
+                    statusBarText += ` (${results.length})`;
+                this.ctx.setStatusBarText(statusBarText);
+                // FIXME: When fetching very long period of data, the request might fail due to an URL which is too long (Error 414)
+                const response = await obsidian.requestUrl({ url: url + queryParams.toString(), ...this.options });
+                const pageData = response.json;
+                data = pageData;
+                if (response.status !== 429 && (response.status < 200 || response.status >= 300)) {
+                    this.ctx.logger.error(`Failed to fetch data. Status: ${response.status}`);
+                    throw new Error(`Failed to fetch data. Status: ${response.status}`);
+                }
+                if (response.status === 429) {
+                    rateLimitRetries++;
+                    if (rateLimitRetries > MAX_RATE_LIMIT_RETRIES) {
+                        throw new Error(`Rate limit exceeded after ${MAX_RATE_LIMIT_RETRIES} retries for ${contentType}`);
+                    }
+                    // Error handling for rate limit throttling
+                    let rateLimitedDelayTime = Number.parseInt(response.headers['Retry-After'], 10) * 1000 + 1000;
+                    if (Number.isNaN(rateLimitedDelayTime)) {
+                        // Default to a 1-second delay if 'Retry-After' is missing or invalid
+                        this.ctx.logger.warn("'Retry-After' header is missing or invalid. Defaulting to 1 second delay.");
+                        rateLimitedDelayTime = 1000;
+                    }
+                    else {
+                        this.ctx.logger.warn(`API Rate Limited, waiting to retry for ${rateLimitedDelayTime} (attempt ${rateLimitRetries}/${MAX_RATE_LIMIT_RETRIES})`);
+                    }
+                    this.ctx.setStatusBarText(`Readwise: API Rate Limited, waiting ${rateLimitedDelayTime}`);
+                    await new Promise((resolve) => window.setTimeout(resolve, rateLimitedDelayTime));
+                    this.ctx.logger.debug(`Trying to fetch highlights again... (attempt ${rateLimitRetries}/${MAX_RATE_LIMIT_RETRIES})`);
+                    this.ctx.setStatusBarText('Readwise: Attempting to retry...');
+                }
+                else {
+                    const pageResults = pageData.results;
+                    if (Array.isArray(pageResults)) {
+                        const exports$1 = pageResults.filter((item) => this.isExportRecord(item));
+                        results.push(...exports$1);
+                    }
+                    else {
+                        this.ctx.logger.warn('No results found in the response data.');
+                    }
+                    const rawNextPageCursor = pageData.nextPageCursor;
+                    nextPageCursor = typeof rawNextPageCursor === 'string' ? rawNextPageCursor : '';
+                    if (!nextPageCursor) {
+                        break;
+                    }
+                    this.ctx.logger.debug(`There are more records left, proceeding to next page: ${nextPageCursor}`);
+                }
+            }
+        }
+        finally {
+            this.ctx.logger.groupEnd();
+        }
+        if (results.length > 0)
+            this.ctx.logger.debug(`Processed ${results.length} total ${contentType} results successfully`);
+        return results;
+    }
+    /**
+     * Builds a library object from the fetched data
+     * @param results - The fetched data from the Readwise API
+     * @returns {Promise<Library>} - Returns a promise that resolves to a Library object
+     */
+    async buildLibrary(results) {
+        const library = {
+            categories: new Set(),
+            books: {},
+            highlightCount: 0,
+        };
+        // Sort results by user_book_id ascending
+        const sortedResults = [...results].sort((a, b) => a.user_book_id - b.user_book_id);
+        for (const record of sortedResults) {
+            library.books[record.user_book_id] = record;
+            library.categories.add(record.category);
+            library.highlightCount += record.highlights.length;
+        }
+        return library;
+    }
+    /**
+     * Fetches all highlights from Readwise API
+     * @returns {Promise<Library>} - Returns a promise that resolves to a Library object
+     */
+    async downloadFullLibrary() {
+        const records = await this.fetchData('export', undefined, undefined, true);
+        return this.buildLibrary(records);
+    }
+    /**
+     * Fetches updates from Readwise API
+     * @param lastUpdated - The date to fetch updates from
+     * @returns {Promise<Library>} - Returns a promise that resolves to a Library object
+     */
+    async downloadUpdates(lastUpdated) {
+        // Fetch updated books and then fetch all their highlights
+        const recordsUpdated = await this.fetchData('export', lastUpdated, undefined, true);
+        const bookIds = recordsUpdated.map((r) => r.user_book_id);
+        this.ctx.logger.debug(`Fetched ids of ${bookIds.length} updated books...`);
+        if (bookIds.length > 0) {
+            return await this.downloadMultipleBooks(bookIds);
+        }
+        // Essentially return an empty library
+        return this.buildLibrary(recordsUpdated);
+    }
+    /**
+     * Fetches multiple books from Readwise API (in chunks, sequentially)
+     * @param bookIds - Array of book IDs to fetch
+     * @returns {Promise<Library>} - Returns a promise that resolves to a Library object containing the fetched books
+     */
+    async downloadMultipleBooks(bookIds) {
+        // Fetch multiple books in chunks sequentially to avoid freezing
+        const CHUNK = 100;
+        let merged = [];
+        for (let i = 0; i < bookIds.length; i += CHUNK) {
+            const chunk = bookIds.slice(i, i + CHUNK);
+            const page = await this.fetchData('export', undefined, chunk, true);
+            merged = merged.concat(page);
+        }
+        return this.buildLibrary(merged);
+    }
+    /**
+     * Fetches single book from Readwise API
+     * @param bookId - The ID of the book to fetch
+     * @returns {Promise<Library>} - Returns a promise that resolves to a Library object
+     */
+    async downloadSingleBook(bookId) {
+        // Fetch single book and return library
+        const recordsUpdated = await this.fetchData('export', undefined, [bookId], true);
+        return this.buildLibrary(recordsUpdated);
+    }
+}
+
+/**
+ * Controller class managing Readwise API interactions and sync operations
+ * Singleton pattern to ensure only one instance exists
+ */
+class Controller {
+    constructor(plugin, ctx) {
+        this.plugin = plugin;
+        this.ctx = ctx;
+    }
+    static async initialize(plugin, ctx) {
+        if (!Controller.instance) {
+            Controller.instance = new Controller(plugin, ctx);
+        }
+        // Always (re)create or refresh the API instance so methods can safely assume `this.api` exists.
+        try {
+            Controller.instance.api = await ReadwiseApi.create(ctx);
+        }
+        catch (err) {
+            // Keep instance but log/notify — callers must still check api presence/validity.
+            Controller.instance.ctx.logger.error('ReadwiseController: failed to create API instance', err);
+            Controller.instance.ctx.notice('Readwise: Failed to initialize API. Check settings.');
+            Controller.instance.api = undefined;
+        }
+        return Controller.instance;
+    }
+    // Check if a valid API instance exists (safe)
+    static async validateAPIInstance() {
+        const instance = Controller.instance;
+        if (!instance)
+            return false;
+        if (!instance.api) {
+            try {
+                instance.api = await ReadwiseApi.create(instance.ctx);
+            }
+            catch (err) {
+                instance.ctx.logger.error('validateAPIInstance: failed to create API', err);
+                return false;
+            }
+        }
+        try {
+            return !!(await instance.api.validateToken());
+        }
+        catch (err) {
+            instance.ctx.logger.warn('validateAPIInstance: token validation failed', err);
+            return false;
+        }
+    }
+    async sync() {
+        // Equivalent to plugin.sync()
+        if (this.ctx.syncLock?.isAcquired('library-sync')) {
+            this.ctx.notice('Sync already in progress');
+            return;
+        }
+        await this.ctx.syncLock?.acquire('library-sync');
+        try {
+            let library;
+            if (!this.ctx.settings.lastUpdated) {
+                if (this.ctx.settings.syncNotifications)
+                    this.ctx.notice('Readwise: Downloading full Readwise library');
+                if (!(await Controller.validateAPIInstance())) {
+                    this.ctx.notice('Readwise: Network connection and valid API Token required');
+                    return;
+                }
+                library = await this.api.downloadFullLibrary();
+            }
+            else {
+                if (this.ctx.settings.syncNotifications) {
+                    this.ctx.notice(`Readwise: Checking for new updates since ${humanReadableFormat(this.ctx.settings.lastUpdated)}...`);
+                }
+                if (!(await Controller.validateAPIInstance())) {
+                    this.ctx.notice('Readwise: Network connection and valid API Token required');
+                    return;
+                }
+                library = await this.api.downloadUpdates(this.ctx.settings.lastUpdated);
+            }
+            // ...existing filtering and writing logic...
+            await this.plugin.writeLibraryToMarkdown(library);
+            if (this.ctx.settings.logFile)
+                await this.plugin.writeLogToMarkdown(library);
+            this.ctx.settings.lastUpdated = new Date().toISOString();
+            await this.ctx.saveAndApplySettings();
+            this.ctx.setStatusBarText(`Readwise: Synced ${humanReadableFormat(this.ctx.settings.lastUpdated)}`);
+        }
+        catch (error) {
+            this.ctx.logger.error('Error during sync:', error);
+            this.ctx.notice(`Readwise: Sync failed. ${error}`);
+            this.ctx.setStatusBarText(`Readwise: Sync error ${error}`);
+        }
+        finally {
+            this.ctx.syncLock?.release('library-sync');
+        }
+    }
+    async deleteLibrary() {
+        // Equivalent to plugin.deleteLibrary()
+        const vault = this.ctx.app.vault;
+        const path = `${this.ctx.settings.baseFolderName}`;
+        const abstractFile = vault.getAbstractFileByPath(path);
+        if (abstractFile) {
+            try {
+                this.ctx.logger.debug('Attempting to delete entire library at:', abstractFile);
+                await this.ctx.app.fileManager.trashFile(abstractFile);
+                this.ctx.settings.lastUpdated = null;
+                await this.ctx.saveAndApplySettings();
+                if (this.ctx.settings.syncNotifications)
+                    this.ctx.notice('Readwise: library folder deleted');
+            }
+            catch (err) {
+                this.ctx.logger.error(`Attempted to delete file ${path} but no file was found`, err);
+                if (this.ctx.settings.syncNotifications)
+                    this.ctx.notice('Readwise: Error deleting library folder');
+            }
+        }
+        this.ctx.setStatusBarText('Readwise: Click to Sync');
+    }
+    /**
+     * Update current note with Readwise data
+     */
+    async updateSingleNote(trackedFile) {
+        if (this.ctx.syncLock.isAcquired(trackedFile.readwiseId.toString())) {
+            this.ctx.notice('Readwise: Update already in progress');
+            return;
+        }
+        if (!(await Controller.validateAPIInstance())) {
+            this.ctx.notice('Readwise: Network connection and valid API Token required');
+            return;
+        }
+        if (!trackedFile.isUpdatable) {
+            this.ctx.notice('Readwise: Current note is not a tracked Readwise note.');
+            return;
+        }
+        // Now that we are sure we can process the file, we acquire a lock for the specific note
+        this.ctx.logger.debug('Readwise: Updating single note...');
+        await this.ctx.syncLock.acquire(trackedFile.readwiseId.toString());
+        try {
+            this.ctx.logger.debug(`Readwise: downloading current book with ID ${trackedFile.readwiseId}...`);
+            const library = await this.api.downloadSingleBook(trackedFile.readwiseId);
+            if (Object.keys(library.books).length > 0) {
+                if (this.ctx.settings.atomicHighlights) {
+                    library.categories.add('Highlight');
+                }
+                await this.plugin.writeLibraryToMarkdown(library);
+                if (this.ctx.settings.logFile)
+                    await this.plugin.writeLogToMarkdown(library);
+                if (this.ctx.settings.syncNotifications)
+                    this.ctx.notice('Readwise: Book update complete.');
+            }
+            else {
+                this.ctx.notice(`Readwise: Note with id ${trackedFile.readwiseId} not found on Readwise.`);
+                this.ctx.logger.warn(`Readwise: Note with id ${trackedFile.readwiseId} not found on Readwise.`);
+                return;
+            }
+        }
+        catch (error) {
+            this.ctx.logger.error('Error during single-book update:', error);
+            this.ctx.notice(`Readwise: Sync failed. ${error}`);
+        }
+        finally {
+            // Make sure we release the lock even if the operation fails
+            this.ctx.syncLock.release(trackedFile.readwiseId.toString());
+        }
+    }
+    async updateAllFrontmatter() {
+        // Equivalent to plugin.updateAllFrontmatter()
+        if (this.ctx.syncLock?.isAcquired('frontmatter-update')) {
+            this.ctx.notice('Readwise: update already in progress');
+            return;
+        }
+        if (!(await Controller.validateAPIInstance())) {
+            this.ctx.notice('Readwise: Network connection and valid API Token required');
+            return;
+        }
+        this.ctx.notice('Readwise: Updating all note frontmatter...');
+        await this.ctx.syncLock?.acquire('frontmatter-update');
+        try {
+            this.ctx.logger.debug('Readwise: downloading full library to update frontmatter...');
+            const library = await this.api.downloadFullLibrary();
+            // ...existing filtering logic...
+            await this.plugin.processFrontmatterUpdatesInLibrary(library);
+            let message = `Readwise: Updated ${Object.keys(library.books).length} notes`;
+            if (this.ctx.settings.filterNotesByTag && this.ctx.settings.filteredTags?.length > 0) {
+                message += ` (filtered by tags: ${this.ctx.settings.filteredTags.join(', ')})`;
+            }
+            this.ctx.notice(message);
+        }
+        catch (error) {
+            this.ctx.logger.error('Error during frontmatter sync:', error);
+            this.ctx.notice(`Readwise: Sync failed. ${error}`);
+        }
+        finally {
+            this.ctx.syncLock?.release('frontmatter-update');
+        }
+    }
+    /**
+     * Handles the adjustment of filenames in the Readwise folder.
+     */
+    async handleFilenameAdjustment() {
+        if (this.ctx.syncLock?.isAcquired('filename-adjustment')) {
+            this.ctx.notice('Readwise: Filename adjustment already in progress');
+            return;
+        }
+        await this.ctx.syncLock?.acquire('filename-adjustment');
+        try {
+            const vault = this.ctx.app.vault;
+            const path = `${this.ctx.settings.baseFolderName}`;
+            const readwiseFolder = vault.getAbstractFileByPath(path);
+            if (readwiseFolder && readwiseFolder instanceof obsidian.TFolder) {
+                this.ctx.notice('Readwise: Filename adjustment started');
+                // Iterate all files in the Readwise folder and "fix" their names according to the current settings using
+                const renamedFiles = await this.iterativeReadwiseRenamer(readwiseFolder);
+                if (renamedFiles > 0) {
+                    this.ctx.notice(`Readwise: Renamed ${renamedFiles} files. Check console for renaming errors.`);
+                }
+                else {
+                    this.ctx.notice('Readwise: No files renamed. Check console for renaming errors.');
+                }
+            }
+        }
+        finally {
+            this.ctx.syncLock?.release('filename-adjustment');
+        }
+    }
+    /**
+     * Formats the filename of a Readwise note based on the settings.
+     *
+     * @param file The file to format.
+     */
+    async renameReadwiseNote(file) {
+        const newFilename = normalizeFilename(file.basename, this.ctx.settings);
+        // Only rename if there's a difference
+        if (newFilename !== file.basename) {
+            const parentPath = file.parent?.path ?? '';
+            const newPath = parentPath ? `${parentPath}/${newFilename}.md` : `${newFilename}.md`;
+            try {
+                await this.ctx.app.fileManager.renameFile(file, newPath);
+                this.ctx.logger.debug(`Renamed file '${file.name}' to '${newFilename}.md'`);
+                return true;
+            }
+            catch (error) {
+                this.ctx.logger.error(`Error renaming file: '${file.name}' to '${newFilename}.md': ${error}`);
+                return false;
+            }
+        }
+        return false;
+    }
+    /**
+     * Return a tracked file if the given file is a Readwise note that can be updated.
+     */
+    getUpdatableNote(file) {
+        if (!file)
+            return null;
+        if (!this.ctx.settings.trackFiles)
+            return null;
+        const isReadwiseNote = isTrackedReadwiseNote(file, this.ctx.app, this.ctx.settings);
+        const isInLibrary = isInReadwiseLibrary(file, this.ctx.settings);
+        // If trackAcrossVault is enabled, only check if it's a Readwise note.
+        // Otherwise, check if it's a Readwise note AND in the Readwise library.
+        const isUpdatable = this.ctx.settings.trackAcrossVault ? isReadwiseNote : isReadwiseNote && isInLibrary;
+        const trackingUrl = getTrackingUrl(file, this.ctx);
+        if (typeof trackingUrl !== 'string' || !trackingUrl.startsWith(READWISE_REVIEW_URL_BASE)) {
+            this.ctx.logger.warn('Tracking URL missing/invalid for current note.');
+            return null;
+        }
+        const idStr = trackingUrl.replace(READWISE_REVIEW_URL_BASE, ''); // Extract the ID from the URL
+        if (!/^\d+$/.test(idStr)) {
+            this.ctx.logger.warn(`Tracking URL in note is invalid (ID ${idStr} is not a valid number).`);
+            return null;
+        }
+        const readwiseId = Number(idStr);
+        // Construct tracked note
+        const trackedFile = {
+            ...file,
+            readwiseId,
+            isUpdatable,
+        };
+        return trackedFile;
+    }
+    /**
+     * Update all Readwise notes in a folder
+     */
+    async syncFolder(folder) {
+        if (this.ctx.syncLock.isAcquired('folder-sync')) {
+            this.ctx.notice('Readwise: sync already in progress');
+            return;
+        }
+        if (!(await Controller.validateAPIInstance())) {
+            this.ctx.notice('Readwise: Network connection and valid API Token required');
+            return;
+        }
+        await this.ctx.syncLock.acquire('folder-sync');
+        try {
+            // Get all markdown files in the folder (recursively)
+            // Get all markdown files in the folder and their tracked metadata
+            const trackedNotes = this.ctx.app.vault
+                .getFiles()
+                .filter((f) => f.extension === 'md' && f.parent && isFileInFolder(f, folder))
+                .map((f) => this.getUpdatableNote(f))
+                .filter((tracked) => tracked?.isUpdatable === true);
+            const bookIds = trackedNotes.map((tracked) => tracked.readwiseId);
+            try {
+                this.ctx.notice(`Readwise: Updating ${bookIds.length} note${bookIds.length !== 1 ? 's' : ''} in "${folder.name}"...`);
+                await this.updateMultipleNotes(bookIds);
+                this.ctx.notice(`Readwise: Updated ${bookIds.length} note${bookIds.length !== 1 ? 's' : ''} in "${folder.name}"`);
+            }
+            catch (error) {
+                this.ctx.logger.warn('Failed to update multiple files', error);
+            }
+        }
+        catch (error) {
+            this.ctx.logger.error('Error syncing folder:', error);
+            this.ctx.notice(`Readwise: Sync failed. ${error}`);
+        }
+        finally {
+            this.ctx.syncLock.release('folder-sync');
+        }
+    }
+    /**
+     * Iteratively renames files in the Readwise folder.
+     * @param folder - The folder to iterate through
+     * @returns
+     */
+    async iterativeReadwiseRenamer(folder) {
+        const files = folder.children;
+        let countRenamed = 0;
+        for (const file of files) {
+            if (file instanceof obsidian.TFolder) {
+                // Skip folders
+                countRenamed += await this.iterativeReadwiseRenamer(file);
+            }
+            if (file instanceof obsidian.TFile && file.extension === 'md') {
+                const result = await this.renameReadwiseNote(file);
+                if (result) {
+                    countRenamed++;
+                }
+            }
+        }
+        return countRenamed;
+    }
+    /**
+     * Update current note with Readwise data
+     */
+    async updateMultipleNotes(bookIds) {
+        if (this.ctx.syncLock.isAcquired('multiple-note-update')) {
+            this.ctx.notice('Readwise: Update for this note already in progress');
+            return;
+        }
+        if (!(await Controller.validateAPIInstance())) {
+            this.ctx.notice('Readwise: Network connection and valid API Token required');
+            return;
+        }
+        // Now that we are sure we can process the file, we acquire a lock for the specific note
+        this.ctx.logger.debug('Readwise: Updating multiple notes...');
+        await this.ctx.syncLock.acquire('multiple-note-update');
+        try {
+            const library = await this.api.downloadMultipleBooks(bookIds);
+            if (Object.keys(library.books).length > 0) {
+                if (this.ctx.settings.atomicHighlights) {
+                    library.categories.add('Highlight');
+                }
+                if (this.ctx.settings.syncNotifications)
+                    this.ctx.notice(`Readwise: writing ${Object.keys(library.books).length} updated books to markdown...`);
+                this.ctx.logger.debug(`Readwise: writing ${Object.keys(library.books).length} updated books to markdown...`);
+                await this.plugin.writeLibraryToMarkdown(library);
+                if (this.ctx.settings.logFile)
+                    await this.plugin.writeLogToMarkdown(library);
+                if (this.ctx.settings.syncNotifications)
+                    this.ctx.notice('Readwise: Book update complete.');
+            }
+            else {
+                this.ctx.notice('Readwise: No notes from folder found on Readwise.');
+                this.ctx.logger.warn('Readwise: No notes from folder found on Readwise.');
+                return;
+            }
+        }
+        catch (error) {
+            this.ctx.logger.error('Error during multiple-book update:', error);
+            this.ctx.notice(`Readwise: Sync failed. ${error}`);
+        }
+        finally {
+            // Make sure we release the lock even if the operation fails
+            this.ctx.syncLock.release('multiple-note-update');
+        }
+    }
+}
+
+function toErrorMessage(err) {
+    if (err instanceof Error)
+        return err.message;
+    if (typeof err === 'string')
+        return err;
+    if (typeof err === 'number' || typeof err === 'boolean')
+        return err.toString();
+    if (err === null)
+        return 'null';
+    if (typeof err === 'undefined')
+        return 'undefined';
+    try {
+        return JSON.stringify(err);
+    }
+    catch {
+        return 'Unknown error';
+    }
+}
+/**
+ * Construct all plugin commands for the CommandManager
+ * @param ctr ReadwiseController instance
+ * @param ctx PluginContext instance
+ * @returns Array of Obsidian Command objects
+ */
+function getPluginCommands(ctr, ctx) {
+    return [
+        {
+            id: 'download',
+            name: 'Download entire Readwise library (force)',
+            callback: async () => {
+                ctx.settings.lastUpdated = null;
+                await ctx.saveAndApplySettings();
+                await ctr.sync();
+            },
+        },
+        {
+            id: 'test',
+            name: 'Test Readwise API key',
+            callback: async () => {
+                try {
+                    const isTokenValid = await Controller.validateAPIInstance();
+                    ctx.notice(`Readwise: ${isTokenValid ? 'Token is valid' : 'INVALID TOKEN'}`);
+                }
+                catch (err) {
+                    ctx.notice(`Failed to validate API key: ${toErrorMessage(err)}`);
+                }
+            },
+        },
+        {
+            id: 'delete',
+            name: 'Delete Readwise library',
+            callback: async () => await ctr.deleteLibrary(),
+        },
+        {
+            id: 'update',
+            name: 'Sync new highlights',
+            callback: async () => await ctr.sync(),
+        },
+        {
+            id: 'adjust-filenames',
+            name: 'Adjust Filenames to current settings',
+            checkCallback: (checking) => {
+                if (ctx.settings.trackFiles && ctx.settings.enableFileNameUpdates) {
+                    if (!checking) {
+                        void ctr.handleFilenameAdjustment().catch((err) => {
+                            ctx.logger.error('Failed to adjust filenames', err);
+                            ctx.notice(`Failed to adjust filenames: ${toErrorMessage(err)}`);
+                        });
+                    }
+                    return true;
+                }
+                return false;
+            },
+        },
+        {
+            id: 'update-all-frontmatter',
+            name: 'Update all Readwise note frontmatter',
+            checkCallback: (checking) => {
+                if (ctx.settings.frontMatter && ctx.settings.trackFiles) {
+                    if (!checking) {
+                        void ctr.updateAllFrontmatter().catch((err) => {
+                            ctx.logger.error('Failed to update all frontmatter', err);
+                            ctx.notice(`Failed to update frontmatter: ${toErrorMessage(err)}`);
+                        });
+                    }
+                    return true;
+                }
+                return false;
+            },
+        },
+        {
+            id: 'update-current-note',
+            name: 'Update current note',
+            checkCallback: (checking) => {
+                const trackedFile = ctr.getUpdatableNote(ctx.app.workspace.getActiveFile());
+                if (!trackedFile)
+                    return false;
+                if (!checking) {
+                    void ctr.updateSingleNote(trackedFile).catch((err) => {
+                        ctx.logger.error('Failed to update current note', err);
+                        ctx.notice(`Failed to update current note: ${toErrorMessage(err)}`);
+                    });
+                }
+                return true;
+            },
+        },
+        {
+            id: 'reset-last-updated',
+            name: 'Reset lastUpdated setting to 2 months ago (debug)',
+            checkCallback: (checking) => {
+                if (ctx.settings.debugMode) {
+                    if (!checking) {
+                        const d = main.now().subtract(2, 'months');
+                        ctx.settings.lastUpdated = d.format('iso');
+                        void ctx
+                            .saveAndApplySettings()
+                            .catch((err) => ctx.notice(`Failed to save settings: ${toErrorMessage(err)}`));
+                    }
+                    return true;
+                }
+                return false;
+            },
+        },
+    ];
+}
+
+/**
+ * Manages command registration for the Readwise Mirror plugin
+ */
+class CommandManager {
+    constructor(plugin, ctx, ctr) {
+        this.plugin = plugin;
+        this.ctx = ctx;
+        this.ctr = ctr;
+    }
+    initialize() {
+        this.registerCommands();
+        this.registerEvents();
+        this.runStartupCommands();
+    }
+    /**
+     * Register all plugin commands from the manifest
+     */
+    registerCommands() {
+        const commands = getPluginCommands(this.ctr, this.ctx);
+        for (const cmd of commands) {
+            this.plugin.addCommand(cmd);
+        }
+    }
+    /**
+     * Register context menu events for Readwise notes and folders
+     */
+    registerEvents() {
+        // Register context menu for files and folders
+        this.plugin.registerEvent(this.ctx.app.workspace.on('file-menu', (menu, file) => this.onMenuOpenCallback(menu, file)));
+        this.plugin.registerDomEvent(this.ctx.statusBarItem, 'click', async () => await this.ctr.sync());
+    }
+    runStartupCommands() {
+        // Run sync on startup if enabled
+        if (this.ctx.settings.autoSync) {
+            void this.ctr.sync();
+        }
+    }
+    /**
+     * Handle context menu for files and folders
+     */
+    onMenuOpenCallback(menu, file) {
+        if (file instanceof obsidian.TFile && file.extension === 'md') {
+            const tracked = this.ctr.getUpdatableNote(file);
+            if (tracked) {
+                // Update this note
+                menu.addItem((item) => {
+                    item
+                        .setIcon('refresh-cw')
+                        .setTitle('Update this note')
+                        .onClick(() => this.ctr.updateSingleNote(tracked));
+                });
+                // View in Readwise
+                const trackingUrl = getTrackingUrl(file, this.ctx);
+                if (trackingUrl) {
+                    menu.addItem((item) => {
+                        item
+                            .setIcon('external-link')
+                            .setTitle('View in Readwise')
+                            .onClick(() => window.open(trackingUrl));
+                    });
+                    // Copy Readwise URL
+                    menu.addItem((item) => {
+                        item
+                            .setIcon('copy')
+                            .setTitle('Copy Readwise URL')
+                            .onClick(async () => {
+                            await navigator.clipboard.writeText(trackingUrl);
+                            this.ctx.notice('Readwise: URL copied to clipboard');
+                        });
+                    });
+                }
+            }
+        }
+        else if (file instanceof obsidian.TFolder) {
+            // Check if this folder is in the Readwise library
+            if (isFolderInReadwiseLibrary(file, this.ctx)) {
+                menu.addItem((item) => {
+                    item
+                        .setIcon('refresh-cw')
+                        .setTitle('Update all notes in folder')
+                        .onClick(async () => this.ctr.syncFolder(file));
+                });
+            }
+        }
+    }
+}
+
+var md5$1 = {exports: {}};
+
+var crypt = {exports: {}};
+
+var hasRequiredCrypt;
+
+function requireCrypt () {
+	if (hasRequiredCrypt) return crypt.exports;
+	hasRequiredCrypt = 1;
+	(function() {
+	  var base64map
+	      = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/',
+
+	  crypt$1 = {
+	    // Bit-wise rotation left
+	    rotl: function(n, b) {
+	      return (n << b) | (n >>> (32 - b));
+	    },
+
+	    // Bit-wise rotation right
+	    rotr: function(n, b) {
+	      return (n << (32 - b)) | (n >>> b);
+	    },
+
+	    // Swap big-endian to little-endian and vice versa
+	    endian: function(n) {
+	      // If number given, swap endian
+	      if (n.constructor == Number) {
+	        return crypt$1.rotl(n, 8) & 0x00FF00FF | crypt$1.rotl(n, 24) & 0xFF00FF00;
+	      }
+
+	      // Else, assume array and swap all items
+	      for (var i = 0; i < n.length; i++)
+	        n[i] = crypt$1.endian(n[i]);
+	      return n;
+	    },
+
+	    // Generate an array of any length of random bytes
+	    randomBytes: function(n) {
+	      for (var bytes = []; n > 0; n--)
+	        bytes.push(Math.floor(Math.random() * 256));
+	      return bytes;
+	    },
+
+	    // Convert a byte array to big-endian 32-bit words
+	    bytesToWords: function(bytes) {
+	      for (var words = [], i = 0, b = 0; i < bytes.length; i++, b += 8)
+	        words[b >>> 5] |= bytes[i] << (24 - b % 32);
+	      return words;
+	    },
+
+	    // Convert big-endian 32-bit words to a byte array
+	    wordsToBytes: function(words) {
+	      for (var bytes = [], b = 0; b < words.length * 32; b += 8)
+	        bytes.push((words[b >>> 5] >>> (24 - b % 32)) & 0xFF);
+	      return bytes;
+	    },
+
+	    // Convert a byte array to a hex string
+	    bytesToHex: function(bytes) {
+	      for (var hex = [], i = 0; i < bytes.length; i++) {
+	        hex.push((bytes[i] >>> 4).toString(16));
+	        hex.push((bytes[i] & 0xF).toString(16));
+	      }
+	      return hex.join('');
+	    },
+
+	    // Convert a hex string to a byte array
+	    hexToBytes: function(hex) {
+	      for (var bytes = [], c = 0; c < hex.length; c += 2)
+	        bytes.push(parseInt(hex.substr(c, 2), 16));
+	      return bytes;
+	    },
+
+	    // Convert a byte array to a base-64 string
+	    bytesToBase64: function(bytes) {
+	      for (var base64 = [], i = 0; i < bytes.length; i += 3) {
+	        var triplet = (bytes[i] << 16) | (bytes[i + 1] << 8) | bytes[i + 2];
+	        for (var j = 0; j < 4; j++)
+	          if (i * 8 + j * 6 <= bytes.length * 8)
+	            base64.push(base64map.charAt((triplet >>> 6 * (3 - j)) & 0x3F));
+	          else
+	            base64.push('=');
+	      }
+	      return base64.join('');
+	    },
+
+	    // Convert a base-64 string to a byte array
+	    base64ToBytes: function(base64) {
+	      // Remove non-base-64 characters
+	      base64 = base64.replace(/[^A-Z0-9+\/]/ig, '');
+
+	      for (var bytes = [], i = 0, imod4 = 0; i < base64.length;
+	          imod4 = ++i % 4) {
+	        if (imod4 == 0) continue;
+	        bytes.push(((base64map.indexOf(base64.charAt(i - 1))
+	            & (Math.pow(2, -2 * imod4 + 8) - 1)) << (imod4 * 2))
+	            | (base64map.indexOf(base64.charAt(i)) >>> (6 - imod4 * 2)));
+	      }
+	      return bytes;
+	    }
+	  };
+
+	  crypt.exports = crypt$1;
+	})();
+	return crypt.exports;
+}
+
+var charenc_1;
+var hasRequiredCharenc;
+
+function requireCharenc () {
+	if (hasRequiredCharenc) return charenc_1;
+	hasRequiredCharenc = 1;
+	var charenc = {
+	  // UTF-8 encoding
+	  utf8: {
+	    // Convert a string to a byte array
+	    stringToBytes: function(str) {
+	      return charenc.bin.stringToBytes(unescape(encodeURIComponent(str)));
+	    },
+
+	    // Convert a byte array to a string
+	    bytesToString: function(bytes) {
+	      return decodeURIComponent(escape(charenc.bin.bytesToString(bytes)));
+	    }
+	  },
+
+	  // Binary encoding
+	  bin: {
+	    // Convert a string to a byte array
+	    stringToBytes: function(str) {
+	      for (var bytes = [], i = 0; i < str.length; i++)
+	        bytes.push(str.charCodeAt(i) & 0xFF);
+	      return bytes;
+	    },
+
+	    // Convert a byte array to a string
+	    bytesToString: function(bytes) {
+	      for (var str = [], i = 0; i < bytes.length; i++)
+	        str.push(String.fromCharCode(bytes[i]));
+	      return str.join('');
+	    }
+	  }
+	};
+
+	charenc_1 = charenc;
+	return charenc_1;
+}
+
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+var isBuffer_1;
+var hasRequiredIsBuffer;
+
+function requireIsBuffer () {
+	if (hasRequiredIsBuffer) return isBuffer_1;
+	hasRequiredIsBuffer = 1;
+	// The _isBuffer check is for Safari 5-7 support, because it's missing
+	// Object.prototype.constructor. Remove this eventually
+	isBuffer_1 = function (obj) {
+	  return obj != null && (isBuffer(obj) || isSlowBuffer(obj) || !!obj._isBuffer)
+	};
+
+	function isBuffer (obj) {
+	  return !!obj.constructor && typeof obj.constructor.isBuffer === 'function' && obj.constructor.isBuffer(obj)
+	}
+
+	// For Node v0.10 support. Remove this eventually.
+	function isSlowBuffer (obj) {
+	  return typeof obj.readFloatLE === 'function' && typeof obj.slice === 'function' && isBuffer(obj.slice(0, 0))
+	}
+	return isBuffer_1;
+}
+
+var hasRequiredMd5;
+
+function requireMd5 () {
+	if (hasRequiredMd5) return md5$1.exports;
+	hasRequiredMd5 = 1;
+	(function(){
+	  var crypt = requireCrypt(),
+	      utf8 = requireCharenc().utf8,
+	      isBuffer = requireIsBuffer(),
+	      bin = requireCharenc().bin,
+
+	  // The core
+	  md5 = function (message, options) {
+	    // Convert to byte array
+	    if (message.constructor == String)
+	      if (options && options.encoding === 'binary')
+	        message = bin.stringToBytes(message);
+	      else
+	        message = utf8.stringToBytes(message);
+	    else if (isBuffer(message))
+	      message = Array.prototype.slice.call(message, 0);
+	    else if (!Array.isArray(message) && message.constructor !== Uint8Array)
+	      message = message.toString();
+	    // else, assume byte array already
+
+	    var m = crypt.bytesToWords(message),
+	        l = message.length * 8,
+	        a =  1732584193,
+	        b = -271733879,
+	        c = -1732584194,
+	        d =  271733878;
+
+	    // Swap endian
+	    for (var i = 0; i < m.length; i++) {
+	      m[i] = ((m[i] <<  8) | (m[i] >>> 24)) & 0x00FF00FF |
+	             ((m[i] << 24) | (m[i] >>>  8)) & 0xFF00FF00;
+	    }
+
+	    // Padding
+	    m[l >>> 5] |= 0x80 << (l % 32);
+	    m[(((l + 64) >>> 9) << 4) + 14] = l;
+
+	    // Method shortcuts
+	    var FF = md5._ff,
+	        GG = md5._gg,
+	        HH = md5._hh,
+	        II = md5._ii;
+
+	    for (var i = 0; i < m.length; i += 16) {
+
+	      var aa = a,
+	          bb = b,
+	          cc = c,
+	          dd = d;
+
+	      a = FF(a, b, c, d, m[i+ 0],  7, -680876936);
+	      d = FF(d, a, b, c, m[i+ 1], 12, -389564586);
+	      c = FF(c, d, a, b, m[i+ 2], 17,  606105819);
+	      b = FF(b, c, d, a, m[i+ 3], 22, -1044525330);
+	      a = FF(a, b, c, d, m[i+ 4],  7, -176418897);
+	      d = FF(d, a, b, c, m[i+ 5], 12,  1200080426);
+	      c = FF(c, d, a, b, m[i+ 6], 17, -1473231341);
+	      b = FF(b, c, d, a, m[i+ 7], 22, -45705983);
+	      a = FF(a, b, c, d, m[i+ 8],  7,  1770035416);
+	      d = FF(d, a, b, c, m[i+ 9], 12, -1958414417);
+	      c = FF(c, d, a, b, m[i+10], 17, -42063);
+	      b = FF(b, c, d, a, m[i+11], 22, -1990404162);
+	      a = FF(a, b, c, d, m[i+12],  7,  1804603682);
+	      d = FF(d, a, b, c, m[i+13], 12, -40341101);
+	      c = FF(c, d, a, b, m[i+14], 17, -1502002290);
+	      b = FF(b, c, d, a, m[i+15], 22,  1236535329);
+
+	      a = GG(a, b, c, d, m[i+ 1],  5, -165796510);
+	      d = GG(d, a, b, c, m[i+ 6],  9, -1069501632);
+	      c = GG(c, d, a, b, m[i+11], 14,  643717713);
+	      b = GG(b, c, d, a, m[i+ 0], 20, -373897302);
+	      a = GG(a, b, c, d, m[i+ 5],  5, -701558691);
+	      d = GG(d, a, b, c, m[i+10],  9,  38016083);
+	      c = GG(c, d, a, b, m[i+15], 14, -660478335);
+	      b = GG(b, c, d, a, m[i+ 4], 20, -405537848);
+	      a = GG(a, b, c, d, m[i+ 9],  5,  568446438);
+	      d = GG(d, a, b, c, m[i+14],  9, -1019803690);
+	      c = GG(c, d, a, b, m[i+ 3], 14, -187363961);
+	      b = GG(b, c, d, a, m[i+ 8], 20,  1163531501);
+	      a = GG(a, b, c, d, m[i+13],  5, -1444681467);
+	      d = GG(d, a, b, c, m[i+ 2],  9, -51403784);
+	      c = GG(c, d, a, b, m[i+ 7], 14,  1735328473);
+	      b = GG(b, c, d, a, m[i+12], 20, -1926607734);
+
+	      a = HH(a, b, c, d, m[i+ 5],  4, -378558);
+	      d = HH(d, a, b, c, m[i+ 8], 11, -2022574463);
+	      c = HH(c, d, a, b, m[i+11], 16,  1839030562);
+	      b = HH(b, c, d, a, m[i+14], 23, -35309556);
+	      a = HH(a, b, c, d, m[i+ 1],  4, -1530992060);
+	      d = HH(d, a, b, c, m[i+ 4], 11,  1272893353);
+	      c = HH(c, d, a, b, m[i+ 7], 16, -155497632);
+	      b = HH(b, c, d, a, m[i+10], 23, -1094730640);
+	      a = HH(a, b, c, d, m[i+13],  4,  681279174);
+	      d = HH(d, a, b, c, m[i+ 0], 11, -358537222);
+	      c = HH(c, d, a, b, m[i+ 3], 16, -722521979);
+	      b = HH(b, c, d, a, m[i+ 6], 23,  76029189);
+	      a = HH(a, b, c, d, m[i+ 9],  4, -640364487);
+	      d = HH(d, a, b, c, m[i+12], 11, -421815835);
+	      c = HH(c, d, a, b, m[i+15], 16,  530742520);
+	      b = HH(b, c, d, a, m[i+ 2], 23, -995338651);
+
+	      a = II(a, b, c, d, m[i+ 0],  6, -198630844);
+	      d = II(d, a, b, c, m[i+ 7], 10,  1126891415);
+	      c = II(c, d, a, b, m[i+14], 15, -1416354905);
+	      b = II(b, c, d, a, m[i+ 5], 21, -57434055);
+	      a = II(a, b, c, d, m[i+12],  6,  1700485571);
+	      d = II(d, a, b, c, m[i+ 3], 10, -1894986606);
+	      c = II(c, d, a, b, m[i+10], 15, -1051523);
+	      b = II(b, c, d, a, m[i+ 1], 21, -2054922799);
+	      a = II(a, b, c, d, m[i+ 8],  6,  1873313359);
+	      d = II(d, a, b, c, m[i+15], 10, -30611744);
+	      c = II(c, d, a, b, m[i+ 6], 15, -1560198380);
+	      b = II(b, c, d, a, m[i+13], 21,  1309151649);
+	      a = II(a, b, c, d, m[i+ 4],  6, -145523070);
+	      d = II(d, a, b, c, m[i+11], 10, -1120210379);
+	      c = II(c, d, a, b, m[i+ 2], 15,  718787259);
+	      b = II(b, c, d, a, m[i+ 9], 21, -343485551);
+
+	      a = (a + aa) >>> 0;
+	      b = (b + bb) >>> 0;
+	      c = (c + cc) >>> 0;
+	      d = (d + dd) >>> 0;
+	    }
+
+	    return crypt.endian([a, b, c, d]);
+	  };
+
+	  // Auxiliary functions
+	  md5._ff  = function (a, b, c, d, x, s, t) {
+	    var n = a + (b & c | ~b & d) + (x >>> 0) + t;
+	    return ((n << s) | (n >>> (32 - s))) + b;
+	  };
+	  md5._gg  = function (a, b, c, d, x, s, t) {
+	    var n = a + (b & d | c & ~d) + (x >>> 0) + t;
+	    return ((n << s) | (n >>> (32 - s))) + b;
+	  };
+	  md5._hh  = function (a, b, c, d, x, s, t) {
+	    var n = a + (b ^ c ^ d) + (x >>> 0) + t;
+	    return ((n << s) | (n >>> (32 - s))) + b;
+	  };
+	  md5._ii  = function (a, b, c, d, x, s, t) {
+	    var n = a + (c ^ (b | ~d)) + (x >>> 0) + t;
+	    return ((n << s) | (n >>> (32 - s))) + b;
+	  };
+
+	  // Package private blocksize
+	  md5._blocksize = 16;
+	  md5._digestsize = 16;
+
+	  md5$1.exports = function (message, options) {
+	    if (message === undefined || message === null)
+	      throw new Error('Illegal argument ' + message);
+
+	    var digestbytes = crypt.wordsToBytes(md5(message, options));
+	    return options && options.asBytes ? digestbytes :
+	        options && options.asString ? bin.bytesToString(digestbytes) :
+	        crypt.bytesToHex(digestbytes);
+	  };
+
+	})();
+	return md5$1.exports;
+}
+
+var md5Exports = requireMd5();
+var md5 = /*@__PURE__*/getDefaultExportFromCjs(md5Exports);
+
+class DeduplicatingVaultWriter {
+    constructor(ctx, frontmatterManager) {
+        this.ctx = ctx;
+        this.frontmatterManager = frontmatterManager;
+        this.totalFileCount = 0;
+        this.fileCount = 0;
+        this.app = this.ctx.app;
+        this.vault = ctx.app.vault;
+    }
+    notifyFileCount() {
+        this.fileCount++;
+        this.ctx.setStatusBarText(`Readwise: ${this.fileCount} of ${this.totalFileCount} files processed`);
+    }
+    /**
+     * Creates category folders in the vault
+     *
+     * @param categories - The categories to create folders for
+     */
+    async createCategoryFolders(categories) {
+        for (const category of categories) {
+            const path = this.getCategoryPath(category);
+            const abstractFolder = this.vault.getAbstractFileByPath(path);
+            if (!abstractFolder) {
+                await this.vault.createFolder(path);
+                this.ctx.logger.debug('Successfully created folder', path);
+            }
+        }
+    }
+    /**
+     * Finds files in the vault with matching readwise_url
+     *
+     * @param doc The readwise document to find matches for
+     * @returns An array of matching files
+     */
+    async findExistingByHighlightsUrl(doc) {
+        if (!this.ctx.settings.trackFiles || !this.ctx.settings.trackingProperty || !doc.readwise_url) {
+            return []; // No tracking or no readwise_url
+        }
+        // Get all files in the vault
+        const files = this.vault.getMarkdownFiles();
+        // Filter files by the tracking property
+        const matchedFiles = files.filter((file) => {
+            const metadata = this.app.metadataCache.getFileCache(file);
+            const isTracked = isTrackedReadwiseNote(file, this.app, this.ctx.settings);
+            const isInLibrary = isInReadwiseLibrary(file, this.ctx.settings);
+            // If trackAcrossVault is enabled, only check if it's a Readwise note.
+            // Otherwise, check if it's a Readwise note AND in the Readwise library.
+            const shouldKeep = this.ctx.settings.trackAcrossVault ? isTracked : isTracked && isInLibrary;
+            if (!shouldKeep) {
+                return false;
+            }
+            // Compare the tracking property value to the readwise_url
+            return metadata?.frontmatter?.[this.ctx.settings.trackingProperty] === doc.readwise_url;
+        });
+        // Sort: Files WITHOUT "duplicate" property come first
+        return matchedFiles.sort((a, b) => {
+            const cacheA = this.app.metadataCache.getFileCache(a);
+            const cacheB = this.app.metadataCache.getFileCache(b);
+            // Check if the 'duplicate' key exists in frontmatter (regardless of value)
+            const hasDuplicateA = cacheA?.frontmatter?.duplicate !== undefined;
+            const hasDuplicateB = cacheB?.frontmatter?.duplicate !== undefined;
+            // If both have it or both don't have it, keep original order
+            if (hasDuplicateA === hasDuplicateB) {
+                return 0;
+            }
+            // If A does NOT have it, A comes first (-1)
+            // If A HAS it (and B doesn't per above check), A comes last (1)
+            return !hasDuplicateA ? -1 : 1;
+        });
+    }
+    /**
+     * Generates a short hash based on the metadata ID and
+     *
+     * @param file - The readwise file to generate a hash for
+     * @returns A short hash
+     */
+    generateShortHash(basename) {
+        return md5(basename + Date.now()).substring(0, 4);
+    }
+    /**
+     * Gets the category path for a given category
+     *
+     * @param file - The file to get the category for
+     * @returns The normalized category path
+     */
+    getCategoryPathFromFile(file) {
+        const category = file.type === 'base' ? file.doc.category : 'Highlight';
+        return this.getCategoryPath(category);
+    }
+    getCategoryPath(category) {
+        const formattedCategory = category.charAt(0).toUpperCase() + category.slice(1);
+        return obsidian.normalizePath(`${this.ctx.settings.baseFolderName}/${formattedCategory}`);
+    }
+    /**
+     * Updates an existing file with new contents and frontmatter
+     *
+     * @param readwiseFile - The readwise file containing doc and contents
+     */
+    async updateExistingFile(readwiseFile) {
+        if (!(readwiseFile.primary instanceof obsidian.TFile)) {
+            this.ctx.logger.error('Primary file is not a TFile instance', { primary: readwiseFile.primary });
+            throw new Error('Primary file is not a TFile instance. This should not happen');
+        }
+        const file = readwiseFile.primary;
+        this.notifyFileCount();
+        try {
+            // Process frontmatter atomically
+            await this.app.fileManager.processFrontMatter(file, (existingFrontmatter) => {
+                // Only update frontmatter if frontmatter is enabled
+                const hasFrontmatter = Object.keys(existingFrontmatter).length > 0;
+                const updatedFrontmatter = this.frontmatterManager.getFrontmatter(readwiseFile, hasFrontmatter);
+                // Clean up existing frontmatter if updateFrontmatter is disabled
+                if (!this.ctx.settings.updateFrontmatter) {
+                    for (const key in existingFrontmatter) {
+                        delete existingFrontmatter[key];
+                    }
+                }
+                this.ctx.logger.debug(`Updating file ${file.path} with new frontmatter`, updatedFrontmatter);
+                for (const [key, value] of updatedFrontmatter.entries()) {
+                    existingFrontmatter[key] = value;
+                }
+            });
+            await this.fileWrite(file, readwiseFile.contents);
+        }
+        catch (err) {
+            this.ctx.logger.error(`Readwise: Attempt to update file ${file.path} failed`, err);
+            throw err;
+        }
+    }
+    /**
+     * Marks a file as a duplicate in its frontmatter or deletes it
+     *
+     * @param file - The duplicate file to handle
+     * @param readwiseFile - The readwise file containing doc metadata
+     */
+    async handleDuplicate(file, readwiseFile) {
+        this.notifyFileCount();
+        const frontmatter = this.frontmatterManager.getFrontmatter(readwiseFile);
+        try {
+            if (this.ctx.settings.deleteDuplicates) {
+                this.ctx.logger.debug(`Trashing duplicate ${file.path}`);
+                await this.app.fileManager.trashFile(file);
+            }
+            else {
+                frontmatter.set('duplicate', true);
+                this.ctx.logger.debug(`Marking file ${file.path} as duplicate`, frontmatter);
+                await this.frontmatterManager.writeUpdatedFrontmatter(file, frontmatter);
+            }
+        }
+        catch (err) {
+            this.ctx.logger.error(`Failed to handle duplicate ${file.path}`, err);
+            throw err;
+        }
+    }
+    /**
+     * Processes an array of ReadwiseFile objects by normalizing their paths,
+     * grouping them by their computed path (including category and filename),
+     * and then processing each group to handle potential duplicates.
+     *
+     * @param readwiseFiles - An array of ReadwiseFile objects to be processed.
+     * @returns A Promise that resolves when all file groups have been processed.
+     */
+    async process(readwiseFiles) {
+        // Reset the file count
+        this.totalFileCount = readwiseFiles.length;
+        this.fileCount = 0;
+        this.ctx.setStatusBarText(`Readwise: ${this.totalFileCount} files to process`);
+        // Group by path (which includes category and filename)
+        const groupedByPath = new Map();
+        for (const file of readwiseFiles) {
+            const path = file.primary instanceof obsidian.TFile ? file.primary.path : file.primary;
+            // Use lowercase path for comparison as filesystems are (potentially) case-insensitive
+            if (!groupedByPath.has(path.toLowerCase())) {
+                groupedByPath.set(path.toLowerCase(), []);
+            }
+            groupedByPath.get(path.toLowerCase())?.push(file);
+        }
+        // Process each path group (i.e. files with the same category and filename)
+        for (const [path, groupFiles] of groupedByPath) {
+            this.ctx.logger.debug('Processing path group', { path, groupFiles });
+            // Process the files in the path group
+            await this.writePathGroup(groupFiles);
+        }
+    }
+    async processFrontmatter(readwiseFiles) {
+        this.ctx.logger.debug('Processing frontmatter for Readwise files', { readwiseFiles });
+        // Reset the file count
+        this.totalFileCount = readwiseFiles.length;
+        this.fileCount = 0;
+        this.ctx.setStatusBarText(`Readwise: ${this.totalFileCount} files to process`);
+        // Process each file
+        for (const readwiseFile of readwiseFiles) {
+            const files = await this.findExistingByHighlightsUrl(readwiseFile.doc);
+            for (const file of files) {
+                // Since we are only updating frontmatter, for existing files, we can use the Obsidian file manager for atomic frontmatter updates
+                await this.app.fileManager.processFrontMatter(file, (existingFrontmatter) => {
+                    const updates = this.frontmatterManager.getFrontmatter(readwiseFile);
+                    const filteredFrontMatter = this.ctx.settings.protectFrontmatter
+                        ? this.frontmatterManager.filterProtectedFrontmatter(updates)
+                        : updates;
+                    Object.assign(existingFrontmatter, filteredFrontMatter.toObject());
+                });
+                this.notifyFileCount();
+            }
+        }
+    }
+    /**
+     * Processes a path group of files, identified duplicates and writes
+     * the files to the vault according to the tracking settings
+     * @param readwiseFiles - The files to process
+     */
+    async writePathGroup(readwiseFiles) {
+        // First, check if files are tracked (and have readwise_url), sort by doc id
+        /*
+         * Process tracked files by filename
+         * Files that share the same filename are duplicates,
+         * those with the tracking property will be treated first
+         */
+        if (this.ctx.settings.trackFiles && this.ctx.settings.trackingProperty) {
+            // Update or create primary file based on readwise_url
+            for (const file of readwiseFiles) {
+                await this.processTrackedFile(file);
+            }
+        }
+        else {
+            // All files are untracked - append hash to all but the first,
+            this.ctx.logger.debug('Files are untracked - appending hash to all but the first', { files: readwiseFiles });
+            const [primary, ...duplicates] = readwiseFiles;
+            await this.writeFileToVault(primary, true);
+            for (const duplicate of duplicates) {
+                await this.writeFileToVault(duplicate);
+            }
+        }
+    }
+    /**
+     * Processes a tracked file, updating or creating it in the vault, and handling its atomicity
+     * @param baseFile - The primary base file to process
+     * @returns The created or updated file
+     */
+    async processTrackedFile(baseFile) {
+        let processedPrimary = null;
+        if (baseFile.primary instanceof obsidian.TFile) {
+            // TODO: Add an option to the plugin to link remote duplicates to the primary file
+            await this.updateExistingFile(baseFile);
+            for (const duplicate of baseFile.duplicates) {
+                this.ctx.logger.warn('Existing duplicate file found', { duplicate });
+                await this.handleDuplicate(duplicate, baseFile);
+            }
+            processedPrimary = baseFile.primary;
+        }
+        else {
+            processedPrimary = await this.writeFileToVault(baseFile);
+        }
+        // If we have any atoms, process them (atoms will be empty of conditional atomizer leads to no atoms)
+        if (this.ctx.settings.atomicHighlights && processedPrimary && baseFile.atoms.length > 0) {
+            await this.processAtomicHighlights(processedPrimary, baseFile);
+        }
+    }
+    /**
+     * Writes a file to the vault with frontmatter and contents
+     * @param file - The readwise or atomic file to write
+     * @param overwrite - Whether to overwrite an existing file or create with hash
+     * @returns The created or updated file
+     */
+    async writeFileToVault(file, overwrite) {
+        /**
+         * This method looks quite convoluted and complex, which is due to the fact that
+         * the vault methods to get files are case-sensitive, but the filesystem is probably not.
+         *
+         * This means that we need to check if the file exists in the vault (case insensitive)
+         * via the DataAdapter, and if it does, we need to check if it's the same file as the one
+         * we're trying to write.
+         */
+        if (file.type === 'base')
+            this.notifyFileCount();
+        const path = obsidian.normalizePath(`${this.getCategoryPathFromFile(file)}/${file.basename}.md`);
+        try {
+            const frontmatter = this.frontmatterManager.getFrontmatter(file);
+            const fileOptions = {
+                ctime: new Date(file.doc.created).getTime(),
+                mtime: new Date(file.doc.updated).getTime(),
+            };
+            const fileExists = await this.app.vault.adapter.exists(path, false);
+            if (fileExists) {
+                if (overwrite) {
+                    const existingFile = this.vault.getFileByPath(path);
+                    if (!existingFile)
+                        throw new Error(`File not found at '${path}' despite existence check`);
+                    this.ctx.logger.debug('Overwriting existing file', { doc: file.doc, ...fileOptions });
+                    await this.frontmatterWrite(existingFile, frontmatter);
+                    await this.fileWrite(existingFile, file.contents, fileOptions);
+                    return existingFile;
+                }
+                // Create new path with hash
+                const hash = this.generateShortHash(file.basename);
+                const newPath = obsidian.normalizePath(`${this.getCategoryPathFromFile(file)}/${file.basename} ${hash}.md`);
+                const newFileExists = await this.app.vault.adapter.exists(newPath, false);
+                if (newFileExists) {
+                    const existingNewFile = this.vault.getFileByPath(newPath);
+                    if (!existingNewFile)
+                        throw new Error(`File not found at '${newPath}' despite existence check`);
+                    this.ctx.logger.debug('Overwriting existing file (with hash)', { doc: file.doc, ...fileOptions });
+                    await this.frontmatterWrite(existingNewFile, frontmatter);
+                    await this.fileWrite(existingNewFile, file.contents, fileOptions);
+                    return existingNewFile;
+                }
+                this.ctx.logger.debug('Creating new file (with hash)', { doc: file.doc, ...fileOptions });
+                const newFile = await this.vault.create(newPath, file.contents, fileOptions);
+                await this.frontmatterWrite(newFile, frontmatter);
+                return newFile;
+            }
+            // If the file doesn't exist, create it
+            this.ctx.logger.debug('Creating new file', { doc: file.doc, ...fileOptions });
+            const newFile = await this.vault.create(path, file.contents, fileOptions);
+            await this.frontmatterWrite(newFile, frontmatter);
+            return newFile;
+        }
+        catch (err) {
+            this.ctx.logger.error(`Failed to create file '${path}'`, err);
+            throw new Error(`Failed to create file '${path}'. ${err}`);
+        }
+    }
+    /**
+     * Processes atomic highlights for a given primary file and readwise file
+     * @param primaryFile
+     * @param readwiseFile
+     * @returns
+     */
+    async processAtomicHighlights(_primaryFile, readwiseFile) {
+        if (readwiseFile.atoms.length === 0) {
+            return;
+        }
+        // FIXME: Implement this for Backlinks
+        // Make sure we keep track of the "parent" file we've written
+        // through a special field based on `_primaryFile`
+        for (const atom of readwiseFile.atoms) {
+            const basename = atom.basename || `${readwiseFile.basename}-${atom.id}`;
+            const atomicFile = {
+                type: 'atom',
+                id: atom.id,
+                basename, // Sanitize the basename
+                doc: readwiseFile.doc,
+                contents: atom.content,
+                frontmatter: atom.frontmatter,
+            };
+            await this.writeFileToVault(atomicFile, true); // We overwrite
+        }
+    }
+    /**
+     *
+     * @param existingFile
+     * @param frontmatter
+     */
+    async frontmatterWrite(existingFile, frontmatter) {
+        await this.app.fileManager.processFrontMatter(existingFile, (existingFrontmatter) => {
+            for (const [key, value] of frontmatter.entries()) {
+                existingFrontmatter[key] = value;
+            }
+        });
+    }
+    /**
+     * Write contents atomically
+     * @param existingFile - The existing file to update
+     * @param fileContents - The new contents to write
+     * @param fileOptions - The file options (ctime, mtime)
+     * @returns The updated file
+     */
+    async fileWrite(existingFile, fileContents, fileOptions) {
+        await this.vault.process(existingFile, (data) => {
+            const fmi = obsidian.getFrontMatterInfo(data);
+            if (fmi?.exists) {
+                return `${data.slice(0, fmi.contentStart)}${fileContents}`;
+            }
+            return data;
+        }, fileOptions);
+        return existingFile;
+    }
+}
+
+/**
+ * Custom error class for Frontmatter-related errors
+ */
+class FrontmatterError extends Error {
+    constructor(message, cause) {
+        super(message);
+        this.cause = cause;
+        this.name = 'FrontmatterError';
+    }
+}
+/**
+ * Represents and manages YAML frontmatter in markdown documents
+ */
+class Frontmatter {
+    /**
+     * Creates a new Frontmatter instance
+     */
+    constructor(data = {}) {
+        this.data = this.validateData(data);
+    }
+    /**
+     * Validates frontmatter data using YAML parse/stringify
+     */
+    validateData(data) {
+        try {
+            const yamlString = obsidian.stringifyYaml(data);
+            const parsed = obsidian.parseYaml(yamlString);
+            if (typeof parsed !== 'object' || parsed === null) {
+                throw new Error('Frontmatter must be an object');
+            }
+            return parsed;
+        }
+        catch (error) {
+            throw new FrontmatterError('Invalid frontmatter data', error);
+        }
+    }
+    /**
+     * Gets a value from the frontmatter
+     */
+    get(key) {
+        return this.data[key];
+    }
+    /**
+     * Gets a value from the frontmatter or throws if it doesn't exist
+     */
+    getOrThrow(key) {
+        const value = this.get(key);
+        if (value === undefined) {
+            throw new FrontmatterError(`Required frontmatter key "${key}" not found`);
+        }
+        return value;
+    }
+    /**
+     * Sets a value in the frontmatter
+     */
+    set(key, value) {
+        const newData = { ...this.data, [key]: value };
+        this.validateData(newData); // Validate before updating
+        this.data[key] = value;
+        return this;
+    }
+    /**
+     * Checks if a key exists in the frontmatter
+     */
+    has(key) {
+        return key in this.data;
+    }
+    /**
+     * Deletes a key from the frontmatter
+     */
+    delete(key) {
+        return delete this.data[key];
+    }
+    /**
+     * Gets all keys in the frontmatter
+     */
+    keys() {
+        return Object.keys(this.data);
+    }
+    /**
+     * Gets all values in the frontmatter
+     */
+    values() {
+        return Object.values(this.data);
+    }
+    /**
+     * Creates a new Frontmatter instance from an array of key-value pairs
+     */
+    static fromEntries(entries) {
+        return new Frontmatter(Object.fromEntries(entries));
+    }
+    /**
+     * Gets all entries in the frontmatter
+     */
+    entries() {
+        return Object.entries(this.data);
+    }
+    /**
+     * Merges additional frontmatter data into the current instance
+     */
+    merge(updates) {
+        const updateData = updates instanceof Frontmatter ? updates.toObject() : updates;
+        const newData = { ...this.data, ...updateData };
+        this.validateData(newData); // Validate merged data
+        Object.assign(this.data, updateData);
+        return this;
+    }
+    /**
+     * Converts the frontmatter to a YAML string
+     */
+    toString() {
+        if (Object.keys(this.data).length === 0) {
+            return '';
+        }
+        // We include a newline at the end of the frontmatter
+        return [Frontmatter.DELIMITER, obsidian.stringifyYaml(this.data).trim(), Frontmatter.DELIMITER].join('\n');
+    }
+    /**
+     * Converts the frontmatter to a plain object
+     */
+    toObject() {
+        return { ...this.data };
+    }
+    /**
+     * Creates a deep clone of the frontmatter
+     */
+    clone() {
+        return new Frontmatter(this.toObject());
+    }
+    /**
+     * Creates a Frontmatter instance from a YAML string
+     */
+    static fromString(content) {
+        if (!content.trim()) {
+            return new Frontmatter();
+        }
+        const match = content.match(Frontmatter.REGEX);
+        if (!match) {
+            return new Frontmatter();
+        }
+        try {
+            const yamlContent = match[2];
+            const data = obsidian.parseYaml(yamlContent);
+            if (typeof data !== 'object' || data === null) {
+                throw new Error('Frontmatter must be an object');
+            }
+            return new Frontmatter(data);
+        }
+        catch (error) {
+            throw new FrontmatterError('Failed to parse frontmatter', error);
+        }
+    }
+    /**
+     * Checks if a string contains valid frontmatter
+     */
+    static isValid(content) {
+        try {
+            Frontmatter.fromString(content);
+            return true;
+        }
+        catch {
+            return false;
+        }
+    }
+    /**
+     * Iterator implementation
+     */
+    [Symbol.iterator]() {
+        return this.entries()[Symbol.iterator]();
+    }
+}
+Frontmatter.DELIMITER = '---';
+Frontmatter.REGEX = /^(---\n([\s\S]*?)\n---\s*)/;
+
+function analyzeString(value) {
+    if (!value) {
+        return {
+            hasSingleQuotes: false,
+            hasDoubleQuotes: false,
+            isValueEscapedAlready: false,
+        };
+    }
+    return {
+        hasSingleQuotes: value.includes("'"),
+        hasDoubleQuotes: value.includes('"'),
+        isValueEscapedAlready: isStringEscaped(value),
+    };
+}
+function isStringEscaped(value) {
+    if (value.length <= 1)
+        return false;
+    if (value.startsWith('"') && value.endsWith('"')) {
+        const inner = value.slice(1, -1);
+        return !hasUnescapedDoubleQuote(inner);
+    }
+    if (value.startsWith("'") && value.endsWith("'")) {
+        const inner = value.slice(1, -1);
+        return !inner.replaceAll("''", '').includes("'");
+    }
+    return false;
+}
+function hasUnescapedDoubleQuote(value) {
+    for (let i = 0; i < value.length; i++) {
+        if (value[i] !== '"')
+            continue;
+        let backslashCount = 0;
+        for (let j = i - 1; j >= 0 && value[j] === '\\'; j--) {
+            backslashCount++;
+        }
+        if (backslashCount % 2 === 0) {
+            return true;
+        }
+    }
+    return false;
+}
+function formatMultilineString(value) {
+    return `>-\n${YAML_INDENT}${value.replace(/\n/g, `\n${YAML_INDENT}`)}`;
+}
+function normalizeString(value) {
+    return value.replace(/\n/g, ' ').replace(/\s+/g, ' ').trim();
+}
+function quoteString(value) {
+    const state = analyzeString(value);
+    const escapedValue = value.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
+    if (!state.hasSingleQuotes && !state.hasDoubleQuotes) {
+        return `"${escapedValue}"`;
+    }
+    if (state.hasDoubleQuotes && !state.hasSingleQuotes) {
+        return `'${value}'`;
+    }
+    if (state.hasSingleQuotes && !state.hasDoubleQuotes) {
+        return `"${escapedValue}"`;
+    }
+    return `"${escapedValue}"`;
+}
+function escapeValue(value, { multiline = false } = {}) {
+    if (!value)
+        return '""';
+    if (analyzeString(value).isValueEscapedAlready)
+        return value;
+    if (value.includes('\n') && multiline) {
+        return formatMultilineString(value);
+    }
+    return quoteString(normalizeString(value));
+}
+function escapeMetadata(metadata, fieldsToProcess) {
+    const processedMetadata = { ...metadata };
+    const setFieldValue = (key, value) => {
+        processedMetadata[key] = value;
+    };
+    for (const field of fieldsToProcess) {
+        if (field in processedMetadata) {
+            const key = field;
+            const value = processedMetadata[key];
+            if (Array.isArray(value)) {
+                const escapedArray = value.map((item) => (typeof item === 'string' ? escapeValue(item) : item));
+                setFieldValue(key, escapedArray);
+            }
+            else if (typeof value === 'string') {
+                setFieldValue(key, escapeValue(value));
+            }
+        }
+    }
+    return processedMetadata;
+}
+
+function registerCoreTemplateFilters(env, dateFormatter) {
+    env.addFilter('date', (date, format) => {
+        if (dateFormatter) {
+            return dateFormatter(date, format);
+        }
+        if (format === 'YYYY-MM-DD') {
+            return formatDate(date);
+        }
+        return date;
+    });
+    env.addFilter('normalize_author', (author) => {
+        const normalize = (a) => a
+            .replace(/\b(dr|drs|prof|professor|sir|lord|lady|dame|ms|miss|mrs|mr|mx|lt|col)\b\.?/gi, '')
+            .replace(/\s+/g, ' ')
+            .trim();
+        if (typeof author === 'string') {
+            return normalize(author);
+        }
+        if (Array.isArray(author)) {
+            return author.map(normalize);
+        }
+        return author;
+    });
+}
+function formatDate(dateStr) {
+    return dateStr.split('T')[0];
+}
+function formatTags(tags, nohash = false, q = '') {
+    const uniqueTags = [...new Set(tags.map((tag) => tag.name.replace(/\s/g, '-')))];
+    if (nohash) {
+        return uniqueTags.map((tag) => `${q}${tag}${q}`).join(', ');
+    }
+    return uniqueTags.map((tag) => `${q}#${tag}${q}`).join(', ');
+}
+function filterHighlights(highlights, settings) {
+    return highlights.filter((highlight) => {
+        if (settings.syncNotesOnly && !highlight.note)
+            return false;
+        if (highlight.is_deleted)
+            return false;
+        if (settings.highlightDiscard && highlight.is_discard)
+            return false;
+        return true;
+    });
+}
+function sortHighlights(highlights, settings) {
+    let sortedHighlights = highlights.slice();
+    if (settings.highlightSortByLocation) {
+        sortedHighlights = sortedHighlights.sort((highlightA, highlightB) => {
+            if (highlightA.location < highlightB.location)
+                return -1;
+            if (highlightA.location > highlightB.location)
+                return 1;
+            return 0;
+        });
+        if (!settings.highlightSortOldestToNewest) {
+            sortedHighlights = sortedHighlights.reverse();
+        }
+    }
+    else {
+        sortedHighlights = settings.highlightSortOldestToNewest ? sortedHighlights.reverse() : sortedHighlights;
+    }
+    return sortedHighlights;
+}
+function formatHighlight(highlight, book) {
+    const location_url = book.asin && highlight.location
+        ? `https://readwise.io/to_kindle?action=open&asin=${book.asin}&location=${highlight.location}`
+        : null;
+    const formattedTags = highlight.tags.filter((tag) => tag.name !== highlight.color);
+    return {
+        book_id: book.user_book_id,
+        id: highlight.id,
+        text: highlight.text,
+        note: highlight.note,
+        location: highlight.location,
+        location_type: highlight.location_type,
+        location_url,
+        is_deleted: highlight.is_deleted,
+        is_discard: highlight.is_discard,
+        is_favorite: highlight.is_favorite,
+        url: highlight.url,
+        readwise_url: highlight.readwise_url,
+        color: highlight.color,
+        created_at: highlight.created_at ? formatDate(highlight.created_at) : '',
+        updated_at: highlight.updated_at ? formatDate(highlight.updated_at) : '',
+        highlighted_at: highlight.highlighted_at ? formatDate(highlight.highlighted_at) : '',
+        tags: formatTags(formattedTags),
+        category: book.category,
+    };
+}
+function renderFrontmatterTemplate(frontmatterTemplate, env, metadata) {
+    const template = new nunjucksExports.Template(frontmatterTemplate, env, undefined, true);
+    return template.render(escapeMetadata(metadata, FRONTMATTER_TO_ESCAPE)).trim();
+}
+function renderMarkdownTemplate(env, loader, params) {
+    loader.setSource('file', NUNJUCKS_CORE_TEMPLATE);
+    const filteredHighlights = filterHighlights(params.highlights, params.settings);
+    return env.render('file', {
+        doc: params.doc,
+        book: params.book,
+        highlights: sortHighlights(filteredHighlights, params.settings).map((hl) => formatHighlight(hl, params.book)),
+        headerTemplate: params.headerTemplate,
+        highlightTemplate: params.highlightTemplate,
+    });
+}
+
+class FrontmatterManager {
+    constructor(ctx, env, fm) {
+        this.ctx = ctx;
+        this.env = env;
+        this.fm = fm;
+    }
+    get logger() {
+        return this.ctx.logger;
+    }
+    get settings() {
+        return this.ctx.settings;
+    }
+    /**
+     * Get updated and merged frontmatter based on a document's existing frontmatter
+     * @param file - Document to process
+     * @param existingFrontmatter? - Existing frontmatter cache (optional, default is none)
+     * @returns
+     */
+    getFrontmatter(file, existingFrontmatter = false) {
+        try {
+            /**
+             * We treat this differently by type
+             * - The BaseFile *updates* existing frontmatter from the Cache
+             * - The AtomicFile *updates* the parent frontmatter with its own template
+             **/
+            switch (file.type) {
+                case 'base': {
+                    const updatedFrontmatter = this.getBaseFrontmatter(file.doc);
+                    // Add tracking property if enabled
+                    if (this.settings.trackFiles)
+                        updatedFrontmatter.set(this.settings.trackingProperty, file.doc[READWISE_URI_FIELD]);
+                    // Only filter update if all conditions are fulfilled
+                    if (this.settings.frontMatter &&
+                        this.settings.updateFrontmatter &&
+                        this.settings.protectFrontmatter &&
+                        existingFrontmatter) {
+                        return this.filterProtectedFrontmatter(updatedFrontmatter);
+                    }
+                    return updatedFrontmatter;
+                }
+                case 'atom': {
+                    // Only add "parent frontmatter" if enabled
+                    let atomicFrontmatter = this.settings.atomicInheritParentFrontmatter
+                        ? this.getBaseFrontmatter(file.doc)
+                        : new Frontmatter();
+                    const currentFrontmatter = Frontmatter.fromString(file.frontmatter ?? '');
+                    const highlight = file.doc.highlights.find((h) => h.id === file.id);
+                    if (currentFrontmatter.keys().length > 0) {
+                        const filteredUpdates = this.settings.protectFrontmatter
+                            ? this.filterProtectedFrontmatter(currentFrontmatter)
+                            : currentFrontmatter;
+                        atomicFrontmatter = atomicFrontmatter.merge(filteredUpdates);
+                    }
+                    // Get readwise_url by finding the highlight with the corresponding ID – throw an error if not found
+                    atomicFrontmatter.set(this.settings.atomicParentProperty, file.doc[READWISE_URI_FIELD]);
+                    if (!highlight) {
+                        throw new Error(`Highlight with id ${file.id} not found while building atomic frontmatter.`);
+                    }
+                    const highlightUri = highlight[READWISE_URI_FIELD];
+                    if (!highlightUri) {
+                        throw new Error(`Highlight with id ${file.id} is missing ${READWISE_URI_FIELD}.`);
+                    }
+                    atomicFrontmatter.set(this.settings.trackingProperty, highlightUri);
+                    return atomicFrontmatter;
+                }
+            }
+        }
+        catch (error) {
+            throw new FrontmatterError('Failed to update frontmatter', error);
+        }
+    }
+    /**
+     * Processes the frontmatter template according to the relevant settings and returns the raw frontmatter record
+     * @param metadata - The metadata to process
+     * @returns The frontmatter record
+     */
+    getBaseFrontmatter(metadata) {
+        // Render a template if frontmatter is managed or file tracking is set
+        if (!this.settings.frontMatter && !this.settings.trackFiles) {
+            return new Frontmatter();
+        }
+        try {
+            // Get frontmatter template string
+            // Add Sync properties
+            const frontmatterTemplate = this.settings.frontMatter ? this.settings.frontMatterTemplate : EMPTY_FRONTMATTER;
+            this.logger.debug(`Processing merged frontmatter template\n${frontmatterTemplate}`);
+            // Render and parse the template into YAML
+            const renderedTemplate = renderFrontmatterTemplate(frontmatterTemplate, this.env, metadata);
+            const yaml = obsidian.parseYaml(renderedTemplate);
+            if (typeof yaml !== 'object' || yaml === null) {
+                throw new Error('Frontmatter template did not render to an object');
+            }
+            return new Frontmatter(yaml);
+        }
+        catch (error) {
+            if (error instanceof Error) {
+                this.logger.debug('Rendered frontmatter template failed:', error.stack);
+                this.logger.error('Error processing frontmatter template:', error.message);
+                throw new FrontmatterError(`Failed to process frontmatter: ${error.message}`, error);
+            }
+            this.logger.error('Unknown error processing frontmatter:', error);
+            throw new FrontmatterError('Failed to process frontmatter due to unknown error', error);
+        }
+    }
+    /**
+     * Filters out protected fields from the frontmatter updates
+     * @param updates - The frontmatter updates to filter
+     * @returns Filtered frontmatter without protected fields
+     */
+    filterProtectedFrontmatter(updates) {
+        const protectedFields = this.settings.protectedFields
+            .split('\n')
+            .map((f) => f.trim())
+            .filter(Boolean);
+        // Using static methods from Frontmatter class
+        return Frontmatter.fromEntries(updates.entries().filter(([key]) => !protectedFields.includes(key)));
+    }
+    async writeUpdatedFrontmatter(file, updates) {
+        // File carries a reference to the vault
+        try {
+            await this.fm.processFrontMatter(file, (frontmatter) => {
+                // Biome doesn't like assing via { ... frontmatter, ...updates }
+                // Iterate over keys in updates and set them in frontmatter
+                for (const [key, value] of updates.entries()) {
+                    frontmatter[key] = value;
+                }
+            });
+        }
+        catch (error) {
+            throw new FrontmatterError('Failed to write frontmatter', error);
+        }
+    }
+}
+
+/**
+ * Logger service
+ * @module services/logger
+ */
+class Logger {
+    constructor(debugMode) {
+        this.debugMode = debugMode;
+        this.groupDepth = 0;
+        this.timers = new Map();
+    }
+    setDebugMode(debugMode) {
+        this.debugMode = debugMode;
+    }
+    getIndent() {
+        return '  '.repeat(this.groupDepth);
+    }
+    group(label) {
+        if (this.debugMode) {
+            console.debug(`${this.getIndent()}▼ Readwise Mirror: ${label}`);
+            this.groupDepth++;
+        }
+    }
+    groupEnd() {
+        if (this.debugMode && this.groupDepth > 0) {
+            this.groupDepth--;
+            console.debug(`${this.getIndent()}▲`);
+        }
+    }
+    debug(...messages) {
+        if (this.debugMode) {
+            console.debug(`${this.getIndent()}Readwise Mirror:`, ...messages);
+        }
+    }
+    warn(...messages) {
+        console.warn(`${this.getIndent()}Readwise Mirror:`, ...messages);
+    }
+    error(...messages) {
+        console.error(`${this.getIndent()}Readwise Mirror:`, ...messages);
+    }
+    time(label) {
+        this.timers.set(label, Date.now());
+    }
+    timeLog(label, ...messages) {
+        if (!this.debugMode)
+            return;
+        const startTime = this.timers.get(label);
+        if (startTime === undefined) {
+            console.debug(`${this.getIndent()}Readwise Mirror: ${label} (timer not started)`);
+            return;
+        }
+        const elapsedMs = Date.now() - startTime;
+        console.debug(`${this.getIndent()}Readwise Mirror: ${label} (${elapsedMs}ms)`, ...messages);
+    }
+    timeEnd(label) {
+        const startTime = this.timers.get(label);
+        this.timers.delete(label);
+        if (!this.debugMode || startTime === undefined) {
+            return;
+        }
+        const elapsedMs = Date.now() - startTime;
+        console.debug(`${this.getIndent()}Readwise Mirror: ${label} (${elapsedMs}ms)`);
+    }
+}
+
+/**
+ * Get the last highlighted date of the highlights
+ * @param highlights - Array of highlights
+ * @returns
+ */
+function lastHighlightedDate(highlights) {
+    if (!highlights || highlights.length === 0)
+        return null;
+    return highlights
+        .map((highlight) => highlight.highlighted_at)
+        .reduce((latest, date) => {
+        return !latest || new Date(date) > new Date(latest) ? date : latest;
+    }, null);
+}
+/**
+ * Get the last updated date of the highlights
+ * @param highlights  - Array of highlights
+ * @returns
+ */
+function updatedDate(highlights) {
+    if (!highlights || highlights.length === 0)
+        return null;
+    return highlights
+        .map((highlight) => highlight.updated_at)
+        .reduce((latest, date) => {
+        return !latest || new Date(date) > new Date(latest) ? date : latest;
+    }, null);
+}
+/**
+ * Get the first highlighted date of the highlights
+ * @param highlights - Array of highlights
+ * @returns
+ */
+function createdDate(highlights) {
+    if (!highlights || highlights.length === 0)
+        return null;
+    return highlights
+        .map((highlight) => highlight.created_at)
+        .reduce((earliest, date) => {
+        return !earliest || new Date(date) < new Date(earliest) ? date : earliest;
+    }, null);
+}
+
+function parseAuthors(authorString) {
+    if (!authorString?.trim()) {
+        return [];
+    }
+    return authorString
+        .split(AUTHOR_SEPARATORS)
+        .map((author) => author.trim())
+        .filter(Boolean);
+}
+function collectHighlightTags(highlights, settings) {
+    let tags = [];
+    for (const highlight of sortHighlights(highlights, settings)) {
+        if (highlight.tags) {
+            tags = [...tags, ...highlight.tags];
+        }
+    }
+    return tags;
+}
+function buildReadwiseDocument(book, options) {
+    const { user_book_id, title, document_note, summary, author, category, cover_image_url, highlights, readwise_url, source_url, unique_url, book_tags, } = book;
+    const filteredHighlights = filterHighlights(highlights, options.settings);
+    const highlightTags = collectHighlightTags(filteredHighlights, options.settings);
+    const authors = parseAuthors(author);
+    const authorStr = authors[0] && authors.length > 1
+        ? authors.map((authorName) => `[[${authorName.trim()}]]`).join(', ')
+        : author
+            ? `[[${author}]]`
+            : '';
+    const created = createdDate(filteredHighlights);
+    const updated = updatedDate(filteredHighlights);
+    const lastHighlightAt = lastHighlightedDate(filteredHighlights);
+    return {
+        id: user_book_id,
+        readwise_url,
+        unique_url,
+        source_url,
+        title,
+        sanitized_title: options.basename,
+        author: authors,
+        authorStr,
+        document_note,
+        summary,
+        category,
+        num_highlights: filteredHighlights.length,
+        created: created ? formatDate(created) : '',
+        updated: updated ? formatDate(updated) : '',
+        cover_image_url: cover_image_url.replace('SL200', 'SL500').replace('SY160', 'SY500'),
+        highlights,
+        last_highlight_at: lastHighlightAt ? formatDate(lastHighlightAt) : '',
+        tags: formatTags(book_tags),
+        highlight_tags: formatTags(highlightTags),
+        tags_nohash: formatTags(book_tags, true, "'"),
+        hl_tags_nohash: formatTags(highlightTags, true, "'"),
+    };
+}
+
+/**
+ * Custom Nunjucks Loader for Readwise templates
+ * Extends the base Loader to load templates from a provided mapping "in memory"
+ */
+class ReadwiseLoader extends nunjucksExports.Loader {
+    constructor(templates = {}) {
+        super();
+        this.templates = templates;
+    }
+    setSource(name, src) {
+        this.templates[name] = src;
+        this.emit('update', name);
+    }
+    getSource(name) {
+        // Custom logic to retrieve the template source by name
+        if (this.templates[name]) {
+            return {
+                src: this.templates[name],
+                path: name,
+                noCache: true,
+            };
+        }
+        return {
+            src: '',
+            path: name,
+            noCache: true,
+        };
+    }
+}
+/**
+ * Custom Nunjucks environment with Readwise-specific filters
+ * Extends the base Environment to add custom filters for formatting content
+ */
+class ReadwiseEnvironment extends nunjucksExports.Environment {
+    constructor(loader, opts) {
+        super(loader, { ...opts, autoescape: false });
+        this.atoms = [];
+        this.setupFilters();
+        this.addExtension('AtomizeExtension', new AtomizeExtension(this.atoms, 'FIRST'));
+    }
+    /**
+     * Initialize custom filters for the Readwise environment
+     */
+    setupFilters() {
+        registerCoreTemplateFilters(this, (date, format) => window.moment(date).format(format));
+        // Convert newlines to blockquotes
+        this.addFilter('bq', (str) => {
+            if (typeof str !== 'string')
+                return str;
+            return str
+                .split(/\r?\n/)
+                .map((line) => `> ${line}`)
+                .join('\r\n');
+        });
+        // Test if string contains .qa
+        this.addFilter('is_qa', (str) => {
+            if (typeof str !== 'string')
+                return false;
+            return str.includes('.qa');
+        });
+        // Convert .qa format to Q&A format
+        this.addFilter('qa', (str) => {
+            if (typeof str !== 'string')
+                return str;
+            return str.replace(/\.qa(.*)\?(.*)/g, '**Q:**$1?\r\n\r\n**A:**$2');
+        });
+        this.addFilter('fme', (value) => {
+            // Return if null/undefined
+            if (value === null || value === undefined) {
+                return null;
+            }
+            // This is a bit of a hack, but a realiable way to get multi-line yaml right
+            const _key = md5(Date().toString());
+            const _value = obsidian.stringifyYaml({ [_key]: value })
+                .replace(`${_key}: `, '')
+                .trim();
+            // If `stringifyYaml` doesn't return a multi-line YAML line, we return it as one
+            if (_value.includes('\n') && _value.indexOf('|') !== 0) {
+                return `|-\n${YAML_INDENT}${_value}\n`;
+            }
+            // Ensure we properly return the value with a leading space
+            return ` ${_value}`;
+        });
+    }
+}
+
+class Notify {
+    constructor(_statusBarItem) {
+        this._statusBarItem = _statusBarItem;
+    }
+    get statusBarItem() {
+        return this._statusBarItem;
+    }
+    notice(message, duration = 5000) {
+        new obsidian.Notice(message, duration);
+    }
+    setStatusBarText(message) {
+        // Ensure the message is a string
+        const text = typeof message === 'string' ? message : '';
+        this._statusBarItem.setText(text);
+    }
+    getStatusBarText() {
+        return this._statusBarItem.textContent || '';
+    }
+}
+
 class WarningDialog extends obsidian.Modal {
     constructor(app, title, prompt, onSubmit) {
         super(app);
@@ -13382,7 +16323,8 @@ class WarningDialog extends obsidian.Modal {
                 .onClick(() => {
                 this.close();
                 onSubmit(true);
-            }).buttonEl.style.backgroundColor = 'var(--background-modifier-error)';
+            });
+            btn.buttonEl.addClass('readwise-modal-danger-btn');
         })
             .addButton((btn) => btn.setButtonText('Cancel').onClick(() => {
             this.close();
@@ -13391,20 +16333,208 @@ class WarningDialog extends obsidian.Modal {
     }
 }
 
-class Notify {
-    constructor(statusBarItem) {
-        this.statusBarItem = statusBarItem;
+//
+// Sample data for testing the Frontmatter Template
+// The data is synthetic and intended to stress-test
+// the validity of the generated YAML
+// TODO: Add more sample data for testing
+// TODO: Base it on Readwise API and not internal metadata
+//
+const testTags = [
+    { id: 1, name: 'important' },
+    { id: 2, name: 'quote: reference' },
+    { id: 3, name: 'follow-up & review' },
+    { id: 4, name: 'chapter 1: introduction' },
+    { id: 5, name: 'status: to-do' },
+    { id: 6, name: 'tags with spaces' },
+    { id: 7, name: 'tags-with-dashes' },
+    { id: 8, name: 'tags_with_underscores' },
+    { id: 9, name: '!special#chars@in%tags' },
+    { id: 10, name: 'nested/path/tag' },
+    { id: 11, name: 'system-design' },
+    { id: 12, name: 'architecture' },
+    { id: 13, name: 'knowledge-management' },
+    { id: 14, name: 'atomize' },
+    { id: 15, name: 'concatenation-chain' },
+];
+const sampleMetadata = {
+    id: 12345,
+    readwise_url: 'https://readwise.io/bookreview/12345',
+    unique_url: 'https://unique.com/[brackets]',
+    source_url: 'https://test.com/path?q=special chars: & +',
+    title: "'My Book':\nA Subtitle's \"Journey",
+    sanitized_title: "My Book - A Subtitle's Journey",
+    author: ["Tim O'Reilly", '"Doc" Smith', 'Homer Simpson'],
+    authorStr: '[[Tim O\'Reilly]], [["Doc" Smith]] and [["Homer Simpson"]]',
+    document_note: 'Line 1\nLine 2\nLine 3: Important!',
+    summary: 'Contains > and < symbols\nAnd some * wildcards & ampersands',
+    category: 'books & articles',
+    num_highlights: 42,
+    created: '2024-03-15T10:30:00Z',
+    updated: '', // Test empty value
+    cover_image_url: 'https://example.com/image?size=large&type=cover',
+    highlights: [
+        {
+            id: 12345,
+            is_deleted: false,
+            text: 'Quote with \'nested\' "quotes" and: colons',
+            note: 'Annotation with *markdown* and\nmultiple\nlines',
+            location: 42,
+            location_type: 'page',
+            highlighted_at: '2024-03-15T10:30:00Z',
+            created_at: '2024-03-15T10:30:00Z',
+            updated_at: '2024-03-15T11:45:00Z',
+            url: 'https://example.com/book?page=42&highlight=12345',
+            readwise_url: 'https://readwise.io/open/006757643',
+            color: 'yellow',
+            book_id: 98765,
+            is_discard: false,
+            is_favorite: true,
+            tags: [testTags[0], testTags[1], testTags[2]],
+        },
+        {
+            id: 12346,
+            is_deleted: true,
+            text: 'Multi-line\ntext\nwith: colons',
+            note: '',
+            location: 0,
+            location_type: '',
+            highlighted_at: '2024-03-16T09:15:00Z',
+            created_at: '2024-03-16T09:15:00Z',
+            updated_at: '2024-03-16T09:15:00Z',
+            url: null,
+            readwise_url: 'https://readwise.io/open/326757643',
+            color: 'blue',
+            book_id: 98765,
+            is_discard: true,
+            is_favorite: false,
+            tags: [testTags[3], testTags[4], testTags[5]],
+        },
+        {
+            id: 12347,
+            is_deleted: false,
+            text: 'Another insightful quote with special characters: @#$%',
+            note: 'This is a note with *emphasis* and a newline\nfor clarity.',
+            location: 15,
+            location_type: 'paragraph',
+            highlighted_at: '2024-03-17T10:00:00Z',
+            created_at: '2024-03-17T10:00:00Z',
+            updated_at: '2024-03-17T10:00:00Z',
+            url: 'https://example.com/book?page=15&highlight=12347',
+            readwise_url: 'https://readwise.io/open/32675625343',
+            color: 'green',
+            book_id: 98766,
+            is_discard: false,
+            is_favorite: true,
+            tags: [testTags[1], testTags[6]],
+        },
+        {
+            id: 12348,
+            is_deleted: false,
+            text: 'A discarded highlight that is not deleted.',
+            note: 'This highlight is marked as discarded but not deleted.',
+            location: 30,
+            location_type: 'chapter',
+            highlighted_at: '2024-03-18T11:00:00Z',
+            created_at: '2024-03-18T11:00:00Z',
+            updated_at: '2024-03-18T11:00:00Z',
+            url: 'https://example.com/book?page=30&highlight=12348',
+            readwise_url: 'https://readwise.io/open/378727643',
+            color: 'red',
+            book_id: 98767,
+            is_discard: true,
+            is_favorite: false,
+            tags: [testTags[2], testTags[7]],
+        },
+        {
+            id: 12349,
+            is_deleted: false,
+            text: 'Atomic information segmentation allows granular reuse across context boundaries.',
+            note: '.atomize\nThis highlight tests the atomize action tag which signals the plugin to extract this as an atomic note fragment.',
+            location: 45,
+            location_type: 'section',
+            highlighted_at: '2024-03-19T14:30:00Z',
+            created_at: '2024-03-19T14:30:00Z',
+            updated_at: '2024-03-19T14:30:00Z',
+            url: 'https://example.com/book?page=45&highlight=12349',
+            readwise_url: 'https://readwise.io/open/429837643',
+            color: 'orange',
+            book_id: 98768,
+            is_discard: false,
+            is_favorite: true,
+            tags: [testTags[11], testTags[13]],
+        },
+        {
+            id: 12350,
+            is_deleted: false,
+            text: 'System architecture requires understanding the concatenation of interdependent subsystems.',
+            note: ".c1\nThis is the first part of a multi-highlight concatenation chain that tests the plugin's tag extraction across sequential highlights.",
+            location: 60,
+            location_type: 'page',
+            highlighted_at: '2024-03-20T09:00:00Z',
+            created_at: '2024-03-20T09:00:00Z',
+            updated_at: '2024-03-20T10:15:00Z',
+            url: 'https://example.com/book?page=60&highlight=12350',
+            readwise_url: 'https://readwise.io/open/539847643',
+            color: 'yellow',
+            book_id: 98768,
+            is_discard: false,
+            is_favorite: false,
+            tags: [testTags[11], testTags[14]],
+        },
+    ],
+    last_highlight_at: '2024-03-20T09:00:00Z',
+    tags: '#reading, #non-fiction: genre',
+    highlight_tags: '#quote, #important: flag',
+    tags_nohash: "'reading', 'non-fiction: genre'",
+    hl_tags_nohash: "'quote', 'important: flag'",
+};
+
+/**
+ * FrontmatterUtils.ts
+ */
+/**
+ * Sanitizes the frontmatter template by removing delimiters and trimming whitespace
+ * @param template - Frontmatter template to sanitize
+ * @returns Sanitized frontmatter template
+ */
+function sanitizeFrontmatterTemplate(template) {
+    let sanitizedTemplate = template;
+    // Ensure frontmatter delimiters are removed
+    sanitizedTemplate = sanitizedTemplate.replaceAll(`${Frontmatter.DELIMITER}`, '');
+    // Trim leading/trailing whitespace
+    sanitizedTemplate = sanitizedTemplate.trim();
+    return sanitizedTemplate;
+}
+/**
+ * Validates the frontmatter template
+ * @param template - Frontmatter template to validate
+ * @returns Validation result
+ */
+function validateFrontmatterTemplate(env, template) {
+    let renderedTemplate = '';
+    try {
+        renderedTemplate = env.renderString(sanitizeFrontmatterTemplate(template), escapeMetadata(sampleMetadata, FRONTMATTER_TO_ESCAPE));
     }
-    notice(message, duration = 5000) {
-        new obsidian.Notice(message, duration);
+    catch (error) {
+        return {
+            isValidTemplate: false,
+            isValidYaml: false,
+            error: `Template render error: ${error instanceof Error ? error.message : String(error)}`,
+            preview: renderedTemplate,
+        };
     }
-    setStatusBarText(message) {
-        // Ensure the message is a string
-        const text = typeof message === 'string' ? message : '';
-        this.statusBarItem.setText(text);
+    try {
+        obsidian.parseYaml(renderedTemplate);
+        return { isValidTemplate: true, isValidYaml: true, preview: renderedTemplate };
     }
-    getStatusBarText() {
-        return this.statusBarItem.textContent || '';
+    catch (error) {
+        return {
+            isValidTemplate: true,
+            isValidYaml: false,
+            error: `Invalid YAML: ${error instanceof Error ? error.message : String(error)}`,
+            preview: renderedTemplate,
+        };
     }
 }
 
@@ -13439,11 +16569,11 @@ class TabView {
         this.renderActiveTab();
     }
     renderActiveTab() {
-        // Clear existing content
-        this.tabContent.empty();
         // Render active tab
         const activeTab = this.tabs.find((t) => t.id === this.activeTab);
-        if (activeTab) {
+        if (activeTab && this.tabContent) {
+            // Clear existing content
+            this.tabContent.empty();
             activeTab.render(this.tabContent);
         }
     }
@@ -13459,12 +16589,13 @@ class TabView {
     }
 }
 class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
-    // Add logger reference
-    get logger() {
-        return this.plugin.logger;
+    isRecord(value) {
+        return typeof value === 'object' && value !== null;
     }
-    constructor(app, plugin, notify) {
-        super(app, plugin);
+    constructor(plugin, ctx, env) {
+        super(ctx.app, plugin);
+        this.ctx = ctx;
+        this.env = env;
         /**
          * Adjusts the number of rows in a textarea based on content and wrapping
          *
@@ -13497,8 +16628,6 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             // Add 1 to account for the last line and set minimum
             textEl.rows = Math.max(minRows, totalLines + 1);
         };
-        this.plugin = plugin;
-        this.notify = notify;
     }
     // Button-based authentication inspired by the official Readwise plugin
     async getUserAuthToken(attempt = 0) {
@@ -13511,33 +16640,28 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             window.open(`${baseURL}/api_auth?token=${uuid}&service=readwise-mirror`);
         }
         let response;
-        let data;
         try {
             response = await obsidian.requestUrl({ url: `${baseURL}/api/auth?token=${uuid}` });
             if (response.status === 200) {
-                data = await response.json;
-                if (data.userAccessToken) {
-                    this.logger.info('Token successfully retrieved');
-                    this.plugin.settings.apiToken = data.userAccessToken;
-                    if (this.plugin.readwiseApi)
-                        this.plugin.readwiseApi.setToken(data?.userAccessToken);
-                    else
-                        this.plugin.readwiseApi = new ReadwiseApi(data?.userAccessToken, this.notify, this.logger);
-                    await this.plugin.saveSettings();
+                const data = response.json;
+                if (this.isRecord(data) && typeof data.userAccessToken === 'string' && data.userAccessToken.length > 0) {
+                    this.ctx.logger.debug('Token successfully retrieved');
+                    this.ctx.settings.apiToken = data.userAccessToken;
+                    await this.ctx.saveAndApplySettings();
                     this.display(); // Refresh the settings page
                     return true;
                 }
             }
         }
         catch (e) {
-            this.logger.error('Failed to authenticate with Readwise:', e);
+            this.ctx.logger.error('Failed to authenticate with Readwise:', e);
         }
         if (attempt >= MAX_ATTEMPTS) {
-            this.notify.notice('Authentication timeout. Please try again.');
+            this.ctx.notice('Authentication timeout. Please try again.');
             return false;
         }
         const timeout = Math.min(BASE_TIMEOUT * 2 ** attempt, MAX_TIMEOUT);
-        await new Promise((resolve) => setTimeout(resolve, timeout));
+        await new Promise((resolve) => window.setTimeout(resolve, timeout));
         return this.getUserAuthToken(attempt + 1);
     }
     // Button-based authentication inspired by the official Readwise plugin
@@ -13576,19 +16700,24 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             const syntaxNote = container.createDiv({ cls: 'template-syntax-note' });
             syntaxNote.appendText('Supports Nunjucks templating syntax. See ');
             const link = syntaxNote.createEl('a', {
+                // eslint-disable-next-line obsidianmd/ui/sentence-case
                 text: 'built-in filters documentation',
                 href: 'https://mozilla.github.io/nunjucks/templating.html#builtin-filters',
             });
             link.setAttr('target', '_blank');
             syntaxNote.appendText(' and the ');
             syntaxNote.createEl('a', {
+                // eslint-disable-next-line obsidianmd/ui/sentence-case
                 text: 'documentation in the Wiki',
                 href: 'https://github.com/jsonMartin/readwise-mirror/wiki/Guide:-Templating',
             });
             syntaxNote.append(' for more details.');
         });
     }
-    async display() {
+    display() {
+        void this.displayAsync();
+    }
+    async displayAsync() {
         const { containerEl } = this;
         containerEl.empty();
         const tabs = [
@@ -13646,14 +16775,14 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             case 'valid':
                 this.validationButton?.setDisabled(true).removeCta().setButtonText('Verified');
                 this.retrievalButton?.setDisabled(true).setButtonText('Re-authenticate with Readwise');
-                if (this.tokenValue) {
+                if (this.tokenValue !== undefined) {
                     this.tokenValue.inputEl.type = 'password';
                 }
                 break;
             case 'invalid':
                 this.validationButton?.setDisabled(false).setCta().setButtonText('Apply');
                 this.retrievalButton?.setDisabled(false).setButtonText('Authenticate with Readwise');
-                if (this.tokenValue)
+                if (this.tokenValue !== undefined)
                     this.tokenValue.inputEl.type = 'text';
                 break;
             case 'verifying':
@@ -13666,13 +16795,36 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                 break;
         }
     }
+    requireTokenValidationMessage() {
+        if (!this.tokenValidationMessage) {
+            throw new Error('Token validation message element is not initialized. Call renderAuthentication() first.');
+        }
+        return this.tokenValidationMessage;
+    }
+    getErrorMessage(error) {
+        if (error instanceof Error) {
+            return error.message;
+        }
+        if (typeof error === 'string') {
+            return error;
+        }
+        if (typeof error === 'number' || typeof error === 'boolean' || typeof error === 'bigint') {
+            return String(error);
+        }
+        try {
+            return JSON.stringify(error);
+        }
+        catch {
+            return 'Unknown error';
+        }
+    }
     /**
      * Updates the validation message div based on status.
      * @param status 'invalid' | 'success' | 'running' | 'error'
      * @param errorMsg Optional error message for 'error' status
      */
     setTokenValidationStatus(status, errorMsg) {
-        const el = this.tokenValidationMessage;
+        const el = this.requireTokenValidationMessage();
         el.show();
         switch (status) {
             case 'invalid':
@@ -13700,11 +16852,11 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
         new obsidian.Setting(containerEl)
             .setName('Debug mode')
             .setDesc('Enable debug logging')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.debugMode).onChange(async (value) => {
-            this.plugin.settings.debugMode = value;
-            this.plugin.logger.setDebugMode(value);
-            this.plugin.logger.warn('Debug mode:', value ? 'enabled' : 'disabled');
-            await this.plugin.saveSettings();
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.debugMode).onChange(async (value) => {
+            this.ctx.settings.debugMode = value;
+            this.ctx.logger.setDebugMode(value);
+            this.ctx.logger.warn('Debug mode:', value ? 'enabled' : 'disabled');
+            await this.ctx.saveAndApplySettings();
         }));
     }
     renderAuthentication(containerEl) {
@@ -13719,28 +16871,21 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
         });
         new obsidian.Setting(containerEl)
             .setName('Readwise authentication')
-            .setDesc(createFragment(async (fragment) => {
+            .setDesc(createFragment((fragment) => {
             fragment.createEl('strong', { text: 'How to authenticate: ' });
             fragment.appendText('Paste your API key from ');
+            // eslint-disable-next-line obsidianmd/ui/sentence-case
             fragment.createEl('a', { text: 'readwise.io/access_token', href: 'https://readwise.io/access_token' });
             fragment.appendText(', or use the "Authenticate with Readwise" button for automatic retrieval of the token.');
             fragment.createEl('br');
-            fragment.append(this.tokenValidationMessage);
-            // Show success or error message based on token validity
-            if (this.plugin.readwiseApi) {
-                this.setTokenValidationStatus('running');
-            }
-            else {
-                this.setTokenValidationStatus('error');
-            }
+            fragment.append(this.requireTokenValidationMessage());
             this.updateAuthButtons('verifying');
-            // Validate the token on load
-            if (this.plugin.readwiseApi) {
+            this.setTokenValidationStatus('running');
+            void (async () => {
                 try {
-                    hasValidToken =
-                        this.plugin.readwiseApi.hasValidToken() || (await this.plugin.readwiseApi.validateToken());
+                    hasValidToken = await Controller.validateAPIInstance();
                     if (hasValidToken)
-                        this.notify.setStatusBarText('Readwise: Click to Sync');
+                        this.ctx.setStatusBarText('Readwise: Click to Sync');
                     this.updateAuthButtons(hasValidToken ? 'valid' : 'invalid');
                     this.setTokenValidationStatus(hasValidToken ? 'success' : 'invalid');
                 }
@@ -13753,10 +16898,7 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                         this.setTokenValidationStatus('error', 'Token validation error');
                     }
                 }
-                finally {
-                    this.setTokenValidationStatus('empty');
-                }
-            }
+            })();
         }))
             .addButton((button) => {
             this.retrievalButton = button;
@@ -13773,86 +16915,85 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                 });
                 authModal.contentEl.createEl('br');
                 const buttonContainer = authModal.contentEl.createDiv();
-                buttonContainer.style.display = 'flex';
-                buttonContainer.style.justifyContent = 'flex-end';
-                buttonContainer.style.gap = '10px';
+                buttonContainer.addClass('readwise-modal-actions');
                 const cancelButton = buttonContainer.createEl('button', { text: 'Cancel' });
                 const continueButton = buttonContainer.createEl('button', { text: 'Understood' });
                 continueButton.addClass('mod-cta');
                 cancelButton.onclick = () => authModal.close();
-                continueButton.onclick = async () => {
+                continueButton.onclick = () => {
                     authModal.close();
-                    this.getUserAuthToken().then((isAuthenticated) => {
+                    void (async () => {
+                        const isAuthenticated = await this.getUserAuthToken();
                         this.updateAuthButtons(isAuthenticated ? 'valid' : 'invalid');
                         this.setTokenValidationStatus(isAuthenticated ? 'success' : 'invalid');
-                    });
+                    })();
                 };
                 authModal.open();
             })
-                .setDisabled(hasValidToken);
+                .setDisabled(Boolean(hasValidToken));
             return this.retrievalButton;
         })
             .addText((text) => {
             this.tokenValue = text;
-            const token = this.plugin.settings.apiToken;
-            this.tokenValue.inputEl.type = 'password';
-            this.tokenValue.setPlaceholder('API Token').setValue(token);
+            const token = this.ctx.settings.apiToken ?? '';
+            const tokenInputEl = text.inputEl;
+            tokenInputEl.type = 'password';
+            this.tokenValue.setPlaceholder('API token').setValue(token);
             this.tokenValue.onChange(() => {
-                const value = this.tokenValue.inputEl.value;
-                if (value !== this.plugin.settings.apiToken) {
+                const value = tokenInputEl.value;
+                if (value !== this.ctx.settings.apiToken) {
                     this.setTokenValidationStatus('empty');
                     this.updateAuthButtons('invalid');
                 }
             });
-            this.tokenValue.inputEl.onfocus = () => {
-                this.tokenValue.inputEl.type = 'text';
+            tokenInputEl.onfocus = () => {
+                tokenInputEl.type = 'text';
             };
-            this.tokenValue.inputEl.onblur = () => {
+            tokenInputEl.onblur = () => {
                 if (hasValidToken) {
-                    this.tokenValue.inputEl.type = 'password';
+                    tokenInputEl.type = 'password';
                 }
             };
         })
             .addButton((button) => {
             this.validationButton = button;
             this.validationButton
-                .setDisabled(hasValidToken)
+                .setDisabled(Boolean(hasValidToken))
                 .setCta()
                 .setIcon('check')
                 .setButtonText(hasValidToken ? 'Verified' : 'Apply')
                 .onClick(async () => {
-                const value = this.tokenValue.inputEl.value;
+                const value = this.tokenValue?.inputEl?.value ?? '';
                 if (value === '') {
-                    // Invalidate API and cached auth state when token is cleared
-                    this.plugin.readwiseApi = null;
-                    this.plugin.settings.apiToken = value;
-                    // If you have a cached "hasValidToken" flag, set it to false here
+                    this.ctx.settings.apiToken = value;
                     this.updateAuthButtons('empty');
                     this.setTokenValidationStatus('empty');
-                    await this.plugin.saveSettings();
-                    this.notify.notice('Cleared token. Add or retrieve token to sync.');
+                    await this.ctx.saveAndApplySettings();
+                    this.ctx.notice('Cleared token. Add or retrieve token to sync.');
                 }
-                else if (value !== this.plugin.settings.apiToken) {
+                else if (value !== this.ctx.settings.apiToken) {
                     this.updateAuthButtons('verifying');
-                    this.plugin.settings.apiToken = value;
-                    await this.plugin.saveSettings();
-                    this.notify.notice('New token set.');
-                    if (this.plugin.readwiseApi) {
-                        this.plugin.readwiseApi.setToken(value);
+                    this.setTokenValidationStatus('running');
+                    try {
+                        const isValidToken = await ReadwiseApi.validateTokenValue(value);
+                        if (isValidToken) {
+                            this.ctx.settings.apiToken = value;
+                            await this.ctx.saveAndApplySettings();
+                            this.setTokenValidationStatus('success');
+                            this.updateAuthButtons('valid');
+                            this.ctx.notice('New token set.');
+                        }
+                        else {
+                            this.setTokenValidationStatus('invalid');
+                            this.updateAuthButtons('invalid');
+                            this.ctx.notice('Failed to verify token: Invalid API token.');
+                        }
                     }
-                    else {
-                        this.plugin.readwiseApi = new ReadwiseApi(value, this.notify, this.logger);
-                    }
-                    await this.plugin.readwiseApi
-                        .validateToken()
-                        .then((isValid) => {
-                        this.updateAuthButtons(isValid ? 'valid' : 'invalid');
-                    })
-                        .catch(() => {
-                        this.notify.notice('Failed to verify token.');
+                    catch (error) {
+                        this.ctx.notice(`Failed to verify token: ${this.getErrorMessage(error)}`);
                         this.setTokenValidationStatus('invalid');
                         this.updateAuthButtons('invalid');
-                    });
+                    }
                 }
             });
             // Add fixed width class
@@ -13867,38 +17008,38 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             .setDesc('Default: Readwise')
             .addText((text) => text
             .setPlaceholder('Readwise')
-            .setValue(this.plugin.settings.baseFolderName)
+            .setValue(this.ctx.settings.baseFolderName)
             .onChange(async (value) => {
             if (!value)
                 return;
-            this.plugin.settings.baseFolderName = value;
-            await this.plugin.saveSettings();
+            this.ctx.settings.baseFolderName = value;
+            await this.ctx.saveAndApplySettings();
         }));
         // Add new Filter by tag setting
         new obsidian.Setting(containerEl)
             .setName('Filter by tag')
-            .setDesc('Only sync readwise items with specific document tags')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.filterNotesByTag).onChange(async (value) => {
-            this.plugin.settings.filterNotesByTag = value;
+            .setDesc('Only sync Readwise items with specific document tags')
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.filterNotesByTag).onChange(async (value) => {
+            this.ctx.settings.filterNotesByTag = value;
             // Trigger a refresh of the settings display to show/hide the tags input
-            await this.plugin.saveSettings();
+            await this.ctx.saveAndApplySettings();
             this.display();
         }));
         // Add tags input field (only visible when filterByTag is enabled)
-        if (this.plugin.settings.filterNotesByTag) {
+        if (this.ctx.settings.filterNotesByTag) {
             new obsidian.Setting(containerEl)
                 .setName('Tags to include')
-                .setDesc('Enter tags separated by commas (e.g., important, todo, review). Only readwise items matching ANY of these tags (document level) will be synced.')
+                .setDesc('Enter tags separated by commas (e.g., important, todo, review). Only Readwise items matching any of these tags (document level) will be synced.')
                 .addTextArea((text) => {
                 text
-                    .setPlaceholder('tag1, tag2, tag3')
-                    .setValue(this.plugin.settings.filteredTags.join(', '))
+                    .setPlaceholder('Tag1, tag2, tag3')
+                    .setValue(this.ctx.settings.filteredTags.join(', '))
                     .onChange(async (value) => {
-                    this.plugin.settings.filteredTags = value
+                    this.ctx.settings.filteredTags = value
                         .split(/[,;\n]/) // We are bit more generous with separation characters
                         .map((tag) => tag.trim())
                         .filter((tag) => tag !== '');
-                    await this.plugin.saveSettings();
+                    await this.ctx.saveAndApplySettings();
                 });
                 // Adjust the height of the text area
                 text.inputEl.rows = 2;
@@ -13911,9 +17052,9 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
         new obsidian.Setting(containerEl)
             .setName('Auto sync when starting')
             .setDesc('Automatically syncs new highlights after opening Obsidian')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.autoSync).onChange(async (value) => {
-            this.plugin.settings.autoSync = value;
-            await this.plugin.saveSettings();
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.autoSync).onChange(async (value) => {
+            this.ctx.settings.autoSync = value;
+            await this.ctx.saveAndApplySettings();
         }));
     }
     renderAtomicHighlightsSettings(containerEl) {
@@ -13930,7 +17071,7 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             })
                 .setAttr('target', '_blank');
             fragment.appendText(' for details.');
-            if (!this.plugin.settings.trackFiles) {
+            if (!this.ctx.settings.trackFiles) {
                 fragment.createEl('br');
                 fragment.createEl('br');
                 fragment.createSpan({
@@ -13941,13 +17082,16 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
         }))
             .addToggle((toggle) => {
             // Disable and turn off if tracking is disabled
-            if (!this.plugin.settings.trackFiles) {
+            if (!this.ctx.settings.trackFiles) {
                 toggle.setValue(false);
                 toggle.setDisabled(true);
-                this.plugin.settings.atomicHighlights = false;
+                if (this.ctx.settings.atomicHighlights) {
+                    this.ctx.settings.atomicHighlights = false;
+                    void this.ctx.saveAndApplySettings(); // Fire and forget is acceptable here
+                }
             }
             else {
-                toggle.setValue(this.plugin.settings.atomicHighlights).onChange(async (value) => {
+                toggle.setValue(this.ctx.settings.atomicHighlights).onChange(async (value) => {
                     if (value) {
                         new WarningDialog(this.app, 'Enable atomic highlights', createFragment((fragment) => {
                             fragment.createDiv({
@@ -13961,10 +17105,12 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                             fragment.createDiv({
                                 text: 'Would you like to proceed?',
                             });
-                        }), async (confirmed) => {
+                        }), (confirmed) => {
                             if (confirmed) {
-                                this.plugin.settings.atomicHighlights = true;
-                                await this.plugin.saveSettings();
+                                void (async () => {
+                                    this.ctx.settings.atomicHighlights = true;
+                                    await this.ctx.saveAndApplySettings();
+                                })();
                             }
                             else {
                                 toggle.setValue(false);
@@ -13972,8 +17118,8 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                         }).open();
                     }
                     else {
-                        this.plugin.settings.atomicHighlights = false;
-                        await this.plugin.saveSettings();
+                        this.ctx.settings.atomicHighlights = false;
+                        await this.ctx.saveAndApplySettings();
                     }
                 });
             }
@@ -13985,63 +17131,63 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             .setName('Conditional atomization (rw-atomize)')
             .setDesc(createFragment((fragment) => {
             fragment.appendText('Only create atomic notes for Readwise notes where ');
-            fragment.createEl('code', { text: 'rw-atomize: true' });
+            fragment.createEl('code', { text: 'Rw-atomize: true' });
             fragment.appendText(" is set in the highlight's frontmatter. ");
         }))
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.atomicConditionalAtomize).onChange(async (value) => {
-            this.plugin.settings.atomicConditionalAtomize = value;
-            await this.plugin.saveSettings();
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.atomicConditionalAtomize).onChange(async (value) => {
+            this.ctx.settings.atomicConditionalAtomize = value;
+            await this.ctx.saveAndApplySettings();
         }));
         new obsidian.Setting(containerEl)
             .setClass('indent')
             .setName('Atomic parent property')
-            .setDesc('Frontmatter property used to link atomic notes back to their parent document (default: rw-parent).')
+            .setDesc('Frontmatter property used to link atomic notes back to their parent document (default: Rw-parent).')
             .addText((text) => text
-            .setPlaceholder('rw-parent')
-            .setValue(this.plugin.settings.atomicParentProperty || 'rw-parent')
+            .setPlaceholder('Rw-parent')
+            .setValue(this.ctx.settings.atomicParentProperty || 'rw-parent')
             .onChange(async (value) => {
-            this.plugin.settings.atomicParentProperty = value || 'rw-parent';
-            await this.plugin.saveSettings();
+            this.ctx.settings.atomicParentProperty = value || 'rw-parent';
+            await this.ctx.saveAndApplySettings();
         }));
         // Add atomic highlights frontmatter setting
         new obsidian.Setting(containerEl)
             .setClass('indent')
             .setName('Inherit parent note frontmatter')
             .setDesc("Inherit the frontmatter from the parent note in atomic highlights. Frontmatter properties defined in atomize blocks will overwrite the parent note's frontmatter.")
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.atomicInheritParentFrontmatter).onChange(async (value) => {
-            this.plugin.settings.atomicInheritParentFrontmatter = value;
-            await this.plugin.saveSettings();
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.atomicInheritParentFrontmatter).onChange(async (value) => {
+            this.ctx.settings.atomicInheritParentFrontmatter = value;
+            await this.ctx.saveAndApplySettings();
         }));
     }
     renderHighlightSettings(containerEl) {
         new obsidian.Setting(containerEl).setName('Highlight organization').setHeading();
         new obsidian.Setting(containerEl)
             .setName('Sort highlights by location')
-            .setDesc('If checked, highlights will be listed in order of Location. Combine with above Sort Highlights from Oldest to Newest option to reverse order.')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.highlightSortByLocation).onChange(async (value) => {
-            this.plugin.settings.highlightSortByLocation = value;
-            await this.plugin.saveSettings();
+            .setDesc('If checked, highlights will be listed in order of location. Combine with above sort highlights from oldest to newest option to reverse order.')
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.highlightSortByLocation).onChange(async (value) => {
+            this.ctx.settings.highlightSortByLocation = value;
+            await this.ctx.saveAndApplySettings();
         }));
         new obsidian.Setting(containerEl)
             .setName('Sort highlights from oldest to newest')
             .setDesc('If checked, highlights will be listed from oldest to newest. Unchecked, newest highlights will appear first.')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.highlightSortOldestToNewest).onChange(async (value) => {
-            this.plugin.settings.highlightSortOldestToNewest = value;
-            await this.plugin.saveSettings();
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.highlightSortOldestToNewest).onChange(async (value) => {
+            this.ctx.settings.highlightSortOldestToNewest = value;
+            await this.ctx.saveAndApplySettings();
         }));
         new obsidian.Setting(containerEl)
             .setName('Filter discarded highlights')
             .setDesc('If enabled, do not display discarded highlights in the Readwise library. (Deleted highlights will still be removed on sync)')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.highlightDiscard).onChange(async (value) => {
-            this.plugin.settings.highlightDiscard = value;
-            await this.plugin.saveSettings();
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.highlightDiscard).onChange(async (value) => {
+            this.ctx.settings.highlightDiscard = value;
+            await this.ctx.saveAndApplySettings();
         }));
         new obsidian.Setting(containerEl)
             .setName('Sync highlights with notes only')
-            .setDesc('If checked, highlights will only be synced if they have a note. This makes it easier to use these notes for Zettelkasten.')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.syncNotesOnly).onChange(async (value) => {
-            this.plugin.settings.syncNotesOnly = value;
-            await this.plugin.saveSettings();
+            .setDesc('If checked, highlights will only be synced if they have a note. This makes it easier to use these notes for zettelkasten.')
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.syncNotesOnly).onChange(async (value) => {
+            this.ctx.settings.syncNotesOnly = value;
+            await this.ctx.saveAndApplySettings();
         }));
     }
     renderFileTracking(containerEl) {
@@ -14057,7 +17203,7 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             })
                 .setAttr('target', '_blank');
         }))
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.trackFiles).onChange(async (value) => {
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.trackFiles).onChange(async (value) => {
             if (!value) {
                 new WarningDialog(this.app, 'Risk of inconsistency', createFragment((fragment) => {
                     fragment.createDiv({
@@ -14065,11 +17211,13 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                     });
                     fragment.createEl('br');
                     fragment.createDiv({ text: 'Are you sure you want to continue?' });
-                }), async (confirmed) => {
+                }), (confirmed) => {
                     if (confirmed) {
-                        this.plugin.settings.trackFiles = false;
-                        await this.plugin.saveSettings();
-                        this.display();
+                        void (async () => {
+                            this.ctx.settings.trackFiles = false;
+                            await this.ctx.saveAndApplySettings();
+                            this.display();
+                        })();
                     }
                     else {
                         toggle.setValue(true);
@@ -14077,25 +17225,25 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                 }).open();
             }
             else {
-                this.plugin.settings.trackFiles = value;
-                await this.plugin.saveSettings();
+                this.ctx.settings.trackFiles = value;
+                await this.ctx.saveAndApplySettings();
                 this.display();
             }
         }));
-        if (this.plugin.settings.trackFiles) {
+        if (this.ctx.settings.trackFiles) {
             new obsidian.Setting(containerEl)
                 .setClass('indent')
                 .setName('Tracking property')
                 .setDesc('Protected frontmatter property used to track the unique Readwise URL across syncs (default: uri).')
-                .addText((text) => text.setValue(this.plugin.settings.trackingProperty).onChange(async (value) => {
-                this.plugin.settings.trackingProperty = value || 'uri';
-                await this.plugin.saveSettings();
+                .addText((text) => text.setValue(this.ctx.settings.trackingProperty).onChange(async (value) => {
+                this.ctx.settings.trackingProperty = value || 'uri';
+                await this.ctx.saveAndApplySettings();
             }));
             new obsidian.Setting(containerEl)
                 .setClass('indent')
                 .setName('Track across vault')
                 .setDesc('Track, and update files across your entire vault, and not just inside the Readwise library folder.')
-                .addToggle((toggle) => toggle.setValue(this.plugin.settings.trackAcrossVault).onChange(async (value) => {
+                .addToggle((toggle) => toggle.setValue(this.ctx.settings.trackAcrossVault).onChange(async (value) => {
                 if (!value) {
                     new WarningDialog(this.app, 'Risk of inconsistency', createFragment((fragment) => {
                         fragment.createDiv({
@@ -14103,11 +17251,13 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                         });
                         fragment.createEl('br');
                         fragment.createDiv({ text: 'Are you sure you want to continue?' });
-                    }), async (confirmed) => {
+                    }), (confirmed) => {
                         if (confirmed) {
-                            this.plugin.settings.trackAcrossVault = false;
-                            await this.plugin.saveSettings();
-                            this.display();
+                            void (async () => {
+                                this.ctx.settings.trackAcrossVault = false;
+                                await this.ctx.saveAndApplySettings();
+                                this.display();
+                            })();
                         }
                         else {
                             toggle.setValue(true);
@@ -14115,8 +17265,8 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                     }).open();
                 }
                 else {
-                    this.plugin.settings.trackAcrossVault = value;
-                    await this.plugin.saveSettings();
+                    this.ctx.settings.trackAcrossVault = value;
+                    await this.ctx.saveAndApplySettings();
                     this.display();
                 }
             }));
@@ -14126,45 +17276,45 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                 .setDesc(createFragment((fragment) => {
                 fragment.appendText('Duplicate notes with the same Readwise URL will be removed when enabled. Otherwise, they will be marked with duplicate: true in frontmatter.');
             }))
-                .addToggle((toggle) => toggle.setValue(this.plugin.settings.deleteDuplicates).onChange(async (value) => {
+                .addToggle((toggle) => toggle.setValue(this.ctx.settings.deleteDuplicates).onChange(async (value) => {
                 if (value) {
                     const modal = new obsidian.Modal(this.app);
                     modal.titleEl.setText('Warning');
                     modal.contentEl.createEl('p', {
-                        text: 'This will permanently delete duplicate files instead of marking them. If enabled, files in your Vault will be deleted when duplicates are found. Are you sure you want to continue?',
+                        text: 'This will permanently delete duplicate files instead of marking them. If enabled, files in your vault will be deleted when duplicates are found. Are you sure you want to continue?',
                     });
                     const buttonContainer = modal.contentEl.createDiv();
-                    buttonContainer.style.display = 'flex';
-                    buttonContainer.style.justifyContent = 'flex-end';
-                    buttonContainer.style.gap = '10px';
-                    buttonContainer.style.marginTop = '20px';
+                    buttonContainer.addClass('readwise-modal-actions');
+                    buttonContainer.addClass('readwise-modal-actions-spaced');
                     const cancelButton = buttonContainer.createEl('button', {
                         text: 'Cancel',
                     });
                     const confirmButton = buttonContainer.createEl('button', {
                         text: 'Confirm',
                     });
-                    confirmButton.style.backgroundColor = 'var(--background-modifier-error)';
+                    confirmButton.addClass('readwise-modal-danger-btn');
                     cancelButton.onclick = () => {
                         toggle.setValue(false);
                         modal.close();
                     };
-                    confirmButton.onclick = async () => {
-                        this.plugin.settings.deleteDuplicates = true;
-                        await this.plugin.saveSettings();
-                        modal.close();
+                    confirmButton.onclick = () => {
+                        void (async () => {
+                            this.ctx.settings.deleteDuplicates = true;
+                            await this.ctx.saveAndApplySettings();
+                            modal.close();
+                        })();
                     };
                     modal.open();
                 }
                 else {
-                    this.plugin.settings.deleteDuplicates = false;
-                    await this.plugin.saveSettings();
+                    this.ctx.settings.deleteDuplicates = false;
+                    await this.ctx.saveAndApplySettings();
                 }
             }));
         }
     }
     renderFilenameSettings(containerEl) {
-        if (this.plugin.settings.trackFiles) {
+        if (this.ctx.settings.trackFiles) {
             new obsidian.Setting(containerEl).setName('Filename updates and filename templates').setHeading();
             new obsidian.Setting(containerEl)
                 .setName('File name updates')
@@ -14180,32 +17330,32 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                     .setAttr('target', '_blank');
                 fragment.appendText(' wiki for details.');
             }))
-                .addToggle((toggle) => toggle.setValue(this.plugin.settings.enableFileNameUpdates).onChange(async (value) => {
-                this.plugin.settings.enableFileNameUpdates = value;
-                await this.plugin.saveSettings();
+                .addToggle((toggle) => toggle.setValue(this.ctx.settings.enableFileNameUpdates).onChange(async (value) => {
+                this.ctx.settings.enableFileNameUpdates = value;
+                await this.ctx.saveAndApplySettings();
                 this.display();
             }));
         }
-        if (this.plugin.settings.trackFiles && this.plugin.settings.enableFileNameUpdates) {
+        if (this.ctx.settings.trackFiles && this.ctx.settings.enableFileNameUpdates) {
             new obsidian.Setting(containerEl)
                 .setName('Use custom filename template')
-                .setDesc('Enable custom filename templates using Nunjucks variables.')
-                .addToggle((toggle) => toggle.setValue(this.plugin.settings.useCustomFilename).onChange(async (value) => {
-                this.plugin.settings.useCustomFilename = value;
-                await this.plugin.saveSettings();
+                .setDesc('Enable custom filename templates using nunjucks variables.')
+                .addToggle((toggle) => toggle.setValue(this.ctx.settings.useCustomFilename).onChange(async (value) => {
+                this.ctx.settings.useCustomFilename = value;
+                await this.ctx.saveAndApplySettings();
                 this.display();
             }));
-            if (this.plugin.settings.useCustomFilename) {
+            if (this.ctx.settings.useCustomFilename) {
                 new obsidian.Setting(containerEl)
                     .setClass('indent')
                     .setName('Filename template')
                     .setDesc('Nunjucks template used to generate filenames.')
                     .addText((text) => text
                     .setPlaceholder('{{title}}')
-                    .setValue(this.plugin.settings.filenameTemplate)
+                    .setValue(this.ctx.settings.filenameTemplate)
                     .onChange(async (value) => {
-                    this.plugin.settings.filenameTemplate = value || '{{title}}';
-                    await this.plugin.saveSettings();
+                    this.ctx.settings.filenameTemplate = value || '{{title}}';
+                    await this.ctx.saveAndApplySettings();
                 }));
             }
             new obsidian.Setting(containerEl)
@@ -14213,46 +17363,46 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                 .setDesc('String used to replace colons (:) in filenames.')
                 .addText((text) => text
                 .setPlaceholder('Colon replacement in title')
-                .setValue(this.plugin.settings.colonSubstitute)
+                .setValue(this.ctx.settings.colonSubstitute)
                 .onChange(async (value) => {
                 if (!value || /[:<>"/\\|?*]/.test(value)) {
-                    this.logger.warn(`Colon replacement: empty or invalid value: ${value}`);
-                    this.plugin.settings.colonSubstitute = DEFAULT_SETTINGS.colonSubstitute;
+                    this.ctx.logger.warn(`Colon replacement: empty or invalid value: ${value}`);
+                    this.ctx.settings.colonSubstitute = DEFAULT_SETTINGS.colonSubstitute;
                 }
                 else {
-                    this.logger.info(`Colon replacement: setting value: ${value}`);
-                    this.plugin.settings.colonSubstitute = value;
+                    this.ctx.logger.debug(`Colon replacement: setting value: ${value}`);
+                    this.ctx.settings.colonSubstitute = value;
                 }
-                await this.plugin.saveSettings();
+                await this.ctx.saveAndApplySettings();
             }));
             new obsidian.Setting(containerEl)
                 .setName('Use slugify for filenames')
                 .setDesc('Enable slugification to create clean filenames.')
-                .addToggle((toggle) => toggle.setValue(this.plugin.settings.useSlugify).onChange(async (value) => {
-                this.plugin.settings.useSlugify = value;
-                await this.plugin.saveSettings();
+                .addToggle((toggle) => toggle.setValue(this.ctx.settings.useSlugify).onChange(async (value) => {
+                this.ctx.settings.useSlugify = value;
+                await this.ctx.saveAndApplySettings();
                 // Trigger re-render to show/hide property selector
                 this.display();
             }));
-            if (this.plugin.settings.useSlugify) {
+            if (this.ctx.settings.useSlugify) {
                 new obsidian.Setting(containerEl)
                     .setClass('indent')
                     .setName('Slugify separator')
                     .setDesc('Character used as separator in slugified filenames.')
                     .addText((text) => text
                     .setPlaceholder('-')
-                    .setValue(this.plugin.settings.slugifySeparator)
+                    .setValue(this.ctx.settings.slugifySeparator)
                     .onChange(async (value) => {
-                    this.plugin.settings.slugifySeparator = value || '-';
-                    await this.plugin.saveSettings();
+                    this.ctx.settings.slugifySeparator = value || '-';
+                    await this.ctx.saveAndApplySettings();
                 }));
                 new obsidian.Setting(containerEl)
                     .setClass('indent')
                     .setName('Slugify lowercase')
                     .setDesc('Convert slugified filenames to lowercase.')
-                    .addToggle((toggle) => toggle.setValue(this.plugin.settings.slugifyLowercase).onChange(async (value) => {
-                    this.plugin.settings.slugifyLowercase = value;
-                    await this.plugin.saveSettings();
+                    .addToggle((toggle) => toggle.setValue(this.ctx.settings.slugifyLowercase).onChange(async (value) => {
+                    this.ctx.settings.slugifyLowercase = value;
+                    await this.ctx.saveAndApplySettings();
                 }));
             }
         }
@@ -14262,32 +17412,32 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
         new obsidian.Setting(containerEl)
             .setName('Display sync notifications')
             .setDesc('Display Obsidian notifications during sync operations')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.syncNotifications).onChange(async (value) => {
-            this.plugin.settings.syncNotifications = value;
-            await this.plugin.saveSettings();
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.syncNotifications).onChange(async (value) => {
+            this.ctx.settings.syncNotifications = value;
+            await this.ctx.saveAndApplySettings();
         }));
         new obsidian.Setting(containerEl)
             .setName('Sync log')
-            .setDesc('Save sync log to file in Library')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.logFile).onChange(async (value) => {
-            this.plugin.settings.logFile = value;
-            await this.plugin.saveSettings();
+            .setDesc('Save sync log to file in library')
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.logFile).onChange(async (value) => {
+            this.ctx.settings.logFile = value;
+            await this.ctx.saveAndApplySettings();
             // Trigger re-render to show/hide log filename setting
             this.display();
         }));
-        if (this.plugin.settings.logFile) {
+        if (this.ctx.settings.logFile) {
             new obsidian.Setting(containerEl)
                 .setClass('indent')
                 .setName('Log filename')
                 .setDesc('Default: Sync.md')
                 .addText((text) => text
                 .setPlaceholder('Sync.md')
-                .setValue(this.plugin.settings.logFileName)
+                .setValue(this.ctx.settings.logFileName)
                 .onChange(async (value) => {
                 if (!value)
                     return;
-                this.plugin.settings.logFileName = value;
-                await this.plugin.saveSettings();
+                this.ctx.settings.logFileName = value;
+                await this.ctx.saveAndApplySettings();
             }));
         }
     }
@@ -14300,52 +17450,52 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                 text: 'The plugin uses three templates to control how your Readwise content is formatted:',
             });
             fragment.createEl('p', {
-                text: '1. Frontmatter Template: Controls the YAML metadata at the top of each note',
+                text: '1. Frontmatter template: Controls the YAML metadata at the top of each note',
             });
             fragment.createEl('p', {
-                text: '2. Header Template: Controls the main document structure and metadata below the frontmatter',
+                text: '2. Header template: Controls the main document structure and metadata below the frontmatter',
             });
             fragment.createEl('p', {
-                text: '3. Highlight Template: Controls how individual highlights are formatted within the note',
+                text: '3. Highlight template: Controls how individual highlights are formatted within the note',
             });
             fragment.createEl('p', {
-                text: 'Each template supports Nunjucks templating syntax and provides access to specific variables relevant to that section.',
+                text: 'Each template supports nunjucks templating syntax and provides access to specific variables relevant to that section.',
             });
         }));
         // Documentation block for templates
         new obsidian.Setting(containerEl)
-            .setName('Frontmatter settings')
+            .setName('Frontmatter')
             .setDesc(createFragment((fragment) => {
             fragment.appendText('Controls the YAML metadata at the top of each note');
         }))
             .setHeading();
         new obsidian.Setting(containerEl)
             .setName('Add frontmatter')
-            .setDesc('Add frontmatter (defined with the Frontmatter Template below)')
-            .addToggle((toggle) => toggle.setValue(this.plugin.settings.frontMatter).onChange(async (value) => {
+            .setDesc('Add frontmatter (defined with the frontmatter template below)')
+            .addToggle((toggle) => toggle.setValue(this.ctx.settings.frontMatter).onChange(async (value) => {
             // Test template with sample data
             try {
-                const { isValidYaml, error } = validateFrontmatterTemplate(this.plugin.env, this.plugin.settings.frontMatterTemplate);
+                const { isValidYaml, error } = validateFrontmatterTemplate(this.env, this.ctx.settings.frontMatterTemplate);
                 if ((value && isValidYaml) || !value) {
                     // Save settings and update the template
-                    this.plugin.settings.frontMatter = value;
-                    await this.plugin.saveSettings();
+                    this.ctx.settings.frontMatter = value;
+                    await this.ctx.saveAndApplySettings();
                     // Trigger re-render to show/hide frontmatter settings
                     this.display();
                 }
                 else if (value && !isValidYaml) {
-                    this.notify.notice(`Invalid frontmatter template: ${error}`);
+                    this.ctx.notice(`Invalid frontmatter template: ${this.getErrorMessage(error)}`);
                     toggle.setValue(false);
                     // Trigger re-render to show/hide property selector
                     this.display();
                 }
             }
             catch (error) {
-                this.logger.error('Error validating frontmatter template:', error);
+                this.ctx.logger.error('Error validating frontmatter template:', error);
                 return;
             }
         }));
-        if (this.plugin.settings.frontMatter) {
+        if (this.ctx.settings.frontMatter) {
             new obsidian.Setting(containerEl)
                 .setClass('indent')
                 .setName('Update frontmatter')
@@ -14355,13 +17505,13 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                 fragment.createEl('br');
                 fragment.appendText('When enabled, frontmatter of existing files will be updated, keeping additional fields that are not present in the template. Works best with file tracking enabled.');
             }))
-                .addToggle((toggle) => toggle.setValue(this.plugin.settings.updateFrontmatter).onChange(async (value) => {
-                this.plugin.settings.updateFrontmatter = value;
-                await this.plugin.saveSettings();
+                .addToggle((toggle) => toggle.setValue(this.ctx.settings.updateFrontmatter).onChange(async (value) => {
+                this.ctx.settings.updateFrontmatter = value;
+                await this.ctx.saveAndApplySettings();
                 // Trigger re-render to show/hide protection settings
                 this.display();
             }));
-            if (this.plugin.settings.updateFrontmatter) {
+            if (this.ctx.settings.updateFrontmatter) {
                 new obsidian.Setting(containerEl)
                     .setClass('indent')
                     .setName('Protect frontmatter fields')
@@ -14371,27 +17521,27 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                     fragment.createEl('br');
                     fragment.appendText('Note: Only fields that already exist in the file will be protected. A field marked for protection which is not present yet in the original field will be written normally at the first write/update, and will be protected henceforth.');
                     fragment.createEl('br');
-                    if (this.plugin.settings.trackFiles) {
+                    if (this.ctx.settings.trackFiles) {
                         fragment.appendText('The tracking field ');
                         fragment.createEl('strong', {
-                            text: this.plugin.settings.trackingProperty,
+                            text: this.ctx.settings.trackingProperty,
                         });
                         fragment.appendText(' cannot be protected.');
                     }
                 }))
-                    .addToggle((toggle) => toggle.setValue(this.plugin.settings.protectFrontmatter).onChange(async (value) => {
-                    this.plugin.settings.protectFrontmatter = value;
-                    await this.plugin.saveSettings();
+                    .addToggle((toggle) => toggle.setValue(this.ctx.settings.protectFrontmatter).onChange(async (value) => {
+                    this.ctx.settings.protectFrontmatter = value;
+                    await this.ctx.saveAndApplySettings();
                     this.display();
                 }));
-                if (this.plugin.settings.protectFrontmatter) {
+                if (this.ctx.settings.protectFrontmatter) {
                     const validateProtectedFields = (value) => {
                         const fields = value
                             .split('\n')
                             .map((f) => f.trim())
                             .filter((f) => f.length > 0);
-                        const dedupField = this.plugin.settings.trackingProperty;
-                        if (this.plugin.settings.trackFiles && fields.includes(dedupField)) {
+                        const dedupField = this.ctx.settings.trackingProperty;
+                        if (this.ctx.settings.trackFiles && fields.includes(dedupField)) {
                             return {
                                 isValid: false,
                                 error: `Cannot protect tracking field '${dedupField}'`,
@@ -14414,17 +17564,17 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                         text.inputEl.rows = initialRows;
                         text.inputEl.cols = 25;
                         text
-                            .setValue(this.plugin.settings.protectedFields)
-                            .setPlaceholder('status\ntags')
+                            .setValue(this.ctx.settings.protectedFields)
+                            .setPlaceholder('Status\ntags')
                             .onChange(async (value) => {
                             const validation = validateProtectedFields(value);
                             errorDiv.setText(validation.error || '');
                             if (validation.isValid) {
-                                this.plugin.settings.protectedFields = value;
-                                await this.plugin.saveSettings();
+                                this.ctx.settings.protectedFields = value;
+                                await this.ctx.saveAndApplySettings();
                             }
                         });
-                        const validation = validateProtectedFields(this.plugin.settings.protectedFields);
+                        const validation = validateProtectedFields(this.ctx.settings.protectedFields);
                         errorDiv.setText(validation.error || '');
                         // Initial row adjustment
                         this.adjustTextareaRows(text.inputEl, initialRows);
@@ -14479,27 +17629,16 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             const container = containerEl.createDiv();
             // Create preview elements below textarea
             const previewContainer = container.createDiv('template-preview');
-            const previewTitle = previewContainer.createDiv({
+            previewContainer.createDiv({
                 text: 'Template Preview (Error):',
-                cls: 'template-preview-title',
-                attr: {
-                    style: 'color: var(--text-error);',
-                },
+                cls: ['template-preview-title', 'template-preview-title-error'],
             });
-            previewTitle.style.fontWeight = 'bold';
-            previewTitle.style.marginTop = '1em';
             const errorNotice = previewContainer.createDiv({
                 cls: 'validation-notice',
-                attr: {
-                    style: 'color: var(--text-error); margin-top: 1em;',
-                },
             });
             errorNotice.id = 'validation-notice';
             const previewContent = previewContainer.createEl('pre', {
                 cls: ['template-preview-content', 'settings-template-input'],
-                attr: {
-                    style: 'background-color: var(--background-secondary); padding: 1em; border-radius: 4px; overflow-x: auto;',
-                },
             });
             previewContent.id = 'template-preview-content';
             const errorDetails = previewContainer.createEl('pre', {
@@ -14512,16 +17651,16 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             errorDetails.hide();
             // Update preview on template changes
             const updatePreview = (result) => {
-                const isInvalidTemplate = result.isValidtemplate === false;
+                const isInvalidTemplate = result.isValidTemplate === false;
                 const isInvalidYaml = result.isValidYaml === false;
                 const hasError = isInvalidTemplate || isInvalidYaml;
                 if (isInvalidTemplate) {
-                    errorNotice.setText('Your Frontmatter template contains invalid Nunjucks syntax.');
-                    errorDetails.setText(result.error);
+                    errorNotice.setText('Your frontmatter template contains invalid nunjucks syntax.');
+                    errorDetails.setText(result.error ?? '');
                 }
                 else if (isInvalidYaml) {
-                    errorNotice.setText('Your Frontmatter template creates invalid YAML.');
-                    errorDetails.setText(result.error);
+                    errorNotice.setText('Your frontmatter template creates invalid YAML.');
+                    errorDetails.setText(result.error ?? '');
                 }
                 else {
                     errorNotice.setText('');
@@ -14536,46 +17675,48 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             };
             // Display rendered template on load
             try {
-                const validationResult = validateFrontmatterTemplate(this.plugin.env, this.plugin.settings.frontMatterTemplate);
+                const validationResult = validateFrontmatterTemplate(this.env, this.ctx.settings.frontMatterTemplate);
                 updatePreview(validationResult);
             }
             catch (error) {
                 // Catch Nunjucks template errors
-                this.logger.error('Error validating frontmatter template:', error);
+                this.ctx.logger.error('Error validating frontmatter template:', error);
+                const errorMessage = this.getErrorMessage(error);
                 updatePreview({
-                    isValidYaml: true,
-                    isValidtemplate: false,
-                    error: error.message,
-                    preview: this.plugin.settings.frontMatterTemplate,
+                    isValidYaml: false,
+                    isValidTemplate: false,
+                    error: errorMessage,
+                    preview: this.ctx.settings.frontMatterTemplate,
                 });
             }
-            text.setValue(sanitizeFrontmatterTemplate(this.plugin.settings.frontMatterTemplate)).onChange(async (value) => {
+            text.setValue(sanitizeFrontmatterTemplate(this.ctx.settings.frontMatterTemplate)).onChange(async (value) => {
                 const noticeEl = containerEl.querySelector('#validation-notice');
                 try {
-                    const validationResult = validateFrontmatterTemplate(this.plugin.env, value);
+                    const validationResult = validateFrontmatterTemplate(this.env, value);
                     // Update validation notice
                     if (noticeEl) {
-                        noticeEl.setText(validationResult.isValidYaml ? '' : validationResult.error);
+                        noticeEl.setText(validationResult.isValidYaml ? '' : (validationResult.error ?? ''));
                     }
                     // Set the frontmatter in settings, but only if enabled
-                    if (!value && this.plugin.settings.frontMatter) {
-                        this.plugin.settings.frontMatterTemplate = DEFAULT_SETTINGS.frontMatterTemplate;
+                    if (!value && this.ctx.settings.frontMatter) {
+                        this.ctx.settings.frontMatterTemplate = DEFAULT_SETTINGS.frontMatterTemplate;
                     }
                     else {
-                        this.plugin.settings.frontMatterTemplate = sanitizeFrontmatterTemplate(value);
+                        this.ctx.settings.frontMatterTemplate = sanitizeFrontmatterTemplate(value);
                     }
                     updatePreview(validationResult);
-                    await this.plugin.saveSettings();
+                    await this.ctx.saveAndApplySettings();
                 }
                 catch (error) {
                     // Catch Nunjucks template errors
-                    this.logger.error('Error validating frontmatter template:', error);
+                    this.ctx.logger.error('Error validating frontmatter template:', error);
+                    const errorMessage = this.getErrorMessage(error);
                     if (noticeEl) {
-                        noticeEl.setText(`Error validating frontmatter template: ${error.message}`);
+                        noticeEl.setText(`Error validating frontmatter template: ${errorMessage}`);
                         updatePreview({
-                            isValidYaml: true,
-                            isValidtemplate: false,
-                            error: error.message,
+                            isValidYaml: false,
+                            isValidTemplate: false,
+                            error: errorMessage,
                             preview: value,
                         });
                     }
@@ -14621,15 +17762,14 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             text.inputEl.addClass('settings-template-input');
             text.inputEl.rows = initialRows;
             text.inputEl.cols = 50;
-            text.setValue(this.plugin.settings.headerTemplate).onChange(async (value) => {
+            text.setValue(this.ctx.settings.headerTemplate).onChange(async (value) => {
                 if (!value) {
-                    this.plugin.settings.headerTemplate = DEFAULT_SETTINGS.headerTemplate;
+                    this.ctx.settings.headerTemplate = DEFAULT_SETTINGS.headerTemplate;
                 }
                 else {
-                    this.plugin.settings.headerTemplate = value;
+                    this.ctx.settings.headerTemplate = value;
                 }
-                this.plugin.headerTemplate = this.plugin.settings.headerTemplate;
-                await this.plugin.saveSettings();
+                await this.ctx.saveAndApplySettings();
             });
             // Initial row adjustment
             this.adjustTextareaRows(text.inputEl, initialRows);
@@ -14673,15 +17813,14 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             text.inputEl.addClass('settings-template-input');
             text.inputEl.rows = initialRows;
             text.inputEl.cols = 50;
-            text.setValue(this.plugin.settings.highlightTemplate).onChange(async (value) => {
+            text.setValue(this.ctx.settings.highlightTemplate).onChange(async (value) => {
                 if (!value) {
-                    this.plugin.settings.highlightTemplate = DEFAULT_SETTINGS.highlightTemplate;
+                    this.ctx.settings.highlightTemplate = DEFAULT_SETTINGS.highlightTemplate;
                 }
                 else {
-                    this.plugin.settings.highlightTemplate = value;
+                    this.ctx.settings.highlightTemplate = value;
                 }
-                this.plugin.highlightTemplate = this.plugin.settings.highlightTemplate;
-                await this.plugin.saveSettings();
+                await this.ctx.saveAndApplySettings();
             });
             // Initial row adjustment
             this.adjustTextareaRows(text.inputEl, initialRows);
@@ -14694,2347 +17833,163 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
     }
 }
 
-function escapeStringRegexp(string) {
-	if (typeof string !== 'string') {
-		throw new TypeError('Expected a string');
-	}
-
-	// Escape characters with special meaning either inside or outside character sets.
-	// Use a simple backslash escape when it’s always valid, and a `\xnn` escape when the simpler form would be disallowed by Unicode patterns’ stricter grammar.
-	return string
-		.replace(/[|\\{}()[\]^$+*?.]/g, '\\$&')
-		.replace(/-/g, '\\x2d');
-}
-
-const replacements = [
-	// German umlauts
-	['ß', 'ss'],
-	['ẞ', 'Ss'],
-	['ä', 'ae'],
-	['Ä', 'Ae'],
-	['ö', 'oe'],
-	['Ö', 'Oe'],
-	['ü', 'ue'],
-	['Ü', 'Ue'],
-
-	// Latin
-	['À', 'A'],
-	['Á', 'A'],
-	['Â', 'A'],
-	['Ã', 'A'],
-	['Ä', 'Ae'],
-	['Å', 'A'],
-	['Æ', 'AE'],
-	['Ç', 'C'],
-	['È', 'E'],
-	['É', 'E'],
-	['Ê', 'E'],
-	['Ë', 'E'],
-	['Ì', 'I'],
-	['Í', 'I'],
-	['Î', 'I'],
-	['Ï', 'I'],
-	['Ð', 'D'],
-	['Ñ', 'N'],
-	['Ò', 'O'],
-	['Ó', 'O'],
-	['Ô', 'O'],
-	['Õ', 'O'],
-	['Ö', 'Oe'],
-	['Ő', 'O'],
-	['Ø', 'O'],
-	['Ù', 'U'],
-	['Ú', 'U'],
-	['Û', 'U'],
-	['Ü', 'Ue'],
-	['Ű', 'U'],
-	['Ý', 'Y'],
-	['Þ', 'TH'],
-	['ß', 'ss'],
-	['à', 'a'],
-	['á', 'a'],
-	['â', 'a'],
-	['ã', 'a'],
-	['ä', 'ae'],
-	['å', 'a'],
-	['æ', 'ae'],
-	['ç', 'c'],
-	['è', 'e'],
-	['é', 'e'],
-	['ê', 'e'],
-	['ë', 'e'],
-	['ì', 'i'],
-	['í', 'i'],
-	['î', 'i'],
-	['ï', 'i'],
-	['ð', 'd'],
-	['ñ', 'n'],
-	['ò', 'o'],
-	['ó', 'o'],
-	['ô', 'o'],
-	['õ', 'o'],
-	['ö', 'oe'],
-	['ő', 'o'],
-	['ø', 'o'],
-	['ù', 'u'],
-	['ú', 'u'],
-	['û', 'u'],
-	['ü', 'ue'],
-	['ű', 'u'],
-	['ý', 'y'],
-	['þ', 'th'],
-	['ÿ', 'y'],
-	['ẞ', 'SS'],
-
-	// Vietnamese
-	['à', 'a'],
-	['À', 'A'],
-	['á', 'a'],
-	['Á', 'A'],
-	['â', 'a'],
-	['Â', 'A'],
-	['ã', 'a'],
-	['Ã', 'A'],
-	['è', 'e'],
-	['È', 'E'],
-	['é', 'e'],
-	['É', 'E'],
-	['ê', 'e'],
-	['Ê', 'E'],
-	['ì', 'i'],
-	['Ì', 'I'],
-	['í', 'i'],
-	['Í', 'I'],
-	['ò', 'o'],
-	['Ò', 'O'],
-	['ó', 'o'],
-	['Ó', 'O'],
-	['ô', 'o'],
-	['Ô', 'O'],
-	['õ', 'o'],
-	['Õ', 'O'],
-	['ù', 'u'],
-	['Ù', 'U'],
-	['ú', 'u'],
-	['Ú', 'U'],
-	['ý', 'y'],
-	['Ý', 'Y'],
-	['ă', 'a'],
-	['Ă', 'A'],
-	['Đ', 'D'],
-	['đ', 'd'],
-	['ĩ', 'i'],
-	['Ĩ', 'I'],
-	['ũ', 'u'],
-	['Ũ', 'U'],
-	['ơ', 'o'],
-	['Ơ', 'O'],
-	['ư', 'u'],
-	['Ư', 'U'],
-	['ạ', 'a'],
-	['Ạ', 'A'],
-	['ả', 'a'],
-	['Ả', 'A'],
-	['ấ', 'a'],
-	['Ấ', 'A'],
-	['ầ', 'a'],
-	['Ầ', 'A'],
-	['ẩ', 'a'],
-	['Ẩ', 'A'],
-	['ẫ', 'a'],
-	['Ẫ', 'A'],
-	['ậ', 'a'],
-	['Ậ', 'A'],
-	['ắ', 'a'],
-	['Ắ', 'A'],
-	['ằ', 'a'],
-	['Ằ', 'A'],
-	['ẳ', 'a'],
-	['Ẳ', 'A'],
-	['ẵ', 'a'],
-	['Ẵ', 'A'],
-	['ặ', 'a'],
-	['Ặ', 'A'],
-	['ẹ', 'e'],
-	['Ẹ', 'E'],
-	['ẻ', 'e'],
-	['Ẻ', 'E'],
-	['ẽ', 'e'],
-	['Ẽ', 'E'],
-	['ế', 'e'],
-	['Ế', 'E'],
-	['ề', 'e'],
-	['Ề', 'E'],
-	['ể', 'e'],
-	['Ể', 'E'],
-	['ễ', 'e'],
-	['Ễ', 'E'],
-	['ệ', 'e'],
-	['Ệ', 'E'],
-	['ỉ', 'i'],
-	['Ỉ', 'I'],
-	['ị', 'i'],
-	['Ị', 'I'],
-	['ọ', 'o'],
-	['Ọ', 'O'],
-	['ỏ', 'o'],
-	['Ỏ', 'O'],
-	['ố', 'o'],
-	['Ố', 'O'],
-	['ồ', 'o'],
-	['Ồ', 'O'],
-	['ổ', 'o'],
-	['Ổ', 'O'],
-	['ỗ', 'o'],
-	['Ỗ', 'O'],
-	['ộ', 'o'],
-	['Ộ', 'O'],
-	['ớ', 'o'],
-	['Ớ', 'O'],
-	['ờ', 'o'],
-	['Ờ', 'O'],
-	['ở', 'o'],
-	['Ở', 'O'],
-	['ỡ', 'o'],
-	['Ỡ', 'O'],
-	['ợ', 'o'],
-	['Ợ', 'O'],
-	['ụ', 'u'],
-	['Ụ', 'U'],
-	['ủ', 'u'],
-	['Ủ', 'U'],
-	['ứ', 'u'],
-	['Ứ', 'U'],
-	['ừ', 'u'],
-	['Ừ', 'U'],
-	['ử', 'u'],
-	['Ử', 'U'],
-	['ữ', 'u'],
-	['Ữ', 'U'],
-	['ự', 'u'],
-	['Ự', 'U'],
-	['ỳ', 'y'],
-	['Ỳ', 'Y'],
-	['ỵ', 'y'],
-	['Ỵ', 'Y'],
-	['ỷ', 'y'],
-	['Ỷ', 'Y'],
-	['ỹ', 'y'],
-	['Ỹ', 'Y'],
-
-	// Arabic
-	['ء', 'e'],
-	['آ', 'a'],
-	['أ', 'a'],
-	['ؤ', 'w'],
-	['إ', 'i'],
-	['ئ', 'y'],
-	['ا', 'a'],
-	['ب', 'b'],
-	['ة', 't'],
-	['ت', 't'],
-	['ث', 'th'],
-	['ج', 'j'],
-	['ح', 'h'],
-	['خ', 'kh'],
-	['د', 'd'],
-	['ذ', 'dh'],
-	['ر', 'r'],
-	['ز', 'z'],
-	['س', 's'],
-	['ش', 'sh'],
-	['ص', 's'],
-	['ض', 'd'],
-	['ط', 't'],
-	['ظ', 'z'],
-	['ع', 'e'],
-	['غ', 'gh'],
-	['ـ', '_'],
-	['ف', 'f'],
-	['ق', 'q'],
-	['ك', 'k'],
-	['ل', 'l'],
-	['م', 'm'],
-	['ن', 'n'],
-	['ه', 'h'],
-	['و', 'w'],
-	['ى', 'a'],
-	['ي', 'y'],
-	['َ‎', 'a'],
-	['ُ', 'u'],
-	['ِ‎', 'i'],
-	['٠', '0'],
-	['١', '1'],
-	['٢', '2'],
-	['٣', '3'],
-	['٤', '4'],
-	['٥', '5'],
-	['٦', '6'],
-	['٧', '7'],
-	['٨', '8'],
-	['٩', '9'],
-
-	// Persian / Farsi
-	['چ', 'ch'],
-	['ک', 'k'],
-	['گ', 'g'],
-	['پ', 'p'],
-	['ژ', 'zh'],
-	['ی', 'y'],
-	['۰', '0'],
-	['۱', '1'],
-	['۲', '2'],
-	['۳', '3'],
-	['۴', '4'],
-	['۵', '5'],
-	['۶', '6'],
-	['۷', '7'],
-	['۸', '8'],
-	['۹', '9'],
-
-	// Pashto
-	['ټ', 'p'],
-	['ځ', 'z'],
-	['څ', 'c'],
-	['ډ', 'd'],
-	['ﺫ', 'd'],
-	['ﺭ', 'r'],
-	['ړ', 'r'],
-	['ﺯ', 'z'],
-	['ږ', 'g'],
-	['ښ', 'x'],
-	['ګ', 'g'],
-	['ڼ', 'n'],
-	['ۀ', 'e'],
-	['ې', 'e'],
-	['ۍ', 'ai'],
-
-	// Urdu
-	['ٹ', 't'],
-	['ڈ', 'd'],
-	['ڑ', 'r'],
-	['ں', 'n'],
-	['ہ', 'h'],
-	['ھ', 'h'],
-	['ے', 'e'],
-
-	// Russian
-	['А', 'A'],
-	['а', 'a'],
-	['Б', 'B'],
-	['б', 'b'],
-	['В', 'V'],
-	['в', 'v'],
-	['Г', 'G'],
-	['г', 'g'],
-	['Д', 'D'],
-	['д', 'd'],
-	['ъе', 'ye'],
-	['Ъе', 'Ye'],
-	['ъЕ', 'yE'],
-	['ЪЕ', 'YE'],
-	['Е', 'E'],
-	['е', 'e'],
-	['Ё', 'Yo'],
-	['ё', 'yo'],
-	['Ж', 'Zh'],
-	['ж', 'zh'],
-	['З', 'Z'],
-	['з', 'z'],
-	['И', 'I'],
-	['и', 'i'],
-	['ый', 'iy'],
-	['Ый', 'Iy'],
-	['ЫЙ', 'IY'],
-	['ыЙ', 'iY'],
-	['Й', 'Y'],
-	['й', 'y'],
-	['К', 'K'],
-	['к', 'k'],
-	['Л', 'L'],
-	['л', 'l'],
-	['М', 'M'],
-	['м', 'm'],
-	['Н', 'N'],
-	['н', 'n'],
-	['О', 'O'],
-	['о', 'o'],
-	['П', 'P'],
-	['п', 'p'],
-	['Р', 'R'],
-	['р', 'r'],
-	['С', 'S'],
-	['с', 's'],
-	['Т', 'T'],
-	['т', 't'],
-	['У', 'U'],
-	['у', 'u'],
-	['Ф', 'F'],
-	['ф', 'f'],
-	['Х', 'Kh'],
-	['х', 'kh'],
-	['Ц', 'Ts'],
-	['ц', 'ts'],
-	['Ч', 'Ch'],
-	['ч', 'ch'],
-	['Ш', 'Sh'],
-	['ш', 'sh'],
-	['Щ', 'Sch'],
-	['щ', 'sch'],
-	['Ъ', ''],
-	['ъ', ''],
-	['Ы', 'Y'],
-	['ы', 'y'],
-	['Ь', ''],
-	['ь', ''],
-	['Э', 'E'],
-	['э', 'e'],
-	['Ю', 'Yu'],
-	['ю', 'yu'],
-	['Я', 'Ya'],
-	['я', 'ya'],
-
-	// Romanian
-	['ă', 'a'],
-	['Ă', 'A'],
-	['ș', 's'],
-	['Ș', 'S'],
-	['ț', 't'],
-	['Ț', 'T'],
-	['ţ', 't'],
-	['Ţ', 'T'],
-
-	// Turkish
-	['ş', 's'],
-	['Ş', 'S'],
-	['ç', 'c'],
-	['Ç', 'C'],
-	['ğ', 'g'],
-	['Ğ', 'G'],
-	['ı', 'i'],
-	['İ', 'I'],
-
-	// Armenian
-	['ա', 'a'],
-	['Ա', 'A'],
-	['բ', 'b'],
-	['Բ', 'B'],
-	['գ', 'g'],
-	['Գ', 'G'],
-	['դ', 'd'],
-	['Դ', 'D'],
-	['ե', 'ye'],
-	['Ե', 'Ye'],
-	['զ', 'z'],
-	['Զ', 'Z'],
-	['է', 'e'],
-	['Է', 'E'],
-	['ը', 'y'],
-	['Ը', 'Y'],
-	['թ', 't'],
-	['Թ', 'T'],
-	['ժ', 'zh'],
-	['Ժ', 'Zh'],
-	['ի', 'i'],
-	['Ի', 'I'],
-	['լ', 'l'],
-	['Լ', 'L'],
-	['խ', 'kh'],
-	['Խ', 'Kh'],
-	['ծ', 'ts'],
-	['Ծ', 'Ts'],
-	['կ', 'k'],
-	['Կ', 'K'],
-	['հ', 'h'],
-	['Հ', 'H'],
-	['ձ', 'dz'],
-	['Ձ', 'Dz'],
-	['ղ', 'gh'],
-	['Ղ', 'Gh'],
-	['ճ', 'tch'],
-	['Ճ', 'Tch'],
-	['մ', 'm'],
-	['Մ', 'M'],
-	['յ', 'y'],
-	['Յ', 'Y'],
-	['ն', 'n'],
-	['Ն', 'N'],
-	['շ', 'sh'],
-	['Շ', 'Sh'],
-	['ո', 'vo'],
-	['Ո', 'Vo'],
-	['չ', 'ch'],
-	['Չ', 'Ch'],
-	['պ', 'p'],
-	['Պ', 'P'],
-	['ջ', 'j'],
-	['Ջ', 'J'],
-	['ռ', 'r'],
-	['Ռ', 'R'],
-	['ս', 's'],
-	['Ս', 'S'],
-	['վ', 'v'],
-	['Վ', 'V'],
-	['տ', 't'],
-	['Տ', 'T'],
-	['ր', 'r'],
-	['Ր', 'R'],
-	['ց', 'c'],
-	['Ց', 'C'],
-	['ու', 'u'],
-	['ՈՒ', 'U'],
-	['Ու', 'U'],
-	['փ', 'p'],
-	['Փ', 'P'],
-	['ք', 'q'],
-	['Ք', 'Q'],
-	['օ', 'o'],
-	['Օ', 'O'],
-	['ֆ', 'f'],
-	['Ֆ', 'F'],
-	['և', 'yev'],
-
-	// Georgian
-	['ა', 'a'],
-	['ბ', 'b'],
-	['გ', 'g'],
-	['დ', 'd'],
-	['ე', 'e'],
-	['ვ', 'v'],
-	['ზ', 'z'],
-	['თ', 't'],
-	['ი', 'i'],
-	['კ', 'k'],
-	['ლ', 'l'],
-	['მ', 'm'],
-	['ნ', 'n'],
-	['ო', 'o'],
-	['პ', 'p'],
-	['ჟ', 'zh'],
-	['რ', 'r'],
-	['ს', 's'],
-	['ტ', 't'],
-	['უ', 'u'],
-	['ფ', 'ph'],
-	['ქ', 'q'],
-	['ღ', 'gh'],
-	['ყ', 'k'],
-	['შ', 'sh'],
-	['ჩ', 'ch'],
-	['ც', 'ts'],
-	['ძ', 'dz'],
-	['წ', 'ts'],
-	['ჭ', 'tch'],
-	['ხ', 'kh'],
-	['ჯ', 'j'],
-	['ჰ', 'h'],
-
-	// Czech
-	['č', 'c'],
-	['ď', 'd'],
-	['ě', 'e'],
-	['ň', 'n'],
-	['ř', 'r'],
-	['š', 's'],
-	['ť', 't'],
-	['ů', 'u'],
-	['ž', 'z'],
-	['Č', 'C'],
-	['Ď', 'D'],
-	['Ě', 'E'],
-	['Ň', 'N'],
-	['Ř', 'R'],
-	['Š', 'S'],
-	['Ť', 'T'],
-	['Ů', 'U'],
-	['Ž', 'Z'],
-
-	// Dhivehi
-	['ހ', 'h'],
-	['ށ', 'sh'],
-	['ނ', 'n'],
-	['ރ', 'r'],
-	['ބ', 'b'],
-	['ޅ', 'lh'],
-	['ކ', 'k'],
-	['އ', 'a'],
-	['ވ', 'v'],
-	['މ', 'm'],
-	['ފ', 'f'],
-	['ދ', 'dh'],
-	['ތ', 'th'],
-	['ލ', 'l'],
-	['ގ', 'g'],
-	['ޏ', 'gn'],
-	['ސ', 's'],
-	['ޑ', 'd'],
-	['ޒ', 'z'],
-	['ޓ', 't'],
-	['ޔ', 'y'],
-	['ޕ', 'p'],
-	['ޖ', 'j'],
-	['ޗ', 'ch'],
-	['ޘ', 'tt'],
-	['ޙ', 'hh'],
-	['ޚ', 'kh'],
-	['ޛ', 'th'],
-	['ޜ', 'z'],
-	['ޝ', 'sh'],
-	['ޞ', 's'],
-	['ޟ', 'd'],
-	['ޠ', 't'],
-	['ޡ', 'z'],
-	['ޢ', 'a'],
-	['ޣ', 'gh'],
-	['ޤ', 'q'],
-	['ޥ', 'w'],
-	['ަ', 'a'],
-	['ާ', 'aa'],
-	['ި', 'i'],
-	['ީ', 'ee'],
-	['ު', 'u'],
-	['ޫ', 'oo'],
-	['ެ', 'e'],
-	['ޭ', 'ey'],
-	['ޮ', 'o'],
-	['ޯ', 'oa'],
-	['ް', ''],
-
-	// Greek
-	['α', 'a'],
-	['β', 'v'],
-	['γ', 'g'],
-	['δ', 'd'],
-	['ε', 'e'],
-	['ζ', 'z'],
-	['η', 'i'],
-	['θ', 'th'],
-	['ι', 'i'],
-	['κ', 'k'],
-	['λ', 'l'],
-	['μ', 'm'],
-	['ν', 'n'],
-	['ξ', 'ks'],
-	['ο', 'o'],
-	['π', 'p'],
-	['ρ', 'r'],
-	['σ', 's'],
-	['τ', 't'],
-	['υ', 'y'],
-	['φ', 'f'],
-	['χ', 'x'],
-	['ψ', 'ps'],
-	['ω', 'o'],
-	['ά', 'a'],
-	['έ', 'e'],
-	['ί', 'i'],
-	['ό', 'o'],
-	['ύ', 'y'],
-	['ή', 'i'],
-	['ώ', 'o'],
-	['ς', 's'],
-	['ϊ', 'i'],
-	['ΰ', 'y'],
-	['ϋ', 'y'],
-	['ΐ', 'i'],
-	['Α', 'A'],
-	['Β', 'B'],
-	['Γ', 'G'],
-	['Δ', 'D'],
-	['Ε', 'E'],
-	['Ζ', 'Z'],
-	['Η', 'I'],
-	['Θ', 'TH'],
-	['Ι', 'I'],
-	['Κ', 'K'],
-	['Λ', 'L'],
-	['Μ', 'M'],
-	['Ν', 'N'],
-	['Ξ', 'KS'],
-	['Ο', 'O'],
-	['Π', 'P'],
-	['Ρ', 'R'],
-	['Σ', 'S'],
-	['Τ', 'T'],
-	['Υ', 'Y'],
-	['Φ', 'F'],
-	['Χ', 'X'],
-	['Ψ', 'PS'],
-	['Ω', 'O'],
-	['Ά', 'A'],
-	['Έ', 'E'],
-	['Ί', 'I'],
-	['Ό', 'O'],
-	['Ύ', 'Y'],
-	['Ή', 'I'],
-	['Ώ', 'O'],
-	['Ϊ', 'I'],
-	['Ϋ', 'Y'],
-
-	// Disabled as it conflicts with German and Latin.
-	// Hungarian
-	// ['ä', 'a'],
-	// ['Ä', 'A'],
-	// ['ö', 'o'],
-	// ['Ö', 'O'],
-	// ['ü', 'u'],
-	// ['Ü', 'U'],
-	// ['ű', 'u'],
-	// ['Ű', 'U'],
-
-	// Latvian
-	['ā', 'a'],
-	['ē', 'e'],
-	['ģ', 'g'],
-	['ī', 'i'],
-	['ķ', 'k'],
-	['ļ', 'l'],
-	['ņ', 'n'],
-	['ū', 'u'],
-	['Ā', 'A'],
-	['Ē', 'E'],
-	['Ģ', 'G'],
-	['Ī', 'I'],
-	['Ķ', 'K'],
-	['Ļ', 'L'],
-	['Ņ', 'N'],
-	['Ū', 'U'],
-	['č', 'c'],
-	['š', 's'],
-	['ž', 'z'],
-	['Č', 'C'],
-	['Š', 'S'],
-	['Ž', 'Z'],
-
-	// Lithuanian
-	['ą', 'a'],
-	['č', 'c'],
-	['ę', 'e'],
-	['ė', 'e'],
-	['į', 'i'],
-	['š', 's'],
-	['ų', 'u'],
-	['ū', 'u'],
-	['ž', 'z'],
-	['Ą', 'A'],
-	['Č', 'C'],
-	['Ę', 'E'],
-	['Ė', 'E'],
-	['Į', 'I'],
-	['Š', 'S'],
-	['Ų', 'U'],
-	['Ū', 'U'],
-
-	// Macedonian
-	['Ќ', 'Kj'],
-	['ќ', 'kj'],
-	['Љ', 'Lj'],
-	['љ', 'lj'],
-	['Њ', 'Nj'],
-	['њ', 'nj'],
-	['Тс', 'Ts'],
-	['тс', 'ts'],
-
-	// Polish
-	['ą', 'a'],
-	['ć', 'c'],
-	['ę', 'e'],
-	['ł', 'l'],
-	['ń', 'n'],
-	['ś', 's'],
-	['ź', 'z'],
-	['ż', 'z'],
-	['Ą', 'A'],
-	['Ć', 'C'],
-	['Ę', 'E'],
-	['Ł', 'L'],
-	['Ń', 'N'],
-	['Ś', 'S'],
-	['Ź', 'Z'],
-	['Ż', 'Z'],
-
-	// Disabled as it conflicts with Vietnamese.
-	// Serbian
-	// ['љ', 'lj'],
-	// ['њ', 'nj'],
-	// ['Љ', 'Lj'],
-	// ['Њ', 'Nj'],
-	// ['đ', 'dj'],
-	// ['Đ', 'Dj'],
-	// ['ђ', 'dj'],
-	// ['ј', 'j'],
-	// ['ћ', 'c'],
-	// ['џ', 'dz'],
-	// ['Ђ', 'Dj'],
-	// ['Ј', 'j'],
-	// ['Ћ', 'C'],
-	// ['Џ', 'Dz'],
-
-	// Disabled as it conflicts with German and Latin.
-	// Slovak
-	// ['ä', 'a'],
-	// ['Ä', 'A'],
-	// ['ľ', 'l'],
-	// ['ĺ', 'l'],
-	// ['ŕ', 'r'],
-	// ['Ľ', 'L'],
-	// ['Ĺ', 'L'],
-	// ['Ŕ', 'R'],
-
-	// Disabled as it conflicts with German and Latin.
-	// Swedish
-	// ['å', 'o'],
-	// ['Å', 'o'],
-	// ['ä', 'a'],
-	// ['Ä', 'A'],
-	// ['ë', 'e'],
-	// ['Ë', 'E'],
-	// ['ö', 'o'],
-	// ['Ö', 'O'],
-
-	// Ukrainian
-	['Є', 'Ye'],
-	['І', 'I'],
-	['Ї', 'Yi'],
-	['Ґ', 'G'],
-	['є', 'ye'],
-	['і', 'i'],
-	['ї', 'yi'],
-	['ґ', 'g'],
-
-	// Dutch
-	['Ĳ', 'IJ'],
-	['ĳ', 'ij'],
-
-	// Danish
-	// ['Æ', 'Ae'],
-	// ['Ø', 'Oe'],
-	// ['Å', 'Aa'],
-	// ['æ', 'ae'],
-	// ['ø', 'oe'],
-	// ['å', 'aa']
-
-	// Currencies
-	['¢', 'c'],
-	['¥', 'Y'],
-	['߿', 'b'],
-	['৳', 't'],
-	['૱', 'Bo'],
-	['฿', 'B'],
-	['₠', 'CE'],
-	['₡', 'C'],
-	['₢', 'Cr'],
-	['₣', 'F'],
-	['₥', 'm'],
-	['₦', 'N'],
-	['₧', 'Pt'],
-	['₨', 'Rs'],
-	['₩', 'W'],
-	['₫', 's'],
-	['€', 'E'],
-	['₭', 'K'],
-	['₮', 'T'],
-	['₯', 'Dp'],
-	['₰', 'S'],
-	['₱', 'P'],
-	['₲', 'G'],
-	['₳', 'A'],
-	['₴', 'S'],
-	['₵', 'C'],
-	['₶', 'tt'],
-	['₷', 'S'],
-	['₸', 'T'],
-	['₹', 'R'],
-	['₺', 'L'],
-	['₽', 'P'],
-	['₿', 'B'],
-	['﹩', '$'],
-	['￠', 'c'],
-	['￥', 'Y'],
-	['￦', 'W'],
-
-	// Latin
-	['𝐀', 'A'],
-	['𝐁', 'B'],
-	['𝐂', 'C'],
-	['𝐃', 'D'],
-	['𝐄', 'E'],
-	['𝐅', 'F'],
-	['𝐆', 'G'],
-	['𝐇', 'H'],
-	['𝐈', 'I'],
-	['𝐉', 'J'],
-	['𝐊', 'K'],
-	['𝐋', 'L'],
-	['𝐌', 'M'],
-	['𝐍', 'N'],
-	['𝐎', 'O'],
-	['𝐏', 'P'],
-	['𝐐', 'Q'],
-	['𝐑', 'R'],
-	['𝐒', 'S'],
-	['𝐓', 'T'],
-	['𝐔', 'U'],
-	['𝐕', 'V'],
-	['𝐖', 'W'],
-	['𝐗', 'X'],
-	['𝐘', 'Y'],
-	['𝐙', 'Z'],
-	['𝐚', 'a'],
-	['𝐛', 'b'],
-	['𝐜', 'c'],
-	['𝐝', 'd'],
-	['𝐞', 'e'],
-	['𝐟', 'f'],
-	['𝐠', 'g'],
-	['𝐡', 'h'],
-	['𝐢', 'i'],
-	['𝐣', 'j'],
-	['𝐤', 'k'],
-	['𝐥', 'l'],
-	['𝐦', 'm'],
-	['𝐧', 'n'],
-	['𝐨', 'o'],
-	['𝐩', 'p'],
-	['𝐪', 'q'],
-	['𝐫', 'r'],
-	['𝐬', 's'],
-	['𝐭', 't'],
-	['𝐮', 'u'],
-	['𝐯', 'v'],
-	['𝐰', 'w'],
-	['𝐱', 'x'],
-	['𝐲', 'y'],
-	['𝐳', 'z'],
-	['𝐴', 'A'],
-	['𝐵', 'B'],
-	['𝐶', 'C'],
-	['𝐷', 'D'],
-	['𝐸', 'E'],
-	['𝐹', 'F'],
-	['𝐺', 'G'],
-	['𝐻', 'H'],
-	['𝐼', 'I'],
-	['𝐽', 'J'],
-	['𝐾', 'K'],
-	['𝐿', 'L'],
-	['𝑀', 'M'],
-	['𝑁', 'N'],
-	['𝑂', 'O'],
-	['𝑃', 'P'],
-	['𝑄', 'Q'],
-	['𝑅', 'R'],
-	['𝑆', 'S'],
-	['𝑇', 'T'],
-	['𝑈', 'U'],
-	['𝑉', 'V'],
-	['𝑊', 'W'],
-	['𝑋', 'X'],
-	['𝑌', 'Y'],
-	['𝑍', 'Z'],
-	['𝑎', 'a'],
-	['𝑏', 'b'],
-	['𝑐', 'c'],
-	['𝑑', 'd'],
-	['𝑒', 'e'],
-	['𝑓', 'f'],
-	['𝑔', 'g'],
-	['𝑖', 'i'],
-	['𝑗', 'j'],
-	['𝑘', 'k'],
-	['𝑙', 'l'],
-	['𝑚', 'm'],
-	['𝑛', 'n'],
-	['𝑜', 'o'],
-	['𝑝', 'p'],
-	['𝑞', 'q'],
-	['𝑟', 'r'],
-	['𝑠', 's'],
-	['𝑡', 't'],
-	['𝑢', 'u'],
-	['𝑣', 'v'],
-	['𝑤', 'w'],
-	['𝑥', 'x'],
-	['𝑦', 'y'],
-	['𝑧', 'z'],
-	['𝑨', 'A'],
-	['𝑩', 'B'],
-	['𝑪', 'C'],
-	['𝑫', 'D'],
-	['𝑬', 'E'],
-	['𝑭', 'F'],
-	['𝑮', 'G'],
-	['𝑯', 'H'],
-	['𝑰', 'I'],
-	['𝑱', 'J'],
-	['𝑲', 'K'],
-	['𝑳', 'L'],
-	['𝑴', 'M'],
-	['𝑵', 'N'],
-	['𝑶', 'O'],
-	['𝑷', 'P'],
-	['𝑸', 'Q'],
-	['𝑹', 'R'],
-	['𝑺', 'S'],
-	['𝑻', 'T'],
-	['𝑼', 'U'],
-	['𝑽', 'V'],
-	['𝑾', 'W'],
-	['𝑿', 'X'],
-	['𝒀', 'Y'],
-	['𝒁', 'Z'],
-	['𝒂', 'a'],
-	['𝒃', 'b'],
-	['𝒄', 'c'],
-	['𝒅', 'd'],
-	['𝒆', 'e'],
-	['𝒇', 'f'],
-	['𝒈', 'g'],
-	['𝒉', 'h'],
-	['𝒊', 'i'],
-	['𝒋', 'j'],
-	['𝒌', 'k'],
-	['𝒍', 'l'],
-	['𝒎', 'm'],
-	['𝒏', 'n'],
-	['𝒐', 'o'],
-	['𝒑', 'p'],
-	['𝒒', 'q'],
-	['𝒓', 'r'],
-	['𝒔', 's'],
-	['𝒕', 't'],
-	['𝒖', 'u'],
-	['𝒗', 'v'],
-	['𝒘', 'w'],
-	['𝒙', 'x'],
-	['𝒚', 'y'],
-	['𝒛', 'z'],
-	['𝒜', 'A'],
-	['𝒞', 'C'],
-	['𝒟', 'D'],
-	['𝒢', 'g'],
-	['𝒥', 'J'],
-	['𝒦', 'K'],
-	['𝒩', 'N'],
-	['𝒪', 'O'],
-	['𝒫', 'P'],
-	['𝒬', 'Q'],
-	['𝒮', 'S'],
-	['𝒯', 'T'],
-	['𝒰', 'U'],
-	['𝒱', 'V'],
-	['𝒲', 'W'],
-	['𝒳', 'X'],
-	['𝒴', 'Y'],
-	['𝒵', 'Z'],
-	['𝒶', 'a'],
-	['𝒷', 'b'],
-	['𝒸', 'c'],
-	['𝒹', 'd'],
-	['𝒻', 'f'],
-	['𝒽', 'h'],
-	['𝒾', 'i'],
-	['𝒿', 'j'],
-	['𝓀', 'h'],
-	['𝓁', 'l'],
-	['𝓂', 'm'],
-	['𝓃', 'n'],
-	['𝓅', 'p'],
-	['𝓆', 'q'],
-	['𝓇', 'r'],
-	['𝓈', 's'],
-	['𝓉', 't'],
-	['𝓊', 'u'],
-	['𝓋', 'v'],
-	['𝓌', 'w'],
-	['𝓍', 'x'],
-	['𝓎', 'y'],
-	['𝓏', 'z'],
-	['𝓐', 'A'],
-	['𝓑', 'B'],
-	['𝓒', 'C'],
-	['𝓓', 'D'],
-	['𝓔', 'E'],
-	['𝓕', 'F'],
-	['𝓖', 'G'],
-	['𝓗', 'H'],
-	['𝓘', 'I'],
-	['𝓙', 'J'],
-	['𝓚', 'K'],
-	['𝓛', 'L'],
-	['𝓜', 'M'],
-	['𝓝', 'N'],
-	['𝓞', 'O'],
-	['𝓟', 'P'],
-	['𝓠', 'Q'],
-	['𝓡', 'R'],
-	['𝓢', 'S'],
-	['𝓣', 'T'],
-	['𝓤', 'U'],
-	['𝓥', 'V'],
-	['𝓦', 'W'],
-	['𝓧', 'X'],
-	['𝓨', 'Y'],
-	['𝓩', 'Z'],
-	['𝓪', 'a'],
-	['𝓫', 'b'],
-	['𝓬', 'c'],
-	['𝓭', 'd'],
-	['𝓮', 'e'],
-	['𝓯', 'f'],
-	['𝓰', 'g'],
-	['𝓱', 'h'],
-	['𝓲', 'i'],
-	['𝓳', 'j'],
-	['𝓴', 'k'],
-	['𝓵', 'l'],
-	['𝓶', 'm'],
-	['𝓷', 'n'],
-	['𝓸', 'o'],
-	['𝓹', 'p'],
-	['𝓺', 'q'],
-	['𝓻', 'r'],
-	['𝓼', 's'],
-	['𝓽', 't'],
-	['𝓾', 'u'],
-	['𝓿', 'v'],
-	['𝔀', 'w'],
-	['𝔁', 'x'],
-	['𝔂', 'y'],
-	['𝔃', 'z'],
-	['𝔄', 'A'],
-	['𝔅', 'B'],
-	['𝔇', 'D'],
-	['𝔈', 'E'],
-	['𝔉', 'F'],
-	['𝔊', 'G'],
-	['𝔍', 'J'],
-	['𝔎', 'K'],
-	['𝔏', 'L'],
-	['𝔐', 'M'],
-	['𝔑', 'N'],
-	['𝔒', 'O'],
-	['𝔓', 'P'],
-	['𝔔', 'Q'],
-	['𝔖', 'S'],
-	['𝔗', 'T'],
-	['𝔘', 'U'],
-	['𝔙', 'V'],
-	['𝔚', 'W'],
-	['𝔛', 'X'],
-	['𝔜', 'Y'],
-	['𝔞', 'a'],
-	['𝔟', 'b'],
-	['𝔠', 'c'],
-	['𝔡', 'd'],
-	['𝔢', 'e'],
-	['𝔣', 'f'],
-	['𝔤', 'g'],
-	['𝔥', 'h'],
-	['𝔦', 'i'],
-	['𝔧', 'j'],
-	['𝔨', 'k'],
-	['𝔩', 'l'],
-	['𝔪', 'm'],
-	['𝔫', 'n'],
-	['𝔬', 'o'],
-	['𝔭', 'p'],
-	['𝔮', 'q'],
-	['𝔯', 'r'],
-	['𝔰', 's'],
-	['𝔱', 't'],
-	['𝔲', 'u'],
-	['𝔳', 'v'],
-	['𝔴', 'w'],
-	['𝔵', 'x'],
-	['𝔶', 'y'],
-	['𝔷', 'z'],
-	['𝔸', 'A'],
-	['𝔹', 'B'],
-	['𝔻', 'D'],
-	['𝔼', 'E'],
-	['𝔽', 'F'],
-	['𝔾', 'G'],
-	['𝕀', 'I'],
-	['𝕁', 'J'],
-	['𝕂', 'K'],
-	['𝕃', 'L'],
-	['𝕄', 'M'],
-	['𝕆', 'N'],
-	['𝕊', 'S'],
-	['𝕋', 'T'],
-	['𝕌', 'U'],
-	['𝕍', 'V'],
-	['𝕎', 'W'],
-	['𝕏', 'X'],
-	['𝕐', 'Y'],
-	['𝕒', 'a'],
-	['𝕓', 'b'],
-	['𝕔', 'c'],
-	['𝕕', 'd'],
-	['𝕖', 'e'],
-	['𝕗', 'f'],
-	['𝕘', 'g'],
-	['𝕙', 'h'],
-	['𝕚', 'i'],
-	['𝕛', 'j'],
-	['𝕜', 'k'],
-	['𝕝', 'l'],
-	['𝕞', 'm'],
-	['𝕟', 'n'],
-	['𝕠', 'o'],
-	['𝕡', 'p'],
-	['𝕢', 'q'],
-	['𝕣', 'r'],
-	['𝕤', 's'],
-	['𝕥', 't'],
-	['𝕦', 'u'],
-	['𝕧', 'v'],
-	['𝕨', 'w'],
-	['𝕩', 'x'],
-	['𝕪', 'y'],
-	['𝕫', 'z'],
-	['𝕬', 'A'],
-	['𝕭', 'B'],
-	['𝕮', 'C'],
-	['𝕯', 'D'],
-	['𝕰', 'E'],
-	['𝕱', 'F'],
-	['𝕲', 'G'],
-	['𝕳', 'H'],
-	['𝕴', 'I'],
-	['𝕵', 'J'],
-	['𝕶', 'K'],
-	['𝕷', 'L'],
-	['𝕸', 'M'],
-	['𝕹', 'N'],
-	['𝕺', 'O'],
-	['𝕻', 'P'],
-	['𝕼', 'Q'],
-	['𝕽', 'R'],
-	['𝕾', 'S'],
-	['𝕿', 'T'],
-	['𝖀', 'U'],
-	['𝖁', 'V'],
-	['𝖂', 'W'],
-	['𝖃', 'X'],
-	['𝖄', 'Y'],
-	['𝖅', 'Z'],
-	['𝖆', 'a'],
-	['𝖇', 'b'],
-	['𝖈', 'c'],
-	['𝖉', 'd'],
-	['𝖊', 'e'],
-	['𝖋', 'f'],
-	['𝖌', 'g'],
-	['𝖍', 'h'],
-	['𝖎', 'i'],
-	['𝖏', 'j'],
-	['𝖐', 'k'],
-	['𝖑', 'l'],
-	['𝖒', 'm'],
-	['𝖓', 'n'],
-	['𝖔', 'o'],
-	['𝖕', 'p'],
-	['𝖖', 'q'],
-	['𝖗', 'r'],
-	['𝖘', 's'],
-	['𝖙', 't'],
-	['𝖚', 'u'],
-	['𝖛', 'v'],
-	['𝖜', 'w'],
-	['𝖝', 'x'],
-	['𝖞', 'y'],
-	['𝖟', 'z'],
-	['𝖠', 'A'],
-	['𝖡', 'B'],
-	['𝖢', 'C'],
-	['𝖣', 'D'],
-	['𝖤', 'E'],
-	['𝖥', 'F'],
-	['𝖦', 'G'],
-	['𝖧', 'H'],
-	['𝖨', 'I'],
-	['𝖩', 'J'],
-	['𝖪', 'K'],
-	['𝖫', 'L'],
-	['𝖬', 'M'],
-	['𝖭', 'N'],
-	['𝖮', 'O'],
-	['𝖯', 'P'],
-	['𝖰', 'Q'],
-	['𝖱', 'R'],
-	['𝖲', 'S'],
-	['𝖳', 'T'],
-	['𝖴', 'U'],
-	['𝖵', 'V'],
-	['𝖶', 'W'],
-	['𝖷', 'X'],
-	['𝖸', 'Y'],
-	['𝖹', 'Z'],
-	['𝖺', 'a'],
-	['𝖻', 'b'],
-	['𝖼', 'c'],
-	['𝖽', 'd'],
-	['𝖾', 'e'],
-	['𝖿', 'f'],
-	['𝗀', 'g'],
-	['𝗁', 'h'],
-	['𝗂', 'i'],
-	['𝗃', 'j'],
-	['𝗄', 'k'],
-	['𝗅', 'l'],
-	['𝗆', 'm'],
-	['𝗇', 'n'],
-	['𝗈', 'o'],
-	['𝗉', 'p'],
-	['𝗊', 'q'],
-	['𝗋', 'r'],
-	['𝗌', 's'],
-	['𝗍', 't'],
-	['𝗎', 'u'],
-	['𝗏', 'v'],
-	['𝗐', 'w'],
-	['𝗑', 'x'],
-	['𝗒', 'y'],
-	['𝗓', 'z'],
-	['𝗔', 'A'],
-	['𝗕', 'B'],
-	['𝗖', 'C'],
-	['𝗗', 'D'],
-	['𝗘', 'E'],
-	['𝗙', 'F'],
-	['𝗚', 'G'],
-	['𝗛', 'H'],
-	['𝗜', 'I'],
-	['𝗝', 'J'],
-	['𝗞', 'K'],
-	['𝗟', 'L'],
-	['𝗠', 'M'],
-	['𝗡', 'N'],
-	['𝗢', 'O'],
-	['𝗣', 'P'],
-	['𝗤', 'Q'],
-	['𝗥', 'R'],
-	['𝗦', 'S'],
-	['𝗧', 'T'],
-	['𝗨', 'U'],
-	['𝗩', 'V'],
-	['𝗪', 'W'],
-	['𝗫', 'X'],
-	['𝗬', 'Y'],
-	['𝗭', 'Z'],
-	['𝗮', 'a'],
-	['𝗯', 'b'],
-	['𝗰', 'c'],
-	['𝗱', 'd'],
-	['𝗲', 'e'],
-	['𝗳', 'f'],
-	['𝗴', 'g'],
-	['𝗵', 'h'],
-	['𝗶', 'i'],
-	['𝗷', 'j'],
-	['𝗸', 'k'],
-	['𝗹', 'l'],
-	['𝗺', 'm'],
-	['𝗻', 'n'],
-	['𝗼', 'o'],
-	['𝗽', 'p'],
-	['𝗾', 'q'],
-	['𝗿', 'r'],
-	['𝘀', 's'],
-	['𝘁', 't'],
-	['𝘂', 'u'],
-	['𝘃', 'v'],
-	['𝘄', 'w'],
-	['𝘅', 'x'],
-	['𝘆', 'y'],
-	['𝘇', 'z'],
-	['𝘈', 'A'],
-	['𝘉', 'B'],
-	['𝘊', 'C'],
-	['𝘋', 'D'],
-	['𝘌', 'E'],
-	['𝘍', 'F'],
-	['𝘎', 'G'],
-	['𝘏', 'H'],
-	['𝘐', 'I'],
-	['𝘑', 'J'],
-	['𝘒', 'K'],
-	['𝘓', 'L'],
-	['𝘔', 'M'],
-	['𝘕', 'N'],
-	['𝘖', 'O'],
-	['𝘗', 'P'],
-	['𝘘', 'Q'],
-	['𝘙', 'R'],
-	['𝘚', 'S'],
-	['𝘛', 'T'],
-	['𝘜', 'U'],
-	['𝘝', 'V'],
-	['𝘞', 'W'],
-	['𝘟', 'X'],
-	['𝘠', 'Y'],
-	['𝘡', 'Z'],
-	['𝘢', 'a'],
-	['𝘣', 'b'],
-	['𝘤', 'c'],
-	['𝘥', 'd'],
-	['𝘦', 'e'],
-	['𝘧', 'f'],
-	['𝘨', 'g'],
-	['𝘩', 'h'],
-	['𝘪', 'i'],
-	['𝘫', 'j'],
-	['𝘬', 'k'],
-	['𝘭', 'l'],
-	['𝘮', 'm'],
-	['𝘯', 'n'],
-	['𝘰', 'o'],
-	['𝘱', 'p'],
-	['𝘲', 'q'],
-	['𝘳', 'r'],
-	['𝘴', 's'],
-	['𝘵', 't'],
-	['𝘶', 'u'],
-	['𝘷', 'v'],
-	['𝘸', 'w'],
-	['𝘹', 'x'],
-	['𝘺', 'y'],
-	['𝘻', 'z'],
-	['𝘼', 'A'],
-	['𝘽', 'B'],
-	['𝘾', 'C'],
-	['𝘿', 'D'],
-	['𝙀', 'E'],
-	['𝙁', 'F'],
-	['𝙂', 'G'],
-	['𝙃', 'H'],
-	['𝙄', 'I'],
-	['𝙅', 'J'],
-	['𝙆', 'K'],
-	['𝙇', 'L'],
-	['𝙈', 'M'],
-	['𝙉', 'N'],
-	['𝙊', 'O'],
-	['𝙋', 'P'],
-	['𝙌', 'Q'],
-	['𝙍', 'R'],
-	['𝙎', 'S'],
-	['𝙏', 'T'],
-	['𝙐', 'U'],
-	['𝙑', 'V'],
-	['𝙒', 'W'],
-	['𝙓', 'X'],
-	['𝙔', 'Y'],
-	['𝙕', 'Z'],
-	['𝙖', 'a'],
-	['𝙗', 'b'],
-	['𝙘', 'c'],
-	['𝙙', 'd'],
-	['𝙚', 'e'],
-	['𝙛', 'f'],
-	['𝙜', 'g'],
-	['𝙝', 'h'],
-	['𝙞', 'i'],
-	['𝙟', 'j'],
-	['𝙠', 'k'],
-	['𝙡', 'l'],
-	['𝙢', 'm'],
-	['𝙣', 'n'],
-	['𝙤', 'o'],
-	['𝙥', 'p'],
-	['𝙦', 'q'],
-	['𝙧', 'r'],
-	['𝙨', 's'],
-	['𝙩', 't'],
-	['𝙪', 'u'],
-	['𝙫', 'v'],
-	['𝙬', 'w'],
-	['𝙭', 'x'],
-	['𝙮', 'y'],
-	['𝙯', 'z'],
-	['𝙰', 'A'],
-	['𝙱', 'B'],
-	['𝙲', 'C'],
-	['𝙳', 'D'],
-	['𝙴', 'E'],
-	['𝙵', 'F'],
-	['𝙶', 'G'],
-	['𝙷', 'H'],
-	['𝙸', 'I'],
-	['𝙹', 'J'],
-	['𝙺', 'K'],
-	['𝙻', 'L'],
-	['𝙼', 'M'],
-	['𝙽', 'N'],
-	['𝙾', 'O'],
-	['𝙿', 'P'],
-	['𝚀', 'Q'],
-	['𝚁', 'R'],
-	['𝚂', 'S'],
-	['𝚃', 'T'],
-	['𝚄', 'U'],
-	['𝚅', 'V'],
-	['𝚆', 'W'],
-	['𝚇', 'X'],
-	['𝚈', 'Y'],
-	['𝚉', 'Z'],
-	['𝚊', 'a'],
-	['𝚋', 'b'],
-	['𝚌', 'c'],
-	['𝚍', 'd'],
-	['𝚎', 'e'],
-	['𝚏', 'f'],
-	['𝚐', 'g'],
-	['𝚑', 'h'],
-	['𝚒', 'i'],
-	['𝚓', 'j'],
-	['𝚔', 'k'],
-	['𝚕', 'l'],
-	['𝚖', 'm'],
-	['𝚗', 'n'],
-	['𝚘', 'o'],
-	['𝚙', 'p'],
-	['𝚚', 'q'],
-	['𝚛', 'r'],
-	['𝚜', 's'],
-	['𝚝', 't'],
-	['𝚞', 'u'],
-	['𝚟', 'v'],
-	['𝚠', 'w'],
-	['𝚡', 'x'],
-	['𝚢', 'y'],
-	['𝚣', 'z'],
-
-	// Dotless letters
-	['𝚤', 'l'],
-	['𝚥', 'j'],
-
-	// Greek
-	['𝛢', 'A'],
-	['𝛣', 'B'],
-	['𝛤', 'G'],
-	['𝛥', 'D'],
-	['𝛦', 'E'],
-	['𝛧', 'Z'],
-	['𝛨', 'I'],
-	['𝛩', 'TH'],
-	['𝛪', 'I'],
-	['𝛫', 'K'],
-	['𝛬', 'L'],
-	['𝛭', 'M'],
-	['𝛮', 'N'],
-	['𝛯', 'KS'],
-	['𝛰', 'O'],
-	['𝛱', 'P'],
-	['𝛲', 'R'],
-	['𝛳', 'TH'],
-	['𝛴', 'S'],
-	['𝛵', 'T'],
-	['𝛶', 'Y'],
-	['𝛷', 'F'],
-	['𝛸', 'x'],
-	['𝛹', 'PS'],
-	['𝛺', 'O'],
-	['𝛻', 'D'],
-	['𝛼', 'a'],
-	['𝛽', 'b'],
-	['𝛾', 'g'],
-	['𝛿', 'd'],
-	['𝜀', 'e'],
-	['𝜁', 'z'],
-	['𝜂', 'i'],
-	['𝜃', 'th'],
-	['𝜄', 'i'],
-	['𝜅', 'k'],
-	['𝜆', 'l'],
-	['𝜇', 'm'],
-	['𝜈', 'n'],
-	['𝜉', 'ks'],
-	['𝜊', 'o'],
-	['𝜋', 'p'],
-	['𝜌', 'r'],
-	['𝜍', 's'],
-	['𝜎', 's'],
-	['𝜏', 't'],
-	['𝜐', 'y'],
-	['𝜑', 'f'],
-	['𝜒', 'x'],
-	['𝜓', 'ps'],
-	['𝜔', 'o'],
-	['𝜕', 'd'],
-	['𝜖', 'E'],
-	['𝜗', 'TH'],
-	['𝜘', 'K'],
-	['𝜙', 'f'],
-	['𝜚', 'r'],
-	['𝜛', 'p'],
-	['𝜜', 'A'],
-	['𝜝', 'V'],
-	['𝜞', 'G'],
-	['𝜟', 'D'],
-	['𝜠', 'E'],
-	['𝜡', 'Z'],
-	['𝜢', 'I'],
-	['𝜣', 'TH'],
-	['𝜤', 'I'],
-	['𝜥', 'K'],
-	['𝜦', 'L'],
-	['𝜧', 'M'],
-	['𝜨', 'N'],
-	['𝜩', 'KS'],
-	['𝜪', 'O'],
-	['𝜫', 'P'],
-	['𝜬', 'S'],
-	['𝜭', 'TH'],
-	['𝜮', 'S'],
-	['𝜯', 'T'],
-	['𝜰', 'Y'],
-	['𝜱', 'F'],
-	['𝜲', 'X'],
-	['𝜳', 'PS'],
-	['𝜴', 'O'],
-	['𝜵', 'D'],
-	['𝜶', 'a'],
-	['𝜷', 'v'],
-	['𝜸', 'g'],
-	['𝜹', 'd'],
-	['𝜺', 'e'],
-	['𝜻', 'z'],
-	['𝜼', 'i'],
-	['𝜽', 'th'],
-	['𝜾', 'i'],
-	['𝜿', 'k'],
-	['𝝀', 'l'],
-	['𝝁', 'm'],
-	['𝝂', 'n'],
-	['𝝃', 'ks'],
-	['𝝄', 'o'],
-	['𝝅', 'p'],
-	['𝝆', 'r'],
-	['𝝇', 's'],
-	['𝝈', 's'],
-	['𝝉', 't'],
-	['𝝊', 'y'],
-	['𝝋', 'f'],
-	['𝝌', 'x'],
-	['𝝍', 'ps'],
-	['𝝎', 'o'],
-	['𝝏', 'a'],
-	['𝝐', 'e'],
-	['𝝑', 'i'],
-	['𝝒', 'k'],
-	['𝝓', 'f'],
-	['𝝔', 'r'],
-	['𝝕', 'p'],
-	['𝝖', 'A'],
-	['𝝗', 'B'],
-	['𝝘', 'G'],
-	['𝝙', 'D'],
-	['𝝚', 'E'],
-	['𝝛', 'Z'],
-	['𝝜', 'I'],
-	['𝝝', 'TH'],
-	['𝝞', 'I'],
-	['𝝟', 'K'],
-	['𝝠', 'L'],
-	['𝝡', 'M'],
-	['𝝢', 'N'],
-	['𝝣', 'KS'],
-	['𝝤', 'O'],
-	['𝝥', 'P'],
-	['𝝦', 'R'],
-	['𝝧', 'TH'],
-	['𝝨', 'S'],
-	['𝝩', 'T'],
-	['𝝪', 'Y'],
-	['𝝫', 'F'],
-	['𝝬', 'X'],
-	['𝝭', 'PS'],
-	['𝝮', 'O'],
-	['𝝯', 'D'],
-	['𝝰', 'a'],
-	['𝝱', 'v'],
-	['𝝲', 'g'],
-	['𝝳', 'd'],
-	['𝝴', 'e'],
-	['𝝵', 'z'],
-	['𝝶', 'i'],
-	['𝝷', 'th'],
-	['𝝸', 'i'],
-	['𝝹', 'k'],
-	['𝝺', 'l'],
-	['𝝻', 'm'],
-	['𝝼', 'n'],
-	['𝝽', 'ks'],
-	['𝝾', 'o'],
-	['𝝿', 'p'],
-	['𝞀', 'r'],
-	['𝞁', 's'],
-	['𝞂', 's'],
-	['𝞃', 't'],
-	['𝞄', 'y'],
-	['𝞅', 'f'],
-	['𝞆', 'x'],
-	['𝞇', 'ps'],
-	['𝞈', 'o'],
-	['𝞉', 'a'],
-	['𝞊', 'e'],
-	['𝞋', 'i'],
-	['𝞌', 'k'],
-	['𝞍', 'f'],
-	['𝞎', 'r'],
-	['𝞏', 'p'],
-	['𝞐', 'A'],
-	['𝞑', 'V'],
-	['𝞒', 'G'],
-	['𝞓', 'D'],
-	['𝞔', 'E'],
-	['𝞕', 'Z'],
-	['𝞖', 'I'],
-	['𝞗', 'TH'],
-	['𝞘', 'I'],
-	['𝞙', 'K'],
-	['𝞚', 'L'],
-	['𝞛', 'M'],
-	['𝞜', 'N'],
-	['𝞝', 'KS'],
-	['𝞞', 'O'],
-	['𝞟', 'P'],
-	['𝞠', 'S'],
-	['𝞡', 'TH'],
-	['𝞢', 'S'],
-	['𝞣', 'T'],
-	['𝞤', 'Y'],
-	['𝞥', 'F'],
-	['𝞦', 'X'],
-	['𝞧', 'PS'],
-	['𝞨', 'O'],
-	['𝞩', 'D'],
-	['𝞪', 'av'],
-	['𝞫', 'g'],
-	['𝞬', 'd'],
-	['𝞭', 'e'],
-	['𝞮', 'z'],
-	['𝞯', 'i'],
-	['𝞰', 'i'],
-	['𝞱', 'th'],
-	['𝞲', 'i'],
-	['𝞳', 'k'],
-	['𝞴', 'l'],
-	['𝞵', 'm'],
-	['𝞶', 'n'],
-	['𝞷', 'ks'],
-	['𝞸', 'o'],
-	['𝞹', 'p'],
-	['𝞺', 'r'],
-	['𝞻', 's'],
-	['𝞼', 's'],
-	['𝞽', 't'],
-	['𝞾', 'y'],
-	['𝞿', 'f'],
-	['𝟀', 'x'],
-	['𝟁', 'ps'],
-	['𝟂', 'o'],
-	['𝟃', 'a'],
-	['𝟄', 'e'],
-	['𝟅', 'i'],
-	['𝟆', 'k'],
-	['𝟇', 'f'],
-	['𝟈', 'r'],
-	['𝟉', 'p'],
-	['𝟊', 'F'],
-	['𝟋', 'f'],
-	['⒜', '(a)'],
-	['⒝', '(b)'],
-	['⒞', '(c)'],
-	['⒟', '(d)'],
-	['⒠', '(e)'],
-	['⒡', '(f)'],
-	['⒢', '(g)'],
-	['⒣', '(h)'],
-	['⒤', '(i)'],
-	['⒥', '(j)'],
-	['⒦', '(k)'],
-	['⒧', '(l)'],
-	['⒨', '(m)'],
-	['⒩', '(n)'],
-	['⒪', '(o)'],
-	['⒫', '(p)'],
-	['⒬', '(q)'],
-	['⒭', '(r)'],
-	['⒮', '(s)'],
-	['⒯', '(t)'],
-	['⒰', '(u)'],
-	['⒱', '(v)'],
-	['⒲', '(w)'],
-	['⒳', '(x)'],
-	['⒴', '(y)'],
-	['⒵', '(z)'],
-	['Ⓐ', '(A)'],
-	['Ⓑ', '(B)'],
-	['Ⓒ', '(C)'],
-	['Ⓓ', '(D)'],
-	['Ⓔ', '(E)'],
-	['Ⓕ', '(F)'],
-	['Ⓖ', '(G)'],
-	['Ⓗ', '(H)'],
-	['Ⓘ', '(I)'],
-	['Ⓙ', '(J)'],
-	['Ⓚ', '(K)'],
-	['Ⓛ', '(L)'],
-	['Ⓝ', '(N)'],
-	['Ⓞ', '(O)'],
-	['Ⓟ', '(P)'],
-	['Ⓠ', '(Q)'],
-	['Ⓡ', '(R)'],
-	['Ⓢ', '(S)'],
-	['Ⓣ', '(T)'],
-	['Ⓤ', '(U)'],
-	['Ⓥ', '(V)'],
-	['Ⓦ', '(W)'],
-	['Ⓧ', '(X)'],
-	['Ⓨ', '(Y)'],
-	['Ⓩ', '(Z)'],
-	['ⓐ', '(a)'],
-	['ⓑ', '(b)'],
-	['ⓒ', '(b)'],
-	['ⓓ', '(c)'],
-	['ⓔ', '(e)'],
-	['ⓕ', '(f)'],
-	['ⓖ', '(g)'],
-	['ⓗ', '(h)'],
-	['ⓘ', '(i)'],
-	['ⓙ', '(j)'],
-	['ⓚ', '(k)'],
-	['ⓛ', '(l)'],
-	['ⓜ', '(m)'],
-	['ⓝ', '(n)'],
-	['ⓞ', '(o)'],
-	['ⓟ', '(p)'],
-	['ⓠ', '(q)'],
-	['ⓡ', '(r)'],
-	['ⓢ', '(s)'],
-	['ⓣ', '(t)'],
-	['ⓤ', '(u)'],
-	['ⓥ', '(v)'],
-	['ⓦ', '(w)'],
-	['ⓧ', '(x)'],
-	['ⓨ', '(y)'],
-	['ⓩ', '(z)'],
-
-	// Maltese
-	['Ċ', 'C'],
-	['ċ', 'c'],
-	['Ġ', 'G'],
-	['ġ', 'g'],
-	['Ħ', 'H'],
-	['ħ', 'h'],
-	['Ż', 'Z'],
-	['ż', 'z'],
-
-	// Numbers
-	['𝟎', '0'],
-	['𝟏', '1'],
-	['𝟐', '2'],
-	['𝟑', '3'],
-	['𝟒', '4'],
-	['𝟓', '5'],
-	['𝟔', '6'],
-	['𝟕', '7'],
-	['𝟖', '8'],
-	['𝟗', '9'],
-	['𝟘', '0'],
-	['𝟙', '1'],
-	['𝟚', '2'],
-	['𝟛', '3'],
-	['𝟜', '4'],
-	['𝟝', '5'],
-	['𝟞', '6'],
-	['𝟟', '7'],
-	['𝟠', '8'],
-	['𝟡', '9'],
-	['𝟢', '0'],
-	['𝟣', '1'],
-	['𝟤', '2'],
-	['𝟥', '3'],
-	['𝟦', '4'],
-	['𝟧', '5'],
-	['𝟨', '6'],
-	['𝟩', '7'],
-	['𝟪', '8'],
-	['𝟫', '9'],
-	['𝟬', '0'],
-	['𝟭', '1'],
-	['𝟮', '2'],
-	['𝟯', '3'],
-	['𝟰', '4'],
-	['𝟱', '5'],
-	['𝟲', '6'],
-	['𝟳', '7'],
-	['𝟴', '8'],
-	['𝟵', '9'],
-	['𝟶', '0'],
-	['𝟷', '1'],
-	['𝟸', '2'],
-	['𝟹', '3'],
-	['𝟺', '4'],
-	['𝟻', '5'],
-	['𝟼', '6'],
-	['𝟽', '7'],
-	['𝟾', '8'],
-	['𝟿', '9'],
-	['①', '1'],
-	['②', '2'],
-	['③', '3'],
-	['④', '4'],
-	['⑤', '5'],
-	['⑥', '6'],
-	['⑦', '7'],
-	['⑧', '8'],
-	['⑨', '9'],
-	['⑩', '10'],
-	['⑪', '11'],
-	['⑫', '12'],
-	['⑬', '13'],
-	['⑭', '14'],
-	['⑮', '15'],
-	['⑯', '16'],
-	['⑰', '17'],
-	['⑱', '18'],
-	['⑲', '19'],
-	['⑳', '20'],
-	['⑴', '1'],
-	['⑵', '2'],
-	['⑶', '3'],
-	['⑷', '4'],
-	['⑸', '5'],
-	['⑹', '6'],
-	['⑺', '7'],
-	['⑻', '8'],
-	['⑼', '9'],
-	['⑽', '10'],
-	['⑾', '11'],
-	['⑿', '12'],
-	['⒀', '13'],
-	['⒁', '14'],
-	['⒂', '15'],
-	['⒃', '16'],
-	['⒄', '17'],
-	['⒅', '18'],
-	['⒆', '19'],
-	['⒇', '20'],
-	['⒈', '1.'],
-	['⒉', '2.'],
-	['⒊', '3.'],
-	['⒋', '4.'],
-	['⒌', '5.'],
-	['⒍', '6.'],
-	['⒎', '7.'],
-	['⒏', '8.'],
-	['⒐', '9.'],
-	['⒑', '10.'],
-	['⒒', '11.'],
-	['⒓', '12.'],
-	['⒔', '13.'],
-	['⒕', '14.'],
-	['⒖', '15.'],
-	['⒗', '16.'],
-	['⒘', '17.'],
-	['⒙', '18.'],
-	['⒚', '19.'],
-	['⒛', '20.'],
-	['⓪', '0'],
-	['⓫', '11'],
-	['⓬', '12'],
-	['⓭', '13'],
-	['⓮', '14'],
-	['⓯', '15'],
-	['⓰', '16'],
-	['⓱', '17'],
-	['⓲', '18'],
-	['⓳', '19'],
-	['⓴', '20'],
-	['⓵', '1'],
-	['⓶', '2'],
-	['⓷', '3'],
-	['⓸', '4'],
-	['⓹', '5'],
-	['⓺', '6'],
-	['⓻', '7'],
-	['⓼', '8'],
-	['⓽', '9'],
-	['⓾', '10'],
-	['⓿', '0'],
-
-	// Punctuation
-	['🙰', '&'],
-	['🙱', '&'],
-	['🙲', '&'],
-	['🙳', '&'],
-	['🙴', '&'],
-	['🙵', '&'],
-	['🙶', '"'],
-	['🙷', '"'],
-	['🙸', '"'],
-	['‽', '?!'],
-	['🙹', '?!'],
-	['🙺', '?!'],
-	['🙻', '?!'],
-	['🙼', '/'],
-	['🙽', '\\'],
-
-	// Alchemy
-	['🜇', 'AR'],
-	['🜈', 'V'],
-	['🜉', 'V'],
-	['🜆', 'VR'],
-	['🜅', 'VF'],
-	['🜩', '2'],
-	['🜪', '5'],
-	['🝡', 'f'],
-	['🝢', 'W'],
-	['🝣', 'U'],
-	['🝧', 'V'],
-	['🝨', 'T'],
-	['🝪', 'V'],
-	['🝫', 'MB'],
-	['🝬', 'VB'],
-	['🝲', '3B'],
-	['🝳', '3B'],
-
-	// Emojis
-	['💯', '100'],
-	['🔙', 'BACK'],
-	['🔚', 'END'],
-	['🔛', 'ON!'],
-	['🔜', 'SOON'],
-	['🔝', 'TOP'],
-	['🔞', '18'],
-	['🔤', 'abc'],
-	['🔠', 'ABCD'],
-	['🔡', 'abcd'],
-	['🔢', '1234'],
-	['🔣', 'T&@%'],
-	['#️⃣', '#'],
-	['*️⃣', '*'],
-	['0️⃣', '0'],
-	['1️⃣', '1'],
-	['2️⃣', '2'],
-	['3️⃣', '3'],
-	['4️⃣', '4'],
-	['5️⃣', '5'],
-	['6️⃣', '6'],
-	['7️⃣', '7'],
-	['8️⃣', '8'],
-	['9️⃣', '9'],
-	['🔟', '10'],
-	['🅰️', 'A'],
-	['🅱️', 'B'],
-	['🆎', 'AB'],
-	['🆑', 'CL'],
-	['🅾️', 'O'],
-	['🅿', 'P'],
-	['🆘', 'SOS'],
-	['🅲', 'C'],
-	['🅳', 'D'],
-	['🅴', 'E'],
-	['🅵', 'F'],
-	['🅶', 'G'],
-	['🅷', 'H'],
-	['🅸', 'I'],
-	['🅹', 'J'],
-	['🅺', 'K'],
-	['🅻', 'L'],
-	['🅼', 'M'],
-	['🅽', 'N'],
-	['🆀', 'Q'],
-	['🆁', 'R'],
-	['🆂', 'S'],
-	['🆃', 'T'],
-	['🆄', 'U'],
-	['🆅', 'V'],
-	['🆆', 'W'],
-	['🆇', 'X'],
-	['🆈', 'Y'],
-	['🆉', 'Z']
-];
-
-const doCustomReplacements = (string, replacements) => {
-	for (const [key, value] of replacements) {
-		// TODO: Use `String#replaceAll()` when targeting Node.js 16.
-		string = string.replace(new RegExp(escapeStringRegexp(key), 'g'), value);
-	}
-
-	return string;
-};
-
-function transliterate(string, options) {
-	if (typeof string !== 'string') {
-		throw new TypeError(`Expected a string, got \`${typeof string}\``);
-	}
-
-	options = {
-		customReplacements: [],
-		...options
-	};
-
-	const customReplacements = new Map([
-		...replacements,
-		...options.customReplacements
-	]);
-
-	string = string.normalize();
-	string = doCustomReplacements(string, customReplacements);
-	string = string.normalize('NFD').replace(/\p{Diacritic}/gu, '').normalize();
-
-	return string;
-}
-
-const overridableReplacements = [
-	['&', ' and '],
-	['🦄', ' unicorn '],
-	['♥', ' love ']
-];
-
-const decamelize = string => {
-	return string
-		// Separate capitalized words.
-		.replace(/([A-Z]{2,})(\d+)/g, '$1 $2')
-		.replace(/([a-z\d]+)([A-Z]{2,})/g, '$1 $2')
-
-		.replace(/([a-z\d])([A-Z])/g, '$1 $2')
-		// `[a-rt-z]` matches all lowercase characters except `s`.
-		// This avoids matching plural acronyms like `APIs`.
-		.replace(/([A-Z]+)([A-Z][a-rt-z\d]+)/g, '$1 $2');
-};
-
-const removeMootSeparators = (string, separator) => {
-	const escapedSeparator = escapeStringRegexp(separator);
-
-	return string
-		.replace(new RegExp(`${escapedSeparator}{2,}`, 'g'), separator)
-		.replace(new RegExp(`^${escapedSeparator}|${escapedSeparator}$`, 'g'), '');
-};
-
-const buildPatternSlug = options => {
-	let negationSetPattern = 'a-z\\d';
-	negationSetPattern += options.lowercase ? '' : 'A-Z';
-
-	if (options.preserveCharacters.length > 0) {
-		for (const character of options.preserveCharacters) {
-			if (character === options.separator) {
-				throw new Error(`The separator character \`${options.separator}\` cannot be included in preserved characters: ${options.preserveCharacters}`);
-			}
-
-			negationSetPattern += escapeStringRegexp(character);
-		}
-	}
-
-	return new RegExp(`[^${negationSetPattern}]+`, 'g');
-};
-
-function slugify(string, options) {
-	if (typeof string !== 'string') {
-		throw new TypeError(`Expected a string, got \`${typeof string}\``);
-	}
-
-	options = {
-		separator: '-',
-		lowercase: true,
-		decamelize: true,
-		customReplacements: [],
-		preserveLeadingUnderscore: false,
-		preserveTrailingDash: false,
-		preserveCharacters: [],
-		...options
-	};
-
-	const shouldPrependUnderscore = options.preserveLeadingUnderscore && string.startsWith('_');
-	const shouldAppendDash = options.preserveTrailingDash && string.endsWith('-');
-
-	const customReplacements = new Map([
-		...overridableReplacements,
-		...options.customReplacements
-	]);
-
-	string = transliterate(string, {customReplacements});
-
-	if (options.decamelize) {
-		string = decamelize(string);
-	}
-
-	const patternSlug = buildPatternSlug(options);
-
-	if (options.lowercase) {
-		string = string.toLowerCase();
-	}
-
-	// Detect contractions/possessives by looking for any word followed by a `'t`
-	// or `'s` in isolation and then remove it.
-	string = string.replace(/([a-zA-Z\d]+)'([ts])(\s|$)/g, '$1$2$3');
-
-	string = string.replace(patternSlug, options.separator);
-	string = string.replace(/\\/g, '');
-
-	if (options.separator) {
-		string = removeMootSeparators(string, options.separator);
-	}
-
-	if (shouldPrependUnderscore) {
-		string = `_${string}`;
-	}
-
-	if (shouldAppendDash) {
-		string = `${string}-`;
-	}
-
-	return string;
-}
-
-/**
- *  Normalizes the filename by replacing critical characters
- *  and ensuring it is a valid filename
- * @param filename - The filename to normalize
- * @returns The normalized filename
- */
-function normalizeFilename(filename, settings) {
-    const { useSlugify, colonSubstitute, slugifySeparator, slugifyLowercase } = settings;
-    const normalizedFilename = useSlugify
-        ? slugify(filename.replace(/:/g, colonSubstitute ?? '-'), {
-            separator: slugifySeparator,
-            lowercase: slugifyLowercase,
-        })
-        : // ... else filenamify the title and limit to 252 characters (to account for the `.md` which will be added)
-            filenamify(filename.replace(/:/g, colonSubstitute ?? '-'), {
-                replacement: ' ',
-                maxLength: 252,
-            })
-                // Ensure we remove additional critical characters, replace multiple spaces with one, and trim
-                // Replace # as this inrerferes with WikiLinks (other characters are taken care of in "filenamify")
-                .replace(/[#]+/g, ' ')
-                .replace(/ +/g, ' ')
-                .trim();
-    return obsidian.normalizePath(normalizedFilename);
-}
-
-/**
- * Get the last highlighted date of the highlights
- * @param highlights - Array of highlights
- * @returns
- */
-function lastHighlightedDate(highlights) {
-    if (!highlights || highlights.length === 0)
-        return null;
-    return highlights
-        .map((highlight) => highlight.highlighted_at)
-        .reduce((latest, date) => {
-        return !latest || new Date(date) > new Date(latest) ? date : latest;
-    }, null);
-}
-/**
- * Get the last updated date of the highlights
- * @param highlights  - Array of highlights
- * @returns
- */
-function updatedDate(highlights) {
-    if (!highlights || highlights.length === 0)
-        return null;
-    return highlights
-        .map((highlight) => highlight.updated_at)
-        .reduce((latest, date) => {
-        return !latest || new Date(date) > new Date(latest) ? date : latest;
-    }, null);
-}
-/**
- * Get the first highlighted date of the highlights
- * @param highlights - Array of highlights
- * @returns
- */
-function createdDate(highlights) {
-    if (!highlights || highlights.length === 0)
-        return null;
-    return highlights
-        .map((highlight) => highlight.created_at)
-        .reduce((earliest, date) => {
-        return !earliest || new Date(date) < new Date(earliest) ? date : earliest;
-    }, null);
-}
-
-// Constants
+// Plugin classes
 class ReadwiseMirror extends obsidian.Plugin {
     constructor(app, manifest) {
         super(app, manifest);
-        this.isSyncing = false;
-        this.syncLock = new distExports.Lock();
-        this.sortHighlights = (highlights) => {
-            let sortedHighlights = highlights.slice();
-            if (this.settings.highlightSortByLocation) {
-                sortedHighlights = sortedHighlights.sort((highlightA, highlightB) => {
-                    if (highlightA.location < highlightB.location)
-                        return -1;
-                    if (highlightA.location > highlightB.location)
-                        return 1;
-                    return 0;
-                });
-                if (!this.settings.highlightSortOldestToNewest)
-                    sortedHighlights = sortedHighlights.reverse();
+        this.settings = { ...DEFAULT_SETTINGS };
+        // Set new custom Environment using our custom loader
+        this.loader = new ReadwiseLoader();
+        this.env = new ReadwiseEnvironment(this.loader, { autoescape: false });
+        this.logger = new Logger(false);
+        this.lock = new distExports.Lock();
+    }
+    get notify() {
+        if (!this._notify) {
+            throw new Error('ReadwiseMirror is not initialized yet: notify is unavailable.');
+        }
+        return this._notify;
+    }
+    get frontmatterManager() {
+        if (!this._frontmatterManager) {
+            throw new Error('ReadwiseMirror is not initialized yet: frontmatterManager is unavailable.');
+        }
+        return this._frontmatterManager;
+    }
+    get deduplicatingVaultWriter() {
+        if (!this._deduplicatingVaultWriter) {
+            throw new Error('ReadwiseMirror is not initialized yet: deduplicatingVaultWriter is unavailable.');
+        }
+        return this._deduplicatingVaultWriter;
+    }
+    get ctx() {
+        // Create plugin context for dependency injection
+        const ctx = {
+            settings: this.settings,
+            app: this.app,
+            logger: this.logger,
+            syncLock: this.lock,
+            statusBarItem: this.notify.statusBarItem,
+            // exposed methods
+            notice: (message, duration) => this.notify.notice(message, duration),
+            setStatusBarText: (message) => this.notify.setStatusBarText(message),
+            saveAndApplySettings: () => this.saveAndApplySettings(),
+        };
+        return ctx;
+    }
+    async onload() {
+        // Move UI setup to onLayoutReady
+        this.app.workspace.onLayoutReady(() => {
+            void (async () => {
+                await this.lock.acquire('readwise-mirror:loaded');
+                const statusBarItem = this.addStatusBarItem();
+                this._notify = new Notify(statusBarItem);
+                await this.initializeUI();
+            })();
+        });
+    }
+    onunload() {
+        this.logger.debug('Readwise Mirror plugin unloaded.');
+        this.lock.release('readwise-mirror:loaded');
+        super.onunload();
+    }
+    async initializeUI() {
+        try {
+            this.addSettingTab(new ReadwiseMirrorSettingTab(this, this.ctx, this.env));
+            await this.loadAndApplySettings();
+            this.logger.debug('Readwise Mirror plugin loaded.');
+            // Instantiate controller and attach to context
+            this._frontmatterManager = new FrontmatterManager(this.ctx, this.env, this.app.fileManager);
+            this._deduplicatingVaultWriter = new DeduplicatingVaultWriter(this.ctx, this.frontmatterManager);
+            if (!this.settings.apiToken) {
+                this.notify.notice('Readwise: API Token not detected\nPlease enter in configuration page');
+                this.notify.setStatusBarText('Readwise: API Token Required');
             }
             else {
-                sortedHighlights = this.settings.highlightSortOldestToNewest ? sortedHighlights.reverse() : sortedHighlights;
+                //Update status bar with last sync time
+                if (this.settings.lastUpdated)
+                    this.notify.setStatusBarText(`Readwise: Updated ${humanReadableFormat(this.settings.lastUpdated)}`);
+                else
+                    this.notify.setStatusBarText('Readwise: Click to Sync');
             }
-            return sortedHighlights;
-        };
-        // Set new custom Environment using our custom loader
-        this._loader = new ReadwiseLoader();
-        this._env = new ReadwiseEnvironment(this._loader, { autoescape: false });
+            // Register all commands and run startup commands
+            let controllerInstance;
+            try {
+                controllerInstance = await Controller.initialize(this, this.ctx);
+                new CommandManager(this, this.ctx, controllerInstance).initialize();
+            }
+            catch (error) {
+                this.logger.error('Error initializing Readwise controller:', error);
+                // Show concise user-facing notice but do not rethrow — allow plugin to continue
+                this.notify.notice('Readwise: Controller initialization failed. Check console for details.');
+            }
+            // Update status bar every second if synced
+            this.registerInterval(window.setInterval(() => {
+                if (/Synced/.test(this.notify.getStatusBarText())) {
+                    this.notify.setStatusBarText(`Readwise: Synced ${humanReadableFormat(this.settings.lastUpdated)}`);
+                }
+            }, 1000));
+        }
+        catch (error) {
+            this.logger.error('Error during plugin initialization:', error);
+        }
     }
-    // Add getter for environment
-    get env() {
-        return this._env;
+    // Reload settings after external change (e.g. after sync)
+    async onExternalSettingsChange() {
+        this.logger.debug('External settings change detected, reloading settings...');
+        await this.loadAndApplySettings();
     }
-    // Add getter for loader
-    get loader() {
-        return this._loader;
+    /**
+     * Loads settings from disk and applies them to the plugin instance.
+     * In particular, this updates the header and highlight templates.
+     */
+    async loadAndApplySettings() {
+        const loaded = (await this.loadData());
+        this.settings = { ...DEFAULT_SETTINGS, ...(loaded ?? {}) };
+        if (this.lock.isAcquired('readwise-mirror:loaded')) {
+            // Only apply settings if plugin is loaded, and create settings tab at the same time
+            await this.applySettings();
+        }
     }
-    // Add logger getter
-    get logger() {
-        return this._logger;
+    /**
+     * Saves the current settings to disk and applies them to the plugin instance.
+     * In particular, this updates the header and highlight templates.
+     */
+    async saveAndApplySettings() {
+        await this.saveData(this.settings);
+        await this.applySettings();
     }
-    // Getters and setters for settings and templates
-    get settings() {
-        return this._settings;
-    }
-    set settings(settings) {
-        this._settings = settings;
-    }
-    get readwiseApi() {
-        return this._readwiseApi;
-    }
-    set readwiseApi(api) {
-        this._readwiseApi = api;
-    }
-    set headerTemplate(template) {
+    /**
+     * Applies the logger mode, and header and highlight templates from the current settings to the plugin instance.
+     */
+    async applySettings() {
+        // Set logger debug mode
+        this.logger.setDebugMode(this.settings.debugMode);
         try {
             // Update and try to compile
-            this._loader.setSource('header', template);
-            this._env.getTemplate('header', true);
+            this.loader.setSource('header', this.settings.headerTemplate);
+            this.env.getTemplate('header', true);
         }
         catch (error) {
             this.logger.error('Error setting header template:', error);
             this.notify.notice('Readwise: Error setting header template. Check console for details.');
         }
-    }
-    set highlightTemplate(template) {
         try {
             // Update and try to compile
-            this._loader.setSource('highlight', template);
-            this._env.getTemplate('highlight', true);
+            this.loader.setSource('highlight', this.settings.highlightTemplate);
+            this.env.getTemplate('highlight', true);
         }
         catch (error) {
             this.logger.error('Error setting highlight template:', error);
             this.notify.notice('Readwise: Error setting highlight template. Check console for details.');
+        }
+        // Re-initialize the ReadwiseController instance
+        try {
+            await Controller.initialize(this, this.ctx);
+        }
+        catch (error) {
+            this.logger.error('Error initializing Readwise controller during settings apply:', error);
+            this.notify.notice('Readwise: Controller initialization failed. Check console for details.');
         }
     }
     /**
@@ -17062,73 +18017,6 @@ class ReadwiseMirror extends obsidian.Plugin {
         }
     }
     /**
-     * Formats tags for use in a template
-     * @param tags - The tags to format
-     * @param nohash - Whether to remove the hash from the tag name
-     * @param q - The quote character to use
-     * @returns The formatted tags
-     */
-    formatTags(tags, nohash = false, q = '') {
-        // use unique list of tags
-        const uniqueTags = [...new Set(tags.map((tag) => tag.name.replace(/\s/, '-')))];
-        if (nohash === true) {
-            // don't return a hash in the tag name
-            return uniqueTags.map((tag) => `${q}${tag}${q}`).join(', ');
-        }
-        return uniqueTags.map((tag) => `${q}#${tag}${q}`).join(', ');
-    }
-    /**
-     * Formats a highlight for use in a template
-     * @param highlight - The highlight to format
-     * @param book - The book the highlight belongs to
-     * @returns The highlight object for the template
-     */
-    formatHighlight(highlight, book) {
-        const { id, text, note, location, color, url, readwise_url, tags, highlighted_at, created_at, updated_at, is_deleted, is_discard, is_favorite, location_type, } = highlight;
-        const location_url = book.asin && location ? `https://readwise.io/to_kindle?action=open&asin=${book.asin}&location=${location}` : null;
-        const formattedTags = tags.filter((tag) => tag.name !== color);
-        const formattedTagStr = this.formatTags(formattedTags);
-        return {
-            // Highlight fields
-            book_id: book.user_book_id,
-            id,
-            text,
-            note,
-            location,
-            location_type,
-            location_url,
-            is_deleted,
-            is_discard,
-            is_favorite,
-            url, // URL is set for source of highlight (webpage, tweet, etc). null for books
-            readwise_url,
-            color,
-            created_at: created_at ? this.formatDate(created_at) : '',
-            updated_at: updated_at ? this.formatDate(updated_at) : '',
-            highlighted_at: highlighted_at ? this.formatDate(highlighted_at) : '',
-            tags: formattedTagStr,
-            // Book fields
-            category: book.category,
-        };
-    }
-    filterHighlights(highlights) {
-        return highlights.filter((highlight) => {
-            if (this.settings.syncNotesOnly && !highlight.note)
-                return false;
-            // Check if is deleted
-            if (highlight.is_deleted) {
-                this.logger.debug('Found deleted highlight, removing', highlight);
-                return false;
-            }
-            // Check if is discarded
-            if (this.settings.highlightDiscard && highlight.is_discard) {
-                this.logger.debug('Found discarded highlight, removing', highlight);
-                return false;
-            }
-            return true;
-        });
-    }
-    /**
      * Parses a string of authors into an array of individual authors
      * @param authorString The input string containing one or more authors
      * @returns Array of individual author names
@@ -17146,19 +18034,6 @@ class ReadwiseMirror extends obsidian.Plugin {
             }
             return true;
         });
-    }
-    formatDate(dateStr) {
-        return dateStr.split('T')[0];
-    }
-    getTagsFromHighlights(highlights) {
-        // extract all tags from all Highlights and
-        // construct an array with unique values
-        let tags = [];
-        for (const highlight of this.sortHighlights(highlights)) {
-            if (highlight.tags)
-                tags = [...tags, ...highlight.tags];
-        }
-        return tags;
     }
     async writeLogToMarkdown(library) {
         const vault = this.app.vault;
@@ -17179,11 +18054,11 @@ class ReadwiseMirror extends obsidian.Plugin {
             if (abstractFile) {
                 // If log file already exists, append to the content instead of overwriting
                 const logFile = vault.getFiles().filter((file) => file.name === this.settings.logFileName)[0];
-                this.logger.info('logFile:', logFile);
+                this.logger.debug('logFile:', logFile);
                 await vault.process(logFile, (content) => `${content}\n\n${logString}`);
             }
             else {
-                vault.create(path, logString);
+                await vault.create(path, logString);
             }
         }
         catch (err) {
@@ -17199,14 +18074,14 @@ class ReadwiseMirror extends obsidian.Plugin {
         catch (err) {
             this.logger.error('Failed to create category folders', err);
             this.notify.notice('Readwise: Failed to create category folders. Sync aborted.');
-            this.isSyncing = false;
             this.logger.groupEnd();
             return;
         }
         // Prepare all files first
         const readwiseFiles = await this.processReadwiseLibrary(library);
         if (readwiseFiles.length === 0) {
-            this.logger.info('No eligible Readwise files to process (all highlights filtered out). Skipping write.');
+            this.logger.debug('No eligible Readwise files to process (all highlights filtered out). Skipping write.');
+            this.logger.groupEnd();
             return;
         }
         // Process all files in batch
@@ -17221,8 +18096,11 @@ class ReadwiseMirror extends obsidian.Plugin {
         }
         finally {
             this.logger.groupEnd();
-            this.isSyncing = false;
         }
+    }
+    async processFrontmatterUpdatesInLibrary(library) {
+        const readwiseFiles = await this.processReadwiseLibrary(library);
+        await this.deduplicatingVaultWriter.processFrontmatter(readwiseFiles);
     }
     /**
      * Processes a given Readwise library object and generates an array of `ReadwiseFile` objects,
@@ -17240,59 +18118,30 @@ class ReadwiseMirror extends obsidian.Plugin {
             this.notify.setStatusBarText(`Readwise: Processing - ${Math.floor((bookCurrent / booksTotal) * 100)}% finished (${bookCurrent}/${booksTotal})`);
             bookCurrent += 1;
             const book = library.books[bookId];
-            const { user_book_id, title, document_note, summary, author, category, cover_image_url, highlights, readwise_url, source_url, unique_url, book_tags, } = book;
-            const created = createdDate(highlights); // No reverse sort: we want the oldest entry
-            const updated = updatedDate(highlights);
-            const last_highlight_at = lastHighlightedDate(highlights);
+            const { title, category, highlights, source_url, unique_url } = book;
             // Sanitize title, replace colon with substitute from settings
             const basename = this.getFileNameFromDoc(book);
             // Filter highlights
-            const filteredHighlights = this.filterHighlights(highlights);
-            // Get highlight count from filtered highlights
-            const num_highlights = filteredHighlights.length;
+            const filteredHighlights = filterHighlights(highlights, this.settings);
             if (filteredHighlights.length === 0) {
                 this.logger.debug(`No highlights found for '${title}' (${source_url})`);
             }
-            // get an array with all tags from highlights
-            const highlightTags = this.getTagsFromHighlights(filteredHighlights);
-            const authors = this.parseAuthor(author);
-            const authorStr = authors[0] && authors?.length > 1
-                ? authors.map((authorName) => `[[${authorName.trim()}]]`).join(', ')
-                : author
-                    ? `[[${author}]]`
-                    : '';
-            const doc = {
-                id: user_book_id,
-                readwise_url,
-                unique_url,
-                source_url,
-                title,
-                sanitized_title: basename,
-                author: authors,
-                authorStr,
-                document_note,
-                summary,
-                category,
-                num_highlights,
-                created: created ? this.formatDate(created) : '',
-                updated: updated ? this.formatDate(updated) : '',
-                cover_image_url: cover_image_url.replace('SL200', 'SL500').replace('SY160', 'SY500'),
-                highlights,
-                last_highlight_at: last_highlight_at ? this.formatDate(last_highlight_at) : '',
-                tags: this.formatTags(book_tags),
-                highlight_tags: this.formatTags(highlightTags),
-                tags_nohash: this.formatTags(book_tags, true, "'"),
-                hl_tags_nohash: this.formatTags(highlightTags, true, "'"),
-            };
+            const doc = buildReadwiseDocument(book, {
+                basename,
+                settings: this.settings,
+            });
+            // Get the primary path for new file before checking for duplicates
+            const readwisePrimary = obsidian.normalizePath(`${this.deduplicatingVaultWriter.getCategoryPath(category)}/${basename}.md`);
             // Prepare the readwise file object
             const readwiseFile = {
                 type: 'base',
+                primary: readwisePrimary,
                 basename,
                 doc,
-                contents: undefined,
+                contents: '', // Always overwritten in the atomize branches below before being pushed
+                duplicates: [], // Populated if existing files are found
+                atoms: [], // Populated only when atomizing
             };
-            // Get the primary path for new file before checking for duplicates
-            readwiseFile.primary = this.deduplicatingVaultWriter.getNormalizedPath(this.deduplicatingVaultWriter.getCategoryPath(category), `${basename}.md`);
             // note_link is just the basename in this case
             doc.linktext = basename;
             // Early deduplication check to find primary and duplicate files
@@ -17301,21 +18150,44 @@ class ReadwiseMirror extends obsidian.Plugin {
                 if (existingFiles.length > 0) {
                     const [primary, ...duplicates] = existingFiles;
                     this.logger.debug(`Found ${existingFiles.length} existing file(s) for '${title}' (${source_url}), using primary: ${primary.path}`);
-                    // We only rename files if the respective settings are enabled and the filenames differ
-                    if (this.settings.enableFileNameUpdates && readwiseFile.basename !== primary.basename) {
-                        let newPath = this.deduplicatingVaultWriter.getNormalizedPath(primary.parent.path, `${readwiseFile.basename}.md`);
-                        const newFileExists = await this.app.vault.adapter.exists(newPath, false);
-                        if (newFileExists) {
-                            // Add hash to filename if there's a collision
-                            const hash = this.deduplicatingVaultWriter.generateShortHash(readwiseFile.doc);
-                            newPath = this.deduplicatingVaultWriter.getNormalizedPath(primary.parent.path, `${readwiseFile.basename} ${hash}.md`);
-                        }
-                        if (newPath !== primary.path) {
-                            this.logger.debug(`Renamed file from ${primary.path} to ${newPath}`);
+                    if (this.settings.enableFileNameUpdates) {
+                        const hash = this.deduplicatingVaultWriter.generateShortHash(basename);
+                        try {
+                            for (let i = 0; i < duplicates.length; i++) {
+                                const duplicate = duplicates[i];
+                                const duplicateParent = duplicate.parent;
+                                if (!duplicateParent) {
+                                    throw new Error(`Cannot rename duplicate file ${duplicate.path}: parent folder is null.`);
+                                }
+                                const duplicateParentPath = duplicateParent.path;
+                                let newPath = obsidian.normalizePath(`${duplicateParentPath}/${basename} ${i + 1}.md`);
+                                // Avoid overwriting existing files
+                                let suffix = i + 1;
+                                while ((await this.app.vault.adapter.exists(newPath, false)) && newPath !== duplicate.path) {
+                                    suffix++;
+                                    newPath = obsidian.normalizePath(`${duplicateParentPath}/${basename} ${suffix}.md`);
+                                }
+                                if (newPath !== duplicate.path) {
+                                    await this.app.fileManager.renameFile(duplicate, newPath);
+                                }
+                            }
+                            const newFileExists = await this.app.vault.adapter.exists(readwisePrimary, false);
+                            const primaryParent = primary.parent;
+                            if (!primaryParent) {
+                                throw new Error(`Cannot rename primary file ${primary.path}: parent folder is null.`);
+                            }
+                            const primaryParentPath = primaryParent.path;
+                            // Add hash to filename if there's a collision (and the primary is not in the duplicates)
+                            const newPath = newFileExists && readwisePrimary !== primary.path
+                                ? obsidian.normalizePath(`${primaryParentPath}/${basename} ${hash}.md`)
+                                : obsidian.normalizePath(`${primaryParentPath}/${basename}.md`);
+                            this.logger.debug(`Rename file from ${primary.path} to ${newPath}`);
                             await this.app.fileManager.renameFile(primary, newPath);
                         }
+                        catch (error) {
+                            this.logger.error(`Error renaming file ${primary.path}`, error);
+                        }
                     }
-                    // Update readwiseFile and doc with existing file
                     readwiseFile.primary = primary;
                     readwiseFile.duplicates = duplicates;
                     doc.linktext = this.app.metadataCache.fileToLinktext(readwiseFile.primary, readwiseFile.primary.path, true);
@@ -17326,40 +18198,51 @@ class ReadwiseMirror extends obsidian.Plugin {
             let frontmatter = this.frontmatterManager.getFrontmatter(readwiseFile, hasExistingFrontmatter);
             if (hasExistingFrontmatter) {
                 const primaryFile = readwiseFile.primary;
-                const fileMetadata = this.app.metadataCache.getFileCache(primaryFile);
-                if (fileMetadata?.frontmatter) {
-                    const existingFrontmatter = new Frontmatter(fileMetadata.frontmatter);
-                    frontmatter = existingFrontmatter.merge(frontmatter);
+                if (primaryFile instanceof obsidian.TFile) {
+                    const fileMetadata = this.app.metadataCache.getFileCache(primaryFile);
+                    if (fileMetadata?.frontmatter) {
+                        const existingFrontmatter = new Frontmatter(fileMetadata.frontmatter);
+                        frontmatter = existingFrontmatter.merge(frontmatter);
+                    }
                 }
             }
             // Determine if we should atomize this file
             const shouldAtomize = this.shouldAtomize(frontmatter);
             // Render header, and highlights by rendering the core template
-            this._loader.setSource('file', NUNJUCKS_CORE_TEMPLATE);
-            const _contents = this._env.render('file', {
-                // We pass the doc (current Readwise document) and book (Export) for access to all fields
+            const _contents = renderMarkdownTemplate(this.env, this.loader, {
                 doc,
                 book,
-                highlights: this.sortHighlights(filteredHighlights).map((hl) => this.formatHighlight(hl, book)),
+                highlights: filteredHighlights,
                 headerTemplate: 'header',
                 highlightTemplate: 'highlight',
+                settings: this.settings,
             });
             // Assign frontmatter to readwiseFile
             readwiseFile.frontmatter = frontmatter?.toString();
             // Atomize only when enabled and when trackFiles is enabled as well
             const atomizer = new Atomizer();
             if (shouldAtomize) {
-                // FIXME: Handle basename changes of the parent file: we need to update all atomized files as well, or ensure we catch a differing basename vs. primary file
-                const { contents, atoms } = atomizer.atomize(_contents, { basename, doc, book });
-                this.logger.debug(`Atomized ${atoms?.length} highlights for '${title}' (${source_url})`);
-                readwiseFile.contents = contents;
-                readwiseFile.atoms = atoms;
+                try {
+                    const { contents, atoms } = atomizer.atomize(_contents, { basename, doc, book });
+                    this.logger.debug(`Atomized ${atoms?.length} highlights for '${title}' (${source_url})`);
+                    readwiseFile.contents = contents;
+                    readwiseFile.atoms = atoms;
+                }
+                catch (err) {
+                    this.logger.error(`Failed to atomize '${title}' (${unique_url}): `, err);
+                    readwiseFile.contents = _contents; // fall back to raw contents
+                }
             }
             else {
-                // Set atomizer to composite mode and remove frontmatter blocks
-                atomizer.setCompositeEnvironment();
-                const { contents } = atomizer.atomize(_contents, { basename, doc, book });
-                readwiseFile.contents = contents;
+                try {
+                    atomizer.setCompositeEnvironment();
+                    const { contents } = atomizer.atomize(_contents, { basename, doc, book });
+                    readwiseFile.contents = contents;
+                }
+                catch (err) {
+                    this.logger.error(`Failed to process composite '${title}' (${unique_url}): `, err);
+                    readwiseFile.contents = _contents; // fall back to raw contents
+                }
             }
             readwiseFiles.push(readwiseFile);
         }
@@ -17383,8 +18266,8 @@ class ReadwiseMirror extends obsidian.Plugin {
                 created: createdDate(book.highlights),
                 updated: updatedDate(book.highlights),
             };
-            this._loader.setSource('filename', template);
-            filename = this._env.render('filename', context);
+            this.loader.setSource('filename', template);
+            filename = this.env.render('filename', context);
         }
         else {
             filename = book.title;
@@ -17398,7 +18281,7 @@ class ReadwiseMirror extends obsidian.Plugin {
         // Delete old instance of file
         if (abstractFile) {
             try {
-                this.logger.info('Attempting to delete entire library at:', abstractFile);
+                this.logger.debug('Attempting to delete entire library at:', abstractFile);
                 await this.app.fileManager.trashFile(abstractFile);
                 return true;
             }
@@ -17408,90 +18291,9 @@ class ReadwiseMirror extends obsidian.Plugin {
             }
         }
     }
-    async sync() {
-        if (this.isSyncing) {
-            this.notify.notice('Sync already in progress');
-            return;
-        }
-        this.isSyncing = true;
-        try {
-            if (!this._readwiseApi?.hasValidToken()) {
-                this.notify.notice('Readwise: Valid API Token Required');
-                return;
-            }
-            let library;
-            const lastUpdated = this.settings.lastUpdated;
-            if (!lastUpdated) {
-                if (this.settings.syncNotifications)
-                    this.notify.notice('Readwise: Previous sync not detected...\nDownloading full Readwise library');
-                library = await this._readwiseApi.downloadFullLibrary();
-            }
-            else {
-                // Load Updates and cache
-                if (this.settings.syncNotifications)
-                    this.notify.notice(`Readwise: Checking for new updates since ${this.lastUpdatedHumanReadableFormat()}`);
-                library = await this._readwiseApi.downloadUpdates(lastUpdated);
-            }
-            this.logger.group('Filter Library: Deleted and by Tag');
-            this.logger.debug(`Filtering books: deleted ${this.settings.filteredTags ? 'or by tag ' : ''}(${this.settings.filteredTags})`);
-            // Remove deleted books
-            for (const bookId in library.books) {
-                const book = library.books[bookId];
-                if (book.is_deleted) {
-                    this.logger.warn(`Removing deleted book: ${book.title} (${book.user_book_id})`);
-                    delete library.books[bookId];
-                }
-                if (this.settings.filterNotesByTag &&
-                    Array.isArray(this.settings.filteredTags) &&
-                    this.settings.filteredTags.length > 0) {
-                    if (book.book_tags.every((tag) => !this.settings.filteredTags.includes(tag.name))) {
-                        this.logger.debug(`Removing book not matching filter tags: ${book.title} (${book.user_book_id})`);
-                        delete library.books[bookId];
-                    }
-                }
-            }
-            this.logger.groupEnd();
-            if (Object.keys(library.books).length > 0) {
-                if (this.settings.atomicHighlights) {
-                    library.categories.add('Highlight');
-                }
-                await this.writeLibraryToMarkdown(library);
-                if (this.settings.logFile)
-                    await this.writeLogToMarkdown(library);
-                let message = `Readwise: Downloaded ${library.highlightCount} Highlights from ${Object.keys(library.books).length} Sources`;
-                if (this.settings.filterNotesByTag && this.settings.filteredTags?.length > 0) {
-                    message += ` (filtered by tags: ${this.settings.filteredTags.join(', ')})`;
-                }
-                if (this.settings.syncNotifications)
-                    this.notify.notice(message);
-            }
-            else {
-                if (this.settings.syncNotifications)
-                    this.notify.notice('Readwise: No new content available');
-            }
-            this.settings.lastUpdated = new Date().toISOString();
-            await this.saveSettings();
-            this.notify.setStatusBarText(`Readwise: Synced ${this.lastUpdatedHumanReadableFormat()}`);
-        }
-        catch (error) {
-            this.logger.error('Error during sync:', error);
-            this.notify.notice(`Readwise: Sync failed. ${error}`);
-            this.notify.setStatusBarText(`Readwise: Sync error ${error}`);
-        }
-        finally {
-            // Make sure we reset the sync status in case of error
-            this.isSyncing = false;
-        }
-    }
-    async download() {
-        // Reset lastUpdate setting to force full download
-        this.settings.lastUpdated = null;
-        await this.saveSettings();
-        await this.sync();
-    }
     async deleteLibrary() {
         this.settings.lastUpdated = null;
-        await this.saveSettings();
+        await this.saveAndApplySettings();
         if (await this.deleteLibraryFolder()) {
             if (this.settings.syncNotifications)
                 this.notify.notice('Readwise: library folder deleted');
@@ -17501,372 +18303,6 @@ class ReadwiseMirror extends obsidian.Plugin {
                 this.notify.notice('Readwise: Error deleting library folder');
         }
         this.notify.setStatusBarText('Readwise: Click to Sync');
-    }
-    lastUpdatedHumanReadableFormat() {
-        return main.now().since(main(this.settings.lastUpdated)).rounded;
-    }
-    /**
-     * Handles the adjustment of filenames in the Readwise folder.
-     */
-    async handleFilenameAdjustment() {
-        const vault = this.app.vault;
-        const path = `${this.settings.baseFolderName}`;
-        const readwiseFolder = vault.getAbstractFileByPath(path);
-        if (readwiseFolder && readwiseFolder instanceof obsidian.TFolder) {
-            this.notify.notice('Readwise: Filename adjustment started');
-            // Iterate all files in the Readwise folder and "fix" their names according to the current settings using
-            const renamedFiles = await this.iterativeReadwiseRenamer(readwiseFolder);
-            if (renamedFiles > 0) {
-                this.notify.notice(`Readwise: Renamed ${renamedFiles} files. Check console for renaming errors.`);
-            }
-            else {
-                this.notify.notice('Readwise: No files renamed. Check console for renaming errors.');
-            }
-        }
-    }
-    /**
-     * Iteratively renames files in the Readwise folder.
-     * @param folder - The folder to iterate through
-     * @returns
-     */
-    async iterativeReadwiseRenamer(folder) {
-        const files = folder.children;
-        let countRenamed = 0;
-        for (const file of files) {
-            if (file instanceof obsidian.TFolder) {
-                // Skip folders
-                countRenamed += await this.iterativeReadwiseRenamer(file);
-            }
-            if (file instanceof obsidian.TFile && file.extension === 'md') {
-                const result = await this.renameReadwiseNote(file);
-                if (result) {
-                    countRenamed++;
-                }
-            }
-        }
-        return countRenamed;
-    }
-    /**
-     * Formats the filename of a Readwise note based on the settings.
-     *
-     * @param file The file to format.
-     */
-    async renameReadwiseNote(file) {
-        const newFilename = normalizeFilename(file.basename, this.settings);
-        // Only rename if there's a difference
-        if (newFilename !== file.basename) {
-            const newPath = `${file.parent.path}/${newFilename}.md`;
-            try {
-                await this.app.fileManager.renameFile(file, newPath);
-                this.logger.info(`Renamed file '${file.name}' to '${newFilename}.md'`);
-                return true;
-            }
-            catch (error) {
-                this.logger.error(`Error renaming file: '${file.name}' to '${newFilename}.md': ${error}`);
-                return false;
-            }
-        }
-        return false;
-    }
-    // Reload settings after external change (e.g. after sync)
-    async onExternalSettingsChange() {
-        this.logger.info('Reloading settings due to external change');
-        await this.loadSettings();
-        if (this.settings.lastUpdated)
-            this.notify.setStatusBarText(`Readwise: Updated ${this.lastUpdatedHumanReadableFormat()}`);
-        if (!this.settings.apiToken) {
-            this.notify.notice('Readwise: API Token not detected\nPlease enter in configuration page');
-            this.notify.setStatusBarText('Readwise: API Token Required');
-            this._readwiseApi = null; // Invalidate the API instance
-        }
-        else {
-            this._readwiseApi = new ReadwiseApi(this.settings.apiToken, this.notify, this._logger);
-        }
-    }
-    async onload() {
-        await this.loadSettings();
-        // Initialize logger with debug mode from settings
-        this._logger = new Logger(this.settings.debugMode || false);
-        // Move UI setup to onLayoutReady
-        this.app.workspace.onLayoutReady(() => {
-            this.initializeUI();
-        });
-    }
-    initializeUI() {
-        const statusBarItem = this.addStatusBarItem();
-        this.notify = new Notify(statusBarItem);
-        this.frontmatterManager = new FrontmatterManager(this.settings, this.logger, this._env, this.app.fileManager);
-        this.headerTemplate = this.settings.headerTemplate;
-        this.highlightTemplate = this.settings.highlightTemplate;
-        this.deduplicatingVaultWriter = new DeduplicatingVaultWriter(this.app, this.settings, this.frontmatterManager, this.logger, this.notify);
-        if (!this.settings.apiToken) {
-            this.notify.notice('Readwise: API Token not detected\nPlease enter in configuration page');
-            this.notify.setStatusBarText('Readwise: API Token Required');
-        }
-        else {
-            this._readwiseApi = new ReadwiseApi(this.settings.apiToken, this.notify, this._logger);
-            this.logger.info('Validating Readwise token ...');
-            // Run sync if we have a valid token and auto sync is enabled
-            this._readwiseApi
-                .validateToken()
-                .then((isValid) => {
-                if (isValid && this.settings.autoSync) {
-                    if (this.settings.syncNotifications)
-                        this.notify.notice('Readwise: Run auto sync on startup');
-                    this.sync();
-                }
-            })
-                .catch((error) => {
-                this.notify.notice(`Readwise: Error validating token, please check your API token: ${error}`);
-            });
-            if (this.settings.lastUpdated)
-                this.notify.setStatusBarText(`Readwise: Updated ${this.lastUpdatedHumanReadableFormat()}`);
-            else
-                this.notify.setStatusBarText('Readwise: Click to Sync');
-        }
-        this.registerDomEvent(statusBarItem, 'click', this.sync.bind(this));
-        this.addCommand({
-            id: 'download',
-            name: 'Download entire Readwise library (force)',
-            callback: this.download.bind(this),
-        });
-        this.addCommand({
-            id: 'test',
-            name: 'Test Readwise API key',
-            callback: async () => {
-                const isTokenValid = this._readwiseApi.hasValidToken();
-                this.notify.notice(`Readwise: ${isTokenValid ? 'Token is valid' : 'INVALID TOKEN'}`);
-            },
-        });
-        this.addCommand({
-            id: 'delete',
-            name: 'Delete Readwise library',
-            callback: this.deleteLibrary.bind(this),
-        });
-        this.addCommand({
-            id: 'update',
-            name: 'Sync new highlights',
-            callback: this.sync.bind(this),
-        });
-        this.addCommand({
-            id: 'adjust-filenames',
-            name: 'Adjust Filenames to current settings',
-            checkCallback: (checking) => {
-                // Only enable if tracking files and filename updates are enabled
-                if (this.settings.trackFiles && this.settings.enableFileNameUpdates) {
-                    if (!checking) {
-                        this.handleFilenameAdjustment();
-                    }
-                    return true;
-                }
-                return false;
-            },
-        });
-        this.addCommand({
-            id: 'update-all-frontmatter',
-            name: 'Update all Readwise note frontmatter',
-            checkCallback: (checking) => {
-                if (this.settings.frontMatter && this.settings.trackFiles) {
-                    if (!checking) {
-                        this.updateAllFrontmatter();
-                    }
-                    return true;
-                }
-                return false;
-            },
-        });
-        // TODO: #73 We could even check if the current note is found on Readwise *before* enabling the command
-        this.addCommand({
-            id: 'update-current-note',
-            name: 'Update current note',
-            checkCallback: (checking) => {
-                const file = this.app.workspace.getActiveFile();
-                if (!file)
-                    return false;
-                const isReadwiseNote = isTrackedReadwiseNote(file, this.app, this.settings);
-                const isInLibrary = isInReadwiseLibrary(file, this.settings);
-                // If trackAcrossVault is enabled, only check if it's a Readwise note.
-                // Otherwise, check if it's a Readwise note AND in the Readwise library.
-                const shouldEnable = this.settings.trackAcrossVault ? isReadwiseNote : isReadwiseNote && isInLibrary;
-                if (shouldEnable && this.settings.trackFiles) {
-                    if (!checking) {
-                        this.updateCurrentNote(file);
-                    }
-                    return true;
-                }
-                return false;
-            },
-        });
-        // Special debug command, only enabled if debug mode is active
-        this.addCommand({
-            id: 'reset-last-updated',
-            name: 'Reset lastUpdated setting to 2 months ago (debug)',
-            checkCallback: (checking) => {
-                if (this.settings.debugMode) {
-                    if (!checking) {
-                        const d = main.now().subtract(2, 'months');
-                        new ConfirmDialog(this.app, 'Are you sure?', `Do you really want to reset 'last updated' date to ${main.now().since(d).rounded}?`, (result) => {
-                            if (result) {
-                                this.settings.lastUpdated = d.iso();
-                                this.saveSettings();
-                                this.notify.setStatusBarText(`Readwise: lastUpdated reset to ${main.now().since(d).rounded}`);
-                            }
-                        }).open();
-                    }
-                    return true;
-                }
-                return false;
-            },
-        });
-        // Update status bar every second if synced
-        this.registerInterval(window.setInterval(() => {
-            if (/Synced/.test(this.notify.getStatusBarText())) {
-                this.notify.setStatusBarText(`Readwise: Synced ${this.lastUpdatedHumanReadableFormat()}`);
-            }
-        }, 1000));
-        this.addSettingTab(new ReadwiseMirrorSettingTab(this.app, this, this.notify));
-    }
-    async loadSettings() {
-        this.settings = { ...DEFAULT_SETTINGS, ...(await this.loadData()) };
-    }
-    async saveSettings() {
-        await this.saveData(this.settings);
-    }
-    /**
-     * Updates the frontmatter for all markdown files within the configured base folder.
-     *
-     * @async
-     * @returns {Promise<void>} Resolves when all eligible files have been processed.
-     */
-    async updateAllFrontmatter() {
-        if (this.isSyncing) {
-            this.notify.notice('Readwise: update already in progress');
-            return;
-        }
-        if (!this._readwiseApi?.hasValidToken()) {
-            this.notify.notice('Readwise: Valid API Token Required');
-            return;
-        }
-        this.notify.notice('Readwise: Updating all note frontmatter...');
-        try {
-            this.isSyncing = true;
-            this.logger.info('Readwise: downloading full library to update frontmatter...');
-            const library = await this._readwiseApi.downloadFullLibrary();
-            // Remove deleted books
-            for (const bookId in library.books) {
-                const book = library.books[bookId];
-                if (book.is_deleted) {
-                    this.logger.warn(`Removing deleted book: ${book.title} (${book.user_book_id})`);
-                    delete library.books[bookId];
-                }
-                if (this.settings.filterNotesByTag &&
-                    Array.isArray(this.settings.filteredTags) &&
-                    this.settings.filteredTags.length > 0) {
-                    if (book.book_tags.every((tag) => !this.settings.filteredTags.includes(tag.name))) {
-                        this.logger.debug(`Removing book not matching filter tags: ${book.title} (${book.user_book_id})`);
-                        delete library.books[bookId];
-                    }
-                }
-            }
-            const readwiseFiles = await this.processReadwiseLibrary(library);
-            this.logger.group('Frontmatter Update');
-            await this.deduplicatingVaultWriter.processFrontmatter(readwiseFiles);
-            this.logger.groupEnd();
-            let message = `Readwise: Updated ${Object.keys(library.books).length} notes`;
-            if (this.settings.filterNotesByTag && this.settings.filteredTags?.length > 0) {
-                message += ` (filtered by tags: ${this.settings.filteredTags.join(', ')})`;
-            }
-            this.notify.notice(message);
-        }
-        catch (error) {
-            this.logger.error('Error during frontmatter sync:', error);
-            this.notify.notice(`Readwise: Sync failed. ${error}`);
-        }
-        finally {
-            // Make sure we reset the sync status in case of error
-            this.isSyncing = false;
-        }
-    }
-    /**
-     * Fetch single book by bookId via downloadSingleBook
-     */
-    async updateCurrentNote(file = this.app.workspace.getActiveFile()) {
-        if (this.isSyncing) {
-            this.notify.notice('Readwise: update already in progress');
-            return;
-        }
-        if (!this.settings.trackFiles) {
-            this.notify.notice('Current note can only be updated when tracking files');
-            return;
-        }
-        if (!this._readwiseApi?.hasValidToken()) {
-            this.notify.notice('Readwise: Valid API Token Required');
-            return;
-        }
-        let trackingUrl;
-        try {
-            // Assuming 'this' is your plugin instance and you want to get metadata for the active file in the editor
-            if (!file) {
-                this.logger.warn('No active file selected in the editor.');
-                return;
-            }
-            const isReadwiseNote = isTrackedReadwiseNote(file, this.app, this.settings);
-            const isInLibrary = isInReadwiseLibrary(file, this.settings);
-            // If trackAcrossVault is enabled, only check if it's a Readwise note.
-            // Otherwise, check if it's a Readwise note AND in the Readwise library.
-            const allowUpdate = this.settings.trackAcrossVault ? isReadwiseNote : isReadwiseNote && isInLibrary;
-            if (allowUpdate) {
-                this.logger.debug('Readwise: Updating current note...'); // FIXME: Simplify. In theory, we only reach this point if trackingUrl is valid (due to isReadwiseNote checks above) so the following is not needed. The root problem is the double call to getFileCache (here and in isTrackedReadwiseNote()) which should be avoided.
-                const fileCache = this.app.metadataCache.getFileCache(file);
-                trackingUrl = fileCache?.frontmatter?.[this._settings.trackingProperty];
-                if (typeof trackingUrl !== 'string' || !trackingUrl.startsWith(READWISE_REVIEW_URL_BASE)) {
-                    this.notify.notice('Readwise: Tracking URL missing or invalid in current note.');
-                    this.logger.warn('Tracking URL missing/invalid for current note.');
-                    return;
-                }
-                // Acquire a lock for the specific note
-                await this.syncLock.acquire(trackingUrl);
-                try {
-                    const idStr = trackingUrl.replace(READWISE_REVIEW_URL_BASE, ''); // Extract the ID from the URL
-                    const id = Number.parseInt(idStr, 10);
-                    if (Number.isNaN(id)) {
-                        this.notify.notice(`Readwise: Tracking URL in current note is invalid (ID ${idStr} is not a valid number).`);
-                        this.logger.warn(`Tracking URL in current note is invalid (ID ${idStr} is not a valid number).`);
-                        return;
-                    }
-                    this.logger.debug(`Readwise: downloading current book with ID ${id}...`);
-                    const library = await this._readwiseApi.downloadSingleBook(id);
-                    if (Object.keys(library.books).length > 0) {
-                        if (this.settings.atomicHighlights) {
-                            library.categories.add('Highlight');
-                        }
-                        await this.writeLibraryToMarkdown(library);
-                        if (this.settings.logFile)
-                            await this.writeLogToMarkdown(library);
-                        if (this.settings.syncNotifications)
-                            this.notify.notice('Readwise: Book update complete.');
-                    }
-                    else {
-                        this.notify.notice(`Readwise: Note with id ${id} not found on Readwise.`);
-                        this.logger.warn(`Readwise: Note with id ${id} not found on Readwise.`);
-                        return;
-                    }
-                }
-                finally {
-                    this.syncLock.release(trackingUrl);
-                }
-            }
-            else {
-                this.notify.notice(this.settings.trackAcrossVault
-                    ? 'Readwise: Current note is not a tracked Readwise note.'
-                    : 'Readwise: Current note is not a tracked Readwise note in the Readwise library folder.');
-                return;
-            }
-        }
-        catch (error) {
-            this.logger.error('Error during single-book update:', error);
-            this.notify.notice(`Readwise: Sync failed. ${error}`);
-        }
     }
 }
 
