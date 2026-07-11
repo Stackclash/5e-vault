@@ -15,7 +15,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
-party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
 prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2024-05-26.md|2024-05-26]]"
 tags:
   - session-journal
@@ -27,7 +27,7 @@ locations:
 > ## Info
 > | | |
 > |---|---|
-> | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
+> | **Campaign:** | `INPUT[suggester(optionQuery(#campaign)):campaign]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
 > | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
 > ## Fantasy Dates
