@@ -15,3 +15,6 @@ node_modules
 
 .smtcmp_json_db
 .smtcmp_vector_db.tar.gz
+
+# Documentation build output
+.docs/site
