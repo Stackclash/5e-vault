@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
-location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 owners: []
 staff:
-  - '[[4. World Almanac/NPCs/Parriwimple.md|Parriwimple]]'
+  - "[[4. World Almanac/NPCs/Parriwimple (COS).md|Parriwimple (COS)]]"
 cost_modifier: 1
-items: 
+items:
 tags:
   - shop
   - location

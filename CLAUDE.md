@@ -125,12 +125,12 @@ await init.moveFile(tp, config.locations.myPath, data.name)
 
 ## Active Campaign / World / Party
 
-The vault's active context is stored in `1. DM Toolkit/Configuration.md` frontmatter — this is the single source of truth. Resolve these links before acting; never hardcode the current campaign, world, or party name:
-- `active_world` — current world (link to `4. World Almanac/Worlds/`). Currently Eldoria.
-- `active_party` — current party (link to `3. The Party/Parties/`). Currently Midnight Covenant.
-- `active_campaign` — current campaign (link to `1. DM Toolkit/Campaigns/`). Currently The Hunt for Vecna.
+The vault's active context is driven by a single frontmatter key in `1. DM Toolkit/Configuration.md` — this is the single source of truth. The active world and party are **not** stored in Configuration; they are read from the active campaign note's own frontmatter. Resolve these links before acting; never hardcode the current campaign, world, or party name:
+- `active_campaign` — current campaign (link to `1. DM Toolkit/Campaigns/`), stored in Configuration frontmatter. Currently The Hunt for Vecna.
+- **active world** — the `world` field on the `active_campaign` note (link to `4. World Almanac/Worlds/`). Currently Eldoria.
+- **active party** — the `party` field on the `active_campaign` note (link to `3. The Party/Parties/`). Currently Midnight Covenant.
 
-Scripts and templates read this via `dataview.api.page('Configuration')`.
+Scripts and templates resolve these via `dataview.api.page('Configuration')` for the campaign, then read `.world` / `.party` off the resolved campaign page — e.g. `dv.page(dv.page('Configuration').active_campaign).party`.
 
 ### Campaign bible
 
@@ -138,7 +138,7 @@ The `active_campaign` note **is** the campaign bible. It defines the campaign's 
 
 ### Party roster
 
-The `active_party` note is the roster. Size, levels, and composition are surfaced there via its Dataview character and session-log queries — read the note rather than assuming. Encounter balancing uses the Lazy DM (Sly Flourish) encounter benchmark, per the party note's encounter infobox.
+The active party note (the campaign note's `party` field) is the roster. Size, levels, and composition are surfaced there via its Dataview character and session-log queries — read the note rather than assuming. Encounter balancing uses the Lazy DM (Sly Flourish) encounter benchmark, per the party note's encounter infobox.
 
 ### Continuity pointers
 

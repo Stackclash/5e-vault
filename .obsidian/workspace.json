@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "2026-07-18"
             }
+          },
+          {
+            "id": "cbcffd96243f2ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Parriwimple (COS).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parriwimple (COS)"
+            }
+          },
+          {
+            "id": "3dd31108bdf8a8d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Toolkit/Configuration.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuration"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,8 +293,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bdbdf181694c4447",
+  "active": "3dd31108bdf8a8d1",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Parriwimple (COS).md",
+    "4. World Almanac/Shops/Bildrath's Mercantile.md",
+    "4. World Almanac/Shops/Shops.md",
+    "1. DM Toolkit/Configuration.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-07-18.md",
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "4. World Almanac/NPCs/Seer Ithildra Moonveil.md",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
@@ -299,13 +333,8 @@
     "1. DM Toolkit/Session Journals/Midnight Covenant/S15 The Seige of the Werewolves.md",
     "4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md",
     "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-07-18.md",
     "1. DM Toolkit/Session Prep/Midnight Covenant/2026-07-11.md",
-    "1. DM Toolkit/Campaigns/The Hunt for Vecna.md",
-    "4. World Almanac/NPCs/Mab.md",
     "4. World Almanac/NPCs/Mab.md.tmp.6558.54b42e44efaa",
-    "4. World Almanac/NPCs/Anastrasya Karelova (COS).md",
-    "4. World Almanac/Places of Interest/Castle Ravenloft.md",
     "z_Bases/Spells.base",
     "z_Bases/Items.base",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",

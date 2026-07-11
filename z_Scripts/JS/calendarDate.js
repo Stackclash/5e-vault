@@ -30,7 +30,7 @@ function getDate(app, date) {
 
 function getCalendarName(app) {
 	const dv = app.plugins.getPlugin("dataview").api
-	return dv.page(dv.page('Configuration').active_world).calendar
+	return dv.page(dv.page(dv.page('Configuration').active_campaign).world).calendar
 }
 
 function getCalendarConfig (app) {

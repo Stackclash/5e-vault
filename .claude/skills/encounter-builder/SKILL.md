@@ -9,7 +9,7 @@ Build encounters that are correctly balanced for the actual party, make sense in
 
 ## Before building
 
-1. **Party first — resolve it from player frontmatter, never from Dataview.** The party note's roster is a Dataview query and does not render in raw markdown. Instead: resolve `active_party` from `1. DM Toolkit/Configuration.md`, then Glob `3. The Party/Players/*.md` and keep files whose frontmatter has `active: true` and a `party` wikilink to that party. Read `level`, `classes`, `ac`, `hp`, and notable abilities from those notes. If the result looks stale or empty, ask — never balance against a guessed party.
+1. **Party first — resolve it from player frontmatter, never from Dataview.** The party note's roster is a Dataview query and does not render in raw markdown. Instead: resolve `active_campaign` from `1. DM Toolkit/Configuration.md`, read the `party` field off that campaign note to get the active party, then Glob `3. The Party/Players/*.md` and keep files whose frontmatter has `active: true` and a `party` wikilink to that party. Read `level`, `classes`, `ac`, `hp`, and notable abilities from those notes. If the result looks stale or empty, ask — never balance against a guessed party.
 2. Read the vault note for the encounter site: terrain, climate, faction presence, ecology, and what has already happened there. If working from a story-creator encounter brief, honor its constraints and story payload, and still verify site details against the vault.
 3. The campaign bible (active campaign note) sets tone and lethality expectations.
 

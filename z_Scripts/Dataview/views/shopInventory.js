@@ -6,7 +6,7 @@ if (!Array.isArray(items)) items = [items]
 
 const configPage = dv.page("Configuration")
 const pricing = configPage?.item_pricing
-const worldEconomicScale = dv.page(configPage.active_world)?.economic_scale ?? 1
+const worldEconomicScale = dv.page(dv.page(configPage.active_campaign)?.world)?.economic_scale ?? 1
 const costModifier = input.current.cost_modifier ?? 1
 
 const rows = items.map(item => {

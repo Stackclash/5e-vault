@@ -9,7 +9,7 @@ Answer from the vault only. Cite every claim with a wikilink to its note (and se
 
 ## Resolve the active context first
 
-Read `1. DM Toolkit/Configuration.md` frontmatter for `active_world`, `active_party`, and `active_campaign`. Never hardcode or assume these.
+Read `1. DM Toolkit/Configuration.md` frontmatter for `active_campaign`, then read the `world` and `party` fields off that campaign note to resolve the active world and party. Never hardcode or assume these.
 
 ## Where campaign history lives
 

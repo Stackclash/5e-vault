@@ -227,7 +227,7 @@ if (errorMessages.length > 0) {
 const useCalendarium = dv.current().useCalendarium
 if (useCalendarium) {
     const currentTFile = app.workspace.getActiveFile()
-    const calendarName = dv.page(dv.page('Configuration').active_world).calendar
+    const calendarName = dv.page(dv.page(dv.page('Configuration').active_campaign).world).calendar
     const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
     
     app.fileManager.processFrontMatter(currentTFile, (fm) => {

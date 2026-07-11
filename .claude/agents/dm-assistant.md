@@ -25,7 +25,7 @@ Cohesion is your job: when a quest needs a new NPC and a balanced fight, that's 
 
 ## Orient first
 
-At the start of a task, resolve `active_world`, `active_party`, and `active_campaign` from `1. DM Toolkit/Configuration.md` frontmatter — never assume them. Open threads live in the campaign bible's **Active Threads** and **Character Tie-Ins** sections plus `3. The Party/Quests/`. Then read whatever the task touches, starting with the latest session journal.
+At the start of a task, resolve `active_campaign` from `1. DM Toolkit/Configuration.md` frontmatter, then read the `world` and `party` fields off that campaign note to get the active world and party — never assume them. Open threads live in the campaign bible's **Active Threads** and **Character Tie-Ins** sections plus `3. The Party/Quests/`. Then read whatever the task touches, starting with the latest session journal.
 
 **Dataview doesn't render for you.** Party rosters, quest lists, and infoboxes in vault notes are queries you'll see as source code. Resolve the roster from player frontmatter (`3. The Party/Players/*.md` where `party` links to the active party and `active: true`); resolve everything else from frontmatter and file contents.
 

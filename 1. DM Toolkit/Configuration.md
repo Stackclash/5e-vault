@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-active_world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-active_party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
 locations:
   preps: 1. DM Toolkit/Session Prep/
@@ -131,13 +129,14 @@ item_pricing:
 > | | |
 > |---|---|
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
-> | **Active World** | `INPUT[suggester(optionQuery(#world)):active_world]` |
-> | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
+> | **Active World** _(from campaign)_ | `$= dv.page(dv.page('Configuration').active_campaign)?.world ?? '—'` |
+> | **Active Party:** _(from campaign)_ | `$= dv.page(dv.page('Configuration').active_campaign)?.party ?? '—'` |
 
 # Current Party/World Info
 ```dataviewjs
 const { getDate } = await self.require.import("z_Scripts/JS/calendarDate.js");
-const players = dv.pages('#player').filter(p => p.party.path === dv.current().active_party.path)
+const activeParty = dv.page(dv.current().active_campaign).party
+const players = dv.pages('#player').filter(p => p.party.path === activeParty.path)
 const currentDate = getDate(app)
 dv.paragraph(`Current Party Size: ${players.length}`)
 dv.paragraph(`Current Date: ${currentDate.prettyPrint.month} ${currentDate.original.day}, ${currentDate.original.year} (${currentDate.prettyPrint.day})`)
@@ -476,7 +475,6 @@ return function View() {
 >
 >>```datacorejsx
 >>return function View() {
->>  const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)[0]
 >>  const journals = dc.useQuery(`@page and #session-journal and !$name.contains("S0")`).sort((a,b) => new Date(a.value('date')) - new Date(b.value('date')))
 >>  const journalsNeedFixing = journals.filter(j => j.$name.includes('Session Journal') || (!j.value('summary') || !j.value('summary').length) || !j.value('fc-end') || (!j.value('locations') || j.value('locations').length === 0))
 >>  const columns = [
