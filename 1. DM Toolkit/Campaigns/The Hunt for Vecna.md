@@ -12,8 +12,6 @@ obsidianUIMode: preview
 > | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
 > | **World:** | `INPUT[suggester(optionQuery(#world)):world]` |
 
-![[The Hunt for Vecna.excalidraw|center]]
-
 > [!abstract] Campaign Bible
 > This note is the campaign bible. Agents (`dm-assistant`, `world-builder`, `story-creator`, `encounter-builder`) read it for tone, power level, and content boundaries before generating anything. Locked canon here is fixed unless the DM reopens it. Where a section is marked *(TODO)* or is silent, agents ask rather than assume.
 
@@ -122,6 +120,7 @@ Open questions and hooks the agents should track for continuity:
 - [[Izek Strazni (COS)|Izek Strazni]] — missing since Castle Ravenloft's fall; claimed by Vecna's power in that moment, now bound to serve him *([[Yevelda Ovak]], Hunt Stage 4)*.
 - [[Anastrasya Karelova (COS)|Anastrasya Karelova]] — fled Strahd's wedding battle and survived; a candidate for Vecna's forces to recruit as vessel or enforcer *(Hunt Stage 4)*.
 - The Great Library, reached via the Well of Many Worlds with [[Professor Gousse Windcaller]]'s help — next session; expect Silent Ascendency agents already at work there *(Hunt Stage 3)*.
+- **[[Baba Lysaga (COS)|Baba Lysaga]]'s vendetta** — unresolved from the Curse of Strahd arc. She has not forgiven Strahd's death or the theft of her hut's gem, and (barely a week removed from the loss, by her own reckoning) has struck a bargain with [[Mab]], Queen of Air and Darkness and ruler of the Gloaming Court, to intercept the party the moment they cross into fey territory. Mab now holds a debt over the party from however that confrontation resolves — a hook, not a one-off fight.
 - The gods' non-interference compact and Roark's father, the Trickster God — background force shaping [[Roark Battleborn]]'s arc; [[Merrin Thricefold]] acts as the god's indirect agent.
 - The Fortunes of Ravenloft — locations tracked below.
 

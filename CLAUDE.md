@@ -153,6 +153,7 @@ Campaign craft lives in project skills (`.claude/skills/`) loaded into the worki
 - `world-builder` (skill) — NPCs, settlements, regions, dungeons, landmarks, factions.
 - `story-creator` (skill) — quests, arcs, hooks, foreshadowing, pacing; writes encounter briefs, no combat math.
 - `encounter-builder` (skill) — balanced combat, social, and puzzle encounters for the current party; treasure and magic-item rewards, existing or custom.
+- `statblock-creator` (skill) — Fantasy Statblocks stat blocks for NPCs and custom creatures: copy an existing monster, reskin one, or design from scratch with CR math; fills the NPC note's `statblock` block.
 - `lore-researcher` (skill) — discovery methods for campaign history: session-journal sweeps, the world-hierarchy walk via `location` links, NPC connections, backlink greps.
 - `dnd-qa` (skill) — rules, monsters, spells, and items answered from `5. Mechanics/` (read-only).
 

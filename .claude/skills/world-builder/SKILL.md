@@ -34,6 +34,7 @@ At every scope, tie the details together: the same conflict should echo from the
 
 - Keep DM-only material in an explicitly labeled DM-only section, never blended into player-facing text.
 - When a hook deserves quest development, note it and continue with the `story-creator` skill; when a site wants encounters, hand its details to the `encounter-builder` skill. Get the DM's go-ahead before expanding scope.
+- World-builder does no stat math. When an NPC needs combat stats — a fight is plausible, or the DM asks — load the `statblock-creator` skill to copy, reskin, or design the stat block from the NPC's established fiction.
 
 ## Working style and filing
 
