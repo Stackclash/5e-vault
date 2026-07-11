@@ -57,6 +57,7 @@ actions:
 `$= await dv.view("views/locationBreadcrumbs", {current: dv.current()})`
 # `=this.file.name`
 ## Inventory
-```dataviewjs
-await dv.view("views/shopInventory", {current: dv.current()})
+```datacorejsx
+const { ShopInventory } = await dc.require("z_Scripts/Datacore/ShopInventory.tsx")
+return function View() { return <ShopInventory /> }
 ```

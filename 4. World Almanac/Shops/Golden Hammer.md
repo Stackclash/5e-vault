@@ -6,7 +6,6 @@ owners: []
 staff: []
 cost_modifier: 1
 items:
-  - "[[5. Mechanics/Items/Shield.md|Shield]]"
   - "[[5. Mechanics/Items/Ring Mail.md|Ring Mail]]"
   - "[[5. Mechanics/Items/Dagger.md|Dagger]]"
   - "[[5. Mechanics/Items/Padded Armor.md|Padded Armor]]"
@@ -77,6 +76,7 @@ actions:
 `$= await dv.view("views/locationBreadcrumbs", {current: dv.current()})`
 # `=this.file.name`
 ## Inventory
-```dataviewjs
-await dv.view("views/shopInventory", {current: dv.current()})
+```datacorejsx
+const { ShopInventory } = await dc.require("z_Scripts/Datacore/ShopInventory.tsx")
+return function View() { return <ShopInventory /> }
 ```
