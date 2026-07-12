@@ -6,6 +6,7 @@
   "obsidian-banners",
   "calendarium",
   "carousel",
+  "datacore",
   "dataview",
   "new-tab-default-page",
   "dnd-ui-toolkit",
@@ -14,7 +15,6 @@
   "fantasy-content-generator",
   "obsidian-5e-statblocks",
   "obsidian-view-mode-by-frontmatter",
-  "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-image-toolkit",
   "initiative-tracker",
@@ -34,8 +34,5 @@
   "obsidian-dice-roller",
   "readwise-mirror",
   "folder-notes",
-  "relations",
-  "datacore",
-  "dndbeyond-importer",
-  "terminal"
+  "relations"
 ]
