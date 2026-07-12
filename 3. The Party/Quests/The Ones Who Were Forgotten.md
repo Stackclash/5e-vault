@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 active:
-  Midnight Covenant: true
+  Midnight Covenant: false
 completed:
   Midnight Covenant: true
 world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
@@ -13,6 +13,8 @@ description: |-
   The village trembles as old secrets resurface. Crops fail where graves were long forgotten. Children begin naming the dead. Parents begin to question their own memories. The party must decide how to respond: uncover and preserve the truth, protect the villagers from it, or navigate a delicate balance between both. Every choice carries consequences, and every action will shape how the village—and perhaps the wider world—remembers what truly happened.
 steps:
   - text: The party enters the village and meets Eamon.
+    completed:
+      Midnight Covenant: true
 npcs:
   - name: "[[4. World Almanac/NPCs/Eamon Morcant.md|Eamon Morcant]]"
     description: Greets the party as they enter the village and recognizes them by name. No one else in the village knows who he is.
@@ -22,8 +24,8 @@ tags:
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Completed:** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['completed', dv.page(dv.page('Configuration').active_party).file.name]})` |
-> | **Active** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['active', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> | **Completed:** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['completed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> | **Active** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['active', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 # **`=this.file.name`**
 
 ## Description
@@ -85,7 +87,7 @@ return function View() {
     {
       id: 'Complete',
       width: 'minimum',
-      value: ({i}) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['steps', ${i}, 'completed', dv.page(dv.page('Configuration').active_party).file.name]})\`` 
+      value: ({i}) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['steps', ${i}, 'completed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})\`` 
     },
     {
       id: 'Description',

@@ -1,0 +1,9 @@
+{
+  "outputFolder": "Characters",
+  "includeSpells": true,
+  "includeEquipment": true,
+  "includeFeatures": true,
+  "includeBackstory": true,
+  "fiveEtoolsEnabled": true,
+  "fiveEtoolsBaseUrl": "https://5e.tools"
+}

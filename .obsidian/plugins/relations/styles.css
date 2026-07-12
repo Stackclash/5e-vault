@@ -115,6 +115,160 @@
 	gap: 6px;
 }
 
+/* A grouped cluster: its title followed by the group's items, wrapping as a
+   unit. A subtle left divider sets each group apart on the legend strip. */
+.relations-legend-group {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 12px;
+	padding-left: 12px;
+	border-left: 1px solid var(--background-modifier-border);
+}
+
+.relations-legend-group-title {
+	font-weight: 600;
+	color: var(--text-normal);
+}
+
+/* ---------------------------------------------------------------------------
+   Type filter panel — used by the side-panel view and code-block embeds.
+   --------------------------------------------------------------------------- */
+.relations-filter-panel {
+	padding: 8px 12px;
+	border-top: 1px solid var(--background-modifier-border);
+	font-size: 12px;
+	max-height: 240px;
+	overflow-y: auto;
+	flex: 0 0 auto;
+}
+
+.relations-filter-panel.is-hidden { display: none; }
+
+.relations-filter-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 6px;
+}
+
+.relations-filter-title {
+	font-weight: 600;
+	color: var(--text-muted);
+	text-transform: uppercase;
+	letter-spacing: 0.04em;
+	font-size: 11px;
+}
+
+.relations-filter-actions { display: flex; gap: 4px; }
+
+.relations-filter-action {
+	font-size: 11px;
+	padding: 2px 8px;
+	cursor: pointer;
+}
+
+.relations-filter-row {
+	display: flex;
+	align-items: center;
+	padding: 2px 0;
+}
+
+.relations-filter-row.is-child { padding-left: 22px; }
+
+.relations-filter-label {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	cursor: pointer;
+	width: 100%;
+}
+
+.relations-filter-cb { cursor: pointer; }
+
+.relations-filter-swatch {
+	display: inline-block;
+	width: 16px;
+	height: 4px;
+	border-radius: 2px;
+	background-color: var(--swatch-color, #888888);
+	flex: 0 0 auto;
+}
+
+.relations-filter-swatch.is-dashed {
+	background-image: repeating-linear-gradient(to right, var(--swatch-color, #888) 0 3px, transparent 3px 6px);
+	background-color: transparent;
+}
+
+.relations-filter-swatch.is-dotted {
+	background-image: repeating-linear-gradient(to right, var(--swatch-color, #888) 0 1.5px, transparent 1.5px 5px);
+	background-color: transparent;
+}
+
+.relations-filter-swatch.is-double {
+	background-image: linear-gradient(var(--swatch-color, #888), var(--swatch-color, #888)),
+		linear-gradient(var(--swatch-color, #888), var(--swatch-color, #888));
+	background-size: 100% 1.5px;
+	background-position: top, bottom;
+	background-repeat: no-repeat;
+	background-color: transparent;
+}
+
+.relations-filter-name { color: var(--text-normal); }
+
+.relations-filter-group { margin-top: 2px; }
+
+.relations-filter-grouphead {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	padding: 2px 0;
+}
+
+.relations-filter-chevron {
+	display: inline-flex;
+	align-items: center;
+	cursor: pointer;
+	color: var(--text-muted);
+}
+
+.relations-filter-chevron svg { width: 14px; height: 14px; }
+
+.relations-filter-groupname {
+	font-weight: 600;
+	color: var(--text-normal);
+	cursor: pointer;
+}
+
+.relations-filter-count {
+	color: var(--text-muted);
+	font-size: 11px;
+	margin-left: auto;
+}
+
+.relations-filter-children.is-hidden { display: none; }
+
+/* Embed filter: a toggle button above a (reused) filter panel. */
+.relations-embed-filter { margin-top: 6px; }
+
+.relations-filter-toggle {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	font-size: 11px;
+	padding: 2px 8px;
+	cursor: pointer;
+}
+
+.relations-filter-toggle.is-active {
+	color: var(--text-on-accent);
+	background-color: var(--interactive-accent);
+}
+
+.relations-filter-toggle svg { width: 14px; height: 14px; }
+
+.relations-embed-filter .relations-filter-panel { border-top: none; padding: 6px 0; }
+
 .relations-legend-swatch {
 	display: inline-block;
 	width: 18px;
@@ -264,7 +418,7 @@
 .relations-types-header,
 .relations-types-row {
 	display: grid;
-	grid-template-columns: 1fr 50px 50px 50px 50px 50px 90px 32px;
+	grid-template-columns: 1fr 0.7fr 50px 50px 50px 50px 50px 90px 32px;
 	gap: 8px;
 	align-items: center;
 	padding: 4px 0;
@@ -337,7 +491,7 @@
 .relations-lock-group {
 	position: absolute;
 	top: 6px;
-	right: 6px;
+	right: 34px;
 	z-index: 5;
 	display: flex;
 	gap: 4px;
@@ -395,4 +549,170 @@
 .relations-lock-btn .svg-icon {
 	width: 16px;
 	height: 16px;
+}
+
+/* Inline edge label editor — appears at the double-click point when the user
+   adds or changes a label on a relationship line. Absolutely-positioned inside
+   the embed container so it tracks with scroll/resize, centered on the click. */
+.relations-edge-label-editor {
+	z-index: 10;
+	padding: 4px 8px;
+	min-width: 140px;
+	max-width: 240px;
+	font-size: 13px;
+	color: var(--text-normal);
+	background-color: var(--background-primary);
+	border: 1px solid var(--interactive-accent);
+	border-radius: 4px;
+	outline: none;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.relations-edge-label-editor::placeholder {
+	color: var(--text-faint);
+}
+
+/* -----------------------------------------------------------------------
+ * Classes below replace inline-style assignments that previously lived in
+ * the TS source. Moved here per Obsidian's plugin lint rule
+ * `no-static-styles-assignment`. Dynamic per-frame values (positions,
+ * transforms with computed scale factors) remain in JS via template
+ * literals — those don't violate the lint rule and can't be expressed
+ * statically anyway.
+ * --------------------------------------------------------------------- */
+
+/* Toolbar spacer that pushes subsequent buttons to the right. */
+.relations-spacer {
+	flex: 1;
+}
+
+/* Cytoscape container needs to be positioned for the badge overlay to
+ * land in the right coordinate space. The plugin adds this class
+ * defensively to the host container before mounting the badge overlay
+ * onto an absolute-positioned child. */
+.relations-cy-container {
+	position: relative;
+}
+
+/* Probe element used to measure label widths offscreen via
+ * getComputedStyle / offsetWidth. Hidden and positioned far off-canvas. */
+.relations-label-probe {
+	position: absolute;
+	visibility: hidden;
+	left: -99999px;
+	top: 0;
+	white-space: nowrap;
+	font-weight: 500;
+}
+
+/* Probe element used to read a CSS variable's resolved color. */
+.relations-color-probe {
+	display: none;
+}
+
+/* Edge-label editor positioned anchor — places the input so that its
+ * centre point lands on the supplied client coordinates. Concrete x/y
+ * are set dynamically via template-literal style assignments at the
+ * call site, which the static-styles lint rule permits. */
+.relations-edge-label-editor {
+	position: absolute;
+	transform: translate(-50%, -50%);
+}
+
+/* Hit-test path overlaid on top of an SVG family-connector route.
+ * Wide invisible stroke catches double-clicks for label editing. */
+.relations-family-connector-hit-path {
+	cursor: pointer;
+	pointer-events: stroke;
+}
+
+/* SVG label-pill <g> overlay for family-connector edge labels. */
+.family-connector-label {
+	cursor: pointer;
+	pointer-events: auto;
+}
+
+/* Node-badge overlay container — absolute layer covering the Cytoscape
+ * canvas, click-through, with a z-index that sits above the canvas but
+ * below the family-connectors SVG label overlay. */
+.relations-node-badges {
+	position: absolute;
+	inset: 0;
+	pointer-events: none;
+	z-index: 5;
+	overflow: hidden;
+}
+
+/* One group per node that has any badge content. Positioned absolutely
+ * at the node's rendered centre; children are placed relative to that
+ * origin. The actual left/top values are set dynamically via template-
+ * literal assignments in node-badges.ts positionGroup(). */
+.relations-node-badge-group {
+	position: absolute;
+	pointer-events: none;
+	left: 0;
+	top: 0;
+}
+
+/* Top-left and top-right corner badges. The position-anchoring CSS
+ * (auto values for left/top vs right/bottom) is class-driven so the
+ * lint rule doesn't catch the literal "auto" assignments that used to
+ * live in JS. transform-origin likewise depends only on the corner,
+ * not zoom, so it's a static class concern. */
+.relations-node-badge {
+	position: absolute;
+	display: inline-block;
+	font-size: 14px;
+	line-height: 1;
+	padding: 2px 4px;
+	border-radius: 8px;
+	background: var(--background-primary);
+	border: 1px solid var(--background-modifier-border);
+	color: var(--text-normal);
+	white-space: nowrap;
+	visibility: visible;
+}
+
+.relations-node-badge-top-left {
+	left: auto;
+	top: auto;
+	transform-origin: 100% 100%;
+}
+
+.relations-node-badge-top-right {
+	right: auto;
+	top: auto;
+	transform-origin: 0% 100%;
+}
+
+.relations-node-badge-bottom-left {
+	left: auto;
+	bottom: auto;
+	transform-origin: 100% 0%;
+}
+
+.relations-node-badge-bottom-right {
+	right: auto;
+	bottom: auto;
+	transform-origin: 0% 0%;
+}
+
+.relations-node-subtext {
+	position: absolute;
+	display: block;
+	font-size: 11px;
+	font-style: italic;
+	line-height: 1.2;
+	padding: 2px 6px;
+	border-radius: 4px;
+	background: var(--background-primary);
+	color: var(--text-muted);
+	white-space: nowrap;
+	transform-origin: 50% 0%;
+}
+
+/* Bullet list inside a settings help block, slight top margin so it
+ * doesn't crowd the preceding paragraph. */
+.relations-help-list {
+	margin-top: 4px;
 }

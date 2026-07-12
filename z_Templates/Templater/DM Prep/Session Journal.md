@@ -2,11 +2,12 @@
 let templateError = false
 let formattedDate = ''
 let selectedParty = null
+let selectedCampaign = null
 let latestJournal = null
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
-  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['journals', 'preps', 'parties'])
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['journals', 'preps', 'parties', 'campaigns'])
 
   const data = await init.openForm(modalForm, {
     title: "Session Journal Setup",
@@ -21,7 +22,13 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   selectedParty = dataview.page(data.party)
 
-  const journals = dataview.pages(`"${path.posix.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
+  // Journals are organized by campaign. Resolve the campaign that owns the selected party.
+  selectedCampaign = dataview.pages(`"${config.locations.campaigns}"`).find(c => c.party && c.party.path === selectedParty.file.path)
+  if (!selectedCampaign) {
+    throw new Error(`No campaign found whose party is ${selectedParty.file.name}`)
+  }
+
+  const journals = dataview.pages(`"${path.posix.join(config.locations.journals, selectedCampaign.file.name)}"`).sort(p => p.date, 'desc')
   let newSessionNumber = 0
 
   if (journals.length > 0) {
@@ -41,7 +48,7 @@ try {
     prepNote = dataview.fileLink(newPrepNote.path, false, newPrepNote.basename)
   }
 
-  await tp.file.move(path.posix.join(config.locations.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`), tp.file.find_tfile(tp.file.title))
+  await tp.file.move(path.posix.join(config.locations.journals, selectedCampaign.file.name, `S${newSessionNumber} New Session Journal`), tp.file.find_tfile(tp.file.title))
 } catch (e) {
   templateError = e.message
   console.error(e)

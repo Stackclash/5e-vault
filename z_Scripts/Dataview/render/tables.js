@@ -4,6 +4,9 @@
 function renderCell(td, cell) {
     if (cell == null) {
         td.textContent = ""
+    } else if (typeof cell === "object" && typeof cell.render === "function") {
+        // Custom cell — hand the caller the <td> to populate (e.g. a Meta Bind button)
+        cell.render(td)
     } else if (typeof cell === "object" && cell.path) {
         // Dataview Link object — render as an Obsidian internal link
         const a = td.createEl("a", {

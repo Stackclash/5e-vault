@@ -46,8 +46,8 @@ Every note belongs in a specific folder. Determine placement by the note's conte
 
 | Content Type | Folder |
 |---|---|
-| Session journals (what happened during play) | `1. DM Toolkit/Session Journals/` |
-| Session prep (planning before a session) | `1. DM Toolkit/Session Prep/` |
+| Session journals (what happened during play) | `1. DM Toolkit/Session Journals/<Campaign Name>/` |
+| Session prep (planning before a session) | `1. DM Toolkit/Session Prep/<Campaign Name>/` |
 | DM reference tools, random tables for DM use | `1. DM Toolkit/Tools/` |
 | Math calculators (encounter math, CR, etc.) | `1. DM Toolkit/Calculators/` |
 | DM knowledge, how-to-DM notes, tips | `1. DM Toolkit/Knowledge/` |

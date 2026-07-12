@@ -7,7 +7,7 @@ tags:
   - monster/cr/11
   - monster/size/gargantuan
   - monster/type/construct
-condition: healthy
+condition: dead
 images:
   - 4. World Almanac\NPCs\img\baba-lysagas-creeping-hut.webp
 aliases:
@@ -15,21 +15,21 @@ aliases:
 alignment: Unaligned
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+location:
+pronounced:
+race:
+gender:
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -56,7 +56,7 @@ dislikes: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 226*

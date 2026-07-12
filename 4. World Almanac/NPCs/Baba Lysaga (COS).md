@@ -14,7 +14,8 @@ images:
 aliases:
   - Baba Lysaga
 alignment: Chaotic Evil
-relationships: []
+relationships:
+  - "Mab|ally of convenience"
 partyRelationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
@@ -31,9 +32,20 @@ bond: I am the mother of Strahd. Anyone who disputes this fact can rot.
 flaw: >-
   I will not rest until the last of my son's enemies are destroyed. Her
   obsession with Strahd blinds her to other threats
-goals: 'To aid Strahd, to destroy his enemies, to gain more arcane power'
+goals: >-
+  Avenge Strahd's murder; capture or kill those responsible, above all the one
+  who dealt the final blow; make them pay for what they took from her hut
 likes: 'Magic, Strahd, her creeping hut'
 dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
+secrets: >-
+  Strahd's death is barely a week old to her — she has not had time to
+  cool, only to plan. She has struck a bargain with Mab, Queen of Air and
+  Darkness, trading a future favor for a pack of Yeth Hounds and a glamour
+  that lets her pass as a fey bargain-broker. She intends to use it to lure
+  Strahd's killers into a trap the instant they set foot in fey territory —
+  she is a schemer and a shapechanger, not a duelist, and will not fight
+  fair if she can help it. If the trap turns against her, she has an escape
+  already arranged and will not stay to be finished off.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -60,7 +72,7 @@ dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 228*

@@ -1,6 +1,6 @@
 ```dataviewjs
 // const dv = app.plugins.getPlugin("dataview").api
-const calendarName = dv.page(dv.page('Configuration').active_world).calendar
+const calendarName = dv.page(dv.page(dv.page('Configuration').active_campaign).world).calendar
 const calendarConfig = Calendarium.plugin.calendars.find(cal => cal.name === calendarName).static
 const calendarApi = Calendarium.getAPI(calendarName)
 const months = calendarConfig.months

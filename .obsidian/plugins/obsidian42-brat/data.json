@@ -1,19 +1,9 @@
 {
   "pluginList": [
-    "oscampo/obsidian-neural-composer",
-    "blacksmithgu/datacore",
     "hay-kot/obsidian-dnd-ui-toolkit",
     "xhuajin/obsidian-carousel"
   ],
   "pluginSubListFrozenVersion": [
-    {
-      "repo": "oscampo/obsidian-neural-composer",
-      "version": ""
-    },
-    {
-      "repo": "blacksmithgu/datacore",
-      "version": "latest"
-    },
     {
       "repo": "hay-kot/obsidian-dnd-ui-toolkit",
       "version": "v0.18.0-feat-ability-block-templating.1"

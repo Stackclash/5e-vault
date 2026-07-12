@@ -57,7 +57,7 @@ dislikes: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 240*
@@ -84,15 +84,15 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 `dice: [[Strahd Von Zarovich (COS).md#^creatures]]`
 
-| dice: d20 | Creatures |
-|-----------|-----------|
-| 1–3 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
-| 4–6 | `dice:1d6+3\|noform\|noparens\|avg` (`1d6 + 3`) [[/5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
-| 7–9 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [[/5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md|Strahd zombies]] (in this appendix) |
-| 10–12 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
-| 13–15 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] |
-| 16–18 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
-| 19–20 | None |
+| dice: d20 | Creatures                                                                                              |                                     |
+| --------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| 1–3       | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md            | dire wolves]]                       |
+| 4–6       | `dice:1d6+3\|noform\|noparens\|avg` (`1d6 + 3`) [[/5. Mechanics/Bestiary/Undead/Ghoul.md               | ghouls]]                            |
+| 7–9       | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [[/5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md | Strahd zombies]] (in this appendix) |
+| 10–12     | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Swarm Of Bats.md              | swarms of bats]]                    |
+| 13–15     | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md       | vampire spawn]]                     |
+| 16–18     | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Beast/Wolf.md                       | wolves]]                            |
+| 19–20     | None                                                                                                   |                                     |
 ^creatures
 
 If the characters are in a residence, Strahd's creatures break through doors and windows to reach them, or crawl up through the earth, or swoop down the chimney. The vampire spawn (all that's left of a party of adventurers that Strahd defeated long ago) can't enter the characters' location unless invited.

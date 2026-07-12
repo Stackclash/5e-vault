@@ -1,5 +1,5 @@
 ```dataviewjs
-const activeParty = dv.page('Configuration').active_party
+const activeParty = dv.page(dv.page('Configuration').active_campaign).party
 const journals = dv.pages('#session-journal').filter(p => p.party.path === activeParty.path).sort(p => p.date, 'asc')
 
 const history = []

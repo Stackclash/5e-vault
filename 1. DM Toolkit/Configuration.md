@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
-active_world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-active_party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
 locations:
   preps: 1. DM Toolkit/Session Prep/
   journals: 1. DM Toolkit/Session Journals/
@@ -71,16 +70,84 @@ relationship_mapping:
       male: Nephew
       female: Niece
     to: Aunt
-active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
 shop_types:
   - name: Blacksmith
-    item_types: "weapon, armor"
+    filters:
+      - type: weapon
+        subtype_any: melee
+      - type: armor
+      - tags_any: item/shield
   - name: Apothecary
-    item_types: wondrous
+    filters:
+      - type: wondrous
+        subtype_any: "potion, oil"
+      - type: gear
+        subtype_any: herb
   - name: Fletcher
-    item_types: weapon
+    filters:
+      - type: weapon
+        name_any: "bow, sling"
+      - type: gear
+        subtype_any: ammunition
   - name: General Store
-    item_types: "weapon, armor, wondrous"
+    filters:
+      - type: weapon
+        subtype_none: explosive
+        name_none: "pistol, rifle, revolver, musket, shotgun, laser, antimatter"
+      - type: armor
+      - tags_any: item/shield
+      - type: wondrous
+  - name: Armorer
+    filters:
+      - type: armor
+      - tags_any: item/shield
+  - name: Weaponsmith
+    filters:
+      - type: weapon
+        subtype_any: "melee, ranged"
+        name_none: "pistol, rifle, revolver, musket, shotgun, laser, antimatter"
+  - name: Jeweler
+    filters:
+      - type: wondrous
+        subtype_any: ring
+      - type: gear
+        subtype_any: "treasure-gemstone, treasure-art-object"
+      - type: wondrous
+        name_any: "amulet, necklace, circlet, brooch, pendant"
+  - name: Enchanter
+    filters:
+      - type: wondrous
+        subtype_none: potion
+  - name: Scriptorium
+    filters:
+      - type: wondrous
+        subtype_any: scroll
+      - type: gear
+        subtype_any: spellcasting-focus
+  - name: Alchemist
+    filters:
+      - type: wondrous
+        subtype_any: "potion, oil"
+      - type: gear
+        name_any: "acid, alchemist, antitoxin, holy water, poison, healer"
+  - name: Stable
+    filters:
+      - type: gear
+        subtype_any: "mount, tack-and-harness"
+      - type: vehicle
+        subtype_any: land
+  - name: Shipwright
+    filters:
+      - type: vehicle
+        subtype_any: "ship-water, airship-air"
+  - name: Instrument Maker
+    filters:
+      - type: gear
+        subtype_any: instrument
+  - name: Trading Post
+    filters:
+      - type: gear
+        subtype_none: "herb, ammunition, ammunition-firearm, treasure-gemstone, treasure-art-object, treasure-coinage, mount, tack-and-harness, spellcasting-focus, instrument, oil, curse"
 shop_sizes:
   - name: Small
     rarity: none
@@ -109,6 +176,21 @@ shop_sizes:
   - name: Large
     rarity: rare
     count: 1d2
+  - name: Grand
+    rarity: none
+    count: 2d6+4
+  - name: Grand
+    rarity: common
+    count: 2d6
+  - name: Grand
+    rarity: uncommon
+    count: 2d4
+  - name: Grand
+    rarity: rare
+    count: 1d4
+  - name: Grand
+    rarity: very-rare
+    count: 1d2
 item_pricing:
   base_prices:
     none: 0
@@ -131,16 +213,39 @@ item_pricing:
 > | | |
 > |---|---|
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
-> | **Active World** | `INPUT[suggester(optionQuery(#world)):active_world]` |
-> | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
-mm
+> | **Active World** _(from campaign)_ | `$= dv.page(dv.page('Configuration').active_campaign)?.world ?? '—'` |
+> | **Active Party:** _(from campaign)_ | `$= dv.page(dv.page('Configuration').active_campaign)?.party ?? '—'` |
+
 # Current Party/World Info
-```dataviewjs
-const { getDate } = await self.require.import("z_Scripts/JS/calendarDate.js");
-const players = dv.pages('#player').filter(p => p.party.path === dv.current().active_party.path)
-const currentDate = getDate(app)
-dv.paragraph(`Current Party Size: ${players.length}`)
-dv.paragraph(`Current Date: ${currentDate.prettyPrint.month} ${currentDate.original.day}, ${currentDate.original.year} (${currentDate.prettyPrint.day})`)
+```datacorejsx
+return function View() {
+  const file = dc.useCurrentFile()
+  const campaignLink = file.value("active_campaign")
+  const campaign = dc.useFile(campaignLink?.path)
+  const partyPath = campaign?.value("party")?.path
+  const players = dc.useQuery("@page and #player")
+  const partySize = players.filter(p => p.value("party")?.path === partyPath).length
+
+  const [currentDate, setCurrentDate] = dc.useState(null)
+  dc.useEffect(() => {
+    let active = true
+    self.require.import("z_Scripts/JS/calendarDate.js").then(({ getDate }) => {
+      if (active) setCurrentDate(getDate(dc.app))
+    })
+    return () => { active = false }
+  }, [])
+
+  const dateStr = currentDate
+    ? `${currentDate.prettyPrint.month} ${currentDate.original.day}, ${currentDate.original.year} (${currentDate.prettyPrint.day})`
+    : "…"
+
+  return (
+    <div>
+      <p>Current Party Size: {partySize}</p>
+      <p>Current Date: {dateStr}</p>
+    </div>
+  )
+}
 ```
 
 # DM Tools/Calculators
@@ -265,18 +370,31 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>         }
 >>       })
 >> ```
->> ```dataviewjs
->> dv.table(['Relationship', 'Male', 'Female', 'Delete'],
->>   dv.current()['relationship_mapping'].map((r, i) => [
->>     `\`INPUT[text:relationship_mapping[${i}].to]\``,
->>     `\`INPUT[text:relationship_mapping[${i}].from.male]\``,
->>     `\`INPUT[text:relationship_mapping[${i}].from.female]\``,
->>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: relationship_mapping\n      index: ${i}\n\`\`\``
->>   ]))
+>> ```datacorejsx
+>> return function View() {
+>>   const file = dc.useCurrentFile()
+>>   const count = (file.value('relationship_mapping') || []).length
+>>   const rows = Array.from({ length: count }, (_, i) => i)
+>>   const md = (content) => <dc.Markdown content={content} />
+>>   const columns = [
+>>     { id: 'Relationship', value: (i) => i, render: (i) => md(`\`INPUT[text:relationship_mapping[${i}].to]\``) },
+>>     { id: 'Male', value: (i) => i, render: (i) => md(`\`INPUT[text:relationship_mapping[${i}].from.male]\``) },
+>>     { id: 'Female', value: (i) => i, render: (i) => md(`\`INPUT[text:relationship_mapping[${i}].from.female]\``) },
+>>     { id: 'Delete', value: (i) => i, render: (i) => md('```meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item-' + i + '\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: relationship_mapping\n      index: ' + i + '\n```') }
+>>   ]
+>>   return <dc.Table rows={rows} columns={columns} paging={false} />
+>> }
 >> ```
 >
 >> [!div-m] Shop Configuration
 >> ##### Shop Types
+>> A shop stocks items that match **any** of its rules. Within a rule, every field you fill in must hold (AND); leave a field blank to ignore it. List fields accept comma-separated values.
+>> - **Type** — `weapon`, `armor`, `gear`, `wondrous`, `vehicle`
+>> - **Subtype (any)** — item must have one of these, e.g. `melee`, `ranged`, `ammunition`, `potion`, `oil`, `herb`, `ring`, `wand`, `rod`, `scroll`, `instrument`, `mount`
+>> - **Subtype (excl)** — item must have none of these (carve-outs, e.g. `potion` to leave it out of a magic shop)
+>> - **Tags (any)** — hierarchical compendium tags, e.g. `item/shield`, `item/weapon/martial` (needed for shields, which have no type/subtype)
+>> - **Name incl / excl** — name must contain one of the "incl" words and none of the "excl" words, e.g. incl `bow, sling` for a Fletcher
+>> `tags (excl)` is also supported in frontmatter but omitted from this editor for width.
 >> `BUTTON[add-shop-type]`
 >> ```meta-bind-button
 >> label: Add Shop Type
@@ -288,19 +406,54 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>     code: |-
 >>       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
 >>         if (!Array.isArray(fm.shop_types)) {
->>           fm.shop_types = [{name: '', item_types: ''}]
+>>           fm.shop_types = [{name: '', filters: []}]
 >>         } else {
->>           fm.shop_types = [...fm.shop_types, {name: '', item_types: ''}]
+>>           fm.shop_types = [...fm.shop_types, {name: '', filters: []}]
 >>         }
 >>       })
 >> ```
->> ```dataviewjs
->> dv.table(['Shop Type', 'Item Types (comma-separated)', 'Delete'],
->>   (dv.current()['shop_types'] || []).map((st, i) => [
->>     `\`INPUT[text:shop_types[${i}].name]\``,
->>     `\`INPUT[text:shop_types[${i}].item_types]\``,
->>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-shop-type-${i}\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: remove\n      field: shop_types\n      index: ${i}\n\`\`\``
->>   ]))
+>> ```datacorejsx
+>> return function View() {
+>>   const file = dc.useCurrentFile()
+>>   const shopTypes = file.value('shop_types') || []
+>>   const md = (content) => <dc.Markdown content={content} />
+>>   const btn = (body) => '```meta-bind-button\n' + body + '\n```'
+>>   const pageSize = 2
+>>   const pageCount = Math.max(1, Math.ceil(shopTypes.length / pageSize))
+>>   const [page, setPage] = dc.useState(0)
+>>   const clamped = Math.min(Math.max(page, 0), pageCount - 1)
+>>   const start = clamped * pageSize
+>>   const visible = shopTypes.slice(start, start + pageSize)
+>>   const nav = <div style={{ display: 'flex', alignItems: 'center', gap: '0.5em', margin: '0.5em 0' }}>
+>>     <button disabled={clamped <= 0} onClick={() => setPage(clamped - 1)}>‹ Prev</button>
+>>     <span>Page {clamped + 1} of {pageCount} · {shopTypes.length} shop types</span>
+>>     <button disabled={clamped >= pageCount - 1} onClick={() => setPage(clamped + 1)}>Next ›</button>
+>>   </div>
+>>   return <div>
+>>     {nav}
+>>     {visible.map((st, vi) => {
+>>       const i = start + vi
+>>       const filters = st.filters || []
+>>       const rows = Array.from({ length: filters.length }, (_, j) => j)
+>>       const columns = [
+>>         { id: 'Type', value: (j) => j, render: (j) => md(`\`INPUT[text:shop_types[${i}].filters[${j}].type]\``) },
+>>         { id: 'Subtype (any)', value: (j) => j, render: (j) => md(`\`INPUT[text:shop_types[${i}].filters[${j}].subtype_any]\``) },
+>>         { id: 'Subtype (excl)', value: (j) => j, render: (j) => md(`\`INPUT[text:shop_types[${i}].filters[${j}].subtype_none]\``) },
+>>         { id: 'Tags (any)', value: (j) => j, render: (j) => md(`\`INPUT[text:shop_types[${i}].filters[${j}].tags_any]\``) },
+>>         { id: 'Name incl', value: (j) => j, render: (j) => md(`\`INPUT[text:shop_types[${i}].filters[${j}].name_any]\``) },
+>>         { id: 'Name excl', value: (j) => j, render: (j) => md(`\`INPUT[text:shop_types[${i}].filters[${j}].name_none]\``) },
+>>         { id: 'Delete', title: '', value: (j) => j, render: (j) => md(btn(`icon: x\ntooltip: Delete rule?\nid: rm-filter-${i}-${j}\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: remove\n      field: shop_types[${i}].filters\n      index: ${j}`)) }
+>>       ]
+>>       return <div key={i}>
+>>         {md(`**Shop Type:** \`INPUT[text:shop_types[${i}].name]\``)}
+>>         <dc.Table rows={rows} columns={columns} paging={false} />
+>>         {md(btn(`label: Add Rule\nicon: plus\nid: add-filter-${i}\nstyle: default\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: add\n      field: shop_types[${i}].filters`))}
+>>         {md(btn(`label: Delete Shop Type\nicon: trash\ntooltip: Delete shop type?\nid: del-shop-${i}\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: remove\n      field: shop_types\n      index: ${i}`))}
+>>       </div>
+>>     })}
+>>     {nav}
+>>   </div>
+>> }
 >> ```
 >> ##### Shop Sizes
 >> Each row defines how many items of a given rarity a shop size stocks. Add multiple rows with the same size name for different rarities. Count supports dice notation (e.g. `1d4`, `2d6+1`) or a static number.
@@ -321,14 +474,20 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >>         }
 >>       })
 >> ```
->> ```dataviewjs
->> dv.table(['Size Name', 'Rarity', 'Count', 'Delete'],
->>   (dv.current()['shop_sizes'] || []).map((ss, i) => [
->>     `\`INPUT[text:shop_sizes[${i}].name]\``,
->>     `\`INPUT[text:shop_sizes[${i}].rarity]\``,
->>     `\`INPUT[text:shop_sizes[${i}].count]\``,
->>     `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-shop-size-${i}\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: remove\n      field: shop_sizes\n      index: ${i}\n\`\`\``
->>   ]))
+>> ```datacorejsx
+>> return function View() {
+>>   const file = dc.useCurrentFile()
+>>   const count = (file.value('shop_sizes') || []).length
+>>   const rows = Array.from({ length: count }, (_, i) => i)
+>>   const md = (content) => <dc.Markdown content={content} />
+>>   const columns = [
+>>     { id: 'Size Name', value: (i) => i, render: (i) => md(`\`INPUT[text:shop_sizes[${i}].name]\``) },
+>>     { id: 'Rarity', value: (i) => i, render: (i) => md(`\`INPUT[text:shop_sizes[${i}].rarity]\``) },
+>>     { id: 'Count', value: (i) => i, render: (i) => md(`\`INPUT[text:shop_sizes[${i}].count]\``) },
+>>     { id: 'Delete', value: (i) => i, render: (i) => md('```meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-shop-size-' + i + '\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: remove\n      field: shop_sizes\n      index: ' + i + '\n```') }
+>>   ]
+>>   return <dc.Table rows={rows} columns={columns} paging={false} />
+>> }
 >> ```
 >
 >> [!div-m] Item Pricing
@@ -476,7 +635,6 @@ return function View() {
 >
 >>```datacorejsx
 >>return function View() {
->>  const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)[0]
 >>  const journals = dc.useQuery(`@page and #session-journal and !$name.contains("S0")`).sort((a,b) => new Date(a.value('date')) - new Date(b.value('date')))
 >>  const journalsNeedFixing = journals.filter(j => j.$name.includes('Session Journal') || (!j.value('summary') || !j.value('summary').length) || !j.value('fc-end') || (!j.value('locations') || j.value('locations').length === 0))
 >>  const columns = [

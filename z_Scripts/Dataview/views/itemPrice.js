@@ -8,7 +8,7 @@ if (rarity === 'none') return
 
 const configPage = dv.page("Configuration")
 const pricing = configPage?.item_pricing
-const worldEconomicScale = dv.page(configPage?.active_world)?.economic_scale ?? 1
+const worldEconomicScale = dv.page(dv.page(configPage?.active_campaign)?.world)?.economic_scale ?? 1
 
 const price = calculateItemPrice(item, pricing) * worldEconomicScale
 

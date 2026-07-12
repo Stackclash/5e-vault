@@ -36,6 +36,31 @@ Each note type has a canonical tag used by Dataview/Datacore queries throughout 
 
 Missing or wrong tags break Dataview/Datacore queries silently — always include the correct tag.
 
+**Location co-tag:** location-type notes (region, settlement, place-of-interest, shop, world) carry a **second `location` tag** in addition to their specific tag — e.g. a settlement is tagged both `#settlement` and `#location`. The `#location` tag is what populates location-picker dropdowns throughout the vault.
+
+### Frontmatter Schemas
+
+Every note starts with `obsidianUIMode: preview` as its first frontmatter key. Canonical field sets per note type live in `z_Templates/Templater/`; the summary below covers the fields queries and scripts depend on:
+
+| Note type | Key frontmatter fields |
+|---|---|
+| **NPC** | `statblock: inline`, `location` (wikilink to container), `condition: healthy`, `relationships`, `race`, `gender`, `age`, `alignment`, `occupation`, `groups`, `religions`, `personality`, `ideal`, `bond`, `flaw`, `goals`, `likes`, `dislikes`, `partyRelationships` (map keyed by party name), `pronounced`, `aliases`, `images` |
+| **Location** (region / settlement / place-of-interest) | `location` (wikilink to parent), `images`, `pronounced`, `resources`, `population`, `terrain`, `rulers`, `government`, `army`, `religions`, `imports`, `exports`, `aliases`; tags = specific type + `location` |
+| **Shop** | `location`, `owners`, `staff`, `cost_modifier: 1`, `shop_type`, `shop_size`, `items`, `resources`; tags = `shop` + `location` |
+| **World** | `economic_scale`, `calendar`; tags = `world` + `location` |
+| **Quest** | `active` (map keyed by party → bool), `completed` (map keyed by party → bool), `world` (wikilink), `description`, `steps`, `npcs` |
+| **Player character** | Full D&D Beyond schema (`statblock: true`, `active`, `level`, `ac`, `hp`, `abilityScores`, `savingThrows`, `skills`, `classes`, `classFeatures`, etc.), plus `party` and `location` wikilinks. Generated from a D&D Beyond import — do not hand-author. |
+| **Party** | Travel/time-tracking fields (`hours_per_day`, `travel_speed`, `travel_multiplier`, `exhaustion_level`, `movement`, `speed`, `travel_hours_per_day`, etc.) |
+| **Session prep** | `date`, tag `session-prep` (minimal) |
+| **Session journal** | `date`, `summary`, `party` (wikilink), `prep-notes` (wikilink to the prep note), plus fantasy-calendar fields `fc-date`, `fc-end`, `fc-category: Session`, `timelines`, `calendar`, `aat-render-enabled: true`; optional `locations` |
+| **Campaign** | `party` (wikilink), `world` (wikilink), tag `campaign` |
+
+Two cross-cutting conventions:
+- **`location` encodes the world hierarchy** (World → Region → Settlement → Place of Interest). Set it to the immediate parent as a wikilink, not a folder path.
+- **Per-party state is stored as maps keyed by the party's note name**, not bare booleans — quest `active`/`completed`, NPC `partyRelationships`.
+
+> Note: the Quest Templater template (`z_Templates/Templater/Campaign/Quest.md`) currently writes `campaign:` instead of `world:` and is out of date; existing quest notes use `world:`, which is authoritative.
+
 ## Folder Map
 
 | Content Type | Folder |
@@ -66,8 +91,9 @@ Missing or wrong tags break Dataview/Datacore queries silently — always includ
 | Random content | `Random Content/` |
 | Diagrams | `Excalidraw/` |
 
-Session journals are further nested by party name:
-`1. DM Toolkit/Session Journals/<Party Name>/S<N> <Title>.md`
+Session journals and session prep notes are further nested by campaign name:
+`1. DM Toolkit/Session Journals/<Campaign Name>/S<N> <Title>.md`
+`1. DM Toolkit/Session Prep/<Campaign Name>/<YYYY-MM-DD>.md`
 
 ## Scripts Architecture (`z_Scripts/`)
 
@@ -100,12 +126,50 @@ await init.moveFile(tp, config.locations.myPath, data.name)
 
 ## Active Campaign / World / Party
 
-The vault's active context is stored in `1. DM Toolkit/Configuration.md` frontmatter:
-- `active_world` — current world (link to `4. World Almanac/Worlds/`)
-- `active_party` — current party (link to `3. The Party/Parties/`)
-- `active_campaign` — current campaign (link to `1. DM Toolkit/Campaigns/`)
+The vault's active context is driven by a single frontmatter key in `1. DM Toolkit/Configuration.md` — this is the single source of truth. The active world and party are **not** stored in Configuration; they are read from the active campaign note's own frontmatter. Resolve these links before acting; never hardcode the current campaign, world, or party name:
+- `active_campaign` — current campaign (link to `1. DM Toolkit/Campaigns/`), stored in Configuration frontmatter. Currently The Hunt for Vecna.
+- **active world** — the `world` field on the `active_campaign` note (link to `4. World Almanac/Worlds/`). Currently Eldoria.
+- **active party** — the `party` field on the `active_campaign` note (link to `3. The Party/Parties/`). Currently Midnight Covenant.
 
-Scripts and templates read this via `dataview.api.page('Configuration')`.
+Scripts and templates resolve these via `dataview.api.page('Configuration')` for the campaign, then read `.world` / `.party` off the resolved campaign page — e.g. `dv.page(dv.page('Configuration').active_campaign).party`.
+
+### Campaign bible
+
+The `active_campaign` note **is** the campaign bible. It defines the campaign's premise, tone, power level, active threads, and content lines & veils. All campaign work follows it. If it's missing or silent on a point that matters (e.g. tone or lines & veils aren't written down yet), ask rather than assume.
+
+### Party roster
+
+The active party note (the campaign note's `party` field) is the roster. Size, levels, and composition are surfaced there via its Dataview character and session-log queries — read the note rather than assuming. Encounter balancing uses the Lazy DM (Sly Flourish) encounter benchmark, per the party note's encounter infobox.
+
+### Continuity pointers
+
+- **Open threads / hooks:** quest notes in `3. The Party/Quests/`, plus the per-character "Character Tie-Ins" threads in the active campaign note.
+- **Session notes:** `1. DM Toolkit/Session Journals/<Campaign Name>/` (currently `.../The Hunt for Vecna/`).
+
+## Campaign Assistant & Skills
+
+Campaign craft lives in project skills (`.claude/skills/`) loaded into the working conversation, plus one agent:
+
+- `dm-assistant` (agent, `.claude/agents/`) — the DM's collaborator: session prep, post-session wrap-up, continuity, campaign Q&A, live-play support. Run `claude --agent dm-assistant` for a DM-focused session; it loads the skills below as needed.
+- `world-builder` (skill) — NPCs, settlements, regions, dungeons, landmarks, factions.
+- `story-creator` (skill) — quests, arcs, hooks, foreshadowing, pacing; writes encounter briefs, no combat math.
+- `encounter-builder` (skill) — balanced combat, social, and puzzle encounters for the current party; treasure and magic-item rewards, existing or custom.
+- `statblock-creator` (skill) — Fantasy Statblocks stat blocks for NPCs and custom creatures: copy an existing monster, reskin one, or design from scratch with CR math; fills the NPC note's `statblock` block.
+- `lore-researcher` (skill) — discovery methods for campaign history: session-journal sweeps, the world-hierarchy walk via `location` links, NPC connections, backlink greps.
+- `dnd-qa` (skill) — rules, monsters, spells, and items answered from `5. Mechanics/` (read-only).
+
+Load the matching skill before doing that kind of work, whether or not the session runs as dm-assistant. Note for all vault reading: **Dataview queries do not render outside Obsidian** — resolve rosters, quest lists, and similar data from note frontmatter (e.g. player notes' `party`/`active`/`level` fields), not from query blocks.
+
+### Rules that bind all campaign work
+
+1. Read existing vault lore on a subject before creating anything new. If new content would contradict established material, flag the conflict — never silently resolve it.
+2. Established canon (names, deaths, treaties, outcomes the DM has finalized) is locked unless the DM explicitly reopens it.
+3. Keep DM-only information (secrets, hidden motives, unrevealed twists) clearly separated and labeled — never blended into player-facing text.
+4. Follow the active campaign note (the campaign bible) for tone, power level, and lines & veils.
+5. Work iteratively: outline → DM approval → full detail. Don't jump to a finished draft unless asked.
+6. Ask targeted questions when a request is underspecified rather than guessing.
+7. Act as an expert collaborator: push back or offer alternatives when something is mechanically off or inconsistent with the established world.
+8. Follow this file's Note Authoring Rules, Frontmatter Tags, and Folder Map — always via the `vault-note` skill. Never invent new conventions. If no convention covers a case, deliver content in the reply and ask before creating files.
 
 ## 5e Mechanics Content Generation
 

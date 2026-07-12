@@ -2,13 +2,27 @@
 // Retrieves the Dataview API internally — do not pass dv as a parameter.
 
 /**
+ * Resolve the session-journals folder for the active campaign.
+ * Reads the active campaign and the journals base path from the Configuration note,
+ * then nests by campaign name (journals are organized by campaign).
+ * @param {object} dv - Dataview API
+ * @returns {string} Vault-relative folder path, e.g. "1. DM Toolkit/Session Journals/The Hunt for Vecna"
+ */
+function getActiveJournalsFolder(dv) {
+    const config = dv.page("Configuration")
+    const campaign = dv.page(config.active_campaign)
+    const base = config.locations.journals.replace(/\/+$/, "")
+    return `${base}/${campaign.file.name}`
+}
+
+/**
  * Get session journals that contain an outlink to the given file path.
  * Returns sessions sorted by date, as plain objects.
  * @param {string} filePath - Vault-relative path of the file to search for
  */
 export function getSessionsMentioning(filePath) {
     const dv = app.plugins.getPlugin("dataview").api
-    return dv.pages('"3. The Party/Session Journals"')
+    return dv.pages(`"${getActiveJournalsFolder(dv)}"`)
         .filter(p => p.file.outlinks.array().some(l => l.path === filePath))
         .sort(p => p.date)
         .map(p => ({
