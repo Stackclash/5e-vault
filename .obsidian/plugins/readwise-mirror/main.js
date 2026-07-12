@@ -7300,7 +7300,7 @@ class AtomizeExtension {
         }
         switch (this.pass) {
             case 'FIRST': {
-                return new nunjucksExports.runtime.SafeString(`%%! atomize id=${_id}, basename="${basename.replace(/^\n+|\n+$/g, '').trim()}", embed=${embed} !%%
+                return new nunjucksExports.runtime.SafeString(`%%! atomize id=${_id}, basename="${String(basename ?? _id).replace(/^\n+|\n+$/g, '').trim()}", embed=${embed} !%%
 %%! frontmatter !%%
 ${frontmatter}
 %%! endfrontmatter !%%
@@ -7313,7 +7313,8 @@ ${content}
                     throw new Error(`Invalid parameter in atomizer template, 'id' must be set and a positive number. ${_id}`);
                 }
                 // Sanitize filename
-                const _basename = filenamify(basename.replace(/^\n+|\n+$/g, '').trim() ?? _id.toString(), {
+                const rawBasename = (basename ?? _id.toString());
+                const _basename = filenamify(String(rawBasename).replace(/^\n+|\n+$/g, '').trim() || _id.toString(), {
                     replacement: '-',
                     maxLength: 252,
                 })
@@ -9610,7 +9611,8 @@ Summary: {{ summary }}
 
 # Highlights
 `,
-    highlightTemplate: `{{ text }}{%- if category == 'books' %} ([{{ location }}]({{ location_url }})){%- endif %}{%- if color %} %% Color: {{ color }} %%{%- endif %} ^{{id}}{%- if note %}
+    highlightTemplate: `{% atomize id=id, basename=id, embed=true %}
+{{ text }}{%- if category == 'books' %} ([{{ location }}]({{ location_url }})){%- endif %}{%- if color %} %% Color: {{ color }} %%{%- endif %} ^{{id}}{%- if note %}
 
 Note: {{ note }}
 {%- endif %}{%- if tags %}
@@ -9622,6 +9624,7 @@ Tags: {{ tags }}
 {%- endif %}
 
 ---
+{% endatomize %}
 `,
     useSlugify: false,
     slugifySeparator: '-',
@@ -9644,7 +9647,6 @@ Tags: {{ tags }}
     filteredTags: [],
 };
 const FRONTMATTER_TO_ESCAPE = ['title', 'sanitized_title', 'author', 'authorStr'];
-const EMPTY_FRONTMATTER = '---\n---\n';
 // Core Template
 const NUNJUCKS_CORE_TEMPLATE = `{%- block header -%}
 {#- Render the header using the header template -#}
@@ -13901,6 +13903,16 @@ function humanReadableFormat(lastUpdated) {
 }
 
 /**
+ * Checks whether a highlight template contains atomize blocks.
+ * Detects both syntaxes:
+ * - Standard Nunjucks: {% atomize or {%- atomize (FIRST pass in ReadwiseEnvironment)
+ * - Custom atomizer: %%! atomize (SECOND pass delimiters)
+ */
+function hasAtomizeBlocks(template) {
+    return /{%-?\s*atomize/.test(template) || /%%!\s*atomize/.test(template);
+}
+
+/**
  * Determines whether a file is a Readwise-tracked note by checking a configured frontmatter property.
  *
  * Checks the frontmatter property named by `settings.trackingProperty` and returns true if its string value starts with `READWISE_REVIEW_URL_BASE`.
@@ -14060,8 +14072,8 @@ class ReadwiseApi {
                 if (bookId && bookId.length > 0) {
                     queryParams.append('ids', bookId.join(','));
                 }
-                if (nextPageCursor) {
-                    queryParams.append('pageCursor', nextPageCursor);
+                if (nextPageCursor !== undefined) {
+                    queryParams.append('pageCursor', nextPageCursor.toString());
                 }
                 if (contentType === 'export' && includeDeleted) {
                     queryParams.append('includeDeleted', 'true');
@@ -14114,8 +14126,8 @@ class ReadwiseApi {
                         this.ctx.logger.warn('No results found in the response data.');
                     }
                     const rawNextPageCursor = pageData.nextPageCursor;
-                    nextPageCursor = typeof rawNextPageCursor === 'string' ? rawNextPageCursor : '';
-                    if (!nextPageCursor) {
+                    nextPageCursor = typeof rawNextPageCursor === 'number' ? rawNextPageCursor : undefined;
+                    if (nextPageCursor === undefined) {
                         break;
                     }
                     this.ctx.logger.debug(`There are more records left, proceeding to next page: ${nextPageCursor}`);
@@ -14248,6 +14260,15 @@ class Controller {
             return false;
         }
     }
+    prepareAtomicHighlightsCategory(library) {
+        if (!this.ctx.settings.atomicHighlights) {
+            return;
+        }
+        library.categories.add('Highlight');
+        if (!hasAtomizeBlocks(this.ctx.settings.highlightTemplate)) {
+            this.ctx.notice('Readwise: Atomic highlights enabled but your highlight template has no atomize blocks. No atomic notes will be created.', 10000);
+        }
+    }
     async sync() {
         // Equivalent to plugin.sync()
         if (this.ctx.syncLock?.isAcquired('library-sync')) {
@@ -14277,6 +14298,7 @@ class Controller {
                 library = await this.api.downloadUpdates(this.ctx.settings.lastUpdated);
             }
             // ...existing filtering and writing logic...
+            this.prepareAtomicHighlightsCategory(library);
             await this.plugin.writeLibraryToMarkdown(library);
             if (this.ctx.settings.logFile)
                 await this.plugin.writeLogToMarkdown(library);
@@ -14338,9 +14360,7 @@ class Controller {
             this.ctx.logger.debug(`Readwise: downloading current book with ID ${trackedFile.readwiseId}...`);
             const library = await this.api.downloadSingleBook(trackedFile.readwiseId);
             if (Object.keys(library.books).length > 0) {
-                if (this.ctx.settings.atomicHighlights) {
-                    library.categories.add('Highlight');
-                }
+                this.prepareAtomicHighlightsCategory(library);
                 await this.plugin.writeLibraryToMarkdown(library);
                 if (this.ctx.settings.logFile)
                     await this.plugin.writeLogToMarkdown(library);
@@ -14556,9 +14576,7 @@ class Controller {
         try {
             const library = await this.api.downloadMultipleBooks(bookIds);
             if (Object.keys(library.books).length > 0) {
-                if (this.ctx.settings.atomicHighlights) {
-                    library.categories.add('Highlight');
-                }
+                this.prepareAtomicHighlightsCategory(library);
                 if (this.ctx.settings.syncNotifications)
                     this.ctx.notice(`Readwise: writing ${Object.keys(library.books).length} updated books to markdown...`);
                 this.ctx.logger.debug(`Readwise: writing ${Object.keys(library.books).length} updated books to markdown...`);
@@ -14702,6 +14720,7 @@ function getPluginCommands(ctr, ctx) {
                         void ctx
                             .saveAndApplySettings()
                             .catch((err) => ctx.notice(`Failed to save settings: ${toErrorMessage(err)}`));
+                        ctx.setStatusBarText(`Readwise: Synced ${humanReadableFormat(ctx.settings.lastUpdated)}`);
                     }
                     return true;
                 }
@@ -15977,17 +15996,20 @@ class FrontmatterManager {
      * @returns The frontmatter record
      */
     getBaseFrontmatter(metadata) {
-        // Render a template if frontmatter is managed or file tracking is set
-        if (!this.settings.frontMatter && !this.settings.trackFiles) {
+        // Frontmatter parsing is only needed when frontmatter output is enabled.
+        // Tracking fields are injected later in getFrontmatter.
+        if (!this.settings.frontMatter) {
             return new Frontmatter();
         }
         try {
             // Get frontmatter template string
-            // Add Sync properties
-            const frontmatterTemplate = this.settings.frontMatter ? this.settings.frontMatterTemplate : EMPTY_FRONTMATTER;
+            const frontmatterTemplate = this.settings.frontMatterTemplate;
             this.logger.debug(`Processing merged frontmatter template\n${frontmatterTemplate}`);
             // Render and parse the template into YAML
             const renderedTemplate = renderFrontmatterTemplate(frontmatterTemplate, this.env, metadata);
+            if (!renderedTemplate.trim()) {
+                return new Frontmatter();
+            }
             const yaml = obsidian.parseYaml(renderedTemplate);
             if (typeof yaml !== 'object' || yaml === null) {
                 throw new Error('Frontmatter template did not render to an object');
@@ -16169,8 +16191,8 @@ function buildReadwiseDocument(book, options) {
         : author
             ? `[[${author}]]`
             : '';
-    const created = createdDate(filteredHighlights);
-    const updated = updatedDate(filteredHighlights);
+    const created = createdDate(highlights);
+    const updated = updatedDate(highlights);
     const lastHighlightAt = lastHighlightedDate(filteredHighlights);
     return {
         id: user_book_id,
@@ -17010,9 +17032,8 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
             .setPlaceholder('Readwise')
             .setValue(this.ctx.settings.baseFolderName)
             .onChange(async (value) => {
-            if (!value)
-                return;
-            this.ctx.settings.baseFolderName = value;
+            const normalized = value.trim();
+            this.ctx.settings.baseFolderName = normalized || DEFAULT_SETTINGS.baseFolderName;
             await this.ctx.saveAndApplySettings();
         }));
         // Add new Filter by tag setting
@@ -17079,6 +17100,23 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                     attr: { style: 'color: var(--text-error);' },
                 });
             }
+            if (this.ctx.settings.atomicHighlights && !hasAtomizeBlocks(this.ctx.settings.highlightTemplate)) {
+                fragment.createEl('br');
+                fragment.createEl('br');
+                const warningSpan = fragment.createSpan({
+                    attr: { style: 'color: var(--text-warning);' },
+                });
+                warningSpan.appendText('Your highlight template does not contain atomize blocks. Atomic highlights will not be created until you add ');
+                warningSpan.createEl('code', { text: '{% atomize %}...{% endatomize %}' });
+                warningSpan.appendText(' blocks. See the ');
+                warningSpan
+                    .createEl('a', {
+                    text: 'Wiki',
+                    href: 'https://github.com/jsonMartin/readwise-mirror/wiki/Guide:-Atomic-highlights',
+                })
+                    .setAttr('target', '_blank');
+                warningSpan.appendText(' for details.');
+            }
         }))
             .addToggle((toggle) => {
             // Disable and turn off if tracking is disabled
@@ -17110,6 +17148,7 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                                 void (async () => {
                                     this.ctx.settings.atomicHighlights = true;
                                     await this.ctx.saveAndApplySettings();
+                                    this.display();
                                 })();
                             }
                             else {
@@ -17120,6 +17159,7 @@ class ReadwiseMirrorSettingTab extends obsidian.PluginSettingTab {
                     else {
                         this.ctx.settings.atomicHighlights = false;
                         await this.ctx.saveAndApplySettings();
+                        this.display();
                     }
                 });
             }
@@ -17873,7 +17913,10 @@ class ReadwiseMirror extends obsidian.Plugin {
             // exposed methods
             notice: (message, duration) => this.notify.notice(message, duration),
             setStatusBarText: (message) => this.notify.setStatusBarText(message),
-            saveAndApplySettings: () => this.saveAndApplySettings(),
+            saveAndApplySettings: () => {
+                this.settings = ctx.settings;
+                return this.saveAndApplySettings();
+            },
         };
         return ctx;
     }
@@ -17895,8 +17938,8 @@ class ReadwiseMirror extends obsidian.Plugin {
     }
     async initializeUI() {
         try {
-            this.addSettingTab(new ReadwiseMirrorSettingTab(this, this.ctx, this.env));
             await this.loadAndApplySettings();
+            this.addSettingTab(new ReadwiseMirrorSettingTab(this, this.ctx, this.env));
             this.logger.debug('Readwise Mirror plugin loaded.');
             // Instantiate controller and attach to context
             this._frontmatterManager = new FrontmatterManager(this.ctx, this.env, this.app.fileManager);
