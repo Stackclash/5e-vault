@@ -9,13 +9,13 @@ tags:
   - spell/class/druid
   - spell/level/6th-level
   - spell/school/divination
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/hedge-mage
 classes:
   - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Wizard (Hedge Mage)
 school: Divination
 level: 6
@@ -47,6 +47,6 @@ This spell allows you to find the shortest, most direct physical route to a spec
 
 For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. While you are traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 240. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

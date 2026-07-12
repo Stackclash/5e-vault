@@ -20,7 +20,7 @@ tags:
 aliases:
   - Abjurer Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Abjurer Wizard (MPMM).md|Abjurer Wizard]]
+# [[/5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md|Abjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209*
 
 Abjurers specialize in creating protective magical wards. Monarchs, nobles, and other wealthy individuals commonly hire abjurers to provide protection.
@@ -61,7 +61,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
   - "desc": "The abjurer makes three Arcane Burst attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 120\
+  - "desc": "*Melee  or Ranged Spell Attack:* +8 to hit, reach 5 ft. or range 120\
       \ ft., one target. *Hit:* 20 (3d10 + 4) force damage."
     "name": "Arcane Burst"
   - "desc": "Each creature in a 20-foot cube originating from the abjurer must make\

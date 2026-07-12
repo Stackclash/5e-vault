@@ -9,7 +9,7 @@ tags:
   - spell/class/paladin
   - spell/level/2nd-level
   - spell/school/enchantment
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/monster-slayer
   - spell/subclass/oath-of-devotion
   - spell/subclass/order-domain
@@ -20,7 +20,7 @@ classes:
   - Paladin
   - Paladin (Oath of Devotion)
   - Ranger (Monster Slayer)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Enchantment
 level: 2
 ritual: false
@@ -54,6 +54,6 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such creatures can be evasive in its answers as long as it remains within the boundaries of the truth.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Monster Slayer)](/compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Monster Slayer)](/compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 289. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

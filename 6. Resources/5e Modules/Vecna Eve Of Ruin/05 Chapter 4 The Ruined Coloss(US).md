@@ -9,7 +9,7 @@ aliases:
 # Chapter 4: The Ruined Colossus
 *Source: Vecna: Eve of Ruin, p. 73* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/061-04-001-the-colossus-warforged.webp#center\|"The next piece of the Rod of Seven Parts is inside an enormous war machine"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/061-04-001-the-colossus-warforged.webp#center\|The next piece of the Rod of Seven Parts is inside an enormous war machine]]
 
 Searching for the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|third piece]] of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] takes the characters to the continent of Khorvaire on Eberron. The scars of the Last War are still fresh on Khorvaire. Nowhere is this truer than in the Mournland, a once-glorious nation destroyed during the apocalyptic Day of Mourning. Here, the characters must search for the next piece of the rod.
 
@@ -48,7 +48,7 @@ Before seeking the third rod piece, the characters can rest and prepare in the s
 
 ## An Important Detail
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/062-04-002-mount-ironrot-region.webp#center\|"The Mount Ironrot region is a wasteland scattered with broken war machines"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/062-04-002-mount-ironrot-region.webp#center\|The Mount Ironrot region is a wasteland scattered with broken war machines]]
 
 Before the characters leave Sigil for Mount Ironrot, the Wizards Three share their concerns that this rod piece will be particularly challenging to find since the Mournland is difficult to navigate. The wizards suspect that the rod piece is hidden in one of the dozens of ruined colossi scattered across Mount Ironrot (as shown on map 4.1).
 
@@ -224,7 +224,7 @@ As they pass between scorched thickets, the characters are ambushed by violent f
 
 The blades fight until destroyed. They remain tight-lipped if captured, but if a character demands information and succeeds on a DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) check, the lieutenant says his party's commander is a powerful warforged headhunter named Glaive. "She'll make mincemeat out of you, interlopers!" the lieutenant scoffs. The blades can point the party to ruined colossi in the area but otherwise have no useful information.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/069-04-003-mount-ironrot.webp#center\|"Warforged try to survive in the blasted wilderness around Mount Ironrot"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/069-04-003-mount-ironrot.webp#center\|Warforged try to survive in the blasted wilderness around Mount Ironrot]]
 
 ## Finding a Docent
 
@@ -474,7 +474,7 @@ Suddenly, Chandry cries out with joy and sprints toward the colossus. When the g
 
 #### L13: Dragonshard Pool
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/075-04-006-dragonshard-pool.webp#center\|"A strange pool found inside Landro has magical effects on items dipped into it"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/075-04-006-dragonshard-pool.webp#center\|A strange pool found inside Landro has magical effects on items dipped into it]]
 
 > [!readaloud] 
 > 
@@ -619,7 +619,7 @@ Glaive compromised the weapons system when she moved it; once fired, it breaks, 
 
 #### L27: Weapons System
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/076-04-007-glaive-and-subordinates.webp#center\|"Glaive and her subordinates might confront the heroes inside Landro's weapons systems room"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/076-04-007-glaive-and-subordinates.webp#center\|Glaive and her subordinates might confront the heroes inside Landro's weapons systems room]]
 
 > [!readaloud] 
 > 
@@ -657,7 +657,7 @@ When the piece is removed, the four defense sentinels attack the characters, and
 
 ### Graymatter Guardian
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/077-04-008-graymatter-engine.webp#center\|"The graymatter engine serves as Landro's brain, though it can't control the colossus's mechanical systems"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/077-04-008-graymatter-engine.webp#center\|The graymatter engine serves as Landro's brain, though it can't control the colossus's mechanical systems]]
 
 The graymatter engine has—or, more aptly, is—a mind of its own. It sensed the characters when they first entered Landro and has watched them curiously. When the characters arrive in this room, the graymatter engine manifests a swirling mass of animated graymatter fluid.
 

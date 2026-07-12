@@ -20,7 +20,7 @@ aliases:
   - Beast of the Sky
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Beast\Beast Of The Sky (TCE).md|Beast of the Sky]]
+# [[/5. Mechanics/Bestiary/Beast/Beast Of The Sky (TCE).md|Beast of the Sky]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock
@@ -29,6 +29,8 @@ cr: null
 "type": "beast"
 "alignment": "Neutral"
 "ac_class": "13 + PB (natural armor)"
+"hp": "4 + four times your ranger level (the beast has a number of Hit Dice [d6s]\
+  \ equal to your ranger level)"
 "modifier": !!int "3"
 "stats":
   - !!int "6"

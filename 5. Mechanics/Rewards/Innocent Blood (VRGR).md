@@ -19,7 +19,7 @@ The dying victim spits final words: "You shall spill innocent blood until laid l
 
 ## Burden
 
-The character is cursed with [[/5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md\|loup garou]] lycanthropy (see "chapter 5").
+The character is cursed with [[/5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md\|loup garou]] [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md\|lycanthropy]] (see "chapter 5").
 
 ## Resolution
 

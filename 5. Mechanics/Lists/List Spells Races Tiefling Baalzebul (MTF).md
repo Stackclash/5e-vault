@@ -10,11 +10,11 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Thaumaturgy.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Thaumaturgy.md \|"PHB"]] as cantrip
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Ray Of Sickness.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Ray Of Sickness.md \|"PHB"]] as 2nd-level, at class level 3
 
 ## 2nd Level
 

@@ -18,7 +18,7 @@ tags:
 aliases:
   - Forest Defender
 ---
-# [[5. Mechanics\Bestiary\Construct\Forest Defender (KPDM).md|Forest Defender]]
+# [[/5. Mechanics/Bestiary/Construct/Forest Defender (KPDM).md|Forest Defender]]
 *Source: Deep Magic p. 53*
 
 ```statblock

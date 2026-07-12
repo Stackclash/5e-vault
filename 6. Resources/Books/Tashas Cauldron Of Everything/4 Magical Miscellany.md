@@ -15,7 +15,7 @@ The chapter first presents new spells for player characters and monsters to use.
 
 The DM decides how the options in this chapter appear in a campaign and may choose to use some, all, or none of them, so make sure to let your DM know which options you'd most like to use in play.
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/069-03-001.webp#center\|"In her lab, Tasha confers with the demon lord Graz'zt through a magic mirror"]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/069-03-001.webp#center\|In her lab, Tasha confers with the demon lord Graz'zt through a magic mirror]]
 
 ## Spells
 
@@ -49,7 +49,7 @@ The Magic Themes table offers just a few suggestions that might inspire you whil
 
 ![[/5. Mechanics/Tables/Personalizing Spells Magic Themes (TCE).md\|Personalizing Spells; Magic Themes]]
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/075-03-007.webp#center\|"A farmer sorcerer hurls magic missiles that look like chickens"]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/075-03-007.webp#center\|A farmer sorcerer hurls magic missiles that look like chickens]]
 
 ## Magic Items
 

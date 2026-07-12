@@ -18,7 +18,7 @@ aliases:
   - Aberrant Spirit
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit (TCE).md|Aberrant Spirit]]
+# [[/5. Mechanics/Bestiary/Aberration/Aberrant Spirit (TCE).md|Aberrant Spirit]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "aberration"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "40 + 10 for each spell level above 4th"
 "modifier": !!int "0"
 "stats":
   - !!int "16"

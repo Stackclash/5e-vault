@@ -19,7 +19,7 @@ verbal: true
 somatic: false
 material: true
 material_desc: a sprinkle of gold dust worth 400 gp
-time: 1 Reaction
+time: '1 Reaction, which you take when an enemy starts its turn'
 duration: 'Concentration, up to 1 minute'
 range: 100 feet
 aliases:
@@ -38,7 +38,7 @@ saving_throw:
 # Starry Vision
 *7th-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy starts its turn
 - **Range:** 100 feet
 - **Components:** V, M (a sprinkle of gold dust worth 400 gp)
 - **Duration:** Concentration, up to 1 minute

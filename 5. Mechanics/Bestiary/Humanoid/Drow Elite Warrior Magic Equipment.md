@@ -20,7 +20,7 @@ tags:
 aliases:
   - Drow Elite Warrior (Magic Equipment)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Elite Warrior Magic Equipment.md|Drow Elite Warrior (Magic Equipment)]]
+# [[/5. Mechanics/Bestiary/Humanoid/Drow Elite Warrior Magic Equipment.md|Drow Elite Warrior (Magic Equipment)]]
 *Source: Monster Manual p. 128*
 
 ```statblock

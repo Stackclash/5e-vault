@@ -13,7 +13,7 @@ Ravenloft is a place where your nightmares can run wild, where anything you can 
 
 This chapter explores how to create such domains, a process that starts by defining a Darklord—the villain at the heart of each sinister realm. Descriptions of various genres of horror also provide details to guide and inspire your creations.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/024-02-001-intro-splash.webp#center\|"The rivalry between Darklords Strahd von Zarovich and Azalin Rex spills through endless ages and countless domains"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/024-02-001-intro-splash.webp#center\|The rivalry between Darklords Strahd von Zarovich and Azalin Rex spills through endless ages and countless domains]]
 
 ## Creating a Darklord
 
@@ -137,7 +137,7 @@ In every domain, instruments of suffering from the Darklord's past ensure their 
 - **Shocking Reminders.** The domain is drowning in symbolic reminders of the Darklord's inadequacies. When symbolism is too subtle, the literal specters from the Darklord's past return to haunt them.  
 - **Unpleasant Hope.** The Darklord's desire—commonly their bond—is present and obvious, but still unattainable. This instills hope in the Darklord that they are unable to deny, resist, or ignore. Furthermore, they are overcome by their desire's presence, spurring them to act irrationally.  
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/026-02-003-river-dancer.webp#center\|"Aboard her ship, River Dancer, Larissa Snowmane travels the endless domains, guided by fate and song"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/026-02-003-river-dancer.webp#center\|Aboard her ship, River Dancer, Larissa Snowmane travels the endless domains, guided by fate and song]]
 
 ### Domain Overview
 

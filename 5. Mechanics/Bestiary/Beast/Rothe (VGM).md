@@ -20,7 +20,7 @@ tags:
 aliases:
   - Rothé
 ---
-# [[5. Mechanics\Bestiary\Beast\Rothe (VGM).md|Rothé]]
+# [[/5. Mechanics/Bestiary/Beast/Rothe (VGM).md|Rothé]]
 *Source: Volo's Guide to Monsters p. 208*
 
 Ordinary rothé resemble musk oxen and have [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] out to a range of 30 feet.

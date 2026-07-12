@@ -17,21 +17,21 @@ alignment: Chaotic Evil
 relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
-location:
-pronounced:
-race:
-gender:
-age:
+location: null
+pronounced: null
+race: null
+gender: null
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -192,7 +192,7 @@ return function View() {
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
       \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC\
-      \ 12 Constitution saving throw or be cursed with werewolf lycanthropy."
+      \ 12 Constitution saving throw or be cursed with werewolf [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]."
     "name": "Bite (Wolf or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7\
       \ (2d4 + 2) slashing damage."

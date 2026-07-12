@@ -18,7 +18,7 @@ tags:
 aliases:
   - Gargoyle Impling
 ---
-# [[5. Mechanics\Bestiary\Elemental\Gargoyle Impling (GRIFFONSSADDLEBAG3).md|Gargoyle Impling]]
+# [[/5. Mechanics/Bestiary/Elemental/Gargoyle Impling (GRIFFONSSADDLEBAG3).md|Gargoyle Impling]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Gargoyles that have survived for centuries become ancient, all-knowing statues. Some adventurers turn to such gargoyles, despite the risks, in hopes of gleaning information from their wisdom and lasting memories. Their gaze can even create new statues by petrifying living creatures.

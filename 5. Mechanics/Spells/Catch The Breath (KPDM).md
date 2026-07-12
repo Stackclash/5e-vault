@@ -29,7 +29,9 @@ verbal: true
 somatic: false
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you make a saving throw against a breath
+  weapon attack
 duration: Instantaneous
 range: Self
 aliases:
@@ -45,7 +47,7 @@ damage:
 # Catch the Breath
 *3rd-level, Transmutation*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you make a saving throw against a breath weapon attack
 - **Range:** Self
 - **Components:** V
 - **Duration:** Instantaneous

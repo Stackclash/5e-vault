@@ -19,7 +19,7 @@ Here are the options featured in this chapter:
 - Class features and subclasses for every class in the "Player's Handbook"  
 - "Feats" for anyone who uses that optional rule  
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/001-01-001.webp#center\|"The wizard Tasha studies magic outside the hut of her adoptive mother, Baba Yaga"]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/001-01-001.webp#center\|The wizard Tasha studies magic outside the hut of her adoptive mother, Baba Yaga]]
 
 ## Customizing Your Origin
 
@@ -74,9 +74,9 @@ Artificers in the City of Sigil share discoveries from throughout the multiverse
 - [[/5. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Battle Smith]]  
 
 > [!gallery]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/003-01-004-artificer-vi.webp#gallery\|"The gnome artificer Vi and her cockatrice-like Eldritch Cannon battle foes atop a lightning train."]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/003-01-004-artificer-vi.webp#gallery\|The gnome artificer Vi and her cockatrice-like Eldritch Cannon battle foes atop a lightning train.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/004-01-005-artificer.webp#gallery\|Dwarf Alchemist with Homunculus Servant]]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/005-01-006.webp#gallery\|"Armorers, a Drow Infiltrator and a Tiefling Guardian"]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/005-01-006.webp#gallery\|Armorers, a Drow Infiltrator and a Tiefling Guardian]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/006-01-007.webp#gallery\|Human Artillerist with Eldritch Cannon]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/007-01-008.webp#gallery\|Gnome Battle Smith with Steel Defender]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/008-01-009.webp#gallery\|Homunculus Servants]]
@@ -142,7 +142,7 @@ At 3rd level, a bard gains the Bard College feature, which offers you the choice
 - [[/5. Mechanics/Classes/Bard College Of Eloquence (TCE).md\|College of Eloquence]]  
 
 > [!gallery]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/013-01-016.webp#gallery\|"A dragonborn bard of the College of Creation animates a statue to dance."]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/013-01-016.webp#gallery\|A dragonborn bard of the College of Creation animates a statue to dance.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/014-01-017.webp#gallery\|Drow Bard of Eloquence]]
 
 ## Cleric
@@ -225,7 +225,7 @@ At 2nd level, a druid gains the Druid Circle feature, which offers you the choic
 
 > [!gallery]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/021-01-026.webp#gallery\|Druid with Wild Companion]]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/022-01-027.webp#gallery\|"A gnome druid of spores picks mushrooms with his bullywug zombie companion."]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/022-01-027.webp#gallery\|A gnome druid of spores picks mushrooms with his bullywug zombie companion.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/023-01-028.webp#gallery\|Tiefling Druid of Stars]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/024-01-029.webp#gallery\|Dwarf Druid of Wildfire]]
 
@@ -405,7 +405,7 @@ At 3rd level, a monk gains the Monastic Tradition feature, which offers you the 
 - [[/5. Mechanics/Classes/Monk Way Of The Astral Self (TCE).md\|Way of the Astral Self]]  
 
 > [!gallery]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/031-01-038.webp#gallery\|"An orc monk of the Four Elements unleashes a ki-fueled attack."]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/031-01-038.webp#gallery\|An orc monk of the Four Elements unleashes a ki-fueled attack.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/032-01-039.webp#gallery\|Wood Elf Monk of Mercy]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/033-01-040.webp#gallery\|Dragonborn Monk of the Astral Self]]
 
@@ -633,9 +633,9 @@ At 1st level, a warlock gains the Otherworldly Patron feature, which offers you 
 - [[/5. Mechanics/Classes/Warlock The Genie (TCE).md\|The Genie]]  
 
 > [!gallery]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/051-01-063.webp#gallery\|"A tiefling warlock calls on the power of his talisman."]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/051-01-063.webp#gallery\|A tiefling warlock calls on the power of his talisman.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/052-01-064.webp#gallery\|Human Warlock of the Fathomless]]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/053-01-065.webp#gallery\|"A warlock uses a genie's vessel to battle a cyclops."]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/053-01-065.webp#gallery\|A warlock uses a genie's vessel to battle a cyclops.]]
 
 ## Wizard
 
@@ -695,4 +695,4 @@ New feats are presented here in alphabetical order for groups that use them.
 
 > [!gallery]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/057-01-070.webp#gallery\|Eldritch Adept]]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/058-01-071.webp#gallery\|"Astride a unicorn, a telepathic bard inspires her wizard companion."]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/058-01-071.webp#gallery\|Astride a unicorn, a telepathic bard inspires her wizard companion.]]

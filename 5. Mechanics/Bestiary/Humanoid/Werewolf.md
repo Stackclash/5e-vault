@@ -23,7 +23,7 @@ tags:
 aliases:
   - Werewolf
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|Werewolf]]
+# [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]]
 *Source: Monster Manual p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far-a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
@@ -113,7 +113,7 @@ Some individuals see little point in fighting the curse and accept what they are
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
       \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC\
-      \ 12 Constitution saving throw or be cursed with werewolf lycanthropy."
+      \ 12 Constitution saving throw or be cursed with werewolf [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]."
     "name": "Bite (Wolf or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7\
       \ (2d4 + 2) slashing damage."

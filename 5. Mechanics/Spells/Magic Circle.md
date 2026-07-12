@@ -12,7 +12,7 @@ tags:
   - spell/level/3rd-level
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subclass/monster-slayer
   - spell/subclass/oath-of-the-watchtower
@@ -24,7 +24,7 @@ classes:
   - Paladin (Oath of the Watchtower)
   - Ranger (Monster Slayer)
   - Rogue (Arcane Trickster)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock
   - Wizard
 school: Abjuration
@@ -78,6 +78,6 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Monster Slayer)](/compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Monster Slayer)](/compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

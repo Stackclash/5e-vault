@@ -9,12 +9,12 @@ tags:
   - spell/class/druid
   - spell/level/9th-level
   - spell/school/necromancy
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
 classes:
   - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Necromancy
 level: 9
 ritual: false
@@ -47,6 +47,6 @@ This spell closes all wounds, neutralizes any poison, cures all diseases, and li
 
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

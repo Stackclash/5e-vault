@@ -18,7 +18,7 @@ tags:
 aliases:
   - Duodrone (Rogue)
 ---
-# [[5. Mechanics\Bestiary\Construct\Duodrone Rogue.md|Duodrone (Rogue)]]
+# [[/5. Mechanics/Bestiary/Construct/Duodrone Rogue.md|Duodrone (Rogue)]]
 *Source: Monster Manual p. 225*
 
 ```statblock

@@ -20,7 +20,7 @@ tags:
 aliases:
   - Beholder
 ---
-# [[5. Mechanics\Bestiary\Aberration\Beholder.md|Beholder]]
+# [[/5. Mechanics/Bestiary/Aberration/Beholder.md|Beholder]]
 *Source: Monster Manual p. 28*
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
@@ -129,7 +129,7 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
       \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]. It must repeat the\
       \ saving throw at the end of its next turn. On a success, the effect ends. On\
       \ a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
-      \ until freed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ until freed by the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or other magic.  \n- **9. Disintegration Ray.** If the target is a creature,\
       \ it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force\
       \ damage. If this damage reduces the creature to 0 hit points, its body becomes\

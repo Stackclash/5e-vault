@@ -20,7 +20,7 @@ tags:
 aliases:
   - Grung (Purple)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Purple (MPMM).md|Grung (Purple)]]
+# [[/5. Mechanics/Bestiary/Humanoid/Grung Purple (MPMM).md|Grung (Purple)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*
 
 ```statblock

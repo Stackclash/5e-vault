@@ -13,7 +13,7 @@ In a far-flung corner of the Plane of Shadow drifts a hidden expanse of roiling 
 
 This chapter provides information for the DM and explores the misty truths of the Domains of Dread, along with a sampling of the terrifying domains, dreaded Darklords, and daring wanderers trapped in the Dark Powers' clutches.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/038-03-001-intro-splash.webp#center\|"Dr. Viktra Mordenheim, Darklord of Lamordia, crafts the perfect body for her newest band of golem-hunting mercenaries"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/038-03-001-intro-splash.webp#center\|Dr. Viktra Mordenheim, Darklord of Lamordia, crafts the perfect body for her newest band of golem-hunting mercenaries]]
 
 ## Nature of Ravenloft
 
@@ -45,7 +45,7 @@ The domains detailed in this chapter suggest Mist talismans that can be used to 
 
 ### Magic and Metaphysics
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/039-03-002-eerie-vendors.webp#center\|"Eerie vendors such as those at the Carnival's Litwick Market deal in unique Mist talismans"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/039-03-002-eerie-vendors.webp#center\|Eerie vendors such as those at the Carnival's Litwick Market deal in unique Mist talismans]]
 
 The Dark Powers manipulate the domains and creatures within their grasp in the most fundamental ways, controlling magic, the nature of life and death, and the means of escaping from their nightmare realms.
 
@@ -228,7 +228,7 @@ Once a haven of virtuous wizards, the Amber Temple was long ago corrupted by evi
 
 ### Strahd von Zarovich
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/042-03-003-count-strahd.webp#center\|"In the halls of Castle Ravenloft, Count Strahd von Zarovich clings to ancient obsessions"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/042-03-003-count-strahd.webp#center\|In the halls of Castle Ravenloft, Count Strahd von Zarovich clings to ancient obsessions]]
 
 In life, Count Strahd von Zarovich was a ruthlessly effective conqueror. Over decades of brutal military campaigning, he defeated his rivals and forged a nation. Retiring from war, Strahd settled in the beautiful valley where he'd won his greatest victory. There, in the way of his ancestors, he spilled his blood into the earth, sealing a pact between himself and the land. In honor of his parents, King Barov and Queen Ravenovia, he named the valley Barovia and constructed his fortress-home, Castle Ravenloft.
 
@@ -324,11 +324,11 @@ It's not necessary to have Tatyana's incarnation appear within Barovia. Rather, 
 
 ![[/5. Mechanics/Tables/Beyond Barovia Lost Tatyana (VRGR).md\|Beyond Barovia; Lost Tatyana]]
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/043-03-004-tatyana.webp#center\|"Tatyana might be reborn in any number of guises, such as Ireena Kolyana or Lyssa von Zarovich"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/043-03-004-tatyana.webp#center\|Tatyana might be reborn in any number of guises, such as Ireena Kolyana or Lyssa von Zarovich]]
 
 ## Bluetspur
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/044-03-005-bluetspur.webp#center\|"Memories of Bluetspur prove as impossible as they are inescapable"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/044-03-005-bluetspur.webp#center\|Memories of Bluetspur prove as impossible as they are inescapable]]
 
 *Domain of Alien Memories*
 
@@ -539,7 +539,7 @@ Among the most decadent noble holdings is Misericordia, the Boritsi estate. Situ
 
 ### Ivana Boritsi
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/047-03-007-ivana-boritsi.webp#center\|"Ivana Boritsi welcomes guests to the poisonous conservatories of Misericordia"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/047-03-007-ivana-boritsi.webp#center\|Ivana Boritsi welcomes guests to the poisonous conservatories of Misericordia]]
 
 The firstborn of the fantastically wealthy Boritsi aristocrats, Ivana was clever, poised, and—in her father Klaus's eyes—utterly unfit to lead their family. Unwilling to accept her father's view, Ivana spent her youth eschewing the dalliances of her kin, instead learning every aspect of her family's business in perfumes and medicinal herbs. Her mother, Camille, encouraged her daughter and tried to ensure that Ivana would one day lead the family.
 
@@ -756,7 +756,7 @@ Garish fliers appear before the Carnival's arrival, promising marvels, terrors, 
 
 The Carnival doesn't exist to entertain its visitors. Rather, it's a traveling domain, capable of visiting other domains and lands beyond the Mists. Visibly marked as outsiders by birth, circumstance, intention, or talent, the Carnival's troupers trade their unique performances for coin and whatever else they need to survive. Although these entertainers are well intentioned, sinister forces travel in their wake. The longer the Carnival tarries in one place, the greater the threat to the performers and visitors. So the Carnival travels constantly, lest the troupers endanger the lands they visit.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/050-03-009-deceitful-fey.webp#center\|"Deceitful fey lure the unwary from the Carnival's midway"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/050-03-009-deceitful-fey.webp#center\|Deceitful fey lure the unwary from the Carnival's midway]]
 
 ### Noteworthy Features
 
@@ -993,7 +993,7 @@ Darcalus Rex is a [[/5. Mechanics/Bestiary/Undead/Necrichor (VRGR).md\|necrichor
 
 The members of the Eris family stand proudly as Il Aluk's foremost artisans of the grand craft of lying. Despite its ancient name, the family has long endured crushing debt. Through poise and predatory business dealings, members have clung to their rotted estate, Calasquel. As the fortunes of Il Aluk's elite withered, Talisveri Eris took advantage of her family's duplicitous expertise, peddling empty assurances from the center of a web of credit, gossip, and desperate debtors.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/055-03-012-castle-avernus.webp#center\|"Castle Avernus, frozen at the moment of its destruction"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/055-03-012-castle-avernus.webp#center\|Castle Avernus, frozen at the moment of its destruction]]
 
 Bubbly and fantastically vain, Madame Eris would appear to be a woman of nearly eighty if her attempts at magical age-defiance hadn't resulted in her permanent invisibility. The result of imbibing a flawed magic elixir meant to make her look younger, Eris's invisibility has persisted for decades. She uses avant-garde fashion and gallons of makeup to create the face she presents publicly, as well as presenting numerous alter egos: fictitious family members such as her miserly cousin, Halpernista; her foppish nephew, Oscanor; and her bewilderingly ancient and perpetually furious sister, Lady Tatsaul.
 
@@ -1153,7 +1153,7 @@ Enraged to discover this "duke" was no more a real duke than her father—and wo
 
 Saidra awoke on the foggy grounds of her new estate in Port-a-Lucine, a true duchess, as she had always imagined, but also an undead wraith. When she's dressed in elegant gowns and an elaborate mask, those around her accept the obvious lie that she's a living woman. When she isn't hosting her masquerade balls, she sheds her garb and stalks the city as a murderous spirit known as the Red Death. In either form, her goal is the same: to unmask and destroy pompous fools who pretend to be what they are not, aspire to higher station than they deserve, and fail to maintain the appearance of normalcy.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/058-03-013-duchess.webp#center\|"Duchess d'Honaire punishes the unworthy who sneak into the Grand Masquerade"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/058-03-013-duchess.webp#center\|Duchess d'Honaire punishes the unworthy who sneak into the Grand Masquerade]]
 
 #### Saidra's Powers and Dominion
 
@@ -1391,7 +1391,7 @@ Steely and fierce, Vladeska Drakov views softness as weakness and resents having
 
 "I and all I command will know death before we show weakness in defeat."
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/061-03-014-vladeska.webp#center\|"Vladeska Drakov and her Talons struggle to defend Lekar from endless zombie hordes"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/061-03-014-vladeska.webp#center\|Vladeska Drakov and her Talons struggle to defend Lekar from endless zombie hordes]]
 
 ### Adventures in Falkovnia
 
@@ -1820,7 +1820,7 @@ Excessive experimentation has caused the nature of magic in Hazlan to fray, maki
 
 ### The Eye of Hazlik
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/068-03-017-wizard-eleni.webp#center\|"The wizard Eleni's most recent experiment: dominating the worm Gravedrinker"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/068-03-017-wizard-eleni.webp#center\|The wizard Eleni's most recent experiment: dominating the worm Gravedrinker]]
 
 A stylized eyelike design adorns buildings, art, clothing, and talismans across Hazlan: the Eye of Hazlik. Locals claim the symbol wards off dangerous magic and offers protection from magical creatures. It's also said that spellcasters who wear the symbol are less likely to suffer the domain's wild magic effects. Remarkably, it's not all superstition.
 
@@ -2207,7 +2207,7 @@ Reeva remembers a time when she loved Ramya, before her sister eclipsed her in t
 
 After her murder, Reeva was reborn as an [[/5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|arcanaloth]], a state that horrifies her. When frustrated, she vents her rage by instructing her servants to abduct someone she considers beautiful and then overseeing that beauty's destruction. Reeva is a cunning plotter, strategist, and manipulator. She applies these talents to her magic, entreating fiends for aid and using them to hasten the day when no one will underestimate her again. Many of Arijani's allies don't trust Reeva. Behind her back, they mockingly call her charismatic Arijani's opposite, or "Inajira."
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/074-03-021-arijani-and-reeva.webp#center\|"Arijani and Reeva Vasavadan conspire in a courtyard of the Cerulean Citadel"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/074-03-021-arijani-and-reeva.webp#center\|Arijani and Reeva Vasavadan conspire in a courtyard of the Cerulean Citadel]]
 
 ### Treachery in Kalakeri
 
@@ -2296,7 +2296,7 @@ Those familiar with Kartakass know the following facts:
 - Wolves roam the land freely. Few venture outside during the full moon, fearing werewolves.  
 - A sourceless song whispers through the mystical Wildersung Wood, always fading before it ends. Although no one knows its conclusion, all Kartakans know the beginning: "Sing of the trees, give voice to the breeze, and stave off the bloom of doom. While the wise sing their song, guilty necks stretch long, and..."  
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/075-03-024-the-crowds.webp#center\|"The crowds at the Crystal Club in Harmonia have a vicious reputation. Some performers learn why firsthand"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/075-03-024-the-crowds.webp#center\|The crowds at the Crystal Club in Harmonia have a vicious reputation. Some performers learn why firsthand]]
 
 ### Settlements and Sites
 
@@ -2490,7 +2490,7 @@ Overgrown with bizarrely warped forests, this jagged mountain range stretches fo
 
 A child prodigy from a minor noble family, the brilliant Viktra Mordenheim became obsessed with the complexities of Humanoid anatomy at an early age. She taught herself medicine as a child, and as a teen earned both a doctorate and an appointment as a preeminent researcher at a local university. Despite her genius, though, the young Dr. Mordenheim lacked empathy, compassion, and moral qualms. She pursued medicine solely to satiate her burning intellectual curiosity, never to aid her patients. She perceived magic as stealing the powers of otherworldly beings and cheating the laws of nature, and sought instead to use her mind to master the world.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/082-03-026-baron-rudolph.webp#center\|"The brain of Baron Rudolph von Aubrecker constructs a new body"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/082-03-026-baron-rudolph.webp#center\|The brain of Baron Rudolph von Aubrecker constructs a new body]]
 
 Eventually, Dr. Mordenheim became convinced that she could do more than create life—she could defeat death! She wished to breathe sentience into dead flesh and produce sturdier shells than the bodies of fragile, temporary mortals. She added corpse theft to her repertoire, employing thieves to procure specimens for her tests. This was how she met [[/4. World Almanac/NPCs/Elise (VRGR).md\|Elise]], a beautiful but reckless body snatcher who was charmed by the doctor's aloofness and whose spontaneity entranced the methodical surgeon.
 
@@ -2578,7 +2578,7 @@ Dr. Mordenheim's supposed beloved and greatest achievement, [[/4. World Almanac/
 
 The Unbreakable Heart is a nonmagical scientific wonder that replaces a creature's heart. The device installs itself, connecting to a creature's anatomy and stitching itself into place if positioned in a cavity where the creature's heart used to be. A creature with the device inside them is immune to disease, ceases to age, and does not die of old age, though they can still die in other ways. The glowing device sheds light in a 10-foot radius and dim light for an additional 10 feet. While inside a creature, the device causes the creature to shed dim light in a 10-foot radius.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/083-03-025-dr-mordenheim.webp#center\|"Within Elise's undying body beats Dr. Mordenheim's greatest creation: the Unbreakable Heart"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/083-03-025-dr-mordenheim.webp#center\|Within Elise's undying body beats Dr. Mordenheim's greatest creation: the Unbreakable Heart]]
 
 #### Re-created by the Doctor
 
@@ -2770,7 +2770,7 @@ Issues of love and romance are intimately bound to the tragic elements of a ghos
 
 ![[/5. Mechanics/Tables/Romance Romantic Elements (VRGR).md\|Romance; Romantic Elements]]
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/087-03-028-all-who-die.webp#center\|"All who die in Mordent become captives to the will of Lord Wilfred Godefroy"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/087-03-028-all-who-die.webp#center\|All who die in Mordent become captives to the will of Lord Wilfred Godefroy]]
 
 #### Putting the Pieces Together
 
@@ -2957,7 +2957,7 @@ At the end of each long rest, an infected creature must make a DC 10 Constitutio
 
 All forms of rats and wererats are immune to the Gnawing Plague.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/091-03-030-wearing-a-mask.webp#center\|"Wearing a mask curtails the plague but not wererats"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/091-03-030-wearing-a-mask.webp#center\|Wearing a mask curtails the plague but not wererats]]
 
 ### Cycle of the Plague
 
@@ -3142,7 +3142,7 @@ The villagers are curious about strangers, and eventually someone invites the ou
 
 When the characters visit Viktal, roll or choose options from the Sights in Viktal table to set the tone of the village's strangeness.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/095-03-032-a-visitor.webp#center\|"A visitor enjoys the hospitality of Viktal during the Tithe"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/095-03-032-a-visitor.webp#center\|A visitor enjoys the hospitality of Viktal during the Tithe]]
 
 ![[/5. Mechanics/Tables/Welcome To Viktal Sights In Viktal (VRGR).md\|Welcome to Viktal; Sights in Viktal]]
 
@@ -3368,7 +3368,7 @@ While exploring the Domains of Dread, should the Mists carry characters to a mys
 
 The disaster known as the Mourning numbers among the greatest tragedies to befall the world of Eberron—a mysterious calamity that killed nearly everyone in the land of Cyre. In the nation's capital of Metrol, some citizens foresaw the coming devastation and sought to escape upon lightning rails, elemental-powered engines capable of pulling trains of passenger carriages. As scared innocents packed Metrol's last lightning rail, known as Cyre 1313, the evacuation was delayed at the demand of a late-arriving VIP. Hundreds were forced from passenger carriages to admit and maintain the secrecy of this last passenger and their retinue. When the lightning rail did finally depart, it was too late. The disaster of the Mourning overtook the train and its hundreds of escapees. But even as it did, the Mists claimed Cyre 1313 and all aboard it. Now, the last lightning rail from Metrol hurtles through the Mists as a traveling domain. Those on board fear the disaster pursuing them, the mysterious passenger seated in the train's foremost carriage, and the necrotic energy now infusing the engine's elemental spirit. Yet none of the passengers realize their endless escape is pointless, as Cyre 1313 carries only the dead.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/099-03-034-cyre-1313.webp#center\|"Cyre 1313, The Mourning Rail, thunders through domains, ever trying to escape the disaster that slew its passengers"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/099-03-034-cyre-1313.webp#center\|Cyre 1313, The Mourning Rail, thunders through domains, ever trying to escape the disaster that slew its passengers]]
 
 ### Forlorn
 
@@ -3432,7 +3432,7 @@ Any who sleep might close their eyes and become forever trapped in the Nightmare
 
 The Nightmare Court's members share one commonality: all are the living nightmares of Caroline Dinwiddy, a potent psychic who repressed memories of her own heartless deeds. These memories torment her sleeping mind, creating the Nightmare Court. Deep within the City of Nod, inside a warped reimagining of the clinic where she once worked, Dinwiddy sleeps without waking, refusing to face the terrors her dreams unleash upon innocents across the multiverse.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/100-03-035-ghost-dancer.webp#center\|"The Ghost Dancer visits nightmares upon a sleeping victim"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/100-03-035-ghost-dancer.webp#center\|The Ghost Dancer visits nightmares upon a sleeping victim]]
 
 ### Niranjan
 
@@ -3617,7 +3617,7 @@ Vistani pass their varied teachings through their families as stories and songs,
 
 With their experience navigating the Mists, many Vistani understand how to employ "Mist talismans" (detailed at the start of this "chapter") to reach specific domains, or possess the "Mist Walker" Dark Gift (see "chapter 1"), allowing them to make their way between domains. Vistani don't enter the Mists lightly, though, knowing that each such passage holds inherent danger. Caravan leaders ensure that every family member is accounted for before moving on, ensuring no one gets lost in the Mists.
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/103-03-037-vistani-wayfarers.webp#center\|"Vistani Wayfarers emerge from the Mists into a new land."]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/103-03-037-vistani-wayfarers.webp#center\|Vistani Wayfarers emerge from the Mists into a new land.]]
 
 #### Vistani Knowledge
 
@@ -3791,7 +3791,7 @@ Use the statistics of an [[/5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin
 
 #### Firan Zal'honan
 
-![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/104-03-038-mysterious-research.webp#center\|"Firan Zal'honan's mysterious research leads him to discover an accursed amber sarcophagus"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/104-03-038-mysterious-research.webp#center\|Firan Zal'honan's mysterious research leads him to discover an accursed amber sarcophagus]]
 
 A mask of charm and congeniality conceals one of the most ingenious and utterly ruthless intellects to stalk through the Mists. A wandering scholar, Firan Zal'honan is quick to claim his descent from a noble pedigree. In another life, he claims, he could have ruled as a wizard-king. But his brilliance led him along a stranger path: seeking to escape the Mists into the "true realities" beyond. Firan keeps the basis for his strange theories secret, but his ambitions drive him to travel the domains; visit accursed sites; and investigate inscrutable prophecy cycles, temporal conjunctions, and an unknown figure he calls "the escapee."
 

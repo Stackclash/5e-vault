@@ -18,7 +18,7 @@ aliases:
   - Swordmaster
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Swordmaster (SAF).md|Swordmaster]]
+# [[/5. Mechanics/Bestiary/Humanoid/Swordmaster (SAF).md|Swordmaster]]
 *Source: Strongholds and Followers p. 75*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "18"
 "ac_class": "Heavy"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "18"

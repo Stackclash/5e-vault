@@ -18,7 +18,7 @@ aliases:
   - Warlord
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warlord (SAF).md|Warlord]]
+# [[/5. Mechanics/Bestiary/Humanoid/Warlord (SAF).md|Warlord]]
 *Source: Strongholds and Followers p. 76*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "18"
 "ac_class": "Heavy"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "18"

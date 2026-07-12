@@ -25,7 +25,7 @@ tags:
 aliases:
   - Wereboar
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Wereboar.md|Wereboar]]
+# [[/5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]]
 *Source: Monster Manual p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and muscular, with short, stiff hair. In their humanoid and hybrid forms, they use heavy weapons, while in hybrid or animal form, they gain a devastating goring attack through which their curse is spread. A wereboar infects other creatures indiscriminately, relishing the fact that the more its victims resist the curse, the more savage and bestial they become.
@@ -116,7 +116,7 @@ Some individuals see little point in fighting the curse and accept what they are
     "name": "Maul (Humanoid or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on\
-      \ a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy."
+      \ a DC 12 Constitution saving throw or be cursed with wereboar [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]."
     "name": "Tusks (Boar or Hybrid Form Only)"
 "source":
   - "MM"

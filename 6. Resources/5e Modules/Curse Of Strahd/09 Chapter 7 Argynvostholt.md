@@ -440,7 +440,7 @@ When one or more characters approach within 10 feet of the fireplace, add:
 The smoky dragonet has the statistics of a [[/5. Mechanics/Bestiary/Elemental/Smoke Mephit.md\|smoke mephit]] but fights only in self-defense. If left alone, it flies out of the room at a speed of 30 feet, up the spiral staircase (area Q17), through the curtain at area Q30, over the rubble in area Q33, and into area Q36. Once there, it lands on the back of Vladimir's throne and disappears.
 
 > [!gallery]
-> ![[/6. Resources/5e Modules/Curse Of Strahd/img/079-021.webp#gallery\|"Map 7.2: Argynvostholt (Area Q"]] - Rooftop and Beacon")
+> ![[/6. Resources/5e Modules/Curse Of Strahd/img/079-021.webp#gallery\|Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon]]
 > ![[/6. Resources/5e Modules/Curse Of Strahd/img/080-cos702.webp#gallery\|Player Version]]
 
 ### Q27. Knights' Quarters
@@ -778,7 +778,7 @@ These turret rooftops are 80 feet above ground level. The spiral stairs descend 
 > 
 > **Multiattack.** The phantom warrior makes two attacks with its spectral longsword or spectral longbow.
 > 
-> **Spectral Longbow.** *Ranged Weapon Attack:* +2 to hit, range 150/600 ft., one target. Hit: `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) force damage.
+> **Spectral Longbow.** *Ranged Weapon Attack:* `dice:1d20+2|noform|noparens|text(+2)` to hit, range 150/600 ft., one target. Hit: `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) force damage.
 ^4ae
 
 ### Q53. Beacon of Argynvostholt
@@ -835,6 +835,6 @@ The coffin was made in Vallaki by the local coffin maker, [[/4. World Almanac/NP
 
 Once she arrives, Ezmerelda releases the horse (which flees back to its camp) and quietly makes her way through the mansion until she reaches the characters.
 
-Hot on Ezmerelda's trail are the Vistani leader [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] (NE male human [[/5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]]) and two Vistani bodyguards (CE female [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]). [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] rides a black [[/5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horse]], while the bandits ride two [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]]. These dire wolves are servants of Strahd and can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
+Hot on Ezmerelda's trail are the Vistani leader [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] (NE male human [[/5. Mechanics/Bestiary/Humanoid/Vistana Assassin (COS).md\|assassin]]) and two Vistani bodyguards (CE female [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]). [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] rides a black [[/5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horse]], while the bandits ride two [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]]. These dire wolves are servants of Strahd and can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 
 [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] is determined to capture Ezmerelda and haul her back to the Vistani camp to face punishment for horse theft. He does nothing to antagonize the characters, however, and returns to the Vistani camp if he can't convince them to give up Ezmerelda. For more information on [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]], see chapter 5, area N9c.

@@ -18,7 +18,7 @@ aliases:
   - Avatar of Death
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Undead\Avatar Of Death (DMG).md|Avatar of Death]]
+# [[/5. Mechanics/Bestiary/Undead/Avatar Of Death (DMG).md|Avatar of Death]]
 *Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Summoned by the "Skull" card from the [[/5. Mechanics/Items/Deck Of Many Things.md|Deck of Many Things]].
@@ -29,6 +29,7 @@ Summoned by the "Skull" card from the [[/5. Mechanics/Items/Deck Of Many Things.
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "20"
+"hp": "half the hit point maximum of its summoner"
 "modifier": !!int "3"
 "stats":
   - !!int "16"

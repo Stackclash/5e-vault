@@ -18,7 +18,7 @@ aliases:
   - Bestial Spirit (Air)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Air (TCE).md|Bestial Spirit (Air)]]
+# [[/5. Mechanics/Bestiary/Beast/Bestial Spirit Air (TCE).md|Bestial Spirit (Air)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "beast"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "20 + 5 for each spell level above 2nd"
 "modifier": !!int "0"
 "stats":
   - !!int "18"

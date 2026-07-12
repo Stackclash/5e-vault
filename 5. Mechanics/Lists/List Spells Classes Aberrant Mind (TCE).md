@@ -10,29 +10,29 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Mind Sliver (TCE).md \|"TCE"]] 
+- [[/5. Mechanics/Spells/Mind Sliver (TCE).md \|"TCE"]] as cantrip
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Arms Of Hadar.md \|"PHB"]] 
-- [[/5. Mechanics/Spells/Dissonant Whispers.md \|"PHB"]] 
+- [[/5. Mechanics/Spells/Arms Of Hadar.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Dissonant Whispers.md \|"PHB"]]
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Calm Emotions.md \|"PHB"]] 
-- [[/5. Mechanics/Spells/Detect Thoughts.md \|"PHB"]] 
+- [[/5. Mechanics/Spells/Calm Emotions.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Detect Thoughts.md \|"PHB"]] at class level 3
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Hunger Of Hadar.md \|"PHB"]] 
-- [[/5. Mechanics/Spells/Sending.md \|"PHB"]] 
+- [[/5. Mechanics/Spells/Hunger Of Hadar.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Sending.md \|"PHB"]] at class level 5
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Evards Black Tentacles.md \|"PHB"]] 
-- [[/5. Mechanics/Spells/Summon Aberration (TCE).md \|"TCE"]] 
+- [[/5. Mechanics/Spells/Evards Black Tentacles.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Summon Aberration (TCE).md \|"TCE"]] at class level 7
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Rarys Telepathic Bond.md \|"PHB"]] 
-- [[/5. Mechanics/Spells/Telekinesis.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Rarys Telepathic Bond.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Telekinesis.md \|"PHB"]] at class level 9

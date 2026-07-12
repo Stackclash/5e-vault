@@ -114,4 +114,4 @@ Options (choose 1):
     _Source: Sword Coast Adventurer's Guide p. 122_  
     While you're raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.  
 - **Wolf**  
-    While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] when you hit it with melee weapon attack.
+    While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] when you hit it with a melee weapon attack.

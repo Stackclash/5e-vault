@@ -10,6 +10,7 @@ tags:
   - spell/class/warlock
   - spell/feat/artificer-initiate
   - spell/feat/magic-initiate/warlock-spells
+  - spell/feat/spell-sniper
   - spell/feat/wood-elf-magic
   - spell/level/cantrip
   - spell/optfeature/druidic-warrior

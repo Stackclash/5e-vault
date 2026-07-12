@@ -33,7 +33,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you are hit by an attack or targeted by the
+  [magic missile](\5. Mechanics\Spells\Magic Missile.md) spell
 duration: 1 round
 range: Self
 aliases:
@@ -42,7 +44,7 @@ aliases:
 # Shield
 *1st-level, Abjuration*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you are hit by an attack or targeted by the [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] spell
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** 1 round

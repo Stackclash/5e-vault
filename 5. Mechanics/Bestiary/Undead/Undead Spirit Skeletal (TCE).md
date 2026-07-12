@@ -18,7 +18,7 @@ aliases:
   - Undead Spirit (Skeletal)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Undead\Undead Spirit Skeletal (TCE).md|Undead Spirit (Skeletal)]]
+# [[/5. Mechanics/Bestiary/Undead/Undead Spirit Skeletal (TCE).md|Undead Spirit (Skeletal)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "undead"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "20 + 10 for each spell level above 3rd"
 "modifier": !!int "3"
 "stats":
   - !!int "12"

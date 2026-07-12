@@ -15,7 +15,7 @@ tags:
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
   - spell/subclass/death-domain
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subrace/elf-high
 classes:
@@ -24,7 +24,7 @@ classes:
   - Cleric (Death Domain)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock
   - Wizard
 school: Necromancy
@@ -64,6 +64,6 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 The spell's damage increases by one die when you reach 5th level (`dice:2d8|noform|noparens|avg` (`2d8`) or `dice:2d12|noform|noparens|avg` (`2d12`)), 11th level (`dice:3d8|noform|noparens|avg` (`3d8`) or `dice:3d12|noform|noparens|avg` (`3d12`)), and 17th level (`dice:4d8|noform|noparens|avg` (`4d8`) or `dice:4d12|noform|noparens|avg` (`4d12`)).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 169*

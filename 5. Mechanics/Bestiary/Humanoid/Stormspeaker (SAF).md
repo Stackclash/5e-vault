@@ -18,7 +18,7 @@ aliases:
   - Stormspeaker
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Stormspeaker (SAF).md|Stormspeaker]]
+# [[/5. Mechanics/Bestiary/Humanoid/Stormspeaker (SAF).md|Stormspeaker]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "18"
 "ac_class": "Heavy"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "14"

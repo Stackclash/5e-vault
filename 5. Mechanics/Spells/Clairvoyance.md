@@ -11,7 +11,7 @@ tags:
   - spell/level/3rd-level
   - spell/school/divination
   - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subclass/path-of-the-ancestral-guardian
   - spell/subclass/the-great-old-one
@@ -23,7 +23,7 @@ classes:
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock (The Great Old One)
   - Warlock (The Sibyl)
   - Wizard
@@ -59,6 +59,6 @@ When you cast the spell, you choose seeing or hearing. You can use the chosen se
 
 A creature that can see the sensor (such as a creature benefiting from [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) sees a luminous, intangible orb about the size of your fist.
 
-**Classes**: [Barbarian (Path of the Ancestral Guardian)](/compendium/lists/list-spells-classes-path-of-the-ancestral-guardian-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [Barbarian (Path of the Ancestral Guardian)](/compendium/lists/list-spells-classes-path-of-the-ancestral-guardian-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 222. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

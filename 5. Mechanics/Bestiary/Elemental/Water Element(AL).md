@@ -24,7 +24,7 @@ tags:
 aliases:
   - Water Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Water Element(AL).md|Water Elemental]]
+# [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md|Water Elemental]]
 *Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.

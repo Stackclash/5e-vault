@@ -18,7 +18,7 @@ tags:
 aliases:
   - Witchlight
 ---
-# [[5. Mechanics\Bestiary\Construct\Witchlight (KPDM).md|Witchlight]]
+# [[/5. Mechanics/Bestiary/Construct/Witchlight (KPDM).md|Witchlight]]
 *Source: Deep Magic p. 299*
 
 These tiny constructs that resemble [[/5. Mechanics/Bestiary/Undead/Will O Wisp.md|will-o-wisps]] are similar to [[/5. Mechanics/Bestiary/Construct/Homuncul(US).md|homunculi]], in that they are created (from pieces of quartz) and animated by their creators rather than brought into being by the spell. [[/5. Mechanics/Classes/Wizard.md|Conjurers]] and spellcasters who concentrate on illumination and light magic are the most common masters of these constructs.

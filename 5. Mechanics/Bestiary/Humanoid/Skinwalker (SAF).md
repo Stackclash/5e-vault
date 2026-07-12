@@ -18,7 +18,7 @@ aliases:
   - Skinwalker
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Skinwalker (SAF).md|Skinwalker]]
+# [[/5. Mechanics/Bestiary/Humanoid/Skinwalker (SAF).md|Skinwalker]]
 *Source: Strongholds and Followers p. 75*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "15"
 "ac_class": "Medium"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "14"

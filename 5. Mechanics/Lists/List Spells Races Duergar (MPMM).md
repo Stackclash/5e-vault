@@ -11,4 +11,4 @@ aliases:
 ## 2nd Level
 
 - [[/5. Mechanics/Spells/Enlarge Reduce.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Invisibility.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Invisibility.md \|"PHB"]] at class level 5

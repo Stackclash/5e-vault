@@ -18,7 +18,7 @@ tags:
 aliases:
   - Vrock
 ---
-# [[5. Mechanics\Bestiary\Fiend\Vrock.md|Vrock]]
+# [[/5. Mechanics/Bestiary/Fiend/Vrock.md|Vrock]]
 *Source: Monster Manual p. 64. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Vrocks are dull-witted, capricious fiends that live only to create pain and carnage. A vrock resembles a giant hybrid of humanoid and vulture, its gnarled, bestial body and broad wings stinking of offal.
@@ -244,8 +244,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way, a\
       \ target takes 5 (1d10) poison damage at the start of each of its turns. A target\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success. Emptying a vial of holy water on the target also ends\
-      \ the effect on it."
+      \ on itself on a success. Emptying a [[/5. Mechanics/Items/Holy Water Flask.md|vial of holy water]]\
+      \ on the target also ends the effect on it."
     "name": "Spores (Recharge 6)"
   - "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
       \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\

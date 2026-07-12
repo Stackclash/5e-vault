@@ -23,7 +23,7 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 At your discretion, a legendary ([[/5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md|adult]] or [[/5. Mechanics/Bestiary/Dragon/Ancient Green Dragon.md|ancient]]) green dragon can use one or both of the following additional lair actions while in its lair:
 
 - **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombies]]. The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
-- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].  
+- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a `dice:1d20+7|noform|noparens|text(+7)` bonus to hit and deals `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].  
 
 ## Regional Effects
 _Source: Monster Manual_

@@ -14,7 +14,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/cat-domain
   - spell/subclass/chain-domain
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subclass/oath-of-conquest
   - spell/subclass/oath-of-the-annihilator
@@ -31,7 +31,7 @@ classes:
   - Paladin (Oath of the Annihilator)
   - Paladin (Oathbreaker)
   - Rogue (Arcane Trickster)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock (The Sibyl)
   - Wizard
 school: Necromancy
@@ -78,6 +78,6 @@ A [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell ends this effect.
 
 **At Higher Levels.** If you cast this spell using a spell slot of 4th level or higher, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Apocalypse Domain)](/compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oathbreaker)](/compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Apocalypse Domain)](/compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oathbreaker)](/compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

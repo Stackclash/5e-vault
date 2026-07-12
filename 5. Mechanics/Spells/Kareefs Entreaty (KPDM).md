@@ -19,7 +19,7 @@ verbal: true
 somatic: false
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take just before a creature makes a death saving throw'
 duration: Instantaneous
 range: 60 feet
 aliases:
@@ -34,7 +34,7 @@ damage:
 # Kareef's Entreaty
 *1st-level, Abjuration*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take just before a creature makes a death saving throw
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous

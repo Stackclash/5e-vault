@@ -18,7 +18,7 @@ aliases:
   - Fiendish Spirit (Demon)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Fiend\Fiendish Spirit Demon (TCE).md|Fiendish Spirit (Demon)]]
+# [[/5. Mechanics/Bestiary/Fiend/Fiendish Spirit Demon (TCE).md|Fiendish Spirit (Demon)]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "fiend"
 "alignment": "Unaligned"
 "ac_class": "12 + the level of the spell (natural armor)"
+"hp": "50 + 15 for each spell level above 6th"
 "modifier": !!int "3"
 "stats":
   - !!int "13"

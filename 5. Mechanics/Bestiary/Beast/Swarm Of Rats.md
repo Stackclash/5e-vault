@@ -22,7 +22,7 @@ tags:
 aliases:
   - Swarm of Rats
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Rats.md|Swarm of Rats]]
+# [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|Swarm of Rats]]
 *Source: Monster Manual p. 339. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!note] The Nature of Swarms

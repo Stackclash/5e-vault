@@ -9,11 +9,11 @@ tags:
   - spell/level/6th-level
   - spell/ritual
   - spell/school/abjuration
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
 classes:
   - Bard (Magical Secrets)
   - Cleric
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Abjuration
 level: 6
 ritual: true
@@ -56,6 +56,6 @@ When you cast this spell, you can designate a password. A creature that speaks t
 
 The spell's area can't overlap with the area of another forbiddance spell. If you cast forbiddance every day for 30 days in the same location, the spell lasts until it is dispelled, and the material components are consumed on the last casting.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

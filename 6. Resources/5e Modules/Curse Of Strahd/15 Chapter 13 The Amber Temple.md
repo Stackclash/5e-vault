@@ -13,7 +13,7 @@ aliases:
 
 A secret society of good-aligned wizards built the Amber Temple in the Balinok Mountains more than two thousand years ago. They needed a vault in which to contain the evil vestiges (remnants of dead, malevolent entities) they had captured and the hoard of forbidden knowledge they had amassed. They dedicated the temple to a god of secrets, whom they trusted to keep it hidden from the rest of the world until the end of time. Unfortunately for the wizards, even the will of a god couldn't prevent other evil creatures from learning the temple's location. The wizards were forced to guard the temple themselves, to keep its secrets from falling into villainous hands. The evil forces that were imprisoned within the temple eventually corrupted the wizards, turning them against one another.
 
-The wizards were dead and gone by the time an evil archmage named [[/4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] arrived at the temple. He breached the temple's wards, spoke to a vestige trapped in amber, and discovered the secret to becoming a lich. After his transformation, the lich [[/4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] took over the temple and turned the skulls of it previous defenders into flameskulls under his command. [[/4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] then took it upon himself to watch over the temple, not to hoard its evil secrets but to share them openly. Meanwhile, the evils within the temple fed on each other, growing in power.
+The wizards were dead and gone by the time an evil archmage named [[/4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] arrived at the temple. He breached the temple's wards, spoke to a vestige trapped in amber, and discovered the secret to becoming a lich. After his transformation, the lich [[/4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] took over the temple and turned the skulls of its previous defenders into flameskulls under his command. [[/4. World Almanac/NPCs/Exethanter (COS).md\|Exethanter]] then took it upon himself to watch over the temple, not to hoard its evil secrets but to share them openly. Meanwhile, the evils within the temple fed on each other, growing in power.
 
 > [!note] Extreme Cold
 > 
@@ -667,7 +667,7 @@ The amber door to this room hangs open, and the chamber reeks of death.
 > This room has amber-glazed walls and a floor of dark green marble. Three amber sarcophagi stand in alcoves. Two feral humanoids with ghastly gray skin stare at you hungrily with three eyes—two normal eyes and a third lidless eye blinded by cataracts. Five more cling to the walls and ceiling.
 ^63e
 
-The ceiling here is 10 feet high. The seven hungry [[/5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] that lair here fight to the death. The ghasts have the following additional feature:
+The ceiling here is 10 feet high. The seven [[/5. Mechanics/Bestiary/Undead/Hungry Ghast (COS).md\|hungry ghasts]] that lair here fight to the death. The ghasts have the following additional feature:
 
 ##### Spider Climb
 
@@ -886,7 +886,7 @@ Six piles of treasure are numbered on the map.
 
 - 12,000 sp (loose)  
 - Five rusted suits of ring mail and six rusted breastplates (worthless)  
-- A silvered [[/5. Mechanics/Items/Rapier.md\|rapier]] with a pink glass hilt  
+- A [[/5. Mechanics/Items/Silvered Weapon.md\|silvered rapier]] with a pink glass hilt  
 - Four rusted greatswords (worthless)  
 - A gilded chariot (worth 750 gp)  
 

@@ -13,7 +13,7 @@ Each adventuring group is bound together by the quests it embarks on and by the 
 
 During character creation, every player has the opportunity to weave connections between their character and the other members of their party. Rather than (or in addition to) creating a web of established relationships, players can work with the DM to choose a group patron. And if you're interested in being your own patron, see the "Being Your Own Patron" section at the end of the chapter.
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/059-02-001.webp#center\|"A group of wizards pledges themselves to their patron, Tasha, the Witch Queen"]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/059-02-001.webp#center\|A group of wizards pledges themselves to their patron, Tasha, the Witch Queen]]
 
 ## How Patrons Work
 
@@ -66,7 +66,7 @@ Roll or pick from the Academy Type table to determine the institution with which
 
 ![[/5. Mechanics/Tables/Academy Type (TCE).md\|Academy Type]]
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/060-02-002.webp#center\|"Wizardly boyfriends relax while their classmates practice magic at an arcane enclave"]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/060-02-002.webp#center\|Wizardly boyfriends relax while their classmates practice magic at an arcane enclave]]
 
 #### Academy Perks
 
@@ -290,7 +290,7 @@ Roll or pick from the Syndicate Contact table to determine your contact within a
 
 ![[/5. Mechanics/Tables/Criminal Syndicate Contact Syndicate Contact (TCE).md\|Criminal Syndicate Contact; Syndicate Contact]]
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/063-02-005.webp#center\|"Ott Steeltoes holds aloft Sylgar, the infamous fish of the crime lord Xanathar"]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/063-02-005.webp#center\|Ott Steeltoes holds aloft Sylgar, the infamous fish of the crime lord Xanathar]]
 
 #### Criminal Syndicate Members
 
@@ -324,7 +324,7 @@ Roll or pick from the Guild Types table to determine the general sort of organiz
 
 ![[/5. Mechanics/Tables/Guild Types (TCE).md\|Guild Types]]
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/064-02-006.webp#center\|"A hero fights the bullywug who guards the villainous master of the bakers' guild"]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/064-02-006.webp#center\|A hero fights the bullywug who guards the villainous master of the bakers' guild]]
 
 #### Guild Perks
 
@@ -390,7 +390,7 @@ Roll or pick from the Military Force Types table to determine the general type o
 
 With a military force as your group's patron, you gain the following perks.
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/065-02-007.webp#center\|"A Dragonborn Messenger of the Purple Dragon Knights"]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/065-02-007.webp#center\|A Dragonborn Messenger of the Purple Dragon Knights]]
 
 ##### Armory
 
@@ -560,7 +560,7 @@ The Sovereign Quests table presents a few of the sorts of missions you undertake
 
 ## Being Your Own Patron
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/068-02-010.webp#center\|"In the city of Sigil, Guildmaster Rhys realizes that finding capable recruits is one of the main challenges of being a patron"]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/068-02-010.webp#center\|In the city of Sigil, Guildmaster Rhys realizes that finding capable recruits is one of the main challenges of being a patron]]
 
 For some players, the idea of running a crime syndicate, mercenary company, arcane scholars' collective, or other organization is far more exciting than working for someone else. Founding your own organization offers a greater degree of autonomy, though potentially at the cost of support and reliable work.
 

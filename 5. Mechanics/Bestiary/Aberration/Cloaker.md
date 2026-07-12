@@ -20,7 +20,7 @@ tags:
 aliases:
   - Cloaker
 ---
-# [[5. Mechanics\Bestiary\Aberration\Cloaker.md|Cloaker]]
+# [[/5. Mechanics/Bestiary/Aberration/Cloaker.md|Cloaker]]
 *Source: Monster Manual p. 41. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.
@@ -72,7 +72,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
 "cr": "8"
 "traits":
   - "desc": "While attached to a creature, the cloaker takes only half the damage\
-      \ dealt to it (rounded down). and that creature takes the other half."
+      \ dealt to it (rounded down), and that creature takes the other half."
     "name": "Damage Transfer"
   - "desc": "While the cloaker remains motionless without its underside exposed, it\
       \ is indistinguishable from a dark leather cloak."

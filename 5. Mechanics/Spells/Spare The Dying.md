@@ -14,7 +14,7 @@ tags:
   - spell/optfeature/pact-of-the-tome
   - spell/school/necromancy
   - spell/subclass/death-domain
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/grave-domain
 classes:
   - Artificer
@@ -22,7 +22,7 @@ classes:
   - Cleric
   - Cleric (Death Domain)
   - Cleric (Grave Domain)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Necromancy
 level: 0
 ritual: false
@@ -47,6 +47,6 @@ aliases:
 
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -23,7 +23,7 @@ title: Apparatus of Kwalish
 - **Creature Capacity** 1 crew, 1 passenger
 - **Armor Class** 20
 - **Hit Points** 200
-- **Speed** 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)
+- **Speed** 30 ft., swim 30 ft. (or 0 ft. for both if the legs aren't extended)
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|

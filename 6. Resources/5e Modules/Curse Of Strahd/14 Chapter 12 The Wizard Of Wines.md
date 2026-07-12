@@ -71,7 +71,7 @@ Davian's group includes the following people:
 - Stefania, his adult daughter  
 - Dag Tomescu, Stefania's husband  
 
-All five are members of the Keepers of the Feather (see chapter 5, area N2). Also present are Stefania and Dag's four children: a teenage son named Claudiu, two young boys named Martin and Viggo, and a baby girl named Yolanda. The three youngest children are noncombatants; the boys are wereravens with 7 hit points each, and Yolanda is effectively a human with 1 hit point (she can't assume other forms yet).
+All five are members of the Keepers of the Feather (see chapter 5, area N2). Also present are Stefania and Dag's four children: a teenage son named Claudiu, two young boys named Martin and Viggo, and a baby girl named Yolanda. The three youngest children are noncombatants; the boys are [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereravens]] with 7 hit points each, and Yolanda is effectively a human with 1 hit point (she can't assume other forms yet).
 
 If the characters come to the vineyard looking to obtain wine, Adrian can confirm that there are three barrels in the loading dock (area W2), plus another three barrels and several wine bottles in the cellar (area W14). There is more wine still fermenting (area W9).
 

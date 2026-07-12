@@ -17,7 +17,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/light-domain
   - spell/subclass/the-fiend
-  - spell/subclass/the-genie/efreeti
+  - spell/subclass/the-genie
   - spell/subclass/way-of-the-sun-soul
   - spell/subrace/genasi-fire
   - spell/subrace/tiefling-mephistopheles
@@ -30,7 +30,7 @@ classes:
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Warlock (The Fiend)
-  - 'Warlock (The Genie, Efreeti)'
+  - Warlock (The Genie)
   - Wizard
 school: Evocation
 level: 1
@@ -75,6 +75,6 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Monk (Way of the Sun Soul)](/compendium/lists/list-spells-classes-way-of-the-sun-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [Warlock (The Genie, Efreeti)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Monk (Way of the Sun Soul)](/compendium/lists/list-spells-classes-way-of-the-sun-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

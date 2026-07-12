@@ -18,7 +18,7 @@ tags:
 aliases:
   - Loup Garou
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Loup Garou (VRGR).md|Loup Garou]]
+# [[/5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md|Loup Garou]]
 *Source: Van Richten's Guide to Ravenloft p. 237*
 
 Loup garou possess a strain of lycanthropy more virulent than that carried by common werewolves. Aside from being deadlier than their werewolf cousins, loup garou aggressively spread the plague of lycanthropy. Only through the death of a loup garou might those afflicted by it escape their curse.
@@ -82,7 +82,7 @@ Once a loup garou is slain, a [[/5. Mechanics/Spells/Remove Curse.md|remove curs
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) piercing damage plus 14 (4d6) necrotic damage. If the target is\
       \ a Humanoid, it must succeed on a DC 17 Constitution saving throw or be cursed\
-      \ with loup garou lycanthropy."
+      \ with loup garou [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]."
     "name": "Bite (Dire Wolf or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage. If the target is a creature, it must succeed on\

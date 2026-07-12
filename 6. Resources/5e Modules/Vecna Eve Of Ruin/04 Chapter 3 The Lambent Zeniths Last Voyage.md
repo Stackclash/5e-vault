@@ -9,7 +9,7 @@ aliases:
 # Chapter 3: The Lambent Zenith's Last Voyage
 *Source: Vecna: Eve of Ruin, p. 57* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/046-03-001-the-lambent-zenith.webp#center\|"The spelljamming ship Lambent Zenith was carrying a piece of the rod before the ship crashed in the Astral Sea"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/046-03-001-the-lambent-zenith.webp#center\|The spelljamming ship Lambent Zenith was carrying a piece of the rod before the ship crashed in the Astral Sea]]
 
 The hunt for the second piece of the Rod of Seven Parts brings the characters to the starry void of the Astral Plane. Within its silvery depths, alien predators lurk in silence and fallen gods lie in stasis. Adventurers known across the multiverse as spelljammers gallivant through space in ships powered by magic.
 
@@ -70,7 +70,7 @@ If the characters ask about the location the rod piece points to, Alustriel dete
 
 ## Into the Astral Sea
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/047-03-002-star-anglers.webp#center\|"The Astral Sea is home to many terrifying predators, including star anglers"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/047-03-002-star-anglers.webp#center\|The Astral Sea is home to many terrifying predators, including star anglers]]
 
 When the characters step through the portal to the Astral Sea to pursue the second rod piece, read or paraphrase the following:
 
@@ -238,7 +238,7 @@ Ilren welcomes the characters to explore the *Lambent Zenith*'s wreck and make t
 
 Ilren doesn't reveal its true form unless attacked.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/051-03-003-lysan-and-zastra.webp#center\|"Lysan and Zastra are wary of strangers but glad for friendly company"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/051-03-003-lysan-and-zastra.webp#center\|Lysan and Zastra are wary of strangers but glad for friendly company]]
 
 #### Z2: Upper Crew Quarters
 
@@ -342,7 +342,7 @@ Loose floorboards on the room's port side can be pried up, allowing access to th
 
 #### Z8: Stateroom
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/054-03-004-figaro.webp#center\|"The Lambent Zenith's first mate, Figaro, is experiencing the effects of a Modify Memory spell"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/054-03-004-figaro.webp#center\|The Lambent Zenith's first mate, Figaro, is experiencing the effects of a Modify Memory spell]]
 
 > [!readaloud] 
 > 
@@ -412,7 +412,7 @@ Redbud remains silent and motionless until a creature attempts to enter the segm
 
 If the characters question the treant's sincerity, Redbud admits to the deception. Redbud explains that a dear friend is trapped below, and the treant's roots are protecting this friend from being eaten by the monsters nesting on the lower deck. Redbud implores the characters to clear out the nest, allowing the characters to proceed further only if they agree.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/056-03-005-redbud.webp#center\|"A treant named Redbud lives in a lifeboat that crashed into the Lambent Zenith"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/056-03-005-redbud.webp#center\|A treant named Redbud lives in a lifeboat that crashed into the Lambent Zenith]]
 
 #### Z11: Grell Nest
 
@@ -480,7 +480,7 @@ The mast blocks the entrance to the navigation room (area Z16). The door to the 
 
 #### Z15: Captain's Quarters
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/057-03-006-captain-inda-malayuri.webp#center\|"Captain Inda Malayuri survived the crash of the Lambent Zenith but now must fix her prosthetic wing"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/057-03-006-captain-inda-malayuri.webp#center\|Captain Inda Malayuri survived the crash of the Lambent Zenith but now must fix her prosthetic wing]]
 
 > [!readaloud] 
 > 
@@ -598,7 +598,7 @@ The heart absorbed detritus from the wreckage of the Lambent Zenith's safe room 
 
 #### A2: Ventricle Chamber
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/060-03-007-hertilod.webp#center\|"Deep in the heart of Havock lurks a creature called a hertilod, which has swallowed a piece of the Rod of Seven Parts"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/060-03-007-hertilod.webp#center\|Deep in the heart of Havock lurks a creature called a hertilod, which has swallowed a piece of the Rod of Seven Parts]]
 
 > [!readaloud] 
 > 

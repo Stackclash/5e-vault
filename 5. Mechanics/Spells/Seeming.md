@@ -11,13 +11,13 @@ tags:
   - spell/school/illusion
   - spell/subclass/gloom-stalker
   - spell/subclass/the-archfey
-  - spell/subclass/the-genie/djinni
+  - spell/subclass/the-genie
 classes:
   - Bard (Magical Secrets)
   - Ranger (Gloom Stalker)
   - Sorcerer
   - Warlock (The Archfey)
-  - 'Warlock (The Genie, Djinni)'
+  - Warlock (The Genie)
   - Wizard
 school: Illusion
 level: 5
@@ -53,6 +53,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature can use its action to inspect a target and make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Ranger (Gloom Stalker)](/compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [Warlock (The Genie, Djinni)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Ranger (Gloom Stalker)](/compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

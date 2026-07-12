@@ -10,7 +10,7 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Produce Flame.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Produce Flame.md \|"PHB"]] as cantrip
 
 ## 1st Level
 
@@ -18,4 +18,4 @@ aliases:
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Flame Blade.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Flame Blade.md \|"PHB"]] at class level 5

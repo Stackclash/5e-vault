@@ -20,7 +20,7 @@ tags:
 aliases:
   - Acolyte
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Acolyte.md|Acolyte]]
+# [[/5. Mechanics/Bestiary/Humanoid/Acolyte.md|Acolyte]]
 *Source: Monster Manual p. 342. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
@@ -55,7 +55,7 @@ Acolytes are junior members of a clergy, usually answerable to a priest. They pe
 "cr": "1/4"
 "traits":
   - "desc": "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
-      \ (spell save DC 12, +4 to hit with spell attacks). The acolyte has following\
+      \ (spell save DC 12, +4 to hit with spell attacks). The acolyte has the following\
       \ cleric spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Light.md|light]],\
       \ [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
       \n**1st level (3 slots):** [[/5. Mechanics/Spells/Bless.md|bless]], [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\

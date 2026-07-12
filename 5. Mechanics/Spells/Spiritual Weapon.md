@@ -8,7 +8,7 @@ tags:
   - spell/class/cleric
   - spell/level/2nd-level
   - spell/school/evocation
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/life-domain
   - spell/subclass/oath-of-conquest
   - spell/subclass/war-domain
@@ -18,7 +18,7 @@ classes:
   - Cleric (Life Domain)
   - Cleric (War Domain)
   - Paladin (Oath of Conquest)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Evocation
 level: 2
 ritual: false
@@ -56,6 +56,6 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for every two slot levels above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[/5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[/5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

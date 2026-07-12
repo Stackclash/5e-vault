@@ -18,7 +18,7 @@ aliases:
   - Elemental Acolyte
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Elemental Acolyte (SAF).md|Elemental Acolyte]]
+# [[/5. Mechanics/Bestiary/Humanoid/Elemental Acolyte (SAF).md|Elemental Acolyte]]
 *Source: Strongholds and Followers p. 76*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "15"
 "ac_class": "Medium"
+"hp": "health levels equal to their level"
 "modifier": !!int "4"
 "stats":
   - !!int "14"

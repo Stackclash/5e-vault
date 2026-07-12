@@ -42,7 +42,7 @@ verbal: true
 somatic: false
 material: true
 material_desc: a small feather or a piece of down
-time: 1 Reaction
+time: '1 Reaction, which you take when you or a creature within 60 feet of you fall'
 duration: 1 minute
 range: 60 feet
 aliases:
@@ -51,7 +51,7 @@ aliases:
 # Feather Fall
 *1st-level, Transmutation*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you or a creature within 60 feet of you fall
 - **Range:** 60 feet
 - **Components:** V, M (a small feather or a piece of down)
 - **Duration:** 1 minute

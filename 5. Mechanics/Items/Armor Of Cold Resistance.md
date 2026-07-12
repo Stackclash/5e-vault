@@ -42,6 +42,7 @@ item_recharge: none
 ---
 # Armor of Cold Resistance
 *Major, rare (requires attunement)*  
+![[/5. Mechanics/Items/img/armor-of-cold-resistance.webp#right\|Armor of resistance (Leather Armor), Armor of invulnerability (Plate Armor)]]  
 
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})

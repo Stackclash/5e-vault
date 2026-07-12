@@ -11,12 +11,12 @@ tags:
   - spell/optfeature/blessed-warrior
   - spell/optfeature/pact-of-the-tome
   - spell/school/evocation
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/the-celestial
 classes:
   - Bard (Magical Secrets)
   - Cleric
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock (The Celestial)
 school: Evocation
 level: 0
@@ -56,6 +56,6 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 The spell's damage increases by `dice:1d8|noform|noparens|avg` (`1d8`) when you reach 5th level (`dice:2d8|noform|noparens|avg` (`2d8`)), 11th level (`dice:3d8|noform|noparens|avg` (`3d8`)), and 17th level (`dice:4d8|noform|noparens|avg` (`4d8`)).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

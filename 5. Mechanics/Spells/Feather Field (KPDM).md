@@ -27,7 +27,9 @@ verbal: true
 somatic: true
 material: true
 material_desc: fletching from an arrow
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you are targeted by a ranged attack from a
+  magic weapon but before the attack roll is made
 duration: 1 round
 range: Self
 aliases:
@@ -42,7 +44,7 @@ damage:
 # Feather Field
 *1st-level, Abjuration*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you are targeted by a ranged attack from a magic weapon but before the attack roll is made
 - **Range:** Self
 - **Components:** V, S, M (fletching from an arrow)
 - **Duration:** 1 round

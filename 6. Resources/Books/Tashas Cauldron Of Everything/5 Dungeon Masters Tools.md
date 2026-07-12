@@ -13,7 +13,7 @@ The Dungeon Master employs many tools when preparing and running a D&D campaign.
 
 The tools herein build on the material in the "Dungeon Master's Guide" and the "Monster Manual". You may use some, all, or none of these tools, and feel free to customize how they work. Your group's enjoyment is paramount, so make these rules your own, aiming to match your group's tastes.
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/090-04-001.webp#center\|"Tasha prepares to win another game of wizardly chess against her rival Mordenkainen."]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/090-04-001.webp#center\|Tasha prepares to win another game of wizardly chess against her rival Mordenkainen.]]
 
 ## Session Zero
 
@@ -51,7 +51,7 @@ You might need to help the player run the sidekick for the first few sessions an
 - Sidekicks are stalwart companions who can perform tasks both in and out of combat, including things such as setting up camp and carrying gear.  
 - Ideally, a sidekick's abilities should complement those of the main character. For example, a spellcaster makes a good sidekick for a fighter or rogue.  
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/091-04-002.webp#center\|"During a festival below one of the walking statues of Waterdeep, young friends dream of embarking on adventures together."]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/091-04-002.webp#center\|During a festival below one of the walking statues of Waterdeep, young friends dream of embarking on adventures together.]]
 
 ### Social Contract
 
@@ -84,7 +84,7 @@ While session zero is the perfect place to start this discussion, it might not b
 
 ### Game Customization
 
-In addition to shaping the game around the characters in the adventuring party, you should be prepared to customize the game to suit the players' tastes. The ""Know Your Players"" section in the introduction of the "Dungeon Master's Guide" provides some guidance for doing so, based on known player archetypes. To help identity what types of players are in the group, you can ask each player any or all of the following questions:
+In addition to shaping the game around the characters in the adventuring party, you should be prepared to customize the game to suit the players' tastes. The ""Know Your Players"" section in the introduction of the "Dungeon Master's Guide" provides some guidance for doing so, based on known player archetypes. To help identify what types of players are in the group, you can ask each player any or all of the following questions:
 
 - Which of the three pillars of adventuring (combat, exploration, roleplaying) interest you the most?  
 - How much humor do you like in the game?  
@@ -160,9 +160,9 @@ If it's unclear whether a melee attack in the stat block uses Strength or Dexter
 - [[/5. Mechanics/Classes/Warrior Sidekick (TCE).md\|Warrior Sidekick]]  
 
 > [!gallery]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/092-04-003.webp#gallery\|"Experts, Left to Right: a Tortle, a Winged Kobold, and a Kenku"]]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/093-04-004.webp#gallery\|"Spellcasters, Left to Right: a Bullywug, a Goblin, and a Tabaxi"]]
-> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/094-04-005.webp#gallery\|"Warriors, Left to Right: an Aasimar, a Firbolg, and a Wolf"]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/092-04-003.webp#gallery\|Experts, Left to Right: a Tortle, a Winged Kobold, and a Kenku]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/093-04-004.webp#gallery\|Spellcasters, Left to Right: a Bullywug, a Goblin, and a Tabaxi]]
+> ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/094-04-005.webp#gallery\|Warriors, Left to Right: an Aasimar, a Firbolg, and a Wolf]]
 
 ## Parleying with Monsters
 
@@ -324,7 +324,7 @@ Consider rolling on the Psychic Resonance Effects table when the following circu
 - A creature becomes [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].  
 - A creature experiences telepathic communication.  
 
-![[/6. Resources/Books/Tashas Cauldron Of Everything/img/101-04-012.webp#center\|"Animals converse after gaining sapience from ambient psychic energy."]]
+![[/6. Resources/Books/Tashas Cauldron Of Everything/img/101-04-012.webp#center\|Animals converse after gaining sapience from ambient psychic energy.]]
 
 ![[/5. Mechanics/Tables/Psychic Resonance Effects (TCE).md\|Psychic Resonance Effects]]
 
@@ -463,7 +463,7 @@ As an action, a creature can eat a piece of primal fruit to gain its effects. Th
 
 #### Unearthly Roads
 
-Currents of magic run through the world—invisible, artery-like networks that exert subtle influence and connect disparate lands. The greatest of these magical streams are persistent paths, often known by colloquial names or simply as unearthly roads. An unearthly road acts like a sort of planar portal that stretches from one place to another, be they sites on the same world or on different planes of existence. Unearthly roads allow creatures to cross great distances rapidly, moving from an entrance gate to an exit gate or visa versa. These paths operate like long tunnels, and a creature that travels on an unearthly road progresses 21 miles of distance in the time it would normally take it to travel 1 mile. While on the road, glimpses of the world beyond might be visible in blurred or distorted visions of scenery or especially prominent landmarks. Creatures or specific details are not visible beyond an unearthly road.
+Currents of magic run through the world—invisible, artery-like networks that exert subtle influence and connect disparate lands. The greatest of these magical streams are persistent paths, often known by colloquial names or simply as unearthly roads. An unearthly road acts like a sort of planar portal that stretches from one place to another, be they sites on the same world or on different planes of existence. Unearthly roads allow creatures to cross great distances rapidly, moving from an entrance gate to an exit gate or vice versa. These paths operate like long tunnels, and a creature that travels on an unearthly road progresses 21 miles of distance in the time it would normally take it to travel 1 mile. While on the road, glimpses of the world beyond might be visible in blurred or distorted visions of scenery or especially prominent landmarks. Creatures or specific details are not visible beyond an unearthly road.
 
 Some unearthly roads serve as trade routes or secret connections between distant lands. Others shift locations at noteworthy times or in response to external phenomena, like on specific anniversaries or in response to the phases of the moon. Some might also require a particular item, ritual, or action to open their gates. The Unearthly Road Keys table offers suggestions on how to enter an unearthly road.
 

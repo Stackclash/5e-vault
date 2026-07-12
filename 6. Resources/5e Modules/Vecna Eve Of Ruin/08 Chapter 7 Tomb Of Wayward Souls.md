@@ -9,7 +9,7 @@ aliases:
 # Chapter 7: Tomb of Wayward Souls
 *Source: Vecna: Eve of Ruin, p. 131* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/106-07-001-the-tomb-of-wayward-souls.webp#center\|"The next rod piece lurks deep in the deadly Tomb of Wayward Souls"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/106-07-001-the-tomb-of-wayward-souls.webp#center\|The next rod piece lurks deep in the deadly Tomb of Wayward Souls]]
 
 Retrieving the sixth piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] leads the characters to a chain of tropical islands on the world of Oerth. There, the party must plumb the depths of a deadly complex called the Tomb of Wayward Souls, which was built to lure in and slay treasure-seekers. This labyrinthine maze of deadly traps was crafted by the diabolical archlich Acererak, who takes perverse pleasure in littering his dungeons with the bones of defeated adventurers.
 
@@ -268,7 +268,7 @@ When a creature standing within 5 feet of the relief casts a spell using a spell
 
 #### T5: Cave of Seven Casks
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/114-07-003-seven-casks.webp#center\|"A cryptic message written in Celestial provides clues about how to use the seven casks in a nearby cave"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/114-07-003-seven-casks.webp#center\|A cryptic message written in Celestial provides clues about how to use the seven casks in a nearby cave]]
 
 > [!readaloud] 
 > 
@@ -485,7 +485,7 @@ Contained within the box is a delicate gold ring engraved with geometric star de
 
 #### T14: Juggernaut Arena
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/116-07-005-granite-juggernauts.webp#center\|"Anyone who wanders into the tomb's arena must contend with granite juggernauts"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/116-07-005-granite-juggernauts.webp#center\|Anyone who wanders into the tomb's arena must contend with granite juggernauts]]
 
 > [!readaloud] 
 > 
@@ -544,7 +544,7 @@ If one or more characters enter the room, read the following:
 
 The central statue uses the [[/5. Mechanics/Bestiary/Fiend/Marilith.md\|marilith]] stat block but is a Construct. This central statue controls the two cobra statues; each cobra statue uses the [[/5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md\|spirit naga]] stat block but is a Construct. The statues speak Common. The statues are hostile toward any creature that enters the chamber.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/117-07-006-sword-of-sharpness.webp#center\|"Sword of Sharpness (scimitar"]] with a snake-shaped pommel")
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/117-07-006-sword-of-sharpness.webp#center\|Sword of Sharpness (scimitar) with a snake-shaped pommel]]
 
 ##### Appeasing the Statues
 
@@ -589,7 +589,7 @@ Alternatively, a character can place one of their arms into a mask's open mouth.
 > Shelves filled with tomes and scrolls line the walls of this expansive chamber. Five stone statues depicting skeletal warriors stand sentinel throughout the room.
 ^3cd
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/118-07-007-manual-of-bodily-health.webp#center\|"A Manual of Bodily Healthy written on engraved copper sheets"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/118-07-007-manual-of-bodily-health.webp#center\|A Manual of Bodily Healthy written on engraved copper sheets]]
 
 ##### Guardians
 
@@ -755,7 +755,7 @@ Rerak carries two keys: a platinum key shaped like a skeleton that unlocks the d
 
 If the characters convinced Rerak to turn against his creator, Rerak provides the keys willingly.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/120-07-008-rerak.webp#center\|"The false lich Rerak is a terrifying sight to behold"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/120-07-008-rerak.webp#center\|The false lich Rerak is a terrifying sight to behold]]
 
 #### T27: Crypt Vault
 

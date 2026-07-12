@@ -22,7 +22,7 @@ tags:
 aliases:
   - Centaur
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Centaur.md|Centaur]]
+# [[/5. Mechanics/Bestiary/Monstrosity/Centaur.md|Centaur]]
 *Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast wilderness, keeping far from borders, laws, and the company of other creatures.

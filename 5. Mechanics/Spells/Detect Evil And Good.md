@@ -11,14 +11,14 @@ tags:
   - spell/feat/magic-initiate/cleric-spells
   - spell/level/1st-level
   - spell/school/divination
-  - spell/subclass/divine-soul/good
-  - spell/subclass/the-genie/dao
+  - spell/subclass/divine-soul
+  - spell/subclass/the-genie
 classes:
   - Bard (Magical Secrets)
   - Cleric
   - Paladin
-  - 'Sorcerer (Divine Soul, Good)'
-  - 'Warlock (The Genie, Dao)'
+  - Sorcerer (Divine Soul)
+  - Warlock (The Genie)
 school: Divination
 level: 1
 ritual: false
@@ -45,6 +45,6 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Genie, Dao)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
 
 *Source: Player's Handbook p. 231. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

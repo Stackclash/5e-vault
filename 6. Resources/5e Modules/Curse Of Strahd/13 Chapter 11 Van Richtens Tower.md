@@ -75,7 +75,7 @@ A character inside the wagon spots the trap automatically (no ability check requ
 
 The interior of the wagon contains the following items:
 
-- A wooden trunk covered with claw marks that holds a [[/5. Mechanics/Items/Battleaxe.md\|battleaxe]], a [[/5. Mechanics/Items/Flail.md\|flail]], a [[/5. Mechanics/Items/Morningstar.md\|morningstar]], a [[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]], and 10 silvered crossbow bolts  
+- A wooden trunk covered with claw marks that holds a [[/5. Mechanics/Items/Battleaxe.md\|battleaxe]], a [[/5. Mechanics/Items/Flail.md\|flail]], a [[/5. Mechanics/Items/Morningstar.md\|morningstar]], a [[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]], and 10 [[/5. Mechanics/Items/Silvered Ammunition.md\|silvered crossbow bolts]]  
 - A narrow wardrobe containing three sets of [[/5. Mechanics/Items/Fine Clothes.md\|fine clothes]], two sets of [[/5. Mechanics/Items/Travelers Clothes.md\|traveler's clothes]], several pairs of shoes, a harlequin mask, and three wigs  
 - A [[/5. Mechanics/Items/Climbers Kit.md\|climber's kit]], a [[/5. Mechanics/Items/Disguise Kit.md\|disguise kit]], a [[/5. Mechanics/Items/Healers Kit.md\|healer's kit]], and a [[/5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]]  
 - A lyre with golden strings (worth 50 gp)  

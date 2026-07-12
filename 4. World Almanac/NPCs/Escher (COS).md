@@ -178,8 +178,8 @@ return function View() {
 "traits":
   - "desc": "Escher regains 10 hit points at the start of its turn if it has at least\
       \ 1 hit point and isn't in sunlight or running water. If Escher takes radiant\
-      \ damage or damage from holy water, this trait doesn't function at the start\
-      \ of Escher's next turn."
+      \ damage or damage from [[/5. Mechanics/Items/Holy Water Flask.md|holy water]],\
+      \ this trait doesn't function at the start of Escher's next turn."
     "name": "Regeneration"
   - "desc": "Escher can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."

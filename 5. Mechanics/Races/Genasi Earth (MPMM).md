@@ -45,6 +45,12 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 ## Description
 
+Tracing their ancestry to dao, the genies of the Elemental Plane of Earth, earth genasi inherit dao's steadfast strength and control over earth.
+
+An earth genasi's skin can be the colors of stone and earth or a human skin tone with glittering sparkles like gem dust. Some earth genasi have lines marking their skin like cracks, either showing glimmering gemlike veins or a dim, yellowish glow. Earth genasi hair can appear carved of stone or crystal or resemble strands of spun metal.
+
+### Genasi
+
 Tracing their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. Air, earth, fire, and water—these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie's magic.
 
 A typical genasi has a life span of 120 years.

@@ -31,7 +31,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when an ally declares an attack against an enemy
+  you can see
 duration: Instantaneous
 range: 30 feet
 aliases:
@@ -44,7 +46,7 @@ saving_throw:
 # Distraction Cascade
 *2nd-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an ally declares an attack against an enemy you can see
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

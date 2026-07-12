@@ -17,8 +17,8 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/oath-of-radiance
   - spell/subclass/the-fiend
+  - spell/subclass/the-genie
   - spell/subclass/the-genie-lord
-  - spell/subclass/the-genie/efreeti
   - spell/subclass/the-valiant
 classes:
   - Artificer (Armorer)
@@ -32,7 +32,7 @@ classes:
   - Sorcerer
   - Warlock (The Fiend)
   - Warlock (The Genie Lord)
-  - 'Warlock (The Genie, Efreeti)'
+  - Warlock (The Genie)
   - Warlock (The Valiant)
   - Wizard
 school: Evocation
@@ -74,6 +74,6 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `dice:2d8|noform|noparens|avg` (`2d8`) fire damage from a warm shield, or `dice:2d8|noform|noparens|avg` (`2d8`) cold damage from a cold shield.
 
-**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Artificer (Battle Smith)](/compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [Warlock (The Genie Lord)](/compendium/lists/list-spells-classes-the-genie-lord-kpdm.md "subclass=KPDM"); [Warlock (The Genie, Efreeti)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Warlock (The Valiant)](/compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Artificer (Battle Smith)](/compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [Warlock (The Genie Lord)](/compendium/lists/list-spells-classes-the-genie-lord-kpdm.md "subclass=KPDM"); [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Warlock (The Valiant)](/compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

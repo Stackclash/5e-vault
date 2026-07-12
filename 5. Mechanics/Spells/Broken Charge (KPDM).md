@@ -26,7 +26,7 @@ verbal: true
 somatic: false
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take when an enemy approaches to within 5 feet of you'
 duration: Instantaneous
 range: 5 feet
 aliases:
@@ -46,7 +46,7 @@ saving_throw:
 # Broken Charge
 *1st-level, Enchantment*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy approaches to within 5 feet of you
 - **Range:** 5 feet
 - **Components:** V
 - **Duration:** Instantaneous

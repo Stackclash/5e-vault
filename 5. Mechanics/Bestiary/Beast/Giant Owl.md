@@ -24,7 +24,7 @@ tags:
 aliases:
   - Giant Owl
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Owl.md|Giant Owl]]
+# [[/5. Mechanics/Bestiary/Beast/Giant Owl.md|Giant Owl]]
 *Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.

@@ -10,18 +10,18 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md \|"HHHVII"]] at class level 7
-- [[/5. Mechanics/Spells/Identify Vitals (HHHVII).md \|"HHHVII"]] at class level 7
+- [[/5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md \|"HHHVII"]]
+- [[/5. Mechanics/Spells/Identify Vitals (HHHVII).md \|"HHHVII"]]
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Locate Animals Or Plants.md \|"PHB"]] at class level 7
-- [[/5. Mechanics/Spells/Transfusion (HHHVII).md \|"HHHVII"]] at class level 7
+- [[/5. Mechanics/Spells/Locate Animals Or Plants.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Transfusion (HHHVII).md \|"HHHVII"]] at class level 3
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Recomposition (HHHVII).md \|"HHHVII"]] at class level 7
-- [[/5. Mechanics/Spells/Slow.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Recomposition (HHHVII).md \|"HHHVII"]] at class level 5
+- [[/5. Mechanics/Spells/Slow.md \|"PHB"]] at class level 5
 
 ## 4th Level
 
@@ -30,5 +30,5 @@ aliases:
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Conjure Creature (HHHVII).md \|"HHHVII"]] at class level 7
-- [[/5. Mechanics/Spells/Hold Monster.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Conjure Creature (HHHVII).md \|"HHHVII"]] at class level 9
+- [[/5. Mechanics/Spells/Hold Monster.md \|"PHB"]] at class level 9

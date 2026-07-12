@@ -10,13 +10,13 @@ tags:
   - spell/class/sorcerer
   - spell/level/8th-level
   - spell/school/evocation
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
 classes:
   - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Sorcerer
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Evocation
 level: 8
 ritual: false
@@ -74,6 +74,6 @@ The tremor deals 50 bludgeoning damage to any structure in contact with the grou
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

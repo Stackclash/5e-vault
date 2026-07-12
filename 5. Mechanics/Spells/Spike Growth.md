@@ -13,7 +13,7 @@ tags:
   - spell/subclass/greenleaf-college
   - spell/subclass/hedge-mage
   - spell/subclass/nature-domain
-  - spell/subclass/the-genie/dao
+  - spell/subclass/the-genie
 classes:
   - Bard (Greenleaf College)
   - Bard (Magical Secrets)
@@ -21,7 +21,7 @@ classes:
   - Druid
   - 'Druid (Circle of the Land, Arctic)'
   - Ranger
-  - 'Warlock (The Genie, Dao)'
+  - Warlock (The Genie)
   - Wizard (Hedge Mage)
 school: Transmutation
 level: 2
@@ -59,6 +59,6 @@ The ground in a 20-foot radius centered on a point within range twists and sprou
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Arctic)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Warlock (The Genie, Dao)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Arctic)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

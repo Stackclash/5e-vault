@@ -21,7 +21,9 @@ verbal: true
 somatic: true
 material: true
 material_desc: a tiny silver cage worth 100 gp
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when a humanoid you can see within 60 feet of you
+  die
 duration: 8 hours
 range: 60 feet
 aliases:
@@ -36,7 +38,7 @@ damage:
 # Soul Cage
 *6th-level, Necromancy*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when a humanoid you can see within 60 feet of you die
 - **Range:** 60 feet
 - **Components:** V, S, M (a tiny silver cage worth 100 gp)
 - **Duration:** 8 hours

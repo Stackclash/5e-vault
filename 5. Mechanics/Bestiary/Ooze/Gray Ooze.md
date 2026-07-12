@@ -20,7 +20,7 @@ tags:
 aliases:
   - Gray Ooze
 ---
-# [[5. Mechanics\Bestiary\Ooze\Gray Ooze.md|Gray Ooze]]
+# [[/5. Mechanics/Bestiary/Ooze/Gray Ooze.md|Gray Ooze]]
 *Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.

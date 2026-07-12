@@ -20,7 +20,7 @@ tags:
 aliases:
   - Drow Mage
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Mage.md|Drow Mage]]
+# [[/5. Mechanics/Bestiary/Humanoid/Drow Mage.md|Drow Mage]]
 *Source: Monster Manual p. 129*
 
 ## Drow

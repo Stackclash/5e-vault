@@ -20,7 +20,7 @@ tags:
 aliases:
   - Flameskull
 ---
-# [[5. Mechanics\Bestiary\Undead\Flameskull.md|Flameskull]]
+# [[/5. Mechanics/Bestiary/Undead/Flameskull.md|Flameskull]]
 *Source: Monster Manual p. 134. Available in the Basic Rules (2014)*
 
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
@@ -96,8 +96,9 @@ A flameskull doesn't require air, food, drink, or sleep
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "If the flameskull is destroyed, it regains all its hit points in 1 hour\
-      \ unless holy water is sprinkled on its remains or a [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\
-      \ or [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell is cast on them."
+      \ unless [[/5. Mechanics/Items/Holy Water Flask.md|holy water]] is sprinkled on\
+      \ its remains or a [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]] or [[/5. Mechanics/Spells/Remove Curse.md|remove\
+      \ curse]] spell is cast on them."
     "name": "Rejuvenation"
 "actions":
   - "desc": "The flameskull uses Fire Ray twice."

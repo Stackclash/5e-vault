@@ -15,20 +15,20 @@ aliases:
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Nystuls Magic Aura.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Nystuls Magic Aura.md \|"PHB"]] at class level 5
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Dispel Magic.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Slow.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Dispel Magic.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Slow.md \|"PHB"]] at class level 9
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Dimension Door.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Dimension Door.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md \|"PHB"]] at class level 13
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Dominate Person.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Scrying.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Dominate Person.md \|"PHB"]] at class level 17
+- [[/5. Mechanics/Spells/Scrying.md \|"PHB"]] at class level 17

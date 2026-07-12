@@ -18,7 +18,7 @@ aliases:
   - Undead Spirit (Putrid)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Undead\Undead Spirit Putrid (TCE).md|Undead Spirit (Putrid)]]
+# [[/5. Mechanics/Bestiary/Undead/Undead Spirit Putrid (TCE).md|Undead Spirit (Putrid)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "undead"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "30 + 10 for each spell level above 3rd"
 "modifier": !!int "3"
 "stats":
   - !!int "12"

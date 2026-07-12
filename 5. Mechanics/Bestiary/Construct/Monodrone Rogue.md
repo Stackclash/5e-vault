@@ -18,7 +18,7 @@ tags:
 aliases:
   - Monodrone (Rogue)
 ---
-# [[5. Mechanics\Bestiary\Construct\Monodrone Rogue.md|Monodrone (Rogue)]]
+# [[/5. Mechanics/Bestiary/Construct/Monodrone Rogue.md|Monodrone (Rogue)]]
 *Source: Monster Manual p. 224*
 
 ```statblock

@@ -10,8 +10,8 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Proselytize (KPDM).md \|"KPDM"]] at class level 5
-- [[/5. Mechanics/Spells/Ray Of Sickness.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Proselytize (KPDM).md \|"KPDM"]] at class level 3
+- [[/5. Mechanics/Spells/Ray Of Sickness.md \|"PHB"]] at class level 3
 
 ## 2nd Level
 
@@ -20,15 +20,15 @@ aliases:
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Bestow Curse.md \|"PHB"]] at class level 5
-- [[/5. Mechanics/Spells/Phantom Steed.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Bestow Curse.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Phantom Steed.md \|"PHB"]] at class level 9
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Blight.md \|"PHB"]] at class level 5
-- [[/5. Mechanics/Spells/Caustic Waste (KPDM).md \|"KPDM"]] at class level 5
+- [[/5. Mechanics/Spells/Blight.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Caustic Waste (KPDM).md \|"KPDM"]] at class level 13
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Contagion.md \|"PHB"]] at class level 5
-- [[/5. Mechanics/Spells/Hallow.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Contagion.md \|"PHB"]] at class level 17
+- [[/5. Mechanics/Spells/Hallow.md \|"PHB"]] at class level 17

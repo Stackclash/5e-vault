@@ -33,7 +33,9 @@ verbal: false
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you take acid, cold, fire, lightning, or
+  thunder damage
 duration: 1 round
 range: Self
 aliases:
@@ -48,7 +50,7 @@ damage:
 # Absorb Elements
 *1st-level, Abjuration*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you take acid, cold, fire, lightning, or thunder damage
 - **Range:** Self
 - **Components:** S
 - **Duration:** 1 round

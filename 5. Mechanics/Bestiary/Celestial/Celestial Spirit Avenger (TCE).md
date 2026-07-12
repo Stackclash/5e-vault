@@ -18,7 +18,7 @@ aliases:
   - Celestial Spirit (Avenger)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Celestial\Celestial Spirit Avenger (TCE).md|Celestial Spirit (Avenger)]]
+# [[/5. Mechanics/Bestiary/Celestial/Celestial Spirit Avenger (TCE).md|Celestial Spirit (Avenger)]]
 *Source: Tasha's Cauldron of Everything p. 110*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "celestial"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "40 + 10 for each spell level above 5th"
 "modifier": !!int "2"
 "stats":
   - !!int "16"

@@ -25,7 +25,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you or a creature within 30 feet of you is hit
+  by an attack from an undead creature
 duration: 1 minute
 range: 30 feet
 aliases:
@@ -34,7 +36,7 @@ aliases:
 # Gird the Spirit
 *1st-level, Abjuration*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you or a creature within 30 feet of you is hit by an attack from an undead creature
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** 1 minute

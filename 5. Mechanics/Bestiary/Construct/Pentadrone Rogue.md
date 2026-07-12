@@ -18,7 +18,7 @@ tags:
 aliases:
   - Pentadrone (Rogue)
 ---
-# [[5. Mechanics\Bestiary\Construct\Pentadrone Rogue.md|Pentadrone (Rogue)]]
+# [[/5. Mechanics/Bestiary/Construct/Pentadrone Rogue.md|Pentadrone (Rogue)]]
 *Source: Monster Manual p. 226*
 
 ```statblock

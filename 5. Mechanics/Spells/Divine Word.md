@@ -8,11 +8,11 @@ tags:
   - spell/class/cleric
   - spell/level/7th-level
   - spell/school/evocation
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
 classes:
   - Bard (Magical Secrets)
   - Cleric
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Evocation
 level: 7
 ritual: false
@@ -48,6 +48,6 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 
 Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

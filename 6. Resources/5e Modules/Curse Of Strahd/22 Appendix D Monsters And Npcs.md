@@ -633,7 +633,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a [[/5. Mechanics/Items/2 Weapon.md|greatsword, +2]] with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice:4d6+6|noform|noparens|avg|text(20)` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a [[/5. Mechanics/Items/2 Weapon.md|greatsword, +2]] with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (`dice:1d20+9|noform|noparens|text(+9)` to hit). It deals `dice:4d6+6|noform|noparens|avg|text(20)` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
 ![[/6. Resources/5e Modules/Curse Of Strahd/img/154-cos19-11.webp#center]]
@@ -668,8 +668,8 @@ Wereravens like to collect shiny trinkets and precious baubles. They are fond of
 
 #### Characters as Wereravens
 
-The "Monster Manual" has rules for characters afflicted with lycanthropy. The following text applies to wereraven characters specifically.
+The "Monster Manual" has rules for characters afflicted with [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]. The following text applies to wereraven characters specifically.
 
-A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy; see the "Player Characters as Lycanthropes" sidebar in the lycanthropes entry in the "Monster Manual" for details.
+A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy; see the "[[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|Player Characters as Lycanthropes]]" sidebar in the lycanthropes entry in the "Monster Manual" for details.
 
 ![[/6. Resources/5e Modules/Curse Of Strahd/img/155-637515969684846750.webp#center|Wereraven]]

@@ -9,7 +9,7 @@ aliases:
 # Chapter 2: The Wizards Three
 *Source: Vecna: Eve of Ruin, p. 37* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/026-02-001-the-wizards-three.webp#center\|"Alustriel and Tasha desperately cast a Wish spell to try to stop Vecna's evil plan. Mordenkainen, who is Kas in disguise, secretly sabotages the spell"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/026-02-001-the-wizards-three.webp#center\|Alustriel and Tasha desperately cast a Wish spell to try to stop Vecna's evil plan. Mordenkainen, who is Kas in disguise, secretly sabotages the spell]]
 
 Time has passed since the characters' experience in Neverdeath Graveyard. That ordeal might seem firmly in the past, but the characters receiving Vecna's Link is the harbinger of events none could predict. In this chapter, the characters become involved in three powerful wizards' desperate bid to stop the remaking of existence at the hands of the lich-god Vecna. The characters are soon led to believe that retrieving and reconstructing a legendary artifact is the only way to avoid a bleak future for the entire multiverse.
 
@@ -304,7 +304,7 @@ Mordenkainen's eyes gleam with excitement as he continues:
 > "There's no time to waste. Once you've reassembled the rod, we can all confront Vecna and stop his heinous plan. You'll be the heroes of the multiverse! How does that sound?"
 ^0f2
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/033-02-006-evidence.webp#center\|"Subtle evidence of Mordenkainen's true identity is hidden in the sanctum"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/033-02-006-evidence.webp#center\|Subtle evidence of Mordenkainen's true identity is hidden in the sanctum]]
 
 Although taken aback at how much work Mordenkainen has done on this contingency, Alustriel and Tasha admit that the plan Mordenkainen has laid out is the best hope to stop Vecna. Alustriel compliments Mordenkainen on his foresight.
 
@@ -327,7 +327,7 @@ The [[/5. Mechanics/Items/Chime Of Exile (VEOR).md\|Chime of Exile]] is Alustrie
 
 ## Toward Web's Edge
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/034-02-007-mordenkainen-holding-chime-of-exile.webp#center\|"Alustriel's Chime of Exile might help the characters defeat Vecna"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/034-02-007-mordenkainen-holding-chime-of-exile.webp#center\|Alustriel's Chime of Exile might help the characters defeat Vecna]]
 
 After stepping through the portal, the characters emerge deep in the Underdark in Faerûn. The rod piece is hidden in Web's Edge, a nearby safe house for agents of the demon-god Lolth.
 
@@ -379,7 +379,7 @@ The walls in Web's Edge are rocky, jagged, and uneven. Decades ago, Lolth's fait
 
 ### Infiltrating Web's Edge
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/036-02-009-webs-edge.webp#center\|"Heroes who stumble into Web's Edge unaware of its dangers usually meet a gruesome end"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/036-02-009-webs-edge.webp#center\|Heroes who stumble into Web's Edge unaware of its dangers usually meet a gruesome end]]
 
 Web's Edge is a dangerous place. If the characters burst into the complex without a plan, they're unlikely to survive the experience, let alone retrieve the first piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. See the advice below for handling strategies the characters might adopt.
 
@@ -454,7 +454,7 @@ Cultists and agents gather here to commune with Lolth's Abyssal servants and occ
 
 Grottenelle is in the middle of a summoning ritual. Have Grottenelle and the characters roll initiative. If the characters attack or otherwise interrupt Grottenelle before the start of her first turn, the summoning fails. Otherwise, a [[/5. Mechanics/Bestiary/Fiend/Glabrezu.md\|glabrezu]] appears in the center of the pentagram at the start of Grottenelle's turn. Grottenelle attacks intruders and commands the glabrezu to do the same if the summoning is successful.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/041-02-010-glabrezu.webp#center\|"High Summoner Grottenelle Stonecutter calls on a glabrezu to help with an evil mission the Lolth cultists are planning"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/041-02-010-glabrezu.webp#center\|High Summoner Grottenelle Stonecutter calls on a glabrezu to help with an evil mission the Lolth cultists are planning]]
 
 Grottenelle needs the glabrezu to assist in the operation being planned in area W7. At your discretion, the noise from a battle might alert the agents in that area, prompting them to investigate.
 
@@ -562,7 +562,7 @@ Whether the characters are masquerading as Lolth worshipers or not, Sril begs to
 
 #### W7: Meeting Room
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/042-02-011-lolth-cultist.webp#center\|"The Lolth cultists are planning an assault on a nearby svirfneblin mining operation"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/042-02-011-lolth-cultist.webp#center\|The Lolth cultists are planning an assault on a nearby svirfneblin mining operation]]
 
 > [!readaloud] 
 > 
@@ -657,7 +657,7 @@ The [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|first piece]] of the [[/
 
 ## Next Steps
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/045-02-013-ker-arach.webp#center\|"The spiderdragon Ker-arach and the yochlol Ylellith use a piece of the Rod of Seven Parts to communicate directly with the demon-god Lolth"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/045-02-013-ker-arach.webp#center\|The spiderdragon Ker-arach and the yochlol Ylellith use a piece of the Rod of Seven Parts to communicate directly with the demon-god Lolth]]
 
 Once the characters have acquired the first piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], they can return to Sigil through the portal that remains open outside Web's Edge. At this point, the characters will likely want to rest, confer with their allies in Sigil, and see where this first rod piece points them to go next.
 

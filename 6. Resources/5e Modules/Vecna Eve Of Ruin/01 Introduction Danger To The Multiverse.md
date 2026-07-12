@@ -9,7 +9,7 @@ aliases:
 # Introduction: Danger to the Multiverse
 *Source: Vecna: Eve of Ruin, p. 5* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/000-00-001-vecna-vs-kas.webp#center\|"The characters are destined to become embroiled in the legendary hatred between the lich-god Vecna and the warlord Kas"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/000-00-001-vecna-vs-kas.webp#center\|The characters are destined to become embroiled in the legendary hatred between the lich-god Vecna and the warlord Kas]]
 
 This adventure celebrates fifty years of Dungeons & Dragons history. The story spans many beloved settings and wondrous planes of existence. Its cast includes characters iconic to longtime fans. This adventure's stakes involve the fate of all worlds—in other words, the multiverse. If the player characters finish this adventure successfully, they'll reach 20th level and will have thwarted one of the most notorious villains in D&D's history.
 
@@ -41,7 +41,7 @@ One is Kas, a vampire warrior who once served Vecna but is now Vecna's eternal e
 
 ### Kas and Vecna
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/001-00-002-young-kas-and-vecna.webp#center\|"A young Kas and Vecna muse about the destruction of Oerth"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/001-00-002-young-kas-and-vecna.webp#center\|A young Kas and Vecna muse about the destruction of Oerth]]
 
 Hundreds of years ago, Vecna and Kas were close associates. They were driven men who shared similar evil outlooks. Kas admired Vecna's sadism and thirst for power, while Vecna valued Kas's ferocity and cruelty.
 
@@ -57,7 +57,7 @@ Vecna's defeat of Kas grates on the warlord's ego. Kas aches to annihilate Vecna
 
 ## Kas's Plan
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/002-00-003-kas-and-crown-of-lies.webp#center\|"The Dark Powers have gifted Kas a powerful artifact to help him destroy Vecna"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/002-00-003-kas-and-crown-of-lies.webp#center\|The Dark Powers have gifted Kas a powerful artifact to help him destroy Vecna]]
 
 Shortly after Vecna began traversing the multiverse to gather secrets, Kas learned of the lich-god's plan from the Dark Powers. Upon working out a bargain with those powers, Kas devised a plot to usurp the power Vecna was gathering.
 
@@ -123,7 +123,7 @@ Chapter 1 takes place in Neverwinter, a city on the Sword Coast on the world of 
 
 The first part of chapter 2 takes place in a secret sanctum in Sigil, the City of Doors. The second part takes place in the Underdark on Toril. When two powerful spellcasters and an impostor try to cast a [[/5. Mechanics/Spells/Wish.md\|Wish]] spell to stop Vecna's plot, the botched spell latches on to Vecna's Link and pulls the characters to the trio's location. Lady Alustriel Silverhand, Tasha, and Mordenkainen (secretly Kas) are baffled by this development, but Mordenkainen pretends to improvise a plan to stop Vecna. He falsely claims that the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], a powerful artifact, might be the only way to stop Vecna now. He knows the location of the first piece, which is in a covert base for Lolth operatives, and sends the characters after it. Each rod piece will point the way to the next piece, and all pieces are in different locations in multiverse.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/005-00-006-kas-in-disguise.webp#center\|"Kas disguises himself flawlessly as Mordenkainen using the Crown of Lies"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/005-00-006-kas-in-disguise.webp#center\|Kas disguises himself flawlessly as Mordenkainen using the Crown of Lies]]
 
 ### Chapter 3 Summary
 
@@ -163,7 +163,7 @@ In chapter 11, the characters must descend into the Cave of Shattered Reflection
 
 ## Running the Adventure
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/006-00-007-the-three-wizards.webp#center\|"Lady Alustriel Silverhand, Tasha, and Mordenkainen have discovered Vecna's plan to remake the multiverse. Mordenkainen is an impostor who hopes to co-opt the lich's ritual"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/006-00-007-the-three-wizards.webp#center\|Lady Alustriel Silverhand, Tasha, and Mordenkainen have discovered Vecna's plan to remake the multiverse. Mordenkainen is an impostor who hopes to co-opt the lich's ritual]]
 
 To run this adventure, you need the fifth edition core rulebooks ("Player's Handbook", "Dungeon Master's Guide", and "Monster Manual").
 
@@ -244,7 +244,7 @@ The 10th-Level Backstories table contains sample backstories for new characters.
 
 ## The Power of Secrets
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/007-00-008-cult-of-vecna.webp#center\|"Cults of Vecna everywhere are conducting rituals to siphon victims' secrets, which will fuel the lich's ritual to remake the multiverse"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/007-00-008-cult-of-vecna.webp#center\|Cults of Vecna everywhere are conducting rituals to siphon victims' secrets, which will fuel the lich's ritual to remake the multiverse]]
 
 Vecna uses stolen secrets to power his ritual to remake the multiverse. When the characters stumble on the cult of Vecna, whose members are trying to extract secrets from a captive, they gain access to magic fueled by powerful secrets. The characters can spend secrets like currency once they receive Vecna's Link in chapter 1.
 

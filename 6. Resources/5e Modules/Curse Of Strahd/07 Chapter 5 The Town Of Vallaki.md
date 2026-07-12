@@ -155,7 +155,7 @@ The inn's wine supply is almost depleted, and the latest delivery from the Wizar
 
 #### Keepers of the Feather
 
-[[/4. World Almanac/NPCs/Urwin Martikov (COS).md\|Urwin Martikov]] (LG male human) is a [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]] (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, [[/4. World Almanac/NPCs/Danika Dorakova (COS).md\|Danika Dorakova]] (LG female human), is also a [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]], as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
+[[/4. World Almanac/NPCs/Urwin Martikov (COS).md\|Urwin Martikov]] (LG male human) is a [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]] (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, [[/4. World Almanac/NPCs/Danika Dorakova (COS).md\|Danika Dorakova]] (LG female human), is also a [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereraven]], as are their two sons, [[/4. World Almanac/NPCs/Brom Martikov (COS).md\|Brom Martikov]] and [[/4. World Almanac/NPCs/Bray Martikov (COS).md\|Bray Martikov]]. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
 
 At any given time, another `dice:1d4|noform|noparens|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md\|wereravens]] (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
 
@@ -193,7 +193,7 @@ The double doors leading into the taproom can be barred shut from within.
 
 Mounted on braces and tucked into alcoves behind the bar are three wine barrels, each one three-quarters empty. Two of the barrels contain Purple Grapemash No. 3 (a cheap wine), and the third contains Red Dragon Crush (a fine wine). A brass spigot is hammered into each barrel.
 
-Danika Martikov usually tends bar while her husband busies himself in the kitchen (area N2e). Their boys, Brom and Bray, scamper about and easily get underfoot.
+Danika Martikov usually tends bar while her husband busies himself in the kitchen (area N2e). Their boys, [[/4. World Almanac/NPCs/Brom Martikov (COS).md\|Brom Martikov]] and [[/4. World Almanac/NPCs/Bray Martikov (COS).md\|Bray Martikov]], scamper about and easily get underfoot.
 
 Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic (area N2q).
 
@@ -362,7 +362,7 @@ The journal on the desk is a bit of artifice that [[/4. World Almanac/NPCs/Ricta
 > A large, painted toy box rests between two small, cozy beds. Murals of ravens in flight are painted on the walls above the wood paneling.
 ^357
 
-Brom and Bray Martikova don't spend much time in this room. The toy box contains a pile of neglected toys, many of them etched with the slogan "Is No Fun, Is No Blinsky!" The toys include the following:
+[[/4. World Almanac/NPCs/Brom Martikov (COS).md\|Brom Martikov]] and [[/4. World Almanac/NPCs/Bray Martikov (COS).md\|Bray Martikov]] Martikova don't spend much time in this room. The toy box contains a pile of neglected toys, many of them etched with the slogan "Is No Fun, Is No Blinsky!" The toys include the following:
 
 - A miniature puppet theater with appropriately sized marionettes of a king, a queen, a prince, a princess, an executioner, a tax collector, a dunce, a vampire, and a vampire hunter  
 - A garish toy Vistani wagon hitched to a wooden horse and filled with tiny wooden Vistani figures  
@@ -1086,9 +1086,9 @@ The front seat of the wagon conceals a secret compartment that requires a succes
 - A small prayer book (worth 50 gp) with a green leather cover and indecipherable notes in the margins  
 - A [[/5. Mechanics/Items/Healers Kit.md\|healer's kit]]  
 - Three wooden [[/5. Mechanics/Items/Holy Symbol.md\|holy symbols]] inlaid with silver and in the shape of a sunburst (worth 50 gp each)  
-- A silvered [[/5. Mechanics/Items/Shortsword.md\|shortsword]]  
+- A [[/5. Mechanics/Items/Silvered Weapon.md\|silvered shortsword]]  
 - A [[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]] inlaid with mother-of-pearl (worth 250 gp)  
-- A bundle of twenty silvered [[/5. Mechanics/Items/Crossbow Bolts 20.md\|crossbow bolts]]  
+- A bundle of twenty [[/5. Mechanics/Items/Silvered Ammunition.md\|silvered crossbow bolts]]  
 - A worn leather case with gold buckles (worth 100 gp) containing three sharpened wooden stakes, a sack of garlic, a jar of salt, a box of holy wafers, six [[/5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], a polished steel mirror, and a bone scroll tube with a silver stopper and chain (worth 25 gp). The tube contains a [[/5. Mechanics/Items/Scroll Of Protection.md\|spell scroll of protection from fiends]] and a [[/5. Mechanics/Items/Scroll Of Protection.md\|spell scroll of protection from undead]].  
 
 #### Fortunes of Ravenloft
@@ -1353,7 +1353,7 @@ Each hovel is configured similarly to Kasimir's hovel. All are currently unoccup
 > Piled outside the wagon are several empty casks of wine. From inside the tent comes the crack of a whip followed by the howls of a young man. Three sputtering campfires fill the tent with smoke, and through the haze you see six Vistani passed out in various places on the dead grass. A barely conscious and shirtless teenager hugs the central tent pole, his wrists bound with rope and his back streaked with blood. An older, larger man in studded leather armor lashes the young man with a horsewhip, causing him to scream again. Standing in the bigger man's shadow is a third man also clad in studded leather. "Easy, brother," he says to the whip-wielding brute. "I think Alexei has learned his lesson."
 ^3f4
 
-The two men in studded leather armor are the leaders of the Vistani camp—the brothers [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] (CE male human [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain (COS).md\|bandit captain]]) and [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] (NE male human [[/5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]]). If you used the "Plea for Help" adventure hook, the characters have already met [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]]. [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is the older of the two and the brother whom the other Vistani fear most. Each brother carries a key that unlocks one of the padlocks of the treasure wagon (area N9i).
+The two men in studded leather armor are the leaders of the Vistani camp—the brothers [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] (CE male human [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain (COS).md\|bandit captain]]) and [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] (NE male human [[/5. Mechanics/Bestiary/Humanoid/Vistana Assassin (COS).md\|assassin]]). If you used the "Plea for Help" adventure hook, the characters have already met [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]]. [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is the older of the two and the brother whom the other Vistani fear most. Each brother carries a key that unlocks one of the padlocks of the treasure wagon (area N9i).
 
 [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is punishing a Vistana named Alexei (CN male human [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandit]] with 3 hit points remaining) for failing to keep a watchful eye on his daughter. The characters' arrival distracts [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]], and he forgets about Alexei long enough to play the role of host—until such time as the characters become tiresome or threatening. Alexei blames himself for not watching the little brat more closely and has accepted his punishment. If the characters try to rescue him, he screams at them to stop, not wanting to appear weak in front of [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] and [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]].
 
@@ -1363,7 +1363,7 @@ In addition to [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]], [[/4. World A
 
 [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is unhappy because his seven-year-old daughter, [[/4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]], has vanished. She's been gone for a little more than a day. Because everyone in the camp was drunk and [[/4. World Almanac/NPCs/Arrigal (COS).md\|Arrigal]] was away, no one remembers seeing or hearing anything strange. [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] is determined to find her, no matter what the cost, and most of his camp is out scouring the woods when the characters arrive. (Missing from the camp are twelve [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]]. Each hour that passes, `dice:1d4|noform|noparens|avg` (`1d4`) of them return to camp with no news on [[/4. World Almanac/NPCs/Arabelle (COS).md\|Arabelle]]'s whereabouts.)
 
-If an alarm is sounded, nine Vistani [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|bandits]] (NE male and female humans) emerge from three of the surrounding wagons (area N9g) and arrive at the tent with weapons drawn in 2 rounds.
+If an alarm is sounded, nine [[/5. Mechanics/Bestiary/Humanoid/Vistana Bandit (COS).md\|Vistani bandits]] (NE male and female humans) emerge from three of the surrounding wagons (area N9g) and arrive at the tent with weapons drawn in 2 rounds.
 
 [[/4. World Almanac/NPCs/Luvash (COS).md\|Luvash]] won't meddle in the characters' affairs without Strahd's consent, and he is quite content to let the vampire deal with them. For a hefty price, he offers to sell the characters potions that allow safe passage through the deadly fog that surrounds the valley; he keeps them in the treasure wagon (area N9i). The potions don't work, of course.
 

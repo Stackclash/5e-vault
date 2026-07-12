@@ -18,7 +18,7 @@ aliases:
   - Fey Spirit
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Fey\Fey Spirit (TCE).md|Fey Spirit]]
+# [[/5. Mechanics/Bestiary/Fey/Fey Spirit (TCE).md|Fey Spirit]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "fey"
 "alignment": "Unaligned"
 "ac_class": "12 + the level of the spell (natural armor)"
+"hp": "30 + 10 for each spell level above 3rd"
 "modifier": !!int "3"
 "stats":
   - !!int "13"

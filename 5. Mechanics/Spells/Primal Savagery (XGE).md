@@ -7,6 +7,7 @@ tags:
   - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/feat/magic-initiate/druid-spells
+  - spell/feat/spell-sniper
   - spell/feat/wood-elf-magic
   - spell/level/cantrip
   - spell/optfeature/druidic-warrior

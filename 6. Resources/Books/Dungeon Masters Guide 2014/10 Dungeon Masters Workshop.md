@@ -22,6 +22,8 @@ If you're confident that the answer to both questions is yes, then you have noth
 
 Beware of adding anything to your game that allows a character to concentrate on more than one effect at a time, use more than one reaction or bonus action per round, or attune to more than three magic items at a time. Rules and game elements that override the rules for concentration, reactions, bonus actions, and magic item attunement can seriously unbalance or overcomplicate your game.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-1.webp#center]]
+
 ## Ability Options
 
 The optional rules in this section pertain to using ability scores.
@@ -98,6 +100,8 @@ Here's how to incorporate these optional abilities at character creation:
 
 If you ever need to make a check or saving throw for Honor or Sanity for a monster that lacks the score, you can use Charisma for Honor and Wisdom for Sanity.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-2.webp#center]]
+
 #### Honor Score
 
 If your campaign involves cultures where a rigid code of honor is part of daily life, consider using the Honor score as a means of measuring a character's devotion to that code. This ability fits well in a setting inspired by Asian cultures, such as Kara-Tur in the Forgotten Realms. The Honor ability is also useful in any campaign that revolves around orders of knights.
@@ -123,6 +127,8 @@ An Honor saving throw comes into play when you want to determine whether a chara
 - Avoiding an accidental breach of honor or etiquette  
 - Resisting the urge to respond to goading or insults from an enemy  
 - Recognizing when an enemy attempts to trick a character into a breach of honor  
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-3.webp#center]]
 
 #### Sanity Score
 
@@ -182,7 +188,7 @@ This optional rule allows characters to heal up in the thick of combat and works
 
 As an action, a character can use a healing surge and spend up to half his or her Hit Dice. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll.
 
-A character who uses a healing surge can't do so again until he or she finishes a short or long rest. Under this optional rule, a character regains all spent Hit Dice at the end of a long rest. With a short rest, a character regains Hit Dice equal to his or her level divided by four (minimum of one dice).
+A character who uses a healing surge can't do so again until he or she finishes a short or long rest. Under this optional rule, a character regains all spent Hit Dice at the end of a long rest. With a short rest, a character regains Hit Dice equal to his or her level divided by four (minimum of one die).
 
 For a more super-heroic feel, you can let a character use a healing surge as a bonus action, rather than as an action.
 
@@ -311,6 +317,8 @@ A character who has seen an item used or has operated a similar item has advanta
 
 ### Plot Points
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-4.webp#center]]
+
 Plot points allow players to change the course of the campaign, introduce plot complications, alter the world, and even assume the role of the DM. If your first reaction to reading this optional rule is to worry that your players might abuse it, it's probably not for you.
 
 #### Using Plot Points
@@ -346,6 +354,8 @@ For this approach to work, it's a good idea to establish some shared assumptions
 The options in this section provide alternative ways to handle combat. The main risk of adding some of these rules is slowing down play.
 
 ### Initiative Variants
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-5.webp#center]]
 
 This section offers different ways to handle initiative.
 
@@ -546,6 +556,8 @@ Creating a monster isn't just a number-crunching exercise. The guidelines in thi
 
 ### Creating a Monster Stat Block
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-6.webp#center]]
+
 If you want a full monster stat block, use the following method to create your new monster.
 
 The introduction to the Monster Manual explains all the components of a monster's stat block. Familiarize yourself with that material before you begin. In the course of creating your monster, if you find yourself unable to make a decision, let the examples in the Monster Manual guide you.
@@ -714,6 +726,8 @@ For example, if the effect is a poison, the relevant ability is probably the mon
 
 Don't worry if the save DCs aren't matching up with the expected challenge rating for the monster. Other factors can affect a monster's challenge rating, as shown in later steps, and you can always adjust the save DCs later on.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-7.webp#center]]
+
 #### Step 13. Special Traits, Actions, and Reactions
 
 Some special traits (such as Magic Resistance), special actions (such as Superior Invisibility), and special reactions (such as Parry) can improve a monster's combat effectiveness and potentially increase its challenge rating.
@@ -819,6 +833,8 @@ Depending on the monster and the number of class levels you add to it, its chall
 
 ## Creating a Spell
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-8.webp#center]]
+
 When creating a new spell, use existing spells as guidelines. Here are some things to consider:
 
 - If a spell is so good that a caster would want to use it all the time, it might be too powerful for its level.  
@@ -841,6 +857,8 @@ You can also use the Spell Damage table to determine how many hit points a heali
 ## Creating a Magic Item
 
 ### Creating a Magic Item
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-9.webp#center]]
 
 The magic items in chapter 7, "Treasure," are but a few of the magic treasures that characters can discover during their adventures. If your players are seasoned veterans and you want to surprise them, you can either modify an existing item or come up with something new.
 
@@ -910,6 +928,8 @@ A simple way to modify an existing race is to change its appearance. Changes to 
 
 #### Creating a New Subrace
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-10.webp#center]]
+
 Creating a new subrace is more involved than making some minor tweaks to existing racial features, but it does have the advantage of increasing the diversity of options for a particular race, rather than replacing some options with other ones.
 
 The following example walks through the creation of an elf subrace: the eladrin. This subrace has history in the D&D multiverse, so you already have some stories to draw on when building its traits.
@@ -962,6 +982,8 @@ You can also change armor and weapon proficiencies to reflect certain aspects of
 Modifying a class's spell list usually has little effect on a character's power but can change the flavor of a class significantly. In your world, paladins might not swear their oaths to ideals, but instead swear fealty to powerful sorcerers. To capture this story concept, you could build a new paladin spell list with spells meant to protect their masters, drawn from the sorcerer or wizard lists. Suddenly, the paladin feels like a different class.
 
 Be cautious when changing the warlock spell list. Since warlocks regain their spell slots after a short rest, they have the potential to use certain spells more times in a day than other classes do.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-11.webp#center]]
 
 #### Restricting Class Access
 
@@ -1045,6 +1067,8 @@ Choose two skill proficiencies and two tool proficiencies for the background. Yo
 Make sure your background offers a package of starting equipment. In addition to a small amount of money that a character can use to buy adventuring gear, the starting equipment should include items that a character would have acquired prior to becoming an adventurer, as well as one or two items unique to the background.
 
 For example, starting equipment for a character with the acolyte of Candlekeep background might include a set of traveler's clothes, a scholar's robe, five candles, a tinderbox, an empty scroll case engraved with the symbol of Candlekeep, and a belt pouch containing 10 gp. The scroll case might be a gift given to an acolyte of Candlekeep who embarks on a life of adventure. At your discretion, it might also contain a useful map.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/9-12.webp#center]]
 
 #### Step 5. Settle on a Background Feature
 

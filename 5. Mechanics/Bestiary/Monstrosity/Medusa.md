@@ -20,7 +20,7 @@ tags:
 aliases:
   - Medusa
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Medusa.md|Medusa]]
+# [[/5. Mechanics/Bestiary/Monstrosity/Medusa.md|Medusa]]
 *Source: Monster Manual p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
@@ -79,7 +79,7 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
       \ The [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] creature must\
       \ repeat the saving throw at the end of its next turn, becoming [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ the creature is freed by the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or other magic.\n\nUnless [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]],\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see the medusa until the start of\

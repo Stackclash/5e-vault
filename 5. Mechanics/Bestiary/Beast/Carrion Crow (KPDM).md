@@ -18,7 +18,7 @@ tags:
 aliases:
   - Carrion Crow
 ---
-# [[5. Mechanics\Bestiary\Beast\Carrion Crow (KPDM).md|Carrion Crow]]
+# [[/5. Mechanics/Bestiary/Beast/Carrion Crow (KPDM).md|Carrion Crow]]
 *Source: Deep Magic p. 291*
 
 Feasting on the hearts of fallen evil warriors on battlefields has corrupted these crows. They resemble normal crows, but they are easily distinguished by their rust-colored, barbed beaks and a patch of feathers on their breasts of the same color. Sometimes, carrion crows use their mimicry to lure animals and people into danger, in hopes of having more dead meat on which to feast.

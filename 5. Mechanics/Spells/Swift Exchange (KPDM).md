@@ -21,7 +21,9 @@ verbal: true
 somatic: false
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you or another creature within range is
+  attacked
 duration: Instantaneous
 range: 30 feet
 aliases:
@@ -34,7 +36,7 @@ saving_throw:
 # Swift Exchange
 *5th-level, Conjuration*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you or another creature within range is attacked
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Instantaneous

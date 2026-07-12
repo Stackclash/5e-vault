@@ -20,7 +20,7 @@ aliases:
   - Steel Defender
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Construct\Steel Defender (TCE).md|Steel Defender]]
+# [[/5. Mechanics/Bestiary/Construct/Steel Defender (TCE).md|Steel Defender]]
 *Source: Tasha's Cauldron of Everything p. 19*
 
 ```statblock
@@ -30,6 +30,8 @@ cr: null
 "alignment": "Unaligned"
 "ac": !!int "15"
 "ac_class": "natural armor"
+"hp": "2 + your Intelligence modifier + five times your artificer level (the defender\
+  \ has a number of Hit Dice [d8s] equal to your artificer level)"
 "modifier": !!int "1"
 "stats":
   - !!int "14"

@@ -10,7 +10,7 @@ tags:
   - spell/level/1st-level
   - spell/school/evocation
   - spell/subclass/circle-of-stars
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/oath-of-glory
   - spell/subclass/oath-of-radiance
   - spell/subclass/oath-of-the-watchtower
@@ -22,7 +22,7 @@ classes:
   - Paladin (Oath of Glory)
   - Paladin (Oath of Radiance)
   - Paladin (Oath of the Watchtower)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock (The Celestial)
 school: Evocation
 level: 1
@@ -57,6 +57,6 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Stars)](/compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [Paladin (Oath of Glory)](/compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Stars)](/compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [Paladin (Oath of Glory)](/compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

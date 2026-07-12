@@ -13,6 +13,8 @@ A nonplayer character is any character controlled by the Dungeon Master. NPCs ca
 
 This chapter shows you how to flesh out nonplayer characters for your game. For guidelines on generating monster-like stat blocks for an NPC, see chapter 9, "Dungeon Master's Workshop."
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/4-1.webp#center]]
+
 ## Designing NPCs
 
 Nothing brings your adventures and campaigns to life better than a cast of well-developed NPCs. That said, NPCs in your game rarely need as much complexity as a well-crafted character in a novel or movie. Most NPCs are bit players in the campaign, whereas the adventurers are the stars.
@@ -108,6 +110,8 @@ Named monsters that play a significant role in an adventure deserve the same att
 
 As an example, consider the Xanathar, a beholder that runs extensive criminal operations in the city of Waterdeep. The Xanathar's spherical body is covered in leathery flesh with a texture similar to cobblestones. Its eyestalks are jointed like the legs of an insect, and some of the stalks have magic rings on them. The Xanathar's speech is slow and deliberate, and it prefers to turn its central eye away from creatures it speaks to. Like all beholders, it sees other creatures as inferiors, though it understands the usefulness of its humanoid minions.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/4-2.webp#center]]
+
 The Xanathar uses the sewers beneath Waterdeep to access virtually any location within or under the city.
 
 The Xanathar's ideal is greed. It craves powerful magic items and surrounds itself with gold, platinum, and precious gems. Its bond is to its lair-an elaborate cavern complex carved out between the twisting sewers of Waterdeep, which it inherited from its predecessors and cherishes above all else. Its flaw is a weakness for exotic pleasures: finely prepared foods, scented oils, and rare spices and herbs.
@@ -125,6 +129,8 @@ Appendix B of the Monster Manual contains statistics for many generic NPCs that 
 #### Using Classes and Levels
 
 You can create an NPC just as you would a player character, using the rules in the *Player's Handbook*. You can even use a character sheet to keep track of the NPC's vital information.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/4-3.webp#center]]
 
 ##### Class Options
 
@@ -184,6 +190,8 @@ An NPC whose loyalty score drops to 0 is no longer loyal to the party and might 
 
 An NPC with a loyalty score of 10 or higher risks life and limb to help fellow party members. If the NPC's loyalty score is between 1 and 10, its loyalty is tenuous. An NPC whose loyalty drops to 0 no longer acts in the party's best interests. The disloyal NPC either leaves the party (attacking characters who attempt to intervene) or works in secret to bring about the party's downfall.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/4-4.webp#center]]
+
 ## Contacts
 
 Contacts are NPCs with close ties to one or more of the player characters. They don't go on adventures, but they can provide information, rumors, supplies, or professional advice, either for free or at a cost. Some of the backgrounds in the *Player's Handbook* suggest creating nonplayer characters contacts for beginning adventurers, and characters are likely to secure more helpful contacts over the course of their adventuring careers.
@@ -237,6 +245,8 @@ The Death Domain is an additional domain choice for evil clerics, and the Oathbr
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as Chemosh, Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder (Anubis, Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or Morgion), and the underworld (Hades and Hel).
 
 See the [[/5. Mechanics/Classes/Cleric Death Domain (DMG).md\|Death Domain classes page entry]] for more information.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/4-5.webp#center]]
 
 ### Paladin: Oathbreaker
 

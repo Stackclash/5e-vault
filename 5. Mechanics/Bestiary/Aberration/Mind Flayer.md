@@ -20,7 +20,7 @@ tags:
 aliases:
   - Mind Flayer
 ---
-# [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|Mind Flayer]]
+# [[/5. Mechanics/Bestiary/Aberration/Mind Flayer.md|Mind Flayer]]
 *Source: Monster Manual p. 222*
 
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.

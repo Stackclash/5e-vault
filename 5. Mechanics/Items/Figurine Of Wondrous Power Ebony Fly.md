@@ -17,6 +17,7 @@ item_recharge: none
 ---
 # Figurine of Wondrous Power, Ebony Fly
 *Wondrous item, major, rare*  
+![[/5. Mechanics/Items/img/figurine-of-wondrous-power-ebony-fly.webp#right]]  
 
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})

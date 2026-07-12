@@ -10,11 +10,11 @@ tags:
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/necromancy
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
 classes:
   - Bard (Magical Secrets)
   - Cleric
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock
   - Wizard
 school: Necromancy
@@ -57,6 +57,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **At Higher Levels.** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four [[/5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]]. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five [[/5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] or two [[/5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] or [[/5. Mechanics/Bestiary/Undead/Wight.md\|wights]]. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six [[/5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]], three [[/5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] or [[/5. Mechanics/Bestiary/Undead/Wight.md\|wights]], or two [[/5. Mechanics/Bestiary/Undead/Mummy.md\|mummies]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

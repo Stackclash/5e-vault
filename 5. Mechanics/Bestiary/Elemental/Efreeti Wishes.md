@@ -20,7 +20,7 @@ tags:
 aliases:
   - Efreeti (Wishes)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Efreeti Wishes.md|Efreeti (Wishes)]]
+# [[/5. Mechanics/Bestiary/Elemental/Efreeti Wishes.md|Efreeti (Wishes)]]
 *Source: Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock

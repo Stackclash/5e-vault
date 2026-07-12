@@ -22,7 +22,7 @@ tags:
 aliases:
   - Shadow
 ---
-# [[5. Mechanics\Bestiary\Undead\Shadow.md|Shadow]]
+# [[/5. Mechanics/Bestiary/Undead/Shadow.md|Shadow]]
 *Source: Monster Manual p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.

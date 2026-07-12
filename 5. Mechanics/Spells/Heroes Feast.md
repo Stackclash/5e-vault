@@ -9,12 +9,12 @@ tags:
   - spell/class/druid
   - spell/level/6th-level
   - spell/school/conjuration
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
 classes:
   - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Conjuration
 level: 6
 ritual: false
@@ -49,6 +49,6 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 
 A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by `dice:2d10|noform|noparens|avg` (`2d10`), and it gains the same number of hit points. These benefits last for 24 hours.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -10,8 +10,8 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Burning Hands.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Command.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Burning Hands.md \|"PHB"]] with access to 1st-level spells
+- [[/5. Mechanics/Spells/Command.md \|"PHB"]] with access to 1st-level spells
 
 ## 2nd Level
 
@@ -20,15 +20,15 @@ aliases:
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Fireball.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Stinking Cloud.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Fireball.md \|"PHB"]] with access to 3rd-level spells
+- [[/5. Mechanics/Spells/Stinking Cloud.md \|"PHB"]] with access to 3rd-level spells
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Fire Shield.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Wall Of Fire.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Fire Shield.md \|"PHB"]] with access to 4th-level spells
+- [[/5. Mechanics/Spells/Wall Of Fire.md \|"PHB"]] with access to 4th-level spells
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Flame Strike.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Hallow.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Flame Strike.md \|"PHB"]] with access to 5th-level spells
+- [[/5. Mechanics/Spells/Hallow.md \|"PHB"]] with access to 5th-level spells

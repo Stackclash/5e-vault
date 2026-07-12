@@ -36,7 +36,7 @@ Prior to becoming an adventurer, your path in life was defined by one dark momen
 | 3 | An apparition that has haunted your family for generations now haunts you. You don't know what it wants, and it won't leave you alone. |
 | 4 | Your family has a history of practicing the dark arts. You dabbled once and felt something horrible clutch at your soul, whereupon you fled in terror. |
 | 5 | An oni took your sibling one cold, dark night, and you were unable to stop it. |
-| 6 | You were cursed with lycanthropy and later cured. You are now haunted by the innocents you slaughtered. |
+| 6 | You were cursed with [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md\|lycanthropy]] and later cured. You are now haunted by the innocents you slaughtered. |
 | 7 | A hag kidnapped and raised you. You escaped, but the hag still has a magical hold over you and fills your mind with evil thoughts. |
 | 8 | You opened an eldritch tome and saw things unfit for a sane mind. You burned the book, but its words and images are burned into your psyche. |
 | 9 | A fiend possessed you as a child. You were locked away but escaped. The fiend is still inside you, but now you try to keep it bottled up. |

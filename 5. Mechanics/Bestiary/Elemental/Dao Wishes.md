@@ -20,7 +20,7 @@ tags:
 aliases:
   - Dao (Wishes)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Dao Wishes.md|Dao (Wishes)]]
+# [[/5. Mechanics/Bestiary/Elemental/Dao Wishes.md|Dao (Wishes)]]
 *Source: Monster Manual p. 143*
 
 ```statblock

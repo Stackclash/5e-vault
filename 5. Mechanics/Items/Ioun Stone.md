@@ -16,6 +16,7 @@ item_recharge: none
 ---
 # Ioun Stone
 *Wondrous item (requires attunement)*  
+![[/5. Mechanics/Items/img/ioun-stone.webp#right]]  
 
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})

@@ -20,7 +20,7 @@ aliases:
   - Homunculus Servant
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Construct\Homunculus Servant (TCE).md|Homunculus Servant]]
+# [[/5. Mechanics/Bestiary/Construct/Homunculus Servant (TCE).md|Homunculus Servant]]
 *Source: Tasha's Cauldron of Everything p. 22*
 
 ```statblock
@@ -30,6 +30,8 @@ cr: null
 "alignment": "Unaligned"
 "ac": !!int "13"
 "ac_class": "natural armor"
+"hp": "1 + your Intelligence modifier + your artificer level (the homunculus has a\
+  \ number of Hit Dice [d4s] equal to your artificer level)"
 "modifier": !!int "2"
 "stats":
   - !!int "4"

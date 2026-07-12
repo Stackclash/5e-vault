@@ -28,7 +28,7 @@ tags:
 aliases:
   - Orc Blade of Ilneval
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Blade Of Ilneval (VGM).md|Orc Blade of Ilneval]]
+# [[/5. Mechanics/Bestiary/Humanoid/Orc Blade Of Ilneval (VGM).md|Orc Blade of Ilneval]]
 *Source: Volo's Guide to Monsters p. 183*
 
 Ilneval is Gruumsh's battle captain, a devious strategist who directs Gruumsh's soldiers with boldness. Among orcs, warriors that venerate Ilneval emulate their deity. Such orcs learn to command their fellows in ways that are unpredictable but help to ensure victory.

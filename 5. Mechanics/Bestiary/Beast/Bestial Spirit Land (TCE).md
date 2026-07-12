@@ -18,7 +18,7 @@ aliases:
   - Bestial Spirit (Land)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Land (TCE).md|Bestial Spirit (Land)]]
+# [[/5. Mechanics/Bestiary/Beast/Bestial Spirit Land (TCE).md|Bestial Spirit (Land)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "beast"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "30 + 5 for each spell level above 2nd"
 "modifier": !!int "0"
 "stats":
   - !!int "18"

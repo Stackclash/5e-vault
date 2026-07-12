@@ -24,7 +24,7 @@ tags:
 aliases:
   - Green Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Green Hag.md|Green Hag]]
+# [[/5. Mechanics/Bestiary/Fey/Green Hag.md|Green Hag]]
 *Source: Monster Manual p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.

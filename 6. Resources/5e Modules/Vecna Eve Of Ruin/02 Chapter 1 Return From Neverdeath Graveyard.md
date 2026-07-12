@@ -9,7 +9,7 @@ aliases:
 # Chapter 1: Return from Neverdeath Graveyard
 *Source: Vecna: Eve of Ruin, p. 17* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/008-01-001-vecnas-ritual.webp#center\|"A bizarre ritual reveals the cult of Vecna's terrifying activities"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/008-01-001-vecnas-ritual.webp#center\|A bizarre ritual reveals the cult of Vecna's terrifying activities]]
 
 As the adventure begins, the characters are established heroes currently in the city of Neverwinter on the Sword Coast. Several calamities have battered Neverwinter in the recent past. The greatest was the eruption of nearby Mount Hotenow, which nearly destroyed the city forty years ago, though most of the damage has since been repaired.
 
@@ -91,7 +91,7 @@ Lord Neverember and the priests provide an overview of Neverdeath Graveyard, whi
 
 The Main Graveyard holds several mausoleums, some with expansive underground chambers. The Pauper's Graveyard features numerous simple headstones, but a few civic-minded citizens funded communal catacombs when the graveyard was first built.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/009-01-002-kidnapped-nobels.webp#center\|"The cult of Vecna has kidnapped four nobles in Neverwinter: Eldon Keyward, Indrina Lamsensettle, Sarcelle Malinosh, and Umberto Noblin"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/009-01-002-kidnapped-nobels.webp#center\|The cult of Vecna has kidnapped four nobles in Neverwinter: Eldon Keyward, Indrina Lamsensettle, Sarcelle Malinosh, and Umberto Noblin]]
 
 ## In the Graveyard
 
@@ -263,7 +263,7 @@ A silver bracelet set with seven small diamonds fell to the bottom of the basin.
 > Pipes along the south wall of this room disappear into the walls near the ceiling. A complicated series of cogs and four hand-turned wheels connect to the pipes.
 ^056
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/013-01-004-vecna-cult-symbol.webp#center\|"Many of Vecna's cultists in Neverdeath Graveyard bear tattoos of the lich-god's unholy symbol"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/013-01-004-vecna-cult-symbol.webp#center\|Many of Vecna's cultists in Neverdeath Graveyard bear tattoos of the lich-god's unholy symbol]]
 
 The wheels control the water pressure through the pipes, but they lack gauges to show how turning the wheels affects the pressure. A character can determine that the water flows west, as well as how to maximize or minimize the water pressure, with an hour of trial and error. A character who succeeds on a DC 16 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check discovers this information in only 10 minutes. Alternatively, the [[/5. Mechanics/Bestiary/Elemental/Marid.md\|marid]] Shanzezim in area C10 can describe how to work the wheels.
 
@@ -290,7 +290,7 @@ One cog on the north wall doesn't connect to anything else on the wall around it
 
 #### C10: Improvised Workshop
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/014-01-005-marid-shanzezim.webp#center\|"The marid Shanzezim is bound to the crypts and spends time tinkering with clocks in an improvised workshop"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/014-01-005-marid-shanzezim.webp#center\|The marid Shanzezim is bound to the crypts and spends time tinkering with clocks in an improvised workshop]]
 
 > [!readaloud] 
 > 
@@ -414,7 +414,7 @@ An urn in a nook on the south wall rotates, sliding aside a wall panel that lead
 
 #### C17: Library
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/016-01-007-vecnan-cultist-library.webp#center\|"Vecnan cultists keep a repository of information and scrolls in a makeshift library in the catacombs"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/016-01-007-vecnan-cultist-library.webp#center\|Vecnan cultists keep a repository of information and scrolls in a makeshift library in the catacombs]]
 
 > [!readaloud] 
 > 
@@ -611,7 +611,7 @@ When the characters acquire this link, remind them about the Power of Secrets ru
 
 ### Evernight
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/020-01-011-evernight.webp#center\|"Evernight is a dismal mirror in the Shadowfell of the city of Neverwinter. The sun never shines here, and ashen fog chokes the sky"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/020-01-011-evernight.webp#center\|Evernight is a dismal mirror in the Shadowfell of the city of Neverwinter. The sun never shines here, and ashen fog chokes the sky]]
 
 Evernight is a forlorn metropolis in the Shadowfell. It has geography similar to Neverwinter's, but it presents as Neverwinter's dismal opposite. The sun never shines on Evernight, and ash-laden fog rises from lava flowing through the city in place of Neverwinter River, choking the city.
 
@@ -829,7 +829,7 @@ The first time a character pushes the tiles incorrectly, they see a small mechan
 
 #### B6: Matriarch's Chamber
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/025-01-013-kevetta-dolindar.webp#center\|"The matriarch Kevetta Dolindar has become a monster called a lonely sorrowsworn"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/025-01-013-kevetta-dolindar.webp#center\|The matriarch Kevetta Dolindar has become a monster called a lonely sorrowsworn]]
 
 > [!readaloud] 
 > 

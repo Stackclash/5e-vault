@@ -20,7 +20,7 @@ tags:
 aliases:
   - Gray Ooze (Psychic)
 ---
-# [[5. Mechanics\Bestiary\Ooze\Gray Ooze Psychic.md|Gray Ooze (Psychic)]]
+# [[/5. Mechanics/Bestiary/Ooze/Gray Ooze Psychic.md|Gray Ooze (Psychic)]]
 *Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock

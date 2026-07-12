@@ -10,19 +10,19 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Mage Hand.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Mage Hand.md \|"PHB"]] as cantrip, at class level 3
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Faerie Fire.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Faerie Fire.md \|"PHB"]] at class level 3
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Web.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Web.md \|"PHB"]] at class level 5
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Gaseous Form.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Gaseous Form.md \|"PHB"]] at class level 9
 
 ## 4th Level
 
@@ -30,4 +30,4 @@ aliases:
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Insect Plague.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Insect Plague.md \|"PHB"]] at class level 17

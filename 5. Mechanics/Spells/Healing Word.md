@@ -11,14 +11,14 @@ tags:
   - spell/level/1st-level
   - spell/school/evocation
   - spell/subclass/alchemist
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/the-valiant
 classes:
   - Artificer (Alchemist)
   - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock (The Valiant)
 school: Evocation
 level: 1
@@ -52,6 +52,6 @@ A creature of your choice that you can see within range regains hit points equal
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `dice:1d4|noform|noparens|avg|text(1d4)` for each slot level above 1st.
 
-**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Valiant)](/compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Valiant)](/compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

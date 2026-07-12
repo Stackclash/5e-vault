@@ -20,7 +20,7 @@ tags:
 aliases:
   - Ape
 ---
-# [[5. Mechanics\Bestiary\Beast\Ape.md|Ape]]
+# [[/5. Mechanics/Bestiary/Beast/Ape.md|Ape]]
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

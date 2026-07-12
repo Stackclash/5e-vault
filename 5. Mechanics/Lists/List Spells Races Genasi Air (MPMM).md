@@ -10,7 +10,7 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Shocking Grasp.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Shocking Grasp.md \|"PHB"]] as cantrip
 
 ## 1st Level
 
@@ -18,4 +18,4 @@ aliases:
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Levitate.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Levitate.md \|"PHB"]] at class level 5

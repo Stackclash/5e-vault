@@ -9,7 +9,7 @@ aliases:
 # Chapter 11: Eve of Ruin
 *Source: Vecna: Eve of Ruin, p. 191* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/157-11-001-vecnas-ritual-of-remaking.webp#center\|"Vecna is nearly done weaving his Ritual of Remaking. The heroes are the multiverse's only hope"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/157-11-001-vecnas-ritual-of-remaking.webp#center\|Vecna is nearly done weaving his Ritual of Remaking. The heroes are the multiverse's only hope]]
 
 To defeat [[/4. World Almanac/NPCs/Vecna The Archlich (VEOR).md\|Vecna]] and save the multiverse, the characters must reach the Cave of Shattered Reflection in Pandesmos and disrupt Vecna's ritual. Before that, the characters must navigate the demiplanes Vecna has already created and find a way to access the lich-god's ritual chamber.
 
@@ -131,7 +131,7 @@ This tunnel's walls flash violent scenes of Vecna slaying, dominating, and impri
 
 ## Torment of Kas
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/160-11-001-torment-of-kas.webp#center\|"When Vecna remakes the multiverse, he'll punish Kas with an eternity of suffering"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/160-11-001-torment-of-kas.webp#center\|When Vecna remakes the multiverse, he'll punish Kas with an eternity of suffering]]
 
 When the characters cross the threshold in area E2a, they appear in an alternate reality of Oerth, where [[/4. World Almanac/NPCs/Vecna The Archlich (VEOR).md\|Vecna]] has captured and imprisoned his archrival, [[/4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas the Betrayer]].
 
@@ -221,7 +221,7 @@ The characters can dismantle this unreality by touching the sword and performing
 
 ## Neverwinter's New King
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/163-11-002-lord-neverember.webp#center\|"Vecna plans to turn Lord Neverember into a death knight who will subjugate the city's population"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/163-11-002-lord-neverember.webp#center\|Vecna plans to turn Lord Neverember into a death knight who will subjugate the city's population]]
 
 When the characters cross the threshold in area E2b, they appear in an unreality where Vecna commands control over the city of Neverwinter in Faerûn.
 
@@ -252,7 +252,7 @@ The secret that Lord Neverember is not the rightful ruler of Neverwinter is repr
 
 ## Dead Gods
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/165-11-003-dreadnought.webp#center\|"An astral dreadnought consumes a dead god in Vecna's new reality"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/165-11-003-dreadnought.webp#center\|An astral dreadnought consumes a dead god in Vecna's new reality]]
 
 When the characters cross the threshold in area E2c, they appear in an unreality where Vecna has usurped the power of every other god in the multiverse and scattered the dead gods' bones across the Astral Sea.
 
@@ -343,7 +343,7 @@ Most of the walls are made of a translucent, purple crystal that is immune to al
 
 Portals made of translucent, solid diamond are set into the crystal walls. Creatures on opposite sides of a diamond door can see each other vaguely, provided they are both within 5 feet of the door.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/168-11-004-cave-of-shattered-reflection.webp#center\|"The Cave of Shattered Reflection is dotted with diamond doors"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/168-11-004-cave-of-shattered-reflection.webp#center\|The Cave of Shattered Reflection is dotted with diamond doors]]
 
 With the exception of the door in area R2, each side of each diamond door is set with a large ruby, the other with a large sapphire. (These are depicted on the map in red and blue, respectively.) Each side of the door is also etched with a sigil. This sigil matches the sigil on another door in the Cave of Shattered Reflection. Map 11.5 shows five pairs of identical sigils, labeled A1 and A2, B1 and B2, C1 and C2, `D1` and `D2`, and E1 and E2.
 

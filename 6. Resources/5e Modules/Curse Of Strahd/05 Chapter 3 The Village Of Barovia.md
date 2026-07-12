@@ -269,7 +269,7 @@ Once Kolyan is put in the ground, [[/4. World Almanac/NPCs/Donavich (COS).md\|Do
 
 > [!readaloud] 
 > 
-> The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
+> The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips through the cracks, allowing you to glimpse a gaunt shape in the far corner.
 ^164
 
 ![[/6. Resources/5e Modules/Curse Of Strahd/img/021-cos03-08.webp#center\|Doru]]

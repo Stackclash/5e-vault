@@ -24,7 +24,7 @@ tags:
 aliases:
   - Giant Goat
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Goat.md|Giant Goat]]
+# [[/5. Mechanics/Bestiary/Beast/Giant Goat.md|Giant Goat]]
 *Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

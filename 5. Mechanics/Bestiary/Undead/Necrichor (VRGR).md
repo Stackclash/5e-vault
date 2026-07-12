@@ -18,7 +18,7 @@ tags:
 aliases:
   - Necrichor
 ---
-# [[5. Mechanics\Bestiary\Undead\Necrichor (VRGR).md|Necrichor]]
+# [[/5. Mechanics/Bestiary/Undead/Necrichor (VRGR).md|Necrichor]]
 *Source: Van Richten's Guide to Ravenloft p. 238*
 
 A necrichor is a being of living blood, formed from the ichor of evil gods or the sludge in the crypts of failed liches. Despite the loss of a solid physical form, these foul creatures retain their terrible intellects and aspire to megalomaniacal goals—the first of which involves regaining a body. To do this, they seek servants to exact their will, coercing even the most stubborn potential minions by turning their own blood against them.
@@ -62,10 +62,10 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 "traits":
   - "desc": "If the necrichor fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (2/Day)"
-  - "desc": "Unless its lifeless remains are splashed with holy water or placed in\
-      \ a vessel under the effects of the [[/5. Mechanics/Spells/Hallow.md|hallow]] spell,\
-      \ the destroyed necrichor re-forms in 1d10 days, regaining all its hits points\
-      \ and appearing in the place it died or in the nearest unoccupied space."
+  - "desc": "Unless its lifeless remains are splashed with [[/5. Mechanics/Items/Holy Water Flask.md|holy water]]\
+      \ or placed in a vessel under the effects of the [[/5. Mechanics/Spells/Hallow.md|hallow]]\
+      \ spell, the destroyed necrichor re-forms in 1d10 days, regaining all its hits\
+      \ points and appearing in the place it died or in the nearest unoccupied space."
     "name": "Rejuvenation"
   - "desc": "The necrichor can climb difficult surfaces, including upside down on\
       \ ceilings, without needing to make an ability check."

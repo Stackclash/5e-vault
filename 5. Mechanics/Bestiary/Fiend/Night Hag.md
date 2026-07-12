@@ -18,7 +18,7 @@ tags:
 aliases:
   - Night Hag
 ---
-# [[5. Mechanics\Bestiary\Fiend\Night Hag.md|Night Hag]]
+# [[/5. Mechanics/Bestiary/Fiend/Night Hag.md|Night Hag]]
 *Source: Monster Manual p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
@@ -151,12 +151,13 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     "name": "Magic Resistance"
   - "desc": "A night hag carries two very rare magic items that she must craft for\
       \ herself. If either object is lost, the night hag will go to great lengths\
-      \ to retrieve it, as creating a new tool takes time and effort.\n\nHeartstone:\
+      \ to retrieve it, as creating a new tool takes time and effort.\n\n**Heartstone.**\
       \ This lustrous black gem allows a night hag to become ethereal while it is\
-      \ in her possession. The touch of a heartstone also cures any disease. Crafting\
-      \ a heartstone takes 30 days.\n\nSoul Bag: When an evil humanoid dies as a result\
-      \ of a night hag's Nightmare Haunting, the hag catches the soul in this black\
-      \ sack made of stitched flesh. A soul bag can hold only one evil soul at a time,\
+      \ in her possession. The touch of a [[/5. Mechanics/Items/Heartstone (MM).md|heartstone]]\
+      \ also cures any disease. Crafting a heartstone takes 30 days.\n\n**Soul Bag.**\
+      \ When an evil humanoid dies as a result of a night hag's Nightmare Haunting,\
+      \ the hag catches the soul in this black sack made of stitched flesh. A [[/5. Mechanics/Items/Soul Bag (MM).md|soul\
+      \ bag]] can hold only one evil soul at a time,\
       \ and only the night hag who crafted the bag can catch a soul with it. Crafting\
       \ a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make\
       \ the bag)."
@@ -181,7 +182,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
       \ hit point maximum is reduced by 5 (1d10). If this effect reduces the target's\
       \ hit point maximum to 0, the target dies, and if the target was evil, its soul\
       \ is trapped in the hag's soul bag. The reduction to the target's hit point\
-      \ maximum lasts until removed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ maximum lasts until removed by the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or similar magic."
     "name": "Nightmare Haunting (1/Day)"
 "lair_actions":

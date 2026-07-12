@@ -20,7 +20,7 @@ tags:
 aliases:
   - Deep Rothé
 ---
-# [[5. Mechanics\Bestiary\Beast\Deep Rothe (MPMM).md|Deep Rothé]]
+# [[/5. Mechanics/Bestiary/Beast/Deep Rothe (MPMM).md|Deep Rothé]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208*
 
 Deep rothé are Underdark cattle that communicate with one another using the dancing lights spell. Some scholars speculate that rothé came originally from the Feywild and brought the ability to cast the spell with them. Other sages attribute the ability to the centuries rothé have spent in the Underdark, where ambient magic slowly transforms everything.

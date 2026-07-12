@@ -20,7 +20,7 @@ tags:
 aliases:
   - Reef Shark
 ---
-# [[5. Mechanics\Bestiary\Beast\Reef Shark.md|Reef Shark]]
+# [[/5. Mechanics/Bestiary/Beast/Reef Shark.md|Reef Shark]]
 *Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.

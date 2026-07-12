@@ -24,7 +24,7 @@ tags:
 aliases:
   - Mule
 ---
-# [[5. Mechanics\Bestiary\Beast\Mule.md|Mule]]
+# [[/5. Mechanics/Bestiary/Beast/Mule.md|Mule]]
 *Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

@@ -9,6 +9,7 @@ tags:
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/3rd-level
+  - spell/race/triton
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight

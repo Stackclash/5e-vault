@@ -18,7 +18,7 @@ tags:
 aliases:
   - Hydroloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Hydroloth (MPMM).md|Hydroloth]]
+# [[/5. Mechanics/Bestiary/Fiend/Hydroloth (MPMM).md|Hydroloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*
 
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
@@ -75,7 +75,7 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d10 + 5) force damage plus 9 (2d10) psychic damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.  *Hit:* 14\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d8 + 5) force damage plus 9 (2d10) psychic damage."
     "name": "Claw"
   - "desc": "The hydroloth targets one creature it can see within 60 feet of it. The\

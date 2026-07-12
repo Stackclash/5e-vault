@@ -20,7 +20,7 @@ tags:
 aliases:
   - Grung (Red)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Red (MPMM).md|Grung (Red)]]
+# [[/5. Mechanics/Bestiary/Humanoid/Grung Red (MPMM).md|Grung (Red)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*
 
 ```statblock

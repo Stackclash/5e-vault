@@ -307,7 +307,7 @@ A monster's innate spells can't be swapped out with other spells. If a monster's
 
 #### Spellcasting
 
-A monster with the Spellcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the *Player's Handbook*). The spellcaster level is also used for any cantrips included in the feature.
+A monster with the Spellcasting class feature has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the *Player's Handbook*). The spellcaster level is also used for any cantrips included in the feature.
 
 The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
 

@@ -18,7 +18,7 @@ aliases:
   - Cutpurse
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Cutpurse (SAF).md|Cutpurse]]
+# [[/5. Mechanics/Bestiary/Humanoid/Cutpurse (SAF).md|Cutpurse]]
 *Source: Strongholds and Followers p. 79*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "13"
 "ac_class": "Light"
+"hp": "health levels equal to their level"
 "modifier": !!int "4"
 "stats":
   - !!int "14"

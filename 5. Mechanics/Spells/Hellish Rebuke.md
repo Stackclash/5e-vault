@@ -25,7 +25,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take in response to being damaged by a creature within
+  60 feet of you that you can see
 duration: Instantaneous
 range: 60 feet
 aliases:
@@ -45,7 +47,7 @@ saving_throw:
 # Hellish Rebuke
 *1st-level, Evocation*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

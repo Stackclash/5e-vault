@@ -36,7 +36,7 @@ tags:
 aliases:
   - Scout
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Scout.md|Scout]]
+# [[/5. Mechanics/Bestiary/Humanoid/Scout.md|Scout]]
 *Source: Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.

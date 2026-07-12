@@ -18,7 +18,7 @@ tags:
 aliases:
   - Shocker Lizard
 ---
-# [[5. Mechanics\Bestiary\Beast\Shocker Lizard (KPDM).md|Shocker Lizard]]
+# [[/5. Mechanics/Bestiary/Beast/Shocker Lizard (KPDM).md|Shocker Lizard]]
 *Source: Deep Magic p. 293*
 
 A social beast that dwells in swamps and forests, the shocker lizard can be a suitable familiar for a [[/5. Mechanics/Classes/Wizard.md|wizard]] who specializes in lightning or storm magic. Taking a shocker lizard as a familiar requires an additional material component of 50 gp worth of fulgurite when the [[/5. Mechanics/Spells/Find Familiar.md|find familiar]] spell is cast.

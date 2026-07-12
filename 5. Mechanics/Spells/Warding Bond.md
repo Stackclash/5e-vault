@@ -10,7 +10,7 @@ tags:
   - spell/level/2nd-level
   - spell/school/abjuration
   - spell/subclass/battle-smith
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/oath-of-the-watchtower
   - spell/subclass/peace-domain
 classes:
@@ -20,7 +20,7 @@ classes:
   - Cleric (Peace Domain)
   - Paladin
   - Paladin (Oath of the Watchtower)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Abjuration
 level: 2
 ritual: false
@@ -51,6 +51,6 @@ This spell wards a willing creature you touch and creates a mystic connection be
 
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-**Classes**: [Artificer (Battle Smith)](/compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Artificer (Battle Smith)](/compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -26,7 +26,7 @@ tags:
 aliases:
   - Flying Snake
 ---
-# [[5. Mechanics\Bestiary\Beast\Flying Snake.md|Flying Snake]]
+# [[/5. Mechanics/Bestiary/Beast/Flying Snake.md|Flying Snake]]
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.

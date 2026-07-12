@@ -20,7 +20,7 @@ tags:
 aliases:
   - Rust Monster
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Rust Monster.md|Rust Monster]]
+# [[/5. Mechanics/Bestiary/Monstrosity/Rust Monster.md|Rust Monster]]
 *Source: Monster Manual p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Most dwarves would rather face a squad of orcs than confront a single rust monster. These strange, normally docile creatures corrode ferrous metals, then gobble up the rust they create. In doing so, they have ruined the armor, shields, and weapons of countless adventurers.

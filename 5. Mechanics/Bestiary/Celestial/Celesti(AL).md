@@ -8,9 +8,9 @@ cssclasses:
 
 - [[.nullAlicorn (SAF).md|Alicorn]]
 - [[.nullAuthority (SAF).md|Authority]]
+- [[.nullCelestial Spirit (TCE).md|Celestial Spirit]]
 - [[.nullCelestial Spirit Avenger (TCE).md|Celestial Spirit (Avenger)]]
 - [[.nullCelestial Spirit Defender (TCE).md|Celestial Spirit (Defender)]]
-- [[.nullCelestial Spirit (TCE).md|Celestial Spirit]]
 - [[.nullCouatl.md|Couatl]]
 - [[.nullDeva.md|Deva]]
 - [[.nullDominion (SAF).md|Dominion]]

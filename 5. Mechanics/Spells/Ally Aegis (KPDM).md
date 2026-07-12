@@ -25,7 +25,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when your ally is hit by an attack or is targeted
+  by a spell that deals damage other than psychic damage
 duration: 1 round
 range: 60 feet
 aliases:
@@ -40,7 +42,7 @@ damage:
 # Ally Aegis
 *6th-level, Abjuration*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when your ally is hit by an attack or is targeted by a spell that deals damage other than psychic damage
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** 1 round

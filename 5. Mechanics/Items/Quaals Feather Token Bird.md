@@ -17,6 +17,7 @@ item_recharge: none
 ---
 # Quaal's Feather Token, Bird
 *Wondrous item, minor, rare*  
+![[/5. Mechanics/Items/img/quaals-feather-token-bird.webp#right]]  
 
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})

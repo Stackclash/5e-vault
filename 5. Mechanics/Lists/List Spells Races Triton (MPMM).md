@@ -10,12 +10,13 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Fog Cloud.md \|"PHB"]] 
+- [[/5. Mechanics/Spells/Fog Cloud.md \|"PHB"]]
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Gust Of Wind.md \|"PHB"]] 
+- [[/5. Mechanics/Spells/Gust Of Wind.md \|"PHB"]] at class level 3
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Wall Of Water (XGE).md \|"XGE"]]
+- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]] at class level 5

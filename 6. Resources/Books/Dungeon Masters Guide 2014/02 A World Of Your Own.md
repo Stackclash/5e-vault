@@ -11,9 +11,11 @@ aliases:
 
 Your world is the setting for your campaign, the place where adventures happen. Even if you use an existing setting, such as the Forgotten Realms, it becomes yours as you set your adventures there, create characters to inhabit it, and make changes to it over the course of your campaign. This chapter is all about building your world and then creating a campaign to take place in it.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/ch1splash.webp#center]]
+
 ## The Big Picture
 
-This book, the *Player's Handbook*, and the *Monster Manual* present the default assumptions for how the worlds of D&D work. Among the established settings of D&D, the Forgotten Realms, Greyhawk, Dragonlance, and Mystara don't stray very far from those assumptions. Settings such as Dark Sun, Eberron, Ravenloft, Spelljammer, and Planescape venture further away from that baseline. As you create your own world, it's up to you to decide where on the spectrum you want your world to fall.
+This book, the "Player's Handbook", and the "Monster Manual" present the default assumptions for how the worlds of D&D work. Among the established settings of D&D, the Forgotten Realms, Greyhawk, Dragonlance, and Mystara don't stray very far from those assumptions. Settings such as Dark Sun, Eberron, Ravenloft, Spelljammer, and Planescape venture further away from that baseline. As you create your own world, it's up to you to decide where on the spectrum you want your world to fall.
 
 ### Core Assumptions
 
@@ -184,7 +186,11 @@ With that in mind, consider the role of the gods in your world and their ties to
 
 Finally, consider the difference between gods who are tied to specific humanoid races and gods with more diverse followers. Do the races with their own pantheons enjoy a place of privilege in your world, with their gods taking an active role in their affairs? Are the other races ignored by the gods, or are those races the deciding factor that can tilt the balance of power in favor of one god or another?
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-1.webp#center]]
+
 ## Mapping Your Campaign
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-2.webp#center]]
 
 When creating the world where your campaign takes place, you'll want a map. You can take one of two approaches with it: top-down or bottom-up. Some DMs like to start at the top, creating the big picture of the world at the start of the campaign by having a map that shows whole continents, and then zooming in on smaller areas. Other DMs prefer to go the opposite direction, starting with a small campaign area that is mapped at a province or kingdom scale, then zooming out as adventures take the characters into new territory. Whichever approach you take, hexes work well for mapping outdoor environments where travel can go in any direction and calculating distance might be important. A single sheet of hex paper with 5 hexes to the inch is ideal for most maps. Use a scale for your map that's best suited to the level of detail you want. Chapter 7 offers more information about creating and mapping wilderness areas.
 
@@ -236,6 +242,8 @@ The guidelines in this section are here to help you build the settlement you wan
 
 A settlement exists primarily to facilitate the story and fun of your campaign. Other than that point, the settlement's purpose determines the amount of detail you put into it. Create only the features of a settlement that you know you'll need, along with notes on general features. Then allow the place to grow organically as the adventurers interact with more and more of it, keeping notes on new places you invent.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-3.webp#center]]
+
 #### Local Color
 
 A settlement might serve as a place where the characters stop to rest and to buy supplies. A settlement of this sort needs no more than a brief description. Include the settlement's name, decide how big it is, add a dash of flavor ("The smell of the local tanneries never lifts from this town"), and let the adventurers get on with their business. The history of the inn where the characters spend the night, the mannerisms of the shopkeeper they buy supplies from-you can add this level of detail, but you don't have to. If the characters return to the same settlement, start adding these local features so that it begins to feel a little more like a home base, albeit a temporary one. Let the settlement develop as the need arises.
@@ -257,6 +265,8 @@ A village harboring a secret cult of devil worshipers. A town controlled by a gu
 ### Size
 
 Most settlements in a D&D world are villages clustered around a larger town or city. Farming villages supply the town or city population with food in exchange for goods the farmers can't produce themselves. Towns and cities are the seats of the nobles who govern the surrounding area, and who carry the responsibility for defending the villages from attack. Occasionally, a local lord or lady lives in a keep or fortress with no nearby town or city.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-4.webp#center]]
 
 #### Village
 
@@ -418,6 +428,8 @@ These merchants can't provide the services normally found in a city. For instanc
 
 The straightforward terms "gold piece" (gp), "silver piece" (sp), "copper piece" (cp), "electrum piece" (ep), and "platinum piece" (pp) are used throughout the game rules for clarity. You can imbue these denominations with more interesting descriptions in your game world. People give coins specific names, whether as plain as "dime" or lively as "gold double-eagle." A country typically mints its own currency, which might correspond to the basic rules terms. In most worlds, few currencies achieve widespread distribution, but nearly all coins are accepted worldwide-except by those looking to pick a fight with a foreigner.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-5.webp#center]]
+
 **Example: The Forgotten Realms**
 
 The world of the Forgotten Realms provides an extensive example of currencies. Although barter, blood notes, and similar letters of trade are common enough in Faerûn, metal coins and trade bars are the everyday currency.
@@ -473,6 +485,8 @@ In a region where one race has subjugated another, the language of the conqueror
 ## Factions and Organizations
 
 Temples, guilds, orders, secret societies, and colleges are important forces in the social order of any civilization. Their influence might stretch across multiple towns and cities, with or without a similarly wide-ranging political authority. Organizations can play an important part in the lives of player characters, becoming their patrons, allies, or enemies just like individual nonplayer characters. When characters join these organizations, they become part of something larger than themselves, which can give their adventures a context in the wider world.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-6.webp#center\|From left to right: Harpers, Order of the Gauntlet, Emerald Enclave, Lords' Alliance, Zhentarim]]
 
 ### Adventurers and Organizations
 
@@ -647,6 +661,8 @@ The start of a campaign resembles the start of an adventure. You want to jump qu
 
 When you first start building your campaign, start small. The characters need to know only about the city, town, or village where they start the game, and perhaps the nearby dungeon. You might decide that the barony is at war with a nearby duchy, or that a distant forest is crawling with ettercaps and giant spiders, and you should note these things. But at the start of the game, the local area is enough to get the campaign off the ground. Follow these steps to create that local area:
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-7.webp#center]]
+
 #### 1. Create a Home Base
 
 See the "Settlements" section earlier in this chapter for guidance on building this settlement. A small town or village at the edge of the wilderness serves as a fine home base in most D&D campaigns. Use a larger town or city if you want a campaign with urban adventuring.
@@ -790,6 +806,8 @@ Define the aggressor and whether it represents a known enemy or a previously unk
 
 ![[/5. Mechanics/Tables/Assault Or Invasion Invading Forces.md\|Assault or Invasion; Invading Forces]]
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-8.webp#center]]
+
 Now consider these other aspects of the conflict:
 
 - Name one element of the invasion or assault that the defenders didn't expect or couldn't repel.  
@@ -810,6 +828,8 @@ Imagine that part of your campaign world erupts in revolution. Pick a power grou
 - State the cost exacted upon the old order after its fall from power. Does anyone from the former power group remain in power during the next regime? If the old order remains in power, describe one way that its leaders punish the revolutionaries.  
 - One of the rebellion's prominent leaders-in some respects the face of the revolution-was driven by a personal reason for his or her part in events. Describe this person and state the true reason he or she led the rebellion.  
 - What problem existed before the revolution that persists in spite of it?  
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-9.webp#center]]
 
 #### 6. Extinction or Depletion
 
@@ -905,6 +925,8 @@ Certain holy days are civic events, observed by every citizen of a town where a 
 
 Give some thought to how priests and common folk celebrate holy days. Going into a temple, sitting in a pew, and listening to a sermon is a mode of worship foreign to most fantasy religions. More commonly, celebrants offer sacrifices to their gods. The faithful bring animals to the temple to be slaughtered or burn incense as an offering. The wealthiest citizens bring the largest animals, to flaunt their wealth and demonstrate their piety. People pour out libations at the graves of their ancestors. They spend all-night vigils in darkened shrines or enjoy splendid feasts celebrating a god's bounty.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-10.webp#center]]
+
 #### Civic Observances
 
 Holy days provide the majority of the special celebrations in most calendars, but local or national festivals account for many others. The birthday of a monarch, the anniversary of a great victory in a war, craft festivals, market days, and similar events all provide excuses for local celebrations.
@@ -933,6 +955,8 @@ Once the campaign has ended, a new one can begin. If you intend to run a new cam
 By building a new world (or adopting an existing one) and creating the key events that launch your campaign, you determined what your campaign is about. Next, you have to decide how you want to run your campaign.
 
 What's the right way to run a campaign? That depends on your play style and the motivations of your players. Consider your players' tastes, your strengths as a DM, table rules (discussed in part 3), and the type of game you want to run. Describe to the players how you envision the game experience and let them give you input. The game is theirs, too. Lay that groundwork early, so your players can make informed choices and help you maintain the type of game you want to run. Consider the following two exaggerated examples of play style.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-11.webp#center]]
 
 ### Hack and Slash
 
@@ -1056,6 +1080,8 @@ Starting equipment for characters above 1st level is entirely at your discretion
 
 Dungeons & Dragons is a fantasy game, but that broad category encompasses a lot of variety. Many different flavors of fantasy exist in fiction and film. Do you want a horrific campaign inspired by the works of H. P. Lovecraft or Clark Ashton Smith? Or do you envision a world of muscled barbarians and nimble thieves, along the lines of the classic sword-and-sorcery books by Robert E. Howard and Fritz Leiber? Your choice can have a impact on the flavor of your campaign.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-12.webp#center]]
+
 ### Heroic Fantasy
 
 Heroic fantasy is the baseline assumed by the D&D rules. The Player's Handbook describes this baseline: a multitude of humanoid races coexist with humans in fantastic worlds. Adventurers bring magical powers to bear against the monstrous threats they face. These characters typically come from ordinary backgrounds, but something impels them into an adventuring life. The adventurers are the "heroes" of the campaign, but they might not be truly heroic, instead pursuing this life for selfish reasons. Technology and society are based on medieval norms, though the culture isn't necessarily European. Campaigns often revolve around delving into ancient dungeons in search of treasure or in an effort to destroy monsters or villains.
@@ -1105,6 +1131,8 @@ Political intrigue, espionage, sabotage, and similar cloak-and-dagger activities
 Again, make sure your players know ahead of time that you want to run this kind of campaign. Otherwise, a player might create a defense-focused dwarf paladin, only to find he is out of place among half-elf diplomats and tiefling spies.
 
 The Brimstone Angels novels by Erin M. Evans focus on intrigue in the Forgotten Realms setting, from the backstabbing politics of the Nine Hells to the contested succession of Cormyrean royalty.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/1-13.webp#center]]
 
 ### Mystery
 

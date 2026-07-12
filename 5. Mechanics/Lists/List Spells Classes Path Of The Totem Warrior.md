@@ -18,4 +18,4 @@ aliases:
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Commune With Nature.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Commune With Nature.md \|"PHB"]] at class level 10

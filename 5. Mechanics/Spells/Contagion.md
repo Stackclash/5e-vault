@@ -10,7 +10,7 @@ tags:
   - spell/level/5th-level
   - spell/school/necromancy
   - spell/subclass/circle-of-spores
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/festus-domain
   - spell/subclass/hedge-mage
   - spell/subclass/oath-of-the-annihilator
@@ -23,7 +23,7 @@ classes:
   - Druid (Circle of Spores)
   - Paladin (Oath of the Annihilator)
   - Paladin (Oathbreaker)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Wizard (Hedge Mage)
 school: Necromancy
 level: 5
@@ -83,6 +83,6 @@ The creature begins to bleed uncontrollably. The creature has disadvantage on Co
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Festus Domain)](/compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Spores)](/compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oathbreaker)](/compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Festus Domain)](/compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Spores)](/compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oathbreaker)](/compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

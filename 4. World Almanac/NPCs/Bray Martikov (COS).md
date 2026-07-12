@@ -201,7 +201,7 @@ return function View() {
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form. If the\
       \ target is humanoid, it must succeed on a DC 10 Constitution saving throw or\
-      \ be cursed with wereraven lycanthropy."
+      \ be cursed with wereraven [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]."
     "name": "Beak (Raven or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."

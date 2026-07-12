@@ -27,7 +27,7 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take when an enemy tries to cast a spell'
 duration: Instantaneous
 range: Touch
 aliases:
@@ -36,7 +36,7 @@ aliases:
 # Distracting Divination
 *2nd-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy tries to cast a spell
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous

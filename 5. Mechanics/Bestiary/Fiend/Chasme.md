@@ -18,7 +18,7 @@ tags:
 aliases:
   - Chasme
 ---
-# [[5. Mechanics\Bestiary\Fiend\Chasme.md|Chasme]]
+# [[/5. Mechanics/Bestiary/Fiend/Chasme.md|Chasme]]
 *Source: Monster Manual p. 57*
 
 This loathsome demon resembles an unspeakable crossing of humanoid and fly. A chasme shuffles about on four spindly legs that can find purchase on walls and ceilings. A droning sound precedes the approach of a chasme, inflicting foes with a terrible lethargy that leaves them open to attack.
@@ -226,13 +226,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "cr": "6"
 "traits":
   - "desc": "The chasme produces a horrid droning sound to which demons are immune.\
-      \ Any other creature that starts its turn with in 30 feet of the chasme must\
+      \ Any other creature that starts its turn within 30 feet of the chasme must\
       \ succeed on a DC 12 Constitution saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
       \ for 10 minutes. A creature that can't hear the drone automatically succeeds\
       \ on the save. The effect on the creature ends if it takes damage or if another\
-      \ creature takes an action to splash it with holy water. If a creature's saving\
-      \ throw is successful or the effect ends for it, it is immune to the drone for\
-      \ the next 24 hours."
+      \ creature takes an action to splash it with [[/5. Mechanics/Items/Holy Water Flask.md|holy water]].\
+      \ If a creature's saving throw is successful or the effect ends for it, it is\
+      \ immune to the drone for the next 24 hours."
     "name": "Drone"
   - "desc": "The chasme has advantage on saving throws against spells and other magical\
       \ effects."
@@ -246,7 +246,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ hit point maximum is reduced by an amount equal to the necrotic damage taken.\
       \ If this effect reduces a creature's hit point maximum to 0, the creature dies.\
       \ This reduction to a creature's hit point maximum lasts until the creature\
-      \ finishes a long rest or until it is affected by a spell like  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]."
+      \ finishes a long rest or until it is affected by a spell like [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]."
     "name": "Proboscis"
 "source":
   - "MM"

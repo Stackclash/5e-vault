@@ -31,7 +31,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you are attacked but before the attack roll is
+  made
 duration: Instantaneous
 range: Self
 aliases:
@@ -40,7 +42,7 @@ aliases:
 # Anticipate Attack
 *2nd-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you are attacked but before the attack roll is made
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous

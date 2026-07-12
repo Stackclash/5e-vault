@@ -22,7 +22,7 @@ tags:
 aliases:
   - Marid (Disguises)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Marid Disguises.md|Marid (Disguises)]]
+# [[/5. Mechanics/Bestiary/Elemental/Marid Disguises.md|Marid (Disguises)]]
 *Source: Monster Manual p. 146*
 
 ```statblock

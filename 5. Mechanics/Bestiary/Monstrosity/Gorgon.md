@@ -24,7 +24,7 @@ tags:
 aliases:
   - Gorgon
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Gorgon.md|Gorgon]]
+# [[/5. Mechanics/Bestiary/Monstrosity/Gorgon.md|Gorgon]]
 *Source: Monster Manual p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Few creatures that encounter a gorgon live to tell about it. Its body is covered in iron plates, and its nostrils fume with green vapor.
@@ -83,7 +83,7 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
       \ The [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] target must repeat\
       \ the saving throw at the end of its next turn. On a success, the effect ends\
       \ on the target. On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
-      \ until freed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ until freed by the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or other magic."
     "name": "Petrifying Breath (Recharge 5-6)"
 "source":

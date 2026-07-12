@@ -15,7 +15,7 @@ aliases:
   - Baba Lysaga
 alignment: Chaotic Evil
 relationships:
-  - "Mab|ally of convenience"
+  - Mab|ally of convenience
 partyRelationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
@@ -38,14 +38,14 @@ goals: >-
 likes: 'Magic, Strahd, her creeping hut'
 dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
 secrets: >-
-  Strahd's death is barely a week old to her — she has not had time to
-  cool, only to plan. She has struck a bargain with Mab, Queen of Air and
-  Darkness, trading a future favor for a pack of Yeth Hounds and a glamour
-  that lets her pass as a fey bargain-broker. She intends to use it to lure
-  Strahd's killers into a trap the instant they set foot in fey territory —
-  she is a schemer and a shapechanger, not a duelist, and will not fight
-  fair if she can help it. If the trap turns against her, she has an escape
-  already arranged and will not stay to be finished off.
+  Strahd's death is barely a week old to her — she has not had time to cool,
+  only to plan. She has struck a bargain with Mab, Queen of Air and Darkness,
+  trading a future favor for a pack of Yeth Hounds and a glamour that lets her
+  pass as a fey bargain-broker. She intends to use it to lure Strahd's killers
+  into a trap the instant they set foot in fey territory — she is a schemer and
+  a shapechanger, not a duelist, and will not fight fair if she can help it. If
+  the trap turns against her, she has an escape already arranged and will not
+  stay to be finished off.
 ---
 > [!infobox]
 > # `=this.file.name`

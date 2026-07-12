@@ -11,7 +11,7 @@ tags:
   - spell/school/abjuration
   - spell/subclass/alchemist
   - spell/subclass/death-domain
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/grave-domain
   - spell/subclass/life-domain
   - spell/subclass/oath-of-legacy
@@ -27,7 +27,7 @@ classes:
   - Paladin
   - Paladin (Oath of Legacy)
   - Paladin (Oath of the Watchtower)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock (The Undead)
 school: Abjuration
 level: 4
@@ -57,6 +57,6 @@ The first time the target would drop to 0 hit points as a result of taking damag
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
-**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Undead)](/compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR")
+**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Undead)](/compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR")
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

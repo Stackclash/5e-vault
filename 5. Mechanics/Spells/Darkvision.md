@@ -11,6 +11,7 @@ tags:
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/2nd-level
+  - spell/reward/charm-of-darkvision
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight

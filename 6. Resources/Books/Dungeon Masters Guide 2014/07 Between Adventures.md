@@ -15,6 +15,8 @@ The natural pace of a campaign offers lulls between adventures, time for the cha
 
 Chapter 5, "Equipment," of the *Player's Handbook* details the expenses that a character incurs for basic necessities, depending on the lifestyle the character chooses, from poverty to luxury. Chapter 8, "Adventuring," of that book describes some of the downtime activities they can pursue between adventures. This chapter fills in the gaps, describing the expenses of owning property and hiring NPCs, and a variety of additional downtime activities characters can pursue. The beginning of the chapter also offers suggestions for linking adventures together and keeping track of events in your campaign.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/6-1.webp#center]]
+
 ## Linking Adventures
 
 A campaign in the style of an episodic television show rarely needs story links between its adventures. Each adventure features its own villains, and once the characters complete the adventure, there are typically no loose plot threads. The next adventure presents an altogether different challenge having nothing to do with the adventure that preceded it. As the characters gain experience points, they become more powerful, as do the threats they must overcome. This kind of campaign is easy to run, since it requires little effort beyond finding or creating adventures appropriate for the party's level.
@@ -112,6 +114,8 @@ Keep notes whenever you create or significantly alter a monster, magic item, or 
 
 ## Recurring Expenses
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/6-2.webp#center]]
+
 Besides the expenses associated with maintaining a particular lifestyle, adventurers might have additional drains on their adventuring income. Player characters who come into possession of property, own businesses, and employ hirelings must cover the expenses that accompany these ventures.
 
 ![[/5. Mechanics/Tables/Recurring Expenses Maintenance Costs.md\|Recurring Expenses; Maintenance Costs]]
@@ -146,7 +150,11 @@ As your campaign progresses, your players' characters will not only become more 
 
 ### More Downtime Activities
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/6-3.webp#center]]
+
 Chapter 8, ""Adventuring"," of the *Player's Handbook* describes a few downtime activities to fill the void between adventures. Depending on the style of your campaign and the particular backgrounds and interests of the adventurers, you can make some or all of the following additional activities available as options.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/6-4.webp#center]]
 
 - [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Building A Stronghold.md\|Building a Stronghold]]  
 - [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing (XGE).md\|Carousing]]  
@@ -166,4 +174,6 @@ Your players might be interested in pursuing downtime activities that aren't cov
 - Activities that have a monetary cost associated with them provide opportunities for player characters to spend their hard-won treasure.  
 - Activities that reveal new adventure hooks and previously unknown facts about your campaign can help you foreshadow future events and conflicts.  
 - For an activity you expect a character to repeat with variable degrees of success, consider creating a random outcome table, modeled on the ones in this chapter.  
-- If a character belongs to a class or has a proficiency or background that would make him or her well suited to a particular activity, consider granting a bonus to ability checks made by the character to complete that activity successfully.
+- If a character belongs to a class or has a proficiency or background that would make him or her well suited to a particular activity, consider granting a bonus to ability checks made by the character to complete that activity successfully.  
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/6-5.webp#center]]

@@ -18,7 +18,7 @@ tags:
 aliases:
   - Tridrone (Rogue)
 ---
-# [[5. Mechanics\Bestiary\Construct\Tridrone Rogue.md|Tridrone (Rogue)]]
+# [[/5. Mechanics/Bestiary/Construct/Tridrone Rogue.md|Tridrone (Rogue)]]
 *Source: Monster Manual p. 225*
 
 ```statblock

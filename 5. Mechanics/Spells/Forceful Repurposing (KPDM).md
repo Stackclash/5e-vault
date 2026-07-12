@@ -25,7 +25,9 @@ verbal: false
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you see a creature within range casting a
+  spell
 duration: Instantaneous
 range: 60 feet
 aliases:
@@ -34,7 +36,7 @@ aliases:
 # Forceful Repurposing
 *3rd-level, Abjuration*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you see a creature within range casting a spell
 - **Range:** 60 feet
 - **Components:** S
 - **Duration:** Instantaneous

@@ -34,7 +34,7 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take at the start of another creature''s turn'
 duration: Instantaneous
 range: Self
 aliases:
@@ -43,7 +43,7 @@ aliases:
 # Seer's Reaction
 *1st-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take at the start of another creature's turn
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous

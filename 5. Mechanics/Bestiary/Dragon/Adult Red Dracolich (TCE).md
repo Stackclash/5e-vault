@@ -18,7 +18,7 @@ tags:
 aliases:
   - Adult Red Dracolich
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Red Dracolich (TCE).md|Adult Red Dracolich]]
+# [[/5. Mechanics/Bestiary/Dragon/Adult Red Dracolich (TCE).md|Adult Red Dracolich]]
 *Source: Tasha's Cauldron of Everything p. 137*
 
 ```statblock

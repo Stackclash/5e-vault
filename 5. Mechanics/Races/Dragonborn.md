@@ -86,7 +86,7 @@ Dragonborn have personal names given at birth, but they put their clan names fir
 
 - **Male Names.** Arjhan, Balasar, Bharash, Donaar, Ghesh, Hesken, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn  
 - **Female Names.** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit  
-- **Childhood Names.** Climber, Earbenden Leaper, Pious, Shieldbiter, Zealous  
+- **Childhood Names.** Climber, Earbenden, Leaper, Pious, Shieldbiter, Zealous  
 - **Clan Names.** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit  
 
 > [!note] Draconians

@@ -20,7 +20,7 @@ tags:
 aliases:
   - Grung (Blue)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Blue (MPMM).md|Grung (Blue)]]
+# [[/5. Mechanics/Bestiary/Humanoid/Grung Blue (MPMM).md|Grung (Blue)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*
 
 ```statblock

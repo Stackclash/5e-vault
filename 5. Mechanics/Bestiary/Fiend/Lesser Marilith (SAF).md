@@ -18,7 +18,7 @@ tags:
 aliases:
   - Lesser Marilith
 ---
-# [[5. Mechanics\Bestiary\Fiend\Lesser Marilith (SAF).md|Lesser Marilith]]
+# [[/5. Mechanics/Bestiary/Fiend/Lesser Marilith (SAF).md|Lesser Marilith]]
 *Source: Strongholds and Followers p. 151*
 
 ```statblock

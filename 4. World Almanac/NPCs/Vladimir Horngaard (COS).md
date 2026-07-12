@@ -92,7 +92,7 @@ Vladimir Horngaard has the statistics of a revenant with the following modificat
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice:4d6+6|noform|noparens|avg|text(20)` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (`dice:1d20+9|noform|noparens|text(+9)` to hit). It deals `dice:4d6+6|noform|noparens|avg|text(20)` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
 ## Vladimir Horngaard's Traits

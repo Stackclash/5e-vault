@@ -20,7 +20,7 @@ aliases:
   - Beast of the Sea
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Beast\Beast Of The Sea (TCE).md|Beast of the Sea]]
+# [[/5. Mechanics/Bestiary/Beast/Beast Of The Sea (TCE).md|Beast of the Sea]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock
@@ -29,6 +29,8 @@ cr: null
 "type": "beast"
 "alignment": "Unaligned"
 "ac_class": "13 + PB (natural armor)"
+"hp": "5 + five times your ranger level (the beast has a number of Hit Dice [d8s]\
+  \ equal to your ranger level)"
 "modifier": !!int "2"
 "stats":
   - !!int "14"

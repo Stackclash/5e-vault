@@ -18,7 +18,7 @@ tags:
 aliases:
   - Warhorse Skeleton
 ---
-# [[5. Mechanics\Bestiary\Undead\Warhorse Skeleton.md|Warhorse Skeleton]]
+# [[/5. Mechanics/Bestiary/Undead/Warhorse Skeleton.md|Warhorse Skeleton]]
 *Source: Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.

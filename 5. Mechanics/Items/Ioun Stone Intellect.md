@@ -18,6 +18,7 @@ item_recharge: none
 ---
 # Ioun Stone, Intellect
 *Wondrous item, major, very rare (requires attunement)*  
+![[/5. Mechanics/Items/img/ioun-stone.webp#right]]  
 
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})

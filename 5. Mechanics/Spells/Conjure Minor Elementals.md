@@ -51,7 +51,7 @@ damage:
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
+You summon elementals that appear in unoccupied spaces that you can see within range. You choose one of the following options for what appears:
 
 - One elemental of challenge rating 2 or lower  
 - Two elementals of challenge rating 1 or lower  

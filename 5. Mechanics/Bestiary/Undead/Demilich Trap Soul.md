@@ -18,7 +18,7 @@ tags:
 aliases:
   - Demilich (Trap Soul)
 ---
-# [[5. Mechanics\Bestiary\Undead\Demilich Trap Soul.md|Demilich (Trap Soul)]]
+# [[/5. Mechanics/Bestiary/Undead/Demilich Trap Soul.md|Demilich (Trap Soul)]]
 *Source: Monster Manual p. 48*
 
 ```statblock
@@ -130,11 +130,11 @@ aliases:
       \ saving throw is immune to this effect until the end of the demilich's next\
       \ turn."
     "name": "Cloud of Dust"
-  - "desc": "Each creature with in 30 feet of the demilich must make a DC 15 Constitution\
+  - "desc": "Each creature within 30 feet of the demilich must make a DC 15 Constitution\
       \ saving throw. On a failed save, the creature's hit point maximum is magically\
       \ reduced by 10 (3d6). If a creature's hit point maximum is reduced to 0 by\
       \ this effect, the creature dies. A creature's hit point maximum can be restored\
-      \ with the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ with the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or similar magic."
     "name": "Energy Drain (Costs 2 Actions)"
   - "desc": "The demilich targets one creature it can see within 30 feet of it. The\

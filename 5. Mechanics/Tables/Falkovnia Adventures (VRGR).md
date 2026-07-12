@@ -16,7 +16,7 @@ aliases:
 | dice: d10 | Adventure |
 |-----------|-----------|
 | 1 | The party discovers a town where [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] have begun acting strangely: plowing fields, tarrying in shops, and congregating in the crumbling temple. What's causing this odd behavior? |
-| 2 | In Morfenzi, Vjorn Horstman envisions an army of bestial super soldiers. He works to perfect what he calls his "primal serum," an elixir that inflicts those injected with a random form of lycanthropy. He seeks to use the characters as test subjects. |
+| 2 | In Morfenzi, Vjorn Horstman envisions an army of bestial super soldiers. He works to perfect what he calls his "primal serum," an elixir that inflicts those injected with a random form of [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md\|lycanthropy]]. He seeks to use the characters as test subjects. |
 | 3 | A plague strikes the slums of Lekar. Those killed by the disease rise as [[/5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md\|zombie plague spreaders]] (see "chapter 5"). |
 | 4 | A pack of zombie animals—predominantly wolves, ravens, and cattle—attacks work bands from Lekar and survivors upon the roads. The characters are enlisted to serve as guards. |
 | 5 | The characters are sent to investigate a fallen star that crashed near the village of Delmunster. The village proves remarkably peaceful and free of zombies, in large part because it's populated by the [[/5. Mechanics/Bestiary/Plant/Podling (VRGR).md\|podlings]] of a [[/5. Mechanics/Bestiary/Plant/Bodytaker Plant (VRGR).md\|bodytaker plant]] (see "chapter 5"). |

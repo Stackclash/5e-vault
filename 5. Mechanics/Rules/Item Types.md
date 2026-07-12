@@ -26,7 +26,7 @@ _Source: Player's Handbook p. 148_
 ## Artisan's Tools
 _Source: Player's Handbook p. 154_
 
-These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+**Artisan's Tools.** These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
 
 ## Curse
 _Source: Hamund's Harvesting Handbook: Volume I p. 118_
@@ -45,7 +45,7 @@ _Source: Player's Handbook p. 158_
 ## Gaming Set
 _Source: Player's Handbook p. 154_
 
-If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
+**Gaming Set.** If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
 
 Proficiency with a gaming set applies to one type of game, such as Three-Dragon Ante or games of chance that use dice.
 
@@ -85,7 +85,7 @@ _Source: Hamund's Herbalism Handbook p. 5_
 ## Instrument
 _Source: Player's Handbook p. 154_
 
-If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+**Instrument.** If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
 Proficiency with a musical instrument indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
 
@@ -168,7 +168,7 @@ _Source: Player's Handbook p. 154_
 ## Trade Good
 _Source: Player's Handbook p. 146_
 
-Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
+**Trade Good.** Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency.
 

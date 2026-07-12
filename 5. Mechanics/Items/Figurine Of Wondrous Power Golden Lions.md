@@ -17,6 +17,7 @@ item_recharge: none
 ---
 # Figurine of Wondrous Power, Golden Lions
 *Wondrous item, major, rare*  
+![[/5. Mechanics/Items/img/figurine-of-wondrous-power-golden-lions.webp#right]]  
 
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})

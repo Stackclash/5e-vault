@@ -18,7 +18,7 @@ tags:
 aliases:
   - Tsuchinoko
 ---
-# [[5. Mechanics\Bestiary\Beast\Tsuchinoko (KPDM).md|Tsuchinoko]]
+# [[/5. Mechanics/Bestiary/Beast/Tsuchinoko (KPDM).md|Tsuchinoko]]
 *Source: Deep Magic p. 294*
 
 A snakelike creature with a fondness for alcohol that lurks in forests, the tsuchinoko is more capable than a typical standard familiar, and as such at least 50 gp worth of wine or spirits must be expended as part of the casting of the [[/5. Mechanics/Spells/Find Familiar.md|find familiar]] spell.

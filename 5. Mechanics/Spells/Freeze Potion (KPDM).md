@@ -33,7 +33,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you see a creature within range about to
+  consume a liquid
 duration: Instantaneous
 range: 25 feet
 aliases:
@@ -48,7 +50,7 @@ damage:
 # Freeze Potion
 *1st-level, Transmutation*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you see a creature within range about to consume a liquid
 - **Range:** 25 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

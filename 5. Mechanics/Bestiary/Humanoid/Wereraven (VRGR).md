@@ -19,7 +19,7 @@ tags:
 aliases:
   - Wereraven
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Wereraven (VRGR).md|Wereraven]]
+# [[/5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]
 *Source: Van Richten's Guide to Ravenloft p. 253, Curse of Strahd p. 242*
 
 Wereravens are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
@@ -92,7 +92,7 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form. If the\
       \ target is humanoid, it must succeed on a DC 10 Constitution saving throw or\
-      \ be cursed with wereraven lycanthropy."
+      \ be cursed with wereraven [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]."
     "name": "Beak (Raven or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."

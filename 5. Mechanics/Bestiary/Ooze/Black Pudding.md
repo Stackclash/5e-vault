@@ -20,7 +20,7 @@ tags:
 aliases:
   - Black Pudding
 ---
-# [[5. Mechanics\Bestiary\Ooze\Black Pudding.md|Black Pudding]]
+# [[/5. Mechanics/Bestiary/Ooze/Black Pudding.md|Black Pudding]]
 *Source: Monster Manual p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.

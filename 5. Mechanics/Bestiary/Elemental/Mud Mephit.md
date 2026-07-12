@@ -20,7 +20,7 @@ tags:
 aliases:
   - Mud Mephit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Mud Mephit.md|Mud Mephit]]
+# [[/5. Mechanics/Bestiary/Elemental/Mud Mephit.md|Mud Mephit]]
 *Source: Monster Manual p. 216*
 
 ## Mephits

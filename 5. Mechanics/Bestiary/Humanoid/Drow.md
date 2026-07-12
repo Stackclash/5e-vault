@@ -20,7 +20,7 @@ tags:
 aliases:
   - Drow
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
+# [[/5. Mechanics/Bestiary/Humanoid/Drow.md|Drow]]
 *Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Drow

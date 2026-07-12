@@ -18,7 +18,7 @@ aliases:
   - Tracker
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tracker (SAF).md|Tracker]]
+# [[/5. Mechanics/Bestiary/Humanoid/Tracker (SAF).md|Tracker]]
 *Source: Strongholds and Followers p. 78*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "15"
 "ac_class": "Medium"
+"hp": "health levels equal to their level"
 "modifier": !!int "4"
 "stats":
   - !!int "14"

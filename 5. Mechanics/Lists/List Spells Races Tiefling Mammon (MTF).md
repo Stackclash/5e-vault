@@ -10,11 +10,11 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Mage Hand.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Mage Hand.md \|"PHB"]] as cantrip
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Tensers Floating Disk.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Tensers Floating Disk.md \|"PHB"]] at class level 3
 
 ## 2nd Level
 

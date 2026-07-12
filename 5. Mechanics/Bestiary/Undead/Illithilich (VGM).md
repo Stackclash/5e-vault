@@ -20,7 +20,7 @@ tags:
 aliases:
   - Illithilich
 ---
-# [[5. Mechanics\Bestiary\Undead\Illithilich (VGM).md|Illithilich]]
+# [[/5. Mechanics/Bestiary/Undead/Illithilich (VGM).md|Illithilich]]
 *Source: Volo's Guide to Monsters p. 172*
 
 Mind flayers that pursue arcane magic are exiled as deviants, and for them no eternal communion with an elder brain is possible. The road to lichdom offers a way to escape the permanency of death, but that path is long and solitary. Alhoons are mind flayers that use a shortcut.
@@ -84,11 +84,11 @@ The lich's innate spellcasting ability is Intelligence (spell save DC 20). It ca
 
 ### Tentacles
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: `dice:3d10+5|noform|noparens|avg|text(21)` (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until this grapple ends.
+Melee Weapon Attack: `dice:1d20+12|noform|noparens|text(+12)` to hit, reach 5 ft., one creature. Hit: `dice:3d10+5|noform|noparens|avg|text(21)` (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until this grapple ends.
 
 ### Extract Brain
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] humanoid [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] by the lich. Hit: `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
+Melee Weapon Attack: `dice:1d20+12|noform|noparens|text(+12)` to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] humanoid [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] by the lich. Hit: `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
 
 ### Mind Blast (Recharge 5-6)
 

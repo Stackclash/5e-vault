@@ -10,7 +10,7 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Minor Illusion.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Minor Illusion.md \|"PHB"]] as cantrip, at class level 3
 
 ## 2nd Level
 

@@ -9,11 +9,11 @@ tags:
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/conjuration
-  - spell/subclass/the-genie/dao
+  - spell/subclass/the-genie
 classes:
   - Bard (Magical Secrets)
   - Sorcerer
-  - 'Warlock (The Genie, Dao)'
+  - Warlock (The Genie)
   - Wizard
 school: Conjuration
 level: 9
@@ -58,6 +58,6 @@ You might be able to achieve something beyond the scope of the above examples. S
 
 The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take `dice:1d10|noform|noparens|avg` (`1d10`) necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for `dice:2d4|noform|noparens|avg` (`2d4`) days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a  chance that you are unable to cast wish ever again if you suffer this stress.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Genie, Dao)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 288. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

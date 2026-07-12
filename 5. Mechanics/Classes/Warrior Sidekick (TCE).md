@@ -200,4 +200,4 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *20th-level Warrior feature*
 
-The sidekick can use their Second Wind feature twice between rests.
+The sidekick can use its Second Wind feature twice between rests.

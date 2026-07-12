@@ -18,7 +18,7 @@ aliases:
   - Elemental Spirit (Water)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Elemental\Elemental Spirit Water (TCE).md|Elemental Spirit (Water)]]
+# [[/5. Mechanics/Bestiary/Elemental/Elemental Spirit Water (TCE).md|Elemental Spirit (Water)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "elemental"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "50 + 10 for each spell level above 4th"
 "modifier": !!int "2"
 "stats":
   - !!int "18"

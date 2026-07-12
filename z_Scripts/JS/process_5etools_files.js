@@ -338,7 +338,7 @@ const config = {
         for (let prop of allUniqueKeys) {
           if (prop in file.frontMatter && prop in currentFileFrontMatter) {
             if (JSON.stringify(file.frontMatter[prop]) !== JSON.stringify(currentFileFrontMatter[prop])) {
-              let update = null
+              let update = true
               
               if (prop === 'images' && file.frontMatter[prop].length === 0 && currentFileFrontMatter[prop].length > 0) {
                 update = true
@@ -348,9 +348,13 @@ const config = {
                 update = false
               }
 
-              if (update === null) {
-                update = askQuestion(`Update ${prop} from ${JSON.stringify(currentFileFrontMatter[prop])} to ${JSON.stringify(file.frontMatter[prop])}? (Y/N) `)
+              if (prop === 'alignment') {
+                update = false
               }
+
+              // if (update === null) {
+              //   update = askQuestion(`Update ${prop} from ${JSON.stringify(currentFileFrontMatter[prop])} to ${JSON.stringify(file.frontMatter[prop])}? (Y/N) `)
+              // }
               
               if (update) {
                 finalFrontMatter[prop] = file.frontMatter[prop]

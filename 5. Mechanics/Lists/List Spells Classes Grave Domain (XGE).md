@@ -10,27 +10,27 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Spare The Dying.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Spare The Dying.md \|"PHB"]] as cantrip
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Bane.md \|"PHB"]] at class level 9
-- [[/5. Mechanics/Spells/False Life.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Bane.md \|"PHB"]]
+- [[/5. Mechanics/Spells/False Life.md \|"PHB"]]
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Gentle Repose.md \|"PHB"]] at class level 9
-- [[/5. Mechanics/Spells/Ray Of Enfeeblement.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Gentle Repose.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Ray Of Enfeeblement.md \|"PHB"]] at class level 3
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Revivify.md \|"PHB"]] at class level 9
-- [[/5. Mechanics/Spells/Vampiric Touch.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Revivify.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Vampiric Touch.md \|"PHB"]] at class level 5
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Blight.md \|"PHB"]] at class level 9
-- [[/5. Mechanics/Spells/Death Ward.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Blight.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Death Ward.md \|"PHB"]] at class level 7
 
 ## 5th Level
 

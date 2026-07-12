@@ -18,7 +18,7 @@ aliases:
   - Battle Priest
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Battle Priest (SAF).md|Battle Priest]]
+# [[/5. Mechanics/Bestiary/Humanoid/Battle Priest (SAF).md|Battle Priest]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "18"
 "ac_class": "Heavy"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "14"

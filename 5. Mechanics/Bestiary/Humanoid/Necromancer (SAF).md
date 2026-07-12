@@ -18,7 +18,7 @@ aliases:
   - Necromancer
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Necromancer (SAF).md|Necromancer]]
+# [[/5. Mechanics/Bestiary/Humanoid/Necromancer (SAF).md|Necromancer]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "13"
 "ac_class": "Light"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "14"

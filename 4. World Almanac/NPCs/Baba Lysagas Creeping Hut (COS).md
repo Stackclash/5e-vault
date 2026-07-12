@@ -15,21 +15,21 @@ aliases:
 alignment: Unaligned
 relationships: []
 partyRelationships: {}
-location:
-pronounced:
-race:
-gender:
-age:
+location: null
+pronounced: null
+race: null
+gender: null
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 > [!infobox]
 > # `=this.file.name`

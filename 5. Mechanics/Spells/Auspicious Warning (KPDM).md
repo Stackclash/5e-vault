@@ -28,7 +28,9 @@ verbal: true
 somatic: false
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when an ally makes an attack roll, ability check,
+  or saving throw
 duration: Instantaneous
 range: 30 feet
 aliases:
@@ -37,7 +39,7 @@ aliases:
 # Auspicious Warning
 *1st-level, Enchantment*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an ally makes an attack roll, ability check, or saving throw
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Instantaneous

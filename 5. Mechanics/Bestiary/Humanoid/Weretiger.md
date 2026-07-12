@@ -25,7 +25,7 @@ tags:
 aliases:
   - Weretiger
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Weretiger.md|Weretiger]]
+# [[/5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]]
 *Source: Monster Manual p. 210. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Weretigers are ferocious hunters and warriors with a haughty and fastidious nature. Lithe and sleekly muscular in humanoid form, they are taller than average and meticulously groomed. Weretigers grow to enormous size in animal and hybrid form, but they fight in their more refined humanoid form when they can.
@@ -120,7 +120,7 @@ Some individuals see little point in fighting the curse and accept what they are
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
       \ + 3) piercing damage. If the target is a humanoid, it must succeed on a DC\
-      \ 13 Constitution saving throw or be cursed with weretiger lycanthropy."
+      \ 13 Constitution saving throw or be cursed with weretiger [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]."
     "name": "Bite (Tiger or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) slashing damage."

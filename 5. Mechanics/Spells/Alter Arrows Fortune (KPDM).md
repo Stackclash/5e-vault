@@ -32,7 +32,7 @@ verbal: false
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take when an enemy makes a ranged attack that hit'
 duration: Instantaneous
 range: 100 feet
 aliases:
@@ -45,7 +45,7 @@ saving_throw:
 # Alter Arrow's Fortune
 *1st-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy makes a ranged attack that hit
 - **Range:** 100 feet
 - **Components:** S
 - **Duration:** Instantaneous

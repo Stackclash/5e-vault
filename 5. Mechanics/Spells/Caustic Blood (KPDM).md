@@ -31,7 +31,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when an enemy's attack deals piercing or slashing
+  damage to you
 duration: Instantaneous
 range: 30 feet
 aliases:
@@ -51,7 +53,7 @@ saving_throw:
 # Caustic Blood
 *2nd-level, Transmutation*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy's attack deals piercing or slashing damage to you
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

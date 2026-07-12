@@ -19,7 +19,7 @@ tags:
   - spell/subclass/circle-of-stars
   - spell/subclass/circle-of-the-land/arctic
   - spell/subclass/college-of-spirits
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/nature-domain
 classes:
   - Artificer
@@ -30,7 +30,7 @@ classes:
   - Druid
   - Druid (Circle of Stars)
   - 'Druid (Circle of the Land, Arctic)'
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Divination
 level: 0
 ritual: false
@@ -55,6 +55,6 @@ aliases:
 
 You touch one willing creature. Once before the spell ends, the target can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Bard (College of Spirits)](/compendium/lists/list-spells-classes-college-of-spirits-vrgr.md "subclass=VRGR"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Stars)](/compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Arctic)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Bard (College of Spirits)](/compendium/lists/list-spells-classes-college-of-spirits-vrgr.md "subclass=VRGR"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Stars)](/compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Arctic)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

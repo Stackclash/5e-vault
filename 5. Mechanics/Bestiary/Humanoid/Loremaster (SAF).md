@@ -18,7 +18,7 @@ aliases:
   - Loremaster
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Loremaster (SAF).md|Loremaster]]
+# [[/5. Mechanics/Bestiary/Humanoid/Loremaster (SAF).md|Loremaster]]
 *Source: Strongholds and Followers p. 73*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "13"
 "ac_class": "Light"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "14"

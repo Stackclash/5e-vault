@@ -141,7 +141,7 @@ The mongrelfolk that infest the abbey are all descendants of one family—the Be
 > ![[/6. Resources/5e Modules/Curse Of Strahd/img/086-023.webp#gallery\|Map 8.2: Abbey of Saint Markovia - Ground Floor]]
 > ![[/6. Resources/5e Modules/Curse Of Strahd/img/087-cos802.webp#gallery\|Player Version]]
 
-Most of the mongrelfolk in the abbey are locked up because they can't be trusted to wander about unsupervised. The only mongrelfolk who are free to move about are [[/4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]'s gravediggers, Otto and Zygfrek, and his faithful, two-headed manservant, Clovin.
+Most of the mongrelfolk in the abbey are locked up because they can't be trusted to wander about unsupervised. The only mongrelfolk who are free to move about are [[/4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]]'s gravediggers, [[/4. World Almanac/NPCs/Otto Belview (COS).md\|Otto]] and [[/4. World Almanac/NPCs/Zygfrek Belview (COS).md\|Zygfrek]], and his faithful, two-headed manservant, Clovin.
 
 [[/4. World Almanac/NPCs/Clovin Belview (COS).md\|Clovin Belview]] rings the abbey's bell (area S17) when [[/4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] decides it's time for dinner. The toll of the bell causes all the other mongrelfolk in the abbey to hoot and holler with excitement as they wait to be fed.
 
@@ -162,7 +162,7 @@ Two gate guards are on duty, but they aren't awake when the characters arrive (s
 
 ![[/6. Resources/5e Modules/Curse Of Strahd/img/088-cos08-04.webp#center\|Otto Belview]]
 
-The gate guards are Otto and [[/4. World Almanac/NPCs/Zygfrek Belview (COS).md\|Zygfrek Belview]], two lawful evil [[/5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [[/4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [[/4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
+The gate guards are [[/4. World Almanac/NPCs/Otto Belview (COS).md\|Otto]] and [[/4. World Almanac/NPCs/Zygfrek Belview (COS).md\|Zygfrek Belview]], two lawful evil [[/5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md\|mongrelfolk]] (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [[/4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]], yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [[/4. World Almanac/NPCs/The Abbot (COS).md\|the Abbot]] (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
 
 Hanging on the inside wall of each guard post is a net woven from twigs and pine needles, as well as a shovel. Otto and Zygfrek cover themselves with the nets when they skulk through the village at night in search of fresh graves to dig up.
 
@@ -249,7 +249,7 @@ The "guards" on the wall are propped-up scarecrows that wear corroded chain shir
 The double doors are heavy but unlocked. They can be pushed open to reveal a foggy courtyard (area S12).
 
 > [!gallery]
-> ![[/6. Resources/5e Modules/Curse Of Strahd/img/090-024.webp#gallery\|"Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar"]]
+> ![Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar](/compendium/adventures/curse-of-strahd/img/090-024.webp#gallery)
 > ![[/6. Resources/5e Modules/Curse Of Strahd/img/091-cos803.webp#gallery\|Player Version]]
 
 ### S11. Inner Gatehouses

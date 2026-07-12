@@ -18,7 +18,7 @@ tags:
 aliases:
   - Dominion
 ---
-# [[5. Mechanics\Bestiary\Celestial\Dominion (SAF).md|Dominion]]
+# [[/5. Mechanics/Bestiary/Celestial/Dominion (SAF).md|Dominion]]
 *Source: Strongholds and Followers p. 161*
 
 Now, see? This looks more like a regular angel thing. Why can't they all look like this—why do they have to be wheels and wings and mouths and hands?

@@ -18,7 +18,7 @@ aliases:
   - Spirit Warden
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Spirit Warden (SAF).md|Spirit Warden]]
+# [[/5. Mechanics/Bestiary/Humanoid/Spirit Warden (SAF).md|Spirit Warden]]
 *Source: Strongholds and Followers p. 72*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "15"
 "ac_class": "Medium"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "18"

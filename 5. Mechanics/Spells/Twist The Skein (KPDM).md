@@ -33,7 +33,9 @@ verbal: false
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when a creature makes an attack roll, saving throw,
+  or skill check
 duration: Instantaneous
 range: 30 feet
 aliases:
@@ -42,7 +44,7 @@ aliases:
 # Twist the Skein
 *1st-level, Enchantment*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when a creature makes an attack roll, saving throw, or skill check
 - **Range:** 30 feet
 - **Components:** S
 - **Duration:** Instantaneous

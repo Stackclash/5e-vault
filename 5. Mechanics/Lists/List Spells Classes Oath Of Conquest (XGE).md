@@ -15,20 +15,20 @@ aliases:
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Spiritual Weapon.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Spiritual Weapon.md \|"PHB"]] at class level 5
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Bestow Curse.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Fear.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Bestow Curse.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Fear.md \|"PHB"]] at class level 9
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Dominate Beast.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Stoneskin.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Dominate Beast.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Stoneskin.md \|"PHB"]] at class level 13
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Cloudkill.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Dominate Person.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Cloudkill.md \|"PHB"]] at class level 17
+- [[/5. Mechanics/Spells/Dominate Person.md \|"PHB"]] at class level 17

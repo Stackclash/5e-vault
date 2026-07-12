@@ -32,7 +32,7 @@ tags:
 aliases:
   - Swarm of Wasps
 ---
-# [[5. Mechanics\Bestiary\Beast\Swarm Of Wasps.md|Swarm of Wasps]]
+# [[/5. Mechanics/Bestiary/Beast/Swarm Of Wasps.md|Swarm of Wasps]]
 *Source: Monster Manual p. 338. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 > [!note] The Nature of Swarms

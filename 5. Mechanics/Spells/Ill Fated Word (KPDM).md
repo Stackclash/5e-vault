@@ -27,7 +27,9 @@ verbal: true
 somatic: false
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when an enemy makes an attack roll, ability check,
+  or saving throw
 duration: Instantaneous
 range: 30 feet
 aliases:
@@ -36,7 +38,7 @@ aliases:
 # Ill-fated Word
 *1st-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy makes an attack roll, ability check, or saving throw
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Instantaneous

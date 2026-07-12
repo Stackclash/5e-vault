@@ -8,7 +8,7 @@ tags:
   - spell/class/cleric
   - spell/level/5th-level
   - spell/school/evocation
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/gravetender
   - spell/subclass/oath-of-the-annihilator
   - spell/subclass/oath-of-the-watchtower
@@ -19,7 +19,7 @@ classes:
   - Paladin (Oath of the Annihilator)
   - Paladin (Oath of the Watchtower)
   - Ranger (Gravetender)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock (The Fiend)
 school: Evocation
 level: 5
@@ -97,6 +97,6 @@ Affected creatures can communicate with any other creature in the area, even if 
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Gravetender)](/compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Gravetender)](/compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]
 
 *Source: Player's Handbook p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

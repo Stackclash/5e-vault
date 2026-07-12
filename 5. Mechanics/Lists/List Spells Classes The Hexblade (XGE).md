@@ -10,23 +10,23 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Shield.md \|"PHB"]] with access to 5th-level spells
-- [[/5. Mechanics/Spells/Wrathful Smite.md \|"PHB"]] with access to 5th-level spells
+- [[/5. Mechanics/Spells/Shield.md \|"PHB"]] with access to 1st-level spells
+- [[/5. Mechanics/Spells/Wrathful Smite.md \|"PHB"]] with access to 1st-level spells
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Blur.md \|"PHB"]] with access to 5th-level spells
-- [[/5. Mechanics/Spells/Branding Smite.md \|"PHB"]] with access to 5th-level spells
+- [[/5. Mechanics/Spells/Blur.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Branding Smite.md \|"PHB"]] with access to 2nd-level spells
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Blink.md \|"PHB"]] with access to 5th-level spells
-- [[/5. Mechanics/Spells/Elemental Weapon.md \|"PHB"]] with access to 5th-level spells
+- [[/5. Mechanics/Spells/Blink.md \|"PHB"]] with access to 3rd-level spells
+- [[/5. Mechanics/Spells/Elemental Weapon.md \|"PHB"]] with access to 3rd-level spells
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Phantasmal Killer.md \|"PHB"]] with access to 5th-level spells
-- [[/5. Mechanics/Spells/Staggering Smite.md \|"PHB"]] with access to 5th-level spells
+- [[/5. Mechanics/Spells/Phantasmal Killer.md \|"PHB"]] with access to 4th-level spells
+- [[/5. Mechanics/Spells/Staggering Smite.md \|"PHB"]] with access to 4th-level spells
 
 ## 5th Level
 

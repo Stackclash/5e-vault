@@ -20,7 +20,7 @@ tags:
 aliases:
   - Kuo-toa Monitor
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Moni(TOR).md|Kuo-toa Monitor]]
+# [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Moni(TOR).md|Kuo-toa Monitor]]
 *Source: Monster Manual p. 198*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -55,9 +55,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 > 
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: `dice:1d20+6|noform|noparens|text(+6)` to hit, reach 5 ft., one target. Hit: `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: `dice:1d20+6|noform|noparens|text(+6)` to hit, reach 5 ft., one target. Hit: `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote] A quote from Sabal Mizzrym of Menzoberranzan  

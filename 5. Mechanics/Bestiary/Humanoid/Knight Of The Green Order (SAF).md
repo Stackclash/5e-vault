@@ -18,7 +18,7 @@ aliases:
   - Knight of the Green Order
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Knight Of The Green Order (SAF).md|Knight of the Green Order]]
+# [[/5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order (SAF).md|Knight of the Green Order]]
 *Source: Strongholds and Followers p. 77*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "18"
 "ac_class": "Heavy"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "18"

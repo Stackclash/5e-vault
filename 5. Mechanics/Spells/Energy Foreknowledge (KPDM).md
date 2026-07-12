@@ -31,7 +31,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you are the target of a spell that deals cold,
+  fire, force, lightning, necrotic, psychic, radiant or thunder damage
 duration: Instantaneous
 range: Self
 aliases:
@@ -46,7 +48,7 @@ damage:
 # Energy Foreknowledge
 *4th-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you are the target of a spell that deals cold, fire, force, lightning, necrotic, psychic, radiant or thunder damage
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous

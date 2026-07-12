@@ -23,7 +23,7 @@ verbal: false
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take when an enemy makes an attack roll against you'
 duration: Instantaneous
 range: Self
 aliases:
@@ -32,7 +32,7 @@ aliases:
 # Telekinetic Parry
 *1st-level, Evocation*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy makes an attack roll against you
 - **Range:** Self
 - **Components:** S
 - **Duration:** Instantaneous

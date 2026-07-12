@@ -18,7 +18,7 @@ tags:
 aliases:
   - Swarm of Skeletal Ravens
 ---
-# [[5. Mechanics\Bestiary\Undead\Swarm Of Skeletal Ravens (GRIFFONSSADDLEBAG3).md|Swarm of Skeletal Ravens]]
+# [[/5. Mechanics/Bestiary/Undead/Swarm Of Skeletal Ravens (GRIFFONSSADDLEBAG3).md|Swarm of Skeletal Ravens]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Ravens transformed by necromancy to exist perpetually in life-defying undeath. Often found in places of relentless decay or in the realms and lairs of powerful necromancers and liches.

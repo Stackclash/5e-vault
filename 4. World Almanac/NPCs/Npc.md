@@ -4,7 +4,7 @@ cssclasses:
   - json5e-note
   - json5e-index
 ---
-# Index of Npc
+# Index of NPC
 
 - [[.nullAlistair Rook (GRIFFONSSADDLEBAG3).md|Alistair Rook]]
 - [[.nullAlustriel Silverhand (VEOR).md|Alustriel Silverhand]]
@@ -125,9 +125,9 @@ cssclasses:
 - [[.nullSir Pelliton (SAF).md|Sir Pelliton]]
 - [[.nullStanimir (COS).md|Stanimir]]
 - [[.nullStella Wachter (COS).md|Stella Wachter]]
-- [[.nullStrahd Master Of Death House (VEOR).md|Strahd, Master of Death House]]
 - [[.nullStrahd Von Zarovich (COS).md|Strahd von Zarovich]]
 - [[.nullStrahds Animated Armor (COS).md|Strahd's Animated Armor]]
+- [[.nullStrahd Master Of Death House (VEOR).md|Strahd, Master of Death House]]
 - [[.nullSzoldar Szoldarovich (COS).md|Szoldar Szoldarovich]]
 - [[.nullTasha The Witch (VEOR).md|Tasha the Witch]]
 - [[.nullTeremini Nightsedge (VEOR).md|Teremini Nightsedge]]

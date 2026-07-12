@@ -18,7 +18,7 @@ tags:
 aliases:
   - Demilich
 ---
-# [[5. Mechanics\Bestiary\Undead\Demilich.md|Demilich]]
+# [[/5. Mechanics/Bestiary/Undead/Demilich.md|Demilich]]
 *Source: Monster Manual p. 48*
 
 The immortality granted to a lich lasts only as long as it feeds mortal souls to its phylactery. If it falters or fails in that task, its bones turn to dust until only its skull remains. This "demilich" contains only a fragment of the lich's malevolent life force-just enough so that if it is disturbed, these remains rise into the air and assume a wraith-like form. The skull then emits a terrifying howl that can slay the weak-hearted and leave others trembling with fear. Left alone, it sinks back down and returns to the empty peace of its existence.
@@ -153,11 +153,11 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
       \ saving throw is immune to this effect until the end of the demilich's next\
       \ turn."
     "name": "Cloud of Dust"
-  - "desc": "Each creature with in 30 feet of the demilich must make a DC 15 Constitution\
+  - "desc": "Each creature within 30 feet of the demilich must make a DC 15 Constitution\
       \ saving throw. On a failed save, the creature's hit point maximum is magically\
       \ reduced by 10 (3d6). If a creature's hit point maximum is reduced to 0 by\
       \ this effect, the creature dies. A creature's hit point maximum can be restored\
-      \ with the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ with the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or similar magic."
     "name": "Energy Drain (Costs 2 Actions)"
   - "desc": "The demilich targets one creature it can see within 30 feet of it. The\

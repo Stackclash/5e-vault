@@ -33,7 +33,7 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take when an enemy targets you with a ranged attack'
 duration: Instantaneous
 range: Self
 aliases:
@@ -42,7 +42,7 @@ aliases:
 # Sidestep Arrow
 *3rd-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy targets you with a ranged attack
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous

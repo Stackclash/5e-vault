@@ -9,6 +9,7 @@ tags:
   - spell/class/druid
   - spell/feat/artificer-initiate
   - spell/feat/magic-initiate/druid-spells
+  - spell/feat/spell-sniper
   - spell/feat/wood-elf-magic
   - spell/level/cantrip
   - spell/optfeature/druidic-warrior

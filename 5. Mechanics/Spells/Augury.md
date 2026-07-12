@@ -13,7 +13,7 @@ tags:
   - spell/school/divination
   - spell/subclass/arcane-trickster
   - spell/subclass/circle-of-the-spirits
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/eldritch-knight
   - spell/subclass/knowledge-domain
   - spell/subclass/oath-of-the-annihilator
@@ -29,7 +29,7 @@ classes:
   - Fighter (Eldritch Knight)
   - Paladin (Oath of the Annihilator)
   - Rogue (Arcane Trickster)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock (The Sibyl)
   - Wizard
 school: Divination
@@ -67,6 +67,6 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before completing your next long rest, there is a cumulative  chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [Barbarian (Path of the Ancestral Guardian)](/compendium/lists/list-spells-classes-path-of-the-ancestral-guardian-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [Barbarian (Path of the Ancestral Guardian)](/compendium/lists/list-spells-classes-path-of-the-ancestral-guardian-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

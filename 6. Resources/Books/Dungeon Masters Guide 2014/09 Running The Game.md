@@ -11,6 +11,8 @@ aliases:
 
 Rules enable you and your players to have fun at the table. The rules serve you, not vice versa. There are the rules of the game, and there are table rules for how the game is played. For instance, players need to know what happens when one of them misses a session. They need to know whether to bring miniatures, any special rules you've decided to use, and how to treat a cocked die (a die that lands so that its face can't be clearly read). These topics and more are covered in this chapter.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/ch8splash.webp#center]]
+
 ## Table Rules
 
 Ideally, players come to the gaming table with the same goal: to have a fun time together. This section gives recommendations for table rules you can establish to help meet that goal. Here are some fundamentals:
@@ -81,6 +83,8 @@ Integrating a new character into the group can be difficult if the party is in t
 ## The Role of Dice
 
 Dice are neutral arbiters. They can determine the outcome of an action without assigning any motivation to the DM and without playing favorites. The extent to which you use them is entirely up to you.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/c8-02.webp#center]]
 
 ### Rolling with It
 
@@ -229,6 +233,8 @@ The wizard is running, not paying attention to what's ahead of him. This imposes
 
 ### Inspiration
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/c8-03.webp#center]]
+
 Awarding inspiration is an effective way to encourage roleplaying and risk-taking. As explained in the Player's Handbook, having inspiration gives a character an obvious benefit: being able to gain advantage on one ability check, attack roll, or saving throw. Remember that a character can have no more than one inspiration at a time.
 
 #### Awarding Inspiration
@@ -335,6 +341,8 @@ Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have 
 ## Exploration
 
 This section provides guidance for running exploration, especially travel, tracking, and visibility.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/c8-04.webp#center]]
 
 ### Using a Map
 
@@ -681,9 +689,9 @@ The most common unit for tactical maps is the 5-foot square, and maps with grids
 
 A creature's size determines how much space it occupies on squares or hexes, as shown in the Creature Size and Space table. If the miniature you use for a monster takes up an amount of space different from what's on the table, that's fine, but treat the monster as its official size for all other rules. For example, you might use a miniature that has a Large base to represent a Huge giant. The giant takes up less space on the battlefield than its size suggests, but it is still Huge for the purposes of rules like grappling.
 
-![[/5. Mechanics/Tables/Creature Size On Squares And Hexes Creature Size And Space.md\|Creature Size on Squares and Hexes; Creature Size and Space]]
-
 ![[/6. Resources/Books/Dungeon Masters Guide 2014/img/monster_size_chart.webp#center]]
+
+![[/5. Mechanics/Tables/Creature Size On Squares And Hexes Creature Size And Space.md\|Creature Size on Squares and Hexes; Creature Size and Space]]
 
 ![[/6. Resources/Books/Dungeon Masters Guide 2014/img/creature_size_on_squares_and_hexes.webp#center]]
 
@@ -769,6 +777,8 @@ When a chase begins, determine the starting distance between the quarry and the 
 
 ### Running the Chase
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/c8-22.webp#center]]
+
 Participants in the chase are strongly motivated to use the Dash action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that does so is likely to be caught.
 
 #### Dashing
@@ -845,6 +855,8 @@ Siege weapons are designed to assail castles and other walled fortifications. Th
 
 ## Diseases
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/c8-23.webp#center]]
+
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
 
 A simple outbreak might amount to little more than a small drain on party resources, curable by a casting of lesser restoration. A more complicated outbreak can form the basis of one or more adventures as characters search for a cure, stop the spread of the disease, and deal with the consequences.
@@ -916,6 +928,8 @@ A character can instead attempt to harvest poison from a poisonous creature, suc
 
 ## Madness
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/c8-24.webp#center]]
+
 In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 
 ### Going Mad
@@ -963,6 +977,8 @@ Some DMs treat XP as a reward for participating in the game, and keeping up with
 As an alternative, give absent characters the same XP that the other characters earned each session, keeping the group at the same level. Few players will intentionally miss out on the fun of gaming just because they know they'll receive XP for it even if they don't show up.
 
 ### Noncombat Challenges
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/c8-25.webp#center]]
 
 You decide whether to award experience to characters for overcoming challenges outside combat. If the adventurers complete a tense negotiation with a baron, forge a trade agreement with a clan of surly dwarves, or successfully navigate the Chasm of Doom, you might decide that they deserve an XP reward.
 

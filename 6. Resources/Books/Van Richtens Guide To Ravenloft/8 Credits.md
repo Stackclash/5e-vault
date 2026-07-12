@@ -56,8 +56,8 @@ aliases:
 ![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/credits.webp#center]]
 
 > [!gallery]
-> ![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/credits2.webp#gallery\|"On the Cover: In the shadow of Castle Ravenloft, Doctor Rudolph van Richten and Ez d'Avenir confront the vampire Strahd von Zarovich, in this painting by Anna Podedworna."]]
-> ![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/credits3.webp#gallery\|"On the Alt-Cover: Monster hunter Ez d'Avenir stands against the assembled nightmares of the Demiplanes of Dread, a phantasmagoria revealed by Scott M. Fischer."]]
+> ![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/credits2.webp#gallery\|On the Cover: In the shadow of Castle Ravenloft, Doctor Rudolph van Richten and Ez d'Avenir confront the vampire Strahd von Zarovich, in this painting by Anna Podedworna.]]
+> ![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/credits3.webp#gallery\|On the Alt-Cover: Monster hunter Ez d'Avenir stands against the assembled nightmares of the Demiplanes of Dread, a phantasmagoria revealed by Scott M. Fischer.]]
 
 > [!note]
 > Disclaimer: By the sole act of opening this book, you acknowledge your complicity in the domains-spanning conspiracy that denied me, Azalin Rex, Wizard-King of Darkon, my rightful place as both author of and cover model for what could have been so much more than this doubtful collection of lies and slanders. Fortunately, as I've recently found my immortality unburdened by the trivialities of rule, I have endless opportunity to pursue thorough vengeances for even the pettiest affronts. Please prepare for my coming. I expect to be quartered in the utmost comfort while we personalize your redefinition of the word "horror."

@@ -20,7 +20,7 @@ tags:
 aliases:
   - Drow (Magic Equipment)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Magic Equipment.md|Drow (Magic Equipment)]]
+# [[/5. Mechanics/Bestiary/Humanoid/Drow Magic Equipment.md|Drow (Magic Equipment)]]
 *Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock

@@ -9,7 +9,7 @@ aliases:
 # Chapter 6: Night of Blue Fire
 *Source: Vecna: Eve of Ruin, p. 111* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/090-06-001-vault-infiltration.webp#center\|"To retrieve the fifth rod piece, the characters must infiltrate Three Moons Vault, a complex teeming with allies of the evil Lord Soth"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/090-06-001-vault-infiltration.webp#center\|To retrieve the fifth rod piece, the characters must infiltrate Three Moons Vault, a complex teeming with allies of the evil Lord Soth]]
 
 To find the next piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], the characters must travel to the world of Krynn where the Blue Fire Wardens, a coalition of benevolent lycanthropes, have clashed with the death knight Lord Soth and his minions. By infiltrating a heavily fortified keep, rescuing the Blue Fire Wardens' leader, and unraveling the schemes of the evil mage Teremini Nightsedge, the characters can claim the fifth rod piece.
 
@@ -65,7 +65,7 @@ The tree still bears traces of the rod's magic. The fourth piece of the [[/5. Me
 
 ## The Peylon Tree
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/091-06-001-magical-tree.webp#center\|"An enormous, magical tree seems to be the location of the next rod piece, though the characters soon learn the piece is elsewhere"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/091-06-001-magical-tree.webp#center\|An enormous, magical tree seems to be the location of the next rod piece, though the characters soon learn the piece is elsewhere]]
 
 The characters begin their exploration of the peylon tree at area P1. When they arrive at the tree, read or paraphrase the following:
 
@@ -250,7 +250,7 @@ The fen has features the characters can use to their advantage in a confrontatio
 
 Once all the wardens escape the temple, each warden transforms into a wolf and flees from the borthak. End the characters' encounter with the borthak when they defeat it or after they and all the wardens have escaped, whichever happens first.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/096-06-002-borthak.webp#center\|"A terrifying monster called a borthak has trapped several Blue Fire Wardens in Bittergrass Fen"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/096-06-002-borthak.webp#center\|A terrifying monster called a borthak has trapped several Blue Fire Wardens in Bittergrass Fen]]
 
 ## The Blue Fire Wardens
 
@@ -919,7 +919,7 @@ If the characters disrupt Teremini's ritual, she screams in rage and attacks the
 
 ### Disrupting the Ritual
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/104-06-006-teremini-nightsedges-ritual.webp#center\|"To retrieve the fifth rod piece, the characters must stop Teremini Nightsedge's ritual to enshroud the Three Moons Vault in magical red moonlight"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/104-06-006-teremini-nightsedges-ritual.webp#center\|To retrieve the fifth rod piece, the characters must stop Teremini Nightsedge's ritual to enshroud the Three Moons Vault in magical red moonlight]]
 
 Teremini's ritual is disrupted if either of the following occurs:
 

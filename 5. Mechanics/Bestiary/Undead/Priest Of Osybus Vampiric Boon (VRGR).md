@@ -18,7 +18,7 @@ tags:
 aliases:
   - Priest of Osybus (Vampiric Boon)
 ---
-# [[5. Mechanics\Bestiary\Undead\Priest Of Osybus Vampiric Boon (VRGR).md|Priest of Osybus (Vampiric Boon)]]
+# [[/5. Mechanics/Bestiary/Undead/Priest Of Osybus Vampiric Boon (VRGR).md|Priest of Osybus (Vampiric Boon)]]
 *Source: Van Richten's Guide to Ravenloft p. 241*
 
 ```statblock

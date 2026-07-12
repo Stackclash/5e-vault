@@ -8,6 +8,7 @@ tags:
   - spell/class/druid
   - spell/class/ranger
   - spell/level/3rd-level
+  - spell/reward/charm-of-animal-conjuring
   - spell/school/conjuration
   - spell/subclass/greenleaf-college
   - spell/subclass/hedge-mage

@@ -9,7 +9,7 @@ aliases:
 # Chapter 10: The War of Pandesmos
 *Source: Vecna: Eve of Ruin, p. 175* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/141-10-001-miska-freed.webp#center\|"Kas has fled Sigil, intent on using the Rod of Seven Parts to free Miska, his ally against Vecna"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/141-10-001-miska-freed.webp#center\|Kas has fled Sigil, intent on using the Rod of Seven Parts to free Miska, his ally against Vecna]]
 
 The characters tracked Kas to Carapace Ridge on the first layer of Pandemonium. In this chapter, the characters must find Kas and learn where Vecna is weaving his Ritual of Remaking. Along the way, the characters might become embroiled in a war raging between Kas's allies and the forces of Lolth, the Spider Queen, who is allied with Vecna.
 
@@ -217,7 +217,7 @@ The tower's fall has a number of additional effects:
 
 ## Ruinous Citadel
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/149-10-004-ruinous-citadel.webp#center\|"Miska is imprisoned in the Ruinous Citadel, which serves as the headquarters for the demon lord's forces"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/149-10-004-ruinous-citadel.webp#center\|Miska is imprisoned in the Ruinous Citadel, which serves as the headquarters for the demon lord's forces]]
 
 Long ago, adherents of the Queen of Chaos, a powerful demon lord, built a citadel near the Ruinous Sea. The Wind Dukes of Aaqa later used what is now known as the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to imprison Miska within the citadel, eventually ending the terrible Dawn War between the primordials and the gods.
 
@@ -368,7 +368,7 @@ The webbed prisoners want to flee the citadel to rejoin Lolth's forces. They are
 
 #### Y7: Miska's Prison-Hall
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/152-10-005-battles.webp#center\|"Outside the Ruinous Citadel, battles between demonic forces loyal to Miska and Lolth still rage"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/152-10-005-battles.webp#center\|Outside the Ruinous Citadel, battles between demonic forces loyal to Miska and Lolth still rage]]
 
 The door to this chamber has an invisible glyph inscribed upon it. Each time a creature other than a Fiend opens the door the glyph glows for a split second, and the creature must make a DC 18 Wisdom saving throw, taking `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) psychic damage on a failed save or half as much damage on a successful one. Casting [[/5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] on the door removes the glyph, allowing the door to be opened safely.
 
@@ -419,7 +419,7 @@ Closing the portal by removing the [[/5. Mechanics/Items/Rod Of Seven Parts (VEO
 
 ## Cliffside Redoubt
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/153-10-006-kas.webp#center\|"The vampire Kas refuses to tolerate any interruptions to his plans to ruin Vecna and claim the multiverse for his own"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/153-10-006-kas.webp#center\|The vampire Kas refuses to tolerate any interruptions to his plans to ruin Vecna and claim the multiverse for his own]]
 
 Kas makes his lair inside the cliff below Carapace Ridge. This cliffside redoubt gives Kas a place to plan, organize excursions against the forces of Lolth, and brood about how long it's taking Miska to free himself.
 
@@ -504,7 +504,7 @@ A human corpse bears a platinum medallion of Lolth's symbol with dazzling diamon
 
 The characters encounter [[/4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas the Betrayer]] in one of three places: in area X2 of Hurricane Tower after toppling the structure, in area Y7 of the Ruinous Citadel after sealing Miska away, or in area F3 of the cliffside redoubt.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/156-10-007-sword-of-kas.webp#center\|"At your discretion, the characters might have found the legendary Sword of Kas in this adventure"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/156-10-007-sword-of-kas.webp#center\|At your discretion, the characters might have found the legendary Sword of Kas in this adventure]]
 
 Kas spares only a few moments to belittle the characters before he draws his sword and attacks. Throughout the battle, he taunts them for being "Mordenkainen's good little puppets." If the characters had trouble recovering any piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], Kas mocks them for those specific failures, saying they can't even dance on puppet strings properly.
 

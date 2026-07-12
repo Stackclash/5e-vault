@@ -18,7 +18,7 @@ aliases:
   - Shadow Spirit (Despair)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit Despair (TCE).md|Shadow Spirit (Despair)]]
+# [[/5. Mechanics/Bestiary/Monstrosity/Shadow Spirit Despair (TCE).md|Shadow Spirit (Despair)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "35 + 15 for each spell level above 3rd"
 "modifier": !!int "3"
 "stats":
   - !!int "13"

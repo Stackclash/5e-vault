@@ -20,7 +20,7 @@ tags:
 aliases:
   - Warhorse (Studded Leather Barding)
 ---
-# [[5. Mechanics\Bestiary\Beast\Warhorse Studded Leather Barding.md|Warhorse (Studded Leather Barding)]]
+# [[/5. Mechanics/Bestiary/Beast/Warhorse Studded Leather Barding.md|Warhorse (Studded Leather Barding)]]
 *Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

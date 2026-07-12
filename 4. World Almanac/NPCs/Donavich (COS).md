@@ -175,8 +175,8 @@ return function View() {
 "cr": "1/4"
 "traits":
   - "desc": "Donavich is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
-      \ (spell save DC 12, +4 to hit with spell attacks). Donavich has following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Light.md|light]],\
+      \ (spell save DC 12, +4 to hit with spell attacks). Donavich has the following\
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Light.md|light]],\
       \ [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
       \n**1st level (3 slots):** [[/5. Mechanics/Spells/Bless.md|bless]], [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
       \ [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]]"

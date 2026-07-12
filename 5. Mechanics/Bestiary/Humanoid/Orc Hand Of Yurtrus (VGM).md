@@ -28,7 +28,7 @@ tags:
 aliases:
   - Orc Hand of Yurtrus
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Hand Of Yurtrus (VGM).md|Orc Hand of Yurtrus]]
+# [[/5. Mechanics/Bestiary/Humanoid/Orc Hand Of Yurtrus (VGM).md|Orc Hand of Yurtrus]]
 *Source: Volo's Guide to Monsters p. 184*
 
 Yurtrus is the orc god of death and disease. He is a horrifying abomination covered in rot and infection, except for his perfect, smooth white hands.

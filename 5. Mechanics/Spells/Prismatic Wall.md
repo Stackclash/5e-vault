@@ -57,7 +57,7 @@ The wall sheds bright light out to a range of 100 feet and dim light for an addi
 
 The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity saving throw or be affected by that layer's properties as described below.
 
-The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An [[/5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] has no effect on a prismatic wall.
+The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. [[/5. Mechanics/Spells/Antimagic Field.md\|Antimagic field]] has no effect on the wall, and [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] can affect only the violet layer.
 
 ## Red
 

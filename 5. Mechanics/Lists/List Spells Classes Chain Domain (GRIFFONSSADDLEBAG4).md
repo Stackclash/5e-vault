@@ -10,13 +10,13 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Command.md \|"PHB"]] at class level 5
-- [[/5. Mechanics/Spells/Grease.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Command.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Grease.md \|"PHB"]]
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Branding Smite.md \|"PHB"]] at class level 5
-- [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Branding Smite.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]] at class level 3
 
 ## 3rd Level
 
@@ -25,10 +25,10 @@ aliases:
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Evards Black Tentacles.md \|"PHB"]] at class level 5
-- [[/5. Mechanics/Spells/Freedom Of Movement.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Evards Black Tentacles.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Freedom Of Movement.md \|"PHB"]] at class level 7
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Dominate Person.md \|"PHB"]] at class level 5
-- [[/5. Mechanics/Spells/Hold Monster.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Dominate Person.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Hold Monster.md \|"PHB"]] at class level 9

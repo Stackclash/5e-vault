@@ -20,7 +20,7 @@ tags:
 aliases:
   - Dao (Disguises)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Dao Disguises.md|Dao (Disguises)]]
+# [[/5. Mechanics/Bestiary/Elemental/Dao Disguises.md|Dao (Disguises)]]
 *Source: Monster Manual p. 143*
 
 ```statblock

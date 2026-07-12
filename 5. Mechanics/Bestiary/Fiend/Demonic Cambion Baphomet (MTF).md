@@ -20,7 +20,7 @@ tags:
 aliases:
   - Demonic Cambion (Baphomet)
 ---
-# [[5. Mechanics\Bestiary\Fiend\Demonic Cambion Baphomet (MTF).md|Demonic Cambion (Baphomet)]]
+# [[/5. Mechanics/Bestiary/Fiend/Demonic Cambion Baphomet (MTF).md|Demonic Cambion (Baphomet)]]
 *Source: Mordenkainen's Tome of Foes p. 36*
 
 ```statblock

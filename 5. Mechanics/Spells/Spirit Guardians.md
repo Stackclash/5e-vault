@@ -9,7 +9,7 @@ tags:
   - spell/level/3rd-level
   - spell/school/conjuration
   - spell/subclass/circle-of-the-spirits
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/fey-soul
   - spell/subclass/war-domain
 classes:
@@ -17,7 +17,7 @@ classes:
   - Cleric
   - Cleric (War Domain)
   - Druid (Circle of the Spirits)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Sorcerer (Fey Soul)
 school: Conjuration
 level: 3
@@ -62,6 +62,6 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Fey Soul)](/compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Fey Soul)](/compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -33,7 +33,9 @@ verbal: true
 somatic: false
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when a creature within range makes an attack roll,
+  saving throw, or ability check
 duration: Instantaneous
 range: 25 feet
 aliases:
@@ -48,7 +50,7 @@ damage:
 # Unluck on That
 *1st-level, Enchantment*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when a creature within range makes an attack roll, saving throw, or ability check
 - **Range:** 25 feet
 - **Components:** V
 - **Duration:** Instantaneous

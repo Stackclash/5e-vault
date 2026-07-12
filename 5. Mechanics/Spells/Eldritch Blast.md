@@ -7,6 +7,7 @@ tags:
   - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/feat/magic-initiate/warlock-spells
+  - spell/feat/spell-sniper
   - spell/level/cantrip
   - spell/optfeature/pact-of-the-tome
   - spell/school/evocation

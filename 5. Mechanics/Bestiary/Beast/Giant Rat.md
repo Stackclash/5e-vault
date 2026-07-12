@@ -26,7 +26,7 @@ tags:
 aliases:
   - Giant Rat
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Rat.md|Giant Rat]]
+# [[/5. Mechanics/Bestiary/Beast/Giant Rat.md|Giant Rat]]
 *Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock

@@ -9,7 +9,7 @@ aliases:
 # Chapter 8: The Dragon Queen's Pride
 *Source: Vecna: Eve of Ruin, p. 149* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/121-08-001-red-belvedere.webp#center\|"The heroes' quest for the final rod piece takes them into a casino in the heart of Avernus"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/121-08-001-red-belvedere.webp#center\|The heroes' quest for the final rod piece takes them into a casino in the heart of Avernus]]
 
 The adventurers discover that the final piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is in the heart of Avernus, the first layer of the Nine Hells. The characters must infiltrate a diabolical casino dedicated to Tiamat, Queen of Evil Dragons, whose lair is nearby.
 
@@ -73,7 +73,7 @@ If consulted, the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Sev
 
 ### Hell of a Ride
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/122-08-001-venatrix.webp#center\|"The erinyes roam the blasted landscape in a vehicle called the Venatrix"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/122-08-001-venatrix.webp#center\|The erinyes roam the blasted landscape in a vehicle called the Venatrix]]
 
 The characters can descend the cliff without trouble. Once they do, they catch the attention of a crew of scavengers. Read or paraphrase the following:
 
@@ -289,7 +289,7 @@ Khai is a boisterous [[/5. Mechanics/Bestiary/Fiend/Red Abishai (MPMM).md\|red a
 
 Khai prizes battle prowess above all else. Should the characters win three matches in the coliseum, Khai challenges them to combat; if the characters reduce Khai to 50 hit points or fewer without killing him, the abishai rewards them with access to Dragon's Pride. See the "Scarlet Coliseum" section later in this chapter for more information about this option.
 
-![Rezran &quot;Snake Eyes&quot; Agrodr...](/compendium/adventures/vecna-eve-of-ruin/img/127-08-004-rezran-khai-nyssa.webp#center "Rezran &quot;Snake Eyes&quot; Agrodro, Khai Kiroth, and Nyssa Otellion")
+![Rezran &quot;Snake Eyes&quot; Agrodro, Khai Kiroth, and Nyssa Otellion](/compendium/adventures/vecna-eve-of-ruin/img/127-08-004-rezran-khai-nyssa.webp#center)
 
 #### Nyssa Otellion
 
@@ -501,7 +501,7 @@ An excited crowd has gathered in the coliseum. Khai has two [[/5. Mechanics/Best
 
 On being reduced to fewer than 25 hit points, Khai concedes the match, declaring the characters the victors. As promised, Khai hands the characters 1,000 talons and offers them access to Dragon's Pride (see the "Dragon's Pride" section).
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/133-08-006-purple-worm.webp#center\|"Combatants in the Scarlet Coliseum might face an irate purple worm"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/133-08-006-purple-worm.webp#center\|Combatants in the Scarlet Coliseum might face an irate purple worm]]
 
 ### Stygian Maze
 
@@ -716,7 +716,7 @@ Most of the items in Windfall's office are lavish but mundane and too big to tra
 
 #### N5: Ruby Sanctum
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/136-08-007-red-dragon.webp#center\|"A holographic red dragon sleeps next to the final rod piece"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/136-08-007-red-dragon.webp#center\|A holographic red dragon sleeps next to the final rod piece]]
 
 > [!readaloud] 
 > 

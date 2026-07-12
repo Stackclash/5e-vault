@@ -18,8 +18,8 @@ tags:
 aliases:
   - Brain in a Jar
 ---
-# [[5. Mechanics\Bestiary\Undead\Brain In A Jar (VRGR).md|Brain in a Jar]]
-*Source: Van Richten's Guide to Ravenloft p. 278*
+# [[/5. Mechanics/Bestiary/Undead/Brain In A Jar (VRGR).md|Brain in a Jar]]
+*Source: Van Richten's Guide to Ravenloft p. 229*
 
 Through an eldritch ritual combining alchemy, necromancy, and grim surgical precision, the brain of a mortal being (willing or unwilling) is encased in a glass jar filled with preserving fluids and the liquefied goop of their body's flesh. The transformation renders the brain immortal and imbues it with psionic power, so that it can spend eternity plotting and executing its desires.
 
@@ -90,8 +90,9 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
   - "desc": "The brain magically emits psychic energy in a 60-foot cone. Each creature\
       \ in that area must succeed on a DC 14 Intelligence saving throw or take 17\
       \ (3d8 + 4) psychic damage and be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
-      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
 "source":
   - "VRGR"

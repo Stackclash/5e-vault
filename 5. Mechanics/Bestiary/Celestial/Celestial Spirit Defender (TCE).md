@@ -18,7 +18,7 @@ aliases:
   - Celestial Spirit (Defender)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Celestial\Celestial Spirit Defender (TCE).md|Celestial Spirit (Defender)]]
+# [[/5. Mechanics/Bestiary/Celestial/Celestial Spirit Defender (TCE).md|Celestial Spirit (Defender)]]
 *Source: Tasha's Cauldron of Everything p. 110*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "celestial"
 "alignment": "Unaligned"
 "ac_class": "13 + the level of the spell (natural armor)"
+"hp": "40 + 10 for each spell level above 5th"
 "modifier": !!int "2"
 "stats":
   - !!int "16"

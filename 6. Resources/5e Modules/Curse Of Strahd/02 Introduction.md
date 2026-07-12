@@ -81,7 +81,7 @@ You can award experience points for the defeat of foes, use milestone awards, or
 
 - **Finding Artifacts.** The characters gain a level when they obtain the Tome of Strahd, the [[/5. Mechanics/Items/Sunsword (COS).md\|Sunsword]], or the [[/5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]].  
 - **Defeating Villains.** The characters gain a level when they defeat the featured antagonist(s) in a location, such as the hags in Old Bonegrinder (chapter 6).  
-- **Accomplishing Story Goals.** The characters gain a level when they accomplish something significant, such lighting the beacon of Argynvostholt (chapter 7), thwarting the druids' ritual atop Yester Hill (chapter 14), or forging an alliance with [[/4. World Almanac/NPCs/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]] (appendix D).  
+- **Accomplishing Story Goals.** The characters gain a level when they accomplish something significant, such as lighting the beacon of Argynvostholt (chapter 7), thwarting the druids' ritual atop Yester Hill (chapter 14), or forging an alliance with [[/4. World Almanac/NPCs/Ezmerelda Davenir (COS).md\|Ezmerelda d'Avenir]] (appendix D).  
 
 Appendix B, "Death House," uses milestone awards by way of example.
 

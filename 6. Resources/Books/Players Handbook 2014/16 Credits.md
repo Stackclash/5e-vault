@@ -27,7 +27,7 @@ aliases:
 - **Drawing from further development by.** J. Eric Holmes, Tom Moldvay, Frank Mentzer, Aaron Allston, Harold Johnson, Roger E. Moore, David "Zeb" Cook, Ed Greenwood, Tracy Hickman, Margaret Weis, Douglas Niles, Jeff Grubb, Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Keith Baker, Bill Slavicsek, Andy Collins, and Rob Heinsoo  
 - **Playtesting provided by.** over 175,000 fans of D&D. Thank you!  
 
-![[/6. Resources/Books/Players Handbook 2014/img/phbcover.webp#center\|"On the Cover: In this fiery scene illustrated by Tyler Jacobson, the fire giant King Snurre, suffering no fools to live, calls his hell hounds to join him in confronting unwelcome guests in his home."]]
+![[/6. Resources/Books/Players Handbook 2014/img/phbcover.webp#center\|On the Cover: In this fiery scene illustrated by Tyler Jacobson, the fire giant King Snurre, suffering no fools to live, calls his hell hounds to join him in confronting unwelcome guests in his home.]]
 
 > [!note]
 > Disclaimer: Wizards of the Coast is not responsible for the consequences of splitting up the party, sticking appendages in the mouth of a leering green devil face, accepting a dinner invitation from bugbears, storming the feast hall of a hill giant steading, angering a dragon of any variety, or saying yes when the DM asks, "Are you really sure?"

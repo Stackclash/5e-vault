@@ -18,7 +18,7 @@ aliases:
   - Construct Spirit (Stone)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Construct\Construct Spirit Stone (TCE).md|Construct Spirit (Stone)]]
+# [[/5. Mechanics/Bestiary/Construct/Construct Spirit Stone (TCE).md|Construct Spirit (Stone)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "construct"
 "alignment": "Unaligned"
 "ac_class": "13 + the level of the spell (natural armor)"
+"hp": "40 + 15 for each spell level above 4th"
 "modifier": !!int "0"
 "stats":
   - !!int "18"

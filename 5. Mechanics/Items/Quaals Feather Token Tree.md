@@ -17,6 +17,7 @@ item_recharge: none
 ---
 # Quaal's Feather Token, Tree
 *Wondrous item, minor, rare*  
+![[/5. Mechanics/Items/img/quaals-feather-token-tree.webp#right]]  
 
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})

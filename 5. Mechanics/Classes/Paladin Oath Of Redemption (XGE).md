@@ -76,7 +76,7 @@ You gain oath spells at the paladin levels listed.
 | 3rd | [[/5. Mechanics/Spells/Sanctuary.md\|sanctuary]], [[/5. Mechanics/Spells/Sleep.md\|sleep]] |
 | 5th | [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [[/5. Mechanics/Spells/Hold Person.md\|hold person]] |
 | 9th | [[/5. Mechanics/Spells/Counterspell.md\|counterspell]], [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] |
-| 13th | [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md\|Otiluke's resilient sphere]], [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 13th | [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md\|Otiluke's Resilient Sphere]], [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
 | 17th | [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]], [[/5. Mechanics/Spells/Wall Of Force.md\|wall of force]] |
 ^oath-of-redemption-spells
 

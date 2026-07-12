@@ -10,7 +10,7 @@ tags:
   - spell/school/enchantment
   - spell/subclass/aberrant-mind
   - spell/subclass/circle-of-roses
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/oath-of-redemption
   - spell/subclass/the-archfey
 classes:
@@ -19,7 +19,7 @@ classes:
   - Druid (Circle of Roses)
   - Paladin (Oath of Redemption)
   - Sorcerer (Aberrant Mind)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Warlock (The Archfey)
 school: Enchantment
 level: 2
@@ -56,6 +56,6 @@ You can suppress any effect causing a target to be [[/5. Mechanics/Rules/Conditi
 
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Roses)](/compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Roses)](/compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]
 
 *Source: Player's Handbook p. 221. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

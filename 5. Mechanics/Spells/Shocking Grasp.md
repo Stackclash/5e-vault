@@ -10,6 +10,7 @@ tags:
   - spell/class/wizard
   - spell/feat/artificer-initiate
   - spell/feat/magic-initiate/wizard-spells
+  - spell/feat/spell-sniper
   - spell/level/cantrip
   - spell/optfeature/pact-of-the-tome
   - spell/race/kobold

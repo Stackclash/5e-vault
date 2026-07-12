@@ -20,6 +20,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/nature-domain
   - spell/subrace/elf-high
+  - spell/subrace/genasi-water
 classes:
   - Bard (Magical Secrets)
   - Cleric (Nature Domain)

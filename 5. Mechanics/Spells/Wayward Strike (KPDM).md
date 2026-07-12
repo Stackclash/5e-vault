@@ -21,7 +21,7 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take when a melee or ranged attack is made against you'
 duration: Instantaneous
 range: 60 feet
 aliases:
@@ -30,7 +30,7 @@ aliases:
 # Wayward Strike
 *4th-level, Transmutation*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when a melee or ranged attack is made against you
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

@@ -18,7 +18,7 @@ tags:
 aliases:
   - Cat Skeleton
 ---
-# [[5. Mechanics\Bestiary\Beast\Cat Skeleton (COS).md|Cat Skeleton]]
+# [[/5. Mechanics/Bestiary/Beast/Cat Skeleton (COS).md|Cat Skeleton]]
 *Source: Curse of Strahd p. 109*
 
 ```statblock

@@ -28,7 +28,7 @@ tags:
 aliases:
   - Orc Red Fang of Shargaas
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Red Fang Of Shargaas (VGM).md|Orc Red Fang of Shargaas]]
+# [[/5. Mechanics/Bestiary/Humanoid/Orc Red Fang Of Shargaas (VGM).md|Orc Red Fang of Shargaas]]
 *Source: Volo's Guide to Monsters p. 185*
 
 Shargaas is the orc deity of deep darkness and sneakiness, a murderous god who hates anything that lives that isn't an orc. Orcs consider Shargaas to be a divinity suited to pariahs and weaklings, all of them unfit for true roles in tribal life. These outsiders live in the most remote, deepest parts of the tribe's domain.

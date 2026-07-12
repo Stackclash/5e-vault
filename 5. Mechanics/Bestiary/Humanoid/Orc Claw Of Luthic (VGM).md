@@ -22,7 +22,7 @@ tags:
 aliases:
   - Orc Claw of Luthic
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Claw Of Luthic (VGM).md|Orc Claw of Luthic]]
+# [[/5. Mechanics/Bestiary/Humanoid/Orc Claw Of Luthic (VGM).md|Orc Claw of Luthic]]
 *Source: Volo's Guide to Monsters p. 183*
 
 Luthic is Gruumsh's wife and the paragon of maternity to all orcs. She is the Cave Mother, a fierce dweller in the darkness who raises new broods of orcs to be vicious and strong. Her symbol is the cave bear, and orc females raise such bears alongside orc whelps. Females particularly attracted to Luthic grow long nails and lacquer them, learning to use these claws as weapons much as Luthic uses her own.

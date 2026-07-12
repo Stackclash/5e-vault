@@ -35,7 +35,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when an enemy tries to make a surprise attack
+  against you
 duration: Instantaneous
 range: Self
 aliases:
@@ -44,7 +46,7 @@ aliases:
 # Scry Ambush
 *4th-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy tries to make a surprise attack against you
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous

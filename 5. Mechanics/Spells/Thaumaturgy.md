@@ -12,7 +12,7 @@ tags:
   - spell/optfeature/pact-of-the-tome
   - spell/race/tiefling-base
   - spell/school/transmutation
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subrace/tiefling
   - spell/subrace/tiefling-asmodeus
   - spell/subrace/tiefling-baalzebul
@@ -21,7 +21,7 @@ tags:
 classes:
   - Bard (Magical Secrets)
   - Cleric
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Transmutation
 level: 0
 ritual: false
@@ -55,6 +55,6 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

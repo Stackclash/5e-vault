@@ -20,7 +20,7 @@ tags:
 aliases:
   - Thug
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Thug.md|Thug]]
+# [[/5. Mechanics/Bestiary/Humanoid/Thug.md|Thug]]
 *Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.

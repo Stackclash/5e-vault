@@ -192,7 +192,7 @@ return function View() {
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
       \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC\
-      \ 12 Constitution saving throw or be cursed with werewolf lycanthropy."
+      \ 12 Constitution saving throw or be cursed with werewolf [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]."
     "name": "Bite (Wolf or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7\
       \ (2d4 + 2) slashing damage."

@@ -18,7 +18,7 @@ tags:
 aliases:
   - Quadrone (Rogue)
 ---
-# [[5. Mechanics\Bestiary\Construct\Quadrone Rogue.md|Quadrone (Rogue)]]
+# [[/5. Mechanics/Bestiary/Construct/Quadrone Rogue.md|Quadrone (Rogue)]]
 *Source: Monster Manual p. 226*
 
 ```statblock

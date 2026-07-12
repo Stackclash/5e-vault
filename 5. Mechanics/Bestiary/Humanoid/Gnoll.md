@@ -26,7 +26,7 @@ tags:
 aliases:
   - Gnoll
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Gnoll.md|Gnoll]]
+# [[/5. Mechanics/Bestiary/Humanoid/Gnoll.md|Gnoll]]
 *Source: Monster Manual p. 163. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.

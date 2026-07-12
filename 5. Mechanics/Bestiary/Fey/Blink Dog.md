@@ -20,7 +20,7 @@ tags:
 aliases:
   - Blink Dog
 ---
-# [[5. Mechanics\Bestiary\Fey\Blink Dog.md|Blink Dog]]
+# [[/5. Mechanics/Bestiary/Fey/Blink Dog.md|Blink Dog]]
 *Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.

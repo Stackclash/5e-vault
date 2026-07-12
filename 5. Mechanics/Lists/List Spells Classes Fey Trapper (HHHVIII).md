@@ -14,16 +14,16 @@ aliases:
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Invisibility.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Invisibility.md \|"PHB"]] at class level 5
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Glyph Of Warding.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Glyph Of Warding.md \|"PHB"]] at class level 9
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Hallucinatory Terrain.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Hallucinatory Terrain.md \|"PHB"]] at class level 13
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Hold Monster.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Hold Monster.md \|"PHB"]] at class level 17

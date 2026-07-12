@@ -9,7 +9,7 @@ aliases:
 # Chapter 5: Death House
 *Source: Vecna: Eve of Ruin, p. 93* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/080-05-001-the-death-house.webp#center\|"Death House is a source of terror in Barovia, and the characters soon discover why"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/080-05-001-the-death-house.webp#center\|Death House is a source of terror in Barovia, and the characters soon discover why]]
 
 The fourth piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is in Barovia, one of the Shadowfell's Domains of Dread. With the aid of an Ulmist inquisitor, the party infiltrates the basement of an eerie locale called Death House. Here, they must stop cults plotting to use the fourth rod piece in vile rituals while also preventing the artifact from falling into of the hands of the infamous vampire Strahd von Zarovich.
 
@@ -62,7 +62,7 @@ If the characters attempt to leave or circumvent the village, the Mists return t
 
 The third piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] points toward the tall, gloomy house on the village's far side, where the sound of weeping is coming from.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/081-05-002-barovian-villagers.webp#center\|"Barovian villagers confront the characters when they arrive, believing they're villains"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/081-05-002-barovian-villagers.webp#center\|Barovian villagers confront the characters when they arrive, believing they're villains]]
 
 ### Unwelcome Party
 
@@ -192,7 +192,7 @@ If unaided, Sarusanda gains 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhau
 
 #### Séance
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/084-05-005-sarusanda-interrogation.webp#center\|"Sarusanda interrogates a deceased cult member to learn more about the activities in Death House"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/084-05-005-sarusanda-interrogation.webp#center\|Sarusanda interrogates a deceased cult member to learn more about the activities in Death House]]
 
 > [!readaloud] 
 > 
@@ -361,7 +361,7 @@ A small door in the corner of the room opens onto the shaft of the dumbwaiter.
 
 #### D8: Library
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/087-05-006-priests-of-osybus.webp#center\|"The priests of Osybus are known for the evil practice of trapping enemies' souls into tattoos on the priests' bodies"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/087-05-006-priests-of-osybus.webp#center\|The priests of Osybus are known for the evil practice of trapping enemies' souls into tattoos on the priests' bodies]]
 
 > [!readaloud] 
 > 
@@ -649,7 +649,7 @@ At the foot of the bed is an unlocked but empty wooden footlocker. This is Gusta
 
 Lurking in the shadows are two [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]] that move to attack as soon as anyone enters this room. The cult keeps "relics" in this chamber. These worthless items—human remains, mundane material components for spellcasting, and so forth—are stored in thirteen niches along the walls.
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/088-05-007-death-house-reliquary.webp#center\|"Death House's reliquary is home to lurking monsters as well as components used in the Durst family's rituals"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/088-05-007-death-house-reliquary.webp#center\|Death House's reliquary is home to lurking monsters as well as components used in the Durst family's rituals]]
 
 #### D36: Prison
 
@@ -776,7 +776,7 @@ Once the characters have encountered all four haunted zones, they don't encounte
 
 ### Death House Hauntings
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/089-05-008-strahd-with-rod-piece.webp#center\|"If the characters fall in Death House, Strahd will happily claim the piece of the Rod of Seven Parts therein"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/089-05-008-strahd-with-rod-piece.webp#center\|If the characters fall in Death House, Strahd will happily claim the piece of the Rod of Seven Parts therein]]
 
 The characters enter the following haunted zones in the order presented.
 

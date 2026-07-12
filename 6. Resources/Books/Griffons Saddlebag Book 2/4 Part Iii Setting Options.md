@@ -46,7 +46,7 @@ Under the subtle influence of this leadership, Antronec blossomed. These cunning
 #### The Mercantile Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-mercantile.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>The Mercantile Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>The Mercantile Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-mercantile.webp#gallery)
 
 Although referred to as a guild, this political and economic faction actually governs the people and other guilds of Antronec. From the Administrative Capitol Building in the Gilded Quarter, the Guildmasters direct and supervise the city's affairs. Guildmaster Chantelle Redcliff, a female human, and her spouse Thrift Redcliff, a female tiefling, maintain Antronec's public services, draft legislation, monitor the economy, and meet with ambassadors to discuss foreign affairs. They also coordinate the city's judges, recordkeeping, banks and mint. Career politicians, they direct public opinion and mediate guild tensions with their charm and cunning. Indeed, most members of this guild are skilled wordsmiths, or even bards dedicated to the study of arcane magic and monetary gain, but are almost entirely unaware of the nefarious lengths that their leaders will go through to maintain control.
 
@@ -92,7 +92,7 @@ Support from a guild can come in the following ways:
 #### Alchemical Federation, Alchemists Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-alchemists.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>Alchemical Federation, Alchemists Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>Alchemical Federation, Alchemists Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-alchemists.webp#gallery)
 
 The Federation Greenhouse is the beating heart for Antronec's guild of apothecaries, alchemists, chandlers, fullers, and herbalists of all kinds. Here, Grand Philosopher Seraphi Nullshade and her husband Chief Herbalist Geoffran Nullshade organize sales and inventory of the city's chemicals. As the proprietors of The Ambrosia Fountain, the human couple are known for their literal and metaphorical groundbreaking advancements in alchemy and herbalism despite their relative youth. Foremost among their inventions thus far is an alchemical potion that greatly aids in balancing the intense mood and energy swings that individuals like Sullivas experience.
 
@@ -116,7 +116,7 @@ Several decades ago, there was a secret affair between the then-Conductor of The
 #### Metallurgy Incorporated, Smiths Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-smiths.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>Metallurgy Incorporated, Smiths Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>Metallurgy Incorporated, Smiths Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-smiths.webp#gallery)
 
 The day-to-day operations of this faction, made up of all manner of metalworkers, are based out of a smoke-spewing building in the Bazaar of Wonders called the Corporate Foundry. The Supreme Smith, a middle-aged human who goes by the name Lindsay or Lenny Rublessen depending on the day, directs the guild's affairs whenever they're not crafting exquisite weapons at Rublessen Armory. They possess a fiery temper, precious little patience for ego, and an everwarm heart for the young and eager who come to learn from them.
 
@@ -140,7 +140,7 @@ Long ago, a violent feud erupted between Metallurgy Incorporated and the League 
 #### Order of Hues, Painters Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-painters.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>Order of Hues, Painters Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>Order of Hues, Painters Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-painters.webp#gallery)
 
 Although they are known for their dedication to self-expression and open creativity, the artisan painters and calligraphers of Antronec organize themselves into a guild to ensure proper pay and recognition in the city's economy. Currently they are led by the dwarven Brushmaster Hjolkam Brightanvil and his elven wife Quillmaster Melodania Brightanvil. When they're not working at the guild headquarters, The Pallette, they produce stunning landscape paintings and calligraphy from their shop, Brightanvil's Artistry. Hjolkam in particular has gained notoriety across the land for his art style, which has shifted from shadowy and foreboding to bright and inspiring as he's transitioned over the last decade and adjusted to the loss of his hearing.
 
@@ -164,7 +164,7 @@ A great deal of tension exists between the Order and The Cartographer's Guild. T
 #### The Book Binders, Librarians Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-librarians.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>The Book Binders, Librarians Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>The Book Binders, Librarians Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-librarians.webp#gallery)
 
 Ardent Archivist Nizira Bladesworn, a female half-orc, manages the affairs of this guild of librarians, bookmakers, and book sellers. The guild uses a large warehouse known as The Archive to store and transfer books and materials between the various satellite businesses. Nizira herself owns and operates a shop called Booksworn, a store dedicated to selling autobiographies and writings of marginalized and other atypical authors. The Archivist is known for her large stature, wise perspectives, and love for explicit storytelling. Rumor has it that she'll soon complete her goal to read and rate the quality of every published romance in Antronec.
 
@@ -188,7 +188,7 @@ In contrast, The Book Binders frequently clash with the Lumber Company over impo
 #### The Cartographer's Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-cartographer.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>The Cartographer's Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>The Cartographer's Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-cartographer.webp#gallery)
 
 On the surface, The Cartographer's Guild purports to be a guild of simple mapmakers and navigators who help make the world a safer place to traverse. In actuality, this faction intentionally utilizes their maps, clockwork ink beetles,  and bands of the found and lost  to manipulate overeager adventurers and reckless travelers as pawns to help the guild find and acquire treasure with less risk to themselves. The guild and its devious schemes operate under the guidance of the eponymous Cartographer herself, an aged elven matron named Kaybella Dawnquill. She originally founded the guild and set forth these practices in her youth with the support of her late husband, but now directs their clandestine and public affairs alone. These days, she spends most of her time at the guild's headquarters, The Geographical Reserve, and leaves management of Dawnquill Cartography to her great-grandchildren.
 
@@ -212,7 +212,7 @@ Though usually not violent in nature, the guild does have occasional bidding war
 #### The Filigreed Union, Tinkers Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-tinkers.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>The Filigreed Union, Tinkers Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>The Filigreed Union, Tinkers Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-tinkers.webp#gallery)
 
 Much of Antronec's technological advancement is a direct result of the Filigreed Union's dedication to progress. From their office called The Factory, the blind tiefling Conductor Expertise Everbloom and their half-elven husband Bright-Facet Kerrigan Everbloom brainstorm revolutionary designs and handle patents for the guild's many tinkers and jewelers. They also take commissions for elaborate and gem-studded inventions at their business, Everbloom's Ingenuity. The couple are prodigies in their craft, and are notably the youngest guildmasters the Union and Antronec have ever seen. Consequently, the city has seen a sharp increase in young tinkers, especially from blind youth who strive to emulate Expertise's unprecedented example. 
 
@@ -236,7 +236,7 @@ As previously mentioned, longstanding animosity exists between the Union and the
 #### The Hospitality Collaborative, Brewers Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-brewers.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>The Hospitality Collaborative, Brewers Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>The Hospitality Collaborative, Brewers Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-brewers.webp#gallery)
 
 Due to its crossroads-spanning position, Antronec sees vast amounts of travelers who all need a place to rest and regain their strength. The collaborative is made up of the many taverns, inns, and breweries of the city, and coordinates policy and prices from the Fermentation Warehouse in the Bazaar of Wonders. The Quicksteps, Brewmeister Jefan the male gnome and Grand Innkeeper Wren the male goblin, manage the ritzy Antronec Hotel and mediate any guild disputes. Several years ago, a disastrous fire at the hotel took Wren's life, but was successfully resurrected with the aid of some precarious magic. The originally female gnome was brought back to life in a male goblin's body, which was both miraculous as much as it was challenging. Wren took some time to work through the learning curve and get used to being male, let alone being a goblin, but steadily gained confidence as the loving couple worked through the adjustments together. This period of personal growth and development directly contributed to the devoted couple's professional rise in standing within the guild, as they pioneered new ideas and renovated the flame-scarred hotel.
 
@@ -260,7 +260,7 @@ Of all the guilds, the Tastemaker Society is most despised by the Hospitality Co
 #### The League of Bricks and Mortar, Masons Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-masons.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>The League of Bricks and Mortar, Masons Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>The League of Bricks and Mortar, Masons Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-masons.webp#gallery)
 
 Draftlord Kemrel Emberscale, a female dragonborn, directs the efforts of Antronec's finest stonemasons, sculptors, and architects. When she's not at the drafting table in her shop, Emberproof Architecture, she can be found at the league's headquarters, nicknamed The Blueprint. The Draftlord is notorious for her social disinterest, seemingly tireless energy, and frequent insomnia. The latter two push her to work very inconsistent hours at her shop and office, but also produce some of Antronec's most stunning buildings.
 
@@ -284,7 +284,7 @@ According to historical records, the intense rivalry between the League and Meta
 #### The Lumber Company, Carpenters Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-carpenters.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>The Lumber Company, Carpenters Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>The Lumber Company, Carpenters Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-carpenters.webp#gallery)
 
 In most circles, The Lumber Company is viewed as one of Antronec's more down-to-earth guilds, partially because The Carver's Lodge, their center of operations, is located in the Bazaar of Wonders instead of the Gilded Quarter. Executive Hewer Sylora Deeproot, a stern female half-elf, runs the company with her wife Senior Whittler Aluisha Deeproot, a long-retired elven warrior. They manage the guild's various carpenters, woodcarvers, and lumberjacks, but also run Deep Roots Carpentry, which specializes in custom elven-style furniture.
 
@@ -308,7 +308,7 @@ Unfortunately, the harsh economic battlefield of Antronec has forced even the De
 #### The Tastemaker Society, Chefs Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-chefs.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>The Tastemaker Society, Chefs Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>The Tastemaker Society, Chefs Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-chefs.webp#gallery)
 
 The Society is composed of all manner of individual bakers and chefs, along with various restaurants, bakeries, and produce shops. A few popular and profitable street vendors are also offered membership. Mithral Chef Acklinn Kworts, a female halfling, is the current guildmaster. She has devoted her life to the art of cuisine, mastering every known form of food preparation and winning countless competitions. She is ambivalent about romantic entanglements, choosing to focus solely on managing her guild and honing her craft to utter perfection. When she's not running the guild from their headquarters, colloquially known as The Kitchen, she provides friends and wealthy customers with meals at her restaurant, Kworts' Eatery.
 
@@ -332,7 +332,7 @@ The Hospitality Collaborative is a bitter rival of the Tastemakers, mostly due t
 #### The Textile Collective, Textile Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-textile.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>The Textile Collective, Textile Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>The Textile Collective, Textile Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-textile.webp#gallery)
 
 The Collective includes dozens of tanners and leatherworkers, weavers and textile shops. The current guildmasters are the orcish Short-Stitcher Brerrin Fraybeard and his dwarven wife Long-Tanner Brunhilda Fraybeard. The stout orc exudes a patient and calming presence that greatly aids Brunhilda's anxious and excitable personality. Besides guild management, the couple own and run Fraybeard Couture with their children, the most expensive and fashionable clothing store in Antronec. Their gentler leadership has brought The Textile Collective great wealth and success over the last several years: a large improvement over the previous guildmaster.
 
@@ -356,7 +356,7 @@ Generally, the Collective is perfectly willing to backstab and compete with the 
 #### Unified Cobblecraft, Cobblers Guild
 
 > [!gallery]
-> ![<span style=&quot;font-family: ...](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-cobblers.webp#gallery "<span style=&quot;font-family: ZatannaMisdirection&quot;>Unified Cobblecraft, Cobblers Guild</span>")
+> ![<span style=&quot;font-family: ZatannaMisdirection&quot;>Unified Cobblecraft, Cobblers Guild</span>](https://raw.githubusercontent.com/unknown117343/homebrew-img/tgs2/img/GriffonsSaddlebag2/Book/artwork-antronec-guild-cobblers.webp#gallery)
 
 From Cordwainer Central in the Sellers' Slums, First Strider Davkin Amberleaf manages finances and inventories for Antronec's master shoemakers and cobblers. In recent years, the gray-haired halfling has struggled to recover from a messy divorce after almost one hundred years of marriage. His workshop, Amber and Leaves Cobblery, is rarely open despite its longstanding reputation for crafting the highest quality adventuring and traveling boots. Talk of a guildmaster replacement or second marriage is frequent and increasingly blatant, but the stubborn halfling refuses to leave his shop or guild without a fight, as tribute to his wife.
 

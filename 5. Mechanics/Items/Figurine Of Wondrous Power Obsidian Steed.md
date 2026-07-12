@@ -17,6 +17,7 @@ item_recharge: none
 ---
 # Figurine of Wondrous Power, Obsidian Steed
 *Wondrous item, major, very rare*  
+![[/5. Mechanics/Items/img/figurine-of-wondrous-power-obsidian-steed.webp#right]]  
 
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})

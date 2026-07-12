@@ -26,7 +26,7 @@ In the case of the [[/5. Mechanics/Decks/Deck Of Many Things.md#Rogue\|Rogue]] c
 
 | dice: 1d22 | Playing Card | Card |
 |------------|--------------|------|
-| 1 | Ace of diamonds | [[/5. Mechanics/Decks/Deck Of Many Things.md#Vizier\|Vizier]]* |
+| 1 | Ace of diamonds | Vizier* |
 | 2 | King of diamonds | [[/5. Mechanics/Decks/Deck Of Many Things.md#Sun\|Sun]] |
 | 3 | Queen of diamonds | [[/5. Mechanics/Decks/Deck Of Many Things.md#Moon\|Moon]] |
 | 4 | Jack of diamonds | [[/5. Mechanics/Decks/Deck Of Many Things.md#Star\|Star]] |
@@ -40,7 +40,7 @@ In the case of the [[/5. Mechanics/Decks/Deck Of Many Things.md#Rogue\|Rogue]] c
 | 12 | King of clubs | [[/5. Mechanics/Decks/Deck Of Many Things.md#The%20Void\|The Void]] |
 | 13 | Queen of clubs | [[/5. Mechanics/Decks/Deck Of Many Things.md#Flames\|Flames]] |
 | 14 | Jack of clubs | [[/5. Mechanics/Decks/Deck Of Many Things.md#Skull\|Skull]] |
-| 15 | Two of clubs | [[/5. Mechanics/Decks/Deck Of Many Things.md#Idiot\|Idiot]]* |
+| 15 | Two of clubs | Idiot* |
 | 16 | Ace of spades | [[/5. Mechanics/Decks/Deck Of Many Things.md#Donjon\|Donjon]]* |
 | 17 | King of spades | [[/5. Mechanics/Decks/Deck Of Many Things.md#Ruin\|Ruin]] |
 | 18 | Queen of spades | [[/5. Mechanics/Decks/Deck Of Many Things.md#Euryale\|Euryale]] |

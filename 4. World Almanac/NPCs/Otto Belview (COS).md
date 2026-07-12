@@ -149,7 +149,7 @@ return function View() {
 "size": "Medium"
 "type": "humanoid"
 "subtype": "mongrelfolk"
-"alignment": "Any alignment"
+"alignment": "Lawful Evil"
 "ac": !!int "11"
 "ac_class": "natural armor"
 "hp": !!int "26"

@@ -14,4 +14,4 @@ aliases:
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Pass Without Trace.md \|"PHB"]] as cantrip
+- [[/5. Mechanics/Spells/Pass Without Trace.md \|"PHB"]] at class level 5

@@ -14,4 +14,4 @@ aliases:
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Nondetection.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Nondetection.md \|"PHB"]] at class level 5

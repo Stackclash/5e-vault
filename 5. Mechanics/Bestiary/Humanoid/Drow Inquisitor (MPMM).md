@@ -21,7 +21,7 @@ tags:
 aliases:
   - Drow Inquisitor
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Inquisitor (MPMM).md|Drow Inquisitor]]
+# [[/5. Mechanics/Bestiary/Humanoid/Drow Inquisitor (MPMM).md|Drow Inquisitor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184*
 
 Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [[/5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md|drow matron mothers]] (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
@@ -83,7 +83,7 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
       \ This reduction lasts until the target finishes a long rest. The target dies\
       \ if its hit point maximum is reduced to 0."
     "name": "Death Lance"
-  - "desc": "The drow's casts one of the following spells, requiring no material components\
+  - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 18):\n\n**At\
       \ will:** [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
       \ [[/5. Mechanics/Spells/Message.md|message]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\

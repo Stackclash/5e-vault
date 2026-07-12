@@ -29,7 +29,7 @@ verbal: true
 somatic: false
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take immediately before initiative is rolled'
 duration: Instantaneous
 range: 30 feet
 aliases:
@@ -38,7 +38,7 @@ aliases:
 # Warning Shout
 *2nd-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take immediately before initiative is rolled
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Instantaneous

@@ -18,7 +18,7 @@ tags:
 aliases:
   - Insombie
 ---
-# [[5. Mechanics\Bestiary\Undead\Insombie (GRIFFONSSADDLEBAG3).md|Insombie]]
+# [[/5. Mechanics/Bestiary/Undead/Insombie (GRIFFONSSADDLEBAG3).md|Insombie]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Insombies are the risen undead of those who have died of exhaustion. These wandering zombie-like creatures radiate tiredness and inflict levels of exhaustion to those within their reach.

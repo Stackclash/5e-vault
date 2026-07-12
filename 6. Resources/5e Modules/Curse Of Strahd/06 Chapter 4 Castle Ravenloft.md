@@ -61,7 +61,7 @@ Use the descriptions that follow to run each encounter.
 > A loud clamor fills the unhallowed halls of Ravenloft. Cries of "Kill the vampire!" are mixed with bold voices shouting, "Never again!" and "To the crypts!"
 ^175
 
-Angry [[/5. Mechanics/Bestiary/Humanoid/Commoner.md\|villagers]] who have entered the castle brandish torches and pitchforks in a ridiculous display of force. Everywhere they go, they shout for justice. They follow the characters unless prevented from doing so. As long as these Barovians are with the adventurers, random encounters occur on a roll of 9 or higher.
+Angry [[/5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md\|villagers]] who have entered the castle brandish torches and pitchforks in a ridiculous display of force. Everywhere they go, they shout for justice. They follow the characters unless prevented from doing so. As long as these Barovians are with the adventurers, random encounters occur on a roll of 9 or higher.
 
 #### Barovian Witch
 
@@ -698,7 +698,7 @@ Each arrow slit is 2½ feet tall and 4 inches wide.
 
 > [!readaloud] 
 > 
-> Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard.Everything in this room is coated with dust, including a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd.
+> Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard. Everything in this room is coated with dust, including a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd.
 ^1de
 
 The skeletons, which were assembled by [[/4. World Almanac/NPCs/Cyrus Belview (COS).md\|Cyrus Belview]] (see area K62), are held together with wire frames and hung on pegs. They pose no threat.
@@ -814,7 +814,7 @@ The staircase climbs from area K16 to area K28. It seems unstable but is sturdy.
 
 > [!readaloud] 
 > 
-> Dusty scrolls and tomes line the walls of this room. More scrolls and books lie scattered on the floor, around four heavy wooden chests fitted with study iron locks. The only unobstructed floor space is directly in front of the doors on the east and west walls.
+> Dusty scrolls and tomes line the walls of this room. More scrolls and books lie scattered on the floor, around four heavy wooden chests fitted with sturdy iron locks. The only unobstructed floor space is directly in front of the doors on the east and west walls.
 > 
 > In the center of this clutter stands a great black desk. A figure crouches atop a tall stool, scratching on a seemingly endless scroll of paper with a dry quill pen. Nearby a tasseled rope hangs from a hole in the ceiling.
 ^1f0
@@ -1113,7 +1113,7 @@ The arrow slits of the tower are 4 inches wide and 2 feet tall, and the walls of
 
 #### Treasure
 
-The ground floor of the [[/5. Mechanics/Items/Daerns Instant Fortress.md\|Daern's instant fortress]] contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a [[/5. Mechanics/Items/2 Shield.md\|+2 shield]] emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
+The ground floor of the [[/5. Mechanics/Items/Daerns Instant Fortress.md\|Daern's instant fortress]] contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a [[/5. Mechanics/Items/Shield Of The Silver Dragon (COS).md\|+2 shield]] emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
 The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, an [[/5. Mechanics/Items/Alchemy Jug.md\|alchemy jug]], a [[/5. Mechanics/Items/Helm Of Brilliance.md\|helm of brilliance]], a [[/5. Mechanics/Items/1 Rod Of The Pact Keeper.md\|rod of the pact keeper, +1]], and an unlocked wooden coffer with four compartments, each one containing a [[/5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]].
 
@@ -1210,8 +1210,8 @@ Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 > ![[/6. Resources/5e Modules/Curse Of Strahd/img/033-009-player.webp#gallery\|Player Version]]
 
 > [!gallery]
-> ![Spires and Tower of Ravenl...](/compendium/adventures/curse-of-strahd/img/map-4-06-spires12.webp#gallery "Spires and Tower of Ravenloft (Battlemap; DM Version)")
-> ![Spires and Tower of Ravenl...](/compendium/adventures/curse-of-strahd/img/map-4-06-spires12-player.webp#gallery "Spires and Tower of Ravenloft (Battlemap; Player Version)")
+> ![[/6. Resources/5e Modules/Curse Of Strahd/img/map-4-06-spires12.webp#gallery\|Spires and Tower of Ravenloft (Battlemap; DM Version)]]
+> ![[/6. Resources/5e Modules/Curse Of Strahd/img/map-4-06-spires12-player.webp#gallery\|Spires and Tower of Ravenloft (Battlemap; Player Version)]]
 
 ### K47. Portrait of Strahd
 
@@ -1431,7 +1431,7 @@ If the characters climb the stairs to this area, read:
 
 > [!readaloud] 
 > 
-> The stairs end at a dark and dreary room with manacles attached to the walls. In the middle of the room is a wood-framed bed fitted with leather restraints. At the foot of the bed rests a closed iron chest, is lid sculpted with an emblem.
+> The stairs end at a dark and dreary room with manacles attached to the walls. In the middle of the room is a wood-framed bed fitted with leather restraints. At the foot of the bed rests a closed iron chest, its lid sculpted with an emblem.
 > 
 > A wooden ladder leads up to a trapdoor in the ceiling. Thin streams of water drip through the trapdoor's rotting wood, forming a puddle around the base of the ladder.
 ^248
@@ -1472,7 +1472,7 @@ The courtyard lies 260 feet below, and the roof of the keep is 130 feet below.
 Refer to map 11 of the castle for areas K61 through K72.
 
 > [!gallery]
-> ![[/6. Resources/5e Modules/Curse Of Strahd/img/038-011.webp#gallery\|"Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs"]]
+> ![Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs](/compendium/adventures/curse-of-strahd/img/038-011.webp#gallery)
 > ![[/6. Resources/5e Modules/Curse Of Strahd/img/038-011-player.webp#gallery\|Player Version]]
 
 > [!gallery]
@@ -2245,7 +2245,7 @@ A creature in the crypt when the gas is released must make a DC 14 Constitution 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Lying amid the bones is a stoppered drinking horn, a fat pouch, and a weird-looking scepter made of metal and wood. Above the bones, hanging from the domed ceiling by wires, is a wooden flying contraption that looks like a set of folding dragon wings fitted with leather straps, metal buckles, and taut leather wing flaps.
 ^2ce
 
-The stoppered drinking horn is a water-resistant [[/5. Mechanics/Items/Gunpowder Horn.md\|powder horn]] loaded with gunpowder, and the "weird-looking scepter" is a [[/5. Mechanics/Items/Musket.md\|musket]]. The fat pouch contains 20 silver marbles (silvered bullets for the musket). For more information on firearms and explosives, see chapter 9, ""Dungeon Master's Workshop"," of the "Dungeon Master's Guide".
+The stoppered drinking horn is a water-resistant [[/5. Mechanics/Items/Gunpowder Horn.md\|powder horn]] loaded with gunpowder, and the "weird-looking scepter" is a [[/5. Mechanics/Items/Musket.md\|musket]]. The fat pouch contains 20 silver marbles ([[/5. Mechanics/Items/Silvered Ammunition.md\|silvered bullets]] for the musket). For more information on firearms and explosives, see chapter 9, ""Dungeon Master's Workshop"," of the "Dungeon Master's Guide".
 
 ##### Glider
 

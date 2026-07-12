@@ -44,8 +44,8 @@ aliases:
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/219-15-001-vecna-cultist-tattoo.webp#center]]
 
 > [!gallery]
-> ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/220-15-002-vecna-eve-of-ruin-cover.webp#gallery\|"On the Cover: Vecna weaves a ritual to remake the multiverse to his liking while Kas prepares to slay the lich in this cover by Kieran Yanner."]]
-> ![On the Alt-Cover: The *Eye...](/compendium/adventures/vecna-eve-of-ruin/img/221-15-003-vecna-eve-of-ruin-alt-cover.webp#gallery "On the Alt-Cover: The *Eye and Hand of Vecna* portend terrible doom for existence while the runes on the *Rod of Seven Parts* might offer our heroes some help in this cover by Hydro74.")
+> ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/220-15-002-vecna-eve-of-ruin-cover.webp#gallery\|On the Cover: Vecna weaves a ritual to remake the multiverse to his liking while Kas prepares to slay the lich in this cover by Kieran Yanner.]]
+> ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/221-15-003-vecna-eve-of-ruin-alt-cover.webp#gallery\|On the Alt-Cover: The *Eye and Hand of Vecna* portend terrible doom for existence while the runes on the *Rod of Seven Parts* might offer our heroes some help in this cover by Hydro74.]]
 
 > [!note]
 > Disclaimer: All resistance to the Lord of the Hand and Eye is futile. Any thwarting of his will or his creations is temporary, as the Undying One will eventually remove all evidence of any inferior versions of reality. There will be no mercy for your pitiful souls, which never existed.

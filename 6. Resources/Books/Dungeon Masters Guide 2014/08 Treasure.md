@@ -15,6 +15,8 @@ Many adventurers also seek something more tangible: fortune. Strands of golden c
 
 This chapter details magic items and the placement of treasure in an adventure, as well as special rewards that can be granted instead of or in addition to magic items and mundane treasure.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/7-1.webp#center]]
+
 ## Types of Treasure
 
 Treasure comes in many forms.
@@ -38,6 +40,8 @@ Idols cast of solid gold, necklaces studded with precious stones, paintings of a
 Types of magic items include armor, potions, scrolls, rings, rods, staffs, wands, weapons, and wondrous items. Magic items also have rarities: common, uncommon, rare, very rare, and legendary.
 
 Intelligent monsters often use magic items in their possession, while others might hide them away to ensure they don't get lost or stolen. For example, if a hobgoblin tribe has a +1 longsword and an alchemy jug in its treasure hoard, the tribe's warlord might wield the sword, while the jug is kept somewhere safe.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/7-2.webp#center]]
 
 ## Random Treasure
 
@@ -337,11 +341,15 @@ When you use a Treasure Hoard table to randomly determine the contents of a trea
 > [!note]
 > See the Loot Generator page for an automated version of the tables below.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/7-4.webp#center\|Censer of Controlling Air Elementals]]
+
 ![[/5. Mechanics/Tables/Magic Item Table A.md\|Magic Item Table A]]
 
 ![[/5. Mechanics/Tables/Magic Item Table B.md\|Magic Item Table B]]
 
 ![[/5. Mechanics/Tables/Magic Item Table C.md\|Magic Item Table C]]
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/7-7.webp#center\|Arrow of Slaying]]
 
 ![[/5. Mechanics/Tables/Magic Item Table D.md\|Magic Item Table D]]
 
@@ -349,7 +357,11 @@ When you use a Treasure Hoard table to randomly determine the contents of a trea
 
 ![[/5. Mechanics/Tables/Magic Item Table F.md\|Magic Item Table F]]
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/7-10.webp#center\|Fochlucan Bandore]]
+
 ![[/5. Mechanics/Tables/Magic Item Table G.md\|Magic Item Table G]]
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/7-11.webp#center\|Elven Chain]]
 
 ![[/5. Mechanics/Tables/Magic Item Table H.md\|Magic Item Table H]]
 
@@ -366,6 +378,8 @@ Some magic items possess sentience and personality. Such an item might be posses
 Most sentient items are weapons. Other kinds of items can manifest sentience, but consumable items such as potions and scrolls are never sentient.
 
 Sentient magic items function as NPCs under the DM's control. Any activated property of the item is under the item's control, not its wielder's. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/7-18.webp#center]]
 
 ### Creating Sentient Magic Items
 
@@ -438,6 +452,8 @@ An artifact is a unique magic item of tremendous power, with its own origin and 
 Some artifacts appear when they are needed most. For others, the reverse is true; when discovered, the world trembles at the ramifications of the find. In either case, introducing an artifact into a campaign requires forethought. The artifact could be an item that opposing sides are hoping to claim, or it might be something the adventurers need to overcome their greatest challenge.
 
 Characters don't typically find artifacts in the normal course of adventuring. In fact, artifacts only appear when you want them to, for they are as much plot devices as magic items. Tracking down and recovering an artifact is often the main goal of an adventure. Characters must chase down rumors, undergo significant trials, and venture into dangerous, half-forgotten places to find the artifact they seek. Alternatively, a major villain might already have the artifact. Obtaining and destroying the artifact could be the only way to ensure that its power can't be used for evil.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/7-19.webp#center]]
 
 ### Artifact Properties
 

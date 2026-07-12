@@ -18,7 +18,7 @@ tags:
 aliases:
   - Vistana Guard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Guard (COS).md|Vistana Guard]]
+# [[/5. Mechanics/Bestiary/Humanoid/Vistana Guard (COS).md|Vistana Guard]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock

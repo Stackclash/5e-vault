@@ -15,7 +15,7 @@ item_recharge: none
 ---
 # Quaal's Feather Token
 *Wondrous item, rare*  
-![[/5. Mechanics/Items/img/quaals-feather-token.webp#right]]  
+![[/5. Mechanics/Items/img/quaals-feather-token.webp#right\|Quaal's Feather Tokens (Whip, Anchor, Bird, Swan Boat, Fan, Tree)]]  
 
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})

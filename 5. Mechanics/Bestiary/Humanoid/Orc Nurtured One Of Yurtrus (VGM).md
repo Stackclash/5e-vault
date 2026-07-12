@@ -28,7 +28,7 @@ tags:
 aliases:
   - Orc Nurtured One of Yurtrus
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Nurtured One Of Yurtrus (VGM).md|Orc Nurtured One of Yurtrus]]
+# [[/5. Mechanics/Bestiary/Humanoid/Orc Nurtured One Of Yurtrus (VGM).md|Orc Nurtured One of Yurtrus]]
 *Source: Volo's Guide to Monsters p. 184*
 
 When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests then minister to those who can be saved but not healed. The hands cultivate the sickness of these nurtured ones, turning them into instruments of defense and weapons of war. When orcs go to battle, a band of nurtured ones might charge in first-to give themselves up while softening up the enemy by spreading Yurtrus's vile blessing in its ranks.

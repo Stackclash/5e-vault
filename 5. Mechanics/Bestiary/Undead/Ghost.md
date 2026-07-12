@@ -22,7 +22,7 @@ tags:
 aliases:
   - Ghost
 ---
-# [[5. Mechanics\Bestiary\Undead\Ghost.md|Ghost]]
+# [[/5. Mechanics/Bestiary/Undead/Ghost.md|Ghost]]
 *Source: Monster Manual p. 147. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
@@ -94,7 +94,7 @@ A ghost doesn't require air, food, drink, or sleep.
       \ repeat the saving throw at the end of each of its turns, ending the [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
       \ condition on itself on a success. If a target's saving throw is successful\
       \ or the effect ends for it, the target is immune to this ghost's Horrifying\
-      \ Visage for the next 24 hours. The aging effect can be reversed with a  [[/5. Mechanics/Spells/Greater Restoration.md|greater\
+      \ Visage for the next 24 hours. The aging effect can be reversed with a [[/5. Mechanics/Spells/Greater Restoration.md|greater\
       \ restoration]] spell, but only within\
       \ 24 hours of it occurring."
     "name": "Horrifying Visage"

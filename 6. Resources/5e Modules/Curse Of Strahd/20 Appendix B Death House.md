@@ -55,7 +55,7 @@ If the characters approach the children or call out to them, add the following:
 > After shushing the boy, the girl turns to you and says, "There's a monster in our house!" She then points to a tall brick row house that has seen better days. Its windows are dark. It has a gated portico on the ground floor, and the rusty gate is slightly ajar. The houses on either side are abandoned, their windows and doors boarded up.
 ^6d3
 
-![Thornboldt &quot;Thorn&quot; Durst a...](/compendium/adventures/curse-of-strahd/img/133-cos17-01.webp#center "Thornboldt &quot;Thorn&quot; Durst and Rosavalda &quot;Rose&quot; Durst")
+![Thornboldt &quot;Thorn&quot; Durst and Rosavalda &quot;Rose&quot; Durst](/compendium/adventures/curse-of-strahd/img/133-cos17-01.webp#center)
 
 Characters who question the children learn the following information:
 
@@ -403,7 +403,7 @@ This room's chest contains an ivory hairbrush with silver bristles (worth 25 gp)
 
 ##### 25E
 
-This room's chest contains a silvered [[/5. Mechanics/Items/Shortsword.md\|shortsword]] (worth 110 gp).
+This room's chest contains a [[/5. Mechanics/Items/Silvered Weapon.md\|silvered shortsword]] (worth 110 gp).
 
 ### 26. Hidden Spiked Pit
 

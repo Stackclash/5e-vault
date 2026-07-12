@@ -36,7 +36,7 @@ tags:
 aliases:
   - Stirge
 ---
-# [[5. Mechanics\Bestiary\Beast\Stirge.md|Stirge]]
+# [[/5. Mechanics/Bestiary/Beast/Stirge.md|Stirge]]
 *Source: Monster Manual p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.

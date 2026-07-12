@@ -9,7 +9,7 @@ aliases:
 # Chapter 9: The Betrayer Revealed
 *Source: Vecna: Eve of Ruin, p. 169* 
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/137-09-001-curse-your-sudden-and-inevitable-betrayal.webp#center\|"Once Alustriel and Tasha realize Mordenkainen is a fraud, an epic battle ensues in Sigil"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/137-09-001-curse-your-sudden-and-inevitable-betrayal.webp#center\|Once Alustriel and Tasha realize Mordenkainen is a fraud, an epic battle ensues in Sigil]]
 
 Once the characters have all of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], all eyes turn to [[/4. World Almanac/NPCs/Alustriel Silverhand (VEOR).md\|Alustriel]], [[/4. World Almanac/NPCs/Tasha The Witch (VEOR).md\|Tasha]], and the impostor Mordenkainen. The plan was for the characters to work with the Wizards Three to pin down Vecna's location and stop the archlich's Ritual of Remaking. However, this chapter reveals that the characters—as well as Alustriel and Tasha—have been deceived.
 
@@ -86,7 +86,7 @@ When the characters are ready, Alustriel can direct them to a portal in Sigil th
 
 ## Kas Reveals Himself
 
-![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/138-09-001-alustriels-sanctum.webp#center\|"Kas deals catastrophic damage to Alustriel's sanctum"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/138-09-001-alustriels-sanctum.webp#center\|Kas deals catastrophic damage to Alustriel's sanctum]]
 
 If the characters return to their quarters to rest, Kas spends the next hour going through the motions of pretending to examine the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] with Alustriel and Tasha. In reality, Kas is waiting for the characters to fall asleep or become distracted in their quarters. Once he assumes the characters are sleeping or oblivious, he reveals his true form.
 

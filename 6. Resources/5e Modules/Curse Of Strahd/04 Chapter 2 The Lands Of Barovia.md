@@ -275,8 +275,8 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 
 | d12 + d8 | Encounter |
 |----------|-----------|
-| 2 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md\|commoners]] |
-| 3 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md\|scouts]] |
+| 2 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md\|Barovian Commoner]] |
+| 3 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Humanoid/Barovian Scout (COS).md\|Barovian Scout]] |
 | 4 | Hunting trap |
 | 5 | Grave |
 | 6 | False trail |
@@ -330,7 +330,7 @@ Use the descriptions that follow to help run each random encounter. The table en
 > The sound of snapping twigs draws your attention to several dark shapes in the fog. They carry torches and pitchforks.
 ^0bf
 
-If the characters are moving quietly and not carrying light sources, they can try to hide from these Barovians, who carry pitchforks (+2 to hit) instead of clubs, dealing `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) piercing damage on a hit.
+If the characters are moving quietly and not carrying light sources, they can try to hide from these Barovians, who carry pitchforks (`dice:1d20+2|noform|noparens|text(+2)` to hit) instead of clubs, dealing `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) piercing damage on a hit.
 
 [[/5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md\|Barovian commoners]] rarely leave their settlements. This group might be a family looking for a safer place to live, or an angry mob searching for the characters or heading toward Castle Ravenloft to confront Strahd.
 
@@ -345,7 +345,7 @@ If at least one character has a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#
 
 If more than one scout is present, the others are spread out over a 100-foot-square area.
 
-These [[/5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]] are Barovian hunters or trappers searching for a missing villager or townsperson. Once they realize the characters aren't out to kill them, they lower their weapons and request help in finding their missing person. If the characters decline, the scouts point them in the direction of the nearest settlement and depart without so much as a farewell. They wield light crossbows (+4 to hit, range 80/320 ft.) instead of longbows, dealing `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) piercing damage on a hit.
+These [[/5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]] are Barovian hunters or trappers searching for a missing villager or townsperson. Once they realize the characters aren't out to kill them, they lower their weapons and request help in finding their missing person. If the characters decline, the scouts point them in the direction of the nearest settlement and depart without so much as a farewell. They wield light crossbows (`dice:1d20+4|noform|noparens|text(+4)` to hit, range 80/320 ft.) instead of longbows, dealing `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) piercing damage on a hit.
 
 > [!note] Strahd's Spies
 > 
@@ -750,7 +750,7 @@ Check for a random encounter whenever the characters reach area F, unless they a
 
 > [!readaloud] 
 > 
-> An old wooden gallows creaks in a chill wind that blows down from the high ground to the west. A frayed length of rope dances from its beam. The well-worn road splits here, and a signpost opposite the gallows points off in three directions: Barovia Village to the east, Tser Pool to the northwest, and Ravenloft/Vallaki to the southwest.The northwest fork slants down and disappears into the trees, while the southwest fork clings to an upward slope. Across from the gallows, a low wall, crumbling in places, partially encloses a small plot of graves shrouded in fog.
+> An old wooden gallows creaks in a chill wind that blows down from the high ground to the west. A frayed length of rope dances from its beam. The well-worn road splits here, and a signpost opposite the gallows points off in three directions: Barovia Village to the east, Tser Pool to the northwest, and Ravenloft/Vallaki to the southwest. The northwest fork slants down and disappears into the trees, while the southwest fork clings to an upward slope. Across from the gallows, a low wall, crumbling in places, partially encloses a small plot of graves shrouded in fog.
 ^10a
 
 The northwest fork leads down to the river and area G. The road southwest leads to area H. The east road leads to an arching stone bridge and continues on to the village of Barovia (area E). If the characters are traveling with Vistani, the Vistani lead them along the northwest road to the Vistani encampment.
@@ -782,7 +782,7 @@ If your card reading reveals that a treasure is here, it is buried in one of the
 > 
 > The canopy of mist and branches suddenly gives way to black clouds boiling far above. There is a clearing here, next to a river that widens to form a small lake several hundred feet across. Five colorful round tents, each ten feet in diameter, are pitched outside a ring of four barrel-topped wagons. A much larger tent stands near the shore of the lake, its sagging form lit from within. Near this tent, eight unbridled horses drink from the river.
 > 
-> The mournful strains of an accordion clash with the singing of several brightly clad figures around bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest's edge.
+> The mournful strains of an accordion clash with the singing of several brightly clad figures around a bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest's edge.
 ^10f
 
 The eight [[/5. Mechanics/Bestiary/Beast/Draft Horse.md\|draft horses]] drinking from the river are used to pull the Vistani wagons and aren't easily startled.
@@ -983,11 +983,11 @@ The Mad Mage has a different spell list from that of the [[/5. Mechanics/Bestiar
 
 #### The Mad Mage's Mansion
 
-If the characters rescue the [[/5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] from his madness, he invites them to his "mansion." He leads them up the mountain to an invisible doorway that serves as the entrance to his extradimensional lair, created using the [[/5. Mechanics/Spells/Mordenkainens Magnificent Mansion.md\|Mordenkainen's magnificent mansion]] spell. There, he provides them with food and sanctuary away from the prying eyes of Strahd and his spies. Characters are free to take a short or long rest, during which time they aren't disturbed.
+If the characters rescue the [[/4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md\|archmage]] from his madness, he invites them to his "mansion." He leads them up the mountain to an invisible doorway that serves as the entrance to his extradimensional lair, created using the [[/5. Mechanics/Spells/Mordenkainens Magnificent Mansion.md\|Mordenkainen's magnificent mansion]] spell. There, he provides them with food and sanctuary away from the prying eyes of Strahd and his spies. Characters are free to take a short or long rest, during which time they aren't disturbed.
 
 Mordenkainen is familiar with worlds beyond his own. For example, if the characters come from the Forgotten Realms and mention this fact to Mordenkainen, he asks them if they know his old friend Elminster of Shadowdale.
 
-If Mordenkainen isn't the party's ally as foretold in [[/4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]]'s card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he knows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the [[/5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] imbues each character with a [[/5. Mechanics/Rewards/Charm Of Heroism.md\|charm of heroism]] (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide").
+If Mordenkainen isn't the party's ally as foretold in [[/4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]]'s card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he knows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the [[/4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md\|archmage]] imbues each character with a [[/5. Mechanics/Rewards/Charm Of Heroism.md\|charm of heroism]] (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide").
 
 #### Fortunes of Ravenloft
 
@@ -995,7 +995,7 @@ If your card reading reveals that the Mad Mage is the party's ally in the battle
 
 With his sanity restored, Mordenkainen can be stubborn and difficult even with his friends, and doesn't suffer fools. He normally spends more time listening than talking, but when he does speak, his pronouncements are authoritative and not to be questioned.
 
-The [[/5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] has never had his fortune read by [[/4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] and doesn't care to, but if he is told about the [[/5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]], the [[/5. Mechanics/Items/Tome Of Strahd (COS).md\|Tome of Strahd]], and the [[/5. Mechanics/Items/Sunsword (COS).md\|Sunsword]], he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
+The [[/4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md\|archmage]] has never had his fortune read by [[/4. World Almanac/NPCs/Madam Eva (COS).md\|Madam Eva]] and doesn't care to, but if he is told about the [[/5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]], the [[/5. Mechanics/Items/Tome Of Strahd (COS).md\|Tome of Strahd]], and the [[/5. Mechanics/Items/Sunsword (COS).md\|Sunsword]], he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
 
 ### N. Town of Vallaki
 

@@ -18,7 +18,7 @@ tags:
 aliases:
   - Infernal Viper
 ---
-# [[5. Mechanics\Bestiary\Fiend\Infernal Viper (KPDM).md|Infernal Viper]]
+# [[/5. Mechanics/Bestiary/Fiend/Infernal Viper (KPDM).md|Infernal Viper]]
 *Source: Deep Magic p. 297*
 
 Infernal vipers resemble earthly vipers, but for the red and black patterns of their scales. They roam the Hells, tormenting the damned souls with their painful bites and burning venom. They have a dim intelligence that makes them more dangerous than common snakes.

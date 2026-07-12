@@ -18,7 +18,7 @@ aliases:
   - Wildfire Spirit
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Elemental\Wildfire Spirit (TCE).md|Wildfire Spirit]]
+# [[/5. Mechanics/Bestiary/Elemental/Wildfire Spirit (TCE).md|Wildfire Spirit]]
 *Source: Tasha's Cauldron of Everything p. 40*
 
 ```statblock
@@ -28,6 +28,7 @@ cr: null
 "alignment": "Unaligned"
 "ac": !!int "13"
 "ac_class": "natural armor"
+"hp": "5 + five times your druid level"
 "modifier": !!int "2"
 "stats":
   - !!int "10"

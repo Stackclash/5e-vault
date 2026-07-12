@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Friends.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Friends.md \|"PHB"]]
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Charm Person.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Command.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Charm Person.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Command.md \|"PHB"]]
 
 ## 2nd Level
 
@@ -24,15 +24,15 @@ aliases:
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Hypnotic Pattern.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Throes Of Ecstasy (KPDM).md \|"KPDM"]] at class level 3
+- [[/5. Mechanics/Spells/Hypnotic Pattern.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Throes Of Ecstasy (KPDM).md \|"KPDM"]] at class level 5
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Compulsion.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Lovesick (KPDM).md \|"KPDM"]] at class level 3
+- [[/5. Mechanics/Spells/Compulsion.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Lovesick (KPDM).md \|"KPDM"]] at class level 7
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Dominate Person.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Kiss Of The Succubus (KPDM).md \|"KPDM"]] at class level 3
+- [[/5. Mechanics/Spells/Dominate Person.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Kiss Of The Succubus (KPDM).md \|"KPDM"]] at class level 9

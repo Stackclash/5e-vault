@@ -17,6 +17,8 @@ Whether you're creating your own adventures or using published adventures, you'l
 
 Creating an adventure involves blending scenes of exploration, social interaction, and combat into a unified whole that meets the needs of your players and your campaign. But it's more than that. The basic elements of good storytelling should guide you throughout this process, so your players experience the adventure as a story and not a disjointed series of encounters.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/3-1.webp#center]]
+
 ## Elements of a Great Adventure
 
 The best adventures have several things in common.
@@ -107,6 +109,8 @@ Adventures set in crumbling dungeons and remote wilderness locations are the cor
 
 Creating a location-based adventure can be broken down into a number of steps. Each step provides tables from which you can select the basic elements of your adventure. Alternatively, roll on the tables and see how the random results inspire you. You can mix up the order of the steps.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/3-2.webp#center]]
+
 #### 1. Identify the Party's Goals
 
 The Dungeon Goals table provides common goals that drive or lure adventurers into dungeons. The Wilderness Goals table provides similar inspiration for an adventure focused on outdoor exploration. The Other Goals table suggests location-based adventures that don't fit neatly into the first two categories.
@@ -154,6 +158,8 @@ See "Creating Encounters" later in this chapter for guidance on crafting individ
 In an event-based adventure, the focus is on what the characters and villains do and what happens as a result. The question of where those things happen is of secondary importance.
 
 Building an event-based adventure is more work than building a location-based one, but the process can be simplified by following a number of straightforward steps. Several steps include tables from which you can choose adventure elements or roll randomly for inspiration. As with location-based adventures, you don't necessarily have to follow these steps in order.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/3-3.webp#center\|Vampire Villain]]
 
 #### 1. Start with a Villain
 
@@ -313,6 +319,8 @@ If you want to give the characters a crisis that no amount of spellcasting or sw
 
 ![[/5. Mechanics/Tables/Moral Quandaries.md\|Moral Quandaries]]
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/3-4.webp#center]]
+
 #### Ally Quandary
 
 The adventurers have a better chance of achieving their goal with the help of two individuals whose expertise is all but essential. However, these two NPCs hate each other and refuse to work together even if the fate of the world hangs in the balance. The adventurers must choose the NPC that is most likely to help them accomplish their goal.
@@ -354,6 +362,8 @@ First and foremost, an encounter should be fun for the players. Second, it shoul
 An encounter has one of three possible outcomes: the characters succeed, the characters partly succeed, or the characters fail. The encounter needs to account for all three possibilities, and the outcome needs to have consequences so that the players feel like their successes and failures matter.
 
 ### Character Objectives
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/3-5.webp#center]]
 
 When players don't know what they're supposed to do in a given encounter, anticipation and excitement can quickly turn to boredom and frustration. A transparent objective alleviates the risk of players losing interest.
 
@@ -481,6 +491,8 @@ If the party contains fewer than three characters, apply the next highest multip
 
 If the party contains six or more characters, use the next lowest multiplier on the table. Use a multiplier of 0.5 for a single monster.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/3-6.webp#center]]
+
 #### Multipart Encounters
 
 Sometimes an encounter features multiple enemies that the party doesn't face all at once. For example, monsters might come at the party in waves.
@@ -496,6 +508,8 @@ You can build an encounter if you know its desired difficulty. The party's XP th
 For example, using the party from step 2, you can build a medium encounter by making sure that the adjusted XP value of the monsters is at least 550 XP (the party's threshold for a medium encounter) and no more than 825 XP (the party's threshold for a hard encounter). A single monster of challenge rating 3 (such as a manticore or owlbear) is worth 700 XP, so that's one possibility. If you want a pair of monsters, each one will count for 1.5 times its base XP value. A pair of dire wolves (worth 200 XP each) have an adjusted XP value of 600, making them a medium encounter for the party as well.
 
 To assist with this approach, appendix B presents a list of all monsters in the Monster Manual organized by challenge rating.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/3-7.webp#center]]
 
 #### The Adventuring Day
 
@@ -569,6 +583,8 @@ Random encounter tables might be provided as part of the adventure you're runnin
 
 Not every run-in with another creature counts as a random encounter. Encounter tables don't usually include rabbits hopping through the undergrowth, harmless rats scurrying through dungeon halls, or average citizens walking through the streets of a city. Random encounter tables present obstacles and events that advance the plot, foreshadow important elements or themes of the adventure, and provide fun distractions.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/3-8.webp#center]]
+
 ### Creating Random Encounter Tables
 
 Creating your own random encounter tables is straightforward. Determine what sort of encounters might occur in a given dungeon area, figure out the likelihood of a particular encounter occurring, then arrange the results. An "encounter" in this case could be a single monster or NPC, a group of monsters or NPCs, a random event (such as an earth tremor or a parade), or a random discovery (such as a charred corpse or a message scrawled on a wall).
@@ -598,3 +614,5 @@ The Sylvan Forest Encounters table is an example of a random encounter table tha
 Random encounters need not be level-appropriate challenges for the adventurers, but it's considered bad form to slaughter a party using a random encounter, since most players consider this ending to be an unsatisfying one.
 
 Not all random encounters with monsters need to be resolved through combat. A 1st-level party of adventurers could have a random encounter with a young dragon circling above a forest canopy in search of a quick meal, but the characters should have the option to hide or bargain for their lives if the dragon spots them. Similarly, the party might encounter a stone giant roaming the hills, but it might have no intention of harming anyone. In fact, it might shy away from the party because of its reclusive nature. The giant might attack only characters who annoy it.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/3-9.webp#center]]

@@ -10,11 +10,11 @@ aliases:
 
 ## Cantrip
 
-- [[/5. Mechanics/Spells/Mending.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Mending.md \|"PHB"]] as cantrip
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/False Life.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/False Life.md \|"PHB"]] with access to 1st-level spells
 
 ## 2nd Level
 
@@ -22,15 +22,15 @@ aliases:
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Meld Into Stone.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Slow.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Meld Into Stone.md \|"PHB"]] with access to 3rd-level spells
+- [[/5. Mechanics/Spells/Slow.md \|"PHB"]] with access to 3rd-level spells
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Stone Shape.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Stoneskin.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Stone Shape.md \|"PHB"]] with access to 4th-level spells
+- [[/5. Mechanics/Spells/Stoneskin.md \|"PHB"]] with access to 4th-level spells
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Animate Objects.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Wall Of Stone.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Animate Objects.md \|"PHB"]] with access to 5th-level spells
+- [[/5. Mechanics/Spells/Wall Of Stone.md \|"PHB"]] with access to 5th-level spells

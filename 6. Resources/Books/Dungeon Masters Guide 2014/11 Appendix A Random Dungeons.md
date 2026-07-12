@@ -37,6 +37,8 @@ Whenever you create a new passage, roll to determine its width. If the passage b
 
 Whenever a table roll indicates a door, roll on the Door Type table to determine its nature, then roll on the Beyond a Door table to see what lies on the other side of it. If a door is barred, you decide which side of the door the bar is on. Unlocked doors can also be stuck, at your discretion. See chapter 5, "Adventure Environments," for information on doors and portcullises.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/a-1.webp#center]]
+
 ![[/5. Mechanics/Tables/Doors Door Type.md\|Doors; Door Type]]
 
 ![[/5. Mechanics/Tables/Doors Beyond A Door.md\|Doors; Beyond a Door]]
@@ -63,6 +65,8 @@ Stairs can include any means of going up and down, including ramps, chimneys, op
 
 ## Connecting Areas
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/a-2.webp#center]]
+
 When your map is done, consider adding doors between chambers and passages that are next to each other but otherwise not connected. Such doors create more paths through the dungeon and expand players' options.
 
 If your dungeon consists of more than one level, be sure that any stairs, pits, and other vertical passages line up between levels. If you're using graph paper, lay a new page on top of your existing map, mark the locations of stairs and other features shared by the two levels, and begin mapping the new level.
@@ -74,6 +78,8 @@ Creating a map for your dungeon is only half the fun. Once you have the layout, 
 You don't need to have every last detail of your dungeon plotted out. You can get by with nothing more than a list of monsters, a list of treasures, and a list of one or two key elements for each dungeon area.
 
 ### Chamber Purpose
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/a-3.webp#center]]
 
 A room's purpose can help determine its furnishings and other contents.
 
@@ -90,6 +96,8 @@ Relying on random rolls to stock an entire dungeon can lead to incongruous resul
 ![[/5. Mechanics/Tables/Chamber Purpose Dungeon Mine.md\|Chamber Purpose; Dungeon: Mine]]
 
 ![[/5. Mechanics/Tables/Chamber Purpose Dungeon Planar Gate.md\|Chamber Purpose; Dungeon: Planar Gate]]
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/a-4.webp#center]]
 
 ![[/5. Mechanics/Tables/Chamber Purpose Dungeon Stronghold.md\|Chamber Purpose; Dungeon: Stronghold]]
 
@@ -109,6 +117,8 @@ If a dungeon has a tumultuous history, you can roll to determine the current con
 
 ### Chamber Contents
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/a-5.webp#center]]
+
 Once you have a sense of the purpose of the various dungeon chambers, you can think about the contents of those areas. The Dungeon Chamber Contents table allows you to randomly roll contents for a chamber, or you can choose contents for specific areas. If you choose contents, be sure to include an interesting, colorful assortment of things. In addition to the contents shown on this table, refer to "Dungeon Dressing" later in this appendix for additional items and elements to fill rooms.
 
 In the Dungeon Chamber Contents table, a "dominant inhabitant" is a creature that controls an area. Pets and allied creatures are subservient to the dominant inhabitant. "Random creatures" are scavengers or nuisances, usually lone monsters or small groups passing through the area. They include such creatures as carrion crawlers, dire rats, gelatinous cubes, and rust monsters. See chapter 3, "Creating Adventures," for more information on random encounters.
@@ -116,6 +126,8 @@ In the Dungeon Chamber Contents table, a "dominant inhabitant" is a creature tha
 ![[/5. Mechanics/Tables/Dungeon Chamber Contents.md\|Dungeon Chamber Contents]]
 
 ### Monsters and Motivations
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/a-6.webp#center]]
 
 See chapter 3, "Creating Adventures," for guidance on creating encounters with monsters. To foster variety and suspense, be sure to include encounters of varying difficulty.
 
@@ -153,6 +165,8 @@ If you need a trap quickly or want to drop random traps into a dungeon, use the 
 
 ### Random Tricks
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/a-7.webp#center]]
+
 Tricks are quirkier and less deadly than traps. Some are effects left behind by the dungeon's creators, while others might be manifestations of the strange magical energy suffusing the dungeon.
 
 The following tables allow you to generate random tricks. Roll first to determine an object that the trick is placed on, then roll to determine the nature of the trick. Some tricks are permanent effects that can't be dispelled; others are temporary or can be neutralized with a dispel magic spell. You decide which is which.
@@ -162,6 +176,8 @@ The following tables allow you to generate random tricks. Roll first to determin
 ![[/5. Mechanics/Tables/Random Tricks Tricks.md\|Random Tricks; Tricks]]
 
 ### Random treasures
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/a-8.webp#center]]
 
 Use the tables and guidelines in chapter 7, "Treasure" to determine the treasure in each area of your dungeon.
 

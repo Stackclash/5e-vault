@@ -20,7 +20,7 @@ aliases:
   - Beast of the Land
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Beast\Beast Of The Land (TCE).md|Beast of the Land]]
+# [[/5. Mechanics/Bestiary/Beast/Beast Of The Land (TCE).md|Beast of the Land]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock
@@ -29,6 +29,8 @@ cr: null
 "type": "beast"
 "alignment": "Unaligned"
 "ac_class": "13 + PB (natural armor)"
+"hp": "5 + five times your ranger level (the beast has a number of Hit Dice [d8s]\
+  \ equal to your ranger level)"
 "modifier": !!int "2"
 "stats":
   - !!int "14"

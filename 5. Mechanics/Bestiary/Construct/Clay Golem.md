@@ -18,7 +18,7 @@ tags:
 aliases:
   - Clay Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Clay Golem.md|Clay Golem]]
+# [[/5. Mechanics/Bestiary/Construct/Clay Golem.md|Clay Golem]]
 *Source: Monster Manual p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
@@ -109,7 +109,7 @@ A golem doesn't require air, food, drink, or sleep.
       \ (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 15 Constitution saving throw or have its hit point maximum reduced\
       \ by an amount equal to the damage taken. The target dies if this attack reduces\
-      \ its hit point maximum to 0. The reduction lasts until removed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater\
+      \ its hit point maximum to 0. The reduction lasts until removed by the [[/5. Mechanics/Spells/Greater Restoration.md|greater\
       \ restoration]] spell or other magic."
     "name": "Slam"
   - "desc": "Until the end of its next turn, the golem magically gains a +2 bonus\

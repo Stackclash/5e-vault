@@ -20,7 +20,7 @@ tags:
 aliases:
   - Bheur Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Bheur Hag (MPMM).md|Bheur Hag]]
+# [[/5. Mechanics/Bestiary/Fey/Bheur Hag (MPMM).md|Bheur Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -77,7 +77,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
     "name": "Graystaff Magic"
   - "desc": "The hag can move across and climb icy surfaces without needing to make\
       \ an ability check, and difficult terrain composed of ice or snow doesn't cost\
-      \ the hag extra moment."
+      \ the hag extra movement."
     "name": "Ice Walk"
 "actions":
   - "desc": "The hag makes two Slam or Frost Shard attacks."

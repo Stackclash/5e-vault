@@ -13,6 +13,8 @@ When Adventurers reach higher levels their path extends to other dimensions of r
 
 Planes of existence define the extremes of strange and often dangerous environments. The most bizarre locations present settings undreamed of in the natural world. Planar adventures offer unprecedented dangers and wonders. Adventurers walk on streets made of solid fire, or test their mettle on a battlefield where the fallen are resurrected with each dawn.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/ch2splash.webp#center]]
+
 ## The Planes
 
 The various planes of existence are realms of myth and mystery. They're not simply other worlds, but dimensions formed and governed by spiritual and elemental principles.
@@ -148,6 +150,8 @@ Finally, most portals don't stand open all the time, but open only in particular
 
 Learning and meeting a portal's requirements can draw characters into further adventures as they chase down a key item, scour old libraries for command words, or consult sages to find the right time to visit the portal.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-1.webp#center]]
+
 ### Spells
 
 > [!quote] A quote from Richard Baker  
@@ -173,6 +177,8 @@ The gate spell opens a portal linked to a specific point on another plane of exi
 The [[/5. Mechanics/Spells/Gate.md\|gate]] spell is powerful, but not infallible. A deity, demon lord, or other powerful entity can prevent such a portal from opening within its dominion.
 
 ## Astral Plane
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-2.webp#center]]
 
 > [!quote] A quote from Richard Baker  
 > 
@@ -226,6 +232,8 @@ The Ethereal Plane is a misty, fog-bound dimension. Its "shores," called the Bor
 
 Characters can use the etherealness spell to enter the Border Ethereal. The plane shift spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-3.webp#center]]
+
 ### Border Ethereal
 
 From the Border Ethereal, a traveler can see into whatever plane it overlaps, but that plane appears muted and indistinct, its colors blurring into each other and its edges turning fuzzy. Ethereal denizens watch the plane as though peering through distorted and frosted glass, and can't see anything beyond 30 feet into the other plane. Conversely, the Ethereal Plane is usually invisible to those on the overlapped planes, except with the aid of magic.
@@ -259,6 +267,8 @@ Most encounters in the Border Ethereal are with creatures on the Material Plane 
 In the Deep Ethereal, most encounters are with other travelers, particularly ones from the Inner Planes (such as elementals, genies, and salamanders), as well as the occasional celestial, fiend, or fey.
 
 ## Feywild
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-4.webp#center]]
 
 > [!quote] A quote from James Wyatt  
 > 
@@ -312,6 +322,8 @@ The Shadowfell, also called the Plane of Shadow, is a dimension of black, gray, 
 Landmarks from the Material Plane are recognizable on the Shadowfell, but they are twisted and warped—distorted reflections of what exists on the Material Plane. Where a mountain stands on the Material Plane, the corresponding feature on the Shadowfell is a jagged rock outcropping with a resemblance to a skull, a heap of rubble, or perhaps the crumbling ruin of a once-great castle. A forest on the Shadowfell is dark and twisted, its branches reaching out to snare travelers' cloaks, and its roots coiling and buckling to trip those who pass by.
 
 Shadow dragons and undead creatures haunt this bleak plane, as do other creatures that thrive in the gloom, including cloakers and darkmantles.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-5.webp#center]]
 
 ### Shadow Crossings
 
@@ -384,6 +396,8 @@ The thick ash obscures sight beyond a few dozen feet, and the battering winds ma
 
 At the other end of the plane, near the Frostfell (the plane of ice that borders the Plane of Water), is a region of frigid winds called the **Mistral Reach**. These gales drive snowstorms into the Frostfell and away from it, toward the heart of the plane. Earth motes in the reach are covered with snow and ice.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-6.webp#center]]
+
 ### Plane of Earth
 
 Earth symbolizes stability, rigidity, stern resolve, and tradition. The plane's position opposite the Plane of Air in the ring of the Elemental Planes reflects its opposition to almost everything air represents.
@@ -399,6 +413,8 @@ The border region between the planes of Water and Earth is a horrid swamp where 
 It is said that any object cast into the Swamp of Oblivion can't be found again for at least a century. Now and then, a desperate soul casts an artifact of power into this place, removing it from the multiverse for a time. The promise of powerful magic lures adventurers to brave the monstrous insects and hags of the swamp in search of these treasures.
 
 The region of the plane nearest the Swamp of Oblivion is called the **Mud Hills**. Landslides constantly wear away the slopes of the hills, sending cascades of earth and stone into the bottomless swamp. The Plane of Earth seems to constantly regenerate the land, pushing new hills up as the old ones erode to nothing.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-7.webp#center]]
 
 ### Plane of Fire
 
@@ -416,6 +432,8 @@ A great range of volcanic mountains called the **Fountains of Creation** is home
 
 Lava flows through the volcanoes toward the Plane of Air and pools into a great lava sea, called the **Sea of Fire**, sailed by efreet and azers in great brass ships. Islands of obsidian and basalt jut up from the sea, dotted with ancient ruins and the lairs of powerful red dragons. On the shore of the Sea of Fire stands the **City of Brass**.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-8.webp#center]]
+
 #### The City of Brass
 
 Perhaps the best-known location in the Inner Planes is the City of Brass, on the shores of the Sea of Fire. This is the fabled city of the efreet, and its ornate spires and metal walls reflect their grandiose and cruel nature.
@@ -427,6 +445,8 @@ Adventurers frequently come here on quests for legendary magic. If it's possible
 The heart of the city is the towering Charcoal Palace, where the tyrannical sultan of the efreet reigns supreme, surrounded by efreet nobles and a host of slaves, guardians, and sycophants.
 
 ### Plane of Water
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-9.webp#center]]
 
 The nature of water is to flow, not like the gusting wind or the leaping flame, but smoothly and steadily. It is the rhythm of the tide, the nectar of life, the bitter tears of mourning, and the balm of sympathy and healing. Given time, it can erode all in its path.
 
@@ -451,6 +471,8 @@ At the other extreme of the plane is the **Sea of Ice**, bordering the Frostfell
 The **Frostfell**, also called the Plane of Ice, forms the border between the planes of Air and Water and is a seemingly endless glacier swept by constant, raging blizzards. Frozen caverns twist through the Plane of Ice, home to yetis, remorhazes, white dragons, and other creatures of cold. The inhabitants of the plane engage in a never-ending battle to prove their strength and ensure their survival.
 
 Its dangerous monsters and bitter cold make the Frostfell a dangerous place to travel. Most planar voyagers keep to the air, braving the powerful winds and driving snow to avoid setting foot on the great glacier.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-10.webp#center]]
 
 ## Outer Planes
 
@@ -510,6 +532,8 @@ Each of the Outer Planes emanates a psychic dissonance that affects visitors of 
 
 ### Mount Celestia
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-11.webp#center]]
+
 The single sacred mountain of Mount Celestia rises from a shining Silver Sea to heights barely visible and utterly incomprehensible, with seven plateaus marking its seven heavenly layers. The plane is the model of justice and order, of celestial grace and endless mercy, where angels and champions of good guard against incursions of evil. It is one of the few places on the planes where travelers can let down their guard. Its inhabitants strive constantly to be as righteous as possible. Countless creatures aim to reach the highest and most sublime peak of the mountain, but only the purest souls can. Gazing toward that peak fills even the most jaded of travelers with awe.
 
 #### Optional Rule: Blessed Beneficence
@@ -533,6 +557,8 @@ Elysium is home to creatures of unfettered kindness and compassion, and a welcom
 Visitors spending any time on this plane risk becoming trapped by overwhelming sensations of contentment and happiness. At the end of each long rest taken on this plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature is unwilling to leave the plane before taking another long rest. After three failed saving throws, the creature never willingly leaves the plane and, if forcibly removed, does everything in its power to return to the plane. A *dispel evil and good* spell removes this effect from the creature.
 
 ### The Beastlands
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-12.webp#center]]
 
 The Beastlands is a plane of nature unbound, of forests ranging from moss-hung mangroves to snow-laden pines, of thick jungles where the branches are woven so tight that no light penetrates, of vast plains where grains and wildflowers wave in the wind with vibrant life. The plane embodies nature's wildness and beauty, but it also speaks to the animal within all living things.
 
@@ -563,6 +589,8 @@ Ysgard is a rugged realm of soaring mountains, deep fjords, and windswept battle
 Ysgard is the home of slain heroes who wage eternal battle on fields of glory. Any creature, other than a construct or undead, that is killed by an attack or a spell while on Ysgard is restored to life at dawn the next day. The creature has all its hit points restored, and all conditions and afflictions it suffered before its death are removed.
 
 ### Limbo
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-13.webp#center]]
 
 Limbo is a plane of pure chaos, a roiling soup of impermanent matter and energy. Stone melts into water that freezes into metal, then turns into diamond that burns up into smoke that becomes snow, and on and on in an endless, unpredictable process of change. Fragments of more ordinary landscapes-bits of forest, meadow, ruined castles, and even burbling streams-drift through the disorder. The whole plane is a nightmarish riot.
 
@@ -668,6 +696,8 @@ The plane's cruel nature makes it difficult for visitors to help one another. Wh
 
 The Nine Hells of Baator inflame the imaginations of travelers, the greed of treasure seekers, and the battle fury of all moral creatures. It is the ultimate plane of law and evil and the epitome of premeditated cruelty. The devils of the Nine Hells are bound to obey the laws of their superiors, but they rebel within their individual castes. Most undertake any plot, no matter how foul, to advance themselves. At the very top of the hierarchy is Asmodeus, who has yet to be bested. If he were to be vanquished, the victor would rule the plane in turn. Such is the law of the Nine Hells.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-14.webp#center]]
+
 #### Optional Rule: Pervasive Evil
 
 Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice:1d4|noform|noparens|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the dispel evil and good spell on the creature also restores its original alignment.
@@ -754,6 +784,8 @@ Acheron rewards a creature for harming other creatures by imbuing that creature 
 
 ### Mechanus
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-15.webp#center]]
+
 On Mechanus, law is reflected in a realm of clockwork gears, all interlocked and turning according to their measure. The cogs seem to be engaged in a calculation so vast that no deity can fathom its purpose. Mechanus embodies absolute order, and its influence can be felt on those who spend time here.
 
 Modrons are the primary inhabitants of Mechanus. The plane is also home to the creator of the modrons: a godlike being called Primus.
@@ -785,6 +817,8 @@ While on this plane, creatures can't be frightened or poisoned, and they are imm
 A variety of realms exist between or beyond the other planes.
 
 ### The Outlands and Sigil
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/2-16.webp#center]]
 
 The Outlands is the plane between the Outer Planes. It is the plane of neutrality, incorporating a little of everything and keeping all aspects in a paradoxical balance-simultaneously concordant and in opposition. The plane has varied terrain, with prairies, mountains, and shallow rivers.
 

@@ -14,4 +14,4 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Guiding Bolt.md \|"PHB"]] as cantrip, at class level 2
+- [[/5. Mechanics/Spells/Guiding Bolt.md \|"PHB"]] at class level 2

@@ -25,6 +25,8 @@ Inventing, writing, storytelling, improvising, acting, refereeing-every DM handl
 
 The D&D rules help you and the other players have a good time, but the rules aren't in charge. You're the DM, and you are in charge of the game. That said, your goal isn't to slaughter the adventurers but to create a campaign world that revolves around their actions and decisions, and to keep your players coming back for more! If you're lucky, the events of your campaign will echo in the memories of your players long after the final game session is concluded.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/intro.webp#center]]
+
 ## How to Use This Book
 
 This book is organized in three parts. The first part helps you decide what kind of campaign you'd like to run. The second part helps you create the adventures-the stories-that will compose the campaign and keep the players entertained from one game session to the next. The last part helps you adjudicate the rules of the game and modify them to suit the style of your campaign.

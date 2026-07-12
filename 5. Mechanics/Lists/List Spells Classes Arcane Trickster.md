@@ -201,389 +201,389 @@ aliases:
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Aganazzars Scorcher (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Alter Self.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Altheas Travel Tent (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Animate Ghoul (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Anticipate Attack (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Arcane Lock.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/As You Were (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Ashen Memories (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Augury.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Bad Timing (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Bitter Chains (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Black Swan Storm (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Bleating Call (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Blessed Halo (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Blindness Deafness.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Blood Lure (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Bloodshot (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Blur.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Boiling Oil (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Boreass Breath (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/By The Light Of The Moon (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Caustic Blood (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Chaotic Vitality (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Charm Of Great Fondness (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Clearing The Field (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Cloak Of Fiendish Menace (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Cloud Of Daggers.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Conjure Scarab Swarm (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Conjure Spectral Dead (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Continual Flame.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Convoluted Dictum (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Creeping Ice (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Crown Of Madness.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Daggerhawk (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Dark Path (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Darkbolt (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Darkness.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Darkvision.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Dead Walking (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Decelerate (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Delay Potion (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Destructive Resonance (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Detect Dragons (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Detect Thoughts.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Discern Weakness (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Distracting Divination (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Distraction Cascade (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Doom Of Consuming Fire (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Dragons Breath (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Dust Devil (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Earthbind (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Elemental Horns (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Elemental Twist (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Enhance Ability.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Enhance Familiar (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Enhance Greed (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Enlarge Reduce.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Entomb In Ice (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Exude Acid (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Feather Travel (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Fire Darts (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Flaming Sphere.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Furious Hooves (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Gear Barrage (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Gentle Repose.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Gift Of Resilience (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Glyph Of Shifting (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Grave Sense (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Greater Analyze Device (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Gust Of Wind.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Hamunds Herbal Hypodermic (HHBH).md \|"HHbH"]] at class level 3
-- [[/5. Mechanics/Spells/Heartache (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Heartstop (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Holy Warding (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Hypnotic Missive (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Indecision (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Invisibility.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Jerilyns Cadaverous Uprising (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Kavelins Instant Aerosol (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Knock.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Lacerate (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Lair Sense (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Levitate.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Locate Object.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Lock Armor (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Maddening Whispers (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Magic Mouth.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Magic Weapon.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Magma Spray (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Maximilians Earthen Grasp (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Melfs Acid Arrow.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Mephitic Croak (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Mind Spike (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Mirror Image.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Mist Of Wonders (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Misty Step.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Negative Image (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Nystuls Magic Aura.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Orb Of Light (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Phantasmal Force.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Phantom Light (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Plaguebearer (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Power Word Kneel (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Pyrotechnics (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Ray Of Enfeeblement.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Reverberate (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Rolling Thunder (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Rope Trick.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Rotting Corpse (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Scorching Ray.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Sculpt Snow (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/See Invisibility.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Shade (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shadow Blade (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Shadow Puppets (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shadows Brought To Light (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shatter.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Sheen Of Ice (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shifting The Odds (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Skywrite (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Slither (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Snap The Leash (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Snillocs Snowball Swarm (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Snow Fort (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Solitary Fireball (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Spider Climb.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Spin (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Spy My Shadow (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Suggestion.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Tashas Mind Whip (TCE).md \|"TCE"]] at class level 3
-- [[/5. Mechanics/Spells/Thunderous Stampede (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Time Step (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Timely Distraction (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Transfusion (HHHVII).md \|"HHHVII"]] at class level 3
-- [[/5. Mechanics/Spells/Trench (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Unholy Defiance (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Vine Trestle (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Vomit Tentacles (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Warding Wind (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Warning Shout (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Web.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Weilers Ward (KPDM).md \|"KPDM"]] at class level 3
+- [[/5. Mechanics/Spells/Aganazzars Scorcher (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Alter Self.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Altheas Travel Tent (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Animate Ghoul (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Anticipate Attack (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Arcane Lock.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/As You Were (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Ashen Memories (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Augury.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Bad Timing (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Bitter Chains (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Black Swan Storm (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Bleating Call (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Blessed Halo (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Blindness Deafness.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Blood Lure (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Bloodshot (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Blur.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Boiling Oil (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Boreass Breath (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/By The Light Of The Moon (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Caustic Blood (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Chaotic Vitality (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Charm Of Great Fondness (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Clearing The Field (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Cloak Of Fiendish Menace (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Cloud Of Daggers.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Conjure Scarab Swarm (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Conjure Spectral Dead (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Continual Flame.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Convoluted Dictum (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Creeping Ice (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Crown Of Madness.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Daggerhawk (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Dark Path (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Darkbolt (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Darkness.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Darkvision.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Dead Walking (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Decelerate (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Delay Potion (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Destructive Resonance (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Detect Dragons (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Detect Thoughts.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Discern Weakness (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Distracting Divination (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Distraction Cascade (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Doom Of Consuming Fire (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Dragons Breath (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Dust Devil (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Earthbind (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Elemental Horns (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Elemental Twist (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Enhance Ability.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Enhance Familiar (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Enhance Greed (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Enlarge Reduce.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Entomb In Ice (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Exude Acid (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Feather Travel (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Fire Darts (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Flaming Sphere.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Furious Hooves (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Gear Barrage (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Gentle Repose.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Gift Of Resilience (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Glyph Of Shifting (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Grave Sense (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Greater Analyze Device (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Gust Of Wind.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Hamunds Herbal Hypodermic (HHBH).md \|"HHbH"]] at class level 7
+- [[/5. Mechanics/Spells/Heartache (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Heartstop (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Holy Warding (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Hypnotic Missive (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Indecision (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Invisibility.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Jerilyns Cadaverous Uprising (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Kavelins Instant Aerosol (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Knock.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Lacerate (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Lair Sense (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Levitate.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Locate Object.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Lock Armor (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Maddening Whispers (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Magic Mouth.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Magic Weapon.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Magma Spray (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Maximilians Earthen Grasp (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Melfs Acid Arrow.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Mephitic Croak (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Mind Spike (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Mirror Image.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Mist Of Wonders (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Misty Step.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Negative Image (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Nystuls Magic Aura.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Orb Of Light (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Phantasmal Force.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Phantom Light (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Plaguebearer (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Power Word Kneel (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Pyrotechnics (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Ray Of Enfeeblement.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Reverberate (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Rolling Thunder (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Rope Trick.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Rotting Corpse (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Scorching Ray.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Sculpt Snow (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/See Invisibility.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Shade (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Shadow Blade (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Shadow Puppets (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Shadows Brought To Light (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Shatter.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Sheen Of Ice (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Shifting The Odds (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Skywrite (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Slither (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Snap The Leash (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Snillocs Snowball Swarm (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Snow Fort (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Solitary Fireball (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Spider Climb.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Spin (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Spy My Shadow (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Suggestion.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Tashas Mind Whip (TCE).md \|"TCE"]] at class level 7
+- [[/5. Mechanics/Spells/Thunderous Stampede (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Time Step (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Timely Distraction (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Transfusion (HHHVII).md \|"HHHVII"]] at class level 7
+- [[/5. Mechanics/Spells/Trench (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Unholy Defiance (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Vine Trestle (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Vomit Tentacles (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Warding Wind (XGE).md \|"XGE"]] at class level 7
+- [[/5. Mechanics/Spells/Warning Shout (KPDM).md \|"KPDM"]] at class level 7
+- [[/5. Mechanics/Spells/Web.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Weilers Ward (KPDM).md \|"KPDM"]] at class level 7
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Accelerate (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Alone (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Animate Dead.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Anticipate Arcana (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Aspect Of The Serpent (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Aura Of Listlessness (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Bestow Curse.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Blade Of Wrath (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Blink.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Blood Armor (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Blood Offering (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Breeze Compass (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Call Shadow Mastiff (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Calm Of The Storm (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Catch The Breath (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Catnap (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Chains Of Perdition (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Chilling Words (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Clairvoyance.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Closing In (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Command Undead (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Compelled Movement (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Compelling Fate (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Confound Senses (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Counterspell.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Curse Of Hostility (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Curse Of Incompetence (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Cynophobia (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Deep Focus (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Demon Within (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Dimensional Shove (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Dispel Magic.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Doom Of Blue Crystal (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Doom Of Dancing Blades (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Doom Of Disenchantment (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Draconic Majesty (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Dragons Pride (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Drown (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Enemies Abound (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Entropic Damage Field (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Erupting Earth (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Fear.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Feign Death.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Fireball.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Flame Arrows (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Flesh To Paper (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Fly.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Forceful Repurposing (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Freeze Blood (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Freezing Fog (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Frostbitten Fingers (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Gaseous Form.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Glimpse The End (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Gloomwrought Barrier (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Gluey Globule (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Glyph Of Warding.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Going In Circles (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Haste.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Hedrens Birds Of Clay (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Hematomancy (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Herbal Infusion (HHBH).md \|"HHbH"]] at class level 3
-- [[/5. Mechanics/Spells/Hypnotic Pattern.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Ice Burn (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Illusory Trap (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Impending Ally (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Innocuous Aspect (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Intellect Fortress (TCE).md \|"TCE"]] at class level 3
-- [[/5. Mechanics/Spells/Ire Of The Mountain (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Jeweled Fissure (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Legion (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Leomunds Tiny Hut.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Lesser Maze (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Life Sense (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Life Transference (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Lightning Bolt.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Magic Circle.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Major Image.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Mass Hobble Mount (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Melfs Minute Meteors (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Mire (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Nest Of Infernal Vipers (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Nondetection.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Opportunistic Foresight (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Outflanking Boon (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Phantom Dragon (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Phantom Steed.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Phase Bolt (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Portal Jaunt (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Protection From Energy.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Protective Nimbus (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Recomposition (HHHVII).md \|"HHHVII"]] at class level 3
-- [[/5. Mechanics/Spells/Remove Curse.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Riptide (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Rune Of Imprisonment (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Salt Lash (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Sending.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Shadow Tendrils (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shadow Trove (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shield Of Starlight (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Sidestep Arrow (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Sir Mittinzs Move Curse (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Sleet Storm.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Slow.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Song Of The Forest (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Speak With Dead.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Spirit Shroud (TCE).md \|"TCE"]] at class level 3
-- [[/5. Mechanics/Spells/Spiteful Weapon (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Steal Warmth (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Stinking Cloud.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Storm Gods Doom (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Sudden Dawn (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Summon Fey (TCE).md \|"TCE"]] at class level 3
-- [[/5. Mechanics/Spells/Summon Lesser Demons (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Summon Shadowspawn (TCE).md \|"TCE"]] at class level 3
-- [[/5. Mechanics/Spells/Summon Undead (TCE).md \|"TCE"]] at class level 3
-- [[/5. Mechanics/Spells/Surge Dampener (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Targeting Foreknowledge (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Thousand Darts (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Throes Of Ecstasy (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Thunder Step (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Thunderclap (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Thunderous Wave (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Tidal Wave (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Tiny Servant (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Tongue Of Sand (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Tongues.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Touch Of The Unliving (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Tracking Beacon (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Vampiric Touch.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Vital Mark (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Void Strike (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Wall Of Sand (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Wall Of Water (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Water Breathing.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Wave Of Corruption (KPDM).md \|"KPDM"]] at class level 3
+- [[/5. Mechanics/Spells/Accelerate (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Alone (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Animate Dead.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Anticipate Arcana (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Aspect Of The Serpent (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Aura Of Listlessness (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Bestow Curse.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Blade Of Wrath (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Blink.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Blood Armor (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Blood Offering (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Breeze Compass (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Call Shadow Mastiff (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Calm Of The Storm (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Catch The Breath (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Catnap (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Chains Of Perdition (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Chilling Words (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Clairvoyance.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Closing In (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Command Undead (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Compelled Movement (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Compelling Fate (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Confound Senses (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Counterspell.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Curse Of Hostility (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Curse Of Incompetence (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Cynophobia (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Deep Focus (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Demon Within (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Dimensional Shove (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Dispel Magic.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Doom Of Blue Crystal (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Doom Of Dancing Blades (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Doom Of Disenchantment (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Draconic Majesty (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Dragons Pride (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Drown (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Enemies Abound (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Entropic Damage Field (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Erupting Earth (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Fear.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Feign Death.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Fireball.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Flame Arrows (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Flesh To Paper (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Fly.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Forceful Repurposing (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Freeze Blood (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Freezing Fog (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Frostbitten Fingers (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Gaseous Form.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Glimpse The End (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Gloomwrought Barrier (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Gluey Globule (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Glyph Of Warding.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Going In Circles (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Haste.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Hedrens Birds Of Clay (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Hematomancy (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Herbal Infusion (HHBH).md \|"HHbH"]] at class level 13
+- [[/5. Mechanics/Spells/Hypnotic Pattern.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Ice Burn (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Illusory Trap (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Impending Ally (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Innocuous Aspect (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Intellect Fortress (TCE).md \|"TCE"]] at class level 13
+- [[/5. Mechanics/Spells/Ire Of The Mountain (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Jeweled Fissure (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Legion (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Leomunds Tiny Hut.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Lesser Maze (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Life Sense (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Life Transference (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Lightning Bolt.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Magic Circle.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Major Image.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Mass Hobble Mount (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Melfs Minute Meteors (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Mire (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Nest Of Infernal Vipers (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Nondetection.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Opportunistic Foresight (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Outflanking Boon (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Phantom Dragon (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Phantom Steed.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Phase Bolt (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Portal Jaunt (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Protection From Energy.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Protective Nimbus (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Recomposition (HHHVII).md \|"HHHVII"]] at class level 13
+- [[/5. Mechanics/Spells/Remove Curse.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Riptide (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Rune Of Imprisonment (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Salt Lash (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Sending.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Shadow Tendrils (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Shadow Trove (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Shield Of Starlight (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Sidestep Arrow (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Sir Mittinzs Move Curse (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Sleet Storm.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Slow.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Song Of The Forest (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Speak With Dead.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Spirit Shroud (TCE).md \|"TCE"]] at class level 13
+- [[/5. Mechanics/Spells/Spiteful Weapon (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Steal Warmth (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Stinking Cloud.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Storm Gods Doom (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Sudden Dawn (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Summon Fey (TCE).md \|"TCE"]] at class level 13
+- [[/5. Mechanics/Spells/Summon Lesser Demons (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Summon Shadowspawn (TCE).md \|"TCE"]] at class level 13
+- [[/5. Mechanics/Spells/Summon Undead (TCE).md \|"TCE"]] at class level 13
+- [[/5. Mechanics/Spells/Surge Dampener (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Targeting Foreknowledge (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Thousand Darts (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Throes Of Ecstasy (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Thunder Step (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Thunderclap (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Thunderous Wave (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Tidal Wave (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Tiny Servant (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Tongue Of Sand (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Tongues.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Touch Of The Unliving (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Tracking Beacon (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Vampiric Touch.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Vital Mark (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Void Strike (KPDM).md \|"KPDM"]] at class level 13
+- [[/5. Mechanics/Spells/Wall Of Sand (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Wall Of Water (XGE).md \|"XGE"]] at class level 13
+- [[/5. Mechanics/Spells/Water Breathing.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Wave Of Corruption (KPDM).md \|"KPDM"]] at class level 13
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Abhorrent Apparition (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Arcane Eye.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Banishment.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Black Hand (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Blight.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Blood Puppet (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Blood And Steel (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Boiling Blood (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Brittling (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/By The Light Of The Watchful Moon (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Caustic Waste (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Chaotic Form (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Charm Monster (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Cold Storage (HHHVII).md \|"HHHVII"]] at class level 3
-- [[/5. Mechanics/Spells/Confusion.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Conjure Fiends (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Conjure Minor Elementals.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Control Water.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Cursed Gift (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Deep Freeze (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Desiccating Breath (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Devas Wings (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Dimension Door.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Distressing Resonance (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Divination.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Doom Of Serpent Coils (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Doom Of The Pit (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Draconic Senses (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Drain Item (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Dread Wings (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Earthskimmer (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Elemental Bane (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Endow Attribute (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Energy Foreknowledge (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Evards Black Tentacles.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Evercold (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Fabricate.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Fire Shield.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Flame Wave (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Flickering Fate (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Fluctuating Alignment (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Fog Of War (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Fusillade Of Ice (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Giants Jest (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Greater Invisibility.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Hallucinatory Terrain.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Harry (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Heart Seeking Arrow (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Hide In Ones Shadow (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Ice Storm.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Instant Siege Weapon (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Labyrinth Mastery (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Lava Stone (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Leomunds Secret Chest.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Locate Creature.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Looping Trail (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Moon Trap (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Mordenkainens Faithful Hound.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Mordenkainens Private Sanctum.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Nether Weapon (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Night Terrors (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Not Dead Yet (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Overwhelming Greed (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Phantasmal Killer.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Pitfall (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Polymorph.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Power Word Pain (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Quicksilver Mantle (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Raid The Lair (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Ray Of Alchemical Negation (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Ray Of Life Suppression (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Reposition (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Reset (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Sacrificial Healing (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Sand Ship (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Scale Rot (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Scry Ambush (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Searing Sun (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shadow Monsters (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shadow Step (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shocking Shroud (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Shroud Of Death (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Sickening Radiance (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Spinning Axes (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Staff Of Violet Fire (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Steam Blast (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Stone Shape.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Stoneskin.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Storm Sphere (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Summon Aberration (TCE).md \|"TCE"]] at class level 3
-- [[/5. Mechanics/Spells/Summon Construct (TCE).md \|"TCE"]] at class level 3
-- [[/5. Mechanics/Spells/Summon Elemental (TCE).md \|"TCE"]] at class level 3
-- [[/5. Mechanics/Spells/Summon Greater Demon (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Time Vortex (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Visage Of Madness (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Visage Of The Dead (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Vitriolic Sphere (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Wall Of Fire.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Watery Sphere (XGE).md \|"XGE"]] at class level 3
-- [[/5. Mechanics/Spells/Wild Shield (KPDM).md \|"KPDM"]] at class level 3
-- [[/5. Mechanics/Spells/Wintry Glide (KPDM).md \|"KPDM"]] at class level 3
+- [[/5. Mechanics/Spells/Abhorrent Apparition (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Arcane Eye.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Banishment.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Black Hand (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Blight.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Blood Puppet (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Blood And Steel (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Boiling Blood (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Brittling (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/By The Light Of The Watchful Moon (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Caustic Waste (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Chaotic Form (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Charm Monster (XGE).md \|"XGE"]] at class level 19
+- [[/5. Mechanics/Spells/Cold Storage (HHHVII).md \|"HHHVII"]] at class level 19
+- [[/5. Mechanics/Spells/Confusion.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Conjure Fiends (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Conjure Minor Elementals.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Control Water.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Cursed Gift (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Deep Freeze (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Desiccating Breath (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Devas Wings (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Dimension Door.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Distressing Resonance (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Divination.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Doom Of Serpent Coils (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Doom Of The Pit (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Draconic Senses (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Drain Item (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Dread Wings (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Earthskimmer (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Elemental Bane (XGE).md \|"XGE"]] at class level 19
+- [[/5. Mechanics/Spells/Endow Attribute (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Energy Foreknowledge (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Evards Black Tentacles.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Evercold (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Fabricate.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Fire Shield.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Flame Wave (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Flickering Fate (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Fluctuating Alignment (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Fog Of War (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Fusillade Of Ice (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Giants Jest (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Greater Invisibility.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Hallucinatory Terrain.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Harry (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Heart Seeking Arrow (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Hide In Ones Shadow (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Ice Storm.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Instant Siege Weapon (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Labyrinth Mastery (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Lava Stone (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Leomunds Secret Chest.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Locate Creature.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Looping Trail (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Moon Trap (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Mordenkainens Faithful Hound.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Mordenkainens Private Sanctum.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Nether Weapon (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Night Terrors (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Not Dead Yet (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Overwhelming Greed (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Phantasmal Killer.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Pitfall (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Polymorph.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Power Word Pain (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Quicksilver Mantle (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Raid The Lair (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Ray Of Alchemical Negation (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Ray Of Life Suppression (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Reposition (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Reset (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Sacrificial Healing (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Sand Ship (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Scale Rot (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Scry Ambush (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Searing Sun (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Shadow Monsters (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Shadow Step (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Shocking Shroud (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Shroud Of Death (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Sickening Radiance (XGE).md \|"XGE"]] at class level 19
+- [[/5. Mechanics/Spells/Spinning Axes (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Staff Of Violet Fire (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Steam Blast (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Stone Shape.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Stoneskin.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Storm Sphere (XGE).md \|"XGE"]] at class level 19
+- [[/5. Mechanics/Spells/Summon Aberration (TCE).md \|"TCE"]] at class level 19
+- [[/5. Mechanics/Spells/Summon Construct (TCE).md \|"TCE"]] at class level 19
+- [[/5. Mechanics/Spells/Summon Elemental (TCE).md \|"TCE"]] at class level 19
+- [[/5. Mechanics/Spells/Summon Greater Demon (XGE).md \|"XGE"]] at class level 19
+- [[/5. Mechanics/Spells/Time Vortex (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Visage Of Madness (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Visage Of The Dead (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Vitriolic Sphere (XGE).md \|"XGE"]] at class level 19
+- [[/5. Mechanics/Spells/Wall Of Fire.md \|"PHB"]] at class level 19
+- [[/5. Mechanics/Spells/Watery Sphere (XGE).md \|"XGE"]] at class level 19
+- [[/5. Mechanics/Spells/Wild Shield (KPDM).md \|"KPDM"]] at class level 19
+- [[/5. Mechanics/Spells/Wintry Glide (KPDM).md \|"KPDM"]] at class level 19

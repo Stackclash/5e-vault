@@ -18,7 +18,7 @@ aliases:
   - Exorcist
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Exorcist (SAF).md|Exorcist]]
+# [[/5. Mechanics/Bestiary/Humanoid/Exorcist (SAF).md|Exorcist]]
 *Source: Strongholds and Followers p. 73*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "15"
 "ac_class": "Medium"
+"hp": "health levels equal to their level"
 "modifier": !!int "2"
 "stats":
   - !!int "14"

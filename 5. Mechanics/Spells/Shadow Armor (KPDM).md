@@ -29,7 +29,9 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: >-
+  1 Reaction, which you take when you are targeted by an attack but before the
+  roll is made
 duration: Instantaneous
 range: Self
 aliases:
@@ -38,7 +40,7 @@ aliases:
 # Shadow Armor
 *1st-level, Abjuration*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you are targeted by an attack but before the roll is made
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous

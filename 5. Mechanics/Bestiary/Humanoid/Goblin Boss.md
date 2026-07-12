@@ -26,7 +26,7 @@ tags:
 aliases:
   - Goblin Boss
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Goblin Boss.md|Goblin Boss]]
+# [[/5. Mechanics/Bestiary/Humanoid/Goblin Boss.md|Goblin Boss]]
 *Source: Monster Manual p. 166*
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.

@@ -18,7 +18,7 @@ aliases:
   - Bestial Spirit (Water)
 cr: null
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Water (TCE).md|Bestial Spirit (Water)]]
+# [[/5. Mechanics/Bestiary/Beast/Bestial Spirit Water (TCE).md|Bestial Spirit (Water)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -27,6 +27,7 @@ cr: null
 "type": "beast"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "30 + 5 for each spell level above 2nd"
 "modifier": !!int "0"
 "stats":
   - !!int "18"

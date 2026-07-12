@@ -13,7 +13,7 @@ tags:
   - spell/school/enchantment
   - spell/subclass/chain-domain
   - spell/subclass/college-of-glamour
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
   - spell/subclass/fey-trapper
   - spell/subclass/knowledge-domain
   - spell/subclass/lust-domain
@@ -32,7 +32,7 @@ classes:
   - Paladin
   - Paladin (Oath of Conquest)
   - Ranger (Fey Trapper)
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
   - Sorcerer (Second Soul)
   - Warlock (The Fiend)
 school: Enchantment
@@ -97,6 +97,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ## Summary
 
-**Classes**: [Bard (College of Glamour)](/compendium/lists/list-spells-classes-college-of-glamour-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [Cleric (Lust Domain)](/compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Fey Trapper)](/compendium/lists/list-spells-classes-fey-trapper-hhhviii.md "subclass=HHHVIII"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Second Soul)](/compendium/lists/list-spells-classes-second-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]
+**Classes**: [Bard (College of Glamour)](/compendium/lists/list-spells-classes-college-of-glamour-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [Cleric (Lust Domain)](/compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Fey Trapper)](/compendium/lists/list-spells-classes-fey-trapper-hhhviii.md "subclass=HHHVIII"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Second Soul)](/compendium/lists/list-spells-classes-second-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]
 
 *Source: Player's Handbook p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

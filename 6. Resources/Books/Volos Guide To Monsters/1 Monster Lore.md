@@ -3096,7 +3096,7 @@ The following action options are restricted to certain kinds of yuan-ti.
 
 ##### Bite (Pureblood Only)
 
-Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: `dice:1d4|noform|noparens|avg|text(3)` (`1d4`) piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
+Melee Weapon Attack: `dice:1d20+3|noform|noparens|text(+3)` to hit, reach 5 ft., one creature. Hit: `dice:1d4|noform|noparens|avg|text(3)` (`1d4`) piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
 
 ##### Polymorph into Snake (Abomination or Malison Only;
 

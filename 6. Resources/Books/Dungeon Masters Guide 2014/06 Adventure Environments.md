@@ -19,6 +19,8 @@ Villages, towns, and cities are cradles of civilization in a dangerous world, bu
 
 This chapter provides an overview of these three environments plus a few unusual environments, taking you through the process of creating an adventure location, with plenty of random tables to inspire you.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-1.webp#center]]
+
 ## Dungeons
 
 Some dungeons are old strongholds abandoned by the folk who built them. Others are natural caves or weird lairs carved out by foul monsters. They attract evil cults, monster tribes, and reclusive creatures. Dungeons are also home to ancient treasures: coins, gems, magic items, and other valuables hidden away in the darkness, often guarded by traps or jealously kept by the monsters that have collected them.
@@ -56,6 +58,8 @@ The Dungeon Creator table includes creatures that typically build dungeons. You 
 Except in the case of a natural cavern, a dungeon is crafted and inhabited for a specific purpose that influences its design and features. You can choose a purpose from the Dungeon Purpose table, roll one at random, or use your own ideas.
 
 ![[/5. Mechanics/Tables/Dungeon Purpose.md\|Dungeon Purpose]]
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-2.webp#center]]
 
 ##### Death Trap
 
@@ -152,6 +156,8 @@ If you need help creating a dungeon map from scratch, see appendix A.
 
 The atmosphere and physical characteristics of dungeons vary as widely as their origins. An old crypt might have stone walls and loose wooden doors, an odor of decay, and no light other than what adventurers bring with them. A volcanic lair might have smooth stone walls hollowed out by past eruptions, doors of magically reinforced brass, a smell of sulfur, and light provided by jets of flame in every hall and room.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-3.webp#center]]
+
 #### Walls
 
 Some dungeons have walls of masonry. Others have walls of solid rock, hewn with tools to give them a rough, chiseled look, or worn smooth by the passage of water or lava. An aboveground dungeon might be made of wood or composite materials.
@@ -165,6 +171,8 @@ Dungeon doorways might be set within plain arches and lintels. They might be fes
 ##### Stuck Doors
 
 Dungeon doors often become stuck when not used frequently. Opening a stuck door requires a successful Strength check. Chapter 8, "Running the Game," provides guidelines for setting the DC.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-4.webp#center]]
 
 ##### Locked Doors
 
@@ -264,6 +272,8 @@ A good way to keep wilderness encounters from becoming stale is to make sure the
 
 Reward characters for searching while they travel by providing things for them to find. Broken statues, tracks, abandoned campsites, and other finds can add flavor to your world, foreshadow future encounters or events, or provide hooks for further adventures. A wilderness journey might take multiple sessions to play out. That said, if the wilderness journey includes long periods with no encounters, use the travel-montage approach to bridge gaps between encounters.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-5.webp#center]]
+
 ## Mapping a Wilderness
 
 In contrast to a dungeon, an outdoor setting presents seemingly limitless options. The adventurers can move in any direction over a trackless desert or an open grassland, so how do you as the DM deal with all the possible locations and events that might make up a wilderness campaign? What if you design an encounter in a desert oasis, but the characters miss the oasis because they wander off course? How do you avoid creating a boring play session of uninterrupted slogging across a rocky wasteland?
@@ -330,6 +340,8 @@ You can pick weather to fit your campaign or roll on the Weather table to determ
 
 ![[/5. Mechanics/Tables/Weather Precipitation.md\|Weather; Precipitation]]
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-6.webp#center]]
+
 #### Extreme Cold
 
 Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
@@ -355,6 +367,8 @@ Everything within an area of heavy rain or heavy snowfall is lightly obscured, a
 Traveling at altitudes of 10,000 feet or higher above sea level is taxing for a creature that needs to breathe, because of the reduced amount of oxygen in the air. Each hour such a creature spends traveling at high altitude counts as 2 hours for the purpose of determining how long that creature can travel.
 
 Breathing creatures can become acclimated to a high altitude by spending 30 days or more at this elevation. Breathing creatures can't become acclimated to elevations above 20,000 feet unless they are native to such environments.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-7.webp#center]]
 
 ### Wilderness Hazards
 
@@ -428,6 +442,8 @@ When creating a settlement for your campaign, focus on the locations that are mo
 
 The following tables allow you to quickly create a settlement. They assume that you've already determined its size and its basic form of government.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-8.webp#center]]
+
 ![[/5. Mechanics/Tables/Random Settlements Race Relations.md\|Random Settlements; Race Relations]]
 
 ![[/5. Mechanics/Tables/Random Settlements Rulers Stat(US).md\|Random Settlements; Ruler's Status]]
@@ -465,6 +481,8 @@ When you draw a map for a settlement in your game, don't worry about the placeme
 For a village, sketch out the roads, including trade routes leading beyond the village and roads that connect outlying farms to the village center. Note the location of the village center. If the adventurers visit specific places in the village, mark those spots on your map.
 
 For towns and cities, note major roads and waterways as well as surrounding terrain. Outline the walls and mark the locations of features you know will be important: the lord's keep, significant temples, and the like. For cities, add internal walls and think about the personality of each ward. Give the wards names reflecting their personalities, which also identify the kinds of trades that dominate the neighborhood (Tannery Square, Temple Row), a geographical characteristic (Hilltop, Riverside), or a dominant site (the Lords' Quarter).
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-9.webp#center]]
 
 ## Urban Encounters
 
@@ -584,6 +602,8 @@ You can check for random undersea encounters as often as you would check for the
 
 ![[/5. Mechanics/Tables/Random Undersea Encounters.md\|Random Undersea Encounters]]
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-10.webp#center]]
+
 #### Swimming
 
 Unless aided by magic, a character can't swim for a full 8 hours per day. After each hour of swimming, a character must succeed on a DC 10 Constitution saving throw or gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
@@ -631,6 +651,8 @@ If weather conditions indicate both a strong wind and heavy rain, they combine t
 
 In a dead calm (no wind), ships can't move under sail and must be rowed. A ship sailing against a strong wind moves at half speed.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-11.webp#center]]
+
 #### Visibility
 
 A relatively calm sea offers great visibility. From a crow's nest, a lookout can spot another ship or a coastline up to 10 miles away, assuming clear skies. Overcast skies reduce that distance by half. Rain and fog reduce visibility just as they do on land.
@@ -677,6 +699,8 @@ As adventurers travel through the air, check for random encounters as you normal
 
 Characters have normal chances to spot creatures on the ground and can decide whether to engage them.
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-12.webp#center]]
+
 ## Traps
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In the D&D game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
@@ -694,6 +718,8 @@ Most traps are triggered when a creature goes somewhere or touches something tha
 #### Detecting and Disabling a Trap
 
 Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-13.webp#center]]
 
 A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check for a character to deduce what needs to be done, followed by a Dexterity check using [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to perform the necessary sabotage.
 
@@ -726,6 +752,8 @@ Complex traps work like standard traps, except once activated they execute a ser
 When a complex trap activates, it rolls initiative. The trap's description includes an initiative bonus. On its turn, the trap activates again, often taking an action. It might make successive attacks against intruders, create an effect that changes over time, or otherwise produce a dynamic challenge. Otherwise, the complex trap can be detected and disabled or bypassed in the usual ways.
 
 For example, a trap that causes a room to slowly flood works best as a complex trap. On the trap's turn, the water level rises. After several rounds, the room is completely flooded.
+
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/5-14.webp#center]]
 
 ### Sample Traps
 

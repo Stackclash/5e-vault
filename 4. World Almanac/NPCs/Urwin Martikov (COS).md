@@ -9,8 +9,7 @@ tags:
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
 condition: healthy
-images:
-  - 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
+images: []
 aliases:
   - Urwin Martikov
 alignment: Lawful Good
@@ -21,23 +20,23 @@ relationships:
   - Brom Martikov (COS)|son
 partyRelationships:
   Midnight Covenant: Ally
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
-pronounced:
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age:
-occupation:
+age: null
+occupation: null
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
-description:
-history:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
+description: null
+history: null
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -66,6 +65,7 @@ history:
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
 > **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
+# **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
 TBD
@@ -202,7 +202,7 @@ return function View() {
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form. If the\
       \ target is humanoid, it must succeed on a DC 10 Constitution saving throw or\
-      \ be cursed with wereraven lycanthropy."
+      \ be cursed with wereraven [[/5. Mechanics/Rules/Variant Rules/Player Characters As Lycanthropes (MM).md|lycanthropy]]."
     "name": "Beak (Raven or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."

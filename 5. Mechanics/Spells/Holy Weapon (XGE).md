@@ -9,12 +9,12 @@ tags:
   - spell/class/paladin
   - spell/level/5th-level
   - spell/school/evocation
-  - spell/subclass/divine-soul/good
+  - spell/subclass/divine-soul
 classes:
   - Bard (Magical Secrets)
   - Cleric
   - Paladin
-  - 'Sorcerer (Divine Soul, Good)'
+  - Sorcerer (Divine Soul)
 school: Evocation
 level: 5
 ritual: false
@@ -55,6 +55,6 @@ You imbue a weapon you touch with holy power. Until the spell ends, the weapon e
 
 As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes `dice:4d8|noform|noparens|avg` (`4d8`) radiant damage, and it is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] for 1 minute. On a successful save, a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]]. At the end of each of its turns, a [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] creature can make a Constitution saving throw, ending the effect on itself on a success.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Xanathar's Guide to Everything p. 157*

@@ -21,7 +21,7 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take when you see a creature cast a healing spell'
 duration: Instantaneous
 range: 60 feet
 aliases:
@@ -37,7 +37,7 @@ damage:
 # Defile Healing
 *7th-level, Necromancy*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you see a creature cast a healing spell
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

@@ -20,7 +20,7 @@ tags:
 aliases:
   - Treant
 ---
-# [[5. Mechanics\Bestiary\Plant\Treant.md|Treant]]
+# [[/5. Mechanics/Bestiary/Plant/Treant.md|Treant]]
 *Source: Monster Manual p. 289. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.

@@ -18,7 +18,7 @@ tags:
 aliases:
   - Quasit
 ---
-# [[5. Mechanics\Bestiary\Fiend\Quasit.md|Quasit]]
+# [[/5. Mechanics/Bestiary/Fiend/Quasit.md|Quasit]]
 *Source: Monster Manual p. 63. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Quasits infest the Lower Planes. Physically weak, they keep to the shadows to plot mischief and wickedness. More powerful demons use quasits as spies and messengers when they aren't devouring them or pulling them apart to pass the time.
@@ -223,7 +223,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "cr": "1"
 "traits":
   - "desc": "The quasit can use its action to polymorph into a beast form that resembles\
-      \ a bat (speed 10 feet fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a\
+      \ a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a\
       \ toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are\
       \ the same in each form, except for the speed changes noted. Any equipment it\
       \ is wearing or carrying isn't transformed. It reverts to its true form if it\

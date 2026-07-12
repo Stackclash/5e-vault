@@ -27,7 +27,7 @@ aliases:
 > 
 > P.P.S. For more on these adventures, especially the tea time, see "Hamund's Heroic Hardboileds I-XXIV."
 
-![Sir Hamund Holderhek, O.B....](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Hamund.webp#center "Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.")
+![Sir Hamund Holderhek, O.B.H. (First Class), V.A., N.K.P.](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Hamund.webp#center)
 
 ## Aim of this Guide
 

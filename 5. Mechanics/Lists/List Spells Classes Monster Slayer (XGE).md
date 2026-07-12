@@ -10,15 +10,15 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Protection From Evil And Good.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Protection From Evil And Good.md \|"PHB"]] at class level 3
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Zone Of Truth.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Zone Of Truth.md \|"PHB"]] at class level 5
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Magic Circle.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Magic Circle.md \|"PHB"]] at class level 9
 
 ## 4th Level
 
@@ -26,4 +26,4 @@ aliases:
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Hold Monster.md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Hold Monster.md \|"PHB"]] at class level 17

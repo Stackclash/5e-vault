@@ -18,7 +18,7 @@ tags:
 aliases:
   - Giant Swamp Goose
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Giant Swamp Goose (GRIFFONSSADDLEBAG3).md|Giant Swamp Goose]]
+# [[/5. Mechanics/Bestiary/Monstrosity/Giant Swamp Goose (GRIFFONSSADDLEBAG3).md|Giant Swamp Goose]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 ```statblock

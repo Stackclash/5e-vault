@@ -18,7 +18,7 @@ aliases:
   - Acolyte of the Way
 cr: Unknown
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Acolyte Of The Way (SAF).md|Acolyte of the Way]]
+# [[/5. Mechanics/Bestiary/Humanoid/Acolyte Of The Way (SAF).md|Acolyte of the Way]]
 *Source: Strongholds and Followers p. 76*
 
 ```statblock
@@ -29,6 +29,7 @@ cr: Unknown
 "alignment": "Any alignment"
 "ac": !!int "15"
 "ac_class": "Medium"
+"hp": "health levels equal to their level"
 "modifier": !!int "4"
 "stats":
   - !!int "14"

@@ -36,7 +36,7 @@ tags:
 aliases:
   - Kobold
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kobold.md|Kobold]]
+# [[/5. Mechanics/Bestiary/Humanoid/Kobold.md|Kobold]]
 *Source: Monster Manual p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.

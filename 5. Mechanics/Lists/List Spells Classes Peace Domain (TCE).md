@@ -10,8 +10,8 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Heroism.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Sanctuary.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Heroism.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Sanctuary.md \|"PHB"]]
 
 ## 2nd Level
 
@@ -20,15 +20,15 @@ aliases:
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Beacon Of Hope.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Sending.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Beacon Of Hope.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Sending.md \|"PHB"]] at class level 5
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Aura Of Purity.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Aura Of Purity.md \|"PHB"]] at class level 7
+- [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md \|"PHB"]] at class level 7
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Greater Restoration.md \|"PHB"]] at class level 3
-- [[/5. Mechanics/Spells/Rarys Telepathic Bond.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Greater Restoration.md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Rarys Telepathic Bond.md \|"PHB"]] at class level 9

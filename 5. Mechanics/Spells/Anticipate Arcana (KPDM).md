@@ -33,7 +33,7 @@ verbal: true
 somatic: true
 material: false
 material_desc: ''
-time: 1 Reaction
+time: '1 Reaction, which you take when an enemy you can see casts a spell'
 duration: Instantaneous
 range: Self
 aliases:
@@ -42,7 +42,7 @@ aliases:
 # Anticipate Arcana
 *3rd-level, Divination*  
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when an enemy you can see casts a spell
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Instantaneous

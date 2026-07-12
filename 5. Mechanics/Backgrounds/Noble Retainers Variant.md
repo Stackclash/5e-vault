@@ -29,7 +29,7 @@ These details help establish your family and your title as features of the world
 
 ## Feature: Retainers
 
-You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are commoners who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.
+You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are [[/5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]] who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.
 
 ## Suggested Characteristics
 

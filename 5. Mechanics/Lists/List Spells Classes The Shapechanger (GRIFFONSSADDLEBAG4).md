@@ -10,8 +10,8 @@ aliases:
 
 ## 1st Level
 
-- [[/5. Mechanics/Spells/Faerie Fire.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Feather Fall.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Faerie Fire.md \|"PHB"]] with access to 1st-level spells
+- [[/5. Mechanics/Spells/Feather Fall.md \|"PHB"]] with access to 1st-level spells
 
 ## 2nd Level
 
@@ -20,15 +20,15 @@ aliases:
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Meld Into Stone.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Protection From Energy.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Meld Into Stone.md \|"PHB"]] with access to 3rd-level spells
+- [[/5. Mechanics/Spells/Protection From Energy.md \|"PHB"]] with access to 3rd-level spells
 
 ## 4th Level
 
-- [[/5. Mechanics/Spells/Polymorph.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Stoneskin.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Polymorph.md \|"PHB"]] with access to 4th-level spells
+- [[/5. Mechanics/Spells/Stoneskin.md \|"PHB"]] with access to 4th-level spells
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Mislead.md \|"PHB"]] with access to 2nd-level spells
-- [[/5. Mechanics/Spells/Modify Memory.md \|"PHB"]] with access to 2nd-level spells
+- [[/5. Mechanics/Spells/Mislead.md \|"PHB"]] with access to 5th-level spells
+- [[/5. Mechanics/Spells/Modify Memory.md \|"PHB"]] with access to 5th-level spells
