@@ -38,6 +38,7 @@ Who Did They Meet?
 
 ## Items Of Importance
 - Found the papers and reagents to reverse the [[Feeblemind]] trap on [[Lord Caldris Velmont]]
+- Along with the papers they find [[Dusk Dagger Rare (GRIFFONSSADDLEBAG2)|Dusk Dagger]] (hasn't identified it yet)
 
 ## What Happened
 - [[3. The Party/Players/Faerah Duskrane|Faerah Duskrane]], [[3. The Party/Players/Wisp|Wisp]], [[3. The Party/Players/Roark Battleborn|Roark Battleborn]] fought the [[Stone Golem]] and was able to destroy the 4 anti magic field gems in the room.
