@@ -13,32 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/Websites.md",
+                "file": "Random Content/Generators/npc-backstory-generator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Websites"
-            }
-          },
-          {
-            "id": "e1666e85371b9a7b",
-            "type": "leaf",
-            "state": {
-              "type": "modules:documentation",
-              "state": {
-                "modules:documentation": {
-                  "data": "# obsidian-modules <!-- markdownlint-disable MD024 -->\n\n## 2.5.0\n\n### Minor Changes\n\n- 9ef1a1b: Update template, and Obsidian API to 1.4.11.\n\n### Patch Changes\n\n- 731886d: Update dependencies.\n- 2e63a20: (2ed04b4436eebc82b2d81029e0660fe8e3335e46) Bump micromatch from 4.0.5 to 4.0.8 ([GH#17](https://github.com/polyipseity/obsidian-modules/pull/17))\n- 803aebf: Bump `nanoid`\n- 9aae9c1: (5fa86c77bce6a5cf2685e6756620f5464abe164c) Bump cross-spawn and @changesets/cli ([GH#18](https://github.com/polyipseity/obsidian-modules/pull/18))\n- 8ceb8a1: Fix `package.json` license. Addresses [GH#20](https://github.com/polyipseity/obsidian-modules/issues/20).\n\n## 2.4.4\n\n### Patch Changes\n\n- c714551: Nothing changed, but old files were wrongly uploaded to v2.4.3. Fixes [GH#15](https://github.com/polyipseity/obsidian-modules/issues/15).\n\n## 2.4.3\n\n### Patch Changes\n\n- 4dcc45d: (63711193053ae1b850d816b84244f9152b53a407) Fix requiring `@capacitor`.\n\n## 2.4.2\n\n### Patch Changes\n\n- 482abdb: Update dependencies.\n\n## 2.4.1\n\n### Patch Changes\n\n- f59c264: Properly detects TypeScript extensions. Fixes [GH#7](https://github.com/polyipseity/obsidian-modules/issues/7), which is about failing to import TypeScript modules on newer versions of Obsidian. ([GH#8](https://github.com/polyipseity/obsidian-modules/pull/8) by [@mnaoumov](https://github.com/mnaoumov))\n- 976e1aa: Improve error message for unresolved module and loading timeout. ([GH#12](https://github.com/polyipseity/obsidian-modules/pull/12) by [@mnaoumov](https://github.com/mnaoumov))\n\n## 2.4.0\n\n### Minor Changes\n\n- 45f7560: Add startup modules.\n- 24dfc8d: Add `Require#onInvalidate`.\n\n### Patch Changes\n\n- de069e6: Provide `app` to avoid using the deprecated global `app`. For users, nothing needs to be changed.\n- dbef51c: Fix importing from external links not working with custom require name.\n\n## 2.3.0\n\nNo more console spamming and unchecked `data.json` growth!\n\n### Minor Changes\n\n- d724fef: Move settings `recovery` and `lastReadChangelogVersion` to `localStorage`. (6d612c570926387ee6b5991475cb993517a39d45)\n- 307489d: Replace some `Record`s with `Map`s. (<https://2ality.com/2012/01/objects-as-maps.html>)\n\n### Patch Changes\n\n- b496460: Remove debug statements. Addresses [GH#5](https://github.com/polyipseity/obsidian-modules/issues/5). (+f9fc1874e2c0b0b6c486ae6a13e52bf09cef588d)\n\n## 2.2.0\n\n### Minor Changes\n\n- 3b251be: Add cwd detection for `dv.view` in Dataview.\n- ef032bf: Add cwd detection for Templater user scripts.\n- fdbee2f: Add cwd detection for canvases.\n- 2fd4dc4: Change the type and meaning of `null` and `undefined` for working directory. This allows overriding the working directory with no working directory in `CommonOptions`.\n- 5fbad90: Always change the cwd context in preview and editor.\n\n### Patch Changes\n\n- 92b9215: Fix context detection for Templater templates.\n- 004ed2e: Fix weird behaviors if the vault has more than 1000 files. Fixes [GH#4](https://github.com/polyipseity/obsidian-modules/issues/4).\n\n## 2.1.0\n\n### Minor Changes\n\n- 9a7c8b6: Add command \"Clear cache\".\n- 58abf99: Make the public `invalidate` invalidate more things.\n\n### Patch Changes\n\n- fdbca01: Reduce memory usage by up to 75% for preloaded files.\n- 663d9eb: Fix canvas rendering nothing. Fixes [GH#2](https://github.com/polyipseity/obsidian-modules/issues/2).\n\n## 2.0.0\n\n### Major Changes\n\n- 0c567c9: Add TypeScript support.\n\n### Minor Changes\n\n- 97eca08: Add setting \"Require name\".\n- 24ed484: Move more work to workers and improve code.\n- 459125e: Add setting \"Markdown code block languages to load\".\n- a0bea02: Add support for importing external modules via HTTP and HTTPS.\n- 4d79665: Add setting \"Preloading rules\".\n- ccfbf35: Add setting \"Preloaded external links\".\n- f36db52: Use workers to transpile TypeScript if async import is used.\n- 26155df: Add setting \"Expose internal modules\". Cherry-picked from `d22f7bf6182272e3e0058c328ed42ec3039de184`, which is from `obsidian-terminal`.\n- fd1f08c: Add setting `Expose internal modules`.\n- 47c5f65: Allow importing a loading module multiple times. (Deadlocks may result though.)\n- 9b43345: Implement source mapping. Sources are placed under `modules/`.\n- c944a54: Rewrite dependency handling.\n- a85b3b7: Add setting \"Enable external links\".\n- fbcf7d2: Add relative path support for Templater.\n- 0d9ed0f: Make importing from external CDNs work.\n- d0adec9: Add setting \"`import` timeout\".\n\n### Patch Changes\n\n- b5f2d98: Assign `Symbol.toStringTag` to modules.\n- 24cbb1c: Respect existing source maps when source mapping.\n- a286c55: Define `process` so that React can load on mobile.\n- c3a689e: Limit the number of concurrent requests to 6.\n- fa98881: Compress the worker to reduce bundle size.\n- 108639c: Fix plugin potentially failing to load. This may happen if `Community plugins > Debug startup time` is disabled. When it is disabled, Obsidian removes source maps, which erraneously removes JavaScript strings intentionally containinig source map-like content.\n- e06bcf1: Add async `Transpile.atranspile`.\n- b12e8ec: Move parsing to workers.\n- 74c7da3: Prefix source map location with plugin ID.\n\n## 1.1.0\n\n### Minor Changes\n\n- 8e538e7: Add `cwd` option to `require` and `require.import` to manually provide context.\n\n### Patch Changes\n\n- b3791a4: Create `AbstractFileResolve#aresolvePath` so that `metadataCache` is awaited for in async resolve.\n\n## 1.0.2\n\n### Patch Changes\n\n- 48ee70f: Make the `require` patch more compatible with other `require` patches.\n\n## 1.0.1\n\n### Patch Changes\n\n- ab7c316: Fix `require` not working at all.\n- 3f0f57b: Fix dependency tracking, especially circular ones.\n\n## 1.0.0\n\n### Major Changes\n\n- 879a4d6: Implement basic functionalities: vault path resolving, caching, module loading, `require` patching, and an API.\n\n### Minor Changes\n\n- 5fbc6b5: Implement resolving relative paths.\n- ce395a7: Add `Resolve#aresolve` to support resolving files on-demand, making `require.import` support loading any files.\n- c9d0d61: Implement dependency tracking so that modules are transitively reloaded.\n- b37eb32: Implement resolving Markdown links and wikilinks.\n- 7120162: Implement Markdown-to-JavaScript transpiler.\n\n### Patch Changes\n\n- 42f93f2: Remove arbitrary restrictions for resolving vault paths and relative paths.\n- ed74c49: Write usage guide.\n",
-                  "displayTextI18nKey": "translation:generic.documentations.changelog",
-                  "iconI18nKey": "asset:generic.documentations.changelog-icon"
-                }
-              },
-              "icon": "file-text",
-              "title": "Changelog"
+              "title": "npc-backstory-generator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,6 +237,16 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "d160195269d498c4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 8
@@ -271,7 +264,6 @@
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
       "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
@@ -282,11 +274,17 @@
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
       "modalforms:Edit forms": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "templater-obsidian:Templater": false,
+      "relations:Open Relations graph": false,
+      "calendarium:Open Calendarium": false,
+      "neural-composer:Open Neural Composer": false
     }
   },
-  "active": "e1666e85371b9a7b",
+  "active": "16cc78f04004a980",
   "lastOpenFiles": [
+    "Random Content/Generators/forest-scene-generator.md",
     "1. DM Toolkit/Websites.md",
     "1. DM Toolkit/Sound Board.md",
     "1. DM Toolkit/Session Logs.md",
@@ -312,7 +310,6 @@
     "1. DM Toolkit/Knowledge/Info/Social Encounters.md",
     "1. DM Toolkit/Knowledge/Info/Rewards and Progression.md",
     "1. DM Toolkit/Knowledge/Info/NPCs.md",
-    "1. DM Toolkit/Knowledge/Info/Exploration.md",
     "z_Bases/Spells.base",
     "z_Bases/Items.base",
     "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
