@@ -338,7 +338,20 @@ const config = {
         for (let prop of allUniqueKeys) {
           if (prop in file.frontMatter && prop in currentFileFrontMatter) {
             if (JSON.stringify(file.frontMatter[prop]) !== JSON.stringify(currentFileFrontMatter[prop])) {
-              const update = askQuestion(`Update ${prop} from ${JSON.stringify(currentFileFrontMatter[prop])} to ${JSON.stringify(file.frontMatter[prop])}? (Y/N) `)
+              let update = null
+              
+              if (prop === 'images' && file.frontMatter[prop].length === 0 && currentFileFrontMatter[prop].length > 0) {
+                update = true
+              }
+
+              if (prop === 'condition') {
+                update = false
+              }
+
+              if (update === null) {
+                update = askQuestion(`Update ${prop} from ${JSON.stringify(currentFileFrontMatter[prop])} to ${JSON.stringify(file.frontMatter[prop])}? (Y/N) `)
+              }
+              
               if (update) {
                 finalFrontMatter[prop] = file.frontMatter[prop]
               } else {
