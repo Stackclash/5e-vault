@@ -44,20 +44,21 @@ Every note starts with `obsidianUIMode: preview` as its first frontmatter key. C
 
 | Note type | Key frontmatter fields |
 |---|---|
-| **NPC** | `statblock: inline`, `location` (wikilink to container), `condition: healthy`, `relationships`, `race`, `gender`, `age`, `alignment`, `occupation`, `groups`, `religions`, `personality`, `ideal`, `bond`, `flaw`, `goals`, `likes`, `dislikes`, `partyRelationships` (map keyed by party name), `pronounced`, `aliases`, `images` |
-| **Location** (region / settlement / place-of-interest) | `location` (wikilink to parent), `images`, `pronounced`, `resources`, `population`, `terrain`, `rulers`, `government`, `army`, `religions`, `imports`, `exports`, `aliases`; tags = specific type + `location` |
+| **NPC** | `statblock: inline`, `location` (wikilink to container), `condition: healthy`, `relationships`, `race`, `gender`, `age`, `alignment`, `occupation`, `groups`, `religions`, `personality`, `ideal`, `bond`, `flaw`, `goals`, `likes`, `dislikes`, `partyRelationships` (map keyed by party name), `pronounced`, `aliases`, `images`; `player_impression` (DM-curated, spoiler-safe — what the party currently knows/believes) and `secrets` (DM-only) appear once first written via their Meta Bind fields, not pre-seeded at creation |
+| **Location** (region / settlement / place-of-interest) | `location` (wikilink to parent), `images`, `pronounced`, `summary` (short spoiler-safe teaser), `resources`, `population`, `terrain`, `rulers`, `government`, `army`, `religions`, `imports`, `exports`, `aliases`; tags = specific type + `location` |
 | **Shop** | `location`, `owners`, `staff`, `cost_modifier: 1`, `shop_type`, `shop_size`, `items`, `resources`; tags = `shop` + `location` |
 | **World** | `economic_scale`, `calendar`; tags = `world` + `location` |
-| **Quest** | `active` (map keyed by party → bool), `completed` (map keyed by party → bool), `world` (wikilink), `description`, `steps`, `npcs` |
-| **Player character** | Full D&D Beyond schema (`statblock: true`, `active`, `level`, `ac`, `hp`, `abilityScores`, `savingThrows`, `skills`, `classes`, `classFeatures`, etc.), plus `party` and `location` wikilinks. Generated from a D&D Beyond import — do not hand-author. |
+| **Quest** | `active` (map keyed by party → bool), `completed` (map keyed by party → bool), `world` (wikilink), `description` (DM planning, may contain unrevealed future beats), `player_summary` (spoiler-safe hook-level blurb), `steps`, `npcs` |
+| **Player character** | Full D&D Beyond schema (`statblock: true`, `active`, `level`, `ac`, `hp`, `abilityScores`, `savingThrows`, `skills`, `classes`, `classFeatures`, etc.), plus `party` and `location` wikilinks, plus `tagline` (DM/player-authored, not part of the D&D Beyond sync). Generated from a D&D Beyond import — do not hand-author; `tagline` is the one field the "Update From DnD Beyond" button deliberately leaves alone. |
 | **Party** | Travel/time-tracking fields (`hours_per_day`, `travel_speed`, `travel_multiplier`, `exhaustion_level`, `movement`, `speed`, `travel_hours_per_day`, etc.) |
 | **Session prep** | `date`, tag `session-prep` (minimal) |
-| **Session journal** | `date`, `summary`, `party` (wikilink), `prep-notes` (wikilink to the prep note), plus fantasy-calendar fields `fc-date`, `fc-end`, `fc-category: Session`, `timelines`, `calendar`, `aat-render-enabled: true`; optional `locations` |
-| **Campaign** | `party` (wikilink), `world` (wikilink), tag `campaign` |
+| **Session journal** | `date`, `session_number`, `summary`, `party` (wikilink), `prep-notes` (wikilink to the prep note), plus fantasy-calendar fields `fc-date`, `fc-end`, `fc-category: Session`, `timelines`, `calendar`, `aat-render-enabled: true`; `party_present`, `locations`, `npcs`, `quests`, `items` (link arrays — the session's reveal ledger, see below) |
+| **Campaign** | `party` (wikilink), `world` (wikilink), `public_premise` (DM-curated, spoiler-checked summary for anything player-facing), tag `campaign` |
 
-Two cross-cutting conventions:
+Three cross-cutting conventions:
 - **`location` encodes the world hierarchy** (World → Region → Settlement → Place of Interest). Set it to the immediate parent as a wikilink, not a folder path.
 - **Per-party state is stored as maps keyed by the party's note name**, not bare booleans — quest `active`/`completed`, NPC `partyRelationships`.
+- **Player-facing fields are separate from DM-planning fields, never inferred from them.** NPC `personality`/`ideal`/`bond`/`flaw`/`goals`/`secrets` and quest `description` are written omnisciently for the DM and often describe things the party hasn't learned yet — never surface them as "what the party knows." Use `player_impression`, `player_summary`, and `public_premise` instead, and update them deliberately as the story reveals things. Session journals' `npcs`/`locations`/`quests`/`items` arrays are the vault's reveal ledger — each session, record who/where/what was actually encountered there; anything consuming "has the party met this NPC yet" should union these arrays across published sessions rather than trusting an entity note in isolation.
 
 > Note: the Quest Templater template (`z_Templates/Templater/Campaign/Quest.md`) currently writes `campaign:` instead of `world:` and is out of date; existing quest notes use `world:`, which is authoritative.
 
@@ -124,6 +125,12 @@ await init.moveFile(tp, config.locations.myPath, data.name)
 
 `config` is loaded from `1. DM Toolkit/Configuration.md` frontmatter via Dataview. `config.locations.*` keys map to the folder paths configured there (e.g., `config.locations.npcs`, `config.locations.journals`).
 
+### Keep ttrpg-convert-cli templates in sync
+
+`ttrpg-convert-cli`'s import templates (`z_Extra/ttrpg-convert/templates/*.txt`, Qute syntax) are hand-mirrored copies of specific Templater templates, so bulk-imported content renders and queries identically to hand-authored notes. The one true structural mirror today: `z_Extra/ttrpg-convert/templates/monster.txt`'s `{#if resource.isNpc}` branch mirrors `z_Templates/Templater/World Building/NPC.md` — same frontmatter keys, infobox layout, `INPUT[...]` fields, buttons, and `## DM Notes` section. This is why the imported "(COS)" NPCs in `4. World Almanac/NPCs/` look and behave like hand-created ones.
+
+**Whenever you edit `z_Templates/Templater/World Building/NPC.md`, check whether the change (frontmatter keys, infobox fields, section structure) also needs to land in `monster.txt`'s `isNpc` branch, and make the equivalent edit there.** Qute syntax differs from Templater's (`{#if}` / `{#for}` / `{resource.field}` instead of `<%* %>` / `tp.*`), so translate the logic rather than copy-pasting. The other ttrpg-convert templates (`item`, `spell`, `class`, `object`, etc.) generate `5. Mechanics/` content and have no Templater counterpart — they don't need this cross-check.
+
 ## Active Campaign / World / Party
 
 The vault's active context is driven by a single frontmatter key in `1. DM Toolkit/Configuration.md` — this is the single source of truth. The active world and party are **not** stored in Configuration; they are read from the active campaign note's own frontmatter. Resolve these links before acting; never hardcode the current campaign, world, or party name:
@@ -174,6 +181,8 @@ Load the matching skill before doing that kind of work, whether or not the sessi
 ## 5e Mechanics Content Generation
 
 The `5. Mechanics/` folder is entirely generated by [ttrpg-convert-cli](https://github.com/nicholasgasior/ttrpg-convert-cli). Do not hand-edit files there.
+
+Its import templates live in `z_Extra/ttrpg-convert/templates/`; the NPC-shaped branch of `monster.txt` mirrors the Templater NPC template and must be kept in sync with it — see **Keep ttrpg-convert-cli templates in sync** under Templater Templates above.
 
 To regenerate after updating sources:
 1. Add/update source data files in `z_Extra/ttrpg-convert/`

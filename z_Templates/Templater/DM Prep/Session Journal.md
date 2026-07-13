@@ -59,6 +59,7 @@ try {
 ---
 obsidianUIMode: preview
 date: <% formattedDate %>
+session_number: <% newSessionNumber %>
 summary:
 fc-date: <% latestJournal ? latestJournal['fc-end'] || latestJournal['fc-date'] : '' %>
 fc-end: 
@@ -67,6 +68,11 @@ aat-render-enabled: true
 fc-category: Session
 party: "<% selectedParty ? selectedParty.file.link : '' %>"
 prep-notes: "<% prepNote ? prepNote : '' %>"
+party_present: []
+locations: []
+npcs: []
+quests: []
+items: []
 tags:
   - session-journal
 ---
@@ -74,6 +80,7 @@ tags:
 > ## Info
 > | | |
 > |---|---|
+> | **Session #:** | `INPUT[number:session_number]` |
 > | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
 > | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
@@ -83,7 +90,14 @@ tags:
 > | **Start Date:** | `INPUT[text:fc-date]` |
 > | **End Date:** | `INPUT[text:fc-end]` |
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
+> ## Session Links
+> | | |
+> |---|---|
+> | **Party Present:** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
 > | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
+> | **NPCs Met:** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
+> | **Quests Touched:** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
+> | **Items Found:** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
 # `=this.file.name`
 ## Session Overview
 > [!div|no-t clean]

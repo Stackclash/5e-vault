@@ -102,6 +102,10 @@ history: |-
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Player-Facing
+> [!metadata|text-Center] What the Party Knows
+> `INPUT[textArea:player_impression]`
+
 ## Secrets
 `INPUT[textArea:secrets]`
 

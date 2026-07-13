@@ -33,6 +33,7 @@ travel:
 >  |
 > ---|---|
 > **Pronounced:** | `INPUT[text:pronounced]` |
+> **Summary:** | `INPUT[text:summary]` |
 > **Location:** | `INPUT[suggester(optionQuery(#location)):location]` |
 > **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
 > ###### Info

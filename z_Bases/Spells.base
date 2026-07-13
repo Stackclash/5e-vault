@@ -17,11 +17,6 @@ properties:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - level >= 5
-        - '!formula["area shape"].isEmpty()'
-        - file.name.contains("darkness")
     order:
       - file.name
       - school
@@ -33,6 +28,7 @@ views:
       - ritual
       - range
       - time
+      - duration
       - formula.Untitled
       - formula.saving thow success
       - formula.area shape
@@ -41,3 +37,5 @@ views:
       - property: level
         direction: DESC
     summaries: {}
+    columnSize:
+      note.time: 203

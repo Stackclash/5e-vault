@@ -137,6 +137,10 @@ The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strah
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Player-Facing
+> [!metadata|text-Center] What the Party Knows
+> `INPUT[textArea:player_impression]`
+
 ## Secrets
 `INPUT[textArea:secrets]`
 

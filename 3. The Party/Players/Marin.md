@@ -758,6 +758,8 @@ location: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
 ---
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
+> [!div|no-t clean]
+> `INPUT[text:tagline]`
 ```meta-bind-button
 style: primary
 label: Update From DnD Beyond

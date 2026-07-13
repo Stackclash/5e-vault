@@ -21,6 +21,7 @@ calendar: Eldoria Calendar
 > | | |
 > |---|---|
 > | **Campaign:** | `INPUT[suggester(optionQuery(#campaign)):campaign]` |
+> | **Session #:** | `INPUT[number:session_number]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
 > | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
 > ## Fantasy Dates
@@ -30,6 +31,13 @@ calendar: Eldoria Calendar
 > | **End Date:** | `INPUT[text:fc-end]` |
 > | **Timelines:** | `INPUT[inlineList:timelines]` |
 > | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
+> ## Session Links
+> | | |
+> |---|---|
+> | **Party Present:** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
+> | **NPCs Met:** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
+> | **Quests Touched:** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
+> | **Items Found:** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
 # `=this.file.name`
 ## Session Overview
 > [!div|no-t clean]

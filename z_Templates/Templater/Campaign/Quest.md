@@ -33,6 +33,7 @@ active: {}
 completed: {}
 world: "<% selectedWorld.file.link %>"
 description: ""
+player_summary: ""
 steps: []
 npcs: []
 tags:
@@ -44,6 +45,10 @@ tags:
 > | **Completed:** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['completed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 > | **Active** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['active', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 # **`=this.file.name`**
+
+## Player Summary
+> [!div|no-t clean]
+> `INPUT[textArea:player_summary]`
 
 ## Description
 `INPUT[textArea:description]`

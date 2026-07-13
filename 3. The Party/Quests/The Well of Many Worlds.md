@@ -39,6 +39,10 @@ tags:
 > | **Active** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['active', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 # **`=this.file.name`**
 
+## Player Summary
+> [!div|no-t clean]
+> `INPUT[textArea:player_summary]`
+
 ## Description
 `INPUT[textArea:description]`
 

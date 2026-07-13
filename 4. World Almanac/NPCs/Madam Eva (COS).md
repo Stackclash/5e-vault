@@ -124,6 +124,10 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Player-Facing
+> [!metadata|text-Center] What the Party Knows
+> `INPUT[textArea:player_impression]`
+
 ## Secrets
 `INPUT[textArea:secrets]`
 
