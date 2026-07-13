@@ -16,6 +16,11 @@ tags:
 locations:
   - "[[4. World Almanac/Settlements/Krezk.md|Krezk]]"
   - "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
+session_number: 27
+party_present: []
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

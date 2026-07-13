@@ -16,7 +16,7 @@ relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 pronounced: null
-race: null
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: null
 occupation: []

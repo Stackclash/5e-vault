@@ -16,7 +16,7 @@ relationships: []
 partyRelationships: {}
 location: null
 pronounced: null
-race: null
+race: "[[5. Mechanics/Races/Elf.md|Elf]]"
 gender: null
 age: null
 occupation: []

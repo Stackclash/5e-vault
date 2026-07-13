@@ -14,6 +14,13 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+session_number: 40
+party_present:
+  - "[[3. The Party/Players/Roark Battleborn.md|Roark Battleborn]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Professor Gousse Windcaller.md|Professor Gousse Windcaller]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

@@ -18,6 +18,11 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+session_number: 5
+party_present: []
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

@@ -14,6 +14,12 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+session_number: 37
+party_present:
+  - "[[3. The Party/Players/Wisp.md|Wisp]]"
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

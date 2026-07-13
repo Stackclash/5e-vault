@@ -19,6 +19,18 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+session_number: 43
+party_present:
+  - "[[3. The Party/Players/Roark Battleborn.md|Roark Battleborn]]"
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Wisp.md|Wisp]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Professor Gousse Windcaller.md|Professor Gousse Windcaller]]"
+  - "[[4. World Almanac/NPCs/Mistress Lyssandra Veil.md|Mistress Lyssandra Veil]]"
+  - "[[4. World Almanac/NPCs/Lord Caldris Velmont.md|Lord Caldris Velmont]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

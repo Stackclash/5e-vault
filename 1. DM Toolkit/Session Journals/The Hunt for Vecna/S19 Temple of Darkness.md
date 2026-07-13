@@ -22,6 +22,12 @@ tags:
 locations:
   - "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
 fc-end: 973-2-21
+session_number: 19
+party_present:
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

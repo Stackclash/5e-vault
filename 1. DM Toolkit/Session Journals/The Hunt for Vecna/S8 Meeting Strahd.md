@@ -18,6 +18,11 @@ tags:
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 fc-end: 973-2-15
+session_number: 8
+party_present: []
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

@@ -14,6 +14,13 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+session_number: 39
+party_present:
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Martin Thricefold.md|Martin Thricefold]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

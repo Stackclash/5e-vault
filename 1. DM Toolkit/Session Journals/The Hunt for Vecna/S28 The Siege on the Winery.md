@@ -15,6 +15,13 @@ tags:
 locations:
   - "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 calendar: Eldoria Calendar
+session_number: 28
+party_present:
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

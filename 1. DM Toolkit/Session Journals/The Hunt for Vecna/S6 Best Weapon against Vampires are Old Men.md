@@ -20,6 +20,19 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+session_number: 6
+party_present:
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter (COS)]]"
+  - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
+  - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
+  - "[[4. World Almanac/NPCs/Gertruda (COS).md|Gertruda (COS)]]"
+  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
+  - "[[4. World Almanac/NPCs/Milivoj (COS).md|Milivoj (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

@@ -21,6 +21,15 @@ tags:
 locations:
   - "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 fc-end: 973-2-17
+session_number: 14
+party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

@@ -23,6 +23,15 @@ tags:
 locations:
   - "[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]"
   - "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
+session_number: 17
+party_present:
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
+  - "[[4. World Almanac/NPCs/Savid (COS).md|Savid (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

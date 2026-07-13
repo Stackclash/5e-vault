@@ -21,6 +21,17 @@ locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
   - "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 fc-end: 973-2-17
+session_number: 12
+party_present:
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md|Szoldar Szoldarovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter (COS)]]"
+  - "[[4. World Almanac/NPCs/Yevgeni Krushkin (COS).md|Yevgeni Krushkin (COS)]]"
+  - "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
+  - "[[4. World Almanac/NPCs/Gadof Blinsky (COS).md|Gadof Blinsky (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

@@ -17,6 +17,14 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+session_number: 32
+party_present: []
+npcs:
+  - "[[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md|Ezmerelda Davenir (COS)]]"
+  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
+  - "[[4. World Almanac/NPCs/Rahadin (COS).md|Rahadin (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

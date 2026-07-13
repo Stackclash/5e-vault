@@ -22,6 +22,19 @@ tags:
 locations:
   - "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 fc-end: 973-2-17
+session_number: 13
+party_present:
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
+  - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
+  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
+  - "[[4. World Almanac/NPCs/Rahadin (COS).md|Rahadin (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

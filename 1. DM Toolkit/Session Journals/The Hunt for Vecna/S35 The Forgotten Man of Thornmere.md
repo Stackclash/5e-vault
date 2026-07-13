@@ -15,6 +15,13 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
+session_number: 35
+party_present:
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Eamon Morcant.md|Eamon Morcant]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

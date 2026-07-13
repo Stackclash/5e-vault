@@ -16,6 +16,11 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Places of Interest/Yester Hill.md|Yester Hill]]"
+session_number: 30
+party_present: []
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

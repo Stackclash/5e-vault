@@ -4,6 +4,11 @@ summary: Went over theme of campaign and characters.
 party: '[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]'
 tags:
   - session-journal
+session_number: 0
+party_present: []
+npcs: []
+quests: []
+items: []
 ---
 
 # Dungeon Master Statements/Questions

@@ -18,6 +18,12 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
+session_number: 22
+party_present: []
+npcs:
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

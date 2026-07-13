@@ -8,6 +8,7 @@ resources:
 population: 100
 terrain:
 rulers:
+  - "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich (COS)]]"
 government:
 army:
 religions:

@@ -18,6 +18,14 @@ locations:
   - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 calendar: Eldoria Calendar
 fc-end: 973-2-11
+session_number: 1
+party_present:
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

@@ -15,6 +15,13 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+session_number: 34
+party_present:
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

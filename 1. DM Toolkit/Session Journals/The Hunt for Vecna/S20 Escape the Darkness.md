@@ -22,6 +22,14 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
+session_number: 20
+party_present:
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Exethanter (COS).md|Exethanter (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

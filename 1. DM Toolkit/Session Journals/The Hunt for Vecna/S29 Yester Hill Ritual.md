@@ -17,6 +17,12 @@ tags:
 locations:
   - "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
   - "[[4. World Almanac/Places of Interest/Yester Hill.md|Yester Hill]]"
+session_number: 29
+party_present:
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

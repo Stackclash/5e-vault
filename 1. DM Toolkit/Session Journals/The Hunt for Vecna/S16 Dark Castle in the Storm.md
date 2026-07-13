@@ -28,6 +28,18 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]"
+session_number: 16
+party_present:
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Vladimir Horngaard (COS).md|Vladimir Horngaard (COS)]]"
+  - "[[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md|Ezmerelda Davenir (COS)]]"
+  - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
+  - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
+  - "[[4. World Almanac/NPCs/Savid (COS).md|Savid (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

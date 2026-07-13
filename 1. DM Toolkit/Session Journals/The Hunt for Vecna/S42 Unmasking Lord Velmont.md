@@ -17,6 +17,14 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+session_number: 42
+party_present:
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Wisp.md|Wisp]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Lord Caldris Velmont.md|Lord Caldris Velmont]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

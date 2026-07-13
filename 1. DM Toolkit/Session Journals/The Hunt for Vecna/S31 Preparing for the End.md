@@ -17,6 +17,17 @@ tags:
 locations:
   - "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+session_number: 31
+party_present:
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md|Ezmerelda Davenir (COS)]]"
+  - "[[4. World Almanac/NPCs/The Abbot (COS).md|The Abbot (COS)]]"
+  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

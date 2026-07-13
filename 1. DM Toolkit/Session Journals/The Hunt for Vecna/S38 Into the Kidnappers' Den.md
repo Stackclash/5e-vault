@@ -14,6 +14,12 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+session_number: 38
+party_present:
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

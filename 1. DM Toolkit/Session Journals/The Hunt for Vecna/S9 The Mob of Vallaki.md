@@ -20,6 +20,15 @@ tags:
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 fc-end: 973-2-15
+session_number: 9
+party_present:
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

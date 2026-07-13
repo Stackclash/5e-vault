@@ -18,6 +18,14 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
+session_number: 23
+party_present:
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md|Baba Lysagas Creeping Hut (COS)]]"
+  - "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

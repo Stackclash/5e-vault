@@ -15,6 +15,13 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Krezk.md|Krezk]]"
+session_number: 26
+party_present:
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+npcs: []
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

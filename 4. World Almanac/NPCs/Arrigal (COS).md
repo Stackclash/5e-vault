@@ -17,7 +17,7 @@ relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 pronounced: AH-ri-gal
-race: null
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 35
 occupation:

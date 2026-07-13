@@ -23,6 +23,16 @@ locations:
   - "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 fc-end: 973-2-16
+session_number: 10
+party_present: []
+npcs:
+  - "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md|Ismark Kolyanovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Gertruda (COS).md|Gertruda (COS)]]"
+  - "[[4. World Almanac/NPCs/Mad Mary (COS).md|Mad Mary (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info

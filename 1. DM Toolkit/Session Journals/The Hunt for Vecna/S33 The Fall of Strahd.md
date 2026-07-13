@@ -15,6 +15,16 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+session_number: 33
+party_present:
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md|Ezmerelda Davenir (COS)]]"
+  - "[[4. World Almanac/NPCs/Nikolai Wachter (COS).md|Nikolai Wachter (COS)]]"
+  - "[[4. World Almanac/NPCs/Emil Toranescu (COS).md|Emil Toranescu (COS)]]"
+  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
+quests: []
+items: []
 ---
 > [!infobox]
 > ## Info
