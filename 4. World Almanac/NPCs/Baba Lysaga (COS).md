@@ -23,9 +23,21 @@ pronounced: BAH-bah LEE-sah-gah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 532
-occupation: null
+occupation: []
 groups: []
 religions: []
+description: >-
+  A hunched, ancient crone with skin like stone and eyes that have watched
+  Strahd's entire existence — she is powerful, unkillable by ordinary means,
+  and utterly consumed by devotion to a son who has never once called her
+  mother.
+history: >-
+  Baba Lysaga was midwife to Strahd's birth and secretly believes herself his
+  true mother, having placed the "spark of magic" in him as a baby and sung
+  over his crib on stormy nights. Queen Ravenovia banished her for it, and
+  Lysaga never saw Strahd again — yet she followed him to Barovia and has
+  lived in its shadow ever since, sacrificing to Mother Night for the power
+  to protect him from every threat, real or imagined.
 personality: 'Mad, obsessed, powerful'
 ideal: No love is greater than a mother's love for her son.
 bond: I am the mother of Strahd. Anyone who disputes this fact can rot.

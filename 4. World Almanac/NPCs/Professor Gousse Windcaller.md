@@ -48,7 +48,8 @@ flaw: His curiosity can lead him to pursue dangerous magical phenomena longer th
 goals: Study the magical surge reported in Barovia, Improve the Institute’s planar research capabilities, Develop safer conjuration techniques for summoning and portal magic
 likes: rare planar phenomena, complex magical theory, quiet observation, aerial views of the city from the Institute towers
 dislikes: careless spellcasting, summoners who treat extraplanar beings as disposable tools, magical experiments conducted without proper preparation
-partyRelationships: {}
+partyRelationships:
+  Midnight Covenant: Ally
 ---
 
 > [!infobox]

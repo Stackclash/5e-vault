@@ -13,24 +13,40 @@ images:
 aliases:
   - Gertruda
 alignment: Neutral Good
+description: >-
+  Gertruda is a sheltered teenage girl, kept hidden from the world her
+  entire life by her overprotective mother, [[Mad Mary (COS)|Mad Mary]].
+  Years as a shut-in have left her naive to the point of real danger,
+  prone to viewing life through a fairy-tale lens.
 relationships: []
 partyRelationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-pronounced: null
+pronounced: ger-TROO-dah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: null
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Innocent, naive, and dangerously trusting; views the world through a fairy-tale lens after a lifetime of confinement'
+ideal: The world outside must be as wonderful as I've always imagined.
+bond: 'Her mother, Mary, who loved her so fiercely she never let her leave home'
+flaw: 'She always takes the simplest, most trusting path — even when it endangers her.'
+goals: 'To see the world beyond her mother''s locked doors and taste the freedom she has always dreamed of'
+likes: 'Fairy tales, pretty things, the idea of adventure and romance'
+dislikes: 'Being confined, being treated like a child, gloom and despair'
+history: >-
+  Gertruda's mother hid her away in their Barovia townhouse for her whole
+  life, fearful of the horrors that stalk the village at night. A week
+  before the adventurers typically arrive, Gertruda finally slipped out of
+  the house she had never been allowed to leave, drawn by curiosity toward
+  the wider world — and toward Castle Ravenloft itself, whose distant
+  majesty had always captivated her. She has not been seen in the village
+  since, and her mother fears the worst. In truth, Gertruda reached the
+  castle, where Strahd has charmed her and installed her in a bedchamber
+  of her own; oblivious to her peril, she awaits whatever the vampire
+  intends for her next.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -62,7 +78,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 68*
 
-TBD
+Gertruda is a sheltered teenage girl, kept hidden from the world her entire life by her overprotective mother, [[Mad Mary (COS)|Mad Mary]]. Years as a shut-in have left her naive to the point of real danger, prone to viewing life through a fairy-tale lens.
+
+## A Childhood Behind Locked Doors
+
+Mary hid Gertruda in their townhouse (area E3) for the girl's entire life, refusing to let her set foot outside. Gertruda broke out of the house a week before the adventurers typically arrive and has not been seen since; her mother fears the worst, and is justified in doing so.
+
+## Vanished
+
+Gertruda made her way to Castle Ravenloft, drawn by its majesty. There Strahd has charmed her, and she now lies obliviously in a bedchamber within the castle (area K42), unaware of the danger she is in — Strahd has not yet bitten her, though he intends to.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

@@ -17,19 +17,31 @@ relationships: []
 partyRelationships: {}
 location: null
 pronounced: null
-race: null
+race: Animated Construct
 gender: null
 age: null
 occupation: []
 groups: []
 religions: []
-personality: null
+personality: >-
+  None — a mindless construct that obeys only its master's commands, or its
+  last order if its master is gone.
 ideal: null
 bond: null
 flaw: null
-goals: null
+goals: "Continue its last order: patrol Castle Ravenloft's parapets and outer walls, day and night."
 likes: null
 dislikes: null
+description: >-
+  A headless suit of burgundy plate armor adorned with golden angelic
+  motifs, animated by a sliver of Strahd's own malevolent will.
+history: >-
+  Strahd wore this armor into battle in life; in undeath he imbued it with a
+  sliver of his own being and fortified it as a permanent defender of Castle
+  Ravenloft. It understands Common but obeys only its master's commands —
+  animated objects that lose their master simply follow the last order they
+  received, so with Strahd gone it likely still walks the parapets on an
+  eternal, masterless patrol.
 ---
 > [!infobox]
 > # `=this.file.name`

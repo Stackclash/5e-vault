@@ -16,19 +16,42 @@ relationships: []
 partyRelationships: {}
 location: null
 pronounced: null
-race: null
-gender: null
+race: Deva (celestial)
+gender: male
 age: null
-occupation: []
+occupation:
+  - Master of the Abbey of Saint Markovia
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: >-
+  Serene, paternal, and soft-spoken on the surface; underneath, prideful and
+  utterly convinced of his own goodness no matter what he does in its name.
+ideal: >-
+  I want to rid Barovia of its sickness. By giving the devil his heart's
+  desire, I bring salvation to him and his land.
+bond: I love the creatures I create, including my beautiful golems and mongrelfolk.
+flaw: I can't be corrupted. My heart is pure, my intentions noble and good.
+goals: >-
+  To cure Strahd's "malady" by reuniting him with a bride built from the
+  dead, believing this will finally lift Barovia's curse.
+likes: 'Healing the sick, refining his creations, being thanked for his good works'
+dislikes: 'Being doubted, imperfection, anything that reminds him of his fall from grace'
+description: >-
+  A strikingly handsome human priest in his late twenties or early thirties —
+  in truth a deva, an angel who has walked Barovia for over a century.
+history: >-
+  Sent from the Upper Planes to honor the legacy of Saint Markovia, the Abbot
+  reopened her abbey in Krezk and spent decades tending the sick, believing he
+  could bring Barovia some small measure of light. When the sickly, inbred
+  Belview family came seeking a cure, his healing gave way to a prideful
+  obsession with perfecting them, and a Barovian lord who called himself
+  Vasili von Holtz — Strahd in disguise — supplied him with forbidden lore
+  from the Amber Temple to finish the job, transforming the Belviews into
+  mongrelfolk. Strahd then confided his "curse" to the Abbot and let the deva
+  believe reuniting him with his lost love could end it. The Abbot is now
+  convinced the cure is a bride stitched together from the bodies of dead
+  women, and has completed a flesh golem he is teaching etiquette so she can
+  be presented to Strahd — corrupted, but still unable to see it in himself.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -60,7 +83,37 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 151*
 
-TBD
+No creature in Barovia is older than the master of the Abbey of Saint Markovia in Krezk. This nameless holy figure, whom others call the Abbot, was drawn to the abbey after Saint Markovia died by Strahd's hand. He sought to restore the abbey after it fell to corruption, but was himself corrupted.
+
+## Angel in Disguise
+
+The Abbot is a deva that has lived for millennia. He typically assumes the form of a strikingly handsome human priest in his late twenties or early thirties. More than a hundred years ago, the deva was sent from the Upper Planes to honor the legacy of Saint Markovia. He reopened the abbey and began tending to the physically and mentally ill, hoping to bring some much-needed light to Barovia. His efforts worked for a while, but then the Dark Powers began to corrupt him.
+
+## Imperfections
+
+The Abbot's fall from grace started when the Belviews — a family of sickly, inbred lepers — came to the abbey seeking salvation. The deva rid them of their diseases, but could not cure them of certain human defects present since birth. The Abbot became consumed with a prideful, obsessive desire to rid the poor Belviews of their lingering imperfections. The Belviews, however, had strange ideas of what it meant to be perfect — they craved bestial traits, and the Abbot, taking pity on them, yielded to their mad desires.
+
+## Enter Vasili von Holtz
+
+The Abbot's early experiments proved fatal to their subjects, but the Belviews insisted he keep trying. One day, a Barovian lord named Vasili von Holtz visited the abbey. The Abbot knew at once the man was evil, but von Holtz stressed he only wanted to help. He furnished the Abbot with forbidden lore plucked from the Amber Temple, then helped him transform the Belviews into mongrelfolk — maniacal humans with bestial deformities and traits. Only then did von Holtz reveal himself to be [[Strahd Von Zarovich (COS)|Strahd von Zarovich]].
+
+## Bride of Strahd
+
+Strahd confided in the Abbot, lamenting his curse and claiming he wished nothing more than to escape Barovia. The Abbot set for himself the goal of finding a cure, and is now convinced it lies in reuniting Strahd with his lost love. He has completed work on a flesh golem bride made from the body parts of dead women, and is giving his creation lessons in etiquette so "she" can be formally presented to Strahd. Strahd has no interest in a flesh golem bride, but enjoys corrupting this once-angelic being and driving the Abbot to commit further acts of depravity.
+
+## The Abbot's Traits
+
+### Ideal
+
+"I want to rid Barovia of its sickness. By giving the devil his heart's desire, I bring salvation to him and his land."
+
+### Bond
+
+"I love the creatures I create, including my beautiful golems and mongrelfolk."
+
+### Flaw
+
+"I can't be corrupted. My heart is pure, my intentions noble and good."
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

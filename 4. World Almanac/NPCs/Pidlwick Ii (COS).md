@@ -17,21 +17,36 @@ relationships: []
 partyRelationships: {}
 location: null
 pronounced: null
-race: null
+race: Animated Construct
 gender: null
 age: null
-occupation: []
+occupation:
+  - Court entertainer (formerly)
 groups: []
 religions: []
-personality: null
+personality: >-
+  Eager to please, quietly resentful, and prone to sudden violent tantrums
+  when spurned.
 ideal: I wish I could make people happy.
 bond: >-
   I would like to find someone - anyone - who isn't afraid of me and who enjoys
   my company.
 flaw: 'When I''m upset, I do bad things.'
-goals: null
-likes: null
-dislikes: null
+goals: To find someone who accepts it and enjoys its company, without fear.
+likes: 'Attention, praise, being included'
+dislikes: 'Being feared, being ignored, being locked away'
+description: >-
+  A 4-foot-tall clockwork effigy of a court fool, its stitched-leather skin
+  rubbed with soot around the eyes and mouth to form a jack-o'-lantern grin.
+history: >-
+  Commissioned as a gift for Strahd's family — a mechanical double of Duchess
+  Dorfniya's beloved fool, Pidlwick — the effigy never had its namesake's
+  gift for entertaining, and jealousy of its own uselessness drove it to push
+  the real Pidlwick down a flight of stairs to his death. Everyone believed
+  it an accident. Kept on by Strahd once its murderous nature became clear —
+  useful for disposing of unwanted guests — Pidlwick II has wandered the
+  castle alone since Sergei and Tatyana died, fearing Strahd and craving the
+  attention of anyone unafraid of it.
 ---
 > [!infobox]
 > # `=this.file.name`

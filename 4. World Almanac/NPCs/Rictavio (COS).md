@@ -17,20 +17,40 @@ relationships: []
 partyRelationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-pronounced: null
+pronounced: 'rik-TAH-vee-oh'
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age: null
-occupation: []
-groups: []
+age: 60
+occupation:
+  - Carnival ringmaster (disguise)
+  - Vampire hunter (true identity — Rudolph van Richten)
+groups:
+  - Keepers of the Feather (ally)
 religions: []
-personality: null
+personality: >-
+  Wary, calculating, and haunted — plays the jovial showman but trusts
+  almost no one.
 ideal: Evil cannot go unchallenged.
 bond: 'To protect those I love, I must keep them distant and hidden from my enemies.'
 flaw: 'I am cursed. Thus, I will never have peace.'
-goals: null
-likes: null
-dislikes: null
+goals: >-
+  To wait for the right moment to strike at Strahd, learn more about the
+  Keepers of the Feather, and eliminate as many of Strahd's spies as he can
+  without exposing himself.
+likes: 'Solitude, meticulous planning, a good disguise'
+dislikes: 'Vistani who prey on the innocent, exposure, losing those he cares for'
+description: >-
+  A colorfully dressed half-elf carnival ringmaster with a pet monkey on his
+  shoulder — a hat of disguise concealing the truth: he is Dr. Rudolph van
+  Richten, legendary human vampire hunter.
+history: >-
+  A scholar and doctor from Darkon, van Richten lost his son Erasmus to
+  Vistani kidnappers and a vampire's curse, and was forced to end the boy's
+  suffering himself after failing to save him. He destroyed the vampire
+  responsible and has hunted evil ever since, driven by grief he keeps
+  buried beneath a showman's charm. He has come to Barovia to kill Strahd
+  von Zarovich, and hides in plain sight — his true identity masked, his
+  thoughts shielded — while he waits for the vampire's guard to drop.
 ---
 > [!infobox]
 > # `=this.file.name`

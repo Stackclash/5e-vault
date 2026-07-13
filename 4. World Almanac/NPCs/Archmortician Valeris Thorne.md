@@ -32,7 +32,8 @@ flaw: Emotionally detached.
 goals: Unlock the secrets of immortality without corruption.
 likes: anatomy, quiet laboratories
 dislikes: superstition
-partyRelationships: {}
+partyRelationships:
+  Midnight Covenant: Acquaintance
 ---
 
 > [!infobox]

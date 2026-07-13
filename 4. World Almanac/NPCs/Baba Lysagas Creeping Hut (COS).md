@@ -17,19 +17,31 @@ relationships: []
 partyRelationships: {}
 location: null
 pronounced: null
-race: null
+race: Animated Construct
 gender: null
 age: null
 occupation: []
 groups: []
 religions: []
-personality: null
+personality: >-
+  None — a mindless construct with no will of its own beyond Baba Lysaga's
+  commands.
 ideal: null
 bond: null
 flaw: null
-goals: null
+goals: 'Whatever Baba Lysaga commands — historically, guarding her and attacking intruders at the Ruins of Berez.'
 likes: null
 dislikes: null
+description: >-
+  A gargantuan, ramshackle wooden hut on huge spidery roots, animated by a
+  stolen magic gem — now inert since the gem was torn from it.
+history: >-
+  Baba Lysaga built the hut atop the rotted stump of a long-felled giant tree,
+  giving it a crude semblance of life only after embedding a stolen magic
+  gemstone — one of three that once kept the Wizard of Wines vineyard
+  flourishing — in a cavity beneath its floorboards. Whenever she willed it,
+  the hut tore its roots free and stalked the Ruins of Berez as her guardian
+  and war engine. The gem has since been torn out and the hut left inert.
 ---
 > [!infobox]
 > # `=this.file.name`

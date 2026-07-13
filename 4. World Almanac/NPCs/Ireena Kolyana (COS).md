@@ -13,24 +13,46 @@ images:
 aliases:
   - Ireena Kolyana
 alignment: Lawful Good
+description: >-
+  Ireena Kolyana is a striking young noblewoman with auburn hair, the
+  adopted daughter of the late burgomaster Kolyan Indirovich. She carries
+  herself with quiet, strong-willed dignity despite the terror Strahd has
+  already visited on her twice.
 relationships: []
 partyRelationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-pronounced: null
+pronounced: ee-REE-nah kohl-YAH-nah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: null
-occupation: []
+occupation:
+  - Noblewoman
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Outwardly mild and gentle, but possessed of a strong will and quiet courage; insists on helping however she can rather than being merely protected'
+ideal: I won't be a passive victim in whatever fate the vampire has planned for me.
+bond: 'Her father Kolyan, who took in a memory-less stranger and loved her as his own daughter, and her brother Ismark, who has never left her side'
+flaw: 'She trusts too easily those who offer her protection, even when she knows little about them.'
+goals: 'To see her father properly buried, then find someplace beyond Strahd''s reach — while helping however she can against the vampire who hunts her'
+likes: 'Her father''s memory, quiet moments of normalcy, those who treat her as a person and not a prize'
+dislikes: 'Being coddled or hidden away, the villagers'' fearful avoidance of her, the fog that never seems to lift'
+history: >-
+  Ireena has no memory of her life before Kolyan Indirovich found her,
+  alone and lost, at the edge of the Svalich Woods near the Pillarstone of
+  Ravenloft. He took her in and raised her as his own, and she grew up
+  alongside his son [[Ismark Kolyanovich (COS)|Ismark]], never knowing her
+  true parentage. Unbeknownst to nearly everyone in Barovia — herself
+  included — Ireena carries the same soul as Tatyana, the woman Strahd
+  loved and lost centuries ago, and is in every way that matters to him
+  her reincarnation. Strahd visited the Kolyanovich mansion nightly for
+  weeks, biting her twice, and means to make her his bride and turn her
+  into a vampire. The nightly assaults of wolves and worse besieging the
+  mansion broke her adoptive father's heart, and he died three days before
+  the party's arrival — at which point the attacks curiously stopped.
+  Ireena refuses to leave Barovia until her father is given a proper
+  burial, and she knows she cannot remain safe within Castle Ravenloft's
+  shadow much longer.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -62,7 +84,19 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 44*
 
-TBD
+Ireena Kolyana is a striking young noblewoman with auburn hair, the adopted daughter of the late burgomaster Kolyan Indirovich. She carries herself with quiet, strong-willed dignity despite the terror Strahd has already visited on her twice.
+
+## A Stranger to Herself
+
+Ireena doesn't remember her early past. She doesn't know how she came to Barovia or where she came from, and her encounters with Strahd are fuzzy memories thanks to his vampiric charm — though she recalls clearly the blazing hunger in his eyes. Although she appears mild, she has a strong will, and aids the party as best she can in saving herself rather than waiting passively to be rescued.
+
+## Strahd's Obsession
+
+Strahd has visited the burgomaster's mansion night after night for weeks, drawn by Ireena's uncanny resemblance to Tatyana, his beloved from centuries past. He intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts forever. Wolves and other terrible creatures attacked the house night after night as a result — an assault that finally broke her adoptive father's heart.
+
+## Kolyan Indirovich's Death
+
+Kolyan Indirovich died three days before the party's arrival; strangely, the attacks on the house stopped the moment he passed. Ireena and her brother [[Ismark Kolyanovich (COS)|Ismark]] built his coffin themselves, and she refuses to be taken to Vallaki or anywhere else while her father still lies unburied in the mansion. She asks any visitors she trusts to help Ismark deliver her father's body safely to [[Donavich (COS)|Donavich]], the village priest.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

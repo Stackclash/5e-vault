@@ -13,23 +13,49 @@ images:
 aliases:
   - Yevgeni Krushkin
 alignment: Neutral
+description: >-
+  A grim, weather-beaten hunter with haunted eyes, Yevgeni wears a wolfskin
+  cloak stitched with a new pelt swatch for every kill. He rarely speaks
+  first, and when he does, it's usually just an echo of whatever his
+  partner Szoldar already said.
+history: >-
+  Yevgeni Krushkin is one of Vallaki's two resident wolf hunters, working
+  the Svalich Woods alongside his grim partner [[Szoldar Szoldarovich
+  (COS)|Szoldar Szoldarovich]]. The pair kill wolves and sell the meat for
+  a living — dangerous, bloody work that has left both men haunted. They
+  frequent the [[Blue Water Inn]] between hunts and, for the right price,
+  will guide outsiders through the valley by daylight; neither will
+  venture out after dark except for an exorbitant fee, knowing too well
+  what truly walks these woods at night.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+pronounced: yev-GEH-nee KROOSH-kin
 race: "[[5. Mechanics/Races/Human.md|Human]]"
-gender: null
+gender: male
 age: null
-occupation: []
-groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+occupation:
+  - Wolf hunter
+  - Wilderness guide
+groups:
+  - Vallaki wolf hunters
+religions:
+  - The Morninglord
+personality: 'Grim, taciturn, quietly haunted'
+ideal: >-
+  Barovia doesn't forgive the unprepared — better to face the wolves you can
+  see than the things that watch from the fog.
+bond: >-
+  His hunting partner, [[Szoldar Szoldarovich (COS)|Szoldar Szoldarovich]],
+  is the only one who understands what these woods have cost him.
+flaw: He drowns what he's seen in the Blue Water Inn's cheapest wine.
+goals: >-
+  To keep his family fed and Vallaki's wolves thinned, one pelt at a time
+likes: >-
+  A warm fire, the company of Szoldar, coin for an honest day's guiding
+dislikes: >-
+  Traveling the woods after dark, empty tankards, talk of what really
+  killed the game he finds gutted in the snow
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +87,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 100*
 
-TBD
+Yevgeni Krushkin is a local hunter of [[Vallaki]] — grim, quiet, and marked by years spent tracking wolves through the Svalich Woods.
+
+## The Wolf Hunters
+
+Yevgeni and his hunting partner, [[Szoldar Szoldarovich (COS)|Szoldar Szoldarovich]], kill wolves and sell the meat for a living. It's dangerous, bloody work, and both men carry the haunted look of people who have seen more of Barovia's dark than they ever wanted to. Szoldar keeps a notch in his bow for every kill; Yevgeni sews a new swatch of fur onto his wolfskin cloak for his own. Most of the wolf heads mounted on the walls of the [[Blue Water Inn]] are their handiwork. Both men have families in Vallaki but spend most of their free time together, either hunting in the woods or drowning their sorrows at the inn.
+
+## At the Blue Water Inn
+
+Yevgeni and Szoldar are dour company, but they seldom pass up a chance to earn coin. They're willing to serve as guides for travelers — 5 gp a day — or simply give directions to landmarks in exchange for free drinks, provided the sun is up. Ask them to go out after dark and they refuse outright unless the price climbs to something they consider foolish: a hundred gold pieces or more. Neither man believes anything in "this cursed realm" is worth facing after dark for less. On the rare occasions he has something to say, Yevgeni usually just echoes whatever Szoldar has already said, in fewer words.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

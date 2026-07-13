@@ -32,7 +32,8 @@ flaw: Enjoys secrets too much.
 goals: Push illusion magic into new philosophical territory.
 likes: theater, practical jokes
 dislikes: rigid thinking
-partyRelationships: {}
+partyRelationships:
+  Midnight Covenant: Acquaintance
 ---
 
 > [!infobox]

@@ -13,23 +13,55 @@ images:
 aliases:
   - Patrina Velikovna
 alignment: Neutral Evil
+description: >-
+  In life, a striking dusk elf archmage whose command of the black arts
+  nearly matched Strahd's own; in death, a shrieking, spectral banshee
+  bound to her crypt, wailing with the horror of her undeath.
+history: >-
+  Patrina seduced Strahd centuries ago with the promise of immortality,
+  revealing the Amber Temple's secrets to him — only to be cast aside when
+  he fell for Tatyana instead. She returned after Strahd's curse began,
+  hoping to share in his new power, and asked him to make her his dark
+  bride. Before he could finish draining her life, her own people stoned
+  her to death to deny Strahd his prize. Strahd entombed her body in
+  Castle Ravenloft's catacombs, where she rose as a banshee, and ordered
+  his chamberlain Rahadin to slaughter the dusk elf women and mutilate her
+  brother Kasimir for his role in her death. She now speaks to Kasimir in
+  dreams, claiming a repentance she does not feel, hoping he will find a
+  way to restore her to life and power.
 relationships: []
 partyRelationships: {}
 location: null
-pronounced: null
-race: null
-gender: null
+pronounced: puh-TREE-nuh vel-ih-KOV-nuh
+race: Dusk Elf
+gender: female
 age: null
-occupation: []
-groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+occupation:
+  - Archmage
+  - Would-be bride of Strahd von Zarovich
+groups:
+  - Dusk elves of Barovia
+religions:
+  - The nameless god of secrets
+personality: >-
+  Ambitious and coldly manipulative, masking a ruthless hunger for power
+  behind a veneer of contrition and love.
+ideal: >-
+  Power is the only love worth pursuing — and I will have Strahd's, one way
+  or another.
+bond: >-
+  My brother Kasimir still believes in my redemption — a belief I will use
+  for as long as it serves me.
+flaw: >-
+  I am no one's plaything, but pride and hunger for power have doomed me
+  twice already.
+goals: >-
+  To be restored to life, return to Castle Ravenloft, and claim her place
+  as Strahd's bride at last — avenging herself on Rahadin along the way.
+likes: 'Forbidden magic, flattery, being underestimated'
+dislikes: >-
+  Rahadin, her own people's cowardice, being denied power she believes she
+  deserves
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +93,25 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 89*
 
-TBD
+Patrina Velikovna was a dusk elf of prodigious and dangerous ambition — a student of the black arts whose power nearly rivaled [[Strahd Von Zarovich (COS)|Strahd]]'s own, long before he became a vampire.
+
+## The Seduction
+
+Patrina came to Castle Ravenloft and set her sights on Strahd, dangling before him the one thing he desired above all: immortality. She told him of [[The Amber Temple]], the ancient vault hidden in the Balinok Mountains where the secret to eternal power was said to be hidden. Intrigued and suspicious in equal measure, [[Rahadin (COS)|Rahadin]], Strahd's chamberlain, watched her carefully — but while Strahd was away exploring the temple she had revealed to him, it was Rahadin who found the woman who would truly steal Strahd's heart: Tatyana. When Strahd returned and fell for Tatyana instead, Rahadin had the pleasure of telling Patrina that her presence at the castle was no longer wanted.
+
+## Return and Ruin
+
+Years later, word reached the Vistani camps where Patrina's people had settled that Tatyana was dead and that Strahd had become a vampire, cursed to rule Barovia forever. Ageless herself, Patrina returned to Ravenloft, hoping this time to win what she had failed to win before — not Strahd's love, which she no longer expected, but a share of his power. She asked Strahd to solemnize a dark marriage between them, and — drawn to her knowledge and ambition — he agreed.
+
+Before Strahd could drain the last of her life and complete the transformation, Patrina's own people rose up and stoned her to death, an act of mercy meant to deny Strahd his bride. Strahd was furious at being cheated of his prize. He claimed her body and entombed it within the catacombs of [[Castle Ravenloft]] — Crypt 21, marked simply *Patrina Velikovna — Bride*. As punishment for the stoning, Strahd sent Rahadin to slaughter the dusk elf women so they could never breed again, and to mutilate Patrina's own brother, [[Kasimir Velikov (COS)|Kasimir]], who had organized her death.
+
+## The Banshee in Crypt 21
+
+Patrina's spirit could not rest. She rose in her crypt as a [[5. Mechanics/Bestiary/Undead/Banshee.md|banshee]], wailing with a horror that claws at the soul of anyone who dares open her tomb. Destroying the banshee only discorporates her; she reforms in the crypt a day later, and only a [[5. Mechanics/Spells/Hallow.md|hallow]] spell cast on the crypt keeps her from returning. She will not find true rest until she is formally wed to Strahd — a fate Strahd himself no longer seems interested in granting her.
+
+## Dreams of the Damned
+
+For centuries, Patrina has reached out to Kasimir in dreams, insisting that years of guilt and regret have cleansed her soul of evil and begging him to free her from her eternal torment. Kasimir wants desperately to believe her. In truth, Patrina remains exactly what she always was: ambitious, manipulative, and hungry for power. If Kasimir ever secures the means to restore her to life — the dark gift of Zhudun, hidden within the Amber Temple — she will feign repentance only until her strength and spells return, then travel to Castle Ravenloft to try, once more, to become Strahd's vampire bride. She has not forgotten what Rahadin did to her brother, and would gladly use unwitting adventurers to settle that score along the way.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

@@ -35,6 +35,20 @@ flaw: I go where angels fear to tread.
 goals: 'To defeat Strahd, to become the greatest monster hunter in the land'
 likes: 'Knowledge about monsters, vanquishing evil, proving her skill and courage'
 dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
+description: >-
+  A capable, battle-scarred Vistana in her thirties, dressed for monster
+  hunting and missing her right leg below the knee to a werewolf's bite —
+  replaced by a well-crafted prosthetic she's long since adapted to.
+history: >-
+  As a girl, Ezmerelda watched her own family kidnap Rudolph van Richten's
+  teenage son and sell him to a vampire — a memory that haunted her into
+  running away from home at fifteen. She tracked van Richten down two years
+  later, talked her way past his blade, and spent two years at his side
+  learning to hunt monsters before their friendship frayed and they parted
+  ways. Since then she's built a small fortune of her own, and on hearing
+  that her old mentor had gone after Strahd himself, she followed him into
+  Barovia — only to find his tower abandoned and van Richten nowhere to be
+  found.
 ---
 > [!infobox]
 > # `=this.file.name`

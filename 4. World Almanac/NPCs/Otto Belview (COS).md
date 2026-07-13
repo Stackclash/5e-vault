@@ -13,23 +13,46 @@ images:
 aliases:
   - Otto Belview
 alignment: Any alignment
+description: >-
+  Otto stands 4 feet, 9 inches tall and squats rather than stands upright,
+  giving him the look of a beardless dwarf beneath patches of donkey
+  flesh. He has one human ear and one wolf's ear, a protruding wolf's
+  snout and fangs, human arms and hands, leonine legs and feet, and a
+  donkey's tail. He can barely speak Common, and his laugh sounds like a
+  donkey's bray.
+history: >-
+  Otto is one of the Belview family, transformed generations ago by
+  [[The Abbot (COS)|the Abbot]] at the family's own desperate request for
+  bestial "perfection." Along with his partner [[Zygfrek Belview
+  (COS)|Zygfrek Belview]], he is one of the few mongrelfolk trusted to
+  guard the abbey's north gate by day and dig up fresh graves in Krezk by
+  night — a task he performs poorly but with tremendous, oblivious
+  confidence.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
-occupation: []
-groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
+pronounced: OT-toh BEL-view
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 51
+occupation:
+  - Gate guard
+  - Gravedigger
+groups:
+  - Belview family
+religions:
+  - The Morninglord
+personality: 'Vain, dim-witted, good-natured despite the horror of it all'
+ideal: "I am the smartest, wisest, strongest, fastest, and most beautiful person I know."
+bond: >-
+  His partner in guarding and grave-robbing, [[Zygfrek Belview
+  (COS)|Zygfrek Belview]], is the only one who puts up with him.
+flaw: His delusions of grandeur make him painfully easy to flatter and manipulate.
+goals: To prove himself the finest gravedigger and guard the Abbey has ever known
+likes: Digging by moonlight, his plain wool cloak, being told how wonderful he is
+dislikes: Locked gates, empty graves, anyone who won't play along with his boasting
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +84,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 147*
 
-TBD
+Otto Belview is one of the Abbey of Saint Markovia's north gate guards — and, after dark, one of its gravediggers.
+
+## The Belview Family
+
+The Belviews came to the abbey generations ago, a family of sickly, inbred lepers begging for salvation. [[The Abbot (COS)|The Abbot]] — a deva in disguise — cured their leprosy, but no magic could mend the deeper imperfections bred into their bloodline, and his failure to perfect them became an obsession. The Belviews, though, never wanted to be ordinary: they begged him for the eyes of a cat, the wings of a bat, the strength of a mule, the guile of a snake. A traveling lord named Vasili von Holtz — secretly [[Strahd Von Zarovich (COS)|Strahd von Zarovich]] himself — supplied the Abbot with forbidden lore looted from the Amber Temple to finish what pity had started. The transformation left the family mad, mongrel, and strangely content. Most of them have lived — and been confined — as the abbey's mongrelfolk ever since.
+
+## Not So Good at Guarding
+
+Otto and his fellow guard [[Zygfrek Belview (COS)|Zygfrek Belview]] are loyal servants of [[The Abbot (COS)|the Abbot]], but neither is particularly vigilant — both are as likely to be found asleep under a pile of musty furs as awake at their post. By night, the pair cover themselves in nets woven from twigs and pine needles and slip down into Krezk to rob fresh graves for the Abbot's experiments. Otto's particular madness is a boundless, delusional vanity: he is, by his own unshakeable estimation, the smartest, wisest, strongest, fastest, and most beautiful person he knows.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

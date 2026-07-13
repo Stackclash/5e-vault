@@ -1,9 +1,14 @@
 {
   "pluginList": [
+    "Jareika/zoom-map",
     "hay-kot/obsidian-dnd-ui-toolkit",
     "xhuajin/obsidian-carousel"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "Jareika/zoom-map",
+      "version": ""
+    },
     {
       "repo": "hay-kot/obsidian-dnd-ui-toolkit",
       "version": "v0.18.0-feat-ability-block-templating.1"

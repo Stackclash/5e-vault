@@ -14,6 +14,16 @@ images:
 aliases:
   - Brom Martikov
 alignment: Lawful Good
+description: >-
+  Brom Martikov is the younger of Urwin and Danika’s two sons, a curious and
+  mischievous boy who helps around the [[Blue Water Inn]] and is too young
+  yet to know the full truth of what his family really is.
+history: >-
+  Brom has spent his whole life underfoot in his parents’ taproom, more
+  interested in pranks and stories than in his family’s secrets. He looks up
+  to his older brother [[Bray Martikov (COS)|Bray]] and tags along whenever
+  he’s allowed, chafing at being treated like a child even as he remains
+  blissfully unaware of just how dangerous the family business really is.
 relationships:
   - Urwin Martikov (COS)|father
 partyRelationships:
@@ -25,7 +35,8 @@ gender: male
 age: 13
 occupation:
   - Bar Assistant
-groups: []
+groups:
+  - Keepers of the Feather
 religions: []
 personality: 'Curious, playful, slightly mischievous'
 ideal: Adventure and discovery are the spices of life.
@@ -66,7 +77,10 @@ dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
-TBD
+Brom Martikov is the younger of [[Urwin Martikov (COS)|Urwin]] and [[Danika Dorakova (COS)|Danika]]'s two sons, more interested in pranks and adventure stories than in the family's carefully kept secrets.
+
+## Underfoot at the Inn
+Brom helps out where he can at the [[Blue Water Inn]] - fetching drinks, running messages between tables, and generally getting in the way - and tags along after his older brother [[Bray Martikov (COS)|Bray]] every chance he gets. He doesn't yet grasp the full truth of what the Martikovs are or what they're fighting, only that his parents worry more than they let on.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

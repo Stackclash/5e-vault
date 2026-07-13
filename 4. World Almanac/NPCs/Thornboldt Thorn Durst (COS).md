@@ -13,23 +13,52 @@ images:
 aliases:
   - Thornboldt "Thorn" Durst
 alignment: Lawful Good
+description: >-
+  Thorn appears just as he did in life: a small, wide-eyed seven-year-old boy
+  clutching a stuffed doll, prone to weeping and quick to hide behind his
+  older sister. As a ghost he retains every bit of that fragility — he
+  fights only when cornered, and mostly just wants to be left with his
+  sister and his toy.
+history: >-
+  Thorn was the younger child of Gustav and Elisabeth Durst, born into a
+  wealthy Barovian family whose secret cult conducted debauched rituals
+  beneath their townhouse in the village of Barovia. As their parents
+  descended into madness, Thorn and his sister Rose were told frightening
+  stories of a "monster" kept in the basement — a lie meant to keep the
+  children from the family's dungeon of horrors. Eventually Gustav and
+  Elisabeth locked the children in the attic and simply forgot about them;
+  Thorn and Rose starved to death there together, never understanding what
+  their family had truly done. His spirit now lingers in Death House
+  alongside Rose's: first as an innocent illusion the haunted house conjures
+  to lure travelers inside, and later — once his true, skeletal remains are
+  found — as a frightened but still childlike ghost who only wants to keep
+  his sister close.
 relationships: []
 partyRelationships: {}
 location: null
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced: 'THORN-bohlt DURST (called "Thorn")'
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 7
 occupation: []
-groups: []
+groups:
+  - Durst Family
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: >-
+  Timid and easily frightened, clinging to his sister Rose and his stuffed
+  doll for comfort; as a ghost he weeps and panics rather than fights, and
+  possessing a host leaves them jumpy and tearful
+ideal: "As long as Rose is with me, I don't have to be brave by myself."
+bond: My stuffed doll and my sister Rose are the only things I have left to hold on to.
+flaw: I'm scared of everything, including my own shadow, and weep with despair when things don't go my way.
+goals: >-
+  To stay close to Rose and never be left alone again — though what would
+  truly free him, unknowingly, is having his bones laid to rest in the Durst
+  family crypt beneath Death House.
+likes: His sister Rose, his stuffed doll, being comforted and reassured, familiar things left undisturbed
+dislikes: >-
+  The "monster" he believes lives in the basement, being alone or forgotten,
+  loud noises and sudden threats, strangers who frighten him
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +90,25 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 217*
 
-TBD
+Thornboldt "Thorn" Durst is the younger of the two ghost children who haunt [[/4. World Almanac/Places of Interest/Death House.md|Death House]] in the [[/4. World Almanac/Settlements/Village of Barovia.md|village of Barovia]] — a frightened seven-year-old boy who never once stopped believing his big sister [[/4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md|Rose]] could keep him safe, right up until they starved to death together.
+
+## A House of Secrets
+
+Long before Thorn was born, the wealthy Durst family used their townhouse to host a secret cult devoted to summoning malevolent extraplanar entities. As the cult's activities grew more depraved, Gustav and Elisabeth Durst warned their children never to go down to the basement, claiming a "monster" was kept trapped there. In truth, the sounds Thorn heard through the floorboards at night were the screams of the cult's sacrificial victims.
+
+## Locked Away and Forgotten
+
+As their parents spiraled further into madness — and after the birth and death of a stillborn third child, Walter — Thorn and Rose were locked in the attic and abandoned. Too young to understand what his family had done, Thorn starved to death clutching his stuffed doll, comforted to the end by his sister's presence.
+
+## A House That Won't Let Go
+
+Death House now conjures illusions of Thorn and Rose — living, weeping children in the street outside — to lure travelers into the house. These illusions don't know they aren't real, and vanish the moment they're harmed or forced back inside. The true ghost of Thorn lingers deeper in the house, in the room where he died (area 20), still clutching his doll; he knows full well that he's dead, and he fights only when cornered, panicking and weeping rather than pressing an attack. Like his sister, he is terrified of being abandoned again, and the only way to grant him peace is to lay his skeletal remains in his family crypt in the dungeon below.
+
+## Thornboldt "Thorn" Durst's Traits
+
+### Flaw
+
+"I'm scared of everything, including my own shadow, and weep with despair when things don't go my way."
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

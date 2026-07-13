@@ -17,14 +17,19 @@ relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
 location: null
-pronounced: null
+pronounced: 'RAH-hah-din'
 race: Dusk Elf
 gender: male
-age: null
-occupation: []
-groups: []
+age: 500
+occupation:
+  - Castle chamberlain
+  - General
+groups:
+  - Von Zarovich family (honorary)
 religions: []
-personality: null
+personality: >-
+  Cold, exacting, and utterly without mercy for weakness — a perfect
+  instrument of his master's will.
 ideal: Loyalty is everything.
 bond: >-
   I am a son of King Barov von Zarovich, and I will serve his son - my brother
@@ -32,9 +37,25 @@ bond: >-
 flaw: >-
   I have slain thousands of men. I will slaughter thousands more to preserve the
   von Zarovich legacy.
-goals: null
-likes: null
-dislikes: null
+goals: >-
+  To serve Strahd's interests perfectly in all things — historically, as
+  chamberlain and enforcer of Castle Ravenloft.
+likes: 'Order, discipline, being needed'
+dislikes: 'Incompetence, disloyalty, anything that threatens the von Zarovich legacy'
+description: >-
+  A towering, ancient dusk elf chamberlain whose mere presence carries the
+  howling screams of the thousands he has killed.
+history: >-
+  Exiled from his own people for refusing to bow to a corrupt prince, Rahadin
+  found a new lord in King Barov and helped him conquer the dusk elves
+  entirely, earning a place as an honorary member of the von Zarovich family.
+  He served as one of Strahd's generals through the wars, then as castle
+  chamberlain for centuries after — enforcing his master's exacting standards
+  on the terrified castle staff, disposing of unwanted women once Strahd
+  tired of them, and personally massacring the female dusk elves and
+  mutilating Kasimir Velikov after Patrina Velikovna's people stoned her to
+  death. His loyalty to Strahd never wavered in five hundred years of
+  service.
 ---
 > [!infobox]
 > # `=this.file.name`

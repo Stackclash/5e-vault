@@ -13,23 +13,39 @@ images:
 aliases:
   - Doru
 alignment: Neutral Evil
+description: >-
+  Doru is a gaunt, hollow-eyed young man trapped as a vampire spawn in the
+  undercroft beneath his father's church, his hands ending in wicked claws
+  and his mouth full of fangs. Starved of blood for over a year, he moves
+  in a crouch, eyes darting for any opening to feed.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+pronounced: DOR-oo
+race: Vampire Spawn
+gender: male
 age: null
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Tormented, ravenous, still driven by fragments of love for his father'
+ideal: I would not hurt my father, whatever I've become.
+bond: 'His father, Donavich, who still refuses to give up on him'
+flaw: 'The Hunger controls him; he cannot resist fresh blood for long.'
+goals: 'To feed, to escape the undercroft, and — in some flickering human corner of his mind — to be released from this half-life'
+likes: 'Blood, the sound of his father''s voice, freedom from his chains'
+dislikes: 'Sunlight, running water, the starvation his father has imposed on him'
+history: >-
+  A little more than a year ago, twenty-year-old Doru and several other
+  villagers were lured to Castle Ravenloft by a mysterious wizard in black
+  robes who promised to help them rise up against Strahd. The revolt
+  failed; the wizard died at Strahd's hand, and so did Doru — who returned
+  to his father's doorstep as a vampire spawn. Unable to bring himself to
+  destroy his own son, [[Donavich (COS)|Donavich]] chained Doru in the
+  church's undercroft, where he has been imprisoned and unfed ever since.
+  Doru now spends his captivity crying out in hunger, tormenting his
+  father's prayers with inhuman screams, brave enough to attack a lone
+  intruder but wary of a group unless his escape is cut off.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +77,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 47*
 
-TBD
+Doru is a gaunt, hollow-eyed young man trapped as a vampire spawn in the undercroft beneath his father's church, his hands ending in wicked claws and his mouth full of fangs. Starved of blood for over a year, he moves in a crouch, eyes darting for any opening to feed.
+
+## The Doomed Revolt
+
+A little more than a year ago, twenty-year-old Doru and several other villagers were lured to Castle Ravenloft by a mysterious wizard in black robes who promised to help them rise up against Strahd. By all accounts the wizard died at Strahd's hand — and so did Doru, who returned to his father's doorstep as a vampire spawn.
+
+## Chained Beneath the Church
+
+Unable to bring himself to destroy his own son, [[Donavich (COS)|Donavich]] chained Doru in the church's undercroft (area E5g), where he has been imprisoned and unfed ever since. Doru is starved for blood and brave enough to attack a lone character, but if the party approaches as a group he does his best to avoid them, hissing "I can smell your blood!" If they cut off his escape, he lunges forth and attacks. If the party restrains him and either promises him blood or threatens to destroy him — or kills him and raises him from the dead — he recounts the story of his downfall.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

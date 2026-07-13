@@ -21,22 +21,47 @@ relationships:
 partyRelationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
-pronounced: null
+pronounced: UR-win MAR-ti-kov
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age: null
-occupation: null
-groups: []
+age: 36
+occupation:
+  - Innkeeper
+  - Cook
+groups:
+  - Keepers of the Feather
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
-description: null
-history: null
+personality: 'Warm, protective, quietly stubborn'
+ideal: A safe hearth and a full cup can hold back even Strahd’s darkness.
+bond: >-
+  His wife Danika, their sons Bray and Brom, and the Blue Water Inn he has
+  sworn to keep as a sanctuary.
+flaw: >-
+  His pride won’t let him admit fault to his father, even when reconciliation
+  matters more than being right.
+goals: >-
+  Clear his name in Davian’s eyes, keep the Blue Water Inn a safe haven for
+  Vallaki, and protect the Keepers of the Feather’s secret from Strahd and the
+  burgomaster alike.
+likes: >-
+  Good wine (even his family’s cheaper vintages), a full taproom, quiet nights
+  when no one needs saving
+dislikes: >-
+  Being blamed for the stolen gem, his father’s suspicion, watching Vallaki
+  suffer under the baron’s festivals
+description: >-
+  Urwin Martikov is the innkeeper of the [[Blue Water Inn]] in Vallaki and a
+  high-ranking member of the Keepers of the Feather, the secret society of
+  wereravens working against Strahd from within the town.
+history: >-
+  The middle son of [[Davian Martikov (COS)|Davian Martikov]], Urwin grew up
+  tending the family vineyard until, ten years ago, one of the winery’s three
+  magic gems was dug up and stolen while he stood watch. Davian became
+  convinced Urwin had shirked his duty to be with his betrothed, Danika, and
+  the two men have been at odds ever since; Urwin denies the accusation to
+  this day. He and Danika later married and left the winery to open the Blue
+  Water Inn in Vallaki, building it into both a sanctuary for frightened
+  locals and a covert waypoint for the Keepers of the Feather.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -68,7 +93,16 @@ history: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
-TBD
+Urwin Martikov keeps the [[Blue Water Inn]], Vallaki's main gathering place, and considers it a sanctuary from the horrors of Barovia. He is a wereraven and a high-ranking member of the Keepers of the Feather, the secret society working to undermine Strahd from the shadows.
+
+## Bad Blood
+Ten years ago, one of the Wizard of Wines' three magic gems vanished from the vineyard while Urwin stood watch. His father, [[Davian Martikov (COS)|Davian Martikov]], is certain Urwin shirked his duty to spend time with his betrothed, Danika, that night, and the two have been at odds ever since - Urwin and Danika now refer to Davian only as "the old crow." Urwin denies the accusation to this day, and the rift has kept him away from the family winery for years.
+
+## A Sanctuary in Vallaki
+Together with [[Danika Dorakova (COS)|Danika]], Urwin built the Blue Water Inn into more than a tavern: it is a safe harbor for frightened locals and a covert waypoint for the Keepers of the Feather. At any given time a handful of fellow wereravens linger at the inn, perched on the roof in raven form or resting inside in human guise. Urwin cooks the meals himself, while Danika runs the bar and their sons, [[Bray Martikov (COS)|Bray]] and [[Brom Martikov (COS)|Brom]], get underfoot.
+
+## Hidden Currents
+Urwin keeps a wary, curious eye on the town's dangers even as he plays the good-natured host - most recently a long-term guest calling himself Rictavio, unaware the man is the vampire hunter Rudolph van Richten in disguise.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

@@ -12,23 +12,42 @@ images: []
 aliases:
   - Marzena Belview
 alignment: Any alignment
+description: >-
+  Marzena stands 4 feet, 5 inches tall with a hunched, wary posture. Long,
+  stringy black hair hides much of her face, but her spider mandibles and
+  teeth are impossible to miss. She has the arms and leathery wings of a
+  bat and a cloven hoof in place of her right foot.
+history: >-
+  Marzena is one of the Belview family, transformed generations ago by
+  [[The Abbot (COS)|the Abbot]] at the family's own desperate request for
+  bestial "perfection." She is chained to a post in the abbey's courtyard,
+  convinced that unseen enemies watch her every move; only her brother
+  [[Clovin Belview (COS)|Clovin Belview]] can get close enough to feed
+  her.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
-occupation: []
-groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
+pronounced: mar-ZEH-nah BEL-view
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: female
+age: 32
+occupation:
+  - Abbey captive
+groups:
+  - Belview family
+religions:
+  - The Morninglord
+personality: 'Paranoid, skittish, feral'
+ideal: 'Trust no one — everyone is an agent sent to hunt you down.'
+bond: >-
+  Only [[Clovin Belview (COS)|Clovin Belview]] is allowed close enough to
+  feed her; he alone has never hurt her.
+flaw: Her paranoia is so consuming that she lashes out even at would-be rescuers.
+goals: To slip her chains and find somewhere no one is watching her
+likes: Solitude, open sky, being left alone
+dislikes: Strangers, being watched, sudden movement, cages
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -60,7 +79,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 150*
 
-TBD
+Marzena Belview is chained to a post in the courtyard of the Abbey of Saint Markovia, flapping and screaming at threats only she can see.
+
+## The Belview Family
+
+The Belviews came to the abbey generations ago, a family of sickly, inbred lepers begging for salvation. [[The Abbot (COS)|The Abbot]] — a deva in disguise — cured their leprosy, but no magic could mend the deeper imperfections bred into their bloodline, and his failure to perfect them became an obsession. The Belviews, though, never wanted to be ordinary: they begged him for the eyes of a cat, the wings of a bat, the strength of a mule, the guile of a snake. A traveling lord named Vasili von Holtz — secretly [[Strahd Von Zarovich (COS)|Strahd von Zarovich]] himself — supplied the Abbot with forbidden lore looted from the Amber Temple to finish what pity had started. The transformation left the family mad, mongrel, and strangely content. Most of them have lived — and been confined — as the abbey's mongrelfolk ever since.
+
+## Chained and Watching
+
+Marzena is skittish to the point of madness, convinced that powerful enemies hunt her and that their agents are everywhere. She doesn't let anyone near enough to unshackle her — if her chains are ever broken or unlocked, she flies off and never returns. The one exception is [[Clovin Belview (COS)|Clovin Belview]], who feeds her. She is the older sister of [[Mishka Belview (COS)|Mishka Belview]], chained nearby in the courtyard well.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

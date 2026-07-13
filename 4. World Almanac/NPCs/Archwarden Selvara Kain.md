@@ -28,7 +28,8 @@ flaw: Overly cautious and distrustful of outsiders.
 goals: Keep dangerous magic contained, Prevent magical disasters
 likes: structure, clear rules, defensive magic
 dislikes: reckless experimentation, illusionists
-partyRelationships: {}
+partyRelationships:
+  Midnight Covenant: Acquaintance
 description: |-
   Selvara Kain is tall and severe, with steel-gray hair braided tightly down her back and sharp, disciplined features. Her robes are layered with faintly glowing protective sigils stitched in silver thread, forming subtle warding patterns across the fabric.
 

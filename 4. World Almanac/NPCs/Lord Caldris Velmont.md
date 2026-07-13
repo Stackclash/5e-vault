@@ -39,7 +39,8 @@ flaw: Believes he is smarter than everyone else.
 goals: Expand the Institute’s influence over Bruokdon politics.
 likes: elegant parties, persuasion
 dislikes: unpredictability
-partyRelationships: {}
+partyRelationships:
+  Midnight Covenant: Disgruntled
 ---
 
 > [!infobox]

@@ -32,7 +32,8 @@ flaw: Burdened by visions she cannot always interpret.
 goals: Understand the Barovia arcane surge.
 likes: quiet meditation, prophecy
 dislikes: unpredictable chaos
-partyRelationships: {}
+partyRelationships:
+  Midnight Covenant: Acquaintance
 ---
 
 > [!infobox]

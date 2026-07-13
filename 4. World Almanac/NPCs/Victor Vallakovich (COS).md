@@ -13,24 +13,48 @@ images:
 aliases:
   - Victor Vallakovich
 alignment: Neutral Evil
+description: >-
+  A thin, awkward young man with a premature streak of gray in his dark
+  hair, Victor has abandoned his family in favor of a spellbook he found in
+  his father's library. He wants nothing more than to vanish through a
+  doorway of his own making and never see Barovia again.
+history: >-
+  Years ago Victor found an old spellbook hidden in the mansion's library
+  and began teaching himself magic in secret, eventually retreating to the
+  mansion's attic to avoid his mother's fussing and his father's
+  disapproving glares. His mother's rival, [[Lady Fiona Wachter (COS)|Lady
+  Fiona Wachter]], once tried to marry her daughter [[Stella Wachter
+  (COS)|Stella Wachter]] to him to gain a foothold in the burgomaster's
+  household, but Victor showed no interest in Stella and spoke to her so
+  cruelly that she lost her mind. He has since thrown himself entirely into
+  deciphering his spellbook's most advanced text: an incomplete
+  teleportation circle spell. He has already inscribed a flawed version of
+  the circle on his workroom floor and tested it twice on servants he
+  compelled with suggestion - both were torn apart and vanished in flashes
+  of purple light. Undeterred, Victor keeps refining the circle, certain
+  that escape from Barovia is only one working spell away.
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-pronounced: null
+pronounced: VIK-tor val-lah-KO-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age: null
-occupation: []
-groups: []
+age: 25
+occupation:
+  - Self-taught wizard
+groups:
+  - House Vallakovich
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: Awkward, reclusive, morbidly curious, alternates between sulking and cruelty
+ideal: There has to be a way out of this cursed valley, and he will find it, whatever the cost.
+bond: His flawed, half-built teleportation circle - his only hope of escaping Barovia forever
+flaw: >-
+  His reckless magical experiments have already gotten two servants killed,
+  and it hasn't given him a moment's pause
+goals: To perfect his teleportation circle and escape Barovia forever, abandoning his parents to their fate
+likes: Solitude, old spellbooks, dissecting the mechanics of magic, being left alone
+dislikes: His mother's relentless cheer, his father's disapproval, Stella Wachter, being disturbed while working
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -62,7 +86,19 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 105*
 
-TBD
+Victor Vallakovich is the burgomaster's strange, reclusive son - a self-taught mage who has all but vanished from his own family in favor of a spellbook, a locked attic workroom, and a desperate plan to escape Barovia forever.
+
+## A Secret Education
+
+Years ago, Victor found an old spellbook in his father's library and began teaching himself the art of spellcasting, hiding his growing talent from his parents. His bedroom betrays none of it - it's stocked only with innocuous books of fables and heraldry - but he now spends nearly all his time in a workroom hidden in the mansion's attic, its door carved with a warning skull and warded with a glyph of warding. There he practices minor necromancy on animated cat skeletons and keeps painted wooden dolls dressed in his childhood clothes, which he pretends are disobedient pupils.
+
+## A Cruel Betrothal
+
+[[Lady Fiona Wachter (COS)|Lady Fiona Wachter]] once conspired to marry her daughter, [[Stella Wachter (COS)|Stella Wachter]], to Victor as a way to gain a foothold inside the burgomaster's mansion. Victor showed no interest in Stella whatsoever, and spoke to her with such cruelty that she lost her mind - a fact Fiona has never forgiven, even as she keeps the scheme's failure quiet.
+
+## The Flawed Circle
+
+Victor's spellbook contains an incomplete teleportation circle spell, along with the sigil sequences of three permanent circles elsewhere whose locations aren't recorded. He has inscribed his own flawed version of the circle on his workroom floor, hidden beneath a rug, and has already tested it twice - each time compelling a reluctant servant with suggestion to stand on it, only to watch them torn apart and vanish in a flash of purple light. He doesn't yet know how to fix the circle, but he has no intention of stopping until it works, certain that it's his only way out of Barovia.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

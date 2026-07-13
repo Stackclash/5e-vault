@@ -13,6 +13,22 @@ images:
 aliases:
   - Clovin Belview
 alignment: Neutral Evil
+description: >-
+  Clovin stands barely four and a half feet tall with a barrel-like frame.
+  His right head combines the patchy-haired features of a man with a
+  goat's stubby horns; his left, half-sized and cherubic, is partly
+  covered in crocodilian hide. A crab's pincer serves as his left hand and
+  a bear's paw as his right foot. He wears an ill-fitting monk's robe
+  cinched with a hempen rope belt, and he plays the viol beautifully when
+  drunk — which is most of the time.
+history: >-
+  Clovin is one of the Belview family, transformed generations ago by
+  [[The Abbot (COS)|the Abbot]] at the family's own desperate request for
+  bestial "perfection." Unlike most of his kin, Clovin was never locked
+  away: he serves as the Abbot's manservant, ringing the abbey bell
+  (area S17) to call the mongrelfolk to dinner and doling out meals to the
+  sixty-odd madhouse captives at his own discretion — which the starving
+  prefer to call cruelty.
 relationships: []
 partyRelationships:
   Midnight Covenant: Acquaintance
@@ -25,8 +41,10 @@ gender: male
 age: 54
 occupation:
   - Caretaker
-groups: []
-religions: []
+groups:
+  - Belview family
+religions:
+  - The Morninglord
 personality: 'Subservient, eccentric, deeply troubled'
 ideal: >-
   Survival and obedience are the utmost priorities in a world that neither wants
@@ -75,7 +93,15 @@ dislikes: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 147*
 
-TBD
+Clovin Belview is [[The Abbot (COS)|the Abbot]]'s devoted manservant and the closest thing the Abbey of Saint Markovia's madhouse has to a warden.
+
+## The Belview Family
+
+The Belviews came to the abbey generations ago, a family of sickly, inbred lepers begging for salvation. [[The Abbot (COS)|The Abbot]] — a deva in disguise — cured their leprosy, but no magic could mend the deeper imperfections bred into their bloodline, and his failure to perfect them became an obsession. The Belviews, though, never wanted to be ordinary: they begged him for the eyes of a cat, the wings of a bat, the strength of a mule, the guile of a snake. A traveling lord named Vasili von Holtz — secretly [[Strahd Von Zarovich (COS)|Strahd von Zarovich]] himself — supplied the Abbot with forbidden lore looted from the Amber Temple to finish what pity had started. The transformation left the family mad, mongrel, and strangely content. Most of them have lived — and been confined — as the abbey's mongrelfolk ever since.
+
+## The Abbot's Faithful Martinet
+
+Unlike most of his kin, Clovin was never locked in the madhouse. He serves as [[The Abbot (COS)|the Abbot]]'s manservant, ringing the abbey's bell to call the other mongrelfolk to dinner and controlling when — and whether — they eat. The other mongrelfolk despise him for it, accusing him of hoarding food and slowly starving them; Clovin would let them starve outright if the Abbot allowed it. He keeps bottles of cheap wine hidden under the furs of his cot and is drunk more often than not — by his own reckoning, staying drunk is the only thing keeping him sane.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

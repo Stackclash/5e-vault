@@ -33,7 +33,8 @@ flaw: Impulsive.
 goals: Train mages capable of defending the city.
 likes: fireworks, magical duels
 dislikes: cowardice
-partyRelationships: {}
+partyRelationships:
+  Midnight Covenant: Acquaintance
 ---
 
 > [!infobox]

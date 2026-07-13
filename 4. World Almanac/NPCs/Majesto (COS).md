@@ -13,23 +13,36 @@ images:
 aliases:
   - Majesto
 alignment: Lawful Evil
+description: >-
+  Majesto is Lady Fiona Wachter’s pet imp, a small devil kept hidden at
+  Wachterhaus and used as living proof of her cult’s claimed infernal favor.
+history: >-
+  Majesto stands invisibly at the center of a pentagram during Fiona
+  Wachter’s rituals for her most devoted followers, then scatters a handful
+  of electrum coins as if bestowed by “princes of darkness,” reinforcing her
+  claim to speak for infernal powers. It otherwise stays out of sight and
+  fights only if Fiona herself is threatened.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
+pronounced: muh-JES-toh
+race: Imp (devil)
+gender: male
 age: null
-occupation: []
-groups: []
+occupation:
+  - Familiar
+groups:
+  - Fiona Wachter’s Cult
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Sly, theatrical, utterly devoted to Fiona'
+ideal: Whatever serves my mistress serves me.
+bond: Fiona Wachter, the woman it serves and the only master it answers to.
+flaw: It loves the theater of its tricks more than discretion, risking exposure for a good show.
+goals: >-
+  Help Fiona Wachter grow her devil-worshipping cult and, in time, see her
+  seize control of Vallaki.
+likes: 'Trickery, frightening zealots, mischief'
+dislikes: 'Being ignored, anything that threatens Fiona’s schemes'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +74,7 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 115*
 
-TBD
+Majesto is Lady [[Lady Fiona Wachter (COS)|Fiona Wachter]]'s pet imp, kept out of sight at Wachterhaus and brought out only to dazzle her cult's most fanatical followers with a show of infernal favor.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

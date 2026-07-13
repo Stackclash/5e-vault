@@ -12,23 +12,39 @@ images: []
 aliases:
   - Mishka Belview
 alignment: Chaotic Evil
+description: >-
+  Mishka stands 5 feet tall with a wiry, spindly build. Three red spider
+  eyes cluster on the right side of his face, while the left side still
+  looks human. A frog's foot serves as his left hand, and a taloned
+  crow's foot has replaced his right.
+history: >-
+  Mishka is one of the Belview family, transformed generations ago by
+  [[The Abbot (COS)|the Abbot]] at the family's own desperate request for
+  bestial "perfection." He lurks twenty feet down the abbey's courtyard
+  well, scuttling up the shaft to attack anyone who shines a light on
+  him; in his madness, he has discovered that he enjoys killing.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
-occupation: []
-groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
+pronounced: MISH-kah BEL-view
+race: '[[5. Mechanics/Races/Human.md|Human]]'
+gender: male
+age: 26
+occupation:
+  - Abbey captive
+groups:
+  - Belview family
+religions:
+  - The Morninglord
+personality: 'Feral, predatory, unpredictable'
+ideal: Power belongs to whoever is willing to take it from the weak.
+bond: The dark of the well is the only home he has left.
+flaw: His bloodlust overrides any instinct for self-preservation.
+goals: To catch and kill anyone careless enough to peer down his well
+likes: Darkness, the element of surprise, the taste of fear
+dislikes: Bright light, open spaces, being pulled from his well
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -60,7 +76,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 150*
 
-TBD
+Mishka Belview haunts the depths of the courtyard well at the Abbey of Saint Markovia, waiting for careless light to give away a victim.
+
+## The Belview Family
+
+The Belviews came to the abbey generations ago, a family of sickly, inbred lepers begging for salvation. [[The Abbot (COS)|The Abbot]] — a deva in disguise — cured their leprosy, but no magic could mend the deeper imperfections bred into their bloodline, and his failure to perfect them became an obsession. The Belviews, though, never wanted to be ordinary: they begged him for the eyes of a cat, the wings of a bat, the strength of a mule, the guile of a snake. A traveling lord named Vasili von Holtz — secretly [[Strahd Von Zarovich (COS)|Strahd von Zarovich]] himself — supplied the Abbot with forbidden lore looted from the Amber Temple to finish what pity had started. The transformation left the family mad, mongrel, and strangely content. Most of them have lived — and been confined — as the abbey's mongrelfolk ever since.
+
+## The Thing in the Well
+
+Mishka clings to the shaft wall twenty feet below the courtyard, only surfacing when torchlight or lantern light spills down after him. He is the younger brother of [[Marzena Belview (COS)|Marzena Belview]], chained nearby, but the two share little beyond blood — where her madness turned her fearful, his turned him hungry. He has learned that he enjoys killing, and the well gives him ample opportunity to indulge it.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

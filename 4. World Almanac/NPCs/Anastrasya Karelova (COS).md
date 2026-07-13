@@ -16,21 +16,36 @@ alignment: Neutral Evil
 relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
-location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
+location: null
 pronounced: ah-nah-STRAH-sya ka-REL-o-va
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 28
 occupation: []
-groups: []
+groups:
+  - Strahd's brides
 religions: []
 personality: 'Aristocratic, manipulative, fiercely loyal to Strahd.'
 ideal: Power and status are everything; those without them are to be used as pawns.
 bond: Her allegiance to Strahd and her noble lineage
 flaw: Her overconfidence in her schemes and underestimation of others
-goals: 'To maintain her position of power, to serve Strahd''s interests'
+goals: To survive now that Strahd is gone, and to find new power to answer to.
 likes: 'Luxury, power, control over others'
 dislikes: 'Disloyalty, failure, threats to her status'
+description: >-
+  A vampire spawn bride in a stained, tattered red wedding gown, a jeweled
+  silk head scarf, and a platinum necklace with a black opal pendant —
+  aristocratic bearing worn thin by centuries of undeath.
+history: >-
+  Once a mortal woman claimed as one of Strahd's many brides, Anastrasya was
+  turned into a vampire spawn and lay dormant for centuries near Strahd's
+  coffin alongside her sister brides, Ludmilla Vilisevic and Volenta
+  Popofsky, rising only to defend the tomb from intruders.
+secrets: >-
+  Anastrasya survived the battle that ended Strahd and fled Castle
+  Ravenloft. She is currently being courted by Vecna's mortal agents as a
+  candidate vessel or enforcer — she does not yet know who or what she'd
+  truly be serving.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -62,7 +77,11 @@ dislikes: 'Disloyalty, failure, threats to her status'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 93*
 
-TBD
+Anastrasya Karelova wears a stained and tattered red wedding gown, a black and crimson silk head scarf sewn with precious jewels, and a platinum necklace with a black opal pendant — the finery Strahd once lavished on his brides.
+
+## The Brides of Ravenloft
+
+Anastrasya was one of three vampire spawn brides — alongside [[Ludmilla Vilisevic (COS)|Ludmilla Vilisevic]] and [[Volenta Popofsky (COS)|Volenta Popofsky]] — kept dormant in the earth near Strahd's coffin in the catacombs of Castle Ravenloft, rising only to defend it from intruders.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

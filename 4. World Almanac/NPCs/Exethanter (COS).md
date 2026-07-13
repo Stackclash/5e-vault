@@ -12,24 +12,51 @@ images: []
 aliases:
   - Exethanter
 alignment: Chaotic Neutral
+description: >-
+  A decrepit, robed skeleton with red pinpoints of light burning in its eye
+  sockets — once a proud archmage, now a lich whose mind and body are
+  slowly falling apart.
+history: >-
+  An evil archmage who arrived at the long-abandoned Amber Temple
+  generations after its original defenders had died, Exethanter breached
+  its wards, bargained with a trapped vestige, and learned the secret of
+  becoming a lich. He turned the skulls of the temple's fallen defenders
+  into flameskulls and appointed himself the temple's new keeper — not to
+  hoard its forbidden secrets, but to share them with anyone who came
+  seeking power, Strahd von Zarovich included.
 relationships: []
 partyRelationships:
   Midnight Covenant: Acquaintance
 location: '[[The Amber Temple]]'
-pronounced: null
+pronounced: ex-ETH-an-ter
 race: '[[5. Mechanics/Bestiary/Undead/Lich|Lich]]'
 gender: male
 age: null
-occupation: []
-groups: []
+occupation:
+  - Self-appointed keeper of the Amber Temple
+  - Former archmage
+groups:
+  - The Amber Temple's original order of wizards (last survivor)
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: >-
+  Detached and scholarly, but his mind is fraying — he forgets his own name
+  and struggles to complete his own thoughts.
+ideal: >-
+  Knowledge and power must be shared, not hoarded — even evil secrets
+  deserve an audience.
+bond: >-
+  Bound eternally to the phylactery hidden in the temple's depths, and to
+  the temple itself, which he has guarded since his transformation.
+flaw: >-
+  His memory is failing — he has forgotten his own name, his spells, and
+  much of what he once knew.
+goals: >-
+  To continue watching over the Amber Temple and sharing its secrets,
+  though he no longer fully remembers why.
+likes: 'Visitors who ask questions, forbidden lore, being addressed with respect'
+dislikes: >-
+  Being forgotten himself, having his phylactery threatened, Strahd's
+  growing indifference toward him
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +88,19 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 189*
 
-TBD
+Exethanter was once a mortal archmage who arrived at [[The Amber Temple]] long after its original defenders — a secret society of good-aligned wizards — had died and turned against one another, corrupted by the evil vestiges they had imprisoned within. Breaching the temple's wards, Exethanter spoke to one of the trapped vestiges and learned the secret of becoming a lich.
+
+## Keeper of Forbidden Secrets
+
+After his transformation, Exethanter took over the temple, turning the skulls of its former defenders into flameskulls to serve as his guardians. Unlike the wizards before him, he chose not to hoard the temple's evil secrets — he shares them openly with anyone who comes seeking power, believing knowledge should circulate rather than be buried.
+
+## A Pact Sealed in Blood
+
+When [[Strahd Von Zarovich (COS)|Strahd]] first came to the temple seeking immortality, Exethanter sensed he was a man of destiny — though it was the temple's imprisoned evil vestiges that recognized in Strahd a darkness greater than their own. Strahd communed with them and forged the pact that transformed him into a vampire after he murdered his brother Sergei.
+
+## A Mind Unraveling
+
+The centuries have not been kind to Exethanter. His body and mind are falling apart; he has forgotten his own name and most of his prepared spells, retaining only his cantrips. He knows only that the Dark Powers who cursed Barovia were born within the temple's walls, and that they feed on the darkness Strahd represents. A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell would restore his memory and magic — and, with it, his willingness to share the temple's passwords and secrets with anyone who asks.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

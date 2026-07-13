@@ -14,6 +14,18 @@ images:
 aliases:
   - Danika Dorakova
 alignment: Lawful Good
+description: >-
+  Danika Dorakova is Urwin Martikov’s wife and business partner at the
+  [[Blue Water Inn]], and, like the rest of the Martikov family, secretly a
+  wereraven of the Keepers of the Feather.
+history: >-
+  Danika married into the Martikov family and kept her own surname, Dorakova.
+  She tends the taproom bar while Urwin cooks, and together they’ve turned
+  the inn into both a haven for frightened Vallakians and a covert waypoint
+  for the Keepers of the Feather. She has stood by Urwin through his long
+  rift with his father, [[Davian Martikov (COS)|Davian]], and is now raising
+  their sons, [[Bray Martikov (COS)|Bray]] and [[Brom Martikov (COS)|Brom]],
+  to take up the family’s hidden duties in turn.
 relationships:
   - Urwin Martikov (COS)|husband
   - Bray Martikov (COS)|son
@@ -21,20 +33,30 @@ relationships:
 partyRelationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
-pronounced: null
+pronounced: dah-NEE-kah dor-ah-KOH-vah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
-age: null
-occupation: []
-groups: []
+age: 34
+occupation:
+  - Innkeeper
+  - Barkeep
+groups:
+  - Keepers of the Feather
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Warm but sharp-eyed, fiercely protective of her family and patrons'
+ideal: A safe home is worth defending with tooth, claw, and steel.
+bond: >-
+  Her husband Urwin, their sons Bray and Brom, and the inn they’ve built
+  together into a sanctuary.
+flaw: >-
+  Her fierce protectiveness can tip into overprotectiveness, especially now
+  that her sons are eager to prove themselves.
+goals: >-
+  Keep the Blue Water Inn safe and thriving, see Bray and Brom safely into
+  their roles as Keepers of the Feather, and support the family’s quiet war
+  against Strahd’s agents.
+likes: 'A busy taproom, her sons’ antics (secretly), the company of visiting Keepers'
+dislikes: 'Strahd’s spies, danger to her sons, wasted wine'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -66,7 +88,13 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
-TBD
+Danika Dorakova tends the bar at the [[Blue Water Inn]] while her husband, [[Urwin Martikov (COS)|Urwin]], works the kitchen. Like the rest of the Martikov family, she is a wereraven and a member of the Keepers of the Feather, the secret society working against Strahd from the shadows of Vallaki.
+
+## Innkeeper and Keeper
+Danika keeps the taproom running - pouring Purple Grapemash No. 3 and Red Dragon Crush for the locals who gather there each night - while quietly watching for signs of Strahd's agents among the patrons. She and Urwin carry spare keys to every guest room and know most of what happens under their roof.
+
+## A Mother's Watch
+Danika dotes on her sons, [[Bray Martikov (COS)|Bray]] and [[Brom Martikov (COS)|Brom]], even as she trains them for the responsibilities that come with being Keepers of the Feather. She worries the boys will get themselves in over their heads before they're ready - a worry only sharpened by the family's long, bitter estrangement from [[Davian Martikov (COS)|Davian Martikov]], whom she and Urwin call "the old crow."
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

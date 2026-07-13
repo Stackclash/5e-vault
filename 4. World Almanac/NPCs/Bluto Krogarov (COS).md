@@ -12,6 +12,17 @@ images: []
 aliases:
   - Bluto Krogarov
 alignment: Neutral Evil
+description: >-
+  Bluto Krogarov is Vallaki's town drunk, a superstitious, hard-luck
+  fisherman who braves Strahd's wolves on Lake Zarovich every day despite
+  catching nothing for longer than anyone can remember.
+history: >-
+  Every morning, Bluto rows out onto Lake Zarovich in defiance of the
+  wolves and dire wolves known to stalk its shores, and every evening he
+  returns empty-handed. Convinced his own bad luck is somehow to blame, he
+  has taken to trying ever more foolish superstitions and rituals to
+  change his fortunes, growing more erratic and more of a fixture at
+  Vallaki's taverns with each failed outing.
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
@@ -19,7 +30,8 @@ pronounced: BLOO-toh KRO-gah-rov
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 46
-occupation: []
+occupation:
+  - Fisherman
 groups: []
 religions: []
 personality: 'Despondent, superstitious, unstable'
@@ -62,7 +74,7 @@ dislikes: 'The mockery of others, his own bad luck, the Burgomaster''s enforced 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 38*
 
-TBD
+It's too dangerous to go fishing on Lake Zarovich — Strahd's wolves prowl its shores — but that hasn't stopped Bluto Krogarov, the town drunk, from trying. He sets out onto the water each morning and returns every evening, but hasn't caught a single fish in a long while.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

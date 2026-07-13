@@ -32,7 +32,8 @@ flaw: Her experiments sometimes explode.
 goals: Discover new magical materials.
 likes: experimentation, alchemy
 dislikes: stagnation
-partyRelationships: {}
+partyRelationships:
+  Midnight Covenant: Acquaintance
 ---
 
 > [!infobox]

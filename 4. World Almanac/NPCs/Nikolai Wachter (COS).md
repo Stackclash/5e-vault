@@ -12,23 +12,45 @@ images: []
 aliases:
   - Nikolai Wachter
 alignment: Lawful Neutral
+description: >-
+  Nikolai Wachter is one of [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]]'s
+  two grown sons - a brash, hard-drinking young nobleman who spends his
+  nights carousing at the Blue Water Inn rather than enduring his mother's
+  household. He and his brother Karl are said to be the spitting image of
+  their late father, for whom Nikolai is named.
+history: >-
+  Raised in the gloom of Wachterhaus, Nikolai and his brother Karl grew into
+  restless young men with little of their mother's ambition and none of her
+  patience for the family's crumbling fortunes. They know that
+  [[Lady Fiona Wachter (COS)|Fiona]] leads some kind of cult from the
+  house's cellar, but not its darkest secret - that she keeps their late
+  father's gentle-reposed corpse in her bed. The brothers avoid Wachterhaus
+  by day, drinking and trading dares at the Blue Water Inn, and their
+  recklessness has already caused real trouble in town: sneaking into
+  Arasek's Stockyard on a bet, one of the brothers rocked a caged
+  saber-toothed tiger's wagon and let it loose on Vallaki's streets.
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
-pronounced: null
+pronounced: NIK-oh-lye VAHK-ter
 race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
-age: null
-occupation: []
-groups: []
+age: 27
+occupation:
+  - Nobleman of House Wachter
+groups:
+  - House Wachter
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: Brash, hard-drinking, quick to boast, secretly aimless
+ideal: Live for tonight's bottle and tomorrow's dare - Vallaki offers nothing else worth wanting.
+bond: His brother, Karl - his only real companion in drink and mischief
+flaw: >-
+  His recklessness and thirst for a dare have nearly gotten him and Karl
+  killed, from goading each other in the taproom to freeing a
+  saber-toothed tiger on a bet
+goals: To burn through his mother's coin and find some fleeting thrill to make life in cursed Vallaki bearable
+likes: Wine, dares, gossip about outsiders, staying out of Wachterhaus
+dislikes: His mother's lectures and her cult, sobriety, the burgomaster's festivals
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -60,7 +82,19 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 110*
 
-TBD
+Nikolai Wachter and his brother Karl are brothers of noble birth - brash drunkards always looking for trouble, though smart enough not to pick fights with well-armed strangers. Their mother, [[Lady Fiona Wachter (COS)|Fiona Wachter]], is an influential figure in town, but her sons never talk about her.
+
+## Trouble in the Taproom
+
+The Wachter brothers aren't home during the day, since neither cares to attend their mother or listen to her tiresome prattle. Characters are as likely to find them at the Blue Water Inn or wandering the streets of Vallaki as at Wachterhaus, where they're usually passed out after a night of heavy drinking. They'd rather hear tales of a stranger's harrowing adventures, or talk of freeing Vallaki from the burgomaster's madness, than think about home.
+
+## No Ambition, No Secrets Kept
+
+Nikolai and Karl have none of their mother's ambition or her mean temper. They know she's built some kind of cult, but not that she sleeps beside their dead father's preserved corpse - news that would turn them against her instantly if they learned it. Mostly, they want only to spend their mother's money and make the best of a miserable life, trapped as they are within Vallaki's walls under Strahd's shadow and the burgomaster's rule.
+
+## The Loosed Tiger
+
+On a dare, Nikolai or Karl once snuck into Arasek's Stockyard and rocked the wagon holding [[Rictavio (COS)|Rictavio]]'s captive saber-toothed tiger, letting the enraged beast smash free and prowl the streets of Vallaki. When questioned afterward, the brothers swore they'd been at the festival the whole time.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

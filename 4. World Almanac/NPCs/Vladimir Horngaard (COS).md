@@ -20,11 +20,15 @@ location: null
 pronounced: null
 race: '[[Revenant|Revenant]]'
 gender: male
-age: null
-occupation: []
-groups: []
+age: 34
+occupation:
+  - Field commander, Order of the Silver Dragon
+groups:
+  - Order of the Silver Dragon
 religions: []
-personality: null
+personality: >-
+  Grim and singularly focused on vengeance, mourning a love he no longer
+  lets himself feel.
 ideal: Vengeance is all I have left.
 bond: >-
   I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken
@@ -32,9 +36,24 @@ bond: >-
 flaw: >-
   Destroying Strahd would end the vampire's torment, and that is something I
   will never allow.
-goals: null
-likes: null
-dislikes: null
+goals: >-
+  To keep Strahd trapped and suffering in Barovia forever — never to see
+  him destroyed or freed.
+likes: 'Combat with Strahd, the memory of honor now lost to hate'
+dislikes: 'Weakness, mercy shown to Strahd, being reminded of Godfrey'
+description: >-
+  A revenant knight in dented half-plate, eyes burning with resolve that
+  flares whenever Strahd is near.
+history: >-
+  Vladimir joined the Order of the Silver Dragon young and became a trusted
+  field commander under its founder, the silver dragon Argynvost. When
+  Strahd's armies swept the land, the order gave refuge to hundreds at
+  Argynvost's valley — but Strahd hunted them down, and Vladimir watched him
+  personally slay his beloved fellow knight, Sir Godfrey Gwilym, before the
+  order and its dragon fell. Unwilling to accept defeat, Vladimir returned
+  as a revenant, and his hatred was strong enough to drag Godfrey and other
+  fallen knights back as well. He has waged a hopeless war against Strahd
+  ever since, trapped in Barovia's mists along with the vampire he despises.
 ---
 > [!infobox]
 > # `=this.file.name`

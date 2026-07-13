@@ -13,23 +13,34 @@ images:
 aliases:
   - Beucephalus
 alignment: Neutral Evil
+description: >-
+  A monstrous black horse wreathed in smoke, its mane and hooves burning
+  with hellish fire, smoke billowing from its nostrils with every breath.
+history: >-
+  Entombed within Crypt 39 of Castle Ravenloft's catacombs — marked by a wry
+  epitaph reading "Beucephalus, the Wonder Horse" — this nightmare has
+  served as Strahd von Zarovich's steed for longer than anyone in Barovia
+  can remember, carried to war whenever its master rides out.
 relationships: []
 partyRelationships: {}
 location: null
-pronounced: null
-race: null
-gender: null
+pronounced: byoo-SEF-uh-lus
+race: '[[5. Mechanics/Bestiary/Fiend/Nightmare.md|Nightmare]]'
+gender: male
 age: null
-occupation: []
+occupation:
+  - Strahd von Zarovich's steed
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: >-
+  Vicious and utterly loyal to Strahd, radiating heat and menace — it
+  attacks anyone who dares open its crypt or threatens its master.
+ideal: Serve Strahd without question.
+bond: Bound to Strahd von Zarovich as his eternal mount.
+flaw: Devotion to Strahd overrides all self-preservation.
+goals: To carry Strahd wherever he commands and destroy any who threaten him.
+likes: "The scent of fear, moonless skies, its master's presence"
+dislikes: 'Sunlight, holy magic, being parted from Strahd'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +72,11 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 93*
 
-TBD
+Beucephalus is [[Strahd Von Zarovich (COS)|Strahd von Zarovich]]'s nightmare — an enormous, fiendish horse wreathed in smoke, its mane and hooves burning with hellish fire. It lies dormant within Crypt 39 of [[Castle Ravenloft]]'s catacombs, sealed behind a door larger than any other in the crypts and marked only by a wry epitaph: "Beucephalus, the Wonder Horse: May the flowers grow ever brighter where he trod." When the crypt is opened, the nightmare bursts free and attacks.
+
+## Strahd's Steed
+
+When Strahd rides to war — to [[Yester Hill]] to confront Wintersplinter, or wherever else his will takes him — Beucephalus carries him, exiting the high tower's central shaft through the gash torn in its roof. Anyone foolish enough to slay the beast earns Strahd's undying, merciless wrath.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

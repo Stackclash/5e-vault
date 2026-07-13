@@ -13,6 +13,12 @@ images:
 aliases:
   - Ismark Kolyanovich
 alignment: Lawful Good
+description: >-
+  Ismark Kolyanovich is a young, sharp-eyed swordsman known throughout
+  Barovia as "Ismark the Lesser," having spent most of his life in the
+  shadow of his father, the burgomaster. He carries himself with practiced
+  ease in the tavern, but a fierce protectiveness surfaces the moment his
+  sister or Strahd come up in conversation.
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
@@ -32,6 +38,19 @@ flaw: Can be overly cautious and sometimes distrustful of strangers
 goals: 'To secure a safe place for Ireena, away from Strahd’s reach'
 likes: 'Quiet moments of peace, strong leadership, loyalty'
 dislikes: 'Threats to his family, Strahd''s minions, chaos'
+history: >-
+  The son of Kolyan Indirovich, the village's burgomaster, Ismark has
+  spent years training with sword and crossbow, nursing a private
+  ambition to one day confront and kill Strahd himself. He is far less
+  dour than most Barovians, willing to buy strangers a drink and speak
+  plainly about the horrors stalking his home — at least on the subject
+  of his adopted sister [[Ireena Kolyana (COS)|Ireena]] and the vampire
+  who covets her. With his father's death, Ismark has taken on the burden
+  of protecting Ireena himself, and he means to see her escorted to
+  safety in Vallaki, even though moving her outside the mansion's wards
+  leaves her exposed to Strahd. If offered aid, he does everything in his
+  power to see his sister safely away — and, if the chance arises, to
+  stand against Strahd at the party's side.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -63,7 +82,15 @@ dislikes: 'Threats to his family, Strahd''s minions, chaos'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 43*
 
-TBD
+Ismark Kolyanovich is a young, sharp-eyed swordsman known throughout Barovia as "Ismark the Lesser," having spent most of his life in the shadow of his father, the burgomaster. He carries himself with practiced ease in the tavern, but a fierce protectiveness surfaces the moment his sister or Strahd come up in conversation.
+
+## Ismark the Lesser
+
+Found most nights nursing a glass of wine alone at a corner table in the Blood of the Vine tavern, Ismark isn't a typically dour Barovian — he'll invite strangers to join him and offer to pay for their wine. He is as tight-lipped as any other villager unless the talk turns to his sister or to Strahd, on which subjects he knows everything the rest of the village knows: chiefly that, for some unknown reason, Strahd is attracted to Ireena and desires her above all others.
+
+## A Brother's Vow
+
+Ismark has spent most of his adult life training with weapons in the hope of one day confronting and killing Strahd. He asks any capable strangers he meets for aid protecting his adopted sister, [[Ireena Kolyana (COS)|Ireena Kolyana]], and wants to see her escorted to Vallaki, beyond the sight — and he hopes, the reach — of Castle Ravenloft. He knows moving her is a gamble, since she's vulnerable to Strahd outside the mansion's wards, but he's heard that Vallaki is well-defended. If the party agrees to help, he takes them to the burgomaster's residence to meet her. Should the party ask him to come along, he agrees, provided Ireena is taken somewhere safe first.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

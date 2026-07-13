@@ -13,17 +13,37 @@ images:
 aliases:
   - Sir Godfrey Gwilym
 alignment: Lawful Evil
+description: >-
+  A gaunt knight bound in the tattered remains of chainmail that once shone
+  silver, Sir Godfrey moves with the deliberate bearing of a soldier who has
+  never stopped fighting a war he lost centuries ago. His revenant eyes
+  smolder with a paladin's old fire, flaring hot at the sight of Strahd's
+  servants.
+history: >-
+  Sir Godfrey Gwilym was a knight of the Order of the Silver Dragon and the
+  beloved of its field commander, [[Vladimir Horngaard (COS)|Vladimir
+  Horngaard]]. When Strahd's armies finally overran Argynvostholt, Strahd
+  himself struck Godfrey down before Vladimir's eyes, then went on to kill
+  the silver dragon Argynvost and shatter the order for good. Vladimir's
+  grief curdled into a hatred so potent it dragged Godfrey's spirit — and
+  several other fallen knights — back into the world as revenants. Bound by
+  oaths to Vladimir, Godfrey has haunted the ruins of Argynvostholt ever
+  since, his honor buried under centuries of impotent vengeance.
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
-location: null
+location: >-
+  [[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]
 pronounced: sir GOD-free GWIL-im
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: null
-occupation: []
-groups: []
-religions: []
+occupation:
+  - Knight of the Order of the Silver Dragon
+groups:
+  - Order of the Silver Dragon
+religions:
+  - The Morninglord
 personality: 'Stoic, honorable, deeply melancholic'
 ideal: Redemption for the Order and peace for Barovia are my only pursuits.
 bond: >-
@@ -72,7 +92,27 @@ dislikes: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 139*
 
-TBD
+Sir Godfrey Gwilym was once among the finest knights of the Order of the Silver Dragon, sworn to the service of Lord Argynvost and bound in life and love to the order's field commander, [[Vladimir Horngaard (COS)|Vladimir Horngaard]]. Four centuries dead, he now haunts the wreckage of Argynvostholt as a revenant — a soldier who cannot stop fighting a war he already lost.
+
+## The Order of the Silver Dragon
+
+Under Lord Argynvost's banner, Godfrey and his fellow knights sheltered refugees fleeing Strahd's conquest and turned away searchers hunting for the secrets of the Amber Temple. It was quiet, honorable work — the kind Godfrey believed in — until Strahd's reinforcements finally swept into the valley in overwhelming force.
+
+## Vladimir's Beloved
+
+Few among the order knew that Godfrey and Vladimir were more than brothers-in-arms. In the private quarters they shared at Argynvostholt (area Q39), the two knights kept a life together that the war never gave them time to acknowledge openly. That love would come to define both of their afterlives.
+
+## The Fall of Argynvostholt
+
+When Strahd's soldiers overran the mansion, Strahd himself cut Godfrey down in front of Vladimir before turning to slay Argynvost and shatter the rest of the order. Godfrey's death broke something in Vladimir that never healed.
+
+## A Second Death Undone
+
+Vladimir's grief curdled into a hatred potent enough to drag his own spirit back as a revenant — and Godfrey's with it, along with several other fallen knights. Bound by oaths of loyalty to Vladimir, Godfrey now waits with the other revenants in the order's old council chamber (area Q37), a sixteenth-level paladin's spellcasting still humming beneath his withered frame. He can speak of Argynvost and the order's fall if petitioned, but he cannot act against Vladimir's wishes — the oaths of the order still bind him, even in undeath.
+
+## A Chance at Redemption
+
+Somewhere beneath the hatred, Godfrey's love for Vladimir survives, buried but not destroyed. Should fate or circumstance remind him of what he lost, that memory alone may be enough to turn him from Vladimir's endless vengeance and back toward the honor the order once stood for — a path only the lighting of Argynvostholt's beacon can complete for the rest of his brothers, but one Godfrey alone might walk sooner.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description
