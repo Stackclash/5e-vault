@@ -17913,10 +17913,7 @@ class ReadwiseMirror extends obsidian.Plugin {
             // exposed methods
             notice: (message, duration) => this.notify.notice(message, duration),
             setStatusBarText: (message) => this.notify.setStatusBarText(message),
-            saveAndApplySettings: () => {
-                this.settings = ctx.settings;
-                return this.saveAndApplySettings();
-            },
+            saveAndApplySettings: () => this.saveAndApplySettings(),
         };
         return ctx;
     }
@@ -17988,9 +17985,10 @@ class ReadwiseMirror extends obsidian.Plugin {
      */
     async loadAndApplySettings() {
         const loaded = (await this.loadData());
-        this.settings = { ...DEFAULT_SETTINGS, ...(loaded ?? {}) };
+        // Mutate the existing object instead of creating a new reference
+        // Order matters: defaults first, then loaded values override them
+        Object.assign(this.settings, DEFAULT_SETTINGS, loaded ?? {});
         if (this.lock.isAcquired('readwise-mirror:loaded')) {
-            // Only apply settings if plugin is loaded, and create settings tab at the same time
             await this.applySettings();
         }
     }

@@ -2,54 +2,44 @@
 obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
-condition: healthy
+condition: dead
 images:
   - z_Assets/PlaceholderImage.png
 relationships: []
 tags:
   - npc
-aliases: []
-pronounced:
-race: "[[5. Mechanics/Races/Half Elf.md|Half Elf]]"
+aliases:
+  - Corwin Vantor
+pronounced: KOR-win VAN-tor
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
-age: 62
-alignment: Chaotic Good
-occupation: []
+age: 58
+alignment: Neutral Good
+occupation:
+  - Field Naturalist and Monster-Hunter (independent)
 groups: []
 religions: []
-personality: Quick-witted, paranoid, and deeply curious. Martin rarely answers a question directly if a riddle would do instead.˜
-ideal: Truth must never become rigid. The world needs uncertainty, trickery, and mystery to remain free.
-bond: Devoted to Roark’s father and believes protecting Roark is part of a divine task given to him years ago.
-flaw: His paranoia makes him distrustful of institutions and slow to trust allies.
-goals: Discover why knowledge about Vecna is changing, Protect Roark until the truth of his lineage matters,Preserve forbidden knowledge before it disappears
-likes: riddles and wordplay, hidden doors, forgotten libraries, clever lies
-dislikes: authoritarian institutions, rigid rules, divination magic used for surveillance
-partyRelationships: {}
 description: |-
-  A thin, sharp-eyed half-elf with prematurely silver hair and deep lines around his eyes from years of sleepless study. His cloak is worn and patched in many places but carefully maintained, suggesting someone who has lived on the road or in hiding for a long time. Ink stains mark his fingertips and the cuffs of his sleeves, and small scraps of parchment poke from nearly every pocket of his cloak.
-
-  Around his neck hangs a simple bronze coin engraved with the laughing mask of Roark’s father — a face split in two: one smiling, one grimacing. Martin constantly flips the coin across his knuckles when thinking.
-
-  Despite his age, his eyes move quickly, always scanning shelves, shadows, and doorways as if expecting someone to arrive at any moment.
-
-  Several small scars on his hands suggest past encounters with magical traps or wards.
+  A grizzled human, thick-armed and weathered, with a stiff left hand — three fingers replaced by scar tissue after "getting too close" to something monstrous decades ago. He kept his gray hair cropped short out of practicality, not vanity, and always smelled faintly of preserving oils and old leather from a lifetime of field specimens.
+  Blunt, dry, and entirely unimpressed by titles — he treated a duke and a quartermaster the same way if they wasted his time.
 history: |-
-  Martin was once a respected historian of divine conflicts who lectured at several magical academies across the continent. His career collapsed when he began publicly claiming that references to Vecna across ancient texts were inconsistent and being altered.
-
-  Most scholars dismissed him as obsessive or unstable.
-
-  Years ago, however, Martin received a dream from the Trickster God — Roark’s father. In the dream, a voice told him that if the Whispered One ever escaped his prison, the first sign would not be destruction or undead armies.
-
-  It would be the corruption of knowledge itself.
-
-  From that day forward, Martin quietly cataloged every reference to Vecna he could find across the world’s archives.
-
-  After the magical surge in Barovia, he began noticing the changes he feared most: books that once described Vecna as history were now describing him as myth.
-
-  Fearing the truth might vanish entirely, Martin infiltrated the Umbral Athenaeum to research before the knowledge disappeared forever.
+  Corwin spent decades attached to mercenary companies and standing armies as a field naturalist, cataloguing the physiology of monstrous humanoids his units fought or captured — including, more than once, doppelgangers and other shapechangers infiltrating the ranks. Out of old battlefield necessity, not any particular request, he spent years refining a way to tell a doppelganger's heartbeat from a human one, eventually building a working prototype.
+  He had no ties to Roark Battleborn or anyone else in the party — his reputation reached [[Mistress Lyssandra Veil|Lyssandra Veil]] through Athenaeum academic circles once the doppelganger crisis broke, and she arranged to acquire the prototype directly. Roark came along as her escort for the errand, nothing more; the two men had never met before that day.
+  He was killed defending the device when Silent Ascendency agents ambushed the meeting meant to hand it over, taking Roark and Lyssandra captive. The real prototype was lost or destroyed in the struggle.
+personality: Gruff, plainspoken, and quietly proud of work nobody outside his old units ever noticed.
+ideal: A tool that saves one life earns its keep, whether or not anyone remembers who built it.
+bond: The soldiers he served with, many of whom are dead — his research was always for them first.
+flaw: Worked alone out of habit, even when caution said otherwise — he arranged the handoff with no one else in the loop and no protection.
+goals: (deceased — unrealized) Get the device into hands that could use it before more infiltrators went unnoticed.
+likes: Fieldwork, plain talk, being useful.
+dislikes: Bureaucracy, being patronized, unfinished work.
+partyRelationships:
+  Midnight Covenant: Ally
+player_impression: |-
+  A monster-hunter Lyssandra Veil brought in to build a doppelganger-detection device once the Athenaeum's crisis broke; Roark escorted her to the handoff, nothing more. As of the party's current understanding, the meeting went smoothly and the device was retrieved successfully — they don't yet know Corwin was killed and the real prototype lost in an ambush.
 secrets: ""
 ---
- 
+
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
@@ -174,3 +164,4 @@ return function View() {
 
 
 ### General Notes
+Killed off-screen, before the session opens — exists in play only as a body and a story other NPCs/cultists tell. No stat block needed.

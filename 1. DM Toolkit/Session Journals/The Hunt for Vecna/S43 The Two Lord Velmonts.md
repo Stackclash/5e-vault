@@ -4,12 +4,12 @@ date: 2026-07-11
 summary: |-
   In the hidden basement of Velmont's house, Faerah, Wisp, and Roark battled the stone golem, shattering the four gems projecting the anti-magic field. Wisp got word to Redgrave: they had found a second Lord Caldris Velmont, chained beneath his own home. At the Athenaeum, Redgrave and Professor Gousse put their Velmont to the test, asking him to enchant a ring — he made excuse after excuse, and when Redgrave attempted a Geas, the spell slid off him entirely. The impostor stormed out: a doppelganger.
 
-  Professor Gousse opened a portal, and Redgrave joined the fight just as the golem's blows broke the real Velmont's chains. The councilman tried to teleport away — Wisp counterspelled — then fled on foot, only for Wisp to Dimension Door himself and Faerah into his path and take him captive. After several more foiled escapes, Velmont relented: the Silent Ascendency had captured him and set up the magical-item smuggling operation, and just days ago the cult had grown excited, sharply increasing the flow of smuggled items — why, he couldn't say. He directed the party to papers and reagents that could reverse the Feeblemind trap branded on him; alongside them, they found a dagger of unknown power.
+  Professor Gousse opened a portal, and Redgrave joined the fight just as the golem's blows broke the real Velmont's chains. The councilman tried to teleport away — Wisp counterspelled — then fled on foot, only for Wisp to Dimension Door himself and Faerah into his path and take him captive. After several more foiled escapes, Velmont relented, but he couldn't say much. He directed the party to papers and reagents that could reverse the Feeblemind trap branded on him; alongside them, they found a dagger of unknown power. He told the party that the Silent Ascendency had captured him and set up the magical-item smuggling operation, and just days ago the cult had grown excited, sharply increasing the flow of smuggled items — why, he couldn't say.
 
-  Faerah returned to the institute to fetch Professor Gousse — and found the doppelganger wearing his face. Nyxia's detect magic exposed the impostor, but it slipped away into a crowd wearing a new form. That night at the Boar's Head tavern, the party gathered with the real Professor Gousse, Mistress Lyssandra Veil, and a squad of guards, and laid their plan: every member of the Umbral Athenaeum would be required to cast magic, to flush the doppelganger out.
+  Faerah returned to the institute to fetch Professor Gousse — and found the doppelganger wearing his face. Nyxia's detect magic exposed the impostor, but it slipped away into a crowd wearing a new form. That afternoon at the Boar's Head tavern, the party gathered with the real Professor Gousse, Mistress Lyssandra Veil, and a squad of guards, and laid their plan: every member of the Umbral Athenaeum would be required to cast magic, to flush the doppelganger out.
 fc-date: 973-2-28
 fc-end: 973-2-28
-timelines: 
+timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
@@ -25,6 +25,7 @@ party_present:
   - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
   - "[[3. The Party/Players/Wisp.md|Wisp]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
   - "[[4. World Almanac/NPCs/Professor Gousse Windcaller.md|Professor Gousse Windcaller]]"
   - "[[4. World Almanac/NPCs/Mistress Lyssandra Veil.md|Mistress Lyssandra Veil]]"

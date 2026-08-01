@@ -15550,7 +15550,8 @@ var transformations = union4([
   literal("trim"),
   literal("stringify"),
   literal("capitalize"),
-  literal("slug")
+  literal("slug"),
+  literal("snake")
 ]);
 var TemplateVariableSchema = object({
   _tag: literal("variable"),
@@ -15738,6 +15739,18 @@ function asFrontmatterString(data) {
 function toSlug(value) {
   return value.toLocaleLowerCase().replace(/[\s_]+/g, "-").replace(/[^\p{L}\p{N}-]+/gu, "").replace(/-+/g, "-").replace(/^-+|-+$/g, "");
 }
+function toSnake(value) {
+  return value.toLocaleLowerCase().replace(/[\s-]+/g, "_").replace(/[^\p{L}\p{N}_]+/gu, "").replace(/_+/g, "_").replace(/^_+|_+$/g, "");
+}
+function applyPerString(fn) {
+  return (v) => {
+    if (Array.isArray(v))
+      return v.map((item2) => fn(String(item2))).join(",");
+    if (v instanceof FileProxy)
+      return fn(v.name);
+    return fn(String(v));
+  };
+}
 function executeTransformation(transformation2) {
   return (value) => {
     if (transformation2 === void 0) {
@@ -15758,7 +15771,9 @@ function executeTransformation(transformation2) {
         return first2 + str.slice(1);
       }
       case "slug":
-        return toSlug(String(value));
+        return applyPerString(toSlug)(value);
+      case "snake":
+        return applyPerString(toSnake)(value);
       default:
         return absurd(transformation2);
     }
@@ -16004,6 +16019,20 @@ var ResultValue = class {
       return new ResultValue(toSlug(this.value.name), this.name, this.notify);
     }
     return this.map((v) => deepMap(v, (it) => typeof it === "string" ? toSlug(it) : it));
+  }
+  /**
+   * getter that returns the value converted to snake_case. Same shape as
+   * `slug` but uses underscores instead of dashes so the result is safe to
+   * use as a variable name, YAML key, or database column. Strings nested in
+   * arrays/objects are converted individually; non-string values are
+   * returned unchanged. `FileProxy` values are converted from the file
+   * name.
+   */
+  get snake() {
+    if (this.value instanceof FileProxy) {
+      return new ResultValue(toSnake(this.value.name), this.name, this.notify);
+    }
+    return this.map((v) => deepMap(v, (it) => typeof it === "string" ? toSnake(it) : it));
   }
   /**
    * renders the value as a markdown link.

@@ -4,24 +4,125 @@
     "type": "split",
     "children": [
       {
-        "id": "4780b5b9b2e86373",
-        "type": "tabs",
+        "id": "9140d1e09d22bac6",
+        "type": "split",
         "children": [
           {
-            "id": "7df8b2a9ae56de89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/NPCs/Seer Ithildra Moonveil.md",
-                "mode": "preview",
-                "source": false
+            "id": "acb83cd14aeaa220",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe9e0779c314715b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. World Almanac/NPCs/Arabelle (COS).md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Arabelle (COS)"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Seer Ithildra Moonveil"
-            }
+              {
+                "id": "06740cd92291c4f2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-01.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-08-01"
+                }
+              },
+              {
+                "id": "6c90ca2968062e46",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. The Party/Quests/The Ones Who Were Forgotten.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Ones Who Were Forgotten"
+                }
+              },
+              {
+                "id": "6ccf5ac67a7c1279",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Umbral Athenaeum"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "3705496795faa2ad",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bd14113cb719e4d1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/rcox/Projects/Personal/5e-vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "environment": [],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "profileSourceId": "darwinIntegratedDefault",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "✳ dm-assistant"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -177,8 +278,8 @@
                 "id": "ID_aa9bf8981938",
                 "child": "ID_1bd94a588859"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -187,8 +288,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -214,8 +315,8 @@
                 ],
                 "version": "1"
               },
-              "icon": "lucide-ghost",
-              "title": "modal-form-edit-form-view"
+              "icon": "note-glyph",
+              "title": "Edit form"
             }
           },
           {
@@ -224,32 +325,12 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "4b9dddb4b78603a0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "d160195269d498c4",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -258,77 +339,79 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
       "bases:Create new base": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
-      "obsidian42-brat:BRAT": false,
+      "obsidian42-brat:BRAT": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "media-extended:Open media library": false,
-      "media-extended:Open media quick switcher": false,
       "modalforms:Edit forms": false,
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
       "relations:Open Relations graph": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "terminal:Open terminal": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7df8b2a9ae56de89",
+  "active": "06740cd92291c4f2",
   "lastOpenFiles": [
-    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
-    "4. World Almanac/NPCs/Professor Gousse Windcaller.md",
-    "4. World Almanac/NPCs/Professor Alindra Quicksilver.md",
-    "4. World Almanac/NPCs/Mistress Lyssandra Veil.md",
-    "4. World Almanac/NPCs/Magister Kaelor Stormbrand.md",
-    "4. World Almanac/NPCs/Archwarden Selvara Kain.md",
-    "4. World Almanac/NPCs/Archmortician Valeris Thorne.md",
-    "4. World Almanac/NPCs/Lord Caldris Velmont.md",
-    "4. World Almanac/NPCs/NPCs.md",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-01.md",
     "1. DM Toolkit/Session Journals/Session Journals.md",
-    "1. DM Toolkit/Configuration.md",
-    "z_Assets/NPCs/Gousse Windcaller.png",
-    "4. World Almanac/NPCs/Gertruda (COS).md",
-    "4. World Almanac/NPCs/Mishka Belview (COS).md.tmp.5520.0bb7ad7d2d31",
-    "4. World Almanac/NPCs/Nikolai Wachter (COS).md.tmp.5520.74f6b038254a",
-    "4. World Almanac/NPCs/Exethanter (COS).md.tmp.5520.78816a3fa06d",
-    "4. World Almanac/NPCs/Marzena Belview (COS).md.tmp.5520.be3dcdcea87f",
-    "4. World Almanac/NPCs/Exethanter (COS).md.tmp.5520.bccbf8f217fb",
-    "4. World Almanac/NPCs/Cyrus Belview (COS).md.tmp.5520.b2cd059cea12",
-    "4. World Almanac/NPCs/Majesto (COS).md.tmp.5520.b263a8053f0a",
-    "4. World Almanac/NPCs/Lady Fiona Wachter (COS).md.tmp.5520.1e21f7a50c37",
-    "4. World Almanac/NPCs/Clovin Belview (COS).md.tmp.5520.7b508b60df77",
-    "4. World Almanac/NPCs/Victor Vallakovich (COS).md.tmp.5520.b04c22393b7f",
-    "4. World Almanac/Settlements/Vallaki.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S39 The Freeing of Martin Thricefold.md",
-    "2. Scratch Notes/Frontmatter Audit - 2026-07-13.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S40 Secrets of the Silent Ascendency.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S41 The Warehouse Raid.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S42 Unmasking Lord Velmont.md",
+    "4. World Almanac/NPCs/Corwin Vantor.md",
+    "4. World Almanac/NPCs/Marrow.md",
     "1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md",
-    "4. World Almanac/Settlements/Bruokdon.md",
-    "4. World Almanac/Settlements/Settlements.md",
-    "4. World Almanac/NPCs/Beucephalus (COS).md",
-    "3. The Party/Parties/Midnight Covenant.md",
+    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
+    "1. DM Toolkit/Campaigns/The Hunt for Vecna.md",
+    "2. Scratch Notes/Campaign Setup TODO.md",
+    "2. Scratch Notes/continue.md",
     "3. The Party/Quests/The Well of Many Worlds.md",
     "3. The Party/Quests/The Ones Who Were Forgotten.md",
-    "5. Mechanics/Spells/Defile Healing (KPDM).md",
-    "5. Mechanics/Bestiary/Aberration/token/star-spawn-hulk-mpmm.webp",
-    "z_Assets/NPCs/Valeris Thorne.png",
-    "z_Assets/NPCs/Selvara Kain.png",
-    "z_Assets/NPCs/Lyssandra Veil.png",
-    "z_Assets/NPCs/Kaelor Stormbrand.png",
-    "z_Assets/NPCs/Ithildra Moonveil.png",
-    "z_Assets/NPCs/Caldris Velmont.png",
-    "z_Assets/NPCs/Alindra Quicksilver.png",
-    "z_Assets/Locations/bruokdon.png"
+    "4. World Almanac/NPCs/Arabelle (COS).md",
+    "1. DM Toolkit/Configuration.md",
+    "4. World Almanac/NPCs/NPCs.md",
+    "5. Mechanics/Bestiary/Monstrosity/Doppelganger.md",
+    "5. Mechanics/Items/Dusk Dagger (GRIFFONSSADDLEBAG2).md",
+    "4. World Almanac/NPCs/Lord Caldris Velmont.md",
+    "5. Mechanics/Bestiary/Construct/Stone Golem.md",
+    "media-lib/index.base",
+    "media-lib",
+    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 New Session Journal.md",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/intro.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/dmgcover.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/ch8splash.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/ch2splash.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/ch1splash.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-25.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-24.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-23.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-22.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-04.webp",
+    "5. Mechanics/Lists/List Spells Rewards Charm Of Restoration.md",
+    "5. Mechanics/Lists/List Spells Rewards Charm Of Darkvision.md",
+    "5. Mechanics/Lists/List Spells Rewards Charm Of Animal Conjuring.md",
+    "5. Mechanics/Lists/List Spells Feats Spell Sniper.md",
+    "5. Mechanics/Decks/Tarokka Deck 999_dnd_tarokka_back_2",
+    "5. Mechanics/Bestiary/Undead/Hungry Ghast (COS).md",
+    "5. Mechanics/Items/Dusk Dagger Rare (GRIFFONSSADDLEBAG2).md",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-07-11.md",
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10.pdf",
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
+    "Characters",
+    "z_Scripts/Datacore/ShopInventory.tsx",
+    "z_Scripts/Datacore/shopInventory.tsx",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna"
   ]
 }

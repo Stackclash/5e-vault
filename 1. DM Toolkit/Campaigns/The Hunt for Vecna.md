@@ -60,29 +60,64 @@ Content-safety boundaries every agent must respect.
 
 ### End Goal: become the God of Truth and dominate reality itself
 
-1. **Force truth into the world** — *done.* Tested on [[Thornmere]] (see DM-only note below); the party doesn't know he caused it.
+Vecna's endgame isn't just a spell — it's staking a claim on a cosmic domain-slot that doesn't exist yet.
+
+1. **Prove the concept** — *done.* [[Thornmere]] (see DM-only note below) was a small-scale prototype — proof his truth-magic works at village scale. The party doesn't know he caused it, and doesn't know it was only a test run.
 2. **Harvest raw power** — *active.* The Silent Ascendency, his mortal network, is buying up far more stolen magic items than [[Lord Caldris Velmont]]'s smuggling ring normally moves, siphoning their magical energy toward the ascension — and, per S42, has escalated to targeting the party's own accumulated magical power directly.
-3. **Claim a vessel** — *upcoming.* Weakened and newly escaped, Vecna needs a physical anchor or champion to act fully in the material world.
-4. **Force the Ascension Rite** — *the endgame.* Once power and a vessel are secured, Vecna moves to force his godhood into being at a cosmic nexus.
+3. **The World-Truth Working** *(Act I climax)* — force a compulsion to truth onto most or all of the world. At that scale and permanence, Truth stops being "a thing that happens" and becomes a metaphysical constant — a cosmic domain-slot on par with Death or Time. Reality "needs" a God of Truth once that domain exists. The Working's own wording carries a built-in exception letting Vecna alone define what "true" means while everyone else is bound to it — that hypocrisy is both the point and the mechanism by which he stakes his claim on the vacancy the ritual creates.
+4. **Claim a vessel** — *upcoming.* Weakened and newly escaped, Vecna needs a physical anchor or champion to act fully in the material world.
+5. **The Ascension Rite** *(Act II climax, the endgame)* — Vecna formally executes and validates his claim on the Truth-domain, becoming its god. Because the claim isn't honestly won — it rests on an exception to his own law — it's contestable: see **The Hunt — Campaign Arc → Endings**.
 
 > [!warning]- DM only — Vecna's methods (party unaware)
-> As Vecna departed [[Barovia]], he tested his truth-manipulating magic on the town of [[Thornmere]] in [[Greenfall]] — the first observed instance of his power to force and erase truth:
+> As Vecna departed [[Barovia]], he tested his truth-manipulating magic on the town of [[Thornmere]] in [[Greenfall]] — a small-scale prototype for the World-Truth Working, not the working itself:
 > - He erased [[Eamon Morcant]] from the villagers' memories, making a man who had lived there his whole life into a shunned "stranger." The spell succeeded.
-> - The town's children instead "knew too much truth" — retaining impossible knowledge of the party's deeds in Barovia, an unintended overflow of the same magic.
+> - The town's children instead "knew too much truth" — retaining impossible knowledge of the party's deeds in Barovia, an unintended overflow of the same magic that likely echoes at civilizational scale when the World-Truth Working completes.
 >
-> The party broke the rune beneath Eamon's house (S35), restoring the villagers' memories and curing the children — but **they do not know Vecna was responsible.**
+> The party broke the rune beneath Eamon's house (S35), restoring the villagers' memories and curing the children — but **they do not know Vecna was responsible, or that Thornmere was only a test.**
 
 # The Hunt — Campaign Arc
 
-The party's journey to stop Vecna, in seven stages. Vecna's plan (above) keeps advancing on its own timeline regardless of which stage the party is in — these are the party's moves, not his. Stage numbers are pacing scaffolding, not a railroad — treat each as a situation, not a fixed scene order.
+The party's journey to stop Vecna unfolds across **two acts, each built around one of Vecna's two rituals** (see The Villain: Vecna, above). Vecna's plan keeps advancing on its own timeline regardless of which stage the party is in — these are the party's moves, not his. Stage numbers are pacing scaffolding, not a railroad — treat each as a situation, not a fixed scene order. Arcs marked *Breather* are deliberately low-stakes: room to explore consequences, spotlight a PC, and let tension recover before the next climb.
 
-1. **Force Truth** *(complete, DM-only, pre-dates the current arc)* — the Thornmere/[[Eamon Morcant]] incident. Villain step 1.
-2. **Harvest Power — [[Bruokdon]]** *(active)* — unmasking [[Lord Caldris Velmont]] and the Umbral Athenaeum smuggling ring exposes the Silent Ascendency's item-energy pipeline. Villain step 2.
-3. **The Great Library** *(next)* — via the Well of Many Worlds, with [[Professor Gousse Windcaller]]'s help, the party seeks records Eldoria's own archives can no longer hold (the vanishing-text research of S39-40). Expect Silent Ascendency agents already there, erasing the same truths. Hinge point: this is where the party gets their map for the rest of the hunt.
-4. **Claim a Vessel** *(upcoming)* — the trail leads to Vecna's vessel candidates, [[Izek Strazni (COS)|Izek Strazni]] and [[Anastrasya Karelova (COS)|Anastrasya Karelova]]. Spotlights [[Yevelda Ovak]] and [[Redgrave]]. Villain step 3.
-5. **The Underdark** *(upcoming)* — [[Faerah Duskrane]]'s sister resurfaces. Answers Eilistraee's stance on Vecna in the fiction rather than in advance.
-6. **The Eternal Watch** *(upcoming)* — the party tracks down the order that has watched the Amber Temple for centuries, seeking a way to save [[Wisp]]'s master. Sets the rules for the finale.
-7. **The Ascension Rite — Finale** *(upcoming)* — all threads converge. Villain step 4.
+## Act I — The World-Truth Working
+
+Ends with the party's first direct fight against Vecna — and they **lose**. He is functionally unstoppable while completing the ritual; the fight is a wall by design, not a balance failure.
+
+1. **Harvest Power — [[Bruokdon]]** *(wrapping up, S40–43)* — unmasking [[Lord Caldris Velmont]] and the Umbral Athenaeum smuggling ring exposes the Silent Ascendency's item-energy pipeline. Villain step 2.
+2. **Breather: Bruokdon aftermath** *(low stakes)* — fallout of unmasking Velmont, Council/city reaction, downtime. Candidate slot for a future Eilistraee-shrine side quest (see Active Threads) if the DM wants it here rather than saved for later.
+3. **The Great Library** *(next — [[The Well of Many Worlds]])* — via the Well of Many Worlds with [[Professor Gousse Windcaller]]'s help (Plane of Water → Feywild → Limbo → Library), the party catches Silent Ascendency agents mid-operation at the Library. **What exactly they're after there is an open thread — no specific artifact/McGuffin is locked yet.** Hinge point: the party gets the real shape of Vecna's plan.
+4. **Breather: processing the reveal** *(low stakes)* — a smaller personal beat — Roark/[[Martin Thricefold]], or a taste of [[Redgrave]]'s still-undefined Watchers over the Fallen. The bigger personal arcs are Act II's job.
+5. **Rising tremors** *(medium, investigative)* — a Thornmere-echo incident surfaces elsewhere, making the threat concrete again before the ramp-up. Not designed in detail yet — could be one scene or its own short arc.
+6. **The Convergence** *(escalating)* — piecing together where and when Vecna will perform the Working, using intel from the Library operation and the power-harvesting pipeline. **This is where the actual casting site — distinct from the Library — gets identified.**
+7. **The World-Truth Working** *(climax)* — the losing battle. Villain step 3. The ritual's severity at completion is set by two levers: how well the party disrupted the Library operation, and how much of the power-harvesting/soul-vessel pipeline they'd already dismantled. This severity carries forward into Act II's opening state and into how contestable Vecna's claim is at the very end of the campaign (see Endings, below).
+
+> [!warning]- DM only — how the party survives the Working
+> Three options are being kept live for the table; **do not pre-select** — pick whichever lands hardest when it happens:
+> 1. Vecna's contempt — he's spent and doesn't bother finishing off mortals beneath his notice.
+> 2. Ritual backlash — the Working's completion knocks the party out/scatters them, possibly with a lingering side effect echoing Thornmere's "too much truth" overflow.
+> 3. A rescuer pulls them out at a cost, creating a debt.
+
+## Act II — The Ascension Rite
+
+Opens low-stakes: the post-Working world, and room to explore how it changed. Climaxes with the true, decisive final battle.
+
+1. **Aftermath** *(low stakes)* — the post-Working world; its severity depends on how Act I's climax landed. Side-story room here.
+2. **Breather/personal arc: The Underdark** *(low–medium)* — [[Faerah Duskrane]]'s sister resurfaces. Answers Eilistraee's stance on Vecna in the fiction rather than in advance.
+3. **Claim a Vessel** *(rising)* — [[Izek Strazni (COS)|Izek Strazni]] and [[Anastrasya Karelova (COS)|Anastrasya Karelova]] as candidates. Personal stakes for [[Yevelda Ovak]] (rescue-or-mercy) and [[Redgrave]] (the Order of the Silver Dragon resurfaces here, recognizing the soul-craft in both him and the vessel network). Villain step 4.
+4. **Breather/personal arc: The Eternal Watch** *(low–medium)* — [[Wisp]]'s master. Also where the Watch explains how domain-claiming actually works — this sets the rules for the finale.
+5. **Rising tremors, part 2** *(medium, optional)* — signs Vecna is closing in on the Rite: vessel-binding side effects, the world reacting to an almost-god's presence.
+6. **The Convergence** *(escalating)* — locating and racing to the Rite's nexus, using intel from the Eternal Watch and the vessel hunt.
+7. **The Ascension Rite — Finale** *(climax)* — the true final battle. Villain step 5. Multiple possible endings — see below.
+
+## Endings
+
+Ritual 1 forces a global compulsion to truth and creates a vacant cosmic Truth-domain — and in the same act, stakes Vecna's claim to it, because the ritual's own wording exempts him alone from the truth it compels everyone else to. That asymmetry reads to the cosmos as the strongest available claim on the vacancy, even though it's a rigged cheat rather than an honestly total relationship to Truth. Ritual 2 is where Vecna formally executes and validates that claim.
+
+**Because the claim isn't honestly won, it's contestable** — a rival claimant with a genuinely total, unhedged relationship to Truth could override Vecna's reservation at the Rite. How cleanly the World-Truth Working landed in Act I (a patchy, disrupted casting vs. a clean, near-total one) determines which of these are realistically on the table:
+
+1. **Stop Vecna outright** — kill or banish him before the Rite completes; the vacancy dissolves unclaimed. Always available, regardless of Act I's outcome — the baseline win.
+2. **Redirect the vacancy to a worthier claimant** — candidate: [[Wisp]]'s master, if the Eternal Watch have groomed a contingency candidate for exactly this scenario. Gated behind Act II prep — keeping him alive/stable and completing the Eternal Watch arc (Act II, Arc 4).
+3. **Collapse the domain entirely** — destroy the vacancy so nothing can ever fill it. Cost: Truth-magic (Zone of Truth, Discern Lies, binding oaths, etc.) becomes permanently unreliable in the world. Requires specific knowledge from the Eternal Watch to even be an option.
 
 # Character Tie-Ins
 
@@ -90,21 +125,23 @@ How each PC's story hooks into the campaign. These are threads and open question
 
 ### [[Redgrave]]
 - The soul within belongs to a member of the Order of the Silver Dragon — likely captured mid-investigation into Eludrax's soul-vessel experiments, the same forbidden soul-craft that (unknown to Strahd) fed the seal binding Vecna at the Amber Temple. Redgrave's own killing blow on Strahd was the "final piece" that broke that seal (S33) — he freed Vecna without knowing it.
-- What remains of the Order of the Silver Dragon is undefined but expected to resurface at Hunt Stage 4 (Claim a Vessel), recognizing the soul-craft in both Redgrave and whatever the Silent Ascendency is attempting.
-- His Artisan Guild and membership in the **Watchers over the Fallen**, a faction in his hometown of [[Bruokdon]], remain *(TODO — undefined; develop purpose, structure, and any tie to the hunt.)*
+- The Silent Ascendency's current power-harvesting pipeline reuses that same craft: smuggled magic items are drained into constructed soul-vessels grown from stolen fragments of Eludrax's soul-craft (see Active Threads — Amber Wardens) — a closed-loop irony, and exactly why the Order would take notice.
+- What remains of the Order of the Silver Dragon is undefined but expected to resurface at **Act II, Arc 3 (Claim a Vessel)**, recognizing the soul-craft in both Redgrave and the vessel network.
+- His Artisan Guild and membership in the **Watchers over the Fallen**, a faction in his hometown of [[Bruokdon]], remain *(TODO — undefined; develop purpose, structure, and any tie to the hunt.)* Candidate slot for a smaller beat: **Act I, Arc 4 (Breather: processing the reveal)**.
 
 ### [[Faerah Duskrane]]
 - Patron is [[Drow Eilistraee (MTF)|Eilistraee]].
-- Her sister — believed killed fleeing the Underdark — may actually be alive, having escaped it independently. Surfaces at Hunt Stage 5 (The Underdark); exact location and circumstances of the reunion are still open.
+- Her sister — believed killed fleeing the Underdark — may actually be alive, having escaped it independently. Surfaces at **Act II, Arc 2 (The Underdark)**; exact location and circumstances of the reunion are still open.
 - Eilistraee's stance on Vecna's ascension will be answered in the fiction during that stage rather than decided in advance.
+- A separate future side quest has been floated at her player's request: a hidden surface congregation of Eilistraee worshippers in the wilds of Greenfall near [[Bruokdon]], with a corrupted-convert infiltrator. Confirmed strong interest, but not yet built or scheduled — see Active Threads.
 
 ### [[Yevelda Ovak]]
 - Parents were killed defending [[Barovia]].
-- [[Izek Strazni (COS)|Izek Strazni]] — last seen alive in Van Richten's Tower (S16), never found after Castle Ravenloft's fall — was claimed by Vecna's power in the moment of his escape and bound to serve him. Surfaces at Hunt Stage 4 (Claim a Vessel) as a personal rescue-or-mercy dilemma.
+- [[Izek Strazni (COS)|Izek Strazni]] — last seen alive in Van Richten's Tower (S16), never found after Castle Ravenloft's fall — was claimed by Vecna's power in the moment of his escape and bound to serve him. Surfaces at **Act II, Arc 3 (Claim a Vessel)** as a personal rescue-or-mercy dilemma.
 
 ### [[Wisp]]
 - A cat familiar carrying spellcasting power that actually belongs to their master — a member of the Eternal Watch, the order that has watched over the Amber Temple for centuries. The ward the master maintained broke the instant Vecna escaped, throwing him into the coma he's been in since; Wisp's borrowed power is fraying as a result.
-- Finding the Eternal Watch (Hunt Stage 6) to save him is Wisp's throughline.
+- Finding the Eternal Watch (**Act II, Arc 4**) to save him is Wisp's throughline — this is also where the Watch explains how domain-claiming actually works, setting the rules for the finale (see The Hunt — Campaign Arc → Endings).
 
 ### [[Roark Battleborn]]
 - His father is a Trickster God, bound — like all gods — by an ancient compact never to act in ways that would strip mortals of their own agency. He cannot move against Vecna directly; Roark, his mortal son, is the sanctioned loophole.
@@ -115,17 +152,21 @@ How each PC's story hooks into the campaign. These are threads and open question
 
 Open questions and hooks the agents should track for continuity:
 
-- **The Silent Ascendency** — Vecna's mortal network. Buying up far more stolen magic items than [[Lord Caldris Velmont]]'s ring normally moves, to siphon their energy toward the ascension (Hunt Stage 2) — and, per S42, escalating to target the party's own magical power directly. Velmont's true identity and role in the Ascendency is an open question, picked up at the start of the next session.
-- **The Eternal Watch** — an ancient order that has watched over the Amber Temple for centuries. [[Wisp]]'s master is a member; the ward he maintained broke the instant Vecna escaped, dropping him into a coma. Surfaces at Hunt Stage 6.
-- The fate and activity of the Order of the Silver Dragon *([[Redgrave]])* — expected to resurface at Hunt Stage 4, tied to Eludrax's soul-vessel craft.
-- Vecna's truth-magic loose in [[Greenfall]] — the Thornmere incident and its ripples; the party is unaware of his hand in it *(see The Villain: Vecna)*.
-- The **Watchers over the Fallen** faction and Redgrave's ties to it *([[Redgrave]])* — undefined, needs developing.
-- The Underdark / Eilistraee connection, and whether [[Faerah Duskrane]]'s sister survived and escaped it *(Hunt Stage 5)*.
-- [[Izek Strazni (COS)|Izek Strazni]] — missing since Castle Ravenloft's fall; claimed by Vecna's power in that moment, now bound to serve him *([[Yevelda Ovak]], Hunt Stage 4)*.
-- [[Anastrasya Karelova (COS)|Anastrasya Karelova]] — fled Strahd's wedding battle and survived; a candidate for Vecna's forces to recruit as vessel or enforcer *(Hunt Stage 4)*.
-- The Great Library, reached via the Well of Many Worlds with [[Professor Gousse Windcaller]]'s help — next session; expect Silent Ascendency agents already at work there *(Hunt Stage 3)*.
+- **The Silent Ascendency** — Vecna's mortal network. Buying up far more stolen magic items than [[Lord Caldris Velmont]]'s ring normally moves, to siphon their energy toward the ascension (Act I, Arc 1) — and, per S42, escalating to target the party's own magical power directly. The items are drained into constructed **soul-vessels** built from stolen fragments of Eludrax's forbidden soul-craft (see Amber Wardens, below). Velmont's doppelganger impersonator has been identified as **[[Marrow]]**, the Ascendency's Bruokdon cell leader — see below. What the Ascendency is after at the Great Library (Act I, Arc 3) is a separate, still-undefined open thread — no artifact/McGuffin is locked yet.
+- **The Eternal Watch** — an ancient order that has watched over the Amber Temple for centuries. [[Wisp]]'s master is a member; the ward he maintained broke the instant Vecna escaped, dropping him into a coma. Surfaces at Act II, Arc 4 — also where they explain how domain-claiming works, setting the rules for the finale (see The Hunt — Campaign Arc → Endings).
+- **Amber Wardens** *(working name, not yet confirmed)* — a recurring monster motif: some soul-vessels are grown into large mechanical guardian constructs, amber conduits threaded through the frame carrying bound souls of cult victims as a power source. Echoes the Stone Golem fight (S43) and pulls Amber Temple imagery through the whole hunt; expected to recur guarding anchors/vessel caches across both acts. No stat block built yet — `statblock-creator`/`encounter-builder` job when a concrete encounter needs one.
+- **[[Marrow]] and the Marrow-rite** — Marrow is a doppelganger grafted with a sliver of the same stolen Eludrax soul-craft that builds the Amber Wardens: a rare, individually-made augmentation (not a mass-produced template) that lets it draw on a whisper of a disguise target's soul-print — trained reflexes, muscle memory, a taste of talent — layered over its own shapeshifting, given prior contact with that target. It captured [[Lord Caldris Velmont]], ran Bruokdon's smuggling ring under his stolen identity, was unmasked by Redgrave's Geas (S43), burned a second identity (Professor Gousse Windcaller) within the hour, and — as of the session after S43 — ambushed and captured Roark Battleborn and Mistress Lyssandra Veil, taking Roark's identity to salvage its cover and stay embedded with the party hunting it. Reverts to its true form on death or incapacitation. Its fate (captured, killed, or escaped) determines how intact the Bruokdon cell remains heading into Act I, Arc 2.
+- **The Great Unveiling** — Silent Ascendency doctrine, sincerely held by rank-and-file cultists: all hidden truths will one day surface in a promised revelation, and their secrecy now is preparation for it. They refer to their god only by title — the Whispered One, God of Secrets, the Undying King — never by name, and don't know who sits above their own cell leadership. Unbeknownst to them, this is devotional language for the World-Truth Working (Act I climax) — the party already knows the name Vecna (S33), so this is confirmation and tone, not new intel.
+- The fate and activity of the Order of the Silver Dragon *([[Redgrave]])* — expected to resurface at Act II, Arc 3, tied to Eludrax's soul-vessel craft.
+- Vecna's truth-magic loose in [[Greenfall]] — the Thornmere incident and its ripples; the party is unaware of his hand in it, or that it was only a small-scale prototype for the World-Truth Working *(see The Villain: Vecna)*.
+- The **Watchers over the Fallen** faction and Redgrave's ties to it *([[Redgrave]])* — undefined, needs developing. Candidate breather slot: Act I, Arc 4.
+- The Underdark / Eilistraee connection, and whether [[Faerah Duskrane]]'s sister survived and escaped it *(Act II, Arc 2)*.
+- **Eilistraee shrine** *(future side quest, not yet built)* — a hidden surface congregation of Eilistraee worshippers in the wilds of Greenfall near [[Bruokdon]], with a corrupted-convert infiltrator. Ties to [[Faerah Duskrane]]'s patron; her player has asked for this in-fiction, so it's confirmed real interest, just not yet placed on the timeline. Candidate slot: Act I, Arc 2.
+- [[Izek Strazni (COS)|Izek Strazni]] — missing since Castle Ravenloft's fall; claimed by Vecna's power in that moment, now bound to serve him *([[Yevelda Ovak]], Act II, Arc 3)*.
+- [[Anastrasya Karelova (COS)|Anastrasya Karelova]] — fled Strahd's wedding battle and survived; a candidate for Vecna's forces to recruit as vessel or enforcer *(Act II, Arc 3)*.
+- The Great Library, reached via the Well of Many Worlds with [[Professor Gousse Windcaller]]'s help — next session; expect Silent Ascendency agents already at work there *(Act I, Arc 3)*. The actual World-Truth Working casting site is separate from the Library and gets identified later, at The Convergence (Act I, Arc 6).
 - **[[Baba Lysaga (COS)|Baba Lysaga]]'s vendetta** — unresolved from the Curse of Strahd arc. She has not forgiven Strahd's death or the theft of her hut's gem, and (barely a week removed from the loss, by her own reckoning) has struck a bargain with [[Mab]], Queen of Air and Darkness and ruler of the Gloaming Court, to intercept the party the moment they cross into fey territory. Mab now holds a debt over the party from however that confrontation resolves — a hook, not a one-off fight.
-- The gods' non-interference compact and Roark's father, the Trickster God — background force shaping [[Roark Battleborn]]'s arc; [[Merrin Thricefold]] acts as the god's indirect agent.
+- The gods' non-interference compact and Roark's father, the Trickster God — background force shaping [[Roark Battleborn]]'s arc; [[Martin Thricefold]] acts as the god's indirect agent.
 - The Fortunes of Ravenloft — locations tracked below.
 
 ## Fortunes of Ravenloft
@@ -146,8 +187,12 @@ Facts the DM has finalized. Agents treat these as fixed unless the DM explicitly
 - [[Wisp]]'s master is a member of the Eternal Watch and fell into a coma the instant Vecna's escape broke the ward he maintained.
 - [[Izek Strazni (COS)|Izek Strazni]] survived the fall of Castle Ravenloft and was claimed by Vecna's power in that moment; he now serves him.
 - [[Anastrasya Karelova (COS)|Anastrasya Karelova]] survived Strahd's wedding-night battle and fled; she is being courted by Vecna's forces.
-- The Silent Ascendency is buying up stolen magic items from [[Lord Caldris Velmont]]'s ring — and, per S42, targeting the party's own magical power — to siphon energy toward Vecna's ascension.
+- The Silent Ascendency is buying up stolen magic items from [[Lord Caldris Velmont]]'s ring — and, per S42, targeting the party's own magical power — to siphon energy toward Vecna's ascension, draining them into constructed soul-vessels built from stolen fragments of Eludrax's forbidden soul-craft — the same craft that fed the original seal binding Vecna and produced [[Redgrave]]'s bound soul.
+- [[Marrow]] is the Silent Ascendency's cell leader in Bruokdon — the doppelganger who captured and impersonated [[Lord Caldris Velmont]], then briefly [[Professor Gousse Windcaller]], before escaping into a crowd (S43). It carries a rare soul-graft (the Marrow-rite) built from the same Eludrax soul-craft as the Amber Wardens, letting it borrow a disguise target's trained reflexes and muscle memory, not just their appearance. In the session after S43, it ambushed and captured Roark Battleborn and Mistress Lyssandra Veil (opportunistic, not premeditated — the Ascendency had no advance knowledge of the doppelganger-detection device [[Corwin Vantor]] built, and Vantor was killed defending it) and took Roark's identity to salvage its cover. **The party doesn't know any of this yet** — it's the DM-only spine of that session.
 - [[Faerah Duskrane]]'s sister may have survived and escaped the Underdark.
+- [[Thornmere]] (S35) was only a small-scale prototype of Vecna's truth-magic, not the working itself. The party doesn't know this.
+- Vecna's ascension is a two-ritual structure: **the World-Truth Working** (Act I climax) forces a global truth-compulsion, creates a vacant cosmic Truth-domain, and stakes Vecna's claim to it via a built-in hypocritical exception; **the Ascension Rite** (Act II climax) formally executes that claim. The party doesn't know this structure yet.
+- Vecna's claim on the Truth-domain is contestable because it's dishonestly won — a genuinely total, unhedged claimant could override it at the Rite. Three endings remain live: stop Vecna outright (always available), redirect the vacancy to a worthier claimant (gated behind Act II's Eternal Watch arc; candidate is [[Wisp]]'s master), or collapse the domain entirely (requires Eternal Watch knowledge; permanently costs all Truth-magic reliability in the world).
 
 # Timelines
 ```aat-vertical
