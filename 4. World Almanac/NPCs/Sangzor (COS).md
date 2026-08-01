@@ -12,23 +12,35 @@ images: []
 aliases:
   - Sangzor
 alignment: Chaotic Evil
+description: >-
+  A nine-foot-tall goat with gray fur that blends perfectly into the
+  mountain rock, malice glinting in its eyes as it lowers its head to
+  charge.
+history: >-
+  Known to the druids and berserkers of Barovia as "Bloodhorn," Sangzor
+  has stalked Tsolenka Pass for years, shrugging off wounds that would
+  kill an ordinary beast and evading every hunting party sent after it.
+  Wearing its pelt is said to earn the wary respect of Strahd's mountain
+  berserkers, who leave the wearer and their companions unmolested.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
+location: '[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]'
+pronounced: SANG-zor
+race: Giant Goat
+gender: male
 age: null
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Feral, territorial, supernaturally resilient'
+ideal: "Territory is everything — trespassers are ended."
+bond: Bound instinctively to the crags and passes of Mount Ghakis, which it never leaves.
+flaw: >-
+  Reckless bloodlust — it charges even against impossible odds, and
+  flees only once badly hurt.
+goals: To kill or drive off anything that crosses its mountain pass.
+likes: 'Solitude, the high crags, the taste of blood'
+dislikes: 'Trespassers on its pass, the mountain-folk hunters who pursue it'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -60,7 +72,11 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 160*
 
-TBD
+Sangzor — called "Bloodhorn" by the druids and berserkers who share Barovia's mountains with it — is a nine-foot-tall giant goat of unnatural resilience and vicious temperament, notorious enough to have earned its own name and reputation among the region's hunters.
+
+## Terror of Tsolenka Pass
+
+Sangzor ambushes travelers along [[Tsolenka Pass]], charging out of the mist and snow to ram them from the high ground, sending anyone it hits tumbling down the mountainside. It flees once badly wounded, vanishing through a hidden cleft in the rock — a habit that has let it evade the mountain folk's hunters for years. A character who wears Sangzor's pelt can command the wary respect of the berserkers who serve Strahd, who won't attack them unprovoked.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

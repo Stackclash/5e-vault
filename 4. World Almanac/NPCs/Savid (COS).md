@@ -12,23 +12,39 @@ images: []
 aliases:
   - Savid
 alignment: Neutral
+description: >-
+  A gaunt, dark-haired dusk elf scout with keen eyes and quiet footsteps,
+  more comfortable in the wild than among strangers.
+history: >-
+  More than four hundred years old, Savid is one of the last dusk elves
+  living under [[Kasimir Velikov (COS)|Kasimir Velikov]]'s protection at
+  the Vistani camp outside Vallaki. A skilled tracker, he was searching
+  the woods for the missing [[Arabelle (COS)|Arabelle]] when a wandering
+  mob of needle blights forced him to take refuge, wounded, inside
+  [[Argynvostholt]].
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+pronounced: SAV-id
 race: "[[5. Mechanics/Races/Elf.md|Elf]]"
-gender: null
-age: null
-occupation: []
-groups: []
+gender: male
+age: 430
+occupation:
+  - Scout
+  - Tracker
+groups:
+  - Dusk elves (last of)
+  - Vistani (Vallaki camp, allied)
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Loyal, watchful, quietly weary from centuries of subjugation'
+ideal: "Protect what's left of his people, whatever the cost."
+bond: '[[Kasimir Velikov (COS)|Kasimir Velikov]] and the handful of dusk elves who remain.'
+flaw: >-
+  Centuries of fear under Strahd's shadow have made him cautious to the
+  point of passivity.
+goals: 'To find the missing Vistani girl Arabelle and return safely to camp.'
+likes: 'The quiet of the woods, tracking, small kindnesses'
+dislikes: 'Needle blights and other twisted things of the wild, being trapped indoors, cruelty to his kin'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -60,7 +76,11 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 133*
 
-TBD
+Savid is one of the last surviving dusk elves, sheltering under [[Kasimir Velikov (COS)|Kasimir Velikov]]'s watch at the Vistani camp outside Vallaki. More than four hundred years old, he has long since made peace with a quiet, watchful existence in a land ruled by a tyrant he cannot fight.
+
+## Wounded at Argynvostholt
+
+When [[Luvash (COS)|Luvash]]'s daughter [[Arabelle (COS)|Arabelle]] vanished from camp, Savid was among the trackers sent into the woods to find her. A mob of needle blights caught him in the open, forcing him to flee, wounded, into the ruins of [[Argynvostholt]], where he hides behind a stack of barrels and is grateful for any healing offered to him.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

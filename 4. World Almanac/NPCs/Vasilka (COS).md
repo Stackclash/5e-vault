@@ -12,23 +12,42 @@ images: []
 aliases:
   - Vasilka
 alignment: Neutral
+description: >-
+  A young woman with alabaster skin and neatly bundled auburn hair,
+  dressed in a torn and soiled red gown — beautiful until one draws
+  close enough to see the seams where stolen body parts have been
+  carefully stitched together beneath her powdered skin.
+history: >-
+  Vasilka is a flesh golem, painstakingly assembled by [[The Abbot
+  (COS)|the Abbot]] of the Abbey of Saint Markovia from body parts
+  plundered from graves in Krezk, and crafted to serve as a bride worthy
+  of Strahd von Zarovich. She cannot speak, has no memories or will of
+  her own, and obeys the Abbot's every command; he is currently teaching
+  her etiquette and dance in preparation for presenting her to the
+  vampire.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
+location: '[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]'
+pronounced: vah-SIL-kah
+race: Flesh Golem (Construct)
+gender: female
 age: null
-occupation: []
-groups: []
+occupation:
+  - Bride-to-be of Strahd (construct)
+groups:
+  - Abbey of Saint Markovia
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Silent, obedient, hauntingly vacant — seems lost in her own thoughts'
+ideal: Obedience to her creator's commands, absolute and unquestioning.
+bond: The Abbot, her creator and only guide in the world.
+flaw: >-
+  She has no will of her own; if driven berserk by harm, she cannot stop
+  attacking until the Abbot calms her or she is destroyed.
+goals: >-
+  To become a proper bride worthy of presenting to Strahd, exactly as
+  the Abbot has designed her to be.
+likes: "Order, calm, the Abbot's gentle instruction"
+dislikes: "Being harmed or threatened, chaos, fire — flame leaves her disoriented and weak"
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -60,7 +79,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 151*
 
-TBD
+Vasilka is not a person but a masterwork of horror: a flesh golem stitched together by [[The Abbot (COS)|the Abbot]] from the bodies of the recently dead, built feature by feature to be the perfect bride for Strahd von Zarovich.
+
+## The Abbot's Masterpiece
+
+Dressed in a soiled red gown and taught to sit primly at the abbey's dinner table, Vasilka mimics a living woman convincingly at a distance — until anyone draws close enough to see the seams in her powdered skin. She cannot speak, offers no resistance, and obeys the Abbot's every instruction without question, currently being schooled in etiquette and dance for her eventual presentation to Strahd.
+
+## No Will of Her Own
+
+Vasilka has no memories, no voice beyond an unholy scream when harmed, and no goals beyond what the Abbot gives her. If pushed into a berserk rage, she will not stop attacking until the Abbot calms her or she is destroyed — a fact he guards carefully, since he has no wish to lose his life's great work before it is finished.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

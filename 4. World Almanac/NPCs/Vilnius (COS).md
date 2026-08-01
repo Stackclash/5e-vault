@@ -13,23 +13,40 @@ images:
 aliases:
   - Vilnius
 alignment: Neutral Evil
+description: >-
+  A frightened man in scorched robes, his hair half burned away and his
+  face and arms blistered from magical fire — Vilnius looks every bit
+  the coward hiding from a fight he can't win.
+history: >-
+  Vilnius came to the Amber Temple as apprentice to the wizard Jakarion,
+  drawn by the promise of forbidden knowledge. When flameskulls guarding
+  the temple incinerated his master, Vilnius fled deeper into the ruins
+  with his invisible quasit familiar, surviving on vermin and refusing
+  to leave the lecture hall until he knows the amber golem patrolling
+  the hall outside has been destroyed.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
+location: '[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]'
+pronounced: VIL-nee-us
 race: "[[5. Mechanics/Races/Human.md|Human]]"
-gender: null
-age: null
-occupation: []
-groups: []
+gender: male
+age: 26
+occupation:
+  - Apprentice wizard
+groups:
+  - "Jakarion's expedition (Amber Temple)"
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: "Greedy, treacherous, cowardly — quick to abandon anyone who isn't useful to him"
+ideal: Self-preservation and personal gain above all loyalty.
+bond: >-
+  What remains of his late master Jakarion's magical legacy — mostly
+  because he covets it for himself.
+flaw: His cowardice and greed make him quick to betray allies the moment his own safety is at risk.
+goals: >-
+  To reclaim Jakarion's staff and spellbook, then escape the Amber
+  Temple and Barovia for good.
+likes: 'Wealth, magical trinkets, being left alone'
+dislikes: 'Combat, the amber golem patrolling outside his hiding place, anyone who might steal his loot'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +78,11 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 185*
 
-TBD
+Vilnius is all that remains of a doomed expedition into the [[The Amber Temple|Amber Temple]] — a greedy, cowardly wizard's apprentice hiding behind a lectern with his invisible quasit familiar, terrified of the golem patrolling just outside the door.
+
+## What's Left of Jakarion
+
+Vilnius served the wizard Jakarion, who came to the Amber Temple seeking forbidden knowledge and was incinerated by the flameskulls that guard it. Vilnius fled and has hidden ever since, eating vermin to survive. He wants nothing more than to recover his dead master's staff and spellbook — not out of loyalty, but because he covets them for himself — and to escape Barovia entirely once he's sure it's safe to move.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

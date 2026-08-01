@@ -13,6 +13,18 @@ images:
 aliases:
   - Arrigal
 alignment: Neutral Evil
+description: >-
+  A lean, calculating man in studded leather armor, quieter and far more
+  dangerous than his brute of an elder brother — Arrigal smiles easily
+  and kills just as easily when it serves him.
+history: >-
+  Arrigal and his elder brother [[Luvash (COS)|Luvash]] inherited
+  leadership of their Vistani camp when its elders died, and both
+  pledged the camp's loyalty to Strahd von Zarovich without hesitation.
+  Where Luvash rules through fear and brute force, Arrigal works through
+  cunning, theft, and the occasional quiet murder — delivering anything
+  useful or dangerous to Strahd that falls into his hands, and killing
+  to keep it if he must.
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
@@ -22,7 +34,8 @@ gender: male
 age: 35
 occupation:
   - Assassin
-groups: []
+groups:
+  - Vistani (Vallaki camp)
 religions: []
 personality: 'Charismatic, ruthless, cunning'
 ideal: >-
@@ -64,7 +77,11 @@ dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 121*
 
-TBD
+Arrigal is the younger of the two brothers who lead the Vistani camp outside Vallaki, and by far the more dangerous of the pair. Where [[Luvash (COS)|Luvash]] rules through fear and brute strength, Arrigal is patient, charming, and utterly without conscience — a trained assassin who serves Strahd's interests with cold precision.
+
+## Strahd's Errand-Runner
+
+Arrigal first appears far from Barovia, delivering an invitation to Strahd's domain under the guise of serving "Burgomaster Kolyan Indirovich." In truth he has never served anyone but Strahd. If characters in his camp possess something useful or dangerous to the vampire, Arrigal will stalk them, steal it, and ride for Castle Ravenloft himself rather than let it slip away — killing anyone who stands between him and his master's interests.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

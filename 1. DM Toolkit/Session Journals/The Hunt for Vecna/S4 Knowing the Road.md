@@ -34,7 +34,7 @@ items: []
 > | **Campaign:** | `INPUT[suggester(optionQuery(#campaign)):campaign]` |
 > | **Session #:** | `INPUT[number:session_number]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery("3. The Party/Session Prep")):prep-notes]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
 > ## Fantasy Dates
 > | | |
 > |---|---|

@@ -9,6 +9,9 @@ properties:
 views:
   - type: table
     name: Overview
+    filters:
+      and:
+        - "!formula.relationships.isEmpty()"
     order:
       - file.name
       - pronounced

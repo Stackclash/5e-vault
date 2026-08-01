@@ -24,8 +24,8 @@ party_present:
   - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
-npcs:
-  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+npcs: []
 quests: []
 items: []
 ---
@@ -36,7 +36,7 @@ items: []
 > | **Campaign:** | `INPUT[suggester(optionQuery(#campaign)):campaign]` |
 > | **Session #:** | `INPUT[number:session_number]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery("3. The Party/Session Prep")):prep-notes]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery("#session-prep")):prep-notes]` |
 > ## Fantasy Dates
 > | | |
 > |---|---|

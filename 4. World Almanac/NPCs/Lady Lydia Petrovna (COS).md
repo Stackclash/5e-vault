@@ -12,23 +12,45 @@ images: []
 aliases:
   - Lady Lydia Petrovna
 alignment: Lawful Good
+description: >-
+  Lady Lydia Petrovna is the Baroness of Vallaki, wife to
+  [[Baron Vargas Vallakovich (COS)|Baron Vargas Vallakovich]] and younger
+  sister of the town's priest, Father Lucian Petrovich. She has fully
+  embraced her husband's philosophy that relentless cheer can ward off
+  Strahd, throwing daily tea parties even as her own household quietly
+  falls apart around her.
+history: >-
+  A descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft,
+  Lydia is a gods-fearing woman who married into the Vallakovich family and
+  adopted her husband's belief that happiness alone might save Vallaki from
+  Strahd. She hosts daily tea-and-sandwich parties in the parlor for
+  "dearest friends" - mostly poor townsfolk who tolerate her only for the
+  free food - and has set them to sewing children's costumes and weaving a
+  wicker sun for the Festival of the Blazing Sun. Her nervous laughter at
+  the baron's every remark has become a reflex, and it has only grown more
+  brittle since her lady-in-waiting vanished without a trace alongside the
+  household butler.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+pronounced: LID-ee-uh peh-TROHV-nuh
 race: "[[5. Mechanics/Races/Human.md|Human]]"
-gender: null
-age: null
-occupation: []
-groups: []
-religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+gender: female
+age: 39
+occupation:
+  - Baroness of Vallaki
+groups:
+  - House Vallakovich
+  - House Petrovich
+religions:
+  - The Morninglord
+personality: Anxiously cheerful - her good humor is a nervous habit as much as genuine hope
+ideal: If I stop smiling, I don't know what happens next.
+bond: Her brother, Father Lucian Petrovich, and the Morninglord's faith he keeps alive at St. Andral's
+flaw: Her forced good cheer barely masks real terror, and it has begun to fray since her lady-in-waiting vanished
+goals: To keep up appearances of happiness in the mansion and town, and to learn what happened to her missing lady-in-waiting
+likes: Tea parties, gossip with her "dearest friends," perfume, her bridal gown and memories of happier days
+dislikes: Silence, unhappiness, being contradicted, dwelling on what haunts the mansion at night
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -60,7 +82,19 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 105*
 
-TBD
+At the risk of sacrificing her sanity, the baron's wife, Lydia Petrovna, has embraced her husband's philosophy of happiness. She laughs at his every comment, to the extent that it has become a nervous reflex, and tries to spread good cheer by throwing daily tea-and-sandwich parties for her "dearest friends."
+
+## Tea and Cake
+
+Each day, eight or so Vallakian peasant women gather around the dining table to drink tea and eat cake at Lydia's invitation, stitching children's costumes and weaving a wicker sun for the upcoming Festival of the Blazing Sun. Many of these "dearest friends" are poor folk who tolerate the baroness only because they crave something warm to eat and drink, but Lydia seems not to notice, or not to mind.
+
+## A Priest's Sister
+
+Lydia is a gods-fearing woman and the younger sister of the town priest, Father Lucian Petrovich, who oversees St. Andral's church and its faith in the Morninglord. She is also a descendant of Tasha Petrovna, a priest entombed within Castle Ravenloft itself.
+
+## Cracks in the Cheer
+
+The baroness used to spend long hours in her private room upstairs, fondling her perfume collection and gazing into her own reflection, but she has spent almost no time there since her lady-in-waiting vanished without a trace alongside the household butler. She assumes that any visitors to the mansion have come at her husband's invitation, and calls for the maid to bring them to the den before sending word to the baron.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

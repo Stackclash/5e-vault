@@ -13,23 +13,45 @@ images:
 aliases:
   - Luvash
 alignment: Chaotic Evil
+description: >-
+  A broad-shouldered Vistani man in studded leather armor, quick with a
+  scimitar and quicker to anger — Luvash is the elder of two brothers who
+  rule the Vistani camp outside Vallaki through fear, wine, and Strahd's
+  favor.
+history: >-
+  When the camp's elders died, leadership fell to Luvash and his younger
+  brother Arrigal, and both swore themselves body and soul to Strahd's
+  service without hesitation. Luvash rules the camp with an iron fist,
+  doling out punishment freely and drowning whatever guilt might
+  otherwise trouble him in wine — his only real tenderness reserved for
+  his young daughter, Arabelle, whose recent disappearance from camp has
+  driven him to send half his people into the woods to search for her.
 relationships: []
 partyRelationships: {}
-location: null
-pronounced: null
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+pronounced: LOO-vash
 race: "[[5. Mechanics/Races/Human.md|Human]]"
-gender: null
-age: null
-occupation: []
-groups: []
+gender: male
+age: 43
+occupation:
+  - Vistani chieftain
+  - Bandit captain
+groups:
+  - Vistani (Vallaki camp)
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: 'Brutal, domineering, feared even by his own people'
+ideal: Strength earns obedience; weakness is punished.
+bond: >-
+  His daughter Arabelle is the one soft spot in an otherwise hardened
+  heart.
+flaw: >-
+  His temper and love of wine make him quick to violence, even against
+  his own people.
+goals: >-
+  To find his missing daughter Arabelle safe, and to keep his camp fed,
+  feared, and loyal to Strahd's will.
+likes: 'Wine, obedience, his daughter Arabelle'
+dislikes: 'Weakness, disobedience, outsiders who threaten his camp'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -61,7 +83,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 121*
 
-TBD
+Luvash is the elder of the two brothers who rule the Vistani camp in the woods southwest of Vallaki — a permanent settlement shared uneasily with a handful of dusk elves under [[Kasimir Velikov (COS)|Kasimir Velikov]]'s watch. Where his younger brother [[Arrigal (COS)|Arrigal]] works through cunning and quiet violence, Luvash rules through simple fear: he is the brother the camp's Vistani are most afraid to cross.
+
+## The Camp's Bargain
+
+Like every Vistana in his camp, Luvash serves Strahd von Zarovich without question, and he expects the same unthinking loyalty from those beneath him. He keeps the camp's stolen wealth locked in a treasure wagon, sells travelers worthless "protection" potions at a hefty price, and is quick to turn a whip on anyone — even his own people — who fails him.
+
+## A Father's One Weakness
+
+Luvash's seven-year-old daughter, [[Arabelle (COS)|Arabelle]], is the only crack in his brutal exterior. Her recent disappearance from camp has left him distracted and furious, and he has sent half the camp into the woods to search for her, punishing anyone he blames for letting her out of his sight. Characters who return Arabelle safely earn a genuine, if gruff, debt of gratitude — and a reward from the camp's treasure wagon.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

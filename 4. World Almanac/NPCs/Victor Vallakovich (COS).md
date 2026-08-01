@@ -36,7 +36,7 @@ history: >-
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
-location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 pronounced: VIK-tor val-lah-KO-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

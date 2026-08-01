@@ -31,20 +31,26 @@ history: >-
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
-pronounced: null
+pronounced: STEL-uh VAHK-ter
 race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
-age: null
+age: 19
 occupation: []
-groups: []
+groups:
+  - House Wachter
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality: >-
+  Currently convinced she is a cat - feral, frightened, and starved for any
+  real kindness
+ideal: To be treated as a person again, not a pawn or a broken thing to be locked away.
+bond: Whatever stranger shows her the smallest kindness - she latches onto anyone gentle immediately
+flaw: Her trauma has fractured her mind so completely that she now believes, with total conviction, that she is a cat
+goals: >-
+  While lost in madness: to be left alone in her room. If cured: to escape
+  Wachterhaus and her mother forever, ideally under Father Lucian's
+  protection
+likes: Gentleness, warmth, small dark hiding places
+dislikes: Being touched by strangers, the name Victor Vallakovich, her mother, loud noises
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -76,7 +82,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 113*
 
-TBD
+Scurrying away on all fours in a soiled nightgown, hissing at anyone who comes near, Stella Wachter is [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]]'s daughter - and, in her own broken mind, a cat.
+
+## A Pawn in Her Mother's Scheme
+
+Fiona once conspired to wed young Stella to the burgomaster's son, [[Victor Vallakovich (COS)|Victor Vallakovich]], as part of a plot to gain a foothold in the baron's mansion. Victor found Stella demented and showed no interest in her whatsoever - worse, he spoke such unkind words to her that something in her mind gave way entirely. Fiona had no choice but to lock her own daughter away, and the door to Stella's room is now locked from both sides, with only Fiona holding a key.
+
+## Little Kitty
+
+Kept in a bare, straw-strewn room with an iron-framed bed fitted with leather straps, Stella hisses and scratches at visitors, insisting "little kitty doesn't know you" and "little kitty doesn't like the smell of you." A greater restoration spell rids her of the madness that convinces her she's a cat. If cured, she blames her mother bitterly for treating her as a pawn in a scheme to seize the town, and has nothing kind to say about Victor, whose very name makes her cringe. With her wits restored, Stella feels she has no one left in Vallaki she can trust - she latches onto any character who shows her kindness, and if brought to St. Andral's church, Father Lucian gladly takes her in.
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description
