@@ -23836,3 +23836,5 @@ var ZoomMapSettingTab = class extends import_obsidian29.PluginSettingTab {
     renderIcons();
   }
 };
+
+/* nosourcemap */

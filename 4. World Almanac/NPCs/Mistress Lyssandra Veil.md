@@ -24,7 +24,9 @@ description: |-
   Lyssandra Veil is a tiefling with violet skin and curved obsidian horns that frame her face elegantly. Her robes shimmer constantly with shifting illusion magic, causing the colors and patterns to subtly change every few moments.
   Her eyes gleam with mischievous amusement, and her smile always suggests she knows something others do not.
   Illusory butterflies or drifting motes of light often follow her when she walks through the Institute.
-history: Lyssandra once replaced an entire noble banquet with illusions purely to prove that perception shapes reality.
+history: |-
+  Lyssandra once replaced an entire noble banquet with illusions purely to prove that perception shapes reality.
+  When the Umbral Athenaeum's doppelganger crisis broke, she tracked down the independent monster-hunter Corwin Vantor and arranged to buy his heartbeat-detection prototype outright, taking Roark Battleborn along as an escort. Silent Ascendency agents ambushed the handoff, killed Corwin, and took them both — Lyssandra specifically for her illusion mastery, which the cell wanted for ward-work of its own. She spent several days a captive and was being moved out of Bruokdon on a smuggling wagon alongside stolen magic items when the Midnight Covenant turned the wagon off its route and freed her and Roark (S44).
 personality: Playful and mysterious.
 ideal: Reality is subjective.
 bond: Protects illusion magic from those who see it as frivolous.
@@ -33,7 +35,7 @@ goals: Push illusion magic into new philosophical territory.
 likes: theater, practical jokes
 dislikes: rigid thinking
 partyRelationships:
-  Midnight Covenant: Acquaintance
+  Midnight Covenant: Ally
 ---
 
 > [!infobox]

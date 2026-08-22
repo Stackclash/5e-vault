@@ -8805,29 +8805,52 @@ var ImageInput = class extends SvelteComponent {
 var ImageInput_default = ImageInput;
 
 // src/core/input/imageFilenameTemplate.ts
-var moment = window.moment;
-var placeholders = {
-  "{{date}}": () => moment().format("YYYY-MM-DD"),
-  "{{time}}": () => moment().format("HH-mm-ss"),
-  "{{datetime}}": () => moment().format("YYYY-MM-DD-HH-mm-ss")
+var PLACEHOLDER_RE = /\{\{\s*([^{}]*?)\s*\}\}/g;
+var LIST_SEPARATOR = "-";
+function pad(n) {
+  return String(n).padStart(2, "0");
+}
+var formatDate = (now2) => `${now2.getFullYear()}-${pad(now2.getMonth() + 1)}-${pad(now2.getDate())}`;
+var formatTime = (now2) => `${pad(now2.getHours())}-${pad(now2.getMinutes())}-${pad(now2.getSeconds())}`;
+var formatDatetime = (now2) => `${formatDate(now2)}-${formatTime(now2)}`;
+var datePlaceholders = {
+  date: formatDate,
+  time: formatTime,
+  datetime: formatDatetime
 };
-function processTemplate(template) {
-  return pipe2(
-    template,
-    (tmpl) => Object.entries(placeholders).reduce(
-      (acc, [placeholder2, fn]) => acc.replace(placeholder2, fn()),
-      tmpl
-    )
-  );
+function hasOwn(object2, name) {
+  return Object.prototype.hasOwnProperty.call(object2, name);
+}
+function isDatePlaceholder(name) {
+  return hasOwn(datePlaceholders, name);
+}
+function valueToString(value) {
+  if (Array.isArray(value))
+    return value.map(String).join(LIST_SEPARATOR);
+  if (value instanceof FileProxy)
+    return value.basename;
+  return String(value);
+}
+function processTemplate(template, values = {}, now2 = new Date()) {
+  return template.replace(PLACEHOLDER_RE, (_match, rawName) => {
+    const name = rawName.trim();
+    if (isDatePlaceholder(name))
+      return datePlaceholders[name](now2);
+    if (!hasOwn(values, name))
+      return "";
+    const value = values[name];
+    return value === void 0 ? "" : valueToString(value);
+  });
 }
 function sanitizeFilename(filename) {
   return filename.replace(/[<>:"/\\|?*]/g, "-");
 }
-function createFilename(template) {
+function createFilename(template, values = {}, now2 = new Date()) {
   return pipe2(
-    template,
-    processTemplate,
-    sanitizeFilename
+    processTemplate(template, values, now2),
+    sanitizeFilename,
+    (filename) => filename.trim(),
+    (filename) => filename === "" ? formatDatetime(now2) : filename
   );
 }
 
@@ -8865,6 +8888,7 @@ function getImageExtension(dataUrl) {
 function makeImageInputModel({
   fileService,
   input,
+  getFormValues = () => ({}),
   l = logger
 }) {
   const error2 = writable(null);
@@ -8890,7 +8914,7 @@ function makeImageInputModel({
       ),
       // Save the file
       TaskEither_exports2.chainW(({ extension, bytes }) => {
-        const filename = createFilename(input.filenameTemplate);
+        const filename = createFilename(input.filenameTemplate, getFormValues());
         return pipe2(
           fileService.saveFile(`${filename}.${extension}`, input.saveLocation, bytes.buffer),
           TaskEither_exports2.map((file) => new FileProxy(file))
@@ -9453,7 +9477,7 @@ var LOGICAL_SEARCH_INVALID_QUERY_FOR_KEY = (key) => `Invalid value for key ${key
 var PATTERN_LENGTH_TOO_LARGE = (max3) => `Pattern length exceeds max of ${max3}.`;
 var MISSING_KEY_PROPERTY = (name) => `Missing ${name} property in key`;
 var INVALID_KEY_WEIGHT_VALUE = (key) => `Property 'weight' in key '${key}' must be a positive integer`;
-var hasOwn = Object.prototype.hasOwnProperty;
+var hasOwn2 = Object.prototype.hasOwnProperty;
 var KeyStore = class {
   constructor(keys) {
     this._keys = [];
@@ -9491,12 +9515,12 @@ function createKey(key) {
     path = createKeyPath(key);
     id = createKeyId(key);
   } else {
-    if (!hasOwn.call(key, "name")) {
+    if (!hasOwn2.call(key, "name")) {
       throw new Error(MISSING_KEY_PROPERTY("name"));
     }
     const name = key.name;
     src = name;
-    if (hasOwn.call(key, "weight")) {
+    if (hasOwn2.call(key, "weight")) {
       weight = key.weight;
       if (weight <= 0) {
         throw new Error(INVALID_KEY_WEIGHT_VALUE(name));
@@ -13022,6 +13046,10 @@ function get_if_ctx(ctx) {
     input: (
       /*definition*/
       child_ctx[0].input
+    ),
+    getFormValues: () => (
+      /*formEngine*/
+      child_ctx[1].getValues()
     )
   });
   child_ctx[14] = constants_0;
@@ -13450,8 +13478,8 @@ function create_if_block_10(ctx) {
       1)
         obsidianinputwrapper_changes.required = /*definition*/
         ctx2[0].isRequired;
-      if (dirty & /*$$scope, definition, fileService, $value*/
-      66305) {
+      if (dirty & /*$$scope, definition, fileService, formEngine, $value*/
+      66307) {
         obsidianinputwrapper_changes.$$scope = { dirty, ctx: ctx2 };
       }
       obsidianinputwrapper.$set(obsidianinputwrapper_changes);
@@ -14494,8 +14522,8 @@ function create_if_block_11(ctx) {
       1)
         imageinput_changes.id = /*definition*/
         ctx2[0].name;
-      if (dirty & /*fileService, definition*/
-      257)
+      if (dirty & /*fileService, definition, formEngine*/
+      259)
         imageinput_changes.model = /*imageModel*/
         ctx2[14];
       if (!updating_value && dirty & /*$value*/
@@ -15693,10 +15721,12 @@ function tokenToString(token) {
       return token.value;
     case "variable":
       return `{{${token.value}${token.transformation ? `|${token.transformation}` : ""}}}`;
-    case "frontmatter-command":
-      return `{{# frontmatter pick: ${token.pick.join(", ")}, omit: ${token.omit.join(
-        ", "
-      )} #}}`;
+    case "frontmatter-command": {
+      const parts = ["frontmatter"];
+      if (token.pick.length > 0)
+        parts.push(`pick: ${token.pick.join(", ")}`);
+      return `{# ${parts.join(" ")} #}`;
+    }
     default:
       return absurd(tag);
   }
@@ -16396,8 +16426,8 @@ function valueMeetsCondition(condition, value) {
 }
 
 // src/store/formEngine.ts
-function requiredRule(fieldName, message) {
-  return { tag: "required", message: message != null ? message : `'${fieldName}' is required` };
+function requiredRule(fieldName2, message) {
+  return { tag: "required", message: message != null ? message : `'${fieldName2}' is required` };
 }
 function FieldFailed(field, failedRule) {
   return { ...field, rules: failedRule, errors: [failedRule.message] };
@@ -16536,6 +16566,12 @@ function makeFormEngine({
   return {
     subscribe: formStore.subscribe,
     errors,
+    getValues() {
+      return pipe2(
+        get_store_value(formStore).fields,
+        filterMap5((field) => field.value)
+      );
+    },
     isValid: derived(
       formStore,
       ({ fields }) => pipe2(
@@ -20790,9 +20826,21 @@ function create_default_slot11(ctx) {
   let code2;
   let t9;
   let t10;
+  let li3;
   let code3;
-  let t14;
+  let t12;
+  let t13;
   let code4;
+  let t17;
+  let code5;
+  let t19;
+  let br;
+  let t20;
+  let code6;
+  let t22;
+  let code7;
+  let t24;
+  let code8;
   let mounted;
   let dispose;
   return {
@@ -20816,21 +20864,41 @@ function create_default_slot11(ctx) {
       code2 = element("code");
       code2.textContent = `${datetime}`;
       t9 = text(" - Current date and time (YYYY-MM-DD-HH-mm-ss)");
-      t10 = text("\n            Example:");
+      t10 = space();
+      li3 = element("li");
       code3 = element("code");
-      code3.textContent = `screenshot-${datetime}.png`;
-      t14 = text(" will create:\n            ");
+      code3.textContent = `${fieldName}`;
+      t12 = text(" - The value of any other field of this form, using its\n                    name. Multi valued fields are joined with a dash, and fields left empty resolve\n                    to an empty text.");
+      t13 = text("\n            Example:");
       code4 = element("code");
-      code4.textContent = "screenshot-2024-12-08-19-29-52.png";
+      code4.textContent = `screenshot-${datetime}.png`;
+      t17 = text(" will create:\n            ");
+      code5 = element("code");
+      code5.textContent = "screenshot-2024-12-08-19-29-52.png";
+      t19 = space();
+      br = element("br");
+      t20 = text("\n            Example: if this form has a ");
+      code6 = element("code");
+      code6.textContent = "name";
+      t22 = text(" field,\n            ");
+      code7 = element("code");
+      code7.textContent = `${fieldNameExample}`;
+      t24 = text(" will create:\n            ");
+      code8 = element("code");
+      code8.textContent = "Jane Doe - new member.png";
       attr(input, "type", "text");
       attr(input, "placeholder", input_placeholder_value = "image-" + { datetime } + ".png");
       attr(input, "class", "form-control");
       attr(code0, "class", "svelte-1kbiial");
       attr(code1, "class", "svelte-1kbiial");
       attr(code2, "class", "svelte-1kbiial");
-      attr(ul, "class", "svelte-1kbiial");
       attr(code3, "class", "svelte-1kbiial");
+      attr(ul, "class", "svelte-1kbiial");
       attr(code4, "class", "svelte-1kbiial");
+      attr(code5, "class", "svelte-1kbiial");
+      attr(code6, "class", "svelte-1kbiial");
+      attr(code7, "class", "svelte-1kbiial");
+      attr(code8, "class", "svelte-1kbiial");
       attr(div, "class", "modal-form-hint");
     },
     m(target, anchor) {
@@ -20855,10 +20923,22 @@ function create_default_slot11(ctx) {
       append5(ul, li2);
       append5(li2, code2);
       append5(li2, t9);
-      append5(div, t10);
-      append5(div, code3);
-      append5(div, t14);
+      append5(ul, t10);
+      append5(ul, li3);
+      append5(li3, code3);
+      append5(li3, t12);
+      append5(div, t13);
       append5(div, code4);
+      append5(div, t17);
+      append5(div, code5);
+      append5(div, t19);
+      append5(div, br);
+      append5(div, t20);
+      append5(div, code6);
+      append5(div, t22);
+      append5(div, code7);
+      append5(div, t24);
+      append5(div, code8);
       if (!mounted) {
         dispose = [
           listen(
@@ -20990,6 +21070,8 @@ function create_fragment28(ctx) {
 var date = "{{date}}";
 var time = "{{time}}";
 var datetime = "{{datetime}}";
+var fieldName = "{{fieldName}}";
+var fieldNameExample = "{{name}} - new member";
 function instance28($$self, $$props, $$invalidate) {
   let id;
   let { index } = $$props;
@@ -28859,6 +28941,19 @@ function getTemplateService(app, logger3) {
   logger3.debug("Using basic template service");
   return new BasicTemplateService(app, logger3);
 }
+function makeTemplateServiceResolver(app, logger3) {
+  let templaterService;
+  return () => {
+    if (templaterService !== void 0) {
+      return templaterService;
+    }
+    const service = getTemplateService(app, logger3);
+    if (service instanceof TemplaterService) {
+      templaterService = service;
+    }
+    return service;
+  };
+}
 
 // src/core/template/retryForm.ts
 var retryForm = {
@@ -30506,6 +30601,14 @@ var ModalFormPlugin = class extends import_obsidian34.Plugin {
     super(...arguments);
     this.unsubscribeSettingsStore = () => {
     };
+    /**
+     * Resolves the template service on every access, so we pick up Templater
+     * even when it finishes loading after us. See `makeTemplateServiceResolver`.
+     */
+    this.resolveTemplateService = () => getTemplateService(this.app, logger);
+  }
+  get templateService() {
+    return this.resolveTemplateService();
   }
   manageForms() {
     return this.activateView(MANAGE_FORMS_VIEW);
@@ -30717,7 +30820,7 @@ var ModalFormPlugin = class extends import_obsidian34.Plugin {
     });
     this.api = new API(this.app, this);
     this.attachShortcutToGlobalWindow();
-    this.templateService = getTemplateService(this.app, logger);
+    this.resolveTemplateService = makeTemplateServiceResolver(this.app, logger);
     this.registerTemplateCommands();
     this.registerView(EDIT_FORM_VIEW, (leaf) => new EditFormView(leaf, this));
     this.registerView(MANAGE_FORMS_VIEW, (leaf) => new ManageFormsView(leaf, this));

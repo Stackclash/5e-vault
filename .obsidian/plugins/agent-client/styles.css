@@ -42,7 +42,9 @@ If your plugin does not need CSS, delete this file.
 	font: inherit;
 }
 
-.agent-client-session-manager .tree-item-self:hover .agent-client-session-item-more {
+.agent-client-session-manager
+	.tree-item-self:hover
+	.agent-client-session-item-more {
 	opacity: 1;
 }
 
@@ -75,6 +77,15 @@ If your plugin does not need CSS, delete this file.
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
+}
+
+.agent-client-session-item-embedded-badge {
+	margin-left: var(--size-2-2);
+	padding: 0 var(--size-2-2);
+	border-radius: var(--radius-s);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-faint);
+	background-color: var(--background-modifier-border);
 }
 
 .agent-client-session-status-icon {
@@ -110,8 +121,12 @@ If your plugin does not need CSS, delete this file.
 }
 
 @keyframes agent-client-spin {
-	from { transform: rotate(0deg); }
-	to { transform: rotate(360deg); }
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
 }
 
 /* ===== Settings Tab Documentation Link ===== */
@@ -134,13 +149,52 @@ If your plugin does not need CSS, delete this file.
 	text-decoration: underline;
 }
 
-/* ===== Settings Tab Custom Agent Block ===== */
-.agent-client-custom-agent {
-	padding: 16px;
-	margin-bottom: 24px;
-	background-color: var(--background-secondary);
-	border: 1px solid var(--background-modifier-border);
-	border-radius: 8px;
+/* ===== Settings Tab Collapsible Agent Sections ===== */
+.agent-client-agent-summary {
+	display: flex;
+	align-items: center;
+	gap: var(--size-4-2);
+	padding: var(--size-4-2) 0;
+	border-top: 1px solid var(--background-modifier-border);
+}
+
+/* Text-like button: the summary is a real <button> for keyboard/focus,
+   restyled to read as a heading row. Name left, chevron pushed right. */
+.agent-client-agent-summary-button {
+	display: flex;
+	flex: 1 1 auto;
+	align-items: center;
+	justify-content: space-between;
+	gap: var(--size-4-2);
+	padding: 0 var(--size-4-2);
+	background: none;
+	border: none;
+	box-shadow: none;
+	color: var(--text-normal);
+	font-size: var(--font-ui-medium);
+	font-weight: var(--font-semibold);
+	text-align: left;
+	cursor: pointer;
+}
+
+.agent-client-agent-summary-button:hover {
+	color: var(--text-accent);
+}
+
+.agent-client-agent-summary-chevron {
+	display: flex;
+	align-items: center;
+	color: var(--text-muted);
+	transition: transform 100ms ease-in-out;
+}
+
+.agent-client-agent-summary.agent-client-open
+	.agent-client-agent-summary-chevron {
+	transform: rotate(90deg);
+}
+
+.agent-client-agent-section-body.agent-client-collapsed {
+	display: none;
 }
 
 /* ===== Loading Indicator ===== */
@@ -505,7 +559,9 @@ If your plugin does not need CSS, delete this file.
 }
 
 /* Hide stale inner view-header title (updateHeader() doesn't refresh it); visibility:hidden preserves flex layout. */
-.workspace-leaf-content[data-type="agent-client-chat-view"] > .view-header .view-header-title-container {
+.workspace-leaf-content[data-type="agent-client-chat-view"]
+	> .view-header
+	.view-header-title-container {
 	visibility: hidden;
 }
 
@@ -2205,48 +2261,6 @@ If your plugin does not need CSS, delete this file.
 	color: var(--interactive-accent);
 }
 
-/* ===== Code Block Chat View ===== */
-/* TODO(code-block): Styles for future code block chat view */
-.agent-client-code-block-container {
-	display: flex;
-	flex-direction: column;
-	border: 1px solid var(--background-modifier-border);
-	border-radius: 8px;
-	background: var(--background-primary);
-	overflow: hidden;
-}
-
-.agent-client-code-block-content {
-	display: flex;
-	flex-direction: column;
-	padding: 8px;
-}
-
-.agent-client-code-block-status {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	padding: 4px 8px;
-	background: var(--background-secondary);
-	border-radius: 4px;
-	margin-bottom: 4px;
-	flex-wrap: wrap;
-	gap: 8px;
-}
-
-.agent-client-code-block-status-actions {
-	display: flex;
-	align-items: center;
-	gap: 4px;
-	flex-wrap: wrap;
-}
-
-.agent-client-code-block-messages {
-	max-height: 400px;
-	overflow-y: auto;
-	margin-bottom: 8px;
-}
-
 /* ===== Agent Selector (InlineHeader) ===== */
 .agent-client-agent-selector {
 	display: inline-flex;
@@ -2310,4 +2324,144 @@ If your plugin does not need CSS, delete this file.
 .agent-client-agent-label {
 	color: var(--text-normal);
 	font-size: 12px;
+}
+
+/* ============================================================
+   Embedded agent-client code blocks
+   ============================================================ */
+
+.agent-client-code-block-error {
+	border: 1px solid var(--background-modifier-error-border, var(--text-error));
+	background: var(--background-modifier-error);
+	color: var(--text-on-accent, #fff);
+	padding: 10px 14px;
+	border-radius: 6px;
+	font-size: 0.95em;
+	margin: 4px 0;
+	font-family: var(--font-interface);
+}
+
+.agent-client-code-block-error-label {
+	font-weight: 700;
+	margin-right: 4px;
+	color: var(--text-on-accent, #fff);
+}
+
+.agent-client-code-block-error-source {
+	margin-top: 8px;
+	padding: 6px 10px;
+	background: rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+	font-family: var(--font-monospace);
+	font-size: 0.85em;
+	color: var(--text-on-accent, #fff);
+	white-space: pre-wrap;
+	overflow-wrap: anywhere;
+	max-height: 200px;
+	overflow: auto;
+}
+
+.agent-client-code-block-warning {
+	border: 1px solid var(--background-modifier-border);
+	background: var(--background-secondary);
+	color: var(--text-muted);
+	padding: 6px 10px;
+	border-radius: 6px;
+	font-size: 0.85em;
+	margin: 4px 0;
+	font-family: var(--font-interface);
+}
+
+.agent-client-code-block-warning-item {
+	white-space: pre-wrap;
+	overflow-wrap: anywhere;
+}
+
+.agent-client-code-block-host {
+	margin: 8px 0;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 8px;
+	overflow: hidden;
+	background: var(--background-primary);
+}
+
+.agent-client-code-block-chat {
+	display: flex;
+	flex-direction: column;
+	height: var(--ac-embedded-max-height, 520px);
+	min-height: 320px;
+	max-height: min(var(--ac-embedded-max-height, 520px), 80vh);
+	overflow: hidden;
+}
+
+.agent-client-embedded-chat-panel {
+	flex: 1 1 auto;
+	height: 100%;
+	min-height: 0;
+	overflow: hidden;
+	background: var(--background-primary);
+}
+
+.agent-client-embedded-header {
+	flex: 0 0 auto;
+	background: var(--background-primary);
+}
+
+.agent-client-embedded-header .agent-client-inline-header {
+	min-height: 34px;
+	padding: 6px 10px;
+}
+
+.agent-client-embedded-messages-container {
+	flex: 1 1 auto;
+	display: flex;
+	flex-direction: column;
+	min-height: 0;
+	overflow: hidden;
+}
+
+.agent-client-embedded-messages-container .agent-client-chat-view-messages {
+	flex: 1 1 auto;
+	min-height: 0;
+	padding: 12px 10px;
+	overflow-y: auto;
+	overscroll-behavior: contain;
+}
+
+.agent-client-embedded-chat-panel .agent-client-chat-input-container {
+	flex: 0 0 auto;
+	padding: 8px 10px 10px;
+	background: var(--background-primary);
+}
+
+/* ============================================================
+   Quick-action button blocks
+   ============================================================ */
+
+.agent-client-button-block {
+	display: inline-flex;
+	margin: 4px 0;
+}
+
+.agent-client-button-block-button {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	padding: 6px 14px;
+	border-radius: 6px;
+	cursor: pointer;
+	font-weight: 500;
+}
+
+.agent-client-button-block-text {
+	white-space: nowrap;
+}
+
+.agent-client-button-block-icon {
+	display: flex;
+}
+
+.agent-client-button-block-icon svg {
+	width: 16px;
+	height: 16px;
 }

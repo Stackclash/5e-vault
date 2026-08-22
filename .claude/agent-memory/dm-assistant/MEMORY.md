@@ -1,0 +1,2 @@
+- [Campaign state](project_campaign-state.md) — session count, thread ledger, and prep debts for The Hunt for Vecna as of S44
+- [Session log workflow](feedback_session-log-workflow.md) — draft-then-file cadence for post-session wraps; no notes for nameless one-off NPCs

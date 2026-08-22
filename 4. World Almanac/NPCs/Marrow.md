@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
-condition: healthy
+condition: dead
 images:
   - z_Assets/PlaceholderImage.png
 relationships: []
@@ -26,12 +26,13 @@ groups:
 religions: []
 description: |-
   In its true form, Marrow is a gaunt, grey-skinned humanoid with smooth, half-formed features — the standard doppelganger blank, unremarkable until it chooses to be. It rarely shows this face to anyone still breathing.
-  Worn as Lord Caldris Velmont, it was flawless: the same rehearsed charm, the same calculating eyes, right down to the habitual smoothing of an embroidered sleeve. It has since worn Professor Gousse Windcaller for less than an hour, and — as of this session — Roark Battleborn.
+  Worn as Lord Caldris Velmont, it was flawless: the same rehearsed charm, the same calculating eyes, right down to the habitual smoothing of an embroidered sleeve. It went on to wear Professor Gousse Windcaller for less than an hour, and then Roark Battleborn — the face it died in.
   Under a strong light, or to a detect magic-primed eye, a careful look finds thread-thin veins of amber beneath the skin at the nape of the neck — the graft that makes it more dangerous than its kind.
 history: |-
   Marrow captured Lord Caldris Velmont on the Silent Ascendency's orders, chained him in his own basement behind a stone golem and an anti-magic field, and stepped into his life. As "Velmont," it ran the Athenaeum council seat, cultivated the smuggling ring that funneled stolen magic items toward Vecna's ascension, and personally oversaw its sharp escalation after Vecna's escape (S40–S42).
   Redgrave's Geas unraveled it in Gousse's office (S43) — Marrow felt the compulsion fail to take and knew the game was up before anyone else in the room did. It stormed out rather than let anyone watch a Geas visibly slide off "Lord Velmont." Cornered again minutes later wearing Gousse's face when Faerah came looking for the professor, it slipped away into a crowd the instant Nyxia's detect magic made it.
   It didn't leave Bruokdon. Two identities burned in one afternoon and the entire operation exposed, it needed a third — one with reach, not just cover. Roark Battleborn, heading out from the Athenaeum with Lyssandra Veil on an errand of their own, was both a hostage worth taking and a door back into the one group actively hunting the cell. Marrow's team took them both; Marrow put on Roark's face and walked back in.
+  The cover held for days, on the strength of a fake device and a rehearsed story, and collapsed the moment Corwin Vantor's body was found mid-sweep at the Athenaeum (S44). Stopped in a Bruokdon street by city guards with Faerah Duskrane at its back, it turned on her rather than be taken, and she killed it in single combat. The corpse reverted to its true grey form where it fell, the amber graft plainly visible at the nape of the neck; the party left the body in place, meaning to come back and examine it. Its death decapitated the Silent Ascendency's Bruokdon cell.
 personality: Patient, adaptive, and genuinely gifted at reading a room — it survives by recalibrating faster than anyone can catch up to. Under pressure it doesn't panic so much as redirect, instantly producing the next lie, the next scapegoat, the next exit.
 ideal: Survival is the only proof of competence. Everything else — loyalty, ideology, even the Great Unveiling it serves — is a tool.
 bond: Reports personally to whoever runs the Silent Ascendency's interests above Bruokdon, and has staked everything on staying useful to them rather than becoming a liability.
@@ -42,15 +43,15 @@ dislikes: Loose ends, being seen clearly, spending resources it can't recover.
 partyRelationships:
   Midnight Covenant: Enemy
 player_impression: |-
-  The party knows a doppelganger infiltrated the Umbral Athenaeum, impersonating Lord Caldris Velmont and then Professor Gousse Windcaller before escaping into a crowd at the end of S43. Its identity, name, and whereabouts were unknown as of that session.
-  As of right now, going into the next session, the party believes Roark and Lyssandra's errand to retrieve Corwin Vantor's device went off without a hitch: "Roark" came back with a working (in fact fake) heartbeat-detection device, reporting that Lyssandra chose to stay behind with Corwin to run further diagnostics on it and would catch up later. They have no reason yet to doubt any of this.
+  The party knows the doppelganger that impersonated Lord Caldris Velmont and then Professor Gousse Windcaller (S43) never left Bruokdon. It ambushed Roark Battleborn and Lyssandra Veil at Corwin Vantor's handoff, killed Corwin, took them both captive, and came back wearing Roark's face with a fake device and a cover story that held for days.
+  Faerah Duskrane killed it in a Bruokdon street (S44). The corpse reverted to its true grey form with an amber gem lodged at the base of its neck; the party left the body in place and has not yet investigated the gem. A cultist taken at the smuggling wagon gave them its name — Marrow — and identified it as the leader of the Ascendency's Bruokdon cell.
 secrets: |-
-  Marrow is the Silent Ascendency's cell leader in Bruokdon, not a rank-and-file infiltrator — it has run the local operation from inside Velmont's stolen identity since it first took him captive.
-  It orchestrated the ambush that captured Roark Battleborn and Lyssandra Veil (opportunistic, not planned in advance — the Ascendency had no prior knowledge of the heartbeat-detection device Corwin Vantor built). Lyssandra was taken for her illusion mastery, earmarked for future ward-work; Roark was taken as leverage and, worn as a disguise, as a door back into the party hunting the cell.
-  It is currently impersonating Roark Battleborn and has already sold the party a cover story: the handoff went fine, Lyssandra stayed behind with Corwin "to run diagnostics," and here's the device to prove it. The device is a fake — an inert prop supplied by the cell's resources, cobbled together to pass a glance — planted specifically so that when Corwin's body and the real struggle are eventually found, the contradiction points suspicion at "Roark" rather than confirming his story. It will keep working that angle under pressure: floating a suspect, or having a low-level cultist take the fall and "confess" to acting alone — rather than let the party's suspicion land on it directly.
-  It carries an amber graft (the "Marrow-rite" in Ascendency parlance) seated at the base of its skull — a sliver of the same stolen Eludrax soul-craft powering the Amber Wardens and the soul-vessel pipeline. Given prior contact with a target (blood, a grapple, or having watched them fight), the graft lets it draw on a whisper of that target's soul-print: trained reflexes, muscle memory, even a taste of talent, layered over its own shapeshifting for as long as the disguise holds. This is why "Roark" fights like Roark tonight, not like a standard doppelganger. See Stats below for the mechanism and its cost.
-  Reverts to its true grey form immediately on death or incapacitation, as the disguise magic lapses — should read as an unmistakable visual "reveal," no roll needed.
-  Knows Vecna only by title — the Whispered One, God of Secrets, the Undying King — same as its own rank and file. Whether Marrow personally knows the name Vecna is left to the table; it changes nothing the party doesn't already know (S33).
+  Mostly resolved in play (S43-S44). What the party now knows is in player_impression; what remains DM-only is flagged below.
+  Revealed: Marrow was the Silent Ascendency's cell leader in Bruokdon, not a rank-and-file infiltrator — it ran the local operation from inside Velmont's stolen identity from the day it took him captive. A cultist taken at the wagon gave the party both its name and its rank.
+  Revealed: it orchestrated the ambush that captured Roark Battleborn and Lyssandra Veil (opportunistic, not planned in advance — the Ascendency had no prior knowledge of the heartbeat-detection device Corwin Vantor built). Lyssandra was taken for her illusion mastery, earmarked for future ward-work; Roark was taken as leverage and, worn as a disguise, as a door back into the party hunting the cell. The device "Roark" returned with was an inert prop.
+  STILL DM-ONLY: the nameless dwarf who confessed mid-sweep to leading the Bruokdon cell was Marrow's frame — a low-level cultist primed to take the fall so suspicion never landed on "Roark." He is in custody and can confirm it whenever the party thinks to ask him.
+  STILL DM-ONLY: the amber graft (the "Marrow-rite" in Ascendency parlance) seated at the base of its skull is a sliver of the same stolen Eludrax soul-craft powering the Amber Wardens and the soul-vessel pipeline. Given prior contact with a target (blood, a grapple, or having watched them fight), the graft let Marrow draw on a whisper of that target's soul-print: trained reflexes, muscle memory, even a taste of talent, layered over its own shapeshifting for as long as the disguise held. This is why "Roark" fought like Roark. See Stats below for the mechanism and its cost. The party left the corpse in the street with the gem still in it and has examined neither — this is the live hook into the Amber Wardens thread.
+  STILL DM-ONLY: rank and file, Marrow included, knew Vecna only by title — the Whispered One, God of Secrets, the Undying King.
 ---
 
 > [!infobox]
