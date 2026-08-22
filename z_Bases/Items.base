@@ -6,7 +6,7 @@ views:
     name: Overview
     filters:
       and:
-        - rarity == "uncommon"
+        - rarity == "legendary"
     order:
       - file.name
       - type

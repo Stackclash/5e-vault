@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "84623c037b624706",
+        "id": "1d513d7217648f78",
         "type": "tabs",
         "children": [
           {
-            "id": "ff7f9ff51ef24f65",
+            "id": "6103a256ee42ee93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-01.md",
+                "file": "1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 New Session Journal.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-01"
+              "title": "S44 New Session Journal"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 304.83203125
   },
   "right": {
     "id": "24f65bc15fe356db",
@@ -177,8 +179,8 @@
                 "id": "ID_aa9bf8981938",
                 "child": "ID_1bd94a588859"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -187,8 +189,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -214,8 +216,8 @@
                 ],
                 "version": "1"
               },
-              "icon": "lucide-ghost",
-              "title": "modal-form-edit-form-view"
+              "icon": "note-glyph",
+              "title": "Edit form"
             }
           },
           {
@@ -224,51 +226,12 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "4b9dddb4b78603a0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "d160195269d498c4",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
-        "currentTab": 8
-      },
-      {
-        "id": "08430cc46d5cdc46",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b87f4254b21b3777",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {
-                "creatureId": "ID_a8486a085b9b",
-                "creatureName": "Cult Fanatic"
-              },
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -277,78 +240,79 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
       "bases:Create new base": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
-      "obsidian42-brat:BRAT": false,
+      "obsidian42-brat:BRAT": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "media-extended:Open media library": false,
-      "media-extended:Open media quick switcher": false,
       "modalforms:Edit forms": false,
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
       "relations:Open Relations graph": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "ff7f9ff51ef24f65",
+  "active": "6103a256ee42ee93",
   "lastOpenFiles": [
-    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-01.md",
+    "1. DM Toolkit/Session Journals/Session Journals.md",
     "1. DM Toolkit/Configuration.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S2 Secrets in the Dark.md",
-    "z_Bases/NPCs.base",
+    "5. Mechanics/Items/Items.md",
+    "1. DM Toolkit/Knowledge/Sources/Articles/10x Your Productivity With Intermediate Packets.md",
+    "1. DM Toolkit/Knowledge/Sources/Podcasts/648 — James Clear, Atomic Habits — Simple Strategies for Building (And Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writing and Launching a Mega-Bestseller, Finding Leverage, and More.md",
+    "5. Mechanics/Items/Blood Fury Tattoo (TCE).md",
+    "5. Mechanics/Items/Gauntlets Of Ogre Power.md",
+    "5. Mechanics/Items/Bag Of Holding.md",
+    "5. Mechanics/Spells/Revivify.md",
+    "5. Mechanics/Spells/Resurrection.md",
+    "5. Mechanics/Spells/Scrying.md",
+    "4. World Almanac/NPCs/Corwin Vantor.md",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-01.md",
+    "5. Mechanics/Spells/Teleport.md",
+    "5. Mechanics/Spells/Dimension Door.md",
+    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 New Session Journal.md",
+    "4. World Almanac/Settlements/Bruokdon.md",
+    "2. Scratch Notes/S44 Live Session - Improvised Facts.md",
+    "5. Mechanics/Bestiary/Humanoid/Guard.md",
+    "5. Mechanics/Items/Shortsword.md",
+    "5. Mechanics/Bestiary/Monstrosity/Doppelganger.md",
+    "5. Mechanics/Tables/Doppelganger (HHHVI).md",
+    "5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md",
+    "5. Mechanics/Items/Potion Of Greater Healing.md",
+    "5. Mechanics/Items/Potion Of Healing.md",
+    "5. Mechanics/Classes/Rogue.md",
     "media-lib/index.base",
     "media-lib",
-    "4. World Almanac/NPCs/Marrow.md",
-    "4. World Almanac/NPCs/Corwin Vantor.md",
-    "2. Scratch Notes/continue.md",
-    "4. World Almanac/NPCs/Anastrasya Karelova (COS).md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md",
-    "1. DM Toolkit/Session Journals/Session Journals.md",
-    "4. World Almanac/NPCs/Seer Ithildra Moonveil.md",
-    "4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md.tmp.5520.0c5b42d87ae8",
-    "4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md.tmp.5520.cdffb30d95f2",
-    "4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md.tmp.5520.abdbeb32e409",
-    "4. World Almanac/NPCs/Vilnius (COS).md.tmp.5520.3273e00cdd63",
-    "4. World Almanac/NPCs/Vilnius (COS).md.tmp.5520.fb1e7779ff04",
-    "4. World Almanac/NPCs/Savid (COS).md.tmp.5520.0c2731b809d3",
-    "4. World Almanac/NPCs/Savid (COS).md.tmp.5520.b9d18cbdd9fd",
-    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
-    "4. World Almanac/NPCs/Professor Gousse Windcaller.md",
-    "4. World Almanac/NPCs/Professor Alindra Quicksilver.md",
-    "4. World Almanac/NPCs/Mistress Lyssandra Veil.md",
-    "4. World Almanac/NPCs/Magister Kaelor Stormbrand.md",
-    "4. World Almanac/NPCs/Archwarden Selvara Kain.md",
-    "4. World Almanac/NPCs/Archmortician Valeris Thorne.md",
-    "4. World Almanac/NPCs/Lord Caldris Velmont.md",
-    "4. World Almanac/NPCs/NPCs.md",
-    "z_Assets/NPCs/Gousse Windcaller.png",
-    "4. World Almanac/NPCs/Gertruda (COS).md",
-    "4. World Almanac/Settlements/Vallaki.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S39 The Freeing of Martin Thricefold.md",
-    "2. Scratch Notes/Frontmatter Audit - 2026-07-13.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S40 Secrets of the Silent Ascendency.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S41 The Warehouse Raid.md",
-    "5. Mechanics/Bestiary/Aberration/token/star-spawn-hulk-mpmm.webp",
-    "z_Assets/NPCs/Valeris Thorne.png",
-    "z_Assets/NPCs/Selvara Kain.png",
-    "z_Assets/NPCs/Lyssandra Veil.png",
-    "z_Assets/NPCs/Kaelor Stormbrand.png",
-    "z_Assets/NPCs/Ithildra Moonveil.png",
-    "z_Assets/NPCs/Caldris Velmont.png",
-    "z_Assets/NPCs/Alindra Quicksilver.png",
-    "z_Assets/Locations/bruokdon.png"
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/intro.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/dmgcover.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/ch8splash.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/ch2splash.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/ch1splash.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-25.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-24.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-23.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-22.webp",
+    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-04.webp",
+    "5. Mechanics/Decks/Tarokka Deck 999_dnd_tarokka_back_2",
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10.pdf",
+    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
+    "Characters",
+    "z_Scripts/Datacore/ShopInventory.tsx",
+    "z_Scripts/Datacore/shopInventory.tsx",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna"
   ]
 }

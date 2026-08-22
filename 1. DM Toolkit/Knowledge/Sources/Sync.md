@@ -39,3 +39,11 @@
 # [[2026-07-31]] *(7:02am)*
 
 # [[2026-07-31]] *(9:09pm)*
+
+# [[2026-08-01]] *(7:33pm)*
+
+# [[2026-08-19]] *(10:45am)*
+- [[648 — James Clear, Atomic Habits — Simple Strategies for Building (And Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writing and Launching a Mega-Bestseller, Finding Leverage, and More]] *(1 highlights)*
+
+# [[2026-08-22]] *(8:55am)*
+- [[10x Your Productivity With Intermediate Packets]] *(9 highlights)*

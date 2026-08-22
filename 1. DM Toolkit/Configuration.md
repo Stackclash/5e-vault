@@ -80,20 +80,20 @@ shop_types:
   - name: Apothecary
     filters:
       - type: wondrous
-        subtype_any: "potion, oil"
+        subtype_any: potion, oil
       - type: gear
         subtype_any: herb
   - name: Fletcher
     filters:
       - type: weapon
-        name_any: "bow, sling"
+        name_any: bow, sling
       - type: gear
         subtype_any: ammunition
   - name: General Store
     filters:
       - type: weapon
         subtype_none: explosive
-        name_none: "pistol, rifle, revolver, musket, shotgun, laser, antimatter"
+        name_none: pistol, rifle, revolver, musket, shotgun, laser, antimatter
       - type: armor
       - tags_any: item/shield
       - type: wondrous
@@ -104,16 +104,16 @@ shop_types:
   - name: Weaponsmith
     filters:
       - type: weapon
-        subtype_any: "melee, ranged"
-        name_none: "pistol, rifle, revolver, musket, shotgun, laser, antimatter"
+        subtype_any: melee, ranged
+        name_none: pistol, rifle, revolver, musket, shotgun, laser, antimatter
   - name: Jeweler
     filters:
       - type: wondrous
         subtype_any: ring
       - type: gear
-        subtype_any: "treasure-gemstone, treasure-art-object"
+        subtype_any: treasure-gemstone, treasure-art-object
       - type: wondrous
-        name_any: "amulet, necklace, circlet, brooch, pendant"
+        name_any: amulet, necklace, circlet, brooch, pendant
   - name: Enchanter
     filters:
       - type: wondrous
@@ -127,19 +127,19 @@ shop_types:
   - name: Alchemist
     filters:
       - type: wondrous
-        subtype_any: "potion, oil"
+        subtype_any: potion, oil
       - type: gear
-        name_any: "acid, alchemist, antitoxin, holy water, poison, healer"
+        name_any: acid, alchemist, antitoxin, holy water, poison, healer
   - name: Stable
     filters:
       - type: gear
-        subtype_any: "mount, tack-and-harness"
+        subtype_any: mount, tack-and-harness
       - type: vehicle
         subtype_any: land
   - name: Shipwright
     filters:
       - type: vehicle
-        subtype_any: "ship-water, airship-air"
+        subtype_any: ship-water, airship-air
   - name: Instrument Maker
     filters:
       - type: gear
@@ -147,7 +147,7 @@ shop_types:
   - name: Trading Post
     filters:
       - type: gear
-        subtype_none: "herb, ammunition, ammunition-firearm, treasure-gemstone, treasure-art-object, treasure-coinage, mount, tack-and-harness, spellcasting-focus, instrument, oil, curse"
+        subtype_none: herb, ammunition, ammunition-firearm, treasure-gemstone, treasure-art-object, treasure-coinage, mount, tack-and-harness, spellcasting-focus, instrument, oil, curse
 shop_sizes:
   - name: Small
     rarity: none
@@ -194,11 +194,11 @@ shop_sizes:
 item_pricing:
   base_prices:
     none: 0
-    common: 10000
-    uncommon: 40000
-    rare: 400000
-    very-rare: 4000000
-    legendary: 20000000
+    common: 100000
+    uncommon: 400000
+    rare: 4000000
+    very-rare: 40000000
+    legendary: 200000000
   tier_modifiers:
     minor: 0.75
     major: 1.5
@@ -209,7 +209,7 @@ item_pricing:
     short-rest: 0.95
     long-rest: 0.85
 ---
-> [!infobox|n-th]
+  > [!infobox|n-th]
 > | | |
 > |---|---|
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
