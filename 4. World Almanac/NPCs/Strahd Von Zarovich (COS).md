@@ -12,6 +12,7 @@ images:
   - 4. World Almanac\NPCs\img\153-636988936829621698.webp
 aliases:
   - Strahd von Zarovich
+  - Strahd Von Zarovich
 alignment: Lawful Evil
 relationships: []
 partyRelationships:

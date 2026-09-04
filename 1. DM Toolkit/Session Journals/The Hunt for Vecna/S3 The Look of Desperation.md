@@ -60,9 +60,9 @@ items: []
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-- [[Ireena Kolyana]] is wanted by [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] and has been bitten twice
+- [[Ireena Kolyana]] is wanted by [[4. World Almanac/NPCs/Strahd Von Zarovich (COS)|Strahd Von Zarovich]] and has been bitten twice
 - [[Ismark Kolyanovich]] wants the party to take [[Ireena Kolyana]] to Vallaki
-- A wizard gathered town people to face against [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] 
+- A wizard gathered town people to face against [[4. World Almanac/NPCs/Strahd Von Zarovich (COS)|Strahd Von Zarovich]] 
 - Donovich's son is a vampire spawn
 
 ## Items Of Importance
@@ -79,7 +79,7 @@ N/A
 - They go to the tavern and purchase a room where they lay down [[Marin]].
 - [[Ismark Kolyanovich]] approaches [[Redgrave]] and [[Faerah Duskrane]]  who remained downstairs. He asks them for help bringing his sister, Ireena Kolyana to Vallaki. The rest of the party comes down to join the conversation
 - They go to the Burgomaster mansion and meet [[Ireena Kolyana]].
-- [[Ireena Kolyana]] reveals that [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] wants her and has bitten her twice 
+- [[Ireena Kolyana]] reveals that [[4. World Almanac/NPCs/Strahd Von Zarovich (COS)|Strahd Von Zarovich]] wants her and has bitten her twice 
 - She says she doesn't want to go unless they bury her adoptive father first 
 - The party brings the coffin to the church and meet Father Donovich
 - They hear a scream from the basement and the party presses Donovich about what it was

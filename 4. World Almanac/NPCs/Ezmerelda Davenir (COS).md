@@ -12,6 +12,7 @@ images:
   - 4. World Almanac\NPCs\img\ezmerelda-davenir.webp
 aliases:
   - Ezmerelda d'Avenir
+  - Ezmerelda Davenir
 alignment: Chaotic Good
 relationships: []
 partyRelationships:

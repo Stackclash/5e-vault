@@ -12,6 +12,7 @@ images:
   - 4. World Almanac\NPCs\img\baba-lysagas-creeping-hut.webp
 aliases:
   - Baba Lysaga's Creeping Hut
+  - Baba Lysagas Creeping Hut
 alignment: Unaligned
 relationships: []
 partyRelationships: {}

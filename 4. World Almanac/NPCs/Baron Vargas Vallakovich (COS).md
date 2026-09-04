@@ -12,6 +12,7 @@ images:
   - 4. World Almanac\NPCs\img\baron-vargas-vallakovich.webp
 aliases:
   - Baron Vargas Vallakovich
+  - Vargas Vallakovich
 alignment: Neutral Evil
 description: >-
   A paranoid, image-obsessed nobleman who believes enough manufactured cheer

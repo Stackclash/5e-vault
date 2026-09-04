@@ -45,7 +45,7 @@ Requires hourly [[08 Using Ability Scores#Constitution Checks|Constitution Check
 
 DC 11 at hour 9
 DC 12 at hour 10
-Each failure adds a level of [[conditions#Exhaustion|Exhaustion]].
+Each failure adds a level of [[Conditions#Exhaustion|Exhaustion]].
 
 ### Transport Services
 

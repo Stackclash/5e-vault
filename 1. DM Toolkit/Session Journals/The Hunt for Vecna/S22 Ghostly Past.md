@@ -53,12 +53,12 @@ items: []
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-- [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] is jealous of Sergei Von Zarovich
+- [[4. World Almanac/NPCs/Strahd Von Zarovich (COS)|Strahd Von Zarovich]] is jealous of Sergei Von Zarovich
 - Tatyana is an early reincarnation of Ireena
-- [[4. World Almanac/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]] fell in love with Tatyana
+- [[4. World Almanac/NPCs/Strahd Von Zarovich (COS)|Strahd Von Zarovich]] fell in love with Tatyana
 
 ## Items Of Importance
-- [[Helm Of The Minotaur]]
+- [[5. Mechanics/Items/Helm Of The Minotaur (HHHVI)|Helm of the Minotaur]]
 - [[Amulet Of Health]]
 
 ## What Happened

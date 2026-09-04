@@ -88,7 +88,7 @@ Things I need to get ready before the session:
 ## Plan
 High story beats, main things I want to happen this session.
 - The characters should meet the following people before everything goes down
-	- [[Gadof Blinksy]] 
+	- [[Gadof Blinsky]] 
 		- Have Father Lucian send the party to Blinksy's to get a toy for Yeska (Lucian's young assistant)
 	- Rudolph van Richen aka Rictavio
 		- Have Nikolai and Karl Wachter bother Rictavio to urge the party to intervene and meet him

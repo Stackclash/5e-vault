@@ -12,6 +12,7 @@ images:
   - 4. World Almanac\NPCs\img\060-cos05-11.webp
 aliases:
   - Lady Fiona Wachter
+  - Fiona Wachter
 alignment: Lawful Evil
 description: >-
   A composed, aristocratic widow who makes no secret of her family's ancient

@@ -65,7 +65,7 @@ Description
 ## What Happened
 - [[Seluvis Felo'melorn]] investigates from the top of the guard tower at [[Tsolenka Pass]]
 - [[Redgrave]] decodes chapter 2 from the Tome of Strahd while the party has a long rest
-- The party reads chapter 2 from the [[Tome Of Strahd]]
+- The party reads chapter 2 from the [[5. Mechanics/Items/Tome Of Strahd (COS)|Tome of Strahd]]
 - The party goes to cross the bridge across the Luna River and are a attacked by a giant bird
 - [[Marin]] takes out the decaying body of  [[Savid]] and uses it as a distraction
 - After eating the body of [[Savid]] the bird begins to cross the bridge and Redgrave creates a whirlwind of snow to trap it

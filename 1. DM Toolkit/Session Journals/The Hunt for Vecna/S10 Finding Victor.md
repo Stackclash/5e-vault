@@ -86,7 +86,7 @@ Things I need to get ready before the session:
 High story beats, main things I want to happen this session.
 - [ ] Victor took his teleportation circle to [[Gertruda]]
 	- [ ] [[Curse of Strahd Companion.pdf#page=113]]
-- [ ] [[Gertruda|Gertruda's]] teleportation circle teleports to [[06 Chapter-4 Castle Ravenloft#K78. Brazier Room|Castle Ravenloft's Brazier Room]]
+- [ ] [[Gertruda|Gertruda's]] teleportation circle teleports to [[6. Resources/5e Modules/Curse Of Strahd/06 Chapter 4 Castle Ravenloft#K78. Brazier Room|Castle Ravenloft's Brazier Room]]
 
 # Session
 ## Start

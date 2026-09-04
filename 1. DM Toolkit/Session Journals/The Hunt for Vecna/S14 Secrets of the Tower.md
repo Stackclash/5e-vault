@@ -67,6 +67,6 @@ Description
 
 ## What Happened
 - The party uncovers Khazan and defeat him in his dark dimension
-	- Khazan is now bound to [[5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich|Strahd Von Zarovich]] in his castle #secret #remember
-- [[Drow Eilistraee|Eilistraee]] contacted [[Faerah Duskrane]] through her pendant asking her to be her champion in freeing the people of [[Barovia]] #remember 
+	- Khazan is now bound to [[5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS)|Strahd Von Zarovich]] in his castle #secret #remember
+- [[5. Mechanics/Deities/Drow Eilistraee (MTF)|Eilistraee]] contacted [[Faerah Duskrane]] through her pendant asking her to be her champion in freeing the people of [[Barovia]] #remember 
 - [[Marin]] accepts power from the Dark Powers to bring Yan's head alive permanently #remember 
