@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – German, Male**
 
-`dice: [[Human Names German Male (XGE).md#^human-names-german-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names German Male (XGE).md#^human-names-german-male]]`
 
 | dice: d100 | Name |
 |------------|------|

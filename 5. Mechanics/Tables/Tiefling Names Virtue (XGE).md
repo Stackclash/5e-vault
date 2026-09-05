@@ -11,7 +11,7 @@ aliases:
 
 **Tiefling Names – Virtue**
 
-`dice: [[Tiefling Names Virtue (XGE).md#^tiefling-names-virtue]]`
+`dice: [[/5. Mechanics/Tables/Tiefling Names Virtue (XGE).md#^tiefling-names-virtue]]`
 
 | dice: d100 | Name |
 |------------|------|

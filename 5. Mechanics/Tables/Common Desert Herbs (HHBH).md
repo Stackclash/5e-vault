@@ -9,7 +9,7 @@ aliases:
 # Common Desert Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 
 
-`dice: [[Common Desert Herbs (HHBH).md#^herb]]`
+`dice: [[/5. Mechanics/Tables/Common Desert Herbs (HHBH).md#^herb]]`
 
 | dice: d6 | Herb |
 |----------|------|

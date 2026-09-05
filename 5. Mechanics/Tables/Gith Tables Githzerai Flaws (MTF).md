@@ -11,7 +11,7 @@ aliases:
 
 **Githzerai Flaws**
 
-`dice: [[Gith Tables Githzerai Flaws (MTF).md#^githzerai-flaws]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githzerai Flaws (MTF).md#^githzerai-flaws]]`
 
 | dice: d4 | Flaw |
 |----------|------|

@@ -8,7 +8,7 @@ aliases:
   - Oath of the Watchers
 ---
 # Oath of the Watchers
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Tasha's Cauldron of Everything p. 54*  
 
 > [!tldr] Class and Feature Progression

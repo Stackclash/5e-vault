@@ -11,7 +11,7 @@ aliases:
 
 At your discretion, you can use the following table to randomly determine a secret that plagues your tavern or festival.
 
-`dice: [[Taverns And Festivals Secrets (GRIFFONSSADDLEBAG2).md#^secret]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Secrets (GRIFFONSSADDLEBAG2).md#^secret]]`
 
 | dice: d8 | Secret |
 |----------|--------|

@@ -8,7 +8,7 @@ aliases:
   - Magi-Zoologist
 ---
 # Magi-Zoologist
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 118*  
 
 > [!tldr] Class and Feature Progression

@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Teeth Shape**
 
-`dice: [[Physical Characteristics Beholder Teeth Shape (VGM).md#^beholder-teeth-shape]]`
+`dice: [[/5. Mechanics/Tables/Physical Characteristics Beholder Teeth Shape (VGM).md#^beholder-teeth-shape]]`
 
 | dice: d10 | Teeth Shape |
 |-----------|-------------|

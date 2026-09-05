@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Greek, Female**
 
-`dice: [[Human Names Greek Female (XGE).md#^human-names-greek-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Greek Female (XGE).md#^human-names-greek-female]]`
 
 | dice: d100 | Name |
 |------------|------|

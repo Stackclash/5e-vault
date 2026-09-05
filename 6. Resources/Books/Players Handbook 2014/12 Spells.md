@@ -57,7 +57,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Detect Thoughts.md\|Detect Thoughts]]  
 - [[/5. Mechanics/Spells/Enhance Ability.md\|Enhance Ability]]  
 - [[/5. Mechanics/Spells/Enthrall.md\|Enthrall]]  
-- [[/5. Mechanics/Spells/Heat Met(AL).md\|Heat Metal]]  
+- [[/5. Mechanics/Spells/Heat Metal.md\|Heat Metal]]  
 - [[/5. Mechanics/Spells/Hold Person.md\|Hold Person]]  
 - [[/5. Mechanics/Spells/Invisibility.md\|Invisibility]]  
 - [[/5. Mechanics/Spells/Knock.md\|Knock]]  
@@ -141,7 +141,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Power Word Stun.md\|Power Word Stun]]  
 
 - [[/5. Mechanics/Spells/Foresight.md\|Foresight]]  
-- [[/5. Mechanics/Spells/Power Word He(AL).md\|Power Word Heal]]  
+- [[/5. Mechanics/Spells/Power Word Heal.md\|Power Word Heal]]  
 - [[/5. Mechanics/Spells/Power Word Kill.md\|Power Word Kill]]  
 - [[/5. Mechanics/Spells/True Polymorph.md\|True Polymorph]]  
 
@@ -208,7 +208,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Speak With Dead.md\|Speak with Dead]]  
 - [[/5. Mechanics/Spells/Spirit Guardians.md\|Spirit Guardians]]  
 - [[/5. Mechanics/Spells/Tongues.md\|Tongues]]  
-- [[/5. Mechanics/Spells/Water Wa(LK).md\|Water Walk]]  
+- [[/5. Mechanics/Spells/Water Walk.md\|Water Walk]]  
 
 - [[/5. Mechanics/Spells/Banishment.md\|Banishment]]  
 - [[/5. Mechanics/Spells/Control Water.md\|Control Water]]  
@@ -238,13 +238,13 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Find The Path.md\|Find the Path]]  
 - [[/5. Mechanics/Spells/Forbiddance.md\|Forbiddance]]  
 - [[/5. Mechanics/Spells/Harm.md\|Harm]]  
-- [[/5. Mechanics/Spells/He(AL).md\|Heal]]  
+- [[/5. Mechanics/Spells/Heal.md\|Heal]]  
 - [[/5. Mechanics/Spells/Heroes Feast.md\|Heroes' Feast]]  
 - [[/5. Mechanics/Spells/Planar Ally.md\|Planar Ally]]  
 - [[/5. Mechanics/Spells/True Seeing.md\|True Seeing]]  
 - [[/5. Mechanics/Spells/Word Of Recall.md\|Word of Recall]]  
 
-- [[/5. Mechanics/Spells/Conjure Celesti(AL).md\|Conjure Celestial]]  
+- [[/5. Mechanics/Spells/Conjure Celestial.md\|Conjure Celestial]]  
 - [[/5. Mechanics/Spells/Divine Word.md\|Divine Word]]  
 - [[/5. Mechanics/Spells/Etherealness.md\|Etherealness]]  
 - [[/5. Mechanics/Spells/Fire Storm.md\|Fire Storm]]  
@@ -260,7 +260,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 - [[/5. Mechanics/Spells/Astral Projection.md\|Astral Projection]]  
 - [[/5. Mechanics/Spells/Gate.md\|Gate]]  
-- [[/5. Mechanics/Spells/Mass He(AL).md\|Mass Heal]]  
+- [[/5. Mechanics/Spells/Mass Heal.md\|Mass Heal]]  
 - [[/5. Mechanics/Spells/True Resurrection.md\|True Resurrection]]  
 
 ## Druid Spells
@@ -300,7 +300,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Flame Blade.md\|Flame Blade]]  
 - [[/5. Mechanics/Spells/Flaming Sphere.md\|Flaming Sphere]]  
 - [[/5. Mechanics/Spells/Gust Of Wind.md\|Gust of Wind]]  
-- [[/5. Mechanics/Spells/Heat Met(AL).md\|Heat Metal]]  
+- [[/5. Mechanics/Spells/Heat Metal.md\|Heat Metal]]  
 - [[/5. Mechanics/Spells/Hold Person.md\|Hold Person]]  
 - [[/5. Mechanics/Spells/Lesser Restoration.md\|Lesser Restoration]]  
 - [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|Locate Animals or Plants]]  
@@ -321,7 +321,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Sleet Storm.md\|Sleet Storm]]  
 - [[/5. Mechanics/Spells/Speak With Plants.md\|Speak with Plants]]  
 - [[/5. Mechanics/Spells/Water Breathing.md\|Water Breathing]]  
-- [[/5. Mechanics/Spells/Water Wa(LK).md\|Water Walk]]  
+- [[/5. Mechanics/Spells/Water Walk.md\|Water Walk]]  
 - [[/5. Mechanics/Spells/Wind Wall.md\|Wind Wall]]  
 
 - [[/5. Mechanics/Spells/Blight.md\|Blight]]  
@@ -344,7 +344,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Antilife Shell.md\|Antilife Shell]]  
 - [[/5. Mechanics/Spells/Awaken.md\|Awaken]]  
 - [[/5. Mechanics/Spells/Commune With Nature.md\|Commune with Nature]]  
-- [[/5. Mechanics/Spells/Conjure Element(AL).md\|Conjure Elemental]]  
+- [[/5. Mechanics/Spells/Conjure Elemental.md\|Conjure Elemental]]  
 - [[/5. Mechanics/Spells/Contagion.md\|Contagion]]  
 - [[/5. Mechanics/Spells/Geas.md\|Geas]]  
 - [[/5. Mechanics/Spells/Greater Restoration.md\|Greater Restoration]]  
@@ -358,13 +358,13 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 - [[/5. Mechanics/Spells/Conjure Fey.md\|Conjure Fey]]  
 - [[/5. Mechanics/Spells/Find The Path.md\|Find the Path]]  
-- [[/5. Mechanics/Spells/He(AL).md\|Heal]]  
+- [[/5. Mechanics/Spells/Heal.md\|Heal]]  
 - [[/5. Mechanics/Spells/Heroes Feast.md\|Heroes' Feast]]  
 - [[/5. Mechanics/Spells/Move Earth.md\|Move Earth]]  
 - [[/5. Mechanics/Spells/Sunbeam.md\|Sunbeam]]  
 - [[/5. Mechanics/Spells/Transport Via Plants.md\|Transport via Plants]]  
 - [[/5. Mechanics/Spells/Wall Of Thorns.md\|Wall of Thorns]]  
-- [[/5. Mechanics/Spells/Wind Wa(LK).md\|Wind Walk]]  
+- [[/5. Mechanics/Spells/Wind Walk.md\|Wind Walk]]  
 
 - [[/5. Mechanics/Spells/Fire Storm.md\|Fire Storm]]  
 - [[/5. Mechanics/Spells/Mirage Arcane.md\|Mirage Arcane]]  
@@ -476,7 +476,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Protection From Energy.md\|Protection from Energy]]  
 - [[/5. Mechanics/Spells/Speak With Plants.md\|Speak with Plants]]  
 - [[/5. Mechanics/Spells/Water Breathing.md\|Water Breathing]]  
-- [[/5. Mechanics/Spells/Water Wa(LK).md\|Water Walk]]  
+- [[/5. Mechanics/Spells/Water Walk.md\|Water Walk]]  
 - [[/5. Mechanics/Spells/Wind Wall.md\|Wind Wall]]  
 
 - [[/5. Mechanics/Spells/Conjure Woodland Beings.md\|Conjure Woodland Beings]]  
@@ -574,7 +574,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Stinking Cloud.md\|Stinking Cloud]]  
 - [[/5. Mechanics/Spells/Tongues.md\|Tongues]]  
 - [[/5. Mechanics/Spells/Water Breathing.md\|Water Breathing]]  
-- [[/5. Mechanics/Spells/Water Wa(LK).md\|Water Walk]]  
+- [[/5. Mechanics/Spells/Water Walk.md\|Water Walk]]  
 
 - [[/5. Mechanics/Spells/Banishment.md\|Banishment]]  
 - [[/5. Mechanics/Spells/Blight.md\|Blight]]  
@@ -860,7 +860,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 - [[/5. Mechanics/Spells/Bigbys Hand.md\|Bigby's Hand]]  
 - [[/5. Mechanics/Spells/Cloudkill.md\|Cloudkill]]  
 - [[/5. Mechanics/Spells/Cone Of Cold.md\|Cone of Cold]]  
-- [[/5. Mechanics/Spells/Conjure Element(AL).md\|Conjure Elemental]]  
+- [[/5. Mechanics/Spells/Conjure Elemental.md\|Conjure Elemental]]  
 - [[/5. Mechanics/Spells/Contact Other Plane.md\|Contact Other Plane]]  
 - [[/5. Mechanics/Spells/Creation.md\|Creation]]  
 - [[/5. Mechanics/Spells/Dominate Person.md\|Dominate Person]]  
@@ -1012,8 +1012,8 @@ The spells are presented in alphabetical order.
 - [[/5. Mechanics/Spells/Confusion.md\|Confusion]]  
 - [[/5. Mechanics/Spells/Conjure Animals.md\|Conjure Animals]]  
 - [[/5. Mechanics/Spells/Conjure Barrage.md\|Conjure Barrage]]  
-- [[/5. Mechanics/Spells/Conjure Celesti(AL).md\|Conjure Celestial]]  
-- [[/5. Mechanics/Spells/Conjure Element(AL).md\|Conjure Elemental]]  
+- [[/5. Mechanics/Spells/Conjure Celestial.md\|Conjure Celestial]]  
+- [[/5. Mechanics/Spells/Conjure Elemental.md\|Conjure Elemental]]  
 - [[/5. Mechanics/Spells/Conjure Fey.md\|Conjure Fey]]  
 - [[/5. Mechanics/Spells/Conjure Minor Elementals.md\|Conjure Minor Elementals]]  
 - [[/5. Mechanics/Spells/Conjure Volley.md\|Conjure Volley]]  
@@ -1122,9 +1122,9 @@ The spells are presented in alphabetical order.
 - [[/5. Mechanics/Spells/Hallucinatory Terrain.md\|Hallucinatory Terrain]]  
 - [[/5. Mechanics/Spells/Harm.md\|Harm]]  
 - [[/5. Mechanics/Spells/Haste.md\|Haste]]  
-- [[/5. Mechanics/Spells/He(AL).md\|Heal]]  
+- [[/5. Mechanics/Spells/Heal.md\|Heal]]  
 - [[/5. Mechanics/Spells/Healing Word.md\|Healing Word]]  
-- [[/5. Mechanics/Spells/Heat Met(AL).md\|Heat Metal]]  
+- [[/5. Mechanics/Spells/Heat Metal.md\|Heat Metal]]  
 - [[/5. Mechanics/Spells/Hellish Rebuke.md\|Hellish Rebuke]]  
 - [[/5. Mechanics/Spells/Heroes Feast.md\|Heroes' Feast]]  
 - [[/5. Mechanics/Spells/Heroism.md\|Heroism]]  
@@ -1166,7 +1166,7 @@ The spells are presented in alphabetical order.
 - [[/5. Mechanics/Spells/Magic Weapon.md\|Magic Weapon]]  
 - [[/5. Mechanics/Spells/Major Image.md\|Major Image]]  
 - [[/5. Mechanics/Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]  
-- [[/5. Mechanics/Spells/Mass He(AL).md\|Mass Heal]]  
+- [[/5. Mechanics/Spells/Mass Heal.md\|Mass Heal]]  
 - [[/5. Mechanics/Spells/Mass Healing Word.md\|Mass Healing Word]]  
 - [[/5. Mechanics/Spells/Mass Suggestion.md\|Mass Suggestion]]  
 - [[/5. Mechanics/Spells/Maze.md\|Maze]]  
@@ -1204,7 +1204,7 @@ The spells are presented in alphabetical order.
 - [[/5. Mechanics/Spells/Plant Growth.md\|Plant Growth]]  
 - [[/5. Mechanics/Spells/Poison Spray.md\|Poison Spray]]  
 - [[/5. Mechanics/Spells/Polymorph.md\|Polymorph]]  
-- [[/5. Mechanics/Spells/Power Word He(AL).md\|Power Word Heal]]  
+- [[/5. Mechanics/Spells/Power Word Heal.md\|Power Word Heal]]  
 - [[/5. Mechanics/Spells/Power Word Kill.md\|Power Word Kill]]  
 - [[/5. Mechanics/Spells/Power Word Stun.md\|Power Word Stun]]  
 - [[/5. Mechanics/Spells/Prayer Of Healing.md\|Prayer of Healing]]  
@@ -1299,13 +1299,59 @@ The spells are presented in alphabetical order.
 - [[/5. Mechanics/Spells/Wall Of Thorns.md\|Wall of Thorns]]  
 - [[/5. Mechanics/Spells/Warding Bond.md\|Warding Bond]]  
 - [[/5. Mechanics/Spells/Water Breathing.md\|Water Breathing]]  
-- [[/5. Mechanics/Spells/Water Wa(LK).md\|Water Walk]]  
+- [[/5. Mechanics/Spells/Water Walk.md\|Water Walk]]  
 - [[/5. Mechanics/Spells/Web.md\|Web]]  
 - [[/5. Mechanics/Spells/Weird.md\|Weird]]  
-- [[/5. Mechanics/Spells/Wind Wa(LK).md\|Wind Walk]]  
+- [[/5. Mechanics/Spells/Wind Walk.md\|Wind Walk]]  
 - [[/5. Mechanics/Spells/Wind Wall.md\|Wind Wall]]  
 - [[/5. Mechanics/Spells/Wish.md\|Wish]]  
 - [[/5. Mechanics/Spells/Witch Bolt.md\|Witch Bolt]]  
 - [[/5. Mechanics/Spells/Word Of Recall.md\|Word of Recall]]  
 - [[/5. Mechanics/Spells/Wrathful Smite.md\|Wrathful Smite]]  
-- [[/5. Mechanics/Spells/Zone Of Truth.md\|Zone of Truth]]
+- [[/5. Mechanics/Spells/Zone Of Truth.md\|Zone of Truth]]  
+
+## A
+
+## B
+
+## C
+
+## D
+
+## E
+
+## F
+
+## G
+
+## H
+
+## I
+
+## J
+
+## K
+
+## L
+
+## M
+
+## N
+
+## O
+
+## P
+
+## R
+
+## S
+
+## T
+
+## U
+
+## V
+
+## W
+
+## Z

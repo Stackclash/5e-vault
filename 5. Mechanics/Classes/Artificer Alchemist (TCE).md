@@ -8,7 +8,7 @@ aliases:
   - Alchemist
 ---
 # Alchemist
-*[[.nullArtificer (TCE).md\|Artificer]]: Artificer Specialist*  
+*[[/5. Mechanics/Classes/Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 14*  
 
 > [!tldr] Class and Feature Progression
@@ -78,7 +78,7 @@ You can create additional *experimental elixirs* by expending a spell slot of 1s
 
 **Experimental Elixir**
 
-`dice: [[Artificer Alchemist (TCE).md#^experimental-elixir]]`
+`dice: [[/5. Mechanics/Classes/Artificer Alchemist (TCE).md#^experimental-elixir]]`
 
 | dice: d6 | Effect |
 |----------|--------|
@@ -106,4 +106,4 @@ Starting at 9th level, you can incorporate restorative reagents into some of you
 By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
 
 - You gain resistance to acid damage and poison damage, and you are immune to the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition.  
-- You can cast [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] and [[/5. Mechanics/Spells/He(AL).md\|heal]] without expending a spell slot, without preparing the spell, and without material components, provided you use [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.
+- You can cast [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] and [[/5. Mechanics/Spells/Heal.md\|heal]] without expending a spell slot, without preparing the spell, and without material components, provided you use [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.

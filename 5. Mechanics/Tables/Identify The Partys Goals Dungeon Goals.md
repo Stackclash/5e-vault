@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon Goals**
 
-`dice: [[Identify The Partys Goals Dungeon Goals.md#^dungeon-goals]]`
+`dice: [[/5. Mechanics/Tables/Identify The Partys Goals Dungeon Goals.md#^dungeon-goals]]`
 
 | dice: d20 | Goal |
 |-----------|------|

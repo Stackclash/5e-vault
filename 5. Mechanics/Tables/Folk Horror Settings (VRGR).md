@@ -11,7 +11,7 @@ aliases:
 
 **Folk Horror Settings**
 
-`dice: [[Folk Horror Settings (VRGR).md#^folk-horror-settings]]`
+`dice: [[/5. Mechanics/Tables/Folk Horror Settings (VRGR).md#^folk-horror-settings]]`
 
 | dice: d6 | Setting |
 |----------|---------|

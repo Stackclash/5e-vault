@@ -11,7 +11,7 @@ aliases:
 
 **Lamordia Adventures**
 
-`dice: [[Lamordia Adventures (VRGR).md#^lamordia-adventures]]`
+`dice: [[/5. Mechanics/Tables/Lamordia Adventures (VRGR).md#^lamordia-adventures]]`
 
 | dice: d10 | Adventure |
 |-----------|-----------|

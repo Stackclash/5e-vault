@@ -11,7 +11,7 @@ aliases:
 
 **Cosmic Horror Plots**
 
-`dice: [[Cosmic Horror Plots (VRGR).md#^cosmic-horror-plots]]`
+`dice: [[/5. Mechanics/Tables/Cosmic Horror Plots (VRGR).md#^cosmic-horror-plots]]`
 
 | dice: d8 | Plot |
 |----------|------|

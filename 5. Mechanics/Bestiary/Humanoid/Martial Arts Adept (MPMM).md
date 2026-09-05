@@ -29,7 +29,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 
 **Martial Arts Adept Tattoos**
 
-`dice: [[Martial Arts Adept (MPMM).md#^martial-arts-adept-tattoos]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/Martial Arts Adept (MPMM).md#^martial-arts-adept-tattoos]]`
 
 | dice: d8 | Tattoo |
 |----------|--------|

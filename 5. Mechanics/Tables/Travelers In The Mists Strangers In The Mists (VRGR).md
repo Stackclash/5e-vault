@@ -11,7 +11,7 @@ aliases:
 
 **Strangers in the Mists**
 
-`dice: [[Travelers In The Mists Strangers In The Mists (VRGR).md#^strangers-in-the-mists]]`
+`dice: [[/5. Mechanics/Tables/Travelers In The Mists Strangers In The Mists (VRGR).md#^strangers-in-the-mists]]`
 
 | dice: d6 | Encounter |
 |----------|-----------|

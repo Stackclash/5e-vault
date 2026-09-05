@@ -12,7 +12,6 @@ images:
   - 4. World Almanac\NPCs\img\ezmerelda-davenir.webp
 aliases:
   - Ezmerelda d'Avenir
-  - Ezmerelda Davenir
 alignment: Chaotic Good
 relationships: []
 partyRelationships:
@@ -37,19 +36,18 @@ goals: 'To defeat Strahd, to become the greatest monster hunter in the land'
 likes: 'Knowledge about monsters, vanquishing evil, proving her skill and courage'
 dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
 description: >-
-  A capable, battle-scarred Vistana in her thirties, dressed for monster
-  hunting and missing her right leg below the knee to a werewolf's bite —
-  replaced by a well-crafted prosthetic she's long since adapted to.
+  A capable, battle-scarred Vistana in her thirties, dressed for monster hunting
+  and missing her right leg below the knee to a werewolf's bite — replaced by a
+  well-crafted prosthetic she's long since adapted to.
 history: >-
   As a girl, Ezmerelda watched her own family kidnap Rudolph van Richten's
-  teenage son and sell him to a vampire — a memory that haunted her into
-  running away from home at fifteen. She tracked van Richten down two years
-  later, talked her way past his blade, and spent two years at his side
-  learning to hunt monsters before their friendship frayed and they parted
-  ways. Since then she's built a small fortune of her own, and on hearing
-  that her old mentor had gone after Strahd himself, she followed him into
-  Barovia — only to find his tower abandoned and van Richten nowhere to be
-  found.
+  teenage son and sell him to a vampire — a memory that haunted her into running
+  away from home at fifteen. She tracked van Richten down two years later,
+  talked her way past his blade, and spent two years at his side learning to
+  hunt monsters before their friendship frayed and they parted ways. Since then
+  she's built a small fortune of her own, and on hearing that her old mentor had
+  gone after Strahd himself, she followed him into Barovia — only to find his
+  tower abandoned and van Richten nowhere to be found.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -109,19 +107,9 @@ While in the company of a Vistani caravan, Ezmerelda heard a rumor that Rudolph 
 
 Ezmerelda keeps a [[/5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka cards]] in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by Madam Eva.
 
-## Ezmerelda d'Avenir's Traits
-
-### Ideal
-
-"Evil that feeds on the innocent is the worst of all evils and must be destroyed."
-
-### Bond
-
-"My mentor and teacher, Dr. Rudolph van Richten, is like a father to me."
-
-### Flaw
-
-"I go where angels fear to tread."
+- **Ideal.** "Evil that feeds on the innocent is the worst of all evils and must be destroyed."  
+- **Bond.** "My mentor and teacher, Dr. Rudolph van Richten, is like a father to me."  
+- **Flaw.** "I go where angels fear to tread."  
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

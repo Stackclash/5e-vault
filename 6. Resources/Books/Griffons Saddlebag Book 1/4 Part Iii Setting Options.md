@@ -54,7 +54,7 @@ To check whether or not The Growl occurs, every 8 hours (morning, afternoon, and
 
 **The Growl Results**
 
-`dice: [[4 Part Iii Setting Options.md#^the-growl-results]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 1/4 Part Iii Setting Options.md#^the-growl-results]]`
 
 | dice: d100 | Result |
 |------------|--------|
@@ -114,13 +114,13 @@ The Everglacier is home to many dangers. While the characters travel through the
 | 4 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Remorhaz.md\|remorhaz]] with `1d4–1` [[/5. Mechanics/Bestiary/Monstrosity/Young Remorhaz.md\|young remorhazes]] |
 | 5 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Wraith.md\|wraiths]]. The wraiths are immune to cold damage. |
 | 6 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] looking for food. Desperate, they fight recklessly. All of their attacks are made with advantage, and attacks made against them are made with advantage. |
-| 7 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elementals]] |
+| 7 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elementals]] |
 | 8 | A dense fog gathers (treat it as a fog cloud spell). Within the fog, `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] march mindlessly towards some unknown destination. They will not attack unless they are attacked first. |
 | 9 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Mammoth.md\|mammoths]] are being chased by `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] |
 | 10 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Polar Bear.md\|polar bears]] |
 | 11 | `dice:3d8\|noform\|noparens\|avg` (`3d8`) ice [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] (they have resistance to cold damage) have dug a massive pit trap along the path. They hide, waiting for creatures to stumble into their trap. |
 | 12 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] lead by 1 berserker are hauling a slain mammoth back to their den. |
-| 13 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] lead by 1 [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|orc gladiator]] hunt for fauna on the glacier. They are not above eating the flesh of man, however. |
+| 13 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] lead by 1 [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|orc gladiator]] hunt for fauna on the glacier. They are not above eating the flesh of man, however. |
 | 14 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Bugbear.md\|yetikin]]. Yetkin are bugbears except they have resistance to cold damage. |
 | 15 | Massive, surreal sculptures made of ice decorate the landscape. Some are 30 feet tall. Judging by their detail and size, it's likely they were created through magical means. |
 | 16 | The torn apart remains of two [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]] litter the trail. There is a 20% chance that whatever killed them is still in the area (roll again on the encounter table to determine what killed the pair). |
@@ -152,7 +152,7 @@ For a more custom array of monsters to fill this setting, consider using the fol
 
 Despite the Everglacier being a mobile continent of solid ice, it is still home to many unusual locales. Both the wild and native inhabitants of the glacier have dug out caves, caverns, and tunnels through the ice. Fortresses built from solid Dagger Ice are also present; the [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]], in particular, use their cold-bending sorcery to build these foreboding structures.
 
-In areas where the glacier breaks apart to reveal the ocean's cold depths, sea creatures such as [[/5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] and [[/5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] (who've grown accustomed to the climate), create elaborate maze-like passages in the submerged ice. While uninviting to creatures who lack the constitution to survive in such environments, those who dare enter often find heaps of treasure, the majority of which the aquatic creatures stripped from vessels destroyed by the Everglacier's walls.
+In areas where the glacier breaks apart to reveal the ocean's cold depths, sea creatures such as [[/5. Mechanics/Bestiary/Humanoid/Merfolk.md\|merfolk]] and [[/5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] (who've grown accustomed to the climate), create elaborate maze-like passages in the submerged ice. While uninviting to creatures who lack the constitution to survive in such environments, those who dare enter often find heaps of treasure, the majority of which the aquatic creatures stripped from vessels destroyed by the Everglacier's walls.
 
 It's not uncommon for settlements to rise up on the Everglacier, then fall to ruin. The Growl, [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] raids, and even aggressive blizzards are all responsible for destroying villages and cities that may have once prospered in this unforgiving environment.
 
@@ -160,7 +160,7 @@ It's not uncommon for settlements to rise up on the Everglacier, then fall to ru
 
 If you need help generating ideas for dungeons and points-of-interest on the Everglacier, roll on the Everglacier Dungeon table below.
 
-`dice: [[4 Part Iii Setting Options.md#^example-dungeon]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 1/4 Part Iii Setting Options.md#^example-dungeon]]`
 
 | dice: d6 | Example Dungeon |
 |----------|-----------------|
@@ -181,7 +181,7 @@ The Everglacier is a difficult place to call home, but not impossible. Solid dag
 
 #### Suggested Inhabitants
 
-Creatures adapted to extreme cold and winter conditions thrive on the Everglacier. [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|Frost giants]] are particularly everpresent, having multiple settlements built from the hard ice of the glacier. At least three major orc tribes call the glacier home: the Windshadow, Bloodice, and Stripjaws. Creatures from the Elemental Plane of Earth such as [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elementals]], [[/5. Mechanics/Bestiary/Elemental/Gargoyle.md\|gargoyles]], and [[/5. Mechanics/Bestiary/Elemental/Dust Mephit.md\|dust mephits]] also live on the glacier. Humanoids live on the glacier, but tend towards nomadic cultures as The Growl frequently destroys permanent settlements.
+Creatures adapted to extreme cold and winter conditions thrive on the Everglacier. [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|Frost giants]] are particularly everpresent, having multiple settlements built from the hard ice of the glacier. At least three major orc tribes call the glacier home: the Windshadow, Bloodice, and Stripjaws. Creatures from the Elemental Plane of Earth such as [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elementals]], [[/5. Mechanics/Bestiary/Elemental/Gargoyle.md\|gargoyles]], and [[/5. Mechanics/Bestiary/Elemental/Dust Mephit.md\|dust mephits]] also live on the glacier. Humanoids live on the glacier, but tend towards nomadic cultures as The Growl frequently destroys permanent settlements.
 
 #### Example Settlements
 
@@ -190,7 +190,7 @@ Consider using these sample ideas as inspiration when building settlements in th
 - A massive fortress made of solid ice stands at the top of high, sheer ice-cliff. Living within this compound are thousands of [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]]. The [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] conquered the [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] king who created the fortress. Rumor has it that the king still lives, hiding at the heart of the structure.  
 - Everglacier nomads—mostly human with some elves and half-orcs—have created a temporary village to last through the coming winter. Their companion animals surround the village, protecting it from the dangers of the ice.  
 - A community of ice [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] worships a [[/5. Mechanics/Bestiary/Dragon/Young White Dragon.md\|young adult white dragon]] who pretends to be their god. Overall, the [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] are friendly—if devious—and willing to trade with outsiders. They live within a series of unusual multi-tier igloos that look like a massive web of ice.  
-- Along the underside of the Everglacier, a kingdom of [[/5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] adapted to the cold thrives. They've placed massive ice daggers facing outward from their kingdom. This protects their kingdom from running aground when the Everglacier bumps against a large landmass. Conveniently, it also helps the [[/5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] capture errant ships, large aquatic animals, and other surprises that helps support the community.  
+- Along the underside of the Everglacier, a kingdom of [[/5. Mechanics/Bestiary/Humanoid/Merfolk.md\|merfolk]] adapted to the cold thrives. They've placed massive ice daggers facing outward from their kingdom. This protects their kingdom from running aground when the Everglacier bumps against a large landmass. Conveniently, it also helps the [[/5. Mechanics/Bestiary/Humanoid/Merfolk.md\|merfolk]] capture errant ships, large aquatic animals, and other surprises that helps support the community.  
 
 ### Example Treasure
 
@@ -279,7 +279,7 @@ Because of the wood's unmoving light source, creatures are always able to tell w
 
 **Becoming Lost**
 
-`dice: [[4 Part Iii Setting Options.md#^becoming-lost]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 1/4 Part Iii Setting Options.md#^becoming-lost]]`
 
 | dice: d6 | Result |
 |----------|--------|
@@ -295,7 +295,7 @@ On the other hand, eating hazardous foraged foods can have dangerous consequence
 
 **Exceptional Foraged Food**
 
-`dice: [[4 Part Iii Setting Options.md#^exceptional-foraged-food]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 1/4 Part Iii Setting Options.md#^exceptional-foraged-food]]`
 
 | dice: d6 | Result |
 |----------|--------|
@@ -305,7 +305,7 @@ On the other hand, eating hazardous foraged foods can have dangerous consequence
 
 **Dangerous Foraged Food**
 
-`dice: [[4 Part Iii Setting Options.md#^dangerous-foraged-food]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 1/4 Part Iii Setting Options.md#^dangerous-foraged-food]]`
 
 | dice: d6 | Result |
 |----------|--------|
@@ -339,7 +339,7 @@ The forest is filled with potential, both good and bad. Use this table for to fi
 | 10 | `dice:4d8\|noform\|noparens\|avg` (`4d8`) [[/5. Mechanics/Bestiary/Beast/Swarm Of Beetles.md\|swarm of beetles]] |
 | 11 | `dice:1d12\|noform\|noparens\|avg` (`1d12`) [[/5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
 | 12 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Elemental/Xorn.md\|xorn]]. Though well-fed by the ever-present amber pustules, they offer guidance to locations in the wood in exchange for any gems or precious metals the party has. |
-| 13 | `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] |
+| 13 | `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[/5. Mechanics/Bestiary/Plant/Violet Fungus.md\|violet fungus]] |
 | 14 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Duergar.md\|duergar]] raiding party |
 | 15 | A copse of trees containing 3d4 easy-to reach amber pustules. |
 | 16 | A strange knotting of roots seems to reveal the entrance to a cave. At the GM's discretion, this may lead to a ruin or dungeon of any size or shape. |
@@ -361,7 +361,7 @@ When making a dungeon in the Festerwood, remember the moist nature of the surrou
 
 The Festerwood has the potential for magical secrets and dungeons to exist within it, including the following:
 
-`dice: [[4 Part Iii Setting Options.md#^example-dungeon]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 1/4 Part Iii Setting Options.md#^example-dungeon]]`
 
 | dice: d6 | Example Dungeon |
 |----------|-----------------|
@@ -442,7 +442,7 @@ Although Hearth has no true government, the Couatl Heralds represent what most H
 
 ##### 4. Huitzilli Plaza
 
-Teocalli isn't just for temples and government buildings. Huitzilli Plaza stands at the southeastern end of the ward. There, Hearthans gather for celebrations and other recreational activities. It's also where one can find The Jolly Toad, the city's largest tavern. The Toad is owned by Chikkoka, a [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] bartender who lived in Hearth before its liberation. The Toad offers a comfortable inn stay and meals.
+Teocalli isn't just for temples and government buildings. Huitzilli Plaza stands at the southeastern end of the ward. There, Hearthans gather for celebrations and other recreational activities. It's also where one can find The Jolly Toad, the city's largest tavern. The Toad is owned by Chikkoka, a [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] bartender who lived in Hearth before its liberation. The Toad offers a comfortable inn stay and meals.
 
 ##### 5. Hall of Hearlds
 
@@ -470,7 +470,7 @@ The Oracle Eqia (lawful neutral female human [[/5. Mechanics/Bestiary/Humanoid/M
 
 ##### 9. Devona the Mace
 
-Devona (lawful evil female human [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiator]]) was a mercenary and [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandit]] who was among the first batch of Rushers entering Hearth. Early on, she carved out a niche for herself as a protector and bodyguard. She married her first client, Jacco Nuus, who died shortly after their wedding. Jacco left Devona all his worldly possessions, including his land stakes. Six months later, she married another client, Wyndom Taz. Then Wyndom died, and once again Devona was left all her late husband's possessions and land stakes. In fact, in the five years that Devona has lived in Hearth, she's married six times, and five of those times her husband died. Not-so-coincidently, she is the wealthiest land owner in Hearth.
+Devona (lawful evil female human [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiator]]) was a mercenary and [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandit]] who was among the first batch of Rushers entering Hearth. Early on, she carved out a niche for herself as a protector and bodyguard. She married her first client, Jacco Nuus, who died shortly after their wedding. Jacco left Devona all his worldly possessions, including his land stakes. Six months later, she married another client, Wyndom Taz. Then Wyndom died, and once again Devona was left all her late husband's possessions and land stakes. In fact, in the five years that Devona has lived in Hearth, she's married six times, and five of those times her husband died. Not-so-coincidently, she is the wealthiest land owner in Hearth.
 
 #### Ruins of Hearth
 
@@ -492,7 +492,7 @@ When the characters search a building in one of the ruined sections of Hearth, u
 
 **Building Type**
 
-`dice: [[4 Part Iii Setting Options.md#^building-type]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 1/4 Part Iii Setting Options.md#^building-type]]`
 
 | dice: d20 | Type |
 |-----------|------|
@@ -505,7 +505,7 @@ When the characters search a building in one of the ruined sections of Hearth, u
 
 **Building Use**
 
-`dice: [[4 Part Iii Setting Options.md#^building-use]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 1/4 Part Iii Setting Options.md#^building-use]]`
 
 | dice: d100 | Feature |
 |------------|---------|
@@ -608,11 +608,11 @@ The devil has kept his schemes at a minimum, preferring patience and growth over
 
 Zok Tuudro (neutral male half-elf [[/5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) is the leader of the Keronia Society. A lifelong interest in the lost city attracted Zok and his followers to Hearth. Now, Zok spends his days hiring adventuring parties and expeditions to bring him maps, artifacts, and useful information regarding the city and its environs.
 
-Zok's days are filled with meetings and presentations all directed by his assistant Guto, a native [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] who works as Keronia's receptionist. As suspected by some Hearthans, Zok doesn't sleep. Instead, he's trained to enter a trance like elves do, which he can maintain even while he's working.
+Zok's days are filled with meetings and presentations all directed by his assistant Guto, a native [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] who works as Keronia's receptionist. As suspected by some Hearthans, Zok doesn't sleep. Instead, he's trained to enter a trance like elves do, which he can maintain even while he's working.
 
 #### Jadecry
 
-Hearth is home to a myriad of adventuring groups, but none are as well known as the troupe called Jadecry. Led by the emerald-skinned Ana Faust (chaotic good female tiefling [[/5. Mechanics/Bestiary/Humanoid/Knight.md\|knight]]), Jadecry keeps busy throughout the year, working for any faction that will pay them. Jadecry's current line-up includes the half-orc [[/5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserker]] Bluko, the halfling [[/5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] Fafariaf, and a [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] named Cracked Fang.
+Hearth is home to a myriad of adventuring groups, but none are as well known as the troupe called Jadecry. Led by the emerald-skinned Ana Faust (chaotic good female tiefling [[/5. Mechanics/Bestiary/Humanoid/Knight.md\|knight]]), Jadecry keeps busy throughout the year, working for any faction that will pay them. Jadecry's current line-up includes the half-orc [[/5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserker]] Bluko, the halfling [[/5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] Fafariaf, and a [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] named Cracked Fang.
 
 The four share a guild house in Rusher Ward dubbed The Green House.
 

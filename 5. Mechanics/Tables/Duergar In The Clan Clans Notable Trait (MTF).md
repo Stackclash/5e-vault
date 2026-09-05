@@ -11,7 +11,7 @@ aliases:
 
 **Clan's Notable Trait**
 
-`dice: [[Duergar In The Clan Clans Notable Trait (MTF).md#^clans-notable-trait]]`
+`dice: [[/5. Mechanics/Tables/Duergar In The Clan Clans Notable Trait (MTF).md#^clans-notable-trait]]`
 
 | dice: d12 | Trait |
 |-----------|-------|

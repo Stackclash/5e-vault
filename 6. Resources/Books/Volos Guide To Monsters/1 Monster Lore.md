@@ -2661,6 +2661,18 @@ Serving as the bridge between the two parts of the tribe are the priestesses of 
 - [Yurtrus, "the White Hand"](/compendium/deities/orc-yurtrus-vgm.md)  
 - [Shargaas, "the Night Lord"](/compendium/deities/orc-shargaas-vgm.md)  
 
+Gruumsh
+
+Ilneval
+
+Bahgtru
+
+Luthic
+
+Yurtrus
+
+Shargaas
+
 ### Life in the Tribe
 
 Orcs survive through savagery and force of numbers. Theirs is a life that has no place for weakness, and every warrior must be strong enough to take what is needed by force. Orcs aren't interested in treaties, trade negotiations or diplomacy. They care only for satisfying their insatiable desire for battle, to smash their foes and appease their gods.
@@ -3098,17 +3110,17 @@ The following action options are restricted to certain kinds of yuan-ti.
 
 Melee Weapon Attack: `dice:1d20+3|noform|noparens|text(+3)` to hit, reach 5 ft., one creature. Hit: `dice:1d4|noform|noparens|avg|text(3)` (`1d4`) piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
 
-##### Polymorph into Snake (Abomination or Malison Only;
+##### Polymorph into Snake (Abomination or Malison Only; Recharge 6)
 
-Recharge 6). The yuan-ti targets a creature it can see within 60 feet of it. The target must succeed on a Wisdom saving throw or be transformed into a Tiny **poisonous snake,** as if affected by the polymorph spell. The save DC is the same as that of the yuan-ti's Innate Spellcasting ability.
+The yuan-ti targets a creature it can see within 60 feet of it. The target must succeed on a Wisdom saving throw or be transformed into a Tiny **poisonous snake,** as if affected by the polymorph spell. The save DC is the same as that of the yuan-ti's Innate Spellcasting ability.
 
-##### Snake Antipathy (Abomination or Malison Only;
+##### Snake Antipathy (Abomination or Malison Only; Recharge 6)
 
-Recharge 6). The yuan-ti targets a creature it can see within 60 feet of it. The target must succeed on a Wisdom saving throw or feel an intense urge to avoid snakes and snakelike creatures (including yuan-ti), as if affected by the antipathy effect of an antipathy/sympathy spell. The save DC is the same as that of the yuan-ti's Innate Spellcasting ability.
+The yuan-ti targets a creature it can see within 60 feet of it. The target must succeed on a Wisdom saving throw or feel an intense urge to avoid snakes and snakelike creatures (including yuan-ti), as if affected by the antipathy effect of an antipathy/sympathy spell. The save DC is the same as that of the yuan-ti's Innate Spellcasting ability.
 
-##### Sticks to Snakes (Abomination or Malison Only;
+##### Sticks to Snakes (Abomination or Malison Only; Recharge 6)
 
-Recharge 6). The yuan-ti transforms a pile of sticks, arrows, or similar-sized pieces of wood into a [[/5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarm of poisonous snakes]]. The swarm acts as an ally of the yuan-ti and obeys its spoken commands. The swarm remains for 1 minute, after which it turns back into the original materials.
+The yuan-ti transforms a pile of sticks, arrows, or similar-sized pieces of wood into a [[/5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarm of poisonous snakes]]. The swarm acts as an ally of the yuan-ti and obeys its spoken commands. The swarm remains for 1 minute, after which it turns back into the original materials.
 
 ### Roleplaying a Yuan-ti
 

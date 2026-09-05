@@ -9,7 +9,7 @@ aliases:
 # Antronec Adventure Hooks; Random Desire or Fear
 *Source: The Griffon's Saddlebag, Book 2 p. 246* 
 
-`dice: [[Antronec Adventure Hooks Random Desire Or Fear (GRIFFONSSADDLEBAG2).md#^desire-or-fear]]`
+`dice: [[/5. Mechanics/Tables/Antronec Adventure Hooks Random Desire Or Fear (GRIFFONSSADDLEBAG2).md#^desire-or-fear]]`
 
 | dice: d8 | Desire or Fear |
 |----------|----------------|

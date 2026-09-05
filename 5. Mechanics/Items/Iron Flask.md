@@ -31,7 +31,7 @@ You can use an action to remove the flask's stopper and release the creature the
 
 An [[/5. Mechanics/Spells/Identify.md\|identify]] spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the DM or determined randomly.
 
-`dice: [[Iron Flask.md#^contents]]`
+`dice: [[/5. Mechanics/Items/Iron Flask.md#^contents]]`
 
 | dice: d100 | Contents |
 |------------|----------|
@@ -62,7 +62,7 @@ An [[/5. Mechanics/Spells/Identify.md\|identify]] spell reveals that a creature 
 | 92-93 | [[/5. Mechanics/Bestiary/Elemental/Salamander.md\|Salamander]] |
 | 94-95 | Slaad (any) |
 | 96 | [[/5. Mechanics/Bestiary/Celestial/Solar.md\|Solar]] |
-| 97-98 | [[/5. Mechanics/Bestiary/Fiend/Succub(US).md\|Succubus/Incubus]] |
+| 97-98 | [[/5. Mechanics/Bestiary/Fiend/Succubus.md\|Succubus/Incubus]] |
 | 99 | [[/5. Mechanics/Bestiary/Fiend/Ultroloth.md\|Ultroloth]] |
 | 00 | [[/5. Mechanics/Bestiary/Elemental/Xorn.md\|Xorn]] |
 ^contents

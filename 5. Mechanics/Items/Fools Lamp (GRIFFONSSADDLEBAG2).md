@@ -29,7 +29,7 @@ An [[/5. Mechanics/Spells/Identify.md\|identify]] or [[/5. Mechanics/Spells/Lege
 
 When a creature holding the lamp speaks such a phrase using an action, the GM uses the table below to choose the outcome or determine it randomly:
 
-`dice: [[Fools Lamp (GRIFFONSSADDLEBAG2).md#^effect]]`
+`dice: [[/5. Mechanics/Items/Fools Lamp (GRIFFONSSADDLEBAG2).md#^effect]]`
 
 | dice: d10 | Effect |
 |-----------|--------|
@@ -37,7 +37,7 @@ When a creature holding the lamp speaks such a phrase using an action, the GM us
 | 2 | A [[/5. Mechanics/Spells/Fireball.md\|fireball]] (5th-level version, save DC 16) erupts, centered on you. |
 | 3 | You're unintelligible for `dice:2d6\|noform\|noparens\|avg` (`2d6`) hours, during which time you only speak in nonsensical sounds. |
 | 4 | You're under the effect of the [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] spell for 24 hours. |
-| 5 | A hostile [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air]] (40%), [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth]] (20%), [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire]] (20%), or [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water]] (20%) elemental appears in an unoccupied space within 30 feet of you. |
+| 5 | A hostile [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air]] (40%), [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth]] (20%), [[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md\|fire]] (20%), or [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water]] (20%) elemental appears in an unoccupied space within 30 feet of you. |
 | 6 | Your legs become unstable for `dice:1d6\|noform\|noparens\|avg` (`1d6`) hours, during which time you have disadvantage on Dexterity checks and Dexterity saving throws, and if you move your full speed on a turn, you must succeed on a DC 16 Dexterity check or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. |
 | 7 | You're affected by the [[/5. Mechanics/Spells/Levitate.md\|levitate]] spell for 1 minute. At the start of each of your turns, flip a coin and roll a `dice:d4\|noform\|noparens\|avg` (`d4`). If it's heads, you float up a number of feet equal to 5 times the number rolled on the `dice:d4\|noform\|noparens\|avg` (`d4`). If it's tails, you float down the same number of feet. |
 | 8 | You are under the effect of the [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] spell for `dice:1d6\|noform\|noparens\|avg` (`1d6`) hours. If you are asked to do something that isn't harmful, accompanied by the word "please" or a similar phrase, you are compelled to obey. |

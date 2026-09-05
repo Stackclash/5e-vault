@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Iris Shape**
 
-`dice: [[Physical Characteristics Beholder Iris Shape (VGM).md#^beholder-iris-shape]]`
+`dice: [[/5. Mechanics/Tables/Physical Characteristics Beholder Iris Shape (VGM).md#^beholder-iris-shape]]`
 
 | dice: d20 | Iris Shape |
 |-----------|------------|

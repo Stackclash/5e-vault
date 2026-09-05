@@ -9,7 +9,7 @@ aliases:
   - Winter Domain
 ---
 # Winter Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Deep Magic p. 134*  
 
 > [!tldr] Class and Feature Progression

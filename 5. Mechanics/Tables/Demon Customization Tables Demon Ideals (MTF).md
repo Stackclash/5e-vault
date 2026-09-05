@@ -11,7 +11,7 @@ aliases:
 
 **Demon Ideals**
 
-`dice: [[Demon Customization Tables Demon Ideals (MTF).md#^demon-ideals]]`
+`dice: [[/5. Mechanics/Tables/Demon Customization Tables Demon Ideals (MTF).md#^demon-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

@@ -8,7 +8,7 @@ aliases:
   - Circle of the Cycle
 ---
 # Circle of the Cycle
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 111*  
 
 > [!tldr] Class and Feature Progression

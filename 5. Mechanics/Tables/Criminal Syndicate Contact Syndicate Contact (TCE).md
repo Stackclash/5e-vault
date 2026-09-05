@@ -11,7 +11,7 @@ aliases:
 
 **Syndicate Contact**
 
-`dice: [[Criminal Syndicate Contact Syndicate Contact (TCE).md#^syndicate-contact]]`
+`dice: [[/5. Mechanics/Tables/Criminal Syndicate Contact Syndicate Contact (TCE).md#^syndicate-contact]]`
 
 | dice: d6 | Contact |
 |----------|---------|

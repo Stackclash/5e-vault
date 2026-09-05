@@ -12,13 +12,12 @@ images:
   - 4. World Almanac\NPCs\img\153-636988936829621698.webp
 aliases:
   - Strahd von Zarovich
-  - Strahd Von Zarovich
 alignment: Lawful Evil
 relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
 location: null
-pronounced: 'strahd von zah-ROH-vich'
+pronounced: strahd von zah-ROH-vich
 race: '[[5. Mechanics/Bestiary/Undead/Vampire|Vampire]]'
 gender: male
 age: 400
@@ -31,18 +30,17 @@ religions:
   - Dark Powers of the Shadowfell (pact)
 personality: >-
   Believes his soul already lost to evil; feels neither pity nor remorse.
-  Seductive and subtle when it suits him, coldly controlling always — he
-  views the living as playthings to possess, corrupt, or discard.
+  Seductive and subtle when it suits him, coldly controlling always — he views
+  the living as playthings to possess, corrupt, or discard.
 ideal: I am the master of my own fate. Nothing binds me but what I allow.
 bond: >-
-  Tatyana — the only soul I ever loved, and the only wound centuries
-  haven't closed.
-flaw: >-
-  My pride will not let anyone succeed me who is not as great as I was.
+  Tatyana — the only soul I ever loved, and the only wound centuries haven't
+  closed.
+flaw: My pride will not let anyone succeed me who is not as great as I was.
 goals: >-
-  Historically: to claim Ireena Kolyana as Tatyana reborn, destroy Rudolph
-  van Richten, and find a worthy successor or consort who could free him
-  from the curse of Barovia.
+  Historically: to claim Ireena Kolyana as Tatyana reborn, destroy Rudolph van
+  Richten, and find a worthy successor or consort who could free him from the
+  curse of Barovia.
 likes: 'Beauty, cunning, worthy adversaries, control'
 dislikes: 'Weakness, betrayal, being denied, reminders of his failure to win Tatyana'
 description: >-
@@ -50,20 +48,19 @@ description: >-
   centuries of conquest, both martial and romantic, have left him utterly
   without remorse.
 history: >-
-  In life a count, prince, soldier, and conqueror, Strahd founded Barovia
-  after crushing his family's last enemies there, and built Castle Ravenloft
-  in his mother's name. Restless in peace and envious of his brother
-  Sergei's warmth, he forged a pact with the Dark Powers of the Shadowfell
-  for immortality. When Sergei's bride-to-be, Tatyana, chose the younger
-  brother over him, Strahd murdered Sergei on their wedding day and pursued
-  Tatyana through the castle gardens — she threw herself from a balcony
-  rather than be caught, and Strahd's own guards shot him for it. He did not
-  die. The Dark Powers honored their pact, and Strahd rose a vampire,
-  sealing Barovia and Castle Ravenloft away behind deadly mists forever. He
-  ruled as its undead master for centuries after, taking and destroying
-  consort after consort in Tatyana's shadow, believing that only a von
-  Zarovich as great as himself could ever be worthy to take his place and
-  free him from the domain he built.
+  In life a count, prince, soldier, and conqueror, Strahd founded Barovia after
+  crushing his family's last enemies there, and built Castle Ravenloft in his
+  mother's name. Restless in peace and envious of his brother Sergei's warmth,
+  he forged a pact with the Dark Powers of the Shadowfell for immortality. When
+  Sergei's bride-to-be, Tatyana, chose the younger brother over him, Strahd
+  murdered Sergei on their wedding day and pursued Tatyana through the castle
+  gardens — she threw herself from a balcony rather than be caught, and Strahd's
+  own guards shot him for it. He did not die. The Dark Powers honored their
+  pact, and Strahd rose a vampire, sealing Barovia and Castle Ravenloft away
+  behind deadly mists forever. He ruled as its undead master for centuries
+  after, taking and destroying consort after consort in Tatyana's shadow,
+  believing that only a von Zarovich as great as himself could ever be worthy to
+  take his place and free him from the domain he built.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -115,7 +112,7 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 ### Strahd's Minions
 
-`dice: [[Strahd Von Zarovich (COS).md#^creatures]]`
+`dice: [[/4. World Almanac/NPCs/Strahd Von Zarovich (COS).md#^creatures]]`
 
 | dice: d20 | Creatures |
 |-----------|-----------|

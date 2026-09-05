@@ -12,32 +12,30 @@ images:
   - 4. World Almanac\NPCs\img\060-cos05-11.webp
 aliases:
   - Lady Fiona Wachter
-  - Fiona Wachter
 alignment: Lawful Evil
 description: >-
   A composed, aristocratic widow who makes no secret of her family's ancient
   loyalty to House von Zarovich, Fiona Wachter is secretly the founder and
-  spiritual leader of a growing devil-worshipping cult in Vallaki. She
-  schemes patiently, and ruthlessly, to unseat Baron Vallakovich and claim
-  the burgomaster's chair for herself.
+  spiritual leader of a growing devil-worshipping cult in Vallaki. She schemes
+  patiently, and ruthlessly, to unseat Baron Vallakovich and claim the
+  burgomaster's chair for herself.
 history: >-
-  The Wachters were once an influential noble line in Barovia, and Fiona
-  still occupies the family's crumbling mansion, Wachterhaus, with her two
-  adult sons, [[Nikolai Wachter (COS)|Nikolai]] and Karl, and her daughter,
-  [[Stella Wachter (COS)|Stella]]. Her husband, also named Nikolai, died of
-  sickness nearly three years ago; Fiona has never let him go, and casts
-  gentle repose on his corpse to keep it from decaying beside her. She once
-  conspired to marry Stella to the burgomaster's son,
-  [[Victor Vallakovich (COS)|Victor Vallakovich]], hoping to gain a foothold
-  inside the baron's mansion, but Victor's cruelty toward Stella drove her
-  mad, and Fiona was forced to lock her own daughter away. Since then,
-  Fiona's ambitions have turned darker: she has founded a
-  devil-worshipping cult, written a manifesto titled *The Devil We Know*,
-  and now serves as its hidden spiritual leader, using a bound imp and false
-  rituals to win the loyalty of Vallaki's most fanatical malcontents. She
-  employs a spy, Ernst Larnak, to keep her informed of everything that
-  happens in town, though he knows enough of her secrets to blackmail her
-  should their arrangement ever sour.
+  The Wachters were once an influential noble line in Barovia, and Fiona still
+  occupies the family's crumbling mansion, Wachterhaus, with her two adult sons,
+  [[Nikolai Wachter (COS)|Nikolai]] and Karl, and her daughter, [[Stella Wachter
+  (COS)|Stella]]. Her husband, also named Nikolai, died of sickness nearly three
+  years ago; Fiona has never let him go, and casts gentle repose on his corpse
+  to keep it from decaying beside her. She once conspired to marry Stella to the
+  burgomaster's son, [[Victor Vallakovich (COS)|Victor Vallakovich]], hoping to
+  gain a foothold inside the baron's mansion, but Victor's cruelty toward Stella
+  drove her mad, and Fiona was forced to lock her own daughter away. Since then,
+  Fiona's ambitions have turned darker: she has founded a devil-worshipping
+  cult, written a manifesto titled *The Devil We Know*, and now serves as its
+  hidden spiritual leader, using a bound imp and false rituals to win the
+  loyalty of Vallaki's most fanatical malcontents. She employs a spy, Ernst
+  Larnak, to keep her informed of everything that happens in town, though he
+  knows enough of her secrets to blackmail her should their arrangement ever
+  sour.
 relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
@@ -54,15 +52,21 @@ groups:
   - Loyalists of House von Zarovich
 religions:
   - Devil worship (a cult of her own founding)
-personality: Cold, composed, and utterly ruthless beneath an aristocratic veneer
-ideal: Strahd is no tyrant, only a negligent landlord - true power lies in serving him well.
+personality: 'Cold, composed, and utterly ruthless beneath an aristocratic veneer'
+ideal: >-
+  Strahd is no tyrant, only a negligent landlord - true power lies in serving
+  him well.
 bond: >-
   The corpse of her beloved late husband, Nikolai, which she keeps gentle
   reposed beside her, and the manifesto she has written in his memory
-flaw: Her hunger to rule Vallaki outweighs any real concern for her children's happiness
-goals: To topple Baron Vallakovich, seize Vallaki's burgomastership, and rule the town in Strahd's name
-likes: Order, devotion, her cult's growth, the memory of her husband
-dislikes: Baron Vallakovich's buffoonery, weakness, disobedience, enemies of Strahd
+flaw: >-
+  Her hunger to rule Vallaki outweighs any real concern for her children's
+  happiness
+goals: >-
+  To topple Baron Vallakovich, seize Vallaki's burgomastership, and rule the
+  town in Strahd's name
+likes: 'Order, devotion, her cult''s growth, the memory of her husband'
+dislikes: 'Baron Vallakovich''s buffoonery, weakness, disobedience, enemies of Strahd'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -94,23 +98,7 @@ dislikes: Baron Vallakovich's buffoonery, weakness, disobedience, enemies of Str
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 110*
 
-No one hates Baron Vallakovich more than Lady Fiona Wachter, who is often quoted as saying, "I'd rather serve the devil than a madman." She owns an old house in town, Wachterhaus, but rarely leaves her estate - not that she needs to. Her schemes reach every corner of Vallaki without her ever stepping outside its gates.
-
-## A Family's Old Loyalty
-
-Fiona makes no secret of her family's long-standing loyalty to the von Zarovich line. She believes Strahd is no tyrant, only a negligent landlord, and she would happily serve him as burgomaster of Vallaki if only Baron Vallakovich would give up his birthright - which he won't, not without a fight. The burgomaster is afraid of her in turn, for the Wachters' ties to Strahd run old and deep, and he doesn't dare confront her or her family directly.
-
-## A Failed Betrothal
-
-Fiona once conspired to wed her young daughter, Stella, to the baron's son, [[Victor Vallakovich (COS)|Victor Vallakovich]], hoping to gain a foothold inside the baron's mansion. Victor found Stella demented and showed no interest in her whatsoever - worse, he spoke to her so unkindly that she went mad. Fiona had no choice but to lock her own daughter away in an upstairs room.
-
-## The Devil We Know
-
-Lady Wachter's latest scheme is far more diabolical. She has founded a cult based on devil worship and written a manifesto, *The Devil We Know*, which she reads to her "book club" of the most fanatical members. Once her cult has enough followers, Fiona plans to take the town by force. To reward her most loyal cultists, she has her pet imp, Majesto, stand invisibly at the center of a pentagram during a false ritual that calls upon "princes of darkness," then has it sprinkle a few electrum coins on the floor as a sign of infernal favor.
-
-## A Secret Kept Close
-
-Another of Fiona's secrets is that she sleeps beside the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom she cherished deeply. She casts gentle repose on his body to keep it from deteriorating. If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Fiona is all ears, and suggests they start by killing the baron's henchman, [[Izek Strazni (COS)|Izek Strazni]] - she'll happily take care of the rest. If they come looking for a way to defeat Strahd instead, she turns them away flatly: she is not, nor will she ever be, Strahd's enemy.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

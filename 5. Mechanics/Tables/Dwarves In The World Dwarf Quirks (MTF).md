@@ -11,7 +11,7 @@ aliases:
 
 **Dwarf Quirks**
 
-`dice: [[Dwarves In The World Dwarf Quirks (MTF).md#^dwarf-quirks]]`
+`dice: [[/5. Mechanics/Tables/Dwarves In The World Dwarf Quirks (MTF).md#^dwarf-quirks]]`
 
 | dice: d8 | Quirk |
 |----------|-------|

@@ -164,6 +164,15 @@ If it's unclear whether a melee attack in the stat block uses Strength or Dexter
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/093-04-004.webp#gallery\|Spellcasters, Left to Right: a Bullywug, a Goblin, and a Tabaxi]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/094-04-005.webp#gallery\|Warriors, Left to Right: an Aasimar, a Firbolg, and a Wolf]]
 
+> [!embed-classtype]- Expert Sidekick
+> ![[/5. Mechanics/Classes/Expert Sidekick (TCE).md\|Expert Sidekick]]
+
+> [!embed-classtype]- Spellcaster Sidekick
+> ![[/5. Mechanics/Classes/Spellcaster Sidekick (TCE).md\|Spellcaster Sidekick]]
+
+> [!embed-classtype]- Warrior Sidekick
+> ![[/5. Mechanics/Classes/Warrior Sidekick (TCE).md\|Warrior Sidekick]]
+
 ## Parleying with Monsters
 
 > [!quote] A quote from Tasha  
@@ -362,6 +371,18 @@ When magical currents become trapped amid winds and clouds, eldritch storms can 
 - [[/5. Mechanics/Traps Hazards/Necrotic Tempest (TCE).md\|Necrotic Tempest]]  
 - [[/5. Mechanics/Traps Hazards/Thryms Howl (TCE).md\|Thrym's Howl]]  
 
+> [!embed-hazard]- Flaywind
+> ![[/5. Mechanics/Traps Hazards/Flaywind (TCE).md\|Flaywind]]
+
+> [!embed-hazard]- Flame Storm
+> ![[/5. Mechanics/Traps Hazards/Flame Storm (TCE).md\|Flame Storm]]
+
+> [!embed-hazard]- Necrotic Tempest
+> ![[/5. Mechanics/Traps Hazards/Necrotic Tempest (TCE).md\|Necrotic Tempest]]
+
+> [!embed-hazard]- Thrym's Howl
+> ![[/5. Mechanics/Traps Hazards/Thryms Howl (TCE).md\|Thrym's Howl]]
+
 #### Emotional Echoes
 
 Occasionally a place becomes infused with the powerful emotions of those who once dwelt, worked, celebrated, or suffered there. Areas with emotional echoes are typically associated with one common emotion, such as joy or sorrow. Such an area might be as small as a room in a house or as large as a forest. Once per day, if a creature within the area expresses even the faintest hint of the prevailing emotion, the land seeks to hold onto that creature and inspire it to produce more of the feeling tied to the emotional echo. The creature is targeted by a [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] spell (DC 16), with the intent of making it linger in the area and perform an act related to its associated emotion. The effect lasts 24 hours.
@@ -478,6 +499,15 @@ Even without the threats of supernatural environments, the world is a dangerous 
 - [[/5. Mechanics/Traps Hazards/Falling Onto A Creature (TCE).md\|Falling onto a Creature]]  
 
 ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/108-04-019.webp#center\|Falling into Water]]
+
+> [!embed-hazard]- Avalanche
+> ![[/5. Mechanics/Traps Hazards/Avalanche (TCE).md\|Avalanche]]
+
+> [!embed-hazard]- Falling into Water
+> ![[/5. Mechanics/Traps Hazards/Falling Into Water (TCE).md\|Falling into Water]]
+
+> [!embed-hazard]- Falling onto a Creature
+> ![[/5. Mechanics/Traps Hazards/Falling Onto A Creature (TCE).md\|Falling onto a Creature]]
 
 #### Spell Equivalents of Natural Hazards
 
@@ -734,7 +764,7 @@ The statue, which is impervious to damage, depicts Ioun or some other god of kno
 
 ##### Diamond
 
-Between the palms of the statue's clasped hands is a diamond, which can only be found and retrieved once the puzzle is solved. Once the characters solve the puzzle, the statue's hands open, allowing the diamond to be taken. Upon breaching the threshold of the room with the diamond, a trapped soul in the form of a friendly, thankful spirit is released. The spirit leaves to pursue its own goals, and the diamond is left behind as a reward. The diamond is worth 5,000 gp.
+Between the palms of the statue's clasped hands is a diamond, which can only be found and retrieved once the puzzle is solved. Once the characters solve the puzzle, the statue's hands open, allowing the diamond to be taken. Upon breaching the threshold of the room with the diamond, a trapped soul in the form of a friendly, thankful spirit is released. The spirit leaves to pursue its own goals, and the diamond is left behind as a reward. The [[/5. Mechanics/Items/Diamond.md\|diamond]] is worth 5,000 gp.
 
 ##### Gemstones
 
@@ -1201,10 +1231,10 @@ Puzzle handout 6 (see the end of this chapter) illustrates the row of tiles set 
 
 If a tile is placed in the wrong place in the row, the corresponding elemental is freed from its stone prison and attacks. Only one of each elemental appears:
 
-- If the improperly placed tile has an open triangle pointing downward, the [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] is freed.  
-- If the improperly placed tile has an open triangle pointing upward, the [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elemental]] is freed.  
-- If the improperly placed tile has a triangle pointing upward with a horizontal line running through it, the [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elemental]] is freed.  
-- If the improperly placed tile has a triangle pointing downward with a horizontal line running through it, the [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]] is freed.  
+- If the improperly placed tile has an open triangle pointing downward, the [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] is freed.  
+- If the improperly placed tile has an open triangle pointing upward, the [[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md\|fire elemental]] is freed.  
+- If the improperly placed tile has a triangle pointing upward with a horizontal line running through it, the [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]] is freed.  
+- If the improperly placed tile has a triangle pointing downward with a horizontal line running through it, the [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]] is freed.  
 
 #### Solution
 

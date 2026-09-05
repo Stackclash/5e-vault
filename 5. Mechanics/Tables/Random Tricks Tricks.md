@@ -11,7 +11,7 @@ aliases:
 
 **Tricks**
 
-`dice: [[Random Tricks Tricks.md#^tricks]]`
+`dice: [[/5. Mechanics/Tables/Random Tricks Tricks.md#^tricks]]`
 
 | dice: d100 | Trick Effect |
 |------------|--------------|

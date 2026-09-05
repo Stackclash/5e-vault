@@ -11,7 +11,7 @@ aliases:
 
 **Type 4 Malison: Lower Body**
 
-`dice: [[Physical Variations Type 4 Malison Lower Body (VGM).md#^type-4-malison-lower-body]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Type 4 Malison Lower Body (VGM).md#^type-4-malison-lower-body]]`
 
 | dice: d20 | Malison Type 4 Lower Body |
 |-----------|---------------------------|

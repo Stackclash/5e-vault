@@ -11,7 +11,7 @@ aliases:
 
 **World-Shaking Events**
 
-`dice: [[World Shaking Events.md#^world-shaking-events]]`
+`dice: [[/5. Mechanics/Tables/World Shaking Events.md#^world-shaking-events]]`
 
 | dice: d10 | Event |
 |-----------|-------|

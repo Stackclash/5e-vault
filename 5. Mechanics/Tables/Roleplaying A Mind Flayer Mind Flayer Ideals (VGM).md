@@ -11,7 +11,7 @@ aliases:
 
 **Mind Flayer Ideals**
 
-`dice: [[Roleplaying A Mind Flayer Mind Flayer Ideals (VGM).md#^mind-flayer-ideals]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Ideals (VGM).md#^mind-flayer-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

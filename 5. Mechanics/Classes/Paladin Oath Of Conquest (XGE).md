@@ -8,7 +8,7 @@ aliases:
   - Oath of Conquest
 ---
 # Oath of Conquest
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Xanathar's Guide to Everything p. 37*  
 
 > [!tldr] Class and Feature Progression

@@ -9,7 +9,7 @@ aliases:
 # Devil Clinches
 *Source: Devil's Advocate: A Guide to Infernal Contracts p. 12* 
 
-`dice: [[Devil Clinches Da Gic.md#^the-deal-is-sealed]]`
+`dice: [[/5. Mechanics/Tables/Devil Clinches Da Gic.md#^the-deal-is-sealed]]`
 
 | dice: d6 | The deal is sealed... |
 |----------|-----------------------|

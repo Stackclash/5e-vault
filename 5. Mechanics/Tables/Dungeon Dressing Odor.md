@@ -11,7 +11,7 @@ aliases:
 
 **Odor**
 
-`dice: [[Dungeon Dressing Odor.md#^odor]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing Odor.md#^odor]]`
 
 | dice: d100 | Effect |
 |------------|--------|

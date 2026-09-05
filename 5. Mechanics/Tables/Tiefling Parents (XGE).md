@@ -11,7 +11,7 @@ aliases:
 
 **Tiefling Parents**
 
-`dice: [[Tiefling Parents (XGE).md#^tiefling-parents]]`
+`dice: [[/5. Mechanics/Tables/Tiefling Parents (XGE).md#^tiefling-parents]]`
 
 | dice: d8 | Parents |
 |----------|---------|

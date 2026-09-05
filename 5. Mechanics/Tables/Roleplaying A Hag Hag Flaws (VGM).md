@@ -11,7 +11,7 @@ aliases:
 
 **Hag Flaws**
 
-`dice: [[Roleplaying A Hag Hag Flaws (VGM).md#^hag-flaws]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Hag Hag Flaws (VGM).md#^hag-flaws]]`
 
 | dice: d6 | Flaw |
 |----------|------|

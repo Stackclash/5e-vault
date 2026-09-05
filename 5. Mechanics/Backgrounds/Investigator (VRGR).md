@@ -27,7 +27,7 @@ Your first case influenced the types of mysteries you're interested in. Why was 
 
 **First Case**
 
-`dice: [[Investigator (VRGR).md#^first-case]]`
+`dice: [[/5. Mechanics/Backgrounds/Investigator (VRGR).md#^first-case]]`
 
 | dice: d8 | Case |
 |----------|------|
@@ -47,7 +47,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Personality Traits**
 
-`dice: [[Investigator (VRGR).md#^horror-character-personality-traits]]`
+`dice: [[/5. Mechanics/Backgrounds/Investigator (VRGR).md#^horror-character-personality-traits]]`
 
 | dice: d12 | Personality Trait |
 |-----------|-------------------|
@@ -67,7 +67,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Ideals**
 
-`dice: [[Investigator (VRGR).md#^horror-character-ideals]]`
+`dice: [[/5. Mechanics/Backgrounds/Investigator (VRGR).md#^horror-character-ideals]]`
 
 | dice: d12 | Ideal |
 |-----------|-------|
@@ -87,7 +87,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Bonds**
 
-`dice: [[Investigator (VRGR).md#^horror-character-bonds]]`
+`dice: [[/5. Mechanics/Backgrounds/Investigator (VRGR).md#^horror-character-bonds]]`
 
 | dice: d12 | Bond |
 |-----------|------|
@@ -107,7 +107,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Flaws**
 
-`dice: [[Investigator (VRGR).md#^horror-character-flaws]]`
+`dice: [[/5. Mechanics/Backgrounds/Investigator (VRGR).md#^horror-character-flaws]]`
 
 | dice: d12 | Flaw |
 |-----------|------|

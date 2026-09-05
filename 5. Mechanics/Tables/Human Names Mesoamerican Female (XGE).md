@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Mesoamerican, Female**
 
-`dice: [[Human Names Mesoamerican Female (XGE).md#^human-names-mesoamerican-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Mesoamerican Female (XGE).md#^human-names-mesoamerican-female]]`
 
 | dice: d100 | Name |
 |------------|------|

@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon: Planar Gate**
 
-`dice: [[Chamber Purpose Dungeon Planar Gate.md#^dungeon-planar-gate]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose Dungeon Planar Gate.md#^dungeon-planar-gate]]`
 
 | dice: d100 | Purpose |
 |------------|---------|

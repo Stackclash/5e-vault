@@ -29,7 +29,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 
 **Master Thief Calling Cards**
 
-`dice: [[Master Thief (MPMM).md#^master-thief-calling-cards]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/Master Thief (MPMM).md#^master-thief-calling-cards]]`
 
 | dice: d10 | Calling Card |
 |-----------|--------------|

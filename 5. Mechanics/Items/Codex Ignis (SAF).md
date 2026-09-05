@@ -36,7 +36,7 @@ You are always protected by an invisible [[/5. Mechanics/Spells/Fire Shield.md\|
 
 ## Ward of Fire
 
-Whenever you are surprised in combat, a [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elemental]] immediately arrives and acts on initiative count 20. It attacks your enemies, putting your safety first, obeying your orders second. It remains in the Mundane World for 1 minute, after which it returns to Quintessence.
+Whenever you are surprised in combat, a [[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md\|fire elemental]] immediately arrives and acts on initiative count 20. It attacks your enemies, putting your safety first, obeying your orders second. It remains in the Mundane World for 1 minute, after which it returns to Quintessence.
 
 ## Sea of Fire
 

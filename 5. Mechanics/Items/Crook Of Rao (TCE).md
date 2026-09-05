@@ -50,13 +50,13 @@ When the Crook was last used against Iggwilv, the Witch Queen lashed out at the 
 
 **Extraplanar Reversal**
 
-`dice: [[Crook Of Rao (TCE).md#^extraplanar-reversal]]`
+`dice: [[/5. Mechanics/Items/Crook Of Rao (TCE).md#^extraplanar-reversal]]`
 
 | dice: d100 | Effect |
 |------------|--------|
 | 1-25 | A portal to a random plane opens. The portal closes after 5 minutes. |
 | 26-45 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Fiend/Imp.md\|imps]] and `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Fiend/Quasit.md\|quasits]] appear. |
-| 46-60 | `dice:1d8\|noform\|noparens\|avg` (`1d8`) [[/5. Mechanics/Bestiary/Fiend/Succub(US).md\|succubi]]/[[/5. Mechanics/Bestiary/Fiend/Incub(US).md\|incubi]] appear. |
+| 46-60 | `dice:1d8\|noform\|noparens\|avg` (`1d8`) [[/5. Mechanics/Bestiary/Fiend/Succubus.md\|succubi]]/[[/5. Mechanics/Bestiary/Fiend/Incubus.md\|incubi]] appear. |
 | 61-70 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Fiend/Barbed Devil.md\|barbed devils]] and `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Fiend/Vrock.md\|vrocks]] appear. |
 | 71-80 | 1 [[/5. Mechanics/Bestiary/Fiend/Arcanaloth.md\|arcanaloth]], 1 [[/5. Mechanics/Bestiary/Fiend/Night Hag.md\|night hag]], and 1 [[/5. Mechanics/Bestiary/Fiend/Rakshasa.md\|rakshasa]] appear. |
 | 81-85 | 1 [[/5. Mechanics/Bestiary/Fiend/Ice Devil.md\|ice devil]] and 1 [[/5. Mechanics/Bestiary/Fiend/Marilith.md\|marilith]] appear. |

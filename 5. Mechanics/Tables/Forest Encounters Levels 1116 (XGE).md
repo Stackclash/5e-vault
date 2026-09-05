@@ -11,7 +11,7 @@ aliases:
 
 **Forest Encounters (Levels 11—16)**
 
-`dice: [[Forest Encounters Levels 1116 (XGE).md#^forest-encounters-levels-1116]]`
+`dice: [[/5. Mechanics/Tables/Forest Encounters Levels 1116 (XGE).md#^forest-encounters-levels-1116]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

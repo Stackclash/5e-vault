@@ -97,7 +97,7 @@ If you really want to see things get out of control very quickly, watch Maladar 
   - "desc": "Maladar Dictum has a 50% chance of summoning a member of his court in\
       \ an adjacent unoccupied space. If successful, roll a d12 and consult the below\
       \ chart. Each member of his court may only be summoned once per day in this\
-      \ manner. If the same member is summoned twice, nothing happens.\n\ndice: [[Maladar Dictum (SAF).md#^member-summoned]]\n\
+      \ manner. If the same member is summoned twice, nothing happens.\n\ndice: [[/5. Mechanics/Bestiary/Aberration/Maladar Dictum (SAF).md#^member-summoned]]\n\
       \n| dice: d12 | Member Summoned |\n|-----------|-----------------|\n| 1-4 |\
       \ [[/4. World Almanac/NPCs/Baron Malgas (SAF).md|Baron Malgas]] |\n| 5-7 | [[/4. World Almanac/NPCs/Korsoth Vastikan (SAF).md|Korsoth\
       \ Vastikan]] |\n| 8-9 | [[/4. World Almanac/NPCs/The Queen Of Bones (SAF).md|The\

@@ -11,7 +11,7 @@ aliases:
 
 **Tepest Adventures**
 
-`dice: [[Tepest Adventures (VRGR).md#^tepest-adventures]]`
+`dice: [[/5. Mechanics/Tables/Tepest Adventures (VRGR).md#^tepest-adventures]]`
 
 | dice: d10 | Adventure |
 |-----------|-----------|

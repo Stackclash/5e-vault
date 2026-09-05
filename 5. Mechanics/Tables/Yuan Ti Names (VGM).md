@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Names**
 
-`dice: [[Yuan Ti Names (VGM).md#^yuan-ti-names]]`
+`dice: [[/5. Mechanics/Tables/Yuan Ti Names (VGM).md#^yuan-ti-names]]`
 
 | dice: d20 | Name |
 |-----------|------|

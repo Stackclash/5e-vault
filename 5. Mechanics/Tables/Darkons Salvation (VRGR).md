@@ -11,7 +11,7 @@ aliases:
 
 **Darkon's Salvation**
 
-`dice: [[Darkons Salvation (VRGR).md#^darkons-salvation]]`
+`dice: [[/5. Mechanics/Tables/Darkons Salvation (VRGR).md#^darkons-salvation]]`
 
 | dice: d6 | Method |
 |----------|--------|

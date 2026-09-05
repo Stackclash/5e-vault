@@ -9,7 +9,7 @@ aliases:
 # Raise Dead Random Effects
 *Source: Deep Magic p. 351* 
 
-`dice: [[Raise Dead Random Effects (KPDM).md#^effect]]`
+`dice: [[/5. Mechanics/Tables/Raise Dead Random Effects (KPDM).md#^effect]]`
 
 | dice: d12 | Effect |
 |-----------|--------|

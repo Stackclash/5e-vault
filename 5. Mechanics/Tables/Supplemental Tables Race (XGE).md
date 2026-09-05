@@ -11,7 +11,7 @@ aliases:
 
 **Race**
 
-`dice: [[Supplemental Tables Race (XGE).md#^race]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Race (XGE).md#^race]]`
 
 | dice: d100 | Race |
 |------------|------|

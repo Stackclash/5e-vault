@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Skin Color**
 
-`dice: [[Physical Characteristics Beholder Skin Color (VGM).md#^beholder-skin-color]]`
+`dice: [[/5. Mechanics/Tables/Physical Characteristics Beholder Skin Color (VGM).md#^beholder-skin-color]]`
 
 | dice: d12 | Skin Color |
 |-----------|------------|

@@ -8,7 +8,7 @@ aliases:
   - Steel Hawk
 ---
 # Steel Hawk
-*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[/5. Mechanics/Classes/Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: The Griffon's Saddlebag, Book 2 p. 216*  
 
 > [!tldr] Class and Feature Progression

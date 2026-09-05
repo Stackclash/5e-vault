@@ -11,7 +11,7 @@ aliases:
 
 **Monstrous Transformations**
 
-`dice: [[Monstrous Transformations (VRGR).md#^monstrous-transformations]]`
+`dice: [[/5. Mechanics/Tables/Monstrous Transformations (VRGR).md#^monstrous-transformations]]`
 
 | dice: d10 | Transformation |
 |-----------|----------------|

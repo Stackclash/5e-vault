@@ -11,7 +11,7 @@ aliases:
 
 **Unraveling Magic Effects**
 
-`dice: [[Unraveling Magic Effects (TCE).md#^unraveling-magic-effects]]`
+`dice: [[/5. Mechanics/Tables/Unraveling Magic Effects (TCE).md#^unraveling-magic-effects]]`
 
 | dice: d100 | Effect |
 |------------|--------|

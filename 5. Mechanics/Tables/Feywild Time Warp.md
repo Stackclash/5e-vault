@@ -11,7 +11,7 @@ aliases:
 
 **Feywild Time Warp**
 
-`dice: [[Feywild Time Warp.md#^feywild-time-warp]]`
+`dice: [[/5. Mechanics/Tables/Feywild Time Warp.md#^feywild-time-warp]]`
 
 | dice: d20 | Result |
 |-----------|--------|

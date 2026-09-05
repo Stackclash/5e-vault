@@ -15,7 +15,7 @@ alignment: Neutral Evil
 relationships: []
 partyRelationships: {}
 location: null
-pronounced: 'lud-MIL-ah vil-ih-SEV-ich'
+pronounced: lud-MIL-ah vil-ih-SEV-ich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 24
@@ -24,12 +24,12 @@ groups:
   - Strahd's brides
 religions: []
 personality: >-
-  Vain and pining even in undeath — clings to the memory of being chosen,
-  though Strahd's favor faded long ago.
-ideal: To be remembered as Strahd's bride, not his discard.
-bond: The wedding gown she still wears, and the wedding day she'll never let go of.
+  Vain and pining even in undeath — clings to the memory of being chosen, though
+  Strahd's favor faded long ago.
+ideal: 'To be remembered as Strahd''s bride, not his discard.'
+bond: 'The wedding gown she still wears, and the wedding day she''ll never let go of.'
 flaw: Blind devotion to a man who has long since forgotten her.
-goals: To be noticed by Strahd again — or, failing that, to feed.
+goals: 'To be noticed by Strahd again — or, failing that, to feed.'
 likes: 'Finery, attention, being called beautiful'
 dislikes: 'Being ignored, sunlight, reminders that she was replaced'
 description: >-
@@ -38,10 +38,10 @@ description: >-
 history: >-
   Once a mortal woman claimed as one of Strahd's many brides, Ludmilla was
   turned into a vampire spawn and discarded like those before her. She lay
-  dormant for centuries with her sister brides, [[Anastrasya Karelova (COS)|Anastrasya Karelova]]
-  and [[Volenta Popofsky (COS)|Volenta Popofsky]], in the earth near Strahd's
-  coffin in the catacombs of Castle Ravenloft, rising only to defend it from
-  intruders.
+  dormant for centuries with her sister brides, [[Anastrasya Karelova
+  (COS)|Anastrasya Karelova]] and [[Volenta Popofsky (COS)|Volenta Popofsky]],
+  in the earth near Strahd's coffin in the catacombs of Castle Ravenloft, rising
+  only to defend it from intruders.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -73,11 +73,7 @@ history: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 93*
 
-Ludmilla Vilisevic wears a soiled white wedding gown, a gold tiara, and gold bracelets — the finery Strahd once lavished on his brides.
-
-## The Brides of Ravenloft
-
-Ludmilla was one of three vampire spawn brides — alongside [[Anastrasya Karelova (COS)|Anastrasya Karelova]] and [[Volenta Popofsky (COS)|Volenta Popofsky]] — kept dormant in the earth near Strahd's coffin in the catacombs of Castle Ravenloft, rising only to defend it from intruders.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

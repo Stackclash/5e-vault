@@ -11,7 +11,7 @@ aliases:
 
 **Orc Ideals**
 
-`dice: [[Roleplaying An Orc Orc Ideals (VGM).md#^orc-ideals]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying An Orc Orc Ideals (VGM).md#^orc-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

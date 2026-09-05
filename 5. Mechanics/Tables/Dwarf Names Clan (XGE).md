@@ -11,7 +11,7 @@ aliases:
 
 **Dwarf Names – Clan**
 
-`dice: [[Dwarf Names Clan (XGE).md#^dwarf-names-clan]]`
+`dice: [[/5. Mechanics/Tables/Dwarf Names Clan (XGE).md#^dwarf-names-clan]]`
 
 | dice: d100 | Name |
 |------------|------|

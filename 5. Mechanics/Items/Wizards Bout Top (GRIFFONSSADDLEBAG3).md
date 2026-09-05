@@ -25,7 +25,7 @@ await dv.view("views/itemPrice", {current: dv.current()})
 
 This wooden top is a favorite among children in the wizard city of Orostead, who use them in a local favorite game of Wizards' Bout. Many children repaint their tops to fit their personal aesthetic. You can spin the top using an action; roll a `dice:d8|noform|noparens|avg` (`d8`) and use the table below to determine the illusory effect created by the top. The effects are instantaneous.
 
-`dice: [[Wizards Bout Top (GRIFFONSSADDLEBAG3).md#^illusory-effect]]`
+`dice: [[/5. Mechanics/Items/Wizards Bout Top (GRIFFONSSADDLEBAG3).md#^illusory-effect]]`
 
 | dice: d8 | Illusory Effect |
 |----------|-----------------|
@@ -43,7 +43,7 @@ To play a game of Wizards' Bout, another creature must also spin a different Wiz
 
 Both players take turns spinning their tops. Each round is called a bout, and the tops' effects are resolved simultaneously at the end of each bout (even if one player spun their top first). Each effect is associated with a unique element. If that element trumps the one rolled by the opposing player, the opposing top's effect is negated.
 
-`dice: [[Wizards Bout Top (GRIFFONSSADDLEBAG3).md#^element-trumps-wizards-bout-effect]]`
+`dice: [[/5. Mechanics/Items/Wizards Bout Top (GRIFFONSSADDLEBAG3).md#^element-trumps-wizards-bout-effect]]`
 
 | dice: d8 | Element | Trumps | Wizards' Bout Effect |
 |----------|---------|--------|----------------------|

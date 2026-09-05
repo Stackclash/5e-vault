@@ -11,7 +11,7 @@ aliases:
 
 **Undead**
 
-`dice: [[Monsters Desires Undead (TCE).md#^undead]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Undead (TCE).md#^undead]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

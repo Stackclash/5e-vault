@@ -11,7 +11,7 @@ aliases:
 
 **Potion Miscibility**
 
-`dice: [[Variant Mixing Potions Potion Miscibility.md#^potion-miscibility]]`
+`dice: [[/5. Mechanics/Tables/Variant Mixing Potions Potion Miscibility.md#^potion-miscibility]]`
 
 | dice: d100 | Result |
 |------------|--------|

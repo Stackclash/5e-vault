@@ -53,7 +53,7 @@ You channel the force of chaos to taint your target's mind. A target that gets a
 
 **Alignment Fluctuation**
 
-`dice: [[Fluctuating Alignment (KPDM).md#^alignment-fluctuation]]`
+`dice: [[/5. Mechanics/Spells/Fluctuating Alignment (KPDM).md#^alignment-fluctuation]]`
 
 | dice: d20 | Alignment |
 |-----------|-----------|

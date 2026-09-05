@@ -11,7 +11,7 @@ aliases:
 
 **Current Chamber State**
 
-`dice: [[Current Chamber State.md#^current-chamber-state]]`
+`dice: [[/5. Mechanics/Tables/Current Chamber State.md#^current-chamber-state]]`
 
 | dice: d20 | Features |
 |-----------|----------|

@@ -11,7 +11,7 @@ aliases:
 
 **Scribe a Scroll Complications**
 
-`dice: [[Scribe A Scroll Complications (XGE).md#^scribe-a-scroll-complications]]`
+`dice: [[/5. Mechanics/Tables/Scribe A Scroll Complications (XGE).md#^scribe-a-scroll-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

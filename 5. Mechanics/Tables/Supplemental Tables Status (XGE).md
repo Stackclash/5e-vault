@@ -11,7 +11,7 @@ aliases:
 
 **Status**
 
-`dice: [[Supplemental Tables Status (XGE).md#^status]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Status (XGE).md#^status]]`
 
 | dice: 3d6 | Status |
 |-----------|--------|

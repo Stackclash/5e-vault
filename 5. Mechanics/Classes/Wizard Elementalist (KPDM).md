@@ -8,7 +8,7 @@ aliases:
   - Elementalist
 ---
 # Elementalist
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 151*  
 
 > [!tldr] Class and Feature Progression
@@ -77,7 +77,7 @@ Some spells are associated with your focus element. The gold and time you must s
 
 4th level—[[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]]
 
-5th level—[[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]]
+5th level—[[/5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]]
 
 6th level—[[/5. Mechanics/Spells/Chain Lightning.md\|chain lightning]]
 
@@ -91,7 +91,7 @@ Some spells are associated with your focus element. The gold and time you must s
 
 4th level—[[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[/5. Mechanics/Spells/Earthskimmer (KPDM).md\|earthskimmer]], [[/5. Mechanics/Spells/Stone Shape.md\|stone shape]]
 
-5th level—[[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]], [[/5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]]
+5th level—[[/5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]], [[/5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]]
 
 6th level—[[/5. Mechanics/Spells/Entomb (KPDM).md\|entomb]], [[/5. Mechanics/Spells/Move Earth.md\|move earth]]
 
@@ -99,13 +99,13 @@ Some spells are associated with your focus element. The gold and time you must s
 
 **Elemental Focus Fire.** Cantrips—[[/5. Mechanics/Spells/Fire Bolt.md\|fire bolt]], [[/5. Mechanics/Spells/Produce Flame.md\|produce flame]]
 
-2nd level—[[/5. Mechanics/Spells/Fire Darts (KPDM).md\|fire darts]], [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]
+2nd level—[[/5. Mechanics/Spells/Fire Darts (KPDM).md\|fire darts]], [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[/5. Mechanics/Spells/Heat Metal.md\|heat metal]], [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]
 
 3rd level—[[/5. Mechanics/Spells/Fireball.md\|fireball]]
 
 4th level—[[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[/5. Mechanics/Spells/Flame Wave (KPDM).md\|flame wave]], [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]]
 
-5th level—[[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]]
+5th level—[[/5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]]
 
 7th level—[[/5. Mechanics/Spells/Delayed Blast Fireball.md\|delayed blast fireball]]
 
@@ -121,7 +121,7 @@ Some spells are associated with your focus element. The gold and time you must s
 
 4th level—[[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[/5. Mechanics/Spells/Control Water.md\|control water]]
 
-5th level—[[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]], [[/5. Mechanics/Spells/Frostbite (KPDM).md\|frostbite]]
+5th level—[[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[/5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]], [[/5. Mechanics/Spells/Frostbite (KPDM).md\|frostbite]]
 
 6th level—[[/5. Mechanics/Spells/Drown (KPDM).md\|drown]], [[/5. Mechanics/Spells/Otilukes Freezing Sphere.md\|freezing sphere]], [[/5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]]
 

@@ -11,7 +11,7 @@ aliases:
 
 **Forms of Government**
 
-`dice: [[Forms Of Government.md#^forms-of-government]]`
+`dice: [[/5. Mechanics/Tables/Forms Of Government.md#^forms-of-government]]`
 
 | dice: d100 | Government |
 |------------|------------|

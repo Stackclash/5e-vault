@@ -21,7 +21,7 @@ Your connection to magic began with a term of service, or servitude, to a magici
 
 You were previously a different kind of creature. How you became what you are, and what you know of your former existence, can vary greatly depending on the circumstances. Choose or randomly determine the lifechanging event that brought about your transformation.
 
-`dice: [[Transformed Familiar (KPDM).md#^event]]`
+`dice: [[/5. Mechanics/Backgrounds/Transformed Familiar (KPDM).md#^event]]`
 
 | dice: d8 | Event |
 |----------|-------|
@@ -43,7 +43,7 @@ You are a transformed familiar, and although your physical form has changed, you
 
 Transformed familiars often display Personality Traits and Quirks that are holdovers from their prior lives. They might hold to these affectations consciously, or without realizing their behavior is unusual. Either way, every transformed familiar carries their past with them in some manner.
 
-`dice: [[Transformed Familiar (KPDM).md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Transformed Familiar (KPDM).md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -57,7 +57,7 @@ Transformed familiars often display Personality Traits and Quirks that are holdo
 | 8 | I react instinctually to Stress, problems, and challenges. My gut reaction is the right one. |
 ^personality-trait
 
-`dice: [[Transformed Familiar (KPDM).md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Transformed Familiar (KPDM).md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -69,7 +69,7 @@ Transformed familiars often display Personality Traits and Quirks that are holdo
 | 6 | **Family.** My Family is my port in the storm and my refuge from the world. (Any) |
 ^ideal
 
-`dice: [[Transformed Familiar (KPDM).md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Transformed Familiar (KPDM).md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -81,7 +81,7 @@ Transformed familiars often display Personality Traits and Quirks that are holdo
 | 6 | I dislike disguises or changing my form further; I want the world to see me as I now am. |
 ^bond
 
-`dice: [[Transformed Familiar (KPDM).md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Transformed Familiar (KPDM).md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

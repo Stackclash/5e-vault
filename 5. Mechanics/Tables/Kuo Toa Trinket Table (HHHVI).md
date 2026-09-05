@@ -9,7 +9,7 @@ aliases:
 # Kuo-Toa Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 71* 
 
-`dice: [[Kuo Toa Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Kuo Toa Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

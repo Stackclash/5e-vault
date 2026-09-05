@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Flaws**
 
-`dice: [[Roleplaying A Beholder Beholder Flaws (VGM).md#^beholder-flaws]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Beholder Beholder Flaws (VGM).md#^beholder-flaws]]`
 
 | dice: d6 | Flaw |
 |----------|------|

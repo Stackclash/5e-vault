@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Arabic, Female**
 
-`dice: [[Human Names Arabic Female (XGE).md#^human-names-arabic-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Arabic Female (XGE).md#^human-names-arabic-female]]`
 
 | dice: d100 | Name |
 |------------|------|

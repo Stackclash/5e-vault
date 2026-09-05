@@ -11,7 +11,7 @@ aliases:
 
 **Religious Order Contact**
 
-`dice: [[Religious Order Contact (TCE).md#^religious-order-contact]]`
+`dice: [[/5. Mechanics/Tables/Religious Order Contact (TCE).md#^religious-order-contact]]`
 
 | dice: d6 | Contact |
 |----------|---------|

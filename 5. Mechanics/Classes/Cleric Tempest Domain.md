@@ -9,7 +9,7 @@ aliases:
   - Tempest Domain
 ---
 # Tempest Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 62*  
 
 > [!tldr] Class and Feature Progression
@@ -44,7 +44,7 @@ aliases:
 ^class-progression
 
 
-Gods whose portfolios include the Tempest domain—including Talos, Umberlee, [[/5. Mechanics/Deities/Greyhawk Kord.md\|Kord]], [[/5. Mechanics/Deities/Dragonlance Zeboim (PHB).md\|Zeboim]], [[/5. Mechanics/Deities/Eberron The Devourer.md\|the Devourer]], [[/5. Mechanics/Deities/Greek Ze(US).md\|Zeus]], and [[/5. Mechanics/Deities/Norse Thor.md\|Thor]]—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
+Gods whose portfolios include the Tempest domain—including Talos, Umberlee, [[/5. Mechanics/Deities/Greyhawk Kord.md\|Kord]], [[/5. Mechanics/Deities/Dragonlance Zeboim (PHB).md\|Zeboim]], [[/5. Mechanics/Deities/Eberron The Devourer.md\|the Devourer]], [[/5. Mechanics/Deities/Greek Zeus.md\|Zeus]], and [[/5. Mechanics/Deities/Norse Thor.md\|Thor]]—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
 
 ## Subclass Features
 

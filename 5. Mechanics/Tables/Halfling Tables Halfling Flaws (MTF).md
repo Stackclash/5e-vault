@@ -11,7 +11,7 @@ aliases:
 
 **Halfling Flaws**
 
-`dice: [[Halfling Tables Halfling Flaws (MTF).md#^halfling-flaws]]`
+`dice: [[/5. Mechanics/Tables/Halfling Tables Halfling Flaws (MTF).md#^halfling-flaws]]`
 
 | dice: d6 | Flaw |
 |----------|------|

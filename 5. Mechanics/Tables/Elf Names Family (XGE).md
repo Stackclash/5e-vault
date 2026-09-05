@@ -11,7 +11,7 @@ aliases:
 
 **Elf Names – Family**
 
-`dice: [[Elf Names Family (XGE).md#^elf-names-family]]`
+`dice: [[/5. Mechanics/Tables/Elf Names Family (XGE).md#^elf-names-family]]`
 
 | dice: d100 | Name |
 |------------|------|

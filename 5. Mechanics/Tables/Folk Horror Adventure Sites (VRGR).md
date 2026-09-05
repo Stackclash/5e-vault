@@ -11,7 +11,7 @@ aliases:
 
 **Folk Horror Adventure Sites**
 
-`dice: [[Folk Horror Adventure Sites (VRGR).md#^folk-horror-adventure-sites]]`
+`dice: [[/5. Mechanics/Tables/Folk Horror Adventure Sites (VRGR).md#^folk-horror-adventure-sites]]`
 
 | dice: d6 | Adventure Site |
 |----------|----------------|

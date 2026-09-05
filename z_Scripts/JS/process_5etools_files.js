@@ -26,6 +26,13 @@ const config = {
     moves: true,
     rules: true
   },
+  cleanup: {
+    // Removes notes left behind by the old source-key file name bug
+    // (`Celestial` -> `Celesti(AL)`) and repoints any link still aimed at them
+    mangledSourceKeys: true,
+    dryRun: process.argv.includes('--dry-run'),
+    skipFolders: ['.git', '.obsidian', 'node_modules', 'compendium', 'z_Extra', 'z_Assets']
+  },
   rules: [{
       enabled: true,
       name: 'Update File Path',
@@ -73,7 +80,7 @@ const config = {
 
         newFileName = newFileName
           .replaceAll(/(^|[\/\\\-])([a-z0-9])(?!mg[\/\\]|oken[\/\\])/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
-          .replace(new RegExp(`(${sourceKeys.join('|')})$`, 'i'), (oldText, source) => `(${source.toUpperCase()})`)
+          .replace(sourceKeyRegex(sourceKeys), (oldText, boundary, source) => `${boundary}(${source.toUpperCase()})`)
 
         return newFileName
       }
@@ -89,7 +96,7 @@ const config = {
       process: async function(file, oldLink, displayText, linkPath, section, title) {
         let filePath = path.parse(linkPath).dir
         let fileName = path.parse(linkPath).name
-        let separator = filePath.match(/[\/\\]/)
+        let fileExtension = path.parse(linkPath).ext
         let linkPipe = /bestiary|npc/i.test(file.path) ? '|' : '\\|' // Prevents breaking statblocks
 
         let filePathRule = config.rules.find(rule => rule.name === 'Update File Path')
@@ -98,17 +105,27 @@ const config = {
         filePath = await filePathRule.process({
           fileName: fileName,
           relativePath: filePath,
-          fileExtension: path.parse(linkPath).ext
+          fileExtension: fileExtension
         })
 
-        if (!fileNameRule.ignore({ fileExtension: path.parse(linkPath).ext })) {
+        // `./thing.md` and `thing.md` point at the note's own folder, which 'Update
+        // File Path' has already relocated - resolve them against it so the wikilink
+        // gets a real vault path instead of a bare `.`
+        if (filePath === '' || /^\.\.?([\/\\]|$)/.test(filePath)) {
+          filePath = path.join(file.relativePath, filePath)
+          filePath = filePath === '.' ? '' : `/${filePath}`
+        }
+
+        filePath = filePath.replaceAll('\\', '/').replace(/\/+$/, '')
+
+        if (!fileNameRule.ignore({ fileExtension: fileExtension })) {
           fileName = await fileNameRule.process({
             fileName: fileName,
             path: filePath
           })
         }
 
-        linkPath = `${filePath ? filePath + separator : ''}${fileName}${path.parse(linkPath).ext}`
+        linkPath = `${filePath ? filePath + '/' : ''}${fileName}${fileExtension}`
 
         if (!displayText && !title) {
           newLink = `[[${linkPath}${section}]]`
@@ -436,7 +453,7 @@ class CompendiumFile {
   }
 }
 
-function getFilesList(folderPath) {
+function getFilesList(folderPath, skipFolders = []) {
   const filesList = []
   const files = fs.readdirSync(folderPath)
 
@@ -445,7 +462,8 @@ function getFilesList(folderPath) {
     const fileInfo = fs.statSync(filePath)
 
     if (fileInfo.isDirectory()) {
-      filesList.push(...getFilesList(filePath))
+      if (skipFolders.includes(file)) continue
+      filesList.push(...getFilesList(filePath, skipFolders))
     } else {
       filesList.push(filePath)
     }
@@ -532,9 +550,21 @@ async function processAllRules(file, index) {
   return
 }
 
+function escapeRegExp(text) {
+  return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
+// ttrpg-convert appends the source key as its own word (`gray-ooze-mpmm` becomes
+// `Gray Ooze Mpmm`), so the key has to be preceded by the start of the name or
+// whitespace. Matching a bare suffix mangles any name that merely ends in those
+// letters - `Celestial` turns into `Celesti(AL)`.
+function sourceKeyRegex(sourceKeys) {
+  return new RegExp(`(^|\\s)(${sourceKeys.map(escapeRegExp).join('|')})$`, 'i')
+}
+
 async function getAllSourceKeys() {
   const sourceKeys = []
-  const keySourceResponse = await fetch('https://rawcdn.githack.com/ebullient/ttrpg-convert-cli/f23b3aa4a5947fe7c773832189af6024692ab9c2/src/main/resources/sourceMap.yaml')
+  const keySourceResponse = await fetch('https://raw.githack.com/ebullient/ttrpg-convert-cli/main/src/main/resources/sourceMap.yaml')
   const keySource = await keySourceResponse.text()
 
   ttrpgConvertConfig.sources.homebrew.forEach(homebrew => {
@@ -549,7 +579,72 @@ async function getAllSourceKeys() {
   return sourceKeys
 }
 
-function cleanup() {
+// Notes whose file name was mangled by the old source-key bug (`Celestial` became
+// `Celesti(AL)`). A file is only deleted once its correctly named replacement
+// exists, so a run before the reingest can never remove the only copy of a note.
+async function removeMangledSourceKeyFiles() {
+  let sourceKeys = cache.get('sourceKeys')
+  if (!sourceKeys) {
+    sourceKeys = await getAllSourceKeys()
+    cache.set('sourceKeys', sourceKeys)
+  }
+
+  // A real source key is always its own word - `Adult Oblex (MPMM)`. Anything with
+  // no whitespace in front of the bracket was cut out of the middle of a word.
+  const mangled = new RegExp(`^(.*\\S)\\((${sourceKeys.map(escapeRegExp).join('|')})\\)$`, 'i')
+  const dryRun = config.cleanup.dryRun
+  const files = getFilesList(config.rootVaultPath, config.cleanup.skipFolders)
+    .filter(file => path.extname(file) === '.md')
+
+  const renames = []
+  for (const file of files) {
+    const match = path.parse(file).name.match(mangled)
+    if (match) {
+      const corrected = match[1] + match[2].toLowerCase()
+      renames.push({
+        file,
+        from: path.parse(file).name,
+        to: corrected,
+        replacement: path.join(path.parse(file).dir, `${corrected}.md`)
+      })
+    }
+  }
+
+  if (!renames.length) return
+
+  console.log(`\nCleanup: ${renames.length} file(s) with a mangled source key`)
+
+  for (const rename of renames) {
+    if (!fs.existsSync(rename.replacement)) {
+      console.log(`\tSkipped, no ${rename.to}.md yet: ${path.relative(config.rootVaultPath, rename.file)}`)
+      continue
+    }
+    console.log(`\t${dryRun ? 'Would delete' : 'Deleted'}: ${path.relative(config.rootVaultPath, rename.file)}`)
+    if (!dryRun) fs.unlinkSync(rename.file)
+  }
+
+  // Repoint links at every mangled name, deleted or not - the link is wrong either way
+  for (const file of files) {
+    if (!fs.existsSync(file)) continue
+    const oldContent = fs.readFileSync(file, 'utf-8')
+    let newContent = oldContent
+
+    for (const rename of renames) {
+      newContent = newContent.split(rename.from).join(rename.to)
+    }
+
+    if (newContent !== oldContent) {
+      console.log(`\t${dryRun ? 'Would relink' : 'Relinked'}: ${path.relative(config.rootVaultPath, file)}`)
+      if (!dryRun) fs.writeFileSync(file, newContent)
+    }
+  }
+
+  if (dryRun) console.log('\tDry run - nothing changed')
+
+  return
+}
+
+async function cleanup() {
   // const allNpcFiles = getFilesList(path.resolve(config.rootVaultPath, '4. World Almanac/NPCs'))
   //     .filter(file => path.extname(file) === '.md')
   // const newNpcFiles = allNpcFiles.filter(file => /\(.*?\)\.md$/.test(file))
@@ -574,12 +669,22 @@ function cleanup() {
 
   //     }
   // }
+
+  if (config.cleanup.mangledSourceKeys) await removeMangledSourceKeyFiles()
+
   return
 }
 
 async function main() {
   if (config.css.move) moveCssSnippets()
-  const filesList = getFilesList(path.resolve(config.rootVaultPath, config.compendiumPath))
+
+  const compendiumPath = path.resolve(config.rootVaultPath, config.compendiumPath)
+  if (!fs.existsSync(compendiumPath)) {
+    console.log(`\nNothing to process, ${config.compendiumPath} does not exist`)
+    return
+  }
+
+  const filesList = getFilesList(compendiumPath)
   let index = 0
 
   console.log(`\nFound ${filesList.length} files to process\nProcessing ${config.limit}\n`)
@@ -592,5 +697,15 @@ async function main() {
   }
 }
 
-main()
-cleanup()
+if (require.main === module) {
+  main().then(cleanup)
+}
+
+module.exports = {
+  config,
+  main,
+  cleanup,
+  removeMangledSourceKeyFiles,
+  getAllSourceKeys,
+  sourceKeyRegex
+}

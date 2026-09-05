@@ -11,7 +11,7 @@ aliases:
 
 **Clan Vocations**
 
-`dice: [[Dwarves In The Clan Clan Vocations (MTF).md#^clan-vocations]]`
+`dice: [[/5. Mechanics/Tables/Dwarves In The Clan Clan Vocations (MTF).md#^clan-vocations]]`
 
 | dice: d20 | Vocation |
 |-----------|----------|

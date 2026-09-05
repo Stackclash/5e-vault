@@ -13,7 +13,7 @@ As hubs of information, quests, and free-flowing drink, taverns and festivals ar
 
 You can use the following table to help randomly populate the patrons of a given tavern or festival.
 
-`dice: [[Taverns And Festivals Npcs (GRIFFONSSADDLEBAG2).md#^npc]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Npcs (GRIFFONSSADDLEBAG2).md#^npc]]`
 
 | dice: d20 | NPC |
 |-----------|-----|

@@ -66,7 +66,7 @@ aliases:
 - [[/5. Mechanics/Spells/Enhance Ability.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Enlarge Reduce.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Hamunds Herbal Hypodermic (HHBH).md \|"HHbH"]]
-- [[/5. Mechanics/Spells/Heat Met(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Heat Metal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Invisibility.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Lesser Restoration.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Levitate.md \|"PHB"]]
@@ -96,7 +96,7 @@ aliases:
 - [[/5. Mechanics/Spells/Revivify.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Tiny Servant (XGE).md \|"XGE"]] (\*)
 - [[/5. Mechanics/Spells/Water Breathing.md \|"PHB"]]
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Water Walk.md \|"PHB"]]
 
 ## 4th Level
 

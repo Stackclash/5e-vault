@@ -11,7 +11,7 @@ aliases:
 
 **Dread in Darkon**
 
-`dice: [[Dread In Darkon (VRGR).md#^dread-in-darkon]]`
+`dice: [[/5. Mechanics/Tables/Dread In Darkon (VRGR).md#^dread-in-darkon]]`
 
 | dice: d6 | Dread Possibility |
 |----------|-------------------|

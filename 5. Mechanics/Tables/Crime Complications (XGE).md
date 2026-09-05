@@ -11,7 +11,7 @@ aliases:
 
 **Crime Complications**
 
-`dice: [[Crime Complications (XGE).md#^crime-complications]]`
+`dice: [[/5. Mechanics/Tables/Crime Complications (XGE).md#^crime-complications]]`
 
 | dice: d8 | Complication |
 |----------|--------------|

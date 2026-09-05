@@ -11,7 +11,7 @@ aliases:
 
 **Demon Flaws**
 
-`dice: [[Demon Customization Tables Demon Flaws (MTF).md#^demon-flaws]]`
+`dice: [[/5. Mechanics/Tables/Demon Customization Tables Demon Flaws (MTF).md#^demon-flaws]]`
 
 | dice: d6 | Flaw |
 |----------|------|

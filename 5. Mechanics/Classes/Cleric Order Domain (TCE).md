@@ -9,7 +9,7 @@ aliases:
   - Order Domain
 ---
 # Order Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Tasha's Cauldron of Everything p. 31*  
 
 > [!tldr] Class and Feature Progression
@@ -44,7 +44,7 @@ aliases:
 ^class-progression
 
 
-The Order Domain represents discipline, as well as devotion to a society or an institution and strict obedience to the laws governing it. On Ravnica, the domain is favored by clerics of the Azorius Senate, who use it to maintain and enforce the law, and of the Orzhov Syndicate, who exploit law and order for their personal gain. On other worlds, gods who grant access to this domain include Bane, Tyr, [[/5. Mechanics/Deities/Dragonlance Majere (PHB).md\|Majere]], [[/5. Mechanics/Deities/Dawn War Erathis (DMG).md\|Erathis]], [[/5. Mechanics/Deities/Greyhawk Pholt(US).md\|Pholtus]], [[/5. Mechanics/Deities/Greyhawk Wee Jas.md\|Wee Jas]], [[/5. Mechanics/Deities/Eberron Aureon.md\|Aureon]], [[/5. Mechanics/Deities/Nonhuman Maglubiyet.md\|Maglubiyet]], [[/5. Mechanics/Deities/Celtic Nuada.md\|Nuada]], [[/5. Mechanics/Deities/Greek Athena.md\|Athena]], [[/5. Mechanics/Deities/Egyptian Anubis.md\|Anubis]], [[/5. Mechanics/Deities/Norse Forseti.md\|Forseti]], and [[/5. Mechanics/Deities/Dawn War Asmodeus (DMG).md\|Asmodeus]].
+The Order Domain represents discipline, as well as devotion to a society or an institution and strict obedience to the laws governing it. On Ravnica, the domain is favored by clerics of the Azorius Senate, who use it to maintain and enforce the law, and of the Orzhov Syndicate, who exploit law and order for their personal gain. On other worlds, gods who grant access to this domain include Bane, Tyr, [[/5. Mechanics/Deities/Dragonlance Majere (PHB).md\|Majere]], [[/5. Mechanics/Deities/Dawn War Erathis (DMG).md\|Erathis]], [[/5. Mechanics/Deities/Greyhawk Pholtus.md\|Pholtus]], [[/5. Mechanics/Deities/Greyhawk Wee Jas.md\|Wee Jas]], [[/5. Mechanics/Deities/Eberron Aureon.md\|Aureon]], [[/5. Mechanics/Deities/Nonhuman Maglubiyet.md\|Maglubiyet]], [[/5. Mechanics/Deities/Celtic Nuada.md\|Nuada]], [[/5. Mechanics/Deities/Greek Athena.md\|Athena]], [[/5. Mechanics/Deities/Egyptian Anubis.md\|Anubis]], [[/5. Mechanics/Deities/Norse Forseti.md\|Forseti]], and [[/5. Mechanics/Deities/Dawn War Asmodeus (DMG).md\|Asmodeus]].
 
 The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of order are typically concerned with how things are done, rather than whether an action's results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their guilds or deities.
 

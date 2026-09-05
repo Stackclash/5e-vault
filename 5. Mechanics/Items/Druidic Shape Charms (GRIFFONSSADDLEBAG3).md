@@ -32,7 +32,7 @@ When found, the creature type associated with the charm is random. Roll a `dice:
 
 While a charm is on your person, you can use an action to expend two uses of your Wild Shape to transform into a creature other than a beast, following the normal rules for Wild Shape with the following changes. The type of creature you can transform into is determined by the charms you have. The challenge rating of the creature must be no more than half your druid level, rounded down, and the maximum amount of time you can remain transformed is 10 minutes.
 
-`dice: [[Druidic Shape Charms (GRIFFONSSADDLEBAG3).md#^charm]]`
+`dice: [[/5. Mechanics/Items/Druidic Shape Charms (GRIFFONSSADDLEBAG3).md#^charm]]`
 
 | dice: d8 | Charm |
 |----------|-------|

@@ -11,7 +11,7 @@ aliases:
 
 **Drow House Specialty**
 
-`dice: [[Elf Tables Drow House Specialty (MTF).md#^drow-house-specialty]]`
+`dice: [[/5. Mechanics/Tables/Elf Tables Drow House Specialty (MTF).md#^drow-house-specialty]]`
 
 | dice: d10 | Specialty |
 |-----------|-----------|

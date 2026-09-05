@@ -19,7 +19,7 @@ aliases:
 | [[/5. Mechanics/Deities/Nonhuman Deep Sashelas.md\|Deep Sashelas]], elf god of the sea | CG | Nature, Tempest | Dolphin |
 | [[/5. Mechanics/Deities/Nonhuman Eadro.md\|Eadro]], merfolk deity of the sea | N | Nature, Tempest | Spiral design |
 | [[/5. Mechanics/Deities/Nonhuman Garl Glittergold.md\|Garl Glittergold]], gnome god of trickery and wiles | LG | Trickery | Gold nugget |
-| [[/5. Mechanics/Deities/Nonhuman Grolan(TOR).md\|Grolantor]], hill giant god of war | CE | War | Wooden club |
+| [[/5. Mechanics/Deities/Nonhuman Grolantor.md\|Grolantor]], hill giant god of war | CE | War | Wooden club |
 | [[/5. Mechanics/Deities/Nonhuman Gruumsh.md\|Gruumsh]], orc god of storms and war | CE | Tempest, War | Unblinking eye |
 | [[/5. Mechanics/Deities/Nonhuman Hruggek.md\|Hruggek]], bugbear god of violence | CE | War | Morningstar |
 | [[/5. Mechanics/Deities/Nonhuman Kurtulmak.md\|Kurtulmak]], kobold god of war and mining | LE | War | Gnome skull |

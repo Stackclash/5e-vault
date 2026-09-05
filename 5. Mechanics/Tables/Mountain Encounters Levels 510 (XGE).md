@@ -11,7 +11,7 @@ aliases:
 
 **Mountain Encounters (Levels 5—10)**
 
-`dice: [[Mountain Encounters Levels 510 (XGE).md#^mountain-encounters-levels-510]]`
+`dice: [[/5. Mechanics/Tables/Mountain Encounters Levels 510 (XGE).md#^mountain-encounters-levels-510]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -40,7 +40,7 @@ aliases:
 | 76-80 | A row of `dice:1d10+40\|noform\|noparens\|avg` (`1d10 + 40`) stakes upon which the bodies of kobolds, dwarves, or orcs are impaled |
 | 81-83 | 1 [[/5. Mechanics/Bestiary/Giant/Fire Giant.md\|fire giant]] |
 | 84-85 | 1 [[/5. Mechanics/Bestiary/Dragon/Young Silver Dragon.md\|young silver dragon]] |
-| 86-87 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elementals]] |
+| 86-87 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elementals]] |
 | 88-90 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] |
 | 91-92 | `dice:1d3+1\|noform\|noparens\|avg` (`1d3 + 1`) [[/5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclopes]] |
 | 93-94 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Chimera.md\|chimeras]] |

@@ -15,18 +15,17 @@ aliases:
 alignment: Any alignment
 description: >-
   Cyrus stands 4 feet, 9 inches tall, his hunched posture making him look
-  shorter still. Lizard scales cover the left side of his face, and he has
-  the pointed ears of a panther, a webbed duck's foot, and patches of
-  black dog fur along his arms. He giggles to himself for no clear reason
-  and can't resist a poor joke at the worst possible moment.
+  shorter still. Lizard scales cover the left side of his face, and he has the
+  pointed ears of a panther, a webbed duck's foot, and patches of black dog fur
+  along his arms. He giggles to himself for no clear reason and can't resist a
+  poor joke at the worst possible moment.
 history: >-
-  Cyrus is one of the Belview family, transformed generations ago by
-  [[The Abbot (COS)|the Abbot]] at the family's own desperate request for
-  bestial "perfection." Unlike the rest of his kin, who remain confined in
-  the Abbey of Saint Markovia's madhouse, Cyrus somehow found his way into
-  [[Strahd Von Zarovich (COS)|Strahd von Zarovich]]'s service and has
-  tended Castle Ravenloft as the vampire's devoted, half-mad manservant for
-  longer than he can remember.
+  Cyrus is one of the Belview family, transformed generations ago by [[The Abbot
+  (COS)|the Abbot]] at the family's own desperate request for bestial
+  "perfection." Unlike the rest of his kin, who remain confined in the Abbey of
+  Saint Markovia's madhouse, Cyrus somehow found his way into [[Strahd Von
+  Zarovich (COS)|Strahd von Zarovich]]'s service and has tended Castle Ravenloft
+  as the vampire's devoted, half-mad manservant for longer than he can remember.
 relationships: []
 partyRelationships:
   Midnight Covenant: Acquaintance
@@ -87,15 +86,7 @@ dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 77*
 
-Cyrus Belview is a broken, devoted thing — one of the mongrel Belview family, but the only one to serve Strahd himself rather than languish in the Abbey's madhouse.
-
-## The Belview Family
-
-The Belviews came to the Abbey of Saint Markovia generations ago, a family of sickly, inbred lepers begging for salvation. [[The Abbot (COS)|The Abbot]] — a deva in disguise — cured their leprosy, but no magic could mend the deeper imperfections bred into their bloodline, and his failure to perfect them became an obsession. The Belviews, though, never wanted to be ordinary: they begged him for the eyes of a cat, the wings of a bat, the strength of a mule, the guile of a snake. A traveling lord named Vasili von Holtz — secretly [[Strahd Von Zarovich (COS)|Strahd von Zarovich]] himself — supplied the Abbot with forbidden lore looted from the Amber Temple to finish what pity had started. The transformation left the family mad, mongrel, and strangely content. Most of them have lived — and been confined — as the abbey's mongrelfolk ever since.
-
-## The Master's Servant
-
-Cyrus has served Strahd at Castle Ravenloft for uncounted years and is utterly devoted to him, however that devotion is repaid. He keeps rats as pets, hoards equipment salvaged from adventurers who never left the castle, and has spent years assembling an enormous sculpture from the bones of the dead. He carries the key to one of Strahd's iron treasure chests, and — unknowingly — wears a *hag eye* pendant, a gift from the night hag [[Morgantha (COS)|Morgantha]], who uses it to spy on the castle. Poor old Cyrus doesn't know the necklace is magical; he just likes how it catches the candlelight.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

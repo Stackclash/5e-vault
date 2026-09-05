@@ -11,7 +11,7 @@ aliases:
 
 **Adventure Patrons**
 
-`dice: [[Identify Important Npcs Adventure Patrons.md#^adventure-patrons]]`
+`dice: [[/5. Mechanics/Tables/Identify Important Npcs Adventure Patrons.md#^adventure-patrons]]`
 
 | dice: d20 | Patron |
 |-----------|--------|

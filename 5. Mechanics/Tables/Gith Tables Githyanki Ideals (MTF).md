@@ -11,7 +11,7 @@ aliases:
 
 **Githyanki Ideals**
 
-`dice: [[Gith Tables Githyanki Ideals (MTF).md#^githyanki-ideals]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githyanki Ideals (MTF).md#^githyanki-ideals]]`
 
 | dice: d4 | Trait |
 |----------|-------|

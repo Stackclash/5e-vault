@@ -11,7 +11,7 @@ aliases:
 
 **Grassland Encounters (Levels 6—10)**
 
-`dice: [[Grassland Encounters Levels 610 (XGE).md#^grassland-encounters-levels-610]]`
+`dice: [[/5. Mechanics/Tables/Grassland Encounters Levels 610 (XGE).md#^grassland-encounters-levels-610]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -32,12 +32,12 @@ aliases:
 | 33-36 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Construct/Scarecrow.md\|scarecrows]] |
 | 37-40 | `dice:1d12\|noform\|noparens\|avg` (`1d12`) [[/5. Mechanics/Bestiary/Beast/Lion.md\|lions]] |
 | 41-44 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Humanoid/Thri Kreen.md\|thri-kreen]] |
-| 45-46 | 1 [[/5. Mechanics/Bestiary/Beast/Allosaur(US).md\|allosaurus]] |
+| 45-46 | 1 [[/5. Mechanics/Bestiary/Beast/Allosaurus.md\|allosaurus]] |
 | 47-48 | 1 [[/5. Mechanics/Bestiary/Beast/Tiger.md\|tiger]] |
 | 49-50 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md\|giant eagles]] or `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Giant Vulture.md\|giant vultures]] |
 | 51-52 | 1 [[/5. Mechanics/Bestiary/Humanoid/Goblin Boss.md\|goblin boss]] with `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] |
-| 53-54 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Celestial/Pegas(US).md\|pegasi]] |
-| 55-58 | 1 [[/5. Mechanics/Bestiary/Beast/Ankylosaur(US).md\|ankylosaurus]] |
+| 53-54 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Celestial/Pegasus.md\|pegasi]] |
+| 55-58 | 1 [[/5. Mechanics/Bestiary/Beast/Ankylosaurus.md\|ankylosaurus]] |
 | 59-62 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatls]] |
 | 63-66 | 1 [[/5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md\|orc Eye of Gruumsh]] with `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
 | 67-70 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Monstrosity/Hippogriff.md\|hippogriffs]] |
@@ -45,7 +45,7 @@ aliases:
 | 75-76 | 1 [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captain]] with `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
 | 77-78 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Phase Spider.md\|phase spiders]] |
 | 79-80 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|giant boars]] |
-| 81-82 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] |
+| 81-82 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|giant elk]] |
 | 83-84 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]] with `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Orog.md\|orogs]] |
 | 85-87 | A hot wind that carries the stench of rot |
 | 88-90 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Humanoid/Weretiger.md\|weretigers]] |

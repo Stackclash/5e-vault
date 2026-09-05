@@ -11,7 +11,7 @@ aliases:
 
 **Orc Female Names**
 
-`dice: [[Orc Names Orc Female Names (VGM).md#^orc-female-names]]`
+`dice: [[/5. Mechanics/Tables/Orc Names Orc Female Names (VGM).md#^orc-female-names]]`
 
 | dice: d12 | Name |
 |-----------|------|

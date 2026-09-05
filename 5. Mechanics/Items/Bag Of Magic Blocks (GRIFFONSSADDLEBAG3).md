@@ -25,7 +25,7 @@ await dv.view("views/itemPrice", {current: dv.current()})
 
 This leather bag is filled with magic wooden blocks, which are painted with vibrant colors. There are six types of blocks that can be found in the bag. The GM decides the number of each type of block in the bag or determines it randomly. When found, the bag has `dice:2d6+10|noform|noparens|avg` (`2d6 + 10`) blocks inside it.
 
-`dice: [[Bag Of Magic Blocks (GRIFFONSSADDLEBAG3).md#^block-shape-dimensions]]`
+`dice: [[/5. Mechanics/Items/Bag Of Magic Blocks (GRIFFONSSADDLEBAG3).md#^block-shape-dimensions]]`
 
 | dice: d6 | Block Shape | Dimensions |
 |----------|-------------|------------|

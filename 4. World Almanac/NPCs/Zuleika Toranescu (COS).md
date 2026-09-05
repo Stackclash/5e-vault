@@ -19,14 +19,14 @@ description: >-
   idol of Mother Night, praying in a low, unbroken murmur. Grief has hollowed
   her, but there's a coiled violence beneath the mourning.
 history: >-
-  Zuleika is Emil Toranescu's mate. When Strahd's dire wolves dragged Emil
-  away to Castle Ravenloft, Kiril Stoyanovich forbade her from hunting and set
-  her to guard the pack's kidnapped children at the Shrine of Mother Night
-  instead — a punishment disguised as duty. Believing Emil dead by Strahd's
-  hand, she prays daily to Mother Night for a sign that the goddess might sway
-  Strahd into releasing him. She lacks the strength or allies to move against
-  Kiril alone, and the rest of the pack — having watched what happened to
-  Emil — won't risk Strahd's wrath by helping her.
+  Zuleika is Emil Toranescu's mate. When Strahd's dire wolves dragged Emil away
+  to Castle Ravenloft, Kiril Stoyanovich forbade her from hunting and set her to
+  guard the pack's kidnapped children at the Shrine of Mother Night instead — a
+  punishment disguised as duty. Believing Emil dead by Strahd's hand, she prays
+  daily to Mother Night for a sign that the goddess might sway Strahd into
+  releasing him. She lacks the strength or allies to move against Kiril alone,
+  and the rest of the pack — having watched what happened to Emil — won't risk
+  Strahd's wrath by helping her.
 relationships: []
 partyRelationships: {}
 location: null
@@ -41,13 +41,19 @@ groups:
   - Children of Mother Night
 religions:
   - Mother Night
-personality: Devout and grief-stricken, with a quiet, patient rage simmering underneath
-ideal: Mother Night sees every wrong done to the faithful and will grant them justice in time.
+personality: 'Devout and grief-stricken, with a quiet, patient rage simmering underneath'
+ideal: >-
+  Mother Night sees every wrong done to the faithful and will grant them justice
+  in time.
 bond: I would burn all of Barovia to have Emil returned to me.
-flaw: My grief has made me patient to the point of paralysis — I wait for others to act rather than act myself.
-goals: See Kiril Stoyanovich dead and Emil returned to her, whatever the cost to herself.
-likes: Mother Night's shrine, quiet devotion, the memory of Emil
-dislikes: Kiril Stoyanovich, cowardice, empty prayers
+flaw: >-
+  My grief has made me patient to the point of paralysis — I wait for others to
+  act rather than act myself.
+goals: >-
+  See Kiril Stoyanovich dead and Emil returned to her, whatever the cost to
+  herself.
+likes: 'Mother Night''s shrine, quiet devotion, the memory of Emil'
+dislikes: 'Kiril Stoyanovich, cowardice, empty prayers'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -79,15 +85,7 @@ dislikes: Kiril Stoyanovich, cowardice, empty prayers
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 204*
 
-Zuleika Toranescu is a werewolf of the Children of Mother Night, kept as a prisoner in all but name at the pack's Shrine of Mother Night after her mate, [[Emil Toranescu (COS)|Emil Toranescu]], was taken from her.
-
-## Guarding Her Own Cage
-
-When [[Kiril Stoyanovich (COS)|Kiril Stoyanovich]] crushed Emil's bid to reform the pack and had Strahd's dire wolves haul him off to Castle Ravenloft, Kiril forbade Zuleika from hunting and set her to guard the pack's kidnapped children at the shrine instead. She kneels there before a crude wooden idol of Mother Night, praying for a sign that the goddess might convince Strahd to release Emil, whom she believes dead.
-
-## A Prayer Answered
-
-Zuleika can't move against Kiril alone, and the rest of the pack — having seen what became of Emil — won't help her for fear of Strahd's wrath. She sees any strangers who reach the shrine as the answer to her prayers: if they bring back proof that Emil lives, or return him to her safely, she frees the children without hesitation. If they confirm Emil is truly dead, she may still release the prisoners if the party agrees to help her deal with Kiril, whom she blames above all others.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

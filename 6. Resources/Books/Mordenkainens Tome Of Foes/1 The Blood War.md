@@ -547,6 +547,33 @@ At the DM's option, you can create a tiefling character who has a special link t
 - [[/5. Mechanics/Races/Tiefling Mephistopheles (MTF).md\|Tiefling (Mephistopheles)]]  
 - [[/5. Mechanics/Races/Tiefling Zariel (MTF).md\|Tiefling (Zariel)]]  
 
+> [!embed-race]- Tiefling (Asmodeus)
+> ![[/5. Mechanics/Races/Tiefling Asmodeus (MTF).md\|Tiefling (Asmodeus)]]
+
+> [!embed-race]- Tiefling (Baalzebul)
+> ![[/5. Mechanics/Races/Tiefling Baalzebul (MTF).md\|Tiefling (Baalzebul)]]
+
+> [!embed-race]- Tiefling (Dispater)
+> ![[/5. Mechanics/Races/Tiefling Dispater (MTF).md\|Tiefling (Dispater)]]
+
+> [!embed-race]- Tiefling (Fierna)
+> ![[/5. Mechanics/Races/Tiefling Fierna (MTF).md\|Tiefling (Fierna)]]
+
+> [!embed-race]- Tiefling (Glasya)
+> ![[/5. Mechanics/Races/Tiefling Glasya (MTF).md\|Tiefling (Glasya)]]
+
+> [!embed-race]- Tiefling (Levistus)
+> ![[/5. Mechanics/Races/Tiefling Levistus (MTF).md\|Tiefling (Levistus)]]
+
+> [!embed-race]- Tiefling (Mammon)
+> ![[/5. Mechanics/Races/Tiefling Mammon (MTF).md\|Tiefling (Mammon)]]
+
+> [!embed-race]- Tiefling (Mephistopheles)
+> ![[/5. Mechanics/Races/Tiefling Mephistopheles (MTF).md\|Tiefling (Mephistopheles)]]
+
+> [!embed-race]- Tiefling (Zariel)
+> ![[/5. Mechanics/Races/Tiefling Zariel (MTF).md\|Tiefling (Zariel)]]
+
 ## Devil Customization Tables
 
 This section provides tables useful for DMs who want to create devil NPCs.

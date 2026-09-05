@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Body Diameter**
 
-`dice: [[Physical Characteristics Beholder Body Diameter (VGM).md#^beholder-body-diameter]]`
+`dice: [[/5. Mechanics/Tables/Physical Characteristics Beholder Body Diameter (VGM).md#^beholder-body-diameter]]`
 
 | dice: 2d6 | Body Diameter |
 |-----------|---------------|

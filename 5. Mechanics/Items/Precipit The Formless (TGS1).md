@@ -57,7 +57,7 @@ When the staff enters its gaseous state, the water surrounding the staff becomes
 
 ## Gas Spells
 
-While holding the staff in its gas state, you can expend 1 or more of its charges on your turn to cast the following spells (save DC 18) from it: [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]] (5 charges), [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] (1 charge), [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (3 charges), [[/5. Mechanics/Spells/Misty Step.md\|misty step]] (2 charges), or [[/5. Mechanics/Spells/Wind Wa(LK).md\|wind walk]] (6 charges).
+While holding the staff in its gas state, you can expend 1 or more of its charges on your turn to cast the following spells (save DC 18) from it: [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]] (5 charges), [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] (1 charge), [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (3 charges), [[/5. Mechanics/Spells/Misty Step.md\|misty step]] (2 charges), or [[/5. Mechanics/Spells/Wind Walk.md\|wind walk]] (6 charges).
 
 ## Tailwind
 

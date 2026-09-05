@@ -11,7 +11,7 @@ aliases:
 
 **War Band Leadership**
 
-`dice: [[Creating A Gnoll War Band War Band Leadership (VGM).md#^war-band-leadership]]`
+`dice: [[/5. Mechanics/Tables/Creating A Gnoll War Band War Band Leadership (VGM).md#^war-band-leadership]]`
 
 | dice: d6 | Leader | Number Appearing Modifier |
 |----------|--------|---------------------------|

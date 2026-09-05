@@ -25,7 +25,7 @@ Your familiarity with libraries and the tomes contained in them is unmatched. If
 
 Arcane archivists are most at home in their libraries. Their personalities and motivations reflect their focus, sometimes obsessive, on recorded knowledge and the [[/5. Mechanics/Rules/Actions.md#Search\|Search]] for it. Their motives for pursuing a life as an archivist are rarely so straightforward.
 
-`dice: [[Archivist (KPDM).md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Archivist (KPDM).md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -39,7 +39,7 @@ Arcane archivists are most at home in their libraries. Their personalities and m
 | 8 | Because I believe that a sound body is essential for a clear intellect, I relish physical activity and exercise. |
 ^personality-trait
 
-`dice: [[Archivist (KPDM).md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Archivist (KPDM).md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -51,7 +51,7 @@ Arcane archivists are most at home in their libraries. Their personalities and m
 | 6 | **Observation.** I will participate only as a last resort. Events, to be true and accurate, must unfold without interference. (Neutral) |
 ^ideal
 
-`dice: [[Archivist (KPDM).md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Archivist (KPDM).md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -63,7 +63,7 @@ Arcane archivists are most at home in their libraries. Their personalities and m
 | 6 | I stole a priceless grimoire from my patron, and they have learned of my theft. |
 ^bond
 
-`dice: [[Archivist (KPDM).md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Archivist (KPDM).md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

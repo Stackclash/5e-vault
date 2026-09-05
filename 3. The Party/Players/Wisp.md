@@ -441,7 +441,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Parchment One Sh(EET).md|Parchment One Sh(EET)]]"
+  - name: "[[5. Mechanics/Items/Parchment One Sheet.md|Parchment One Sheet]]"
     type: Other Gear
     rarity: Common
     quantity: 10
@@ -496,7 +496,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Arcane Foc(US).md|Arcane Foc(US)]]"
+  - name: "[[5. Mechanics/Items/Arcane Focus.md|Arcane Focus]]"
     type: Other Gear
     rarity: Common
     quantity: 1

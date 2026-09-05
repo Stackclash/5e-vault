@@ -11,7 +11,7 @@ aliases:
 
 **Sentient Magic Item Senses**
 
-`dice: [[Sentient Magic Item Senses.md#^sentient-magic-item-senses]]`
+`dice: [[/5. Mechanics/Tables/Sentient Magic Item Senses.md#^sentient-magic-item-senses]]`
 
 | dice: d4 | Senses |
 |----------|--------|

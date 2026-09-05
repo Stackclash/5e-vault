@@ -40,7 +40,7 @@ You have a +2 bonus to attack and damage rolls made with this weapon. When you m
 
 **Effect**
 
-`dice: [[Tricksters Hammer (HHHVIII).md#^effect]]`
+`dice: [[/5. Mechanics/Items/Tricksters Hammer (HHHVIII).md#^effect]]`
 
 | dice: d4 | Effect |
 |----------|--------|

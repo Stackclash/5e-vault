@@ -11,7 +11,7 @@ aliases:
 
 **Door Type**
 
-`dice: [[Doors Door Type.md#^door-type]]`
+`dice: [[/5. Mechanics/Tables/Doors Door Type.md#^door-type]]`
 
 | dice: d20 | Door Type |
 |-----------|-----------|

@@ -8,7 +8,7 @@ aliases:
   - Fey Wanderer
 ---
 # Fey Wanderer
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Tasha's Cauldron of Everything p. 58*  
 
 > [!tldr] Class and Feature Progression
@@ -76,7 +76,7 @@ You also possess a preternatural blessing from a fey ally or a place of fey powe
 
 **Feywild Gifts**
 
-`dice: [[Ranger Fey Wanderer (TCE).md#^feywild-gifts]]`
+`dice: [[/5. Mechanics/Classes/Ranger Fey Wanderer (TCE).md#^feywild-gifts]]`
 
 | dice: d6 | Gift |
 |----------|------|

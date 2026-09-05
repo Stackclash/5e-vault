@@ -8,7 +8,7 @@ aliases:
   - Divine Soul
 ---
 # Divine Soul
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 50*  
 
 > [!tldr] Class and Feature Progression

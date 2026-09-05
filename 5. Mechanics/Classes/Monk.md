@@ -134,7 +134,7 @@ What sort of place was your monastery, and where is it located? Did attending it
 
 **Monastery**
 
-`dice: [[Monk.md#^monastery]]`
+`dice: [[/5. Mechanics/Classes/Monk.md#^monastery]]`
 
 | dice: d6 | Monastery |
 |----------|-----------|
@@ -155,7 +155,7 @@ If your character's monastery had a special icon, you might wear a crude image o
 
 **Icon**
 
-`dice: [[Monk.md#^icon]]`
+`dice: [[/5. Mechanics/Classes/Monk.md#^icon]]`
 
 | dice: d6 | Icon |
 |----------|------|
@@ -174,7 +174,7 @@ During your studies, you were likely under the tutelage of a master who imparted
 
 **Master**
 
-`dice: [[Monk.md#^master]]`
+`dice: [[/5. Mechanics/Classes/Monk.md#^master]]`
 
 | dice: d6 | Master |
 |----------|--------|

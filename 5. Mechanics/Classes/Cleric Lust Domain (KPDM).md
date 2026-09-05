@@ -9,7 +9,7 @@ aliases:
   - Lust Domain
 ---
 # Lust Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Deep Magic p. 344*  
 
 > [!tldr] Class and Feature Progression

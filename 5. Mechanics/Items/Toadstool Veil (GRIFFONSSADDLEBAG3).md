@@ -28,7 +28,7 @@ To wear this wide-brimmed cap, you must use an action to secure it in place with
 
 While wearing the cap, fungal plant creatures with a challenge rating of 1 or lower (such as a violet fungus) are indifferent toward you and will not attack you unless you threaten or harm them. In addition, when you're hit with a melee attack, you can use your reaction to cause a plume of spores to waft into the attacker's face. The attacker must then make a DC 13 Constitution saving throw. On a failed save, roll a `dice:d4|noform|noparens|avg` (`d4`) to determine which of the following effects occur.
 
-`dice: [[Toadstool Veil (GRIFFONSSADDLEBAG3).md#^effect]]`
+`dice: [[/5. Mechanics/Items/Toadstool Veil (GRIFFONSSADDLEBAG3).md#^effect]]`
 
 | dice: d4 | Effect |
 |----------|--------|

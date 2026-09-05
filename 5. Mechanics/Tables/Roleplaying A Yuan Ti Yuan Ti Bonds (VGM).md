@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Bonds**
 
-`dice: [[Roleplaying A Yuan Ti Yuan Ti Bonds (VGM).md#^yuan-ti-bonds]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Bonds (VGM).md#^yuan-ti-bonds]]`
 
 | dice: d6 | Bond |
 |----------|------|

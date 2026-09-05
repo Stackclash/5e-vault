@@ -617,7 +617,7 @@ Every monster is a story, and many of those stories are horror stories. This bra
 
 Adventures of this genre typically include one major antagonist that threatens a group. This might be a particularly large or cunning beast, a murderer who terrorizes a neighborhood, a monster stalking a town, or a supernatural menace who spreads a signature sort of death. When creating your own monster or slasher horror adventures, choose a creature with a challenge rating high enough that your party won't defeat it with a few lucky hits. Also consider foes with details you're eager to explore in various terrifying scenes. A medusa, for example, becomes all the more terrifying when it murders with petrified body parts or forces victims into unsettling poses before petrifying them. Also, consider who the villain's targets are and why the villain has chosen to prey upon that group. Is it out of hunger or for revenge, or does the creature have a more deep seated need to kill?
 
-The relentless killers presented in "chapter 5" provide perfect foes for adventures embracing this type of horror. Also, when creating adventures inspired by monster or slasher horror, ask yourself the following questions:
+The relentless killers provide perfect foes for adventures embracing this type of horror. Also, when creating adventures inspired by monster or slasher horror, ask yourself the following questions:
 
 - Who is the monster or slasher? How do they kill? What has made them infamous?  
 - Why is a community defenseless against the killer?  

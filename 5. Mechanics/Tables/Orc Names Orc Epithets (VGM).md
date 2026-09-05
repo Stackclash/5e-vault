@@ -11,7 +11,7 @@ aliases:
 
 **Orc Epithets**
 
-`dice: [[Orc Names Orc Epithets (VGM).md#^orc-epithets]]`
+`dice: [[/5. Mechanics/Tables/Orc Names Orc Epithets (VGM).md#^orc-epithets]]`
 
 | dice: d12 | Epithet |
 |-----------|---------|

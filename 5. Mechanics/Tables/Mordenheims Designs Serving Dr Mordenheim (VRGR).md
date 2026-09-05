@@ -11,7 +11,7 @@ aliases:
 
 **Serving Dr. Mordenheim**
 
-`dice: [[Mordenheims Designs Serving Dr Mordenheim (VRGR).md#^serving-dr-mordenheim]]`
+`dice: [[/5. Mechanics/Tables/Mordenheims Designs Serving Dr Mordenheim (VRGR).md#^serving-dr-mordenheim]]`
 
 | dice: d4 | Mission |
 |----------|---------|

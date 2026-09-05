@@ -11,7 +11,7 @@ aliases:
 
 **Stage Four Encounters**
 
-`dice: [[Stage Four Pestilence Stage Four Encounters (VRGR).md#^stage-four-encounters]]`
+`dice: [[/5. Mechanics/Tables/Stage Four Pestilence Stage Four Encounters (VRGR).md#^stage-four-encounters]]`
 
 | dice: d6 | Encounter |
 |----------|-----------|

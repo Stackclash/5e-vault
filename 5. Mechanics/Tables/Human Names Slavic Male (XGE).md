@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Slavic, Male**
 
-`dice: [[Human Names Slavic Male (XGE).md#^human-names-slavic-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Slavic Male (XGE).md#^human-names-slavic-male]]`
 
 | dice: d100 | Name |
 |------------|------|

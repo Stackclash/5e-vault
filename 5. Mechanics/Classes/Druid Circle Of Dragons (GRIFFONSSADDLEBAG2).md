@@ -8,7 +8,7 @@ aliases:
   - Circle of Dragons
 ---
 # Circle of Dragons
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: The Griffon's Saddlebag, Book 2 p. 214*  
 
 > [!tldr] Class and Feature Progression

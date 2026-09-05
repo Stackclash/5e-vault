@@ -26,7 +26,7 @@ You have created a second identity that includes documentation, established acqu
 
 Every charlatan has an angle he or she uses in preference to other schemes. Choose a favorite scam or roll on the table below.
 
-`dice: [[Charlatan.md#^scam]]`
+`dice: [[/5. Mechanics/Backgrounds/Charlatan.md#^scam]]`
 
 | dice: d6 | Scam |
 |----------|------|
@@ -42,7 +42,7 @@ Every charlatan has an angle he or she uses in preference to other schemes. Choo
 
 Charlatans are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
 
-`dice: [[Charlatan.md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Charlatan.md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -56,7 +56,7 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 8 | I pocket anything I see that might have some value. |
 ^personality-trait
 
-`dice: [[Charlatan.md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Charlatan.md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,7 +68,7 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 6 | Aspiration. I'm determined to make something of myself. (Any) |
 ^ideal
 
-`dice: [[Charlatan.md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Charlatan.md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -80,7 +80,7 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 6 | I swindled and ruined a person who didn't deserve it. I seek to atone for my misdeeds but might never be able to forgive myself. |
 ^bond
 
-`dice: [[Charlatan.md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Charlatan.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

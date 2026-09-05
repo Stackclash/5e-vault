@@ -47,7 +47,7 @@ damage:
 
 You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.
 
-`dice: [[Summon Lesser Demons (XGE).md#^demons-summoned]]`
+`dice: [[/5. Mechanics/Spells/Summon Lesser Demons (XGE).md#^demons-summoned]]`
 
 | dice: d6 | Demons Summoned |
 |----------|-----------------|

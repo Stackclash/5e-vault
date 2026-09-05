@@ -61,7 +61,7 @@ _Source: Hamund's Harvesting Handbook: Volume I p. 129_
 
 While afflicted with gut rot, any time you attempt to swallow food, you instead suffer `dice:4|noform|noparens|avg` (`4`) necrotic damage and regurgitate that food. At the end of a long rest, you may attempt the saving throw again, ending the disease on a success.
 
-If a creature dies while afflicted with gut rot, a [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] sprouts from the mouldering corpse, growing to full size in `dice:2d6|noform|noparens|avg` (`2d6`) days.
+If a creature dies while afflicted with gut rot, a [[/5. Mechanics/Bestiary/Plant/Violet Fungus.md\|violet fungus]] sprouts from the mouldering corpse, growing to full size in `dice:2d6|noform|noparens|avg` (`2d6`) days.
 
 ## Influence of Zuggtmoy
 _Source: Hamund's Harvesting Handbook: Volume III p. 105_
@@ -102,7 +102,7 @@ _Source: Dungeon Master's Guide p. 257. Available in the <span title='Systems Re
 
 This painful infection causes bleeding from the eyes and eventually blinds the victim.
 
-A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a -1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches -5, the victim is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until its sight is restored by magic such as [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] or [[/5. Mechanics/Spells/He(AL).md\|heal]].
+A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a -1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches -5, the victim is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] until its sight is restored by magic such as [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] or [[/5. Mechanics/Spells/Heal.md\|heal]].
 
 Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an [[/5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]] can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
 

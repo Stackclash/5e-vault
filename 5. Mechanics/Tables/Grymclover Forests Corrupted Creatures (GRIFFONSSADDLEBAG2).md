@@ -11,7 +11,7 @@ aliases:
 
 Beasts, monstrosities, and even plants that venture into a grymclover forest will sometimes become suffused by the area's corrupting magic, twisting them with mystifying effects. At your discretion, you can use the following table to determine how a creature may have been warped by the corruption.
 
-`dice: [[Grymclover Forests Corrupted Creatures (GRIFFONSSADDLEBAG2).md#^creature-changes]]`
+`dice: [[/5. Mechanics/Tables/Grymclover Forests Corrupted Creatures (GRIFFONSSADDLEBAG2).md#^creature-changes]]`
 
 | dice: d6 | Creature Changes |
 |----------|------------------|

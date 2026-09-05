@@ -9,7 +9,7 @@ aliases:
   - Harvester Domain
 ---
 # Harvester Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 110*  
 
 > [!tldr] Class and Feature Progression

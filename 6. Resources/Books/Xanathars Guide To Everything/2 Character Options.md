@@ -158,7 +158,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Acolyte**
 
-`dice: [[2 Character Options.md#^acolyte]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^acolyte]]`
 
 | dice: d6 | I became an acolyte because... |
 |----------|--------------------------------|
@@ -172,7 +172,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Charlatan**
 
-`dice: [[2 Character Options.md#^charlatan]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^charlatan]]`
 
 | dice: d6 | I became a charlatan because... |
 |----------|---------------------------------|
@@ -186,7 +186,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Criminal**
 
-`dice: [[2 Character Options.md#^criminal]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^criminal]]`
 
 | dice: d6 | I became a criminal because... |
 |----------|--------------------------------|
@@ -200,7 +200,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Entertainer**
 
-`dice: [[2 Character Options.md#^entertainer]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^entertainer]]`
 
 | dice: d6 | I became an entertainer because... |
 |----------|------------------------------------|
@@ -214,7 +214,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Folk Hero**
 
-`dice: [[2 Character Options.md#^folk-hero]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^folk-hero]]`
 
 | dice: d6 | I became a folk hero because... |
 |----------|---------------------------------|
@@ -228,7 +228,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Guild Artisan**
 
-`dice: [[2 Character Options.md#^guild-artisan]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^guild-artisan]]`
 
 | dice: d6 | I became a guild artisan because... |
 |----------|-------------------------------------|
@@ -242,7 +242,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Hermit**
 
-`dice: [[2 Character Options.md#^hermit]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^hermit]]`
 
 | dice: d6 | I became a hermit because... |
 |----------|------------------------------|
@@ -256,7 +256,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Noble**
 
-`dice: [[2 Character Options.md#^noble]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^noble]]`
 
 | dice: d6 | I became a noble because... |
 |----------|-----------------------------|
@@ -270,7 +270,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Outlander**
 
-`dice: [[2 Character Options.md#^outlander]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^outlander]]`
 
 | dice: d6 | I became an outlander because... |
 |----------|----------------------------------|
@@ -284,7 +284,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Sage**
 
-`dice: [[2 Character Options.md#^sage]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^sage]]`
 
 | dice: d6 | I became a sage because... |
 |----------|----------------------------|
@@ -298,7 +298,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Sailor**
 
-`dice: [[2 Character Options.md#^sailor]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^sailor]]`
 
 | dice: d6 | I became a sailor because... |
 |----------|------------------------------|
@@ -312,7 +312,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Soldier**
 
-`dice: [[2 Character Options.md#^soldier]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^soldier]]`
 
 | dice: d6 | I became a soldier because... |
 |----------|-------------------------------|
@@ -326,7 +326,7 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Urchin**
 
-`dice: [[2 Character Options.md#^urchin]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^urchin]]`
 
 | dice: d6 | I became an urchin because... |
 |----------|-------------------------------|
@@ -350,7 +350,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Barbarian**
 
-`dice: [[2 Character Options.md#^barbarian]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^barbarian]]`
 
 | dice: d6 | I became a barbarian because... |
 |----------|---------------------------------|
@@ -364,7 +364,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Bard**
 
-`dice: [[2 Character Options.md#^bard]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^bard]]`
 
 | dice: d6 | I became a bard because... |
 |----------|----------------------------|
@@ -378,7 +378,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Cleric**
 
-`dice: [[2 Character Options.md#^cleric]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^cleric]]`
 
 | dice: d6 | I became a cleric because... |
 |----------|------------------------------|
@@ -392,7 +392,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Druid**
 
-`dice: [[2 Character Options.md#^druid]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^druid]]`
 
 | dice: d6 | I became a druid because... |
 |----------|-----------------------------|
@@ -406,7 +406,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Fighter**
 
-`dice: [[2 Character Options.md#^fighter]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^fighter]]`
 
 | dice: d6 | I became a fighter because... |
 |----------|-------------------------------|
@@ -420,7 +420,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Monk**
 
-`dice: [[2 Character Options.md#^monk]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^monk]]`
 
 | dice: d6 | I became a monk because... |
 |----------|----------------------------|
@@ -434,7 +434,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Paladin**
 
-`dice: [[2 Character Options.md#^paladin]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^paladin]]`
 
 | dice: d6 | I became a paladin because... |
 |----------|-------------------------------|
@@ -448,7 +448,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Ranger**
 
-`dice: [[2 Character Options.md#^ranger]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^ranger]]`
 
 | dice: d6 | I became a ranger because... |
 |----------|------------------------------|
@@ -462,7 +462,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Rogue**
 
-`dice: [[2 Character Options.md#^rogue]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^rogue]]`
 
 | dice: d6 | I became a rogue because... |
 |----------|-----------------------------|
@@ -476,7 +476,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Sorcerer**
 
-`dice: [[2 Character Options.md#^sorcerer]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^sorcerer]]`
 
 | dice: d6 | I became a sorcerer because... |
 |----------|--------------------------------|
@@ -490,7 +490,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Warlock**
 
-`dice: [[2 Character Options.md#^warlock]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^warlock]]`
 
 | dice: d6 | I became a warlock because... |
 |----------|-------------------------------|
@@ -504,7 +504,7 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Wizard**
 
-`dice: [[2 Character Options.md#^wizard]]`
+`dice: [[/6. Resources/Books/Xanathars Guide To Everything/2 Character Options.md#^wizard]]`
 
 | dice: d6 | I became a wizard because... |
 |----------|------------------------------|

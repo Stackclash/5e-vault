@@ -11,7 +11,7 @@ aliases:
 
 **Trap Effects**
 
-`dice: [[Random Traps Trap Effects.md#^trap-effects]]`
+`dice: [[/5. Mechanics/Tables/Random Traps Trap Effects.md#^trap-effects]]`
 
 | dice: d100 | Effect |
 |------------|--------|

@@ -11,7 +11,7 @@ aliases:
 
 **NPC Appearance**
 
-`dice: [[Npc Appearance.md#^npc-appearance]]`
+`dice: [[/5. Mechanics/Tables/Npc Appearance.md#^npc-appearance]]`
 
 | dice: d20 | Feature |
 |-----------|---------|

@@ -11,7 +11,7 @@ aliases:
 
 **Githzerai Mission Purpose**
 
-`dice: [[Githzerai Groups Githzerai Mission Purpose (MTF).md#^githzerai-mission-purpose]]`
+`dice: [[/5. Mechanics/Tables/Githzerai Groups Githzerai Mission Purpose (MTF).md#^githzerai-mission-purpose]]`
 
 | dice: d4 | Purpose |
 |----------|---------|

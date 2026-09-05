@@ -11,7 +11,7 @@ aliases:
 
 **Magic Item Sale Complications**
 
-`dice: [[Magic Item Sale Complications (XGE).md#^magic-item-sale-complications]]`
+`dice: [[/5. Mechanics/Tables/Magic Item Sale Complications (XGE).md#^magic-item-sale-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

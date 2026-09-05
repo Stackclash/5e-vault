@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Skin Texture**
 
-`dice: [[Physical Characteristics Beholder Skin Texture (VGM).md#^beholder-skin-texture]]`
+`dice: [[/5. Mechanics/Tables/Physical Characteristics Beholder Skin Texture (VGM).md#^beholder-skin-texture]]`
 
 | dice: d10 | Skin Texture |
 |-----------|--------------|

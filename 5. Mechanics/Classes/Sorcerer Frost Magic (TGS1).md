@@ -8,7 +8,7 @@ aliases:
   - Frost Magic
 ---
 # Frost Magic
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: The Griffon's Saddlebag, Book 1 p. 167*  
 
 > [!tldr] Class and Feature Progression

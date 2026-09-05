@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Greek, Male**
 
-`dice: [[Human Names Greek Male (XGE).md#^human-names-greek-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Greek Male (XGE).md#^human-names-greek-male]]`
 
 | dice: d100 | Name |
 |------------|------|

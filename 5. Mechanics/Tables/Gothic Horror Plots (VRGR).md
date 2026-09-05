@@ -11,7 +11,7 @@ aliases:
 
 **Gothic Horror Plots**
 
-`dice: [[Gothic Horror Plots (VRGR).md#^gothic-horror-plots]]`
+`dice: [[/5. Mechanics/Tables/Gothic Horror Plots (VRGR).md#^gothic-horror-plots]]`
 
 | dice: d8 | Plot |
 |----------|------|

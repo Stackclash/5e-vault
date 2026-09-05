@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Niger-Congo, Female**
 
-`dice: [[Human Names Niger Congo Female (XGE).md#^human-names-niger-congo-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Niger Congo Female (XGE).md#^human-names-niger-congo-female]]`
 
 | dice: d100 | Name |
 |------------|------|

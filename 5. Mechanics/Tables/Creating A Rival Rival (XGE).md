@@ -11,7 +11,7 @@ aliases:
 
 **Rival**
 
-`dice: [[Creating A Rival Rival (XGE).md#^rival]]`
+`dice: [[/5. Mechanics/Tables/Creating A Rival Rival (XGE).md#^rival]]`
 
 | dice: d20 | Rival |
 |-----------|-------|

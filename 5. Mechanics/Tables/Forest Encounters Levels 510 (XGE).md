@@ -11,7 +11,7 @@ aliases:
 
 **Forest Encounters (Levels 5—10)**
 
-`dice: [[Forest Encounters Levels 510 (XGE).md#^forest-encounters-levels-510]]`
+`dice: [[/5. Mechanics/Tables/Forest Encounters Levels 510 (XGE).md#^forest-encounters-levels-510]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -27,7 +27,7 @@ aliases:
 | 10 | 1 [[/5. Mechanics/Bestiary/Beast/Brown Bear.md\|brown bear]] or `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/Black Bear.md\|black bears]] |
 | 11-13 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|giant boars]] |
 | 14-15 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] |
-| 16-17 | 1 [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md\|lizardfolk shaman]] with `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
+| 16-17 | 1 [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md\|lizardfolk shaman]] with `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] |
 | 18 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|giant toads]] |
 | 19 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Ankheg.md\|ankhegs]] |
 | 20 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Plant/Awakened Tree.md\|awakened trees]] (day) or 1 [[/5. Mechanics/Bestiary/Undead/Banshee.md\|banshee]] (night) |
@@ -38,10 +38,10 @@ aliases:
 | 31-32 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Humanoid/Wererat.md\|wererats]] |
 | 33 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Grick.md\|gricks]] |
 | 34 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md\|yuan-ti purebloods]] |
-| 35 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Celestial/Pegas(US).md\|pegasi]] |
+| 35 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Celestial/Pegasus.md\|pegasi]] |
 | 36-40 | An old stone archway of obvious elven design. Any character who passes under it makes Wisdom (Perception) checks with advantage for 1 hour. |
 | 41-42 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Fey/Dryad.md\|dryads]] |
-| 43 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] |
+| 43 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|giant elk]] |
 | 44 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Harpy.md\|harpies]] |
 | 45-46 | 1 [[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]] with 1 [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and `dice:1d6+5\|noform\|noparens\|avg` (`1d6 + 5`) [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] |
 | 47-48 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] |
@@ -55,7 +55,7 @@ aliases:
 | 66-67 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolves]] |
 | 68-69 | 1 [[/5. Mechanics/Bestiary/Humanoid/Werebear.md\|werebear]] |
 | 70-71 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Ettercap.md\|ettercaps]] |
-| 72-73 | `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Beast/E(LK).md\|elk]] |
+| 72-73 | `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Beast/Elk.md\|elk]] |
 | 74-75 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veterans]] |
 | 76-80 | An old tree with a wizened face carved into the trunk |
 | 81 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Wereboar.md\|wereboars]] |

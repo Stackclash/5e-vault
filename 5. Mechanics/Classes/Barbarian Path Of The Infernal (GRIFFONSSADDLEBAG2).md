@@ -8,7 +8,7 @@ aliases:
   - Path of the Infernal
 ---
 # Path of the Infernal
-*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[/5. Mechanics/Classes/Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: The Griffon's Saddlebag, Book 2 p. 209*  
 
 > [!tldr] Class and Feature Progression

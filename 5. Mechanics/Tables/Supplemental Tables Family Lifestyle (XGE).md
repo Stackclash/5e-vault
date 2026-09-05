@@ -11,7 +11,7 @@ aliases:
 
 **Family Lifestyle**
 
-`dice: [[Supplemental Tables Family Lifestyle (XGE).md#^family-lifestyle]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Family Lifestyle (XGE).md#^family-lifestyle]]`
 
 | dice: 3d6 | Lifestyle* |
 |-----------|------------|

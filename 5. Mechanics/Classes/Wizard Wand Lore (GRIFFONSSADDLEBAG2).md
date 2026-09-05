@@ -8,7 +8,7 @@ aliases:
   - Wand Lore
 ---
 # Wand Lore
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: The Griffon's Saddlebag, Book 2 p. 228*  
 
 > [!tldr] Class and Feature Progression

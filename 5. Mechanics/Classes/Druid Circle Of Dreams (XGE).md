@@ -8,7 +8,7 @@ aliases:
   - Circle of Dreams
 ---
 # Circle of Dreams
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Xanathar's Guide to Everything p. 22*  
 
 > [!tldr] Class and Feature Progression

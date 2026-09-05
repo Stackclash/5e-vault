@@ -11,7 +11,7 @@ aliases:
 
 **Sentient Special Purpose**
 
-`dice: [[Sentient Special Purpose.md#^sentient-special-purpose]]`
+`dice: [[/5. Mechanics/Tables/Sentient Special Purpose.md#^sentient-special-purpose]]`
 
 | dice: d10 | Purpose |
 |-----------|---------|

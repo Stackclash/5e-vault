@@ -15,7 +15,7 @@ aliases:
 
 ## 2nd Level
 
-- [[/5. Mechanics/Spells/Heat Met(AL).md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Heat Metal.md \|"PHB"]] at class level 3
 - [[/5. Mechanics/Spells/Magic Weapon.md \|"PHB"]] at class level 3
 
 ## 3rd Level

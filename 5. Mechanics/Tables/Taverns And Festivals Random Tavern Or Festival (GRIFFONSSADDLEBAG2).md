@@ -11,7 +11,7 @@ aliases:
 
 You can use the following table to randomly select a fantastical tavern or mystical festival for your adventuring party to rest or celebrate in.
 
-`dice: [[Taverns And Festivals Random Tavern Or Festival (GRIFFONSSADDLEBAG2).md#^tavern-festival]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Random Tavern Or Festival (GRIFFONSSADDLEBAG2).md#^tavern-festival]]`
 
 | dice: d12 | Tavern | Festival |
 |-----------|--------|----------|

@@ -11,7 +11,7 @@ aliases:
 
 **Scale Color**
 
-`dice: [[Physical Variations Scale Color (VGM).md#^scale-color]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Scale Color (VGM).md#^scale-color]]`
 
 | dice: d100 | Scale Color |
 |------------|-------------|

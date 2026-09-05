@@ -11,7 +11,7 @@ aliases:
 
 **Event-Based Goals**
 
-`dice: [[Determine The Partys Goals Event Based Goals.md#^event-based-goals]]`
+`dice: [[/5. Mechanics/Tables/Determine The Partys Goals Event Based Goals.md#^event-based-goals]]`
 
 | dice: d20 | Goal |
 |-----------|------|

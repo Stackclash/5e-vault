@@ -8,7 +8,7 @@ aliases:
   - Battle Smith
 ---
 # Battle Smith
-*[[.nullArtificer (TCE).md\|Artificer]]: Artificer Specialist*  
+*[[/5. Mechanics/Classes/Artificer (TCE).md\|Artificer]]: Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 18*  
 
 > [!tldr] Class and Feature Progression
@@ -103,5 +103,5 @@ You can use this energy a number of times equal to your Intelligence modifier (m
 At 15th level, your Arcane Jolt and steel defender become more powerful:
 
 - The extra damage and the healing of your Arcane Jolt both increase to `dice:4d6|noform|noparens|avg` (`4d6`).  
-- Your steel defender gains a +2 bonus to Armor Class.  
+- Your steel defender gains a +2 bonus to <span title="Player's Handbook (2024)">Armor Class</span>.  
 - Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Intelligence modifier.

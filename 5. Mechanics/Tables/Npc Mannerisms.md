@@ -11,7 +11,7 @@ aliases:
 
 **NPC Mannerisms**
 
-`dice: [[Npc Mannerisms.md#^npc-mannerisms]]`
+`dice: [[/5. Mechanics/Tables/Npc Mannerisms.md#^npc-mannerisms]]`
 
 | dice: d20 | Mannerism |
 |-----------|-----------|

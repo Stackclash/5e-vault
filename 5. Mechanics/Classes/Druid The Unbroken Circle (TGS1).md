@@ -8,7 +8,7 @@ aliases:
   - The Unbroken Circle
 ---
 # The Unbroken Circle
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: The Griffon's Saddlebag, Book 1 p. 159*  
 
 > [!tldr] Class and Feature Progression

@@ -9,7 +9,7 @@ aliases:
 # Grymclover Forests; Example Dungeons Table
 *Source: The Griffon's Saddlebag, Book 2 p. 280* 
 
-`dice: [[Grymclover Forests Example Dungeons Table (GRIFFONSSADDLEBAG2).md#^example-dungeon-origin-example-dungeon-inhabitant]]`
+`dice: [[/5. Mechanics/Tables/Grymclover Forests Example Dungeons Table (GRIFFONSSADDLEBAG2).md#^example-dungeon-origin-example-dungeon-inhabitant]]`
 
 | dice: d8 | Example Dungeon Origin | Example Dungeon Inhabitant |
 |----------|------------------------|----------------------------|

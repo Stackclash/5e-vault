@@ -8,7 +8,7 @@ aliases:
   - Shadow Magic
 ---
 # Shadow Magic
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 50*  
 
 > [!tldr] Class and Feature Progression
@@ -53,7 +53,7 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 
 **Shadow Sorcerer Quirks**
 
-`dice: [[Sorcerer Shadow Magic (XGE).md#^shadow-sorcerer-quirks]]`
+`dice: [[/5. Mechanics/Classes/Sorcerer Shadow Magic (XGE).md#^shadow-sorcerer-quirks]]`
 
 | dice: d6 | Quirk |
 |----------|-------|

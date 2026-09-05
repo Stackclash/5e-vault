@@ -11,7 +11,7 @@ aliases:
 
 **Unearthly Road Keys**
 
-`dice: [[Unearthly Roads Unearthly Road Keys (TCE).md#^unearthly-road-keys]]`
+`dice: [[/5. Mechanics/Tables/Unearthly Roads Unearthly Road Keys (TCE).md#^unearthly-road-keys]]`
 
 | dice: d6 | Key |
 |----------|-----|

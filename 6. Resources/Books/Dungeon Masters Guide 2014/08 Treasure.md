@@ -45,6 +45,8 @@ Intelligent monsters often use magic items in their possession, while others mig
 
 ## Random Treasure
 
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/7-3.webp#center]]
+
 The following pages contain tables that you can use to randomly generate treasures carried by monsters, stashed in their lairs, or otherwise hidden away. The placement of treasure is left to your discretion. The key is to make sure the players feel rewarded for playing, and that their characters are rewarded for overcoming dangerous challenges.
 
 > [!note]
@@ -492,7 +494,7 @@ The artifacts presented here have appeared in one or more of D&D worlds. Use the
 - [[/5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]]  
 - [[/5. Mechanics/Items/Orb Of Dragonkind.md\|Orb of Dragonkind]]  
 - [[/5. Mechanics/Items/Sword Of Kas.md\|Sword of Kas]]  
-- [[/5. Mechanics/Items/Wand Of Orc(US).md\|Wand of Orcus]]  
+- [[/5. Mechanics/Items/Wand Of Orcus.md\|Wand of Orcus]]  
 
 ## Other Rewards
 

@@ -8,7 +8,7 @@ aliases:
   - Oath of the Hearth
 ---
 # Oath of the Hearth
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: The Griffon's Saddlebag, Book 1 p. 162*  
 
 > [!tldr] Class and Feature Progression

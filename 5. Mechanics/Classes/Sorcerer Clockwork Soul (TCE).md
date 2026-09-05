@@ -8,7 +8,7 @@ aliases:
   - Clockwork Soul
 ---
 # Clockwork Soul
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Tasha's Cauldron of Everything p. 68*  
 
 > [!tldr] Class and Feature Progression
@@ -70,7 +70,7 @@ In addition, consult the Manifestations of Order table and choose or randomly de
 
 **Manifestations of Order**
 
-`dice: [[Sorcerer Clockwork Soul (TCE).md#^manifestations-of-order]]`
+`dice: [[/5. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md#^manifestations-of-order]]`
 
 | dice: d6 | Manifestation |
 |----------|---------------|

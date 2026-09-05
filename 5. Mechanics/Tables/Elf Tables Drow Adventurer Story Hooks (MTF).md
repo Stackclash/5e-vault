@@ -11,7 +11,7 @@ aliases:
 
 **Drow Adventurer Story Hooks**
 
-`dice: [[Elf Tables Drow Adventurer Story Hooks (MTF).md#^drow-adventurer-story-hooks]]`
+`dice: [[/5. Mechanics/Tables/Elf Tables Drow Adventurer Story Hooks (MTF).md#^drow-adventurer-story-hooks]]`
 
 | dice: d8 | Hook |
 |----------|------|

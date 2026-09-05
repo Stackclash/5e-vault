@@ -29,7 +29,7 @@ You must pay dues of 5 gp per month to the guild. If you miss payments, you must
 
 Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild. You can select your guild business from the Guild Business table or roll randomly.
 
-`dice: [[Guild Artisan.md#^guild-business]]`
+`dice: [[/5. Mechanics/Backgrounds/Guild Artisan.md#^guild-business]]`
 
 | dice: d20 | Guild Business |
 |-----------|----------------|
@@ -59,7 +59,7 @@ Guilds are generally found in cities large enough to support several artisans pr
 
 Guild artisans are among the most ordinary people in the world—until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.
 
-`dice: [[Guild Artisan.md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Guild Artisan.md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -73,7 +73,7 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 8 | I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me. |
 ^personality-trait
 
-`dice: [[Guild Artisan.md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Guild Artisan.md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -85,7 +85,7 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 6 | Aspiration. I work hard to be the best there is at my craft. (Any) |
 ^ideal
 
-`dice: [[Guild Artisan.md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Guild Artisan.md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -97,7 +97,7 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 6 | I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood. |
 ^bond
 
-`dice: [[Guild Artisan.md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Guild Artisan.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

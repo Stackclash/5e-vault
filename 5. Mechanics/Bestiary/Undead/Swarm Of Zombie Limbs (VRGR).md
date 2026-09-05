@@ -29,7 +29,7 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 
 **Zombie Apocalypses**
 
-`dice: [[Swarm Of Zombie Limbs (VRGR).md#^zombie-apocalypses]]`
+`dice: [[/5. Mechanics/Bestiary/Undead/Swarm Of Zombie Limbs (VRGR).md#^zombie-apocalypses]]`
 
 | dice: d4 | Zombie Plot |
 |----------|-------------|

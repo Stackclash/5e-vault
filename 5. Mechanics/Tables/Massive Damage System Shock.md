@@ -11,7 +11,7 @@ aliases:
 
 **System Shock**
 
-`dice: [[Massive Damage System Shock.md#^system-shock]]`
+`dice: [[/5. Mechanics/Tables/Massive Damage System Shock.md#^system-shock]]`
 
 | dice: d10 | Effect |
 |-----------|--------|

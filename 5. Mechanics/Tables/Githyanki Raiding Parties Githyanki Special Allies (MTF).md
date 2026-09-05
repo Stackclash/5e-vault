@@ -11,7 +11,7 @@ aliases:
 
 **Githyanki Special Allies**
 
-`dice: [[Githyanki Raiding Parties Githyanki Special Allies (MTF).md#^githyanki-special-allies]]`
+`dice: [[/5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Special Allies (MTF).md#^githyanki-special-allies]]`
 
 | dice: d10 | Ally |
 |-----------|------|

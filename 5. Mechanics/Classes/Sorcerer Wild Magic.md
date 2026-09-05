@@ -8,7 +8,7 @@ aliases:
   - Wild Magic
 ---
 # Wild Magic
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Player's Handbook p. 103*  
 
 > [!tldr] Class and Feature Progression

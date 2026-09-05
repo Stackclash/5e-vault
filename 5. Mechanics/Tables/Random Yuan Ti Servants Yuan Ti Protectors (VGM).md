@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Protectors**
 
-`dice: [[Random Yuan Ti Servants Yuan Ti Protectors (VGM).md#^yuan-ti-protectors]]`
+`dice: [[/5. Mechanics/Tables/Random Yuan Ti Servants Yuan Ti Protectors (VGM).md#^yuan-ti-protectors]]`
 
 | dice: d100 | Protector(s) |
 |------------|--------------|
@@ -22,7 +22,7 @@ aliases:
 | 27-28 | [[/5. Mechanics/Bestiary/Beast/Flying Snake.md\|Flying Snakes]] |
 | 29-35 | [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant Constrictor Snakes]] |
 | 36-45 | [[/5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant Poisonous Snakes]] |
-| 46-50 | [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|Gladiators]] |
+| 46-50 | [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|Gladiators]] |
 | 51-55 | [[/5. Mechanics/Bestiary/Humanoid/Guard.md\|Guards]] |
 | 56-58 | [[/5. Mechanics/Bestiary/Monstrosity/Hydra.md\|Hydras]] |
 | 59-60 | [[/5. Mechanics/Bestiary/Monstrosity/Medusa.md\|Medusas]] |

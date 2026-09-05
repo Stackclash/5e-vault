@@ -19,4 +19,4 @@ aliases:
 
 ## 3rd Level
 
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Water Walk.md \|"PHB"]] at class level 5

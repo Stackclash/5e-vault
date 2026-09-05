@@ -39,7 +39,7 @@ A helmed horror doesn't require air, food, drink, or sleep.
 "name": "Helmed Horror"
 "size": "Medium"
 "type": "construct"
-"alignment": "Unaligned"
+"alignment": "Neutral"
 "ac": !!int "20"
 "ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "60"
@@ -74,7 +74,7 @@ A helmed horror doesn't require air, food, drink, or sleep.
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-      \ immunities include [[/5. Mechanics/Spells/Fireball.md|fireball]], [[/5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
+      \ immunities include [[/5. Mechanics/Spells/Fireball.md|fireball]], [[/5. Mechanics/Spells/Heat Metal.md|heat metal]],\
       \ and [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]."
     "name": "Spell Immunity"
 "actions":

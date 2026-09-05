@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Polynesian, Female**
 
-`dice: [[Human Names Polynesian Female (XGE).md#^human-names-polynesian-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Polynesian Female (XGE).md#^human-names-polynesian-female]]`
 
 | dice: d100 | Name |
 |------------|------|

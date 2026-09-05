@@ -11,7 +11,7 @@ aliases:
 
 **Orc Personality Traits**
 
-`dice: [[Roleplaying An Orc Orc Personality Traits (VGM).md#^orc-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying An Orc Orc Personality Traits (VGM).md#^orc-personality-traits]]`
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|

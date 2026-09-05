@@ -11,7 +11,7 @@ aliases:
 
 **Desert Encounters (Levels 1—4)**
 
-`dice: [[Desert Encounters Levels 14 (XGE).md#^desert-encounters-levels-14]]`
+`dice: [[/5. Mechanics/Tables/Desert Encounters Levels 14 (XGE).md#^desert-encounters-levels-14]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -20,7 +20,7 @@ aliases:
 | 03 | 1 abandoned [[/5. Mechanics/Bestiary/Beast/Mule.md\|mule]] |
 | 04 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]] with `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Camel.md\|camels]] bound for a distant city |
 | 05 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Beast/Flying Snake.md\|flying snakes]] |
-| 06 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Beast/Hyena.md\|hyenas]] or `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Beast/Jack(AL).md\|jackals]] |
+| 06 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Beast/Hyena.md\|hyenas]] or `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Beast/Jackal.md\|jackals]] |
 | 07 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] escorting a [[/5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]] to the edge of the desert, all of them astride [[/5. Mechanics/Bestiary/Beast/Camel.md\|camels]] |
 | 08 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Beast/Cat.md\|cats]] |
 | 09 | 1 [[/5. Mechanics/Bestiary/Dragon/Pseudodragon.md\|pseudodragon]] |
@@ -62,9 +62,9 @@ aliases:
 | 87 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 1.md\|yuan-ti malison]] with `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md\|yuan-ti purebloods]] |
 | 88-89 | 1 [[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]] with 1 [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] and `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] |
 | 90 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Thri Kreen.md\|thri-kreen]] |
-| 91 | 1 [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elemental]] |
+| 91 | 1 [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]] |
 | 92 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatls]] |
-| 93 | 1 [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elemental]] |
+| 93 | 1 [[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md\|fire elemental]] |
 | 94 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Fiend/Gnoll Fang Of Yeenoghu.md\|gnoll fangs of Yeenoghu]] |
 | 95 | 1 [[/5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] |
 | 96 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Weretiger.md\|weretigers]] |

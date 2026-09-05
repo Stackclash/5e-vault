@@ -8,7 +8,7 @@ aliases:
   - Oath of the Annihilator
 ---
 # Oath of the Annihilator
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Deep Magic p. 314*  
 
 > [!tldr] Class and Feature Progression

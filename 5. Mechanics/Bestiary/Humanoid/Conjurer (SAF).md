@@ -66,7 +66,7 @@ cr: Unknown
       \ cloud]] spell (spell save DC 13 at 3rd\
       \ level, 14 at 5th level, and 15 at 7th level)."
     "name": "Stinking Cloud (3/Day)"
-  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe conjurer casts the [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe conjurer casts the [[/5. Mechanics/Spells/Conjure Elemental.md|conjure\
       \ elemental]] spell."
     "name": "Conjure Elemental (3/Day)"
   - "desc": "*Prerequisite: 7th-level retainer*\n\nThe conjurer casts the [[/5. Mechanics/Spells/Insect Plague.md|insect\

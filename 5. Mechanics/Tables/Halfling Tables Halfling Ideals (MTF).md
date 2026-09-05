@@ -11,7 +11,7 @@ aliases:
 
 **Halfling Ideals**
 
-`dice: [[Halfling Tables Halfling Ideals (MTF).md#^halfling-ideals]]`
+`dice: [[/5. Mechanics/Tables/Halfling Tables Halfling Ideals (MTF).md#^halfling-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

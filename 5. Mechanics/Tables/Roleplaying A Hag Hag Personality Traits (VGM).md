@@ -11,7 +11,7 @@ aliases:
 
 **Hag Personality Traits**
 
-`dice: [[Roleplaying A Hag Hag Personality Traits (VGM).md#^hag-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Hag Hag Personality Traits (VGM).md#^hag-personality-traits]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|

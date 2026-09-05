@@ -11,7 +11,7 @@ aliases:
 
 **Academy Quests**
 
-`dice: [[Academy Quests (TCE).md#^academy-quests]]`
+`dice: [[/5. Mechanics/Tables/Academy Quests (TCE).md#^academy-quests]]`
 
 | dice: d6 | Quest |
 |----------|-------|

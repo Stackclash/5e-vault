@@ -31,7 +31,7 @@ If you dump the bag's contents out on the ground, they explode in a 10-foot radi
 
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The DM can choose an effect from the following table, determine it randomly, or create an effect.
 
-`dice: [[Bag Of Beans.md#^effect]]`
+`dice: [[/5. Mechanics/Items/Bag Of Beans.md#^effect]]`
 
 | dice: d100 | Effect |
 |------------|--------|

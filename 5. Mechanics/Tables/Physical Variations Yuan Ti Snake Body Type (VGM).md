@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Snake Body Type**
 
-`dice: [[Physical Variations Yuan Ti Snake Body Type (VGM).md#^yuan-ti-snake-body-type]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Yuan Ti Snake Body Type (VGM).md#^yuan-ti-snake-body-type]]`
 
 | dice: d20 | Snake Body Shape |
 |-----------|------------------|

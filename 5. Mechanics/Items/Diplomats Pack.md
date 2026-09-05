@@ -37,8 +37,8 @@ Includes:
 - an [[/5. Mechanics/Items/Ink Pen.md\|ink pen]]  
 - a [[/5. Mechanics/Items/Lamp.md\|lamp]]  
 - 2 [[/5. Mechanics/Items/Oil Flask.md\|flasks of oil]]  
-- 5 [[/5. Mechanics/Items/Paper One Sh(EET).md\|sheets of paper]]  
-- a [[/5. Mechanics/Items/Perfume Vi(AL).md\|vial of perfume]]  
+- 5 [[/5. Mechanics/Items/Paper One Sheet.md\|sheets of paper]]  
+- a [[/5. Mechanics/Items/Perfume Vial.md\|vial of perfume]]  
 - [[/5. Mechanics/Items/Sealing Wax.md\|sealing wax]]  
 - [[/5. Mechanics/Items/Soap.md\|soap]]  
 

@@ -8,7 +8,7 @@ aliases:
   - Circle of the Spirits
 ---
 # Circle of the Spirits
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Deep Magic p. 139*  
 
 > [!tldr] Class and Feature Progression

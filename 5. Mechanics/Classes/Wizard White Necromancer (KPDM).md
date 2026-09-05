@@ -8,7 +8,7 @@ aliases:
   - White Necromancer
 ---
 # White Necromancer
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 153*  
 
 > [!tldr] Class and Feature Progression

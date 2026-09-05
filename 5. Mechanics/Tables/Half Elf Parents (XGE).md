@@ -11,7 +11,7 @@ aliases:
 
 **Half-Elf Parents**
 
-`dice: [[Half Elf Parents (XGE).md#^half-elf-parents]]`
+`dice: [[/5. Mechanics/Tables/Half Elf Parents (XGE).md#^half-elf-parents]]`
 
 | dice: d8 | Parents |
 |----------|---------|

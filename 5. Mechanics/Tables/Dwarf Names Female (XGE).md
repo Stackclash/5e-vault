@@ -11,7 +11,7 @@ aliases:
 
 **Dwarf Names – Female**
 
-`dice: [[Dwarf Names Female (XGE).md#^dwarf-names-female]]`
+`dice: [[/5. Mechanics/Tables/Dwarf Names Female (XGE).md#^dwarf-names-female]]`
 
 | dice: d100 | Name |
 |------------|------|

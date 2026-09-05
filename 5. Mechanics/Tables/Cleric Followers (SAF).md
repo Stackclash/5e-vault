@@ -11,7 +11,7 @@ aliases:
 
 **Cleric Followers**
 
-`dice: [[Cleric Followers (SAF).md#^cleric-followers]]`
+`dice: [[/5. Mechanics/Tables/Cleric Followers (SAF).md#^cleric-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

@@ -11,7 +11,7 @@ aliases:
 
 **Orc Trophies**
 
-`dice: [[Treasure Orc Trophies (VGM).md#^orc-trophies]]`
+`dice: [[/5. Mechanics/Tables/Treasure Orc Trophies (VGM).md#^orc-trophies]]`
 
 | dice: d10 | Trophy |
 |-----------|--------|

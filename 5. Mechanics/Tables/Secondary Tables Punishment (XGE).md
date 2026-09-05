@@ -11,7 +11,7 @@ aliases:
 
 **Punishment**
 
-`dice: [[Secondary Tables Punishment (XGE).md#^punishment]]`
+`dice: [[/5. Mechanics/Tables/Secondary Tables Punishment (XGE).md#^punishment]]`
 
 | dice: d12 | Punishment |
 |-----------|------------|

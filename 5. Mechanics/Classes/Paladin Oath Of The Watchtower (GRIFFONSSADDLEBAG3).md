@@ -8,7 +8,7 @@ aliases:
   - Oath of the Watchtower
 ---
 # Oath of the Watchtower
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: The Griffon's Saddlebag, Book 3 p. 1*  
 
 > [!tldr] Class and Feature Progression

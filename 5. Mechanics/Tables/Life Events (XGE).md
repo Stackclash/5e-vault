@@ -11,7 +11,7 @@ aliases:
 
 **Life Events**
 
-`dice: [[Life Events (XGE).md#^life-events]]`
+`dice: [[/5. Mechanics/Tables/Life Events (XGE).md#^life-events]]`
 
 | dice: d100 | Event |
 |------------|-------|

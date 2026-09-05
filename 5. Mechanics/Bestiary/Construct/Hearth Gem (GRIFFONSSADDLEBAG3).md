@@ -69,7 +69,7 @@ Hearth gems are exceptionally rare gemstones that have been granted sentience by
       \n**At will:** [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mending.md|mending]],\
       \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**3/day:** [[/5. Mechanics/Spells/Continual Flame.md|continual\
       \ flame]], [[/5. Mechanics/Spells/Enhance Ability.md|enhance ability]],\
-      \ [[/5. Mechanics/Spells/Heat Met(AL).md|heat metal]]\n\n**1/day:** [[/5. Mechanics/Spells/Sunbeam.md|sunbeam]],\
+      \ [[/5. Mechanics/Spells/Heat Metal.md|heat metal]]\n\n**1/day:** [[/5. Mechanics/Spells/Sunbeam.md|sunbeam]],\
       \ [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
     "name": "Innate Spellcasting"
   - "desc": "While the gem remains motionless, it is indistinguishable from an inanimate\

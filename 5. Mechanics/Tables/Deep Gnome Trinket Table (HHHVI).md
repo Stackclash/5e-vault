@@ -9,7 +9,7 @@ aliases:
 # Deep Gnome Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 57* 
 
-`dice: [[Deep Gnome Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Deep Gnome Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

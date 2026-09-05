@@ -9,7 +9,7 @@ aliases:
 # Antronec Exploration; Antronec Sewers Random Secret Entrance
 *Source: The Griffon's Saddlebag, Book 2 p. 245* 
 
-`dice: [[Antronec Exploration Antronec Sewers Random Secret Entrance (GRIFFONSSADDLEBAG2).md#^secret-entrance]]`
+`dice: [[/5. Mechanics/Tables/Antronec Exploration Antronec Sewers Random Secret Entrance (GRIFFONSSADDLEBAG2).md#^secret-entrance]]`
 
 | dice: d12 | Secret Entrance |
 |-----------|-----------------|

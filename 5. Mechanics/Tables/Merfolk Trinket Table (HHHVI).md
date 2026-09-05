@@ -9,7 +9,7 @@ aliases:
 # Merfolk Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 75* 
 
-`dice: [[Merfolk Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Merfolk Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

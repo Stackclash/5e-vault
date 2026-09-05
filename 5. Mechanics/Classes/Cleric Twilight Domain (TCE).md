@@ -9,7 +9,7 @@ aliases:
   - Twilight Domain
 ---
 # Twilight Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Tasha's Cauldron of Everything p. 34*  
 
 > [!tldr] Class and Feature Progression

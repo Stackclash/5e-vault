@@ -11,7 +11,7 @@ aliases:
 
 **Family**
 
-`dice: [[Supplemental Tables Family (XGE).md#^family]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Family (XGE).md#^family]]`
 
 | dice: d100 | Family |
 |------------|--------|

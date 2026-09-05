@@ -364,84 +364,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "379101ab9617b350",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cb6b575b6b78de3a",
-        "type": "window",
-        "children": [
-          {
-            "id": "77f78088dbbb77a0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9bfd049aa475fa39",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/rcox/Projects/Personal/5e-vault",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "environment": [],
-                        "executable": "/bin/zsh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "profileSourceId": "darwinIntegratedDefault",
-                      "serial": null,
-                      "userTitle": ""
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "✳ dm-assistant"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 173,
-        "y": 195,
-        "width": 1383,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9bfd049aa475fa39",
+  "active": "830f75e4aa18d718",
   "lastOpenFiles": [
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 New Session Journal.md",
-    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-22.md",
-    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
-    "5. Mechanics/Classes/Barbarian.md",
-    "4. World Almanac/Settlements/Duskferry.md",
-    "4. World Almanac/Shops/Golden Hammer.md",
+    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md",
+    "5. Mechanics/Decks/Tarokka Deck 999_dnd_tarokka_back_2/tarokka-deck-999_dnd_tarokka_back_2.webp",
+    "5. Mechanics/Decks/Decks.md",
+    "5. Mechanics/Deities/Deities.md",
+    "5. Mechanics/Bestiary/Miscellaneous/Miscellaneo(US).md",
+    "5. Mechanics/Bestiary/Bestiary.md",
+    "Session Prep.md",
+    "Roadmap.md",
+    "1. DM Toolkit/Knowledge/Sources/Sync.md",
+    "1. DM Toolkit/Knowledge/Sources/Articles/Nick Milo Reads My Obsidian Vault Like a Doctor.md",
+    "1. DM Toolkit/Knowledge/Sources/Books/Return of the Lazy Dungeon Master.md",
+    "1. DM Toolkit/Knowledge/Sources/Articles",
+    "1. DM Toolkit/Knowledge/Sources/Books",
+    "1. DM Toolkit/Knowledge/Sources",
+    "1. DM Toolkit/Knowledge",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-01.md",
     "1. DM Toolkit/Configuration.md",
     "4. World Almanac/Worlds/Eldoria.md",
     "5. Mechanics/Spells/Hypnotic Pattern.md",
@@ -452,35 +392,23 @@
     "4. World Almanac/Settlements/Bruokdon.md",
     "4. World Almanac/NPCs/Martin Thricefold.md",
     "1. DM Toolkit/Session Journals/Session Journals.md",
-    "5. Mechanics/Items/Yester Hill Axe (COS).md",
-    "5. Mechanics/Items/Greataxe.md",
-    "5. Mechanics/Items/Helm Of The Minotaur (HHHVI).md",
-    "5. Mechanics/Items/Bracers Of Defense.md",
+    "4. World Almanac/NPCs/Seer Ithildra Moonveil.md",
+    "4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md.tmp.5520.0c5b42d87ae8",
+    "4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md.tmp.5520.cdffb30d95f2",
+    "4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md.tmp.5520.abdbeb32e409",
+    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "4. World Almanac/NPCs/Professor Gousse Windcaller.md",
-    "Untitled.md",
-    "4. World Almanac/Places of Interest/Amberfen Hollow.md",
-    "4. World Almanac/NPCs/Ostwin Reyes.md",
-    "4. World Almanac/NPCs/Anselm Corrow.md",
-    "5. Mechanics/Items/Ale Mug.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md",
-    "media-lib/index.base",
-    "media-lib",
-    "6. Resources/Books/Dungeon Masters Guide 2014/img/intro.webp",
-    "6. Resources/Books/Dungeon Masters Guide 2014/img/dmgcover.webp",
-    "6. Resources/Books/Dungeon Masters Guide 2014/img/ch8splash.webp",
-    "6. Resources/Books/Dungeon Masters Guide 2014/img/ch2splash.webp",
-    "6. Resources/Books/Dungeon Masters Guide 2014/img/ch1splash.webp",
-    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-25.webp",
-    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-24.webp",
-    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-23.webp",
-    "6. Resources/Books/Dungeon Masters Guide 2014/img/c8-22.webp",
-    "5. Mechanics/Decks/Tarokka Deck 999_dnd_tarokka_back_2",
-    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-ColorCodedMaps.pdf",
-    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10.pdf",
-    "6. Resources/Resources/Planar Passages/810199-PlanarPassages-v10_pf.pdf",
-    "Characters",
-    "z_Scripts/Datacore/ShopInventory.tsx",
-    "z_Scripts/Datacore/shopInventory.tsx",
-    "1. DM Toolkit/Session Prep/The Hunt for Vecna"
+    "4. World Almanac/NPCs/Professor Alindra Quicksilver.md",
+    "4. World Almanac/NPCs/Mistress Lyssandra Veil.md",
+    "4. World Almanac/NPCs/Magister Kaelor Stormbrand.md",
+    "z_Assets/NPCs/Gousse Windcaller.png",
+    "5. Mechanics/Bestiary/Aberration/token/star-spawn-hulk-mpmm.webp",
+    "z_Assets/NPCs/Valeris Thorne.png",
+    "z_Assets/NPCs/Selvara Kain.png",
+    "z_Assets/NPCs/Lyssandra Veil.png",
+    "z_Assets/NPCs/Kaelor Stormbrand.png",
+    "z_Assets/NPCs/Ithildra Moonveil.png",
+    "z_Assets/NPCs/Caldris Velmont.png",
+    "z_Assets/NPCs/Alindra Quicksilver.png"
   ]
 }

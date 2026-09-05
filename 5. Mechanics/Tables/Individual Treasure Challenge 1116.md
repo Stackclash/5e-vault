@@ -11,7 +11,7 @@ aliases:
 
 **Individual Treasure: Challenge 11—16**
 
-`dice: [[Individual Treasure Challenge 1116.md#^individual-treasure-challenge-1116]]`
+`dice: [[/5. Mechanics/Tables/Individual Treasure Challenge 1116.md#^individual-treasure-challenge-1116]]`
 
 | dice: d100 | CP | SP | EP | GP | PP |
 |------------|----|----|----|----|----|

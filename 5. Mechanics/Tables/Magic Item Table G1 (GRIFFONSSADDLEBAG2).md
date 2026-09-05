@@ -9,7 +9,7 @@ aliases:
 # Magic Item Table G1
 *Source: The Griffon's Saddlebag, Book 2 p. 28* 
 
-`dice: [[Magic Item Table G1 (GRIFFONSSADDLEBAG2).md#^item-name]]`
+`dice: [[/5. Mechanics/Tables/Magic Item Table G1 (GRIFFONSSADDLEBAG2).md#^item-name]]`
 
 | dice: d100 | Item Name |
 |------------|-----------|

@@ -11,7 +11,7 @@ aliases:
 
 **Pureblood Characteristics**
 
-`dice: [[Physical Variations Pureblood Characteristics (VGM).md#^pureblood-characteristics]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Pureblood Characteristics (VGM).md#^pureblood-characteristics]]`
 
 | dice: d20 | Pureblood Characteristic |
 |-----------|--------------------------|

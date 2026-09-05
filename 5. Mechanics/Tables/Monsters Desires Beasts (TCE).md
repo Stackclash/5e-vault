@@ -11,7 +11,7 @@ aliases:
 
 **Beasts**
 
-`dice: [[Monsters Desires Beasts (TCE).md#^beasts]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Beasts (TCE).md#^beasts]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

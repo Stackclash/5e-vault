@@ -11,7 +11,7 @@ aliases:
 
 **Body Horror Adventure Sites**
 
-`dice: [[Body Horror Adventure Sites (VRGR).md#^body-horror-adventure-sites]]`
+`dice: [[/5. Mechanics/Tables/Body Horror Adventure Sites (VRGR).md#^body-horror-adventure-sites]]`
 
 | dice: d8 | Adventure Site |
 |----------|----------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Gambling Complications**
 
-`dice: [[Gambling Complications (XGE).md#^gambling-complications]]`
+`dice: [[/5. Mechanics/Tables/Gambling Complications (XGE).md#^gambling-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

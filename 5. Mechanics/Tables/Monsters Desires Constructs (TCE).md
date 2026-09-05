@@ -11,7 +11,7 @@ aliases:
 
 **Constructs**
 
-`dice: [[Monsters Desires Constructs (TCE).md#^constructs]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Constructs (TCE).md#^constructs]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

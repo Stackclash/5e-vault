@@ -73,6 +73,9 @@ Artificers in the City of Sigil share discoveries from throughout the multiverse
 - [[/5. Mechanics/Classes/Artificer Artillerist (TCE).md\|Artillerist]]  
 - [[/5. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Battle Smith]]  
 
+> [!embed-classtype]- Artificer
+> ![[/5. Mechanics/Classes/Artificer (TCE).md\|Artificer]]
+
 > [!gallery]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/003-01-004-artificer-vi.webp#gallery\|The gnome artificer Vi and her cockatrice-like Eldritch Cannon battle foes atop a lightning train.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/004-01-005-artificer.webp#gallery\|Dwarf Alchemist with Homunculus Servant]]
@@ -80,6 +83,18 @@ Artificers in the City of Sigil share discoveries from throughout the multiverse
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/006-01-007.webp#gallery\|Human Artillerist with Eldritch Cannon]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/007-01-008.webp#gallery\|Gnome Battle Smith with Steel Defender]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/008-01-009.webp#gallery\|Homunculus Servants]]
+
+> [!embed-subclass]- Alchemist
+> ![[/5. Mechanics/Classes/Artificer Alchemist (TCE).md\|Alchemist]]
+
+> [!embed-subclass]- Armorer
+> ![[/5. Mechanics/Classes/Artificer Armorer (TCE).md\|Armorer]]
+
+> [!embed-subclass]- Artillerist
+> ![[/5. Mechanics/Classes/Artificer Artillerist (TCE).md\|Artillerist]]
+
+> [!embed-subclass]- Battle Smith
+> ![[/5. Mechanics/Classes/Artificer Battle Smith (TCE).md\|Battle Smith]]
 
 ## Barbarian
 
@@ -105,6 +120,12 @@ At 3rd level, a barbarian gains the Primal Path feature, which offers you the ch
 > [!gallery]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/010-01-012.webp#gallery\|Human Barbarian of the Beast]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/011-01-013.webp#gallery\|Wood Elf Barbarian of Wild Magic]]
+
+> [!embed-subclass]- Path of the Beast
+> ![[/5. Mechanics/Classes/Barbarian Path Of The Beast (TCE).md\|Path of the Beast]]
+
+> [!embed-subclass]- Path of Wild Magic
+> ![[/5. Mechanics/Classes/Barbarian Path Of Wild Magic (TCE).md\|Path of Wild Magic]]
 
 ## Bard
 
@@ -145,6 +166,12 @@ At 3rd level, a bard gains the Bard College feature, which offers you the choice
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/013-01-016.webp#gallery\|A dragonborn bard of the College of Creation animates a statue to dance.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/014-01-017.webp#gallery\|Drow Bard of Eloquence]]
 
+> [!embed-subclass]- College of Creation
+> ![[/5. Mechanics/Classes/Bard College Of Creation (TCE).md\|College of Creation]]
+
+> [!embed-subclass]- College of Eloquence
+> ![[/5. Mechanics/Classes/Bard College Of Eloquence (TCE).md\|College of Eloquence]]
+
 ## Cleric
 
 The cleric class receives new features and subclasses in this section.
@@ -166,7 +193,7 @@ The spells in the following list expand the cleric spell list in the "Player's H
 - 5th level: [[/5. Mechanics/Spells/Summon Celestial (TCE).md\|Summon celestial]]*  
 - 6th level: [[/5. Mechanics/Spells/Sunbeam.md\|Sunbeam]]  
 - 8th level: [[/5. Mechanics/Spells/Sunburst.md\|Sunburst]]  
-- 9th level: [[/5. Mechanics/Spells/Power Word He(AL).md\|Power word heal]]  
+- 9th level: [[/5. Mechanics/Spells/Power Word Heal.md\|Power word heal]]  
 
 [Channel Divinity: Harness Divine Power](/compendium/classes/cleric.md#Channel%20Divinity%20Harness%20Divine%20Power%20(Level%202)) (*2nd-level cleric feature*)
 
@@ -187,6 +214,15 @@ At 1st level, a cleric gains the Divine Domain feature, which offers you the cho
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/017-01-021.webp#gallery\|Dragonborn Cleric of Order]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/018-01-022.webp#gallery\|Human Cleric of Peace]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/019-01-023.webp#gallery\|Human Cleric of Twilight]]
+
+> [!embed-subclass]- Order Domain
+> ![[/5. Mechanics/Classes/Cleric Order Domain (TCE).md\|Order Domain]]
+
+> [!embed-subclass]- Peace Domain
+> ![[/5. Mechanics/Classes/Cleric Peace Domain (TCE).md\|Peace Domain]]
+
+> [!embed-subclass]- Twilight Domain
+> ![[/5. Mechanics/Classes/Cleric Twilight Domain (TCE).md\|Twilight Domain]]
 
 ## Druid
 
@@ -229,6 +265,15 @@ At 2nd level, a druid gains the Druid Circle feature, which offers you the choic
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/023-01-028.webp#gallery\|Tiefling Druid of Stars]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/024-01-029.webp#gallery\|Dwarf Druid of Wildfire]]
 
+> [!embed-subclass]- Circle of Spores
+> ![[/5. Mechanics/Classes/Druid Circle Of Spores (TCE).md\|Circle of Spores]]
+
+> [!embed-subclass]- Circle of Stars
+> ![[/5. Mechanics/Classes/Druid Circle Of Stars (TCE).md\|Circle of Stars]]
+
+> [!embed-subclass]- Circle of Wildfire
+> ![[/5. Mechanics/Classes/Druid Circle Of Wildfire (TCE).md\|Circle of Wildfire]]
+
 ## Fighter
 
 The fighter class receives new features and subclasses in this section.
@@ -249,6 +294,21 @@ When you choose a fighting style, the following styles are added to your list of
 - [[/5. Mechanics/Optional Features/Thrown Weapon Fighting (TCE).md\|Thrown Weapon Fighting]]  
 - [[/5. Mechanics/Optional Features/Unarmed Fighting (TCE).md\|Unarmed Fighting]]  
 
+> [!embed-optfeature]- Blind Fighting
+> ![[/5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]]
+
+> [!embed-optfeature]- Interception
+> ![[/5. Mechanics/Optional Features/Interception (TCE).md\|Interception]]
+
+> [!embed-optfeature]- Superior Technique
+> ![[/5. Mechanics/Optional Features/Superior Technique (TCE).md\|Superior Technique]]
+
+> [!embed-optfeature]- Thrown Weapon Fighting
+> ![[/5. Mechanics/Optional Features/Thrown Weapon Fighting (TCE).md\|Thrown Weapon Fighting]]
+
+> [!embed-optfeature]- Unarmed Fighting
+> ![[/5. Mechanics/Optional Features/Unarmed Fighting (TCE).md\|Unarmed Fighting]]
+
 [Martial Versatility](/compendium/classes/fighter.md#Martial%20Versatility%20(Level%204)) (*4th-level fighter feature*)
 
 ### Maneuver Options
@@ -263,6 +323,27 @@ If you have access to maneuvers, the following maneuvers are added to the list o
 - [[/5. Mechanics/Optional Features/Quick Toss (TCE).md\|Quick Toss]]  
 - [[/5. Mechanics/Optional Features/Tactical Assessment (TCE).md\|Tactical Assessment]]  
 
+> [!embed-optfeature]- Ambush
+> ![[/5. Mechanics/Optional Features/Ambush (TCE).md\|Ambush]]
+
+> [!embed-optfeature]- Bait and Switch
+> ![[/5. Mechanics/Optional Features/Bait And Switch (TCE).md\|Bait and Switch]]
+
+> [!embed-optfeature]- Brace
+> ![[/5. Mechanics/Optional Features/Brace (TCE).md\|Brace]]
+
+> [!embed-optfeature]- Commanding Presence
+> ![[/5. Mechanics/Optional Features/Commanding Presence (TCE).md\|Commanding Presence]]
+
+> [!embed-optfeature]- Grappling Strike
+> ![[/5. Mechanics/Optional Features/Grappling Strike (TCE).md\|Grappling Strike]]
+
+> [!embed-optfeature]- Quick Toss
+> ![[/5. Mechanics/Optional Features/Quick Toss (TCE).md\|Quick Toss]]
+
+> [!embed-optfeature]- Tactical Assessment
+> ![[/5. Mechanics/Optional Features/Tactical Assessment (TCE).md\|Tactical Assessment]]
+
 ### Martial Archetypes
 
 At 3rd level, a fighter gains the Martial Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Psi Warrior and Rune Knight.
@@ -274,6 +355,12 @@ At 3rd level, a fighter gains the Martial Archetype feature, which offers you th
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/026-01-032.webp#gallery\|A young fighter spars with an instructor.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/027-01-033.webp#gallery\|High Elf Psi Warrior]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/028-01-034.webp#gallery\|Orc Rune Knight]]
+
+> [!embed-subclass]- Psi Warrior
+> ![[/5. Mechanics/Classes/Fighter Psi Warrior (TCE).md\|Psi Warrior]]
+
+> [!embed-subclass]- Rune Knight
+> ![[/5. Mechanics/Classes/Fighter Rune Knight (TCE).md\|Rune Knight]]
 
 ### Battle Master Builds
 
@@ -409,6 +496,12 @@ At 3rd level, a monk gains the Monastic Tradition feature, which offers you the 
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/032-01-039.webp#gallery\|Wood Elf Monk of Mercy]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/033-01-040.webp#gallery\|Dragonborn Monk of the Astral Self]]
 
+> [!embed-subclass]- Way of Mercy
+> ![[/5. Mechanics/Classes/Monk Way Of Mercy (TCE).md\|Way of Mercy]]
+
+> [!embed-subclass]- Way of the Astral Self
+> ![[/5. Mechanics/Classes/Monk Way Of The Astral Self (TCE).md\|Way of the Astral Self]]
+
 ## Paladin
 
 The paladin class receives new features and subclasses in this section.
@@ -437,6 +530,15 @@ When you choose a fighting style, the following styles are added to your list of
 - [[/5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]]  
 - [[/5. Mechanics/Optional Features/Interception (TCE).md\|Interception]]  
 
+> [!embed-optfeature]- Blessed Warrior
+> ![[/5. Mechanics/Optional Features/Blessed Warrior (TCE).md\|Blessed Warrior]]
+
+> [!embed-optfeature]- Blind Fighting
+> ![[/5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]]
+
+> [!embed-optfeature]- Interception
+> ![[/5. Mechanics/Optional Features/Interception (TCE).md\|Interception]]
+
 [Channel Divinity: Harness Divine Power](/compendium/classes/paladin.md#Channel%20Divinity%20Harness%20Divine%20Power%20(Level%203)) (*3rd-level paladin feature*)
 
 [Martial Versatility](/compendium/classes/paladin.md#Martial%20Versatility%20(Level%204)) (*4th-level paladin feature*)
@@ -452,6 +554,12 @@ At 3rd level, a paladin gains the Sacred Oath feature, which offers you the choi
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/035-01-043.webp#gallery\|A young paladin seeks divine guidance.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/036-01-044.webp#gallery\|Tiefling Paladin of Glory]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/037-01-045.webp#gallery\|Dwarf Paladin of the Watchers]]
+
+> [!embed-subclass]- Oath of Glory
+> ![[/5. Mechanics/Classes/Paladin Oath Of Glory (TCE).md\|Oath of Glory]]
+
+> [!embed-subclass]- Oath of the Watchers
+> ![[/5. Mechanics/Classes/Paladin Oath Of The Watchers (TCE).md\|Oath of the Watchers]]
 
 ## Ranger
 
@@ -489,6 +597,15 @@ When you choose a fighting style, the following styles are added to your list of
 - [[/5. Mechanics/Optional Features/Druidic Warrior (TCE).md\|Druidic Warrior]]  
 - [[/5. Mechanics/Optional Features/Thrown Weapon Fighting (TCE).md\|Thrown Weapon Fighting]]  
 
+> [!embed-optfeature]- Blind Fighting
+> ![[/5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]]
+
+> [!embed-optfeature]- Druidic Warrior
+> ![[/5. Mechanics/Optional Features/Druidic Warrior (TCE).md\|Druidic Warrior]]
+
+> [!embed-optfeature]- Thrown Weapon Fighting
+> ![[/5. Mechanics/Optional Features/Thrown Weapon Fighting (TCE).md\|Thrown Weapon Fighting]]
+
 [Spellcasting Focus](/compendium/classes/ranger.md#Spellcasting%20Focus%20(Level%202)) (*2nd-level ranger feature*)
 
 [Primal Awareness](/compendium/classes/ranger.md#Primal%20Awareness%20(Level%203)) (*3rd-level ranger feature, which replaces the Primeval Awareness feature*)
@@ -508,6 +625,12 @@ At 3rd level, a ranger gains the Ranger Archetype feature, which offers you the 
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/039-01-048.webp#gallery\|A Halfling Ranger explores the wilds]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/040-01-049.webp#gallery\|Human Fey Wanderer]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/041-01-050.webp#gallery\|Gnome Swarmkeeper]]
+
+> [!embed-subclass]- Fey Wanderer
+> ![[/5. Mechanics/Classes/Ranger Fey Wanderer (TCE).md\|Fey Wanderer]]
+
+> [!embed-subclass]- Swarmkeeper
+> ![[/5. Mechanics/Classes/Ranger Swarmkeeper (TCE).md\|Swarmkeeper]]
 
 ### Beast Master Companions
 
@@ -536,6 +659,12 @@ At 3rd level, a rogue gains the Roguish Archetype feature, which offers you the 
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/043-01-053.webp#gallery\|A Drow Rogue takes aim.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/044-01-054.webp#gallery\|Tiefling Phantom]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/045-01-055.webp#gallery\|Halfling Soulknife]]
+
+> [!embed-subclass]- Phantom
+> ![[/5. Mechanics/Classes/Rogue Phantom (TCE).md\|Phantom]]
+
+> [!embed-subclass]- Soulknife
+> ![[/5. Mechanics/Classes/Rogue Soulknife (TCE).md\|Soulknife]]
 
 ## Sorcerer
 
@@ -579,6 +708,12 @@ At 1st level, a sorcerer gains the Sorcerous Origin feature, which offers you th
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/047-01-058.webp#gallery\|A Sorcerer uses transmuted spell]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/048-01-059.webp#gallery\|Tiefling Aberrant Mind]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/049-01-060.webp#gallery\|Human Clockwork Soul]]
+
+> [!embed-subclass]- Aberrant Mind
+> ![[/5. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md\|Aberrant Mind]]
+
+> [!embed-subclass]- Clockwork Soul
+> ![[/5. Mechanics/Classes/Sorcerer Clockwork Soul (TCE).md\|Clockwork Soul]]
 
 ## Warlock
 
@@ -625,6 +760,30 @@ When you choose eldritch invocations, you have access to these additional option
 - [[/5. Mechanics/Optional Features/Rebuke Of The Talisman (TCE).md\|Rebuke of the Talisman]]  
 - [[/5. Mechanics/Optional Features/Undying Servitude (TCE).md\|Undying Servitude]]  
 
+> [!embed-optfeature]- Bond of the Talisman
+> ![[/5. Mechanics/Optional Features/Bond Of The Talisman (TCE).md\|Bond of the Talisman]]
+
+> [!embed-optfeature]- Eldritch Mind
+> ![[/5. Mechanics/Optional Features/Eldritch Mind (TCE).md\|Eldritch Mind]]
+
+> [!embed-optfeature]- Far Scribe
+> ![[/5. Mechanics/Optional Features/Far Scribe (TCE).md\|Far Scribe]]
+
+> [!embed-optfeature]- Gift of the Protectors
+> ![[/5. Mechanics/Optional Features/Gift Of The Protectors (TCE).md\|Gift of the Protectors]]
+
+> [!embed-optfeature]- Investment of the Chain Master
+> ![[/5. Mechanics/Optional Features/Investment Of The Chain Master (TCE).md\|Investment of the Chain Master]]
+
+> [!embed-optfeature]- Protection of the Talisman
+> ![[/5. Mechanics/Optional Features/Protection Of The Talisman (TCE).md\|Protection of the Talisman]]
+
+> [!embed-optfeature]- Rebuke of the Talisman
+> ![[/5. Mechanics/Optional Features/Rebuke Of The Talisman (TCE).md\|Rebuke of the Talisman]]
+
+> [!embed-optfeature]- Undying Servitude
+> ![[/5. Mechanics/Optional Features/Undying Servitude (TCE).md\|Undying Servitude]]
+
 ### Otherworldly Patrons
 
 At 1st level, a warlock gains the Otherworldly Patron feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Fathomless and the Genie.
@@ -636,6 +795,12 @@ At 1st level, a warlock gains the Otherworldly Patron feature, which offers you 
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/051-01-063.webp#gallery\|A tiefling warlock calls on the power of his talisman.]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/052-01-064.webp#gallery\|Human Warlock of the Fathomless]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/053-01-065.webp#gallery\|A warlock uses a genie's vessel to battle a cyclops.]]
+
+> [!embed-subclass]- The Fathomless
+> ![[/5. Mechanics/Classes/Warlock The Fathomless (TCE).md\|The Fathomless]]
+
+> [!embed-subclass]- The Genie
+> ![[/5. Mechanics/Classes/Warlock The Genie (TCE).md\|The Genie]]
 
 ## Wizard
 
@@ -673,6 +838,12 @@ At 2nd level, a wizard gains the Arcane Tradition feature, which offers you the 
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/055-01-068.webp#gallery\|A Drow and a High Elf Bladesinger]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/056-01-069.webp#gallery\|Human Wizard, Order of Scribes]]
 
+> [!embed-subclass]- Bladesinging
+> ![[/5. Mechanics/Classes/Wizard Bladesinging (TCE).md\|Bladesinging]]
+
+> [!embed-subclass]- Order of Scribes
+> ![[/5. Mechanics/Classes/Wizard Order Of Scribes (TCE).md\|Order of Scribes]]
+
 ## Feats
 
 New feats are presented here in alphabetical order for groups that use them.
@@ -696,3 +867,48 @@ New feats are presented here in alphabetical order for groups that use them.
 > [!gallery]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/057-01-070.webp#gallery\|Eldritch Adept]]
 > ![[/6. Resources/Books/Tashas Cauldron Of Everything/img/058-01-071.webp#gallery\|Astride a unicorn, a telepathic bard inspires her wizard companion.]]
+
+> [!embed-feat]- Artificer Initiate
+> ![[/5. Mechanics/Feats/Artificer Initiate (TCE).md\|Artificer Initiate]]
+
+> [!embed-feat]- Chef
+> ![[/5. Mechanics/Feats/Chef (TCE).md\|Chef]]
+
+> [!embed-feat]- Crusher
+> ![[/5. Mechanics/Feats/Crusher (TCE).md\|Crusher]]
+
+> [!embed-feat]- Eldritch Adept
+> ![[/5. Mechanics/Feats/Eldritch Adept (TCE).md\|Eldritch Adept]]
+
+> [!embed-feat]- Fey Touched
+> ![[/5. Mechanics/Feats/Fey Touched (TCE).md\|Fey Touched]]
+
+> [!embed-feat]- Fighting Initiate
+> ![[/5. Mechanics/Feats/Fighting Initiate (TCE).md\|Fighting Initiate]]
+
+> [!embed-feat]- Gunner
+> ![[/5. Mechanics/Feats/Gunner (TCE).md\|Gunner]]
+
+> [!embed-feat]- Metamagic Adept
+> ![[/5. Mechanics/Feats/Metamagic Adept (TCE).md\|Metamagic Adept]]
+
+> [!embed-feat]- Piercer
+> ![[/5. Mechanics/Feats/Piercer (TCE).md\|Piercer]]
+
+> [!embed-feat]- Poisoner
+> ![[/5. Mechanics/Feats/Poisoner (TCE).md\|Poisoner]]
+
+> [!embed-feat]- Shadow Touched
+> ![[/5. Mechanics/Feats/Shadow Touched (TCE).md\|Shadow Touched]]
+
+> [!embed-feat]- Skill Expert
+> ![[/5. Mechanics/Feats/Skill Expert (TCE).md\|Skill Expert]]
+
+> [!embed-feat]- Slasher
+> ![[/5. Mechanics/Feats/Slasher (TCE).md\|Slasher]]
+
+> [!embed-feat]- Telekinetic
+> ![[/5. Mechanics/Feats/Telekinetic (TCE).md\|Telekinetic]]
+
+> [!embed-feat]- Telepathic
+> ![[/5. Mechanics/Feats/Telepathic (TCE).md\|Telepathic]]

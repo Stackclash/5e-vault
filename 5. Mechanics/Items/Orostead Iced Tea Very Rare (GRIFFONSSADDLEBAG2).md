@@ -31,7 +31,7 @@ The following [[/5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|O
 
 When you take a sip of this potion, roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the table below instead to determine which one of the following benefits you gain. Once you've gained a benefit from the table, you can't gain that same benefit again until you finish a long rest.
 
-`dice: [[Orostead Iced Tea Very Rare (GRIFFONSSADDLEBAG2).md#^very-rare-effect]]`
+`dice: [[/5. Mechanics/Items/Orostead Iced Tea Very Rare (GRIFFONSSADDLEBAG2).md#^very-rare-effect]]`
 
 | dice: d8 | Very Rare Effect |
 |----------|------------------|

@@ -44,7 +44,7 @@ Write your True Name into the book. While you are attuned to the book, you have 
 
 The codex miror remembers a time when magic was much...friskier. Whenever you cast a spell on a creature, there's a 5% chance one of the following effects occurs (determined randomly).
 
-`dice: [[Codex Miror (SAF).md#^result]]`
+`dice: [[/5. Mechanics/Items/Codex Miror (SAF).md#^result]]`
 
 | dice: d100 | Result |
 |------------|--------|

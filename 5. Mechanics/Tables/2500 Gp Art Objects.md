@@ -11,11 +11,11 @@ aliases:
 
 **2,500 gp Art Objects**
 
-`dice: [[2500 Gp Art Objects.md#^2500-gp-art-objects]]`
+`dice: [[/5. Mechanics/Tables/2500 Gp Art Objects.md#^2500-gp-art-objects]]`
 
 | dice: d10 | Object |
 |-----------|--------|
-| 1 | [[/5. Mechanics/Items/Fine Gold Chain Set With A Fire Op(AL).md\|Fine gold chain set with a fire opal]] |
+| 1 | [[/5. Mechanics/Items/Fine Gold Chain Set With A Fire Opal.md\|Fine gold chain set with a fire opal]] |
 | 2 | [[/5. Mechanics/Items/Old Masterpiece Painting.md\|Old masterpiece painting]] |
 | 3 | [[/5. Mechanics/Items/Embroidered Silk And Velvet Mantle Set With Numerous Moonstones.md\|Embroidered silk and velvet mantle set with numerous moonstones]] |
 | 4 | [[/5. Mechanics/Items/Platinum Bracelet Set With A Sapphire.md\|Platinum bracelet set with a sapphire]] |

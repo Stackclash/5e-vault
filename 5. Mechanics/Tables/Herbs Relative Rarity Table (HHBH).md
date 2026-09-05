@@ -9,7 +9,7 @@ aliases:
 # Herb's Relative Rarity Table
 *Source: Hamund's Herbalism Handbook p. 3* 
 
-`dice: [[Herbs Relative Rarity Table (HHBH).md#^herbs-table-position-roll]]`
+`dice: [[/5. Mechanics/Tables/Herbs Relative Rarity Table (HHBH).md#^herbs-table-position-roll]]`
 
 | dice: d100 | Herb's Table Position | d100 roll |
 |------------|-----------------------|-----------|

@@ -8,7 +8,7 @@ aliases:
   - Way of the Meridian
 ---
 # Way of the Meridian
-*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[/5. Mechanics/Classes/Monk.md\|Monk]]: Monastic Tradition*  
 *Source: The Griffon's Saddlebag, Book 3 p. 1*  
 
 > [!tldr] Class and Feature Progression

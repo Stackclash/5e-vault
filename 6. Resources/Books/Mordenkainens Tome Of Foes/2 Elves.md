@@ -746,6 +746,15 @@ At the DM's discretion, you have access to more subraces for elf characters, in 
 - [[/5. Mechanics/Races/Sea Elf (MPMM).md\|Elf (Sea)]]  
 - [[/5. Mechanics/Races/Shadar Kai (MPMM).md\|Elf (Shadar-kai)]]  
 
+> [!embed-race]- Elf (Eladrin)
+> ![[/5. Mechanics/Races/Eladrin (MPMM).md\|Elf (Eladrin)]]
+
+> [!embed-race]- Elf (Sea)
+> ![[/5. Mechanics/Races/Sea Elf (MPMM).md\|Elf (Sea)]]
+
+> [!embed-race]- Elf (Shadar-kai)
+> ![[/5. Mechanics/Races/Shadar Kai (MPMM).md\|Elf (Shadar-kai)]]
+
 ### Elf Random Height and Weight
 
 ![[/5. Mechanics/Tables/Elf Random Height And Weight (MTF).md\|Elf Random Height and Weight]]

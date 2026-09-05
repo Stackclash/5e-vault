@@ -202,7 +202,7 @@ aliases:
 - [[/5. Mechanics/Spells/Chain Lightning.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Contingency.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Fault Line (KPDM).md \|"KPDM"]]
-- [[/5. Mechanics/Spells/He(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Heal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Life Drain (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Otilukes Freezing Sphere.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Smiting Arrow (KPDM).md \|"KPDM"]]
@@ -241,8 +241,8 @@ aliases:
 ## 9th Level
 
 - [[/5. Mechanics/Spells/Circle Of Devastation (KPDM).md \|"KPDM"]]
-- [[/5. Mechanics/Spells/Mass He(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Mass Heal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Meteor Swarm.md \|"PHB"]]
-- [[/5. Mechanics/Spells/Power Word He(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Power Word Heal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Pyroclasm (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Void Rift (KPDM).md \|"KPDM"]]

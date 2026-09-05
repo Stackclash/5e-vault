@@ -11,7 +11,7 @@ aliases:
 
 **Humanoids**
 
-`dice: [[Monsters Desires Humanoids (TCE).md#^humanoids]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Humanoids (TCE).md#^humanoids]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

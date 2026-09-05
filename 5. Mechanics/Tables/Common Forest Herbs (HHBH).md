@@ -9,7 +9,7 @@ aliases:
 # Common Forest Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 
 
-`dice: [[Common Forest Herbs (HHBH).md#^herb]]`
+`dice: [[/5. Mechanics/Tables/Common Forest Herbs (HHBH).md#^herb]]`
 
 | dice: d6 | Herb |
 |----------|------|

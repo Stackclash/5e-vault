@@ -11,7 +11,7 @@ aliases:
 
 **Avoiding Strahd**
 
-`dice: [[Connection To Strahd Avoiding Strahd (VRGR).md#^avoiding-strahd]]`
+`dice: [[/5. Mechanics/Tables/Connection To Strahd Avoiding Strahd (VRGR).md#^avoiding-strahd]]`
 
 | dice: d8 | Concealment |
 |----------|-------------|

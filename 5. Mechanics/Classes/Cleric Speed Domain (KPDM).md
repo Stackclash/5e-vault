@@ -9,7 +9,7 @@ aliases:
   - Speed Domain
 ---
 # Speed Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Deep Magic p. 133*  
 
 > [!tldr] Class and Feature Progression

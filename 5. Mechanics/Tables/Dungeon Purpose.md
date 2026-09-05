@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon Purpose**
 
-`dice: [[Dungeon Purpose.md#^dungeon-purpose]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Purpose.md#^dungeon-purpose]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

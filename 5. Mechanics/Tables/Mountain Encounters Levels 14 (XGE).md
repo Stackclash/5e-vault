@@ -11,7 +11,7 @@ aliases:
 
 **Mountain Encounters (Levels 1—4)**
 
-`dice: [[Mountain Encounters Levels 14 (XGE).md#^mountain-encounters-levels-14]]`
+`dice: [[/5. Mechanics/Tables/Mountain Encounters Levels 14 (XGE).md#^mountain-encounters-levels-14]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -42,7 +42,7 @@ aliases:
 | 63-64 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]] |
 | 65-67 | Enormous footprints left by a giant, which head into the mountain peaks |
 | 68-73 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
-| 74-75 | 1 [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] |
+| 74-75 | 1 [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|giant elk]] |
 | 76-77 | 1 [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veteran]] |
 | 78-79 | 1 [[/5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md\|orc Eye of Gruumsh]] |
 | 80 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Harpy.md\|harpies]] |
@@ -55,7 +55,7 @@ aliases:
 | 92 | 1 [[/5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclops]] |
 | 93 | 1 [[/5. Mechanics/Bestiary/Giant/Troll.md\|troll]] |
 | 94 | 1 [[/5. Mechanics/Bestiary/Elemental/Galeb Duhr.md\|galeb duhr]] |
-| 95 | 1 [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elemental]] |
+| 95 | 1 [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]] |
 | 96 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Bulette.md\|bulette]] |
 | 97 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Chimera.md\|chimera]] |
 | 98 | 1 [[/5. Mechanics/Bestiary/Dragon/Wyvern.md\|wyvern]] |

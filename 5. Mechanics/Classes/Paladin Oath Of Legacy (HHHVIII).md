@@ -8,7 +8,7 @@ aliases:
   - Oath of Legacy
 ---
 # Oath of Legacy
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 114*  
 
 > [!tldr] Class and Feature Progression

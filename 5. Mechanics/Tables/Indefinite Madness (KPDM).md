@@ -9,7 +9,7 @@ aliases:
 # Indefinite Madness
 *Source: Deep Magic p. 334* 
 
-`dice: [[Indefinite Madness (KPDM).md#^flaw-lasts-until-cured]]`
+`dice: [[/5. Mechanics/Tables/Indefinite Madness (KPDM).md#^flaw-lasts-until-cured]]`
 
 | dice: d10 | Flaw (lasts until cured) |
 |-----------|--------------------------|

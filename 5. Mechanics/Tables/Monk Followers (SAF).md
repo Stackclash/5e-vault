@@ -11,7 +11,7 @@ aliases:
 
 **Monk Followers**
 
-`dice: [[Monk Followers (SAF).md#^monk-followers]]`
+`dice: [[/5. Mechanics/Tables/Monk Followers (SAF).md#^monk-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

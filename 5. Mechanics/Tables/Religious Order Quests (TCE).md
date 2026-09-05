@@ -11,7 +11,7 @@ aliases:
 
 **Religious Order Quests**
 
-`dice: [[Religious Order Quests (TCE).md#^religious-order-quests]]`
+`dice: [[/5. Mechanics/Tables/Religious Order Quests (TCE).md#^religious-order-quests]]`
 
 | dice: d6 | Quest |
 |----------|-------|

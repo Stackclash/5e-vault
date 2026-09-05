@@ -11,7 +11,7 @@ aliases:
 
 **Gothic Horror Torments**
 
-`dice: [[Gothic Horror Torments (VRGR).md#^gothic-horror-torments]]`
+`dice: [[/5. Mechanics/Tables/Gothic Horror Torments (VRGR).md#^gothic-horror-torments]]`
 
 | dice: d8 | Torment |
 |----------|---------|

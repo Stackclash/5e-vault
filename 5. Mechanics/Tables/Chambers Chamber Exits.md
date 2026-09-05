@@ -11,7 +11,7 @@ aliases:
 
 **Chamber Exits**
 
-`dice: [[Chambers Chamber Exits.md#^chamber-exits]]`
+`dice: [[/5. Mechanics/Tables/Chambers Chamber Exits.md#^chamber-exits]]`
 
 | dice: d20 | Normal Chamber | Large Chamber |
 |-----------|----------------|---------------|

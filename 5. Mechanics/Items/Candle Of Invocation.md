@@ -26,7 +26,7 @@ await dv.view("views/itemPrice", {current: dv.current()})
 
 This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the [[/5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] spell. The DM chooses the god and associated alignment or determines the alignment randomly.
 
-`dice: [[Candle Of Invocation.md#^alignment]]`
+`dice: [[/5. Mechanics/Items/Candle Of Invocation.md#^alignment]]`
 
 | dice: d20 | Alignment |
 |-----------|-----------|

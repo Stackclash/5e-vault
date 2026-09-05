@@ -9,7 +9,7 @@ aliases:
   - Chain Domain
 ---
 # Chain Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: The Griffon's Saddlebag, Book 4*  
 
 > [!tldr] Class and Feature Progression

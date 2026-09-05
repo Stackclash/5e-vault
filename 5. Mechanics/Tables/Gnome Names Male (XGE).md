@@ -11,7 +11,7 @@ aliases:
 
 **Gnome Names – Male**
 
-`dice: [[Gnome Names Male (XGE).md#^gnome-names-male]]`
+`dice: [[/5. Mechanics/Tables/Gnome Names Male (XGE).md#^gnome-names-male]]`
 
 | dice: d100 | Name |
 |------------|------|

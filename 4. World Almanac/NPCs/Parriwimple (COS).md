@@ -13,24 +13,24 @@ aliases:
   - Parriwimple
 alignment: Lawful Good
 description: >-
-  Parriwimple — his real name is Parpol Cantemir, though no one in the
-  village calls him that — is Bildrath Cantemir's nephew and the stock-boy
-  at Bildrath's Mercantile in the village of Barovia. Built like a
-  gladiator and simple of mind, he's summoned whenever his uncle needs
-  muscle to handle difficult customers.
+  Parriwimple — his real name is Parpol Cantemir, though no one in the village
+  calls him that — is Bildrath Cantemir's nephew and the stock-boy at Bildrath's
+  Mercantile in the village of Barovia. Built like a gladiator and simple of
+  mind, he's summoned whenever his uncle needs muscle to handle difficult
+  customers.
 history: >-
-  Parriwimple has worked his uncle's shop for as long as anyone in the
-  village can remember, hauling stock and doing whatever labor Bildrath
-  can't or won't do himself. His imposing frame and quiet devotion make him
-  an effective deterrent against troublemakers, even though his mind is
-  better suited to simple, repetitive tasks than to shrewd bargaining. He
-  rarely leaves Bildrath's side and won't chase down anyone who leaves the
-  shop so long as his uncle has nothing further to say about it.
+  Parriwimple has worked his uncle's shop for as long as anyone in the village
+  can remember, hauling stock and doing whatever labor Bildrath can't or won't
+  do himself. His imposing frame and quiet devotion make him an effective
+  deterrent against troublemakers, even though his mind is better suited to
+  simple, repetitive tasks than to shrewd bargaining. He rarely leaves
+  Bildrath's side and won't chase down anyone who leaves the shop so long as his
+  uncle has nothing further to say about it.
 relationships: []
 partyRelationships: {}
 location: null
 pronounced: PAIR-ee-WIM-pull
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 26
 occupation:
@@ -38,13 +38,23 @@ occupation:
   - Shop Muscle
 groups: []
 religions: []
-personality: 'Good-natured, simple-minded, fiercely loyal to his uncle; slow to anger but frightening once provoked'
+personality: >-
+  Good-natured, simple-minded, fiercely loyal to his uncle; slow to anger but
+  frightening once provoked
 ideal: Family looks out for family.
-bond: His uncle Bildrath is the only family he has left; he'd do anything to protect the man's business.
-flaw: His limited wit makes him easy to manipulate or trick, especially with kindness he isn't used to receiving.
-goals: To keep Bildrath's Mercantile safe from trouble, and to be seen as more than "just muscle."
-likes: "His uncle's approval, simple tasks he can master, being useful"
-dislikes: "Being talked down to, strangers who threaten Bildrath, complicated instructions"
+bond: >-
+  His uncle Bildrath is the only family he has left; he'd do anything to protect
+  the man's business.
+flaw: >-
+  His limited wit makes him easy to manipulate or trick, especially with
+  kindness he isn't used to receiving.
+goals: >-
+  To keep Bildrath's Mercantile safe from trouble, and to be seen as more than
+  "just muscle."
+likes: 'His uncle''s approval, simple tasks he can master, being useful'
+dislikes: >-
+  Being talked down to, strangers who threaten Bildrath, complicated
+  instructions
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -76,9 +86,7 @@ dislikes: "Being talked down to, strangers who threaten Bildrath, complicated in
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 43*
 
-When customers give Bildrath Cantemir a hard time at [[4. World Almanac/Shops/Bildrath's Mercantile.md|Bildrath's Mercantile]], he calls on his nephew and stock-boy, Parriwimple, to sort things out. Built like a gladiator — though lacking a shield and, by his own admission, much of a mind for anything complicated — Parriwimple's rippling muscles are usually all the persuasion a situation requires.
-
-His real name is Parpol Cantemir, but no one in the village calls him that anymore. Simple-minded but devoted, he won't follow characters who leave the shop so long as Bildrath has nothing further to say about it.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

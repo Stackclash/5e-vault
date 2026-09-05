@@ -11,7 +11,7 @@ aliases:
 
 **Duergar Special Allies**
 
-`dice: [[Duergar Raiding Parties Duergar Special Allies (MTF).md#^duergar-special-allies]]`
+`dice: [[/5. Mechanics/Tables/Duergar Raiding Parties Duergar Special Allies (MTF).md#^duergar-special-allies]]`
 
 | dice: d20 | Allies |
 |-----------|--------|
@@ -24,7 +24,7 @@ aliases:
 | 12 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Fiend/Bearded Devil.md\|bearded devils]] bound to service |
 | 13 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) allied evil [[/5. Mechanics/Bestiary/Elemental/Azer.md\|azers]] |
 | 14 | `dice:3d20\|noform\|noparens\|avg` (`3d20`) enslaved [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] |
-| 15 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) summoned [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elementals]] |
+| 15 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) summoned [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elementals]] |
 | 16 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Elemental/Gargoyle.md\|gargoyles]] |
 | 17 | `dice:1d8\|noform\|noparens\|avg` (`1d8`) [[/5. Mechanics/Bestiary/Fiend/Hell Hound.md\|hell hounds]] |
 | 18 | 1 trained [[/5. Mechanics/Bestiary/Monstrosity/Rust Monster.md\|rust monster]] |

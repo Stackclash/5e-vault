@@ -9,7 +9,7 @@ aliases:
 # Giff Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume III p. 47* 
 
-`dice: [[Giff Trinket Table (HHHVIII).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Giff Trinket Table (HHHVIII).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

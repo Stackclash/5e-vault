@@ -8,7 +8,7 @@ aliases:
   - Way of the Sun Soul
 ---
 # Way of the Sun Soul
-*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[/5. Mechanics/Classes/Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Xanathar's Guide to Everything p. 35*  
 
 > [!tldr] Class and Feature Progression

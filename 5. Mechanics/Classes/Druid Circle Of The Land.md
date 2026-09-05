@@ -8,7 +8,7 @@ aliases:
   - Circle of the Land
 ---
 # Circle of the Land
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Player's Handbook p. 68. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
@@ -78,9 +78,9 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[/5. Mechanics/Spells/Misty Step.md\|misty step]] |
-| 5th | [[/5. Mechanics/Spells/Water Breathing.md\|water breathing]], [[/5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
+| 5th | [[/5. Mechanics/Spells/Water Breathing.md\|water breathing]], [[/5. Mechanics/Spells/Water Walk.md\|water walk]] |
 | 7th | [[/5. Mechanics/Spells/Control Water.md\|control water]], [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] |
-| 9th | [[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]], [[/5. Mechanics/Spells/Scrying.md\|scrying]] |
+| 9th | [[/5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]], [[/5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^coast
 
 **Desert**
@@ -128,7 +128,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | [[/5. Mechanics/Spells/Darkness.md\|darkness]], [[/5. Mechanics/Spells/Melfs Acid Arrow.md\|Melf's acid arrow]] |
-| 5th | [[/5. Mechanics/Spells/Water Wa(LK).md\|water walk]], [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
+| 5th | [[/5. Mechanics/Spells/Water Walk.md\|water walk]], [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
 | 7th | [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[/5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
 | 9th | [[/5. Mechanics/Spells/Insect Plague.md\|insect plague]], [[/5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^swamp

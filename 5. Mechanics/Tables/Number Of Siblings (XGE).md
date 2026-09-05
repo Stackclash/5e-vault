@@ -11,7 +11,7 @@ aliases:
 
 **Number of Siblings**
 
-`dice: [[Number Of Siblings (XGE).md#^number-of-siblings]]`
+`dice: [[/5. Mechanics/Tables/Number Of Siblings (XGE).md#^number-of-siblings]]`
 
 | dice: d10 | Siblings |
 |-----------|----------|

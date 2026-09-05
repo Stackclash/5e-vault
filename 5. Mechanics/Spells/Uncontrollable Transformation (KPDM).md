@@ -46,7 +46,7 @@ You infuse your body with raw chaos and will it to adopt a helpful mutation. Rol
 
 **Uncontrollable Transformation**
 
-`dice: [[Uncontrollable Transformation (KPDM).md#^uncontrollable-transformation]]`
+`dice: [[/5. Mechanics/Spells/Uncontrollable Transformation (KPDM).md#^uncontrollable-transformation]]`
 
 | dice: d10 | Mutation |
 |-----------|----------|

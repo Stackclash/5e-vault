@@ -8,7 +8,7 @@ aliases:
   - Angler
 ---
 # Angler
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: The Griffon's Saddlebag, Book 3*  
 
 > [!tldr] Class and Feature Progression
@@ -57,7 +57,7 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 |--------------|--------|
 | 3rd | [[/5. Mechanics/Spells/Entangle.md\|entangle]] (looks like a large fishing net) |
 | 5th | [[/5. Mechanics/Spells/Rope Trick.md\|rope trick]] |
-| 9th | [[/5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
+| 9th | [[/5. Mechanics/Spells/Water Walk.md\|water walk]] |
 | 13th | [[/5. Mechanics/Spells/Evards Black Tentacles.md\|evard's black tentacles]] |
 | 17th | [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^angler-spells

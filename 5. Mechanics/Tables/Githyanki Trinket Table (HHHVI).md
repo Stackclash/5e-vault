@@ -9,7 +9,7 @@ aliases:
 # Githyanki Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 54* 
 
-`dice: [[Githyanki Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Githyanki Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

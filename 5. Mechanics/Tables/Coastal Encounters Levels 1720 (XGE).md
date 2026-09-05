@@ -11,7 +11,7 @@ aliases:
 
 **Coastal Encounters (Levels 17—20)**
 
-`dice: [[Coastal Encounters Levels 1720 (XGE).md#^coastal-encounters-levels-1720]]`
+`dice: [[/5. Mechanics/Tables/Coastal Encounters Levels 1720 (XGE).md#^coastal-encounters-levels-1720]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

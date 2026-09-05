@@ -31,7 +31,7 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 
 **Blackguard Accoutrements**
 
-`dice: [[Blackguard (MPMM).md#^blackguard-accoutrements]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/Blackguard (MPMM).md#^blackguard-accoutrements]]`
 
 | dice: d8 | Accoutrement |
 |----------|--------------|

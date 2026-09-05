@@ -25,7 +25,7 @@ You have been harvesting creatures for a long time and as part of that, you have
 
 Harvesters are an odd bunch; half outdoorsman, half entrepreneur. As someone who spends most of their time in the hunting and being elbow deep in dead bodies, you probably have a different worldview compared to most.
 
-`dice: [[Harvester (HHHVI).md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Harvester (HHHVI).md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -39,7 +39,7 @@ Harvesters are an odd bunch; half outdoorsman, half entrepreneur. As someone who
 | 8 | I have a myriad of harvested trophies from rare game which I show off whenever possible. |
 ^personality-trait
 
-`dice: [[Harvester (HHHVI).md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Harvester (HHHVI).md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -51,7 +51,7 @@ Harvesters are an odd bunch; half outdoorsman, half entrepreneur. As someone who
 | 6 | **Money.** People always want hides, pelts, and skins; I may as well be the one to profit off it. (Any) |
 ^ideal
 
-`dice: [[Harvester (HHHVI).md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Harvester (HHHVI).md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -63,7 +63,7 @@ Harvesters are an odd bunch; half outdoorsman, half entrepreneur. As someone who
 | 6 | Harvesting creatures has been my family's profession for generations; I'm just continuing this long line of tradition. |
 ^bond
 
-`dice: [[Harvester (HHHVI).md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Harvester (HHHVI).md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

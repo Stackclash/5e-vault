@@ -9,7 +9,7 @@ aliases:
 # Reskinning Fireball
 *Source: Deep Magic p. 352* 
 
-`dice: [[Reskinning Fireball (KPDM).md#^appearance-damage-type]]`
+`dice: [[/5. Mechanics/Tables/Reskinning Fireball (KPDM).md#^appearance-damage-type]]`
 
 | dice: d20 | Appearance | Damage Type |
 |-----------|------------|-------------|

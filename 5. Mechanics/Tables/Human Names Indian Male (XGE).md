@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Indian, Male**
 
-`dice: [[Human Names Indian Male (XGE).md#^human-names-indian-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Indian Male (XGE).md#^human-names-indian-male]]`
 
 | dice: d100 | Name |
 |------------|------|

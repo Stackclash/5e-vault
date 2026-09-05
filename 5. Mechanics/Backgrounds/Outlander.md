@@ -25,7 +25,7 @@ You have an excellent memory for maps and geography, and you can always recall t
 
 You've been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.
 
-`dice: [[Outlander.md#^origin]]`
+`dice: [[/5. Mechanics/Backgrounds/Outlander.md#^origin]]`
 
 | dice: d10 | Origin |
 |-----------|--------|
@@ -45,7 +45,7 @@ You've been to strange places and seen things that others cannot begin to fathom
 
 Often considered rude and uncouth among civilized folk, outlanders have little respect for the niceties of life in the cities. The ties of tribe, clan, family, and the natural world of which they are a part are the most important bonds to most outlanders.
 
-`dice: [[Outlander.md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Outlander.md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -59,7 +59,7 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 8 | I was, in fact, raised by wolves. |
 ^personality-trait
 
-`dice: [[Outlander.md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Outlander.md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -71,7 +71,7 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 6 | Glory. I must earn glory in battle, for myself and my clan. (Any) |
 ^ideal
 
-`dice: [[Outlander.md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Outlander.md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -83,7 +83,7 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 6 | It is my duty to provide children to sustain my tribe. |
 ^bond
 
-`dice: [[Outlander.md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Outlander.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

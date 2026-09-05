@@ -8,7 +8,7 @@ aliases:
   - Alkemancer
 ---
 # Alkemancer
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 167*  
 
 > [!tldr] Class and Feature Progression

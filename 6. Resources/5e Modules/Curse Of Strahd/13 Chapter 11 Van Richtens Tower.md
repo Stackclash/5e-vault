@@ -84,7 +84,7 @@ The interior of the wagon contains the following items:
 - A set of copper pots and pans (worth 50 gp)  
 - Three sets of [[/5. Mechanics/Items/Manacles.md\|manacles]]  
 - A [[/5. Mechanics/Items/Shovel.md\|shovel]]  
-- A wooden chest containing a gold [[/5. Mechanics/Items/Holy Symbol.md\|holy symbol]] of the Morninglord (worth 100 gp), three [[/5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], three vials of perfume, two vials of [[/5. Mechanics/Items/Antitoxin Vi(AL).md\|antitoxin]], a [[/5. Mechanics/Items/Hempen Rope 50 F(EET).md\|50-foot coil of hempen rope]], a [[/5. Mechanics/Items/Tinderbox.md\|tinderbox]], a [[/5. Mechanics/Items/Steel Mirror.md\|steel mirror]], a sharpened wooden stake, and a [[/5. Mechanics/Items/Spyglass.md\|spyglass]]  
+- A wooden chest containing a gold [[/5. Mechanics/Items/Holy Symbol.md\|holy symbol]] of the Morninglord (worth 100 gp), three [[/5. Mechanics/Items/Holy Water Flask.md\|vials of holy water]], three vials of perfume, two vials of [[/5. Mechanics/Items/Antitoxin Vial.md\|antitoxin]], a [[/5. Mechanics/Items/Hempen Rope 50 Feet.md\|50-foot coil of hempen rope]], a [[/5. Mechanics/Items/Tinderbox.md\|tinderbox]], a [[/5. Mechanics/Items/Steel Mirror.md\|steel mirror]], a sharpened wooden stake, and a [[/5. Mechanics/Items/Spyglass.md\|spyglass]]  
 - Two [[/5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[/5. Mechanics/Spells/Major Image.md\|major image]] and [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]])  
 - A map of Barovia (showing all the locations marked on this adventure's map of Barovia)  
 - A charred page from van Richten's journal (show the players "Journal of Rudolph van Richten" in appendix F).  

@@ -11,7 +11,7 @@ aliases:
 
 **Sovereign Contact**
 
-`dice: [[Sovereign Contact (TCE).md#^sovereign-contact]]`
+`dice: [[/5. Mechanics/Tables/Sovereign Contact (TCE).md#^sovereign-contact]]`
 
 | dice: d6 | Contact |
 |----------|---------|

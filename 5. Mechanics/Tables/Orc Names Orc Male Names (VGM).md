@@ -11,7 +11,7 @@ aliases:
 
 **Orc Male Names**
 
-`dice: [[Orc Names Orc Male Names (VGM).md#^orc-male-names]]`
+`dice: [[/5. Mechanics/Tables/Orc Names Orc Male Names (VGM).md#^orc-male-names]]`
 
 | dice: d12 | Name |
 |-----------|------|

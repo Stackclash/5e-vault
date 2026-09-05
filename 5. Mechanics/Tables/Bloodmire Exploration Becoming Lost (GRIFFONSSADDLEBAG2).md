@@ -9,7 +9,7 @@ aliases:
 # Bloodmire Exploration; Becoming Lost
 *Source: The Griffon's Saddlebag, Book 2 p. 251* 
 
-`dice: [[Bloodmire Exploration Becoming Lost (GRIFFONSSADDLEBAG2).md#^setback]]`
+`dice: [[/5. Mechanics/Tables/Bloodmire Exploration Becoming Lost (GRIFFONSSADDLEBAG2).md#^setback]]`
 
 | dice: d6 | Setback |
 |----------|---------|

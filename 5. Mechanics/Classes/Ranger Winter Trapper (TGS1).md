@@ -8,7 +8,7 @@ aliases:
   - Winter Trapper
 ---
 # Winter Trapper
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: The Griffon's Saddlebag, Book 1 p. 164*  
 
 > [!tldr] Class and Feature Progression

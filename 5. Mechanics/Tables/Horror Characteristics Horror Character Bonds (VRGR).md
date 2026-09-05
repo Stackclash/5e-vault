@@ -11,7 +11,7 @@ aliases:
 
 **Horror Character Bonds**
 
-`dice: [[Horror Characteristics Horror Character Bonds (VRGR).md#^horror-character-bonds]]`
+`dice: [[/5. Mechanics/Tables/Horror Characteristics Horror Character Bonds (VRGR).md#^horror-character-bonds]]`
 
 | dice: d12 | Bond |
 |-----------|------|

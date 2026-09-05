@@ -8,7 +8,7 @@ aliases:
   - Ring Warden
 ---
 # Ring Warden
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 234*  
 
 > [!tldr] Class and Feature Progression

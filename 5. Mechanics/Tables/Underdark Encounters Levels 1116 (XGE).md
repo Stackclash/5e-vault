@@ -11,7 +11,7 @@ aliases:
 
 **Underdark Encounters (Levels 11—16)**
 
-`dice: [[Underdark Encounters Levels 1116 (XGE).md#^underdark-encounters-levels-1116]]`
+`dice: [[/5. Mechanics/Tables/Underdark Encounters Levels 1116 (XGE).md#^underdark-encounters-levels-1116]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -27,12 +27,12 @@ aliases:
 | 19-20 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimics]] |
 | 21-25 | A 100-foot-long ravine, `dice:4d10\|noform\|noparens\|avg` (`4d10`) feet wide and `dice:5d20+200\|noform\|noparens\|avg` (`5d20 + 200`) feet deep |
 | 26-27 | 1 [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captain]] with `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
-| 28-29 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Aberration/Specta(TOR).md\|spectators]] |
+| 28-29 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Aberration/Spectator.md\|spectators]] |
 | 30-31 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] |
 | 32-33 | `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Aberration/Intellect Devourer.md\|intellect devourers]] |
 | 34-35 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md\|orc Eyes of Gruumsh]] with `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Orog.md\|orogs]] and `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
 | 36-40 | A large cave containing `dice:2d10\|noform\|noparens\|avg` (`2d10`) extraordinarily detailed statues of various creatures |
-| 41-42 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Moni(TOR).md\|kuo-toa monitors]] |
+| 41-42 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Monitor.md\|kuo-toa monitors]] |
 | 43-44 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Elemental/Water Weird.md\|water weirds]] |
 | 45-46 | `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Monstrosity/Grick.md\|gricks]] |
 | 47-48 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Aberration/Nothic.md\|nothics]] |
@@ -54,12 +54,12 @@ aliases:
 | 69 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Aberration/Otyugh.md\|otyughs]] |
 | 70 | `dice:1d6+1\|noform\|noparens\|avg` (`1d6 + 1`) [[/5. Mechanics/Bestiary/Undead/Beholder Zombie.md\|beholder zombies]] |
 | 71 | `dice:4d4\|noform\|noparens\|avg` (`4d4`) [[/5. Mechanics/Bestiary/Monstrosity/Hook Horror.md\|hook horrors]] |
-| 72 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Umber Hu(LK).md\|umber hulks]] |
+| 72 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Umber Hulk.md\|umber hulks]] |
 | 73 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Elemental/Salamander.md\|salamanders]] |
 | 74 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Grick Alpha.md\|grick alphas]] |
 | 75 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Elemental/Xorn.md\|xorn]] |
 | 76-80 | A ruined village that once belonged to deep gnomes. A search has a 50% chance of uncovering `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Items/Potion Of Healing.md\|potions of healing]] and a 25% chance of finding a random common magic item |
-| 81 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elementals]] |
+| 81 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elementals]] |
 | 82 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md\|spirit nagas]] |
 | 83 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclopes]] |
 | 84 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] |

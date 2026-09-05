@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Humanoid Skin Color**
 
-`dice: [[Physical Variations Yuan Ti Humanoid Skin Color (VGM).md#^yuan-ti-humanoid-skin-color]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Yuan Ti Humanoid Skin Color (VGM).md#^yuan-ti-humanoid-skin-color]]`
 
 | dice: d20 | Humanoid Skin Color |
 |-----------|---------------------|

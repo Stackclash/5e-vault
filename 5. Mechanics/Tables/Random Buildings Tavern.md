@@ -11,7 +11,7 @@ aliases:
 
 **Tavern**
 
-`dice: [[Random Buildings Tavern.md#^tavern]]`
+`dice: [[/5. Mechanics/Tables/Random Buildings Tavern.md#^tavern]]`
 
 | dice: d20 | Type |
 |-----------|------|

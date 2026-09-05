@@ -11,7 +11,7 @@ aliases:
 
 **Gnoll Names**
 
-`dice: [[Gnoll Names (VGM).md#^gnoll-names]]`
+`dice: [[/5. Mechanics/Tables/Gnoll Names (VGM).md#^gnoll-names]]`
 
 | dice: d12 | Name |
 |-----------|------|

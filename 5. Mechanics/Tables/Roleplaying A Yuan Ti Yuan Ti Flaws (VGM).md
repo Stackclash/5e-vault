@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Flaws**
 
-`dice: [[Roleplaying A Yuan Ti Yuan Ti Flaws (VGM).md#^yuan-ti-flaws]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Flaws (VGM).md#^yuan-ti-flaws]]`
 
 | dice: d6 | Flaw |
 |----------|------|

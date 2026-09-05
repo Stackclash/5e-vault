@@ -11,7 +11,7 @@ aliases:
 
 **Notable Traits**
 
-`dice: [[Random Settlements Notable Traits.md#^notable-traits]]`
+`dice: [[/5. Mechanics/Tables/Random Settlements Notable Traits.md#^notable-traits]]`
 
 | dice: d20 | Trait |
 |-----------|-------|

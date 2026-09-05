@@ -11,7 +11,7 @@ aliases:
 
 **NPC Low Abilities**
 
-`dice: [[Npc Low Abilities.md#^npc-low-abilities]]`
+`dice: [[/5. Mechanics/Tables/Npc Low Abilities.md#^npc-low-abilities]]`
 
 | dice: d6 | Low Ability |
 |----------|-------------|

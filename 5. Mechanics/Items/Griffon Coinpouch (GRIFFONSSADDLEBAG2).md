@@ -29,7 +29,7 @@ This stylized purse is sewn and stitched in the style of [[/5. Mechanics/Items/T
 
 At the GM's discretion, a small slip of parchment can be found folded among the coins inside. The parchment can have anything on it, although it usually carries enigmatic warnings or peculiar words of guidance. The GM can write their own notes, or you can roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the table below to determine what the parchment says:
 
-`dice: [[Griffon Coinpouch (GRIFFONSSADDLEBAG2).md#^message]]`
+`dice: [[/5. Mechanics/Items/Griffon Coinpouch (GRIFFONSSADDLEBAG2).md#^message]]`
 
 | dice: d8 | Message |
 |----------|---------|

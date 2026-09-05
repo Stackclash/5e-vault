@@ -9,7 +9,7 @@ aliases:
   - Festus Domain
 ---
 # Festus Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: The Griffon's Saddlebag, Book 2 p. 212*  
 
 > [!tldr] Class and Feature Progression
@@ -57,7 +57,7 @@ You gain domain spells at the cleric levels listed in the Festus Domain Spells t
 | Cleric Level | Spells |
 |--------------|--------|
 | 1st | [[/5. Mechanics/Spells/Goodberry.md\|goodberry]], [[/5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]] |
-| 3rd | [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[/5. Mechanics/Spells/Protection From Poison.md\|protection from poison]] |
+| 3rd | [[/5. Mechanics/Spells/Heat Metal.md\|heat metal]], [[/5. Mechanics/Spells/Protection From Poison.md\|protection from poison]] |
 | 5th | [[/5. Mechanics/Spells/Create Food And Water.md\|create food and water]], [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
 | 7th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Control Water.md\|control water]] |
 | 9th | [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]], [[/5. Mechanics/Spells/Contagion.md\|contagion]] |

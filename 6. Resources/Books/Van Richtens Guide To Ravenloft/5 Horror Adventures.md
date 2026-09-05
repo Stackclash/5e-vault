@@ -365,15 +365,18 @@ Provided here are several example curses and the circumstances surrounding them.
 
 ## Fear and Stress
 
-See the [[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md\|Fear and Stress]] entry.
+> [!embed-variantrule]- Fear and Stress
+> ![[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md\|Fear and Stress]]
 
 ## Haunted Traps
 
-See the [[/5. Mechanics/Rules/Variant Rules/Haunted Traps (VRGR).md\|Haunted Traps]] entry.
+> [!embed-variantrule]- Haunted Traps
+> ![[/5. Mechanics/Rules/Variant Rules/Haunted Traps (VRGR).md\|Haunted Traps]]
 
 ## Survivors
 
-See the [[/5. Mechanics/Rules/Variant Rules/Survivors (VRGR).md\|Survivors]] entry.
+> [!embed-variantrule]- Survivors
+> ![[/5. Mechanics/Rules/Variant Rules/Survivors (VRGR).md\|Survivors]]
 
 ## The House of Lament
 

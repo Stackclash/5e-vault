@@ -11,7 +11,7 @@ aliases:
 
 **Scale Pattern**
 
-`dice: [[Physical Variations Scale Pattern (VGM).md#^scale-pattern]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Scale Pattern (VGM).md#^scale-pattern]]`
 
 | dice: d20 | Scale Pattern |
 |-----------|---------------|

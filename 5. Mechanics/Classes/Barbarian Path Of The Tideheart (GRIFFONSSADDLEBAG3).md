@@ -8,7 +8,7 @@ aliases:
   - Path of the Tideheart
 ---
 # Path of the Tideheart
-*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[/5. Mechanics/Classes/Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: The Griffon's Saddlebag, Book 3*  
 
 > [!tldr] Class and Feature Progression

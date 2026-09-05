@@ -26,7 +26,7 @@ You have a military rank from your career as a soldier. Soldiers loyal to your f
 
 During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:
 
-`dice: [[Soldier.md#^role]]`
+`dice: [[/5. Mechanics/Backgrounds/Soldier.md#^role]]`
 
 | dice: d8 | Role |
 |----------|------|
@@ -44,7 +44,7 @@ During your time as a soldier, you had a specific role to play in your unit or a
 
 The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and vulnerable to fear, shame, and hatred.
 
-`dice: [[Soldier.md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Soldier.md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -58,7 +58,7 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 8 | I face problems head-on. A simple, direct solution is the best path to success. |
 ^personality-trait
 
-`dice: [[Soldier.md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Soldier.md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -70,7 +70,7 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 6 | Nation. My city, nation, or people are all that matter. (Any) |
 ^ideal
 
-`dice: [[Soldier.md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Soldier.md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -82,7 +82,7 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 6 | I fight for those who cannot fight for themselves. |
 ^bond
 
-`dice: [[Soldier.md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Soldier.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

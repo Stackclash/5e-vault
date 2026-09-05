@@ -11,7 +11,7 @@ aliases:
 
 **Individual Treasure: Challenge 0—4**
 
-`dice: [[Individual Treasure Challenge 04.md#^individual-treasure-challenge-04]]`
+`dice: [[/5. Mechanics/Tables/Individual Treasure Challenge 04.md#^individual-treasure-challenge-04]]`
 
 | dice: d100 | CP | SP | EP | GP | PP |
 |------------|----|----|----|----|----|

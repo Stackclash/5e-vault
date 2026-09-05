@@ -11,7 +11,7 @@ aliases:
 
 **Darkon Rivals**
 
-`dice: [[Darkon Rivals (VRGR).md#^darkon-rivals]]`
+`dice: [[/5. Mechanics/Tables/Darkon Rivals (VRGR).md#^darkon-rivals]]`
 
 | dice: d6 | Rival |
 |----------|-------|

@@ -61,7 +61,7 @@ You start with the following items, plus anything provided by your background.
 
 - (a) a wooden [[/5. Mechanics/Items/Shield.md\|shield]] or (b) any simple weapon
 - (a) a [[/5. Mechanics/Items/Scimitar.md\|scimitar]] or (b) any simple melee weapon
-- [[/5. Mechanics/Items/Leather Armor.md\|Leather armor]], an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and a [[/5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]]
+- [[/5. Mechanics/Items/Leather Armor.md\|Leather armor]], an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and a [[/5. Mechanics/Items/Druidic Focus.md\|druidic focus]]
 
 Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
@@ -146,7 +146,7 @@ When you decide what your character's treasured item is, think about giving it a
 
 **Treasured Item**
 
-`dice: [[Druid.md#^treasured-item]]`
+`dice: [[/5. Mechanics/Classes/Druid.md#^treasured-item]]`
 
 | dice: d6 | Treasured Item |
 |----------|----------------|
@@ -165,7 +165,7 @@ Many druids feel a strong link to a specific aspect of the natural world, such a
 
 **Guiding Aspects**
 
-`dice: [[Druid.md#^guiding-aspects]]`
+`dice: [[/5. Mechanics/Classes/Druid.md#^guiding-aspects]]`
 
 | dice: d6 | Guiding Aspects |
 |----------|-----------------|
@@ -186,7 +186,7 @@ If your character received training from someone else, who or what was that indi
 
 **Mentors**
 
-`dice: [[Druid.md#^mentors]]`
+`dice: [[/5. Mechanics/Classes/Druid.md#^mentors]]`
 
 | dice: d6 | Mentors |
 |----------|---------|
@@ -244,7 +244,7 @@ _Source: Xanathar's Guide to Everything_
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Pteranodon.md\|Pteranodon]] | Fly |
 | 1 | [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
 | 1 | [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
-| 2 | [[/5. Mechanics/Bestiary/Beast/Plesiosaur(US).md\|Plesiosaurus]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Plesiosaurus.md\|Plesiosaurus]] | Swim |
 ^coast
 
 **Desert**
@@ -253,7 +253,7 @@ _Source: Xanathar's Guide to Everything_
 |----|-------|----------|
 | 0 | [[/5. Mechanics/Bestiary/Beast/Cat.md\|Cat]] | — |
 | 0 | [[/5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
-| 0 | [[/5. Mechanics/Bestiary/Beast/Jack(AL).md\|Jackal]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Jackal.md\|Jackal]] | — |
 | 0 | [[/5. Mechanics/Bestiary/Beast/Scorpion.md\|Scorpion]] | — |
 | 0 | [[/5. Mechanics/Bestiary/Beast/Vulture.md\|Vulture]] | Fly |
 | 1/8 | [[/5. Mechanics/Bestiary/Beast/Camel.md\|Camel]] | — |
@@ -293,7 +293,7 @@ _Source: Xanathar's Guide to Everything_
 | 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Boar.md\|Boar]] | — |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
-| 1/4 | [[/5. Mechanics/Bestiary/Beast/E(LK).md\|Elk]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Elk.md\|Elk]] | — |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Badger.md\|Giant badger]] | — |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Bat.md\|Giant bat]] | Fly |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Frog.md\|Giant frog]] | Swim |
@@ -314,7 +314,7 @@ _Source: Xanathar's Guide to Everything_
 | 1 | [[/5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] | — |
 | 2 | [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] | — |
 | 2 | [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
-| 2 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|Giant elk]] | — |
 ^forest
 
 **Grassland**
@@ -326,7 +326,7 @@ _Source: Xanathar's Guide to Everything_
 | 0 | [[/5. Mechanics/Bestiary/Beast/Eagle.md\|Eagle]] | Fly |
 | 0 | [[/5. Mechanics/Bestiary/Beast/Goat.md\|Goat]] | — |
 | 0 | [[/5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
-| 0 | [[/5. Mechanics/Bestiary/Beast/Jack(AL).md\|Jackal]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Jackal.md\|Jackal]] | — |
 | 0 | [[/5. Mechanics/Bestiary/Beast/Vulture.md\|Vulture]] | Fly |
 | 1/8 | [[/5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
 | 1/8 | [[/5. Mechanics/Bestiary/Beast/Flying Snake.md\|Flying snake]] | Fly |
@@ -335,7 +335,7 @@ _Source: Xanathar's Guide to Everything_
 | 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Axe Beak.md\|Axe beak]] | — |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Boar.md\|Boar]] | — |
-| 1/4 | [[/5. Mechanics/Bestiary/Beast/E(LK).md\|Elk]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Elk.md\|Elk]] | — |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Panther.md\|Panther]] (leopard) | — |
@@ -349,11 +349,11 @@ _Source: Xanathar's Guide to Everything_
 | 1 | [[/5. Mechanics/Bestiary/Beast/Giant Vulture.md\|Giant vulture]] | Fly |
 | 1 | [[/5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
 | 1 | [[/5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] | — |
-| 2 | [[/5. Mechanics/Bestiary/Beast/Allosaur(US).md\|Allosaurus]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Allosaurus.md\|Allosaurus]] | — |
 | 2 | [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] | — |
-| 2 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|Giant elk]] | — |
 | 2 | [[/5. Mechanics/Bestiary/Beast/Rhinoceros.md\|Rhinoceros]] | — |
-| 3 | [[/5. Mechanics/Bestiary/Beast/Ankylosaur(US).md\|Ankylosaurus]] | — |
+| 3 | [[/5. Mechanics/Bestiary/Beast/Ankylosaurus.md\|Ankylosaurus]] | — |
 | 4 | [[/5. Mechanics/Bestiary/Beast/Elephant.md\|Elephant]] | — |
 | 5 | [[/5. Mechanics/Bestiary/Beast/Triceratops.md\|Triceratops]] | — |
 ^grassland
@@ -376,7 +376,7 @@ _Source: Xanathar's Guide to Everything_
 | 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Axe Beak.md\|Axe beak]] | — |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Boar.md\|Boar]] | — |
-| 1/4 | [[/5. Mechanics/Bestiary/Beast/E(LK).md\|Elk]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Elk.md\|Elk]] | — |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Owl.md\|Giant owl]] | Fly |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Panther.md\|Panther]] (cougar) | — |
@@ -388,7 +388,7 @@ _Source: Xanathar's Guide to Everything_
 | 1 | [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] | — |
 | 1 | [[/5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
 | 2 | [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] | — |
-| 2 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|Giant elk]] | — |
 ^hill
 
 **Mountain**
@@ -403,7 +403,7 @@ _Source: Xanathar's Guide to Everything_
 | 1/2 | [[/5. Mechanics/Bestiary/Beast/Giant Goat.md\|Giant goat]] | — |
 | 1 | [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
 | 1 | [[/5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
-| 2 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|Giant elk]] | — |
 | 2 | [[/5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md\|Saber-toothed tiger]] | — |
 ^mountain
 
@@ -452,10 +452,10 @@ _Source: Xanathar's Guide to Everything_
 | 1/4 | [[/5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
 | 1/2 | [[/5. Mechanics/Bestiary/Beast/Giant Sea Horse.md\|Giant sea horse]] | Swim |
 | 1/2 | [[/5. Mechanics/Bestiary/Beast/Reef Shark.md\|Reef shark]] | Swim |
-| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Octop(US).md\|Giant octopus]] | Swim |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Octopus.md\|Giant octopus]] | Swim |
 | 2 | [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
 | 2 | [[/5. Mechanics/Bestiary/Beast/Hunter Shark.md\|Hunter shark]] | Swim |
-| 2 | [[/5. Mechanics/Bestiary/Beast/Plesiosaur(US).md\|Plesiosaurus]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Plesiosaurus.md\|Plesiosaurus]] | Swim |
 | 3 | [[/5. Mechanics/Bestiary/Beast/Killer Whale.md\|Killer whale]] | Swim |
 | 5 | [[/5. Mechanics/Bestiary/Beast/Giant Shark.md\|Giant shark]] | Swim |
 ^underwater
@@ -488,7 +488,7 @@ You can also change your list of prepared spells when you finish a long rest. Pr
 
 **Ritual Casting.** You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-**Spellcasting Focus.** You can use a [[/5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]] as a spellcasting focus for your druid spells.
+**Spellcasting Focus.** You can use a [[/5. Mechanics/Items/Druidic Focus.md\|druidic focus]] as a spellcasting focus for your druid spells.
 
 ### Wild Shape (Level 2)
 

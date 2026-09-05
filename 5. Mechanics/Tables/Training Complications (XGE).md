@@ -11,7 +11,7 @@ aliases:
 
 **Training Complications**
 
-`dice: [[Training Complications (XGE).md#^training-complications]]`
+`dice: [[/5. Mechanics/Tables/Training Complications (XGE).md#^training-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

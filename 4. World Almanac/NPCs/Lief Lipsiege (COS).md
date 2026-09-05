@@ -15,23 +15,22 @@ aliases:
 alignment: Chaotic Evil
 description: >-
   Lief Lipsiege is the accountant chained to a desk in Castle Ravenloft's
-  records room, endlessly tallying figures for Strahd. Hollow-eyed and
-  utterly disinterested in anyone who enters his room, he wants nothing
-  but to be left alone with his ledgers.
+  records room, endlessly tallying figures for Strahd. Hollow-eyed and utterly
+  disinterested in anyone who enters his room, he wants nothing but to be left
+  alone with his ledgers.
 history: >-
-  No one remembers exactly when Strahd bound Lief Lipsiege to his post,
-  only that he has been there ever since, chained to a heavy black desk
-  amid towering piles of scrolls and locked chests. He shows no interest in
-  escape, rescue, or the concerns of anyone who wanders in — his only
-  reaction to intruders is fear for his ledgers. The instant he feels
-  threatened, Lief pulls a tasseled rope hanging from the ceiling, sounding
-  a gong that summons Castle Ravenloft's guardians to deal with the
-  intrusion.
+  No one remembers exactly when Strahd bound Lief Lipsiege to his post, only
+  that he has been there ever since, chained to a heavy black desk amid towering
+  piles of scrolls and locked chests. He shows no interest in escape, rescue, or
+  the concerns of anyone who wanders in — his only reaction to intruders is fear
+  for his ledgers. The instant he feels threatened, Lief pulls a tasseled rope
+  hanging from the ceiling, sounding a gong that summons Castle Ravenloft's
+  guardians to deal with the intrusion.
 relationships: []
 partyRelationships: {}
 location: null
 pronounced: LEEF LIP-seej
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 44
 occupation:
@@ -39,12 +38,18 @@ occupation:
 groups: []
 religions: []
 personality: 'Obsessive, resigned, utterly indifferent to anyone but his ledgers'
-ideal: The books must balance, no matter what happens around them.
-bond: The endless columns of figures are the only thing he still controls, chained as he is to this desk.
-flaw: He's so consumed by his ledgers that he won't help himself, let alone anyone else.
-goals: To finish the figures Strahd demands of him, and to survive whatever answers the gong summons.
-likes: "Silence, tidy figures, being left alone"
-dislikes: "Interruptions, visitors, the creak of the tasseled rope overhead"
+ideal: 'The books must balance, no matter what happens around them.'
+bond: >-
+  The endless columns of figures are the only thing he still controls, chained
+  as he is to this desk.
+flaw: >-
+  He's so consumed by his ledgers that he won't help himself, let alone anyone
+  else.
+goals: >-
+  To finish the figures Strahd demands of him, and to survive whatever answers
+  the gong summons.
+likes: 'Silence, tidy figures, being left alone'
+dislikes: 'Interruptions, visitors, the creak of the tasseled rope overhead'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -76,11 +81,7 @@ dislikes: "Interruptions, visitors, the creak of the tasseled rope overhead"
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 62*
 
-Deep within Castle Ravenloft's records room (area K30, the "King's Accountant"), a figure crouches atop a tall stool at a great black desk, scratching endlessly at a scroll of paper with a dry quill pen. This is Lief Lipsiege, an accountant chained to his desk amid dusty scrolls and heavy iron-locked chests. He has no interest in the characters or their concerns and under no circumstances voluntarily leaves the room.
-
-## The Alarm Rope
-
-A tasseled rope hangs from a hole in the ceiling, within Lief's reach. He pulls it the instant he feels threatened, sounding a tremendously loud gong that summons one or more of Castle Ravenloft's guardians to attack any intruders still in the room a few rounds later.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

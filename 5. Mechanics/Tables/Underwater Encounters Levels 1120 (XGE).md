@@ -11,7 +11,7 @@ aliases:
 
 **Underwater Encounters (Levels 11—20)**
 
-`dice: [[Underwater Encounters Levels 1120 (XGE).md#^underwater-encounters-levels-1120]]`
+`dice: [[/5. Mechanics/Tables/Underwater Encounters Levels 1120 (XGE).md#^underwater-encounters-levels-1120]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -20,7 +20,7 @@ aliases:
 | 36-40 | A ghost ship passing overhead, containing `dice:2d6+10\|noform\|noparens\|avg` (`2d6 + 10`) [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghosts]] |
 | 41-60 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Beast/Giant Shark.md\|giant sharks]] |
 | 61-65 | A 1-mile-radius sphere of effervescent water that allows air-breathing creatures to breathe water while in the sphere |
-| 66-75 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elementals]] |
+| 66-75 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elementals]] |
 | 76-80 | A shimmering, blue-green portal to the Elemental Plane of Water |
 | 81-90 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Marid.md\|marids]] |
 | 91-96 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Giant/Storm Giant.md\|storm giants]] |

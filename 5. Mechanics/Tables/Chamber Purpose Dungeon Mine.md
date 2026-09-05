@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon: Mine**
 
-`dice: [[Chamber Purpose Dungeon Mine.md#^dungeon-mine]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose Dungeon Mine.md#^dungeon-mine]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

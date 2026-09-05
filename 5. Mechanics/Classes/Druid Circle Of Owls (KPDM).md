@@ -8,7 +8,7 @@ aliases:
   - Circle of Owls
 ---
 # Circle of Owls
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Deep Magic p. 136*  
 
 > [!tldr] Class and Feature Progression

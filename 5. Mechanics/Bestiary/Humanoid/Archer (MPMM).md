@@ -31,7 +31,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 
 **Archer Fletching**
 
-`dice: [[Archer (MPMM).md#^archer-fletching]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/Archer (MPMM).md#^archer-fletching]]`
 
 | dice: d12 | Fletching |
 |-----------|-----------|

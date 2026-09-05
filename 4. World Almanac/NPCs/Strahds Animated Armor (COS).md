@@ -24,17 +24,19 @@ occupation: []
 groups: []
 religions: []
 personality: >-
-  None — a mindless construct that obeys only its master's commands, or its
-  last order if its master is gone.
+  None — a mindless construct that obeys only its master's commands, or its last
+  order if its master is gone.
 ideal: null
 bond: null
 flaw: null
-goals: "Continue its last order: patrol Castle Ravenloft's parapets and outer walls, day and night."
+goals: >-
+  Continue its last order: patrol Castle Ravenloft's parapets and outer walls,
+  day and night.
 likes: null
 dislikes: null
 description: >-
-  A headless suit of burgundy plate armor adorned with golden angelic
-  motifs, animated by a sliver of Strahd's own malevolent will.
+  A headless suit of burgundy plate armor adorned with golden angelic motifs,
+  animated by a sliver of Strahd's own malevolent will.
 history: >-
   Strahd wore this armor into battle in life; in undeath he imbued it with a
   sliver of his own being and fortified it as a permanent defender of Castle

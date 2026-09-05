@@ -11,7 +11,7 @@ aliases:
 
 **General Furnishings and Appointments**
 
-`dice: [[Dungeon Dressing General Furnishings And Appointments.md#^general-furnishings-and-appointments]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing General Furnishings And Appointments.md#^general-furnishings-and-appointments]]`
 
 | dice: d100 | Item |
 |------------|------|

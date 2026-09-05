@@ -11,7 +11,7 @@ aliases:
 
 **Lethal Leverage**
 
-`dice: [[Lethal Leverage (VRGR).md#^lethal-leverage]]`
+`dice: [[/5. Mechanics/Tables/Lethal Leverage (VRGR).md#^lethal-leverage]]`
 
 | dice: d6 | Leverage |
 |----------|----------|

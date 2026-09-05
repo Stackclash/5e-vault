@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Lesser Minions**
 
-`dice: [[Pets Beholder Lesser Minions (VGM).md#^beholder-lesser-minions]]`
+`dice: [[/5. Mechanics/Tables/Pets Beholder Lesser Minions (VGM).md#^beholder-lesser-minions]]`
 
 | dice: d100 | Lesser Minions* |
 |------------|-----------------|
@@ -23,7 +23,7 @@ aliases:
 | 23-25 | `dice:10d10+50\|noform\|noparens\|avg` (`10d10 + 50`) [[/5. Mechanics/Bestiary/Humanoid/Grimlock.md\|grimlocks]] |
 | 26-35 | `dice:10d10\|noform\|noparens\|avg` (`10d10`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] and `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captains]] |
 | 36-43 | `dice:10d10+50\|noform\|noparens\|avg` (`10d10 + 50`) [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]], `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Kobold Inventor (MPMM).md\|kobold inventors]], and `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Kobold Scale Sorcerer (MPMM).md\|kobold scale sorcerers]] |
-| 44-48 | `dice:10d10+50\|noform\|noparens\|avg` (`10d10 + 50`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
+| 44-48 | `dice:10d10+50\|noform\|noparens\|avg` (`10d10 + 50`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] |
 | 49-56 | `dice:10d10\|noform\|noparens\|avg` (`10d10`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] and `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Humanoid/Orc War Chief.md\|orc war chiefs]] |
 | 57-59 | `dice:6d6\|noform\|noparens\|avg` (`6d6`) [[/5. Mechanics/Bestiary/Humanoid/Quaggoth.md\|quaggoths]] |
 | 60-65 | `dice:10d10+50\|noform\|noparens\|avg` (`10d10 + 50`) [[/5. Mechanics/Bestiary/Humanoid/Troglodyte.md\|troglodytes]] |

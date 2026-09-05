@@ -8,7 +8,7 @@ aliases:
   - The Genie
 ---
 # The Genie
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Tasha's Cauldron of Everything p. 73*  
 
 > [!tldr] Class and Feature Progression
@@ -49,7 +49,7 @@ You choose your patron's kind or determine it randomly, using the Genie Kind tab
 
 **Genie Kind**
 
-`dice: [[Warlock The Genie (TCE).md#^genie-kind]]`
+`dice: [[/5. Mechanics/Classes/Warlock The Genie (TCE).md#^genie-kind]]`
 
 | dice: d4 | Kind | Element |
 |----------|------|---------|
@@ -87,7 +87,7 @@ Your patron gifts you a magical vessel that grants you a measure of the genie's 
 
 **Genie's Vessel**
 
-`dice: [[Warlock The Genie (TCE).md#^genies-vessel]]`
+`dice: [[/5. Mechanics/Classes/Warlock The Genie (TCE).md#^genies-vessel]]`
 
 | dice: d6 | Vessel |
 |----------|--------|

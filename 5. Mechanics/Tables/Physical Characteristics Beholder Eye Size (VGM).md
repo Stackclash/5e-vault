@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Eye Size**
 
-`dice: [[Physical Characteristics Beholder Eye Size (VGM).md#^beholder-eye-size]]`
+`dice: [[/5. Mechanics/Tables/Physical Characteristics Beholder Eye Size (VGM).md#^beholder-eye-size]]`
 
 | dice: 2d6 | Eye Size |
 |-----------|----------|

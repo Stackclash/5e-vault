@@ -8,7 +8,7 @@ aliases:
   - Way of Shadow
 ---
 # Way of Shadow
-*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[/5. Mechanics/Classes/Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Player's Handbook p. 80*  
 
 > [!tldr] Class and Feature Progression

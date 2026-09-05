@@ -9,7 +9,7 @@ aliases:
 # Duergar Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume III p. 39* 
 
-`dice: [[Duergar Trinket Table (HHHVIII).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Duergar Trinket Table (HHHVIII).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|
@@ -18,7 +18,7 @@ aliases:
 | 3 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) packs of [[/5. Mechanics/Bestiary/Monstrosity/Female Steeder (MPMM).md\|steeder]] feed | 1 sp | 4 lb |
 | 4 | 1 skin of horrible ale | 3 cp | 2 lb |
 | 5 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) plainly designed pieces of jewelry | 3 gp | 1 lb |
-| 6 | 20 feet of iron [[/5. Mechanics/Items/Chain 10 F(EET).md\|chains]] | 20 gp | 10 lb |
+| 6 | 20 feet of iron [[/5. Mechanics/Items/Chain 10 Feet.md\|chains]] | 20 gp | 10 lb |
 | 7 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) bottles of tinker's oil | 8 sp | 1 lb |
 | 8 | `dice:4d12\|noform\|noparens\|avg` (`4d12`) [[/5. Mechanics/Items/Silver Sp.md\|silver pieces]] | Varies | Varies |
 ^item-value-weight

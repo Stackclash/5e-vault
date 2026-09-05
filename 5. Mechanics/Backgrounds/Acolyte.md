@@ -28,7 +28,7 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-`dice: [[Acolyte.md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Acolyte.md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -42,7 +42,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 8 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world. |
 ^personality-trait
 
-`dice: [[Acolyte.md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Acolyte.md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -54,7 +54,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 6 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any) |
 ^ideal
 
-`dice: [[Acolyte.md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Acolyte.md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -66,7 +66,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
 ^bond
 
-`dice: [[Acolyte.md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Acolyte.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

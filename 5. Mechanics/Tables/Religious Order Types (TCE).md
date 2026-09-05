@@ -11,7 +11,7 @@ aliases:
 
 **Religious Order Types**
 
-`dice: [[Religious Order Types (TCE).md#^religious-order-types]]`
+`dice: [[/5. Mechanics/Tables/Religious Order Types (TCE).md#^religious-order-types]]`
 
 | dice: d6 | Religious Order |
 |----------|-----------------|

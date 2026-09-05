@@ -11,7 +11,7 @@ aliases:
 
 **Other Goals**
 
-`dice: [[Identify The Partys Goals Other Goals.md#^other-goals]]`
+`dice: [[/5. Mechanics/Tables/Identify The Partys Goals Other Goals.md#^other-goals]]`
 
 | dice: d12 | Goal |
 |-----------|------|

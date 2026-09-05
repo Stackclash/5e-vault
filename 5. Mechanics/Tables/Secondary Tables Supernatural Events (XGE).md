@@ -11,7 +11,7 @@ aliases:
 
 **Supernatural Events**
 
-`dice: [[Secondary Tables Supernatural Events (XGE).md#^supernatural-events]]`
+`dice: [[/5. Mechanics/Tables/Secondary Tables Supernatural Events (XGE).md#^supernatural-events]]`
 
 | dice: d100 | Event |
 |------------|-------|

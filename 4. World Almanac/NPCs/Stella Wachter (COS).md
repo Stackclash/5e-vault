@@ -13,26 +13,26 @@ aliases:
   - Stella Wachter
 alignment: Chaotic Good
 description: >-
-  Stella Wachter is [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]]'s
-  teenage daughter, driven mad after a cruel, failed arranged marriage to
-  [[Victor Vallakovich (COS)|Victor Vallakovich]]. Convinced she is a cat,
-  she is kept locked in a bare, straw-strewn room at Wachterhaus, scurrying
-  on all fours and hissing at anyone who comes near.
+  Stella Wachter is [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]]'s teenage
+  daughter, driven mad after a cruel, failed arranged marriage to [[Victor
+  Vallakovich (COS)|Victor Vallakovich]]. Convinced she is a cat, she is kept
+  locked in a bare, straw-strewn room at Wachterhaus, scurrying on all fours and
+  hissing at anyone who comes near.
 history: >-
-  Fiona arranged Stella's betrothal to Victor Vallakovich as part of a
-  scheme to gain a foothold in the burgomaster's mansion, but Victor showed
-  no interest in Stella and spoke to her with such cruelty that something in
-  her broke. Convinced now that she is a cat, Stella scratches and hisses at
-  visitors and begs to be left alone. A greater restoration spell can cure
-  her madness; if freed of it, she blames her mother bitterly for treating
-  her as a pawn, has nothing kind to say about Victor, and, having no one
-  else left to trust in Vallaki, will gladly accept a place in Father
-  Lucian's care at St. Andral's church if the characters bring her there.
+  Fiona arranged Stella's betrothal to Victor Vallakovich as part of a scheme to
+  gain a foothold in the burgomaster's mansion, but Victor showed no interest in
+  Stella and spoke to her with such cruelty that something in her broke.
+  Convinced now that she is a cat, Stella scratches and hisses at visitors and
+  begs to be left alone. A greater restoration spell can cure her madness; if
+  freed of it, she blames her mother bitterly for treating her as a pawn, has
+  nothing kind to say about Victor, and, having no one else left to trust in
+  Vallaki, will gladly accept a place in Father Lucian's care at St. Andral's
+  church if the characters bring her there.
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 pronounced: STEL-uh VAHK-ter
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 19
 occupation: []
@@ -40,17 +40,24 @@ groups:
   - House Wachter
 religions: []
 personality: >-
-  Currently convinced she is a cat - feral, frightened, and starved for any
-  real kindness
-ideal: To be treated as a person again, not a pawn or a broken thing to be locked away.
-bond: Whatever stranger shows her the smallest kindness - she latches onto anyone gentle immediately
-flaw: Her trauma has fractured her mind so completely that she now believes, with total conviction, that she is a cat
+  Currently convinced she is a cat - feral, frightened, and starved for any real
+  kindness
+ideal: >-
+  To be treated as a person again, not a pawn or a broken thing to be locked
+  away.
+bond: >-
+  Whatever stranger shows her the smallest kindness - she latches onto anyone
+  gentle immediately
+flaw: >-
+  Her trauma has fractured her mind so completely that she now believes, with
+  total conviction, that she is a cat
 goals: >-
   While lost in madness: to be left alone in her room. If cured: to escape
-  Wachterhaus and her mother forever, ideally under Father Lucian's
-  protection
-likes: Gentleness, warmth, small dark hiding places
-dislikes: Being touched by strangers, the name Victor Vallakovich, her mother, loud noises
+  Wachterhaus and her mother forever, ideally under Father Lucian's protection
+likes: 'Gentleness, warmth, small dark hiding places'
+dislikes: >-
+  Being touched by strangers, the name Victor Vallakovich, her mother, loud
+  noises
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -82,15 +89,7 @@ dislikes: Being touched by strangers, the name Victor Vallakovich, her mother, l
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 113*
 
-Scurrying away on all fours in a soiled nightgown, hissing at anyone who comes near, Stella Wachter is [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]]'s daughter - and, in her own broken mind, a cat.
-
-## A Pawn in Her Mother's Scheme
-
-Fiona once conspired to wed young Stella to the burgomaster's son, [[Victor Vallakovich (COS)|Victor Vallakovich]], as part of a plot to gain a foothold in the baron's mansion. Victor found Stella demented and showed no interest in her whatsoever - worse, he spoke such unkind words to her that something in her mind gave way entirely. Fiona had no choice but to lock her own daughter away, and the door to Stella's room is now locked from both sides, with only Fiona holding a key.
-
-## Little Kitty
-
-Kept in a bare, straw-strewn room with an iron-framed bed fitted with leather straps, Stella hisses and scratches at visitors, insisting "little kitty doesn't know you" and "little kitty doesn't like the smell of you." A greater restoration spell rids her of the madness that convinces her she's a cat. If cured, she blames her mother bitterly for treating her as a pawn in a scheme to seize the town, and has nothing kind to say about Victor, whose very name makes her cringe. With her wits restored, Stella feels she has no one left in Vallaki she can trust - she latches onto any character who shows her kindness, and if brought to St. Andral's church, Father Lucian gladly takes her in.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

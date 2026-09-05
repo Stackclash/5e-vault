@@ -11,7 +11,7 @@ aliases:
 
 **Raiding Party Leader**
 
-`dice: [[Githyanki Raiding Parties Raiding Party Leader (MTF).md#^raiding-party-leader]]`
+`dice: [[/5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Leader (MTF).md#^raiding-party-leader]]`
 
 | dice: d6 | Leader |
 |----------|--------|

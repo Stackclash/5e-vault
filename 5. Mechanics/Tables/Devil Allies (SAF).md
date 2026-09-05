@@ -11,7 +11,7 @@ aliases:
 
 **Devil Allies**
 
-`dice: [[Devil Allies (SAF).md#^devil-allies]]`
+`dice: [[/5. Mechanics/Tables/Devil Allies (SAF).md#^devil-allies]]`
 
 | dice: d12 | Ally |
 |-----------|------|

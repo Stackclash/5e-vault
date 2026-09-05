@@ -11,7 +11,7 @@ aliases:
 
 **Gnome Names – Female**
 
-`dice: [[Gnome Names Female (XGE).md#^gnome-names-female]]`
+`dice: [[/5. Mechanics/Tables/Gnome Names Female (XGE).md#^gnome-names-female]]`
 
 | dice: d100 | Name |
 |------------|------|

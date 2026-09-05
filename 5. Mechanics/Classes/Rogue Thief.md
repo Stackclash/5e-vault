@@ -8,7 +8,7 @@ aliases:
   - Thief
 ---
 # Thief
-*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
+*[[/5. Mechanics/Classes/Rogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Player's Handbook p. 97. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 > [!tldr] Class and Feature Progression

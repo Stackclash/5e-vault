@@ -61,7 +61,7 @@ A veteran of both cuisine and combat, the battlechef is a devout warrior and an 
       \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n**1st level (4 slots):**\
       \ [[/5. Mechanics/Spells/Bless.md|bless]], [[/5. Mechanics/Spells/Goodberry.md|goodberry]],\
       \ [[/5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n**2nd\
-      \ level (3 slots):** [[/5. Mechanics/Spells/Heat Met(AL).md|heat metal]], [[/5. Mechanics/Spells/Protection From Poison.md|protection\
+      \ level (3 slots):** [[/5. Mechanics/Spells/Heat Metal.md|heat metal]], [[/5. Mechanics/Spells/Protection From Poison.md|protection\
       \ from poison]], [[/5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\
       \n**3rd level (3 slots):** [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]],\
       \ [[/5. Mechanics/Spells/Mass Healing Word.md|mass healing word]], [[/5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]]\n\

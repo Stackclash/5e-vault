@@ -41,7 +41,7 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 
 **Reincarnate Races**
 
-`dice: [[Reincarnate.md#^reincarnate-races]]`
+`dice: [[/5. Mechanics/Spells/Reincarnate.md#^reincarnate-races]]`
 
 | dice: d100 | Race |
 |------------|------|

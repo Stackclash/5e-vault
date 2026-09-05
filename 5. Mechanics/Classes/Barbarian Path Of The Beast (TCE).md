@@ -8,7 +8,7 @@ aliases:
   - Path of the Beast
 ---
 # Path of the Beast
-*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[/5. Mechanics/Classes/Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: Tasha's Cauldron of Everything p. 24*  
 
 > [!tldr] Class and Feature Progression
@@ -49,7 +49,7 @@ Such a barbarian might be inhabited by a primal spirit or be descended from shap
 
 **Origin of the Beast**
 
-`dice: [[Barbarian Path Of The Beast (TCE).md#^origin-of-the-beast]]`
+`dice: [[/5. Mechanics/Classes/Barbarian Path Of The Beast (TCE).md#^origin-of-the-beast]]`
 
 | dice: d4 | Origin |
 |----------|--------|

@@ -11,7 +11,7 @@ aliases:
 
 **Githzerai Group Leader**
 
-`dice: [[Githzerai Groups Githzerai Group Leader (MTF).md#^githzerai-group-leader]]`
+`dice: [[/5. Mechanics/Tables/Githzerai Groups Githzerai Group Leader (MTF).md#^githzerai-group-leader]]`
 
 | dice: d6 | Leader |
 |----------|--------|

@@ -11,7 +11,7 @@ aliases:
 
 **Githzerai Personality Traits**
 
-`dice: [[Gith Tables Githzerai Personality Traits (MTF).md#^githzerai-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githzerai Personality Traits (MTF).md#^githzerai-personality-traits]]`
 
 | dice: d4 | Trait |
 |----------|-------|

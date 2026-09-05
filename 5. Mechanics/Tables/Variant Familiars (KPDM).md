@@ -9,7 +9,7 @@ aliases:
 # Variant Familiars
 *Source: Deep Magic p. 295* 
 
-`dice: [[Variant Familiars (KPDM).md#^variant-familiar]]`
+`dice: [[/5. Mechanics/Tables/Variant Familiars (KPDM).md#^variant-familiar]]`
 
 | dice: d12 | Variant Familiar |
 |-----------|------------------|

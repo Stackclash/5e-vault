@@ -11,7 +11,7 @@ aliases:
 
 **Status Symbols**
 
-`dice: [[Status Symbols (VGM).md#^status-symbols]]`
+`dice: [[/5. Mechanics/Tables/Status Symbols (VGM).md#^status-symbols]]`
 
 | dice: d20 | Status Symbol |
 |-----------|---------------|

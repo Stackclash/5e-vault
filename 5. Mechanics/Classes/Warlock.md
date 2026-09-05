@@ -60,7 +60,7 @@ aliases:
 You start with the following items, plus anything provided by your background.
 
 - (a) a [[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[/5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon
-- (a) a [[/5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]]
+- (a) a [[/5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[/5. Mechanics/Items/Arcane Focus.md\|arcane focus]]
 - (a) a [[/5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) a [[/5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]
 - [[/5. Mechanics/Items/Leather Armor.md\|Leather armor]], any simple weapon, and two [[/5. Mechanics/Items/Dagger.md\|daggers]]
 
@@ -136,7 +136,7 @@ When you determine the attitude your warlock character holds toward your patron,
 
 **Patron Attitudes**
 
-`dice: [[Warlock.md#^patron-attitudes]]`
+`dice: [[/5. Mechanics/Classes/Warlock.md#^patron-attitudes]]`
 
 | dice: d6 | Attitude |
 |----------|----------|
@@ -157,7 +157,7 @@ Does your character have a pact that requires you to change your behavior in an 
 
 **Special Terms**
 
-`dice: [[Warlock.md#^special-terms]]`
+`dice: [[/5. Mechanics/Classes/Warlock.md#^special-terms]]`
 
 | dice: d6 | Term |
 |----------|------|
@@ -178,7 +178,7 @@ If your warlock's pact comes with a binding mark, how you feel about displaying 
 
 **Binding Marks**
 
-`dice: [[Warlock.md#^binding-marks]]`
+`dice: [[/5. Mechanics/Classes/Warlock.md#^binding-marks]]`
 
 | dice: d6 | Mark |
 |----------|------|
@@ -214,7 +214,7 @@ Additionally, when you gain a level in this class, you can choose one of the war
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-**Spellcasting Focus.** You can use an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your warlock spells.
+**Spellcasting Focus.** You can use an [[/5. Mechanics/Items/Arcane Focus.md\|arcane focus]] as a spellcasting focus for your warlock spells.
 
 ### Otherworldly Patron (Level 1)
 

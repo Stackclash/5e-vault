@@ -11,7 +11,7 @@ aliases:
 
 **Desert Encounters (Levels 11—16)**
 
-`dice: [[Desert Encounters Levels 1116 (XGE).md#^desert-encounters-levels-1116]]`
+`dice: [[/5. Mechanics/Tables/Desert Encounters Levels 1116 (XGE).md#^desert-encounters-levels-1116]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -24,13 +24,13 @@ aliases:
 | 18-20 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Monstrosity/Phase Spider.md\|phase spiders]] |
 | 21-25 | A desert caravan consisting of `dice:1d6\|noform\|noparens\|avg` (`1d6`) merchants ([[/5. Mechanics/Bestiary/Humanoid/Noble.md\|nobles]]) with `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] |
 | 26-27 | `dice:1d6+1\|noform\|noparens\|avg` (`1d6 + 1`) [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatls]] |
-| 28-30 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elementals]] |
+| 28-30 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md\|fire elementals]] |
 | 31-32 | 1 [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captain]] with `dice:3d10+10\|noform\|noparens\|avg` (`3d10 + 10`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
 | 33-35 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
 | 36-40 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) square miles of desert glass |
 | 41-42 | 1 [[/5. Mechanics/Bestiary/Dragon/Young Blue Dragon.md\|young blue dragon]] |
 | 43-45 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Humanoid/Weretiger.md\|weretigers]] |
-| 46-48 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elementals]] |
+| 46-48 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elementals]] |
 | 49-50 | `dice:1d6+1\|noform\|noparens\|avg` (`1d6 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 1.md\|yuan-ti malisons]] |
 | 51-55 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Medusa.md\|medusas]] |
 | 56-60 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]] with `dice:3d12\|noform\|noparens\|avg` (`3d12`) [[/5. Mechanics/Bestiary/Undead/Skeleton.md\|skeletons]] |

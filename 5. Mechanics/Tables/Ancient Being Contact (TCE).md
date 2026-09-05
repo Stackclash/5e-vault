@@ -11,7 +11,7 @@ aliases:
 
 **Ancient Being Contact**
 
-`dice: [[Ancient Being Contact (TCE).md#^ancient-being-contact]]`
+`dice: [[/5. Mechanics/Tables/Ancient Being Contact (TCE).md#^ancient-being-contact]]`
 
 | dice: d6 | Contact |
 |----------|---------|

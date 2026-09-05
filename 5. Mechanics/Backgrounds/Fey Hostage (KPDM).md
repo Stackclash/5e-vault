@@ -21,7 +21,7 @@ Years, possibly centuries, ago you were captured by the fey. Each host, as the f
 
 The fey have a multitude of reasons for abducting—or rescuing—folk like you, and it's also possible that you or others did something to bring about your situation. Choose or randomly determine the reason behind your sojourn in the realm of the fey.
 
-`dice: [[Fey Hostage (KPDM).md#^event]]`
+`dice: [[/5. Mechanics/Backgrounds/Fey Hostage (KPDM).md#^event]]`
 
 | dice: d8 | Event |
 |----------|-------|
@@ -43,7 +43,7 @@ You were raised in a situation in which failing to adhere to the nuances, niceti
 
 A fey hostage will never forget the events that led to their capture, the treatment they experienced, or the circumstances of their release. Their experiences with the unpredictable fey might range from whimsical to pathological.
 
-`dice: [[Fey Hostage (KPDM).md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Fey Hostage (KPDM).md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -57,7 +57,7 @@ A fey hostage will never forget the events that led to their capture, the treatm
 | 8 | I am fascinated, Frightened, and uncomfortable in an urban Environment. |
 ^personality-trait
 
-`dice: [[Fey Hostage (KPDM).md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Fey Hostage (KPDM).md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -69,7 +69,7 @@ A fey hostage will never forget the events that led to their capture, the treatm
 | 6 | I was given my freedom after years of diligent, demeaning, and debauched servitude. |
 ^bond
 
-`dice: [[Fey Hostage (KPDM).md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Fey Hostage (KPDM).md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -81,7 +81,7 @@ A fey hostage will never forget the events that led to their capture, the treatm
 | 6 | I am certain that my freedom from the fey is only temporary and that any fey I meet want to recapture me. |
 ^flaw
 
-`dice: [[Fey Hostage (KPDM).md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Fey Hostage (KPDM).md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

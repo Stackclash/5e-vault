@@ -11,7 +11,7 @@ aliases:
 
 **Hill Encounters (Levels 1—4)**
 
-`dice: [[Hill Encounters Levels 14 (XGE).md#^hill-encounters-levels-14]]`
+`dice: [[/5. Mechanics/Tables/Hill Encounters Levels 14 (XGE).md#^hill-encounters-levels-14]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -39,7 +39,7 @@ aliases:
 | 36 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Swarm Of Bats.md\|swarms of bats]] or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Swarm Of Ravens.md\|swarms of ravens]] |
 | 37 | 1 [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md\|giant eagle]] |
 | 38-40 | An old dwarf sitting on a stump, whittling a piece of wood |
-| 41 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/E(LK).md\|elk]] |
+| 41 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Elk.md\|elk]] |
 | 42 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Winged Kobold.md\|winged kobolds]] with `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] |
 | 43 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|giant wolf spiders]] |
 | 44-45 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
@@ -49,7 +49,7 @@ aliases:
 | 50 | 1 [[/5. Mechanics/Bestiary/Humanoid/Scout.md\|scout]] |
 | 51 | 1 [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogre]] |
 | 52-53 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] |
-| 54 | 1 [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] |
+| 54 | 1 [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|giant elk]] |
 | 55 | `dice:1d3+1\|noform\|noparens\|avg` (`1d3 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Harpy.md\|harpies]] |
 | 56 | 1 [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] |
 | 57-58 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
@@ -74,7 +74,7 @@ aliases:
 | 85-86 | 1 [[/5. Mechanics/Bestiary/Giant/Ettin.md\|ettin]] or 1 [[/5. Mechanics/Bestiary/Humanoid/Wereboar.md\|wereboar]] |
 | 87-88 | 1 [[/5. Mechanics/Bestiary/Humanoid/Goblin Boss.md\|goblin boss]] with `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] |
 | 89 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Griffon.md\|griffons]] |
-| 90 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Peryton.md\|perytons]] or `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Celestial/Pegas(US).md\|pegasi]] |
+| 90 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Peryton.md\|perytons]] or `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Celestial/Pegasus.md\|pegasi]] |
 | 91-96 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] |
 | 97-99 | 1 [[/5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclops]] |
 | 00 | 1 [[/5. Mechanics/Bestiary/Giant/Stone Giant.md\|stone giant]] |

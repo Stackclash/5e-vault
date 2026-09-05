@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Greater Minions**
 
-`dice: [[Pets Beholder Greater Minions (VGM).md#^beholder-greater-minions]]`
+`dice: [[/5. Mechanics/Tables/Pets Beholder Greater Minions (VGM).md#^beholder-greater-minions]]`
 
 | dice: d100 | Greater Minions* |
 |------------|------------------|

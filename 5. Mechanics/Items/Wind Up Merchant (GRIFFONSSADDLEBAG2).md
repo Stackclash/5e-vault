@@ -29,7 +29,7 @@ This soft toy figurine is 5 inches tall and weighs 1 pound. You can use an actio
 
 Roll `dice:3d12|noform|noparens|avg` (`3d12`), recording each number rolled, to determine which of the following magic items are listed on the parchment. At the GM's discretion, reroll duplicate results.
 
-`dice: [[Wind Up Merchant (GRIFFONSSADDLEBAG2).md#^item-name]]`
+`dice: [[/5. Mechanics/Items/Wind Up Merchant (GRIFFONSSADDLEBAG2).md#^item-name]]`
 
 | dice: d12 | Item Name |
 |-----------|-----------|

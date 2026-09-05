@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Eye Color**
 
-`dice: [[Physical Characteristics Beholder Eye Color (VGM).md#^beholder-eye-color]]`
+`dice: [[/5. Mechanics/Tables/Physical Characteristics Beholder Eye Color (VGM).md#^beholder-eye-color]]`
 
 | dice: d10 | Eye Color |
 |-----------|-----------|

@@ -11,7 +11,7 @@ aliases:
 
 **Hunting Strahd**
 
-`dice: [[Connection To Strahd Hunting Strahd (VRGR).md#^hunting-strahd]]`
+`dice: [[/5. Mechanics/Tables/Connection To Strahd Hunting Strahd (VRGR).md#^hunting-strahd]]`
 
 | dice: d10 | Hunting Method |
 |-----------|----------------|

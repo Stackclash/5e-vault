@@ -9,7 +9,7 @@ aliases:
 # TGS Magic Item Table G, Option 2
 *Source: The Griffon's Saddlebag, Book 1 p. 23* 
 
-`dice: [[Tgs Magic Item Table G Option 2 (TGS1).md#^magic-item]]`
+`dice: [[/5. Mechanics/Tables/Tgs Magic Item Table G Option 2 (TGS1).md#^magic-item]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|

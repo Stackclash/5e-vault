@@ -11,7 +11,7 @@ aliases:
 
 **Research Complications**
 
-`dice: [[Research Complications (XGE).md#^research-complications]]`
+`dice: [[/5. Mechanics/Tables/Research Complications (XGE).md#^research-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

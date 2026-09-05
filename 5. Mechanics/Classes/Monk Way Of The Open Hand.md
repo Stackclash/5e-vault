@@ -8,7 +8,7 @@ aliases:
   - Way of the Open Hand
 ---
 # Way of the Open Hand
-*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[/5. Mechanics/Classes/Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Player's Handbook p. 79. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

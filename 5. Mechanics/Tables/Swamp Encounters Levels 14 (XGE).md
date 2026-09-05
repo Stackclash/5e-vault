@@ -11,7 +11,7 @@ aliases:
 
 **Swamp Encounters (Levels 1—4)**
 
-`dice: [[Swamp Encounters Levels 14 (XGE).md#^swamp-encounters-levels-14]]`
+`dice: [[/5. Mechanics/Tables/Swamp Encounters Levels 14 (XGE).md#^swamp-encounters-levels-14]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -43,7 +43,7 @@ aliases:
 | 58-59 | 1 yuan-ti malison: [[/5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 1.md\|type 1]], [[/5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 2.md\|type 2]], [[/5. Mechanics/Bestiary/Monstrosity/Yuan Ti Malison Type 3.md\|type 3]] |
 | 60-62 | 1 [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|giant constrictor snake]] |
 | 63-64 | A high-pitched shriek that lasts for `dice:1d4\|noform\|noparens\|avg` (`1d4`) minutes |
-| 65-67 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
+| 65-67 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] |
 | 68-69 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] |
 | 70-71 | 1 [[/5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]] |
 | 72 | 1 [[/5. Mechanics/Bestiary/Undead/Wight.md\|wight]] |
@@ -52,7 +52,7 @@ aliases:
 | 76-77 | A foul stench bubbling up from brackish waters |
 | 78-80 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]] |
 | 81-83 | 1 [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mound]] |
-| 84-86 | 1 [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md\|lizardfolk shaman]] with `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Beast/Giant Lizard.md\|giant lizards]] and `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
+| 84-86 | 1 [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md\|lizardfolk shaman]] with `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Beast/Giant Lizard.md\|giant lizards]] and `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] |
 | 87 | 1 [[/5. Mechanics/Bestiary/Giant/Troll.md\|troll]] |
 | 88-89 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Fey/Green Hag.md\|green hags]] |
 | 90-91 | 1 [[/5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] |
@@ -60,6 +60,6 @@ aliases:
 | 94-95 | 1 [[/5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md\|orc Eye of Gruumsh]] with `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Humanoid/Orog.md\|orogs]] and `dice:2d6+3\|noform\|noparens\|avg` (`2d6 + 3`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
 | 96-97 | 1 [[/5. Mechanics/Bestiary/Dragon/Young Black Dragon.md\|young black dragon]] |
 | 98 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Yuan Ti Abomination.md\|yuan-ti abomination]] |
-| 99 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elementals]] |
+| 99 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elementals]] |
 | 00 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Hydra.md\|hydra]] |
 ^swamp-encounters-levels-14

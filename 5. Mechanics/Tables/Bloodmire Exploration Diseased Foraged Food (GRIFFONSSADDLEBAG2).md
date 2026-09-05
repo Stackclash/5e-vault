@@ -9,7 +9,7 @@ aliases:
 # Bloodmire Exploration; Diseased Foraged Food
 *Source: The Griffon's Saddlebag, Book 2 p. 251* 
 
-`dice: [[Bloodmire Exploration Diseased Foraged Food (GRIFFONSSADDLEBAG2).md#^effect]]`
+`dice: [[/5. Mechanics/Tables/Bloodmire Exploration Diseased Foraged Food (GRIFFONSSADDLEBAG2).md#^effect]]`
 
 | dice: d6 | Effect |
 |----------|--------|

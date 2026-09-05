@@ -8,7 +8,7 @@ aliases:
   - Stitcher
 ---
 # Stitcher
-*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
+*[[/5. Mechanics/Classes/Rogue.md\|Rogue]]: Roguish Archetype*  
 *Source: The Griffon's Saddlebag, Book 4*  
 
 > [!tldr] Class and Feature Progression

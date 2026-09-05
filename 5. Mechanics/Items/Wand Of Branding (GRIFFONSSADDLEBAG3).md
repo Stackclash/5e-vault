@@ -32,7 +32,7 @@ This wand has 7 charges for the following properties. While holding the wand, yo
 
 ## Spells
 
-While holding the wand, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using a spell attack bonus of +7 and save DC of 15: [[/5. Mechanics/Spells/Branding Smite.md\|branding smite]], [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], or [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]. For 1 charge, you cast the 2nd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend. This version of branding smite deals fire damage, instead of radiant damage. It also has a range of 30 feet, instead of self, and can be cast on any creature that you can see within that range.
+While holding the wand, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using a spell attack bonus of +7 and save DC of 15: [[/5. Mechanics/Spells/Branding Smite.md\|branding smite]], [[/5. Mechanics/Spells/Heat Metal.md\|heat metal]], or [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]. For 1 charge, you cast the 2nd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend. This version of branding smite deals fire damage, instead of radiant damage. It also has a range of 30 feet, instead of self, and can be cast on any creature that you can see within that range.
 
 ## Brand
 

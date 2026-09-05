@@ -11,7 +11,7 @@ aliases:
 
 **Syndicate Types**
 
-`dice: [[Types Of Criminal Syndicates Syndicate Types (TCE).md#^syndicate-types]]`
+`dice: [[/5. Mechanics/Tables/Types Of Criminal Syndicates Syndicate Types (TCE).md#^syndicate-types]]`
 
 | dice: d6 | Syndicate |
 |----------|-----------|

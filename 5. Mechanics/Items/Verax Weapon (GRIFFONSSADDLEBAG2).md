@@ -40,7 +40,7 @@ A verax weapon has been made by quenching its metal in the blood of a particular
 
 Use the table below to choose or randomly determine what creature type's blood was used to enchant the weapon. When you use this weapon to attack a creature of the chosen type and are forced to make the attack roll with disadvantage, you make the attack roll as normal instead.
 
-`dice: [[Verax Weapon (GRIFFONSSADDLEBAG2).md#^creature-type]]`
+`dice: [[/5. Mechanics/Items/Verax Weapon (GRIFFONSSADDLEBAG2).md#^creature-type]]`
 
 | dice: d10 | Creature Type |
 |-----------|---------------|

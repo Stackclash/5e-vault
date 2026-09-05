@@ -19,22 +19,21 @@ description: >-
   Furrowed-browed and short-tempered, he's grown bitter watching the
   burgomaster's empty promises while his own family goes hungry.
 history: >-
-  Milivoj tends the churchyard and digs graves under Father Lucian
-  Petrovich, but he has little patience for the priest's talk of hope or
-  the burgomaster's proclamations that "All will be well!" Desperate to
-  provide for his younger siblings, he let slip to [[Henrik Van Der Voort
-  (COS)|Henrik van der Voort]], the town's coffin maker, that St. Andral's
-  bones lay hidden beneath the church — information he'd overheard from
-  the altar boy, Yeska. When Henrik offered him coin to steal the bones,
-  Milivoj pried up the chapel floorboards and did it, leaving the church
-  without its protection against Strahd's minions. Father Lucian suspects
-  him but hasn't confronted him, fearing what the temperamental young man
-  might do.
+  Milivoj tends the churchyard and digs graves under Father Lucian Petrovich,
+  but he has little patience for the priest's talk of hope or the burgomaster's
+  proclamations that "All will be well!" Desperate to provide for his younger
+  siblings, he let slip to [[Henrik Van Der Voort (COS)|Henrik van der Voort]],
+  the town's coffin maker, that St. Andral's bones lay hidden beneath the church
+  — information he'd overheard from the altar boy, Yeska. When Henrik offered
+  him coin to steal the bones, Milivoj pried up the chapel floorboards and did
+  it, leaving the church without its protection against Strahd's minions. Father
+  Lucian suspects him but hasn't confronted him, fearing what the temperamental
+  young man might do.
 relationships: []
 partyRelationships: {}
 location: null
 pronounced: MIL-ih-voy
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 17
 occupation:
@@ -44,12 +43,14 @@ groups:
   - St. Andral's Church
 religions: []
 personality: 'Brooding, temperamental, protective; carries himself like a man twice his age'
-ideal: Family comes before anything else, even the law.
-bond: His younger siblings, whom he's desperate to keep fed and safe.
+ideal: 'Family comes before anything else, even the law.'
+bond: 'His younger siblings, whom he''s desperate to keep fed and safe.'
 flaw: His temper and his desperation make him easy for the wrong people to buy.
-goals: To free his family from Barovia's curse, or at least keep them fed until then.
-likes: "Quiet work, his siblings, being trusted with responsibility"
-dislikes: "Empty promises of 'All will be well,' being confronted about his mistakes, feeling powerless"
+goals: 'To free his family from Barovia''s curse, or at least keep them fed until then.'
+likes: 'Quiet work, his siblings, being trusted with responsibility'
+dislikes: >-
+  Empty promises of 'All will be well,' being confronted about his mistakes,
+  feeling powerless
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -81,11 +82,7 @@ dislikes: "Empty promises of 'All will be well,' being confronted about his mist
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 97*
 
-A brawny lad with a perpetually furrowed brow, Milivoj tends the grounds of St. Andral's Church and digs its graves, rarely seen without the shovel he wields like a club. He rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings — he wants to be free of Barovia's curse but sees no hope of escape.
-
-## The Missing Bones
-
-Milivoj is the culprit behind the theft of St. Andral's protective relic. Father Lucian Petrovich correctly suspects him, but has been reluctant to confront the temperamental young man or report the theft, not wanting to cause more distress or ruin the burgomaster's festival. If pressed, Milivoj admits that the altar boy Yeska told him about the bones, and that he passed the information along to [[Henrik Van Der Voort (COS)|Henrik van der Voort]], the local coffin maker, stealing the bones for him in return for money to help feed his younger siblings.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

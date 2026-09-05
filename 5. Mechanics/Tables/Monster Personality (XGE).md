@@ -11,7 +11,7 @@ aliases:
 
 **Monster Personality**
 
-`dice: [[Monster Personality (XGE).md#^monster-personality]]`
+`dice: [[/5. Mechanics/Tables/Monster Personality (XGE).md#^monster-personality]]`
 
 | dice: d8 | Personality |
 |----------|-------------|

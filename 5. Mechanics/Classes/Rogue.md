@@ -135,7 +135,7 @@ What's the one form of temptation that your rogue character can't resist when th
 
 **Guilty Pleasures**
 
-`dice: [[Rogue.md#^guilty-pleasures]]`
+`dice: [[/5. Mechanics/Classes/Rogue.md#^guilty-pleasures]]`
 
 | dice: d6 | Pleasure |
 |----------|----------|
@@ -158,7 +158,7 @@ Does your rogue character have an adversary who also happens to be a criminal? I
 
 **Adversaries**
 
-`dice: [[Rogue.md#^adversaries]]`
+`dice: [[/5. Mechanics/Classes/Rogue.md#^adversaries]]`
 
 | dice: d6 | Adversary |
 |----------|-----------|
@@ -179,7 +179,7 @@ If your character's backstory doesn't already include a personage of this sort, 
 
 **Benefactors**
 
-`dice: [[Rogue.md#^benefactors]]`
+`dice: [[/5. Mechanics/Classes/Rogue.md#^benefactors]]`
 
 | dice: d6 | Benefactor |
 |----------|------------|

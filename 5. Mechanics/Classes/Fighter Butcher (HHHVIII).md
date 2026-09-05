@@ -8,7 +8,7 @@ aliases:
   - Butcher
 ---
 # Butcher
-*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[/5. Mechanics/Classes/Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 112*  
 
 > [!tldr] Class and Feature Progression

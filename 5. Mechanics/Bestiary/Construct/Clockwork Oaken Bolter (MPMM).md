@@ -41,7 +41,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 **Clockwork Enhancements**
 
-`dice: [[Clockwork Oaken Bolter (MPMM).md#^clockwork-enhancements]]`
+`dice: [[/5. Mechanics/Bestiary/Construct/Clockwork Oaken Bolter (MPMM).md#^clockwork-enhancements]]`
 
 | dice: d10 | Enhancement |
 |-----------|-------------|
@@ -59,7 +59,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 **Clockwork Malfunctions**
 
-`dice: [[Clockwork Oaken Bolter (MPMM).md#^clockwork-malfunctions]]`
+`dice: [[/5. Mechanics/Bestiary/Construct/Clockwork Oaken Bolter (MPMM).md#^clockwork-malfunctions]]`
 
 | dice: d8 | Malfunction |
 |----------|-------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Spanish, Female**
 
-`dice: [[Human Names Spanish Female (XGE).md#^human-names-spanish-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Spanish Female (XGE).md#^human-names-spanish-female]]`
 
 | dice: d100 | Name |
 |------------|------|

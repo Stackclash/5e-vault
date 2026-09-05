@@ -11,7 +11,7 @@ aliases:
 
 **Weird Stuff**
 
-`dice: [[Secondary Tables Weird Stuff (XGE).md#^weird-stuff]]`
+`dice: [[/5. Mechanics/Tables/Secondary Tables Weird Stuff (XGE).md#^weird-stuff]]`
 
 | dice: d12 | What Happened |
 |-----------|---------------|

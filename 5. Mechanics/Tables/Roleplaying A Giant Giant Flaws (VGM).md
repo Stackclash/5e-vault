@@ -11,7 +11,7 @@ aliases:
 
 **Giant Flaws**
 
-`dice: [[Roleplaying A Giant Giant Flaws (VGM).md#^giant-flaws]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Giant Giant Flaws (VGM).md#^giant-flaws]]`
 
 | dice: d6 | Flaw |
 |----------|------|

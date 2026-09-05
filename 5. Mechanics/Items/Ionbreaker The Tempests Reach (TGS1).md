@@ -70,7 +70,7 @@ While you're attuned to the bow, you're subjected to the chaotic magic of the St
 
 **Stormheart Effects**
 
-`dice: [[Ionbreaker The Tempests Reach (TGS1).md#^stormheart-effects]]`
+`dice: [[/5. Mechanics/Items/Ionbreaker The Tempests Reach (TGS1).md#^stormheart-effects]]`
 
 | dice: d8 | result |
 |----------|--------|

@@ -31,7 +31,7 @@ You can only be under the effects of 1 sugarbomb that has this feature at a time
 
 **Oozebean Colors**
 
-`dice: [[Frefils Jolly Oozebean Sugarbombs (TGS1).md#^oozebean-colors]]`
+`dice: [[/5. Mechanics/Items/Frefils Jolly Oozebean Sugarbombs (TGS1).md#^oozebean-colors]]`
 
 | dice: d8 | Color | Result |
 |----------|-------|--------|

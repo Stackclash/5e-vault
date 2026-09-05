@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Pets**
 
-`dice: [[Beholder Pets (VGM).md#^beholder-pets]]`
+`dice: [[/5. Mechanics/Tables/Beholder Pets (VGM).md#^beholder-pets]]`
 
 | dice: d100 | Pets |
 |------------|------|

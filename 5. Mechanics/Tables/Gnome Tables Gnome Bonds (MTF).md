@@ -11,7 +11,7 @@ aliases:
 
 **Gnome Bonds**
 
-`dice: [[Gnome Tables Gnome Bonds (MTF).md#^gnome-bonds]]`
+`dice: [[/5. Mechanics/Tables/Gnome Tables Gnome Bonds (MTF).md#^gnome-bonds]]`
 
 | dice: d6 | Bond |
 |----------|------|

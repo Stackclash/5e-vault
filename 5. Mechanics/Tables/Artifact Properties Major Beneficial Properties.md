@@ -11,7 +11,7 @@ aliases:
 
 **Major Beneficial Properties**
 
-`dice: [[Artifact Properties Major Beneficial Properties.md#^major-beneficial-properties]]`
+`dice: [[/5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md#^major-beneficial-properties]]`
 
 | dice: d100 | Property |
 |------------|----------|

@@ -15,7 +15,7 @@ alignment: Neutral Evil
 relationships: []
 partyRelationships: {}
 location: null
-pronounced: 'HEL-gah ROO-vak'
+pronounced: HEL-gah ROO-vak
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 22
@@ -27,23 +27,25 @@ personality: >-
   Plays the innocent damsel to perfection — sweet, frightened, and pleading,
   right up until she attacks.
 ideal: Survival — and comfort — matter more than the person I was.
-bond: Whatever loyalty Strahd still commands from her, freely given.
+bond: 'Whatever loyalty Strahd still commands from her, freely given.'
 flaw: >-
-  Underestimates anyone who takes her act at face value, and is
-  underestimated in turn.
-goals: To lure the unwary into lowering their guard, and serve Strahd when he calls on her.
+  Underestimates anyone who takes her act at face value, and is underestimated
+  in turn.
+goals: >-
+  To lure the unwary into lowering their guard, and serve Strahd when he calls
+  on her.
 likes: 'Fine linens, being believed, the moment before she reveals herself'
 dislikes: 'Being seen through, sunlight, running water'
 description: >-
-  A vampire spawn posing as a castle maid, pale and slender-necked, wearing
-  a gold necklace with a ruby pendant — she claims to be the bootmaker's
-  kidnapped daughter, and to a point, she's telling the truth.
+  A vampire spawn posing as a castle maid, pale and slender-necked, wearing a
+  gold necklace with a ruby pendant — she claims to be the bootmaker's kidnapped
+  daughter, and to a point, she's telling the truth.
 history: >-
-  Helga genuinely is a Barovian bootmaker's daughter — Strahd truly did take
-  her from the village. But unlike the story she tells pleading visitors,
-  she was not forced into evil; she chose it, and now serves as one of
-  Strahd's vampire spawn, tending the castle's guest quarters and playing
-  the innocent captive until the moment she attacks.
+  Helga genuinely is a Barovian bootmaker's daughter — Strahd truly did take her
+  from the village. But unlike the story she tells pleading visitors, she was
+  not forced into evil; she chose it, and now serves as one of Strahd's vampire
+  spawn, tending the castle's guest quarters and playing the innocent captive
+  until the moment she attacks.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -75,11 +77,7 @@ history: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 64*
 
-The maid Helga Ruvak is a vampire spawn who claims to be the daughter of the village bootmaker, kidnapped and forced into service by Strahd. She pleads, on her hands and knees if necessary, to be saved from this awful place.
-
-## An Act, Mostly
-
-Helga will join a party if the characters ask her along, intending to attack them only if she senses an opportunity that doesn't mean fighting the whole group at once — or if Strahd commands it. She plays the part of the innocent damsel in distress to the last, revealing her ferocity only when she strikes. She is, in fact, the bootmaker's daughter she claims to be — but she chose a life of evil with Strahd of her own free will.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

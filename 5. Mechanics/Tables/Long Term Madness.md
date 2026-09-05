@@ -11,7 +11,7 @@ aliases:
 
 **Long-Term Madness**
 
-`dice: [[Long Term Madness.md#^long-term-madness]]`
+`dice: [[/5. Mechanics/Tables/Long Term Madness.md#^long-term-madness]]`
 
 | dice: d100 | Effects (lasts 1d10 × 10 hours) |
 |------------|---------------------------------|

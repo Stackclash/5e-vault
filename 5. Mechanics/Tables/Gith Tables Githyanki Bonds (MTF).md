@@ -11,7 +11,7 @@ aliases:
 
 **Githyanki Bonds**
 
-`dice: [[Gith Tables Githyanki Bonds (MTF).md#^githyanki-bonds]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githyanki Bonds (MTF).md#^githyanki-bonds]]`
 
 | dice: d4 | Bond |
 |----------|------|

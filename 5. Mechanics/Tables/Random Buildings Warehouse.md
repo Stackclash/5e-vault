@@ -11,7 +11,7 @@ aliases:
 
 **Warehouse**
 
-`dice: [[Random Buildings Warehouse.md#^warehouse]]`
+`dice: [[/5. Mechanics/Tables/Random Buildings Warehouse.md#^warehouse]]`
 
 | dice: d20 | Type |
 |-----------|------|

@@ -38,7 +38,7 @@ If the characters explore a residence other than [[/4. World Almanac/NPCs/Mad Ma
 
 **Occupants of Houses in Barovia**
 
-`dice: [[05 Chapter 3 The Village Of Barovia.md#^occupants-of-houses-in-barovia]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/05 Chapter 3 The Village Of Barovia.md#^occupants-of-houses-in-barovia]]`
 
 | dice: d20 | Occupants |
 |-----------|-----------|
@@ -79,7 +79,7 @@ The establishment is 70 feet long by 40 feet wide. The owner, Bildrath Cantemir 
 
 Bildrath trades with the Vistani when they pass through. He is also happy to make a profit from any strangers unlucky enough to find themselves here. He serves his own interests and offers no sanctuary. He never bargains since, as he says, "If you want it badly enough, you'll pay for it." He has no competition in the village.
 
-If the characters give Bildrath a hard time, he calls [[/4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]] (LG male human), his nephew and stock-boy, to help him out. [[/4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]] has the statistics of a [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiator]], except that he has an Intelligence of 6 and doesn't carry a shield (AC 14). [[/4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]]'s real name is Parpol Cantemir, but no one in the village calls him that. His muscles rippling beneath his leather tunic should give ample notice of his strength. At the same time, [[/4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]] is simple-minded. He is devoted to his uncle and will not follow the characters as long as Bildrath has something to say about it.
+If the characters give Bildrath a hard time, he calls [[/4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]] (LG male human), his nephew and stock-boy, to help him out. [[/4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]] has the statistics of a [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiator]], except that he has an Intelligence of 6 and doesn't carry a shield (AC 14). [[/4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]]'s real name is Parpol Cantemir, but no one in the village calls him that. His muscles rippling beneath his leather tunic should give ample notice of his strength. At the same time, [[/4. World Almanac/NPCs/Parriwimple (COS).md\|Parriwimple]] is simple-minded. He is devoted to his uncle and will not follow the characters as long as Bildrath has something to say about it.
 
 ### E2. Blood of the Vine Tavern
 

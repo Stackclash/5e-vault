@@ -60,7 +60,7 @@ aliases:
 You start with the following items, plus anything provided by your background.
 
 - (a) a [[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[/5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon
-- (a) a [[/5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]]
+- (a) a [[/5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[/5. Mechanics/Items/Arcane Focus.md\|arcane focus]]
 - (a) a [[/5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
 - Two [[/5. Mechanics/Items/Dagger.md\|daggers]]
 
@@ -129,7 +129,7 @@ Does your character know the source of your magical power? Does it tie back to s
 
 **Arcane Origins**
 
-`dice: [[Sorcerer.md#^arcane-origins]]`
+`dice: [[/5. Mechanics/Classes/Sorcerer.md#^arcane-origins]]`
 
 | dice: d6 | Origin |
 |----------|--------|
@@ -150,7 +150,7 @@ When your sorcerer's powers appeared, how did the world around you respond? Were
 
 **Reactions**
 
-`dice: [[Sorcerer.md#^reactions]]`
+`dice: [[/5. Mechanics/Classes/Sorcerer.md#^reactions]]`
 
 | dice: d6 | Reaction |
 |----------|----------|
@@ -171,7 +171,7 @@ If your sorcerer has a supernatural mark, it might be one that's easily conceale
 
 **Supernatural Marks**
 
-`dice: [[Sorcerer.md#^supernatural-marks]]`
+`dice: [[/5. Mechanics/Classes/Sorcerer.md#^supernatural-marks]]`
 
 | dice: d6 | Mark |
 |----------|------|
@@ -192,7 +192,7 @@ When your sorcerer character casts a spell, does the effort reveal itself in a s
 
 **Signs of Sorcery**
 
-`dice: [[Sorcerer.md#^signs-of-sorcery]]`
+`dice: [[/5. Mechanics/Classes/Sorcerer.md#^signs-of-sorcery]]`
 
 | dice: d6 | Sign |
 |----------|------|
@@ -228,7 +228,7 @@ Additionally, when you gain a level in this class, you can choose one of the sor
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-**Spellcasting Focus.** You can use an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your sorcerer spells.
+**Spellcasting Focus.** You can use an [[/5. Mechanics/Items/Arcane Focus.md\|arcane focus]] as a spellcasting focus for your sorcerer spells.
 
 ### Sorcerous Origin (Level 1)
 

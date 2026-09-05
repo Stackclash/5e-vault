@@ -9,7 +9,7 @@ aliases:
 # Hobgoblin Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 65* 
 
-`dice: [[Hobgoblin Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Hobgoblin Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

@@ -156,7 +156,7 @@ The foul energies coalescing in Death House have spawned numerous horrors. When 
 
 **Death House Encounters**
 
-`dice: [[06 Chapter 5 Death House.md#^death-house-encounters]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/06 Chapter 5 Death House.md#^death-house-encounters]]`
 
 | dice: d12 | Encounter |
 |-----------|-----------|
@@ -566,8 +566,8 @@ Roll on the Death House Encounters table the first time a character enters this 
 In addition to worthless personal effects, each chest contains one of the following:
 
 - 110 gp and 60 sp in a pouch made of human skin  
-- Three pieces of cut jade (worth 100 gp each) in a folded piece of black cloth  
-- A black leather eye patch with a peridot (worth 500 gp) sewn into it  
+- Three pieces of cut [[/5. Mechanics/Items/Jade.md\|jade]] (worth 100 gp each) in a folded piece of black cloth  
+- A black leather eye patch with a [[/5. Mechanics/Items/Peridot.md\|peridot]] (worth 500 gp) sewn into it  
 - A chess set with pieces made of obsidian and chalcedony (worth 250 gp)  
 - A [[/5. Mechanics/Items/2 Weapon.md\|+2 Shortsword]]  
 
@@ -760,7 +760,7 @@ A character who exits a haunted zone appears somewhere in Death House. Character
 
 **Emergence from a Haunted Zone**
 
-`dice: [[06 Chapter 5 Death House.md#^emergence-from-a-haunted-zone]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/06 Chapter 5 Death House.md#^emergence-from-a-haunted-zone]]`
 
 | dice: d6 | Location Emerged |
 |----------|------------------|

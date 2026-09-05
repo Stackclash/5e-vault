@@ -11,7 +11,7 @@ aliases:
 
 **Birth Order**
 
-`dice: [[Other Details Birth Order (XGE).md#^birth-order]]`
+`dice: [[/5. Mechanics/Tables/Other Details Birth Order (XGE).md#^birth-order]]`
 
 | dice: 2d6 | Birth Order |
 |-----------|-------------|

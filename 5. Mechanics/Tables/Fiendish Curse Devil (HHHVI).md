@@ -9,7 +9,7 @@ aliases:
 # Fiendish Curse (Devil)
 *Source: Hamund's Harvesting Handbook: Volume I p. 27, Hamund's Harvesting Handbook: Volume III p. 29* 
 
-`dice: [[Fiendish Curse Devil (HHHVI).md#^curse]]`
+`dice: [[/5. Mechanics/Tables/Fiendish Curse Devil (HHHVI).md#^curse]]`
 
 | dice: d6 | Curse |
 |----------|-------|

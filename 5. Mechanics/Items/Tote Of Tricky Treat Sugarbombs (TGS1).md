@@ -27,7 +27,7 @@ This canvas bag holds `dice:5d8+10|noform|noparens|avg` (`5d8 + 10`) clove and p
 
 **Tricky Treat Sugarbomb Effects**
 
-`dice: [[Tote Of Tricky Treat Sugarbombs (TGS1).md#^tricky-treat-sugarbomb-effects]]`
+`dice: [[/5. Mechanics/Items/Tote Of Tricky Treat Sugarbombs (TGS1).md#^tricky-treat-sugarbomb-effects]]`
 
 | dice: d20 | Effect |
 |-----------|--------|

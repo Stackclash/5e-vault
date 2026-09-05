@@ -11,7 +11,7 @@ aliases:
 
 The manipulative energy that corrupts a forest into a grymclover one can linger for centuries, if not longer. Such twisted magic can wrack the minds of travelers with doubts and fears. Characters within a forest must succeed on a DC 13 Intelligence saving throw whenever they finish a long rest or suffer from an effect from the Corruptive Influence table below. A character has disadvantage on saving throws against these effects if it is within 3 miles of a gateway to the plane of the Fey or the realm of shadows and dread. A corruptive influence lasts until the creature finishes a long rest or is targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic.
 
-`dice: [[Grymclover Forests Corruptive Influence (GRIFFONSSADDLEBAG2).md#^1-type-of-corruptive-influence]]`
+`dice: [[/5. Mechanics/Tables/Grymclover Forests Corruptive Influence (GRIFFONSSADDLEBAG2).md#^1-type-of-corruptive-influence]]`
 
 | dice: 1d4 | Type of Corruptive Influence |
 |-----------|------------------------------|

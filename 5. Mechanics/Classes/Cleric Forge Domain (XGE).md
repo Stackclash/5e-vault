@@ -9,7 +9,7 @@ aliases:
   - Forge Domain
 ---
 # Forge Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Xanathar's Guide to Everything p. 18*  
 
 > [!tldr] Class and Feature Progression
@@ -48,7 +48,7 @@ aliases:
 > 
 > I've got a minion that forges things. An ink-stained little twerp with excellent penmanship. So how do the hammers and fire help the process? Wouldn't the paper get burned? Oh, the fire must be for the wax seals!
 
-The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [[/5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[/5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[/5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[/5. Mechanics/Deities/Greek Hephaest(US).md\|Hephaestus]], and [[/5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
+The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [[/5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[/5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[/5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[/5. Mechanics/Deities/Greek Hephaestus.md\|Hephaestus]], and [[/5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
 
 ## Subclass Features
 
@@ -61,7 +61,7 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 | Cleric Level | Spells |
 |--------------|--------|
 | 1st | [[/5. Mechanics/Spells/Identify.md\|identify]], [[/5. Mechanics/Spells/Searing Smite.md\|searing smite]] |
-| 3rd | [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[/5. Mechanics/Spells/Magic Weapon.md\|magic weapon]] |
+| 3rd | [[/5. Mechanics/Spells/Heat Metal.md\|heat metal]], [[/5. Mechanics/Spells/Magic Weapon.md\|magic weapon]] |
 | 5th | [[/5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
 | 7th | [[/5. Mechanics/Spells/Fabricate.md\|fabricate]], [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
 | 9th | [[/5. Mechanics/Spells/Animate Objects.md\|animate objects]], [[/5. Mechanics/Spells/Creation.md\|creation]] |

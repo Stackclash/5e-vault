@@ -11,7 +11,7 @@ aliases:
 
 **Individual Treasure: Challenge 17+**
 
-`dice: [[Individual Treasure Challenge 17.md#^individual-treasure-challenge-17]]`
+`dice: [[/5. Mechanics/Tables/Individual Treasure Challenge 17.md#^individual-treasure-challenge-17]]`
 
 | dice: d100 | CP | SP | EP | GP | PP |
 |------------|----|----|----|----|----|

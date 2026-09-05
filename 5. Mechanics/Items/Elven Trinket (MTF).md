@@ -24,7 +24,7 @@ item_recharge: none
 await dv.view("views/itemPrice", {current: dv.current()})
 ```
 
-`dice: [[Elven Trinket (MTF).md#^trinket]]`
+`dice: [[/5. Mechanics/Items/Elven Trinket (MTF).md#^trinket]]`
 
 | dice: d8 | Trinket |
 |----------|---------|

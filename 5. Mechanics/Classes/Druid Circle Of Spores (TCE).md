@@ -8,7 +8,7 @@ aliases:
   - Circle of Spores
 ---
 # Circle of Spores
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Tasha's Cauldron of Everything p. 36*  
 
 > [!tldr] Class and Feature Progression

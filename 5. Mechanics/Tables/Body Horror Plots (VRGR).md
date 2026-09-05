@@ -11,7 +11,7 @@ aliases:
 
 **Body Horror Plots**
 
-`dice: [[Body Horror Plots (VRGR).md#^body-horror-plots]]`
+`dice: [[/5. Mechanics/Tables/Body Horror Plots (VRGR).md#^body-horror-plots]]`
 
 | dice: d8 | Plot |
 |----------|------|

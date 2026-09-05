@@ -8,7 +8,7 @@ aliases:
   - The Fathomless
 ---
 # The Fathomless
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Tasha's Cauldron of Everything p. 72*  
 
 > [!tldr] Class and Feature Progression

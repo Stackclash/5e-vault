@@ -8,7 +8,7 @@ aliases:
   - Shadow Bloodline
 ---
 # Shadow Bloodline
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Deep Magic p. 253*  
 
 > [!tldr] Class and Feature Progression

@@ -31,7 +31,7 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 
 **Relentless Origins**
 
-`dice: [[Relentless Juggernaut (VRGR).md#^relentless-origins]]`
+`dice: [[/5. Mechanics/Bestiary/Fiend/Relentless Juggernaut (VRGR).md#^relentless-origins]]`
 
 | dice: d6 | Origin |
 |----------|--------|
@@ -45,7 +45,7 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 
 **Relentless Methods**
 
-`dice: [[Relentless Juggernaut (VRGR).md#^relentless-methods]]`
+`dice: [[/5. Mechanics/Bestiary/Fiend/Relentless Juggernaut (VRGR).md#^relentless-methods]]`
 
 | dice: d8 | Method |
 |----------|--------|

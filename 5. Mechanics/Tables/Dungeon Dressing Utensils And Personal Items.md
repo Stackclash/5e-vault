@@ -11,7 +11,7 @@ aliases:
 
 **Utensils and Personal Items**
 
-`dice: [[Dungeon Dressing Utensils And Personal Items.md#^utensils-and-personal-items]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing Utensils And Personal Items.md#^utensils-and-personal-items]]`
 
 | dice: d100 | Item |
 |------------|------|

@@ -9,7 +9,7 @@ aliases:
   - Light Domain
 ---
 # Light Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 60*  
 
 > [!tldr] Class and Feature Progression
@@ -44,7 +44,7 @@ aliases:
 ^class-progression
 
 
-Gods of light—including Helm, Lathander, [[/5. Mechanics/Deities/Greyhawk Pholt(US).md\|Pholtus]], [[/5. Mechanics/Deities/Dragonlance Branchala (PHB).md\|Branchala]], [[/5. Mechanics/Deities/Eberron The Silver Flame.md\|the Silver Flame]], [[/5. Mechanics/Deities/Celtic Belen(US).md\|Belenus]], [[/5. Mechanics/Deities/Greek Apollo.md\|Apollo]], and [[/5. Mechanics/Deities/Egyptian Re Horakhty.md\|Re-Horakhty]]—promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.
+Gods of light—including Helm, Lathander, [[/5. Mechanics/Deities/Greyhawk Pholtus.md\|Pholtus]], [[/5. Mechanics/Deities/Dragonlance Branchala (PHB).md\|Branchala]], [[/5. Mechanics/Deities/Eberron The Silver Flame.md\|the Silver Flame]], [[/5. Mechanics/Deities/Celtic Belenus.md\|Belenus]], [[/5. Mechanics/Deities/Greek Apollo.md\|Apollo]], and [[/5. Mechanics/Deities/Egyptian Re Horakhty.md\|Re-Horakhty]]—promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.
 
 ## Subclass Features
 

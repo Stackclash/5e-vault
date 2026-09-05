@@ -9,7 +9,7 @@ aliases:
   - Travel Domain
 ---
 # Travel Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Deep Magic p. 134*  
 
 > [!tldr] Class and Feature Progression
@@ -56,7 +56,7 @@ Voyages across oceans, over mountain ranges, through steaming jungles, and from 
 |--------------|--------|
 | 1st | [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[/5. Mechanics/Spells/Longstrider.md\|longstrider]] |
 | 3rd | [[/5. Mechanics/Spells/Find Steed.md\|find steed]], [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
-| 5th | [[/5. Mechanics/Spells/Haste.md\|haste]], [[/5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
+| 5th | [[/5. Mechanics/Spells/Haste.md\|haste]], [[/5. Mechanics/Spells/Water Walk.md\|water walk]] |
 | 7th | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] |
 | 9th | passwall, [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
 ^travel-domain-spells

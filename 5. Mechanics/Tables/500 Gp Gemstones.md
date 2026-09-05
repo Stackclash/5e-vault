@@ -11,7 +11,7 @@ aliases:
 
 **500 gp Gemstones**
 
-`dice: [[500 Gp Gemstones.md#^500-gp-gemstones]]`
+`dice: [[/5. Mechanics/Tables/500 Gp Gemstones.md#^500-gp-gemstones]]`
 
 | dice: d6 | Stone Description |
 |----------|-------------------|

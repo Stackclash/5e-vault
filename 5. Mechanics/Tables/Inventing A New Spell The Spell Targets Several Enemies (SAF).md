@@ -11,7 +11,7 @@ aliases:
 
 **The Spell Targets Several Enemies**
 
-`dice: [[Inventing A New Spell The Spell Targets Several Enemies (SAF).md#^the-spell-targets-several-enemies]]`
+`dice: [[/5. Mechanics/Tables/Inventing A New Spell The Spell Targets Several Enemies (SAF).md#^the-spell-targets-several-enemies]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|

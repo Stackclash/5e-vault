@@ -11,7 +11,7 @@ aliases:
 
 **Forest Encounters (Levels 17—20)**
 
-`dice: [[Forest Encounters Levels 1720 (XGE).md#^forest-encounters-levels-1720]]`
+`dice: [[/5. Mechanics/Tables/Forest Encounters Levels 1720 (XGE).md#^forest-encounters-levels-1720]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

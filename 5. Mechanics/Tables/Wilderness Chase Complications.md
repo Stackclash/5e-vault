@@ -11,7 +11,7 @@ aliases:
 
 **Wilderness Chase Complications**
 
-`dice: [[Wilderness Chase Complications.md#^wilderness-chase-complications]]`
+`dice: [[/5. Mechanics/Tables/Wilderness Chase Complications.md#^wilderness-chase-complications]]`
 
 | dice: d20 | Complication |
 |-----------|--------------|

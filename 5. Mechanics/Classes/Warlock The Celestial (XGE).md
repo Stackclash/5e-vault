@@ -8,7 +8,7 @@ aliases:
   - The Celestial
 ---
 # The Celestial
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Xanathar's Guide to Everything p. 54*  
 
 > [!tldr] Class and Feature Progression

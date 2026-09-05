@@ -60,10 +60,10 @@ aliases:
       \ [[/5. Mechanics/Spells/Disguise Self.md|disguise self]] (often with a longer\
       \ duration than is normal for that spell; see Disguises)\n\n**3/day each:**\
       \ [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]] (can\
-      \ create wine instead of water), [[/5. Mechanics/Spells/Tongues.md|tongues]], [[/5. Mechanics/Spells/Wind Wa(LK).md|wind\
+      \ create wine instead of water), [[/5. Mechanics/Spells/Tongues.md|tongues]], [[/5. Mechanics/Spells/Wind Walk.md|wind\
       \ walk]], [[/5. Mechanics/Spells/True Polymorph.md|true polymorph]]\
-      \ (mightier genies only; see Disguises)\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
-      \ ([[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md|air elemental]] only), [[/5. Mechanics/Spells/Creation.md|creation]],\
+      \ (mightier genies only; see Disguises)\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
+      \ ([[/5. Mechanics/Bestiary/Elemental/Air Elemental.md|air elemental]] only), [[/5. Mechanics/Spells/Creation.md|creation]],\
       \ [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
       \ [[/5. Mechanics/Spells/Major Image.md|major image]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]]"
     "name": "Innate Spellcasting"

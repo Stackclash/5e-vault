@@ -9,7 +9,7 @@ aliases:
 # Durheim Monastery; Ethereal Random Encounter Table
 *Source: The Griffon's Saddlebag, Book 2 p. 264* 
 
-`dice: [[Durheim Monastery Ethereal Random Encounter Table (GRIFFONSSADDLEBAG2).md#^3-encounter]]`
+`dice: [[/5. Mechanics/Tables/Durheim Monastery Ethereal Random Encounter Table (GRIFFONSSADDLEBAG2).md#^3-encounter]]`
 
 | dice: 3d6 | Encounter |
 |-----------|-----------|

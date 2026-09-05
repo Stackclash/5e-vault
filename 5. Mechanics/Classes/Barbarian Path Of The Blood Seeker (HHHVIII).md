@@ -8,7 +8,7 @@ aliases:
   - Path of the Blood Seeker
 ---
 # Path of the Blood Seeker
-*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[/5. Mechanics/Classes/Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 109*  
 
 > [!tldr] Class and Feature Progression

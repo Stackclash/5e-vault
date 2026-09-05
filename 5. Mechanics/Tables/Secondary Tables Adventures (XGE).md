@@ -11,7 +11,7 @@ aliases:
 
 **Adventures**
 
-`dice: [[Secondary Tables Adventures (XGE).md#^adventures]]`
+`dice: [[/5. Mechanics/Tables/Secondary Tables Adventures (XGE).md#^adventures]]`
 
 | dice: d100 | Outcome |
 |------------|---------|

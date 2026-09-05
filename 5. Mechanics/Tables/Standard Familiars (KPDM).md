@@ -9,7 +9,7 @@ aliases:
 # Standard Familiars
 *Source: Deep Magic p. 291* 
 
-`dice: [[Standard Familiars (KPDM).md#^standard-familiar]]`
+`dice: [[/5. Mechanics/Tables/Standard Familiars (KPDM).md#^standard-familiar]]`
 
 | dice: d12 | Standard Familiar |
 |-----------|-------------------|

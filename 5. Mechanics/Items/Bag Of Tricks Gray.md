@@ -32,7 +32,7 @@ The creature is friendly to you and your companions, and it acts on your turn. Y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-`dice: [[Bag Of Tricks Gray.md#^creature]]`
+`dice: [[/5. Mechanics/Items/Bag Of Tricks Gray.md#^creature]]`
 
 | dice: d8 | Creature |
 |----------|----------|
@@ -43,7 +43,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 5 | [[/5. Mechanics/Bestiary/Beast/Panther.md\|Panther]] |
 | 6 | [[/5. Mechanics/Bestiary/Beast/Giant Badger.md\|Giant badger]] |
 | 7 | [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|Dire wolf]] |
-| 8 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] |
+| 8 | [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|Giant elk]] |
 ^creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

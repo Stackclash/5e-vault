@@ -11,7 +11,7 @@ aliases:
 
 **Fatal Flaws**
 
-`dice: [[Wicked Personality Fatal Flaws (VRGR).md#^fatal-flaws]]`
+`dice: [[/5. Mechanics/Tables/Wicked Personality Fatal Flaws (VRGR).md#^fatal-flaws]]`
 
 | dice: d10 | Flaw |
 |-----------|------|

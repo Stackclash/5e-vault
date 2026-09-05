@@ -9,7 +9,7 @@ aliases:
 # Xvart Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume II p. 46* 
 
-`dice: [[Xvart Trinket Table (HHHVII).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Xvart Trinket Table (HHHVII).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

@@ -8,7 +8,7 @@ aliases:
   - Desert Soul
 ---
 # Desert Soul
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: The Griffon's Saddlebag, Book 2 p. 225*  
 
 > [!tldr] Class and Feature Progression

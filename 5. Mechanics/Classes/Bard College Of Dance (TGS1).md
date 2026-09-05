@@ -8,7 +8,7 @@ aliases:
   - College of Dance
 ---
 # College of Dance
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: The Griffon's Saddlebag, Book 1 p. 157*  
 
 > [!tldr] Class and Feature Progression

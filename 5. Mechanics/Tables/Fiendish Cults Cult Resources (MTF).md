@@ -11,7 +11,7 @@ aliases:
 
 **Cult Resources**
 
-`dice: [[Fiendish Cults Cult Resources (MTF).md#^cult-resources]]`
+`dice: [[/5. Mechanics/Tables/Fiendish Cults Cult Resources (MTF).md#^cult-resources]]`
 
 | dice: d6 | Resource |
 |----------|----------|

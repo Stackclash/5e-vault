@@ -13,24 +13,23 @@ aliases:
   - Morgantha
 alignment: Neutral Evil
 description: >-
-  In her human disguise, Morgantha appears as a haggard, heavyset old woman
-  with a face "wrinkled as a boiled apple," wearing a bloodstained,
-  flour-caked apron, her bundled gray hair pinned with a long, sharp bodkin.
-  Beneath the disguise she is a true night hag — withered, green-skinned,
-  and vicious — a shape she sheds without hesitation the moment bartering
-  turns to violence.
+  In her human disguise, Morgantha appears as a haggard, heavyset old woman with
+  a face "wrinkled as a boiled apple," wearing a bloodstained, flour-caked
+  apron, her bundled gray hair pinned with a long, sharp bodkin. Beneath the
+  disguise she is a true night hag — withered, green-skinned, and vicious — a
+  shape she sheds without hesitation the moment bartering turns to violence.
 history: >-
-  Morgantha and her two hag "daughters," Bella Sunbane and Offalia
-  Wormwiggle, are trapped in Barovia like everyone else, but unlike most
-  they've grown to enjoy it. Posing as a miller's family at the ramshackle
-  windmill of Old Bonegrinder outside Vallaki, they grind the bones of
-  murdered children into the key ingredient of their dream pastries — sweets
-  that let desperate Barovians escape Strahd's domain through vivid,
-  addictive dreams. When adults can no longer pay in coin, the hags offer to
-  trade pastries for children instead, corrupting the desperate rather than
-  simply preying on them. Morgantha gave her coven's hag eye to Cyrus
-  Belview, Strahd's disfigured manservant, so she could spy on Castle
-  Ravenloft and stay a step ahead of the vampire she fears and respects.
+  Morgantha and her two hag "daughters," Bella Sunbane and Offalia Wormwiggle,
+  are trapped in Barovia like everyone else, but unlike most they've grown to
+  enjoy it. Posing as a miller's family at the ramshackle windmill of Old
+  Bonegrinder outside Vallaki, they grind the bones of murdered children into
+  the key ingredient of their dream pastries — sweets that let desperate
+  Barovians escape Strahd's domain through vivid, addictive dreams. When adults
+  can no longer pay in coin, the hags offer to trade pastries for children
+  instead, corrupting the desperate rather than simply preying on them.
+  Morgantha gave her coven's hag eye to Cyrus Belview, Strahd's disfigured
+  manservant, so she could spy on Castle Ravenloft and stay a step ahead of the
+  vampire she fears and respects.
 relationships: []
 partyRelationships: {}
 location: null
@@ -46,24 +45,28 @@ groups:
 religions:
   - Ceithlenn of the Crooked Teeth
 personality: >-
-  Business-like and outwardly grandmotherly in her human disguise, proud of
-  her baking "craft," but venomous, greedy, and cruel the moment a customer
-  refuses her or a threat presents itself
+  Business-like and outwardly grandmotherly in her human disguise, proud of her
+  baking "craft," but venomous, greedy, and cruel the moment a customer refuses
+  her or a threat presents itself
 ideal: >-
   Every soul has its price — sell them their dreams, and they'll hand over
   anything, even their own children.
-bond: My daughters, Bella and Offalia, complete my coven; without them I am only two-thirds as strong.
+bond: >-
+  My daughters, Bella and Offalia, complete my coven; without them I am only
+  two-thirds as strong.
 flaw: My hunger for children's bones and suffering always wins out over caution.
 goals: >-
-  To keep her coven of three intact and her supply of dream pastries
-  flowing, trading on Barovians' desperation to escape Strahd's domain in
-  order to harvest more children — and their bones — without provoking the
-  Dark Lord's wrath.
+  To keep her coven of three intact and her supply of dream pastries flowing,
+  trading on Barovians' desperation to escape Strahd's domain in order to
+  harvest more children — and their bones — without provoking the Dark Lord's
+  wrath.
 likes: >-
-  Baking and being praised for it, watching Barovians grow desperate enough
-  to trade away their children, her daughters' company, gossip gathered
-  through her hag eye
-dislikes: Customers who refuse to buy or pay, meddling adventurers, losing a daughter and breaking her coven, being defied
+  Baking and being praised for it, watching Barovians grow desperate enough to
+  trade away their children, her daughters' company, gossip gathered through her
+  hag eye
+dislikes: >-
+  Customers who refuse to buy or pay, meddling adventurers, losing a daughter
+  and breaking her coven, being defied
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -95,19 +98,7 @@ dislikes: Customers who refuse to buy or pay, meddling adventurers, losing a dau
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 48*
 
-Morgantha is the eldest of a coven of three night hags who have made a comfortable, monstrous home for themselves at [[/4. World Almanac/Places of Interest/Old Bonegrinder.md|Old Bonegrinder]], a windmill outside [[/4. World Almanac/Settlements/Vallaki.md|Vallaki]], where she bakes pastries made from the ground bones of murdered children.
-
-## The Business of Dreams
-
-Once a grain mill serving Vallaki, Old Bonegrinder is now home to Morgantha and her "daughters," Bella Sunbane and Offalia Wormwiggle. Using their Change Shape ability to pass as a frumpy miller's family, the hags sell dream pastries — small mincemeat pies that send the eater into a blissful, addictive trance — to Barovian adults desperate for any escape from Strahd's domain. When customers can no longer pay, Morgantha offers to trade pastries for their children instead, ensuring a steady supply of the bones her recipe requires.
-
-## A Coven of Three
-
-Morgantha, Bella, and Offalia share the linked spellcasting abilities of a hag coven, and Morgantha tolerates her daughters chiefly because their bond keeps that power intact. Should either daughter die, Morgantha would abduct and devour a human child in order to birth a new daughter and restore the coven.
-
-## An Uneasy Peace with the Devil She Knows
-
-Though the hags fear [[/4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd]] and are careful never to cross him, Morgantha keeps her coven's hag eye in the hands of [[/4. World Almanac/NPCs/Cyrus Belview (COS).md|Cyrus Belview]], Strahd's disfigured manservant, so she can watch Castle Ravenloft from a safe distance. The arrangement lets her track the vampire's moods without ever having to test his patience directly.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

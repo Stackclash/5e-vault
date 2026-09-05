@@ -11,7 +11,7 @@ aliases:
 
 **Event-Based Villain Actions**
 
-`dice: [[Determine The Villains Actions Event Based Villain Actions.md#^event-based-villain-actions]]`
+`dice: [[/5. Mechanics/Tables/Determine The Villains Actions Event Based Villain Actions.md#^event-based-villain-actions]]`
 
 | dice: d6 | Type of Actions |
 |----------|-----------------|

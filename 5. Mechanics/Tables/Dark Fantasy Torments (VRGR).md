@@ -11,7 +11,7 @@ aliases:
 
 **Dark Fantasy Torments**
 
-`dice: [[Dark Fantasy Torments (VRGR).md#^dark-fantasy-torments]]`
+`dice: [[/5. Mechanics/Tables/Dark Fantasy Torments (VRGR).md#^dark-fantasy-torments]]`
 
 | dice: d8 | Torment |
 |----------|---------|

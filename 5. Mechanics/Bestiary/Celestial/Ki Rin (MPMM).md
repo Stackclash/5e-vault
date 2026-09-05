@@ -105,7 +105,7 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
       \ [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]], [[/5. Mechanics/Spells/Greater Restoration.md|greater\
       \ restoration]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]],\
       \ [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
-      \ [[/5. Mechanics/Spells/Revivify.md|revivify]], [[/5. Mechanics/Spells/Wind Wa(LK).md|wind walk]]"
+      \ [[/5. Mechanics/Spells/Revivify.md|revivify]], [[/5. Mechanics/Spells/Wind Walk.md|wind walk]]"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), a kirin can take one\

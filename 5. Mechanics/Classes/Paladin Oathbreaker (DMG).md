@@ -8,7 +8,7 @@ aliases:
   - Oathbreaker
 ---
 # Oathbreaker
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Dungeon Master's Guide p. 97*  
 
 > [!tldr] Class and Feature Progression

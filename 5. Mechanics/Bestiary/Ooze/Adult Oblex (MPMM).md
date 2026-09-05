@@ -96,7 +96,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
       \ must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage\
       \ and become memory drained until it finishes a short or long rest or until\
       \ it benefits from the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-      \ or [[/5. Mechanics/Spells/He(AL).md|heal]] spell. Constructs, Oozes, Plants, and\
+      \ or [[/5. Mechanics/Spells/Heal.md|heal]] spell. Constructs, Oozes, Plants, and\
       \ Undead succeed on the save automatically.\n\nWhile memory drained, the target\
       \ must roll a d4 and subtract the number rolled from its ability checks and\
       \ attack rolls. Each time the target is memory drained beyond the first, the\

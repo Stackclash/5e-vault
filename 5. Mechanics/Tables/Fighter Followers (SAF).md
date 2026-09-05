@@ -11,7 +11,7 @@ aliases:
 
 **Fighter Followers**
 
-`dice: [[Fighter Followers (SAF).md#^fighter-followers]]`
+`dice: [[/5. Mechanics/Tables/Fighter Followers (SAF).md#^fighter-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

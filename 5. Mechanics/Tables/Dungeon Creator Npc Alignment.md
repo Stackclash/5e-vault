@@ -11,7 +11,7 @@ aliases:
 
 **NPC Alignment**
 
-`dice: [[Dungeon Creator Npc Alignment.md#^npc-alignment]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Creator Npc Alignment.md#^npc-alignment]]`
 
 | dice: d20 | Alignment |
 |-----------|-----------|

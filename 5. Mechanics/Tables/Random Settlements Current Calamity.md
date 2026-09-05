@@ -11,7 +11,7 @@ aliases:
 
 **Current Calamity**
 
-`dice: [[Random Settlements Current Calamity.md#^current-calamity]]`
+`dice: [[/5. Mechanics/Tables/Random Settlements Current Calamity.md#^current-calamity]]`
 
 | dice: d20 | Calamity |
 |-----------|----------|

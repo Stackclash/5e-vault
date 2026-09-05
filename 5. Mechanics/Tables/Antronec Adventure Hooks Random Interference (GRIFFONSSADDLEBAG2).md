@@ -9,7 +9,7 @@ aliases:
 # Antronec Adventure Hooks; Random Interference
 *Source: The Griffon's Saddlebag, Book 2 p. 246* 
 
-`dice: [[Antronec Adventure Hooks Random Interference (GRIFFONSSADDLEBAG2).md#^interference]]`
+`dice: [[/5. Mechanics/Tables/Antronec Adventure Hooks Random Interference (GRIFFONSSADDLEBAG2).md#^interference]]`
 
 | dice: d8 | Interference |
 |----------|--------------|

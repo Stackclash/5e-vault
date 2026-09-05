@@ -11,7 +11,7 @@ aliases:
 
 **Giant Personality Traits**
 
-`dice: [[Roleplaying A Giant Giant Personality Traits (VGM).md#^giant-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Giant Giant Personality Traits (VGM).md#^giant-personality-traits]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|

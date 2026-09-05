@@ -11,7 +11,7 @@ aliases:
 
 **Air**
 
-`dice: [[Dungeon Dressing Air.md#^air]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing Air.md#^air]]`
 
 | dice: d100 | Effect |
 |------------|--------|

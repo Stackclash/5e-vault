@@ -523,7 +523,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Hempen Rope 50 F(EET).md|Hempen Rope 50 F(EET)]]"
+  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -666,7 +666,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-  - name: "[[5. Mechanics/Items/Hempen Rope 50 F(EET).md|Hempen Rope 50 F(EET)]]"
+  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
     type: Other Gear
     rarity: Common
     quantity: 1

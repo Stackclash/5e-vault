@@ -28,7 +28,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 **Curse of Strahd. Character Options, Gothic Trinket Table**
 
-`dice: [[Trinket (COS).md#^curse-of-strahd-character-options-gothic-trinket-table]]`
+`dice: [[/5. Mechanics/Items/Trinket (COS).md#^curse-of-strahd-character-options-gothic-trinket-table]]`
 
 | dice: d100 | Trinket |
 |------------|---------|

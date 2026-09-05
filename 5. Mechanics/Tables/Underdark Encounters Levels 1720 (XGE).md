@@ -11,13 +11,13 @@ aliases:
 
 **Underdark Encounters (Levels 17—20)**
 
-`dice: [[Underdark Encounters Levels 1720 (XGE).md#^underdark-encounters-levels-1720]]`
+`dice: [[/5. Mechanics/Tables/Underdark Encounters Levels 1720 (XGE).md#^underdark-encounters-levels-1720]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Grick Alpha.md\|grick alphas]] |
-| 02 | `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Aberration/Specta(TOR).md\|spectators]] |
-| 03-04 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]] or `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Moni(TOR).md\|kuo-toa monitors]] |
+| 02 | `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Aberration/Spectator.md\|spectators]] |
+| 03-04 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]] or `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Monitor.md\|kuo-toa monitors]] |
 | 05-06 | `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Aberration/Grell.md\|grells]] |
 | 07-08 | `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Monstrosity/Phase Spider.md\|phase spiders]] |
 | 09-10 | `dice:4d4\|noform\|noparens\|avg` (`4d4`) [[/5. Mechanics/Bestiary/Fiend/Hell Hound.md\|hell hounds]] |
@@ -27,7 +27,7 @@ aliases:
 | 17-18 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Chimera.md\|chimeras]] |
 | 19-20 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Aberration/Cloaker.md\|cloakers]] |
 | 21 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captains]] with `dice:5d10\|noform\|noparens\|avg` (`5d10`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
-| 22-23 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elementals]] |
+| 22-23 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elementals]] |
 | 24-25 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
 | 26-27 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]] |
 | 28-30 | A 30-foot-tall inverted black pyramid floating 1 inch above the floor in a large cave |
@@ -40,7 +40,7 @@ aliases:
 | 44-45 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Drow Mage.md\|drow mages]] with `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Humanoid/Drow Elite Warrior.md\|drow elite warriors]] |
 | 46-47 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md\|spirit nagas]] |
 | 48-49 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Elemental/Salamander.md\|salamanders]] |
-| 50-51 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Monstrosity/Umber Hu(LK).md\|umber hulks]] |
+| 50-51 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Monstrosity/Umber Hulk.md\|umber hulks]] |
 | 52-53 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Elemental/Xorn.md\|xorn]] |
 | 54-56 | 1 [[/5. Mechanics/Bestiary/Dragon/Young Red Shadow Dragon.md\|young red shadow dragon]] |
 | 57-59 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Giant/Fomorian.md\|fomorians]] |

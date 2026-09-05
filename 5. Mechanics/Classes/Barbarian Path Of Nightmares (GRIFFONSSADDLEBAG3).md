@@ -8,7 +8,7 @@ aliases:
   - Path of Nightmares
 ---
 # Path of Nightmares
-*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[/5. Mechanics/Classes/Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: The Griffon's Saddlebag, Book 3*  
 
 > [!tldr] Class and Feature Progression
@@ -51,7 +51,7 @@ Barbarians of the Path of Nightmares believe that battles are fought by both fle
 
 Starting when you choose this path at 3rd level, you harness your own fears to empower your abilities. Your rage manifests visually as a small, nightmarish illusion from your body. The appearance may be a random phenomenon or something you choose, or it may even be based on your personal nightmares that come to the surface when you rage. Choose a nightmarish appearance or roll on the table below.
 
-`dice: [[Barbarian Path Of Nightmares (GRIFFONSSADDLEBAG3).md#^1-illusion]]`
+`dice: [[/5. Mechanics/Classes/Barbarian Path Of Nightmares (GRIFFONSSADDLEBAG3).md#^1-illusion]]`
 
 | dice: 1d8 | Illusion |
 |-----------|----------|

@@ -73,7 +73,7 @@ cr: Unknown
       \ A skinwalker can only be in one form at a time."
     "name": "Transform–Dire Wolf (3/Day)"
   - "desc": "*Prerequisite: 5th-level retainer*\n\nThe skinwalker assumes the shape\
-      \ of an [[/5. Mechanics/Bestiary/Beast/Allosaur(US).md|allosaurus]] for 1 minute.\
+      \ of an [[/5. Mechanics/Bestiary/Beast/Allosaurus.md|allosaurus]] for 1 minute.\
       \ While in this form, the skinwalker's signature attack deals 15 (2d10 + 4)\
       \ piercing damage. Their movement increases to 60 feet, and if they move at\
       \ least 30 feet straight toward a creature and then hit it with their signature\

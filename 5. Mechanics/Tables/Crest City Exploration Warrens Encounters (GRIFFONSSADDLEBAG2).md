@@ -9,7 +9,7 @@ aliases:
 # Crest City Exploration; Warrens Encounters
 *Source: The Griffon's Saddlebag, Book 2 p. 257* 
 
-`dice: [[Crest City Exploration Warrens Encounters (GRIFFONSSADDLEBAG2).md#^3-encounter]]`
+`dice: [[/5. Mechanics/Tables/Crest City Exploration Warrens Encounters (GRIFFONSSADDLEBAG2).md#^3-encounter]]`
 
 | dice: 3d6 | Encounter |
 |-----------|-----------|

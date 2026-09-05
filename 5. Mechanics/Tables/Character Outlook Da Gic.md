@@ -9,7 +9,7 @@ aliases:
 # Character Outlook
 *Source: Devil's Advocate: A Guide to Infernal Contracts p. 18* 
 
-`dice: [[Character Outlook Da Gic.md#^i-traded-my-soul-now-im]]`
+`dice: [[/5. Mechanics/Tables/Character Outlook Da Gic.md#^i-traded-my-soul-now-im]]`
 
 | dice: d8 | I traded my soul, now I'm... |
 |----------|------------------------------|

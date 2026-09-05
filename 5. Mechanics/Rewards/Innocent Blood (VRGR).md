@@ -23,6 +23,6 @@ The character is cursed with [[/5. Mechanics/Bestiary/Monstrosity/Loup Garou (VR
 
 ## Resolution
 
-This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the ""Loup Garou Lycanthropy"" section of "chapter 5". Treat the character as a [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] whose loup garou progenitor has been killed.
+This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the "[[/5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md\|5]]" section of "chapter 5". Treat the character as a [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] whose loup garou progenitor has been killed.
 
 *Source: Van Richten's Guide to Ravenloft p. 194*

@@ -11,7 +11,7 @@ aliases:
 
 **Dark Fantasy Adventure Sites**
 
-`dice: [[Dark Fantasy Adventure Sites (VRGR).md#^dark-fantasy-adventure-sites]]`
+`dice: [[/5. Mechanics/Tables/Dark Fantasy Adventure Sites (VRGR).md#^dark-fantasy-adventure-sites]]`
 
 | dice: d8 | Adventure Site |
 |----------|----------------|

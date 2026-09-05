@@ -8,7 +8,7 @@ aliases:
   - Champion
 ---
 # Champion
-*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[/5. Mechanics/Classes/Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Player's Handbook p. 72. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 > [!tldr] Class and Feature Progression

@@ -26,7 +26,7 @@ You know the secret patterns and flow to cities and can find passages through th
 
 Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a commitment to the people with whom they shared life on the street or by a burning desire to find a better life—and maybe get some payback on all the rich people who treated them badly.
 
-`dice: [[Urchin.md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Urchin.md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -40,7 +40,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 8 | I bluntly say what others are hinting at or hiding. |
 ^personality-trait
 
-`dice: [[Urchin.md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Urchin.md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -52,7 +52,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 6 | Aspiration. I'm going to prove that I'm worthy of a better life. (Any) |
 ^ideal
 
-`dice: [[Urchin.md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Urchin.md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -64,7 +64,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 6 | No one else should have to endure the hardships I've been through. |
 ^bond
 
-`dice: [[Urchin.md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Urchin.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

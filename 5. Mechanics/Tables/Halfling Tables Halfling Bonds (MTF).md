@@ -11,7 +11,7 @@ aliases:
 
 **Halfling Bonds**
 
-`dice: [[Halfling Tables Halfling Bonds (MTF).md#^halfling-bonds]]`
+`dice: [[/5. Mechanics/Tables/Halfling Tables Halfling Bonds (MTF).md#^halfling-bonds]]`
 
 | dice: d6 | Bond |
 |----------|------|

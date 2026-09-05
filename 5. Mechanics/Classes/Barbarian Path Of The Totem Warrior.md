@@ -8,7 +8,7 @@ aliases:
   - Path of the Totem Warrior
 ---
 # Path of the Totem Warrior
-*[[.nullBarbarian.md\|Barbarian]]: Primal Path*  
+*[[/5. Mechanics/Classes/Barbarian.md\|Barbarian]]: Primal Path*  
 *Source: Player's Handbook p. 50*  
 
 > [!tldr] Class and Feature Progression

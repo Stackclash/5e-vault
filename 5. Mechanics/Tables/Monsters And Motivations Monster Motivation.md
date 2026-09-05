@@ -11,7 +11,7 @@ aliases:
 
 **Monster Motivation**
 
-`dice: [[Monsters And Motivations Monster Motivation.md#^monster-motivation]]`
+`dice: [[/5. Mechanics/Tables/Monsters And Motivations Monster Motivation.md#^monster-motivation]]`
 
 | dice: d20 | Goals |
 |-----------|-------|

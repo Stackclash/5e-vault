@@ -11,7 +11,7 @@ aliases:
 
 **Container Contents**
 
-`dice: [[Dungeon Dressing Container Contents.md#^container-contents]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing Container Contents.md#^container-contents]]`
 
 | dice: d100 | Item |
 |------------|------|

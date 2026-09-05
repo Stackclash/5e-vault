@@ -15,7 +15,7 @@ aliases:
 |-------|-----------|-------------------|--------|
 | [[/5. Mechanics/Deities/Celtic The Daghdha.md\|The Daghdha]], god of weather and crops | CG | Nature, Trickery | Bubbling cauldron or shield |
 | [[/5. Mechanics/Deities/Celtic Arawn.md\|Arawn]], god of life and death | NE | Life, Death | Black star on gray background |
-| [[/5. Mechanics/Deities/Celtic Belen(US).md\|Belenus]], god of sun, light, and warmth | NG | Light | Solar disk and standing stones |
+| [[/5. Mechanics/Deities/Celtic Belenus.md\|Belenus]], god of sun, light, and warmth | NG | Light | Solar disk and standing stones |
 | [[/5. Mechanics/Deities/Celtic Brigantia.md\|Brigantia]], goddess of rivers and livestock | NG | Life | Footbridge |
 | [[/5. Mechanics/Deities/Celtic Diancecht.md\|Diancecht]], god of medicine and healing | LG | Life | Crossed oak and mistletoe branches |
 | [[/5. Mechanics/Deities/Celtic Dunatis.md\|Dunatis]], god of mountains and peaks | N | Nature | Red sun-capped mountain peak |
@@ -26,5 +26,5 @@ aliases:
 | [[/5. Mechanics/Deities/Celtic Morrigan.md\|Morrigan]], goddess of battle | CE | War | Two crossed spears |
 | [[/5. Mechanics/Deities/Celtic Nuada.md\|Nuada]], god of war and warriors | N | War | Silver hand on black background |
 | [[/5. Mechanics/Deities/Celtic Oghma.md\|Oghma]], god of speech and writing | NG | Knowledge | Unfurled scroll |
-| [[/5. Mechanics/Deities/Celtic Silvan(US).md\|Silvanus]], god of nature and forests | N | Nature | Summer oak tree |
+| [[/5. Mechanics/Deities/Celtic Silvanus.md\|Silvanus]], god of nature and forests | N | Nature | Summer oak tree |
 ^celtic-deities

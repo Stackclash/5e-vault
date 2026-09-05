@@ -11,7 +11,7 @@ aliases:
 
 **Elf Names – Female Adult**
 
-`dice: [[Elf Names Female Adult (XGE).md#^elf-names-female-adult]]`
+`dice: [[/5. Mechanics/Tables/Elf Names Female Adult (XGE).md#^elf-names-female-adult]]`
 
 | dice: d100 | Name |
 |------------|------|

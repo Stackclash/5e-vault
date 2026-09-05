@@ -8,7 +8,7 @@ aliases:
   - Beast Master
 ---
 # Beast Master
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Player's Handbook p. 93*  
 
 > [!tldr] Class and Feature Progression

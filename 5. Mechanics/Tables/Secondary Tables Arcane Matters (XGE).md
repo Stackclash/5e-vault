@@ -11,7 +11,7 @@ aliases:
 
 **Arcane Matters**
 
-`dice: [[Secondary Tables Arcane Matters (XGE).md#^arcane-matters]]`
+`dice: [[/5. Mechanics/Tables/Secondary Tables Arcane Matters (XGE).md#^arcane-matters]]`
 
 | dice: d10 | Magical Event |
 |-----------|---------------|

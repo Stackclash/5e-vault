@@ -7,7 +7,7 @@ aliases:
   - Arcane Shot
 ---
 # Arcane Shot
-*Source: Xanathar's Guide to Everything* 
+*Source: Xanathar's Guide to Everything, AU* 
 
 - [[/5. Mechanics/Optional Features/Banishing Arrow (XGE).md\|Banishing Arrow]]
 - [[/5. Mechanics/Optional Features/Beguiling Arrow (XGE).md\|Beguiling Arrow]]

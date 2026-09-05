@@ -11,7 +11,7 @@ aliases:
 
 **Mage Furnishings**
 
-`dice: [[Dungeon Dressing Mage Furnishings.md#^mage-furnishings]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing Mage Furnishings.md#^mage-furnishings]]`
 
 | dice: d100 | Item |
 |------------|------|

@@ -9,7 +9,7 @@ aliases:
 # Making Custom Antronec Guild NPCs; Personality Traits
 *Source: The Griffon's Saddlebag, Book 2 p. 246* 
 
-`dice: [[Making Custom Antronec Guild Npcs Personality Traits (GRIFFONSSADDLEBAG2).md#^personality-trait]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Antronec Guild Npcs Personality Traits (GRIFFONSSADDLEBAG2).md#^personality-trait]]`
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|

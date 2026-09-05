@@ -11,7 +11,7 @@ aliases:
 
 **Parents**
 
-`dice: [[Parents (XGE).md#^parents]]`
+`dice: [[/5. Mechanics/Tables/Parents (XGE).md#^parents]]`
 
 | dice: d100 | Parents |
 |------------|---------|

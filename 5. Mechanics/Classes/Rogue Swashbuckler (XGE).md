@@ -8,7 +8,7 @@ aliases:
   - Swashbuckler
 ---
 # Swashbuckler
-*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
+*[[/5. Mechanics/Classes/Rogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Xanathar's Guide to Everything p. 48*  
 
 > [!tldr] Class and Feature Progression

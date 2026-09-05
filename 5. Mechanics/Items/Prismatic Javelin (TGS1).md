@@ -44,7 +44,7 @@ As an action, you can throw the javelin at a point you can see within 120 feet o
 
 **Prismatic Javelin Beams**
 
-`dice: [[Prismatic Javelin (TGS1).md#^prismatic-javelin-beams]]`
+`dice: [[/5. Mechanics/Items/Prismatic Javelin (TGS1).md#^prismatic-javelin-beams]]`
 
 | dice: d6 | Color | Damage Type |
 |----------|-------|-------------|

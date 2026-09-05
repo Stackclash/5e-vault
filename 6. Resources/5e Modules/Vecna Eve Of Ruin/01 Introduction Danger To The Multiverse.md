@@ -216,7 +216,7 @@ The 10th-Level Backstories table contains sample backstories for new characters.
 
 **10th-Level Backstories**
 
-`dice: [[01 Introduction Danger To The Multiverse.md#^10th-level-backstories]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/01 Introduction Danger To The Multiverse.md#^10th-level-backstories]]`
 
 | dice: d6 | Deeds Accomplished |
 |----------|--------------------|
@@ -230,7 +230,7 @@ The 10th-Level Backstories table contains sample backstories for new characters.
 
 **Purpose in Neverwinter**
 
-`dice: [[01 Introduction Danger To The Multiverse.md#^purpose-in-neverwinter]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/01 Introduction Danger To The Multiverse.md#^purpose-in-neverwinter]]`
 
 | dice: d6 | Reason |
 |----------|--------|

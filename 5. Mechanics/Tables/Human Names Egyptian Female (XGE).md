@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Egyptian, Female**
 
-`dice: [[Human Names Egyptian Female (XGE).md#^human-names-egyptian-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Egyptian Female (XGE).md#^human-names-egyptian-female]]`
 
 | dice: d100 | Name |
 |------------|------|

@@ -11,7 +11,7 @@ aliases:
 
 **Trap Damage Severity**
 
-`dice: [[Random Traps Trap Damage Severity.md#^trap-damage-severity]]`
+`dice: [[/5. Mechanics/Tables/Random Traps Trap Damage Severity.md#^trap-damage-severity]]`
 
 | dice: d6 | Damage Severity |
 |----------|-----------------|

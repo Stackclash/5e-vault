@@ -11,7 +11,7 @@ aliases:
 
 **Villain's Weakness**
 
-`dice: [[Villains Secret Weakness Villains Weakness.md#^villains-weakness]]`
+`dice: [[/5. Mechanics/Tables/Villains Secret Weakness Villains Weakness.md#^villains-weakness]]`
 
 | dice: d8 | Weakness |
 |----------|----------|

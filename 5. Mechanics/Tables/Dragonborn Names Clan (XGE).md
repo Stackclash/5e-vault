@@ -11,7 +11,7 @@ aliases:
 
 **Dragonborn Names – Clan**
 
-`dice: [[Dragonborn Names Clan (XGE).md#^dragonborn-names-clan]]`
+`dice: [[/5. Mechanics/Tables/Dragonborn Names Clan (XGE).md#^dragonborn-names-clan]]`
 
 | dice: d100 | Name |
 |------------|------|

@@ -15,7 +15,7 @@ You can use the table below to randomly determine what type of games the adventu
 
 If you're using the optional [[/5. Mechanics/Rules/Variant Rules/Drunkenness Level (GRIFFONSSADDLEBAG2).md\|Drunkenness]] rules found on page 274, and a game specifies the effects of inebriation on a character playing it, you can replace the penalty's amount in the game description with your drunkenness level instead. If the creature already suffers a penalty to the ability check required by the game as a result of its level of drunkenness, you only apply the penalty once.
 
-`dice: [[Taverns And Festivals Games And Contests (GRIFFONSSADDLEBAG2).md#^game-or-contest]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Games And Contests (GRIFFONSSADDLEBAG2).md#^game-or-contest]]`
 
 | dice: d8 | Game or Contest |
 |----------|-----------------|

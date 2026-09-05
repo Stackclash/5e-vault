@@ -29,7 +29,7 @@ A bag of the small crystals comes with `dice:1d4+8|noform|noparens|avg|text(10)`
 
 **Firecracker Crystal Colors**
 
-`dice: [[Firecracker Crystals (TGS1).md#^firecracker-crystal-colors]]`
+`dice: [[/5. Mechanics/Items/Firecracker Crystals (TGS1).md#^firecracker-crystal-colors]]`
 
 | dice: d8 | Color | Result |
 |----------|-------|--------|

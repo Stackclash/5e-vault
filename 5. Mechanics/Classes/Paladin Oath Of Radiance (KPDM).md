@@ -8,7 +8,7 @@ aliases:
   - Oath of Radiance
 ---
 # Oath of Radiance
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Deep Magic p. 141*  
 
 > [!tldr] Class and Feature Progression

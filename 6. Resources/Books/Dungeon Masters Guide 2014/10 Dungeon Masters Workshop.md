@@ -418,6 +418,24 @@ This section provides new action options for combat. They can be added as a grou
 - [[/5. Mechanics/Rules/Actions.md#Shove%20Aside\|Shove Aside]]  
 - [[/5. Mechanics/Rules/Actions.md#Tumble\|Tumble]]  
 
+> [!embed-action]- Climb onto a Bigger Creature
+> ![[/5. Mechanics/Rules/Actions.md#Climb%20onto%20a%20Bigger%20Creature\|Climb onto a Bigger Creature]]
+
+> [!embed-action]- Disarm
+> ![[/5. Mechanics/Rules/Actions.md#Disarm\|Disarm]]
+
+> [!embed-action]- Mark
+> ![[/5. Mechanics/Rules/Actions.md#Mark\|Mark]]
+
+> [!embed-action]- Overrun
+> ![[/5. Mechanics/Rules/Actions.md#Overrun\|Overrun]]
+
+> [!embed-action]- Shove Aside
+> ![[/5. Mechanics/Rules/Actions.md#Shove%20Aside\|Shove Aside]]
+
+> [!embed-action]- Tumble
+> ![[/5. Mechanics/Rules/Actions.md#Tumble\|Tumble]]
+
 ### Hitting Cover
 
 When a ranged attack misses a target that has cover, you can use this optional rule to determine whether the cover was struck by the attack.

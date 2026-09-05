@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon: Lair**
 
-`dice: [[Chamber Purpose Dungeon Lair.md#^dungeon-lair]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose Dungeon Lair.md#^dungeon-lair]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

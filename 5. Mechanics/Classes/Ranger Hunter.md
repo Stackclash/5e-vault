@@ -8,7 +8,7 @@ aliases:
   - Hunter
 ---
 # Hunter
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Player's Handbook p. 93. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression

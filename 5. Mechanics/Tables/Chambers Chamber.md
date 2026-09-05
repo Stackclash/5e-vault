@@ -11,7 +11,7 @@ aliases:
 
 **Chamber**
 
-`dice: [[Chambers Chamber.md#^chamber]]`
+`dice: [[/5. Mechanics/Tables/Chambers Chamber.md#^chamber]]`
 
 | dice: d20 | Chamber |
 |-----------|---------|

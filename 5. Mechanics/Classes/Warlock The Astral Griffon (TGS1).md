@@ -8,7 +8,7 @@ aliases:
   - The Astral Griffon
 ---
 # The Astral Griffon
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: The Griffon's Saddlebag, Book 1 p. 168*  
 
 > [!tldr] Class and Feature Progression

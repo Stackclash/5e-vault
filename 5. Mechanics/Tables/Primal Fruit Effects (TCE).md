@@ -11,7 +11,7 @@ aliases:
 
 **Primal Fruit Effects**
 
-`dice: [[Primal Fruit Effects (TCE).md#^primal-fruit-effects]]`
+`dice: [[/5. Mechanics/Tables/Primal Fruit Effects (TCE).md#^primal-fruit-effects]]`
 
 | dice: d8 | Effect |
 |----------|--------|

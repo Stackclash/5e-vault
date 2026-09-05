@@ -16,19 +16,19 @@ aliases:
 alignment: Chaotic Evil
 description: >-
   A broad-shouldered, grey-muzzled werewolf who rules through fear rather than
-  charisma — scarred, humorless, and utterly certain that cruelty is what
-  keeps his pack alive. In human form he carries himself like a warlord; in
-  wolf and hybrid form his fur is shot through with streaks of white.
+  charisma — scarred, humorless, and utterly certain that cruelty is what keeps
+  his pack alive. In human form he carries himself like a warlord; in wolf and
+  hybrid form his fur is shot through with streaks of white.
 history: >-
   Kiril has led the Children of Mother Night for years, arming kidnapped
   children with spears and forcing them to fight to the death in the pack's
   stone ring so that only the "strongest" survivor is turned into a werewolf.
   When Emil Toranescu challenged that practice and split the pack's loyalties,
-  Kiril vanished for several days. He returned with a pack of dire wolves
-  loyal to Strahd von Zarovich and word that the vampire disapproved of any
-  fracture in his werewolf servants. The dire wolves dragged Emil away to
-  Castle Ravenloft, and Kiril reasserted his dominance — ruling now through
-  fear of Strahd's wrath as much as his own.
+  Kiril vanished for several days. He returned with a pack of dire wolves loyal
+  to Strahd von Zarovich and word that the vampire disapproved of any fracture
+  in his werewolf servants. The dire wolves dragged Emil away to Castle
+  Ravenloft, and Kiril reasserted his dominance — ruling now through fear of
+  Strahd's wrath as much as his own.
 relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
@@ -44,15 +44,21 @@ groups:
   - Children of Mother Night
 religions:
   - Mother Night
-personality: Domineering, ruthless, and quick to violence when his authority is questioned
-ideal: Strength and purity ensure the pack's survival — only the strongest deserve to lead or belong.
-bond: The dire wolves Strahd lent him are proof that Mother Night's chosen cannot be unseated.
-flaw: His cruelty toward the pack's children is breeding quiet enemies he refuses to see.
+personality: 'Domineering, ruthless, and quick to violence when his authority is questioned'
+ideal: >-
+  Strength and purity ensure the pack's survival — only the strongest deserve to
+  lead or belong.
+bond: >-
+  The dire wolves Strahd lent him are proof that Mother Night's chosen cannot be
+  unseated.
+flaw: >-
+  His cruelty toward the pack's children is breeding quiet enemies he refuses to
+  see.
 goals: >-
-  Keep unquestioned control of the pack, and stay useful enough to Strahd
-  that the dire wolves back him again if he's ever challenged.
-likes: Fear, deference, the hunt, Strahd's favor
-dislikes: Dissent, weakness, being made to look foolish in front of the pack
+  Keep unquestioned control of the pack, and stay useful enough to Strahd that
+  the dire wolves back him again if he's ever challenged.
+likes: 'Fear, deference, the hunt, Strahd''s favor'
+dislikes: 'Dissent, weakness, being made to look foolish in front of the pack'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -84,19 +90,7 @@ dislikes: Dissent, weakness, being made to look foolish in front of the pack
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 203*
 
-Kiril Stoyanovich leads the werewolf pack that calls itself the Children of Mother Night, ruling their cave den west of Lake Baratok through fear, strength, and [[Strahd Von Zarovich (COS)|Strahd von Zarovich]]'s favor.
-
-## The Strength and Purity of the Pack
-
-Kiril arms kidnapped children with spears and forces them to fight one another to the death in a stone ring on the mountainside above the den. He turns the sole survivor into a werewolf and calls it proof of "the strength and purity of the pack." A larger pack, in his eyes, is simply too difficult to control and feed.
-
-## The Schism
-
-[[Emil Toranescu (COS)|Emil Toranescu]] challenged that practice, arguing that every captured child should be spared and turned instead, growing the pack rather than winnowing it. The dispute split the pack's older members into two camps, and it seemed likely that one leader or the other would die before it could be resolved — until Kiril vanished for several days.
-
-## Strahd's Enforcer
-
-Kiril returned accompanied by a pack of dire wolves loyal to Strahd von Zarovich, carrying word from Castle Ravenloft that Strahd disapproved of Emil's attempt to fracture the pack. The dire wolves dragged Emil back to the castle to face punishment, and Kiril reestablished his dominance. His methods still don't sit well with the pack's older members — or with Emil's mate, [[Zuleika Toranescu (COS)|Zuleika Toranescu]], whom Kiril forbids from hunting and keeps confined to the den — but none of them are willing to challenge him and risk Strahd's wrath the way Emil did.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

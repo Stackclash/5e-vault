@@ -11,7 +11,7 @@ aliases:
 
 **Body Horror Settings**
 
-`dice: [[Body Horror Settings (VRGR).md#^body-horror-settings]]`
+`dice: [[/5. Mechanics/Tables/Body Horror Settings (VRGR).md#^body-horror-settings]]`
 
 | dice: d8 | Setting |
 |----------|---------|

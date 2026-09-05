@@ -56,7 +56,7 @@ If trouble breaks out at one of the gates, the guards there cry out, "To arms!" 
 
 If the characters explore a residence other than the burgomaster's mansion (area N3), roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the following table to determine the house's occupant.
 
-`dice: [[07 Chapter 5 The Town Of Vallaki.md#^occupant]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/07 Chapter 5 The Town Of Vallaki.md#^occupant]]`
 
 | dice: d20 | Occupant |
 |-----------|----------|

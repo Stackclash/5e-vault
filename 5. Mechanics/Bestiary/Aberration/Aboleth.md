@@ -101,7 +101,7 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
       \ effect for 1 minute and can be removed by any magic that cures disease. After\
       \ 1 minute, the diseased creature's skin becomes translucent and slimy, the\
       \ creature can't regain hit points unless it is underwater, and the disease\
-      \ can be removed only by [[/5. Mechanics/Spells/He(AL).md|heal]] or another disease-curing\
+      \ can be removed only by [[/5. Mechanics/Spells/Heal.md|heal]] or another disease-curing\
       \ spell of 6th level or higher. When the creature is outside a body of water,\
       \ it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied\
       \ to the skin before 10 minutes have passed."

@@ -27,7 +27,7 @@ Podlings are near-perfect mimics of the creatures they replace. Despite having t
 
 **Podling Behavior**
 
-`dice: [[Podling (VRGR).md#^podling-behavior]]`
+`dice: [[/5. Mechanics/Bestiary/Plant/Podling (VRGR).md#^podling-behavior]]`
 
 | dice: d6 | Behavior |
 |----------|----------|

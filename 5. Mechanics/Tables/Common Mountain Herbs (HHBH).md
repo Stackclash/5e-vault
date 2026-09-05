@@ -9,7 +9,7 @@ aliases:
 # Common Mountain Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 
 
-`dice: [[Common Mountain Herbs (HHBH).md#^herb]]`
+`dice: [[/5. Mechanics/Tables/Common Mountain Herbs (HHBH).md#^herb]]`
 
 | dice: d6 | Herb |
 |----------|------|

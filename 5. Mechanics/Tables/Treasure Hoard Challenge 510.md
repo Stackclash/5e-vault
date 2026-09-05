@@ -16,7 +16,7 @@ aliases:
 | **Coins** | `2d6 × 100` (700) | `2d6 × 1,000` (7,000) | — | `6d6 × 100` (2,100) | `3d6 × 10` (105) |
 ^treasure-hoard-challenge-510
 
-`dice: [[Treasure Hoard Challenge 510.md#^gems-or-art-objects-magic-items]]`
+`dice: [[/5. Mechanics/Tables/Treasure Hoard Challenge 510.md#^gems-or-art-objects-magic-items]]`
 
 | dice: d100 | Gems or Art Objects | Magic Items |
 |------------|---------------------|-------------|

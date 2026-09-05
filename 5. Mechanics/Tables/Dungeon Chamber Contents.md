@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon Chamber Contents**
 
-`dice: [[Dungeon Chamber Contents.md#^dungeon-chamber-contents]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Chamber Contents.md#^dungeon-chamber-contents]]`
 
 | dice: d100 | Contents |
 |------------|----------|

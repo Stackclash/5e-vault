@@ -11,7 +11,7 @@ aliases:
 
 **Ghost Story Adventure Sites**
 
-`dice: [[Ghost Story Adventure Sites (VRGR).md#^ghost-story-adventure-sites]]`
+`dice: [[/5. Mechanics/Tables/Ghost Story Adventure Sites (VRGR).md#^ghost-story-adventure-sites]]`
 
 | dice: d8 | Adventure Site |
 |----------|----------------|

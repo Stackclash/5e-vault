@@ -8,7 +8,7 @@ aliases:
   - Bladesinging
 ---
 # Bladesinging
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Tasha's Cauldron of Everything p. 76*  
 
 > [!tldr] Class and Feature Progression

@@ -8,7 +8,7 @@ aliases:
   - Doomsayer
 ---
 # Doomsayer
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 315*  
 
 > [!tldr] Class and Feature Progression

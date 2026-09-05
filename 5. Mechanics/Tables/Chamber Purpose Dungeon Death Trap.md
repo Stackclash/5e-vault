@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon: Death Trap**
 
-`dice: [[Chamber Purpose Dungeon Death Trap.md#^dungeon-death-trap]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose Dungeon Death Trap.md#^dungeon-death-trap]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

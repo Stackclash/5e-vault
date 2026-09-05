@@ -11,7 +11,7 @@ aliases:
 
 **Aristocrat Types**
 
-`dice: [[Aristocrat Types (TCE).md#^aristocrat-types]]`
+`dice: [[/5. Mechanics/Tables/Aristocrat Types (TCE).md#^aristocrat-types]]`
 
 | dice: d6 | Aristocrats |
 |----------|-------------|

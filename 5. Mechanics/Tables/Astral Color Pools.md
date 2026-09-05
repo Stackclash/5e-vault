@@ -11,7 +11,7 @@ aliases:
 
 **Astral Color Pools**
 
-`dice: [[Astral Color Pools.md#^astral-color-pools]]`
+`dice: [[/5. Mechanics/Tables/Astral Color Pools.md#^astral-color-pools]]`
 
 | dice: d20 | Plane | Pool Color |
 |-----------|-------|------------|

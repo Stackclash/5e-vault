@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Names**
 
-`dice: [[Beholder Names (VGM).md#^beholder-names]]`
+`dice: [[/5. Mechanics/Tables/Beholder Names (VGM).md#^beholder-names]]`
 
 | dice: d20 | Name |
 |-----------|------|

@@ -11,7 +11,7 @@ aliases:
 
 **Body Horror Torments**
 
-`dice: [[Body Horror Torments (VRGR).md#^body-horror-torments]]`
+`dice: [[/5. Mechanics/Tables/Body Horror Torments (VRGR).md#^body-horror-torments]]`
 
 | dice: d8 | Torment |
 |----------|---------|

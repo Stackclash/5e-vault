@@ -11,7 +11,7 @@ aliases:
 
 **Azalin's Fate**
 
-`dice: [[The Secret Of Darkons Doom Azalins Fate (VRGR).md#^azalins-fate]]`
+`dice: [[/5. Mechanics/Tables/The Secret Of Darkons Doom Azalins Fate (VRGR).md#^azalins-fate]]`
 
 | dice: d4 | Fate |
 |----------|------|

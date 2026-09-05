@@ -11,7 +11,7 @@ aliases:
 
 **Discoveries**
 
-`dice: [[Discovery Expansion Invention Discoveries.md#^discoveries]]`
+`dice: [[/5. Mechanics/Tables/Discovery Expansion Invention Discoveries.md#^discoveries]]`
 
 | dice: d10 | Discovery |
 |-----------|-----------|

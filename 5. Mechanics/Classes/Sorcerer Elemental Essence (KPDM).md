@@ -8,7 +8,7 @@ aliases:
   - Elemental Essence
 ---
 # Elemental Essence
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Deep Magic p. 146*  
 
 > [!tldr] Class and Feature Progression

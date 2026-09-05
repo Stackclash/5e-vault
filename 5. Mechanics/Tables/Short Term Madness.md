@@ -11,7 +11,7 @@ aliases:
 
 **Short-Term Madness**
 
-`dice: [[Short Term Madness.md#^short-term-madness]]`
+`dice: [[/5. Mechanics/Tables/Short Term Madness.md#^short-term-madness]]`
 
 | dice: d100 | Effects (lasts 1d10 minutes) |
 |------------|------------------------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Giant Ideals**
 
-`dice: [[Roleplaying A Giant Giant Ideals (VGM).md#^giant-ideals]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Giant Giant Ideals (VGM).md#^giant-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

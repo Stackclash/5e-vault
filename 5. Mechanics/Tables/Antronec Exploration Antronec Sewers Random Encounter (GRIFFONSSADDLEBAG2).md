@@ -9,7 +9,7 @@ aliases:
 # Antronec Exploration; Antronec Sewers Random Encounter
 *Source: The Griffon's Saddlebag, Book 2 p. 245* 
 
-`dice: [[Antronec Exploration Antronec Sewers Random Encounter (GRIFFONSSADDLEBAG2).md#^encounter]]`
+`dice: [[/5. Mechanics/Tables/Antronec Exploration Antronec Sewers Random Encounter (GRIFFONSSADDLEBAG2).md#^encounter]]`
 
 | dice: d10 | Encounter |
 |-----------|-----------|

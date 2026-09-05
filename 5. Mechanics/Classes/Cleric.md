@@ -134,7 +134,7 @@ Some temples are cut off from the world so that their occupants can focus on dev
 
 **Temple**
 
-`dice: [[Cleric.md#^temple]]`
+`dice: [[/5. Mechanics/Classes/Cleric.md#^temple]]`
 
 | dice: d6 | Temple |
 |----------|--------|
@@ -153,7 +153,7 @@ Many clerics have items among their personal gear that symbolize their faith, re
 
 **Keepsake**
 
-`dice: [[Cleric.md#^keepsake]]`
+`dice: [[/5. Mechanics/Classes/Cleric.md#^keepsake]]`
 
 | dice: d6 | Keepsake |
 |----------|----------|
@@ -174,7 +174,7 @@ If you haven't considered this aspect of your character yet, see the table entri
 
 **Secret**
 
-`dice: [[Cleric.md#^secret]]`
+`dice: [[/5. Mechanics/Classes/Cleric.md#^secret]]`
 
 | dice: d6 | Secret |
 |----------|--------|

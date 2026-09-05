@@ -28,7 +28,7 @@ This cross-chest bandolier has 6 magic [[/5. Mechanics/Items/Dagger.md\|daggers]
 
 A [[/5. Mechanics/Items/Dagger.md\|dagger]] vanishes if you don't hurl it right away and immediately reappears in the bandolier. `dice:1d6|noform|noparens|avg` (`1d6`) missing daggers reappear in the bandolier's empty sheaths daily at dawn.
 
-`dice: [[Bandolier Of The Elements (GRIFFONSSADDLEBAG2).md#^damage-type]]`
+`dice: [[/5. Mechanics/Items/Bandolier Of The Elements (GRIFFONSSADDLEBAG2).md#^damage-type]]`
 
 | dice: d6 | Damage Type |
 |----------|-------------|

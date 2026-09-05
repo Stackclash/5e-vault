@@ -11,7 +11,7 @@ aliases:
 
 **Gith Names – Githyanki, Male**
 
-`dice: [[Gith Names Githyanki Male (MTF).md#^gith-names-githyanki-male]]`
+`dice: [[/5. Mechanics/Tables/Gith Names Githyanki Male (MTF).md#^gith-names-githyanki-male]]`
 
 | dice: d10 | Name |
 |-----------|------|

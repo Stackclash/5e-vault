@@ -11,7 +11,7 @@ aliases:
 
 **Githyanki Purpose of Raid**
 
-`dice: [[Githyanki Raiding Parties Githyanki Purpose Of Raid (MTF).md#^githyanki-purpose-of-raid]]`
+`dice: [[/5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Purpose Of Raid (MTF).md#^githyanki-purpose-of-raid]]`
 
 | dice: d6 | Purpose |
 |----------|---------|

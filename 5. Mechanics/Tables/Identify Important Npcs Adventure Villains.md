@@ -11,7 +11,7 @@ aliases:
 
 **Adventure Villains**
 
-`dice: [[Identify Important Npcs Adventure Villains.md#^adventure-villains]]`
+`dice: [[/5. Mechanics/Tables/Identify Important Npcs Adventure Villains.md#^adventure-villains]]`
 
 | dice: d20 | Villain |
 |-----------|---------|

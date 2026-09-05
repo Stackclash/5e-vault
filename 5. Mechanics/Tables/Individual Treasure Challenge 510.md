@@ -11,7 +11,7 @@ aliases:
 
 **Individual Treasure: Challenge 5—10**
 
-`dice: [[Individual Treasure Challenge 510.md#^individual-treasure-challenge-510]]`
+`dice: [[/5. Mechanics/Tables/Individual Treasure Challenge 510.md#^individual-treasure-challenge-510]]`
 
 | dice: d100 | CP | SP | EP | GP | PP |
 |------------|----|----|----|----|----|

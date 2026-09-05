@@ -11,7 +11,7 @@ aliases:
 
 **Known For Its...**
 
-`dice: [[Random Settlements Known For Its.md#^known-for-its]]`
+`dice: [[/5. Mechanics/Tables/Random Settlements Known For Its.md#^known-for-its]]`
 
 | dice: d20 | Feature |
 |-----------|---------|

@@ -11,7 +11,7 @@ aliases:
 
 **General Dungeon Chambers**
 
-`dice: [[Chamber Purpose General Dungeon Chambers.md#^general-dungeon-chambers]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose General Dungeon Chambers.md#^general-dungeon-chambers]]`
 
 | dice: d100 | Purpose |
 |------------|---------|

@@ -11,7 +11,7 @@ aliases:
 
 **Dark Fantasy Plots**
 
-`dice: [[Dark Fantasy Plots (VRGR).md#^dark-fantasy-plots]]`
+`dice: [[/5. Mechanics/Tables/Dark Fantasy Plots (VRGR).md#^dark-fantasy-plots]]`
 
 | dice: d8 | Plot |
 |----------|------|

@@ -11,7 +11,7 @@ aliases:
 
 **Upper-Class Carousing Complications**
 
-`dice: [[Upper Class Carousing Complications (XGE).md#^upper-class-carousing-complications]]`
+`dice: [[/5. Mechanics/Tables/Upper Class Carousing Complications (XGE).md#^upper-class-carousing-complications]]`
 
 | dice: d8 | Complication |
 |----------|--------------|

@@ -9,7 +9,7 @@ aliases:
   - Hunting Domain
 ---
 # Hunting Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Deep Magic p. 128*  
 
 > [!tldr] Class and Feature Progression

@@ -11,7 +11,7 @@ aliases:
 
 You can use the following table to randomly determine the proprietor of your tavern or festival.
 
-`dice: [[Taverns And Festivals Random Tavern Owner Or Festival Host (GRIFFONSSADDLEBAG2).md#^tavern-owners-festival-hosts]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Random Tavern Owner Or Festival Host (GRIFFONSSADDLEBAG2).md#^tavern-owners-festival-hosts]]`
 
 | dice: d10 | Tavern Owners | Festival Hosts |
 |-----------|---------------|----------------|

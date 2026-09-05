@@ -8,7 +8,7 @@ aliases:
   - Arcane Archer
 ---
 # Arcane Archer
-*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[/5. Mechanics/Classes/Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Xanathar's Guide to Everything p. 28*  
 
 > [!tldr] Class and Feature Progression

@@ -11,7 +11,7 @@ aliases:
 
 **Invading Forces**
 
-`dice: [[Assault Or Invasion Invading Forces.md#^invading-forces]]`
+`dice: [[/5. Mechanics/Tables/Assault Or Invasion Invading Forces.md#^invading-forces]]`
 
 | dice: d8 | Invading Forces |
 |----------|-----------------|

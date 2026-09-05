@@ -11,7 +11,7 @@ aliases:
 
 **Class**
 
-`dice: [[Supplemental Tables Class (XGE).md#^class]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Class (XGE).md#^class]]`
 
 | dice: d100 | Class |
 |------------|-------|

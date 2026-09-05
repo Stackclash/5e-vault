@@ -11,7 +11,7 @@ aliases:
 
 **Guild Quests**
 
-`dice: [[Guild Quests (TCE).md#^guild-quests]]`
+`dice: [[/5. Mechanics/Tables/Guild Quests (TCE).md#^guild-quests]]`
 
 | dice: d6 | Quest |
 |----------|-------|

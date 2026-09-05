@@ -16,20 +16,18 @@ aliases:
 alignment: Lawful Good
 description: >-
   Davian Martikov is the old, suspicious patriarch of the Martikov family and
-  current owner of the [[The Wizard of Wines|Wizard of Wines]] winery, and
-  like his children, a wereraven and senior member of the Keepers of the
-  Feather.
+  current owner of the [[The Wizard of Wines|Wizard of Wines]] winery, and like
+  his children, a wereraven and senior member of the Keepers of the Feather.
 history: >-
   The winery passed to the Martikov line generations ago through a marriage
   between the Krezkov and Martikov families, and the whole family was later
   touched by lycanthropy, becoming wereravens loyal to the Keepers of the
-  Feather. Davian has run the vineyard for decades, but ten years ago one of
-  its three magic "seed" gems was stolen while his son
-  [[Urwin Martikov (COS)|Urwin]] stood watch; Davian has never forgiven him
-  for it, and the two remain estranged. In recent weeks Baba Lysaga's
-  scarecrows and a band of evil druids have stolen the remaining two gems and
-  driven Davian's family from the winery entirely, leaving the vineyard's
-  future in doubt.
+  Feather. Davian has run the vineyard for decades, but ten years ago one of its
+  three magic "seed" gems was stolen while his son [[Urwin Martikov
+  (COS)|Urwin]] stood watch; Davian has never forgiven him for it, and the two
+  remain estranged. In recent weeks Baba Lysaga's scarecrows and a band of evil
+  druids have stolen the remaining two gems and driven Davian's family from the
+  winery entirely, leaving the vineyard's future in doubt.
 relationships:
   - Adrian Martikov|son
   - Elvir Martikov|son
@@ -55,13 +53,15 @@ ideal: >-
   The vineyard is the valley’s lifeblood, and protecting it is the family’s
   sacred duty above all else.
 bond: >-
-  The Wizard of Wines winery his family has tended for generations, and the
-  good name he refuses to see tarnished by a son’s mistake.
-flaw: Once convinced he’s right, he cannot let a grudge go, not even against his own son.
+  The Wizard of Wines winery his family has tended for generations, and the good
+  name he refuses to see tarnished by a son’s mistake.
+flaw: >-
+  Once convinced he’s right, he cannot let a grudge go, not even against his own
+  son.
 goals: >-
   Recover the vineyard’s three stolen magic gems, drive off Baba Lysaga’s
-  scarecrows and the druids squatting in his winery, and restore the Wizard
-  of Wines to its former glory.
+  scarecrows and the druids squatting in his winery, and restore the Wizard of
+  Wines to its former glory.
 likes: 'Well-tended grapevines, a full cellar, the memory of his late wife Angelika'
 dislikes: 'Baba Lysaga’s scarecrows, thieves, being defied - especially by Urwin'
 ---
@@ -95,13 +95,7 @@ dislikes: 'Baba Lysaga’s scarecrows, thieves, being defied - especially by Urw
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 173*
 
-Davian Martikov is the old, suspicious patriarch of the Martikov family, current owner of the [[The Wizard of Wines|Wizard of Wines]] winery, and a wereraven elder among the Keepers of the Feather.
-
-## The Old Crow
-Ten years ago, one of the vineyard's three magic gems was dug up and stolen. Davian is certain his middle son, [[Urwin Martikov (COS)|Urwin]], shirked his watch that night to be with his betrothed, and the two have been at odds ever since - Urwin and Danika now refer to Davian only as "the old crow" behind his back.
-
-## A Winery Under Siege
-Baba Lysaga's scarecrow constructs have been raiding the vineyard for weeks, and evil druids have since stolen the remaining two gems and poisoned the fermentation vats, driving Davian and his family into the woods. He is desperate for outside help to reclaim the winery and recover the gems before the vines - and Barovia's last real comfort - die for good.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

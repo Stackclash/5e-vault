@@ -25,7 +25,7 @@ await dv.view("views/itemPrice", {current: dv.current()})
 
 This small, ceramic teapot can hold up to two cups of liquid. When left in direct sunlight for 1 minute, any water or similar liquid inside it begins to boil. While the teapot has water boiling inside, you can use an action to speak its command word to cause the water to become a rich tea. Each radiant teapot creates a different kind of tea, which can typically be deduced by smelling the inside. While a tea weird rests inside the teapot, it's immune to all damage and can change the temperature of the water inside the pot at will. Choose or roll on the table below to determine what kind of tea the pot makes.
 
-`dice: [[Radiant Teapot (GRIFFONSSADDLEBAG3).md#^type-of-tea]]`
+`dice: [[/5. Mechanics/Items/Radiant Teapot (GRIFFONSSADDLEBAG3).md#^type-of-tea]]`
 
 | dice: d6 | Type of Tea |
 |----------|-------------|

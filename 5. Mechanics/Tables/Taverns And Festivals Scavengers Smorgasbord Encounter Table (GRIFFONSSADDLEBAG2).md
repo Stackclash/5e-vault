@@ -13,7 +13,7 @@ When a festival moves, it leaves behind an enormous amount of waste and detritus
 
 You can use the following table to help determine special random encounters for your adventurers while they visit a tavern or festival.
 
-`dice: [[Taverns And Festivals Scavengers Smorgasbord Encounter Table (GRIFFONSSADDLEBAG2).md#^3-encounter]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Scavengers Smorgasbord Encounter Table (GRIFFONSSADDLEBAG2).md#^3-encounter]]`
 
 | dice: 3d4 | Encounter |
 |-----------|-----------|

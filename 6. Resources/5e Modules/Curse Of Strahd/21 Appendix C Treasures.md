@@ -28,4 +28,22 @@ The magic items described here, if they are found, can play significant roles in
 - [[/5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]]  
 - [[/5. Mechanics/Items/Icon Of Ravenloft (COS).md\|Icon of Ravenloft]]  
 - [[/5. Mechanics/Items/Saint Markovias Thighbone (COS).md\|Saint Markovia's Thighbone]]  
-- [[/5. Mechanics/Items/Sunsword (COS).md\|Sunsword]]
+- [[/5. Mechanics/Items/Sunsword (COS).md\|Sunsword]]  
+
+> [!embed-item]- Blood Spear
+> ![[/5. Mechanics/Items/Blood Spear (COS).md\|Blood Spear]]
+
+> [!embed-item]- Gulthias Staff
+> ![[/5. Mechanics/Items/Gulthias Staff (COS).md\|Gulthias Staff]]
+
+> [!embed-item]- Holy Symbol of Ravenkind
+> ![[/5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md\|Holy Symbol of Ravenkind]]
+
+> [!embed-item]- Icon of Ravenloft
+> ![[/5. Mechanics/Items/Icon Of Ravenloft (COS).md\|Icon of Ravenloft]]
+
+> [!embed-item]- Saint Markovia's Thighbone
+> ![[/5. Mechanics/Items/Saint Markovias Thighbone (COS).md\|Saint Markovia's Thighbone]]
+
+> [!embed-item]- Sunsword
+> ![[/5. Mechanics/Items/Sunsword (COS).md\|Sunsword]]

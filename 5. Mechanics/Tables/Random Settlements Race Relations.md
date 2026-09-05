@@ -11,7 +11,7 @@ aliases:
 
 **Race Relations**
 
-`dice: [[Random Settlements Race Relations.md#^race-relations]]`
+`dice: [[/5. Mechanics/Tables/Random Settlements Race Relations.md#^race-relations]]`
 
 | dice: d20 | Result |
 |-----------|--------|

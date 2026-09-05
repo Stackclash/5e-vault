@@ -11,7 +11,7 @@ aliases:
 
 The adverse effects that cause a grymclover forest to emerge provide additional danger by corrupting sources of clean water and food. A foraging character makes a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check. There's a 50 percent chance that any food or water found in these forests has been corrupted. A DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check or [[/5. Mechanics/Spells/Detect Poison And Disease.md\|detect poison and disease]] spell reveals if any foraged food or water has been corrupted. A creature that ingests corrupted food or water in this way must roll on the Corrupted Foraged Food and Drink table.
 
-`dice: [[Grymclover Forests Corrupted Foraged Food And Drink (GRIFFONSSADDLEBAG2).md#^setback]]`
+`dice: [[/5. Mechanics/Tables/Grymclover Forests Corrupted Foraged Food And Drink (GRIFFONSSADDLEBAG2).md#^setback]]`
 
 | dice: d6 | Setback |
 |----------|---------|

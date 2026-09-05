@@ -11,7 +11,7 @@ aliases:
 
 **Gnoll War Band Special Creatures**
 
-`dice: [[Creating A Gnoll War Band Gnoll War Band Special Creatures (VGM).md#^gnoll-war-band-special-creatures]]`
+`dice: [[/5. Mechanics/Tables/Creating A Gnoll War Band Gnoll War Band Special Creatures (VGM).md#^gnoll-war-band-special-creatures]]`
 
 | dice: d20 | Special Creatures |
 |-----------|-------------------|

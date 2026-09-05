@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Tongue Color**
 
-`dice: [[Physical Variations Yuan Ti Tongue Color (VGM).md#^yuan-ti-tongue-color]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Yuan Ti Tongue Color (VGM).md#^yuan-ti-tongue-color]]`
 
 | dice: d6 | Tongue Color |
 |----------|--------------|

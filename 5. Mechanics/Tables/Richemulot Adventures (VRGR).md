@@ -11,7 +11,7 @@ aliases:
 
 **Richemulot Adventures**
 
-`dice: [[Richemulot Adventures (VRGR).md#^richemulot-adventures]]`
+`dice: [[/5. Mechanics/Tables/Richemulot Adventures (VRGR).md#^richemulot-adventures]]`
 
 | dice: d6 | Adventure |
 |----------|-----------|

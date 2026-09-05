@@ -11,7 +11,7 @@ aliases:
 
 **Guild Contact**
 
-`dice: [[Guild Contact (TCE).md#^guild-contact]]`
+`dice: [[/5. Mechanics/Tables/Guild Contact (TCE).md#^guild-contact]]`
 
 | dice: d6 | Contact |
 |----------|---------|

@@ -11,7 +11,7 @@ aliases:
 
 **Villain's Scheme**
 
-`dice: [[Villains Villains Scheme.md#^villains-scheme]]`
+`dice: [[/5. Mechanics/Tables/Villains Villains Scheme.md#^villains-scheme]]`
 
 | dice: d8 | Objective | Scheme |
 |----------|-----------|--------|

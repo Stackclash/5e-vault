@@ -11,7 +11,7 @@ aliases:
 
 **Indefinite Madness**
 
-`dice: [[Indefinite Madness.md#^indefinite-madness]]`
+`dice: [[/5. Mechanics/Tables/Indefinite Madness.md#^indefinite-madness]]`
 
 | dice: d100 | Flaw (lasts until cured) |
 |------------|--------------------------|

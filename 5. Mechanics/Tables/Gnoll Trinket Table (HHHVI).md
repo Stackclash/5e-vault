@@ -9,7 +9,7 @@ aliases:
 # Gnoll Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 56* 
 
-`dice: [[Gnoll Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Gnoll Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

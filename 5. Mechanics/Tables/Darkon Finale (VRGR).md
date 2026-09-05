@@ -11,7 +11,7 @@ aliases:
 
 **Darkon Finale**
 
-`dice: [[Darkon Finale (VRGR).md#^darkon-finale]]`
+`dice: [[/5. Mechanics/Tables/Darkon Finale (VRGR).md#^darkon-finale]]`
 
 | dice: d6 | Finale |
 |----------|--------|

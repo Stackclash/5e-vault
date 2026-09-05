@@ -35,18 +35,18 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 
 **Archdruid Favored Shapes**
 
-`dice: [[Archdruid (MPMM).md#^archdruid-favored-shapes]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/Archdruid (MPMM).md#^archdruid-favored-shapes]]`
 
 | dice: d8 | Favored Shape |
 |----------|---------------|
-| 1 | [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md|Air elemental]] |
-| 2 | [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md|Earth elemental]] |
-| 3 | [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md|Fire elemental]] |
+| 1 | [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md|Air elemental]] |
+| 2 | [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md|Earth elemental]] |
+| 3 | [[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md|Fire elemental]] |
 | 4 | [[/5. Mechanics/Bestiary/Beast/Giant Crocodile.md|Giant crocodile]] |
 | 5 | [[/5. Mechanics/Bestiary/Beast/Mammoth.md|Mammoth]] |
 | 6 | [[/5. Mechanics/Bestiary/Elemental/Flail Snail (MPMM).md|Flail snail]] |
 | 7 | [[/5. Mechanics/Bestiary/Beast/Triceratops.md|Triceratops]] |
-| 8 | [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md|Water elemental]] |
+| 8 | [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md|Water elemental]] |
 ^archdruid-favored-shapes
 
 ```statblock

@@ -8,7 +8,7 @@ aliases:
   - The Valiant
 ---
 # The Valiant
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: The Griffon's Saddlebag, Book 3 p. 1*  
 
 > [!tldr] Class and Feature Progression

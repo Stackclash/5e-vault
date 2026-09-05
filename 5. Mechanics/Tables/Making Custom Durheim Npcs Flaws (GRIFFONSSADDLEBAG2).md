@@ -9,7 +9,7 @@ aliases:
 # Making Custom Durheim NPCs; Flaws
 *Source: The Griffon's Saddlebag, Book 2 p. 265* 
 
-`dice: [[Making Custom Durheim Npcs Flaws (GRIFFONSSADDLEBAG2).md#^flaw]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Durheim Npcs Flaws (GRIFFONSSADDLEBAG2).md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

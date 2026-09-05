@@ -9,7 +9,7 @@ aliases:
 # Tortle Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume III p. 69* 
 
-`dice: [[Tortle Trinket Table (HHHVIII).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Tortle Trinket Table (HHHVIII).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

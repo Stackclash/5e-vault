@@ -11,7 +11,7 @@ aliases:
 
 **Dragonborn Names – Male**
 
-`dice: [[Dragonborn Names Male (XGE).md#^dragonborn-names-male]]`
+`dice: [[/5. Mechanics/Tables/Dragonborn Names Male (XGE).md#^dragonborn-names-male]]`
 
 | dice: d100 | Name |
 |------------|------|

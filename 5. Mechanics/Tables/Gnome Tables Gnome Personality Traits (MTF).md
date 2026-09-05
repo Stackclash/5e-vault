@@ -11,7 +11,7 @@ aliases:
 
 **Gnome Personality Traits**
 
-`dice: [[Gnome Tables Gnome Personality Traits (MTF).md#^gnome-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Gnome Tables Gnome Personality Traits (MTF).md#^gnome-personality-traits]]`
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|

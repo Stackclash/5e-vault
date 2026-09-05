@@ -13,25 +13,24 @@ aliases:
   - The Mad Mage of Mount Baratok
 alignment: Chaotic Neutral
 description: >-
-  A wild-eyed man in tattered black robes, his hair and beard long, dark,
-  and streaked with gray, power crackling visibly behind his eyes — as
-  likely to appear first in the shape of an elk as a man.
+  A wild-eyed man in tattered black robes, his hair and beard long, dark, and
+  streaked with gray, power crackling visibly behind his eyes — as likely to
+  appear first in the shape of an elk as a man.
 history: >-
-  Beneath the madness is Mordenkainen, an archmage of Oerth and leader of
-  the Circle of Eight, who came to Barovia more than a year ago hoping to
-  free its people from Strahd's tyranny. He underestimated the vampire's
-  hold over the land, and their battle at Castle Ravenloft ended with
-  Mordenkainen thrown from a precipice into Tser Falls, his staff and
-  spellbook lost. He survived the fall and retreated into the mountains
-  around Mount Baratok, where the shock of his defeat broke his mind. He
-  has since cast mind blank on himself, a spell that — while active —
-  prevents any magic from restoring his sanity or his memory of who he
-  truly is.
+  Beneath the madness is Mordenkainen, an archmage of Oerth and leader of the
+  Circle of Eight, who came to Barovia more than a year ago hoping to free its
+  people from Strahd's tyranny. He underestimated the vampire's hold over the
+  land, and their battle at Castle Ravenloft ended with Mordenkainen thrown from
+  a precipice into Tser Falls, his staff and spellbook lost. He survived the
+  fall and retreated into the mountains around Mount Baratok, where the shock of
+  his defeat broke his mind. He has since cast mind blank on himself, a spell
+  that — while active — prevents any magic from restoring his sanity or his
+  memory of who he truly is.
 relationships: []
 partyRelationships: {}
 location: null
 pronounced: BAR-uh-tok
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 300
 occupation:
@@ -41,17 +40,18 @@ groups:
   - Circle of Eight
 religions: []
 personality: >-
-  While mad: paranoid and violent, convinced enemies are hunting him
-  everywhere. Once restored: stubborn, taciturn, and utterly certain of
-  his own authority.
-ideal: Power exists to end tyranny, whatever the cost to the one who wields it.
+  While mad: paranoid and violent, convinced enemies are hunting him everywhere.
+  Once restored: stubborn, taciturn, and utterly certain of his own authority.
+ideal: 'Power exists to end tyranny, whatever the cost to the one who wields it.'
 bond: >-
-  The Circle of Eight, his fellow archmages on Oerth, from whom his
-  madness and this land have cut him off.
-flaw: His overconfidence led him to challenge Strahd directly in single combat — and lose catastrophically.
+  The Circle of Eight, his fellow archmages on Oerth, from whom his madness and
+  this land have cut him off.
+flaw: >-
+  His overconfidence led him to challenge Strahd directly in single combat — and
+  lose catastrophically.
 goals: >-
-  To recover his stolen staff and spellbook, shed his madness, and find
-  a way to defeat Strahd and go home.
+  To recover his stolen staff and spellbook, shed his madness, and find a way to
+  defeat Strahd and go home.
 likes: 'Solitude, the company of true equals, forbidden lore'
 dislikes: 'Being underestimated, fools, Strahd von Zarovich'
 ---
@@ -85,15 +85,7 @@ dislikes: 'Being underestimated, fools, Strahd von Zarovich'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 39*
 
-Encountered wandering the base of Mount Baratok — sometimes as an elk, sometimes as a wild-eyed man in tattered black robes — the Mad Mage is a broken remnant of one of the multiverse's great archmages, driven to raving paranoia by a single catastrophic defeat.
-
-## A Fallen Archmage
-
-Beneath the madness is Mordenkainen, an archmage of Oerth and leader of the Circle of Eight, who came to Barovia to free its people from Strahd's tyranny and grievously underestimated what he was up against. Their battle at Castle Ravenloft ended with Mordenkainen hurled from a precipice into Tser Falls, his staff and spellbook lost to the river below. He survived, but the shock and humiliation of his defeat shattered his mind — and in a moment of paranoid clarity, he cast mind blank on himself, a spell that now actively blocks any attempt to restore his sanity.
-
-## Mordenkainen's Mansion
-
-If freed from his madness, the archmage reveals an extradimensional mansion hidden on the mountainside, created with Mordenkainen's magnificent mansion, where he offers food and safe rest to anyone who helped him. He is unfailingly polite to genuine allies and utterly unwilling to suffer fools — and once his wits return, he sets out alone to recover his staff and spellbook, wanting no help that might tempt anyone toward theft.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

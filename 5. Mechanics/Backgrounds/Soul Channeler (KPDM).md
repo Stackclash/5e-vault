@@ -25,7 +25,7 @@ You can call upon your inner reserves to recover from debilitating, long-term In
 
 Soul channelers are drawn to the Dark Arts and the manipulation of available resources to achieve their goals. For some this might include using their own capabilities, but an easier (and more common) method employs summoned creatures, Undead servants, and duped allies. Not every soul channeler chooses to exploit such opportunities, but the Temptation is there for all.
 
-`dice: [[Soul Channeler (KPDM).md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Soul Channeler (KPDM).md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -39,7 +39,7 @@ Soul channelers are drawn to the Dark Arts and the manipulation of available res
 | 8 | I mistrust any who have power over me or others. |
 ^personality-trait
 
-`dice: [[Soul Channeler (KPDM).md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Soul Channeler (KPDM).md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -51,7 +51,7 @@ Soul channelers are drawn to the Dark Arts and the manipulation of available res
 | 6 | **Diabolic.** I inflict pain, suffering, and strife with zeal and gusto. (Evil) |
 ^ideal
 
-`dice: [[Soul Channeler (KPDM).md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Soul Channeler (KPDM).md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -63,7 +63,7 @@ Soul channelers are drawn to the Dark Arts and the manipulation of available res
 | 6 | My loyalty is hard-won, but once earned it is unwavering. |
 ^bond
 
-`dice: [[Soul Channeler (KPDM).md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Soul Channeler (KPDM).md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

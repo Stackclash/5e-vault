@@ -28,7 +28,7 @@ This deck of cards can be used as a standard [[/5. Mechanics/Items/Playing Card 
 
 You can use each card from the shuffled deck as if it were a magic dart. On a hit, a card deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage to the target of a type depending on its suit. Roll a `dice:d8|noform|noparens|avg` (`d8`) to determine the card's suit using the table below, or draw from a real deck of cards to determine the suit instead.
 
-`dice: [[Deck Of Dragons (GRIFFONSSADDLEBAG3).md#^suit-dragon-damage-type]]`
+`dice: [[/5. Mechanics/Items/Deck Of Dragons (GRIFFONSSADDLEBAG3).md#^suit-dragon-damage-type]]`
 
 | dice: d8 | Suit | Dragon | Damage Type |
 |----------|------|--------|-------------|

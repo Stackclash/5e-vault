@@ -11,7 +11,7 @@ aliases:
 
 **Romantic Elements**
 
-`dice: [[Romance Romantic Elements (VRGR).md#^romantic-elements]]`
+`dice: [[/5. Mechanics/Tables/Romance Romantic Elements (VRGR).md#^romantic-elements]]`
 
 | dice: d8 | Romantic Element |
 |----------|------------------|

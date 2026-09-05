@@ -34,7 +34,7 @@ This wand was made using the horn of a unicorn and feather of a pegasus for the 
 
 ## Spells
 
-While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] (1 charge), [[/5. Mechanics/Spells/Find Steed.md\|find steed]] (a [[/5. Mechanics/Bestiary/Celestial/Pegas(US).md\|pegasus]], 1 charge), [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] (6th-level version, 1 charge, +10 to hit with ranged spell attack), or [[/5. Mechanics/Spells/Sacred Flame.md\|sacred flame]] (no charges, cast at 5th level).
+While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] (1 charge), [[/5. Mechanics/Spells/Find Steed.md\|find steed]] (a [[/5. Mechanics/Bestiary/Celestial/Pegasus.md\|pegasus]], 1 charge), [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] (6th-level version, 1 charge, +10 to hit with ranged spell attack), or [[/5. Mechanics/Spells/Sacred Flame.md\|sacred flame]] (no charges, cast at 5th level).
 
 ## Create Wings
 

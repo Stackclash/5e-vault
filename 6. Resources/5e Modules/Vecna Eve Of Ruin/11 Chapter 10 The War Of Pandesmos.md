@@ -325,7 +325,7 @@ If the characters want to disguise themselves to infiltrate Camlash's forces, th
 
 ##### Treasure
 
-In addition to the [[/5. Mechanics/Items/Cloak Of Arachnida.md\|Cloak of Arachnida]] that Naxa wears, this room contains four [[/5. Mechanics/Items/1 Weapon.md\|+1 Longswords]], three [[/5. Mechanics/Items/1 Weapon.md\|+1 Daggers]], a [[/5. Mechanics/Items/2 Weapon.md\|+2 Longbow]], three [[/5. Mechanics/Items/Potion Of Poison.md\|Potions of Poison]], and a [[/5. Mechanics/Items/Potion Of Stone Giant Strength.md\|Potion of Giant Strength (stone)]]. One banner bearing Lolth's symbol is bordered with a thick silk rope. This is a [[/5. Mechanics/Items/Rope Of Climbing.md\|Rope of Climbing]] that functions normally once unstitched from the banner. A mahogany chest the spyder-fiends took from a drow quartermaster contains 750 flawless black opals, each worth 1,000 gp.
+In addition to the [[/5. Mechanics/Items/Cloak Of Arachnida.md\|Cloak of Arachnida]] that Naxa wears, this room contains four [[/5. Mechanics/Items/1 Weapon.md\|+1 Longswords]], three [[/5. Mechanics/Items/1 Weapon.md\|+1 Daggers]], a [[/5. Mechanics/Items/2 Weapon.md\|+2 Longbow]], three [[/5. Mechanics/Items/Potion Of Poison.md\|Potions of Poison]], and a [[/5. Mechanics/Items/Potion Of Stone Giant Strength.md\|Potion of Giant Strength (stone)]]. One banner bearing Lolth's symbol is bordered with a thick silk rope. This is a [[/5. Mechanics/Items/Rope Of Climbing.md\|Rope of Climbing]] that functions normally once unstitched from the banner. A mahogany chest the spyder-fiends took from a drow quartermaster contains 750 flawless [[/5. Mechanics/Items/Black Opal.md\|black opals]], each worth 1,000 gp.
 
 #### Y5: Planning Chamber
 

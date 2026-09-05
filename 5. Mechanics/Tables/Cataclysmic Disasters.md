@@ -11,7 +11,7 @@ aliases:
 
 **Cataclysmic Disasters**
 
-`dice: [[Cataclysmic Disasters.md#^cataclysmic-disasters]]`
+`dice: [[/5. Mechanics/Tables/Cataclysmic Disasters.md#^cataclysmic-disasters]]`
 
 | dice: d10 | Cataclysmic Disaster |
 |-----------|----------------------|

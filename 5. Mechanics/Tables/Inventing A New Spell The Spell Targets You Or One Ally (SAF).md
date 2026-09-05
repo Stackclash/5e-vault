@@ -11,7 +11,7 @@ aliases:
 
 **The Spell Targets You or One Ally**
 
-`dice: [[Inventing A New Spell The Spell Targets You Or One Ally (SAF).md#^the-spell-targets-you-or-one-ally]]`
+`dice: [[/5. Mechanics/Tables/Inventing A New Spell The Spell Targets You Or One Ally (SAF).md#^the-spell-targets-you-or-one-ally]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|

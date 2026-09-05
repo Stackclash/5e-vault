@@ -8,7 +8,7 @@ aliases:
   - Way of Mercy
 ---
 # Way of Mercy
-*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[/5. Mechanics/Classes/Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Tasha's Cauldron of Everything p. 49*  
 
 > [!tldr] Class and Feature Progression
@@ -61,7 +61,7 @@ You also gain a special mask, which you often wear when using the features of th
 
 **Merciful Mask**
 
-`dice: [[Monk Way Of Mercy (TCE).md#^merciful-mask]]`
+`dice: [[/5. Mechanics/Classes/Monk Way Of Mercy (TCE).md#^merciful-mask]]`
 
 | dice: d6 | Mask Appearance |
 |----------|-----------------|

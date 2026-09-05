@@ -30,7 +30,7 @@ You can use the following tables to introduce some damnable flair into your infe
 
 **Medium**
 
-`dice: [[08 Writing Your Infernal Contract.md#^medium]]`
+`dice: [[/6. Resources/Books/Devils Advocate A Guide To Infernal Contracts/08 Writing Your Infernal Contract.md#^medium]]`
 
 | dice: d6 | The contract is... |
 |----------|--------------------|
@@ -44,7 +44,7 @@ You can use the following tables to introduce some damnable flair into your infe
 
 **Devil Quirks**
 
-`dice: [[08 Writing Your Infernal Contract.md#^devil-quirks]]`
+`dice: [[/6. Resources/Books/Devils Advocate A Guide To Infernal Contracts/08 Writing Your Infernal Contract.md#^devil-quirks]]`
 
 | dice: d6 | Quirk |
 |----------|-------|

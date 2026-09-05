@@ -11,7 +11,7 @@ aliases:
 
 **Means to Save Darkon**
 
-`dice: [[Means To Save Darkon (VRGR).md#^means-to-save-darkon]]`
+`dice: [[/5. Mechanics/Tables/Means To Save Darkon (VRGR).md#^means-to-save-darkon]]`
 
 | dice: d6 | Implement |
 |----------|-----------|

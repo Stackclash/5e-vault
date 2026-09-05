@@ -11,7 +11,7 @@ aliases:
 
 **Zombie Siege Climax**
 
-`dice: [[Concluding The Siege Zombie Siege Climax (VRGR).md#^zombie-siege-climax]]`
+`dice: [[/5. Mechanics/Tables/Concluding The Siege Zombie Siege Climax (VRGR).md#^zombie-siege-climax]]`
 
 | dice: d4 | Climax |
 |----------|--------|

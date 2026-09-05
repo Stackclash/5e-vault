@@ -11,7 +11,7 @@ aliases:
 
 **Special Circumstances**
 
-`dice: [[Dwarves On The Move Special Circumstances (MTF).md#^special-circumstances]]`
+`dice: [[/5. Mechanics/Tables/Dwarves On The Move Special Circumstances (MTF).md#^special-circumstances]]`
 
 | dice: d4 | Circumstance |
 |----------|--------------|

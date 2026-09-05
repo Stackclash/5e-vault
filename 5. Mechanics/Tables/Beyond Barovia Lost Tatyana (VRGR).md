@@ -11,7 +11,7 @@ aliases:
 
 **Lost Tatyana**
 
-`dice: [[Beyond Barovia Lost Tatyana (VRGR).md#^lost-tatyana]]`
+`dice: [[/5. Mechanics/Tables/Beyond Barovia Lost Tatyana (VRGR).md#^lost-tatyana]]`
 
 | dice: d6 | Resurrection Circumstances |
 |----------|----------------------------|

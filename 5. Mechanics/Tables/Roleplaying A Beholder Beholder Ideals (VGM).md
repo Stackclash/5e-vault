@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Ideals**
 
-`dice: [[Roleplaying A Beholder Beholder Ideals (VGM).md#^beholder-ideals]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Beholder Beholder Ideals (VGM).md#^beholder-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

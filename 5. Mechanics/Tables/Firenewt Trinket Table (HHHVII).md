@@ -9,7 +9,7 @@ aliases:
 # Firenewt Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume II p. 18* 
 
-`dice: [[Firenewt Trinket Table (HHHVII).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Firenewt Trinket Table (HHHVII).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

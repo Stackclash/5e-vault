@@ -25,7 +25,7 @@ This sheet of vellum constantly swirls with random text, runes, and symbols that
 
 **Enigma**
 
-`dice: [[Enigma Sheet (HHHVIII).md#^enigma]]`
+`dice: [[/5. Mechanics/Items/Enigma Sheet (HHHVIII).md#^enigma]]`
 
 | dice: d6 | Effect |
 |----------|--------|

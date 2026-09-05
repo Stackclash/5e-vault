@@ -11,7 +11,7 @@ aliases:
 
 **Cause of Death**
 
-`dice: [[Supplemental Tables Cause Of Death (XGE).md#^cause-of-death]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Cause Of Death (XGE).md#^cause-of-death]]`
 
 | dice: d12 | Cause of Death |
 |-----------|----------------|

@@ -8,7 +8,7 @@ aliases:
   - Circle of the Grove
 ---
 # Circle of the Grove
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: The Griffon's Saddlebag, Book 3*  
 
 > [!tldr] Class and Feature Progression
@@ -84,7 +84,7 @@ You can use this feature even while transformed into a plant using your Wild Sha
 
 Starting at 6th level, you take on treelike features while concentrating on a druid spell. Choose a Rooted Appearance or roll on the table below.
 
-`dice: [[Druid Circle Of The Grove (GRIFFONSSADDLEBAG3).md#^1-appearance]]`
+`dice: [[/5. Mechanics/Classes/Druid Circle Of The Grove (GRIFFONSSADDLEBAG3).md#^1-appearance]]`
 
 | dice: 1d6 | Appearance |
 |-----------|------------|

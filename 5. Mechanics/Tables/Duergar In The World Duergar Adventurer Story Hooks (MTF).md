@@ -11,7 +11,7 @@ aliases:
 
 **Duergar Adventurer Story Hooks**
 
-`dice: [[Duergar In The World Duergar Adventurer Story Hooks (MTF).md#^duergar-adventurer-story-hooks]]`
+`dice: [[/5. Mechanics/Tables/Duergar In The World Duergar Adventurer Story Hooks (MTF).md#^duergar-adventurer-story-hooks]]`
 
 | dice: d6 | Hook |
 |----------|------|

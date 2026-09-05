@@ -168,7 +168,7 @@ If the characters are forced to search the plains and battlefields of Avernus fo
 
 **Stop for Directions**
 
-`dice: [[09 Chapter 8 The Dragon Queens Pride.md#^stop-for-directions]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/09 Chapter 8 The Dragon Queens Pride.md#^stop-for-directions]]`
 
 | dice: d6 | Source of Help |
 |----------|----------------|
@@ -535,7 +535,7 @@ Before the characters explore the maze, have them designate a leader. If a chara
 
 **Treasure Chambers**
 
-`dice: [[09 Chapter 8 The Dragon Queens Pride.md#^treasure-chambers]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/09 Chapter 8 The Dragon Queens Pride.md#^treasure-chambers]]`
 
 | dice: d10 | Chamber |
 |-----------|---------|
@@ -548,12 +548,12 @@ Before the characters explore the maze, have them designate a leader. If a chara
 
 **Challenge Chambers**
 
-`dice: [[09 Chapter 8 The Dragon Queens Pride.md#^challenge-chambers]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/09 Chapter 8 The Dragon Queens Pride.md#^challenge-chambers]]`
 
 | dice: d10 | Chamber |
 |-----------|---------|
 | 1–3 | Five [[/5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimics]], all disguised as treasure chests, occupy this room. Disturbing one mimic causes them all to attack. |
-| 4–6 | This room is filled with 1-foot-deep water. A thin wooden plank spans the water, connecting the room's entrance and exit. A creature crossing the plank must succeed on a DC 17 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check or fall into the water. The first time a creature touches the water, three [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elementals]] appear and attack. |
+| 4–6 | This room is filled with 1-foot-deep water. A thin wooden plank spans the water, connecting the room's entrance and exit. A creature crossing the plank must succeed on a DC 17 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check or fall into the water. The first time a creature touches the water, three [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elementals]] appear and attack. |
 | 7–8 | A hostile but sleeping [[/5. Mechanics/Bestiary/Monstrosity/Behir.md\|behir]] lies curled around a chest. A creature that approaches the behir must succeed on a DC 16 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check to avoid being noticed. The chest is unlocked and contains 50 talons and one [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coin]]. |
 | 9 | A large vase filled with 100 talons sits in the center of the room. The vase is guarded by three [[/5. Mechanics/Bestiary/Elemental/Invisible Stalker.md\|invisible stalkers]], which attack any creature that touches the vessel. |
 | 10 | A hostile [[/5. Mechanics/Bestiary/Construct/Iron Golem.md\|iron golem]] patrols this room and immediately attacks intruders. If the golem is destroyed, a character who searches the golem's remains finds three [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coins]]. |

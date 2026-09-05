@@ -53,7 +53,7 @@ Rather than sleeping, reborn regularly sit and dwell on the past, hoping for som
 
 **Lost Memories**
 
-`dice: [[Reborn (VRGR).md#^lost-memories]]`
+`dice: [[/5. Mechanics/Races/Reborn (VRGR).md#^lost-memories]]`
 
 | dice: d6 | Memory |
 |----------|--------|
@@ -71,7 +71,7 @@ Reborn might originate from circumstances similar to those of various undead or 
 
 **Reborn Origins**
 
-`dice: [[Reborn (VRGR).md#^reborn-origins]]`
+`dice: [[/5. Mechanics/Races/Reborn (VRGR).md#^reborn-origins]]`
 
 | dice: d8 | Origins |
 |----------|---------|

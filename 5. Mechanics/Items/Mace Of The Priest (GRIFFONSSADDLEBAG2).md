@@ -41,6 +41,6 @@ This magic mace is carried by priests and is a symbol of their devotion to riddi
 
 The weapon has 4 charges and regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn. While holding it, you can use an action to expend 1 of its charges to cast either [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] (3rd-level version) or [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] from it, using your spellcasting ability modifier.
 
-Alternatively, you can use an action to speak the weapon's command word to cast the [[/5. Mechanics/Spells/He(AL).md\|heal]] spell from it. When you do, the weapon releases a flash of light and is destroyed.
+Alternatively, you can use an action to speak the weapon's command word to cast the [[/5. Mechanics/Spells/Heal.md\|heal]] spell from it. When you do, the weapon releases a flash of light and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 117*

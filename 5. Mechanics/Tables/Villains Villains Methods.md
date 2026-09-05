@@ -11,7 +11,7 @@ aliases:
 
 **Villain's Methods**
 
-`dice: [[Villains Villains Methods.md#^villains-methods]]`
+`dice: [[/5. Mechanics/Tables/Villains Villains Methods.md#^villains-methods]]`
 
 | dice: d20 | Methods |
 |-----------|---------|

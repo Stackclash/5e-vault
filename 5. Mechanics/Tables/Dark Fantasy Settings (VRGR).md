@@ -11,7 +11,7 @@ aliases:
 
 **Dark Fantasy Settings**
 
-`dice: [[Dark Fantasy Settings (VRGR).md#^dark-fantasy-settings]]`
+`dice: [[/5. Mechanics/Tables/Dark Fantasy Settings (VRGR).md#^dark-fantasy-settings]]`
 
 | dice: d8 | Setting |
 |----------|---------|

@@ -45,6 +45,6 @@ This fungal staff has 25 charges and regains `dice:1d10+15|noform|noparens|avg` 
 
 In addition, while holding the staff, you can use a bonus action to expend 1 or more of its charges to cast one of the following spells from it, regardless of the spell's normal casting time, using your spell save DC: [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]] (5 charges), [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] (1 charge), [[/5. Mechanics/Spells/Insect Plague.md\|insect plague]] (5 charges), or [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] (3 charges). A spell cast in this way ends at the end of your next turn and must target a point adjacent to a space occupied by your mushrooms. When cast from the staff, these spells do not require concentration.
 
-If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff begins to overgrow, destroying the staff and forcing you to drop it in an unoccupied space adjacent to you. A hostile [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] grows in its place.
+If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff begins to overgrow, destroying the staff and forcing you to drop it in an unoccupied space adjacent to you. A hostile [[/5. Mechanics/Bestiary/Plant/Violet Fungus.md\|violet fungus]] grows in its place.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 62*

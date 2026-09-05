@@ -140,7 +140,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - "desc": "The arcanaloth's innate spellcasting ability is Charisma (spell save\
       \ DC 15). The arcanaloth can innately cast the following spells, requiring no\
       \ material components:\n\n**At will:** [[/5. Mechanics/Spells/Alter Self.md|alter self]],\
-      \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
+      \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Heat Metal.md|heat metal]],\
       \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[/5. Mechanics/Spells/Magic Missile.md|magic missile]]"
     "name": "Innate Spellcasting"
   - "desc": "The arcanaloth has advantage on saving throws against spells and other\

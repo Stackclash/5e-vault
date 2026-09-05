@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Japanese, Female**
 
-`dice: [[Human Names Japanese Female (XGE).md#^human-names-japanese-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Japanese Female (XGE).md#^human-names-japanese-female]]`
 
 | dice: d100 | Name |
 |------------|------|

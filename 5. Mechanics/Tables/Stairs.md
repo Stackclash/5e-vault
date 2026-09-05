@@ -11,7 +11,7 @@ aliases:
 
 **Stairs**
 
-`dice: [[Stairs.md#^stairs]]`
+`dice: [[/5. Mechanics/Tables/Stairs.md#^stairs]]`
 
 | dice: d20 | Stairs |
 |-----------|--------|

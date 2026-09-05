@@ -11,7 +11,7 @@ aliases:
 
 **Books, Scrolls, and Tomes**
 
-`dice: [[Dungeon Dressing Books Scrolls And Tomes.md#^books-scrolls-and-tomes]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing Books Scrolls And Tomes.md#^books-scrolls-and-tomes]]`
 
 | dice: d100 | Contents |
 |------------|----------|

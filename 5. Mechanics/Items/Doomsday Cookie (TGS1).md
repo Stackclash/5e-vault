@@ -31,7 +31,7 @@ Regardless of its grim foretellings, the cookie itself is a delicious snack that
 
 **Doomsday Cookie Predictions**
 
-`dice: [[Doomsday Cookie (TGS1).md#^doomsday-cookie-predictions]]`
+`dice: [[/5. Mechanics/Items/Doomsday Cookie (TGS1).md#^doomsday-cookie-predictions]]`
 
 | dice: d20 | Prediction |
 |-----------|------------|

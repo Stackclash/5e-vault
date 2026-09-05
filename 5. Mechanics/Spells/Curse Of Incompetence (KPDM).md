@@ -51,7 +51,7 @@ By making mocking gestures toward one creature within range that can see you, yo
 
 **Curse of Incompetence**
 
-`dice: [[Curse Of Incompetence (KPDM).md#^curse-of-incompetence]]`
+`dice: [[/5. Mechanics/Spells/Curse Of Incompetence (KPDM).md#^curse-of-incompetence]]`
 
 | dice: d4 | Curse |
 |----------|-------|

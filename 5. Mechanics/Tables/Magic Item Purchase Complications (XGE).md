@@ -11,7 +11,7 @@ aliases:
 
 **Magic Item Purchase Complications**
 
-`dice: [[Magic Item Purchase Complications (XGE).md#^magic-item-purchase-complications]]`
+`dice: [[/5. Mechanics/Tables/Magic Item Purchase Complications (XGE).md#^magic-item-purchase-complications]]`
 
 | dice: d12 | Complication |
 |-----------|--------------|

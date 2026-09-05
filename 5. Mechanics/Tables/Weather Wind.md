@@ -11,7 +11,7 @@ aliases:
 
 **Wind**
 
-`dice: [[Weather Wind.md#^wind]]`
+`dice: [[/5. Mechanics/Tables/Weather Wind.md#^wind]]`
 
 | dice: d20 | Wind |
 |-----------|------|

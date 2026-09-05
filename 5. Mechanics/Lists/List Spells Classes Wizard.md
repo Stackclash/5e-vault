@@ -621,7 +621,7 @@ aliases:
 - [[/5. Mechanics/Spells/Cloudkill.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Cone Of Cold.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Conjure Creature (HHHVII).md \|"HHHVII"]]
-- [[/5. Mechanics/Spells/Conjure Element(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Conjure Elemental.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Conjure Fey Hound (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Conjure Minor Voidborn (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Conjure Nightmare (KPDM).md \|"KPDM"]]

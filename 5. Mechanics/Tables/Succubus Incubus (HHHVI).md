@@ -4,7 +4,7 @@ cssclasses: json5e-note
 tags:
   - compendium/src/5e/hhhvi
 aliases:
-  - Succubus\Incub(US)
+  - Succubus\Incubus
 ---
 # Succubus/Incubus
 *Source: Hamund's Harvesting Handbook: Volume I p. 98* 

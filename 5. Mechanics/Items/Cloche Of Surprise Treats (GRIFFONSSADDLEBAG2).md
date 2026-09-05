@@ -25,7 +25,7 @@ await dv.view("views/itemPrice", {current: dv.current()})
 
 This magic silver cloche covers a large dinner platter. You can use an action to speak the cloche's command word and remove it from the platter. When you do, use the table below to determine what kind of meal appears.
 
-`dice: [[Cloche Of Surprise Treats (GRIFFONSSADDLEBAG2).md#^meal]]`
+`dice: [[/5. Mechanics/Items/Cloche Of Surprise Treats (GRIFFONSSADDLEBAG2).md#^meal]]`
 
 | dice: d12 | Meal |
 |-----------|------|

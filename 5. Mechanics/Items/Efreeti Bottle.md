@@ -29,7 +29,7 @@ This painted brass bottle weighs 1 pound. When you use an action to remove the s
 
 The first time the bottle is opened, the DM rolls to determine what happens.
 
-`dice: [[Efreeti Bottle.md#^effect]]`
+`dice: [[/5. Mechanics/Items/Efreeti Bottle.md#^effect]]`
 
 | dice: d100 | Effect |
 |------------|--------|

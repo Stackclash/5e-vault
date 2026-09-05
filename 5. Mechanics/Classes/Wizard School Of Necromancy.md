@@ -8,7 +8,7 @@ aliases:
   - School of Necromancy
 ---
 # School of Necromancy
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Player's Handbook p. 118*  
 
 > [!tldr] Class and Feature Progression

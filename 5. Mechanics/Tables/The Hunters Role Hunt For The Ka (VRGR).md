@@ -11,7 +11,7 @@ aliases:
 
 **Hunt for the Ka**
 
-`dice: [[The Hunters Role Hunt For The Ka (VRGR).md#^hunt-for-the-ka]]`
+`dice: [[/5. Mechanics/Tables/The Hunters Role Hunt For The Ka (VRGR).md#^hunt-for-the-ka]]`
 
 | dice: d6 | Hunt |
 |----------|------|

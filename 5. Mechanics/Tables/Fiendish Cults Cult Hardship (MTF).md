@@ -11,7 +11,7 @@ aliases:
 
 **Cult Hardship**
 
-`dice: [[Fiendish Cults Cult Hardship (MTF).md#^cult-hardship]]`
+`dice: [[/5. Mechanics/Tables/Fiendish Cults Cult Hardship (MTF).md#^cult-hardship]]`
 
 | dice: d6 | Hardship |
 |----------|----------|

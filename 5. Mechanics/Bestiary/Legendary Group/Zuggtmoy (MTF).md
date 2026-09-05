@@ -14,7 +14,7 @@ _Source: Mordenkainen's Tome of Foes_
 
 On Initiative count 20 (losing initiative ties), Zuggtmoy can take a lair action to cause one of the following effects; she can't use the same effect two rounds in a row:
 
-- Zuggtmoy causes four [[/5. Mechanics/Bestiary/Plant/Gas Spore.md|gas spores]] or [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md|violet fungi]] to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.  
+- Zuggtmoy causes four [[/5. Mechanics/Bestiary/Plant/Gas Spore.md|gas spores]] or [[/5. Mechanics/Bestiary/Plant/Violet Fungus.md|violet fungi]] to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.  
 - Up to four plant creatures that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions to move up to their speed and make one weapon attack.  
 - Zuggtmoy uses either her Infestation Spores or her Mind Control Spores, centered on a mushroom or other fungus within her lair, instead of on herself.  
 

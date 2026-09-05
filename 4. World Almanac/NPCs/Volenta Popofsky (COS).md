@@ -15,7 +15,7 @@ alignment: Neutral Evil
 relationships: []
 partyRelationships: {}
 location: null
-pronounced: 'voh-LEN-tah poh-POF-skee'
+pronounced: voh-LEN-tah poh-POF-skee
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 26
@@ -23,24 +23,22 @@ occupation: []
 groups:
   - Strahd's brides
 religions: []
-personality: >-
-  Cold and possessive, quicker to violence than her sister brides.
-ideal: To be the last bride standing, whatever that requires.
+personality: 'Cold and possessive, quicker to violence than her sister brides.'
+ideal: 'To be the last bride standing, whatever that requires.'
 bond: The platinum mask that hides what she's become.
 flaw: Jealousy of any woman who catches Strahd's eye.
-goals: To be noticed by Strahd again — or, failing that, to feed.
+goals: 'To be noticed by Strahd again — or, failing that, to feed.'
 likes: 'Jewelry, being feared, rivalry with her sister brides'
 dislikes: 'Being overlooked, sunlight, running water'
 description: >-
-  A vampire spawn bride in a faded gold wedding gown and a platinum
-  skull-shaped mask — one of three brides who lie dormant near Strahd's
-  coffin.
+  A vampire spawn bride in a faded gold wedding gown and a platinum skull-shaped
+  mask — one of three brides who lie dormant near Strahd's coffin.
 history: >-
-  Once a mortal woman claimed as one of Strahd's many brides, Volenta was
-  turned into a vampire spawn and discarded like those before her. She lay
-  dormant for centuries with her sister brides, [[Anastrasya Karelova (COS)|Anastrasya Karelova]]
-  and [[Ludmilla Vilisevic (COS)|Ludmilla Vilisevic]], in the earth near
-  Strahd's coffin in the catacombs of Castle Ravenloft, rising only to
+  Once a mortal woman claimed as one of Strahd's many brides, Volenta was turned
+  into a vampire spawn and discarded like those before her. She lay dormant for
+  centuries with her sister brides, [[Anastrasya Karelova (COS)|Anastrasya
+  Karelova]] and [[Ludmilla Vilisevic (COS)|Ludmilla Vilisevic]], in the earth
+  near Strahd's coffin in the catacombs of Castle Ravenloft, rising only to
   defend it from intruders.
 ---
 > [!infobox]
@@ -73,11 +71,7 @@ history: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 93*
 
-Volenta Popofsky wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull, and platinum rings set with gemstones — the finery Strahd once lavished on his brides.
-
-## The Brides of Ravenloft
-
-Volenta was one of three vampire spawn brides — alongside [[Anastrasya Karelova (COS)|Anastrasya Karelova]] and [[Ludmilla Vilisevic (COS)|Ludmilla Vilisevic]] — kept dormant in the earth near Strahd's coffin in the catacombs of Castle Ravenloft, rising only to defend it from intruders.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

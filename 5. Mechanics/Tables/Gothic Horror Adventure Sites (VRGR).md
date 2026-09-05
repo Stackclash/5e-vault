@@ -11,7 +11,7 @@ aliases:
 
 **Gothic Horror Adventure Sites**
 
-`dice: [[Gothic Horror Adventure Sites (VRGR).md#^gothic-horror-adventure-sites]]`
+`dice: [[/5. Mechanics/Tables/Gothic Horror Adventure Sites (VRGR).md#^gothic-horror-adventure-sites]]`
 
 | dice: d8 | Adventure Site |
 |----------|----------------|

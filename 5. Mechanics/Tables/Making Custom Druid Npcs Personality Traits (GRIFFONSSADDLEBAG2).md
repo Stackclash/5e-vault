@@ -9,7 +9,7 @@ aliases:
 # Making Custom Druid NPCs; Personality Traits
 *Source: The Griffon's Saddlebag, Book 2 p. 259* 
 
-`dice: [[Making Custom Druid Npcs Personality Traits (GRIFFONSSADDLEBAG2).md#^personality-trait]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Druid Npcs Personality Traits (GRIFFONSSADDLEBAG2).md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|

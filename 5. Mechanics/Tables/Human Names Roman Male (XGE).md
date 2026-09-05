@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Roman, Male**
 
-`dice: [[Human Names Roman Male (XGE).md#^human-names-roman-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Roman Male (XGE).md#^human-names-roman-male]]`
 
 | dice: d100 | Name |
 |------------|------|

@@ -11,7 +11,7 @@ aliases:
 
 **Demonic Influence**
 
-`dice: [[Creating A Gnoll War Band Demonic Influence (VGM).md#^demonic-influence]]`
+`dice: [[/5. Mechanics/Tables/Creating A Gnoll War Band Demonic Influence (VGM).md#^demonic-influence]]`
 
 | dice: d12 | Demonic Influence |
 |-----------|-------------------|

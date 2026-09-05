@@ -11,7 +11,7 @@ aliases:
 
 **Ghost Story Settings**
 
-`dice: [[Ghost Story Settings (VRGR).md#^ghost-story-settings]]`
+`dice: [[/5. Mechanics/Tables/Ghost Story Settings (VRGR).md#^ghost-story-settings]]`
 
 | dice: d8 | Setting |
 |----------|---------|

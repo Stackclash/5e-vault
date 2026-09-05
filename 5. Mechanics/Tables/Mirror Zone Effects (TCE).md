@@ -11,7 +11,7 @@ aliases:
 
 **Mirror Zone Effects**
 
-`dice: [[Mirror Zone Effects (TCE).md#^mirror-zone-effects]]`
+`dice: [[/5. Mechanics/Tables/Mirror Zone Effects (TCE).md#^mirror-zone-effects]]`
 
 | dice: d100 | Effect |
 |------------|--------|

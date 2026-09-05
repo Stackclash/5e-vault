@@ -9,7 +9,7 @@ aliases:
   - Astral Domain
 ---
 # Astral Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: The Griffon's Saddlebag, Book 1 p. 158*  
 
 > [!tldr] Class and Feature Progression

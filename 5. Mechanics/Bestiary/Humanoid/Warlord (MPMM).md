@@ -29,7 +29,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 
 **Warlord Battle Cries**
 
-`dice: [[Warlord (MPMM).md#^warlord-battle-cries]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/Warlord (MPMM).md#^warlord-battle-cries]]`
 
 | dice: d8 | Battle Cry |
 |----------|------------|

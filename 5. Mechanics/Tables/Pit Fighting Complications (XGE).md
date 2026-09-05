@@ -11,7 +11,7 @@ aliases:
 
 **Pit Fighting Complications**
 
-`dice: [[Pit Fighting Complications (XGE).md#^pit-fighting-complications]]`
+`dice: [[/5. Mechanics/Tables/Pit Fighting Complications (XGE).md#^pit-fighting-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

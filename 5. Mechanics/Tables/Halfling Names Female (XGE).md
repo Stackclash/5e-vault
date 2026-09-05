@@ -11,7 +11,7 @@ aliases:
 
 **Halfling Names – Female**
 
-`dice: [[Halfling Names Female (XGE).md#^halfling-names-female]]`
+`dice: [[/5. Mechanics/Tables/Halfling Names Female (XGE).md#^halfling-names-female]]`
 
 | dice: d100 | Name |
 |------------|------|

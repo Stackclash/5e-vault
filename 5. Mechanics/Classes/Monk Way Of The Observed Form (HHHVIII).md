@@ -8,7 +8,7 @@ aliases:
   - Way of the Observed Form
 ---
 # Way of the Observed Form
-*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[/5. Mechanics/Classes/Monk.md\|Monk]]: Monastic Tradition*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 113*  
 
 > [!tldr] Class and Feature Progression

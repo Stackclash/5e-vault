@@ -11,7 +11,7 @@ aliases:
 
 **Purpose of Travel**
 
-`dice: [[Dwarves On The Move Purpose Of Travel (MTF).md#^purpose-of-travel]]`
+`dice: [[/5. Mechanics/Tables/Dwarves On The Move Purpose Of Travel (MTF).md#^purpose-of-travel]]`
 
 | dice: d6 | Purpose |
 |----------|---------|

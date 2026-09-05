@@ -11,7 +11,7 @@ aliases:
 
 **Falkovnia Adventures**
 
-`dice: [[Falkovnia Adventures (VRGR).md#^falkovnia-adventures]]`
+`dice: [[/5. Mechanics/Tables/Falkovnia Adventures (VRGR).md#^falkovnia-adventures]]`
 
 | dice: d10 | Adventure |
 |-----------|-----------|

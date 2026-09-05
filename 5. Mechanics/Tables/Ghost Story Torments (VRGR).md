@@ -11,7 +11,7 @@ aliases:
 
 **Ghost Story Torments**
 
-`dice: [[Ghost Story Torments (VRGR).md#^ghost-story-torments]]`
+`dice: [[/5. Mechanics/Tables/Ghost Story Torments (VRGR).md#^ghost-story-torments]]`
 
 | dice: d8 | Torment |
 |----------|---------|

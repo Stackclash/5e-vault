@@ -8,7 +8,7 @@ aliases:
   - Oath of the Spelldrinker
 ---
 # Oath of the Spelldrinker
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: The Griffon's Saddlebag, Book 2 p. 220*  
 
 > [!tldr] Class and Feature Progression

@@ -11,7 +11,7 @@ aliases:
 
 **Alignment**
 
-`dice: [[Supplemental Tables Alignment (XGE).md#^alignment]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Alignment (XGE).md#^alignment]]`
 
 | dice: 3d6 | Alignment |
 |-----------|-----------|

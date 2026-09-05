@@ -44,7 +44,7 @@ saving_throw:
 
 You afflict a single humanoid within range with severe pain in constantly changing random parts of their body. At the start of the target's turn each round for the duration of the spell, roll on the table to see where the pain affects the target that round. They must then make a new Constitution saving throw. On a successful save, it is able to function despite the pain and ignore the effects that round. If the target saves against the pain affecting a particular area, they also automatically succeed in the save against the pain affecting the same area on future turns.
 
-`dice: [[Roaming Pain (KPDM).md#^body-part-effect]]`
+`dice: [[/5. Mechanics/Spells/Roaming Pain (KPDM).md#^body-part-effect]]`
 
 | dice: d6 | Body Part | Effect |
 |----------|-----------|--------|

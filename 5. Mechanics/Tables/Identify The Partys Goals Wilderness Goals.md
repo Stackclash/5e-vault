@@ -11,7 +11,7 @@ aliases:
 
 **Wilderness Goals**
 
-`dice: [[Identify The Partys Goals Wilderness Goals.md#^wilderness-goals]]`
+`dice: [[/5. Mechanics/Tables/Identify The Partys Goals Wilderness Goals.md#^wilderness-goals]]`
 
 | dice: d20 | Goal |
 |-----------|------|

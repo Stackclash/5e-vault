@@ -11,7 +11,7 @@ aliases:
 
 **Grand Masquerade Objectives**
 
-`dice: [[The Grand Masquerade Grand Masquerade Objectives (VRGR).md#^grand-masquerade-objectives]]`
+`dice: [[/5. Mechanics/Tables/The Grand Masquerade Grand Masquerade Objectives (VRGR).md#^grand-masquerade-objectives]]`
 
 | dice: d6 | Goal |
 |----------|------|

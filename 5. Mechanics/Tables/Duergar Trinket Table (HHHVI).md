@@ -9,7 +9,7 @@ aliases:
 # Duergar Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 40* 
 
-`dice: [[Duergar Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Duergar Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

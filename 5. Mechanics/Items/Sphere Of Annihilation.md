@@ -32,7 +32,7 @@ If you attempt to control a sphere that is under another creature's control, you
 
 If the sphere comes into contact with a planar portal, such as that created by the [[/5. Mechanics/Spells/Gate.md\|gate]] spell, or an extradimensional space, such as that within a [[/5. Mechanics/Items/Portable Hole.md\|portable hole]], the DM determines randomly what happens, using the following table.
 
-`dice: [[Sphere Of Annihilation.md#^result]]`
+`dice: [[/5. Mechanics/Items/Sphere Of Annihilation.md#^result]]`
 
 | dice: d100 | Result |
 |------------|--------|

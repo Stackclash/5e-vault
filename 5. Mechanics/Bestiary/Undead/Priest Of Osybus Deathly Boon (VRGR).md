@@ -76,7 +76,7 @@ aliases:
   - "desc": "Each creature in a 60-foot-radius sphere centered on a point the priest\
       \ can see within 150 feet of it must make a DC 15 Constitution saving throw,\
       \ taking 28 (8d6) necrotic damage on a failed save, or half as much damage on\
-      \ a successful one.)"
+      \ a successful one."
     "name": "Circle of Death (Spell; (Recharge 5|m-6))"
   - "desc": "The priest casts one of the following spells, requiring no components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\

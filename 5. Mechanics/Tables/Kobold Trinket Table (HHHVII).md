@@ -9,7 +9,7 @@ aliases:
 # Kobold Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume II p. 29* 
 
-`dice: [[Kobold Trinket Table (HHHVII).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Kobold Trinket Table (HHHVII).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

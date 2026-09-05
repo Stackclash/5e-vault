@@ -8,7 +8,7 @@ aliases:
   - The Archfey
 ---
 # The Archfey
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Player's Handbook p. 108*  
 
 > [!tldr] Class and Feature Progression

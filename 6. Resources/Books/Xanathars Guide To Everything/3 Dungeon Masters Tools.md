@@ -408,6 +408,33 @@ The following simple traps can be used to populate your adventures or as models 
 > 
 > And you get hurt! That's the best part.
 
+> [!embed-trap]- Bear Trap
+> ![[/5. Mechanics/Traps Hazards/Bear Trap (XGE).md\|Bear Trap]]
+
+> [!embed-trap]- Crossbow Trap
+> ![[/5. Mechanics/Traps Hazards/Crossbow Trap (XGE).md\|Crossbow Trap]]
+
+> [!embed-trap]- Falling Portcullis
+> ![[/5. Mechanics/Traps Hazards/Falling Portcullis (XGE).md\|Falling Portcullis]]
+
+> [!embed-trap]- Fiery Blast Trap
+> ![[/5. Mechanics/Traps Hazards/Fiery Blast Trap (XGE).md\|Fiery Blast Trap]]
+
+> [!embed-trap]- Net Trap
+> ![[/5. Mechanics/Traps Hazards/Net Trap (XGE).md\|Net Trap]]
+
+> [!embed-trap]- Pit Trap
+> ![[/5. Mechanics/Traps Hazards/Pit Trap (XGE).md\|Pit Trap]]
+
+> [!embed-trap]- Poison Needle Trap
+> ![[/5. Mechanics/Traps Hazards/Poison Needle Trap (XGE).md\|Poison Needle Trap]]
+
+> [!embed-trap]- Scything Blade Trap
+> ![[/5. Mechanics/Traps Hazards/Scything Blade Trap (XGE).md\|Scything Blade Trap]]
+
+> [!embed-trap]- Sleep of Ages Trap
+> ![[/5. Mechanics/Traps Hazards/Sleep Of Ages Trap (XGE).md\|Sleep of Ages Trap]]
+
 ![[/6. Resources/Books/Xanathars Guide To Everything/img/c2022.webp#center]]
 
 ### Designing Simple Traps
@@ -580,6 +607,15 @@ The following complex traps can be used to challenge characters or to inspire yo
 - [[/5. Mechanics/Traps Hazards/Path Of Blades (XGE).md\|Path of Blades]]  
 - [[/5. Mechanics/Traps Hazards/Poisoned Tempest (XGE).md\|Poisoned Tempest]]  
 - [[/5. Mechanics/Traps Hazards/Sphere Of Crushing Doom (XGE).md\|Sphere of Crushing Doom]]  
+
+> [!embed-trap]- Path of Blades
+> ![[/5. Mechanics/Traps Hazards/Path Of Blades (XGE).md\|Path of Blades]]
+
+> [!embed-trap]- Poisoned Tempest
+> ![[/5. Mechanics/Traps Hazards/Poisoned Tempest (XGE).md\|Poisoned Tempest]]
+
+> [!embed-trap]- Sphere of Crushing Doom
+> ![[/5. Mechanics/Traps Hazards/Sphere Of Crushing Doom (XGE).md\|Sphere of Crushing Doom]]
 
 ### Designing Complex Traps
 

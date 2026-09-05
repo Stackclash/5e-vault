@@ -11,7 +11,7 @@ aliases:
 
 **Githyanki Names, Female**
 
-`dice: [[Gith Tables Githyanki Names Female (MTF).md#^githyanki-names-female]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githyanki Names Female (MTF).md#^githyanki-names-female]]`
 
 | dice: d10 | Name |
 |-----------|------|

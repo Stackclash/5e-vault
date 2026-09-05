@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Ideals**
 
-`dice: [[Roleplaying A Yuan Ti Yuan Ti Ideals (VGM).md#^yuan-ti-ideals]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Ideals (VGM).md#^yuan-ti-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

@@ -11,7 +11,7 @@ aliases:
 
 **Elf Names – Male Adult**
 
-`dice: [[Elf Names Male Adult (XGE).md#^elf-names-male-adult]]`
+`dice: [[/5. Mechanics/Tables/Elf Names Male Adult (XGE).md#^elf-names-male-adult]]`
 
 | dice: d100 | Name |
 |------------|------|

@@ -8,7 +8,7 @@ aliases:
   - The Frozen One
 ---
 # The Frozen One
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Deep Magic p. 277*  
 
 > [!tldr] Class and Feature Progression

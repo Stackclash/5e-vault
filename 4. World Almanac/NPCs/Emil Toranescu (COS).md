@@ -16,21 +16,20 @@ aliases:
 alignment: Chaotic Evil
 description: >-
   A strong, young werewolf whose conviction outpaced his caution. Where Kiril
-  rules through fear, Emil argues — loudly, and in front of the pack — that
-  the Children of Mother Night should turn every kidnapped child rather than
-  let most of them die in the fighting ring.
+  rules through fear, Emil argues — loudly, and in front of the pack — that the
+  Children of Mother Night should turn every kidnapped child rather than let
+  most of them die in the fighting ring.
 history: >-
   Emil challenged Kiril Stoyanovich's leadership by questioning the pack's
   method of initiating new werewolves: forcing kidnapped children to fight to
-  the death so only the "strongest" survivor would be turned. Emil argued
-  that sparing and turning every child would grow the pack and secure its
-  future, and half the pack's older members quietly sided with him. The
-  dispute might have ended in Kiril's death or his own, but Kiril vanished for
-  several days and returned with dire wolves loyal to Strahd von Zarovich, who
-  was not pleased with Emil's attempt to fracture his werewolves. The dire
-  wolves dragged Emil to Castle Ravenloft, where Strahd has kept him
-  imprisoned in the South Dungeon ever since — punishment, and a lesson to the
-  rest of the pack.
+  the death so only the "strongest" survivor would be turned. Emil argued that
+  sparing and turning every child would grow the pack and secure its future, and
+  half the pack's older members quietly sided with him. The dispute might have
+  ended in Kiril's death or his own, but Kiril vanished for several days and
+  returned with dire wolves loyal to Strahd von Zarovich, who was not pleased
+  with Emil's attempt to fracture his werewolves. The dire wolves dragged Emil
+  to Castle Ravenloft, where Strahd has kept him imprisoned in the South Dungeon
+  ever since — punishment, and a lesson to the rest of the pack.
 relationships: []
 partyRelationships:
   Midnight Covenant: Friendly
@@ -46,16 +45,24 @@ groups:
   - Children of Mother Night
 religions:
   - Mother Night
-personality: Idealistic, hot-tempered, and quick to speak his mind even when it's dangerous to do so
-ideal: The pack must grow to endure — every child spared is a future wolf, not a waste.
-bond: My mate, Zuleika, never doubted my vision for the pack even when the rest of it turned on me.
-flaw: My conscience made me reckless — I challenged Kiril in the open instead of building support in secret.
+personality: >-
+  Idealistic, hot-tempered, and quick to speak his mind even when it's dangerous
+  to do so
+ideal: >-
+  The pack must grow to endure — every child spared is a future wolf, not a
+  waste.
+bond: >-
+  My mate, Zuleika, never doubted my vision for the pack even when the rest of
+  it turned on me.
+flaw: >-
+  My conscience made me reckless — I challenged Kiril in the open instead of
+  building support in secret.
 goals: >-
-  Escape Castle Ravenloft and prove his worth to Strahd, reclaiming standing
-  in the pack — unless he can be convinced instead to abandon that dream and
-  flee to Zuleika.
-likes: Loyalty, a growing pack, the open sky beyond the castle walls
-dislikes: Kiril's cruelty toward captured children, being doubted, confinement
+  Escape Castle Ravenloft and prove his worth to Strahd, reclaiming standing in
+  the pack — unless he can be convinced instead to abandon that dream and flee
+  to Zuleika.
+likes: 'Loyalty, a growing pack, the open sky beyond the castle walls'
+dislikes: 'Kiril''s cruelty toward captured children, being doubted, confinement'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -87,19 +94,7 @@ dislikes: Kiril's cruelty toward captured children, being doubted, confinement
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 81*
 
-Emil Toranescu is a werewolf of the Children of Mother Night, imprisoned by [[Strahd Von Zarovich (COS)|Strahd von Zarovich]] in the South Dungeon of Castle Ravenloft for challenging his pack leader's authority.
-
-## A Rival's Argument
-
-Emil questioned [[Kiril Stoyanovich (COS)|Kiril Stoyanovich]]'s treatment of the children the pack kidnaps: rather than force them to fight to the death for the right to be turned, Emil argued every child should be spared and turned, growing the pack rather than winnowing it. Kiril saw a larger pack as unmanageable; Emil saw it as survival. The pack split behind the two of them, and it seemed likely that one leader would kill the other before the dispute resolved.
-
-## Taken to the Castle
-
-Kiril vanished for several days and returned with dire wolves loyal to Strahd, who was displeased at Emil's attempt to fracture his werewolves. The dire wolves dragged Emil to Castle Ravenloft and threw him in a flooded cell in the South Dungeon, where he remains — soaked, shivering, and desperate.
-
-## The Prisoner's Lie
-
-Emil tells anyone who finds him that he's an innocent resident of Vallaki chased into the castle by dire wolves, and begs to be freed in exchange for his help. In truth, he's anxious to prove his worth to Strahd again and will turn on his rescuers the moment a good opportunity presents itself — unless they claim to be allies of his wife, [[Zuleika Toranescu (COS)|Zuleika Toranescu]]. In that case he abandons any thought of currying Strahd's favor and tries to slip away from the castle to reunite with her, staying with the party only until he sees his chance to leave.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

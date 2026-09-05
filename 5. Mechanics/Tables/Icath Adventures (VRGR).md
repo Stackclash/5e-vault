@@ -11,7 +11,7 @@ aliases:
 
 **I'Cath Adventures**
 
-`dice: [[Icath Adventures (VRGR).md#^icath-adventures]]`
+`dice: [[/5. Mechanics/Tables/Icath Adventures (VRGR).md#^icath-adventures]]`
 
 | dice: d10 | Adventure |
 |-----------|-----------|

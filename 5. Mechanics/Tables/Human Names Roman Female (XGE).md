@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Roman, Female**
 
-`dice: [[Human Names Roman Female (XGE).md#^human-names-roman-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Roman Female (XGE).md#^human-names-roman-female]]`
 
 | dice: d100 | Name |
 |------------|------|

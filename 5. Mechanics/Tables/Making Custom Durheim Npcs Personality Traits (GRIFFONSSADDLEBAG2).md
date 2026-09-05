@@ -9,7 +9,7 @@ aliases:
 # Making Custom Durheim NPCs; Personality Traits
 *Source: The Griffon's Saddlebag, Book 2 p. 265* 
 
-`dice: [[Making Custom Durheim Npcs Personality Traits (GRIFFONSSADDLEBAG2).md#^trait]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Durheim Npcs Personality Traits (GRIFFONSSADDLEBAG2).md#^trait]]`
 
 | dice: d6 | Trait |
 |----------|-------|

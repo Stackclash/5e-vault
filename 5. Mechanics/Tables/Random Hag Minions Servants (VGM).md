@@ -11,7 +11,7 @@ aliases:
 
 **Servants**
 
-`dice: [[Random Hag Minions Servants (VGM).md#^servants]]`
+`dice: [[/5. Mechanics/Tables/Random Hag Minions Servants (VGM).md#^servants]]`
 
 | dice: d8 | Servant(s) |
 |----------|------------|

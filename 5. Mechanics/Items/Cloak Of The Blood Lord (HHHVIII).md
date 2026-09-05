@@ -27,7 +27,7 @@ Under the cover of night, the cultists of [[/4. World Almanac/NPCs/Orcus (MPMM).
 
 In order to attune to this item, you must wear it from sundown to sunrise while being buried alive under at least 6 feet of soil. Upon the sunrise, you become attuned to this item and your body changes to resemble that of an undead. Your skin becomes extremely pale, your eyes become sunken, and your physique becomes gaunter. You remain in this form so long as you are attuned to this item; if your attunement to this item ends, you revert to your original form immediately.
 
-While attuned to this item, you are immune to necrotic damage and to any effect that would attempt to remove your soul without your permission. In addition, if you are attuned to this item, you automatically succeed the saving throw imposed by attempting to attune to the [[/5. Mechanics/Items/Wand Of Orc(US).md\|Wand of Orcus]].
+While attuned to this item, you are immune to necrotic damage and to any effect that would attempt to remove your soul without your permission. In addition, if you are attuned to this item, you automatically succeed the saving throw imposed by attempting to attune to the [[/5. Mechanics/Items/Wand Of Orcus.md\|Wand of Orcus]].
 
 ## Random Properties
 
@@ -66,6 +66,6 @@ When you become attuned to the cloak, you become cursed. Whenever you finish a l
 
 ## Destroying the Cloak
 
-Destroying the Cloak of the Blood Lord requires that it be taken to the Positive Energy Plane by the ancient hero whose skull surmounts the [[/5. Mechanics/Items/Wand Of Orc(US).md\|Wand of Orcus]]. For this to happen, the long-lost hero must first be restored to life—no easy task, given the fact that [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] has imprisoned the hero's soul and keeps it hidden and well guarded. Bathing the cloak in positive energy causes it to wither and deteriorate, but unless the above conditions are met, the cloak instantly reforms in a random location in the multiverse, usually in proximity to an easily influenced individual, or someone that worships [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]].
+Destroying the Cloak of the Blood Lord requires that it be taken to the Positive Energy Plane by the ancient hero whose skull surmounts the [[/5. Mechanics/Items/Wand Of Orcus.md\|Wand of Orcus]]. For this to happen, the long-lost hero must first be restored to life—no easy task, given the fact that [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] has imprisoned the hero's soul and keeps it hidden and well guarded. Bathing the cloak in positive energy causes it to wither and deteriorate, but unless the above conditions are met, the cloak instantly reforms in a random location in the multiverse, usually in proximity to an easily influenced individual, or someone that worships [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]].
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 101*

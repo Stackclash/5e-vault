@@ -35,7 +35,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 
 **Maw Demon's Stomach Contents**
 
-`dice: [[Maw Demon (MPMM).md#^maw-demons-stomach-contents]]`
+`dice: [[/5. Mechanics/Bestiary/Fiend/Maw Demon (MPMM).md#^maw-demons-stomach-contents]]`
 
 | dice: d8 | Stomach Contents |
 |----------|------------------|

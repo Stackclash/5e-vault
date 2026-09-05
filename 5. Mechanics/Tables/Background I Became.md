@@ -11,7 +11,7 @@ aliases:
 
 **Acolyte**
 
-`dice: [[Background I Became.md#^acolyte]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^acolyte]]`
 
 | dice: d6 | I became an acolyte because... |
 |----------|--------------------------------|
@@ -25,7 +25,7 @@ aliases:
 
 **Charlatan**
 
-`dice: [[Background I Became.md#^charlatan]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^charlatan]]`
 
 | dice: d6 | I became a charlatan because... |
 |----------|---------------------------------|
@@ -39,7 +39,7 @@ aliases:
 
 **Criminal**
 
-`dice: [[Background I Became.md#^criminal]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^criminal]]`
 
 | dice: d6 | I became a criminal because... |
 |----------|--------------------------------|
@@ -53,7 +53,7 @@ aliases:
 
 **Entertainer**
 
-`dice: [[Background I Became.md#^entertainer]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^entertainer]]`
 
 | dice: d6 | I became an entertainer because... |
 |----------|------------------------------------|
@@ -67,7 +67,7 @@ aliases:
 
 **Folk Hero**
 
-`dice: [[Background I Became.md#^folk-hero]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^folk-hero]]`
 
 | dice: d6 | I became a folk hero because... |
 |----------|---------------------------------|
@@ -81,7 +81,7 @@ aliases:
 
 **Guild Artisan**
 
-`dice: [[Background I Became.md#^guild-artisan]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^guild-artisan]]`
 
 | dice: d6 | I became a guild artisan because... |
 |----------|-------------------------------------|
@@ -95,7 +95,7 @@ aliases:
 
 **Hermit**
 
-`dice: [[Background I Became.md#^hermit]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^hermit]]`
 
 | dice: d6 | I became a hermit because... |
 |----------|------------------------------|
@@ -109,7 +109,7 @@ aliases:
 
 **Noble**
 
-`dice: [[Background I Became.md#^noble]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^noble]]`
 
 | dice: d6 | I became a noble because... |
 |----------|-----------------------------|
@@ -123,7 +123,7 @@ aliases:
 
 **Outlander**
 
-`dice: [[Background I Became.md#^outlander]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^outlander]]`
 
 | dice: d6 | I became an outlander because... |
 |----------|----------------------------------|
@@ -137,7 +137,7 @@ aliases:
 
 **Sage**
 
-`dice: [[Background I Became.md#^sage]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^sage]]`
 
 | dice: d6 | I became a sage because... |
 |----------|----------------------------|
@@ -151,7 +151,7 @@ aliases:
 
 **Sailor**
 
-`dice: [[Background I Became.md#^sailor]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^sailor]]`
 
 | dice: d6 | I became a sailor because... |
 |----------|------------------------------|
@@ -165,7 +165,7 @@ aliases:
 
 **Soldier**
 
-`dice: [[Background I Became.md#^soldier]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^soldier]]`
 
 | dice: d6 | I became a soldier because... |
 |----------|-------------------------------|
@@ -179,7 +179,7 @@ aliases:
 
 **Urchin**
 
-`dice: [[Background I Became.md#^urchin]]`
+`dice: [[/5. Mechanics/Tables/Background I Became.md#^urchin]]`
 
 | dice: d6 | I became an urchin because... |
 |----------|-------------------------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Residence**
 
-`dice: [[Random Buildings Residence.md#^residence]]`
+`dice: [[/5. Mechanics/Tables/Random Buildings Residence.md#^residence]]`
 
 | dice: d20 | Type |
 |-----------|------|

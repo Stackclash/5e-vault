@@ -11,7 +11,7 @@ aliases:
 
 **Fey Allies**
 
-`dice: [[Fey Allies (SAF).md#^fey-allies]]`
+`dice: [[/5. Mechanics/Tables/Fey Allies (SAF).md#^fey-allies]]`
 
 | dice: d12 | Ally |
 |-----------|------|

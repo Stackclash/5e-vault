@@ -11,7 +11,7 @@ aliases:
 
 **Gothic Horror Settings**
 
-`dice: [[Gothic Horror Settings (VRGR).md#^gothic-horror-settings]]`
+`dice: [[/5. Mechanics/Tables/Gothic Horror Settings (VRGR).md#^gothic-horror-settings]]`
 
 | dice: d8 | Setting |
 |----------|---------|

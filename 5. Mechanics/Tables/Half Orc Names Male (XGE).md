@@ -11,7 +11,7 @@ aliases:
 
 **Half-Orc Names – Male**
 
-`dice: [[Half Orc Names Male (XGE).md#^half-orc-names-male]]`
+`dice: [[/5. Mechanics/Tables/Half Orc Names Male (XGE).md#^half-orc-names-male]]`
 
 | dice: d100 | Name |
 |------------|------|

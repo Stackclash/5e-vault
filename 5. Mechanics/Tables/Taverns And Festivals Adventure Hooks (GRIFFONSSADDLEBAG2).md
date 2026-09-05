@@ -11,7 +11,7 @@ aliases:
 
 Consider including the following scenarios if you wish to add a potentially lighthearted side quest to your campaign.
 
-`dice: [[Taverns And Festivals Adventure Hooks (GRIFFONSSADDLEBAG2).md#^tavern-adventure-hook-festival-adventure-hook]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Adventure Hooks (GRIFFONSSADDLEBAG2).md#^tavern-adventure-hook-festival-adventure-hook]]`
 
 | dice: d6 | Tavern Adventure Hook | Festival Adventure Hook |
 |----------|-----------------------|-------------------------|

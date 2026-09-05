@@ -113,7 +113,7 @@ aliases:
 - [[/5. Mechanics/Spells/Feather Travel (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Furious Hooves (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Hamunds Herbal Hypodermic (HHBH).md \|"HHbH"]]
-- [[/5. Mechanics/Spells/Heat Met(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Heat Metal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Iron Stomach (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Kavelins Instant Aerosol (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Knock.md \|"PHB"]]
@@ -176,7 +176,7 @@ aliases:
 - [[/5. Mechanics/Spells/Tiny Servant (XGE).md \|"XGE"]]
 - [[/5. Mechanics/Spells/Vital Mark (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Water Breathing.md \|"PHB"]]
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Water Walk.md \|"PHB"]]
 
 ## 4th Level
 
@@ -265,7 +265,7 @@ aliases:
 - [[/5. Mechanics/Spells/Tensers Transformation (XGE).md \|"XGE"]]
 - [[/5. Mechanics/Spells/Time Loop (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Warp Mind And Matter (KPDM).md \|"KPDM"]]
-- [[/5. Mechanics/Spells/Wind Wa(LK).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Wind Walk.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Winterdark (KPDM).md \|"KPDM"]]
 
 ## 7th Level

@@ -34,19 +34,18 @@ goals: To guide the souls that come to her towards their destiny.
 likes: 'Reading fortunes, the respect of her people, the mystic arts.'
 dislikes: 'Those who disrespect the Vistani, closed-mindedness.'
 description: >-
-  An ageless crone who appears to be in her seventies, wrapped in the
-  trappings of a Vistani fortune-teller — though she is not truly one of
-  them, and far older than she looks.
+  An ageless crone who appears to be in her seventies, wrapped in the trappings
+  of a Vistani fortune-teller — though she is not truly one of them, and far
+  older than she looks.
 history: >-
   Born Katarina, the secret daughter of King Barov and a Vistani woman, Madam
   Eva is Strahd's half-sister, though he has never known it. She served as a
-  maid in Castle Ravenloft and witnessed Sergei and Tatyana's wedding
-  firsthand before fleeing to the Vistani after Strahd's madness broke. She
-  traded her youth to Mother Night for the power of foresight, becoming the
-  ageless seer known as Madam Eva — and has spent centuries since sending
-  Vistani wagons out into other worlds to bring strangers to Barovia, hoping
-  one of them will finally find a way to end Strahd's curse, or free him from
-  it.
+  maid in Castle Ravenloft and witnessed Sergei and Tatyana's wedding firsthand
+  before fleeing to the Vistani after Strahd's madness broke. She traded her
+  youth to Mother Night for the power of foresight, becoming the ageless seer
+  known as Madam Eva — and has spent centuries since sending Vistani wagons out
+  into other worlds to bring strangers to Barovia, hoping one of them will
+  finally find a way to end Strahd's curse, or free him from it.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -94,19 +93,9 @@ The Dark Powers of Ravenloft would consider Madam Eva a worthy choice to replace
 
 None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle over her desire to remain in Barovia.
 
-## Madam Eva's Traits
-
-### Ideal
-
-"I wish Strahd to be free of his curse."
-
-### Bond
-
-"The Vistani are my people now."
-
-### Flaw
-
-"The people whose fates I divine aren't important. They are but the means to an end."
+- **Ideal.** "I wish Strahd to be free of his curse."  
+- **Bond.** "The Vistani are my people now."  
+- **Flaw.** "The people whose fates I divine aren't important. They are but the means to an end."  
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

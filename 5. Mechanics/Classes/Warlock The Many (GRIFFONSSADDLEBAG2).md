@@ -8,7 +8,7 @@ aliases:
   - The Many
 ---
 # The Many
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: The Griffon's Saddlebag, Book 2 p. 226*  
 
 > [!tldr] Class and Feature Progression

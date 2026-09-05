@@ -32,11 +32,11 @@ The creature is friendly to you and your companions, and it acts on your turn. Y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-`dice: [[Bag Of Tricks Tan.md#^creature]]`
+`dice: [[/5. Mechanics/Items/Bag Of Tricks Tan.md#^creature]]`
 
 | dice: d8 | Creature |
 |----------|----------|
-| 1 | [[/5. Mechanics/Bestiary/Beast/Jack(AL).md\|Jackal]] |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Jackal.md\|Jackal]] |
 | 2 | [[/5. Mechanics/Bestiary/Beast/Ape.md\|Ape]] |
 | 3 | [[/5. Mechanics/Bestiary/Beast/Baboon.md\|Baboon]] |
 | 4 | [[/5. Mechanics/Bestiary/Beast/Axe Beak.md\|Axe beak]] |

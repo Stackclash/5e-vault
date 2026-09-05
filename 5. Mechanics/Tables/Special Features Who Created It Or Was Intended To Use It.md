@@ -11,7 +11,7 @@ aliases:
 
 **Who Created It or Was Intended to Use It?**
 
-`dice: [[Special Features Who Created It Or Was Intended To Use It.md#^who-created-it-or-was-intended-to-use-it]]`
+`dice: [[/5. Mechanics/Tables/Special Features Who Created It Or Was Intended To Use It.md#^who-created-it-or-was-intended-to-use-it]]`
 
 | dice: d20 | Creator or Intended User |
 |-----------|--------------------------|

@@ -11,7 +11,7 @@ aliases:
 
 Part of Lothrem's influence over the city is directly tied to his mood. With the exception of the afternoon rainshower, you can determine Lothrem's current mood and the city's weather using the following table.
 
-`dice: [[Crest City Weather Patterns (GRIFFONSSADDLEBAG2).md#^mood-weather]]`
+`dice: [[/5. Mechanics/Tables/Crest City Weather Patterns (GRIFFONSSADDLEBAG2).md#^mood-weather]]`
 
 | dice: d10 | Mood | Weather |
 |-----------|------|---------|

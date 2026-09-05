@@ -24,7 +24,7 @@ Since you come from the ranks of the common folk, you fit in among them with eas
 
 You previously pursued a simple profession among the peasantry, perhaps as a farmer, miner, servant, shepherd, woodcutter, or gravedigger. But something happened that set you on a different path and marked you for greater things. Choose or randomly determine a defining event that marked you as a hero of the people.
 
-`dice: [[Folk Hero.md#^defining-event]]`
+`dice: [[/5. Mechanics/Backgrounds/Folk Hero.md#^defining-event]]`
 
 | dice: d10 | Defining Event |
 |-----------|----------------|
@@ -44,7 +44,7 @@ You previously pursued a simple profession among the peasantry, perhaps as a far
 
 A folk hero is one of the common people, for better or for worse. Most folk heroes look on their humble origins as a virtue, not a shortcoming, and their home communities remain very important to them.
 
-`dice: [[Folk Hero.md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Folk Hero.md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -58,7 +58,7 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 8 | I get bored easily. When am I going to get on with my destiny? |
 ^personality-trait
 
-`dice: [[Folk Hero.md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Folk Hero.md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -70,7 +70,7 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 6 | Destiny. Nothing and no one can steer me away from my higher calling. (Any) |
 ^ideal
 
-`dice: [[Folk Hero.md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Folk Hero.md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -82,7 +82,7 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 6 | I wish my childhood sweetheart had come with me to pursue my destiny. |
 ^bond
 
-`dice: [[Folk Hero.md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Folk Hero.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

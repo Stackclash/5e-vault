@@ -8,7 +8,7 @@ aliases:
   - Circle of Wildfire
 ---
 # Circle of Wildfire
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Tasha's Cauldron of Everything p. 39*  
 
 > [!tldr] Class and Feature Progression

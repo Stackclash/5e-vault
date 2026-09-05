@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Niger-Congo, Male**
 
-`dice: [[Human Names Niger Congo Male (XGE).md#^human-names-niger-congo-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Niger Congo Male (XGE).md#^human-names-niger-congo-male]]`
 
 | dice: d100 | Name |
 |------------|------|

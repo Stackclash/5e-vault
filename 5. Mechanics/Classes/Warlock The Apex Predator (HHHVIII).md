@@ -8,7 +8,7 @@ aliases:
   - The Apex Predator
 ---
 # The Apex Predator
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 117*  
 
 > [!tldr] Class and Feature Progression

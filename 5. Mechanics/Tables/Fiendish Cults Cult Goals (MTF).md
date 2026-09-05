@@ -11,7 +11,7 @@ aliases:
 
 **Cult Goals**
 
-`dice: [[Fiendish Cults Cult Goals (MTF).md#^cult-goals]]`
+`dice: [[/5. Mechanics/Tables/Fiendish Cults Cult Goals (MTF).md#^cult-goals]]`
 
 | dice: d6 | Goal |
 |----------|------|

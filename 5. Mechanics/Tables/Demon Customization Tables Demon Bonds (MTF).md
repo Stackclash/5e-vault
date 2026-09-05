@@ -11,7 +11,7 @@ aliases:
 
 **Demon Bonds**
 
-`dice: [[Demon Customization Tables Demon Bonds (MTF).md#^demon-bonds]]`
+`dice: [[/5. Mechanics/Tables/Demon Customization Tables Demon Bonds (MTF).md#^demon-bonds]]`
 
 | dice: d6 | Bond |
 |----------|------|

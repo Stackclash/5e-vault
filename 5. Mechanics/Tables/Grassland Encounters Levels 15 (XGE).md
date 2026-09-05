@@ -11,7 +11,7 @@ aliases:
 
 **Grassland Encounters (Levels 1—5)**
 
-`dice: [[Grassland Encounters Levels 15 (XGE).md#^grassland-encounters-levels-15]]`
+`dice: [[/5. Mechanics/Tables/Grassland Encounters Levels 15 (XGE).md#^grassland-encounters-levels-15]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -19,14 +19,14 @@ aliases:
 | 02 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Chimera.md\|chimera]] |
 | 03 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Gorgon.md\|gorgon]] |
 | 04 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatls]] |
-| 05 | 1 [[/5. Mechanics/Bestiary/Beast/Ankylosaur(US).md\|ankylosaurus]] |
+| 05 | 1 [[/5. Mechanics/Bestiary/Beast/Ankylosaurus.md\|ankylosaurus]] |
 | 06 | 1 [[/5. Mechanics/Bestiary/Humanoid/Weretiger.md\|weretiger]] |
-| 07 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Allosaur(US).md\|allosauruses]] |
+| 07 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Allosaurus.md\|allosauruses]] |
 | 08-09 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Elephant.md\|elephants]] |
 | 10-14 | A circle of standing stones within which the air is utterly still, no matter how hard the wind blows outside |
 | 15-16 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Phase Spider.md\|phase spider]] |
 | 17-18 | 1 [[/5. Mechanics/Bestiary/Humanoid/Gnoll Pack Lord.md\|gnoll pack lord]] with `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|giant hyenas]] |
-| 19-20 | 1 [[/5. Mechanics/Bestiary/Celestial/Pegas(US).md\|pegasus]] |
+| 19-20 | 1 [[/5. Mechanics/Bestiary/Celestial/Pegasus.md\|pegasus]] |
 | 21-22 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Ankheg.md\|ankheg]] |
 | 23-24 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Rhinoceros.md\|rhinoceroses]] |
 | 25-28 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Cockatrice.md\|cockatrices]] |
@@ -35,7 +35,7 @@ aliases:
 | 37-40 | `dice:1d8\|noform\|noparens\|avg` (`1d8`) [[/5. Mechanics/Bestiary/Beast/Giant Goat.md\|giant goats]] or `dice:1d8\|noform\|noparens\|avg` (`1d8`) [[/5. Mechanics/Bestiary/Monstrosity/Worg.md\|worgs]] |
 | 41-44 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]], `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]], or `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] |
 | 45-46 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|giant poisonous snakes]] |
-| 47-48 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/E(LK).md\|elk]] or `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horses]] |
+| 47-48 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/Elk.md\|elk]] or `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horses]] |
 | 49-50 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] |
 | 51-52 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Boar.md\|boars]] |
 | 53-54 | 1 leopard ([[/5. Mechanics/Bestiary/Beast/Panther.md\|panther]]) 1 [[/5. Mechanics/Bestiary/Beast/Lion.md\|lion]] |
@@ -46,7 +46,7 @@ aliases:
 | 70-74 | `dice:2d4+2\|noform\|noparens\|avg` (`2d4 + 2`) [[/5. Mechanics/Bestiary/Beast/Axe Beak.md\|axe beaks]] |
 | 75-76 | 1 [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|giant boar]] or `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Tiger.md\|tigers]] |
 | 77-78 | 1 [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogre]] or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Humanoid/Bugbear.md\|bugbears]] |
-| 79-80 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] or 1 [[/5. Mechanics/Bestiary/Humanoid/Gnoll Pack Lord.md\|gnoll pack lord]] or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|giant hyenas]] |
+| 79-80 | [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|giant elk]] or 1 [[/5. Mechanics/Bestiary/Humanoid/Gnoll Pack Lord.md\|gnoll pack lord]] or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|giant hyenas]] |
 | 81-82 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Giant Vulture.md\|giant vultures]] or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Hippogriff.md\|hippogriffs]] |
 | 83-84 | 1 [[/5. Mechanics/Bestiary/Humanoid/Goblin Boss.md\|goblin boss]] with `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] and `dice:1d4+3\|noform\|noparens\|avg` (`1d4 + 3`) [[/5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]], or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Humanoid/Thri Kreen.md\|thri-kreen]] |
 | 85-89 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druids]] patrolling the wilds |

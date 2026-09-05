@@ -11,7 +11,7 @@ aliases:
 
 **Derro Madness**
 
-`dice: [[Derro Madness (MTF).md#^derro-madness]]`
+`dice: [[/5. Mechanics/Tables/Derro Madness (MTF).md#^derro-madness]]`
 
 | dice: d20 | Oddity |
 |-----------|--------|

@@ -11,7 +11,7 @@ aliases:
 
 **Desert Encounters (Levels 17—20)**
 
-`dice: [[Desert Encounters Levels 1720 (XGE).md#^desert-encounters-levels-1720]]`
+`dice: [[/5. Mechanics/Tables/Desert Encounters Levels 1720 (XGE).md#^desert-encounters-levels-1720]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

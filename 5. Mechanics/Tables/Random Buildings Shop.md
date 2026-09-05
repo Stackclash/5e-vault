@@ -11,7 +11,7 @@ aliases:
 
 **Shop**
 
-`dice: [[Random Buildings Shop.md#^shop]]`
+`dice: [[/5. Mechanics/Tables/Random Buildings Shop.md#^shop]]`
 
 | dice: d20 | Type |
 |-----------|------|

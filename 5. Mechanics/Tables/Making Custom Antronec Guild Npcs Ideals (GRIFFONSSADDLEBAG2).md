@@ -9,7 +9,7 @@ aliases:
 # Making Custom Antronec Guild NPCs; Ideals
 *Source: The Griffon's Saddlebag, Book 2 p. 247* 
 
-`dice: [[Making Custom Antronec Guild Npcs Ideals (GRIFFONSSADDLEBAG2).md#^ideal]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Antronec Guild Npcs Ideals (GRIFFONSSADDLEBAG2).md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

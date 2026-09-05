@@ -8,7 +8,7 @@ aliases:
   - Soulknife
 ---
 # Soulknife
-*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
+*[[/5. Mechanics/Classes/Rogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Tasha's Cauldron of Everything p. 63*  
 
 > [!tldr] Class and Feature Progression

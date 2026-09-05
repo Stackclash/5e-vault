@@ -11,7 +11,7 @@ aliases:
 
 **Duergar Clan Names**
 
-`dice: [[Duergar In The Clan Duergar Clan Names (MTF).md#^duergar-clan-names]]`
+`dice: [[/5. Mechanics/Tables/Duergar In The Clan Duergar Clan Names (MTF).md#^duergar-clan-names]]`
 
 | dice: d12 | Name |
 |-----------|------|

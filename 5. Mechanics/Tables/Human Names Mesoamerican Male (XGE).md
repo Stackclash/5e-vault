@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Mesoamerican, Male**
 
-`dice: [[Human Names Mesoamerican Male (XGE).md#^human-names-mesoamerican-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Mesoamerican Male (XGE).md#^human-names-mesoamerican-male]]`
 
 | dice: d100 | Name |
 |------------|------|

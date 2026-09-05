@@ -11,7 +11,7 @@ aliases:
 
 **Commanding Officer**
 
-`dice: [[Military Force Contact Commanding Officer (TCE).md#^commanding-officer]]`
+`dice: [[/5. Mechanics/Tables/Military Force Contact Commanding Officer (TCE).md#^commanding-officer]]`
 
 | dice: d6 | Officer |
 |----------|---------|

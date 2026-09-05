@@ -11,7 +11,7 @@ aliases:
 
 **NPC Abilities**
 
-`dice: [[Npc Abilities.md#^npc-abilities]]`
+`dice: [[/5. Mechanics/Tables/Npc Abilities.md#^npc-abilities]]`
 
 | dice: d6 | High Ability |
 |----------|--------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Ankhtepot Reborn**
 
-`dice: [[The Pharaohs Return Ankhtepot Reborn (VRGR).md#^ankhtepot-reborn]]`
+`dice: [[/5. Mechanics/Tables/The Pharaohs Return Ankhtepot Reborn (VRGR).md#^ankhtepot-reborn]]`
 
 | dice: d4 | Development |
 |----------|-------------|

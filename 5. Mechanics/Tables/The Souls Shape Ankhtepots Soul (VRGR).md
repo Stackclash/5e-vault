@@ -11,7 +11,7 @@ aliases:
 
 **Ankhtepot's Soul**
 
-`dice: [[The Souls Shape Ankhtepots Soul (VRGR).md#^ankhtepots-soul]]`
+`dice: [[/5. Mechanics/Tables/The Souls Shape Ankhtepots Soul (VRGR).md#^ankhtepots-soul]]`
 
 | dice: d8 | The Ka's Form |
 |----------|---------------|
@@ -22,5 +22,5 @@ aliases:
 | 5 | A set of relics holy to the old gods of Har'Akir |
 | 6 | The manifestation of a joyous song sung by Muhar's people |
 | 7 | The soul of an innocent healer who resembles the pharaoh as he was in life |
-| 8 | The soul of a character, perhaps one with an Echoing Soul (a Dark Gift detailed in "chapter 1") |
+| 8 | The soul of a character, perhaps one with the Echoing Soul Dark Gift |
 ^ankhtepots-soul

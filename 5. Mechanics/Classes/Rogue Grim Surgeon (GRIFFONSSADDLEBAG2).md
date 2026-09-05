@@ -8,7 +8,7 @@ aliases:
   - Grim Surgeon
 ---
 # Grim Surgeon
-*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
+*[[/5. Mechanics/Classes/Rogue.md\|Rogue]]: Roguish Archetype*  
 *Source: The Griffon's Saddlebag, Book 2 p. 224*  
 
 > [!tldr] Class and Feature Progression

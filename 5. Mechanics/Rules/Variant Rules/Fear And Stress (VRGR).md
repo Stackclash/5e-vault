@@ -19,7 +19,7 @@ A character never has more than three Seeds of Fear; if you gain a new seed and 
 
 **Seeds of Fear**
 
-`dice: [[Fear And Stress (VRGR).md#^seeds-of-fear]]`
+`dice: [[/5. Mechanics/Rules/Variant Rules/Fear And Stress (VRGR).md#^seeds-of-fear]]`
 
 | dice: d12 | Seed |
 |-----------|------|

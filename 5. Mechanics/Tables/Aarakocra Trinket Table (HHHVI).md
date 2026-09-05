@@ -9,7 +9,7 @@ aliases:
 # Aarakocra Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 8* 
 
-`dice: [[Aarakocra Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Aarakocra Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|
@@ -20,5 +20,5 @@ aliases:
 | 5 | 1 bag of fine sand | 2 cp | 2 lb |
 | 6 | 1 linen robe | 3 sp | 5 lb |
 | 7 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) sticks of sweet smelling incense | 4 sp | 1 lb |
-| 8 | 1 roll of [[/5. Mechanics/Items/Parchment One Sh(EET).md\|parchment]] and 1 [[/5. Mechanics/Items/Ink 1 Ounce Bottle.md\|ink bottle]] | 8 sp | 4 lb |
+| 8 | 1 roll of [[/5. Mechanics/Items/Parchment One Sheet.md\|parchment]] and 1 [[/5. Mechanics/Items/Ink 1 Ounce Bottle.md\|ink bottle]] | 8 sp | 4 lb |
 ^item-value-weight

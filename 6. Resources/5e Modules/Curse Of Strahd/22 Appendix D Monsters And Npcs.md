@@ -555,7 +555,7 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 **Strahd's Minions**
 
-`dice: [[22 Appendix D Monsters And Npcs.md#^strahds-minions]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/22 Appendix D Monsters And Npcs.md#^strahds-minions]]`
 
 | dice: d20 | Creatures |
 |-----------|-----------|

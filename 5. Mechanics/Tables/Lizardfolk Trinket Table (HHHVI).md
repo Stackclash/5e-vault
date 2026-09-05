@@ -9,7 +9,7 @@ aliases:
 # Lizardfolk Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 73* 
 
-`dice: [[Lizardfolk Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Lizardfolk Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

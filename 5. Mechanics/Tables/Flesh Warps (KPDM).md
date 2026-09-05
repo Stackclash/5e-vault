@@ -9,7 +9,7 @@ aliases:
 # Flesh Warps
 *Source: Deep Magic p. 336* 
 
-`dice: [[Flesh Warps (KPDM).md#^effect-lasts-until-cured]]`
+`dice: [[/5. Mechanics/Tables/Flesh Warps (KPDM).md#^effect-lasts-until-cured]]`
 
 | dice: d10 | Effect (lasts until cured) |
 |-----------|----------------------------|

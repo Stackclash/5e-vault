@@ -11,7 +11,7 @@ aliases:
 
 **Magic Themes**
 
-`dice: [[Personalizing Spells Magic Themes (TCE).md#^magic-themes]]`
+`dice: [[/5. Mechanics/Tables/Personalizing Spells Magic Themes (TCE).md#^magic-themes]]`
 
 | dice: d10 | Theme |
 |-----------|-------|

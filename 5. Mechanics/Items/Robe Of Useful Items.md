@@ -36,7 +36,7 @@ The robe has two of each of the following patches:
 
 In addition, the robe has `dice:4d4|noform|noparens|avg` (`4d4`) other patches. The DM chooses the patches or determines them randomly.
 
-`dice: [[Robe Of Useful Items.md#^patch]]`
+`dice: [[/5. Mechanics/Items/Robe Of Useful Items.md#^patch]]`
 
 | dice: d100 | Patch |
 |------------|-------|

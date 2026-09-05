@@ -8,7 +8,7 @@ aliases:
   - College of Glamour
 ---
 # College of Glamour
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: Xanathar's Guide to Everything p. 14*  
 
 > [!tldr] Class and Feature Progression

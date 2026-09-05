@@ -11,7 +11,7 @@ aliases:
 
 **Darklord Connections**
 
-`dice: [[Adventures Darklord Connections (VRGR).md#^darklord-connections]]`
+`dice: [[/5. Mechanics/Tables/Adventures Darklord Connections (VRGR).md#^darklord-connections]]`
 
 | dice: d8 | Connection |
 |----------|------------|

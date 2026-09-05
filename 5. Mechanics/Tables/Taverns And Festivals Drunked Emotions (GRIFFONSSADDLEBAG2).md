@@ -11,7 +11,7 @@ aliases:
 
 You can use the following table to randomly determine how an NPC handles themselves when inebriated.
 
-`dice: [[Taverns And Festivals Drunked Emotions (GRIFFONSSADDLEBAG2).md#^drunken-emotion]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Drunked Emotions (GRIFFONSSADDLEBAG2).md#^drunken-emotion]]`
 
 | dice: d6 | Drunken Emotion |
 |----------|-----------------|

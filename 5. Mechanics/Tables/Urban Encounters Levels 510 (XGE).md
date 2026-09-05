@@ -11,7 +11,7 @@ aliases:
 
 **Urban Encounters (Levels 5—10)**
 
-`dice: [[Urban Encounters Levels 510 (XGE).md#^urban-encounters-levels-510]]`
+`dice: [[/5. Mechanics/Tables/Urban Encounters Levels 510 (XGE).md#^urban-encounters-levels-510]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -30,7 +30,7 @@ aliases:
 | 32-34 | 1d6 + 2 [[/5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarms of insects]] |
 | 35-37 | 2d4 [[/5. Mechanics/Bestiary/Elemental/Smoke Mephit.md\|smoke mephits]] |
 | 38-40 | A [[/5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]] shouts "Stop! Thief!" at a fleeing scoundrel ([[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandit]]) |
-| 41-43 | 1 [[/5. Mechanics/Bestiary/Fiend/Succub(US).md\|succubus]] or 1 [[/5. Mechanics/Bestiary/Fiend/Incub(US).md\|incubus]] |
+| 41-43 | 1 [[/5. Mechanics/Bestiary/Fiend/Succubus.md\|succubus]] or 1 [[/5. Mechanics/Bestiary/Fiend/Incubus.md\|incubus]] |
 | 44-46 | 1d10 [[/5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md\|half-ogres]] |
 | 47-49 | 2d10 [[/5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasps]] |
 | 50-51 | 4d10 [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] |
@@ -46,7 +46,7 @@ aliases:
 | 72-74 | 3d6 [[/5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md\|yuan-ti purebloods]] |
 | 75-76 | 2d10 [[/5. Mechanics/Bestiary/Humanoid/Thug.md\|thugs]] |
 | 77-80 | A fortune-teller reads cards for those who pay a price of 1 sp |
-| 81 | 1d3 [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiators]] |
+| 81 | 1d3 [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiators]] |
 | 82 | 1d4 + 1 [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatls]] |
 | 83 | 1d8 [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghosts]] |
 | 84 | 2d4 [[/5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|doppelgangers]] |

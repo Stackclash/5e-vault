@@ -11,7 +11,7 @@ aliases:
 
 **Arctic Encounters (Levels 17—20)**
 
-`dice: [[Arctic Encounters Levels 1720 (XGE).md#^arctic-encounters-levels-1720]]`
+`dice: [[/5. Mechanics/Tables/Arctic Encounters Levels 1720 (XGE).md#^arctic-encounters-levels-1720]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

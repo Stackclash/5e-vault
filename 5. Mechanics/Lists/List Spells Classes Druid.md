@@ -165,7 +165,7 @@ aliases:
 - [[/5. Mechanics/Spells/Hamunds Herbal Hypodermic (HHBH).md \|"HHbH"]]
 - [[/5. Mechanics/Spells/Healing Spirit (XGE).md \|"XGE"]] (\*)
 - [[/5. Mechanics/Spells/Heartstrike (KPDM).md \|"KPDM"]]
-- [[/5. Mechanics/Spells/Heat Met(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Heat Metal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Hunters Cunning (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Iron Stomach (KPDM).md \|"KPDM"]]
@@ -263,7 +263,7 @@ aliases:
 - [[/5. Mechanics/Spells/Tracking Beacon (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Wall Of Water (XGE).md \|"XGE"]] (\*)
 - [[/5. Mechanics/Spells/Water Breathing.md \|"PHB"]]
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Water Walk.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Wind Wall.md \|"PHB"]]
 
 ## 4th Level
@@ -323,7 +323,7 @@ aliases:
 - [[/5. Mechanics/Spells/Clash Of Glaciers (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Commune With Nature.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Cone Of Cold.md \|"PHB"]] (\*)
-- [[/5. Mechanics/Spells/Conjure Element(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Conjure Elemental.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Conjure Fey Hound (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Contagion.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Control Ice (KPDM).md \|"KPDM"]]
@@ -365,7 +365,7 @@ aliases:
 - [[/5. Mechanics/Spells/Find The Path.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Firewalk (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Flesh To Stone.md \|"PHB"]] (\*)
-- [[/5. Mechanics/Spells/He(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Heal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Heroes Feast.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Investiture Of Blight (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Investiture Of Flame (XGE).md \|"XGE"]] (\*)
@@ -379,7 +379,7 @@ aliases:
 - [[/5. Mechanics/Spells/Time Loop (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Transport Via Plants.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Wall Of Thorns.md \|"PHB"]]
-- [[/5. Mechanics/Spells/Wind Wa(LK).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Wind Walk.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Winters Radiance (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Winterdark (KPDM).md \|"KPDM"]]
 

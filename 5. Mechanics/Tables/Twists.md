@@ -11,7 +11,7 @@ aliases:
 
 **Twists**
 
-`dice: [[Twists.md#^twists]]`
+`dice: [[/5. Mechanics/Tables/Twists.md#^twists]]`
 
 | dice: d10 | Twist |
 |-----------|-------|

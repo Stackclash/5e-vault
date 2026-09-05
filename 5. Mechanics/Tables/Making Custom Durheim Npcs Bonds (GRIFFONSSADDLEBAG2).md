@@ -9,7 +9,7 @@ aliases:
 # Making Custom Durheim NPCs; Bonds
 *Source: The Griffon's Saddlebag, Book 2 p. 265* 
 
-`dice: [[Making Custom Durheim Npcs Bonds (GRIFFONSSADDLEBAG2).md#^bond]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Durheim Npcs Bonds (GRIFFONSSADDLEBAG2).md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|

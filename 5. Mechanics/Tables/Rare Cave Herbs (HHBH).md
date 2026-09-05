@@ -9,7 +9,7 @@ aliases:
 # Rare Cave Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 
 
-`dice: [[Rare Cave Herbs (HHBH).md#^2-herb]]`
+`dice: [[/5. Mechanics/Tables/Rare Cave Herbs (HHBH).md#^2-herb]]`
 
 | dice: 2d8 | Herb |
 |-----------|------|

@@ -27,7 +27,7 @@ Prior to becoming an adventurer, your path in life was defined by one dark momen
 
 **Harrowing Event**
 
-`dice: [[Haunted One (VRGR).md#^harrowing-event]]`
+`dice: [[/5. Mechanics/Backgrounds/Haunted One (VRGR).md#^harrowing-event]]`
 
 | dice: d10 | Event |
 |-----------|-------|
@@ -49,7 +49,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Personality Traits**
 
-`dice: [[Haunted One (VRGR).md#^horror-character-personality-traits]]`
+`dice: [[/5. Mechanics/Backgrounds/Haunted One (VRGR).md#^horror-character-personality-traits]]`
 
 | dice: d12 | Personality Trait |
 |-----------|-------------------|
@@ -69,7 +69,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Ideals**
 
-`dice: [[Haunted One (VRGR).md#^horror-character-ideals]]`
+`dice: [[/5. Mechanics/Backgrounds/Haunted One (VRGR).md#^horror-character-ideals]]`
 
 | dice: d12 | Ideal |
 |-----------|-------|
@@ -89,7 +89,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Bonds**
 
-`dice: [[Haunted One (VRGR).md#^horror-character-bonds]]`
+`dice: [[/5. Mechanics/Backgrounds/Haunted One (VRGR).md#^horror-character-bonds]]`
 
 | dice: d12 | Bond |
 |-----------|------|
@@ -109,7 +109,7 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Flaws**
 
-`dice: [[Haunted One (VRGR).md#^horror-character-flaws]]`
+`dice: [[/5. Mechanics/Backgrounds/Haunted One (VRGR).md#^horror-character-flaws]]`
 
 | dice: d12 | Flaw |
 |-----------|------|

@@ -11,7 +11,7 @@ aliases:
 
 **Aristocrat Quests**
 
-`dice: [[Aristocrat Quests (TCE).md#^aristocrat-quests]]`
+`dice: [[/5. Mechanics/Tables/Aristocrat Quests (TCE).md#^aristocrat-quests]]`
 
 | dice: d6 | Quest |
 |----------|-------|

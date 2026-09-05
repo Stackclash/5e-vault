@@ -11,7 +11,7 @@ aliases:
 
 **Brutes**
 
-`dice: [[Random Hag Minions Brutes (VGM).md#^brutes]]`
+`dice: [[/5. Mechanics/Tables/Random Hag Minions Brutes (VGM).md#^brutes]]`
 
 | dice: d12 | Brute(s) |
 |-----------|----------|

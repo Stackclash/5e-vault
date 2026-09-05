@@ -11,7 +11,7 @@ aliases:
 
 **Kobold Names**
 
-`dice: [[Kobold Names (VGM).md#^kobold-names]]`
+`dice: [[/5. Mechanics/Tables/Kobold Names (VGM).md#^kobold-names]]`
 
 | dice: d20 | Name |
 |-----------|------|

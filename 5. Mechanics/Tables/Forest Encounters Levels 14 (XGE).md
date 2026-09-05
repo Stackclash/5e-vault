@@ -11,7 +11,7 @@ aliases:
 
 **Forest Encounters (Levels 1—4)**
 
-`dice: [[Forest Encounters Levels 14 (XGE).md#^forest-encounters-levels-14]]`
+`dice: [[/5. Mechanics/Tables/Forest Encounters Levels 14 (XGE).md#^forest-encounters-levels-14]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -49,8 +49,8 @@ aliases:
 | 36-40 | A young woodcutter ([[/5. Mechanics/Bestiary/Humanoid/Scout.md\|scout]]) racing through the forest to rescue a lost friend |
 | 41 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Fey/Blink Dog.md\|blink dogs]] |
 | 42 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Fey/Sprite.md\|sprites]] |
-| 43 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/E(LK).md\|elk]] |
-| 44 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] or `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] |
+| 43 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/Elk.md\|elk]] |
+| 44 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] or `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] |
 | 45 | `dice:1d4+4\|noform\|noparens\|avg` (`1d4 + 4`) [[/5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] |
 | 46 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|giant wolf spiders]] |
 | 47 | 1 [[/5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]] or `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Beast/Blood Hawk.md\|blood hawks]] |
@@ -66,7 +66,7 @@ aliases:
 | 57 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Ankheg.md\|ankheg]] |
 | 58 | 1 [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|giant constrictor snake]] |
 | 59 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Bugbear.md\|bugbears]] or `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
-| 60 | 1 [[/5. Mechanics/Bestiary/Celestial/Pegas(US).md\|pegasus]] |
+| 60 | 1 [[/5. Mechanics/Bestiary/Celestial/Pegasus.md\|pegasus]] |
 | 61-65 | A stream of cool, clean water flowing between the trees |
 | 66 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md\|half-ogres]] or 1 [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogre]] |
 | 67 | 1 [[/5. Mechanics/Bestiary/Dragon/Faerie Dragon Green.md\|faerie dragon]] (green or older) |
@@ -75,13 +75,13 @@ aliases:
 | 70 | 1 [[/5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]] |
 | 71 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] or 1 [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|giant boar]] |
 | 72 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasps]] |
-| 73 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Owlbear.md\|owlbear]] or 1 [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] |
+| 73 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Owlbear.md\|owlbear]] or 1 [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|giant elk]] |
 | 74 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] |
 | 75 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|giant toads]] |
 | 76-80 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) web cocoons hanging from the branches, holding withered carcasses |
 | 81 | 1 [[/5. Mechanics/Bestiary/Humanoid/Wereboar.md\|wereboar]] or `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|giant boars]] |
 | 82 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] |
-| 83 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Centaur.md\|centaurs]] or `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] |
+| 83 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Centaur.md\|centaurs]] or `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|giant elk]] |
 | 84 | 1 [[/5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md\|orc Eye of Gruumsh]] with `dice:2d4+2\|noform\|noparens\|avg` (`2d4 + 2`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
 | 85 | 1 [[/5. Mechanics/Bestiary/Fiend/Gnoll Fang Of Yeenoghu.md\|gnoll fang of Yeenoghu]] |
 | 86 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Grick.md\|gricks]] |
@@ -90,7 +90,7 @@ aliases:
 | 89 | 1 [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]] (day) or 1 [[/5. Mechanics/Bestiary/Undead/Banshee.md\|banshee]] (night) |
 | 90 | 1 [[/5. Mechanics/Bestiary/Humanoid/Gnoll Pack Lord.md\|gnoll pack lord]] with `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|giant hyenas]] |
 | 91 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] or `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veterans]] |
-| 92 | 1 [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md\|lizardfolk shaman]] with `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarms of poisonous snakes]] and `dice:1d10+2\|noform\|noparens\|avg` (`1d10 + 2`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
+| 92 | 1 [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk Shaman.md\|lizardfolk shaman]] with `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md\|swarms of poisonous snakes]] and `dice:1d10+2\|noform\|noparens\|avg` (`1d10 + 2`) [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] |
 | 93 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md\|displacer beasts]] |
 | 94 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Fey/Green Hag.md\|green hags]] |
 | 95 | 1 [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captain]] with `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] and `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|giant boars]] |

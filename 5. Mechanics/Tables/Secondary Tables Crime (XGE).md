@@ -11,7 +11,7 @@ aliases:
 
 **Crime**
 
-`dice: [[Secondary Tables Crime (XGE).md#^crime]]`
+`dice: [[/5. Mechanics/Tables/Secondary Tables Crime (XGE).md#^crime]]`
 
 | dice: d8 | Crime |
 |----------|-------|

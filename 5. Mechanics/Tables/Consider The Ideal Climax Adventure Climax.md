@@ -11,7 +11,7 @@ aliases:
 
 **Adventure Climax**
 
-`dice: [[Consider The Ideal Climax Adventure Climax.md#^adventure-climax]]`
+`dice: [[/5. Mechanics/Tables/Consider The Ideal Climax Adventure Climax.md#^adventure-climax]]`
 
 | dice: d12 | Climax |
 |-----------|--------|

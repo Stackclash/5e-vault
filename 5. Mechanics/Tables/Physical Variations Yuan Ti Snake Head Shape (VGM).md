@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Snake Head Shape**
 
-`dice: [[Physical Variations Yuan Ti Snake Head Shape (VGM).md#^yuan-ti-snake-head-shape]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Yuan Ti Snake Head Shape (VGM).md#^yuan-ti-snake-head-shape]]`
 
 | dice: d20 | Snake Head Shape |
 |-----------|------------------|

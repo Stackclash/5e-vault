@@ -25,7 +25,7 @@ This wide leather girdle has many sewn-in pouches and holsters that hold an asso
 
 - 2 flasks of alchemist's fire  
 - 2 flasks of [[/5. Mechanics/Items/Alchemists Ice (KPDM).md\|alchemist's ice]]  
-- 2 [[/5. Mechanics/Items/Acid Vi(AL).md\|vials of acid]]  
+- 2 [[/5. Mechanics/Items/Acid Vial.md\|vials of acid]]  
 - 2 jars of [[/5. Mechanics/Items/Swarm Repellent (KPDM).md\|swarm repellent]]  
 - 1 vial of [[/5. Mechanics/Items/Assassins Blood.md\|assassin's blood]] poison  
 - 1 [[/5. Mechanics/Items/Potion Of Climbing.md\|potion of climbing]]  

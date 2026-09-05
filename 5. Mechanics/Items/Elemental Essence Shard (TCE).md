@@ -31,7 +31,7 @@ Roll a `dice:d4|noform|noparens|avg` (`d4`) and consult the Elemental Essence Sh
 
 **Elemental Essence Shards**
 
-`dice: [[Elemental Essence Shard (TCE).md#^elemental-essence-shards]]`
+`dice: [[/5. Mechanics/Items/Elemental Essence Shard (TCE).md#^elemental-essence-shards]]`
 
 | dice: d4 | Element | Shard |
 |----------|---------|-------|

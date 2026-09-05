@@ -11,7 +11,7 @@ aliases:
 
 **Infested Effects**
 
-`dice: [[Infested Effects (TCE).md#^infested-effects]]`
+`dice: [[/5. Mechanics/Tables/Infested Effects (TCE).md#^infested-effects]]`
 
 | dice: d100 | Infested Effects |
 |------------|------------------|

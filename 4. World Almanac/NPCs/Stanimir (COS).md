@@ -14,21 +14,20 @@ aliases:
 alignment: Chaotic Neutral
 description: >-
   An old but vigorous Vistani man who commands his caravan with the easy
-  authority of a born storyteller — and the quiet menace of a wizard who
-  rarely needs to raise his voice.
+  authority of a born storyteller — and the quiet menace of a wizard who rarely
+  needs to raise his voice.
 history: >-
-  Stanimir leads a band of Vistani who range far beyond Barovia's mists,
-  seeking travelers whose fates Madam Eva's cards have marked. Accompanied
-  by his daughter Damia and his son Ratka, he lures strangers to the
-  campfire with the tale of a cursed, noble prince, then guides those who
-  agree to help back through the mists to Barovia — delivering them
-  safely to Madam Eva's camp at [[Tser Pool]] before his own part in
-  their story ends.
+  Stanimir leads a band of Vistani who range far beyond Barovia's mists, seeking
+  travelers whose fates Madam Eva's cards have marked. Accompanied by his
+  daughter Damia and his son Ratka, he lures strangers to the campfire with the
+  tale of a cursed, noble prince, then guides those who agree to help back
+  through the mists to Barovia — delivering them safely to Madam Eva's camp at
+  [[Tser Pool]] before his own part in their story ends.
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 pronounced: STAN-ih-meer
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 61
 occupation:
@@ -39,16 +38,14 @@ groups:
 religions: []
 personality: 'Charismatic storyteller, calculating, protective of his own'
 ideal: The clan's safety and freedom come before any oath to outsiders.
-bond: >-
-  His children, Damia and Ratka, and the caravan he leads across the
-  lost roads.
+bond: 'His children, Damia and Ratka, and the caravan he leads across the lost roads.'
 flaw: >-
   He trades in half-truths, telling outsiders only as much as serves the
   Vistani's purpose.
 goals: >-
-  To deliver strangers to Madam Eva as fate demands, and see his people
-  safely through Barovia's dangers.
-likes: "A good story, wine, holding a room's attention"
+  To deliver strangers to Madam Eva as fate demands, and see his people safely
+  through Barovia's dangers.
+likes: 'A good story, wine, holding a room''s attention'
 dislikes: 'Being doubted, threats to his children, reckless outsiders'
 ---
 > [!infobox]
@@ -81,15 +78,7 @@ dislikes: 'Being doubted, threats to his children, reckless outsiders'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 20*
 
-Stanimir leads a wandering band of Vistani who range far beyond Barovia's borders, seeking out travelers whose fates have already been written in [[Madam Eva (COS)|Madam Eva]]'s cards. Charismatic and quick with a story, he is just as quick with a blade or a spell when his people's safety is at stake.
-
-## The Dancing Fire
-
-When strangers linger at his campfire, Stanimir spits wine into the flames and tells the tale of a noble prince cursed to tyranny — Strahd, though he never speaks the name — inviting the listeners to return with him to Barovia and put the prince's troubled soul to rest. Those who agree are led south through the mists until they arrive, guided safely, at [[Madam Eva (COS)|Madam Eva]]'s camp at [[Tser Pool]].
-
-## Family and Command
-
-Stanimir travels with his daughter Damia, a keen-eyed spy, and his son Ratka, a bandit captain who commands the rest of the caravan's Vistani without question. Once his passengers are delivered to Madam Eva, Stanimir's role in their story is done — but his caravan remains a fixture of the roads leading into Strahd's domain.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

@@ -45,7 +45,7 @@ This armor has 8 charges and regains `dice:1d4+4|noform|noparens|avg` (`1d4 + 4`
 - 3 charges: [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]]  
 - 4 charges: [[/5. Mechanics/Spells/Banishment.md\|banishment]], [[/5. Mechanics/Spells/Death Ward.md\|death ward]]  
 - 5 charges: [[/5. Mechanics/Spells/Contagion.md\|contagion]], [[/5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]]  
-- 6 charges: [[/5. Mechanics/Spells/Harm.md\|harm]], [[/5. Mechanics/Spells/He(AL).md\|heal]]  
+- 6 charges: [[/5. Mechanics/Spells/Harm.md\|harm]], [[/5. Mechanics/Spells/Heal.md\|heal]]  
 
 ## Curse
 

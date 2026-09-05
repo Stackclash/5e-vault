@@ -8,7 +8,7 @@ aliases:
   - Horizon Walker
 ---
 # Horizon Walker
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 42*  
 
 > [!tldr] Class and Feature Progression

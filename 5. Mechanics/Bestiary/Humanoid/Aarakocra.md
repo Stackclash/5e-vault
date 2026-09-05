@@ -80,7 +80,7 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage."
     "name": "Javelin"
-  - "desc": "Five aarakocra within 30 feet of each other can magically summon an [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md|air\
+  - "desc": "Five aarakocra within 30 feet of each other can magically summon an [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md|air\
       \ elemental]]. Each of the five\
       \ must use its action and movement on three consecutive turns to perform an\
       \ aerial dance and must maintain [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\

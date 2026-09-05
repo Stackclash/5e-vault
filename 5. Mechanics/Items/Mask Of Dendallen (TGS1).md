@@ -33,7 +33,7 @@ When you place this mask over your face for the first time, make a DC 16 Intelli
 
 **Mask of Dendallen Effects**
 
-`dice: [[Mask Of Dendallen (TGS1).md#^mask-of-dendallen-effects]]`
+`dice: [[/5. Mechanics/Items/Mask Of Dendallen (TGS1).md#^mask-of-dendallen-effects]]`
 
 | dice: d6 | Change to your voice |
 |----------|----------------------|

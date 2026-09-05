@@ -11,7 +11,7 @@ aliases:
 
 **Occupation**
 
-`dice: [[Supplemental Tables Occupation (XGE).md#^occupation]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Occupation (XGE).md#^occupation]]`
 
 | dice: d100 | Occupation |
 |------------|------------|

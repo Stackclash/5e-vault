@@ -9,7 +9,7 @@ aliases:
 # Common Swamp Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 
 
-`dice: [[Common Swamp Herbs (HHBH).md#^herb]]`
+`dice: [[/5. Mechanics/Tables/Common Swamp Herbs (HHBH).md#^herb]]`
 
 | dice: d6 | Herb |
 |----------|------|

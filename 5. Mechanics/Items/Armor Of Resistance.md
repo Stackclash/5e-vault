@@ -30,7 +30,7 @@ await dv.view("views/itemPrice", {current: dv.current()})
 
 You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
 
-`dice: [[Armor Of Resistance.md#^damage-type]]`
+`dice: [[/5. Mechanics/Items/Armor Of Resistance.md#^damage-type]]`
 
 | dice: d10 | Damage Type |
 |-----------|-------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Giant Bonds**
 
-`dice: [[Roleplaying A Giant Giant Bonds (VGM).md#^giant-bonds]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Giant Giant Bonds (VGM).md#^giant-bonds]]`
 
 | dice: d6 | Bond |
 |----------|------|

@@ -11,7 +11,7 @@ aliases:
 
 **Building Type**
 
-`dice: [[Random Buildings Building Type.md#^building-type]]`
+`dice: [[/5. Mechanics/Tables/Random Buildings Building Type.md#^building-type]]`
 
 | dice: d20 | Type |
 |-----------|------|

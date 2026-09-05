@@ -11,7 +11,7 @@ aliases:
 
 **Coastal Encounters (Levels 5—10)**
 
-`dice: [[Coastal Encounters Levels 510 (XGE).md#^coastal-encounters-levels-510]]`
+`dice: [[/5. Mechanics/Tables/Coastal Encounters Levels 510 (XGE).md#^coastal-encounters-levels-510]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -30,7 +30,7 @@ aliases:
 | 36-40 | A stoppered bottle containing an illegible note and half buried in the sand |
 | 41-43 | 3 [[/5. Mechanics/Bestiary/Fey/Sea Hag.md\|sea hags]] |
 | 44-46 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Harpy.md\|harpies]] |
-| 47-50 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Plesiosaur(US).md\|plesiosauruses]] |
+| 47-50 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Plesiosaurus.md\|plesiosauruses]] |
 | 51-53 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |
 | 54-56 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]] |
 | 57-60 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Monstrosity/Griffon.md\|griffons]] |
@@ -38,7 +38,7 @@ aliases:
 | 66-70 | `dice:1d4+3\|noform\|noparens\|avg` (`1d4 + 3`) [[/5. Mechanics/Bestiary/Monstrosity/Merrow.md\|merrow]] |
 | 71-75 | A pirate crew consisting of 1 [[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]], 1 [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]], 2 [[/5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]], and `dice:2d12\|noform\|noparens\|avg` (`2d12`) [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]], all searching for buried treasure |
 | 76-80 | A severed humanoid hand tangled in a net |
-| 81-82 | 1 [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] |
+| 81-82 | 1 [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] |
 | 83-84 | 1 [[/5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclops]] |
 | 85-86 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Banshee.md\|banshees]] (night only) |
 | 87-88 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veterans]] |

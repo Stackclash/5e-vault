@@ -11,7 +11,7 @@ aliases:
 
 **Lorinda's Daughter**
 
-`dice: [[Mothers Blessing Lorindas Daughter (VRGR).md#^lorindas-daughter]]`
+`dice: [[/5. Mechanics/Tables/Mothers Blessing Lorindas Daughter (VRGR).md#^lorindas-daughter]]`
 
 | dice: d6 | Laoirse's Form | Statistics | CR |
 |----------|----------------|------------|----|

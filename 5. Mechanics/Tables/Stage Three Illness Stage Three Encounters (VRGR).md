@@ -11,7 +11,7 @@ aliases:
 
 **Stage Three Encounters**
 
-`dice: [[Stage Three Illness Stage Three Encounters (VRGR).md#^stage-three-encounters]]`
+`dice: [[/5. Mechanics/Tables/Stage Three Illness Stage Three Encounters (VRGR).md#^stage-three-encounters]]`
 
 | dice: d6 | Encounter |
 |----------|-----------|

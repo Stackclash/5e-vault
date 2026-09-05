@@ -11,7 +11,7 @@ aliases:
 
 **Druid Followers**
 
-`dice: [[Druid Followers (SAF).md#^druid-followers]]`
+`dice: [[/5. Mechanics/Tables/Druid Followers (SAF).md#^druid-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

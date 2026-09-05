@@ -9,7 +9,7 @@ aliases:
 # Random Damage Type
 *Source: Deep Magic p. 191* 
 
-`dice: [[Random Damage Type (KPDM).md#^damage-type]]`
+`dice: [[/5. Mechanics/Tables/Random Damage Type (KPDM).md#^damage-type]]`
 
 | dice: d10 | Damage Type |
 |-----------|-------------|

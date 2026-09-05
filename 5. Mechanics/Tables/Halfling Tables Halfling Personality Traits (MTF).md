@@ -11,7 +11,7 @@ aliases:
 
 **Halfling Personality Traits**
 
-`dice: [[Halfling Tables Halfling Personality Traits (MTF).md#^halfling-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Halfling Tables Halfling Personality Traits (MTF).md#^halfling-personality-traits]]`
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|

@@ -8,7 +8,7 @@ aliases:
   - Psi Warrior
 ---
 # Psi Warrior
-*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[/5. Mechanics/Classes/Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Tasha's Cauldron of Everything p. 42*  
 
 > [!tldr] Class and Feature Progression

@@ -8,7 +8,7 @@ aliases:
   - Way of the Celestial
 ---
 # Way of the Celestial
-*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[/5. Mechanics/Classes/Monk.md\|Monk]]: Monastic Tradition*  
 *Source: The Griffon's Saddlebag, Book 1 p. 161*  
 
 > [!tldr] Class and Feature Progression

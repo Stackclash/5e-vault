@@ -11,7 +11,7 @@ aliases:
 
 **Clan's Status**
 
-`dice: [[Dwarves In The Clan Clans Status (MTF).md#^clans-status]]`
+`dice: [[/5. Mechanics/Tables/Dwarves In The Clan Clans Status (MTF).md#^clans-status]]`
 
 | dice: d6 | Status |
 |----------|--------|

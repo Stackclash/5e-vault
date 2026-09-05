@@ -11,7 +11,7 @@ aliases:
 
 **What Quirk Does It Have**
 
-`dice: [[Special Features What Quirk Does It Have.md#^what-quirk-does-it-have]]`
+`dice: [[/5. Mechanics/Tables/Special Features What Quirk Does It Have.md#^what-quirk-does-it-have]]`
 
 | dice: d12 | Quirk |
 |-----------|-------|

@@ -8,7 +8,7 @@ aliases:
   - Boreal Bloodline
 ---
 # Boreal Bloodline
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Deep Magic p. 278*  
 
 > [!tldr] Class and Feature Progression

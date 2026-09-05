@@ -9,7 +9,7 @@ aliases:
 # Rare Arctic Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 
 
-`dice: [[Rare Arctic Herbs (HHBH).md#^2-herb]]`
+`dice: [[/5. Mechanics/Tables/Rare Arctic Herbs (HHBH).md#^2-herb]]`
 
 | dice: 2d8 | Herb |
 |-----------|------|

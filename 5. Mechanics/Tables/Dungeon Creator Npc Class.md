@@ -11,7 +11,7 @@ aliases:
 
 **NPC Class**
 
-`dice: [[Dungeon Creator Npc Class.md#^npc-class]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Creator Npc Class.md#^npc-class]]`
 
 | dice: d20 | Class |
 |-----------|-------|

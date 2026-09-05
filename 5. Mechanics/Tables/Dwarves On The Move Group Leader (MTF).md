@@ -11,7 +11,7 @@ aliases:
 
 **Group Leader**
 
-`dice: [[Dwarves On The Move Group Leader (MTF).md#^group-leader]]`
+`dice: [[/5. Mechanics/Tables/Dwarves On The Move Group Leader (MTF).md#^group-leader]]`
 
 | dice: d6 | Leader |
 |----------|--------|

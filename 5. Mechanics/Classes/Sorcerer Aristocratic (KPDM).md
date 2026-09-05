@@ -8,7 +8,7 @@ aliases:
   - Aristocratic
 ---
 # Aristocratic
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Deep Magic p. 145*  
 
 > [!tldr] Class and Feature Progression
@@ -55,7 +55,7 @@ At 1st level, you have a natural affinity for a particular school of magic, depe
 
 **Aristocratic Bloodline School**
 
-`dice: [[Sorcerer Aristocratic (KPDM).md#^aristocratic-bloodline-school]]`
+`dice: [[/5. Mechanics/Classes/Sorcerer Aristocratic (KPDM).md#^aristocratic-bloodline-school]]`
 
 | dice: d8 | School | Spell |
 |----------|--------|-------|

@@ -11,7 +11,7 @@ aliases:
 
 **Cult Organization**
 
-`dice: [[Fiendish Cults Cult Organization (MTF).md#^cult-organization]]`
+`dice: [[/5. Mechanics/Tables/Fiendish Cults Cult Organization (MTF).md#^cult-organization]]`
 
 | dice: d6 | Organization |
 |----------|--------------|

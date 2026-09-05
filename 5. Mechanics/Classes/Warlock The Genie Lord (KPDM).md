@@ -8,7 +8,7 @@ aliases:
   - The Genie Lord
 ---
 # The Genie Lord
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Deep Magic p. 148*  
 
 > [!tldr] Class and Feature Progression

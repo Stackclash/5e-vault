@@ -9,7 +9,7 @@ aliases:
 # Fiendish Curse (Demon)
 *Source: Hamund's Harvesting Handbook: Volume I p. 22, Hamund's Harvesting Handbook: Volume II p. 14, Hamund's Harvesting Handbook: Volume III p. 18* 
 
-`dice: [[Fiendish Curse Demon (HHHVI).md#^curse]]`
+`dice: [[/5. Mechanics/Tables/Fiendish Curse Demon (HHHVI).md#^curse]]`
 
 | dice: d6 | Curse |
 |----------|-------|

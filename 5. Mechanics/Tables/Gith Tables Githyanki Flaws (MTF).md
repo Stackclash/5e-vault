@@ -11,7 +11,7 @@ aliases:
 
 **Githyanki Flaws**
 
-`dice: [[Gith Tables Githyanki Flaws (MTF).md#^githyanki-flaws]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githyanki Flaws (MTF).md#^githyanki-flaws]]`
 
 | dice: d4 | Flaw |
 |----------|------|

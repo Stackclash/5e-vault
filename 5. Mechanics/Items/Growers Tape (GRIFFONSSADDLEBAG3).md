@@ -27,7 +27,7 @@ This roll of tape is 1 inch wide and 60 feet long. You can use an action to cut 
 
 Roll on the table below once for every 1 foot of tape used to determine what grows from that stretch of soil.
 
-`dice: [[Growers Tape (GRIFFONSSADDLEBAG3).md#^grown-plant]]`
+`dice: [[/5. Mechanics/Items/Growers Tape (GRIFFONSSADDLEBAG3).md#^grown-plant]]`
 
 | dice: d6 | Grown Plant |
 |----------|-------------|

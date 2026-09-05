@@ -9,7 +9,7 @@ aliases:
 # Making Custom Druid NPCs; Flaws
 *Source: The Griffon's Saddlebag, Book 2 p. 259* 
 
-`dice: [[Making Custom Druid Npcs Flaws (GRIFFONSSADDLEBAG2).md#^flaw]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Druid Npcs Flaws (GRIFFONSSADDLEBAG2).md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

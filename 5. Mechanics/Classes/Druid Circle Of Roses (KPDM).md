@@ -8,7 +8,7 @@ aliases:
   - Circle of Roses
 ---
 # Circle of Roses
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Deep Magic p. 137*  
 
 > [!tldr] Class and Feature Progression

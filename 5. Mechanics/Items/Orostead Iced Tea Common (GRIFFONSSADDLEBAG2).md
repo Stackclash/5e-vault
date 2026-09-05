@@ -29,7 +29,7 @@ await dv.view("views/itemPrice", {current: dv.current()})
 
 The typical [[/5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Orostead iced tea]], a common potion, is a specialty alcoholic beverage that creates harmless sensory effects with each sip. When made, a tea has enough for `dice:6+1d4|noform|noparens|avg` (`6 + 1d4`) sips before it's used up, instead of a single use. You can take a sip as an action. When you drink this potion, roll on the table below to determine which one of the following effects occur:
 
-`dice: [[Orostead Iced Tea Common (GRIFFONSSADDLEBAG2).md#^common-effect]]`
+`dice: [[/5. Mechanics/Items/Orostead Iced Tea Common (GRIFFONSSADDLEBAG2).md#^common-effect]]`
 
 | dice: d8 | Common Effect |
 |----------|---------------|

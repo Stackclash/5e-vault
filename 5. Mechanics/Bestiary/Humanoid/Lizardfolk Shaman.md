@@ -97,7 +97,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
       \ the following druid spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
       \ [[/5. Mechanics/Spells/Produce Flame.md|produce flame]], [[/5. Mechanics/Spells/Thorn Whip.md|thorn whip]]\n\
       \n**1st level (4 slots):** [[/5. Mechanics/Spells/Entangle.md|entangle]], [[/5. Mechanics/Spells/Fog Cloud.md|fog\
-      \ cloud]]\n\n**2nd level (3 slots):** [[/5. Mechanics/Spells/Heat Met(AL).md|heat\
+      \ cloud]]\n\n**2nd level (3 slots):** [[/5. Mechanics/Spells/Heat Metal.md|heat\
       \ metal]], [[/5. Mechanics/Spells/Spike Growth.md|spike growth]]\n\
       \n**3rd level (2 slots):** [[/5. Mechanics/Spells/Conjure Animals.md|conjure animals]]\
       \ (reptiles only), [[/5. Mechanics/Spells/Plant Growth.md|plant growth]]"

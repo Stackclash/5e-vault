@@ -8,7 +8,7 @@ aliases:
   - College of Four Suits
 ---
 # College of Four Suits
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: The Griffon's Saddlebag, Book 3*  
 
 > [!tldr] Class and Feature Progression

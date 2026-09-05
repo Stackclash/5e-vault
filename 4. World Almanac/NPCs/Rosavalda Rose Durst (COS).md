@@ -15,29 +15,28 @@ aliases:
 alignment: Lawful Good
 description: >-
   Rose appears exactly as she did the day she died: a solemn, sharp-eyed
-  ten-year-old girl in a plain traveling dress, dark hair kept neatly in
-  place. She is quick to take charge of her younger brother Thorn, hushing
-  his tears and speaking for both of them, and as a ghost she manifests the
-  same protective bossiness she carried in life — tempered by the quiet,
-  terrible knowledge that she is dead.
+  ten-year-old girl in a plain traveling dress, dark hair kept neatly in place.
+  She is quick to take charge of her younger brother Thorn, hushing his tears
+  and speaking for both of them, and as a ghost she manifests the same
+  protective bossiness she carried in life — tempered by the quiet, terrible
+  knowledge that she is dead.
 history: >-
   Rose was the elder child of Gustav and Elisabeth Durst, a wealthy Barovian
-  family whose secret cult conducted debauched rituals beneath their
-  townhouse in the village of Barovia. As their parents descended into
-  madness and cult worship, Rose and Thorn were told frightening stories of a
-  "monster" kept in the basement — a lie meant only to keep the children
-  from the family's dungeon of horrors. Eventually Gustav and Elisabeth
-  locked the children in the attic and simply forgot about them; Rose and
-  Thorn starved to death there, never understanding what their family had
-  truly done. Their spirits now linger in Death House: first as innocent
-  illusions the haunted house conjures to lure travelers inside, and later —
-  once their true, skeletal remains are found — as vengeful but still
-  childlike ghosts who want nothing more than to keep their small family
-  together.
+  family whose secret cult conducted debauched rituals beneath their townhouse
+  in the village of Barovia. As their parents descended into madness and cult
+  worship, Rose and Thorn were told frightening stories of a "monster" kept in
+  the basement — a lie meant only to keep the children from the family's dungeon
+  of horrors. Eventually Gustav and Elisabeth locked the children in the attic
+  and simply forgot about them; Rose and Thorn starved to death there, never
+  understanding what their family had truly done. Their spirits now linger in
+  Death House: first as innocent illusions the haunted house conjures to lure
+  travelers inside, and later — once their true, skeletal remains are found — as
+  vengeful but still childlike ghosts who want nothing more than to keep their
+  small family together.
 relationships: []
 partyRelationships: {}
 location: null
-pronounced: 'ROH-suh-VAL-duh DURST (called "Rose")'
+pronounced: ROH-suh-VAL-duh DURST (called "Rose")
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 10
@@ -46,18 +45,19 @@ groups:
   - Durst Family
 religions: []
 personality: >-
-  Protective and bossy toward her younger brother, masking her own fear with
-  an insistence on being in charge; as a ghost she is coldly aware that she
-  and Thorn are dead, though she still acts the part of the responsible big
-  sister
-ideal: Someone has to be strong and take charge, or everything falls apart.
-bond: "Thorn is the only family I have left, and I won't let anything happen to him."
+  Protective and bossy toward her younger brother, masking her own fear with an
+  insistence on being in charge; as a ghost she is coldly aware that she and
+  Thorn are dead, though she still acts the part of the responsible big sister
+ideal: 'Someone has to be strong and take charge, or everything falls apart.'
+bond: 'Thorn is the only family I have left, and I won''t let anything happen to him.'
 flaw: I like being in charge and get angry when other people tell me what to do.
 goals: >-
   To keep Thorn safe and their small "family" of two together — though what
-  would truly free her, unknowingly, is having their bones laid to rest
-  together in the Durst family crypt beneath Death House.
-likes: "Her brother Thorn, her family's toys and keepsakes, being obeyed, order and routine"
+  would truly free her, unknowingly, is having their bones laid to rest together
+  in the Durst family crypt beneath Death House.
+likes: >-
+  Her brother Thorn, her family's toys and keepsakes, being obeyed, order and
+  routine
 dislikes: >-
   The "monster" she believes lives in the basement, being ordered around,
   strangers disturbing her and Thorn's things, being left alone
@@ -92,25 +92,7 @@ dislikes: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 217*
 
-Rosavalda "Rose" Durst is the elder of the two ghost children who haunt [[/4. World Almanac/Places of Interest/Death House.md|Death House]] in the [[/4. World Almanac/Settlements/Village of Barovia.md|village of Barovia]] — a solemn, take-charge little girl who died trying to shelter her baby brother from a horror that turned out to be her own family's cult.
-
-## A House of Secrets
-
-Long before Rose was born, the wealthy Durst family used their townhouse to host a secret cult devoted to summoning malevolent extraplanar entities. As the cult's activities grew more depraved, Gustav and Elisabeth Durst warned their children never to go down to the basement, claiming a "monster" was kept trapped there. In truth, the sounds the children heard were the screams of the cult's sacrificial victims.
-
-## Locked Away and Forgotten
-
-As their parents spiraled further into madness — and after the birth and death of a stillborn third child, Walter — Rose and Thorn were locked in the attic and abandoned. Too young to understand what their family had done, the children starved to death together, never knowing they'd been the family's final victims rather than its protected innocents.
-
-## A House That Won't Let Go
-
-Death House now conjures illusions of Rose and Thorn — living, weeping children in the street outside — to lure travelers into the house. These illusions don't know they aren't real, and vanish the moment they're harmed or forced back inside. The true ghosts of Rose and Thorn linger deeper in the house, in the room where they died (area 20); they know full well that they're dead, and they fight only to keep intruders from disturbing their things, or to keep them from leaving, since both children are terrified of being abandoned all over again. The only way to grant the siblings peace is to lay their skeletal remains in their family crypts in the dungeon below.
-
-## Rosavalda "Rose" Durst's Traits
-
-### Flaw
-
-"I like being in charge and get angry when other people tell me what to do."
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

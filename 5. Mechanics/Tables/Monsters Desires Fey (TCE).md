@@ -11,7 +11,7 @@ aliases:
 
 **Fey**
 
-`dice: [[Monsters Desires Fey (TCE).md#^fey]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Fey (TCE).md#^fey]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

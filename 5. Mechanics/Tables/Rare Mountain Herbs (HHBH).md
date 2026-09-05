@@ -9,7 +9,7 @@ aliases:
 # Rare Mountain Herbs
 *Source: Hamund's Herbalism Handbook p. 43* 
 
-`dice: [[Rare Mountain Herbs (HHBH).md#^2-herb]]`
+`dice: [[/5. Mechanics/Tables/Rare Mountain Herbs (HHBH).md#^2-herb]]`
 
 | dice: 2d8 | Herb |
 |-----------|------|

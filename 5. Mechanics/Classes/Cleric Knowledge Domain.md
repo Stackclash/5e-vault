@@ -9,7 +9,7 @@ aliases:
   - Knowledge Domain
 ---
 # Knowledge Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Player's Handbook p. 59*  
 
 > [!tldr] Class and Feature Progression
@@ -44,7 +44,7 @@ aliases:
 ^class-progression
 
 
-The gods of knowledge—including Oghma, [[/5. Mechanics/Deities/Greyhawk Boccob.md\|Boccob]], [[/5. Mechanics/Deities/Dragonlance Gilean (PHB).md\|Gilean]], [[/5. Mechanics/Deities/Eberron Aureon.md\|Aureon]], and [[/5. Mechanics/Deities/Egyptian Thoth.md\|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[/5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[/5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[/5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[/5. Mechanics/Deities/Greek Hephaest(US).md\|Hephaestus]], and [[/5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
+The gods of knowledge—including Oghma, [[/5. Mechanics/Deities/Greyhawk Boccob.md\|Boccob]], [[/5. Mechanics/Deities/Dragonlance Gilean (PHB).md\|Gilean]], [[/5. Mechanics/Deities/Eberron Aureon.md\|Aureon]], and [[/5. Mechanics/Deities/Egyptian Thoth.md\|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[/5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[/5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[/5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[/5. Mechanics/Deities/Greek Hephaestus.md\|Hephaestus]], and [[/5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
 
 ## Subclass Features
 

@@ -64,7 +64,7 @@ Standing simultaneously opposite to and between the fiends and angels, the neutr
       \n**At will:** [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
       \ [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]] (self only)\n\n**3/day each:**\
       \ [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[/5. Mechanics/Spells/Harm.md|harm]],\
-      \ [[/5. Mechanics/Spells/He(AL).md|heal]], [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]\n\
+      \ [[/5. Mechanics/Spells/Heal.md|heal]], [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]\n\
       \n**1/day each:** [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
       \ [[/5. Mechanics/Spells/Flame Strike.md|flame strike]]"
     "name": "Innate Spellcasting"

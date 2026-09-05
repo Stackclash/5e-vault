@@ -13,7 +13,7 @@ A creature who tries and fails to cast a spell from a [[/5. Mechanics/Items/Spel
 
 **Scroll Mishap**
 
-`dice: [[Scroll Mishaps.md#^scroll-mishap]]`
+`dice: [[/5. Mechanics/Rules/Variant Rules/Scroll Mishaps.md#^scroll-mishap]]`
 
 | dice: d6 | Result |
 |----------|--------|

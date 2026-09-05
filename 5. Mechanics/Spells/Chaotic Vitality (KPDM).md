@@ -49,7 +49,7 @@ Make a melee spell attack against a creature that has a number of Hit Dice no gr
 
 **Hit Point Flux**
 
-`dice: [[Chaotic Vitality (KPDM).md#^hit-point-flux]]`
+`dice: [[/5. Mechanics/Spells/Chaotic Vitality (KPDM).md#^hit-point-flux]]`
 
 | dice: d100 | HP for both creatures |
 |------------|-----------------------|

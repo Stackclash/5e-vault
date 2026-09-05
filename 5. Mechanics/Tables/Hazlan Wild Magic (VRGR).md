@@ -11,7 +11,7 @@ aliases:
 
 **Hazlan Wild Magic**
 
-`dice: [[Hazlan Wild Magic (VRGR).md#^hazlan-wild-magic]]`
+`dice: [[/5. Mechanics/Tables/Hazlan Wild Magic (VRGR).md#^hazlan-wild-magic]]`
 
 | dice: d20 | Wild Magic Effect |
 |-----------|-------------------|

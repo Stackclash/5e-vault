@@ -11,7 +11,7 @@ aliases:
 
 **Demon Personality Traits**
 
-`dice: [[Demon Customization Tables Demon Personality Traits (MTF).md#^demon-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Demon Customization Tables Demon Personality Traits (MTF).md#^demon-personality-traits]]`
 
 | dice: d6 | Trait |
 |----------|-------|

@@ -11,7 +11,7 @@ aliases:
 
 **Mountain Encounters (Levels 11—16)**
 
-`dice: [[Mountain Encounters Levels 1116 (XGE).md#^mountain-encounters-levels-1116]]`
+`dice: [[/5. Mechanics/Tables/Mountain Encounters Levels 1116 (XGE).md#^mountain-encounters-levels-1116]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -26,7 +26,7 @@ aliases:
 | 26-30 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |
 | 31-35 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclopes]] |
 | 36-40 | Heavy snowfall that lasts for `dice:1d6\|noform\|noparens\|avg` (`1d6`) hours |
-| 41-45 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elementals]] |
+| 41-45 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elementals]] |
 | 46-50 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Monstrosity/Bulette.md\|bulettes]] |
 | 51-55 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Stone Giant.md\|stone giants]] |
 | 56-60 | 1 [[/5. Mechanics/Bestiary/Giant/Fire Giant.md\|fire giant]] |

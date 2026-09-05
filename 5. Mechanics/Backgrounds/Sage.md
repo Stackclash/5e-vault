@@ -24,7 +24,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
 
-`dice: [[Sage.md#^field-of-study]]`
+`dice: [[/5. Mechanics/Backgrounds/Sage.md#^field-of-study]]`
 
 | dice: d8 | Field of Study |
 |----------|----------------|
@@ -42,7 +42,7 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 
 Sages are defined by their extensive studies, and their characteristics reflect this life of study. Devoted to scholarly pursuits, a sage values knowledge highly—sometimes in its own right, sometimes as a means toward other ideals.
 
-`dice: [[Sage.md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Sage.md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -56,7 +56,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 8 | I'm convinced that people are always trying to steal my secrets. |
 ^personality-trait
 
-`dice: [[Sage.md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Sage.md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,7 +68,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 6 | Self-Improvement. The goal of a life of study is the betterment of oneself. (Any) |
 ^ideal
 
-`dice: [[Sage.md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Sage.md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -80,7 +80,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 6 | I sold my soul for knowledge. I hope to do great deeds and win it back. |
 ^bond
 
-`dice: [[Sage.md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Sage.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

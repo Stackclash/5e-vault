@@ -11,7 +11,7 @@ aliases:
 
 **Starting Area**
 
-`dice: [[Starting Area.md#^starting-area]]`
+`dice: [[/5. Mechanics/Tables/Starting Area.md#^starting-area]]`
 
 | dice: d10 | Configuration |
 |-----------|---------------|

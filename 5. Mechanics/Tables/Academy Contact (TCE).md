@@ -11,7 +11,7 @@ aliases:
 
 **Academy Contact**
 
-`dice: [[Academy Contact (TCE).md#^academy-contact]]`
+`dice: [[/5. Mechanics/Tables/Academy Contact (TCE).md#^academy-contact]]`
 
 | dice: d6 | Contact |
 |----------|---------|

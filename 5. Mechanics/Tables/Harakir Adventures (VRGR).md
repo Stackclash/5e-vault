@@ -11,7 +11,7 @@ aliases:
 
 **Har'Akir Adventures**
 
-`dice: [[Harakir Adventures (VRGR).md#^harakir-adventures]]`
+`dice: [[/5. Mechanics/Tables/Harakir Adventures (VRGR).md#^harakir-adventures]]`
 
 | dice: d8 | Adventure |
 |----------|-----------|

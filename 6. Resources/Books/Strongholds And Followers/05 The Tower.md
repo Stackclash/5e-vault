@@ -88,7 +88,7 @@ Some of these results are *weird*. This is by design, meant to reinforce the ide
 
 **The Spell Targets You or One Ally**
 
-`dice: [[05 The Tower.md#^the-spell-targets-you-or-one-ally]]`
+`dice: [[/6. Resources/Books/Strongholds And Followers/05 The Tower.md#^the-spell-targets-you-or-one-ally]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|
@@ -104,7 +104,7 @@ Some of these results are *weird*. This is by design, meant to reinforce the ide
 
 **The Spell Targets Allies**
 
-`dice: [[05 The Tower.md#^the-spell-targets-allies]]`
+`dice: [[/6. Resources/Books/Strongholds And Followers/05 The Tower.md#^the-spell-targets-allies]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|
@@ -120,7 +120,7 @@ Some of these results are *weird*. This is by design, meant to reinforce the ide
 
 **The Spell Targets One Enemy**
 
-`dice: [[05 The Tower.md#^the-spell-targets-one-enemy]]`
+`dice: [[/6. Resources/Books/Strongholds And Followers/05 The Tower.md#^the-spell-targets-one-enemy]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|
@@ -136,7 +136,7 @@ Some of these results are *weird*. This is by design, meant to reinforce the ide
 
 **The Spell Targets Several Enemies**
 
-`dice: [[05 The Tower.md#^the-spell-targets-several-enemies]]`
+`dice: [[/6. Resources/Books/Strongholds And Followers/05 The Tower.md#^the-spell-targets-several-enemies]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|

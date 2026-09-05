@@ -11,7 +11,7 @@ aliases:
 
 **Blessed Radiance Effects**
 
-`dice: [[Blessed Radiance Effects (TCE).md#^blessed-radiance-effects]]`
+`dice: [[/5. Mechanics/Tables/Blessed Radiance Effects (TCE).md#^blessed-radiance-effects]]`
 
 | dice: d100 | Effect |
 |------------|--------|

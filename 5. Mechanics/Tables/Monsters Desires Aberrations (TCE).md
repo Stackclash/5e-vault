@@ -11,7 +11,7 @@ aliases:
 
 **Aberrations**
 
-`dice: [[Monsters Desires Aberrations (TCE).md#^aberrations]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Aberrations (TCE).md#^aberrations]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

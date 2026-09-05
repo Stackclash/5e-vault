@@ -11,14 +11,14 @@ aliases:
 
 **Urban Encounters (Levels 11—16)**
 
-`dice: [[Urban Encounters Levels 1116 (XGE).md#^urban-encounters-levels-1116]]`
+`dice: [[/5. Mechanics/Tables/Urban Encounters Levels 1116 (XGE).md#^urban-encounters-levels-1116]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] |
 | 02-05 | 1 [[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]] with 5d10 [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]], all on [[/5. Mechanics/Bestiary/Beast/Riding Horse.md\|riding horses]] |
 | 06-10 | 1d10 [[/5. Mechanics/Bestiary/Humanoid/Knight.md\|knights]] on [[/5. Mechanics/Bestiary/Beast/Warhorse.md\|warhorses]] (one knight is a [[/5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|doppelganger]]) |
-| 11-13 | 1d8 [[/5. Mechanics/Bestiary/Fiend/Succub(US).md\|succubi]] or 1d8 [[/5. Mechanics/Bestiary/Fiend/Incub(US).md\|incubi]] |
+| 11-13 | 1d8 [[/5. Mechanics/Bestiary/Fiend/Succubus.md\|succubi]] or 1d8 [[/5. Mechanics/Bestiary/Fiend/Incubus.md\|incubi]] |
 | 14-16 | 3d6 [[/5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatics]] |
 | 17-19 | 1d10 [[/5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
 | 20-22 | 3d6 [[/5. Mechanics/Bestiary/Humanoid/Wererat.md\|wererats]] |
@@ -37,7 +37,7 @@ aliases:
 | 62-65 | 2d4 [[/5. Mechanics/Bestiary/Monstrosity/Phase Spider.md\|phase spiders]] |
 | 66-69 | A scruffy [[/5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoner]] that ducks into an alley to make a purchase from a suspicious looking figure |
 | 70-72 | 1d8 [[/5. Mechanics/Bestiary/Elemental/Invisible Stalker.md\|invisible stalkers]] |
-| 73-75 | 1d8 + 1 [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiators]] |
+| 73-75 | 1d8 + 1 [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiators]] |
 | 76-80 | Two farmers trading blows over the price of potatoes (50% chance for one farmer to be a retired [[/5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassin]]) |
 | 81-82 | 1d4 [[/5. Mechanics/Bestiary/Dragon/Young Silver Dragon.md\|young silver dragons]] |
 | 83-84 | 1d4 [[/5. Mechanics/Bestiary/Humanoid/Assassin.md\|assassins]] |

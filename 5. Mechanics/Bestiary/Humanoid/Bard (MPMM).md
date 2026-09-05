@@ -29,7 +29,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 
 **Bard Performance Types**
 
-`dice: [[Bard (MPMM).md#^bard-performance-types]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/Bard (MPMM).md#^bard-performance-types]]`
 
 | dice: d10 | Performance Type |
 |-----------|------------------|

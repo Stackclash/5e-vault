@@ -11,7 +11,7 @@ aliases:
 
 **Dwarf Names – Male**
 
-`dice: [[Dwarf Names Male (XGE).md#^dwarf-names-male]]`
+`dice: [[/5. Mechanics/Tables/Dwarf Names Male (XGE).md#^dwarf-names-male]]`
 
 | dice: d100 | Name |
 |------------|------|

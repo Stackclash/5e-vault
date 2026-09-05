@@ -70,7 +70,7 @@ aliases:
 - [[/5. Mechanics/Spells/Slow.md \|"PHB"]] at class level 5
 - [[/5. Mechanics/Spells/Stinking Cloud.md \|"PHB"]] at class level 5
 - [[/5. Mechanics/Spells/Water Breathing.md \|"PHB"]] at class level 5
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Water Walk.md \|"PHB"]] at class level 5
 
 ## 4th Level
 
@@ -90,7 +90,7 @@ aliases:
 - [[/5. Mechanics/Spells/Cloudkill.md \|"PHB"]] at class level 9
 - [[/5. Mechanics/Spells/Commune With Nature.md \|"PHB"]] at class level 9
 - [[/5. Mechanics/Spells/Cone Of Cold.md \|"PHB"]] at class level 9
-- [[/5. Mechanics/Spells/Conjure Element(AL).md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Conjure Elemental.md \|"PHB"]] at class level 9
 - [[/5. Mechanics/Spells/Dream.md \|"PHB"]] at class level 9
 - [[/5. Mechanics/Spells/Insect Plague.md \|"PHB"]] at class level 9
 - [[/5. Mechanics/Spells/Passwall.md \|"PHB"]] at class level 9

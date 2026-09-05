@@ -11,7 +11,7 @@ aliases:
 
 **5,000 gp Gemstones**
 
-`dice: [[5000 Gp Gemstones.md#^5000-gp-gemstones]]`
+`dice: [[/5. Mechanics/Tables/5000 Gp Gemstones.md#^5000-gp-gemstones]]`
 
 | dice: d4 | Stone Description |
 |----------|-------------------|

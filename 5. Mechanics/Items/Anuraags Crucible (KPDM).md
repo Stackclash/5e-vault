@@ -35,7 +35,7 @@ Constructs and undead are immune to the crucible's power, as is any creature tha
 
 To determine what a creature transforms into, roll a `dice:d20|noform|noparens|avg` (`d20`).
 
-`dice: [[Anuraags Crucible (KPDM).md#^creature]]`
+`dice: [[/5. Mechanics/Items/Anuraags Crucible (KPDM).md#^creature]]`
 
 | dice: d20 | Creature |
 |-----------|----------|

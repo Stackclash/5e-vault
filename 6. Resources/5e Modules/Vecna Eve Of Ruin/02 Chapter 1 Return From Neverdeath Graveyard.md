@@ -244,7 +244,7 @@ If the characters minimized the water pressure in area C8, omit the first senten
 
 See area C11 for more information about the padlocked door.
 
-A [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] and two [[/5. Mechanics/Bestiary/Elemental/Water Weird.md\|water weirds]] live in the 25-foot-deep fountain. These creatures are indifferent toward intruders and attack only in self-defense. Once bound to serve the Waterclock Guild, they're now free but enjoy the perpetual "rain" here. The cult bullies these Elementals, so they remain sulking under the water's surface. Determined not to stand for further intrusion, the Elementals rise to attack anyone other than cultists. The water weirds consider the water elemental their leader. If reduced to fewer than 50 hit points, the water elemental retreats to the basin's bottom with any surviving water weirds.
+A [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] and two [[/5. Mechanics/Bestiary/Elemental/Water Weird.md\|water weirds]] live in the 25-foot-deep fountain. These creatures are indifferent toward intruders and attack only in self-defense. Once bound to serve the Waterclock Guild, they're now free but enjoy the perpetual "rain" here. The cult bullies these Elementals, so they remain sulking under the water's surface. Determined not to stand for further intrusion, the Elementals rise to attack anyone other than cultists. The water weirds consider the water elemental their leader. If reduced to fewer than 50 hit points, the water elemental retreats to the basin's bottom with any surviving water weirds.
 
 The water elemental enjoys conversation but speaks Aquan only. Characters who are able to communicate with the water elemental can learn the following from it:
 
@@ -299,7 +299,7 @@ One cog on the north wall doesn't connect to anything else on the wall around it
 
 The creature is a [[/5. Mechanics/Bestiary/Elemental/Marid.md\|marid]] named Shanzezim. The marid was bound by the Waterclock Guild and can't leave the crypts belonging to that organization, even though Shanzezim believes the Waterclock Guild has been defunct for years. Not quite ready to test the binding to make an escape, the marid spends time here trying to reassemble one of the Waterclock Guild's most intricate clocks.
 
-If the [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] in area C7 fled here, it informed Shanzezim about intruders in the area, so the marid attacks right away to drive off the characters. Otherwise, the marid asks the characters what they want. If a fight breaks out, the marid surrenders if reduced to fewer than 100 hit points or if the characters insist that they aren't with the cult.
+If the [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] in area C7 fled here, it informed Shanzezim about intruders in the area, so the marid attacks right away to drive off the characters. Otherwise, the marid asks the characters what they want. If a fight breaks out, the marid surrenders if reduced to fewer than 100 hit points or if the characters insist that they aren't with the cult.
 
 ##### Shanzezim's Lore
 
@@ -320,7 +320,7 @@ The clock parts include a gold-colored flywheel that isn't a part of the clock S
 
 #### C11: Umberto's Cell
 
-This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful DC 18 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
+This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful DC 18 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
 
 > [!readaloud] 
 > 

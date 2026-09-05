@@ -56,7 +56,7 @@ You imbue a two-handed ranged weapon (typically a [[/5. Mechanics/Items/Shortbow
 
 **Booster Shot Additional Effect**
 
-`dice: [[Booster Shot (KPDM).md#^booster-shot-additional-effect]]`
+`dice: [[/5. Mechanics/Spells/Booster Shot (KPDM).md#^booster-shot-additional-effect]]`
 
 | dice: d6 | Effect |
 |----------|--------|

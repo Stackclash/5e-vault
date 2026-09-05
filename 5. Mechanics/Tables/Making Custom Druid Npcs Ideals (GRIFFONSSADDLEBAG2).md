@@ -9,7 +9,7 @@ aliases:
 # Making Custom Druid NPCs; Ideals
 *Source: The Griffon's Saddlebag, Book 2 p. 259* 
 
-`dice: [[Making Custom Druid Npcs Ideals (GRIFFONSSADDLEBAG2).md#^ideal]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Druid Npcs Ideals (GRIFFONSSADDLEBAG2).md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

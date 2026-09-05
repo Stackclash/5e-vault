@@ -11,7 +11,7 @@ aliases:
 
 **Hag Objects**
 
-`dice: [[One Of A Kind Objects Hag Objects (VGM).md#^hag-objects]]`
+`dice: [[/5. Mechanics/Tables/One Of A Kind Objects Hag Objects (VGM).md#^hag-objects]]`
 
 | dice: d10 | Object |
 |-----------|--------|

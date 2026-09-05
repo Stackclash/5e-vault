@@ -156,7 +156,7 @@ aliases:
 - [[/5. Mechanics/Spells/Throes Of Ecstasy (KPDM).md \|"KPDM"]] at class level 5
 - [[/5. Mechanics/Spells/Tongues.md \|"PHB"]] at class level 5
 - [[/5. Mechanics/Spells/Touch Of The Unliving (KPDM).md \|"KPDM"]] at class level 5
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Water Walk.md \|"PHB"]] at class level 5
 - [[/5. Mechanics/Spells/Wave Of Corruption (KPDM).md \|"KPDM"]] at class level 5
 
 ## 4th Level
@@ -228,7 +228,7 @@ aliases:
 - [[/5. Mechanics/Spells/Find The Path.md \|"PHB"]] at class level 11
 - [[/5. Mechanics/Spells/Forbiddance.md \|"PHB"]] at class level 11
 - [[/5. Mechanics/Spells/Harm.md \|"PHB"]] at class level 11
-- [[/5. Mechanics/Spells/He(AL).md \|"PHB"]] at class level 11
+- [[/5. Mechanics/Spells/Heal.md \|"PHB"]] at class level 11
 - [[/5. Mechanics/Spells/Heroes Feast.md \|"PHB"]] at class level 11
 - [[/5. Mechanics/Spells/Planar Ally.md \|"PHB"]] at class level 11
 - [[/5. Mechanics/Spells/Smiting Arrow (KPDM).md \|"KPDM"]] at class level 11
@@ -240,7 +240,7 @@ aliases:
 ## 7th Level
 
 - [[/5. Mechanics/Spells/Alter Time Flow (KPDM).md \|"KPDM"]] at class level 13
-- [[/5. Mechanics/Spells/Conjure Celesti(AL).md \|"PHB"]] at class level 13
+- [[/5. Mechanics/Spells/Conjure Celestial.md \|"PHB"]] at class level 13
 - [[/5. Mechanics/Spells/Divine Word.md \|"PHB"]] at class level 13
 - [[/5. Mechanics/Spells/Etherealness.md \|"PHB"]] at class level 13
 - [[/5. Mechanics/Spells/Fire Storm.md \|"PHB"]] at class level 13
@@ -266,6 +266,6 @@ aliases:
 - [[/5. Mechanics/Spells/Astral Projection.md \|"PHB"]] at class level 17
 - [[/5. Mechanics/Spells/Gate.md \|"PHB"]] at class level 17
 - [[/5. Mechanics/Spells/Greater Seal Of Sanctuary (KPDM).md \|"KPDM"]] at class level 17
-- [[/5. Mechanics/Spells/Mass He(AL).md \|"PHB"]] at class level 17
-- [[/5. Mechanics/Spells/Power Word He(AL).md \|"PHB"]] at class level 17
+- [[/5. Mechanics/Spells/Mass Heal.md \|"PHB"]] at class level 17
+- [[/5. Mechanics/Spells/Power Word Heal.md \|"PHB"]] at class level 17
 - [[/5. Mechanics/Spells/True Resurrection.md \|"PHB"]] at class level 17

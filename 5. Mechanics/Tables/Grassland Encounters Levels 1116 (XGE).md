@@ -11,7 +11,7 @@ aliases:
 
 **Grassland Encounters (Levels 11—16)**
 
-`dice: [[Grassland Encounters Levels 1116 (XGE).md#^grassland-encounters-levels-1116]]`
+`dice: [[/5. Mechanics/Tables/Grassland Encounters Levels 1116 (XGE).md#^grassland-encounters-levels-1116]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

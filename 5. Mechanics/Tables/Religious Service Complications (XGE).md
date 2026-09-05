@@ -11,7 +11,7 @@ aliases:
 
 **Religious Service Complications**
 
-`dice: [[Religious Service Complications (XGE).md#^religious-service-complications]]`
+`dice: [[/5. Mechanics/Tables/Religious Service Complications (XGE).md#^religious-service-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

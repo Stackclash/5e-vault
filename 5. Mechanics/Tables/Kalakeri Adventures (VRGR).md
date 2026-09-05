@@ -11,7 +11,7 @@ aliases:
 
 **Kalakeri Adventures**
 
-`dice: [[Kalakeri Adventures (VRGR).md#^kalakeri-adventures]]`
+`dice: [[/5. Mechanics/Tables/Kalakeri Adventures (VRGR).md#^kalakeri-adventures]]`
 
 | dice: d10 | Adventure |
 |-----------|-----------|

@@ -35,7 +35,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 
 **Gray Render Quirks**
 
-`dice: [[Gray Render (MPMM).md#^gray-render-quirks]]`
+`dice: [[/5. Mechanics/Bestiary/Monstrosity/Gray Render (MPMM).md#^gray-render-quirks]]`
 
 | dice: d12 | Quirk |
 |-----------|-------|

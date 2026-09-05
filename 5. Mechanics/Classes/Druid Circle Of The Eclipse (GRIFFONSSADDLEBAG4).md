@@ -8,7 +8,7 @@ aliases:
   - Circle of the Eclipse
 ---
 # Circle of the Eclipse
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: The Griffon's Saddlebag, Book 4*  
 
 > [!tldr] Class and Feature Progression
@@ -70,7 +70,7 @@ When you choose this circle at 2nd level, your relationship to both sun and moon
 
 Your appearance changes when in these forms. You can choose how you appear in either form or use the table below to determine your appearance.
 
-`dice: [[Druid Circle Of The Eclipse (GRIFFONSSADDLEBAG4).md#^light-form-apperance-dark-form-appearance]]`
+`dice: [[/5. Mechanics/Classes/Druid Circle Of The Eclipse (GRIFFONSSADDLEBAG4).md#^light-form-apperance-dark-form-appearance]]`
 
 | dice: d6 | Light Form Apperance | Dark Form Appearance |
 |----------|----------------------|----------------------|

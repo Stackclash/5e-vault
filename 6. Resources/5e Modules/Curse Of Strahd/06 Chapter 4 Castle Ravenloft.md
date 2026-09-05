@@ -98,7 +98,7 @@ A Blinsky toy is encountered only if the characters are moving about the castle 
 
 The toy has a slogan stitched or printed on it in tiny letters: "Is No Fun, Is No Blinsky!" Roll a `dice:d6|noform|noparens|avg` (`d6`) to determine the specific toy:
 
-`dice: [[06 Chapter 4 Castle Ravenloft.md#^toy]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/06 Chapter 4 Castle Ravenloft.md#^toy]]`
 
 | dice: d6 | Toy |
 |----------|-----|
@@ -174,7 +174,7 @@ A giant spider cocoon is encountered only if the characters are moving about the
 
 A giant spider made this cocoon. Characters who can reach it can cut it open to free whatever is inside. Roll a `dice:d6|noform|noparens|avg` (`d6`) to determine the cocoon's contents:
 
-`dice: [[06 Chapter 4 Castle Ravenloft.md#^cocoons-contents]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/06 Chapter 4 Castle Ravenloft.md#^cocoons-contents]]`
 
 | dice: d6 | Cocoon's Contents |
 |----------|-------------------|
@@ -197,7 +197,7 @@ If [[/4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] was killed or captured i
 
 [[/4. World Almanac/NPCs/Rahadin (COS).md\|Rahadin]] directs the characters to a random location in the castle, determined by rolling a `dice:d6|noform|noparens|avg` (`d6`):
 
-`dice: [[06 Chapter 4 Castle Ravenloft.md#^location]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/06 Chapter 4 Castle Ravenloft.md#^location]]`
 
 | dice: d6 | Location |
 |----------|----------|
@@ -264,7 +264,7 @@ To determine what the character finds, roll on the [[/5. Mechanics/Items/Trinket
 
 This unseen servant was created by Strahd and is permanent until destroyed (see the [[/5. Mechanics/Spells/Unseen Servant.md\|unseen servant]] spell in the "Player's Handbook"). Roll a `dice:d6|noform|noparens|avg` (`d6`) to determine what the servant is carrying, or choose one of the options below.
 
-`dice: [[06 Chapter 4 Castle Ravenloft.md#^items]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/06 Chapter 4 Castle Ravenloft.md#^items]]`
 
 | dice: d6 | Items |
 |----------|-------|
@@ -825,7 +825,7 @@ The figure is [[/4. World Almanac/NPCs/Lief Lipsiege (COS).md\|Lief Lipsiege]] (
 
 Pulling the rope requires an action. When the rope is pulled, a tremendously loud gong sounds. One or more creatures arrive `dice:1d6|noform|noparens|avg` (`1d6`) rounds later, attacking any characters still in the room. Determine the creatures randomly by rolling a `dice:d4|noform|noparens|avg` (`d4`):
 
-`dice: [[06 Chapter 4 Castle Ravenloft.md#^creature]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/06 Chapter 4 Castle Ravenloft.md#^creature]]`
 
 | dice: d4 | Creature |
 |----------|----------|
@@ -1017,7 +1017,7 @@ Roll a `dice:d12|noform|noparens|avg` (`d12`) and consult the following table to
 
 ![[/6. Resources/5e Modules/Curse Of Strahd/img/031-cos04-09.webp#center\|Tatyana]]
 
-`dice: [[06 Chapter 4 Castle Ravenloft.md#^book]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/06 Chapter 4 Castle Ravenloft.md#^book]]`
 
 | dice: d12 | Book |
 |-----------|------|
@@ -2303,7 +2303,7 @@ Khazan was a powerful archmage who unlocked the secrets of lichdom, then later t
 
 ##### Treasure
 
-The skull's [[/5. Mechanics/Items/Black Op(AL).md\|black opal eye-gems]] are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
+The skull's [[/5. Mechanics/Items/Black Opal.md\|black opal eye-gems]] are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
 
 Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a [[/5. Mechanics/Items/Staff Of Power.md\|staff of power]] materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the [[/5. Mechanics/Items/Staff Of Power.md\|staff of power]] can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
 
@@ -2514,7 +2514,7 @@ The floor of the crypt is actually the cover of a 30-foot-deep spiked pit. The c
 
 ##### Treasure
 
-A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A shattered lantern and a rusty [[/5. Mechanics/Items/Crowbar.md\|crowbar]] lie nearby. Tied to the corpse's leather belt is a [[/5. Mechanics/Items/Hempen Rope 50 F(EET).md\|50-foot coil of hempen rope]], a [[/5. Mechanics/Items/Dagger.md\|dagger]] in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a [[/5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]].
+A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A shattered lantern and a rusty [[/5. Mechanics/Items/Crowbar.md\|crowbar]] lie nearby. Tied to the corpse's leather belt is a [[/5. Mechanics/Items/Hempen Rope 50 Feet.md\|50-foot coil of hempen rope]], a [[/5. Mechanics/Items/Dagger.md\|dagger]] in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a [[/5. Mechanics/Items/Spell Scroll.md\|spell scroll]] of [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]].
 
 #### Fortunes of Ravenloft
 

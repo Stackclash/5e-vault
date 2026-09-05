@@ -11,7 +11,7 @@ aliases:
 
 **Boons**
 
-`dice: [[Secondary Tables Boons (XGE).md#^boons]]`
+`dice: [[/5. Mechanics/Tables/Secondary Tables Boons (XGE).md#^boons]]`
 
 | dice: d10 | Boon |
 |-----------|------|

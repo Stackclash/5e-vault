@@ -11,7 +11,7 @@ aliases:
 
 **Darklord Interactions**
 
-`dice: [[Adventures Darklord Interactions (VRGR).md#^darklord-interactions]]`
+`dice: [[/5. Mechanics/Tables/Adventures Darklord Interactions (VRGR).md#^darklord-interactions]]`
 
 | dice: d8 | Encounter |
 |----------|-----------|

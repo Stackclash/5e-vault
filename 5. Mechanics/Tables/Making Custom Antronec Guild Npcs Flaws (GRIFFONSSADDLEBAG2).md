@@ -9,7 +9,7 @@ aliases:
 # Making Custom Antronec Guild NPCs; Flaws
 *Source: The Griffon's Saddlebag, Book 2 p. 247* 
 
-`dice: [[Making Custom Antronec Guild Npcs Flaws (GRIFFONSSADDLEBAG2).md#^flaw]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Antronec Guild Npcs Flaws (GRIFFONSSADDLEBAG2).md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

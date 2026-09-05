@@ -11,7 +11,7 @@ aliases:
 
 **Shadowfell Despair**
 
-`dice: [[Shadowfell Despair.md#^shadowfell-despair]]`
+`dice: [[/5. Mechanics/Tables/Shadowfell Despair.md#^shadowfell-despair]]`
 
 | dice: d6 | Effect |
 |----------|--------|

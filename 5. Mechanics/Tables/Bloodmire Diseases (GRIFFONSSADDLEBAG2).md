@@ -9,7 +9,7 @@ aliases:
 # Bloodmire Diseases
 *Source: The Griffon's Saddlebag, Book 2 p. 249* 
 
-`dice: [[Bloodmire Diseases (GRIFFONSSADDLEBAG2).md#^2-disease]]`
+`dice: [[/5. Mechanics/Tables/Bloodmire Diseases (GRIFFONSSADDLEBAG2).md#^2-disease]]`
 
 | dice: 2d8 | Disease |
 |-----------|---------|

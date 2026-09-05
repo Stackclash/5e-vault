@@ -11,7 +11,7 @@ aliases:
 
 **Tragedies**
 
-`dice: [[Secondary Tables Tragedies (XGE).md#^tragedies]]`
+`dice: [[/5. Mechanics/Tables/Secondary Tables Tragedies (XGE).md#^tragedies]]`
 
 | dice: d12 | Tragedy |
 |-----------|---------|

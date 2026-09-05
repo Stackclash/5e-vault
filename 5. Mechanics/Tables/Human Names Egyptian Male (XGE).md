@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Egyptian, Male**
 
-`dice: [[Human Names Egyptian Male (XGE).md#^human-names-egyptian-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Egyptian Male (XGE).md#^human-names-egyptian-male]]`
 
 | dice: d100 | Name |
 |------------|------|

@@ -11,7 +11,7 @@ aliases:
 
 **Guild Types**
 
-`dice: [[Guild Types (TCE).md#^guild-types]]`
+`dice: [[/5. Mechanics/Tables/Guild Types (TCE).md#^guild-types]]`
 
 | dice: d6 | Guild |
 |----------|-------|

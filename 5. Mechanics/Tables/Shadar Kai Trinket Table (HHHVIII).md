@@ -9,7 +9,7 @@ aliases:
 # Shadar-Kai Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume III p. 60* 
 
-`dice: [[Shadar Kai Trinket Table (HHHVIII).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Shadar Kai Trinket Table (HHHVIII).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

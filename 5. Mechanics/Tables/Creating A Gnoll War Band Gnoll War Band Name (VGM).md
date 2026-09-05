@@ -11,7 +11,7 @@ aliases:
 
 **Gnoll War Band Name**
 
-`dice: [[Creating A Gnoll War Band Gnoll War Band Name (VGM).md#^gnoll-war-band-name]]`
+`dice: [[/5. Mechanics/Tables/Creating A Gnoll War Band Gnoll War Band Name (VGM).md#^gnoll-war-band-name]]`
 
 | dice: d6 | Name Part 1 | Name Part 2 |
 |----------|-------------|-------------|

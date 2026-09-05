@@ -24,7 +24,7 @@ aliases:
 | [[/5. Mechanics/Items/Iron Pot.md\|Pot, iron]] | 1 gallon liquid |
 | [[/5. Mechanics/Items/Pouch.md\|Pouch]] | 1/5 cubic foot/6 pounds of gear |
 | [[/5. Mechanics/Items/Sack.md\|Sack]] | 1 cubic foot/30 pounds of gear |
-| [[/5. Mechanics/Items/Vi(AL).md\|Vial]] | 4 ounces liquid |
+| [[/5. Mechanics/Items/Vial.md\|Vial]] | 4 ounces liquid |
 | [[/5. Mechanics/Items/Waterskin.md\|Waterskin]] | 4 pints liquid |
 ^container-capacity
 

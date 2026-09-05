@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – French, Male**
 
-`dice: [[Human Names French Male (XGE).md#^human-names-french-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names French Male (XGE).md#^human-names-french-male]]`
 
 | dice: d100 | Name |
 |------------|------|

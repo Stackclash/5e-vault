@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Personality Traits**
 
-`dice: [[Roleplaying A Beholder Beholder Personality Traits (VGM).md#^beholder-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Beholder Beholder Personality Traits (VGM).md#^beholder-personality-traits]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|

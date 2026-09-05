@@ -38,7 +38,7 @@ While you're attuned to the eye, the die at its center can be used to change ele
 
 The eye releases a burst of chaotic magic each time you use it to reroll a `dice:d20|noform|noparens|avg` (`d20`). When it does, roll a `dice:d10|noform|noparens|avg` (`d10`) and consult the table below to determine what additional effects occur. If an effect specifies a duration of a number of rounds, the effect ends at the start of your turn on the round that it would end.
 
-`dice: [[Game Changers Eye (GRIFFONSSADDLEBAG3).md#^effect]]`
+`dice: [[/5. Mechanics/Items/Game Changers Eye (GRIFFONSSADDLEBAG3).md#^effect]]`
 
 | dice: d10 | Effect |
 |-----------|--------|

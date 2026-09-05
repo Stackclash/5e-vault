@@ -11,7 +11,7 @@ aliases:
 
 **Stage Two Encounters**
 
-`dice: [[Stage Two Outbreak Stage Two Encounters (VRGR).md#^stage-two-encounters]]`
+`dice: [[/5. Mechanics/Tables/Stage Two Outbreak Stage Two Encounters (VRGR).md#^stage-two-encounters]]`
 
 | dice: d6 | Encounter |
 |----------|-----------|

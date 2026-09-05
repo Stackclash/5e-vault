@@ -74,7 +74,7 @@ A bargain with a hag or other eerie forces transformed your character into a mag
 
 **Hexblood Origins**
 
-`dice: [[Hexblood (VRGR).md#^hexblood-origins]]`
+`dice: [[/5. Mechanics/Races/Hexblood (VRGR).md#^hexblood-origins]]`
 
 | dice: d6 | Origin |
 |----------|--------|

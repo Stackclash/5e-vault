@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Eyestalk Shape**
 
-`dice: [[Physical Characteristics Beholder Eyestalk Shape (VGM).md#^beholder-eyestalk-shape]]`
+`dice: [[/5. Mechanics/Tables/Physical Characteristics Beholder Eyestalk Shape (VGM).md#^beholder-eyestalk-shape]]`
 
 | dice: d4 | Eyestalk Shape |
 |----------|----------------|

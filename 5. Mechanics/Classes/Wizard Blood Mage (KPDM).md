@@ -8,7 +8,7 @@ aliases:
   - Blood Mage
 ---
 # Blood Mage
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 322*  
 
 > [!tldr] Class and Feature Progression

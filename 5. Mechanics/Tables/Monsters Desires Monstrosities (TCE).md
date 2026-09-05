@@ -11,7 +11,7 @@ aliases:
 
 **Monstrosities**
 
-`dice: [[Monsters Desires Monstrosities (TCE).md#^monstrosities]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Monstrosities (TCE).md#^monstrosities]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Arctic Encounters (Levels 1—4)**
 
-`dice: [[Arctic Encounters Levels 14 (XGE).md#^arctic-encounters-levels-14]]`
+`dice: [[/5. Mechanics/Tables/Arctic Encounters Levels 14 (XGE).md#^arctic-encounters-levels-14]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

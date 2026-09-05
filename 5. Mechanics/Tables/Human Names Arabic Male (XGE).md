@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Arabic, Male**
 
-`dice: [[Human Names Arabic Male (XGE).md#^human-names-arabic-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Arabic Male (XGE).md#^human-names-arabic-male]]`
 
 | dice: d100 | Name |
 |------------|------|

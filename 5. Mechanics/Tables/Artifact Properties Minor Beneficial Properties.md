@@ -11,7 +11,7 @@ aliases:
 
 **Minor Beneficial Properties**
 
-`dice: [[Artifact Properties Minor Beneficial Properties.md#^minor-beneficial-properties]]`
+`dice: [[/5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md#^minor-beneficial-properties]]`
 
 | dice: d100 | Property |
 |------------|----------|

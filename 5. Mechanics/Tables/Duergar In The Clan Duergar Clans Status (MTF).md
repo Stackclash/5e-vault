@@ -11,7 +11,7 @@ aliases:
 
 **Duergar Clan's Status**
 
-`dice: [[Duergar In The Clan Duergar Clans Status (MTF).md#^duergar-clans-status]]`
+`dice: [[/5. Mechanics/Tables/Duergar In The Clan Duergar Clans Status (MTF).md#^duergar-clans-status]]`
 
 | dice: d6 | Status |
 |----------|--------|

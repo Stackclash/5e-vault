@@ -8,7 +8,7 @@ aliases:
   - Griffon Scout
 ---
 # Griffon Scout
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Deep Magic p. 143*  
 
 > [!tldr] Class and Feature Progression

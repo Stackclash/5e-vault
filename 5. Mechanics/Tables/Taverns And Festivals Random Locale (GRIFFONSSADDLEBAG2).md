@@ -9,7 +9,7 @@ aliases:
 # Taverns and Festivals; Random Locale
 *Source: The Griffon's Saddlebag, Book 2 p. 267* 
 
-`dice: [[Taverns And Festivals Random Locale (GRIFFONSSADDLEBAG2).md#^locale]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Random Locale (GRIFFONSSADDLEBAG2).md#^locale]]`
 
 | dice: d20 | Locale |
 |-----------|--------|

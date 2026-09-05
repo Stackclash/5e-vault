@@ -50,7 +50,7 @@ This shield is cursed, and attuning to it extends the curse to you. You remain c
 
 As long as you remain cursed, the spirits within the shield can reach you through your dreams. Whenever you finish a long rest, roll a `dice:d100|noform|noparens|avg` (`d100`) and refer to the table below.
 
-`dice: [[Shield Of The Unmarked Grave (GRIFFONSSADDLEBAG4).md#^effect]]`
+`dice: [[/5. Mechanics/Items/Shield Of The Unmarked Grave (GRIFFONSSADDLEBAG4).md#^effect]]`
 
 | dice: d100 | Effect |
 |------------|--------|

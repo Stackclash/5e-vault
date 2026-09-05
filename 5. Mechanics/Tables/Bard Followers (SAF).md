@@ -11,7 +11,7 @@ aliases:
 
 **Bard Followers**
 
-`dice: [[Bard Followers (SAF).md#^bard-followers]]`
+`dice: [[/5. Mechanics/Tables/Bard Followers (SAF).md#^bard-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

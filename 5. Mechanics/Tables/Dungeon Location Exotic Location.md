@@ -11,7 +11,7 @@ aliases:
 
 **Exotic Location**
 
-`dice: [[Dungeon Location Exotic Location.md#^exotic-location]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Location Exotic Location.md#^exotic-location]]`
 
 | dice: d20 | Location |
 |-----------|----------|

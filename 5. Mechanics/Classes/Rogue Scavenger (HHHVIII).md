@@ -8,7 +8,7 @@ aliases:
   - Scavenger
 ---
 # Scavenger
-*[[.nullRogue.md\|Rogue]]: Roguish Archetype*  
+*[[/5. Mechanics/Classes/Rogue.md\|Rogue]]: Roguish Archetype*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 116*  
 
 > [!tldr] Class and Feature Progression

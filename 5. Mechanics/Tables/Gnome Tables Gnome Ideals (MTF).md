@@ -11,7 +11,7 @@ aliases:
 
 **Gnome Ideals**
 
-`dice: [[Gnome Tables Gnome Ideals (MTF).md#^gnome-ideals]]`
+`dice: [[/5. Mechanics/Tables/Gnome Tables Gnome Ideals (MTF).md#^gnome-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

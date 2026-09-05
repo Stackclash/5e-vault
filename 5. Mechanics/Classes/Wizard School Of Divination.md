@@ -8,7 +8,7 @@ aliases:
   - School of Divination
 ---
 # School of Divination
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Player's Handbook p. 116*  
 
 > [!tldr] Class and Feature Progression

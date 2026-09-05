@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Bonds**
 
-`dice: [[Roleplaying A Beholder Beholder Bonds (VGM).md#^beholder-bonds]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Beholder Beholder Bonds (VGM).md#^beholder-bonds]]`
 
 | dice: d6 | Bond |
 |----------|------|

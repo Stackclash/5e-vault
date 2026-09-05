@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Agents**
 
-`dice: [[Random Yuan Ti Servants Yuan Ti Agents (VGM).md#^yuan-ti-agents]]`
+`dice: [[/5. Mechanics/Tables/Random Yuan Ti Servants Yuan Ti Agents (VGM).md#^yuan-ti-agents]]`
 
 | dice: d100 | Agents |
 |------------|--------|

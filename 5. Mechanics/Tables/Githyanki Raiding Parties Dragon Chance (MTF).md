@@ -11,7 +11,7 @@ aliases:
 
 **Dragon Chance**
 
-`dice: [[Githyanki Raiding Parties Dragon Chance (MTF).md#^dragon-chance]]`
+`dice: [[/5. Mechanics/Tables/Githyanki Raiding Parties Dragon Chance (MTF).md#^dragon-chance]]`
 
 | dice: d6 | result |
 |----------|--------|

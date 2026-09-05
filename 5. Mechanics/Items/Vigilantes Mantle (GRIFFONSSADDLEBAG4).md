@@ -26,7 +26,7 @@ This midnight purple cloak has a hood which covers the top of your face; you can
 
 While the hood is pulled up, you can use a bonus action on each of your turns to roll a `dice:d4|noform|noparens|avg` (`d4`) and gain one of the following random benefits.
 
-`dice: [[Vigilantes Mantle (GRIFFONSSADDLEBAG4).md#^name-benefit]]`
+`dice: [[/5. Mechanics/Items/Vigilantes Mantle (GRIFFONSSADDLEBAG4).md#^name-benefit]]`
 
 | dice: d4 | Name | Benefit |
 |----------|------|---------|

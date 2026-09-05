@@ -8,7 +8,7 @@ aliases:
   - College of Wyrdsingers
 ---
 # College of Wyrdsingers
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: Deep Magic p. 123*  
 
 > [!tldr] Class and Feature Progression

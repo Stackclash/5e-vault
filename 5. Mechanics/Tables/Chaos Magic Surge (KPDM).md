@@ -9,7 +9,7 @@ aliases:
 # Chaos Magic Surge
 *Source: Deep Magic p. 193* 
 
-`dice: [[Chaos Magic Surge (KPDM).md#^effect]]`
+`dice: [[/5. Mechanics/Tables/Chaos Magic Surge (KPDM).md#^effect]]`
 
 | dice: d100 | Effect |
 |------------|--------|

@@ -11,7 +11,7 @@ aliases:
 
 **Exit Location**
 
-`dice: [[Chambers Exit Location.md#^exit-location]]`
+`dice: [[/5. Mechanics/Tables/Chambers Exit Location.md#^exit-location]]`
 
 | dice: d20 | Location |
 |-----------|----------|

@@ -11,7 +11,7 @@ aliases:
 
 **Sentient Magic Item Communication**
 
-`dice: [[Sentient Magic Item Communication.md#^sentient-magic-item-communication]]`
+`dice: [[/5. Mechanics/Tables/Sentient Magic Item Communication.md#^sentient-magic-item-communication]]`
 
 | dice: d100 | Communication |
 |------------|---------------|

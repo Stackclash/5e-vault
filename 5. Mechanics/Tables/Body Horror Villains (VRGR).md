@@ -11,7 +11,7 @@ aliases:
 
 **Body Horror Villains**
 
-`dice: [[Body Horror Villains (VRGR).md#^body-horror-villains]]`
+`dice: [[/5. Mechanics/Tables/Body Horror Villains (VRGR).md#^body-horror-villains]]`
 
 | dice: d10 | Villain |
 |-----------|---------|

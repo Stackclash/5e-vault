@@ -11,7 +11,7 @@ aliases:
 
 **Coastal Encounters (Levels 11—16)**
 
-`dice: [[Coastal Encounters Levels 1116 (XGE).md#^coastal-encounters-levels-1116]]`
+`dice: [[/5. Mechanics/Tables/Coastal Encounters Levels 1116 (XGE).md#^coastal-encounters-levels-1116]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -25,7 +25,7 @@ aliases:
 | 36-40 | A trident partially buried in the sand |
 | 41-50 | 1 [[/5. Mechanics/Bestiary/Dragon/Young Bronze Dragon.md\|young bronze dragon]] |
 | 51-55 | 1 [[/5. Mechanics/Bestiary/Elemental/Marid.md\|marid]] |
-| 56-60 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elementals]] |
+| 56-60 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elementals]] |
 | 61-65 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] crawling over `dice:1d6\|noform\|noparens\|avg` (`1d6`) wrecked ships and feeding on the dead |
 | 66-70 | 1 [[/5. Mechanics/Bestiary/Elemental/Djinni.md\|djinni]] |
 | 71-75 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Dragon/Young Bronze Dragon.md\|young bronze dragons]] |

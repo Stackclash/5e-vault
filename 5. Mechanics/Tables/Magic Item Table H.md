@@ -11,7 +11,7 @@ aliases:
 
 **Magic Item Table H**
 
-`dice: [[Magic Item Table H.md#^magic-item-table-h]]`
+`dice: [[/5. Mechanics/Tables/Magic Item Table H.md#^magic-item-table-h]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|

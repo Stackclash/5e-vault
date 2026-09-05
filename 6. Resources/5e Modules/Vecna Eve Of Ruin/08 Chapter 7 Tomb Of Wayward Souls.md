@@ -327,7 +327,7 @@ Close inspection of the statue uncovers a divot in the statue's base big enough 
 
 ##### Gemstone Puzzle
 
-All the jewels embedded in the walls are made of worthless crystal except for one: an emerald worth 1,000 gp. A character who spends at least 1 minute examining the jewels spots the emerald with a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. Prying the emerald from its wall socket is easily done. Placing the emerald in the statue opens the door sealing off the passage to area T16. The door resists all other attempts to open it. Once opened, however, it ceases to be locked and can thereafter be opened and closed without the emerald.
+All the jewels embedded in the walls are made of worthless crystal except for one: an [[/5. Mechanics/Items/Emerald.md\|emerald]] worth 1,000 gp. A character who spends at least 1 minute examining the jewels spots the emerald with a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. Prying the emerald from its wall socket is easily done. Placing the emerald in the statue opens the door sealing off the passage to area T16. The door resists all other attempts to open it. Once opened, however, it ceases to be locked and can thereafter be opened and closed without the emerald.
 
 A character who succeeds on a DC 16 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check recalls that emeralds are used to contain water elementals.
 
@@ -513,7 +513,7 @@ The triangular stone has AC 20; 100 hit points; immunity to poison and psychic d
 
 ##### Treasure
 
-Once the stone has been destroyed or both juggernauts have been defeated, characters can take the diamond, which is worth 5,000 gp. The diamond stops glowing when it leaves the room.
+Once the stone has been destroyed or both juggernauts have been defeated, characters can take the [[/5. Mechanics/Items/Diamond.md\|diamond]], which is worth 5,000 gp. The diamond stops glowing when it leaves the room.
 
 #### T16: Acid Pit Crossing
 
@@ -779,7 +779,7 @@ The mundane treasure within the vault includes the following:
 - 479 sp, 342 gp, and 179 pp  
 - Jade game board with platinum playing pieces, worth 7,500 gp in total  
 - Set of ruby earrings worth 500 gp  
-- Three fire opals worth 1,000 gp each  
+- Three [[/5. Mechanics/Items/Fire Opal.md\|fire opals]] worth 1,000 gp each  
 
 ##### Exit
 

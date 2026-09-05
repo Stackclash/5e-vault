@@ -11,7 +11,7 @@ aliases:
 
 **Paladin Followers**
 
-`dice: [[Paladin Followers (SAF).md#^paladin-followers]]`
+`dice: [[/5. Mechanics/Tables/Paladin Followers (SAF).md#^paladin-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

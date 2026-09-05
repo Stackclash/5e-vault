@@ -11,7 +11,7 @@ aliases:
 
 **War**
 
-`dice: [[Secondary Tables War (XGE).md#^war]]`
+`dice: [[/5. Mechanics/Tables/Secondary Tables War (XGE).md#^war]]`
 
 | dice: d12 | War Outcome |
 |-----------|-------------|

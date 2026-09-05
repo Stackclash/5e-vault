@@ -11,11 +11,11 @@ aliases:
 
 **Hill Encounters (Levels 5—10)**
 
-`dice: [[Hill Encounters Levels 510 (XGE).md#^hill-encounters-levels-510]]`
+`dice: [[/5. Mechanics/Tables/Hill Encounters Levels 510 (XGE).md#^hill-encounters-levels-510]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Celestial/Pegas(US).md\|pegasi]] or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Peryton.md\|perytons]] |
+| 01 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Celestial/Pegasus.md\|pegasi]] or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Peryton.md\|perytons]] |
 | 02 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Beast/Giant Goat.md\|giant goats]] |
 | 03 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticore]] |
 | 04 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] or `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
@@ -26,7 +26,7 @@ aliases:
 | 09 | 1 [[/5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md\|half-ogre]] with `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
 | 10 | `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Humanoid/Winged Kobold.md\|winged kobolds]] |
 | 11-12 | 1 [[/5. Mechanics/Bestiary/Humanoid/Goblin Boss.md\|goblin boss]] with `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolves]] and `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] |
-| 13 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] |
+| 13 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|giant elk]] |
 | 14-15 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md\|giant eagles]] |
 | 16-17 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Phase Spider.md\|phase spiders]] |
 | 18-19 | 1 [[/5. Mechanics/Bestiary/Humanoid/Gnoll Pack Lord.md\|gnoll pack lord]] with `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|giant hyenas]] |

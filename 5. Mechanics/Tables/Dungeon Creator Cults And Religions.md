@@ -11,7 +11,7 @@ aliases:
 
 **Cults and Religions**
 
-`dice: [[Dungeon Creator Cults And Religions.md#^cults-and-religions]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Creator Cults And Religions.md#^cults-and-religions]]`
 
 | dice: d20 | Cult or Religious Group |
 |-----------|-------------------------|

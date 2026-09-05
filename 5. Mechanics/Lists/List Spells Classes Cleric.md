@@ -241,7 +241,7 @@ aliases:
 - [[/5. Mechanics/Spells/Tongues.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Touch Of The Unliving (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Vital Mark (KPDM).md \|"KPDM"]]
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Water Walk.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Wave Of Corruption (KPDM).md \|"KPDM"]]
 
 ## 4th Level
@@ -354,7 +354,7 @@ aliases:
 - [[/5. Mechanics/Spells/Firewalk (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Forbiddance.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Harm.md \|"PHB"]]
-- [[/5. Mechanics/Spells/He(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Heal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Heavenly Crown (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Heroes Feast.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Investiture Of Blight (KPDM).md \|"KPDM"]]
@@ -372,7 +372,7 @@ aliases:
 ## 7th Level
 
 - [[/5. Mechanics/Spells/Alter Time Flow (KPDM).md \|"KPDM"]]
-- [[/5. Mechanics/Spells/Conjure Celesti(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Conjure Celestial.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Conjure Greater Spectral Dead (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Curse Of Dust (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Curse Of The Grave (KPDM).md \|"KPDM"]]
@@ -417,7 +417,7 @@ aliases:
 - [[/5. Mechanics/Spells/Gate.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Greater Seal Of Sanctuary (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Mammons Due (KPDM).md \|"KPDM"]]
-- [[/5. Mechanics/Spells/Mass He(AL).md \|"PHB"]]
-- [[/5. Mechanics/Spells/Power Word He(AL).md \|"PHB"]] (\*)
+- [[/5. Mechanics/Spells/Mass Heal.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Power Word Heal.md \|"PHB"]] (\*)
 - [[/5. Mechanics/Spells/Time In A Bottle (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/True Resurrection.md \|"PHB"]]

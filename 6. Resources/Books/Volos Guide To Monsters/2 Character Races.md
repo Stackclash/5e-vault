@@ -37,6 +37,51 @@ If you're the DM, including any of these races in your campaign is a storytellin
 - [[/5. Mechanics/Races/Triton (MPMM).md\|Triton]]  
 - [[/5. Mechanics/Races/Yuan Ti (MPMM).md\|Yuan-ti Pureblood]]  
 
+> [!embed-race]- Aasimar (Fallen)
+> ![[/5. Mechanics/Races/Aasimar (MPMM).md\|Aasimar (Fallen)]]
+
+> [!embed-race]- Aasimar (Protector)
+> ![[/5. Mechanics/Races/Aasimar (MPMM).md\|Aasimar (Protector)]]
+
+> [!embed-race]- Aasimar (Scourge)
+> ![[/5. Mechanics/Races/Aasimar (MPMM).md\|Aasimar (Scourge)]]
+
+> [!embed-race]- Bugbear
+> ![[/5. Mechanics/Races/Bugbear (MPMM).md\|Bugbear]]
+
+> [!embed-race]- Firbolg
+> ![[/5. Mechanics/Races/Firbolg (MPMM).md\|Firbolg]]
+
+> [!embed-race]- Goblin
+> ![[/5. Mechanics/Races/Goblin (MPMM).md\|Goblin]]
+
+> [!embed-race]- Goliath
+> ![[/5. Mechanics/Races/Goliath (MPMM).md\|Goliath]]
+
+> [!embed-race]- Hobgoblin
+> ![[/5. Mechanics/Races/Hobgoblin (MPMM).md\|Hobgoblin]]
+
+> [!embed-race]- Kenku
+> ![[/5. Mechanics/Races/Kenku (MPMM).md\|Kenku]]
+
+> [!embed-race]- Kobold
+> ![[/5. Mechanics/Races/Kobold (MPMM).md\|Kobold]]
+
+> [!embed-race]- Lizardfolk
+> ![[/5. Mechanics/Races/Lizardfolk (MPMM).md\|Lizardfolk]]
+
+> [!embed-race]- Orc
+> ![[/5. Mechanics/Races/Orc (MPMM).md\|Orc]]
+
+> [!embed-race]- Tabaxi
+> ![[/5. Mechanics/Races/Tabaxi (MPMM).md\|Tabaxi]]
+
+> [!embed-race]- Triton
+> ![[/5. Mechanics/Races/Triton (MPMM).md\|Triton]]
+
+> [!embed-race]- Yuan-ti Pureblood
+> ![[/5. Mechanics/Races/Yuan Ti (MPMM).md\|Yuan-ti Pureblood]]
+
 ## Height and Weight
 
 You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight.

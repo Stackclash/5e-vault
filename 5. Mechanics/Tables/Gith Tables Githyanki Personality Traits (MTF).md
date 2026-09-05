@@ -11,7 +11,7 @@ aliases:
 
 **Githyanki Personality Traits**
 
-`dice: [[Gith Tables Githyanki Personality Traits (MTF).md#^githyanki-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githyanki Personality Traits (MTF).md#^githyanki-personality-traits]]`
 
 | dice: d4 | Trait |
 |----------|-------|

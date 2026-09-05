@@ -11,7 +11,7 @@ aliases:
 
 **Mind Flayer Bonds**
 
-`dice: [[Roleplaying A Mind Flayer Mind Flayer Bonds (VGM).md#^mind-flayer-bonds]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Bonds (VGM).md#^mind-flayer-bonds]]`
 
 | dice: d6 | Bond |
 |----------|------|

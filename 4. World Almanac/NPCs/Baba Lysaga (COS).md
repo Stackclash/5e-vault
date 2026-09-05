@@ -28,16 +28,15 @@ groups: []
 religions: []
 description: >-
   A hunched, ancient crone with skin like stone and eyes that have watched
-  Strahd's entire existence — she is powerful, unkillable by ordinary means,
-  and utterly consumed by devotion to a son who has never once called her
-  mother.
+  Strahd's entire existence — she is powerful, unkillable by ordinary means, and
+  utterly consumed by devotion to a son who has never once called her mother.
 history: >-
   Baba Lysaga was midwife to Strahd's birth and secretly believes herself his
-  true mother, having placed the "spark of magic" in him as a baby and sung
-  over his crib on stormy nights. Queen Ravenovia banished her for it, and
-  Lysaga never saw Strahd again — yet she followed him to Barovia and has
-  lived in its shadow ever since, sacrificing to Mother Night for the power
-  to protect him from every threat, real or imagined.
+  true mother, having placed the "spark of magic" in him as a baby and sung over
+  his crib on stormy nights. Queen Ravenovia banished her for it, and Lysaga
+  never saw Strahd again — yet she followed him to Barovia and has lived in its
+  shadow ever since, sacrificing to Mother Night for the power to protect him
+  from every threat, real or imagined.
 personality: 'Mad, obsessed, powerful'
 ideal: No love is greater than a mother's love for her son.
 bond: I am the mother of Strahd. Anyone who disputes this fact can rot.
@@ -113,19 +112,9 @@ Strahd doesn't consider the wereravens a serious threat, but Lysaga has chosen t
 
 The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards for her ceaseless devotion to Strahd. Her skin has the resilience of stone, she is resistant to harmful magic, and she is shielded against divination magic. Mother Night has also imparted to Lysaga the secret of longevity, which requires her to bathe in the blood of beasts on nights of the new moon. Failure to do so causes Lysaga to age rapidly, becoming mere dust and bones in a matter of seconds.
 
-## Baba Lysaga's Traits
-
-### Ideal
-
-"No love is greater than a mother's love for her son."
-
-### Bond
-
-"I am the mother of Strahd. Anyone who disputes this fact can rot."
-
-### Flaw
-
-"I will not rest until the last of my son's enemies are destroyed."
+- **Ideal.** "No love is greater than a mother's love for her son."  
+- **Bond.** "I am the mother of Strahd. Anyone who disputes this fact can rot."  
+- **Flaw.** "I will not rest until the last of my son's enemies are destroyed."  
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

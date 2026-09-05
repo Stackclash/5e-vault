@@ -8,7 +8,7 @@ aliases:
   - Storm Sorcery
 ---
 # Storm Sorcery
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Xanathar's Guide to Everything p. 51*  
 
 > [!tldr] Class and Feature Progression

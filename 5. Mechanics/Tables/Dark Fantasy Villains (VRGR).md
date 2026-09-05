@@ -11,7 +11,7 @@ aliases:
 
 **Dark Fantasy Villains**
 
-`dice: [[Dark Fantasy Villains (VRGR).md#^dark-fantasy-villains]]`
+`dice: [[/5. Mechanics/Tables/Dark Fantasy Villains (VRGR).md#^dark-fantasy-villains]]`
 
 | dice: d10 | Villain |
 |-----------|---------|

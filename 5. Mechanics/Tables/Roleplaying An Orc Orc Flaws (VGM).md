@@ -11,7 +11,7 @@ aliases:
 
 **Orc Flaws**
 
-`dice: [[Roleplaying An Orc Orc Flaws (VGM).md#^orc-flaws]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying An Orc Orc Flaws (VGM).md#^orc-flaws]]`
 
 | dice: d6 | Flaw |
 |----------|------|

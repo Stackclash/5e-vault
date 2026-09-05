@@ -75,7 +75,7 @@ An affected target can't take reactions and must roll a `dice:d10|noform|noparen
 
 **Confusion Behavior**
 
-`dice: [[Confusion.md#^confusion-behavior]]`
+`dice: [[/5. Mechanics/Spells/Confusion.md#^confusion-behavior]]`
 
 | dice: d10 | Behavior |
 |-----------|----------|

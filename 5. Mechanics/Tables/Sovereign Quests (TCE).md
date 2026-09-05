@@ -11,7 +11,7 @@ aliases:
 
 **Sovereign Quests**
 
-`dice: [[Sovereign Quests (TCE).md#^sovereign-quests]]`
+`dice: [[/5. Mechanics/Tables/Sovereign Quests (TCE).md#^sovereign-quests]]`
 
 | dice: d6 | Quest |
 |----------|-------|

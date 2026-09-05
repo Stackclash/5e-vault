@@ -11,7 +11,7 @@ aliases:
 
 **Half-Orc Parents**
 
-`dice: [[Half Orc Parents (XGE).md#^half-orc-parents]]`
+`dice: [[/5. Mechanics/Tables/Half Orc Parents (XGE).md#^half-orc-parents]]`
 
 | dice: d8 | Parents |
 |----------|---------|

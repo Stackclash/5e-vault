@@ -11,7 +11,7 @@ aliases:
 
 **Dementlieu Adventures**
 
-`dice: [[Dementlieu Adventures (VRGR).md#^dementlieu-adventures]]`
+`dice: [[/5. Mechanics/Tables/Dementlieu Adventures (VRGR).md#^dementlieu-adventures]]`
 
 | dice: d6 | Adventure |
 |----------|-----------|

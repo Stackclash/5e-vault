@@ -11,7 +11,7 @@ aliases:
 
 **Forest Rend Encounters**
 
-`dice: [[Forest Rend Encounters (SAF).md#^forest-rend-encounters]]`
+`dice: [[/5. Mechanics/Tables/Forest Rend Encounters (SAF).md#^forest-rend-encounters]]`
 
 | dice: d12 | Encounter |
 |-----------|-----------|

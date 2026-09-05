@@ -8,7 +8,7 @@ aliases:
   - The Undead
 ---
 # The Undead
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: Van Richten's Guide to Ravenloft p. 30*  
 
 > [!tldr] Class and Feature Progression

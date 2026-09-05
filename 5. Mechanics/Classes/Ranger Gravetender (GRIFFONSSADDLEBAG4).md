@@ -8,7 +8,7 @@ aliases:
   - Gravetender
 ---
 # Gravetender
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: The Griffon's Saddlebag, Book 4*  
 
 > [!tldr] Class and Feature Progression

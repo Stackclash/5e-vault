@@ -91,8 +91,8 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
       \ magic]], [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
       \ [[/5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n**3/day\
       \ each:** [[/5. Mechanics/Spells/Tongues.md|tongues]], [[/5. Mechanics/Spells/Water Breathing.md|water breathing]],\
-      \ [[/5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure\
-      \ elemental]] ([[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md|water elemental]]\
+      \ [[/5. Mechanics/Spells/Water Walk.md|water walk]]\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Elemental.md|conjure\
+      \ elemental]] ([[/5. Mechanics/Bestiary/Elemental/Water Elemental.md|water elemental]]\
       \ only), [[/5. Mechanics/Spells/Control Water.md|control water]], [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
       \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]]"
     "name": "Innate Spellcasting"

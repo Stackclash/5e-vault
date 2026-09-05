@@ -11,7 +11,7 @@ aliases:
 
 **Noises**
 
-`dice: [[Dungeon Dressing Noises.md#^noises]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing Noises.md#^noises]]`
 
 | dice: d100 | Effect |
 |------------|--------|

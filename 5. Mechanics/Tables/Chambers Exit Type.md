@@ -11,7 +11,7 @@ aliases:
 
 **Exit Type**
 
-`dice: [[Chambers Exit Type.md#^exit-type]]`
+`dice: [[/5. Mechanics/Tables/Chambers Exit Type.md#^exit-type]]`
 
 | dice: d20 | Type |
 |-----------|------|

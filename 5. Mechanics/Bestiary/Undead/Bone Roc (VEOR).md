@@ -23,7 +23,7 @@ aliases:
 
 A bone roc is a birdlike Undead that can incorporate the bones of multiple flying creatures. Despite their name, bone rocs aren't always reanimated skeletons of rocs. You may customize a bone roc by rolling on the Bone Roc Sources table to determine the type of bones used and how that affects its stat block.
 
-`dice: [[Bone Roc (VEOR).md#^bone-source]]`
+`dice: [[/5. Mechanics/Bestiary/Undead/Bone Roc (VEOR).md#^bone-source]]`
 
 | dice: d6 | Bone Source |
 |----------|-------------|

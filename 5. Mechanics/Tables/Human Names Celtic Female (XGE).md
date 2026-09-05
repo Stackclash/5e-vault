@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Celtic, Female**
 
-`dice: [[Human Names Celtic Female (XGE).md#^human-names-celtic-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Celtic Female (XGE).md#^human-names-celtic-female]]`
 
 | dice: d100 | Name |
 |------------|------|

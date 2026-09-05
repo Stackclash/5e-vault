@@ -11,7 +11,7 @@ aliases:
 
 **Duergar Group Leader**
 
-`dice: [[Duergar Raiding Parties Duergar Group Leader (MTF).md#^duergar-group-leader]]`
+`dice: [[/5. Mechanics/Tables/Duergar Raiding Parties Duergar Group Leader (MTF).md#^duergar-group-leader]]`
 
 | dice: d6 | Leader |
 |----------|--------|

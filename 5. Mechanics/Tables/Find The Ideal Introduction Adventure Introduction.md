@@ -11,7 +11,7 @@ aliases:
 
 **Adventure Introduction**
 
-`dice: [[Find The Ideal Introduction Adventure Introduction.md#^adventure-introduction]]`
+`dice: [[/5. Mechanics/Tables/Find The Ideal Introduction Adventure Introduction.md#^adventure-introduction]]`
 
 | dice: d12 | Introduction |
 |-----------|--------------|

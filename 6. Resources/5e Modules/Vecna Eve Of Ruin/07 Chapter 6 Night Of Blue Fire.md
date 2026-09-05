@@ -774,7 +774,7 @@ This stairwell connects to area V9 below.
 
 Teremini's soldiers conduct training drills in this muddy yard. When the keep's alarm is raised, they rally here and prepare to defend the keep. The mud is "difficult terrain".
 
-Two [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elementals]], summoned and bound by Teremini, dwell beneath the mud. If they detect intruders with their [[/5. Mechanics/Rules/Senses.md#Tremorsense\|tremorsense]], the elementals rise from the mud and attack.
+Two [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elementals]], summoned and bound by Teremini, dwell beneath the mud. If they detect intruders with their [[/5. Mechanics/Rules/Senses.md#Tremorsense\|tremorsense]], the elementals rise from the mud and attack.
 
 #### V34. Circle of Undeath
 

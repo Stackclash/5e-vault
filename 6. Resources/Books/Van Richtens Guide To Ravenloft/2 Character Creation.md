@@ -127,7 +127,8 @@ Here's a list of the game's creature types in alphabetical order: Aberration, Be
 
 ## Dhampir
 
-See the [[/5. Mechanics/Races/Dhampir (VRGR).md\|Dhampir]] entry.
+> [!embed-race]- Dhampir
+> ![[/5. Mechanics/Races/Dhampir (VRGR).md\|Dhampir]]
 
 ### Dhampirs in the Domains of Dread
 
@@ -149,7 +150,8 @@ At night, the starving city of I'Cath is overrun by vampiric [[/5. Mechanics/Bes
 
 ## Hexblood
 
-See the [[/5. Mechanics/Races/Hexblood (VRGR).md\|Hexblood]] entry.
+> [!embed-race]- Hexblood
+> ![[/5. Mechanics/Races/Hexblood (VRGR).md\|Hexblood]]
 
 ### Hexbloods in the Domains of Dread
 
@@ -171,7 +173,8 @@ Many of the children in the town of Viktal are hexbloods who exhibit their super
 
 ## Reborn
 
-See the [[/5. Mechanics/Races/Reborn (VRGR).md\|Reborn]] entry.
+> [!embed-race]- Reborn
+> ![[/5. Mechanics/Races/Reborn (VRGR).md\|Reborn]]
 
 ### Reborn in the Domains of Dread
 
@@ -235,6 +238,12 @@ At 3rd level, a bard chooses a Bard College. At 1st level, a warlock chooses an 
 ![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/018-01-011-bard-of-spirits.webp#center\|A human bard of spirits evokes a tale inspired by the Avenger tarokka card.]]
 
 ![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/019-01-012-wood-elf-warlock-of-the-undead.webp#center\|Wood Elf Warlock of the Undead]]
+
+> [!embed-subclass]- College of Spirits
+> ![[/5. Mechanics/Classes/Bard College Of Spirits (VRGR).md\|College of Spirits]]
+
+> [!embed-subclass]- The Undead
+> ![[/5. Mechanics/Classes/Warlock The Undead (VRGR).md\|The Undead]]
 
 ## Backgrounds
 

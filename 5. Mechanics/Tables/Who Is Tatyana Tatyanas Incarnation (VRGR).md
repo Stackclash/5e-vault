@@ -11,7 +11,7 @@ aliases:
 
 **Tatyana's Incarnation**
 
-`dice: [[Who Is Tatyana Tatyanas Incarnation (VRGR).md#^tatyanas-incarnation]]`
+`dice: [[/5. Mechanics/Tables/Who Is Tatyana Tatyanas Incarnation (VRGR).md#^tatyanas-incarnation]]`
 
 | dice: d8 | Who Is Tatyana's Newest Incarnation? |
 |----------|--------------------------------------|

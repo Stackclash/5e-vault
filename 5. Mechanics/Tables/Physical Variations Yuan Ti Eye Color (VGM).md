@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Eye Color**
 
-`dice: [[Physical Variations Yuan Ti Eye Color (VGM).md#^yuan-ti-eye-color]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Yuan Ti Eye Color (VGM).md#^yuan-ti-eye-color]]`
 
 | dice: d6 | Eye Color |
 |----------|-----------|

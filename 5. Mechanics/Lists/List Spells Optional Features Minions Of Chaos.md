@@ -10,4 +10,4 @@ aliases:
 
 ## 5th Level
 
-- [[/5. Mechanics/Spells/Conjure Element(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Conjure Elemental.md \|"PHB"]]

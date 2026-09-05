@@ -25,7 +25,7 @@ There are fourteen unique entries in this classic, hard-to-find series of encycl
 
 If you have at least 5 levels in the ranger class and spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, you gain the favored enemy and language (or similar effect) associated with your volume of the encyclopedia. If you have 5 or more levels in the druid class and spend that same time reading it, you can use an action to expend 2 uses of your Wild Shape to transform into the volume's associated Wild Shape option or cast the listed spell. A benefit gained from the book is permanent.
 
-`dice: [[Encyclopedia Creature Obscura (GRIFFONSSADDLEBAG4).md#^volume-title-favored-enemy-and-language-wild-shape-option-costs-2-uses]]`
+`dice: [[/5. Mechanics/Items/Encyclopedia Creature Obscura (GRIFFONSSADDLEBAG4).md#^volume-title-favored-enemy-and-language-wild-shape-option-costs-2-uses]]`
 
 | dice: d20 | Volume Title | Favored Enemy and Language | Wild Shape Option (Costs 2 Uses) |
 |-----------|--------------|----------------------------|----------------------------------|

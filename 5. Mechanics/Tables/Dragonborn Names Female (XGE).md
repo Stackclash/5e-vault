@@ -11,7 +11,7 @@ aliases:
 
 **Dragonborn Names – Female**
 
-`dice: [[Dragonborn Names Female (XGE).md#^dragonborn-names-female]]`
+`dice: [[/5. Mechanics/Tables/Dragonborn Names Female (XGE).md#^dragonborn-names-female]]`
 
 | dice: d100 | Name |
 |------------|------|

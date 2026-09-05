@@ -11,7 +11,7 @@ aliases:
 
 **Halfling Names – Male**
 
-`dice: [[Halfling Names Male (XGE).md#^halfling-names-male]]`
+`dice: [[/5. Mechanics/Tables/Halfling Names Male (XGE).md#^halfling-names-male]]`
 
 | dice: d100 | Name |
 |------------|------|

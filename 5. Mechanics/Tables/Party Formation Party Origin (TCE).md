@@ -11,7 +11,7 @@ aliases:
 
 **Party Origin**
 
-`dice: [[Party Formation Party Origin (TCE).md#^party-origin]]`
+`dice: [[/5. Mechanics/Tables/Party Formation Party Origin (TCE).md#^party-origin]]`
 
 | dice: d6 | Origin Story |
 |----------|--------------|

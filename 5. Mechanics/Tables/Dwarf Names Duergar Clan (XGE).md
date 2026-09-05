@@ -11,7 +11,7 @@ aliases:
 
 **Dwarf Names – Duergar Clan**
 
-`dice: [[Dwarf Names Duergar Clan (XGE).md#^dwarf-names-duergar-clan]]`
+`dice: [[/5. Mechanics/Tables/Dwarf Names Duergar Clan (XGE).md#^dwarf-names-duergar-clan]]`
 
 | dice: d12 | Name |
 |-----------|------|

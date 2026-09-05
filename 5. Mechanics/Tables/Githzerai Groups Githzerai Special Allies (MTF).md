@@ -11,7 +11,7 @@ aliases:
 
 **Githzerai Special Allies**
 
-`dice: [[Githzerai Groups Githzerai Special Allies (MTF).md#^githzerai-special-allies]]`
+`dice: [[/5. Mechanics/Tables/Githzerai Groups Githzerai Special Allies (MTF).md#^githzerai-special-allies]]`
 
 | dice: d8 | Ally |
 |----------|------|

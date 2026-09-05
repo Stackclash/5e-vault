@@ -37,7 +37,7 @@ As an action, you may shake this herb, causing it to emit a sound that is audibl
 
 **Parrot Poppy Sound Table**
 
-`dice: [[Parrot Poppy (HHBH).md#^parrot-poppy-sound-table]]`
+`dice: [[/5. Mechanics/Items/Parrot Poppy (HHBH).md#^parrot-poppy-sound-table]]`
 
 | dice: d6 | Sound |
 |----------|-------|

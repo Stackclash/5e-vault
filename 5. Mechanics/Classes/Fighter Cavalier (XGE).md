@@ -8,7 +8,7 @@ aliases:
   - Cavalier
 ---
 # Cavalier
-*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[/5. Mechanics/Classes/Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Xanathar's Guide to Everything p. 30*  
 
 > [!tldr] Class and Feature Progression

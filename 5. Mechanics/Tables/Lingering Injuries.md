@@ -11,7 +11,7 @@ aliases:
 
 **Lingering Injuries**
 
-`dice: [[Lingering Injuries.md#^lingering-injuries]]`
+`dice: [[/5. Mechanics/Tables/Lingering Injuries.md#^lingering-injuries]]`
 
 | dice: d20 | Injury |
 |-----------|--------|
@@ -21,7 +21,7 @@ aliases:
 | 4 | **Limp.** Your speed on foot is reduced by 5 feet. You must make a DC 10 Dexterity saving throw after using the Dash action. If you fail the save, you fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. Magical healing removes the limp. |
 | 5-7 | **Internal Injury.** Whenever you attempt an action in combat, you must make a DC 15 Constitution saving throw. On a failed save, you lose your action and can't use reactions until the start of your next turn. The injury heals if you receive magical healing or if you spend ten days doing nothing but resting. |
 | 8-10 | **Broken Ribs.** This has the same effect as Internal Injury above, except that the save DC is 10. |
-| 11-13 | **Horrible Scar.** You are disfigured to the extent that the wound can't be easily concealed. You have disadvantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks and advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) checks. Magical healing of 6th level or higher, such as [[/5. Mechanics/Spells/He(AL).md\|heal]] and [[/5. Mechanics/Spells/Regenerate.md\|regenerate]], removes the scar. |
+| 11-13 | **Horrible Scar.** You are disfigured to the extent that the wound can't be easily concealed. You have disadvantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks and advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) checks. Magical healing of 6th level or higher, such as [[/5. Mechanics/Spells/Heal.md\|heal]] and [[/5. Mechanics/Spells/Regenerate.md\|regenerate]], removes the scar. |
 | 14-16 | **Festering Wound.** Your hit point maximum is reduced by 1 every 24 hours the wound persists. If your hit point maximum drops to 0, you die. The wound heals if you receive magical healing. Alternatively, someone can tend to the wound and make a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check once every 24 hours. After ten successes, the wound heals. |
-| 17-20 | **Minor Scar.** The scar doesn't have any adverse effect. Magical healing of 6th level or higher, such as [[/5. Mechanics/Spells/He(AL).md\|heal]] and [[/5. Mechanics/Spells/Regenerate.md\|regenerate]], removes the scar. |
+| 17-20 | **Minor Scar.** The scar doesn't have any adverse effect. Magical healing of 6th level or higher, such as [[/5. Mechanics/Spells/Heal.md\|heal]] and [[/5. Mechanics/Spells/Regenerate.md\|regenerate]], removes the scar. |
 ^lingering-injuries

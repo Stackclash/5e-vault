@@ -93,7 +93,7 @@ If a corrupted creature doesn't leave the plane within `dice:1d4+2|noform|nopare
 
 **Abyssal Corruption**
 
-`dice: [[Planar Effects.md#^abyssal-corruption]]`
+`dice: [[/5. Mechanics/Rules/Variant Rules/Planar Effects.md#^abyssal-corruption]]`
 
 | dice: d10 | Result |
 |-----------|--------|

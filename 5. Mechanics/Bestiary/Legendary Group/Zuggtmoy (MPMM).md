@@ -15,7 +15,7 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 On Initiative count 20 (losing initiative ties), Zuggtmoy can take a lair action to cause one of the following effects; she can't use the same effect two rounds in a row:
 
 - **Rally Plants.** Up to four plant creatures that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions to move up to their speed and make one weapon attack.  
-- **Summon Fungi.** Zuggtmoy causes four [[/5. Mechanics/Bestiary/Plant/Gas Spore.md|gas spores]] or [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md|violet fungi]] to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.  
+- **Summon Fungi.** Zuggtmoy causes four [[/5. Mechanics/Bestiary/Plant/Gas Spore.md|gas spores]] or [[/5. Mechanics/Bestiary/Plant/Violet Fungus.md|violet fungi]] to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.  
 - **Unleash Spores.** Zuggtmoy uses either her Infestation Spores or her Mind Control Spores, centered on a mushroom or other fungus within her lair, instead of on herself.  
 
 ## Regional Effects

@@ -11,7 +11,7 @@ aliases:
 
 **Mordent Adventures**
 
-`dice: [[Mordent Adventures (VRGR).md#^mordent-adventures]]`
+`dice: [[/5. Mechanics/Tables/Mordent Adventures (VRGR).md#^mordent-adventures]]`
 
 | dice: d8 | Adventure |
 |----------|-----------|

@@ -35,7 +35,7 @@ Roll a `dice:d4|noform|noparens|avg` (`d4`) and consult the Outer Essence Shards
 
 **Outer Essence Shards**
 
-`dice: [[Outer Essence Shard (TCE).md#^outer-essence-shards]]`
+`dice: [[/5. Mechanics/Items/Outer Essence Shard (TCE).md#^outer-essence-shards]]`
 
 | dice: d4 | Property | Shard |
 |----------|----------|-------|

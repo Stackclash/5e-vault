@@ -109,8 +109,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
       \ 15, +7 to hit with spell attacks). It can innately cast the following spells,\
       \ requiring no material components:\n\n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]]\n\
       \n**3/day each:** [[/5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]], [[/5. Mechanics/Spells/Tongues.md|tongues]]\n\
-      \n**1/day each:** [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
-      \ ([[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md|fire elemental]] only),\
+      \n**1/day each:** [[/5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
+      \ ([[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md|fire elemental]] only),\
       \ [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
       \ [[/5. Mechanics/Spells/Major Image.md|major image]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]],\
       \ [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"

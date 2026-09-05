@@ -11,7 +11,7 @@ aliases:
 
 **Beholder Mouth Shape and Size**
 
-`dice: [[Physical Characteristics Beholder Mouth Shape And Size (VGM).md#^beholder-mouth-shape-and-size]]`
+`dice: [[/5. Mechanics/Tables/Physical Characteristics Beholder Mouth Shape And Size (VGM).md#^beholder-mouth-shape-and-size]]`
 
 | dice: d6 | Mouth Shape and Size |
 |----------|----------------------|

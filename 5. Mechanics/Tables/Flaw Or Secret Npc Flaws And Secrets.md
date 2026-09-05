@@ -11,7 +11,7 @@ aliases:
 
 **NPC Flaws and Secrets**
 
-`dice: [[Flaw Or Secret Npc Flaws And Secrets.md#^npc-flaws-and-secrets]]`
+`dice: [[/5. Mechanics/Tables/Flaw Or Secret Npc Flaws And Secrets.md#^npc-flaws-and-secrets]]`
 
 | dice: d12 | Flaw or Secret |
 |-----------|----------------|

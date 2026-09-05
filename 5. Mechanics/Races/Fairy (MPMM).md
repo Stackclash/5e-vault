@@ -42,7 +42,7 @@ Infused with the magic of the Feywild, most fairies look like Small elves with i
 
 **Fey Characteristics**
 
-`dice: [[Fairy (MPMM).md#^fey-characteristics]]`
+`dice: [[/5. Mechanics/Races/Fairy (MPMM).md#^fey-characteristics]]`
 
 | dice: d8 | Characteristic |
 |----------|----------------|

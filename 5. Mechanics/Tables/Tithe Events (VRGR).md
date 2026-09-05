@@ -11,7 +11,7 @@ aliases:
 
 **Tithe Events**
 
-`dice: [[Tithe Events (VRGR).md#^tithe-events]]`
+`dice: [[/5. Mechanics/Tables/Tithe Events (VRGR).md#^tithe-events]]`
 
 | dice: d6 | Event | Token |
 |----------|-------|-------|

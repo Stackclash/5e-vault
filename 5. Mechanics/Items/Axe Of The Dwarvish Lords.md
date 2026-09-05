@@ -69,7 +69,7 @@ If you are a dwarf attuned to the axe, you gain the following benefits:
 
 ## Conjure Earth Elemental
 
-If you are holding the axe, you can use your action to cast the [[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] spell from it, summoning an [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]]. You can't use this property again until the next dawn.
+If you are holding the axe, you can use your action to cast the [[/5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] spell from it, summoning an [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]]. You can't use this property again until the next dawn.
 
 ## Travel the Depths
 

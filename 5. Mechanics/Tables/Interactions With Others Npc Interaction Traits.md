@@ -11,7 +11,7 @@ aliases:
 
 **NPC Interaction Traits**
 
-`dice: [[Interactions With Others Npc Interaction Traits.md#^npc-interaction-traits]]`
+`dice: [[/5. Mechanics/Tables/Interactions With Others Npc Interaction Traits.md#^npc-interaction-traits]]`
 
 | dice: d12 | Trait |
 |-----------|-------|

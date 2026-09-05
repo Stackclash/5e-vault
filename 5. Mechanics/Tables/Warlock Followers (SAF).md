@@ -11,7 +11,7 @@ aliases:
 
 **Warlock Followers**
 
-`dice: [[Warlock Followers (SAF).md#^warlock-followers]]`
+`dice: [[/5. Mechanics/Tables/Warlock Followers (SAF).md#^warlock-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

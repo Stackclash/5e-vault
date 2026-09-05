@@ -11,7 +11,7 @@ aliases:
 
 **Unusual Demon Features**
 
-`dice: [[Demon Customization Tables Unusual Demon Features (MTF).md#^unusual-demon-features]]`
+`dice: [[/5. Mechanics/Tables/Demon Customization Tables Unusual Demon Features (MTF).md#^unusual-demon-features]]`
 
 | dice: d20 | Feature |
 |-----------|---------|

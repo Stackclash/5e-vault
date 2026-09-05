@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon: Temple or Shrine**
 
-`dice: [[Chamber Purpose Dungeon Temple Or Shrine.md#^dungeon-temple-or-shrine]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose Dungeon Temple Or Shrine.md#^dungeon-temple-or-shrine]]`
 
 | dice: d100 | Purpose |
 |------------|---------|

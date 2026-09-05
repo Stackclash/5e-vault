@@ -8,7 +8,7 @@ aliases:
   - College of Valor
 ---
 # College of Valor
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: Player's Handbook p. 55*  
 
 > [!tldr] Class and Feature Progression

@@ -126,4 +126,148 @@ The following magic items are presented in alphabetical order.
 - [[/5. Mechanics/Items/Shadowfell Brand Tattoo (TCE).md\|Shadowfell Brand Tattoo]]  
 - [[/5. Mechanics/Items/Shadowfell Shard (TCE).md\|Shadowfell Shard]]  
 - [[/5. Mechanics/Items/Spellwrought Tattoo (TCE).md\|Spellwrought Tattoo]]  
-- [[/5. Mechanics/Items/Teeth Of Dahlver Nar (TCE).md\|Teeth of Dahlver-Nar]]
+- [[/5. Mechanics/Items/Teeth Of Dahlver Nar (TCE).md\|Teeth of Dahlver-Nar]]  
+
+> [!embed-item]- Absorbing Tattoo
+> ![[/5. Mechanics/Items/Absorbing Tattoo (TCE).md\|Absorbing Tattoo]]
+
+> [!embed-item]- Alchemical Compendium
+> ![[/5. Mechanics/Items/Alchemical Compendium (TCE).md\|Alchemical Compendium]]
+
+> [!embed-item]- +1 All-Purpose Tool
+> ![[/5. Mechanics/Items/1 All Purpose Tool (TCE).md\|+1 All-Purpose Tool]]
+
+> [!embed-item]- +1 Amulet of the Devout
+> ![[/5. Mechanics/Items/1 Amulet Of The Devout (TCE).md\|+1 Amulet of the Devout]]
+
+> [!embed-item]- +1 Arcane Grimoire
+> ![[/5. Mechanics/Items/1 Arcane Grimoire (TCE).md\|+1 Arcane Grimoire]]
+
+> [!embed-item]- Astral Shard
+> ![[/5. Mechanics/Items/Astral Shard (TCE).md\|Astral Shard]]
+
+> [!embed-item]- Astromancy Archive
+> ![[/5. Mechanics/Items/Astromancy Archive (TCE).md\|Astromancy Archive]]
+
+> [!embed-item]- Atlas of Endless Horizons
+> ![[/5. Mechanics/Items/Atlas Of Endless Horizons (TCE).md\|Atlas of Endless Horizons]]
+
+> [!embed-item]- Baba Yaga's Mortar and Pestle
+> ![[/5. Mechanics/Items/Baba Yagas Mortar And Pestle (TCE).md\|Baba Yaga's Mortar and Pestle]]
+
+> [!embed-item]- Baba Yaga's Pestle
+> ![[/5. Mechanics/Items/Baba Yagas Pestle (TCE).md\|Baba Yaga's Pestle]]
+
+> [!embed-item]- Barrier Tattoo (Small)
+> ![[/5. Mechanics/Items/Barrier Tattoo Small (TCE).md\|Barrier Tattoo (Small)]]
+
+> [!embed-item]- Bell Branch
+> ![[/5. Mechanics/Items/Bell Branch (TCE).md\|Bell Branch]]
+
+> [!embed-item]- Blood Fury Tattoo
+> ![[/5. Mechanics/Items/Blood Fury Tattoo (TCE).md\|Blood Fury Tattoo]]
+
+> [!embed-item]- +1 Bloodwell Vial
+> ![[/5. Mechanics/Items/1 Bloodwell Vial (TCE).md\|+1 Bloodwell Vial]]
+
+> [!embed-item]- Cauldron of Rebirth
+> ![[/5. Mechanics/Items/Cauldron Of Rebirth (TCE).md\|Cauldron of Rebirth]]
+
+> [!embed-item]- Coiling Grasp Tattoo
+> ![[/5. Mechanics/Items/Coiling Grasp Tattoo (TCE).md\|Coiling Grasp Tattoo]]
+
+> [!embed-item]- Crook of Rao
+> ![[/5. Mechanics/Items/Crook Of Rao (TCE).md\|Crook of Rao]]
+
+> [!embed-item]- Crystalline Chronicle
+> ![[/5. Mechanics/Items/Crystalline Chronicle (TCE).md\|Crystalline Chronicle]]
+
+> [!embed-item]- Demonomicon of Iggwilv
+> ![[/5. Mechanics/Items/Demonomicon Of Iggwilv (TCE).md\|Demonomicon of Iggwilv]]
+
+> [!embed-item]- Devotee's Censer
+> ![[/5. Mechanics/Items/Devotees Censer (TCE).md\|Devotee's Censer]]
+
+> [!embed-item]- Duplicitous Manuscript
+> ![[/5. Mechanics/Items/Duplicitous Manuscript (TCE).md\|Duplicitous Manuscript]]
+
+> [!embed-item]- Eldritch Claw Tattoo
+> ![[/5. Mechanics/Items/Eldritch Claw Tattoo (TCE).md\|Eldritch Claw Tattoo]]
+
+> [!embed-item]- Elemental Essence Shard
+> ![[/5. Mechanics/Items/Elemental Essence Shard (TCE).md\|Elemental Essence Shard]]
+
+> [!embed-item]- Far Realm Shard
+> ![[/5. Mechanics/Items/Far Realm Shard (TCE).md\|Far Realm Shard]]
+
+> [!embed-item]- Feywild Shard
+> ![[/5. Mechanics/Items/Feywild Shard (TCE).md\|Feywild Shard]]
+
+> [!embed-item]- Fulminating Treatise
+> ![[/5. Mechanics/Items/Fulminating Treatise (TCE).md\|Fulminating Treatise]]
+
+> [!embed-item]- Ghost Step Tattoo
+> ![[/5. Mechanics/Items/Ghost Step Tattoo (TCE).md\|Ghost Step Tattoo]]
+
+> [!embed-item]- Guardian Emblem
+> ![[/5. Mechanics/Items/Guardian Emblem (TCE).md\|Guardian Emblem]]
+
+> [!embed-item]- Heart Weaver's Primer
+> ![[/5. Mechanics/Items/Heart Weavers Primer (TCE).md\|Heart Weaver's Primer]]
+
+> [!embed-item]- Illuminator's Tattoo
+> ![[/5. Mechanics/Items/Illuminators Tattoo (TCE).md\|Illuminator's Tattoo]]
+
+> [!embed-item]- Libram of Souls and Flesh
+> ![[/5. Mechanics/Items/Libram Of Souls And Flesh (TCE).md\|Libram of Souls and Flesh]]
+
+> [!embed-item]- Lifewell Tattoo
+> ![[/5. Mechanics/Items/Lifewell Tattoo (TCE).md\|Lifewell Tattoo]]
+
+> [!embed-item]- Luba's Tarokka of Souls
+> ![[/5. Mechanics/Items/Lubas Tarokka Of Souls (TCE).md\|Luba's Tarokka of Souls]]
+
+> [!embed-item]- Lyre of Building
+> ![[/5. Mechanics/Items/Lyre Of Building (TCE).md\|Lyre of Building]]
+
+> [!embed-item]- Masquerade Tattoo
+> ![[/5. Mechanics/Items/Masquerade Tattoo (TCE).md\|Masquerade Tattoo]]
+
+> [!embed-item]- Mighty Servant of Leuk-O
+> ![[/5. Mechanics/Items/Mighty Servant Of Leuk O (TCE).md\|Mighty Servant of Leuk-O]]
+
+> [!embed-item]- +1 Moon Sickle
+> ![[/5. Mechanics/Items/1 Moon Sickle (TCE).md\|+1 Moon Sickle]]
+
+> [!embed-item]- Nature's Mantle
+> ![[/5. Mechanics/Items/Natures Mantle (TCE).md\|Nature's Mantle]]
+
+> [!embed-item]- Outer Essence Shard
+> ![[/5. Mechanics/Items/Outer Essence Shard (TCE).md\|Outer Essence Shard]]
+
+> [!embed-item]- Planecaller's Codex
+> ![[/5. Mechanics/Items/Planecallers Codex (TCE).md\|Planecaller's Codex]]
+
+> [!embed-item]- Prosthetic Limb
+> ![[/5. Mechanics/Items/Prosthetic Limb (TCE).md\|Prosthetic Limb]]
+
+> [!embed-item]- Protective Verses
+> ![[/5. Mechanics/Items/Protective Verses (TCE).md\|Protective Verses]]
+
+> [!embed-item]- Reveler's Concertina
+> ![[/5. Mechanics/Items/Revelers Concertina (TCE).md\|Reveler's Concertina]]
+
+> [!embed-item]- +1 Rhythm-Maker's Drum
+> ![[/5. Mechanics/Items/1 Rhythm Makers Drum (TCE).md\|+1 Rhythm-Maker's Drum]]
+
+> [!embed-item]- Shadowfell Brand Tattoo
+> ![[/5. Mechanics/Items/Shadowfell Brand Tattoo (TCE).md\|Shadowfell Brand Tattoo]]
+
+> [!embed-item]- Shadowfell Shard
+> ![[/5. Mechanics/Items/Shadowfell Shard (TCE).md\|Shadowfell Shard]]
+
+> [!embed-item]- Spellwrought Tattoo
+> ![[/5. Mechanics/Items/Spellwrought Tattoo (TCE).md\|Spellwrought Tattoo]]
+
+> [!embed-item]- Teeth of Dahlver-Nar
+> ![[/5. Mechanics/Items/Teeth Of Dahlver Nar (TCE).md\|Teeth of Dahlver-Nar]]

@@ -11,7 +11,7 @@ aliases:
 
 **Arctic Encounters (Levels 5—10)**
 
-`dice: [[Arctic Encounters Levels 510 (XGE).md#^arctic-encounters-levels-510]]`
+`dice: [[/5. Mechanics/Tables/Arctic Encounters Levels 510 (XGE).md#^arctic-encounters-levels-510]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

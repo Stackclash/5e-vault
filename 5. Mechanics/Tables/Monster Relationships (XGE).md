@@ -11,7 +11,7 @@ aliases:
 
 **Monster Relationships**
 
-`dice: [[Monster Relationships (XGE).md#^monster-relationships]]`
+`dice: [[/5. Mechanics/Tables/Monster Relationships (XGE).md#^monster-relationships]]`
 
 | dice: d6 | Relationship |
 |----------|--------------|

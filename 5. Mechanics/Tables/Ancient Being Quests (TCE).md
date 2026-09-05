@@ -11,7 +11,7 @@ aliases:
 
 **Ancient Being Quests**
 
-`dice: [[Ancient Being Quests (TCE).md#^ancient-being-quests]]`
+`dice: [[/5. Mechanics/Tables/Ancient Being Quests (TCE).md#^ancient-being-quests]]`
 
 | dice: d6 | Quest |
 |----------|-------|

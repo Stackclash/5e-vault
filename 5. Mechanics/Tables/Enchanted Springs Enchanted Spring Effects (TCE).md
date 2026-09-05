@@ -11,7 +11,7 @@ aliases:
 
 **Enchanted Spring Effects**
 
-`dice: [[Enchanted Springs Enchanted Spring Effects (TCE).md#^enchanted-spring-effects]]`
+`dice: [[/5. Mechanics/Tables/Enchanted Springs Enchanted Spring Effects (TCE).md#^enchanted-spring-effects]]`
 
 | dice: d12 | Effect |
 |-----------|--------|

@@ -11,7 +11,7 @@ aliases:
 
 **Minor Detrimental Properties**
 
-`dice: [[Artifact Properties Minor Detrimental Properties.md#^minor-detrimental-properties]]`
+`dice: [[/5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md#^minor-detrimental-properties]]`
 
 | dice: d100 | Property |
 |------------|----------|

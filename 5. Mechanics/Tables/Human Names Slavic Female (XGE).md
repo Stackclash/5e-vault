@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Slavic, Female**
 
-`dice: [[Human Names Slavic Female (XGE).md#^human-names-slavic-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Slavic Female (XGE).md#^human-names-slavic-female]]`
 
 | dice: d100 | Name |
 |------------|------|

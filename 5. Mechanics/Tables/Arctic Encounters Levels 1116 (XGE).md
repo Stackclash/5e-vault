@@ -11,7 +11,7 @@ aliases:
 
 **Arctic Encounters (Levels 11—16)**
 
-`dice: [[Arctic Encounters Levels 1116 (XGE).md#^arctic-encounters-levels-1116]]`
+`dice: [[/5. Mechanics/Tables/Arctic Encounters Levels 1116 (XGE).md#^arctic-encounters-levels-1116]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

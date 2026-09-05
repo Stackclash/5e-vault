@@ -49,7 +49,7 @@ You touch one willing creature whose alignment has changed, and you make a DC 20
 
 ## Bless Water
 
-You touch one [[/5. Mechanics/Items/Vi(AL).md\|vial]] of water and cause it to become [[/5. Mechanics/Items/Holy Water Flask.md\|holy water]].
+You touch one [[/5. Mechanics/Items/Vial.md\|vial]] of water and cause it to become [[/5. Mechanics/Items/Holy Water Flask.md\|holy water]].
 
 ## Coming of Age
 

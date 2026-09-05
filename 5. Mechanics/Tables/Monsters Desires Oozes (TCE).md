@@ -11,7 +11,7 @@ aliases:
 
 **Oozes**
 
-`dice: [[Monsters Desires Oozes (TCE).md#^oozes]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Oozes (TCE).md#^oozes]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

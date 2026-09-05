@@ -11,7 +11,7 @@ aliases:
 
 **Wandering the Mists**
 
-`dice: [[Wandering The Mists (VRGR).md#^wandering-the-mists]]`
+`dice: [[/5. Mechanics/Tables/Wandering The Mists (VRGR).md#^wandering-the-mists]]`
 
 | dice: d100 | Effect |
 |------------|--------|

@@ -147,7 +147,7 @@ aliases:
 - [[/5. Mechanics/Spells/Grave Sense (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Heartache (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Heartstop (KPDM).md \|"KPDM"]]
-- [[/5. Mechanics/Spells/Heat Met(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Heat Metal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Hold Person.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Holy Warding (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Hypnotic Missive (KPDM).md \|"KPDM"]]
@@ -361,7 +361,7 @@ aliases:
 
 - [[/5. Mechanics/Spells/Foresight.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Mass Polymorph (XGE).md \|"XGE"]] (\*)
-- [[/5. Mechanics/Spells/Power Word He(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Power Word Heal.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Power Word Kill.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Prismatic Wall.md \|"PHB"]] (\*)
 - [[/5. Mechanics/Spells/Psychic Scream (XGE).md \|"XGE"]] (\*)

@@ -11,7 +11,7 @@ aliases:
 
 **Duergar Special Circumstances**
 
-`dice: [[Duergar Raiding Parties Duergar Special Circumstances (MTF).md#^duergar-special-circumstances]]`
+`dice: [[/5. Mechanics/Tables/Duergar Raiding Parties Duergar Special Circumstances (MTF).md#^duergar-special-circumstances]]`
 
 | dice: d4 | Circumstance |
 |----------|--------------|

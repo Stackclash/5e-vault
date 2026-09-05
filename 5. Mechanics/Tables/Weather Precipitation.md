@@ -11,7 +11,7 @@ aliases:
 
 **Precipitation**
 
-`dice: [[Weather Precipitation.md#^precipitation]]`
+`dice: [[/5. Mechanics/Tables/Weather Precipitation.md#^precipitation]]`
 
 | dice: d20 | Precipitation |
 |-----------|---------------|

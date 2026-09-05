@@ -11,7 +11,7 @@ aliases:
 
 **Psychic Wind Effects**
 
-`dice: [[Psychic Wind.md#^psychic-wind-effects]]`
+`dice: [[/5. Mechanics/Tables/Psychic Wind.md#^psychic-wind-effects]]`
 
 | dice: d20 | Location Effect |
 |-----------|-----------------|
@@ -21,7 +21,7 @@ aliases:
 | 17-20 | Sent through color pool to a random plane. Roll on [[/5. Mechanics/Tables/Astral Color Pools.md\|Astral Color Pools]] table |
 ^psychic-wind-effects
 
-`dice: [[Psychic Wind.md#^mental-effect]]`
+`dice: [[/5. Mechanics/Tables/Psychic Wind.md#^mental-effect]]`
 
 | dice: d20 | Mental Effect |
 |-----------|---------------|

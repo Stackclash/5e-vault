@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon: Stronghold**
 
-`dice: [[Chamber Purpose Dungeon Stronghold.md#^dungeon-stronghold]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose Dungeon Stronghold.md#^dungeon-stronghold]]`
 
 | dice: d100 | Purpose |
 |------------|---------|

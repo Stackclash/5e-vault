@@ -8,7 +8,7 @@ aliases:
   - College of Entropy
 ---
 # College of Entropy
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: Deep Magic p. 192*  
 
 > [!tldr] Class and Feature Progression

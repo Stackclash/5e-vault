@@ -11,7 +11,7 @@ aliases:
 
 **Tiefling Names – Male**
 
-`dice: [[Tiefling Names Male (XGE).md#^tiefling-names-male]]`
+`dice: [[/5. Mechanics/Tables/Tiefling Names Male (XGE).md#^tiefling-names-male]]`
 
 | dice: d100 | Name |
 |------------|------|

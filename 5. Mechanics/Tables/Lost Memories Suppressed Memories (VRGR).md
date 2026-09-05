@@ -11,7 +11,7 @@ aliases:
 
 **Suppressed Memories**
 
-`dice: [[Lost Memories Suppressed Memories (VRGR).md#^suppressed-memories]]`
+`dice: [[/5. Mechanics/Tables/Lost Memories Suppressed Memories (VRGR).md#^suppressed-memories]]`
 
 | dice: d6 | Memory |
 |----------|--------|

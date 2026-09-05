@@ -11,7 +11,7 @@ aliases:
 
 **Criminal Syndicate Quests**
 
-`dice: [[Criminal Syndicate Quests (TCE).md#^criminal-syndicate-quests]]`
+`dice: [[/5. Mechanics/Tables/Criminal Syndicate Quests (TCE).md#^criminal-syndicate-quests]]`
 
 | dice: d6 | Quest |
 |----------|-------|

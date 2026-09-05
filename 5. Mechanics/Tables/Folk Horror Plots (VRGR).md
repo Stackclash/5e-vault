@@ -11,7 +11,7 @@ aliases:
 
 **Folk Horror Plots**
 
-`dice: [[Folk Horror Plots (VRGR).md#^folk-horror-plots]]`
+`dice: [[/5. Mechanics/Tables/Folk Horror Plots (VRGR).md#^folk-horror-plots]]`
 
 | dice: d8 | Plot |
 |----------|------|

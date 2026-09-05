@@ -11,7 +11,7 @@ aliases:
 
 **Ether Cyclones**
 
-`dice: [[Ether Cyclones.md#^ether-cyclones]]`
+`dice: [[/5. Mechanics/Tables/Ether Cyclones.md#^ether-cyclones]]`
 
 | dice: d20 | Effect |
 |-----------|--------|

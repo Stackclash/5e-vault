@@ -8,7 +8,7 @@ aliases:
   - School of Material Magic
 ---
 # School of Material Magic
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: The Griffon's Saddlebag, Book 1 p. 169*  
 
 > [!tldr] Class and Feature Progression

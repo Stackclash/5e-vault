@@ -4,16 +4,16 @@ cssclasses: json5e-monster
 statblock: inline
 cr: 2
 environments: []
-size: Small
+size: Medium
 alignment: Lawful Good
 ac: 13
-hp: 7
+hp: 36
 type: undead
 tags:
   - monster
   - compendium/src/5e/cos
   - monster/cr/2
-  - monster/size/small
+  - monster/size/medium
   - monster/type/undead
 aliases:
   - Hungry Ghast
@@ -23,12 +23,12 @@ aliases:
 
 ```statblock
 "name": "Hungry Ghast (COS)"
-"size": "Small"
+"size": "Medium"
 "type": "undead"
-"alignment": "Lawful Good"
+"alignment": "Chaotic Evil"
 "ac": !!int "13"
-"hp": !!int "7"
-"hit_dice": "2d6"
+"hp": !!int "36"
+"hit_dice": "8d8"
 "modifier": !!int "3"
 "stats":
   - !!int "16"

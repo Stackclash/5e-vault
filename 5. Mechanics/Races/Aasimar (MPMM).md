@@ -55,7 +55,7 @@ Aasimar can arise among any population of mortals. They resemble their parents, 
 
 **Aasimar Celestial Features**
 
-`dice: [[Aasimar (MPMM).md#^aasimar-celestial-features]]`
+`dice: [[/5. Mechanics/Races/Aasimar (MPMM).md#^aasimar-celestial-features]]`
 
 | dice: d6 | Celestial Feature |
 |----------|-------------------|

@@ -9,7 +9,7 @@ aliases:
   - Ocean Domain
 ---
 # Ocean Domain
-*[[.nullCleric.md\|Cleric]]: Divine Domain*  
+*[[/5. Mechanics/Classes/Cleric.md\|Cleric]]: Divine Domain*  
 *Source: Deep Magic p. 132*  
 
 > [!tldr] Class and Feature Progression
@@ -58,7 +58,7 @@ You invoke the power of salt and sea—the fountain of life—in all its chaotic
 | 3rd | [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[/5. Mechanics/Spells/Misty Step.md\|misty step]] |
 | 5th | [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[/5. Mechanics/Spells/Water Breathing.md\|water breathing]] |
 | 7th | [[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]] (excluding fire), [[/5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]] |
-| 9th | [[/5. Mechanics/Spells/Awaken.md\|awaken]], [[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] (excluding fire) |
+| 9th | [[/5. Mechanics/Spells/Awaken.md\|awaken]], [[/5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] (excluding fire) |
 ^ocean-domain-spells
 
 ### Envoy to the Waves (Level 1)

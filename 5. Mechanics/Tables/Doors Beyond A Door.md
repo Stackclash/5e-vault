@@ -11,7 +11,7 @@ aliases:
 
 **Beyond a Door**
 
-`dice: [[Doors Beyond A Door.md#^beyond-a-door]]`
+`dice: [[/5. Mechanics/Tables/Doors Beyond A Door.md#^beyond-a-door]]`
 
 | dice: d20 | Feature |
 |-----------|---------|

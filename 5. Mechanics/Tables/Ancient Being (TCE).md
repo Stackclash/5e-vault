@@ -11,7 +11,7 @@ aliases:
 
 **Ancient Being**
 
-`dice: [[Ancient Being (TCE).md#^ancient-being]]`
+`dice: [[/5. Mechanics/Tables/Ancient Being (TCE).md#^ancient-being]]`
 
 | dice: d6 | Ancient Being |
 |----------|---------------|

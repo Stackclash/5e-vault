@@ -8,7 +8,7 @@ aliases:
   - College of Mercantile
 ---
 # College of Mercantile
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: The Griffon's Saddlebag, Book 2 p. 210*  
 
 > [!tldr] Class and Feature Progression

@@ -44,7 +44,7 @@ aliases:
 | Flyby | [[/5. Mechanics/Bestiary/Monstrosity/Peryton.md\|Peryton]] | — |
 | Frightful Presence | [[/5. Mechanics/Bestiary/Dragon/Ancient Black Dragon.md\|Ancient black dragon]] | Increase the monster's effective hit points by 25% if the monster is meant to face characters of 10th level or lower. |
 | Grappler | [[/5. Mechanics/Bestiary/Monstrosity/Mimic.md\|Mimic]] | — |
-| Hold Breath | [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|Lizardfolk]] | — |
+| Hold Breath | [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|Lizardfolk]] | — |
 | Horrifying Visage | [[/5. Mechanics/Bestiary/Undead/Banshee.md\|Banshee]] | See Frightful Presence. |
 | Illumination | [[/5. Mechanics/Bestiary/Undead/Flameskull.md\|Flameskull]] | — |
 | Illusory Appearance | [[/5. Mechanics/Bestiary/Fey/Green Hag.md\|Green hag]] | — |
@@ -81,7 +81,7 @@ aliases:
 | Relentless | [[/5. Mechanics/Bestiary/Humanoid/Wereboar.md\|Wereboar]] | Increase the monster's effective hit points based on the expected challenge rating: 1-4, 7 hp: 5-10, 14 hp: 11-16, 21 hp: 17 or higher, 28 hp. |
 | Shadow Stealth | [[/5. Mechanics/Bestiary/Fiend/Shadow Demon.md\|Shadow demon]] | Increase the monster's effective AC by 4. |
 | Shapechanger | [[/5. Mechanics/Bestiary/Humanoid/Wererat.md\|Wererat]] | — |
-| Siege Monster | [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|Earth elemental]] | — |
+| Siege Monster | [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|Earth elemental]] | — |
 | Slippery | [[/5. Mechanics/Bestiary/Humanoid/Kuo (TOA).md\|Kuo-toa]] | — |
 | Spellcasting | [[/5. Mechanics/Bestiary/Undead/Lich.md\|Lich]] | See step 13 under "Creating a Monster Stat Block." |
 | Spider Climb | [[/5. Mechanics/Bestiary/Monstrosity/Ettercap.md\|Ettercap]] | — |
@@ -95,7 +95,7 @@ aliases:
 | Swallow | [[/5. Mechanics/Bestiary/Monstrosity/Behir.md\|Behir]] | Assume the monster swallows one creature and deals 2 rounds of acid damage to it. |
 | Teleport | [[/5. Mechanics/Bestiary/Fiend/Balor.md\|Balor]] | — |
 | Terrain Camouflage | [[/5. Mechanics/Bestiary/Humanoid/Bullywug.md\|Bullywug]] | — |
-| Tunneler | [[/5. Mechanics/Bestiary/Monstrosity/Umber Hu(LK).md\|Umber hulk]] | — |
+| Tunneler | [[/5. Mechanics/Bestiary/Monstrosity/Umber Hulk.md\|Umber hulk]] | — |
 | Turn Immunity | [[/5. Mechanics/Bestiary/Undead/Revenant.md\|Revenant]] | — |
 | Turn Resistance | [[/5. Mechanics/Bestiary/Undead/Lich.md\|Lich]] | — |
 | Two Heads | [[/5. Mechanics/Bestiary/Giant/Ettin.md\|Ettin]] | — |

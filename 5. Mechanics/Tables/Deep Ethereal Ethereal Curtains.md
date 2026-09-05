@@ -11,7 +11,7 @@ aliases:
 
 **Ethereal Curtains**
 
-`dice: [[Deep Ethereal Ethereal Curtains.md#^ethereal-curtains]]`
+`dice: [[/5. Mechanics/Tables/Deep Ethereal Ethereal Curtains.md#^ethereal-curtains]]`
 
 | dice: d8 | Plane | Color of Curtain |
 |----------|-------|------------------|

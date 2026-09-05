@@ -11,7 +11,7 @@ aliases:
 
 **Plants**
 
-`dice: [[Monsters Desires Plants (TCE).md#^plants]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Plants (TCE).md#^plants]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

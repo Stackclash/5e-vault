@@ -11,7 +11,7 @@ aliases:
 
 **Favors for Harkon Lukas**
 
-`dice: [[Meeting The Darklord Favors For Harkon Lukas (VRGR).md#^favors-for-harkon-lukas]]`
+`dice: [[/5. Mechanics/Tables/Meeting The Darklord Favors For Harkon Lukas (VRGR).md#^favors-for-harkon-lukas]]`
 
 | dice: d4 | Favor |
 |----------|-------|

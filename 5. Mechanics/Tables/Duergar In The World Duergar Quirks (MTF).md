@@ -11,7 +11,7 @@ aliases:
 
 **Duergar Quirks**
 
-`dice: [[Duergar In The World Duergar Quirks (MTF).md#^duergar-quirks]]`
+`dice: [[/5. Mechanics/Tables/Duergar In The World Duergar Quirks (MTF).md#^duergar-quirks]]`
 
 | dice: d6 | Quirk |
 |----------|-------|

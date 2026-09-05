@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon: Treasure Vault**
 
-`dice: [[Chamber Purpose Dungeon Treasure Vault.md#^dungeon-treasure-vault]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose Dungeon Treasure Vault.md#^dungeon-treasure-vault]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

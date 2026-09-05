@@ -22,7 +22,7 @@ All items created by a variant appearance vanish as soon as their damage is done
 
 ## Power Changes
 
-[[/5. Mechanics/Spells/Fireball.md\|Fireball]] is an instantaneous spell, but it might just as easily resemble [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], with a round of warning, a round of damage, and a round of additional damage. Spreading out the damage this way could be called a [[/5. Mechanics/Spells/Slow Burn Fireball (KPDM).md\|slow-burn fireball]]. Though this is a bit more bookkeeping, such a spell would be appropriate for limited use by a pyromaniacal spellcasting NPC.
+[[/5. Mechanics/Spells/Fireball.md\|Fireball]] is an instantaneous spell, but it might just as easily resemble [[/5. Mechanics/Spells/Heat Metal.md\|heat metal]], with a round of warning, a round of damage, and a round of additional damage. Spreading out the damage this way could be called a [[/5. Mechanics/Spells/Slow Burn Fireball (KPDM).md\|slow-burn fireball]]. Though this is a bit more bookkeeping, such a spell would be appropriate for limited use by a pyromaniacal spellcasting NPC.
 
 While [[/5. Mechanics/Spells/Fireball.md\|fireball]] is an area of effect spell, a smaller version could attack a single target. This might be called [[/5. Mechanics/Spells/Solitary Fireball (KPDM).md\|solitary fireball]], and could easily find a place in an elementalist's spellbook or in the hands of a fire [[/5. Mechanics/Bestiary/Fiend/Imp.md\|imp]] or an [[/5. Mechanics/Bestiary/Elemental/Efreeti.md\|efreet]].
 

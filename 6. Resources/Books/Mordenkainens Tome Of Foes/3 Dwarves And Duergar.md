@@ -595,6 +595,9 @@ At the DM's discretion, you can play a duergar character. When you choose the su
 
 - [[/5. Mechanics/Races/Duergar (MPMM).md\|Dwarf (Duergar)]]  
 
+> [!embed-race]- Dwarf (Duergar)
+> ![[/5. Mechanics/Races/Duergar (MPMM).md\|Dwarf (Duergar)]]
+
 ## Dwarf Tables
 
 This section provides a number of tables useful for players and DMs who want to choose or randomly generate details about dwarf characters or settlements.

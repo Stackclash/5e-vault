@@ -11,7 +11,7 @@ aliases:
 
 **50 gp Gemstones**
 
-`dice: [[50 Gp Gemstones.md#^50-gp-gemstones]]`
+`dice: [[/5. Mechanics/Tables/50 Gp Gemstones.md#^50-gp-gemstones]]`
 
 | dice: d12 | Stone Description |
 |-----------|-------------------|

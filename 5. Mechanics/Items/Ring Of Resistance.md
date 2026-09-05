@@ -30,7 +30,7 @@ await dv.view("views/itemPrice", {current: dv.current()})
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly.
 
-`dice: [[Ring Of Resistance.md#^damage-type-gem]]`
+`dice: [[/5. Mechanics/Items/Ring Of Resistance.md#^damage-type-gem]]`
 
 | dice: d10 | Damage Type | Gem |
 |-----------|-------------|-----|

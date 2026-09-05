@@ -11,7 +11,7 @@ aliases:
 
 **Units Raised by Keep**
 
-`dice: [[Training Units Raised By Keep (SAF).md#^units-raised-by-keep]]`
+`dice: [[/5. Mechanics/Tables/Training Units Raised By Keep (SAF).md#^units-raised-by-keep]]`
 
 | dice: d100 | Unite Type |
 |------------|------------|

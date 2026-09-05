@@ -16,30 +16,28 @@ alignment: Chaotic Good
 description: >-
   Gadof Blinsky is Vallaki's beleaguered toymaker, a heavyset man who calls
   himself "a wizard of tiny wonders" and dresses the part in a moth-eaten
-  jester's cap. His shop sells cheerful trinkets alongside disturbingly
-  morbid ones, and business has all but dried up.
+  jester's cap. His shop sells cheerful trinkets alongside disturbingly morbid
+  ones, and business has all but dried up.
 history: >-
-  Blinsky considers himself a student of the legendary inventor Fritz von
-  Weerg, and has spent years perfecting his craft in a shop most of Vallaki
-  now avoids — his fondness for macabre playthings unsettles as many
-  customers as it charms. For six months only one paying customer crossed
-  his threshold: a foreign traveler named [[Rictavio (COS)|Rictavio]], who
-  bought a stuffed Vistana doll and, sensing the toymaker's loneliness, gave
-  him a pet monkey named [[Piccolo (COS)|Piccolo]]. Overjoyed, Blinsky has
-  been training Piccolo to fetch stock from high shelves and dressed him in
-  a tailored ballerina tutu.
+  Blinsky considers himself a student of the legendary inventor Fritz von Weerg,
+  and has spent years perfecting his craft in a shop most of Vallaki now avoids
+  — his fondness for macabre playthings unsettles as many customers as it
+  charms. For six months only one paying customer crossed his threshold: a
+  foreign traveler named [[Rictavio (COS)|Rictavio]], who bought a stuffed
+  Vistana doll and, sensing the toymaker's loneliness, gave him a pet monkey
+  named [[Piccolo (COS)|Piccolo]]. Overjoyed, Blinsky has been training Piccolo
+  to fetch stock from high shelves and dressed him in a tailored ballerina tutu.
 
-  Behind his cheerful patter lies a darker secret: for months, [[Izek
-  Strazni (COS)|Izek Strazni]] — the burgomaster's fire-armed henchman — has
-  forced Blinsky to craft an increasingly lifelike doll of a woman he's
-  never met every month, threatening to burn down the shop if he refuses.
-  Izek pays nothing for the dolls and has never told Blinsky who they're
-  modeled after; Blinsky quietly obeys out of fear, never suspecting the
-  cruelty behind the commission. The burgomaster, [[Baron Vargas Vallakovich
-  (COS)|Baron Vargas Vallakovich]], keeps him afloat with a small monthly
-  stipend for festival decorations, and Blinsky, ever hopeful, believes
-  that if he can just make enough people smile — starting with Barovia's
-  children — the town's suffering might finally lift.
+  Behind his cheerful patter lies a darker secret: for months, [[Izek Strazni
+  (COS)|Izek Strazni]] — the burgomaster's fire-armed henchman — has forced
+  Blinsky to craft an increasingly lifelike doll of a woman he's never met every
+  month, threatening to burn down the shop if he refuses. Izek pays nothing for
+  the dolls and has never told Blinsky who they're modeled after; Blinsky
+  quietly obeys out of fear, never suspecting the cruelty behind the commission.
+  The burgomaster, [[Baron Vargas Vallakovich (COS)|Baron Vargas Vallakovich]],
+  keeps him afloat with a small monthly stipend for festival decorations, and
+  Blinsky, ever hopeful, believes that if he can just make enough people smile —
+  starting with Barovia's children — the town's suffering might finally lift.
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
@@ -52,16 +50,24 @@ occupation:
   - Toymaker
 groups: []
 religions: []
-personality: 'Eccentric, lonely, desperate for approval; hides real fear behind a sing-song showman''s patter'
-ideal: Everyone deserves a little joy, even in a place like this.
-bond: Piccolo, the monkey companion Rictavio gave him, is the only real friend he has left.
-flaw: His fixation on eerie, morbid toys drives away the very customers he's desperate to please.
+personality: >-
+  Eccentric, lonely, desperate for approval; hides real fear behind a sing-song
+  showman's patter
+ideal: 'Everyone deserves a little joy, even in a place like this.'
+bond: >-
+  Piccolo, the monkey companion Rictavio gave him, is the only real friend he
+  has left.
+flaw: >-
+  His fixation on eerie, morbid toys drives away the very customers he's
+  desperate to please.
 goals: >-
-  To find happiness for the children of Barovia (and himself) through his
-  toys, and to recover Fritz von Weerg's lost clockwork masterpiece from
-  Castle Ravenloft.
-likes: 'Cheerful company, Piccolo, praise for his craftsmanship, stories about the legendary toymaker Fritz von Weerg'
-dislikes: "Being laughed at, Izek Strazni's threats, empty shelves, silence in the shop"
+  To find happiness for the children of Barovia (and himself) through his toys,
+  and to recover Fritz von Weerg's lost clockwork masterpiece from Castle
+  Ravenloft.
+likes: >-
+  Cheerful company, Piccolo, praise for his craftsmanship, stories about the
+  legendary toymaker Fritz von Weerg
+dislikes: 'Being laughed at, Izek Strazni''s threats, empty shelves, silence in the shop'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -93,19 +99,7 @@ dislikes: "Being laughed at, Izek Strazni's threats, empty shelves, silence in t
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 118*
 
-Gadof Blinsky, Vallaki's toymaker, calls himself "a wizard of tiny wonders." He wears a moth-eaten jester's cap during store hours, more from habit than any real effort to entertain, and greets newcomers with a well-rehearsed patter: *"Wyelcome, friends, to the House of Blinsky, where hyappiness and smiles can be bought at bargain prices..."*
-
-## A Shop No One Visits
-
-Business has been dismal. Blinsky's fascination with eerie, morbid playthings — headless dolls with sacks of interchangeable heads, a miniature gallows with a "hanged man," nesting dolls that age into a mummified corpse — unsettles most of Vallaki, and in six months only one paying customer, a traveler calling himself [[Rictavio (COS)|Rictavio]], has crossed his threshold. Recognizing the toymaker's loneliness, Rictavio gave him a pet monkey, [[Piccolo (COS)|Piccolo]], whom Blinsky has since trained to fetch toys from high shelves and dressed in a custom ballerina tutu. The burgomaster, [[Baron Vargas Vallakovich (COS)|Baron Vargas Vallakovich]], keeps Blinsky afloat with a small monthly stipend to craft festival decorations.
-
-## The Ireena Dolls
-
-Each month, [[Izek Strazni (COS)|Izek Strazni]] — the burgomaster's fire-armed enforcer — comes to collect a doll modeled ever more closely on a woman Blinsky has never met. Izek pays nothing and threatens to burn down the shop if Blinsky refuses; the toymaker has no idea the doll is meant to resemble [[Ireena Kolyana (COS)|Ireena Kolyana]] unless she walks through his door herself.
-
-## Von Weerg's Masterpiece
-
-Blinsky considers himself a student of the legendary inventor Fritz von Weerg, and has heard rumors that von Weerg's greatest creation — a clockwork man — lies somewhere within Castle Ravenloft. He believes that if enough people find joy again, Strahd's grip on Barovia might finally loosen, and making toys for the town's children is his way of doing his part.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

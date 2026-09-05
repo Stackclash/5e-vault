@@ -35,4 +35,4 @@ aliases:
 ## 5th Level
 
 - [[/5. Mechanics/Spells/Awaken.md \|"PHB"]] at class level 9
-- [[/5. Mechanics/Spells/Conjure Element(AL).md \|"PHB"]] at class level 9
+- [[/5. Mechanics/Spells/Conjure Elemental.md \|"PHB"]] at class level 9

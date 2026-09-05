@@ -11,7 +11,7 @@ aliases:
 
 **Raiding Party Transport**
 
-`dice: [[Githyanki Raiding Parties Raiding Party Transport (MTF).md#^raiding-party-transport]]`
+`dice: [[/5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Transport (MTF).md#^raiding-party-transport]]`
 
 | dice: d6 | Transport (with crew) |
 |----------|-----------------------|

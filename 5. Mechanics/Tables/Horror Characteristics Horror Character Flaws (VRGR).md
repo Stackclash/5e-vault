@@ -11,7 +11,7 @@ aliases:
 
 **Horror Character Flaws**
 
-`dice: [[Horror Characteristics Horror Character Flaws (VRGR).md#^horror-character-flaws]]`
+`dice: [[/5. Mechanics/Tables/Horror Characteristics Horror Character Flaws (VRGR).md#^horror-character-flaws]]`
 
 | dice: d12 | Flaw |
 |-----------|------|

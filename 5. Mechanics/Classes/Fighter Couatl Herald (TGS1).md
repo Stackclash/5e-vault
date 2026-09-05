@@ -8,7 +8,7 @@ aliases:
   - Couatl Herald
 ---
 # Couatl Herald
-*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[/5. Mechanics/Classes/Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: The Griffon's Saddlebag, Book 1 p. 160*  
 
 > [!tldr] Class and Feature Progression

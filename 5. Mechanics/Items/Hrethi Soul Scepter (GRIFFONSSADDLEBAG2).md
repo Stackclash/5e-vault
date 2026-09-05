@@ -50,7 +50,7 @@ While holding the rod, you can use an action to expend 3 charges to cause the gr
 
 ## Soul of the H'rethi
 
-While holding the rod, you can use an action to expend 3 charges to summon a sand elemental in an unoccupied space on the ground that you can see within 30 feet of you that's covered in sand. Use the statistics for an [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]] for this elemental, with the following changes:
+While holding the rod, you can use an action to expend 3 charges to summon a sand elemental in an unoccupied space on the ground that you can see within 30 feet of you that's covered in sand. Use the statistics for an [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]] for this elemental, with the following changes:
 
 - The sand elemental can only move through areas of sandy terrain.  
 - The sand elemental has advantage on any ability check it makes to [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] a creature.  

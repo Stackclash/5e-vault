@@ -11,7 +11,7 @@ aliases:
 
 **Grand Masquerade Complications**
 
-`dice: [[Random Complications Grand Masquerade Complications (VRGR).md#^grand-masquerade-complications]]`
+`dice: [[/5. Mechanics/Tables/Random Complications Grand Masquerade Complications (VRGR).md#^grand-masquerade-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

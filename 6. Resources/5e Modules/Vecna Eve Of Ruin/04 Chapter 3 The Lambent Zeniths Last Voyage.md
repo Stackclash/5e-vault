@@ -137,7 +137,7 @@ When a portal appears, roll on the Portal Exit table to determine where the port
 
 **Portal Exit**
 
-`dice: [[04 Chapter 3 The Lambent Zeniths Last Voyage.md#^portal-exit]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/04 Chapter 3 The Lambent Zeniths Last Voyage.md#^portal-exit]]`
 
 | dice: d6 | Exit Location |
 |----------|---------------|
@@ -157,7 +157,7 @@ The areas between the segments contain a multitude of hungry astral predators. T
 
 **Random Wreck Encounters**
 
-`dice: [[04 Chapter 3 The Lambent Zeniths Last Voyage.md#^random-wreck-encounters]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/04 Chapter 3 The Lambent Zeniths Last Voyage.md#^random-wreck-encounters]]`
 
 | dice: d10 | Creature |
 |-----------|----------|

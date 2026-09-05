@@ -9,7 +9,7 @@ aliases:
 # Common Arctic Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 
 
-`dice: [[Common Arctic Herbs (HHBH).md#^herb]]`
+`dice: [[/5. Mechanics/Tables/Common Arctic Herbs (HHBH).md#^herb]]`
 
 | dice: d6 | Herb |
 |----------|------|

@@ -34,7 +34,7 @@ This silver and brass breastplate is adorned with subtle clock designs. While we
 
 When you roll initiative while wearing this armor, use the number rolled on the `dice:d20|noform|noparens|avg` (`d20`), before adding any modifiers, to determine which of the following effects occur:
 
-`dice: [[Time Warden Armor (GRIFFONSSADDLEBAG3).md#^effect]]`
+`dice: [[/5. Mechanics/Items/Time Warden Armor (GRIFFONSSADDLEBAG3).md#^effect]]`
 
 | dice: d20 | Effect |
 |-----------|--------|

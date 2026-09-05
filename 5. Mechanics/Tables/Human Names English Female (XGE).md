@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – English, Female**
 
-`dice: [[Human Names English Female (XGE).md#^human-names-english-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names English Female (XGE).md#^human-names-english-female]]`
 
 | dice: d100 | Name |
 |------------|------|

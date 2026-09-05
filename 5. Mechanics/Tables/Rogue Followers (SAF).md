@@ -11,7 +11,7 @@ aliases:
 
 **Rogue Followers**
 
-`dice: [[Rogue Followers (SAF).md#^rogue-followers]]`
+`dice: [[/5. Mechanics/Tables/Rogue Followers (SAF).md#^rogue-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

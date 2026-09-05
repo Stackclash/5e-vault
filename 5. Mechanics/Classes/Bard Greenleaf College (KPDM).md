@@ -8,7 +8,7 @@ aliases:
   - Greenleaf College
 ---
 # Greenleaf College
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: Deep Magic p. 124*  
 
 > [!tldr] Class and Feature Progression

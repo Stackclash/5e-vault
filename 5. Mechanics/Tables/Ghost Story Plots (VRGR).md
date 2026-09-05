@@ -11,7 +11,7 @@ aliases:
 
 **Ghost Story Plots**
 
-`dice: [[Ghost Story Plots (VRGR).md#^ghost-story-plots]]`
+`dice: [[/5. Mechanics/Tables/Ghost Story Plots (VRGR).md#^ghost-story-plots]]`
 
 | dice: d8 | Plot |
 |----------|------|

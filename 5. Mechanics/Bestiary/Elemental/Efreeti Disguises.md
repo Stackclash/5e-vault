@@ -60,8 +60,8 @@ aliases:
       \ duration than is normal for that spell; see Disguises)\n\n**3/day each:**\
       \ [[/5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]], [[/5. Mechanics/Spells/Tongues.md|tongues]],\
       \ [[/5. Mechanics/Spells/True Polymorph.md|true polymorph]] (mightier genies only;\
-      \ see Disguises)\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
-      \ ([[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md|fire elemental]] only),\
+      \ see Disguises)\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
+      \ ([[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md|fire elemental]] only),\
       \ [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
       \ [[/5. Mechanics/Spells/Major Image.md|major image]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]],\
       \ [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"

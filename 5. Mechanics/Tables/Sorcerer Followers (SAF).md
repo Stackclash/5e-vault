@@ -11,7 +11,7 @@ aliases:
 
 **Sorcerer Followers**
 
-`dice: [[Sorcerer Followers (SAF).md#^sorcerer-followers]]`
+`dice: [[/5. Mechanics/Tables/Sorcerer Followers (SAF).md#^sorcerer-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

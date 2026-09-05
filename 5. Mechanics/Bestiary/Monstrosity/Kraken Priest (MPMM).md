@@ -78,7 +78,7 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
       \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\n**At will:**\
       \ [[/5. Mechanics/Spells/Command.md|command]], [[/5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]]\n\
       \n**3/day each:** [[/5. Mechanics/Spells/Control Water.md|control water]], [[/5. Mechanics/Spells/Darkness.md|darkness]],\
-      \ [[/5. Mechanics/Spells/Water Breathing.md|water breathing]], [[/5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\
+      \ [[/5. Mechanics/Spells/Water Breathing.md|water breathing]], [[/5. Mechanics/Spells/Water Walk.md|water walk]]\n\
       \n**1/day:** [[/5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]]"
     "name": "Spellcasting"
 "source":

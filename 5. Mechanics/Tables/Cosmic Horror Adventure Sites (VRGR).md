@@ -11,7 +11,7 @@ aliases:
 
 **Cosmic Horror Adventure Sites**
 
-`dice: [[Cosmic Horror Adventure Sites (VRGR).md#^cosmic-horror-adventure-sites]]`
+`dice: [[/5. Mechanics/Tables/Cosmic Horror Adventure Sites (VRGR).md#^cosmic-horror-adventure-sites]]`
 
 | dice: d8 | Adventure Site |
 |----------|----------------|

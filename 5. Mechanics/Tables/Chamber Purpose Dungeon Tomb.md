@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon: Tomb**
 
-`dice: [[Chamber Purpose Dungeon Tomb.md#^dungeon-tomb]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose Dungeon Tomb.md#^dungeon-tomb]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

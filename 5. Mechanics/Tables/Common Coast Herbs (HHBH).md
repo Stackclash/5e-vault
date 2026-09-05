@@ -9,7 +9,7 @@ aliases:
 # Common Coast Herbs
 *Source: Hamund's Herbalism Handbook p. 42* 
 
-`dice: [[Common Coast Herbs (HHBH).md#^herb]]`
+`dice: [[/5. Mechanics/Tables/Common Coast Herbs (HHBH).md#^herb]]`
 
 | dice: d6 | Herb |
 |----------|------|

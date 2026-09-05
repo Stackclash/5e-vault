@@ -11,7 +11,7 @@ aliases:
 
 **Gnome Names – Clan**
 
-`dice: [[Gnome Names Clan (XGE).md#^gnome-names-clan]]`
+`dice: [[/5. Mechanics/Tables/Gnome Names Clan (XGE).md#^gnome-names-clan]]`
 
 | dice: d100 | Name |
 |------------|------|

@@ -62,7 +62,7 @@ Like other elves, eladrin can live to be over 750 years old.
 
 **Eladrin Seasons**
 
-`dice: [[Eladrin (MPMM).md#^eladrin-seasons]]`
+`dice: [[/5. Mechanics/Races/Eladrin (MPMM).md#^eladrin-seasons]]`
 
 | dice: d4 | Season |
 |----------|--------|

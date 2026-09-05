@@ -9,7 +9,7 @@ aliases:
 # Bloodmire Exploration; Example Dungeons
 *Source: The Griffon's Saddlebag, Book 2 p. 253* 
 
-`dice: [[Bloodmire Exploration Example Dungeons (GRIFFONSSADDLEBAG2).md#^example-dungeon]]`
+`dice: [[/5. Mechanics/Tables/Bloodmire Exploration Example Dungeons (GRIFFONSSADDLEBAG2).md#^example-dungeon]]`
 
 | dice: d6 | Example Dungeon |
 |----------|-----------------|

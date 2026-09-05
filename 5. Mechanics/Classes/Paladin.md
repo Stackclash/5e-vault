@@ -132,7 +132,7 @@ If your paladin character has a personal goal, it might be drawn from some life 
 
 **Personal Goal**
 
-`dice: [[Paladin.md#^personal-goal]]`
+`dice: [[/5. Mechanics/Classes/Paladin.md#^personal-goal]]`
 
 | dice: d6 | Personal Goal |
 |----------|---------------|
@@ -153,7 +153,7 @@ Your symbol might be displayed on a banner, a flag, or your clothing for all to 
 
 **Symbol**
 
-`dice: [[Paladin.md#^symbol]]`
+`dice: [[/5. Mechanics/Classes/Paladin.md#^symbol]]`
 
 | dice: d6 | Symbol |
 |----------|--------|
@@ -174,7 +174,7 @@ Your paladin character might have an enemy that dates from the days before you t
 
 **Nemesis**
 
-`dice: [[Paladin.md#^nemesis]]`
+`dice: [[/5. Mechanics/Classes/Paladin.md#^nemesis]]`
 
 | dice: d6 | Nemesis |
 |----------|---------|
@@ -195,7 +195,7 @@ What is the temptation that your character succumbs to or finds it difficult to 
 
 **Temptation**
 
-`dice: [[Paladin.md#^temptation]]`
+`dice: [[/5. Mechanics/Classes/Paladin.md#^temptation]]`
 
 | dice: d6 | Temptation |
 |----------|------------|

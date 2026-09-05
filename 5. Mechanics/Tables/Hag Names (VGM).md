@@ -11,7 +11,7 @@ aliases:
 
 **Hag Names**
 
-`dice: [[Hag Names (VGM).md#^hag-names]]`
+`dice: [[/5. Mechanics/Tables/Hag Names (VGM).md#^hag-names]]`
 
 | dice: d12 | Title | First Name | Last Name |
 |-----------|-------|------------|-----------|

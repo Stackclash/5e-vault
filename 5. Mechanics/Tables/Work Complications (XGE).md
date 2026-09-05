@@ -11,7 +11,7 @@ aliases:
 
 **Work Complications**
 
-`dice: [[Work Complications (XGE).md#^work-complications]]`
+`dice: [[/5. Mechanics/Tables/Work Complications (XGE).md#^work-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

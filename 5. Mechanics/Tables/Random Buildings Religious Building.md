@@ -11,7 +11,7 @@ aliases:
 
 **Religious Building**
 
-`dice: [[Random Buildings Religious Building.md#^religious-building]]`
+`dice: [[/5. Mechanics/Tables/Random Buildings Religious Building.md#^religious-building]]`
 
 | dice: d20 | Type |
 |-----------|------|

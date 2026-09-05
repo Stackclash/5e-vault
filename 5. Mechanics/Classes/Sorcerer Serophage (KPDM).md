@@ -8,7 +8,7 @@ aliases:
   - Serophage
 ---
 # Serophage
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Deep Magic p. 321*  
 
 > [!tldr] Class and Feature Progression

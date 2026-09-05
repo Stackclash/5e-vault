@@ -11,7 +11,7 @@ aliases:
 
 **Military Quests**
 
-`dice: [[Military Quests (TCE).md#^military-quests]]`
+`dice: [[/5. Mechanics/Tables/Military Quests (TCE).md#^military-quests]]`
 
 | dice: d6 | Quest |
 |----------|-------|

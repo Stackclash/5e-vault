@@ -11,7 +11,7 @@ aliases:
 
 **Birthplace**
 
-`dice: [[Birthplace (XGE).md#^birthplace]]`
+`dice: [[/5. Mechanics/Tables/Birthplace (XGE).md#^birthplace]]`
 
 | dice: d100 | Location |
 |------------|----------|

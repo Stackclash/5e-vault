@@ -11,7 +11,7 @@ aliases:
 
 **Weather**
 
-`dice: [[Weather.md#^weather]]`
+`dice: [[/5. Mechanics/Tables/Weather.md#^weather]]`
 
 | dice: d20 | Temperature |
 |-----------|-------------|

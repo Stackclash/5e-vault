@@ -11,7 +11,7 @@ aliases:
 
 **Side Quests**
 
-`dice: [[Side Quests.md#^side-quests]]`
+`dice: [[/5. Mechanics/Tables/Side Quests.md#^side-quests]]`
 
 | dice: d8 | Side Quest |
 |----------|------------|

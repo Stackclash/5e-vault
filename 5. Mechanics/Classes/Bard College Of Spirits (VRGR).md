@@ -8,7 +8,7 @@ aliases:
   - College of Spirits
 ---
 # College of Spirits
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: Van Richten's Guide to Ravenloft p. 28*  
 
 > [!tldr] Class and Feature Progression

@@ -31,7 +31,7 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 
 **War Priest Holy Symbols**
 
-`dice: [[War Priest (MPMM).md#^war-priest-holy-symbols]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/War Priest (MPMM).md#^war-priest-holy-symbols]]`
 
 | dice: d8 | Holy Symbol |
 |----------|-------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Domains of Ravenloft**
 
-`dice: [[Domains Of Ravenloft (VRGR).md#^domains-of-ravenloft]]`
+`dice: [[/5. Mechanics/Tables/Domains Of Ravenloft (VRGR).md#^domains-of-ravenloft]]`
 
 | dice: d100 | Domain |
 |------------|--------|

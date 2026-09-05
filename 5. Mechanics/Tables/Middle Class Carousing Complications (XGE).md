@@ -11,7 +11,7 @@ aliases:
 
 **Middle-Class Carousing Complications**
 
-`dice: [[Middle Class Carousing Complications (XGE).md#^middle-class-carousing-complications]]`
+`dice: [[/5. Mechanics/Tables/Middle Class Carousing Complications (XGE).md#^middle-class-carousing-complications]]`
 
 | dice: d8 | Complication |
 |----------|--------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Cosmic Horror Villains**
 
-`dice: [[Cosmic Horror Villains (VRGR).md#^cosmic-horror-villains]]`
+`dice: [[/5. Mechanics/Tables/Cosmic Horror Villains (VRGR).md#^cosmic-horror-villains]]`
 
 | dice: d8 | Villain |
 |----------|---------|

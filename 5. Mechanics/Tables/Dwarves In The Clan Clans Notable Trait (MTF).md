@@ -11,7 +11,7 @@ aliases:
 
 **Clan's Notable Trait**
 
-`dice: [[Dwarves In The Clan Clans Notable Trait (MTF).md#^clans-notable-trait]]`
+`dice: [[/5. Mechanics/Tables/Dwarves In The Clan Clans Notable Trait (MTF).md#^clans-notable-trait]]`
 
 | dice: d10 | Trait |
 |-----------|-------|

@@ -11,7 +11,7 @@ aliases:
 
 **Special Allies**
 
-`dice: [[Dwarves On The Move Special Allies (MTF).md#^special-allies]]`
+`dice: [[/5. Mechanics/Tables/Dwarves On The Move Special Allies (MTF).md#^special-allies]]`
 
 | dice: d8 | Ally |
 |----------|------|

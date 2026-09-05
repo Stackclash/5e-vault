@@ -29,7 +29,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 **Player's Handbook Trinket Table**
 
-`dice: [[Trinket.md#^players-handbook-trinket-table]]`
+`dice: [[/5. Mechanics/Items/Trinket.md#^players-handbook-trinket-table]]`
 
 | dice: d100 | Trinket |
 |------------|---------|

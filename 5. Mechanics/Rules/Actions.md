@@ -50,7 +50,7 @@ With this action, you make one melee or ranged attack. See the ""Making an Attac
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
-See also: [[/5. Mechanics/Rules/Actions.md#Disarm\|Disarm]], [[/5. Mechanics/Rules/Actions.md#Grapple\|Grapple]], [[/5. Mechanics/Rules/Actions.md#Mark\|Mark]], [[/5. Mechanics/Rules/Actions.md#Shove\|Shove]], [[/5. Mechanics/Rules/Actions.md#Shove%20Aside\|Shove Aside]], [[/5. Mechanics/Rules/Actions.md#Two-Weapon%20Fighting\|Two-Weapon Fighting]]
+See also: [[/5. Mechanics/Rules/Actions.md#Disarm\|disarm]], [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]], [[/5. Mechanics/Rules/Actions.md#Mark\|mark]], [[/5. Mechanics/Rules/Actions.md#Shove\|shove]], [[/5. Mechanics/Rules/Actions.md#Shove%20Aside\|shove aside]], [[/5. Mechanics/Rules/Actions.md#Two-Weapon%20Fighting\|two-weapon fighting]]
 
 ## Cast a Spell
 _Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -90,7 +90,7 @@ A creature can use a weapon attack to knock a weapon or another item from a targ
 
 The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
-See also: [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]]
+See also: [[/5. Mechanics/Rules/Actions.md#Attack\|attack]]
 
 This action is an optional addition to the game, from the optional/variant rule [[/5. Mechanics/Rules/Variant Rules/Action Options.md\|Action Options]].
 
@@ -129,7 +129,7 @@ _Source: Player's Handbook p. 195. Available in the <span title='Systems Referen
 
 A [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] creature can use its action to escape. To do so, it must succeed on a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check contested by your Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check.
 
-See also: [[/5. Mechanics/Rules/Actions.md#Grapple\|Grapple]]
+See also: [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]]
 
 ## Grapple
 _Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -144,7 +144,7 @@ Using at least one free hand, you try to seize the target by making a grapple ch
 
 When you move, you can drag or carry the [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
-See also: [[/5. Mechanics/Rules/Actions.md#Escape%20a%20Grapple\|Escape a Grapple]]
+See also: [[/5. Mechanics/Rules/Actions.md#Escape%20a%20Grapple\|escape a grapple]]
 
 ## Healing Surge
 _Source: Dungeon Master's Guide p. 266_
@@ -202,7 +202,7 @@ This option makes it easier for melee combatants to harry each other with opport
 
 When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] condition or the [[/5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
-See also: [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]]
+See also: [[/5. Mechanics/Rules/Actions.md#Attack\|attack]]
 
 This action is an optional addition to the game, from the optional/variant rule [[/5. Mechanics/Rules/Variant Rules/Action Options.md\|Action Options]].
 
@@ -266,7 +266,7 @@ _Source: Dungeon Master's Guide p. 272_
 
 When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check contested by the hostile creature's Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
 
-See also: [[/5. Mechanics/Rules/Actions.md#Tumble\|Tumble]]
+See also: [[/5. Mechanics/Rules/Actions.md#Tumble\|tumble]]
 
 This action is an optional addition to the game, from the optional/variant rule [[/5. Mechanics/Rules/Variant Rules/Action Options.md\|Action Options]].
 
@@ -301,7 +301,7 @@ Using the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can make
 
 The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check contested by the target's Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. If you succeed, you either knock the target [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] or push it 5 feet away from you.
 
-See also: [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]], [[/5. Mechanics/Rules/Actions.md#Shove%20Aside\|Shove Aside]]
+See also: [[/5. Mechanics/Rules/Actions.md#Attack\|attack]], [[/5. Mechanics/Rules/Actions.md#Shove%20Aside\|shove aside]]
 
 ## Shove Aside
 _Source: Dungeon Master's Guide p. 272_
@@ -328,7 +328,7 @@ _Source: Dungeon Master's Guide p. 272_
 
 A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check contested by the hostile creature's Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
 
-See also: [[/5. Mechanics/Rules/Actions.md#Overrun\|Overrun]]
+See also: [[/5. Mechanics/Rules/Actions.md#Overrun\|overrun]]
 
 This action is an optional addition to the game, from the optional/variant rule [[/5. Mechanics/Rules/Variant Rules/Action Options.md\|Action Options]].
 
@@ -341,7 +341,7 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action and a
 
 If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
-See also: [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]]
+See also: [[/5. Mechanics/Rules/Actions.md#Attack\|attack]]
 
 ## Use an Object
 _Source: Player's Handbook p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

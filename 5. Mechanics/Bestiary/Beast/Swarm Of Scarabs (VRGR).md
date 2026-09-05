@@ -25,7 +25,7 @@ Base creatures are among the first to respond to sinister forces at work in a la
 
 **Swarm Behavior**
 
-`dice: [[Swarm Of Scarabs (VRGR).md#^swarm-behavior]]`
+`dice: [[/5. Mechanics/Bestiary/Beast/Swarm Of Scarabs (VRGR).md#^swarm-behavior]]`
 
 | dice: d4 | Behavior |
 |----------|----------|

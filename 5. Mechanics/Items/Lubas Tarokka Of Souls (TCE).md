@@ -58,7 +58,7 @@ Whenever you use the Twist of Fate property, there is a chance that one of the s
 
 **Souls of the Tarokka**
 
-`dice: [[Lubas Tarokka Of Souls (TCE).md#^souls-of-the-tarokka]]`
+`dice: [[/5. Mechanics/Items/Lubas Tarokka Of Souls (TCE).md#^souls-of-the-tarokka]]`
 
 | dice: d100 | Card | Soul |
 |------------|------|------|

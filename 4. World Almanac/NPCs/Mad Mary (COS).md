@@ -15,34 +15,43 @@ aliases:
 alignment: Chaotic Neutral
 description: >-
   Mad Mary is a Barovian mother undone by grief, sitting for hours in an
-  upstairs bedroom of her boarded-up townhouse, clutching a malformed rag
-  doll and rocking in silent despair.
+  upstairs bedroom of her boarded-up townhouse, clutching a malformed rag doll
+  and rocking in silent despair.
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 pronounced: null
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: null
 occupation: []
 groups: []
 religions: []
-personality: 'Grief-stricken, withdrawn, and barely present; can be coaxed into speaking only by someone gentle and patient, and shuts down entirely if approached with anger'
-ideal: If I had only kept her closer, she would still be safe.
+personality: >-
+  Grief-stricken, withdrawn, and barely present; can be coaxed into speaking
+  only by someone gentle and patient, and shuts down entirely if approached with
+  anger
+ideal: 'If I had only kept her closer, she would still be safe.'
 bond: 'Her daughter, Gertruda — the only thing she ever truly protected'
-flaw: 'Her grief has swallowed her; she can barely function, let alone search for her daughter.'
-goals: 'To find Gertruda and bring her home safely — though she scarcely has the will left to act on it'
+flaw: >-
+  Her grief has swallowed her; she can barely function, let alone search for her
+  daughter.
+goals: >-
+  To find Gertruda and bring her home safely — though she scarcely has the will
+  left to act on it
 likes: 'Gertruda''s doll, quiet, being spoken to gently'
-dislikes: 'Anger, being confronted, the empty silence of her house since Gertruda vanished'
+dislikes: >-
+  Anger, being confronted, the empty silence of her house since Gertruda
+  vanished
 history: >-
   Mary spent her entire life hiding her daughter, [[Gertruda (COS)|Gertruda]],
-  away in their townhouse, terrified of what the village and its horrors
-  might do to the girl. A week before the adventurers typically arrive,
-  Gertruda finally broke free of the house she had never been allowed to
-  leave and vanished into the fog. Mary has barricaded herself inside ever
-  since, lost in sorrow, clutching the tattered doll — made by [[Gadof
-  Blinsky (COS)|Gadof Blinsky]] of Vallaki — that was passed down from her
-  own childhood to her daughter's. She fears the worst, and she is right to.
+  away in their townhouse, terrified of what the village and its horrors might
+  do to the girl. A week before the adventurers typically arrive, Gertruda
+  finally broke free of the house she had never been allowed to leave and
+  vanished into the fog. Mary has barricaded herself inside ever since, lost in
+  sorrow, clutching the tattered doll — made by [[Gadof Blinsky (COS)|Gadof
+  Blinsky]] of Vallaki — that was passed down from her own childhood to her
+  daughter's. She fears the worst, and she is right to.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -74,15 +83,7 @@ history: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 44*
 
-Mad Mary is a Barovian mother undone by grief, sitting for hours in an upstairs bedroom of her boarded-up townhouse, clutching a malformed rag doll and rocking in silent despair.
-
-## A Mother's Grief
-
-Mary's townhouse is boarded up and barricaded from the inside. She sits in the center of the floor of an upstairs bedroom, lost in sorrow, and barely recognizes the presence of anyone in the room. She says nothing in the presence of anger, but she will talk, albeit haltingly, to someone who speaks to her gently.
-
-## The Doll
-
-Mary hid her beloved daughter, [[Gertruda (COS)|Gertruda]], in the townhouse for the girl's entire life. Gertruda, now a teenager, broke out of the house a week ago and hasn't been seen since; her mother fears the worst, and is justified in doing so. Mary clutches a strange, leering doll in a sackcloth dress — a keepsake from her own youth that she passed down to Gertruda, made by [[Gadof Blinsky (COS)|Gadof Blinsky]], the toymaker of Vallaki. A frayed tag stitched into its hem reads, "Is No Fun, Is No Blinsky!"
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

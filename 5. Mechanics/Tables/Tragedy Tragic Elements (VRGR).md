@@ -11,7 +11,7 @@ aliases:
 
 **Tragic Elements**
 
-`dice: [[Tragedy Tragic Elements (VRGR).md#^tragic-elements]]`
+`dice: [[/5. Mechanics/Tables/Tragedy Tragic Elements (VRGR).md#^tragic-elements]]`
 
 | dice: d10 | Tragic Element |
 |-----------|----------------|

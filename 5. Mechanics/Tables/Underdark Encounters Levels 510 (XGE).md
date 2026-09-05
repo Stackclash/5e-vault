@@ -11,7 +11,7 @@ aliases:
 
 **Underdark Encounters (Levels 5—10)**
 
-`dice: [[Underdark Encounters Levels 510 (XGE).md#^underdark-encounters-levels-510]]`
+`dice: [[/5. Mechanics/Tables/Underdark Encounters Levels 510 (XGE).md#^underdark-encounters-levels-510]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -48,12 +48,12 @@ aliases:
 | 47-48 | 1 [[/5. Mechanics/Bestiary/Undead/Flameskull.md\|flameskull]] |
 | 49-50 | `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Humanoid/Duergar.md\|duergar]] |
 | 51 | 1 [[/5. Mechanics/Bestiary/Undead/Wraith.md\|wraith]] |
-| 52 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Umber Hu(LK).md\|umber hulk]] |
+| 52 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Umber Hulk.md\|umber hulk]] |
 | 53 | 1 [[/5. Mechanics/Bestiary/Elemental/Xorn.md\|xorn]] |
 | 54 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) dwarf hunters ([[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veterans]]) searching for trolls |
 | 55 | 1 [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captain]] with `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
 | 56 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Roper.md\|roper]] |
-| 57 | 1 [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Moni(TOR).md\|kuo-toa monitor]] with `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Whip.md\|kuo-toa whips]] and `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Kuo (TOA).md\|kuo-toa]] |
+| 57 | 1 [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Monitor.md\|kuo-toa monitor]] with `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Whip.md\|kuo-toa whips]] and `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Kuo (TOA).md\|kuo-toa]] |
 | 58 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Elemental/Water Weird.md\|water weirds]] |
 | 59 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] with `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] |
 | 60 | 1 [[/5. Mechanics/Bestiary/Aberration/Otyugh.md\|otyugh]] |
@@ -61,7 +61,7 @@ aliases:
 | 63 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
 | 64 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|doppelgangers]] |
 | 65 | `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Elemental/Fire Snake.md\|fire snakes]] |
-| 66 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Aberration/Specta(TOR).md\|spectators]] |
+| 66 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Aberration/Spectator.md\|spectators]] |
 | 67 | 1 [[/5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md\|orc Eye of Gruumsh]] with `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Orog.md\|orogs]] and `dice:2d10+3\|noform\|noparens\|avg` (`2d10 + 3`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
 | 68 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
 | 69 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Hook Horror.md\|hook horrors]] or `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaurs]] |
@@ -74,7 +74,7 @@ aliases:
 | 78 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Giant/Ettin.md\|ettins]] or `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] |
 | 79 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Phase Spider.md\|phase spiders]] |
 | 80 | 1 [[/5. Mechanics/Bestiary/Giant/Fomorian.md\|fomorian]] or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclopes]] |
-| 81 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elementals]] |
+| 81 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elementals]] |
 | 82 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]] |
 | 83 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Aberration/Chuul.md\|chuuls]] |
 | 84 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Fiend/Hell Hound.md\|hell hounds]] |

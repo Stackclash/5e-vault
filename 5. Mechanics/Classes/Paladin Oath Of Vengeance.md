@@ -8,7 +8,7 @@ aliases:
   - Oath of Vengeance
 ---
 # Oath of Vengeance
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 87*  
 
 > [!tldr] Class and Feature Progression

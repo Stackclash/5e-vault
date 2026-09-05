@@ -9,7 +9,7 @@ aliases:
 # Kobold Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 70* 
 
-`dice: [[Kobold Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Kobold Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|
@@ -17,7 +17,7 @@ aliases:
 | 2 | 1 mottled dragon scale | 7 sp | 3 lb |
 | 3 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) shiny trinkets | 2 sp | 1 lb |
 | 4 | 1 idol of [[/5. Mechanics/Deities/Nonhuman Kurtulmak.md\|Kurtulmak]] | 3 gp | 5 lb |
-| 5 | 25 feet of frayed [[/5. Mechanics/Items/Hempen Rope 50 F(EET).md\|rope]] | 3 sp | 5 lb |
+| 5 | 25 feet of frayed [[/5. Mechanics/Items/Hempen Rope 50 Feet.md\|rope]] | 3 sp | 5 lb |
 | 6 | 1 [[/5. Mechanics/Items/Oil Flask.md\|flask of oil]] | 1 sp | 1 lb |
 | 7 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) horns of a deceased relative | 5 cp | 2 lb |
 | 8 | 1 tattered loin cloth | 1 cp | 1 lb |

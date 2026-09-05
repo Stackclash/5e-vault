@@ -829,7 +829,7 @@ If the characters decide to see [[/4. World Almanac/NPCs/Madam Eva (COS).md\|Mad
 
 For each Vistani tent or wagon that the characters search, roll once on the following table to determine what treasure is found:
 
-`dice: [[04 Chapter 2 The Lands Of Barovia.md#^treasure]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/04 Chapter 2 The Lands Of Barovia.md#^treasure]]`
 
 | dice: d20 | Treasure |
 |-----------|----------|

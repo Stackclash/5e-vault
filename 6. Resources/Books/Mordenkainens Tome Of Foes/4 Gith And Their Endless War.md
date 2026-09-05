@@ -146,6 +146,9 @@ Knights and their silver swords are inseparable, and a knight will fight to the 
 
 - [[/5. Mechanics/Items/Greater Silver Sword (MTF).md\|Greater Silver Sword]]  
 
+> [!embed-item]- Greater Silver Sword
+> ![[/5. Mechanics/Items/Greater Silver Sword (MTF).md\|Greater Silver Sword]]
+
 #### Dragon Steeds
 
 The relationship between githyanki and red dragons has remained basically unchanged since ancient times. Under the terms of the alliance with Tiamat, a small cadre of dragons serve as cohorts and mounts for knights and other high-ranking githyanki. The dragons remain above githyanki politics. They obey the orders of their riders and fulfill their terms of service without offering opinions or advice.
@@ -394,8 +397,16 @@ As their means of vengeance against the mind flayers, the githzerai send bands o
 
 At the DM's option, you can create a gith character, using the following traits.
 
+![[/6. Resources/Books/Mordenkainens Tome Of Foes/img/315597_cn.webp#center]]
+
 - [[/5. Mechanics/Races/Githyanki (MPMM).md\|Gith (Githyanki)]]  
 - [[/5. Mechanics/Races/Githzerai (MPMM).md\|Gith (Githzerai)]]  
+
+> [!embed-race]- Gith (Githyanki)
+> ![[/5. Mechanics/Races/Githyanki (MPMM).md\|Gith (Githyanki)]]
+
+> [!embed-race]- Gith (Githzerai)
+> ![[/5. Mechanics/Races/Githzerai (MPMM).md\|Gith (Githzerai)]]
 
 ### Gith Random Height and Weight
 

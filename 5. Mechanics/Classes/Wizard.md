@@ -60,7 +60,7 @@ aliases:
 You start with the following items, plus anything provided by your background.
 
 - (a) a [[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]] or (b) a [[/5. Mechanics/Items/Dagger.md\|dagger]]
-- (a) a [[/5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]]
+- (a) a [[/5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[/5. Mechanics/Items/Arcane Focus.md\|arcane focus]]
 - (a) a [[/5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
 - A [[/5. Mechanics/Items/Spellbook.md\|spellbook]]
 
@@ -125,7 +125,7 @@ Your wizard character's most prized possession—your spellbook—might be an in
 
 **Spellbooks**
 
-`dice: [[Wizard.md#^spellbooks]]`
+`dice: [[/5. Mechanics/Classes/Wizard.md#^spellbooks]]`
 
 | dice: d6 | Spellbook |
 |----------|-----------|
@@ -146,7 +146,7 @@ Beyond the obvious, why does your wizard character study magic, and what do you 
 
 **Ambitions**
 
-`dice: [[Wizard.md#^ambitions]]`
+`dice: [[/5. Mechanics/Classes/Wizard.md#^ambitions]]`
 
 | dice: d6 | Ambition |
 |----------|----------|
@@ -167,7 +167,7 @@ If your character has an eccentricity, is it a physical tic or a mental one? Are
 
 **Eccentricities**
 
-`dice: [[Wizard.md#^eccentricities]]`
+`dice: [[/5. Mechanics/Classes/Wizard.md#^eccentricities]]`
 
 | dice: d6 | Eccentricity |
 |----------|--------------|
@@ -211,7 +211,7 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
 **Ritual Casting.** You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
-**Spellcasting Focus.** You can use an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your wizard spells.
+**Spellcasting Focus.** You can use an [[/5. Mechanics/Items/Arcane Focus.md\|arcane focus]] as a spellcasting focus for your wizard spells.
 
 **Learning Spells of 1st Level and Higher.** Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see "Your Spellbook").
 

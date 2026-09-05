@@ -31,7 +31,7 @@ Snake oil is an unreliable concoction of alchemy, druidic knowledge, and luck. W
 
 When you use an action to drink the potion, roll a `dice:d6|noform|noparens|avg` (`d6`) to determine its effects based on the rarity of the potion. Unless it says otherwise, an effect remains for 1 hour. If the potion is a rare variant, it gains both the Common and Rare effects of the potion.
 
-`dice: [[Snake Oil (GRIFFONSSADDLEBAG3).md#^common-rare]]`
+`dice: [[/5. Mechanics/Items/Snake Oil (GRIFFONSSADDLEBAG3).md#^common-rare]]`
 
 | dice: d6 | Common | Rare |
 |----------|--------|------|

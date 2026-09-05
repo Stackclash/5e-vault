@@ -45,7 +45,7 @@ saving_throw:
 
 You call forth a swirling, crackling wave of constantly shifting pops, flashes, and swept-up debris. This chaos can confound one creature. If the target gets a failure on a Wisdom saving throw, roll a `dice:d4|noform|noparens|avg` (`d4`) and consult the following table to determine the result. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Otherwise, the spell ends when its duration expires.
 
-`dice: [[Timely Distraction (KPDM).md#^affliction]]`
+`dice: [[/5. Mechanics/Spells/Timely Distraction (KPDM).md#^affliction]]`
 
 | dice: d4 | Affliction |
 |----------|------------|

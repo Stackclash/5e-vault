@@ -11,7 +11,7 @@ aliases:
 
 **Barbarian Followers**
 
-`dice: [[Barbarian Followers (SAF).md#^barbarian-followers]]`
+`dice: [[/5. Mechanics/Tables/Barbarian Followers (SAF).md#^barbarian-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

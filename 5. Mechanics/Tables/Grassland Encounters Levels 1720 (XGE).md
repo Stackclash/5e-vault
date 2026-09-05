@@ -11,7 +11,7 @@ aliases:
 
 **Grassland Encounters (Levels 17—20)**
 
-`dice: [[Grassland Encounters Levels 1720 (XGE).md#^grassland-encounters-levels-1720]]`
+`dice: [[/5. Mechanics/Tables/Grassland Encounters Levels 1720 (XGE).md#^grassland-encounters-levels-1720]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

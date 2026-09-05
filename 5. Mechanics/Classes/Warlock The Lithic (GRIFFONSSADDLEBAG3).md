@@ -8,7 +8,7 @@ aliases:
   - The Lithic
 ---
 # The Lithic
-*[[.nullWarlock.md\|Warlock]]: Otherworldly Patron*  
+*[[/5. Mechanics/Classes/Warlock.md\|Warlock]]: Otherworldly Patron*  
 *Source: The Griffon's Saddlebag, Book 3 p. 1*  
 
 > [!tldr] Class and Feature Progression
@@ -80,7 +80,7 @@ In addition, you can use a bonus action to become [[/5. Mechanics/Rules/Conditio
 
 ### Invoke Earth (Level 10)
 
-At 10th level, you can use an action to expend a use of your Heart of Stone feature to transform into an [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]], as if by the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell (even though its not a beast), without requiring concentration. You remain transformed for 1 hour or until you end the effect as a bonus action or are reduced to 0 hit points.
+At 10th level, you can use an action to expend a use of your Heart of Stone feature to transform into an [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]], as if by the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell (even though its not a beast), without requiring concentration. You remain transformed for 1 hour or until you end the effect as a bonus action or are reduced to 0 hit points.
 
 You retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies. Once you use this feature, you can not do so again until you finish a long rest.
 

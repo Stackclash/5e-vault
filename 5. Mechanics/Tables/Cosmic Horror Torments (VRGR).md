@@ -11,7 +11,7 @@ aliases:
 
 **Cosmic Horror Torments**
 
-`dice: [[Cosmic Horror Torments (VRGR).md#^cosmic-horror-torments]]`
+`dice: [[/5. Mechanics/Tables/Cosmic Horror Torments (VRGR).md#^cosmic-horror-torments]]`
 
 | dice: d8 | Torment |
 |----------|---------|

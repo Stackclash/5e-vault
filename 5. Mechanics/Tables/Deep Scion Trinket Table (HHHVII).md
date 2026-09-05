@@ -9,7 +9,7 @@ aliases:
 # Deep Scion Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume II p. 13* 
 
-`dice: [[Deep Scion Trinket Table (HHHVII).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Deep Scion Trinket Table (HHHVII).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

@@ -11,7 +11,7 @@ aliases:
 
 **What Minor Property Does It Have**
 
-`dice: [[Special Features What Minor Property Does It Have.md#^what-minor-property-does-it-have]]`
+`dice: [[/5. Mechanics/Tables/Special Features What Minor Property Does It Have.md#^what-minor-property-does-it-have]]`
 
 | dice: d20 | Minor Property |
 |-----------|----------------|

@@ -32,7 +32,7 @@ The creature is friendly to you and your companions, and it acts on your turn. Y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-`dice: [[Bag Of Tricks Rust.md#^creature]]`
+`dice: [[/5. Mechanics/Items/Bag Of Tricks Rust.md#^creature]]`
 
 | dice: d8 | Creature |
 |----------|----------|

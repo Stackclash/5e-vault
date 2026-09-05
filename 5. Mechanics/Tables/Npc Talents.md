@@ -11,7 +11,7 @@ aliases:
 
 **NPC Talents**
 
-`dice: [[Npc Talents.md#^npc-talents]]`
+`dice: [[/5. Mechanics/Tables/Npc Talents.md#^npc-talents]]`
 
 | dice: d20 | Talent |
 |-----------|--------|

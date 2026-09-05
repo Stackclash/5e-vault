@@ -11,7 +11,7 @@ aliases:
 
 **The Spell Targets One Enemy**
 
-`dice: [[Inventing A New Spell The Spell Targets One Enemy (SAF).md#^the-spell-targets-one-enemy]]`
+`dice: [[/5. Mechanics/Tables/Inventing A New Spell The Spell Targets One Enemy (SAF).md#^the-spell-targets-one-enemy]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|

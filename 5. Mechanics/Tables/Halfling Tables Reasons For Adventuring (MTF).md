@@ -11,7 +11,7 @@ aliases:
 
 **Reasons for Adventuring**
 
-`dice: [[Halfling Tables Reasons For Adventuring (MTF).md#^reasons-for-adventuring]]`
+`dice: [[/5. Mechanics/Tables/Halfling Tables Reasons For Adventuring (MTF).md#^reasons-for-adventuring]]`
 
 | dice: d6 | Reason |
 |----------|--------|

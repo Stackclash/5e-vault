@@ -8,7 +8,7 @@ aliases:
   - Prescient Knight
 ---
 # Prescient Knight
-*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[/5. Mechanics/Classes/Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Deep Magic p. 6*  
 
 > [!tldr] Class and Feature Progression

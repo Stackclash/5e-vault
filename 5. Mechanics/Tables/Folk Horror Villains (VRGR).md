@@ -11,7 +11,7 @@ aliases:
 
 **Folk Horror Villains**
 
-`dice: [[Folk Horror Villains (VRGR).md#^folk-horror-villains]]`
+`dice: [[/5. Mechanics/Tables/Folk Horror Villains (VRGR).md#^folk-horror-villains]]`
 
 | dice: d8 | Villain |
 |----------|---------|

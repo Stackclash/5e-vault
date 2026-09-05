@@ -11,7 +11,7 @@ aliases:
 
 **Swamp Encounters (Levels 11—20)**
 
-`dice: [[Swamp Encounters Levels 1120 (XGE).md#^swamp-encounters-levels-1120]]`
+`dice: [[/5. Mechanics/Tables/Swamp Encounters Levels 1120 (XGE).md#^swamp-encounters-levels-1120]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -24,7 +24,7 @@ aliases:
 | 36-40 | Fog that rolls across the terrain, making the area within `dice:1d3\|noform\|noparens\|avg` (`1d3`) miles heavily obscured for `dice:1d4\|noform\|noparens\|avg` (`1d4`) hours |
 | 41-45 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]] |
 | 46-50 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]] |
-| 51-55 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elementals]] |
+| 51-55 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elementals]] |
 | 56-60 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Dragon/Young Black Dragon.md\|young black dragons]] |
 | 61-65 | An eerie, bat-headed idol almost completely covered by vines |
 | 66-70 | `dice:1d8+2\|noform\|noparens\|avg` (`1d8 + 2`) [[/5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] |

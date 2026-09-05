@@ -11,7 +11,7 @@ aliases:
 
 **Mountain Encounters (Levels 17—20)**
 
-`dice: [[Mountain Encounters Levels 1720 (XGE).md#^mountain-encounters-levels-1720]]`
+`dice: [[/5. Mechanics/Tables/Mountain Encounters Levels 1720 (XGE).md#^mountain-encounters-levels-1720]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -23,7 +23,7 @@ aliases:
 | 26-30 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Elemental/Galeb Duhr.md\|galeb duhr]] |
 | 31-35 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]] |
 | 36-40 | A wooded valley haunted by secretive and reclusive elves who tell warily of their master: a mad wizard who lives in the heart of the valley |
-| 41-45 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elementals]] |
+| 41-45 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elementals]] |
 | 46-50 | `dice:1d6+3\|noform\|noparens\|avg` (`1d6 + 3`) [[/5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] |
 | 51-55 | 1 [[/5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md\|adult red dragon]] |
 | 56-60 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Cloud Giant.md\|cloud giants]] |

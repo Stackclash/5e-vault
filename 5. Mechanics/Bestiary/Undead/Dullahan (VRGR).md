@@ -31,7 +31,7 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
 
 **Dullahan Legends**
 
-`dice: [[Dullahan (VRGR).md#^dullahan-legends]]`
+`dice: [[/5. Mechanics/Bestiary/Undead/Dullahan (VRGR).md#^dullahan-legends]]`
 
 | dice: d4 | Haunting |
 |----------|----------|

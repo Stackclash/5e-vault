@@ -177,7 +177,7 @@ Encounters marked with an asterisk have explanations that appear after the table
 | 4 | 6 | 1d4 + 1 [[/5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] and 1 [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]] |
 | 5 | 7 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Giant Swamp Goose (GRIFFONSSADDLEBAG3).md\|giant swamp goose]] |
 | - | 8 | 1d3 [[/5. Mechanics/Bestiary/Monstrosity/Owlbear.md\|owlbears]] |
-| 7 | - | 1d3 + 1 [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
+| 7 | - | 1d3 + 1 [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] |
 | 8 | 9 | 1d4 + 1 [[/5. Mechanics/Bestiary/Humanoid/Bugbear.md\|bugbears]] |
 | 9 | - | Rooble loggers* |
 | 10 | - | Caravan* |
@@ -186,7 +186,7 @@ Encounters marked with an asterisk have explanations that appear after the table
 | 13 | 11 | Human [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]]* |
 | 14 | 12 | 1d4 + 1 [[/5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] |
 | 15 | - | Rooble hunters* |
-| 16 | - | 1d6 + 2 [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
+| 16 | - | 1d6 + 2 [[/5. Mechanics/Bestiary/Humanoid/Lizardfolk.md\|lizardfolk]] |
 | 17 | 13 | 1d3 frogres (rooble [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]]) |
 | 18 | 14 | 1 [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mound]] |
 | 19 | - | 1d2 [[/5. Mechanics/Bestiary/Beast/Giant Vulture.md\|giant vultures]] |

@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon History**
 
-`dice: [[Dungeon History.md#^dungeon-history]]`
+`dice: [[/5. Mechanics/Tables/Dungeon History.md#^dungeon-history]]`
 
 | dice: d20 | Key Event |
 |-----------|-----------|

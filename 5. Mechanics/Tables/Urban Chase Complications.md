@@ -11,7 +11,7 @@ aliases:
 
 **Urban Chase Complications**
 
-`dice: [[Urban Chase Complications.md#^urban-chase-complications]]`
+`dice: [[/5. Mechanics/Tables/Urban Chase Complications.md#^urban-chase-complications]]`
 
 | dice: d20 | Complication |
 |-----------|--------------|
@@ -23,7 +23,7 @@ aliases:
 | 6 | You come upon a pack of dogs fighting over food. Make a DC 10 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check to get through the pack unimpeded. On a failed check, you are bitten and take `dice:1d4\|noform\|noparens\|avg` (`1d4`) piercing damage, and the dogs count as 5 feet of difficult terrain. |
 | 7 | You run into a brawl in progress. Make a DC 15 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]), Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]), or Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) check (your choice) to get past the brawlers unimpeded. On a failed check, you take `dice:2d4\|noform\|noparens\|avg` (`2d4`) bludgeoning damage, and the brawlers count as 10 feet of difficult terrain. |
 | 8 | A beggar blocks your way. Make a DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]), Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]), or Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) check (your choice) to slip past the beggar. You succeed automatically if you toss the beggar a coin. On a failed check, the beggar counts as 5 feet of difficult terrain. |
-| 9 | An overzealous guard (see the Monster Manual (or game statistics) mistakes you for someone else. If you move 20 feet or more on your turn, the guard makes an opportunity attack against you with a spear (`dice:1d20+3\|noform\|noparens\|text(+3)` to hit; `dice:1d6+1\|noform\|noparens\|avg` (`1d6 + 1`) piercing damage on a hit). |
+| 9 | An overzealous guard (see the Monster Manual for game statistics) mistakes you for someone else. If you move 20 feet or more on your turn, the guard makes an opportunity attack against you with a spear (`dice:1d20+3\|noform\|noparens\|text(+3)` to hit; `dice:1d6+1\|noform\|noparens\|avg` (`1d6 + 1`) piercing damage on a hit). |
 | 10 | You are forced to make a sharp turn to avoid colliding with something impassable. Make a DC 10 Dexterity saving throw to navigate the turn. On a failed save, you collide with something hard and take `dice:1d4\|noform\|noparens\|avg` (`1d4`) bludgeoning damage. |
 | 11-20 | No complication. |
 ^urban-chase-complications

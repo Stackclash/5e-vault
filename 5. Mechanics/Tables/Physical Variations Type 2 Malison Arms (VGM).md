@@ -11,7 +11,7 @@ aliases:
 
 **Type 2 Malison: Arms**
 
-`dice: [[Physical Variations Type 2 Malison Arms (VGM).md#^type-2-malison-arms]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Type 2 Malison Arms (VGM).md#^type-2-malison-arms]]`
 
 | dice: d10 | Malison Type 2 Arm* |
 |-----------|---------------------|

@@ -9,7 +9,7 @@ aliases:
 # Grymclover Forests; Example Grymclover Jungle Random Encounter Table
 *Source: The Griffon's Saddlebag, Book 2 p. 279* 
 
-`dice: [[Grymclover Forests Example Grymclover Jungle Random Encounter Table (GRIFFONSSADDLEBAG2).md#^2-encounter]]`
+`dice: [[/5. Mechanics/Tables/Grymclover Forests Example Grymclover Jungle Random Encounter Table (GRIFFONSSADDLEBAG2).md#^2-encounter]]`
 
 | dice: 2d12 | Encounter |
 |------------|-----------|

@@ -37,7 +37,7 @@ As part of preparing this herb, you must soak an article of clothing, a creature
 
 **Tailor's Gamble Colour Table**
 
-`dice: [[Tailors Gamble (HHBH).md#^tailors-gamble-colour-table]]`
+`dice: [[/5. Mechanics/Items/Tailors Gamble (HHBH).md#^tailors-gamble-colour-table]]`
 
 | dice: d8 | Colour |
 |----------|--------|

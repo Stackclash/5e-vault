@@ -11,7 +11,7 @@ aliases:
 
 **Ghost's History**
 
-`dice: [[Ghosts History (VRGR).md#^ghosts-history]]`
+`dice: [[/5. Mechanics/Tables/Ghosts History (VRGR).md#^ghosts-history]]`
 
 | dice: d6 | Ghost's History |
 |----------|-----------------|

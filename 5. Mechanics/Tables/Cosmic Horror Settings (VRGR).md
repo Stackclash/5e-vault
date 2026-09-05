@@ -11,7 +11,7 @@ aliases:
 
 **Cosmic Horror Settings**
 
-`dice: [[Cosmic Horror Settings (VRGR).md#^cosmic-horror-settings]]`
+`dice: [[/5. Mechanics/Tables/Cosmic Horror Settings (VRGR).md#^cosmic-horror-settings]]`
 
 | dice: d8 | Setting |
 |----------|---------|

@@ -11,7 +11,7 @@ aliases:
 
 **Abyssal Corruption**
 
-`dice: [[Optional Rule Abyssal Corruption Abyssal Corruption.md#^abyssal-corruption]]`
+`dice: [[/5. Mechanics/Tables/Optional Rule Abyssal Corruption Abyssal Corruption.md#^abyssal-corruption]]`
 
 | dice: d10 | Result |
 |-----------|--------|

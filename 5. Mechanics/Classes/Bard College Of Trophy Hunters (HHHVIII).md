@@ -8,7 +8,7 @@ aliases:
   - College of Trophy Hunters
 ---
 # College of Trophy Hunters
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 109*  
 
 > [!tldr] Class and Feature Progression

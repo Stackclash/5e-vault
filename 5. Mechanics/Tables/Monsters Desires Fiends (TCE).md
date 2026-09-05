@@ -11,7 +11,7 @@ aliases:
 
 **Fiends**
 
-`dice: [[Monsters Desires Fiends (TCE).md#^fiends]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Fiends (TCE).md#^fiends]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

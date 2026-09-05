@@ -11,7 +11,7 @@ aliases:
 
 **Horror Character Personality Traits**
 
-`dice: [[Horror Characteristics Horror Character Personality Traits (VRGR).md#^horror-character-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Horror Characteristics Horror Character Personality Traits (VRGR).md#^horror-character-personality-traits]]`
 
 | dice: d12 | Personality Trait |
 |-----------|-------------------|

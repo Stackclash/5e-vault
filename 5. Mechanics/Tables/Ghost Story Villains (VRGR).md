@@ -11,7 +11,7 @@ aliases:
 
 **Ghost Story Villains**
 
-`dice: [[Ghost Story Villains (VRGR).md#^ghost-story-villains]]`
+`dice: [[/5. Mechanics/Tables/Ghost Story Villains (VRGR).md#^ghost-story-villains]]`
 
 | dice: d10 | Villain |
 |-----------|---------|

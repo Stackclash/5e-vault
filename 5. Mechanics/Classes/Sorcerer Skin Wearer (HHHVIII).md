@@ -8,7 +8,7 @@ aliases:
   - Skin Wearer
 ---
 # Skin Wearer
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 116*  
 
 > [!tldr] Class and Feature Progression

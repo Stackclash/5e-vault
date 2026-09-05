@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Celtic, Male**
 
-`dice: [[Human Names Celtic Male (XGE).md#^human-names-celtic-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Celtic Male (XGE).md#^human-names-celtic-male]]`
 
 | dice: d100 | Name |
 |------------|------|

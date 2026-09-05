@@ -11,7 +11,7 @@ aliases:
 
 **General Features**
 
-`dice: [[Dungeon Dressing General Features.md#^general-features]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing General Features.md#^general-features]]`
 
 | dice: d100 | Item |
 |------------|------|

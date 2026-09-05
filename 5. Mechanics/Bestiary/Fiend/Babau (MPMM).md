@@ -81,7 +81,7 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
   - "desc": "The babau casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\n**At will:**\
       \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-      \ [[/5. Mechanics/Spells/Fear.md|fear]], [[/5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
+      \ [[/5. Mechanics/Spells/Fear.md|fear]], [[/5. Mechanics/Spells/Heat Metal.md|heat metal]],\
       \ [[/5. Mechanics/Spells/Levitate.md|levitate]]"
     "name": "Spellcasting"
 "source":

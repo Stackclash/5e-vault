@@ -67,7 +67,7 @@ When you inspect an area for clues, proficiency with [[/5. Mechanics/Items/Alche
 
 #### Alchemical Crafting
 
-You can use this tool proficiency to create alchemical items. A character can spend money to collect raw materials, which weigh 1 pound for every 50 gp spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a long rest, you can use [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] to make one dose of [[/5. Mechanics/Items/Acid Vi(AL).md\|acid]], [[/5. Mechanics/Items/Alchemists Fire Flask.md\|alchemist's fire]], [[/5. Mechanics/Items/Antitoxin Vi(AL).md\|antitoxin]], [[/5. Mechanics/Items/Oil Flask.md\|oil]], [[/5. Mechanics/Items/Perfume Vi(AL).md\|perfume]], or [[/5. Mechanics/Items/Soap.md\|soap]]. Subtract half the value of the created item from the total gp worth of raw materials you are carrying.
+You can use this tool proficiency to create alchemical items. A character can spend money to collect raw materials, which weigh 1 pound for every 50 gp spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a long rest, you can use [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] to make one dose of [[/5. Mechanics/Items/Acid Vial.md\|acid]], [[/5. Mechanics/Items/Alchemists Fire Flask.md\|alchemist's fire]], [[/5. Mechanics/Items/Antitoxin Vial.md\|antitoxin]], [[/5. Mechanics/Items/Oil Flask.md\|oil]], [[/5. Mechanics/Items/Perfume Vial.md\|perfume]], or [[/5. Mechanics/Items/Soap.md\|soap]]. Subtract half the value of the created item from the total gp worth of raw materials you are carrying.
 
 **Alchemist's Supplies**
 

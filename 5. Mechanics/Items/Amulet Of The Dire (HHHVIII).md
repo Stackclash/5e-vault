@@ -28,7 +28,7 @@ While enlarged in this way, you have advantage on Strength checks and Strength s
 
 **Trollish Mutation**
 
-`dice: [[Amulet Of The Dire (HHHVIII).md#^trollish-mutation]]`
+`dice: [[/5. Mechanics/Items/Amulet Of The Dire (HHHVIII).md#^trollish-mutation]]`
 
 | dice: d4 | Mutation |
 |----------|----------|

@@ -41,7 +41,7 @@ The more powerful an NPC, the more likely it has one or more magic items in its 
 - [[/5. Mechanics/Bestiary/Humanoid/Cultist.md\|Cultist]]  
 - [[/5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|Cult Fanatic]]  
 - [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|Druid]]  
-- [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|Gladiator]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|Gladiator]]  
 - [[/5. Mechanics/Bestiary/Humanoid/Guard.md\|Guard]]  
 - [[/5. Mechanics/Bestiary/Humanoid/Knight.md\|Knight]]  
 - [[/5. Mechanics/Bestiary/Humanoid/Mage.md\|Mage]]  
@@ -51,4 +51,109 @@ The more powerful an NPC, the more likely it has one or more magic items in its 
 - [[/5. Mechanics/Bestiary/Humanoid/Spy.md\|Spy]]  
 - [[/5. Mechanics/Bestiary/Humanoid/Thug.md\|Thug]]  
 - [[/5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|Tribal Warrior]]  
-- [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|Veteran]]
+- [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|Veteran]]  
+
+## Acolyte
+
+> [!embed-monster]- Acolyte
+> ![[/5. Mechanics/Bestiary/Humanoid/Acolyte.md#^statblock\|Acolyte]]
+
+## Archmage
+
+> [!embed-monster]- Archmage
+> ![[/5. Mechanics/Bestiary/Humanoid/Archmage.md#^statblock\|Archmage]]
+
+## Assassin
+
+> [!embed-monster]- Assassin
+> ![[/5. Mechanics/Bestiary/Humanoid/Assassin.md#^statblock\|Assassin]]
+
+## Bandit
+
+> [!embed-monster]- Bandit
+> ![[/5. Mechanics/Bestiary/Humanoid/Bandit.md#^statblock\|Bandit]]
+
+## Bandit Captain
+
+> [!embed-monster]- Bandit Captain
+> ![[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md#^statblock\|Bandit Captain]]
+
+## Berserker
+
+> [!embed-monster]- Berserker
+> ![[/5. Mechanics/Bestiary/Humanoid/Berserker.md#^statblock\|Berserker]]
+
+## Commoner
+
+> [!embed-monster]- Commoner
+> ![[/5. Mechanics/Bestiary/Humanoid/Commoner.md#^statblock\|Commoner]]
+
+## Cult Fanatic
+
+> [!embed-monster]- Cult Fanatic
+> ![[/5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md#^statblock\|Cult Fanatic]]
+
+## Cultist
+
+> [!embed-monster]- Cultist
+> ![[/5. Mechanics/Bestiary/Humanoid/Cultist.md#^statblock\|Cultist]]
+
+## Druid
+
+> [!embed-monster]- Druid
+> ![[/5. Mechanics/Bestiary/Humanoid/Druid.md#^statblock\|Druid]]
+
+## Gladiator
+
+> [!embed-monster]- Gladiator
+> ![[/5. Mechanics/Bestiary/Humanoid/Gladiator.md#^statblock\|Gladiator]]
+
+## Guard
+
+> [!embed-monster]- Guard
+> ![[/5. Mechanics/Bestiary/Humanoid/Guard.md#^statblock\|Guard]]
+
+## Knight
+
+> [!embed-monster]- Knight
+> ![[/5. Mechanics/Bestiary/Humanoid/Knight.md#^statblock\|Knight]]
+
+## Mage
+
+> [!embed-monster]- Mage
+> ![[/5. Mechanics/Bestiary/Humanoid/Mage.md#^statblock\|Mage]]
+
+## Noble
+
+> [!embed-monster]- Noble
+> ![[/5. Mechanics/Bestiary/Humanoid/Noble.md#^statblock\|Noble]]
+
+## Priest
+
+> [!embed-monster]- Priest
+> ![[/5. Mechanics/Bestiary/Humanoid/Priest.md#^statblock\|Priest]]
+
+## Scout
+
+> [!embed-monster]- Scout
+> ![[/5. Mechanics/Bestiary/Humanoid/Scout.md#^statblock\|Scout]]
+
+## Spy
+
+> [!embed-monster]- Spy
+> ![[/5. Mechanics/Bestiary/Humanoid/Spy.md#^statblock\|Spy]]
+
+## Thug
+
+> [!embed-monster]- Thug
+> ![[/5. Mechanics/Bestiary/Humanoid/Thug.md#^statblock\|Thug]]
+
+## Tribal Warrior
+
+> [!embed-monster]- Tribal Warrior
+> ![[/5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md#^statblock\|Tribal Warrior]]
+
+## Veteran
+
+> [!embed-monster]- Veteran
+> ![[/5. Mechanics/Bestiary/Humanoid/Veteran.md#^statblock\|Veteran]]

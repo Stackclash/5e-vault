@@ -11,7 +11,7 @@ aliases:
 
 **Aristocrat Contact**
 
-`dice: [[Aristocrat Contact (TCE).md#^aristocrat-contact]]`
+`dice: [[/5. Mechanics/Tables/Aristocrat Contact (TCE).md#^aristocrat-contact]]`
 
 | dice: d6 | Contact |
 |----------|---------|

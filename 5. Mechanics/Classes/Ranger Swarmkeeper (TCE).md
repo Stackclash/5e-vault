@@ -8,7 +8,7 @@ aliases:
   - Swarmkeeper
 ---
 # Swarmkeeper
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Tasha's Cauldron of Everything p. 59*  
 
 > [!tldr] Class and Feature Progression
@@ -55,7 +55,7 @@ A swarm of intangible nature spirits has bonded itself to you and can assist you
 
 **Swarm Appearance**
 
-`dice: [[Ranger Swarmkeeper (TCE).md#^swarm-appearance]]`
+`dice: [[/5. Mechanics/Classes/Ranger Swarmkeeper (TCE).md#^swarm-appearance]]`
 
 | dice: d4 | Appearance |
 |----------|------------|

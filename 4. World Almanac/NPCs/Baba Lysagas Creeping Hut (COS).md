@@ -12,7 +12,6 @@ images:
   - 4. World Almanac\NPCs\img\baba-lysagas-creeping-hut.webp
 aliases:
   - Baba Lysaga's Creeping Hut
-  - Baba Lysagas Creeping Hut
 alignment: Unaligned
 relationships: []
 partyRelationships: {}
@@ -30,7 +29,9 @@ personality: >-
 ideal: null
 bond: null
 flaw: null
-goals: 'Whatever Baba Lysaga commands — historically, guarding her and attacking intruders at the Ruins of Berez.'
+goals: >-
+  Whatever Baba Lysaga commands — historically, guarding her and attacking
+  intruders at the Ruins of Berez.
 likes: null
 dislikes: null
 description: >-
@@ -40,9 +41,9 @@ history: >-
   Baba Lysaga built the hut atop the rotted stump of a long-felled giant tree,
   giving it a crude semblance of life only after embedding a stolen magic
   gemstone — one of three that once kept the Wizard of Wines vineyard
-  flourishing — in a cavity beneath its floorboards. Whenever she willed it,
-  the hut tore its roots free and stalked the Ruins of Berez as her guardian
-  and war engine. The gem has since been torn out and the hut left inert.
+  flourishing — in a cavity beneath its floorboards. Whenever she willed it, the
+  hut tore its roots free and stalked the Ruins of Berez as her guardian and war
+  engine. The gem has since been torn out and the hut left inert.
 ---
 > [!infobox]
 > # `=this.file.name`

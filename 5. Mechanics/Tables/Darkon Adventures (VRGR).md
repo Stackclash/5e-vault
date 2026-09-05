@@ -11,7 +11,7 @@ aliases:
 
 **Darkon Adventures**
 
-`dice: [[Darkon Adventures (VRGR).md#^darkon-adventures]]`
+`dice: [[/5. Mechanics/Tables/Darkon Adventures (VRGR).md#^darkon-adventures]]`
 
 | dice: d6 | Adventure |
 |----------|-----------|

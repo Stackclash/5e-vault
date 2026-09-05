@@ -11,7 +11,7 @@ aliases:
 
 **Duergar Purpose of Raid**
 
-`dice: [[Duergar Raiding Parties Duergar Purpose Of Raid (MTF).md#^duergar-purpose-of-raid]]`
+`dice: [[/5. Mechanics/Tables/Duergar Raiding Parties Duergar Purpose Of Raid (MTF).md#^duergar-purpose-of-raid]]`
 
 | dice: d6 | Purpose |
 |----------|---------|

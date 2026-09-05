@@ -40,7 +40,7 @@ If an effect covers an area, you must center the spell on and include the target
 
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into dust and is destroyed.
 
-`dice: [[Wand Of Wonder.md#^effect]]`
+`dice: [[/5. Mechanics/Items/Wand Of Wonder.md#^effect]]`
 
 | dice: d100 | Effect |
 |------------|--------|

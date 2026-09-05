@@ -11,7 +11,7 @@ aliases:
 
 **NPC Bonds**
 
-`dice: [[Npc Bonds.md#^npc-bonds]]`
+`dice: [[/5. Mechanics/Tables/Npc Bonds.md#^npc-bonds]]`
 
 | dice: d10 | Bond |
 |-----------|------|

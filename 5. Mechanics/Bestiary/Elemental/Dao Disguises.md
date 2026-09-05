@@ -61,8 +61,8 @@ aliases:
       \ duration than is normal for that spell; see Disguises)\n\n**3/day each:**\
       \ [[/5. Mechanics/Spells/Passwall.md|passwall]], [[/5. Mechanics/Spells/Move Earth.md|move earth]],\
       \ [[/5. Mechanics/Spells/Tongues.md|tongues]], [[/5. Mechanics/Spells/True Polymorph.md|true polymorph]]\
-      \ (mightier genies only; see Disguises)\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
-      \ ([[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md|earth elemental]] only),\
+      \ (mightier genies only; see Disguises)\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]\
+      \ ([[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md|earth elemental]] only),\
       \ [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
       \ [[/5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]],\
       \ [[/5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]"

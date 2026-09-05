@@ -128,7 +128,7 @@ Your character could be affiliated with an organization or a cause, and thus mig
 
 **Heraldic Signs**
 
-`dice: [[Fighter.md#^heraldic-signs]]`
+`dice: [[/5. Mechanics/Classes/Fighter.md#^heraldic-signs]]`
 
 | dice: d6 | Heraldic Signs |
 |----------|----------------|
@@ -151,7 +151,7 @@ If you decide that your character had an individual instructor, what is that per
 
 **Instructor**
 
-`dice: [[Fighter.md#^instructor]]`
+`dice: [[/5. Mechanics/Classes/Fighter.md#^instructor]]`
 
 | dice: d6 | Instructor |
 |----------|------------|
@@ -172,7 +172,7 @@ Do you have a combat style that mirrors your outlook on life, or is something el
 
 **Style**
 
-`dice: [[Fighter.md#^style]]`
+`dice: [[/5. Mechanics/Classes/Fighter.md#^style]]`
 
 | dice: d6 | Style |
 |----------|-------|

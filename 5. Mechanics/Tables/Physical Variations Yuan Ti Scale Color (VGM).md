@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Scale Color**
 
-`dice: [[Physical Variations Yuan Ti Scale Color (VGM).md#^yuan-ti-scale-color]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Yuan Ti Scale Color (VGM).md#^yuan-ti-scale-color]]`
 
 | dice: d100 | Scale Color |
 |------------|-------------|

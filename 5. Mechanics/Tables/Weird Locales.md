@@ -11,7 +11,7 @@ aliases:
 
 **Weird Locales**
 
-`dice: [[Weird Locales.md#^weird-locales]]`
+`dice: [[/5. Mechanics/Tables/Weird Locales.md#^weird-locales]]`
 
 | dice: d20 | Locale |
 |-----------|--------|

@@ -35,7 +35,7 @@ You can create an instantaneous, harmless sensory effect when you don or doff a 
 
 When found, the ring has a 50 percent chance to have a set of bound armor in its extradimensional space. The GM can choose a suit of bound armor from the following table or roll a `dice:d12|noform|noparens|avg` (`d12`) to determine it randomly.
 
-`dice: [[Quick Change Ring (GRIFFONSSADDLEBAG2).md#^armor]]`
+`dice: [[/5. Mechanics/Items/Quick Change Ring (GRIFFONSSADDLEBAG2).md#^armor]]`
 
 | dice: d12 | Armor |
 |-----------|-------|

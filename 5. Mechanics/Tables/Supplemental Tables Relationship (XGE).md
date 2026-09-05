@@ -11,7 +11,7 @@ aliases:
 
 **Relationship**
 
-`dice: [[Supplemental Tables Relationship (XGE).md#^relationship]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Relationship (XGE).md#^relationship]]`
 
 | dice: 3d4 | Attitude |
 |-----------|----------|

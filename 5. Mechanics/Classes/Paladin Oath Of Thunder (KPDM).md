@@ -8,7 +8,7 @@ aliases:
   - Oath of Thunder
 ---
 # Oath of Thunder
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Deep Magic p. 142*  
 
 > [!tldr] Class and Feature Progression

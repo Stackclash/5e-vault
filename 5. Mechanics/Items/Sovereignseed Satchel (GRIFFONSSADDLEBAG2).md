@@ -27,7 +27,7 @@ This unassuming leather satchel is embroidered with a floral pattern and is conn
 
 **Optional Caption**
 
-`dice: [[Sovereignseed Satchel (GRIFFONSSADDLEBAG2).md#^optional-caption]]`
+`dice: [[/5. Mechanics/Items/Sovereignseed Satchel (GRIFFONSSADDLEBAG2).md#^optional-caption]]`
 
 | dice: d6 | Seed |
 |----------|------|

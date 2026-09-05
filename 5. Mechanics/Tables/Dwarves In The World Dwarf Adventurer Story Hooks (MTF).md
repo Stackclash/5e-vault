@@ -11,7 +11,7 @@ aliases:
 
 **Dwarf Adventurer Story Hooks**
 
-`dice: [[Dwarves In The World Dwarf Adventurer Story Hooks (MTF).md#^dwarf-adventurer-story-hooks]]`
+`dice: [[/5. Mechanics/Tables/Dwarves In The World Dwarf Adventurer Story Hooks (MTF).md#^dwarf-adventurer-story-hooks]]`
 
 | dice: d6 | Hook |
 |----------|------|

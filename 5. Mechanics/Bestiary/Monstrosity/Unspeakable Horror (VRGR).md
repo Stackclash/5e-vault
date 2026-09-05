@@ -37,7 +37,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 
 **Body Composition**
 
-`dice: [[Unspeakable Horror (VRGR).md#^body-composition]]`
+`dice: [[/5. Mechanics/Bestiary/Monstrosity/Unspeakable Horror (VRGR).md#^body-composition]]`
 
 | dice: d4 | Body |
 |----------|------|
@@ -49,7 +49,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 
 **Hex Blast**
 
-`dice: [[Unspeakable Horror (VRGR).md#^hex-blast]]`
+`dice: [[/5. Mechanics/Bestiary/Monstrosity/Unspeakable Horror (VRGR).md#^hex-blast]]`
 
 | dice: d4 | Hex |
 |----------|-----|
@@ -61,7 +61,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 
 **Limbs**
 
-`dice: [[Unspeakable Horror (VRGR).md#^limbs]]`
+`dice: [[/5. Mechanics/Bestiary/Monstrosity/Unspeakable Horror (VRGR).md#^limbs]]`
 
 | dice: d4 | Attack |
 |----------|--------|

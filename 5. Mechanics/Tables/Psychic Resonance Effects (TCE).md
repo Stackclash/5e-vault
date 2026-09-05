@@ -11,7 +11,7 @@ aliases:
 
 **Psychic Resonance Effects**
 
-`dice: [[Psychic Resonance Effects (TCE).md#^psychic-resonance-effects]]`
+`dice: [[/5. Mechanics/Tables/Psychic Resonance Effects (TCE).md#^psychic-resonance-effects]]`
 
 | dice: d100 | Effect |
 |------------|--------|

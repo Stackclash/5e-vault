@@ -11,7 +11,7 @@ aliases:
 
 **Absent Parent**
 
-`dice: [[Supplemental Tables Absent Parent (XGE).md#^absent-parent]]`
+`dice: [[/5. Mechanics/Tables/Supplemental Tables Absent Parent (XGE).md#^absent-parent]]`
 
 | dice: d4 | Fate |
 |----------|------|

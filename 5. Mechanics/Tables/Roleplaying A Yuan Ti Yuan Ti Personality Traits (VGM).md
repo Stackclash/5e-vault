@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Personality Traits**
 
-`dice: [[Roleplaying A Yuan Ti Yuan Ti Personality Traits (VGM).md#^yuan-ti-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Yuan Ti Yuan Ti Personality Traits (VGM).md#^yuan-ti-personality-traits]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|

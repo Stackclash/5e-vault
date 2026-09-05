@@ -11,7 +11,7 @@ aliases:
 
 **Academy Type**
 
-`dice: [[Academy Type (TCE).md#^academy-type]]`
+`dice: [[/5. Mechanics/Tables/Academy Type (TCE).md#^academy-type]]`
 
 | dice: d6 | Academy Types |
 |----------|---------------|

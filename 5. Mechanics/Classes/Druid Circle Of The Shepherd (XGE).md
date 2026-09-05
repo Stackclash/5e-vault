@@ -8,7 +8,7 @@ aliases:
   - Circle of the Shepherd
 ---
 # Circle of the Shepherd
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Xanathar's Guide to Everything p. 23*  
 
 > [!tldr] Class and Feature Progression

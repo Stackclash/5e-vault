@@ -131,7 +131,7 @@ If you haven't yet thought about the details of your character's worldview, cons
 
 **View of the World**
 
-`dice: [[Ranger.md#^view-of-the-world]]`
+`dice: [[/5. Mechanics/Classes/Ranger.md#^view-of-the-world]]`
 
 | dice: d6 | View |
 |----------|------|
@@ -152,7 +152,7 @@ Think of your character's backstory and decide what terrain feels most like home
 
 **Homelands**
 
-`dice: [[Ranger.md#^homelands]]`
+`dice: [[/5. Mechanics/Classes/Ranger.md#^homelands]]`
 
 | dice: d6 | Homeland |
 |----------|----------|
@@ -173,7 +173,7 @@ What spurred your character to select a particular enemy? Was the choice made be
 
 **Sworn Enemies**
 
-`dice: [[Ranger.md#^sworn-enemies]]`
+`dice: [[/5. Mechanics/Classes/Ranger.md#^sworn-enemies]]`
 
 | dice: d6 | Enemy |
 |----------|-------|
@@ -277,7 +277,7 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 *2nd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
-You can use a [[/5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]] as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
+You can use a [[/5. Mechanics/Items/Druidic Focus.md\|druidic focus]] as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
 
 ### Ranger Archetype (Level 3)
 

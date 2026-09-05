@@ -35,7 +35,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 
 **Champion's Coat of Arms**
 
-`dice: [[Champion (MPMM).md#^champions-coat-of-arms]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/Champion (MPMM).md#^champions-coat-of-arms]]`
 
 | dice: d12 | Coat of Arms |
 |-----------|--------------|

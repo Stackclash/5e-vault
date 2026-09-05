@@ -9,7 +9,7 @@ aliases:
 # Making Custom Antronec Guild NPCs; Bonds
 *Source: The Griffon's Saddlebag, Book 2 p. 247* 
 
-`dice: [[Making Custom Antronec Guild Npcs Bonds (GRIFFONSSADDLEBAG2).md#^bond]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Antronec Guild Npcs Bonds (GRIFFONSSADDLEBAG2).md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|

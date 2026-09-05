@@ -11,7 +11,7 @@ aliases:
 
 **Passage**
 
-`dice: [[Passages Passage.md#^passage]]`
+`dice: [[/5. Mechanics/Tables/Passages Passage.md#^passage]]`
 
 | dice: d20 | Detail |
 |-----------|--------|

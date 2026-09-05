@@ -13,7 +13,7 @@ Across the multiverse, the most memorable taverns and festivals provide unique a
 
 You can use the following tables to randomly determine what magical food or drink are available. Unless otherwise specified in the description, the effect of a food or drink lasts for 1 hour.
 
-`dice: [[Taverns And Festivals Festival Magical Food And Drink (GRIFFONSSADDLEBAG2).md#^food-drink]]`
+`dice: [[/5. Mechanics/Tables/Taverns And Festivals Festival Magical Food And Drink (GRIFFONSSADDLEBAG2).md#^food-drink]]`
 
 | dice: d6 | Food | Drink |
 |----------|------|-------|

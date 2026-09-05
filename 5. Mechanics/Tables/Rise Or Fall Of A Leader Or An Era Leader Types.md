@@ -11,7 +11,7 @@ aliases:
 
 **Leader Types**
 
-`dice: [[Rise Or Fall Of A Leader Or An Era Leader Types.md#^leader-types]]`
+`dice: [[/5. Mechanics/Tables/Rise Or Fall Of A Leader Or An Era Leader Types.md#^leader-types]]`
 
 | dice: d6 | Leader Types |
 |----------|--------------|

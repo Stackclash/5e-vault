@@ -15,9 +15,9 @@ aliases:
 alignment: Lawful Good
 description: >-
   Donavich is a haggard, insomniac priest whose hoarse voice and hollow eyes
-  betray a year spent in solitary vigil. He kneels before the claw-scarred
-  altar of Barovia's church at all hours, his prayers only occasionally
-  drowned out by the inhuman screams rising from beneath the floor.
+  betray a year spent in solitary vigil. He kneels before the claw-scarred altar
+  of Barovia's church at all hours, his prayers only occasionally drowned out by
+  the inhuman screams rising from beneath the floor.
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
@@ -39,17 +39,16 @@ goals: 'To protect his flock, to cure his son'
 likes: 'Dawn, prayer, community gatherings'
 dislikes: 'Darkness, Strahd’s influence, seeing his parishioners suffer'
 history: >-
-  A little over a year ago, Donavich's twenty-year-old son [[Doru
-  (COS)|Doru]] joined several other villagers in storming Castle Ravenloft,
-  lured there by a wizard in black robes who promised deliverance from
-  Strahd. The wizard died at the vampire's hand — and so did Doru, who
-  returned home a vampire spawn. Unable to bring himself to destroy his own
-  child, Donavich chained Doru in the church's undercroft, where his son
-  has remained, unfed, ever since. Donavich now prays ceaselessly to the
-  Morninglord for a way to save Doru without ending his unlife, a devotion
-  the rest of the village believes has driven him half-mad. He is also one
-  of the few in Barovia who knows the truth of [[Ireena Kolyana
-  (COS)|Ireena Kolyana]]'s origins: that the late burgomaster found her,
+  A little over a year ago, Donavich's twenty-year-old son [[Doru (COS)|Doru]]
+  joined several other villagers in storming Castle Ravenloft, lured there by a
+  wizard in black robes who promised deliverance from Strahd. The wizard died at
+  the vampire's hand — and so did Doru, who returned home a vampire spawn.
+  Unable to bring himself to destroy his own child, Donavich chained Doru in the
+  church's undercroft, where his son has remained, unfed, ever since. Donavich
+  now prays ceaselessly to the Morninglord for a way to save Doru without ending
+  his unlife, a devotion the rest of the village believes has driven him
+  half-mad. He is also one of the few in Barovia who knows the truth of [[Ireena
+  Kolyana (COS)|Ireena Kolyana]]'s origins: that the late burgomaster found her,
   memory-less, at the edge of the Svalich Woods near the Pillarstone of
   Ravenloft, and adopted her as his own.
 ---
@@ -83,19 +82,7 @@ history: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 46*
 
-Donavich is a haggard, insomniac priest of the Morninglord whose hoarse voice and hollow eyes betray a year spent in solitary vigil. He kneels before the claw-scarred altar of the village church at all hours, his prayers only occasionally drowned out by the inhuman screams rising from beneath the floor.
-
-## A Father's Vigil
-
-A little over a year ago, Donavich's twenty-year-old son [[Doru (COS)|Doru]] joined several other villagers in storming Castle Ravenloft, lured there by a wizard in black robes who promised deliverance from Strahd. The wizard died at the vampire's hand — and so did Doru, who returned home a vampire spawn. Unable to bring himself to destroy his own child, Donavich chained Doru in the church's undercroft, where his son has remained, unfed, ever since. He prays ceaselessly for a way to save Doru without ending his unlife, a devotion the rest of the village believes has driven him half-mad. If the party seems intent on slaying Doru, Donavich does everything he can to stop them; if Doru dies, Donavich falls to the floor and weeps inconsolably.
-
-## What Donavich Knows
-
-Beyond the common lore known to all Barovians, Donavich carries two closely held truths. He knows that [[Ireena Kolyana (COS)|Ireena Kolyana]] is not the natural daughter of the late burgomaster Kolyan Indirovich — Kolyan found her, memory-less, at the edge of the Svalich Woods near the Pillarstone of Ravenloft, and adopted her as his own. He also knows of the March of the Dead: every night at midnight, the spirits of adventurers who died trying to destroy Strahd rise from the churchyard and march to Castle Ravenloft.
-
-## The Burgomaster's Funeral
-
-If the party brings Kolyan Indirovich's body to the church, Donavich presses them into helping him bury the burgomaster in the cemetery at dawn, offering prayers to the Morninglord for his deliverance from Barovia. Once Kolyan is in the ground, Donavich urges the party to take [[Ireena Kolyana (COS)|Ireena]] as far from Castle Ravenloft as possible — suggesting the Abbey of Saint Markovia in Krezk, or failing that, the fortified town of Vallaki — unaware that the abbey has become a den of evil in its own right.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

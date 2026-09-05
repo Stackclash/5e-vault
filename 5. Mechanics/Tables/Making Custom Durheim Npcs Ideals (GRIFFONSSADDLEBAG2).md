@@ -9,7 +9,7 @@ aliases:
 # Making Custom Durheim NPCs; Ideals
 *Source: The Griffon's Saddlebag, Book 2 p. 265* 
 
-`dice: [[Making Custom Durheim Npcs Ideals (GRIFFONSSADDLEBAG2).md#^ideal]]`
+`dice: [[/5. Mechanics/Tables/Making Custom Durheim Npcs Ideals (GRIFFONSSADDLEBAG2).md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

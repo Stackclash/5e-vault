@@ -11,7 +11,7 @@ aliases:
 
 **Desert Encounters (Levels 5—10)**
 
-`dice: [[Desert Encounters Levels 510 (XGE).md#^desert-encounters-levels-510]]`
+`dice: [[/5. Mechanics/Tables/Desert Encounters Levels 510 (XGE).md#^desert-encounters-levels-510]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -34,11 +34,11 @@ aliases:
 | 44-46 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Yuan Ti Pureblood.md\|yuan-ti purebloods]] |
 | 47-50 | `dice:1d6+3\|noform\|noparens\|avg` (`1d6 + 3`) [[/5. Mechanics/Bestiary/Monstrosity/Death Dog.md\|death dogs]] |
 | 51-52 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant Scorpion.md\|giant scorpions]] |
-| 53 | 1 [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elemental]] |
+| 53 | 1 [[/5. Mechanics/Bestiary/Elemental/Fire Elemental.md\|fire elemental]] |
 | 54-55 | 1 [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captain]] with `dice:3d4\|noform\|noparens\|avg` (`3d4`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
 | 56 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]] |
 | 57-58 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Lamia.md\|lamias]] |
-| 59-60 | 1 [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elemental]] |
+| 59-60 | 1 [[/5. Mechanics/Bestiary/Elemental/Air Elemental.md\|air elemental]] |
 | 61-65 | A meteorite resting at the bottom of a glassy crater |
 | 66 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
 | 67-68 | 1 [[/5. Mechanics/Bestiary/Dragon/Young Brass Dragon.md\|young brass dragon]] |

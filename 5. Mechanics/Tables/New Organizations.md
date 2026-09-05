@@ -11,7 +11,7 @@ aliases:
 
 **New Organizations**
 
-`dice: [[New Organizations.md#^new-organizations]]`
+`dice: [[/5. Mechanics/Tables/New Organizations.md#^new-organizations]]`
 
 | dice: d10 | New Organizations |
 |-----------|-------------------|

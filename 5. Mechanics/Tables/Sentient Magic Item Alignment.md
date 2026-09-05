@@ -11,7 +11,7 @@ aliases:
 
 **Sentient Magic Item Alignment**
 
-`dice: [[Sentient Magic Item Alignment.md#^sentient-magic-item-alignment]]`
+`dice: [[/5. Mechanics/Tables/Sentient Magic Item Alignment.md#^sentient-magic-item-alignment]]`
 
 | dice: d100 | Alignment |
 |------------|-----------|

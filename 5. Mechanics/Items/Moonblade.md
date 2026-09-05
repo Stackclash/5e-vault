@@ -52,7 +52,7 @@ A moonblade has one rune on its blade for each master it has served (typically `
 
 **Moonblade Properties**
 
-`dice: [[Moonblade.md#^moonblade-properties]]`
+`dice: [[/5. Mechanics/Items/Moonblade.md#^moonblade-properties]]`
 
 | dice: d100 | Property |
 |------------|----------|

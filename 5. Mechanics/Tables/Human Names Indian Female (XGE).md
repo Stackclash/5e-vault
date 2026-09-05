@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Indian, Female**
 
-`dice: [[Human Names Indian Female (XGE).md#^human-names-indian-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Indian Female (XGE).md#^human-names-indian-female]]`
 
 | dice: d100 | Name |
 |------------|------|

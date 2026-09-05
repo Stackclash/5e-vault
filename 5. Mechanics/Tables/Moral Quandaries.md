@@ -11,7 +11,7 @@ aliases:
 
 **Moral Quandaries**
 
-`dice: [[Moral Quandaries.md#^moral-quandaries]]`
+`dice: [[/5. Mechanics/Tables/Moral Quandaries.md#^moral-quandaries]]`
 
 | dice: d20 | Quandary |
 |-----------|----------|

@@ -11,7 +11,7 @@ aliases:
 
 **Elementals**
 
-`dice: [[Monsters Desires Elementals (TCE).md#^elementals]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Elementals (TCE).md#^elementals]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Military Force Types**
 
-`dice: [[Military Force Types (TCE).md#^military-force-types]]`
+`dice: [[/5. Mechanics/Tables/Military Force Types (TCE).md#^military-force-types]]`
 
 | dice: d6 | Military Organization |
 |----------|-----------------------|

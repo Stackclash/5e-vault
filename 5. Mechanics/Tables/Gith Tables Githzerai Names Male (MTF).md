@@ -11,7 +11,7 @@ aliases:
 
 **Githzerai Names, Male**
 
-`dice: [[Gith Tables Githzerai Names Male (MTF).md#^githzerai-names-male]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githzerai Names Male (MTF).md#^githzerai-names-male]]`
 
 | dice: d10 | Name |
 |-----------|------|

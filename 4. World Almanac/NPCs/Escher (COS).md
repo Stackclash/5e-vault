@@ -25,24 +25,24 @@ occupation:
 groups: []
 religions: []
 personality: >-
-  Dashing and witty with a current of melancholy — charming company who
-  dreads becoming yesterday's toy.
+  Dashing and witty with a current of melancholy — charming company who dreads
+  becoming yesterday's toy.
 ideal: Being wanted is the only thing that has ever mattered.
-bond: Whatever favor Strahd still shows him, however fickle.
+bond: 'Whatever favor Strahd still shows him, however fickle.'
 flaw: Dreads the catacombs — and Strahd's fading interest — more than death itself.
 goals: To keep Strahd's favor and avoid joining the castle's discarded consorts.
 likes: 'Fine but faded finery, conversation, being someone''s favorite'
 dislikes: 'Being ignored, the catacombs, reminders of what waits there for him'
 description: >-
-  A dashing vampire spawn in worn but elegant attire, lounging in the
-  castle's spires with a platinum ring and a gold-and-ruby pendant — Strahd
-  has shown him favor in the past, and he's terrified that favor is fading.
+  A dashing vampire spawn in worn but elegant attire, lounging in the castle's
+  spires with a platinum ring and a gold-and-ruby pendant — Strahd has shown him
+  favor in the past, and he's terrified that favor is fading.
 history: >-
-  Once a mortal to whom Strahd took a liking, Escher was turned into a
-  vampire spawn and kept close as a favored companion — a rarer fate than
-  most of Strahd's conquests receive. Lately he senses Strahd's interest
-  cooling, and haunts the castle's upper lounge dreading the day he joins
-  Strahd's other castoff consorts in the catacombs.
+  Once a mortal to whom Strahd took a liking, Escher was turned into a vampire
+  spawn and kept close as a favored companion — a rarer fate than most of
+  Strahd's conquests receive. Lately he senses Strahd's interest cooling, and
+  haunts the castle's upper lounge dreading the day he joins Strahd's other
+  castoff consorts in the catacombs.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -74,11 +74,7 @@ history: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 70*
 
-Escher is a dashing vampire spawn to whom Strahd has shown favor in the past. He is feeling somewhat neglected of late and has retreated to a lounge in the castle's spires until his master's mood improves. If attacked, he hurls himself out a window and lands like a cat on the roof below, leading pursuers straight to Strahd, wherever the lord of the castle happens to be.
-
-## Wit and Melancholy
-
-In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him away in the catacombs with the castle's other castoff consorts.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

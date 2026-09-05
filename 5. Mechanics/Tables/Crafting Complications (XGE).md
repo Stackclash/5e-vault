@@ -11,7 +11,7 @@ aliases:
 
 **Crafting Complications**
 
-`dice: [[Crafting Complications (XGE).md#^crafting-complications]]`
+`dice: [[/5. Mechanics/Tables/Crafting Complications (XGE).md#^crafting-complications]]`
 
 | dice: d6 | Complication |
 |----------|--------------|

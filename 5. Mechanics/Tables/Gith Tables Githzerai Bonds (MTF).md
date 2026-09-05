@@ -11,7 +11,7 @@ aliases:
 
 **Githzerai Bonds**
 
-`dice: [[Gith Tables Githzerai Bonds (MTF).md#^githzerai-bonds]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githzerai Bonds (MTF).md#^githzerai-bonds]]`
 
 | dice: d4 | Bond |
 |----------|------|

@@ -39,7 +39,7 @@ While the tattoo is on your skin, you have resistance to a type of damage associ
 
 **Absorbing Tattoo**
 
-`dice: [[Absorbing Tattoo (TCE).md#^absorbing-tattoo]]`
+`dice: [[/5. Mechanics/Items/Absorbing Tattoo (TCE).md#^absorbing-tattoo]]`
 
 | dice: d10 | Color | Tattoo |
 |-----------|-------|--------|

@@ -11,7 +11,7 @@ aliases:
 
 **Ranger Followers**
 
-`dice: [[Ranger Followers (SAF).md#^ranger-followers]]`
+`dice: [[/5. Mechanics/Tables/Ranger Followers (SAF).md#^ranger-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

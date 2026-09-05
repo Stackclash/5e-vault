@@ -11,7 +11,7 @@ aliases:
 
 **Gothic Horror Villains**
 
-`dice: [[Gothic Horror Villains (VRGR).md#^gothic-horror-villains]]`
+`dice: [[/5. Mechanics/Tables/Gothic Horror Villains (VRGR).md#^gothic-horror-villains]]`
 
 | dice: d10 | Villain |
 |-----------|---------|

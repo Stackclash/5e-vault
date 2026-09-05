@@ -135,7 +135,7 @@ If your character is just starting out, your ultimate defining work is likely in
 
 **Defining Work**
 
-`dice: [[Bard.md#^defining-work]]`
+`dice: [[/5. Mechanics/Classes/Bard.md#^defining-work]]`
 
 | dice: d6 | Defining Work |
 |----------|---------------|
@@ -156,7 +156,7 @@ You might have an "off the rack" instrument, perhaps because it's all you can af
 
 **Instrument**
 
-`dice: [[Bard.md#^instrument]]`
+`dice: [[/5. Mechanics/Classes/Bard.md#^instrument]]`
 
 | dice: d6 | Instrument |
 |----------|------------|
@@ -177,7 +177,7 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 
 **Embarrassment**
 
-`dice: [[Bard.md#^embarrassment]]`
+`dice: [[/5. Mechanics/Classes/Bard.md#^embarrassment]]`
 
 | dice: d6 | Embarrassment |
 |----------|---------------|

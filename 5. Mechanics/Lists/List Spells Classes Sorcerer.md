@@ -371,7 +371,7 @@ aliases:
 - [[/5. Mechanics/Spells/Vital Mark (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Wall Of Water (XGE).md \|"XGE"]] (\*)
 - [[/5. Mechanics/Spells/Water Breathing.md \|"PHB"]]
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Water Walk.md \|"PHB"]]
 
 ## 4th Level
 

@@ -11,7 +11,7 @@ aliases:
 
 **Adventure Allies**
 
-`dice: [[Identify Important Npcs Adventure Allies.md#^adventure-allies]]`
+`dice: [[/5. Mechanics/Tables/Identify Important Npcs Adventure Allies.md#^adventure-allies]]`
 
 | dice: d12 | Ally |
 |-----------|------|

@@ -34,7 +34,7 @@ await dv.view("views/itemPrice", {current: dv.current()})
 - [[/5. Mechanics/Items/Lute.md\|Lute]]
 - [[/5. Mechanics/Items/Lyre.md\|Lyre]]
 - [[/5. Mechanics/Items/Pan Flute.md\|Pan Flute]]
-- [[/5. Mechanics/Items/Sh(AWM).md\|Shawm]]
+- [[/5. Mechanics/Items/Shawm.md\|Shawm]]
 - [[/5. Mechanics/Items/Viol.md\|Viol]]
 
 *Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

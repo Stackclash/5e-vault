@@ -36,7 +36,7 @@ item_recharge: none
 await dv.view("views/itemPrice", {current: dv.current()})
 ```
 
-This smooth red staff is actually made from a rigid length of rope. You can speak the staff's command word as a bonus action to cause it to magically loosen and turn into a 10-foot length of decorative [[/5. Mechanics/Items/Silk Rope 50 F(EET).md\|silken rope]]. You can speak the staff's command word again as a bonus action to cause the rope to untangle itself and become the solid staff form once more. It can be used as a spellcasting focus in either of these forms.
+This smooth red staff is actually made from a rigid length of rope. You can speak the staff's command word as a bonus action to cause it to magically loosen and turn into a 10-foot length of decorative [[/5. Mechanics/Items/Silk Rope 50 Feet.md\|silken rope]]. You can speak the staff's command word again as a bonus action to cause the rope to untangle itself and become the solid staff form once more. It can be used as a spellcasting focus in either of these forms.
 
 While holding the staff, you can use an action to cast the [[/5. Mechanics/Spells/Rope Trick.md\|rope trick]] spell from it, using it as the rope required for the spell. Once this property has been used, it can't be used again until the next dawn.
 

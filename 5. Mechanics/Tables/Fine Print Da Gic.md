@@ -9,7 +9,7 @@ aliases:
 # Fine Print
 *Source: Devil's Advocate: A Guide to Infernal Contracts p. 12* 
 
-`dice: [[Fine Print Da Gic.md#^fine-print]]`
+`dice: [[/5. Mechanics/Tables/Fine Print Da Gic.md#^fine-print]]`
 
 | dice: d10 | Fine Print |
 |-----------|------------|

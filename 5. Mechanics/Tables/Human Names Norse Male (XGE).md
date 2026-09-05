@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Norse, Male**
 
-`dice: [[Human Names Norse Male (XGE).md#^human-names-norse-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Norse Male (XGE).md#^human-names-norse-male]]`
 
 | dice: d100 | Name |
 |------------|------|

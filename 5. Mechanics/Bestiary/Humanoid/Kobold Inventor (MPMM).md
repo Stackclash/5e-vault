@@ -75,7 +75,7 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
     "name": "Sling"
   - "desc": "The kobold uses one of the following options (choose one or roll a d8);\
       \ the kobold can use each one no more than once per day:\n\n- **1 Acid.** The\
-      \ kobold hurls a [[/5. Mechanics/Items/Acid Vi(AL).md|flask of acid]]. *Ranged Weapon\
+      \ kobold hurls a [[/5. Mechanics/Items/Acid Vial.md|flask of acid]]. *Ranged Weapon\
       \ Attack:* +4 to hit, range 5/20 ft., one target. *Hit:* 7 (2d6) acid damage.\
       \  \n- **2 Alchemist's Fire.** The kobold throws a [[/5. Mechanics/Items/Alchemists Fire Flask.md|flask of alchemist's fire]].\
       \ *Ranged Weapon Attack:* +4 to hit, range 5/20 ft., one target. *Hit:* 2 (1d4)\

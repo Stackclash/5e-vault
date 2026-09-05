@@ -596,6 +596,9 @@ At the DM's discretion, you can play a deep gnome character. When you choose the
 
 - [[/5. Mechanics/Races/Deep Gnome (MPMM).md\|Gnome (Deep)]]  
 
+> [!embed-race]- Gnome (Deep)
+> ![[/5. Mechanics/Races/Deep Gnome (MPMM).md\|Gnome (Deep)]]
+
 ## Gnome Tables
 
 This section provides several tables useful for players and DMs who want to create gnome characters.

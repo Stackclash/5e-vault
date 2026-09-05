@@ -150,7 +150,7 @@ aliases:
 - [[/5. Mechanics/Spells/Clockwork Bodyguard (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Cloudkill.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Conjure Creature (HHHVII).md \|"HHHVII"]]
-- [[/5. Mechanics/Spells/Conjure Element(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Conjure Elemental.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Conjure Fey Hound (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Conjure Minor Voidborn (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Conjure Nightmare (KPDM).md \|"KPDM"]]
@@ -190,7 +190,7 @@ aliases:
 
 - [[/5. Mechanics/Spells/Acid Gate (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Blizzard (KPDM).md \|"KPDM"]]
-- [[/5. Mechanics/Spells/Conjure Celesti(AL).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Conjure Celestial.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Conjure Greater Spectral Dead (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Conjure Shadow Titan (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Conjure Voidborn (KPDM).md \|"KPDM"]]

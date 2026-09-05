@@ -11,15 +11,15 @@ aliases:
 
 **Urban Encounters (Levels 17—20)**
 
-`dice: [[Urban Encounters Levels 1720 (XGE).md#^urban-encounters-levels-1720]]`
+`dice: [[/5. Mechanics/Tables/Urban Encounters Levels 1720 (XGE).md#^urban-encounters-levels-1720]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01-05 | 1d10 [[/5. Mechanics/Bestiary/Elemental/Invisible Stalker.md\|invisible stalkers]] |
 | 06-10 | 1d10 [[/5. Mechanics/Bestiary/Undead/Revenant.md\|revenants]] |
-| 11-14 | 1d6 + 2 [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiators]] |
+| 11-14 | 1d6 + 2 [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiators]] |
 | 15-18 | 2d4 [[/5. Mechanics/Bestiary/Fiend/Cambion.md\|cambions]] |
-| 19-22 | 2d6 [[/5. Mechanics/Bestiary/Fiend/Succub(US).md\|succubi]] or 2d6 [[/5. Mechanics/Bestiary/Fiend/Incub(US).md\|incubi]] |
+| 19-22 | 2d6 [[/5. Mechanics/Bestiary/Fiend/Succubus.md\|succubi]] or 2d6 [[/5. Mechanics/Bestiary/Fiend/Incubus.md\|incubi]] |
 | 23-25 | A witch ([[/5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]]) who zooms overhead on a [[/5. Mechanics/Items/Broom Of Flying.md\|broom of flying]] |
 | 26-30 | 1d4 [[/5. Mechanics/Bestiary/Aberration/Gray Slaad.md\|gray slaadi]] |
 | 31-35 | 2d8 [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatls]] |

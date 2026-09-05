@@ -11,7 +11,7 @@ aliases:
 
 **Barbarian Units**
 
-`dice: [[Barbarian Units (SAF).md#^barbarian-units]]`
+`dice: [[/5. Mechanics/Tables/Barbarian Units (SAF).md#^barbarian-units]]`
 
 | dice: d12 | Barbarian Units |
 |-----------|-----------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Horror Character Ideals**
 
-`dice: [[Horror Characteristics Horror Character Ideals (VRGR).md#^horror-character-ideals]]`
+`dice: [[/5. Mechanics/Tables/Horror Characteristics Horror Character Ideals (VRGR).md#^horror-character-ideals]]`
 
 | dice: d12 | Ideal |
 |-----------|-------|

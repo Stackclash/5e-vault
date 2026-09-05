@@ -9,7 +9,7 @@ aliases:
 # Bloodmire Exploration; Encounters
 *Source: The Griffon's Saddlebag, Book 2 p. 252* 
 
-`dice: [[Bloodmire Exploration Encounters (GRIFFONSSADDLEBAG2).md#^4-encounter]]`
+`dice: [[/5. Mechanics/Tables/Bloodmire Exploration Encounters (GRIFFONSSADDLEBAG2).md#^4-encounter]]`
 
 | dice: 4d10 | Encounter |
 |------------|-----------|

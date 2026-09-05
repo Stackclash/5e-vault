@@ -901,7 +901,7 @@ Each type of poison has its own debilitating effects.
 
 - [[/5. Mechanics/Items/Assassins Blood.md\|Assassin's blood]]  
 - [[/5. Mechanics/Items/Burnt Othur Fumes.md\|Burnt othur fumes]]  
-- [[/5. Mechanics/Items/Carrion Crawler Muc(US).md\|Carrion crawler mucus]]  
+- [[/5. Mechanics/Items/Carrion Crawler Mucus.md\|Carrion crawler mucus]]  
 - [[/5. Mechanics/Items/Drow Poison.md\|Drow poison]]  
 - [[/5. Mechanics/Items/Essence Of Ether.md\|Essence of ether]]  
 - [[/5. Mechanics/Items/Malice.md\|Malice]]  

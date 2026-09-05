@@ -11,7 +11,7 @@ aliases:
 
 **Mind Flayer Personality Traits**
 
-`dice: [[Roleplaying A Mind Flayer Mind Flayer Personality Traits (VGM).md#^mind-flayer-personality-traits]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Personality Traits (VGM).md#^mind-flayer-personality-traits]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|

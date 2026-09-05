@@ -11,7 +11,7 @@ aliases:
 
 **Wild Magic**
 
-`dice: [[Wild Magic (TCE).md#^wild-magic]]`
+`dice: [[/5. Mechanics/Tables/Wild Magic (TCE).md#^wild-magic]]`
 
 | dice: d8 | Magical Effect |
 |----------|----------------|

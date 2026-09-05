@@ -11,7 +11,7 @@ aliases:
 
 **Obstacles**
 
-`dice: [[Random Obstacles Obstacles.md#^obstacles]]`
+`dice: [[/5. Mechanics/Tables/Random Obstacles Obstacles.md#^obstacles]]`
 
 | dice: d20 | Obstacle |
 |-----------|----------|

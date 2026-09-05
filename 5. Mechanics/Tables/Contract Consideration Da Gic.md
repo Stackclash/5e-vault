@@ -9,7 +9,7 @@ aliases:
 # Contract Consideration
 *Source: Devil's Advocate: A Guide to Infernal Contracts p. 6* 
 
-`dice: [[Contract Consideration Da Gic.md#^exchange]]`
+`dice: [[/5. Mechanics/Tables/Contract Consideration Da Gic.md#^exchange]]`
 
 | dice: d20 | Exchange |
 |-----------|----------|

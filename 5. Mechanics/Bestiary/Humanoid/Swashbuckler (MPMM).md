@@ -31,7 +31,7 @@ Many swashbucklers have a signature flourish with which they embellish their act
 
 **Swashbuckler Flourishes**
 
-`dice: [[Swashbuckler (MPMM).md#^swashbuckler-flourishes]]`
+`dice: [[/5. Mechanics/Bestiary/Humanoid/Swashbuckler (MPMM).md#^swashbuckler-flourishes]]`
 
 | dice: d8 | Flourish |
 |----------|----------|

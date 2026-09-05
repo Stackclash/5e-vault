@@ -11,7 +11,7 @@ aliases:
 
 **Coastal Encounters (Levels 1—4)**
 
-`dice: [[Coastal Encounters Levels 14 (XGE).md#^coastal-encounters-levels-14]]`
+`dice: [[/5. Mechanics/Tables/Coastal Encounters Levels 14 (XGE).md#^coastal-encounters-levels-14]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -21,7 +21,7 @@ aliases:
 | 11 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|poisonous snakes]] |
 | 12-13 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]] protecting a standard [[/5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]] |
 | 14-15 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]] |
-| 16-18 | `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] |
+| 16-18 | `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Humanoid/Merfolk.md\|merfolk]] |
 | 19-20 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [[/5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] |
 | 21-25 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] feeding on corpses aboard the wreckage of a merchant ship. A search uncovers `dice:2d6\|noform\|noparens\|avg` (`2d6`) bolts of ruined silk, a 50-foot length of rope. and a barrel of salted herring. |
 | 26-27 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Winged Kobold.md\|winged kobolds]] with `dice:1d6+1\|noform\|noparens\|avg` (`1d6 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] |
@@ -47,14 +47,14 @@ aliases:
 | 84 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]] or `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Monstrosity/Merrow.md\|merrow]] |
 | 85 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] |
 | 86 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veterans]] |
-| 87 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Plesiosaur(US).md\|plesiosauruses]] |
+| 87 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Plesiosaurus.md\|plesiosauruses]] |
 | 88 | 1 [[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]] with `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] |
 | 89 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |
 | 90 | 1 [[/5. Mechanics/Bestiary/Undead/Banshee.md\|banshee]] |
 | 91-92 | `dice:1d4+3\|noform\|noparens\|avg` (`1d4 + 3`) [[/5. Mechanics/Bestiary/Monstrosity/Griffon.md\|griffons]] |
 | 93-94 | 1 [[/5. Mechanics/Bestiary/Humanoid/Sahuagin Priestess.md\|sahuagin priestess]] with `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Monstrosity/Merrow.md\|merrow]] and `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] |
 | 95-96 | 1 [[/5. Mechanics/Bestiary/Humanoid/Sahuagin Baron.md\|sahuagin baron]] |
-| 97-98 | 1 [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] |
+| 97-98 | 1 [[/5. Mechanics/Bestiary/Elemental/Water Elemental.md\|water elemental]] |
 | 99 | 1 [[/5. Mechanics/Bestiary/Giant/Cyclops.md\|cyclops]] |
 | 00 | 1 [[/5. Mechanics/Bestiary/Dragon/Young Bronze Dragon.md\|young bronze dragon]] |
 ^coastal-encounters-levels-14

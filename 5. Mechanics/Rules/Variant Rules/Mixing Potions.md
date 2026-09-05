@@ -15,7 +15,7 @@ When a character mixes two potions together, you can roll on the Potion Miscibil
 
 **Potion Miscibility**
 
-`dice: [[Mixing Potions.md#^potion-miscibility]]`
+`dice: [[/5. Mechanics/Rules/Variant Rules/Mixing Potions.md#^potion-miscibility]]`
 
 | dice: d100 | Result |
 |------------|--------|

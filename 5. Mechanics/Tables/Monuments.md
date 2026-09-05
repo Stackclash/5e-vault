@@ -11,7 +11,7 @@ aliases:
 
 **Monuments**
 
-`dice: [[Monuments.md#^monuments]]`
+`dice: [[/5. Mechanics/Tables/Monuments.md#^monuments]]`
 
 | dice: d20 | Monument |
 |-----------|----------|

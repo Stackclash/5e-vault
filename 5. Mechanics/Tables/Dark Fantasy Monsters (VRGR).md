@@ -18,7 +18,7 @@ aliases:
 | 1/4 | [[/5. Mechanics/Bestiary/Fey/Sprite.md\|Sprite]] | "MM" |
 | 3 | [[/5. Mechanics/Bestiary/Monstrosity/Displacer Beast.md\|Displacer beast]] | "MM" |
 | 4 | [[/5. Mechanics/Bestiary/Fiend/Shadow Demon.md\|Shadow demon]] | "MM" |
-| 5 | [[/5. Mechanics/Bestiary/Monstrosity/Umber Hu(LK).md\|Umber hulk]] | "MM" |
+| 5 | [[/5. Mechanics/Bestiary/Monstrosity/Umber Hulk.md\|Umber hulk]] | "MM" |
 | 6 | [[/5. Mechanics/Bestiary/Monstrosity/Drider.md\|Drider]] | "MM" |
 | 7 | [[/5. Mechanics/Bestiary/Undead/Necrichor (VRGR).md\|Necrichor]] | VGR |
 | 8 | [[/5. Mechanics/Bestiary/Giant/Fomorian.md\|Fomorian]] | "MM" |

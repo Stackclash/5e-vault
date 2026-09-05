@@ -67,7 +67,7 @@ Members of a circle of druids that revere the might of the world's tempests, sto
       \ [[/5. Mechanics/Spells/Sleet Storm.md|sleet storm]], [[/5. Mechanics/Spells/Wind Wall.md|wind wall]]\n\
       \n**4th level (3 slots):** [[/5. Mechanics/Spells/Control Water.md|control water]],\
       \ [[/5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n**5th level (2 slots):** [[/5. Mechanics/Spells/Commune With Nature.md|commune\
-      \ with nature]], [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]"
+      \ with nature]], [[/5. Mechanics/Spells/Conjure Elemental.md|conjure elemental]]"
     "name": "Spellcasting"
   - "desc": "If the druid is hit by a melee attack while it has temporary hit points\
       \ from its Lightning Leap action, the attacker takes 5 (1d10) lightning damage."

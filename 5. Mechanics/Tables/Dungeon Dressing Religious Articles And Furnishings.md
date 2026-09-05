@@ -11,7 +11,7 @@ aliases:
 
 **Religious Articles and Furnishings**
 
-`dice: [[Dungeon Dressing Religious Articles And Furnishings.md#^religious-articles-and-furnishings]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Dressing Religious Articles And Furnishings.md#^religious-articles-and-furnishings]]`
 
 | dice: d100 | Item |
 |------------|------|

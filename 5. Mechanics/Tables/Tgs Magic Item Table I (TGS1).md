@@ -9,7 +9,7 @@ aliases:
 # TGS Magic Item Table I
 *Source: The Griffon's Saddlebag, Book 1 p. 25* 
 
-`dice: [[Tgs Magic Item Table I (TGS1).md#^magic-item]]`
+`dice: [[/5. Mechanics/Tables/Tgs Magic Item Table I (TGS1).md#^magic-item]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|

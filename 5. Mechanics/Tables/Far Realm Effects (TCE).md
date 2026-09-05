@@ -11,7 +11,7 @@ aliases:
 
 **Far Realm Effects**
 
-`dice: [[Far Realm Effects (TCE).md#^far-realm-effects]]`
+`dice: [[/5. Mechanics/Tables/Far Realm Effects (TCE).md#^far-realm-effects]]`
 
 | dice: d100 | Effect |
 |------------|--------|

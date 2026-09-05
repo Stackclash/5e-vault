@@ -11,7 +11,7 @@ aliases:
 
 **Tiefling Names – Female**
 
-`dice: [[Tiefling Names Female (XGE).md#^tiefling-names-female]]`
+`dice: [[/5. Mechanics/Tables/Tiefling Names Female (XGE).md#^tiefling-names-female]]`
 
 | dice: d100 | Name |
 |------------|------|

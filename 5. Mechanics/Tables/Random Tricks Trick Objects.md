@@ -11,7 +11,7 @@ aliases:
 
 **Trick Objects**
 
-`dice: [[Random Tricks Trick Objects.md#^trick-objects]]`
+`dice: [[/5. Mechanics/Tables/Random Tricks Trick Objects.md#^trick-objects]]`
 
 | dice: d20 | Object |
 |-----------|--------|

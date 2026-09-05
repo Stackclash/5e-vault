@@ -11,7 +11,7 @@ aliases:
 
 **Halfling Names – Clan**
 
-`dice: [[Halfling Names Clan (XGE).md#^halfling-names-clan]]`
+`dice: [[/5. Mechanics/Tables/Halfling Names Clan (XGE).md#^halfling-names-clan]]`
 
 | dice: d100 | Name |
 |------------|------|

@@ -11,7 +11,7 @@ aliases:
 
 **The Spell Targets Allies**
 
-`dice: [[Inventing A New Spell The Spell Targets Allies (SAF).md#^the-spell-targets-allies]]`
+`dice: [[/5. Mechanics/Tables/Inventing A New Spell The Spell Targets Allies (SAF).md#^the-spell-targets-allies]]`
 
 | dice: d8 | Spell Effect |
 |----------|--------------|

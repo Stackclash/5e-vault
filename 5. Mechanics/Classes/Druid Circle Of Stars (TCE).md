@@ -8,7 +8,7 @@ aliases:
   - Circle of Stars
 ---
 # Circle of Stars
-*[[.nullDruid.md\|Druid]]: Druid Circle*  
+*[[/5. Mechanics/Classes/Druid.md\|Druid]]: Druid Circle*  
 *Source: Tasha's Cauldron of Everything p. 38*  
 
 > [!tldr] Class and Feature Progression
@@ -57,7 +57,7 @@ You've created a star chart as part of your heavenly studies. It is a Tiny objec
 
 **Star Map**
 
-`dice: [[Druid Circle Of Stars (TCE).md#^star-map]]`
+`dice: [[/5. Mechanics/Classes/Druid Circle Of Stars (TCE).md#^star-map]]`
 
 | dice: d6 | Map Form |
 |----------|----------|

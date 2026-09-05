@@ -11,7 +11,7 @@ aliases:
 
 **Scroll Mishap**
 
-`dice: [[Variant Scroll Mishaps Scroll Mishap.md#^scroll-mishap]]`
+`dice: [[/5. Mechanics/Tables/Variant Scroll Mishaps Scroll Mishap.md#^scroll-mishap]]`
 
 | dice: d6 | Result |
 |----------|--------|

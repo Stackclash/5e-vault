@@ -52,7 +52,7 @@ If the players aren't sure or you'd like to offer them suggestions, consult the 
 
 **Interim Events**
 
-`dice: [[03 Chapter 2 The Wizards Three.md#^interim-events]]`
+`dice: [[/6. Resources/5e Modules/Vecna Eve Of Ruin/03 Chapter 2 The Wizards Three.md#^interim-events]]`
 
 | dice: d6 | Event |
 |----------|-------|

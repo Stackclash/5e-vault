@@ -11,7 +11,7 @@ aliases:
 
 **Sovereign Types**
 
-`dice: [[Sovereign Types (TCE).md#^sovereign-types]]`
+`dice: [[/5. Mechanics/Tables/Sovereign Types (TCE).md#^sovereign-types]]`
 
 | dice: d6 | Sovereign |
 |----------|-----------|

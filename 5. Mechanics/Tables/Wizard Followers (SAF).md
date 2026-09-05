@@ -11,7 +11,7 @@ aliases:
 
 **Wizard Followers**
 
-`dice: [[Wizard Followers (SAF).md#^wizard-followers]]`
+`dice: [[/5. Mechanics/Tables/Wizard Followers (SAF).md#^wizard-followers]]`
 
 | dice: d100 | Follower |
 |------------|----------|

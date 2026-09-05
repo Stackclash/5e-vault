@@ -9,7 +9,7 @@ aliases:
 # Goblin Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume I p. 57* 
 
-`dice: [[Goblin Trinket Table (HHHVI).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Goblin Trinket Table (HHHVI).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

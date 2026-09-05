@@ -11,7 +11,7 @@ aliases:
 
 **Hag Ideals**
 
-`dice: [[Roleplaying A Hag Hag Ideals (VGM).md#^hag-ideals]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Hag Hag Ideals (VGM).md#^hag-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

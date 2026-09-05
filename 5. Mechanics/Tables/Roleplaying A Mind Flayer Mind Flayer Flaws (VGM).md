@@ -11,7 +11,7 @@ aliases:
 
 **Mind Flayer Flaws**
 
-`dice: [[Roleplaying A Mind Flayer Mind Flayer Flaws (VGM).md#^mind-flayer-flaws]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Mind Flayer Mind Flayer Flaws (VGM).md#^mind-flayer-flaws]]`
 
 | dice: d6 | Flaw |
 |----------|------|

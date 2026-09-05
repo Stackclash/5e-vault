@@ -11,12 +11,12 @@ aliases:
 
 **Magic Item Table G**
 
-`dice: [[Magic Item Table G.md#^magic-item-table-g]]`
+`dice: [[/5. Mechanics/Tables/Magic Item Table G.md#^magic-item-table-g]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|
 | 01-11 | [[/5. Mechanics/Items/2 Weapon.md\|+2 weapon]] |
-| 12-14 | `dice: [[Magic Item Table G.md#^figurine-of-wondrous-power]]` |
+| 12-14 | `dice: [[/5. Mechanics/Tables/Magic Item Table G.md#^figurine-of-wondrous-power]]` |
 | 15 | [[/5. Mechanics/Items/Adamantine Armor.md\|Adamantine breastplate]] |
 | 16 | [[/5. Mechanics/Items/Adamantine Armor.md\|Adamantine splint armor]] |
 | 17 | [[/5. Mechanics/Items/Amulet Of Health.md\|Amulet of health]] |
@@ -107,7 +107,7 @@ aliases:
 
 **Figurine of Wondrous Power**
 
-`dice: [[Magic Item Table G.md#^figurine-of-wondrous-power]]`
+`dice: [[/5. Mechanics/Tables/Magic Item Table G.md#^figurine-of-wondrous-power]]`
 
 | dice: d8 | Magic Item |
 |----------|------------|

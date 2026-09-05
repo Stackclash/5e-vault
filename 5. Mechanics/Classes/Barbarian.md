@@ -131,7 +131,7 @@ Consider creating one or more personal totems for your character—objects that 
 
 **Personal Totems**
 
-`dice: [[Barbarian.md#^personal-totems]]`
+`dice: [[/5. Mechanics/Classes/Barbarian.md#^personal-totems]]`
 
 | dice: d6 | Totem |
 |----------|-------|
@@ -152,7 +152,7 @@ Each tattoo a barbarian displays contributes to that individual's identity. If y
 
 **Tattoos**
 
-`dice: [[Barbarian.md#^tattoos]]`
+`dice: [[/5. Mechanics/Classes/Barbarian.md#^tattoos]]`
 
 | dice: d6 | Tattoo |
 |----------|--------|
@@ -177,7 +177,7 @@ If your barbarian character has any superstitions, were they ingrained in you by
 
 **Superstition**
 
-`dice: [[Barbarian.md#^superstition]]`
+`dice: [[/5. Mechanics/Classes/Barbarian.md#^superstition]]`
 
 | dice: d6 | Superstition |
 |----------|--------------|

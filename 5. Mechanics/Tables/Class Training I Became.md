@@ -11,7 +11,7 @@ aliases:
 
 **Barbarian**
 
-`dice: [[Class Training I Became.md#^barbarian]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^barbarian]]`
 
 | dice: d6 | I became a barbarian because... |
 |----------|---------------------------------|
@@ -25,7 +25,7 @@ aliases:
 
 **Bard**
 
-`dice: [[Class Training I Became.md#^bard]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^bard]]`
 
 | dice: d6 | I became a bard because... |
 |----------|----------------------------|
@@ -39,7 +39,7 @@ aliases:
 
 **Cleric**
 
-`dice: [[Class Training I Became.md#^cleric]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^cleric]]`
 
 | dice: d6 | I became a cleric because... |
 |----------|------------------------------|
@@ -53,7 +53,7 @@ aliases:
 
 **Druid**
 
-`dice: [[Class Training I Became.md#^druid]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^druid]]`
 
 | dice: d6 | I became a druid because... |
 |----------|-----------------------------|
@@ -67,7 +67,7 @@ aliases:
 
 **Fighter**
 
-`dice: [[Class Training I Became.md#^fighter]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^fighter]]`
 
 | dice: d6 | I became a fighter because... |
 |----------|-------------------------------|
@@ -81,7 +81,7 @@ aliases:
 
 **Monk**
 
-`dice: [[Class Training I Became.md#^monk]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^monk]]`
 
 | dice: d6 | I became a monk because... |
 |----------|----------------------------|
@@ -95,7 +95,7 @@ aliases:
 
 **Paladin**
 
-`dice: [[Class Training I Became.md#^paladin]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^paladin]]`
 
 | dice: d6 | I became a paladin because... |
 |----------|-------------------------------|
@@ -109,7 +109,7 @@ aliases:
 
 **Ranger**
 
-`dice: [[Class Training I Became.md#^ranger]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^ranger]]`
 
 | dice: d6 | I became a ranger because... |
 |----------|------------------------------|
@@ -123,7 +123,7 @@ aliases:
 
 **Rogue**
 
-`dice: [[Class Training I Became.md#^rogue]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^rogue]]`
 
 | dice: d6 | I became a rogue because... |
 |----------|-----------------------------|
@@ -137,7 +137,7 @@ aliases:
 
 **Sorcerer**
 
-`dice: [[Class Training I Became.md#^sorcerer]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^sorcerer]]`
 
 | dice: d6 | I became a sorcerer because... |
 |----------|--------------------------------|
@@ -151,7 +151,7 @@ aliases:
 
 **Warlock**
 
-`dice: [[Class Training I Became.md#^warlock]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^warlock]]`
 
 | dice: d6 | I became a warlock because... |
 |----------|-------------------------------|
@@ -165,7 +165,7 @@ aliases:
 
 **Wizard**
 
-`dice: [[Class Training I Became.md#^wizard]]`
+`dice: [[/5. Mechanics/Tables/Class Training I Became.md#^wizard]]`
 
 | dice: d6 | I became a wizard because... |
 |----------|------------------------------|

@@ -65,7 +65,7 @@ While many dhampirs thirst for blood, your character might otherwise gain susten
 
 **Dhampir Hungers**
 
-`dice: [[Dhampir (VRGR).md#^dhampir-hungers]]`
+`dice: [[/5. Mechanics/Races/Dhampir (VRGR).md#^dhampir-hungers]]`
 
 | dice: d6 | Hunger |
 |----------|--------|
@@ -83,7 +83,7 @@ Dhampirs often arise from encounters with vampires, but all manner of macabre ba
 
 **Dhampir Origins**
 
-`dice: [[Dhampir (VRGR).md#^dhampir-origins]]`
+`dice: [[/5. Mechanics/Races/Dhampir (VRGR).md#^dhampir-origins]]`
 
 | dice: d8 | Origin |
 |----------|--------|

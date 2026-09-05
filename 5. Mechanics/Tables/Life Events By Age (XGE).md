@@ -11,7 +11,7 @@ aliases:
 
 **Life Events by Age**
 
-`dice: [[Life Events By Age (XGE).md#^life-events-by-age]]`
+`dice: [[/5. Mechanics/Tables/Life Events By Age (XGE).md#^life-events-by-age]]`
 
 | dice: d100 | Current Age | Life Events |
 |------------|-------------|-------------|

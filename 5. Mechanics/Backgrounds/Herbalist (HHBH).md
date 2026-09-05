@@ -27,7 +27,7 @@ As an experienced herbalist, you know the best spots to find ripe plants, and th
 
 Since their livelihood relies on a flourishing wild, herbalists tend to have a reverence for nature and hold a respect for the natural cycle of life. While most do live among others as healers or alchemists, they spend the majority of their time outdoors and alone, which can often lead to some eccentric traits.
 
-`dice: [[Herbalist (HHBH).md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Herbalist (HHBH).md#^personality-trait]]`
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|
@@ -39,7 +39,7 @@ Since their livelihood relies on a flourishing wild, herbalists tend to have a r
 | 6 | I am fascinated with the deadly nature of some plants and I look forward to seeing how I can put them to use. |
 ^personality-trait
 
-`dice: [[Herbalist (HHBH).md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Herbalist (HHBH).md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -51,7 +51,7 @@ Since their livelihood relies on a flourishing wild, herbalists tend to have a r
 | 6 | **Healing.** There is no need for the common people to suffer from illness so long as nature provides cures and I am there to find them. (Good) |
 ^ideal
 
-`dice: [[Herbalist (HHBH).md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Herbalist (HHBH).md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -63,7 +63,7 @@ Since their livelihood relies on a flourishing wild, herbalists tend to have a r
 | 6 | As an infant, my life was saved when a wandering herbalist used medicinal plants to break my fever. I vow to bring the same natural healing to everyone in the same way. |
 ^bond
 
-`dice: [[Herbalist (HHBH).md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Herbalist (HHBH).md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

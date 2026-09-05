@@ -27,7 +27,7 @@ Work with your DM to determine the details of your discovery and its impact on t
 
 What was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your DM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind your seclusion.
 
-`dice: [[Hermit.md#^life-of-seclusion]]`
+`dice: [[/5. Mechanics/Backgrounds/Hermit.md#^life-of-seclusion]]`
 
 | dice: d8 | Life of Seclusion |
 |----------|-------------------|
@@ -45,7 +45,7 @@ What was the reason for your isolation, and what changed to allow you to end you
 
 Some hermits are well suited to a life of seclusion, whereas others chafe against it and long for company. Whether they embrace solitude or long to escape it, the solitary life shapes their attitudes and ideals. A few are driven slightly mad by their years apart from society.
 
-`dice: [[Hermit.md#^personality-trait]]`
+`dice: [[/5. Mechanics/Backgrounds/Hermit.md#^personality-trait]]`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -59,7 +59,7 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 8 | I am working on a grand philosophical theory and love sharing my ideas. |
 ^personality-trait
 
-`dice: [[Hermit.md#^ideal]]`
+`dice: [[/5. Mechanics/Backgrounds/Hermit.md#^ideal]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -71,7 +71,7 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 6 | Self-Knowledge. If you know yourself, there's nothing left to know. (Any) |
 ^ideal
 
-`dice: [[Hermit.md#^bond]]`
+`dice: [[/5. Mechanics/Backgrounds/Hermit.md#^bond]]`
 
 | dice: d6 | Bond |
 |----------|------|
@@ -83,7 +83,7 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 6 | My isolation gave me great insight into a great evil that only I can destroy. |
 ^bond
 
-`dice: [[Hermit.md#^flaw]]`
+`dice: [[/5. Mechanics/Backgrounds/Hermit.md#^flaw]]`
 
 | dice: d6 | Flaw |
 |----------|------|

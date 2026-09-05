@@ -33,7 +33,7 @@ The best rivals have a connection with their adversaries on a personal level. Fi
 
 **Rival**
 
-`dice: [[Downtime Revisited (XGE).md#^rival]]`
+`dice: [[/5. Mechanics/Rules/Variant Rules/Downtime Revisited (XGE).md#^rival]]`
 
 | dice: d20 | Rival |
 |-----------|-------|

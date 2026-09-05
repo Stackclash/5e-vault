@@ -11,7 +11,7 @@ aliases:
 
 **Extinction or Depletion**
 
-`dice: [[Extinction Or Depletion.md#^extinction-or-depletion]]`
+`dice: [[/5. Mechanics/Tables/Extinction Or Depletion.md#^extinction-or-depletion]]`
 
 | dice: d8 | Lost Resource |
 |----------|---------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Darkon Allies**
 
-`dice: [[Darkon Allies (VRGR).md#^darkon-allies]]`
+`dice: [[/5. Mechanics/Tables/Darkon Allies (VRGR).md#^darkon-allies]]`
 
 | dice: d6 | Ally |
 |----------|------|

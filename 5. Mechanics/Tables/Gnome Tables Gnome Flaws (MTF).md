@@ -11,7 +11,7 @@ aliases:
 
 **Gnome Flaws**
 
-`dice: [[Gnome Tables Gnome Flaws (MTF).md#^gnome-flaws]]`
+`dice: [[/5. Mechanics/Tables/Gnome Tables Gnome Flaws (MTF).md#^gnome-flaws]]`
 
 | dice: d4 | Flaw |
 |----------|------|

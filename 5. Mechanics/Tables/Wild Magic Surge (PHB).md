@@ -11,7 +11,7 @@ aliases:
 
 **Wild Magic Surge**
 
-`dice: [[Wild Magic Surge (PHB).md#^wild-magic-surge]]`
+`dice: [[/5. Mechanics/Tables/Wild Magic Surge (PHB).md#^wild-magic-surge]]`
 
 | dice: d100 | Effect |
 |------------|--------|

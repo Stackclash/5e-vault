@@ -8,7 +8,7 @@ aliases:
   - Gloom Stalker
 ---
 # Gloom Stalker
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Xanathar's Guide to Everything p. 41*  
 
 > [!tldr] Class and Feature Progression

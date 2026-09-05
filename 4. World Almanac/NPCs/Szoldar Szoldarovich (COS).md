@@ -14,21 +14,20 @@ aliases:
   - Szoldar Szoldarovich
 alignment: Neutral
 description: >-
-  A grim, haunted-looking hunter who says little and carries a bow
-  notched once for every wolf he's killed.
+  A grim, haunted-looking hunter who says little and carries a bow notched once
+  for every wolf he's killed.
 history: >-
-  Son of the late Szoldar Grygorovich — who once gifted the burgomaster's
-  family a mounted bear's head still displayed in their mansion — Szoldar
-  now hunts wolves for a living alongside his friend [[Yevgeni Krushkin
-  (COS)|Yevgeni Krushkin]], selling the meat to survive. The dangerous,
-  bloody work has left both men grim and quietly broken, and Szoldar
-  spends most of his free time drowning his sorrows at the [[Blue Water
-  Inn]].
+  Son of the late Szoldar Grygorovich — who once gifted the burgomaster's family
+  a mounted bear's head still displayed in their mansion — Szoldar now hunts
+  wolves for a living alongside his friend [[Yevgeni Krushkin (COS)|Yevgeni
+  Krushkin]], selling the meat to survive. The dangerous, bloody work has left
+  both men grim and quietly broken, and Szoldar spends most of his free time
+  drowning his sorrows at the [[Blue Water Inn]].
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 pronounced: ZOL-dar zol-DAR-oh-vich
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 34
 occupation:
@@ -40,11 +39,13 @@ personality: 'Grim, taciturn, haunted by the dangerous work he does'
 ideal: Hard work and silence are their own kind of honesty.
 bond: 'His hunting partner, Yevgeni Krushkin, and the family he rarely speaks of.'
 flaw: >-
-  He drowns his sorrows in drink as often as he hunts, and says little
-  even to those who care about him.
-goals: To keep his family fed by selling wolf meat, and to survive one more hunt.
-likes: "The hunt, quiet nights at the Blue Water Inn, his late father's memory"
-dislikes: "Talking about his feelings, the wolves he's forced to kill, the Burgomaster's foolishness"
+  He drowns his sorrows in drink as often as he hunts, and says little even to
+  those who care about him.
+goals: 'To keep his family fed by selling wolf meat, and to survive one more hunt.'
+likes: 'The hunt, quiet nights at the Blue Water Inn, his late father''s memory'
+dislikes: >-
+  Talking about his feelings, the wolves he's forced to kill, the Burgomaster's
+  foolishness
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -76,11 +77,7 @@ dislikes: "Talking about his feelings, the wolves he's forced to kill, the Burgo
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 100*
 
-Szoldar Szoldarovich is a local wolf hunter, one of the grim, haunted men who keep Vallaki fed and its wolf population thinned at great personal cost. He has a notch in his bow for every kill and precious little to say about any of them.
-
-## A Dangerous Trade
-
-Szoldar hunts alongside his friend [[Yevgeni Krushkin (COS)|Yevgeni Krushkin]], selling wolf meat to make ends meet in a town too frightened of the surrounding woods to do the work themselves. Most of the wolf heads mounted on the walls of the [[Blue Water Inn]] are his and Yevgeni's handiwork. Szoldar's late father, Szoldar Grygorovich, once gifted the burgomaster's family the mounted bear's head that hangs in their mansion — a rare point of pride Szoldar almost never mentions.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

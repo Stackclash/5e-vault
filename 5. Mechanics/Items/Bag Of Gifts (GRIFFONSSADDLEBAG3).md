@@ -27,7 +27,7 @@ This soft bag is decorated with tiny illustrations of small trinkets and gifts. 
 
 While holding the empty bag, you can use an action to cinch its top closed and lightly shake it. When you do, the bag magically feels full. When a creature other than you opens the bag, roll a `dice:d12|noform|noparens|avg` (`d12`) and use the table below to determine what the gift is inside.
 
-`dice: [[Bag Of Gifts (GRIFFONSSADDLEBAG3).md#^gift]]`
+`dice: [[/5. Mechanics/Items/Bag Of Gifts (GRIFFONSSADDLEBAG3).md#^gift]]`
 
 | dice: d12 | Gift |
 |-----------|------|

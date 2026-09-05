@@ -11,7 +11,7 @@ aliases:
 
 **Githzerai Ideals**
 
-`dice: [[Gith Tables Githzerai Ideals (MTF).md#^githzerai-ideals]]`
+`dice: [[/5. Mechanics/Tables/Gith Tables Githzerai Ideals (MTF).md#^githzerai-ideals]]`
 
 | dice: d4 | Ideal |
 |----------|-------|

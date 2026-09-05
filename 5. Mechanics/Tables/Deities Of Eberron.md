@@ -11,7 +11,7 @@ aliases:
 
 | The Sovereign Host | Alignment | Suggested Domains | Symbol |
 |--------------------|-----------|-------------------|--------|
-| [[/5. Mechanics/Deities/Eberron Araw(AI).md\|Arawai]], goddess of fertility | NG | Life, Nature | Sheaf of wheat tied with green ribbon |
+| [[/5. Mechanics/Deities/Eberron Arawai.md\|Arawai]], goddess of fertility | NG | Life, Nature | Sheaf of wheat tied with green ribbon |
 | [[/5. Mechanics/Deities/Eberron Aureon.md\|Aureon]], god of law and knowledge | LN | Knowledge | Open tome |
 | [[/5. Mechanics/Deities/Eberron Balinor.md\|Balinor]], god of beasts and the hunt | N | Life, Nature | Pair of antlers |
 | Boldrei, goddess of community and home | LG | Life | Fire in a stone hearth |

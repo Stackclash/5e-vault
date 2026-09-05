@@ -11,7 +11,7 @@ aliases:
 
 **Hag Bonds**
 
-`dice: [[Roleplaying A Hag Hag Bonds (VGM).md#^hag-bonds]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying A Hag Hag Bonds (VGM).md#^hag-bonds]]`
 
 | dice: d8 | Bond |
 |----------|------|

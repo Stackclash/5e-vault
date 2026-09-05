@@ -14,18 +14,16 @@ aliases:
   - Zygfrek Belview
 alignment: Any alignment
 description: >-
-  Zygfrek stands 4 feet, 7 inches tall. Lizard scales cover the left side
-  of her face and body, tufts of gray wolf fur the right, with pale human
-  skin showing between. One eye is feline, and her hands resemble a
-  cat's paws with opposable thumbs. She has a gruff voice and wears a
-  gray cloak with black fur trim.
+  Zygfrek stands 4 feet, 7 inches tall. Lizard scales cover the left side of her
+  face and body, tufts of gray wolf fur the right, with pale human skin showing
+  between. One eye is feline, and her hands resemble a cat's paws with opposable
+  thumbs. She has a gruff voice and wears a gray cloak with black fur trim.
 history: >-
-  Zygfrek is one of the Belview family, transformed generations ago by
-  [[The Abbot (COS)|the Abbot]] at the family's own desperate request for
-  bestial "perfection." Alongside her partner [[Otto Belview (COS)|Otto
-  Belview]], she guards the abbey's north gate by day and digs up fresh
-  graves in Krezk by night, resenting every imagined slight along the
-  way.
+  Zygfrek is one of the Belview family, transformed generations ago by [[The
+  Abbot (COS)|the Abbot]] at the family's own desperate request for bestial
+  "perfection." Alongside her partner [[Otto Belview (COS)|Otto Belview]], she
+  guards the abbey's north gate by day and digs up fresh graves in Krezk by
+  night, resenting every imagined slight along the way.
 relationships: []
 partyRelationships: {}
 location: >-
@@ -43,15 +41,15 @@ groups:
 religions:
   - The Morninglord
 personality: 'Gruff, defensive, quietly resentful'
-ideal: "I don't like the way people judge me all the time."
+ideal: I don't like the way people judge me all the time.
 bond: >-
   Her partner in guarding and grave-robbing, [[Otto Belview (COS)|Otto
-  Belview]], is the closest thing she has to someone who doesn't flinch
-  from her.
-flaw: She lashes out at the first hint of mockery, real or imagined.
+  Belview]], is the closest thing she has to someone who doesn't flinch from
+  her.
+flaw: 'She lashes out at the first hint of mockery, real or imagined.'
 goals: To be left alone to do her work without anyone's judgment
-likes: Darkness, her fur-trimmed cloak, solitude
-dislikes: Stares, whispers, being laughed at
+likes: 'Darkness, her fur-trimmed cloak, solitude'
+dislikes: 'Stares, whispers, being laughed at'
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -83,15 +81,7 @@ dislikes: Stares, whispers, being laughed at
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 148*
 
-Zygfrek Belview shares gate duty — and grave-robbing duty — with [[Otto Belview (COS)|Otto Belview]] at the Abbey of Saint Markovia.
-
-## The Belview Family
-
-The Belviews came to the abbey generations ago, a family of sickly, inbred lepers begging for salvation. [[The Abbot (COS)|The Abbot]] — a deva in disguise — cured their leprosy, but no magic could mend the deeper imperfections bred into their bloodline, and his failure to perfect them became an obsession. The Belviews, though, never wanted to be ordinary: they begged him for the eyes of a cat, the wings of a bat, the strength of a mule, the guile of a snake. A traveling lord named Vasili von Holtz — secretly [[Strahd Von Zarovich (COS)|Strahd von Zarovich]] himself — supplied the Abbot with forbidden lore looted from the Amber Temple to finish what pity had started. The transformation left the family mad, mongrel, and strangely content. Most of them have lived — and been confined — as the abbey's mongrelfolk ever since.
-
-## Not So Good at Guarding
-
-Zygfrek and Otto are loyal servants of [[The Abbot (COS)|the Abbot]], though neither is much of a guard — both are as likely to be asleep under a pile of musty furs as awake at their post. By night, the pair cover themselves in nets of twigs and pine needles and creep down into Krezk to rob fresh graves for the Abbot's experiments. Zygfrek's madness runs to quiet resentment: she is certain that everyone around her is judging her, and she meets the smallest slight — real or imagined — with a gruff, defensive snarl.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

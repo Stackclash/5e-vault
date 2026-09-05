@@ -9,7 +9,7 @@ aliases:
 # Magic Item Table C
 *Source: The Griffon's Saddlebag, Book 2 p. 25* 
 
-`dice: [[Magic Item Table C (GRIFFONSSADDLEBAG2).md#^item-name]]`
+`dice: [[/5. Mechanics/Tables/Magic Item Table C (GRIFFONSSADDLEBAG2).md#^item-name]]`
 
 | dice: d100 | Item Name |
 |------------|-----------|

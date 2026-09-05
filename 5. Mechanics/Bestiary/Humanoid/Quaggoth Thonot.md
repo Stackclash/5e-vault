@@ -78,7 +78,7 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
       \ The quaggoth can innately cast the following spells, requiring no components:\n\
       \n**At will:** [[/5. Mechanics/Spells/Feather Fall.md|feather fall]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]]\
       \ (the hand is invisible)\n\n**1/day each:** [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-      \ [[/5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]], [[/5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
+      \ [[/5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]], [[/5. Mechanics/Spells/Heat Metal.md|heat metal]],\
       \ [[/5. Mechanics/Spells/Mirror Image.md|mirror image]]"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "While it has 10 hit points or fewer, the quaggoth has advantage on attack\

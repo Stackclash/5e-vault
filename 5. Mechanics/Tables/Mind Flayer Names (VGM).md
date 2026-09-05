@@ -11,7 +11,7 @@ aliases:
 
 **Mind Flayer Names**
 
-`dice: [[Mind Flayer Names (VGM).md#^mind-flayer-names]]`
+`dice: [[/5. Mechanics/Tables/Mind Flayer Names (VGM).md#^mind-flayer-names]]`
 
 | dice: d12 | Name |
 |-----------|------|

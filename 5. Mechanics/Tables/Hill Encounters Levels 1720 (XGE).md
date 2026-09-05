@@ -11,7 +11,7 @@ aliases:
 
 **Hill Encounters (Levels 17—20)**
 
-`dice: [[Hill Encounters Levels 1720 (XGE).md#^hill-encounters-levels-1720]]`
+`dice: [[/5. Mechanics/Tables/Hill Encounters Levels 1720 (XGE).md#^hill-encounters-levels-1720]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|

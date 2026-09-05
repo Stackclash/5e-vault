@@ -37,7 +37,7 @@ Sea spawn come in a wide variety of forms. An individual might have a tentacle f
 
 Visitors to a string of islands called the Purple Rocks (in the Forgotten Realms setting) might notice one curious fact about the islands' human inhabitants: no infants or elderly are among them. This is because babies born to the Rocklanders are claimed by a [[/5. Mechanics/Bestiary/Monstrosity/Kraken.md|kraken]] named Slarkrethel. The experience transforms the children into fanatics dedicated to the kraken. They return from the sea as humans, but when they reach old age, they transform into sea spawn and rejoin their master in the depths. Some children return having suffered partial transformations and must conceal themselves from strangers until their full transformation in order to keep the secret of the Purple Rocks.
 
-Kraken priests (in this book) tend to the kraken's flock. Most of the priests are island natives, but some are other sorts of creatures that live in the water around the Purple Rocks, such as [[/5. Mechanics/Bestiary/Humanoid/Merfo(LK).md|merfolk]] or [[/5. Mechanics/Bestiary/Monstrosity/Merrow.md|merrow]], or even sea elves.
+Kraken priests (in this book) tend to the kraken's flock. Most of the priests are island natives, but some are other sorts of creatures that live in the water around the Purple Rocks, such as [[/5. Mechanics/Bestiary/Humanoid/Merfolk.md|merfolk]] or [[/5. Mechanics/Bestiary/Monstrosity/Merrow.md|merrow]], or even sea elves.
 
 ```statblock
 "name": "Sea Spawn (MPMM)"

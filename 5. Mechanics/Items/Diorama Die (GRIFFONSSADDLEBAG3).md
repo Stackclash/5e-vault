@@ -27,7 +27,7 @@ This six-sided die is an inch across and unfolds to reveal miniature scenes insi
 
 When the die lands on a number, it opens up to expose a miniature, illusory diorama inside of it. The die either unfolds partially or completely when doing so (your choice). Use the table below to determine the nature of the die's scene, combining any relevant effects to determine the result. You can collect the diorama die (no action required), causing it to close when you do. A new scene is created each time you speak the die's command word and either roll or place the die.
 
-`dice: [[Diorama Die (GRIFFONSSADDLEBAG3).md#^scene-cast-dropped-shaken-spun-placed]]`
+`dice: [[/5. Mechanics/Items/Diorama Die (GRIFFONSSADDLEBAG3).md#^scene-cast-dropped-shaken-spun-placed]]`
 
 | dice: d6 | Scene | Cast | Dropped | Shaken | Spun | Placed |
 |----------|-------|------|---------|--------|------|--------|

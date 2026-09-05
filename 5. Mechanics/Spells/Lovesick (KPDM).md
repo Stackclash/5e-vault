@@ -60,7 +60,7 @@ An affected target can't take reactions and must roll a `dice:d10|noform|noparen
 
 **Lovesick Actions**
 
-`dice: [[Lovesick (KPDM).md#^lovesick-actions]]`
+`dice: [[/5. Mechanics/Spells/Lovesick (KPDM).md#^lovesick-actions]]`
 
 | dice: d10 | Behavior |
 |-----------|----------|

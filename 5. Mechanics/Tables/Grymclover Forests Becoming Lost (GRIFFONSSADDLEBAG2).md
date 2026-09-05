@@ -11,7 +11,7 @@ aliases:
 
 Finding your way through a forest that's been mutated like this is exceptionally difficult due to the dense brambles, thick canopy, and low visibility. When a character makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check to navigate to a specific location within the forest, consult the [[/5. Mechanics/Tables/Grymclover Forests Grymclover Navigation Dcs (GRIFFONSSADDLEBAG2).md\|Grymclover Navigation DCs]] table. On a failed check, they become lost and suffer a setback determined by the [[/5. Mechanics/Tables/Grymclover Forests Becoming Lost (GRIFFONSSADDLEBAG2).md\|Becoming Lost]] table.
 
-`dice: [[Grymclover Forests Becoming Lost (GRIFFONSSADDLEBAG2).md#^setback]]`
+`dice: [[/5. Mechanics/Tables/Grymclover Forests Becoming Lost (GRIFFONSSADDLEBAG2).md#^setback]]`
 
 | dice: d8 | Setback |
 |----------|---------|

@@ -544,7 +544,7 @@ Travelers without a boat who risk swimming through pools of bloodwater in exchan
 
 **Becoming Lost**
 
-`dice: [[4 Part Iii Setting Options.md#^becoming-lost]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 2/4 Part Iii Setting Options.md#^becoming-lost]]`
 
 | dice: d6 | Result |
 |----------|--------|
@@ -562,7 +562,7 @@ The swamp's bloodwater is consistent throughout, and blood-corrupted game like s
 
 **Diseased Foraged Food**
 
-`dice: [[4 Part Iii Setting Options.md#^diseased-foraged-food]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 2/4 Part Iii Setting Options.md#^diseased-foraged-food]]`
 
 | dice: d6 | Result |
 |----------|--------|
@@ -579,7 +579,7 @@ A bloodfern is an herb that helps to calm the frenzied or stressed mind when ing
 
 **Example Encounters Table**
 
-`dice: [[4 Part Iii Setting Options.md#^example-encounters-table]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 2/4 Part Iii Setting Options.md#^example-encounters-table]]`
 
 | dice: 4d10 | Result |
 |------------|--------|
@@ -644,7 +644,7 @@ When designing a Bloodmire dungeon, take special note of the humidity's eroding 
 
 **Example Dungeons**
 
-`dice: [[4 Part Iii Setting Options.md#^example-dungeons]]`
+`dice: [[/6. Resources/Books/Griffons Saddlebag Book 2/4 Part Iii Setting Options.md#^example-dungeons]]`
 
 | dice: d6 | Example Dungeon |
 |----------|-----------------|

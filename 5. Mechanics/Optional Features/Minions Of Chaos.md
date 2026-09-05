@@ -12,4 +12,4 @@ aliases:
 
 ***Prerequisites*** Level 9
 
-You can cast [[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[/5. Mechanics/Spells/Conjure Elemental.md\|conjure elemental]] once using a warlock spell slot. You can't do so again until you finish a long rest.

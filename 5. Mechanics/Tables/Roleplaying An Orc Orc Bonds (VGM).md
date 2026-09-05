@@ -11,7 +11,7 @@ aliases:
 
 **Orc Bonds**
 
-`dice: [[Roleplaying An Orc Orc Bonds (VGM).md#^orc-bonds]]`
+`dice: [[/5. Mechanics/Tables/Roleplaying An Orc Orc Bonds (VGM).md#^orc-bonds]]`
 
 | dice: d6 | Bond |
 |----------|------|

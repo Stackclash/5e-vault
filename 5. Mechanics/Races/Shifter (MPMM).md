@@ -47,7 +47,7 @@ Most shifters resemble a particular kind of lycanthrope. You can choose the kind
 
 **Lycanthrope Ancestor**
 
-`dice: [[Shifter (MPMM).md#^lycanthrope-ancestor]]`
+`dice: [[/5. Mechanics/Races/Shifter (MPMM).md#^lycanthrope-ancestor]]`
 
 | dice: d6 | Ancestor | Suggested Shifting Option |
 |----------|----------|---------------------------|

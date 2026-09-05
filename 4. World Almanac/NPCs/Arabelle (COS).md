@@ -14,17 +14,16 @@ aliases:
 alignment: Lawful Neutral
 description: >-
   A raven-haired, alabaster-skinned Vistana girl of seven, more solemn and
-  self-possessed than her age would suggest — as if some larger destiny
-  already weighed on her.
+  self-possessed than her age would suggest — as if some larger destiny already
+  weighed on her.
 history: >-
-  Arabelle is the daughter of [[Luvash (COS)|Luvash]], co-leader of the
-  Vistani camp outside Vallaki, and — though neither she nor her father
-  know it — a descendant of [[Madam Eva (COS)|Madam Eva]] carrying a
-  trace of Barovian royal blood. She vanished from camp one night,
-  kidnapped by the desperate fisherman [[Bluto Krogarov (COS)|Bluto
-  Krogarov]], who believed drowning a lucky Vistana would end his run of
-  bad luck on Lake Zarovich. Rescued in time, she demands only to be
-  returned home, certain that a great destiny still awaits her.
+  Arabelle is the daughter of [[Luvash (COS)|Luvash]], co-leader of the Vistani
+  camp outside Vallaki, and — though neither she nor her father know it — a
+  descendant of [[Madam Eva (COS)|Madam Eva]] carrying a trace of Barovian royal
+  blood. She vanished from camp one night, kidnapped by the desperate fisherman
+  [[Bluto Krogarov (COS)|Bluto Krogarov]], who believed drowning a lucky Vistana
+  would end his run of bad luck on Lake Zarovich. Rescued in time, she demands
+  only to be returned home, certain that a great destiny still awaits her.
 relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
@@ -76,15 +75,7 @@ dislikes: 'Being confined or restricted, cruelty'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 38*
 
-Arabelle is the seven-year-old daughter of [[Luvash (COS)|Luvash]], one of the two brothers who lead the Vistani camp outside Vallaki. She acts far older than her years, carrying herself with a quiet confidence that unsettles adults who expect a frightened child.
-
-## Kidnapped
-
-Arabelle disappeared from camp after [[Bluto Krogarov (COS)|Bluto Krogarov]], a destitute Vallaki fisherman convinced that Vistani are lucky, snatched her in a desperate bid to change his fortunes on Lake Zarovich. He bound her, sealed her in a burlap sack, and threw her into the lake as an offering. Characters who act quickly can still save her before she drowns.
-
-## A Hidden Destiny
-
-Unknown to Arabelle or her father, she is a descendant of [[Madam Eva (COS)|Madam Eva]] and carries a trace of Barovian royal blood in her veins — a connection to Strahd himself that neither of them suspects. She has no memory of this lineage, only an unshakable, childlike certainty that a great destiny awaits her.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

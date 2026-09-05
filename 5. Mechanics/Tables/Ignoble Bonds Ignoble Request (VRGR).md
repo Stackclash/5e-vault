@@ -11,7 +11,7 @@ aliases:
 
 **Ignoble Request**
 
-`dice: [[Ignoble Bonds Ignoble Request (VRGR).md#^ignoble-request]]`
+`dice: [[/5. Mechanics/Tables/Ignoble Bonds Ignoble Request (VRGR).md#^ignoble-request]]`
 
 | dice: d6 | Request |
 |----------|---------|

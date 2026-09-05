@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Chinese, Female**
 
-`dice: [[Human Names Chinese Female (XGE).md#^human-names-chinese-female]]`
+`dice: [[/5. Mechanics/Tables/Human Names Chinese Female (XGE).md#^human-names-chinese-female]]`
 
 | dice: d100 | Name |
 |------------|------|

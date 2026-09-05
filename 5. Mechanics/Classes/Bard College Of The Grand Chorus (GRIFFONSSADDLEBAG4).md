@@ -8,7 +8,7 @@ aliases:
   - College of the Grand Chorus
 ---
 # College of the Grand Chorus
-*[[.nullBard.md\|Bard]]: Bard College*  
+*[[/5. Mechanics/Classes/Bard.md\|Bard]]: Bard College*  
 *Source: The Griffon's Saddlebag, Book 4*  
 
 > [!tldr] Class and Feature Progression

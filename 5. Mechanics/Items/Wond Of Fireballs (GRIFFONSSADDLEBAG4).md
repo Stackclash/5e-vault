@@ -29,7 +29,7 @@ This wand functions as a [[/5. Mechanics/Items/Wand Of Fireballs.md\|wand of fir
 
 Whenever you cast the [[/5. Mechanics/Spells/Fireball.md\|fireball]] spell from the wand, roll a `dice:d20|noform|noparens|avg` (`d20`) and use the table below to determine the spell's effect. Regardless of the outcome, the spell's effect is centered on the point you target with the wand and uses a save DC of 15. If the wand casts a different spell, any extra charges spent as part of using the wand increase the spell slot level of the new spell as well.
 
-`dice: [[Wond Of Fireballs (GRIFFONSSADDLEBAG4).md#^effect]]`
+`dice: [[/5. Mechanics/Items/Wond Of Fireballs (GRIFFONSSADDLEBAG4).md#^effect]]`
 
 | dice: d20 | Effect |
 |-----------|--------|

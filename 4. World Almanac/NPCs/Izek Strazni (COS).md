@@ -17,7 +17,7 @@ relationships: []
 partyRelationships:
   Midnight Covenant: Friendly
 location: null
-pronounced: 'EYE-zek STRAHZ-nee'
+pronounced: EYE-zek STRAHZ-nee
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 34
@@ -27,8 +27,8 @@ groups:
   - Baron Vallakovich's household
 religions: []
 personality: >-
-  Volatile, possessive, and quick to violence when crossed — feared
-  throughout Vallaki.
+  Volatile, possessive, and quick to violence when crossed — feared throughout
+  Vallaki.
 ideal: Fear is a powerful weapon. I use it to get what I want.
 bond: >-
   I am loyal to my master, Baron Vallakovich, for he brought me into his home. I
@@ -38,24 +38,22 @@ goals: 'To find his lost sister and keep her with him, whatever it takes.'
 likes: 'Wine, fire, the fear he inspires, his doll collection'
 dislikes: 'Being pitied for his missing arm, being denied what he wants, disloyalty'
 description: >-
-  A hulking, one-armed man whose lost limb has regrown into something
-  fiendish — barbed, taloned, and capable of conjuring fire with a snap of
-  its fingers.
+  A hulking, one-armed man whose lost limb has regrown into something fiendish —
+  barbed, taloned, and capable of conjuring fire with a snap of its fingers.
 history: >-
-  Izek lost his arm and his baby sister to a dire wolf attack as a boy, and
-  grew up an orphaned sociopath in Vallaki until Baron Vallakovich pardoned
-  his crimes and took him into his home. Loyal ever since, he awoke one
-  morning years later to find a fiendish new arm had grown in place of the
-  one he lost. He now enforces the burgomaster's will, drinks heavily, and
-  secretly keeps a room of dolls carved in the likeness of a woman from his
-  dreams — Ireena Kolyana, his own long-lost sister, though neither of them
-  knows it.
+  Izek lost his arm and his baby sister to a dire wolf attack as a boy, and grew
+  up an orphaned sociopath in Vallaki until Baron Vallakovich pardoned his
+  crimes and took him into his home. Loyal ever since, he awoke one morning
+  years later to find a fiendish new arm had grown in place of the one he lost.
+  He now enforces the burgomaster's will, drinks heavily, and secretly keeps a
+  room of dolls carved in the likeness of a woman from his dreams — Ireena
+  Kolyana, his own long-lost sister, though neither of them knows it.
 secrets: >-
-  In the moment Castle Ravenloft fell, Izek — last seen alive at Van
-  Richten's Tower — was somewhere in the chaos when Vecna's escaping power
-  swept through Barovia. It claimed him. He now serves Vecna, bound rather
-  than willing, and has not been seen since. Yevelda Ovak does not yet know
-  this, nor that finding him again may mean a rescue — or a mercy.
+  In the moment Castle Ravenloft fell, Izek — last seen alive at Van Richten's
+  Tower — was somewhere in the chaos when Vecna's escaping power swept through
+  Barovia. It claimed him. He now serves Vecna, bound rather than willing, and
+  has not been seen since. Yevelda Ovak does not yet know this, nor that finding
+  him again may mean a rescue — or a mercy.
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -109,19 +107,9 @@ Perhaps more disturbing than his fiendish arm and his murderous nature is Izek's
 
 Izek has dreams of Ireena. If he spots her, he tries to take her by force to the burgomaster's mansion. If he succeeds, he holds her captive in his bedroom (chapter 5, area N3j). Unknown to Izek and Ireena, they are brother and sister. Ireena fled after Izek was attacked by the dire wolf and became lost in the woods. She wandered for days in shock until she was found and adopted by Kolyan Indirovich in the village of Barovia. Izek covets her in an unwholesome way and won't allow anyone or anything to come between them.
 
-## Izek Strazni's Traits
-
-### Ideal
-
-"Fear is a powerful weapon. I use it to get what I want."
-
-### Bond
-
-"I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family."
-
-### Flaw
-
-"I would do anything, kill anything, to find my sister."
+- **Ideal.** "Fear is a powerful weapon. I use it to get what I want."  
+- **Bond.** "I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family."  
+- **Flaw.** "I would do anything, kill anything, to find my sister."  
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

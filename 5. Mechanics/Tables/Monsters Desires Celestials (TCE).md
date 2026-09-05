@@ -11,7 +11,7 @@ aliases:
 
 **Celestials**
 
-`dice: [[Monsters Desires Celestials (TCE).md#^celestials]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Celestials (TCE).md#^celestials]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

@@ -11,7 +11,7 @@ aliases:
 
 **Sights in Viktal**
 
-`dice: [[Welcome To Viktal Sights In Viktal (VRGR).md#^sights-in-viktal]]`
+`dice: [[/5. Mechanics/Tables/Welcome To Viktal Sights In Viktal (VRGR).md#^sights-in-viktal]]`
 
 | dice: d8 | Sight |
 |----------|-------|

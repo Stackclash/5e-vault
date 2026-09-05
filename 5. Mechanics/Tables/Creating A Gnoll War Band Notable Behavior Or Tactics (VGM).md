@@ -11,7 +11,7 @@ aliases:
 
 **Notable Behavior or Tactics**
 
-`dice: [[Creating A Gnoll War Band Notable Behavior Or Tactics (VGM).md#^notable-behavior-or-tactics]]`
+`dice: [[/5. Mechanics/Tables/Creating A Gnoll War Band Notable Behavior Or Tactics (VGM).md#^notable-behavior-or-tactics]]`
 
 | dice: d8 | Notable behavior or Tactics |
 |----------|-----------------------------|

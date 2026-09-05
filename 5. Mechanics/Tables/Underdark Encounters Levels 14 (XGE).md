@@ -11,7 +11,7 @@ aliases:
 
 **Underdark Encounters (Levels 1—4)**
 
-`dice: [[Underdark Encounters Levels 14 (XGE).md#^underdark-encounters-levels-14]]`
+`dice: [[/5. Mechanics/Tables/Underdark Encounters Levels 14 (XGE).md#^underdark-encounters-levels-14]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -34,7 +34,7 @@ aliases:
 | 23-24 | 1 [[/5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]] |
 | 25 | 1 deep gnome |
 | 26-28 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Drow.md\|drow]] |
-| 29-30 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungi]] |
+| 29-30 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Plant/Violet Fungus.md\|violet fungi]] |
 | 31-32 | `dice:1d12\|noform\|noparens\|avg` (`1d12`) [[/5. Mechanics/Bestiary/Humanoid/Kuo (TOA).md\|kuo-toa]] |
 | 33 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Rust Monster.md\|rust monster]] |
 | 34-35 | A rubble-strewn passage that appears to have been recently cleared after a cave-in |
@@ -63,7 +63,7 @@ aliases:
 | 62 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Humanoid/Drow.md\|drow]] |
 | 63 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] or 1 [[/5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|doppelganger]] |
 | 64 | `dice:1d6+3\|noform\|noparens\|avg` (`1d6 + 3`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
-| 65 | 1 [[/5. Mechanics/Bestiary/Aberration/Intellect Devourer.md\|intellect devourer]] or 1 [[/5. Mechanics/Bestiary/Aberration/Specta(TOR).md\|spectator]] |
+| 65 | 1 [[/5. Mechanics/Bestiary/Aberration/Intellect Devourer.md\|intellect devourer]] or 1 [[/5. Mechanics/Bestiary/Aberration/Spectator.md\|spectator]] |
 | 66 | `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |
 | 67-68 | A faint tapping coming from inside a nearby wall |
 | 69 | 1 [[/5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md\|gibbering mouther]] or 1 [[/5. Mechanics/Bestiary/Elemental/Water Weird.md\|water weird]] |
@@ -83,8 +83,8 @@ aliases:
 | 84 | 1 [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] or 1 [[/5. Mechanics/Bestiary/Undead/Flameskull.md\|flameskull]] or 1 [[/5. Mechanics/Bestiary/Undead/Wraith.md\|wraith]] |
 | 85 | 1 [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] with 1 [[/5. Mechanics/Bestiary/Beast/Polar Bear.md\|polar bear]] ([[/5. Mechanics/Bestiary/Beast/Cave Bear.md\|cave bear]]) |
 | 86 | 1 [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin Captain.md\|hobgoblin captain]] with `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Half Ogre Ogrillon.md\|half-ogres]] and `dice:2d10\|noform\|noparens\|avg` (`2d10`) [[/5. Mechanics/Bestiary/Humanoid/Hobgoblin.md\|hobgoblins]] |
-| 87 | 1 [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]] or 1 [[/5. Mechanics/Bestiary/Ooze/Black Pudding.md\|black pudding]] |
-| 88 | 1 [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Moni(TOR).md\|kuo-toa monitor]] with `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Whip.md\|kuo-toa whips]] |
+| 87 | 1 [[/5. Mechanics/Bestiary/Elemental/Earth Elemental.md\|earth elemental]] or 1 [[/5. Mechanics/Bestiary/Ooze/Black Pudding.md\|black pudding]] |
+| 88 | 1 [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Monitor.md\|kuo-toa monitor]] with `dice:1d8+1\|noform\|noparens\|avg` (`1d8 + 1`) [[/5. Mechanics/Bestiary/Humanoid/Kuo Toa Whip.md\|kuo-toa whips]] |
 | 89 | 1 [[/5. Mechanics/Bestiary/Humanoid/Quaggoth Thonot.md\|quaggoth thonot]] with `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Humanoid/Quaggoth.md\|quaggoths]] |
 | 90 | 1 [[/5. Mechanics/Bestiary/Undead/Beholder Zombie.md\|beholder zombie]] or 1 [[/5. Mechanics/Bestiary/Undead/Bone Naga Guardian.md\|bone naga]] |
 | 91 | 1 [[/5. Mechanics/Bestiary/Humanoid/Orc Eye Of Gruumsh.md\|orc Eye of Gruumsh]] with `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Humanoid/Orog.md\|orogs]] and `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] |

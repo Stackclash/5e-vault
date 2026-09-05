@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon Location**
 
-`dice: [[Dungeon Location.md#^dungeon-location]]`
+`dice: [[/5. Mechanics/Tables/Dungeon Location.md#^dungeon-location]]`
 
 | dice: d100 | Location |
 |------------|----------|

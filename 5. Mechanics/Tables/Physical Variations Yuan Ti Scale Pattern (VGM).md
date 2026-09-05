@@ -11,7 +11,7 @@ aliases:
 
 **Yuan-ti Scale Pattern**
 
-`dice: [[Physical Variations Yuan Ti Scale Pattern (VGM).md#^yuan-ti-scale-pattern]]`
+`dice: [[/5. Mechanics/Tables/Physical Variations Yuan Ti Scale Pattern (VGM).md#^yuan-ti-scale-pattern]]`
 
 | dice: d20 | Scale Pattern |
 |-----------|---------------|

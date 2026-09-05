@@ -48,7 +48,7 @@ You can expend 2 charges to cast the [[/5. Mechanics/Spells/Shatter.md\|shatter]
 
 ## Kenaz
 
-You can expend 1 charge to cast the [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] spell, or 2 charges to cast the [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]] spell.
+You can expend 1 charge to cast the [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] spell, or 2 charges to cast the [[/5. Mechanics/Spells/Heat Metal.md\|heat metal]] spell.
 
 ## Raidho
 

@@ -11,7 +11,7 @@ aliases:
 
 **Dragons**
 
-`dice: [[Monsters Desires Dragons (TCE).md#^dragons]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Dragons (TCE).md#^dragons]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

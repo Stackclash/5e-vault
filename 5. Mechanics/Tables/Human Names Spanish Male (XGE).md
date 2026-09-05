@@ -11,7 +11,7 @@ aliases:
 
 **Human Names – Spanish, Male**
 
-`dice: [[Human Names Spanish Male (XGE).md#^human-names-spanish-male]]`
+`dice: [[/5. Mechanics/Tables/Human Names Spanish Male (XGE).md#^human-names-spanish-male]]`
 
 | dice: d100 | Name |
 |------------|------|

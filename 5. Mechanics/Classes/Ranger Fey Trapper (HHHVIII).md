@@ -8,7 +8,7 @@ aliases:
   - Fey Trapper
 ---
 # Fey Trapper
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Hamund's Harvesting Handbook: Volume III p. 115*  
 
 > [!tldr] Class and Feature Progression

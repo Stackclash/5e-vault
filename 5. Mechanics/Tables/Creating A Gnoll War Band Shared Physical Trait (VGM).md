@@ -11,7 +11,7 @@ aliases:
 
 **Shared Physical Trait**
 
-`dice: [[Creating A Gnoll War Band Shared Physical Trait (VGM).md#^shared-physical-trait]]`
+`dice: [[/5. Mechanics/Tables/Creating A Gnoll War Band Shared Physical Trait (VGM).md#^shared-physical-trait]]`
 
 | dice: d10 | Shared Physical Trait |
 |-----------|-----------------------|

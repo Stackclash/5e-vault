@@ -11,7 +11,7 @@ aliases:
 
 **Magic Item Table I**
 
-`dice: [[Magic Item Table I.md#^magic-item-table-i]]`
+`dice: [[/5. Mechanics/Tables/Magic Item Table I.md#^magic-item-table-i]]`
 
 | dice: d100 | Magic Item |
 |------------|------------|
@@ -43,7 +43,7 @@ aliases:
 | 70-71 | [[/5. Mechanics/Items/2 Armor.md\|+2 splint armor]] |
 | 72-73 | [[/5. Mechanics/Items/2 Armor.md\|+2 studded leather armor]] |
 | 74-75 | [[/5. Mechanics/Items/Well Of Many Worlds.md\|Well of many worlds]] |
-| 76 | `dice: [[Magic Item Table I.md#^magic-armor]]` |
+| 76 | `dice: [[/5. Mechanics/Tables/Magic Item Table I.md#^magic-armor]]` |
 | 77 | [[/5. Mechanics/Items/Apparatus Of Kwalish.md\|Apparatus of Kwalish]] |
 | 78 | [[/5. Mechanics/Items/Armor Of Invulnerability.md\|Armor of invulnerability]] |
 | 79 | [[/5. Mechanics/Items/Belt Of Storm Giant Strength.md\|Belt of storm giant strength]] |
@@ -72,7 +72,7 @@ aliases:
 
 **Magic armor**
 
-`dice: [[Magic Item Table I.md#^magic-armor]]`
+`dice: [[/5. Mechanics/Tables/Magic Item Table I.md#^magic-armor]]`
 
 | dice: 1d12 |  |
 |------------|--|

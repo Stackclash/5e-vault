@@ -11,7 +11,7 @@ aliases:
 
 **25 gp Art Objects**
 
-`dice: [[25 Gp Art Objects.md#^25-gp-art-objects]]`
+`dice: [[/5. Mechanics/Tables/25 Gp Art Objects.md#^25-gp-art-objects]]`
 
 | dice: d10 | Object |
 |-----------|--------|

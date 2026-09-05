@@ -8,7 +8,7 @@ aliases:
   - Angelic Scribe
 ---
 # Angelic Scribe
-*[[.nullWizard.md\|Wizard]]: Arcane Tradition*  
+*[[/5. Mechanics/Classes/Wizard.md\|Wizard]]: Arcane Tradition*  
 *Source: Deep Magic p. 177*  
 
 > [!tldr] Class and Feature Progression
@@ -89,7 +89,7 @@ You can use this ability twice, and you regain expended uses when you finish a s
 
 ### Angelic Wrath (Level 14)
 
-At 14th level (or 17th level for a cleric), you add [[/5. Mechanics/Spells/Conjure Celesti(AL).md\|conjure celestial]] to your spellbook or your spells known if you don't already know it.
+At 14th level (or 17th level for a cleric), you add [[/5. Mechanics/Spells/Conjure Celestial.md\|conjure celestial]] to your spellbook or your spells known if you don't already know it.
 
 Additionally, you can use a bonus action to infuse your seals with angelic wrath. For 1 minute, you deal an additional `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage with weapon attacks—and so does anyone within 30 feet of you that is in possession of one of your active seals.
 

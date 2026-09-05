@@ -49,7 +49,7 @@ The spirit of the dragon Argynvost isn't at rest, either. It can sense that the 
 > If the body of a revenant is destroyed before its vengeance is fulfilled, its spirit seeks out a new corpse or skeleton to animate. To determine where the revenant's new body rises, roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the following table.
 ^revenants-of-barovia
 
-`dice: [[09 Chapter 7 Argynvostholt.md#^corpse-location]]`
+`dice: [[/6. Resources/5e Modules/Curse Of Strahd/09 Chapter 7 Argynvostholt.md#^corpse-location]]`
 
 | dice: d20 | Corpse Location |
 |-----------|-----------------|

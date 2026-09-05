@@ -11,7 +11,7 @@ aliases:
 
 **Framing Events**
 
-`dice: [[Framing Events.md#^framing-events]]`
+`dice: [[/5. Mechanics/Tables/Framing Events.md#^framing-events]]`
 
 | dice: d100 | Event |
 |------------|-------|

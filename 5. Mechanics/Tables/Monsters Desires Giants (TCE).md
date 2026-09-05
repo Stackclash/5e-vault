@@ -11,7 +11,7 @@ aliases:
 
 **Giants**
 
-`dice: [[Monsters Desires Giants (TCE).md#^giants]]`
+`dice: [[/5. Mechanics/Tables/Monsters Desires Giants (TCE).md#^giants]]`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

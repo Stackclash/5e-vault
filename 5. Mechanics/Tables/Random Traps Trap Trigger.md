@@ -11,7 +11,7 @@ aliases:
 
 **Trap Trigger**
 
-`dice: [[Random Traps Trap Trigger.md#^trap-trigger]]`
+`dice: [[/5. Mechanics/Tables/Random Traps Trap Trigger.md#^trap-trigger]]`
 
 | dice: d6 | Trigger |
 |----------|---------|

@@ -9,7 +9,7 @@ aliases:
 # Wand of Wonder Effects
 *Source: Dungeon Master's Guide* 
 
-`dice: [[Wand Of Wonder Effects.md#^effect]]`
+`dice: [[/5. Mechanics/Tables/Wand Of Wonder Effects.md#^effect]]`
 
 | dice: d100 | Effect |
 |------------|--------|

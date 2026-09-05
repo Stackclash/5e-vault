@@ -301,7 +301,7 @@ Unless the characters douse their light sources and move quietly, the creatures 
 
 ### X15. Southwest Annex
 
-This room contains a [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiator]] (CE female human), five [[/5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] (CE male and female humans), and one [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]]. The gladiator and the berserkers are bloodthirsty mountain folk, the dire wolf a servant of Strahd. The dire wolf can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
+This room contains a [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiator]] (CE female human), five [[/5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserkers]] (CE male and female humans), and one [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]]. The gladiator and the berserkers are bloodthirsty mountain folk, the dire wolf a servant of Strahd. The dire wolf can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 
 When they aren't expecting trouble, the gladiator and the berserkers sit on the floor, sharpening their weapons, while the dire wolf sleeps in the middle of the room. The gladiator and the berserkers fight to the death. The dire wolf flees the temple (heading east, through areas X4 and X2) if reduced to fewer than half its hit points.
 

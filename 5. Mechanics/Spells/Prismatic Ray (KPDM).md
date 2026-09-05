@@ -54,7 +54,7 @@ A ray of shifting color springs from your hand. Make a ranged spell attack again
 
 **Prismatic Ray Colors**
 
-`dice: [[Prismatic Ray (KPDM).md#^prismatic-ray-colors]]`
+`dice: [[/5. Mechanics/Spells/Prismatic Ray (KPDM).md#^prismatic-ray-colors]]`
 
 | dice: d8 | Color | Effect | Saving Throw |
 |----------|-------|--------|--------------|

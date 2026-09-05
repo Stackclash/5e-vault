@@ -11,7 +11,7 @@ aliases:
 
 **Keeper Adventures**
 
-`dice: [[Keeper Adventures (VRGR).md#^keeper-adventures]]`
+`dice: [[/5. Mechanics/Tables/Keeper Adventures (VRGR).md#^keeper-adventures]]`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

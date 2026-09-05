@@ -11,7 +11,7 @@ aliases:
 
 **Good Ideals**
 
-`dice: [[Ideals.md#^good-ideals]]`
+`dice: [[/5. Mechanics/Tables/Ideals.md#^good-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -25,7 +25,7 @@ aliases:
 
 **Evil Ideals**
 
-`dice: [[Ideals.md#^evil-ideals]]`
+`dice: [[/5. Mechanics/Tables/Ideals.md#^evil-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -39,7 +39,7 @@ aliases:
 
 **Lawful Ideals**
 
-`dice: [[Ideals.md#^lawful-ideals]]`
+`dice: [[/5. Mechanics/Tables/Ideals.md#^lawful-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -53,7 +53,7 @@ aliases:
 
 **Chaotic Ideals**
 
-`dice: [[Ideals.md#^chaotic-ideals]]`
+`dice: [[/5. Mechanics/Tables/Ideals.md#^chaotic-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -67,7 +67,7 @@ aliases:
 
 **Neutral Ideals**
 
-`dice: [[Ideals.md#^neutral-ideals]]`
+`dice: [[/5. Mechanics/Tables/Ideals.md#^neutral-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -81,7 +81,7 @@ aliases:
 
 **Other Ideals**
 
-`dice: [[Ideals.md#^other-ideals]]`
+`dice: [[/5. Mechanics/Tables/Ideals.md#^other-ideals]]`
 
 | dice: d6 | Ideal |
 |----------|-------|

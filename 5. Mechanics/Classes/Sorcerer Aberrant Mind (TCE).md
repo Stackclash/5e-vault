@@ -8,7 +8,7 @@ aliases:
   - Aberrant Mind
 ---
 # Aberrant Mind
-*[[.nullSorcerer.md\|Sorcerer]]: Sorcerous Origin*  
+*[[/5. Mechanics/Classes/Sorcerer.md\|Sorcerer]]: Sorcerous Origin*  
 *Source: Tasha's Cauldron of Everything p. 66*  
 
 > [!tldr] Class and Feature Progression
@@ -49,7 +49,7 @@ As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you 
 
 **Aberrant Origins**
 
-`dice: [[Sorcerer Aberrant Mind (TCE).md#^aberrant-origins]]`
+`dice: [[/5. Mechanics/Classes/Sorcerer Aberrant Mind (TCE).md#^aberrant-origins]]`
 
 | dice: d6 | Origin |
 |----------|--------|

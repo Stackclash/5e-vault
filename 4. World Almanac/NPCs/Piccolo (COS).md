@@ -14,8 +14,8 @@ aliases:
   - Piccolo
 alignment: Unaligned
 description: >-
-  A small, quick baboon dressed in a custom-tailored ballerina tutu, trained
-  to fetch toys from high shelves.
+  A small, quick baboon dressed in a custom-tailored ballerina tutu, trained to
+  fetch toys from high shelves.
 history: >-
   Once Rictavio's traveling companion and carnival monkey, Piccolo was given
   away as a gift to the lonely Vallaki toymaker Gadof Blinsky, who has since
@@ -35,10 +35,9 @@ personality: >-
   Playful and mischievous; enjoys performing tricks and fetching objects for
   treats.
 ideal: Loyalty to whoever feeds it.
-bond: >-
-  Bonded first to Rictavio, and now to its new keeper, Gadof Blinsky.
+bond: 'Bonded first to Rictavio, and now to its new keeper, Gadof Blinsky.'
 flaw: Easily distracted by shiny objects and other animals' snacks.
-goals: To be fed, entertained, and kept safe by its owner.
+goals: 'To be fed, entertained, and kept safe by its owner.'
 likes: 'Fruit, shiny trinkets, being dressed up, attention'
 dislikes: 'Loud noises, the saber-toothed tiger in the carnival wagon, being ignored'
 ---
@@ -72,11 +71,7 @@ dislikes: 'Loud noises, the saber-toothed tiger in the carnival wagon, being ign
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 118*
 
-Piccolo is a baboon and former traveling companion of the mysterious carnival ringmaster [[Rictavio (COS)|Rictavio]]. Recognizing that Vallaki's toymaker, [[Gadof Blinsky (COS)|Gadof Blinsky]], was lonely and unloved, Rictavio gave Piccolo to him as a gift after buying a stuffed Vistana doll from his shop.
-
-## Blinsky's Assistant
-
-Overjoyed, Blinsky has trained Piccolo to fetch toys from hard-to-reach shelves in the House of Blinsky, and has fitted the baboon with a custom-tailored ballerina tutu. Piccolo can usually be found perched somewhere in the cluttered toy shop, delighting — or unsettling — customers alongside Blinsky's eerie creations.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

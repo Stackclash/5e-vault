@@ -8,7 +8,7 @@ aliases:
   - Vampire Slayer
 ---
 # Vampire Slayer
-*[[.nullRanger.md\|Ranger]]: Ranger Archetype*  
+*[[/5. Mechanics/Classes/Ranger.md\|Ranger]]: Ranger Archetype*  
 *Source: Deep Magic p. 144*  
 
 > [!tldr] Class and Feature Progression

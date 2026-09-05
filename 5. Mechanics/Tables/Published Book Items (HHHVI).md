@@ -11,7 +11,7 @@ aliases:
 
 | Craftable Item | Harvesting Material | Crafter |
 |----------------|---------------------|---------|
-| [[/5. Mechanics/Items/Antitoxin Vi(AL).md\|Anti-Venom]] | Stirge Bile (1 vial) | [[/5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
+| [[/5. Mechanics/Items/Antitoxin Vial.md\|Anti-Venom]] | Stirge Bile (1 vial) | [[/5. Mechanics/Optional Features/Alchemist (HHHVI).md\|Alchemist]] |
 | [[/5. Mechanics/Items/1 Ammunition.md\|+1 Arrow]] | Barbed Devil Barb (×1), Griffon Feather (×1), Hippogriff Feather (×1), Plesiosaurus Tooth (×1) | [[/5. Mechanics/Optional Features/Blacksmith (HHHVI).md\|Blacksmith]] |
 | [[/5. Mechanics/Items/2 Ammunition.md\|+2 Arrow]] | Hydra Tooth (×1) | [[/5. Mechanics/Optional Features/Blacksmith (HHHVI).md\|Blacksmith]] |
 | [[/5. Mechanics/Items/1 Ammunition.md\|+1 Bolt]] | Barbed Devil Barb (×1) | [[/5. Mechanics/Optional Features/Leatherworker (HHHVI).md\|Leatherworker]] |

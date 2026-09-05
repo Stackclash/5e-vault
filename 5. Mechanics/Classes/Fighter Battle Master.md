@@ -8,7 +8,7 @@ aliases:
   - Battle Master
 ---
 # Battle Master
-*[[.nullFighter.md\|Fighter]]: Martial Archetype*  
+*[[/5. Mechanics/Classes/Fighter.md\|Fighter]]: Martial Archetype*  
 *Source: Player's Handbook p. 73*  
 
 > [!tldr] Class and Feature Progression

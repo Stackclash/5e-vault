@@ -11,7 +11,7 @@ aliases:
 
 **Urban Encounters (Levels 1—4)**
 
-`dice: [[Urban Encounters Levels 14 (XGE).md#^urban-encounters-levels-14]]`
+`dice: [[/5. Mechanics/Tables/Urban Encounters Levels 14 (XGE).md#^urban-encounters-levels-14]]`
 
 | dice: d100 | Encounter |
 |------------|-----------|
@@ -66,7 +66,7 @@ aliases:
 | 82 | 1 [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] |
 | 83 | 1 [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]] |
 | 84 | 1 [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] |
-| 85 | 1 [[/5. Mechanics/Bestiary/Fiend/Succub(US).md\|succubus]] or 1 [[/5. Mechanics/Bestiary/Fiend/Incub(US).md\|incubus]] |
+| 85 | 1 [[/5. Mechanics/Bestiary/Fiend/Succubus.md\|succubus]] or 1 [[/5. Mechanics/Bestiary/Fiend/Incubus.md\|incubus]] |
 | 86 | 1 [[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]] with 3d6 [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] |
 | 87 | 1d4 + 1 [[/5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatics]] |
 | 88 | 1 [[/5. Mechanics/Bestiary/Humanoid/Knight.md\|knight]] or 1 [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veteran]] |
@@ -74,7 +74,7 @@ aliases:
 | 90 | 1 [[/5. Mechanics/Bestiary/Undead/Wight.md\|wight]] |
 | 91 | 1 [[/5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] |
 | 92 | 1 [[/5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] |
-| 93 | 1 [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiator]] |
+| 93 | 1 [[/5. Mechanics/Bestiary/Humanoid/Gladiator.md\|gladiator]] |
 | 94 | 1 [[/5. Mechanics/Bestiary/Undead/Revenant.md\|revenant]] |
 | 95 | 2d4 [[/5. Mechanics/Bestiary/Elemental/Gargoyle.md\|gargoyles]] |
 | 96 | 1d4 [[/5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|doppelgangers]] |

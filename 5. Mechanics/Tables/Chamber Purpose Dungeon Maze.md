@@ -11,7 +11,7 @@ aliases:
 
 **Dungeon: Maze**
 
-`dice: [[Chamber Purpose Dungeon Maze.md#^dungeon-maze]]`
+`dice: [[/5. Mechanics/Tables/Chamber Purpose Dungeon Maze.md#^dungeon-maze]]`
 
 | dice: d20 | Purpose |
 |-----------|---------|

@@ -15,15 +15,15 @@ aliases:
   - Bray Martikov
 alignment: Lawful Good
 description: >-
-  Bray Martikov is the elder of Urwin and Danika’s two sons, a young
-  wereraven eager to prove himself worthy of the family’s covert duties as a
-  Keeper of the Feather.
+  Bray Martikov is the elder of Urwin and Danika’s two sons, a young wereraven
+  eager to prove himself worthy of the family’s covert duties as a Keeper of the
+  Feather.
 history: >-
   Bray has grown up in the taproom of the [[Blue Water Inn]], underfoot of
   guests and patrons since he could walk. Knowing he and his younger brother
-  [[Brom Martikov (COS)|Brom]] will one day carry on the family’s secret
-  fight against Strahd, he pesters his parents for real responsibilities and
-  dreams of the day he’s trusted with a Keeper’s errand of his own.
+  [[Brom Martikov (COS)|Brom]] will one day carry on the family’s secret fight
+  against Strahd, he pesters his parents for real responsibilities and dreams of
+  the day he’s trusted with a Keeper’s errand of his own.
 relationships:
   - Urwin Martikov (COS)|father
   - Danika Dorakova (COS)|mother
@@ -79,13 +79,7 @@ dislikes: 'Threats to his family, the oppression of Strahd, boredom'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
-Bray Martikov is the elder of [[Urwin Martikov (COS)|Urwin]] and [[Danika Dorakova (COS)|Danika]]'s two sons, growing up in the taproom of the [[Blue Water Inn]] and already impatient to take up the family's hidden duties.
-
-## Growing Into the Feather
-At fifteen, Bray is old enough to sense the weight of what his family really is - wereravens standing against Strahd from inside Vallaki - and young enough to still romanticize it. He peppers visiting Keepers of the Feather with questions and volunteers for any task that might prove his worth, much to his mother's mingled pride and worry.
-
-## Little Brother in Tow
-Bray looks out for [[Brom Martikov (COS)|Brom]], dragging him along on errands around the inn and filling his head with half-true stories of heroism. The two are close, and Bray's eagerness for adventure is at least partly an attempt to live up to being the example his little brother looks up to.
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

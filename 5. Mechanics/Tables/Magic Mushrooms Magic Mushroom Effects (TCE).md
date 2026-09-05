@@ -11,7 +11,7 @@ aliases:
 
 **Magic Mushroom Effects**
 
-`dice: [[Magic Mushrooms Magic Mushroom Effects (TCE).md#^magic-mushroom-effects]]`
+`dice: [[/5. Mechanics/Tables/Magic Mushrooms Magic Mushroom Effects (TCE).md#^magic-mushroom-effects]]`
 
 | dice: d10 | Effects |
 |-----------|---------|

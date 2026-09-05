@@ -52,7 +52,7 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 
 **Chaos Bolt**
 
-`dice: [[Chaos Bolt (XGE).md#^chaos-bolt]]`
+`dice: [[/5. Mechanics/Spells/Chaos Bolt (XGE).md#^chaos-bolt]]`
 
 | dice: d8 | Damage Type |
 |----------|-------------|

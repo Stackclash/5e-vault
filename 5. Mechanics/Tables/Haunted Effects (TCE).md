@@ -11,7 +11,7 @@ aliases:
 
 **Haunted Effects**
 
-`dice: [[Haunted Effects (TCE).md#^haunted-effects]]`
+`dice: [[/5. Mechanics/Tables/Haunted Effects (TCE).md#^haunted-effects]]`
 
 | dice: d100 | Effect |
 |------------|--------|

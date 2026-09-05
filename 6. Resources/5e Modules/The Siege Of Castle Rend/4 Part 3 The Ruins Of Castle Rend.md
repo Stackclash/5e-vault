@@ -238,7 +238,7 @@ The collapsed south tower is a place of great suffering. Those who once inhabite
 
 This tower holds a staircase that climbs to its ruined top and descends into C25 of the keep's dungeons. Climbing the staircase leads to a dead end where the tower has caved in, and any creature who sifts through the rubble must make a DC 13 Charisma saving throw as the [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] of one of the knights emerges through the wall and uses its Possession ability on them. The ghost fights until it is destroyed.
 
-Sifting through the rubble for 5 minutes reveals a rusted iron lockbox, which is trivial to force open. Inside is an airtight pewter [[/5. Mechanics/Items/Map Or Scroll Case.md\|scroll case]] embellished with silver images of dragons. Inside the case is a small key and a piece of [[/5. Mechanics/Items/Parchment One Sh(EET).md\|parchment]]: the deed to this keep, signed by Omund himself. The deed is a historical curiosity, but since both King Omund and the Blue Dragonflight are now little more than a memory, the deed is practically useless in this day and age. That is, unless someone convincing and charismatic decided to keep it and declare it valid under the principle that Omund's proclamation was never lawfully rescinded. The scroll case could be sold to a jeweler for 300 gp.
+Sifting through the rubble for 5 minutes reveals a rusted iron lockbox, which is trivial to force open. Inside is an airtight pewter [[/5. Mechanics/Items/Map Or Scroll Case.md\|scroll case]] embellished with silver images of dragons. Inside the case is a small key and a piece of [[/5. Mechanics/Items/Parchment One Sheet.md\|parchment]]: the deed to this keep, signed by Omund himself. The deed is a historical curiosity, but since both King Omund and the Blue Dragonflight are now little more than a memory, the deed is practically useless in this day and age. That is, unless someone convincing and charismatic decided to keep it and declare it valid under the principle that Omund's proclamation was never lawfully rescinded. The scroll case could be sold to a jeweler for 300 gp.
 
 The key within this scroll case is small, made of silver, and embellished with an image of a dragon. It opens the treasure chests in C19 within the dungeon.
 
@@ -302,7 +302,7 @@ Here, two [[/5. Mechanics/Bestiary/Humanoid/White Tusk Shaman (SAF).md\|White Tu
 
 #### Treasure
 
-The cauldron contains a potion that the shamans are brewing to aid their bloodchief in the trials to come. This pungent broth is the base for a [[/5. Mechanics/Items/Potion Of Enhance Ability (SAF).md\|potion of enhance ability]]. It is currently inert, but its magical effects can be activated by adding a single hair or feather of a certain animal to a vial of this potion. There is enough broth in this cauldron to fill six glass vials. A crate containing twelve [[/5. Mechanics/Items/Vi(AL).md\|vials]] sits in a corner of this room.
+The cauldron contains a potion that the shamans are brewing to aid their bloodchief in the trials to come. This pungent broth is the base for a [[/5. Mechanics/Items/Potion Of Enhance Ability (SAF).md\|potion of enhance ability]]. It is currently inert, but its magical effects can be activated by adding a single hair or feather of a certain animal to a vial of this potion. There is enough broth in this cauldron to fill six glass vials. A crate containing twelve [[/5. Mechanics/Items/Vial.md\|vials]] sits in a corner of this room.
 
 ### C19. Secret Treasury
 

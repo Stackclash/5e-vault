@@ -9,7 +9,7 @@ aliases:
 # Sea Spawn Trinket Table
 *Source: Hamund's Harvesting Handbook: Volume II p. 41* 
 
-`dice: [[Sea Spawn Trinket Table (HHHVII).md#^item-value-weight]]`
+`dice: [[/5. Mechanics/Tables/Sea Spawn Trinket Table (HHHVII).md#^item-value-weight]]`
 
 | dice: d8 | Item | Value | Weight |
 |----------|------|-------|--------|

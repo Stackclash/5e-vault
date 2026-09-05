@@ -167,7 +167,7 @@ aliases:
 - [[/5. Mechanics/Spells/Tracer (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Tracking Beacon (KPDM).md \|"KPDM"]]
 - [[/5. Mechanics/Spells/Water Breathing.md \|"PHB"]]
-- [[/5. Mechanics/Spells/Water Wa(LK).md \|"PHB"]]
+- [[/5. Mechanics/Spells/Water Walk.md \|"PHB"]]
 - [[/5. Mechanics/Spells/Wind Wall.md \|"PHB"]]
 
 ## 4th Level

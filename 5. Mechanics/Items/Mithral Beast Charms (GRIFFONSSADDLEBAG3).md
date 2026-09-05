@@ -27,14 +27,14 @@ These mithral charms resemble a type of woodland beast and can be easily worn on
 
 Once the charm has been used, it loses its magic and can't be used again. When found, the GM chooses the kind of charm it is or determines it randomly from the table below. When you summon a creature using the charm, you choose which beast it takes the form of, summoning the corresponding number of them.
 
-`dice: [[Mithral Beast Charms (GRIFFONSSADDLEBAG3).md#^charm-summoned-creatures]]`
+`dice: [[/5. Mechanics/Items/Mithral Beast Charms (GRIFFONSSADDLEBAG3).md#^charm-summoned-creatures]]`
 
 | dice: d8 | Charm | Summoned Creatures |
 |----------|-------|--------------------|
 | 1 | Monkey | 4 [[/5. Mechanics/Bestiary/Beast/Baboon.md\|baboon]]s or 2 [[/5. Mechanics/Bestiary/Beast/Ape.md\|ape]]s |
 | 2 | Bear | 2 [[/5. Mechanics/Bestiary/Beast/Black Bear.md\|black bear]]s or 1 [[/5. Mechanics/Bestiary/Beast/Brown Bear.md\|brown bear]] |
 | 3 | Boar | 4 [[/5. Mechanics/Bestiary/Beast/Boar.md\|boar]]s or 1 [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|giant boar]] with half as many hit points |
-| 4 | Deer (stag) | 4 [[/5. Mechanics/Bestiary/Beast/Deer.md\|deer]] or [[/5. Mechanics/Bestiary/Beast/E(LK).md\|elk]], or 1 [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|giant elk]] with half as many hit points |
+| 4 | Deer (stag) | 4 [[/5. Mechanics/Bestiary/Beast/Deer.md\|deer]] or [[/5. Mechanics/Bestiary/Beast/Elk.md\|elk]], or 1 [[/5. Mechanics/Bestiary/Beast/Giant Elk.md\|giant elk]] with half as many hit points |
 | 5 | Frog | 4 [[/5. Mechanics/Bestiary/Beast/Frog.md\|frog]]s or [[/5. Mechanics/Bestiary/Beast/Giant Frog.md\|giant frog]]s, or 1 [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|giant toad]] |
 | 6 | Panther | 4 [[/5. Mechanics/Bestiary/Beast/Panther.md\|panther]]s or 1 [[/5. Mechanics/Bestiary/Beast/Tiger.md\|tiger]] |
 | 7 | Ram | 4 [[/5. Mechanics/Bestiary/Beast/Goat.md\|goat]]s or 2 [[/5. Mechanics/Bestiary/Beast/Giant Goat.md\|giant goat]]s |

@@ -8,7 +8,7 @@ aliases:
   - Oath of the Ancients
 ---
 # Oath of the Ancients
-*[[.nullPaladin.md\|Paladin]]: Sacred Oath*  
+*[[/5. Mechanics/Classes/Paladin.md\|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 86*  
 
 > [!tldr] Class and Feature Progression

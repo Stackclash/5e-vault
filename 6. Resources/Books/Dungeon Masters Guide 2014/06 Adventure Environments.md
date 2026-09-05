@@ -45,7 +45,7 @@ Details bring a dungeon setting's personality to life. Great bearded faces might
 
 The Dungeon Creator table includes creatures that typically build dungeons. You can choose a creator from the table or roll randomly, or choose some other dungeon builder appropriate for your campaign.
 
-![[/5. Mechanics/Tables/Dungeon Crea(TOR).md\|Dungeon Creator]]
+![[/5. Mechanics/Tables/Dungeon Creator.md\|Dungeon Creator]]
 
 ![[/5. Mechanics/Tables/Dungeon Creator Cults And Religions.md\|Dungeon Creator; Cults and Religions]]
 
@@ -446,7 +446,7 @@ The following tables allow you to quickly create a settlement. They assume that 
 
 ![[/5. Mechanics/Tables/Random Settlements Race Relations.md\|Random Settlements; Race Relations]]
 
-![[/5. Mechanics/Tables/Random Settlements Rulers Stat(US).md\|Random Settlements; Ruler's Status]]
+![[/5. Mechanics/Tables/Random Settlements Rulers Status.md\|Random Settlements; Ruler's Status]]
 
 ![[/5. Mechanics/Tables/Random Settlements Notable Traits.md\|Random Settlements; Notable Traits]]
 
@@ -468,7 +468,7 @@ If a roll makes no sense considering where the characters are (such as a lavish 
 
 ![[/5. Mechanics/Tables/Random Buildings Tavern.md\|Random Buildings; Tavern]]
 
-![[/5. Mechanics/Tables/Random Buildings Tavern Name Genera(TOR).md\|Random Buildings; Tavern Name Generator]]
+![[/5. Mechanics/Tables/Random Buildings Tavern Name Generator.md\|Random Buildings; Tavern Name Generator]]
 
 ![[/5. Mechanics/Tables/Random Buildings Warehouse.md\|Random Buildings; Warehouse]]
 

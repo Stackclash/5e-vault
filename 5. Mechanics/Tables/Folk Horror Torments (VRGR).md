@@ -11,7 +11,7 @@ aliases:
 
 **Folk Horror Torments**
 
-`dice: [[Folk Horror Torments (VRGR).md#^folk-horror-torments]]`
+`dice: [[/5. Mechanics/Tables/Folk Horror Torments (VRGR).md#^folk-horror-torments]]`
 
 | dice: d6 | Torment |
 |----------|---------|

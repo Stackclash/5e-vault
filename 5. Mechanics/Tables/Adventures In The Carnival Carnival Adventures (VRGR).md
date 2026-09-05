@@ -11,7 +11,7 @@ aliases:
 
 **Carnival Adventures**
 
-`dice: [[Adventures In The Carnival Carnival Adventures (VRGR).md#^carnival-adventures]]`
+`dice: [[/5. Mechanics/Tables/Adventures In The Carnival Carnival Adventures (VRGR).md#^carnival-adventures]]`
 
 | dice: d4 | Adventure |
 |----------|-----------|

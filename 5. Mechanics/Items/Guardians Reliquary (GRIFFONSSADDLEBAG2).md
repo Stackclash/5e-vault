@@ -34,6 +34,6 @@ In addition, the prosthetic has 10 charges. You can use an action to expend 1 or
 
 ## Final Sacrifice
 
-As an action, you can use the prosthetic to cast either [[/5. Mechanics/Spells/Mass He(AL).md\|mass heal]] or [[/5. Mechanics/Spells/True Resurrection.md\|true resurrection]]. When you do, the prosthetic releases a massive burst of divine light as the bones inside it are destroyed. The prosthetic then loses all its properties, but it can still be used as a magical prosthetic that functions as a fully capable part of your body and no longer requires attunement.
+As an action, you can use the prosthetic to cast either [[/5. Mechanics/Spells/Mass Heal.md\|mass heal]] or [[/5. Mechanics/Spells/True Resurrection.md\|true resurrection]]. When you do, the prosthetic releases a massive burst of divine light as the bones inside it are destroyed. The prosthetic then loses all its properties, but it can still be used as a magical prosthetic that functions as a fully capable part of your body and no longer requires attunement.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 96*

@@ -8,7 +8,7 @@ aliases:
   - Way of the Aether
 ---
 # Way of the Aether
-*[[.nullMonk.md\|Monk]]: Monastic Tradition*  
+*[[/5. Mechanics/Classes/Monk.md\|Monk]]: Monastic Tradition*  
 *Source: The Griffon's Saddlebag, Book 2 p. 218*  
 
 > [!tldr] Class and Feature Progression

@@ -28,7 +28,7 @@ Before you finish making a character, roll once on the Horror Trinkets table for
 
 **Horror Trinkets**
 
-`dice: [[Horror Trinket (VRGR).md#^horror-trinkets]]`
+`dice: [[/5. Mechanics/Items/Horror Trinket (VRGR).md#^horror-trinkets]]`
 
 | dice: d100 | Trinket |
 |------------|---------|

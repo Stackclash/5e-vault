@@ -9,7 +9,7 @@ aliases:
 # Durheim Monastery Adeventure Hooks
 *Source: The Griffon's Saddlebag, Book 2 p. 264* 
 
-`dice: [[Durheim Monastery Adeventure Hooks (GRIFFONSSADDLEBAG2).md#^adventure-hook]]`
+`dice: [[/5. Mechanics/Tables/Durheim Monastery Adeventure Hooks (GRIFFONSSADDLEBAG2).md#^adventure-hook]]`
 
 | dice: d10 | Adventure Hook |
 |-----------|----------------|

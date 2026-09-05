@@ -58,7 +58,7 @@ This spell destabilizes the flow of time, enabling you to create a vortex of tem
 
 An affected creature can't take reactions and rolls a `dice:d10|noform|noparens|avg` (`d10`) at the start of its turn to determine its behavior for that turn.
 
-`dice: [[Time Vortex (KPDM).md#^effect]]`
+`dice: [[/5. Mechanics/Spells/Time Vortex (KPDM).md#^effect]]`
 
 | dice: d10 | Effect |
 |-----------|--------|

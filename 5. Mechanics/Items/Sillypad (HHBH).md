@@ -37,7 +37,7 @@ As an action you may rub this herb on your skin. If you do so, you undergo a ran
 
 **Sillypad Effect Table**
 
-`dice: [[Sillypad (HHBH).md#^sillypad-effect-table]]`
+`dice: [[/5. Mechanics/Items/Sillypad (HHBH).md#^sillypad-effect-table]]`
 
 | dice: d6 | Effect |
 |----------|--------|
