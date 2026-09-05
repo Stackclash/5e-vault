@@ -1,2 +1,4 @@
-- [Campaign state](project_campaign-state.md) — session count, thread ledger, and prep debts for The Hunt for Vecna as of S44
+- [Campaign state](project_campaign-state.md) — session count, thread ledger, and prep debts for The Hunt for Vecna as of S44, updated for the 2026-08-22 dual-path prep
 - [Session log workflow](feedback_session-log-workflow.md) — draft-then-file cadence for post-session wraps; no notes for nameless one-off NPCs
+- [Narrative style](feedback_narrative-style.md) — punch up prose for planar/exotic scenes; grey allied NPCs get bounded self-interest, not scripted betrayals
+- [Player inventory staleness](project_player-inventory-staleness.md) — vault player inventories lag actual play; confirm treasure picks with the DM, not just frontmatter

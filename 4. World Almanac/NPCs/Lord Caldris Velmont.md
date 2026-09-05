@@ -36,11 +36,15 @@ personality: Charming and manipulative.
 ideal: Control creates peace.
 bond: Secretly loyal to powerful political patrons.
 flaw: Believes he is smarter than everyone else.
-goals: Expand the Institute’s influence over Bruokdon politics.
+goals: Expand the Institute's influence over Bruokdon politics. Presently, quiet revenge against the Silent Ascendency for capturing, replacing, and discarding him.
 likes: elegant parties, persuasion
 dislikes: unpredictability
 partyRelationships:
   Midnight Covenant: Disgruntled
+secrets: |-
+  Revealed to the party (S43): the Silent Ascendency captured him and set up the magic-item smuggling operation; he did not say — and they did not ask — how a captive academic came to have a fully operational smuggling ring for a doppelganger to inherit.
+  STILL DM-ONLY: the ring predates the Ascendency entirely. Velmont built it himself over years, quietly moving stolen and grey-market magic items through the Umbral Athenaeum's enchantment trade to fund himself and buy leverage over the noble patrons he answers to. When Marrow took him captive, the Ascendency didn't construct a network from nothing — it seized a mature, working one and drove it harder. This is also the mechanism, not yet needed in play, by which Velmont could resume being "Lord Velmont" to the wider network without any disguise at all: everyone above Bruokdon has only ever dealt with "Velmont," real or worn, and neither Marrow's impression nor the genuine article required inventing anything.
+  STILL DM-ONLY: his cooperation against the Ascendency is genuine — being captured, replaced, and discarded is a wound to his pride and his sense of control, and revenge matters more to him than scruples ever did. He will hold up his end for as long as it's aimed at hurting the Ascendency. He is not loyal to the party and won't betray them for spite or ideology, but if a low-risk chance appears to quietly reclaim the ring for himself once the Ascendency's grip on it is broken, he will take it without announcing it — a reckoning the party may need to have with him later, not a twist to force tonight.
 ---
 
 > [!infobox]
@@ -236,6 +240,8 @@ source:
 
 ### General Notes
 **Continuity note (2026-08-01):** the doppelganger who impersonated Velmont (and then briefly Professor Gousse Windcaller) in S43 has since been identified as [[Marrow]], the Silent Ascendency's cell leader in Bruokdon — it ran the smuggling ring personally under Velmont's stolen identity. See [[Marrow]] for the full picture.
+
+**Continuity note (2026-08-22):** with Marrow dead and the Bruokdon cell broken (S44), Velmont has proposed resuming "Lord Velmont" with the wider Ascendency network above the city — see the [[The Second Ledger]] quest and the [[2026-08-22]] session prep for the infiltration operation this sets up, and the Secrets section above for why it works and where it could go sideways later.
 
 **Stat block design (2026-07-10):** DM called for CR ~12 given his standing as a council member of [[The Umbral Athenaeum|The Umbral Athenaeum]]. Built as a reskin of [[5. Mechanics/Bestiary/Humanoid/Archmage.md|Archmage]] (CR 12, MM p.342) — identical chassis (AC 12/15 w/ mage armor, HP 99, ability scores, Magic Resistance, spell slot progression, at-will Disguise Self/Invisibility), with the prepared spell list swapped level-for-level toward Enchantment/control to match "Councilor of Enchantment": Magic Missile→Tasha's Hideous Laughter, Mirror Image→Suggestion, Lightning Bolt→Hypnotic Pattern, Fire Shield→Confusion, Cone of Cold→Dominate Person, Globe of Invulnerability→Mass Suggestion, Dominate Monster/Feeblemind considered for 8th but kept Mind Blank* for the paranoid-survivor angle. Dagger reflavored as a ring-channeled ranged force attack. Added one signature trait, Rings of Silent Passage (3/day bonus-action misty step, no slot cost), to mechanically back up his established habit of always finding a clean exit.
 

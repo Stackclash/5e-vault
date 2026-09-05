@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-economic_scale: 0.5
+economic_scale: 0.08
 calendar: Eldoria Calendar
 tags:
   - world

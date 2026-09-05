@@ -215,7 +215,7 @@ item_pricing:
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
 > | **Active World** _(from campaign)_ | `$= dv.page(dv.page('Configuration').active_campaign)?.world ?? '—'` |
 > | **Active Party:** _(from campaign)_ | `$= dv.page(dv.page('Configuration').active_campaign)?.party ?? '—'` |
-
+a
 # Current Party/World Info
 ```datacorejsx
 return function View() {

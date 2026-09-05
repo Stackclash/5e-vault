@@ -5,6 +5,7 @@ let selectedParty = null
 let selectedCampaign = null
 let latestJournal = null
 let newSessionNumber = 0
+let prepNote = null
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
@@ -38,15 +39,16 @@ try {
 
   const sessionNotes = dataview.pages(`"${config.locations.preps}"`).filter(p => p.file.name === formattedDate)
 
-  //if (sessionNotes.length > 0) {
-  //  prepNote = sessionNotes[0].file.link
-  //} else {
+  if (sessionNotes.length > 0) {
+    prepNote = sessionNotes[0].file.link
+  } 
+  //else {
   //  const newPrepNote = await tp.file.create_new(tp.file.find_tfile("Session Prep"), 'Session Prep', false)
   //  if (!newPrepNote) {
   //    throw new Error('Failed to create new prep note')
   //  }
   //  prepNote = dataview.fileLink(newPrepNote.path, false, newPrepNote.basename)
-  //}
+  // }
   await tp.file.move(path.posix.join(config.locations.journals, selectedCampaign.file.name, `S${newSessionNumber} New Session Journal`), tp.file.find_tfile(tp.file.title))
 } catch (e) {
   templateError = e.message
