@@ -99,7 +99,7 @@ Introduced 2026-08-22 as the lead surfaced by [[The Cinderworks]] infiltration (
 ### Hidden Details
 - **The Tallyman is [[Ostwin Reyes]]**, a senior Guild clerk — not Corrow. This is the DM-only answer to who the code name belongs to; the party should have to work for it (see Reyes's Secrets for the three-clue trail).
 - Corrow's blindness to the Ascendency's use of his Guild is willful, not complicit — he's long known certain manifests move through paid for above the standard toll and has chosen not to ask why. He'd react with genuine anger if shown proof, not defensiveness.
-- What "special cargo" shipments are ultimately bound for beyond Duskferry is the next concrete link in the chain — see [[Amberfen Hollow]]. Deliberately held back from this session's reveal; the payoff of tonight's infiltration branch should point somewhere with its own character, not resolve the whole network in one sitting.
+- What "special cargo" shipments are ultimately bound for beyond Duskferry is the next concrete link in the chain — see [[Greyfen Hollow]]. Deliberately held back from this session's reveal; the payoff of tonight's infiltration branch should point somewhere with its own character, not resolve the whole network in one sitting.
 
 ### General Notes
-Expanded 2026-08-22 alongside [[The Cinderworks]], [[Anselm Corrow]], [[Ostwin Reyes]], and [[Amberfen Hollow]] once Path B looked likely to be the table's pick for the session. No longer pure sketch-level, but Corrow and Reyes are built for a *future* Duskferry visit — not tonight's Cinderworks infiltration itself.
+Expanded 2026-08-22 alongside [[The Cinderworks]], [[Anselm Corrow]], [[Ostwin Reyes]], and [[Greyfen Hollow]] once Path B looked likely to be the table's pick for the session. No longer pure sketch-level, but Corrow and Reyes are built for a *future* Duskferry visit — not tonight's Cinderworks infiltration itself.

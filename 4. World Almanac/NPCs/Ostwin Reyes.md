@@ -43,7 +43,7 @@ partyRelationships:
 player_impression: ""
 secrets: |-
   STILL DM-ONLY (not yet revealed, and not yet named to the party — they only have the code name "the Tallyman" from [[Hesper Crane]]'s ledger as of the 2026-08-22 session): Reyes is the actual Silent Ascendency contact in Duskferry, not Guildmaster [[Anselm Corrow]]. He personally falsifies or omits manifest entries for "special cargo" shipments in exchange for payment, using his trusted position to keep them off the Guild's real books.
-  He knows the next physical link in the chain — the shipments' onward route toward [[Amberfen Hollow]] — but not what happens there or who's ultimately behind any of it; he's never been curious enough to ask, and it's safer not to know.
+  He knows the next physical link in the chain — the shipments' onward route toward [[Greyfen Hollow]] — but not what happens there or who's ultimately behind any of it; he's never been curious enough to ask, and it's safer not to know.
   He is not a believer and has no loyalty worth risking his neck for. Under real pressure (arrest, exposure to Corrow, or a credible threat) he gives up the next link in the chain quickly, the same way [[Hesper Crane]] would — but he's proud and careful enough that getting him to that point takes real leverage, not just a direct question.
   Three findable pointers that he — not Corrow — is the real contact (three-clue rule): (1) [[Hesper Crane]]'s ledger, naming "the Tallyman" by code name in a pattern matching her own password arrangement; (2) the tally-house's public records, which a DC 15 Investigation check reveals have a small, consistent set of manifests with sequential entries missing, all in the same clerk's hand; (3) Reyes himself, under pressure or careful questioning, confirming it.
 ---
@@ -166,7 +166,7 @@ return function View() {
 
 ## DM Notes
 ### Hidden Details
-See Secrets above: he's the real Duskferry contact behind the code name "the Tallyman," not Guildmaster [[Anselm Corrow]], and he knows the route onward toward [[Amberfen Hollow]] without knowing what it actually is.
+See Secrets above: he's the real Duskferry contact behind the code name "the Tallyman," not Guildmaster [[Anselm Corrow]], and he knows the route onward toward [[Greyfen Hollow]] without knowing what it actually is.
 
 ### General Notes
-Created 2026-08-22 alongside [[Anselm Corrow]] and [[Amberfen Hollow]] while expanding [[Duskferry]] ahead of a likely [[The Second Ledger]] session — built for a *future* visit to Duskferry, not the Cinderworks infiltration itself. The party has only the code name as of the 2026-08-22 prep; don't reveal "Reyes" at the table until they've actually earned it.
+Created 2026-08-22 alongside [[Anselm Corrow]] and [[Greyfen Hollow]] while expanding [[Duskferry]] ahead of a likely [[The Second Ledger]] session — built for a *future* visit to Duskferry, not the Cinderworks infiltration itself. The party has only the code name as of the 2026-08-22 prep; don't reveal "Reyes" at the table until they've actually earned it.

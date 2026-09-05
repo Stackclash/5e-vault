@@ -12,6 +12,7 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
 aliases:
+  - Velmont
   - Lord Caldris Velmont
 pronounced: KAL-dris VEL-mont
 race: "[[5. Mechanics/Races/Human.md|Human]]"

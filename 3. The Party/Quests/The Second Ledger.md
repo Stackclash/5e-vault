@@ -32,7 +32,7 @@ description: >-
   a senior Ferrymen's Guild clerk) and the honest ally hiding in plain
   sight (Guildmaster [[Anselm Corrow]], who has no idea his own clerk is
   compromised) are DM-only until the party actually pursues the lead.
-  Beyond Duskferry, the pipeline's actual endpoint is [[Amberfen Hollow]] —
+  Beyond Duskferry, the pipeline's actual endpoint is [[Greyfen Hollow]] —
   a hidden marsh site where smuggled items become soul-vessels. Not for
   this session's reveal; a future thread once the Duskferry lead is
   followed.

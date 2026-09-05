@@ -166,4 +166,4 @@ return function View() {
 See Secrets above: his blindness to the Ascendency's use of the Guild is willful but genuine — he doesn't know, and would react with real anger if shown proof.
 
 ### General Notes
-Created 2026-08-22 alongside [[Ostwin Reyes]] and [[Amberfen Hollow]] while expanding [[Duskferry]] ahead of a likely [[The Second Ledger]] session — built for a *future* visit to Duskferry, not the Cinderworks infiltration itself.
+Created 2026-08-22 alongside [[Ostwin Reyes]] and [[Greyfen Hollow]] while expanding [[Duskferry]] ahead of a likely [[The Second Ledger]] session — built for a *future* visit to Duskferry, not the Cinderworks infiltration itself.
