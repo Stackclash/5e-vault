@@ -988,3 +988,7 @@ dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
 ## Hidden Details
 
 ## Notes
+### The Pendant, Awakened (S46)
+At the [[Naerissa|Eilistraee shrine]] in [[4. World Almanac/Settlements/Duskferry.md|Duskferry]], Faerah's crescent-moon pendant caught true moonlight for the first time since Barovia and held it — a cold, glowing blue. [[Naerissa]], an elder of a small dusk elf enclave, recognized it on sight as the twin of the one Faerah's sister wore, and confirmed the sister's escape work from the Underdark was real and had helped others, not just a private dream the two of them shared. Eilistraee spoke to Faerah directly at the shrine: a charge to lead from the front rather than carry the frightened where they can't see her face, and the dusk elves' own mourning-verse sung back to her, note for note.
+
+Purely narrative for now — no mechanics attached. The pendant visibly catches and holds moonlight whenever it's out, which is how it led her to the shrine; nothing else about it has changed yet.
