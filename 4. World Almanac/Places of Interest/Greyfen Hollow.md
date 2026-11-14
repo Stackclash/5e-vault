@@ -119,27 +119,25 @@ Theater-of-the-mind, with a keyed layout below. Rough topology (the caves are or
 ## History
 The cap and the cave mouth beneath it predate the Silent Ascendency by a wide margin — the same unanswered question posed by the stonework at [[The Cinderworks]] and, further back, the Amber Temple itself. Whoever fitted these stones did so to keep something shut, not to keep a workshop dry.
 
-The Ascendency arrived perhaps a year ago, cut the seal, and built inward. Everything below the cap that isn't rock is theirs: timber stairs, iron catwalks, copper and amber pipework, and a distillation works assembled out of parts that could be bought in a dozen towns without any one purchase looking strange.
+The Ascendency arrived perhaps a year ago, cut the seal, and built inward. Everything below the cap that isn't rock is theirs: a gate elevator, iron catwalks, copper and amber pipework, and a distillation works assembled out of parts that could be bought in a dozen towns without any one purchase looking strange.
 
 ## The Cave System
 
 *Light below the cap is patchy — cultist lanterns at work-stations, and the slow amber glow of the conduit lines. **Anyone relying on lanterns is at a disadvantage against a party with darkvision**, and the cult knows it, which is why the lanterns are never turned off. Snuffing a work-station's lamps is a legitimate and effective tactic.*
 
 ### A1 — The Drowned Threshold
-The tree-maze approach and the dry rise. Unchanged from the surface approach already prepped: difficult terrain for anything without a swim speed or careful poling (**DC 12 Survival** for the cleanest line), deceptive sinkhole silt off the obvious path (**DC 13 Dexterity** save or sink to the waist, restrained until freed with a **DC 12 Strength** check or an ally's help), and one [[Amber Warden]] standing threshold guard.
-
-**The Warden here is not the only one.** This is a Warden *manufactory* — the one outside is simply the one they finished first and could spare.
+The tree-maze approach and the dry rise. Unchanged from the surface approach already prepped: difficult terrain for anything without a swim speed or careful poling (**DC 12 Survival** for the cleanest line), deceptive sinkhole silt off the obvious path (**DC 13 Dexterity** save or sink to the waist, restrained until freed with a **DC 12 Strength** check or an ally's help). **No Warden stands guard outside** (DM's call, S47). The Foundry's finished [[Amber Warden]] (C3) is deliberately the first the party ever sees, held back as a reveal near the end of the dungeon. The surface tells you nothing about what this place makes.
 
 ### A2 — The Cap
 The stone house. Inside, old fitted stonework gives way to a bolted workroom: alchemical apparatus, fine tools laid out with a tally-clerk's fussiness, a rack of inert amber cores, and a courier's logbook tracking deliveries by date and weight.
 
-In the floor at the back, under a hinged grate and a great deal of accumulated indifference, is a **bolted iron hatch** and the top of a timber stair going down.
+In the floor at the back, under a hinged grate and a great deal of accumulated indifference, is a **bolted iron hatch** over the head of the shaft, and below it the lattice gate of the elevator cage.
 
 > [!note] Session boundary
 > A2 is where the currently prepped session stops. The hatch is visible, obviously used, and obviously not something to open at the end of a long day — a clean soft cliffhanger. Everything below is a return trip.
 
 ### B1 — The Gullet
-A water-carved shaft, forty feet down, with a cult-built timber stair bolted into the rock in switchbacks. The treads are damp and several are rotten (**DC 12 Dexterity (Acrobatics)** if anyone hurries or fights here; failure means a fall of 1d4 × 10 feet and a great deal of noise).
+A water-carved shaft, forty feet down. The cult has fitted it with a **gate elevator**: a brass-and-iron cage on runners, raised and lowered by chain and stacked counterweights, ticking as it moves, with a folding lattice gate at the top and the bottom. A lever at each end calls it, and it rides on a supply schedule, bringing crated stolen goods down from the cap to the Sorting Floor. It is slow and it is loud enough to hear from the Gallery. *(Established S47. It replaces the timber stair from the original design.)*
 
 **Sound travels straight up this shaft.** A party that stops and listens at the top gets the working rhythm of the whole complex for free — the arrhythmic clatter of the Distillery, voices, the scrape of something heavy being dragged. Reward that; it's the cheapest possible scouting and it makes the stealth run winnable.
 

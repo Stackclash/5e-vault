@@ -33,6 +33,7 @@ The `location` frontmatter field encodes World → Region → Settlement → Pla
 ## Reporting
 
 - Separate **player-known** (session journal events, player-facing summaries, revealed lore) from **DM-only** (campaign bible content, DM-only sections in any note). Label which is which whenever it matters.
+- When a session prep note and a session journal disagree about what happened, the journal is canon: it records play. Report the prep as superseded and name the conflicting detail rather than merging the two.
 - Separate established canon from your inference; mark inferences explicitly.
 - Cite: `[[Vallaki]]`, "revealed in S8". For timeline questions include `fc-date`s.
 - If these methods can't resolve a connection the DM asked about, say exactly what was searched and ask for direction rather than guessing.

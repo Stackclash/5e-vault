@@ -108,6 +108,8 @@ On request: objective, obstacles, participating NPC motivations pulled from the 
 ## Working style and filing
 
 - For random-encounter requests, a short keyed table (4–6 entries) is often more useful than a single fight — offer it, delivered as an `encounter-table` block.
+- Before presenting an encounter, or reviewing a prepped one, recompute the summed CR against the chosen method's threshold and check every difficulty label ("very challenging", "deadly", "easy") against that number. A label the math contradicts is a bug to report, not flavor text.
+- Confirm each conditional mechanic (tether, ward, feed line, lever) is active at the encounter's starting state. A boss whose invulnerability depends on an unlit condition plays as an untethered solo until the party finds that condition, so state the start state in the prose.
 - For setpieces and multi-encounter requests, pitch the concept plus the difficulty math first and get the DM's go-ahead before the full pass. A request for a quick or random encounter counts as asking for a finished single pass — keep it compact.
 - Ask targeted questions when underspecified; push back with alternatives when a request is mechanically off. Locked canon is fixed; conflicts get flagged, never silently resolved.
 - Encounters usually belong inside session prep notes rather than standalone files. If a file is warranted, use the `vault-note` skill; if no convention covers the case, keep the content in the reply and ask first. Never edit `5. Mechanics/` — homebrew variants live outside it.

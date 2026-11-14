@@ -107,6 +107,11 @@ When editing an existing note:
 2. Convert any markdown-style internal links to wikilinks.
 3. Don't add markdown links for internal references even if none existed before.
 
+When filling in a session journal:
+1. Write only what the DM stated or the session record shows. Leave infobox fields (`date`, `fc-date`, `fc-end`, `locations`, `npcs`, `items`) blank or marked "to confirm" when they are inferred.
+2. Never default `date` to today. It is the real-world play date; a guess there is worse than an empty field.
+3. Keep the `S<N>` number from the template. Do not rename the file when the title becomes known; propose the rename and wait for approval, since it is a move.
+
 When editing a Templater template:
 1. Make the change in the Templater template as normal.
 2. If it's `World Building/NPC.md`, also update `z_Extra/ttrpg-convert/templates/monster.txt`'s `isNpc` branch to match, and say so in your summary.

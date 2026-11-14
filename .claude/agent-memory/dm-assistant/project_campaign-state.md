@@ -1,11 +1,13 @@
 ---
 name: campaign-state
-description: Orchestration snapshot for The Hunt for Vecna — session count, thread ledger as of S46, and outstanding prep debts
+description: Orchestration snapshot for The Hunt for Vecna — session count, thread ledger as of S47, and outstanding prep debts
 metadata:
   type: project
 ---
 
-**As of S46 ("Duskferry", played 2026-09-05, in-world 973-2-29–31): 46 sessions played.** Campaign is [[The Hunt for Vecna]] (Eldoria / Midnight Covenant), party level 10, Act I Arc 1 complete. S46 ran long on Duskferry itself — the prepped Corrow/Reyes/Amber Warden scenes (Scenes 3–10 of the 2026-09-05 prep) never fired; the party is only now arriving at Greyfen Hollow's approach. **No prep note exists yet for that continuation — next session needs to pick up mid-prep, not fresh.**
+**S47 (played 2026-09-26, in-world 973-2-31):** the party went down the Hollow's gate elevator (replaces the timber stair; now in [[Greyfen Hollow]] B1), got spotted, beat the entrance guards. No alarm raised, 3 prisoners, no rest. **Duskferry's Corrow/Reyes scenes were skipped entirely**, so Reyes is unmet and unexposed and could come back later. The DM **cut the A1 threshold Warden**: the Foundry Warden (C3) is the party's first Warden, a late-dungeon reveal. **Prep for 2026-10-17 is written** (Izek's Exit, default 22.5 CR for the no-rest case; Sorting Floor loot: Bracers of Defense, Brooch of Shielding, Periapt of Wound Closure, Pearl of Power; C2 salvage: Wand of Web, Immovable Rod). The S47 journal's `prep-notes`/`fc-end` are blank, and its guard details were never recorded.
+
+**Earlier, as of S46 ("Duskferry", played 2026-09-05, in-world 973-2-29–31): 46 sessions played.** Campaign is [[The Hunt for Vecna]] (Eldoria / Midnight Covenant), party level 10, Act I Arc 1 complete. S46 ran long on Duskferry itself — the prepped Corrow/Reyes/Amber Warden scenes (Scenes 3–10 of the 2026-09-05 prep) never fired; the party is only now arriving at Greyfen Hollow's approach. **No prep note exists yet for that continuation — next session needs to pick up mid-prep, not fresh.**
 
 S46 delta:
 - Manifest trouble at the Duskferry checkpoint (not in the prep) — Wisp used an illusion to make the flagged manifest look blown away, buying the dock workers time to draw up a replacement. Guildhall Roost was closed for the night, so notarizing it waits until next session; the party lodged at **The Dapper Helm** (a new, not-yet-noted inn).
