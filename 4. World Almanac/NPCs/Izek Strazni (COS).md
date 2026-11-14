@@ -46,8 +46,9 @@ dislikes: >-
   Being pitied, being thanked, being asked why — and above all, being made to
   explain himself to people who used to like him
 description: >-
-  Bigger than they remember, and wrong in more places. The fiendish arm is still
-  there — barbed, taloned, red — but it is no longer the only thing. A second
+  Bigger than they remember, and wrong in more places. The fiendish left arm is still
+  there — barbed, taloned, red, ending in a withered black hand that doesn't
+  match the rest of it — but it is no longer the only thing. A second
   growth has come up over the opposite shoulder and down the ribs in plates that
   don't sit flush; his jaw has lengthened; he stands a head taller than a man
   should and moves like the extra size is something he's still learning. Beneath
@@ -80,6 +81,17 @@ secrets: >-
   inside the Amber Temple by Vecna himself, to a crippled, drunk, furious young
   man who wanted it badly enough to be heard. Izek did not know who had answered
   him then. He knows now. It is the single fact he will not say out loud.
+
+  The arm is the Hand of Vecna (DM decision, 2026-11-13; a player guessed it at
+  the table). Vecna's own severed left hand was sent out of the Amber Temple and
+  grafted onto the stump the dire wolf left. The red, barbed fiend-flesh is what
+  grew out of the Hand over the years, and since Ravenloft it has kept spreading
+  up the shoulder and across the ribs. Vecna is not inside Izek. The Hand is a
+  connection, and Vecna uses it to speak to him whenever he likes. No one else
+  hears that voice; they only hear Izek answering it. When Vecna gives an
+  order, Izek hesitates and then obeys, because he owes the debt. He is not
+  compelled. The Hand also makes him a far stronger candidate for Act II's
+  "Claim a Vessel" than anyone has realised.
 
   This makes him the prototype the Amber Wardens are imitating: the first
   successful graft of Eludrax's soul-craft onto a living frame, made by hand as
@@ -131,7 +143,7 @@ secrets: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 232*
 
-Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
+Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his left arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
 
 Unlike his sister, Izek was born without a soul. As time wore on, he forgot his lost sister and learned to cope with his disability.
 
@@ -242,7 +254,7 @@ return function View() {
 ```
 
 ## Stats
-*His current form, as of Greyfen Hollow — **CR 17**, rebuilt from the ground up. The party last fought beside a CR 5 man. This is not that man, and the gap is the point. His Barovia-era block is preserved in DM Notes below if it's ever needed for a flashback.*
+*His current form, as of Greyfen Hollow. **CR 17**: a brute-caster who fights with the Hand of Vecna's strength and reality-bending magic from it. Built for a real fight against the whole party that ends when the Hand recalls him at half HP. His Barovia-era block is preserved in DM Notes below if it's ever needed for a flashback.*
 ```statblock
 name: Izek Strazni (COS)
 size: Large
@@ -251,8 +263,8 @@ subtype: human
 alignment: Neutral Evil
 ac: 18
 ac_class: natural armor
-hp: 315
-hit_dice: 30d10 + 150
+hp: 325
+hit_dice: 31d10 + 155
 modifier: 2
 speed: 40 ft.
 stats:
@@ -261,52 +273,54 @@ stats:
   - 20
   - 11
   - 12
-  - 16
+  - 18
 saves:
   - strength: 12
   - constitution: 11
-  - charisma: 9
+  - charisma: 10
 skillsaves:
   - name: "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
-    desc: "+9"
+    desc: "+10"
   - name: "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     desc: "+7"
-damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: fire, cold
 condition_immunities: "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
 gear:
   - "[[/5. Mechanics/Items/Battleaxe.md|battleaxe]]"
+  - "[[/5. Mechanics/Items/Hand Of Vecna.md|Hand of Vecna]]"
 senses: "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception 17"
 languages: Common
 cr: "17"
 traits:
-  - name: Brute
-    desc: A melee weapon deals one extra die of its damage when Izek hits with it (included in his attacks).
+  - name: The Hand of Vecna
+    desc: "Izek's left arm ends in the [[/5. Mechanics/Items/Hand Of Vecna.md|Hand of Vecna]], and the fiend-flesh has grown out of it up his shoulder and across his ribs. His melee weapon attacks deal an extra 9 (2d8) cold damage (included below). The Hand has 8 charges and regains 1d4 + 4 at dawn. Izek can expend charges to cast [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]] (5 charges) or [[/5. Mechanics/Spells/Teleport.md|teleport]] (3 charges) from it (save DC 18). Through the Hand, Vecna can speak to Izek at any time; no one else hears him."
   - name: Amber-Threaded
-    desc: The soul-craft grafted through Izek's body knits him back together faster than anything should. He regains 15 hit points at the start of his turn if he has at least 1 hit point. He is immune to any effect that would alter his form against his will.
+    desc: "Izek regains 10 hit points at the start of his turn if he has at least 1 hit point. If he took radiant damage since the end of his last turn, this trait doesn't function at the start of his next turn."
   - name: Magic Resistance
     desc: Izek has advantage on saving throws against spells and other magical effects.
   - name: Legendary Resistance (3/Day)
     desc: If Izek fails a saving throw, he can choose to succeed instead.
+  - name: Recalled by the Hand
+    desc: "The first time Izek is reduced to half his hit points or fewer, the Hand begins to pull him home: green smoke pours off him and the Hand spends 3 charges. At the start of Izek's next turn, he teleports to a place of Vecna's choosing. This is not a spell and can't be dispelled, counterspelled, or prevented by any condition. Until he vanishes, Izek can't be reduced below 1 hit point and takes no actions except Unwritten Step."
+  - name: Spellcasting
+    desc: "Izek casts spells through the Hand, using Charisma as his spellcasting ability (spell save DC 18, +10 to hit with spell attacks). He requires no material components. He can cast [[/5. Mechanics/Spells/Reset (KPDM).md|reset]] as a bonus action.\n\n3/day each: [[/5. Mechanics/Spells/Counterspell.md|counterspell]], [[/5. Mechanics/Spells/Reset (KPDM).md|reset]]\n\n1/day each: [[/5. Mechanics/Spells/Alter Time Flow (KPDM).md|alter time flow]], [[/5. Mechanics/Spells/Chaotic World (KPDM).md|chaotic world]], [[/5. Mechanics/Spells/Swift Exchange (KPDM).md|swift exchange]], [[/5. Mechanics/Spells/Synaptic Static (XGE).md|synaptic static]], [[/5. Mechanics/Spells/Time Slippage (KPDM).md|time slippage]]"
 actions:
   - name: Multiattack
-    desc: Izek makes three attacks — two with his battleaxe and one with his fiendish claw.
+    desc: "Izek makes one Battleaxe attack and one Hand of Vecna attack. He can replace either attack with casting a spell."
   - name: Battleaxe
-    desc: "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 15 (2d8 + 6) slashing damage."
-  - name: Fiendish Claw
-    desc: "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage plus 10 (3d6) fire damage."
-  - name: Pyre of the Whispered One (Recharge 5-6)
-    desc: "Izek snaps the fingers of his fiendish hand and the air answers. Each creature in a 30-foot cone must make a DC 19 Dexterity saving throw, taking 24 (7d6) fire damage and 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. A creature that fails the save can't regain hit points until the end of its next turn."
-bonus_actions:
-  - name: Whispered Step
-    desc: Izek vanishes in a curl of amber smoke and reappears in an unoccupied space he can see within 60 feet.
+    desc: "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 15 (2d8 + 6) slashing damage plus 9 (2d8) cold damage."
+  - name: Hand of Vecna
+    desc: "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage plus 9 (2d8) cold damage."
+  - name: The Whispered Truth (Recharge 5-6)
+    desc: "Vecna's voice comes out of Izek's mouth. Each creature of Izek's choice within 60 feet of him that can hear him must make a DC 18 saving throw, using whichever of its saving throw modifiers is lowest. On a failed save, a creature takes 27 (6d8) psychic damage and is Exposed until the end of its next turn: attack rolls against it have advantage, and it can't take reactions. On a successful save, it takes half as much damage and isn't Exposed."
 legendary_description: "Legendary Action Uses: 3. Immediately after another creature's turn, Izek can expend a use to take one of the following actions. He regains all expended uses at the start of each of his turns."
 legendary_actions:
-  - name: Stride
-    desc: Izek moves up to his speed without provoking opportunity attacks.
-  - name: Claw (Costs 2 Actions)
-    desc: Izek makes one Fiendish Claw attack.
-  - name: Withering Regard (Costs 2 Actions)
-    desc: "Izek looks at one creature he can see within 30 feet, and is sorry. That creature must succeed on a DC 19 Wisdom saving throw or take 14 (4d6) psychic damage and have disadvantage on its next attack roll before the end of its next turn."
+  - name: Unwritten Step
+    desc: Izek teleports, along with any equipment he is wearing or carrying, to an unoccupied space he can see within 30 feet of him.
+  - name: Grasp (Costs 2 Actions)
+    desc: "Izek makes one Hand of Vecna attack. On a hit, he can drag the target up to 10 feet in a straight line toward a hazard he can see."
+  - name: Stir the Pool (Costs 2 Actions)
+    desc: "Izek drives his will into the raw magic around him. If a pool of distillate is within 60 feet of him, he chooses one of its surge effects to take place immediately."
 source:
   - Homebrew
 image: "/4. World Almanac/NPCs/token/izek-strazni-cos.webp"
@@ -321,23 +335,29 @@ image: "/4. World Almanac/NPCs/token/izek-strazni-cos.webp"
 
 ### Hidden Details
 
-**How he plays the scene at [[Greyfen Hollow]].** He knows the party is in the caves almost from the moment they come down the Gullet — he can feel the soul-craft move, and there is very little down there he doesn't notice. He does not raise the alarm. He watches them come, all the way down, and he spends that whole time deciding whether to let them leave.
+**How he plays the scene at [[Greyfen Hollow]] (revised 2026-11-13; replaces the earlier "he does not fight" design).** He knows the party is in the caves almost from the moment they come down the Gullet. He can feel the soul-craft move, and very little down there escapes his notice. He doesn't raise the alarm. He waits for them at the Reservoir, in front of the pool, which is where S48 ended.
 
-He decides no.
+1. **He tells them to leave.** Once, briefly, with no explanation.
+2. **When they don't, Vecna speaks through the Hand.** The party hears only Izek's side of the conversation. Short answers, a pause after each one, the green veining in the arm flaring whenever the other voice speaks.
+3. **Vecna orders him to stop them.** The table should see him hesitate. Then he obeys, and he fights in earnest.
+4. **The Hand recalls him at half HP.** He slams the Hand into the pool to wake the Wardens, and at the start of his next turn he's gone. The escape is guaranteed (see *Recalled by the Hand* in the block). The party's attempts to stop him still matter: they're how the courier case gets torn loose. See the 2026-11-14 session prep.
 
-When he shows himself it is brief and it is not a fight. He says something short — he was never articulate, and he isn't going to start — he looks at Yevelda for slightly too long, and he gives the order: the Foundry Warden, the cradles, the cultists, all of it. Then he walks out through the Reservoir with his back to them, and the last thing they see is that he looks *sorry*, and that it didn't change anything.
-
-**If the party tries to stop him.** He is not a scheduled encounter and he is not meant to be beaten. The stat block above exists so the DM can say "no" with numbers behind it. One round is enough to demonstrate the problem — 315 hit points, regeneration, Magic Resistance, three Legendary Resistances, and a cone that does 34 average damage to the whole front rank. Give them that round, let it land, then have him use Whispered Step and go. He does not want to kill them and he will not stay to be worn down.
-
-**If they somehow corner him anyway,** he fights in earnest and people die. That is a legitimate outcome and the block supports it — but it is the party choosing a CR 17 solo at level 10, and it should be clear before the dice that they chose it.
+**The hesitation beat.** Once during the fight, Vecna demands *finger of death* on [[Yevelda Ovak]]. Izek turns the Hand aside at the last instant and uses something else. Run it as dialogue the party can hear. *Finger of death* averages 61 damage, which is lethal to [[Wisp]], so it's the DM's lever, not a routine action.
 
 **What he will not do:** gloat, explain, monologue, or answer questions about what the casked distillate is for. He knows. He isn't telling. Play him as a man declining to have a conversation, not a villain withholding a secret.
 
-**Party relationship.** `partyRelationships` still reads *Friendly* and should stay that way until the encounter actually happens — as of now the party has no reason to think he's anything but a man who fought beside them and went missing. Flip it after Greyfen Hollow, and "Enemy" may still be the wrong word for it.
+**Party relationship.** `partyRelationships` still reads *Friendly* and should stay that way until the S49 fight actually happens — as of now the party has no reason to think he's anything but a man who fought beside them and went missing. Flip it after Greyfen Hollow, and "Enemy" may still be the wrong word for it.
 
 **Campaign-bible dependency.** The bible currently slots Izek into Act II, Arc 3 ("Claim a Vessel") as a rescue-or-mercy dilemma. This early reappearance changes that; the DM has said the bible will be revised but is not making that change yet, so the Act II text stands as written for now.
 
 ### General Notes
+**Stat block redesign (2026-11-13).** Rebuilt again at the DM's direction. The CR 17 deterrent below was too weak to stand up to the whole party solo, and the scene is now a real fight. Changes: HP raised to 325. A Hand of Vecna trait adds +2d8 cold to every hit, *finger of death* and *teleport* from charges, and cold resistance. Spellcasting adds Deep Magic (KPDM) reality-bending spells (*alter time flow*, *chaotic world*, *time slippage*, *reset*, *swift exchange*) plus *synaptic static* and *counterspell*. **The Whispered Truth** replaces Pyre of the Whispered One: each target saves with its *lowest* modifier. Regeneration is 10 per round, and radiant damage switches it off. The guaranteed exit is now **Recalled by the Hand**.
+- **Offense:** about 82 damage per round over three rounds (Whispered Truth ×2 targets at 54, then an attack plus *synaptic static* ×2 at about 80, then multiattack at 46, plus Grasp at 22 per round). That's the CR 13 row. Attack +12 against the row's +8 adds about 1.5 → **~14.5**. Control spells (*time slippage*, *chaotic world*, *alter time flow*) aren't counted in that number.
+- **Defense:** 325 HP plus about 30 from regeneration is 355. Magic Resistance counts as +2 AC (effective 20), plus three Legendary Resistances → **~19.5**.
+- **Verdict: CR 17.** In practice the party only has to burn through about half of that (to 162) before the recall.
+
+**Previous design (2026-09-05), superseded:**
+
 **Stat block redesign (2026-09-05).** Rebuilt from scratch at **CR 17** at the DM's direction — "very strong even for the whole party." Role: solo brute with a guaranteed exit. Benchmarked against [[5. Mechanics/Bestiary/Fiend/Balor.md|Balor]] (CR 19) and [[5. Mechanics/Bestiary/Giant/Fire Giant.md|Fire Giant]] (CR 9) for the shape of a large fire-flavoured melee threat, then pushed to solo-boss tier with legendary actions and resistances.
 
 **CR math.**

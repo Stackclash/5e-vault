@@ -183,7 +183,7 @@ The heart of it. Stone Warden frames stand in iron cradles at every stage of ass
 This is where the big fight happens. See *Encounters* below.
 
 ### D1 — The Reservoir
-A domed chamber, largely natural, with a shallow basin cut into the floor and filled with distillate — a still lake of slow amber light that throws moving shadows up the walls. Six **containment glyph-stones** stand around it at even intervals, cool to the touch and audibly humming.
+A domed chamber, largely natural, with a shallow basin cut into the floor and filled with distillate. The distillate runs amber in the pipes, but here, pooled and concentrated, it burns a sick green and crackles with arcane discharge, throwing moving shadows up the walls (as described at the table in S48). Six **containment glyph-stones** stand around it at even intervals, cool to the touch and audibly humming.
 
 Feed lines run out of the basin toward the Foundry. **Casks** — sealed, waxed, stacked on pallets and marked with a courier's sigil rather than a Foundry mark — are stacked along the far wall awaiting collection.
 
@@ -233,6 +233,16 @@ Three amber lines run from the Reservoir into the Foundry cradles.
 ### Warden Cradles *(C3)*
 - **Release** — *action*, adjacent, **DC 13**: drops an [[Unfinished Amber Warden]] out of its cradle and into the fight, hostile to everything that moves. Cultists will do this.
 - **Hijack** — *action*, **DC 17 Arcana**, and requires a filled conduit in hand (from D3, or salvaged from a destroyed Warden): brings an Unfinished Warden online under the party's direction for 1 minute, after which it turns on everyone including them. Loud, risky, and the single most memorable thing anyone can do in this room.
+
+### The Unmaking Pool *(D1)*
+Raw distillate at full strength. Everything the cradles do slowly, the basin does at once.
+
+- **Wading in:** each foot of movement in the pool costs 1 extra foot. A creature that enters the pool or starts its turn there takes **22 (4d10) force** damage and makes a **DC 16 Constitution** save. On a failure, one random non-artifact magic item it carries goes dark (no magical properties) until the next dawn.
+- **Surges:** in a fight, roll a d4 on initiative count 20 (losing initiative ties), or let [[Izek Strazni (COS)|Izek]] choose one with *Stir the Pool*:
+  1. **Arc-lash:** up to three creatures within 10 feet of the edge each make a **DC 16 Dexterity** save, taking 16 (3d10) force damage on a failure, half as much on a success.
+  2. **Undertow:** each creature within 15 feet of the edge makes a **DC 16 Strength** save or is pulled 10 feet toward the pool (and into it, if that's where 10 feet ends).
+  3. **Hunger:** until the next initiative count 20, creatures within 30 feet of the pool make concentration saves with disadvantage.
+  4. **Faces Below:** grey hands reach up out of the green. Each creature in the pool makes a **DC 16 Strength** save or is restrained until the next surge. A creature can use its action to repeat the save.
 
 ### The Containment Ring *(D1)*
 Six glyph-stones around the basin, **AC 17, 30 hit points** each.
@@ -288,16 +298,16 @@ Stealth is the intended mode. This is the escalation track — it gives failure 
 ### Plot Hooks
 - This is the concrete next link past [[Duskferry]] in the Silent Ascendency's pipeline — where stolen magic items delivered from [[The Cinderworks]] and other cells actually stop being magic items.
 - The site's real value to the party is not the loot. It's the first place they can *watch* Vecna's power-harvesting happen, at scale, with their own eyes.
-- Where the casked distillate goes from here is deliberately **not answerable at this site**. That's Act I, Arc 6 (The Convergence), per the campaign bible.
+- **Revised 2026-11-13 (DM decision):** the casked distillate is being sent to *charge Vecna's ritual*. The party learns this here from Izek's courier case: a waybill naming the next leg of the cask route, plus a fragment of the Working's text (see the 2026-11-14 session prep). The actual casting site still isn't answerable here. That remains Act I, Arc 6 (The Convergence), per the campaign bible.
 - [[Izek Strazni (COS)|Izek Strazni]] is here. See his note.
 
 ### Hidden Details
 
-**The three tiers of what can be learned here.** The reveal is deliberately capped at *what the magic items are used for* — nothing at this site explains Vecna's ritual, because nobody at this site knows.
+**The three tiers of what can be learned here.** The reveal was originally capped at *what the magic items are used for*. As of 2026-11-13 the courier case adds a third tier: the distillate charges Vecna's ritual. Nobody here knows the ritual's site, and the case doesn't say.
 
 - **Tier 1 — the items are being unmade.** Easy; three clues, any one is enough. (1) The C1 intake ledger's second column, recording *charge yielded* rather than resale value. (2) Thirty seconds of watching a cradle work in C2. (3) Any cultist, who will say so freely and with pride — they think it's holy work.
 - **Tier 2 — not all of it goes into Wardens.** Hard; requires real effort, and no single cultist can confirm it. (1) The D1 draw tallies: distilled volume, Foundry consumption, casked volume — roughly a third of everything made here leaves in casks. (2) The casks themselves, in D1 and D3, carrying a courier sigil instead of a Foundry mark. (3) A [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md|cult fanatic]] under real pressure, who has loaded those casks for months and been told explicitly not to count them — and who has counted them.
-- **Not available here, at all.** What the casked distillate is *for*. Izek knows and will not say. The Fanatics genuinely don't. Hold this line the same way [[Ostwin Reyes]] holds his — it is a true dead end at this depth of the chain, not stonewalling.
+- **Tier 3 — what the distillate is for (revised 2026-11-13).** It charges Vecna's ritual. The only source is the **courier case** Izek wears, torn loose during his escape, with a duplicate in D2 so it can't be missed. Izek still won't *say* it, and the Fanatics still don't know. *Where* the ritual happens is still not available here.
 
 **The Izek inference — visual, not informational.** Izek's grafted limbs carry the same thread-thin amber veining as the Wardens' conduits and as the graft in [[Marrow]]'s corpse. A party that looks at him properly can connect the three without being told anything: whatever made Izek's arm and whatever is being made in this cave came from the same place. That's a gut-punch about *Vecna's reach*, and it costs nothing from the Great Library's reveal.
 

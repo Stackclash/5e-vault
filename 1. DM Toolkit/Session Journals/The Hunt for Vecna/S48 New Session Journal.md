@@ -2,7 +2,8 @@
 obsidianUIMode: preview
 date: 2026-10-17
 session_number: 48
-summary:
+summary: |-
+  The party fought their way deeper into the caves beneath Greyfen Hollow. They found the devices the cult uses to melt down stolen magic items and followed the pipes leading away from them to a glowing green pool crackling with arcane energy. Standing in front of the pool was Izek Strazni. The session ended there.
 fc-date: 973-2-31
 fc-end: 
 timelines: 
@@ -10,11 +11,14 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: ""
+prep-notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-10-17.md|2026-10-17]]"
 party_present: []
-locations: []
-npcs: []
-quests: []
+locations:
+  - "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
+quests:
+  - "[[3. The Party/Quests/The Second Ledger.md|The Second Ledger]]"
 items: []
 tags:
   - session-journal
@@ -47,11 +51,19 @@ tags:
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
+- The cult isn't reselling the stolen magic items. It's melting them down in machines and piping the result away.
+- The pipes end at a glowing green pool crackling with arcane energy.
+- [[Izek Strazni (COS)|Izek Strazni]] is alive and here, standing in front of the pool.
+
 Who Did They Meet?
+- [[Izek Strazni (COS)|Izek Strazni]], seen in person at the pool. No exchange yet; the session ended on the reveal.
+- Cultists fought along the way (details not recorded).
 
 ## Items Of Importance
-Description
+None. The party hasn't taken any treasure in this dungeon yet.
 
 ## What Happened
-Small description.
+- The party fought their way through the cave system.
+- They found the devices that melt down magic items.
+- They followed the pipes to a glowing green pool crackling with arcane energy.
+- Izek was standing in front of the pool. The session ended there.
