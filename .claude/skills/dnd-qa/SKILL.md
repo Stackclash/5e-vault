@@ -12,7 +12,7 @@ Answer from the compendium in `5. Mechanics/`, not from memory — the vault's v
 | Folder | Contents |
 |---|---|
 | `5. Mechanics/Rules/` | Actions, Conditions, Skills, Senses, Damage Types, Item Properties, Diseases, Variant Rules |
-| `5. Mechanics/Bestiary/<Type>/` | ~1,300 stat blocks, foldered by creature type (Undead, Fiend, Beast, …) |
+| `5. Mechanics/Bestiary/<Type>/` | Stat blocks, foldered by creature type (Undead, Fiend, Beast, …); glob with `**/` |
 | `5. Mechanics/Spells/` | ~1,200 spells |
 | `5. Mechanics/Items/` | ~3,400 items, mundane and magic |
 | `5. Mechanics/Classes/` | Classes and subclasses |
@@ -25,12 +25,12 @@ Answer from the compendium in `5. Mechanics/`, not from memory — the vault's v
 
 ## Lookup strategy
 
-1. **Exact name:** Glob the filename first — e.g. `5. Mechanics/Spells/Fireball*.md`. Duplicate names carry a source suffix like `(XGE)`; `aliases` frontmatter holds display names.
+1. **Exact name:** Glob the filename first — e.g. `5. Mechanics/Spells/Fireball*.md`, or `5. Mechanics/Bestiary/**/Wolf*.md` for monsters. Filenames are Title Case with small words capitalized (`Bag Of Holding.md`); non-core sources carry a suffix like `(XGE)`. `aliases` frontmatter holds the original casing. One exact-name answer should cost one glob and one read.
 2. **Faceted search via frontmatter/tags:**
    - Monsters: `cr:`, `type:`, `size:`, `environments:`, `ac:`, `hp:`; tags `monster/cr/5`, `monster/environment/urban`, `monster/size/medium`.
    - Items: `rarity:`, `tier:`, `attunement:`; tags `item/rarity/uncommon`, `item/tier/major`, `item/attunement/required`.
    - Example: uncommon attunement items → `grep -rl "item/rarity/uncommon" "5. Mechanics/Items" | xargs grep -l "attunement: true"`.
-3. **Rules concepts:** start in `5. Mechanics/Rules/` (Conditions.md, Actions.md, Skills.md, Variant Rules/), then `Tables/`.
+3. **Rules concepts:** each topic is one note with a heading per rule. Grep the heading, e.g. `^## Prone` in `5. Mechanics/Rules/Conditions.md`, and read only that section. Then `Variant Rules/`, then `Tables/`.
 4. **Fallback:** Grep body text across the relevant folder.
 5. **Sourcebook prose:** when the answer only exists in the book text — designer intent, DM advice, optional-rule explanations, adventure context, chapter lore, tables embedded in prose — grep `6. Resources/Books/` (or `6. Resources/5e Modules/` for adventure content). Chapter filenames are numbered and descriptive (`03 Chapter 1 Into The Mists.md`), so `ls` the book's folder to find the right chapter before grepping wide.
 
@@ -39,4 +39,5 @@ Answer from the compendium in `5. Mechanics/`, not from memory — the vault's v
 - Quote or closely paraphrase the note's text for rules-as-written; label anything beyond it as interpretation or table ruling.
 - Cite the vault note with a wikilink and name the sourcebook — the `compendium/src/5e/<src>` tag encodes it (`mm` = Monster Manual, `dmg` = DMG, `phb` = PHB, `xge` = Xanathar's, `tce` = Tasha's, …). For `6. Resources/` prose, cite the book and chapter note instead (e.g. Xanathar's, [[3 Dungeon Masters Tools]]).
 - When multiple sources define the same thing (2014 vs 2024 rules, reprints), say which version you're citing and note the difference.
-- For homebrew ("make me a variant of X"), copy the mechanics into the reply or a note outside `5. Mechanics/` — suggest `1. DM Toolkit/Tools/` for homebrew — and never touch the generated files.
+- For homebrew ("make me a variant of X"), copy the mechanics into the reply. Custom creatures go through the `statblock-creator` skill; custom items become story-item notes in `4. World Almanac/Items/`. Never touch the generated files.
+- This skill answers rules and compendium questions only. Campaign facts (who, where, what happened) belong to the `lore-researcher` skill.

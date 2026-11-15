@@ -1,216 +1,106 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Guidance for Claude Code in this repository.
 
-## What This Vault Is
+## What this vault is
 
-An Obsidian vault for planning and running D&D 5e campaigns. It is not a software project — there is no build step, no test suite, and no linting. The "code" lives in Obsidian plugin scripts, Templater templates, and standalone Node.js utilities.
+An Obsidian vault for planning and running D&D 5e campaigns. There is no build, test suite, or linter in the software sense. The "code" is Obsidian plugin scripts, Templater templates, and Node utilities. The Obsidian Git plugin commits every 5 minutes (`vault backup: {{date}}`), so the vault must stay usable after every edit.
 
-Git commits are automated by the Obsidian Git plugin every 5 minutes using the message format `vault backup: {{date}}`.
+`.claude/` is ignored by a global gitignore; files there are tracked only if force-added.
 
-## Note Authoring Rules
+## Rules that bind all work
 
-**Always use the `vault-note` skill when creating or editing any `.md` file in this vault.** It enforces two non-negotiable conventions:
+1. **Read before writing.** Look up what the vault already says about a subject before creating or changing anything.
+2. **Canon is fixed.** Canon is: a session journal with `wrapped: true`; any fact or relationship the party has `learned`; any fact with `locked: true`; and state set by an approved session wrap. Agents never change canon. Only the DM reopens it, explicitly, per item; corrections to a wrapped journal go under `## Errata`.
+3. **The plan bends to play.** Unplayed steps, unlearned unlocked facts, `secrets`, and prep are plan. Change them by proposal, and log the reason in the note's `## Plan Changelog`. Never alter what happened to fit the plan.
+4. **Flag contradictions; never resolve them.** Report both sources and stop.
+5. **The DM approves every reveal.** `revealed`, `reveal`, `public_name`, `summary`, every `learned` value, `locked`, and any `## Public` section are written only from a proposal line the DM accepted.
+6. **Player-facing text is separate from DM text.** `summary`, learned `facts`, and `## Public` sections are the only player-facing content in the vault. Never infer what the party knows from DM-voice fields (`description`, `history`, `personality`, `goals`, `secrets`, quest `description`).
+7. **Follow the campaign bible** (the active campaign note) for tone, power level, and lines and veils. If it is silent on something that matters, ask.
+8. **Outline, approval, then detail**, unless asked for a finished draft. Ask targeted questions when underspecified. Push back with alternatives when something is off.
+9. **Every note write goes through the `vault-note` skill.** No new folders, tags, fields, or note types without the DM's approval. If no convention covers a case, deliver content in the reply and ask.
+10. **Never edit** `5. Mechanics/` (generated) or `6. Resources/` (source material).
 
-1. Internal links must use wikilink syntax `[[Note Name]]`, never markdown links.
-2. Every note must be placed in the correct folder for its content type (see the folder map below).
+## Active campaign, world, party
 
-### Frontmatter Tags
+`1. DM Toolkit/Configuration.md` frontmatter key `active_campaign` is the single source of truth. The active world and party are the `world` and `party` fields on that campaign note. Never hardcode them. Per-party state is always a map keyed by the party note's name.
 
-Each note type has a canonical tag used by Dataview/Datacore queries throughout the vault:
+The campaign note is the campaign bible and is DM-only in whole.
 
-| Content Type | Tag |
+## Finding things
+
+Read `z_Extra/index/` first. It is generated from frontmatter by the `vault-lint` skill's scripts:
+
+| File | Holds |
 |---|---|
-| Session journal | `#session-journal` |
-| Session prep | `#session-prep` |
-| Player character | `#player` |
-| Party | `#party` |
-| Quest | `#quest` |
-| NPC | `#npc` |
-| Region | `#region` |
-| Settlement | `#settlement` |
-| Place of interest | `#place-of-interest` |
-| Shop | `#shop` |
-| World | `#world` |
-| Campaign | `#campaign` |
+| `state.md` | Campaign, party, latest session, in-world date, active quests, unfiled live-session logs, build time |
+| `entities.tsv` | Every NPC, place, faction, item, deity, quest, PC: type, name, aliases, path, parent, status, revealed-to, gist |
+| `edges.tsv` | Every relationship and link: source, type, target, learned-by |
+| `sessions.tsv` | Every journal: number, title, dates, ledger counts, summary |
+| `facts.tsv` | Every learnable fact and who has learned it |
 
-Missing or wrong tags break Dataview/Datacore queries silently — always include the correct tag.
+If the index is missing or older than the newest journal, say so and read frontmatter directly. Dataview, Datacore, and Meta Bind blocks do not render outside Obsidian: resolve rosters and lists from frontmatter, never from query blocks. For NPCs, quests, and factions the content is in frontmatter; the body is view scaffolding.
 
-**Location co-tag:** location-type notes (region, settlement, place-of-interest, shop, world) carry a **second `location` tag** in addition to their specific tag — e.g. a settlement is tagged both `#settlement` and `#location`. The `#location` tag is what populates location-picker dropdowns throughout the vault.
+## Conventions in brief
 
-### Frontmatter Schemas
+Full schemas live in `.claude/skills/vault-note/references/`. The essentials:
 
-Every note starts with `obsidianUIMode: preview` as its first frontmatter key. Canonical field sets per note type live in `z_Templates/Templater/`; the summary below covers the fields queries and scripts depend on:
+- Internal links are wikilinks. In frontmatter: full path, `.md`, alias, quoted.
+- Each note type has one folder and one canonical tag; location-type notes also carry `location`. A wrong tag hides the note from every query.
+- `location` is the immediate parent (World → Region → Settlement → Place of Interest → Shop), or an NPC's or item's current whereabouts.
+- Every entity has a one-line `gist` (DM-facing) and may have a `summary` (player-safe).
+- `facts` is the list of learnable truths about an entity; `learned` on a fact or relationship links the journal where the party learned it.
+- `relationships` is a list of typed, directed links stored on one side only. Factions, deities, story items, and custom creatures are notes, not strings. Campaign-made notes use the tags `story-item`, `story-deity`, `story-creature`; the bare `item`, `deity`, and `monster` tags belong to generated content in `5. Mechanics/`.
+- Session journals are the record of play. Their link arrays (`party_present`, `locations`, `npcs`, `quests`, `items`, `factions`) are the ledger of what was actually encountered.
 
-| Note type | Key frontmatter fields |
+**Migration in progress.** The vault is moving to these schemas per `z_Extra/Vault Design/03 Migration Plan.md`. Until it finishes, older shapes exist (`groups`, `religions`, `"Name|type"` relationship strings, `player_impression`, `player_summary`, `public_premise`, journal `campaign:`, `travel`). The index normalizes them; the lint lists them. Do not write the old shapes, and do not convert notes piecemeal outside the migration.
+
+## Agents, skills, commands
+
+| Agent | Use |
 |---|---|
-| **NPC** | `statblock: inline`, `location` (wikilink to container), `condition: healthy`, `relationships`, `race`, `gender`, `age`, `alignment`, `occupation`, `groups`, `religions`, `personality`, `ideal`, `bond`, `flaw`, `goals`, `likes`, `dislikes`, `partyRelationships` (map keyed by party name), `pronounced`, `aliases`, `images`; `player_impression` (DM-curated, spoiler-safe — what the party currently knows/believes) and `secrets` (DM-only) appear once first written via their Meta Bind fields, not pre-seeded at creation |
-| **Location** (region / settlement / place-of-interest) | `location` (wikilink to parent), `images`, `pronounced`, `summary` (short spoiler-safe teaser), `resources`, `population`, `terrain`, `rulers`, `government`, `army`, `religions`, `imports`, `exports`, `aliases`; tags = specific type + `location` |
-| **Shop** | `location`, `owners`, `staff`, `cost_modifier: 1`, `shop_type`, `shop_size`, `items`, `resources`; tags = `shop` + `location` |
-| **World** | `economic_scale`, `calendar`; tags = `world` + `location` |
-| **Quest** | `active` (map keyed by party → bool), `completed` (map keyed by party → bool), `world` (wikilink), `description` (DM planning, may contain unrevealed future beats), `player_summary` (spoiler-safe hook-level blurb), `steps`, `npcs` |
-| **Player character** | Full D&D Beyond schema (`statblock: true`, `active`, `level`, `ac`, `hp`, `abilityScores`, `savingThrows`, `skills`, `classes`, `classFeatures`, etc.), plus `party` and `location` wikilinks, plus `tagline` (DM/player-authored, not part of the D&D Beyond sync). Generated from a D&D Beyond import — do not hand-author; `tagline` is the one field the "Update From DnD Beyond" button deliberately leaves alone. |
-| **Party** | Travel/time-tracking fields (`hours_per_day`, `travel_speed`, `travel_multiplier`, `exhaustion_level`, `movement`, `speed`, `travel_hours_per_day`, etc.) |
-| **Session prep** | `date`, tag `session-prep` (minimal) |
-| **Session journal** | `date`, `session_number`, `summary`, `party` (wikilink), `prep-notes` (wikilink to the prep note), plus fantasy-calendar fields `fc-date`, `fc-end`, `fc-category: Session`, `timelines`, `calendar`, `aat-render-enabled: true`; `party_present`, `locations`, `npcs`, `quests`, `items` (link arrays — the session's reveal ledger, see below) |
-| **Campaign** | `party` (wikilink), `world` (wikilink), `public_premise` (DM-curated, spoiler-checked summary for anything player-facing), tag `campaign` |
+| `dm-assistant` | Prep, planning, creative collaboration (`claude --agent dm-assistant`) |
+| `table-assistant` | Fast read-only answers during play (`claude --agent table-assistant`) |
+| `vault-keeper` | Session wrap, reveals, plan reconciliation, lint, upkeep |
 
-Three cross-cutting conventions:
-- **`location` encodes the world hierarchy** (World → Region → Settlement → Place of Interest). Set it to the immediate parent as a wikilink, not a folder path.
-- **Per-party state is stored as maps keyed by the party's note name**, not bare booleans — quest `active`/`completed`, NPC `partyRelationships`.
-- **Player-facing fields are separate from DM-planning fields, never inferred from them.** NPC `personality`/`ideal`/`bond`/`flaw`/`goals`/`secrets` and quest `description` are written omnisciently for the DM and often describe things the party hasn't learned yet — never surface them as "what the party knows." Use `player_impression`, `player_summary`, and `public_premise` instead, and update them deliberately as the story reveals things. Session journals' `npcs`/`locations`/`quests`/`items` arrays are the vault's reveal ledger — each session, record who/where/what was actually encountered there; anything consuming "has the party met this NPC yet" should union these arrays across published sessions rather than trusting an entity note in isolation.
-
-> Note: the Quest Templater template (`z_Templates/Templater/Campaign/Quest.md`) currently writes `campaign:` instead of `world:` and is out of date; existing quest notes use `world:`, which is authoritative.
-
-## Folder Map
-
-| Content Type | Folder |
+| Skill | Use |
 |---|---|
-| Session journals | `1. DM Toolkit/Session Journals/` |
-| Session prep | `1. DM Toolkit/Session Prep/` |
-| DM reference tools / random tables | `1. DM Toolkit/Tools/` |
-| Math calculators | `1. DM Toolkit/Calculators/` |
-| DM knowledge / how-to-DM notes | `1. DM Toolkit/Knowledge/` |
-| Campaign-level notes | `1. DM Toolkit/Campaigns/` |
-| Unprocessed / rough notes | `2. Scratch Notes/` |
-| Player characters | `3. The Party/Players/` |
-| Parties | `3. The Party/Parties/` |
-| Quests | `3. The Party/Quests/` |
-| NPCs | `4. World Almanac/NPCs/` |
-| Regions | `4. World Almanac/Regions/` |
-| Settlements | `4. World Almanac/Settlements/` |
-| Places of interest | `4. World Almanac/Places of Interest/` |
-| Shops | `4. World Almanac/Shops/` |
-| Worlds | `4. World Almanac/Worlds/` |
-| 5e rules / monsters / spells / items | `5. Mechanics/` — **DO NOT EDIT** (generated) |
-| Published modules | `6. Resources/5e Modules/` |
-| Sourcebooks | `6. Resources/Books/` |
-| Images / media | `z_Assets/` |
-| Obsidian Bases views | `z_Bases/` |
-| Scripts | `z_Scripts/` (see subdirectory rules below) |
+| `vault-note` | Schema and filing authority; load before any note write |
+| `lore-researcher` | Find what is established; relationship traversal |
+| `canon-check` | Check an idea against canon; reopen canon on DM instruction |
+| `campaign-planner` | The campaign plan, and reconciling it with play |
+| `session-prep` / `session-wrap` | Before and after a session |
+| `reveal-review` | What the party knows; reveal backfill; pre-publish review |
+| `world-builder` / `story-creator` | Lore; quests and hooks |
+| `encounter-builder` / `statblock-creator` | Fights and loot; stat blocks |
+| `dnd-qa` | Rules, monsters, spells, items from `5. Mechanics/` |
+| `vault-lint` | Health check and index rebuild |
+| `obsidian-bases`, `json-canvas` | `.base` and `.canvas` files |
+
+Commands: `/prep`, `/wrap`, `/table`, `/reveal`, `/plan`, `/canon`, `/lint`.
+
+Load the matching skill before doing that kind of work. Skills carry method; the rules above are not repeated in them.
+
+## Scripts and templates
+
+| Runtime | Path |
+|---|---|
+| Datacore (JSX) | `z_Scripts/Datacore/` |
+| Dataview views, helpers | `z_Scripts/Dataview/` (`views/`, `utils/`, `data/`, `render/`) |
+| Node CLI tools | `z_Scripts/JS/` |
+| Meta Bind buttons | `z_Scripts/Meta Bind/` (use `arrayActions.js` for array edits) |
+| Templater helpers | `z_Scripts/Templater/` |
 | Templater templates | `z_Templates/Templater/` |
-| Random content | `Random Content/` |
-| Diagrams | `Excalidraw/` |
+| Agent index and lint | `.claude/skills/vault-lint/scripts/` |
 
-Session journals and session prep notes are further nested by campaign name:
-`1. DM Toolkit/Session Journals/<Campaign Name>/S<N> <Title>.md`
-`1. DM Toolkit/Session Prep/<Campaign Name>/<YYYY-MM-DD>.md`
+- Templates load folder paths from Configuration (`config.locations.*`). Details: `vault-note/references/templates.md`.
+- **NPC template mirror.** `z_Extra/ttrpg-convert/templates/monster.txt`'s `{#if resource.isNpc}` branch mirrors `z_Templates/Templater/World Building/NPC.md`. Any change to one needs the equivalent change in the other.
+- A field rename is finished only when every script, Base, template, and note body that reads the field is updated.
 
-## Scripts Architecture (`z_Scripts/`)
+## Generated mechanics content
 
-Place scripts in the subdirectory that matches the plugin/runtime executing them:
+`5. Mechanics/` is generated by ttrpg-convert-cli. To regenerate: update sources in `z_Extra/ttrpg-convert/`, run the CLI with `z_Extra/ttrpg-convert/config.json`, then `node z_Scripts/JS/process_5etools_files.js`.
 
-| Runtime | Path | Notes |
-|---|---|---|
-| Datacore (React/TSX) | `z_Scripts/Datacore/` | JSX components, `dc.*` API |
-| Dataview | `z_Scripts/Dataview/` | `dv.view()` scripts |
-| Dataview display scripts | `z_Scripts/Dataview/views/` | Called via `dv.view("views/...")` |
-| Dataview utilities | `z_Scripts/Dataview/utils/` | Shared helpers |
-| Node.js CLI tools | `z_Scripts/JS/` | Run outside Obsidian |
-| Meta Bind buttons | `z_Scripts/Meta Bind/` | Use `arrayActions.js` for all array operations — do not create new per-action files |
-| Templater helper modules | `z_Scripts/Templater/` | Imported via `tp.user.*` |
+## Node utilities
 
-## Templater Templates
-
-Templates live in `z_Templates/Templater/`. All templates that create notes follow this shared pattern using two helper modules:
-
-```javascript
-const init = tp.user.templateInit()   // z_Scripts/Templater/templateInit.js
-const fields = tp.user.formFields()   // z_Scripts/Templater/formFields.js
-
-const { dataview, modalForm, config, path } = init.getPlugins(tp, ['requiredConfigKey'])
-const data = await init.openForm(modalForm, { title: "...", fields: [...] })
-await init.moveFile(tp, config.locations.myPath, data.name)
-```
-
-`config` is loaded from `1. DM Toolkit/Configuration.md` frontmatter via Dataview. `config.locations.*` keys map to the folder paths configured there (e.g., `config.locations.npcs`, `config.locations.journals`).
-
-### Keep ttrpg-convert-cli templates in sync
-
-`ttrpg-convert-cli`'s import templates (`z_Extra/ttrpg-convert/templates/*.txt`, Qute syntax) are hand-mirrored copies of specific Templater templates, so bulk-imported content renders and queries identically to hand-authored notes. The one true structural mirror today: `z_Extra/ttrpg-convert/templates/monster.txt`'s `{#if resource.isNpc}` branch mirrors `z_Templates/Templater/World Building/NPC.md` — same frontmatter keys, infobox layout, `INPUT[...]` fields, buttons, and `## DM Notes` section. This is why the imported "(COS)" NPCs in `4. World Almanac/NPCs/` look and behave like hand-created ones.
-
-**Whenever you edit `z_Templates/Templater/World Building/NPC.md`, check whether the change (frontmatter keys, infobox fields, section structure) also needs to land in `monster.txt`'s `isNpc` branch, and make the equivalent edit there.** Qute syntax differs from Templater's (`{#if}` / `{#for}` / `{resource.field}` instead of `<%* %>` / `tp.*`), so translate the logic rather than copy-pasting. The other ttrpg-convert templates (`item`, `spell`, `class`, `object`, etc.) generate `5. Mechanics/` content and have no Templater counterpart — they don't need this cross-check.
-
-## Active Campaign / World / Party
-
-The vault's active context is driven by a single frontmatter key in `1. DM Toolkit/Configuration.md` — this is the single source of truth. The active world and party are **not** stored in Configuration; they are read from the active campaign note's own frontmatter. Resolve these links before acting; never hardcode the current campaign, world, or party name:
-- `active_campaign` — current campaign (link to `1. DM Toolkit/Campaigns/`), stored in Configuration frontmatter. Currently The Hunt for Vecna.
-- **active world** — the `world` field on the `active_campaign` note (link to `4. World Almanac/Worlds/`). Currently Eldoria.
-- **active party** — the `party` field on the `active_campaign` note (link to `3. The Party/Parties/`). Currently Midnight Covenant.
-
-Scripts and templates resolve these via `dataview.api.page('Configuration')` for the campaign, then read `.world` / `.party` off the resolved campaign page — e.g. `dv.page(dv.page('Configuration').active_campaign).party`.
-
-### Campaign bible
-
-The `active_campaign` note **is** the campaign bible. It defines the campaign's premise, tone, power level, active threads, and content lines & veils. All campaign work follows it. If it's missing or silent on a point that matters (e.g. tone or lines & veils aren't written down yet), ask rather than assume.
-
-### Party roster
-
-The active party note (the campaign note's `party` field) is the roster. Size, levels, and composition are surfaced there via its Dataview character and session-log queries — read the note rather than assuming. Encounter balancing uses the Lazy DM (Sly Flourish) encounter benchmark, per the party note's encounter infobox.
-
-### Continuity pointers
-
-- **Open threads / hooks:** quest notes in `3. The Party/Quests/`, plus the per-character "Character Tie-Ins" threads in the active campaign note.
-- **Session notes:** `1. DM Toolkit/Session Journals/<Campaign Name>/` (currently `.../The Hunt for Vecna/`).
-
-## Campaign Assistant & Skills
-
-Campaign craft lives in project skills (`.claude/skills/`) loaded into the working conversation, plus one agent:
-
-- `dm-assistant` (agent, `.claude/agents/`) — the DM's collaborator: session prep, post-session wrap-up, continuity, campaign Q&A, live-play support. Run `claude --agent dm-assistant` for a DM-focused session; it loads the skills below as needed.
-- `world-builder` (skill) — NPCs, settlements, regions, dungeons, landmarks, factions.
-- `story-creator` (skill) — quests, arcs, hooks, foreshadowing, pacing; writes encounter briefs, no combat math.
-- `encounter-builder` (skill) — balanced combat, social, and puzzle encounters for the current party; treasure and magic-item rewards, existing or custom.
-- `statblock-creator` (skill) — Fantasy Statblocks stat blocks for NPCs and custom creatures: copy an existing monster, reskin one, or design from scratch with CR math; fills the NPC note's `statblock` block.
-- `lore-researcher` (skill) — discovery methods for campaign history: session-journal sweeps, the world-hierarchy walk via `location` links, NPC connections, backlink greps.
-- `dnd-qa` (skill) — rules, monsters, spells, and items answered from `5. Mechanics/` (read-only).
-
-Load the matching skill before doing that kind of work, whether or not the session runs as dm-assistant. Note for all vault reading: **Dataview queries do not render outside Obsidian** — resolve rosters, quest lists, and similar data from note frontmatter (e.g. player notes' `party`/`active`/`level` fields), not from query blocks.
-
-### Rules that bind all campaign work
-
-1. Read existing vault lore on a subject before creating anything new. If new content would contradict established material, flag the conflict — never silently resolve it.
-2. Established canon (names, deaths, treaties, outcomes the DM has finalized) is locked unless the DM explicitly reopens it.
-3. Keep DM-only information (secrets, hidden motives, unrevealed twists) clearly separated and labeled — never blended into player-facing text.
-4. Follow the active campaign note (the campaign bible) for tone, power level, and lines & veils.
-5. Work iteratively: outline → DM approval → full detail. Don't jump to a finished draft unless asked.
-6. Ask targeted questions when a request is underspecified rather than guessing.
-7. Act as an expert collaborator: push back or offer alternatives when something is mechanically off or inconsistent with the established world.
-8. Follow this file's Note Authoring Rules, Frontmatter Tags, and Folder Map — always via the `vault-note` skill. Never invent new conventions. If no convention covers a case, deliver content in the reply and ask before creating files.
-
-## 5e Mechanics Content Generation
-
-The `5. Mechanics/` folder is entirely generated by [ttrpg-convert-cli](https://github.com/nicholasgasior/ttrpg-convert-cli). Do not hand-edit files there.
-
-Its import templates live in `z_Extra/ttrpg-convert/templates/`; the NPC-shaped branch of `monster.txt` mirrors the Templater NPC template and must be kept in sync with it — see **Keep ttrpg-convert-cli templates in sync** under Templater Templates above.
-
-To regenerate after updating sources:
-1. Add/update source data files in `z_Extra/ttrpg-convert/`
-2. Run the CLI binary: `z_Extra/ttrpg-convert/ttrpg-convert` with `z_Extra/ttrpg-convert/config.json`
-3. Run `node z_Scripts/JS/process_5etools_files.js` to apply rename/move/link-update rules that map compendium paths into the vault folder structure
-
-## Node.js Utilities
-
-Dependencies are in `package.json` (gray-matter, js-yaml, markov-chains, node-cache, readline-sync, sync-fetch). Install with `npm install`.
-
-Key standalone scripts:
-- `z_Scripts/JS/process_5etools_files.js` — post-processes ttrpg-convert-cli output
-- `z_Scripts/JS/weatherGenerator.js` — procedural weather engine; reads config from `1. DM Toolkit/Tools/Weather Generation.md` frontmatter
-- `z_Scripts/JS/editFrontmatter.js` — bulk frontmatter editing across vault files
-- `z_Scripts/JS/calendarDate.js` — fantasy calendar utilities (also imported inside Obsidian via `self.require.import`)
-
-## Meta Bind Array Operations
-
-For any Meta Bind button that modifies a frontmatter array, use the unified dispatcher:
-
-```yaml
-actions:
-  - type: js
-    file: z_Scripts/Meta Bind/arrayActions.js
-    args:
-      action: add        # or: remove, moveUp, moveDown
-      field: items       # frontmatter array field name
-      index: 0           # required for remove/moveUp/moveDown
-```
-
-The legacy files (`addItem.js`, `removeItem.js`, `moveUp.js`, `moveDown.js`) still exist but should not be used for new buttons.
+Node is managed by mise. Dependencies are in `package.json` (`npm install`). `z_Scripts/JS/`: `process_5etools_files.js` (post-process the mechanics import), `weatherGenerator.js`, `calendarDate.js` (fantasy calendar; also imported inside Obsidian), `link-check.js` (read-only body-link check). Do not run `editFrontmatter.js`: it is a broken one-off that would duplicate frontmatter.

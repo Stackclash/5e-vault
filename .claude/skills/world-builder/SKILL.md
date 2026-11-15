@@ -1,44 +1,47 @@
 ---
 name: world-builder
-description: Create or expand campaign-world lore for the D&D 5e campaign in this vault — NPCs, towns, cities, regions, dungeons, landmarks, and factions. Use whenever the DM wants new lore at any scope, existing lore deepened, or a location or NPC fleshed out. Reads existing vault notes first, keeps locked canon fixed, and separates DM-only secrets from player-known information.
+description: Create or deepen world lore for this D&D campaign — NPCs, settlements, regions, dungeons, landmarks, shops, factions, story items, custom creatures, and deities. Use when the DM wants something new in the world, an existing person or place fleshed out, or a faction, item, or god given its own note.
 ---
 
-# World Building
+# World building
 
-Produce lore that is internally consistent, discoverable in play, and useful at the table. The vault is the single source of truth.
+Lore that is consistent, discoverable in play, and usable at the table.
 
-## Before creating anything
+## Before creating
 
-1. Resolve the active world, party, and campaign from `1. DM Toolkit/Configuration.md` frontmatter. Follow the campaign bible (the active campaign note) for tone, power level, and lines & veils. If the bible is silent on something that matters here, ask.
-2. Search the vault for existing notes on the subject **and its neighbors**: the surrounding region, connected factions, related NPCs, prior events. For anything beyond a quick check, use the `lore-researcher` skill's discovery methods (world-hierarchy walk, backlink grep, session-journal sweep).
-3. If the request would contradict established material, stop and flag the conflict with options. Never silently resolve it. Anything the DM has finalized — names, deaths, treaties, outcomes — is locked canon unless the DM explicitly reopens it.
+1. Look the subject and its neighbors up with the `lore-researcher` skill: the place around it, its factions, related NPCs, sessions it appeared in.
+2. Run the `canon-check` skill on anything that touches played events.
+3. Read the campaign note's Tone and Lines & Veils sections. If they are silent on something that matters, ask.
 
-## Craft principles
+## Craft
 
-- **Conflict first.** Start from the pressure, need, or scarcity shaping the subject; let geography, layout, and demographics serve that conflict rather than leading with them.
-- **No isolates.** Tie every new element to at least two existing elements (a faction, an NPC, an event, a place). If no tie exists, propose one and flag it as new lore.
-- **Three-clue rule.** Anything meant to be discovered — a secret, a hidden site, a true allegiance — gets at least three distinct, findable pointers to it.
-- **Secrets have surfaces.** Hidden things leave visible traces (rumors, scars, ledger gaps) that players could notice.
+- **Conflict first.** Start from the pressure or scarcity shaping the subject; let geography and demographics serve it.
+- **No isolates.** Tie each new element to at least two existing ones. Record each tie as a relationship link, not a sentence.
+- **Three clues.** Anything meant to be found gets three distinct pointers.
+- **Secrets have surfaces.** Hidden things leave traces players could notice.
 
-## What each output includes
+## What each output carries
 
-**NPCs:** a one-line concept; faction ties and role; appearance plus one memorable mannerism; likes and dislikes; current goal (what they want now); underlying motivation (why); a brief backstory; leverage (what they can offer or threaten). DM-only: secrets, hidden allegiances, and what they do under pressure.
+| Type | Content | Always fill |
+|---|---|---|
+| NPC | Concept, role, appearance and one mannerism, current want, underlying motive, leverage, short history | `gist`, `relationships` (faction, employer, family, home), `secrets`, 2–5 `facts` |
+| Place | Origin, present state, who holds power, two or three live tensions, hooks, sensory anchors | `gist`, `location` (parent), `rulers`, `routes`, `secrets`, `facts` |
+| Faction | What it wants, how it gets it, what it controls, internal fault line, public face vs truth | `gist`, `kind`, `status`, `location`, `relationships` to other factions, `clock` if it has a timeline |
+| Story item | What it does, who made it, who wants it back | `gist`, `base_item`, `holder` or `location`, `secrets` |
+| Custom creature | What it is, who makes or commands it, how it behaves, what it leaves behind, its weakness | `gist`, `relationships` (maker, master), `facts`, `secrets`; stats via `statblock-creator` |
+| Deity | Portfolio, how worship looks locally, what the faith wants here | `gist`, `domains`, `mechanics` link |
 
-**Locations (settlements, landmarks, dungeons):** origin and backstory; present state and who holds power; two or three live tensions; hooks the DM can pull; a few sensory anchors for narration. DM-only: hidden history and what is really going on.
+Scale: one NPC gets full depth. A town gets 4–8 sketched NPCs, notable places, 2–3 tensions. A city adds districts and a power map. A region adds settlements, routes, and the regional conflict. A dungeon gets its history, its occupants as an ecology, and a layout with loops and more than one approach.
 
-**Scope scaling:** a single NPC gets full depth. A town: 4–8 sketched key NPCs, notable places, 2–3 tensions. A city: districts, factions, and a power map. A region: settlements, routes, biome logic, and the regional conflict. A dungeon: its history, why it still stands or who looted it, the current occupants as an ecology (who eats, fears, or trades with whom), and a layout with loops, multiple approaches, and landmark spaces — never a corridor railroad.
+## Facts and secrets
 
-At every scope, tie the details together: the same conflict should echo from the region down to street level.
+- `facts` are the learnable truths, one player-safe sentence each, left unlearned. Write the ones a session could plausibly surface.
+- `secrets` holds DM-only context that is not a single learnable sentence.
+- Leave `summary`, `revealed`, and `reveal` empty unless the DM approves values. Suggest a `summary` in the reply if the party has already met the subject.
 
-## Boundaries and handoffs
+## Working style
 
-- Keep DM-only material in an explicitly labeled DM-only section, never blended into player-facing text.
-- When a hook deserves quest development, note it and continue with the `story-creator` skill; when a site wants encounters, hand its details to the `encounter-builder` skill. Get the DM's go-ahead before expanding scope.
-- World-builder does no stat math. When an NPC needs combat stats — a fight is plausible, or the DM asks — load the `statblock-creator` skill to copy, reskin, or design the stat block from the NPC's established fiction.
-
-## Working style and filing
-
-- Outline first: deliver a short skeleton, get the DM's go-ahead or edits, then do the full pass. Skip this only when the DM explicitly asks for a finished draft.
-- Ask targeted questions when the request is underspecified rather than guessing.
-- Push back like an expert collaborator when something seems inconsistent with established lore or won't work at the table; offer alternatives.
-- File notes via the `vault-note` skill using the frontmatter schemas in CLAUDE.md. Remember: location-type notes carry the `location` co-tag; the `location` frontmatter field is a wikilink to the immediate parent in the World → Region → Settlement → Place of Interest hierarchy; NPC `partyRelationships` and quest state are maps keyed by party note name. If no convention covers the case, keep the content in the reply and ask before creating files.
+- Outline first, get a yes, then the full pass. Skip only when asked for a finished draft.
+- File through the `vault-note` skill. New factions, items, creatures, and deities each get their own note; do not leave them as strings.
+- No notes for nameless one-offs.
+- A hook that deserves a quest goes to `story-creator`; a site that needs fights goes to `encounter-builder`; combat stats go to `statblock-creator`.

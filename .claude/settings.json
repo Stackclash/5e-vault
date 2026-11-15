@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "enabledPlugins": {
+    "superpowers@claude-plugins-official": false
+  },
+  "permissions": {
+    "deny": [
+      "Skill(obsidian-second-brain)",
+      "Skill(obsidian-save)", "Skill(obsidian-save *)",
+      "Skill(obsidian-ingest)", "Skill(obsidian-ingest *)",
+      "Skill(obsidian-reconcile)", "Skill(obsidian-reconcile *)",
+      "Skill(obsidian-synthesize)", "Skill(obsidian-synthesize *)",
+      "Skill(obsidian-init)", "Skill(obsidian-init *)",
+      "Skill(obsidian-person)", "Skill(obsidian-person *)",
+      "Skill(obsidian-daily)", "Skill(obsidian-daily *)",
+      "Skill(obsidian-task)", "Skill(obsidian-task *)",
+      "Skill(obsidian-board)", "Skill(obsidian-board *)",
+      "Skill(obsidian-project)", "Skill(obsidian-project *)",
+      "Skill(obsidian-capture)", "Skill(obsidian-capture *)",
+      "Skill(obsidian-log)", "Skill(obsidian-log *)",
+      "Skill(obsidian-learn)", "Skill(obsidian-learn *)",
+      "Skill(obsidian-graduate)", "Skill(obsidian-graduate *)",
+      "Skill(obsidian-decide)", "Skill(obsidian-decide *)",
+      "Skill(obsidian-distill)", "Skill(obsidian-distill *)",
+      "Skill(obsidian-second-brain:obsidian-save)",
+      "Skill(obsidian-second-brain:obsidian-ingest)",
+      "Skill(obsidian-second-brain:obsidian-reconcile)",
+      "Skill(obsidian-second-brain:obsidian-synthesize)",
+      "Skill(obsidian-second-brain:obsidian-init)",
+      "Skill(obsidian-second-brain:obsidian-person)",
+      "Skill(obsidian-second-brain:obsidian-daily)",
+      "Skill(obsidian-second-brain:obsidian-task)",
+      "Skill(obsidian-second-brain:obsidian-board)",
+      "Skill(obsidian-second-brain:obsidian-project)",
+      "Skill(obsidian-second-brain:obsidian-capture)",
+      "Skill(obsidian-second-brain:obsidian-log)",
+      "Skill(obsidian-second-brain:obsidian-learn)",
+      "Skill(obsidian-second-brain:obsidian-graduate)",
+      "Skill(obsidian-second-brain:obsidian-decide)",
+      "Skill(obsidian-second-brain:obsidian-distill)",
+      "Edit(/5. Mechanics/**)",
+      "Edit(/6. Resources/**)"
+    ]
+  }
+}

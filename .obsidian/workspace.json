@@ -4,53 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "959c8b0d0ea9ef04",
+        "id": "64ece8fc9ac67318",
         "type": "tabs",
         "children": [
           {
-            "id": "7b15a66aeb0225ad",
+            "id": "8fa78c46881adea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/Session Journals/The Hunt for Vecna/S48 New Session Journal.md",
+                "file": "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-11-14.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S48 New Session Journal"
+              "title": "2026-11-14"
             }
           },
           {
-            "id": "464bc21ccec54ddd",
+            "id": "0a85f1396dc48f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Greyfen Hollow.md",
+                "file": "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-10-17.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greyfen Hollow"
+              "title": "2026-10-17"
             }
           },
           {
-            "id": "b782e2e0e840567f",
+            "id": "9a72c17082077344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Spells/Counterspell.md",
+                "file": "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-09-05.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Counterspell"
+              "title": "2026-09-05"
+            }
+          },
+          {
+            "id": "b040c243faa8c58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Izek Strazni (COS).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Izek Strazni (COS)"
+            }
+          },
+          {
+            "id": "dae120766652629a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Toolkit/DM Screen.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DM Screen"
+            }
+          },
+          {
+            "id": "f2ff3720fc42b41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-22.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-22"
+            }
+          },
+          {
+            "id": "03ef29bd9d839f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Corwin Vantor.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corwin Vantor"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -321,35 +377,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "464bc21ccec54ddd",
+  "active": "03ef29bd9d839f45",
   "lastOpenFiles": [
+    "z_Extra/Vault Design/03 Migration Plan.md",
+    "z_Extra/Vault Design/02 Design.md",
+    "z_Extra/Vault Design/01 Audit.md",
+    "z_Extra/Vault Design",
+    "4. World Almanac/Settlements/Bruokdon.md",
+    "1. DM Toolkit/Configuration.md",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-22.md",
+    "2. Scratch Notes/S49 Live Session - Improvised Facts.md",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-09-05.md",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-10-17.md",
+    "5. Mechanics/Spells/Color Spray.md",
+    "5. Mechanics/Spells/Sending.md",
+    "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-11-14.md",
+    "4. World Almanac/NPCs/Izek Strazni (COS).md",
+    "5. Mechanics/Spells/Alter Time Flow (KPDM).md",
+    "5. Mechanics/Spells/Polymorph.md",
+    "1. DM Toolkit/DM Screen.md",
+    "5. Mechanics/Items/Spear.md",
     "5. Mechanics/Spells/Counterspell.md",
+    "4. World Almanac/Places of Interest/Greyfen Hollow.md",
     "1. DM Toolkit/Session Journals/The Hunt for Vecna/S48 New Session Journal.md",
     "5. Mechanics/Classes/Barbarian Path Of The Berserker.md",
     "5. Mechanics/Classes/Barbarian.md",
     "5. Mechanics/Spells/Fireball.md",
-    "1. DM Toolkit/Configuration.md",
     "5. Mechanics/Items/Demon Bomb (HHHVI).md",
     "5. Mechanics/Spells/Thunderwave.md",
     "5. Mechanics/Spells/Sunbeam.md",
-    "5. Mechanics/Spells/Wall Of Fire.md",
-    "5. Mechanics/Spells/Minor Illusion.md",
-    "5. Mechanics/Spells/Black Hole (KPDM).md",
-    "5. Mechanics/Spells/Message.md",
-    "1. DM Toolkit/DM Screen.md",
-    "5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md",
     "5. Mechanics/Classes/img/totem-warrior-barbarian.webp",
-    "5. Mechanics/Items/Javelin Of Lightning.md",
-    "4. World Almanac/Places of Interest/Greyfen Hollow.md",
-    "1. DM Toolkit/Session Journals/The Hunt for Vecna/S47 New Session Journal.md",
-    "5. Mechanics/Spells/Color Spray.md",
-    "4. World Almanac/Places of Interest/The Cinderworks.md",
-    "1. DM Toolkit/Tools/Critical Tables.md",
-    "1. DM Toolkit/DM Quick Reference.md",
-    "5. Mechanics/Spells/Hypnotic Pattern.md",
-    "5. Mechanics/Rules/Conditions.md",
-    "5. Mechanics/Spells/Dimension Door.md",
-    "4. World Almanac/Settlements/Duskferry.md",
     "4. World Almanac/NPCs/Amber Warden.md.tmp.34004.294439b94df6",
     "4. World Almanac/NPCs/Izek Strazni (COS).md.tmp.34004.9c96168846a5",
     "4. World Almanac/NPCs/sedUqc3rb",
@@ -359,7 +416,6 @@
     "1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md.tmp.34004.06b90dc931ba",
     "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-09-05.md.tmp.24240.99ece4f289b3",
     "1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-09-05.md.tmp.24240.c29e22d7a936",
-    "4. World Almanac/NPCs/Amber Warden.md.tmp.24240.4469d1f5056d",
     "5. Mechanics/Decks/Tarokka Deck 999_dnd_tarokka_back_2/tarokka-deck-999_dnd_tarokka_back_2.webp",
     "z_Assets/Locations/Maps/The Cinderworks.svg",
     "z_Assets/NPCs/Gousse Windcaller.png",

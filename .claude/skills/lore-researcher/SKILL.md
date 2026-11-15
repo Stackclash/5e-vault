@@ -1,39 +1,53 @@
 ---
 name: lore-researcher
-description: Research established campaign lore and play history across this vault — session journals, the campaign bible, the active world and its regions, settlements, places of interest, shops, NPCs, and quests. Use for questions about what has happened ("when did the party meet X?"), what is known about a person or place, what exists near a location, session recaps, or gathering context before creating new content.
+description: Find established facts in this D&D vault — what happened and when, who is connected to whom, what is in or near a place, which sessions an NPC appeared in, what the party knows about something. Use for any campaign-history or "who/where/when" question and to gather context before creating content.
 ---
 
-# Lore Research
+# Lore research
 
-Answer from the vault only. Cite every claim with a wikilink to its note (and session number where relevant). Never invent facts to fill gaps — report the gap.
+Answer from the vault only. Cite the note (and session) for every claim. Report gaps instead of filling them.
 
-## Resolve the active context first
+## Read the index first
 
-Read `1. DM Toolkit/Configuration.md` frontmatter for `active_campaign`, then read the `world` and `party` fields off that campaign note to resolve the active world and party. Never hardcode or assume these.
+`z_Extra/index/` is built from frontmatter. Check `state.md` first: it names the campaign, party, latest session, and build time. If the index is missing, or older than the newest journal, say so and use the fallback below.
 
-## Where campaign history lives
+| Question | Read |
+|---|---|
+| Where are we now? | `state.md` |
+| Who or what is X? | grep X in `entities.tsv` (name and aliases columns) |
+| Who is connected to X? | grep X's path in `edges.tsv` |
+| Who or what is in a place? | `edges.tsv` rows `type = location` with that target; repeat one level down |
+| When did the party meet X? | `edges.tsv` rows `session-*` with target X; session numbers from `sessions.tsv` |
+| What does the party know about X? | `facts.tsv` rows for X with `learned_by` set, plus the note's `summary` |
+| What happened in S31? | `sessions.tsv` row; open the journal only for detail |
+| What is planned vs played? | quest notes: `steps[].status` and `outcome` |
 
-- **Session journals:** `1. DM Toolkit/Session Journals/<Campaign Name>/S<N> <Title>.md`. Frontmatter `date` is the real-world session date, `fc-date` the in-world date, and `summary` a player-facing recap — the body holds the full detail, so read it when precision matters. Read in `S<N>` order for chronology.
-- **Campaign bible:** the `active_campaign` note. Premise, Tone, Lines & Veils, The Villain, Character Tie-Ins, Active Threads, Locked Canon, Timelines. This note is DM-only.
-- **Quests:** `3. The Party/Quests/` — `active`/`completed` frontmatter are maps keyed by party note name.
-- **Session prep notes:** `1. DM Toolkit/Session Prep/<Campaign Name>/` — what was planned, useful for contrast with what happened.
+Open a note only when the row is not enough. For NPCs, quests, and factions the content is in frontmatter; the body is mostly view scaffolding.
 
-## Walking the world hierarchy
+## Traversing relationships
 
-The `location` frontmatter field encodes World → Region → Settlement → Place of Interest, always as a full-path wikilink with alias, e.g. `location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"`.
+1. Resolve the name to a path in `entities.tsv`.
+2. One grep of that path in `edges.tsv`. Rows where it is the **source** are its own ties. Rows where it is the **target** are inbound: read them from the other side ("Ostwin → employer → Anselm" means Anselm employs Ostwin).
+3. Group the result: family, personal, work, faction, place, quests, sessions.
+4. Go a second hop only when asked (everyone else in that faction): repeat on the faction's path.
+5. Report `learned_by` with each tie when the question is about what the party knows.
 
-- **Children of a location:** grep for its name inside `location:` lines, e.g. `grep -rl 'location:.*|Barovia]]' "4. World Almanac"` finds every settlement, place, shop, and NPC directly inside Barovia. Walk downward level by level to enumerate a whole region.
-- **Regions of the active world:** same pattern against the world name across `4. World Almanac/Regions/`.
-- **Parent chain:** follow a note's own `location` link upward until you reach the world.
-- **NPCs:** `4. World Almanac/NPCs/` — filter by `location`, and use `relationships` (NPC-to-NPC ties), `groups` (faction membership), and `partyRelationships` (map keyed by party name) to find who is connected to whom. Some NPCs (creatures, mounts) have `location: null`.
-- **Backlinks catch everything else:** grep the vault for `[[<Note Name>` to find every mention — especially in session journals, where events involving an NPC or place are recorded even when frontmatter isn't. Search aliases too (`aliases` frontmatter).
+## Fallback without an index
 
-**Dataview does not render for you.** Queries in party, world, and tool notes show source code, not results — always resolve data from frontmatter and file contents instead.
+Grep frontmatter in `4. World Almanac/` and `3. The Party/`: `target:` lines (typed edges), then `location:`, `owners:`, `staff:`, `rulers:`, `holder:`, and quest `npcs`/`locations`. For history, grep journal frontmatter arrays, then bodies. Legacy shapes may still exist (`groups`, `religions`, `"Name|type"` relationship strings); the index already normalizes them, grep does not.
+
+## Sources and their weight
+
+1. Wrapped session journals — what happened. Canon.
+2. Facts and edges with `learned` set, and facts with `locked: true` — canon.
+3. Entity notes' DM fields, `secrets`, quest `description`, the campaign note — the DM's current intent. May be plan.
+4. Session prep — what was planned. When prep and journal disagree, the journal wins; name the difference.
+
+Dataview, Datacore, and Meta Bind blocks do not render outside Obsidian; read frontmatter instead.
 
 ## Reporting
 
-- Separate **player-known** (session journal events, player-facing summaries, revealed lore) from **DM-only** (campaign bible content, DM-only sections in any note). Label which is which whenever it matters.
-- When a session prep note and a session journal disagree about what happened, the journal is canon: it records play. Report the prep as superseded and name the conflicting detail rather than merging the two.
-- Separate established canon from your inference; mark inferences explicitly.
-- Cite: `[[Vallaki]]`, "revealed in S8". For timeline questions include `fc-date`s.
-- If these methods can't resolve a connection the DM asked about, say exactly what was searched and ask for direction rather than guessing.
+- Label **player-known** (learned facts, `summary`, journal `summary`) apart from **DM-only**.
+- Label canon apart from plan, and your inferences apart from both.
+- Two notes that disagree: report both with their sources. Do not pick one.
+- If the methods above cannot answer, say what you searched and ask.

@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/rcox/.claude/plugins/**)",
+      "Bash(find ~/.claude -name \"*.md\" -path \"*/skills/*\" 2>/dev/null | head -20; find ~/.claude -name \"skill*\" 2>/dev/null | head -20)",
+      "Read(//Users/rcox/.claude/**)",
+      "Bash(mkdir -p /Users/rcox/Projects/Personal/5e-vault/.claude/skills/vault-note)",
+      "Bash(mkdir -p \"/Users/rcox/Projects/Personal/5e-vault/.claude/agents\")",
+      "Read(/Users/rcox/Projects/Personal/5e-vault/**)",
+      "Bash(find /Users/rcox/Projects/Personal/5e-vault*)",
+      "Bash(ls /Users/rcox/Projects/Personal/5e-vault*)",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\('autoSaveInterval:', d.get\\('autoSaveInterval'\\), 'commitMessage:', d.get\\('commitMessage'\\), 'autoCommitMessage:', d.get\\('autoCommitMessage'\\)\\)\")",
+      "Bash(grep -rln \"Izek\" \"1. DM Toolkit/Session Journals/The Hunt for Vecna/\" \"4. World Almanac\")",
+      "Bash(grep -rln \"Anastrasya\\\\|Karelova\" \"1. DM Toolkit/Session Journals/The Hunt for Vecna/\" \"4. World Almanac\")"
+    ],
+    "additionalDirectories": [
+      "/Users/rcox/Projects/Personal/5e-vault/.claude/skills",
+      "/Users/rcox/Projects/Personal/5e-vault/.claude"
+    ]
+  }
+}

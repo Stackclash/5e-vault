@@ -1,117 +1,49 @@
 ---
 name: vault-note
-description: Apply when creating or editing any markdown note in this Obsidian 5e vault, including Templater templates. Enforces three critical conventions: (1) all internal note links must use wikilink syntax [[Note Name]] rather than markdown links, (2) every note must be placed in the correct vault folder based on its content type, and (3) editing the NPC Templater template requires a matching edit to its ttrpg-convert-cli mirror. Trigger on any request to create a note, write a note, add a note, draft a note, move a note, link between notes, or edit a template in this vault.
+description: Schema and filing authority for this D&D vault. Load before creating, editing, moving, or linking any vault note or Templater template — NPC, location, shop, faction, item, deity, quest, session journal, session prep, player, party, campaign. Covers folder placement, tags, link format, frontmatter schemas, and the player-knowledge fields.
 ---
 
 # Vault Note Conventions
 
-Three non-negotiable conventions apply to every markdown note in this vault.
+CLAUDE.md holds the rules that bind all work. This skill holds the mechanics of writing a note correctly. Read only the reference file for the type you are touching.
 
----
+## Always
 
-## 1. Wikilinks for Internal Links
+1. **Links.** Internal links are wikilinks, never markdown links. In frontmatter use the full path with `.md` and an alias, quoted: `"[[4. World Almanac/NPCs/Anselm Corrow.md|Anselm Corrow]]"`. In body prose `[[Anselm Corrow]]` is fine. External URLs use `[text](https://…)`.
+2. **Folder and tags.** Place the note and tag it per `references/folders-tags.md`. A wrong tag silently removes the note from every query. Location-type notes carry their type tag plus `location`.
+3. **First key** is `obsidianUIMode: preview`.
+4. **Start from the template's shape.** Copy the body scaffold from the Templater template in `z_Templates/Templater/` (or from a sibling note of the same type). The scaffold is how the note renders in Obsidian; do not invent body layouts.
+5. **Text lives in frontmatter** for NPCs, quests, and factions. The body is inputs and views bound to those fields.
+6. **Never write these without an approved proposal line from the DM:** `revealed`, `reveal`, `public_name`, `summary`, any `learned` value, `locked`, a `## Public` section, or anything in a journal with `wrapped: true`. Propose; write after a yes.
+7. **Never edit** `5. Mechanics/` or `6. Resources/`.
 
-Obsidian resolves links by note name, not by file path. Use wikilink syntax for every link that points to another note in the vault.
+## Which reference to read
 
-**Correct:**
-```
-[[NPC Name]]
-[[Session 01 - The Beginning]]
-[[Thornhaven]]
-```
-
-**With custom display text:**
-```
-[[NPC Name|the mysterious stranger]]
-[[Thornhaven|the northern settlement]]
-```
-
-**Wrong — never use markdown link syntax for internal notes:**
-```
-[NPC Name](../NPCs/NPC%20Name.md)   ← NO
-[Session](Session_01.md)             ← NO
-```
-
-**The only exception** is linking to external URLs (websites, external resources) — those use standard markdown `[text](https://...)`.
-
-When editing a note that already contains markdown-style internal links, convert them to wikilinks. If you're unsure whether a path refers to an internal note or an external URL, check whether a `.md` file with that name exists in the vault — if so, it's internal.
-
----
-
-## 2. Correct Folder Placement
-
-Every note belongs in a specific folder. Determine placement by the note's content type, then confirm the folder exists before writing.
-
-### Folder Map
-
-| Content Type | Folder |
+| Working on | Read |
 |---|---|
-| Session journals (what happened during play) | `1. DM Toolkit/Session Journals/<Campaign Name>/` |
-| Session prep (planning before a session) | `1. DM Toolkit/Session Prep/<Campaign Name>/` |
-| DM reference tools, random tables for DM use | `1. DM Toolkit/Tools/` |
-| Math calculators (encounter math, CR, etc.) | `1. DM Toolkit/Calculators/` |
-| DM knowledge, how-to-DM notes, tips | `1. DM Toolkit/Knowledge/` |
-| Campaign-level notes, campaign overviews | `1. DM Toolkit/Campaigns/` |
-| Unprocessed / inbox / rough notes | `2. Scratch Notes/` |
-| Player characters (PC sheets, backstory) | `3. The Party/Players/` |
-| Parties and adventuring groups | `3. The Party/Parties/` |
-| Quests (active, completed, or planned) | `3. The Party/Quests/` |
-| NPCs (non-player characters) | `4. World Almanac/NPCs/` |
-| Regions (large geographic areas) | `4. World Almanac/Regions/` |
-| Settlements (cities, towns, villages) | `4. World Almanac/Settlements/` |
-| Places of interest (dungeons, ruins, landmarks) | `4. World Almanac/Places of Interest/` |
-| Shops and merchants | `4. World Almanac/Shops/` |
-| Worlds (top-level world notes) | `4. World Almanac/Worlds/` |
-| Rules, monsters, spells, items (5e mechanics) | `5. Mechanics/` — **DO NOT EDIT** (generated content) |
-| Published 5e modules (adventure paths, etc.) | `6. Resources/5e Modules/` |
-| Sourcebooks and reference books | `6. Resources/Books/` |
-| Other reference material | `6. Resources/Resources/` |
-| Images and media | `z_Assets/` |
-| Obsidian Bases database views | `z_Bases/` |
-| Dataview/Datacore/Templater scripts | `z_Scripts/` (appropriate subdirectory) |
-| Templater note templates | `z_Templates/Templater/` |
-| Random content generators | `Random Content/Generators/` |
-| Random content tables | `Random Content/Tables/` |
-| Random content indexes | `Random Content/Indexes/` |
-| Excalidraw diagrams | `Excalidraw/` |
+| Where a note goes, which tags | `references/folders-tags.md` |
+| `gist`, `summary`, `facts`, `revealed`, `reveal`, `secrets`, what is player-facing | `references/knowledge-model.md` |
+| `relationships`, factions, deities, routes, who owns which link | `references/relationships.md` |
+| NPC, location, shop, world, faction, item, deity | `references/entity-schemas.md` |
+| Quest/arc, journal, prep, campaign, party, player | `references/campaign-schemas.md` |
+| Editing a Templater template or the `monster.txt` mirror | `references/templates.md` |
 
-### How to Decide
+## Creating a note
 
-1. Read the note's frontmatter `tags` field first — tags like `#npc`, `#session-journal`, `#quest`, `#location`, `#settlement` etc. are authoritative.
-2. If no tags, infer from content (heading structure, what the note describes).
-3. If genuinely ambiguous, use `2. Scratch Notes/` and tell the user so they can relocate it later.
+1. Check it does not already exist: grep `z_Extra/index/entities.tsv` for the name and aliases (fall back to a filename glob).
+2. Pick folder and tags; confirm the folder exists.
+3. Fill the schema. Every entity gets a `gist`. Leave `summary`, `revealed`, and `facts[].learned` empty unless the DM approved values.
+4. Record relationships as links in the owning note (see the ownership table), not in prose.
+5. Say what you created and what you left empty.
 
-### The `5. Mechanics/` folder is read-only
+## Editing a note
 
-Notes in `5. Mechanics/` are generated by `ttrpg-convert-cli` from 5e.tools data. Never create or edit files there. If the user asks to add a monster, spell, or item, explain this folder is managed by the import tool and suggest creating a custom version in a different location (e.g., `1. DM Toolkit/Tools/` for homebrew).
+- Keep keys you do not understand; views may depend on them.
+- Do not move or rename without asking; propose it.
+- If the note still has a legacy shape (the lint lists them), leave it unless the task is the migration. Do not half-convert.
 
----
+## Session journals
 
-## 3. Templater Templates Have a Generator Mirror
-
-`z_Templates/Templater/World Building/NPC.md` is structurally mirrored by the `{#if resource.isNpc}` branch of `z_Extra/ttrpg-convert/templates/monster.txt` (Qute syntax), so that NPCs bulk-imported by `ttrpg-convert-cli` — e.g. the "(COS)" notes in `4. World Almanac/NPCs/` — carry the same frontmatter keys, infobox layout, `INPUT[...]` fields, buttons, and `## DM Notes` section as hand-created NPCs.
-
-**Before finishing any edit to `z_Templates/Templater/World Building/NPC.md`, check whether the change belongs in `monster.txt`'s `isNpc` branch too, and make the equivalent edit there** (translate `<%* %>` / `tp.*` Templater logic into `{#if}` / `{#for}` / `{resource.field}` Qute syntax — don't copy-paste). See CLAUDE.md's Templater Templates section for the full explanation. Other Templater templates (Location, Shop, Quest, Party, Campaign, Player Character) and other ttrpg-convert templates (item, spell, class, object, etc.) have no counterpart on the other side and don't need this check.
-
----
-
-## Applying These Conventions Together
-
-When creating a new note:
-1. Determine the correct folder from the table above.
-2. Write the note using wikilinks for all internal references.
-3. Confirm the target folder path before writing (use `ls` or check with the user if uncertain).
-
-When editing an existing note:
-1. Check whether the note is in the right folder — flag a mismatch to the user but don't move it without asking.
-2. Convert any markdown-style internal links to wikilinks.
-3. Don't add markdown links for internal references even if none existed before.
-
-When filling in a session journal:
-1. Write only what the DM stated or the session record shows. Leave infobox fields (`date`, `fc-date`, `fc-end`, `locations`, `npcs`, `items`) blank or marked "to confirm" when they are inferred.
-2. Never default `date` to today. It is the real-world play date; a guess there is worse than an empty field.
-3. Keep the `S<N>` number from the template. Do not rename the file when the title becomes known; propose the rename and wait for approval, since it is a move.
-
-When editing a Templater template:
-1. Make the change in the Templater template as normal.
-2. If it's `World Building/NPC.md`, also update `z_Extra/ttrpg-convert/templates/monster.txt`'s `isNpc` branch to match, and say so in your summary.
+- Record only what the DM stated or the session record shows. Never default `date` to today.
+- Keep the `S<N>` number. Propose the title; renaming is a move and needs a yes.
+- Once `wrapped: true`, the journal is canon. Corrections go under `## Errata` with a date.

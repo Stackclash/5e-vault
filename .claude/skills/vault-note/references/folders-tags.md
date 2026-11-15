@@ -1,0 +1,43 @@
+# Folders and tags
+
+Folder paths are configured in `1. DM Toolkit/Configuration.md` under `locations`. The table is the current mapping.
+
+| Note type | Folder | Tags |
+|---|---|---|
+| NPC | `4. World Almanac/NPCs/` | `npc` |
+| Region | `4. World Almanac/Regions/` | `region`, `location` |
+| Settlement | `4. World Almanac/Settlements/` | `settlement`, `location` |
+| Place of interest | `4. World Almanac/Places of Interest/` | `place-of-interest`, `location` |
+| Shop | `4. World Almanac/Shops/` | `shop`, `location` |
+| World | `4. World Almanac/Worlds/` | `world`, `location` |
+| Faction | `4. World Almanac/Factions/` | `faction` |
+| Story item | `4. World Almanac/Items/` | `story-item` |
+| Deity | `4. World Almanac/Deities/` | `story-deity` |
+| Custom creature (a reusable kind of monster, not an individual) | `4. World Almanac/Creatures/` | `story-creature` |
+| Quest, arc, thread | `3. The Party/Quests/` | `quest` |
+| Player character | `3. The Party/Players/` | `player` |
+| Party | `3. The Party/Parties/` | `party` |
+| Campaign (the bible) | `1. DM Toolkit/Campaigns/` | `campaign` |
+| Session journal | `1. DM Toolkit/Session Journals/<Campaign>/S<N> <Title>.md` | `session-journal` |
+| Session prep | `1. DM Toolkit/Session Prep/<Campaign>/<YYYY-MM-DD>.md` | `session-prep` |
+| DM tools, random tables | `1. DM Toolkit/Tools/` | — |
+| Calculators | `1. DM Toolkit/Calculators/` | — |
+| Rough or unprocessed notes, live-session logs | `2. Scratch Notes/` | — |
+| Images and media | `z_Assets/` | — |
+| Bases | `z_Bases/` | — |
+| Scripts | `z_Scripts/<runtime>/` | — |
+| Templates | `z_Templates/Templater/` | — |
+| Generated agent index | `z_Extra/index/` (written by scripts only) | — |
+| Rules, monsters, spells, mundane and published magic items | `5. Mechanics/` — generated, never edit | — |
+| Sourcebooks, modules | `6. Resources/` — read-only | — |
+
+## Rules
+
+- **Campaign-made vs generated.** Generated compendium notes live in `5. Mechanics/`, carry a `compendium/src/…` tag, and use the tag families `item/…`, `deity/…`, `monster/…`. Obsidian tag queries match nested tags, so `#deity` or `#item` would pull in the whole compendium. Campaign-made notes therefore use `story-item`, `story-deity`, and `story-creature`, live in `4. World Almanac/`, and never carry a `compendium/…` tag. Do not use the bare `item`, `deity`, or `monster` tag outside `5. Mechanics/`.
+- `story-item` is for items with a story or custom mechanics. Published items stay in `5. Mechanics/Items/` and are linked, not copied.
+- A campaign-made note must not share a filename with a generated note (bare `[[Name]]` links would be ambiguous, and stat blocks register by name). Give it a distinct name, e.g. the item's proper name rather than its type.
+- Custom creatures: a named individual is an NPC note. A reusable kind of creature (several can appear, or it recurs across sessions) is a creature note. A true one-off can stay as a stat block in the prep or location note that uses it. NPC and creature notes with stats carry `monster/cr/…`, `monster/size/…`, `monster/type/…` facet tags but not the bare `monster` tag.
+- Each almanac folder has a folder note named after the folder (`NPCs/NPCs.md`). Leave those alone; they carry no tags.
+- Names: no source suffix on new notes. Existing "(COS)" filenames stay; the bare name must be the first alias.
+- If the type is unclear, put the note in `2. Scratch Notes/` and say so.
+- No new folders or note types without the DM's approval.
