@@ -248,3 +248,13 @@ The `table-assistant` agent answers rules questions, but only through the termin
 3. **X9** — the four tool subfolders and the moves in §3.1.
 4. Delete the `Event.md` and `Group.md` template stubs.
 5. **X8** — build Rules & Spells now, ahead of the migration.
+
+## Approvals (given 2026-11-15)
+
+- **X1** new fields in §1.1: approved, all of them.
+- **X3** weather config into Configuration: approved.
+- **X4** note skeleton and the new `z_Templates/Partials/` folder: approved, both.
+- **X9** tool subfolders and the §3.1 moves: approved (J2 still shows the move table for sign-off before moving).
+- **Stubs:** delete `World Building/Group.md`; keep `World Building/Event.md`.
+- **X8** Rules & Spells first: declined. J1 runs after the migration (after H5), not before batch A.
+- **G2** reveal backfill starts at S1; S0 is excluded.

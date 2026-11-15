@@ -6,6 +6,19 @@ For a Sonnet-class model working without the design conversation. Execute batche
 
 **Required reading before any batch:** `CLAUDE.md`, then `.claude/skills/vault-note/SKILL.md` and all six files in `.claude/skills/vault-note/references/`. They define the target schemas. This plan only says how to get there.
 
+**Precedence.** Where `01 Audit`, `02 Design`, or `04 Expansion` disagree with the `vault-note` references, the references win (e.g. the deity tag is `story-deity`, not `deity`; the Creature type exists). Where this plan disagrees with `04 Expansion`, this plan wins. The only relationship types are the 39 in B1; `02 Design` §3.4 also mentions `parent`, `front-for`, and `owner-of`, which are not in the vocabulary: propose them to the DM before using them.
+
+**Approval gate.** All six were answered on 2026-11-15 and are recorded in `04 Expansion` under `## Approvals`: X1, X3, X4, X9 approved; delete `Group.md` only; X8 declined (J1 runs after H5). Re-check that section before each of these batches:
+
+| Approval | Blocks |
+|---|---|
+| X1 new fields | C6 expansion fields, B3 `enums` |
+| X3 weather into Configuration | B3 change 2 |
+| X4 skeleton and the new `z_Templates/Partials/` folder | C8, C6 bodies, C9 |
+| X9 tool subfolders | J2 |
+| Delete `Event.md` / `Group.md` | the C6 [J] ask |
+| X8 build Rules & Spells first | J1 |
+
 **Vault root:** `/Users/rcox/Projects/Personal/5e-vault`. **Never touch** `5. Mechanics/` or `6. Resources/`.
 
 **Batch markers**
@@ -19,7 +32,7 @@ For a Sonnet-class model working without the design conversation. Execute batche
 1. **Before each batch:** the working tree must be clean (`git status --short` shows nothing but `.obsidian/workspace.json`). Obsidian Git commits every 5 minutes; wait for it or ask the DM to commit. Record `git rev-parse HEAD` in your report. This SHA is the rollback point.
 2. **Rollback for any batch:** `git checkout <SHA> -- <the paths the batch touched>`. Each batch lists its paths.
 3. **Ask the DM to close the affected notes in Obsidian** before a batch that rewrites many files. Meta Bind can write a stale value back into a note that is open.
-4. **Frontmatter edits use a Node script, never hand edits across many files.** Parse with `gray-matter` (in `node_modules`), change `data`, and write back as `'---\n' + yaml.dump(data, {lineWidth: -1, quotingType: '"', forceQuotes: false}) + '---\n' + body`, with the body **byte-identical**. Keep key order; `obsidianUIMode` stays first. Do **not** use `z_Scripts/JS/editFrontmatter.js` (it duplicates frontmatter). Put one-off scripts in `z_Extra/migration/` and delete that folder in batch H6.
+4. **Frontmatter edits use a Node script, never hand edits across many files.** Use the `yaml` package (v2) Document API, not `gray-matter` + `js-yaml` dump. Verified 2026-11-15: the installed `js-yaml` is 3.14.1, which ignores `quotingType`/`forceQuotes`; a no-op dump rewrote 94 of 97 sampled files (double quotes → single, empty values → `null`), and it would turn the 31 plain `date: YYYY-MM-DD` values into datetimes. Before the first write script, run `npm install --save-dev yaml@2` (once; commit `package.json` and `package-lock.json`). Pattern: split the file at the closing `---`; `doc = YAML.parseDocument(fm)`; change values with `doc.set` / `doc.setIn` / `doc.delete` (new keys: `doc.set`, then reorder `doc.contents.items` if position matters); write `'---\n' + doc.toString({lineWidth: 0}) + '---\n' + body`, with the body **byte-identical**. Keep key order; `obsidianUIMode` stays first. **Round-trip gate:** a shared helper in `z_Extra/migration/` must pass a no-op test (parse and write every note under `1. DM Toolkit/`, `3. The Party/`, `4. World Almanac/` with no changes; zero files may differ) before any batch uses it. Do **not** use `z_Scripts/JS/editFrontmatter.js` (it duplicates frontmatter). Put one-off scripts in `z_Extra/migration/` and delete that folder in batch H6.
 5. **Every script has a `--dry-run`** that prints the files it would change and a count. Run dry, compare the count to the batch's expected count, then run for real. A count that differs from the expected count by more than a few is a stop-and-ask.
 6. **Body edits are exact string replacements.** If the string is not found in a file where it is expected, list the file and skip it; do not improvise a near match.
 7. **Node** is managed by mise: use `node`, or `mise exec -- node` if `node` is not on PATH.
@@ -33,7 +46,9 @@ For a Sonnet-class model working without the design conversation. Execute batche
 9. **After each batch:** run the lint summary, paste the changed counts into your report, and ask the DM to open two of the touched notes in Obsidian to confirm they render. Then stop for the next go-ahead.
 10. If a batch reveals a contradiction between notes, report both sources. Do not resolve it.
 
-**Baseline lint (2026-11-14):** errors — `journal-no-party` 42, `unresolved-link` 28, `yaml-parse` 1. Warnings — `missing-gist` 129, `legacy: groups` 64, `image-path` 50, `legacy: journal uses campaign` 42, `uimode-first` 31, `legacy: religions` 20, `legacy: relationships string` 11, `legacy: player_impression` 8, `journal-no-prep-link` 6, `journal-untitled` 3, `legacy: travel` 2, `journal-no-fc-end` 2, `no-type-tag` 1, `legacy: travelDistances` 1, `mirrored-edge` 1.
+**Baseline lint (2026-11-14):** errors — `journal-no-party` 42, `unresolved-link` 28, `yaml-parse` 1. Warnings — `missing-gist` 129, `legacy: groups` 64, `image-path` 50, `legacy: journal uses campaign` 42, `uimode-first` 31, `legacy: religions` 20, `legacy: relationships string` 11, `legacy: player_impression` 8, `journal-no-prep-link` 6, `journal-untitled` 3, `legacy: travel` 2, `journal-no-fc-end` 2, `no-type-tag` 1, `legacy: travelDistances` 1, `mirrored-edge` 1. Re-checked 2026-11-15: identical, plus `index-missing` 1 (`z_Extra/index/` does not exist yet). **Before T1, run `buildIndex.js` once** so the index, `state.md`, and the `edges.tsv` counts E5 compares against exist.
+
+Rule ids in this plan are prefixes: `--rule "legacy: groups"` matches `legacy: groups: (should be a member edge…)`. A rule with zero findings is absent from the output; "→ 0" means absent.
 
 ---
 
@@ -71,7 +86,7 @@ For a Sonnet-class model working without the design conversation. Execute batche
 ### A3 [M + J] Repair journal `prep-notes` links
 
 - **Files:** `1. DM Toolkit/Session Journals/The Hunt for Vecna/S*.md`
-- **[M] Change:** where `prep-notes` contains `Session Prep/Midnight Covenant/`, replace that segment with `Session Prep/The Hunt for Vecna/` **only if** the resulting file exists. Expected: about 28 journals (S16–S43).
+- **[M] Change:** where `prep-notes` contains `Session Prep/Midnight Covenant/`, replace that segment with `Session Prep/The Hunt for Vecna/` **only if** the resulting file exists. Expected: 23 journals (verified 2026-11-15; every target exists). The audit's "28" counted other broken links.
 - **[J] Propose, do not write:** journals whose `prep-notes` is empty, points at `Session Prep.md` (the template; S40, S42, S43), or points at a date that is not the journal's own `date` (S37). For each, list the prep notes within 3 days of the journal's `date` and ask the DM which is right. Known oddities to include: S28 `date: 2024-01-11` (probably 2025-01-11); S33 `date: 2025-04-19` vs prep `2025-10-25`. Dates are canon-adjacent: the DM decides.
 - **Verify:** `lint.js --rule unresolved-link` shows no `prep-notes:` rows; `journal-no-prep-link` count reported.
 
@@ -218,7 +233,7 @@ Each rename batch changes the notes **and** every template, script, and body inp
 
 | Template | Frontmatter additions (as empty values) | Body |
 |---|---|---|
-| `World Building/NPC.md` | `gist: ""`, `summary: ""`, `revealed: {}`, `reveal: {}`, `facts: []`, `secrets: ""`. Remove `groups: []`, `religions: []`. | Add `**Gist** \| INPUT[text:gist]` as the first Info row. Leave the Group(s)/Religion(s) rows until E2/E3. Add `### Plot Hooks` above `### Hidden Details` (matches the mirror). |
+| `World Building/NPC.md` | `gist: ""`, `summary: ""`, `revealed: {}`, `reveal: {}`, `facts: []`, `secrets: ""`. Remove `groups: []`, `religions: []`. | The gist input goes in the skeleton's gist strip (`04 Expansion` §2.1), not the infobox; the same applies to every "Gist row" in this table. Leave the Group(s)/Religion(s) rows until E2/E3. Add `### Plot Hooks` above `### Hidden Details` (matches the mirror). |
 | `World Building/Location.md` | `gist`, `revealed`, `reveal`, `facts`, `secrets`, `routes: []`. Remove `religions: []`. | Add a Gist row; remove the Religions row. |
 | `World Building/Shop.md` | done in C4 | — |
 | `Campaign/Quest.md` | `kind: quest`, `parent: ""`, `gist`, `revealed`, `facts`, `secrets`, `giver: ""`, `locations: []`, `items: []`, `factions: []`, `pcs: []` | Replace the four legacy button scripts (`addItem.js`, `removeItem.js`, `moveUp.js`, `moveDown.js`) with `arrayActions.js` calls per `vault-note/references/templates.md`. |
@@ -228,7 +243,7 @@ Each rename batch changes the notes **and** every template, script, and body inp
 | **New** `World Building/Faction.md`, `Item.md`, `Deity.md`, `Creature.md` | Per `vault-note/references/entity-schemas.md` | Model on `Shop.md`: the `templateInit`/`formFields` pattern, a name field, `init.moveFile(tp, config.locations.factions|items|deities|creatures, data.name)`, an infobox with inputs for the type's fields, `## DM Notes`. `Creature.md` also gets the `## Stats` section with an empty `statblock` block and `^statblock` anchor, copied from `NPC.md`. |
 
 - **`monster.txt` `isNpc` branch:** bring its frontmatter to parity with `NPC.md`: emit every key `NPC.md` emits, with empty defaults where the import has no data (`location:` empty, `relationships: []`, `race:`, `gender:`, `age:`, `occupation: []`, `gist: ""`, `summary: ""`, `revealed: {}`, `reveal: {}`, `facts: []`, `secrets: ""`, `partyRelationships: {}`, and the text fields as `""`). Make the same body changes as `NPC.md`. Qute syntax: literal braces are written `\{` and `\}`.
-- **[J] Ask:** delete the empty stub `World Building/Group.md` (replaced by `Faction.md`)? Leave `Event.md`.
+- **Approved:** delete the empty stub `World Building/Group.md` (replaced by `Faction.md`). Keep `Event.md`.
 - **Verify:** `grep -c "groups:\|religions:" "z_Templates/Templater/World Building/NPC.md"` → 0. Ask the DM to create one throwaway NPC, Faction, Item, Deity, and Quest from the templates, confirm each lands in the right folder with the right tags, then delete them. `diff <(grep -o "^[a-zA-Z_]*:" NPC-template-frontmatter) <(same for monster.txt isNpc)` shows the same key set.
 
 ### C7 [M] Facts editor in notes
@@ -261,7 +276,7 @@ return function View() { return <FactsTable /> }
 
 - **Files:** every NPC, region, settlement, place of interest, shop, and quest note.
 - **Change:** replace the body **above** `## Stats` (NPC) or `## DM Notes` (others) with the skeleton the matching C6 template now produces. Keep `## Stats` (with its `statblock` block and `^statblock` anchor) and everything from `## DM Notes` down **byte-identical**. Frontmatter is untouched.
-- **[J] first:** dry-run compares each note's current above-anchor body with the **old** template output for its type (whitespace-normalized). Notes that match get re-skinned mechanically. Notes that differ hold hand-written content: list each with the differing lines and ask the DM, per note, where the content goes (DM Notes, a field, or delete). Expected: most COS imports match; hand-built notes (Marrow, Lord Caldris Velmont, the Amber Wardens) differ.
+- **[J] first:** dry-run compares each note's current above-anchor body with the **old** template output for its type (whitespace-normalized). C6 has already rewritten the templates, so take the old ones from git at the SHA recorded before C6 (`git show <SHA>:"z_Templates/Templater/World Building/NPC.md"`, etc.), and compare against their body text with Templater tags stripped; for COS NPCs also compare against `monster.txt` at that SHA. Notes that match get re-skinned mechanically. Notes that differ hold hand-written content: list each with the differing lines and ask the DM, per note, where the content goes (DM Notes, a field, or delete). Expected: most COS imports match; hand-built notes (Marrow, Lord Caldris Velmont, the Amber Wardens) differ.
 - **Location maps:** keep each note's Leaflet block, moved into the Map tab, with the tutorial comment lines (`### …` inside the block) removed and the other keys unchanged.
 - **Verify:** `grep -L "entityHeader" <files>` → only listed skips. Ask the DM to open two NPCs, a settlement, and a shop.
 - **Rollback paths:** `4. World Almanac/`, `3. The Party/Quests/`.
@@ -419,7 +434,7 @@ For every entity under `missing-gist` (129): draft a `gist` of 20 words or fewer
 
 ### G2 Session-by-session reveals
 
-- **Order:** S1 → S48, five sessions per sitting (about 10 sittings).
+- **Order:** S1 → S48 (S0 excluded, per the DM), five sessions per sitting (about 10 sittings).
 - **Per session:** ledger corrections; entities first encountered → `revealed` with a draft `summary` and `reveal` list; facts learned (attached to entities, `learned` = this journal); edges learned; a title for untitled journals (S46–S48); missing `fc-end`.
 - **Sources:** journal text only. Never `secrets`, DM-voice fields, or `6. Resources/`.
 - **After acceptance:** write; set `wrapped: true` when the DM confirms the journal is final.
@@ -441,7 +456,7 @@ Run the `session-wrap` skill on `2. Scratch Notes/S44 Live Session - Improvised 
 | H4 | [J] | `.claude/agent-memory/dm-assistant/project_campaign-state.md`: after G3, propose replacing it with a two-line pointer to `z_Extra/index/state.md` and the campaign note; update `MEMORY.md`. Keep the two feedback files and the inventory-staleness note. | DM approves |
 | H5 | [M] | Final check: `lint.js --summary` → 0 errors, no `legacy:` rules. Build the index. | lint exit code 0 |
 | H6 | [M] | Delete `z_Extra/migration/`. Remove the "Migration in progress" paragraph from `CLAUDE.md`. | — |
-| H7 | [DM] | Force-add the `.claude/` files so Obsidian Git backs them up: `git add -f .claude/agents .claude/skills .claude/commands .claude/settings.json`. | `git ls-files .claude` lists them |
+| H7 | [DM] | Existing `.claude/` files are already tracked (verified 2026-11-15). Force-add only files created during the migration: `git add -f .claude/agents .claude/skills .claude/commands .claude/settings.json`. | `git status --short --ignored .claude` shows no `!!` rows for those paths |
 
 ---
 
@@ -462,11 +477,11 @@ Not part of this migration. Specification for whoever builds it:
 
 ## J. Tools (`04 Expansion` §3)
 
-Independent of the site exporter. J1 can run **before batch A**; the rest have the dependencies listed.
+Independent of the site exporter. J1 runs **after H5** (the DM declined building it first); the rest have the dependencies listed.
 
 | # | Marker | Build | Depends on | Verify |
 |---|---|---|---|---|
-| J1 | [M] | **Rules & Spells lookup.** `z_Scripts/Datacore/RulesLookup.tsx` and `1. DM Toolkit/Tools/Rules & Spells.md` (moved by J2 later), per `04 Expansion` §3.2, reading sources from Configuration `rules_lookup` (add that key in J1 if B3 has not run). `startup.js` opens the note pinned in the right sidebar. DM Screen gets a search box that opens it. Read-only: never writes to `5. Mechanics/` or `6. Resources/`. | T6 | DM searches "prone", "concentration", "fireball", "cover" and each lands on the right section in under two seconds. |
+| J1 | [M] | **Rules & Spells lookup.** `z_Scripts/Datacore/RulesLookup.tsx` and `1. DM Toolkit/Tools/At the Table/Rules & Spells.md` (J2 has created the folder by then), per `04 Expansion` §3.2, reading sources from Configuration `rules_lookup` (added in B3). `startup.js` opens the note pinned in the right sidebar. DM Screen gets a search box that opens it. Read-only: never writes to `5. Mechanics/` or `6. Resources/`. | T6 | DM searches "prone", "concentration", "fireball", "cover" and each lands on the right section in under two seconds. |
 | J2 | [J] | **Tools folders.** Propose the moves in `04 Expansion` §3.1 as a table; on approval, move with Obsidian's rename (ask the DM, or a script that updates links), then fix Configuration's tools list to group by subfolder. | X9 approved | `lint.js --rule unresolved-link` unchanged from before the move. |
 | J3 | [M] | **Shop upgrades.** `generateShopInventory.js` keeps `pinned_items`, stamps `last_stocked`; `ShopInventory.tsx` adds settlement `wealth` to the price chain and a Sell column (`buy_rate`, default `Configuration.shop_defaults.buy_rate`), plus a `memory^` haggle ±% input. | C4, B3 | DM regenerates a test shop with one pin; the pin survives; prices change with the settlement's `wealth`. |
 | J4 | [M] | **Retire `Calculators/Travel.md`.** After C5 points `travelTimes.js` at the party, move its transport-cost section into the Party Dashboard template and the party note; ask the DM before deleting the calculator. | C5 | Vallaki's Travel Distances table matches the old values for the same pace. |
@@ -480,10 +495,9 @@ Independent of the site exporter. J1 can run **before batch A**; the rest have t
 ## Batch order and dependencies
 
 ```
-T6 → J1 (can ship first)
-T1–T8 → A1–A6 → B1–B4 → C1 → C2 → C3 → C4 → C5 (+J4) → C7 → C8 → C6 → C9 → D1 → D2
+buildIndex → T1–T8 → A1–A6 → B1–B4 → C1 → C2 → C3 → C4 → C5 (+J4) → C7 → C8 → C6 → C9 → D1 → D2
       → E1 → E2 → E3 → E4 → E5 → E6 → E6b → E7 → E8 → F → G1 → G2 → G3 → H1–H7 → I
-J2, J3 after B3/C4; J5 after C9; J6 after G2; J7 after T8; J8 on request
+J1 after H5 (needs T6, B3, J2); J2, J3 after B3/C4; J5 after C9; J6 after G2; J7 after T8; J8 on request
 ```
 
 The vault is usable after every batch. Mechanical batches A–D need about one working session. E1–E4 need one DM sitting for the faction and deity tables. E5–G2 are the judgment-heavy part and can be spread over weeks; the vault, the skills, and the index work throughout, and the lint shows what remains.
