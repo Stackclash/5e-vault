@@ -45,6 +45,11 @@ For a Sonnet-class model working without the design conversation. Execute batche
 | T2 | [DM] | Start a new Claude Code session in the vault. Confirm the session-start text no longer contains "You have superpowers", and that `/status` lists project settings. | Tell the DM the project override did not apply; the DM disables the plugin in `~/.claude/settings.json`. |
 | T3 | [M] | In a scratch note, try `INPUT[inlineListSuggester(optionQuery(#story-item), optionQuery("5. Mechanics/Items")):items]`. Ask the DM whether both sources appear. | In C6 use two inputs side by side: one per source. |
 | T4 | [M] | In a copy of `z_Bases/NPCs.base`, add a formula `relationships.filter(value.type == "member").map(value.target)`. Ask the DM whether the column renders. | In E2 drop the faction column from the Base instead of replacing it. |
+| T5 | [M] | In a scratch note: `INPUT[select(class(tabbed), option(A), option(B)):memory^tab]` followed by a `> [!tabbed-box]` callout with two child callouts, the second holding `INPUT[text:gist]`. Ask the DM: do tabs switch, does the input inside tab B edit `gist`, and does switching tabs leave the file unmodified (`git status`)? | Bind the select to a frontmatter key `ui_tab` instead of `memory^tab` (each tab click is then a write); record it in `vault-note/references/templates.md`. |
+| T5b | [M] | A scratch template that calls `tp.file.include("[[z_Templates/Partials/ZZ Test]]")` where the partial contains `<% tp.file.title %>`. Run it; does the title render? | Templates inline the shared sections instead of including partials. |
+| T6 | [M] | In a scratch note, a `datacorejsx` block: `dc.useQuery('@section and path("5. Mechanics/Rules")')` listing `$title`, and one result rendered with `<dc.Markdown content={"![[Conditions#Prone]]"} />`. Ask the DM whether both appear. | RulesLookup builds its section list from the metadata cache headings and opens hits as hover previews. |
+| T7 | [M] | In a scratch template: `app.plugins.plugins["obsidian-dice-roller"].api` — roll `[[Npc Mannerisms#^npc-mannerisms]]` and print the result. | Quick-create drops the "roll from tables" checkbox. |
+| T8 | [M] | Read Calendarium's API surface for setting the current date (`app.plugins.plugins.calendarium.api`); report whether a script can advance the date. Do not change the date. | Advance Time shows the new date for the DM to set by hand. |
 
 ---
 
@@ -142,6 +147,19 @@ relationship_types:
 - **Verify:** `node -e` parse shows `relationship_types.length === 39`. The Configuration note still renders (ask the DM).
 - **Rollback path:** that file.
 
+### B3 [M] Vocabularies and weather into Configuration (`04 Expansion` §1.2)
+
+- **File:** `1. DM Toolkit/Configuration.md`; `1. DM Toolkit/Tools/Weather Generation.md`; `z_Scripts/JS/weatherGenerator.js`.
+- **Change 1:** add `enums`, `settlement_wealth`, `shop_defaults`, and `rules_lookup` exactly as in `04 Expansion` §1.2.
+- **Change 2:** move the keys `useCalendarium`, `tempFlux`, `seasons`, `months`, `climates`, `states` from Weather Generation's frontmatter to Configuration under `weather:`, values unchanged. Repoint `weatherGenerator.js` to read `Configuration.weather`. Move the Add/Remove Month, Season, Climate, and State buttons and their tables into a Weather section of the Configuration body, targeting Configuration. Weather Generation keeps only a "Roll weather" UI.
+- **First:** grep `z_Scripts` and `z_Templates` for every reader of those keys (`weatherGenerator.js` is the only known one). Any other reader is a stop-and-report.
+- **Verify:** `node -e` parse of Configuration shows `weather.climates.length` equal to the old count; ask the DM to roll weather once in Obsidian and get a result.
+- **Rollback paths:** those three files.
+
+### B4 [DM] Disable the duplicate tabs snippet
+
+Ask the DM to disable `metabind-tabs` in Settings → Appearance → CSS snippets (`TabsInObsidian` v0.5.4 stays). Verify: `appearance.json` no longer lists it.
+
 ### B2 [DM] Disable the Relations plugin
 
 Ask the DM to turn off "Relations" in Obsidian → Settings → Community plugins. Do not edit `.obsidian/` files. Verify: `grep -c '"relations"' .obsidian/community-plugins.json` → 0.
@@ -183,7 +201,7 @@ Each rename batch changes the notes **and** every template, script, and body inp
 
 - **Files:** `4. World Almanac/Settlements/Vallaki.md`, `4. World Almanac/Regions/Barovia.md`, `4. World Almanac/Places of Interest/The Amber Temple.md`; `z_Scripts/Dataview/views/travelTimes.js`; `z_Templates/Templater/Functional/Add Travel Distance.md`, `Remove Travel Distance.md`; `z_Templates/Templater/World Building/Location.md`.
 - **Notes:** convert each `[name, miles]` pair under `travel` or `travelDistances` to `routes: [{to: "[[<full path>|<name>]]", miles: <number>}]`; resolve the name to its note path; coerce `"60"` to `60`; delete the old key.
-- **`travelTimes.js`:** read `input.current.routes || []`; for each `r` use `dv.page(r.to?.path ?? r.to)` and `r.miles`; skip rows whose page does not resolve; keep the existing three columns and the `VIEW[…]` expression with `r.miles` in place of `t[1]`.
+- **`travelTimes.js`:** read `input.current.routes || []`; for each `r` use `dv.page(r.to?.path ?? r.to)` and `r.miles`; skip rows whose page does not resolve; keep the existing three columns. **Travel source (`04 Expansion` §3.4 #4):** compute travel time from the active party note's pace fields (`travel_calc`, `travel_hours_per_day`) instead of `{Travel#TravelCalc}` / `{Travel#HoursPerDay}`; resolve the party via Configuration → campaign → `party`.
 - **Add template:** write `fm.routes = [...(fm.routes || []), {to: "[[" + page.file.path + "|" + page.file.name + "]]", miles: Number(distance)}]` (select the location by path, label by name).
 - **Remove template:** read `tp.frontmatter.routes || []`; options labelled by the link alias; remove by index.
 - **Location template:** add `routes: []` to the frontmatter.
@@ -193,6 +211,10 @@ Each rename batch changes the notes **and** every template, script, and body inp
 ### C6 [M] Templates to the target schema
 
 - **Files:** all under `z_Templates/Templater/` named below, plus `z_Extra/ttrpg-convert/templates/monster.txt`.
+- **Run C8 first** (shared header view, callout types, partials). C6 builds every template body on the `04 Expansion` §2 skeleton in one pass, so no template is rewritten twice. Where this table says "infobox row", place it in the skeleton's infobox; where it names body sections, place them in the tab listed in `04 Expansion` §2.2.
+- **Expansion fields (`04 Expansion` §1.1, after the DM's approval of X1):** add each approved field to its template's frontmatter as an empty value, with an input in the tab §2.2 names. Option lists come from Configuration `enums` through `utils/metaBindInput` (the shop template's pattern), never hard-coded `option(...)` lists. Existing notes are **not** backfilled with the new keys.
+- **Creation forms (`04 Expansion` §2.5):** every entity form asks only name, gist, and location/parent (plus level for locations). Remove the other form fields; their inputs stay in the note. The "roll from tables" checkbox only if T7 passed.
+- **Docs in the same batch:** add the approved fields and enums to `.claude/skills/vault-note/references/entity-schemas.md` and `campaign-schemas.md`; describe the skeleton, tabs, partials, and `[!player]`/`[!dm]` in `templates.md`. Remove the "Useful Frontmatter Fields" section from `1. DM Toolkit/DM Quick Reference.md`.
 
 | Template | Frontmatter additions (as empty values) | Body |
 |---|---|---|
@@ -215,17 +237,34 @@ Each rename batch changes the notes **and** every template, script, and body inp
 - **Block to insert** (same text everywhere):
 
 ````
-## What the Party Can Learn
 ```datacorejsx
 const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
 return function View() { return <FactsTable /> }
 ```
 ````
 
-- **Insert in templates:** NPC (before `## Secrets`), Location, Faction, Item, Deity (before `## DM Notes`), Quest (after `## Description`), and the `monster.txt` mirror.
-- **Insert in existing notes:** same anchors, in every NPC, region, settlement, place of interest, and quest note. If the anchor heading is missing, list the file and skip.
-- **Verify:** `grep -L "FactsTable" "4. World Almanac/NPCs"/*.md` lists only folder notes. Ask the DM to add and delete one fact on a test NPC.
-- **Rollback paths:** `z_Scripts/Datacore/FactsTable.tsx`, `z_Templates/`, `z_Extra/ttrpg-convert/templates/monster.txt`, `4. World Almanac/`, `3. The Party/Quests/`.
+- **Order changed by `04 Expansion`:** C7 now runs **before** C8 and C6, and builds only the component and the block. The block goes into the Player-Facing partial in C8 (below the `summary` input, without its own `##` heading, since the tab is the heading); templates get it through C6, existing notes through C9. C7 itself inserts nothing into notes.
+- **Verify:** the block renders in a scratch note; ask the DM to add and delete one fact there.
+- **Rollback path:** `z_Scripts/Datacore/FactsTable.tsx`.
+
+### C8 [M] Shared layout pieces (`04 Expansion` §2.1–2.3)
+
+- **New files:**
+  - `z_Scripts/Dataview/views/entityHeader.js`: breadcrumb (reuse `locationBreadcrumbs` logic), image carousel (reuse `imageCarousel`), name, `pronounced`, state chips (NPC `role`, `condition`, `partyRelationships[party]`; location `status`; faction `standing[party]`), and the knowledge badge for the active party: "Revealed · n of m facts learned" or "Hidden". It reads only frontmatter.
+  - `z_Templates/Partials/` (**new folder, approved with X4**): `Tabs - <Type>.md` for each type in `04 Expansion` §2.2, holding the `tabbed` select (`memory^tab` or the T5 fallback) and the `[!tabbed-box]` callout with one child callout per tab; `Player-Facing.md` holding the `summary` input in a `[!player]` callout and the C7 facts block. Use `tp.file.include` if T5b passed; otherwise C6 inlines them.
+  - In `.obsidian/snippets/Custom Styles.css`: callout types `player` (green border, tinted background) and `dm` (red), a dotted underline on `.mb-input` in reading view, and a `.derived` label style. Colours come from theme variables where they exist.
+- **Changed views:** `npcRelationships`, `npcsInLocation`, `locations`, and the quest tables print a small `derived` label in their heading.
+- **Verify:** ask the DM to open a scratch note using the header and one tab partial and confirm it renders in reading view and in the ITS theme's dark and light modes.
+- **Rollback paths:** the new files, `Custom Styles.css`.
+
+### C9 [M + J] Re-skin existing note bodies
+
+- **Files:** every NPC, region, settlement, place of interest, shop, and quest note.
+- **Change:** replace the body **above** `## Stats` (NPC) or `## DM Notes` (others) with the skeleton the matching C6 template now produces. Keep `## Stats` (with its `statblock` block and `^statblock` anchor) and everything from `## DM Notes` down **byte-identical**. Frontmatter is untouched.
+- **[J] first:** dry-run compares each note's current above-anchor body with the **old** template output for its type (whitespace-normalized). Notes that match get re-skinned mechanically. Notes that differ hold hand-written content: list each with the differing lines and ask the DM, per note, where the content goes (DM Notes, a field, or delete). Expected: most COS imports match; hand-built notes (Marrow, Lord Caldris Velmont, the Amber Wardens) differ.
+- **Location maps:** keep each note's Leaflet block, moved into the Map tab, with the tutorial comment lines (`### …` inside the block) removed and the other keys unchanged.
+- **Verify:** `grep -L "entityHeader" <files>` → only listed skips. Ask the DM to open two NPCs, a settlement, and a shop.
+- **Rollback paths:** `4. World Almanac/`, `3. The Party/Quests/`.
 
 ---
 
@@ -421,11 +460,30 @@ Not part of this migration. Specification for whoever builds it:
 
 ---
 
+## J. Tools (`04 Expansion` §3)
+
+Independent of the site exporter. J1 can run **before batch A**; the rest have the dependencies listed.
+
+| # | Marker | Build | Depends on | Verify |
+|---|---|---|---|---|
+| J1 | [M] | **Rules & Spells lookup.** `z_Scripts/Datacore/RulesLookup.tsx` and `1. DM Toolkit/Tools/Rules & Spells.md` (moved by J2 later), per `04 Expansion` §3.2, reading sources from Configuration `rules_lookup` (add that key in J1 if B3 has not run). `startup.js` opens the note pinned in the right sidebar. DM Screen gets a search box that opens it. Read-only: never writes to `5. Mechanics/` or `6. Resources/`. | T6 | DM searches "prone", "concentration", "fireball", "cover" and each lands on the right section in under two seconds. |
+| J2 | [J] | **Tools folders.** Propose the moves in `04 Expansion` §3.1 as a table; on approval, move with Obsidian's rename (ask the DM, or a script that updates links), then fix Configuration's tools list to group by subfolder. | X9 approved | `lint.js --rule unresolved-link` unchanged from before the move. |
+| J3 | [M] | **Shop upgrades.** `generateShopInventory.js` keeps `pinned_items`, stamps `last_stocked`; `ShopInventory.tsx` adds settlement `wealth` to the price chain and a Sell column (`buy_rate`, default `Configuration.shop_defaults.buy_rate`), plus a `memory^` haggle ±% input. | C4, B3 | DM regenerates a test shop with one pin; the pin survives; prices change with the settlement's `wealth`. |
+| J4 | [M] | **Retire `Calculators/Travel.md`.** After C5 points `travelTimes.js` at the party, move its transport-cost section into the Party Dashboard template and the party note; ask the DM before deleting the calculator. | C5 | Vallaki's Travel Distances table matches the old values for the same pace. |
+| J5 | [M] | **Session Dashboard** (`04 Expansion` §3.4 #3). | party `location` (C6), C8 | DM opens it at the start of a session. |
+| J6 | [M] | **Rumor roll** on the location At the Table tab. | G2 (facts exist) | Rolls only unlearned facts with `rumor` not false. |
+| J7 | [M] | **Advance Time.** | T8 | Date moves; weather rolls for the party's `climate`. |
+| J8 | [M] | **Loot**, **faction clock view**, **region encounter tables**, **party treasury** (`04 Expansion` §3.4 #7–10), one at a time, each after the DM asks for it. | E1 for clocks | per tool |
+
+---
+
 ## Batch order and dependencies
 
 ```
-T1–T4 → A1–A6 → B1, B2 → C1 → C2 → C3 → C4 → C5 → C6 → C7 → D1 → D2
+T6 → J1 (can ship first)
+T1–T8 → A1–A6 → B1–B4 → C1 → C2 → C3 → C4 → C5 (+J4) → C7 → C8 → C6 → C9 → D1 → D2
       → E1 → E2 → E3 → E4 → E5 → E6 → E6b → E7 → E8 → F → G1 → G2 → G3 → H1–H7 → I
+J2, J3 after B3/C4; J5 after C9; J6 after G2; J7 after T8; J8 on request
 ```
 
 The vault is usable after every batch. Mechanical batches A–D need about one working session. E1–E4 need one DM sitting for the faction and deity tables. E5–G2 are the judgment-heavy part and can be spread over weeks; the vault, the skills, and the index work throughout, and the lint shows what remains.
