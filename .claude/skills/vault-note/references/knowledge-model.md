@@ -61,3 +61,5 @@ Only the DM reopens canon, explicitly, per item. Corrections to a wrapped journa
 ## Who may write what
 
 Every field in "The three knowledge states", plus `summary`, `locked`, and `## Public`, is written only from a proposal line the DM accepted. `gist`, `## DM Notes`, unlearned unlocked facts, and DM-voice fields may be drafted freely as part of approved creative work.
+
+The DM can also set these by hand at any time: the Revealed toggle in every entity header, and the Revealed, Public name, and Also show controls in the Player-Facing tab. A value the DM set is approved by definition; agents read it and do not second-guess it.

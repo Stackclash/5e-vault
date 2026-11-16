@@ -168,8 +168,16 @@ const PARTIALS = {
   ],
 }
 
+// Party-keyed controls go through utils/metaBindInput so the key is the active party's name.
+const partyInput = (type, field, extra = '') => `\`$=await dv.view('utils/metaBindInput', {type: '${type}', field: ['${field}', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]${extra}})\``
 const PLAYER_FACING = [
   '> > [!player] Player-Facing',
+  `> > **Revealed to the party** ${partyInput('toggle', 'revealed')}`,
+  '> >',
+  `> > **Public name** ${partyInput('text', 'public_name')} (optional: shown instead of the note name)`,
+  '> >',
+  `> > **Also show** ${partyInput('inlineList', 'reveal')} (extra fields the site may show, e.g. images, occupation)`,
+  '> >',
   `> > **Summary** ${'`BUTTON[pop-summary]`'}`,
   '> > `INPUT[textArea:summary]`',
   '> >',

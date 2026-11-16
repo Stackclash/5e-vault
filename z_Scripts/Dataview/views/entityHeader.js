@@ -70,13 +70,15 @@ function breadcrumb() {
     return []
 }
 
+// Knowledge badge: a Revealed toggle for the active party (manual control; off writes false = held back)
+// plus the learned-facts count.
 function badge() {
     if (!ENTITY_TYPES.includes(type) || !party) return ""
-    const revealed = current.revealed?.[party]
-    if (!revealed) return `<span class="knowledge-badge is-hidden">Hidden</span>`
+    const revealed = current.revealed?.[party] === true
     const facts = Array.isArray(current.facts) ? current.facts : []
     const learned = facts.filter(f => f?.learned?.[party]).length
-    return `<span class="knowledge-badge is-revealed">Revealed · ${learned} of ${facts.length} facts learned</span>`
+    const toggle = generateMetaBindInput({ type: "toggle", field: ["revealed", party] })
+    return `<span class="knowledge-badge ${revealed ? "is-revealed" : "is-hidden"}">${revealed ? "Revealed" : "Hidden"} ${toggle}${revealed ? ` · ${learned} of ${facts.length} facts learned` : ""}</span>`
 }
 
 function imagesMd() {
