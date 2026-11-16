@@ -1,6 +1,6 @@
 // Reusable Datacore view: edits the current note's `facts` list in place.
-// One row per fact (text, learned-by-the-active-party, locked, delete), and always one empty
-// last row: typing into it creates the next fact (04 Expansion Q6). No "Add Fact" button.
+// One row per fact (text, learned-by-the-active-party, locked, delete) under an "Add Fact" button,
+// like the vault's other list editors (DM, 2026-11-16; replaces the empty-last-row idea in Q6).
 //
 // Load from a note's `datacorejsx` block:
 //   const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
@@ -8,13 +8,13 @@
 
 const { generateMetaBindInput } = await self.require.import("z_Scripts/Dataview/utils/generateMetaBindInput.js")
 
-function buttonMarkdown(args, icon, tooltip) {
+function buttonMarkdown(args, { style = "destructive", label = "", icon, tooltip }) {
   return [
     "```meta-bind-button",
-    "style: destructive",
-    'label: ""',
-    `icon: ${icon}`,
-    `tooltip: ${tooltip}`,
+    `style: ${style}`,
+    `label: ${JSON.stringify(label)}`,
+    ...(icon ? [`icon: ${icon}`] : []),
+    ...(tooltip ? [`tooltip: ${tooltip}`] : []),
     "actions:",
     "  - type: js",
     "    file: z_Scripts/Meta Bind/arrayActions.js",
@@ -35,22 +35,21 @@ function FactsTable() {
   const party = partyPath.split("/").pop()?.replace(/\.md$/, "") ?? ""
 
   const raw = note.value("facts")
+  const facts = Array.isArray(raw) ? raw : []
   const md = (content) => <dc.Markdown content={content} sourcePath={sourcePath} inline={false} />
+  const addButton = md(buttonMarkdown(
+    { action: "add", field: "facts", template: { text: "", learned: {} } },
+    { style: "primary", label: "Add Fact" }))
 
-  // A note without a facts list yet: one button creates it (the empty-row binding needs an array).
-  if (!Array.isArray(raw)) {
-    return md(buttonMarkdown({ action: "add", field: "facts", template: { text: "", learned: {} } }, "plus", "Start a facts list"))
-  }
-
-  const rows = [...raw.map((fact, i) => ({ i, fact })), { i: raw.length, fact: null }]
+  const rows = facts.map((fact, i) => ({ i, fact }))
   const columns = [
     {
       id: "Fact",
-      value: ({ i }) => md(`\`INPUT[textArea(placeholder(${i === raw.length ? "New fact…" : "Fact"})):facts[${i}].text]\``),
+      value: ({ i }) => md(`\`INPUT[textArea:facts[${i}].text]\``),
     },
     {
       id: party ? `Learned (${party})` : "Learned",
-      value: ({ i, fact }) => fact && party
+      value: ({ i }) => party
         ? md(generateMetaBindInput({
             type: "suggester",
             options: ["optionQuery(#session-journal)"],
@@ -61,16 +60,21 @@ function FactsTable() {
     {
       id: "Locked",
       width: "minimum",
-      value: ({ i, fact }) => (fact ? md(`\`INPUT[toggle:facts[${i}].locked]\``) : ""),
+      value: ({ i }) => md(`\`INPUT[toggle:facts[${i}].locked]\``),
     },
     {
       id: "",
       width: "minimum",
-      value: ({ i, fact }) => (fact ? md(buttonMarkdown({ action: "remove", field: "facts", index: i }, "x", "Delete fact")) : ""),
+      value: ({ i }) => md(buttonMarkdown({ action: "remove", field: "facts", index: i }, { icon: "x", tooltip: "Delete fact" })),
     },
   ]
 
-  return <dc.Table rows={rows} columns={columns} />
+  return (
+    <div>
+      {addButton}
+      {rows.length > 0 && <dc.Table rows={rows} columns={columns} />}
+    </div>
+  )
 }
 
 return { FactsTable }
