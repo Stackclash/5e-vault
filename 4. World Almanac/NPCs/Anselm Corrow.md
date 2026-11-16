@@ -38,7 +38,7 @@ likes: a clean ledger, paid tolls, a quiet dock at night
 dislikes: crown inspectors, being lied to by his own clerks, anyone who threatens the bargain that keeps Duskferry independent
 partyRelationships:
   Midnight Covenant: Acquaintance
-player_impression: ""
+summary: ""
 secrets: |-
   STILL DM-ONLY (not yet revealed): Corrow is not Silent Ascendency and doesn't know what "special cargo" actually is or who's ultimately behind it — his blindness is willful, not complicit. He's long known a handful of manifests move through the tally-house paid for above the standard toll and has chosen not to ask why, because the extra revenue and the Guild's reputation for discretion matter more to him than the question does.
   He would cooperate honestly with the party if approached as themselves rather than as smugglers — legitimate access to the tally-house archives is his to grant, and he'd genuinely want to know if something dangerous were using his Guild. What he can't offer is insider knowledge of the falsified entries themselves; that's [[Ostwin Reyes]]'s doing, not his, and Corrow has no idea his own senior clerk is the actual contact.
@@ -106,7 +106,7 @@ secrets: |-
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

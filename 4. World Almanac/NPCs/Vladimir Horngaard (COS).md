@@ -166,7 +166,7 @@ A revenant doesn't require air, food, drink, or sleep.
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

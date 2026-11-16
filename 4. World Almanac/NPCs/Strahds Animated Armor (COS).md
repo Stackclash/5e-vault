@@ -115,7 +115,7 @@ The armor understands Common but obeys only the commands of its master.
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

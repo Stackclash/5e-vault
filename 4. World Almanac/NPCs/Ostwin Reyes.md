@@ -40,7 +40,7 @@ likes: exact books, being underestimated, fine boots
 dislikes: audits, couriers who ask questions, anyone implying his ledgers could be wrong
 partyRelationships:
   Midnight Covenant: Acquaintance
-player_impression: ""
+summary: ""
 secrets: |-
   STILL DM-ONLY (not yet revealed, and not yet named to the party — they only have the code name "the Tallyman" from [[Hesper Crane]]'s ledger as of the 2026-08-22 session): Reyes is the actual Silent Ascendency contact in Duskferry, not Guildmaster [[Anselm Corrow]]. He personally falsifies or omits manifest entries for "special cargo" shipments in exchange for payment, using his trusted position to keep them off the Guild's real books.
   He knows the next physical link in the chain — the shipments' onward route toward [[Greyfen Hollow]] — but not what happens there or who's ultimately behind any of it; he's never been curious enough to ask, and it's safer not to know.
@@ -109,7 +109,7 @@ secrets: |-
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

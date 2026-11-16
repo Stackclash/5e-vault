@@ -35,7 +35,7 @@ likes: Fieldwork, plain talk, being useful.
 dislikes: Bureaucracy, being patronized, unfinished work.
 partyRelationships:
   Midnight Covenant: Ally
-player_impression: |-
+summary: |-
   A monster-hunter Lyssandra Veil brought in to build a doppelganger-detection device once the Athenaeum's crisis broke; Roark escorted her to the handoff, nothing more. The party now knows the meeting was ambushed by Silent Ascendency agents and that Corwin was killed defending the device (S44) — Wisp's familiar found his body with the real prototype crushed beneath it, which is what exposed the working device "Roark" had brought back as a fake.
 secrets: ""
 ---
@@ -101,7 +101,7 @@ secrets: ""
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

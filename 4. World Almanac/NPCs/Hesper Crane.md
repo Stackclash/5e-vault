@@ -38,7 +38,7 @@ likes: exact counts, being paid on schedule, quiet nights
 dislikes: surprises, couriers who talk too much, owing anyone an explanation
 partyRelationships:
   Midnight Covenant: Acquaintance
-player_impression: ""
+summary: ""
 secrets: |-
   STILL DM-ONLY (not yet revealed): Crane has never actually met Velmont in person — only Marrow-as-Velmont, and only ever remotely, through couriers and a standing password exchange. She has no way to detect the swap by sight. She *will* test the password if given any reason to doubt "Velmont," and she has already sent one unanswered inquiry up the chain about the missing shipment — a second silence from either direction is what breaks her composure.
   Her ledger names the Cinderworks' next relay contact in [[Duskferry]] by name and code — the intended payoff of a successful infiltration.
@@ -107,7 +107,7 @@ secrets: |-
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

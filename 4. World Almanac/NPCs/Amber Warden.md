@@ -35,7 +35,7 @@ likes: "—"
 dislikes: "—"
 partyRelationships:
   Midnight Covenant: Enemy
-player_impression: ""
+summary: ""
 secrets: |-
   STILL DM-ONLY (not yet revealed): this is a physical, in-person confirmation of the Amber Wardens motif the party has only inferred so far from Marrow's neck-graft — proof the same soul-craft is being scaled up into guardian constructs, not just individual grafts.
   The three amber conduits are both its power source and its weak point: each holds a fragment of a bound soul, and each can be targeted and destroyed independently of the Warden's own hit points (see Stats). Destroying all three severs its link to the soul-vessel works' power and strips its magic resistance and its resistance to nonmagical weapons — the mechanical payoff for a party that investigates rather than just trading blows, and a deliberate echo of the anti-magic gems from the [[Stone Golem]] fight in S43.
@@ -103,7 +103,7 @@ secrets: |-
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

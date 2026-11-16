@@ -32,7 +32,7 @@ likes: ""
 dislikes: ""
 partyRelationships:
   Midnight Covenant: Friendly
-player_impression: |-
+summary: |-
   A drow woman the party met at Duskferry, who recognized something in Faerah worth acting on and brought her to Naerissa and the shrine. She didn't explain herself further, and the party hasn't learned much about her yet.
 secrets: ""
 ---
@@ -98,7 +98,7 @@ secrets: ""
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

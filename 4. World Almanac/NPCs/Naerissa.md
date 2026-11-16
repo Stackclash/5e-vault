@@ -38,7 +38,7 @@ likes: moonlit water, old songs, patient listeners
 dislikes: being rushed, questions asked as demands, the shrine's location spreading
 partyRelationships:
   Midnight Covenant: Friendly
-player_impression: |-
+summary: |-
   Elder of a small, reclusive dusk elf community at Duskferry's edge, tending a hidden shrine to Eilistraee on a reed-bank spit downshore of the Waterline. She was guided out of the Underdark years ago by a group led by Faerah's sister, and recognized Faerah's pendant on sight as the twin of the one her sister wore — proof the sister's escape work was real, organized, and larger than Faerah ever knew. She spoke of a bigger, older congregation of the same order somewhere in the Greenfall wilds, but wouldn't say more about it.
 secrets: |-
   STILL DM-ONLY (not yet revealed): per the campaign bible, [[Faerah Duskrane]]'s sister — believed killed fleeing the Underdark — may actually be alive, having escaped independently. That thread is reserved for Act II, Arc 2 and must not be confirmed through Naerissa (or anyone else) before then. Naerissa's own knowledge doesn't extend past "she did not leave with us" — she should not be played as secretly knowing whether the sister survived, only as someone who never learned what became of her.
@@ -106,7 +106,7 @@ secrets: |-
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

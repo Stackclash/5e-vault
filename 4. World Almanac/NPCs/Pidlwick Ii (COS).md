@@ -134,7 +134,7 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

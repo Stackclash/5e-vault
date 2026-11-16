@@ -36,7 +36,7 @@ likes: "—"
 dislikes: "—"
 partyRelationships:
   Midnight Covenant: Enemy
-player_impression: ""
+summary: ""
 secrets: |-
   STILL DM-ONLY: the single socketed conduit is doing all the work, and it is exposed — the plating that would protect it was never fitted. It is a legitimate, findable weak point, and destroying it kills the construct outright rather than merely stripping its defences the way the finished [[Amber Warden]]'s three conduits do.
   The trade is that it detonates. A party that shatters the conduit at melee range will regret the tidiness of the solution.
@@ -103,7 +103,7 @@ secrets: |-
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

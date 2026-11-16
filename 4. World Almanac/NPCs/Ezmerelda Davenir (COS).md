@@ -143,7 +143,7 @@ Ezmerelda keeps a [[/5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka ca
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

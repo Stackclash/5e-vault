@@ -44,11 +44,11 @@ likes: Clean exits, useful people, being underestimated.
 dislikes: Loose ends, being seen clearly, spending resources it can't recover.
 partyRelationships:
   Midnight Covenant: Enemy
-player_impression: |-
+summary: |-
   The party knows the doppelganger that impersonated Lord Caldris Velmont and then Professor Gousse Windcaller (S43) never left Bruokdon. It ambushed Roark Battleborn and Lyssandra Veil at Corwin Vantor's handoff, killed Corwin, took them both captive, and came back wearing Roark's face with a fake device and a cover story that held for days.
   Faerah Duskrane killed it in a Bruokdon street (S44). The corpse reverted to its true grey form with an amber gem lodged at the base of its neck; the party left the body in place and has not yet investigated the gem. A cultist taken at the smuggling wagon gave them its name — Marrow — and identified it as the leader of the Ascendency's Bruokdon cell.
 secrets: |-
-  Mostly resolved in play (S43-S44). What the party now knows is in player_impression; what remains DM-only is flagged below.
+  Mostly resolved in play (S43-S44). What the party now knows is in summary; what remains DM-only is flagged below.
   Revealed: Marrow was the Silent Ascendency's cell leader in Bruokdon, not a rank-and-file infiltrator — it ran the local operation from inside Velmont's stolen identity from the day it took him captive. A cultist taken at the wagon gave the party both its name and its rank.
   Revealed: it orchestrated the ambush that captured Roark Battleborn and Lyssandra Veil (opportunistic, not planned in advance — the Ascendency had no prior knowledge of the heartbeat-detection device Corwin Vantor built). Lyssandra was taken for her illusion mastery, earmarked for future ward-work; Roark was taken as leverage and, worn as a disguise, as a door back into the party hunting the cell. The device "Roark" returned with was an inert prop.
   STILL DM-ONLY: the nameless dwarf who confessed mid-sweep to leading the Bruokdon cell was Marrow's frame — a low-level cultist primed to take the fall so suspicion never landed on "Roark." He is in custody and can confirm it whenever the party thinks to ask him.
@@ -117,7 +117,7 @@ secrets: |-
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

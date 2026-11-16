@@ -148,7 +148,7 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`

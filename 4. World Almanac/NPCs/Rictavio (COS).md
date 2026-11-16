@@ -134,7 +134,7 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 
 ## Player-Facing
 > [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
+> `INPUT[textArea:summary]`
 
 ## Secrets
 `INPUT[textArea:secrets]`
