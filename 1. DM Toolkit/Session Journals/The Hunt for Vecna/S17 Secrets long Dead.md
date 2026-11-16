@@ -16,7 +16,7 @@ aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2024-05-11.md|2024-05-11]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-05-11.md|2024-05-11]]"
 fc-end: 973-2-20
 tags:
   - session-journal

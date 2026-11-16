@@ -9,7 +9,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
-prep-notes: "[[2026-04-11|Session Prep]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-03-22.md|2026-03-22]]"
 tags:
   - session-journal
 locations:

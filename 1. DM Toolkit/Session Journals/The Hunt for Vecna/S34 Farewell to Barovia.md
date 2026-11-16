@@ -10,7 +10,7 @@ aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2025-12-21.md|2025-12-21]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2025-12-21.md|2025-12-21]]"
 tags:
   - session-journal
 locations:

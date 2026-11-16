@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: 2024-01-11
+date: 2025-01-11
 summary: The party fortifies themselves in the winery while the leader of the dark druids has their tree blights surround the winery. When the group refuses to come out the cultists and the creatures attack. The party fights through waves of enemies and ends up capturing the leader and interrogates him. He reveals their plans for a ritual on top of Yester Hill.
 fc-date: 973-2-23
 fc-end: 973-2-23
@@ -9,7 +9,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
-prep-notes: ""
+prep-notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2025-01-11.md|2025-01-11]]"
 tags:
   - session-journal
 locations:
