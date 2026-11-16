@@ -3,7 +3,7 @@ filters:
     - file.tags.contains("npc")
 formulas:
   relationships: party_relationships.keys().map(value + '(' + party_relationships[value] + ')').join(', ')
-  t4_members: relationships.filter(value.type == "member").map(value.target)
+  t4_members: relationships.filter(value.isType("object") && value.type == "member").map(value.target)
 properties:
   formula.relationships:
     displayName: party relationships

@@ -202,7 +202,7 @@
   background-color: whitesmoke;
 }
 /* T10 (migration): Meta Bind text areas grow with their content. */
-.mb-input-type-textArea textarea {
+textarea.mb-input-textarea {
   field-sizing: content;
   min-height: 6lh;
 }
