@@ -1,0 +1,140 @@
+type	name	aliases	path	parent	status	revealed_to	gist
+campaign	The Hunt for Vecna		1. DM Toolkit/Campaigns/The Hunt for Vecna.md				
+npc	Adrian Martikov		4. World Almanac/NPCs/Adrian Martikov.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
+npc	Amber Warden		4. World Almanac/NPCs/Amber Warden.md	4. World Almanac/Places of Interest/Greyfen Hollow.md	healthy		
+npc	Anastrasya Karelova (COS)	Anastrasya Karelova	4. World Almanac/NPCs/Anastrasya Karelova (COS).md		healthy		
+npc	Anselm Corrow	the Guildmaster	4. World Almanac/NPCs/Anselm Corrow.md	4. World Almanac/Settlements/Duskferry.md	healthy		
+npc	Arabelle (COS)	Arabelle	4. World Almanac/NPCs/Arabelle (COS).md	4. World Almanac/Places of Interest/Lake Zarovich.md	healthy		
+npc	Archmortician Valeris Thorne	Valeris Thorne	4. World Almanac/NPCs/Archmortician Valeris Thorne.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
+npc	Archwarden Selvara Kain		4. World Almanac/NPCs/Archwarden Selvara Kain.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
+npc	Arrigal (COS)	Arrigal	4. World Almanac/NPCs/Arrigal (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Baba Lysaga (COS)	Baba Lysaga	4. World Almanac/NPCs/Baba Lysaga (COS).md	4. World Almanac/Places of Interest/Ruins of Berez.md	healthy		
+npc	Baba Lysagas Creeping Hut (COS)	Baba Lysaga's Creeping Hut	4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md		dead		
+npc	Baron Vargas Vallakovich (COS)	Baron Vargas Vallakovich	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Beucephalus (COS)	Beucephalus	4. World Almanac/NPCs/Beucephalus (COS).md		healthy		
+npc	Bluto Krogarov (COS)	Bluto Krogarov	4. World Almanac/NPCs/Bluto Krogarov (COS).md	4. World Almanac/Places of Interest/Lake Zarovich.md	healthy		
+npc	Bray Martikov (COS)	Bray Martikov	4. World Almanac/NPCs/Bray Martikov (COS).md	4. World Almanac/Shops/Blue Water Inn.md	healthy		
+npc	Brom Martikov (COS)	Brom Martikov	4. World Almanac/NPCs/Brom Martikov (COS).md	4. World Almanac/Shops/Blue Water Inn.md	healthy		
+npc	Clovin Belview (COS)	Clovin Belview	4. World Almanac/NPCs/Clovin Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
+npc	Corwin Vantor		4. World Almanac/NPCs/Corwin Vantor.md	4. World Almanac/Settlements/Bruokdon.md	dead		A monster-hunter Lyssandra Veil brought in to build a doppelganger-detection device once the Athenaeum's crisis broke; Roark escorted her to the handoff, nothin
+npc	Cyrus Belview (COS)	Cyrus Belview	4. World Almanac/NPCs/Cyrus Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
+npc	Dag Tomescu		4. World Almanac/NPCs/Dag Tomescu.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
+npc	Danika Dorakova (COS)	Danika Dorakova	4. World Almanac/NPCs/Danika Dorakova (COS).md	4. World Almanac/Shops/Blue Water Inn.md	healthy		
+npc	Davian Martikov (COS)	Davian Martikov	4. World Almanac/NPCs/Davian Martikov (COS).md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
+npc	Donavich (COS)	Donavich	4. World Almanac/NPCs/Donavich (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
+npc	Doru (COS)	Doru	4. World Almanac/NPCs/Doru (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
+npc	Eamon Morcant		4. World Almanac/NPCs/Eamon Morcant.md	4. World Almanac/Settlements/Thornmere.md	healthy		
+npc	Elvir Martikov		4. World Almanac/NPCs/Elvir Martikov.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
+npc	Emil Toranescu (COS)	Emil Toranescu	4. World Almanac/NPCs/Emil Toranescu (COS).md		healthy		
+npc	Escher (COS)	Escher	4. World Almanac/NPCs/Escher (COS).md		healthy		
+npc	Exethanter (COS)	Exethanter	4. World Almanac/NPCs/Exethanter (COS).md	4. World Almanac/Places of Interest/The Amber Temple.md	healthy		
+npc	Ezmerelda Davenir (COS)	Ezmerelda d'Avenir	4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	4. World Almanac/Places of Interest/Van Richten's Tower.md	healthy		
+npc	Gadof Blinsky (COS)	Gadof Blinsky	4. World Almanac/NPCs/Gadof Blinsky (COS).md	4. World Almanac/Shops/Blinsky Toys.md	healthy		
+npc	Gertruda (COS)	Gertruda	4. World Almanac/NPCs/Gertruda (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
+npc	Helga Ruvak (COS)	Helga Ruvak	4. World Almanac/NPCs/Helga Ruvak (COS).md		healthy		
+npc	Henrik Van Der Voort (COS)	Henrik van der Voort	4. World Almanac/NPCs/Henrik Van Der Voort (COS).md		healthy		
+npc	Hesper Crane	the Quartermaster	4. World Almanac/NPCs/Hesper Crane.md	4. World Almanac/Places of Interest/The Cinderworks.md	healthy		
+npc	Ireena Kolyana (COS)	Ireena Kolyana	4. World Almanac/NPCs/Ireena Kolyana (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
+npc	Ismark Kolyanovich (COS)	Ismark Kolyanovich	4. World Almanac/NPCs/Ismark Kolyanovich (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
+npc	Izek Strazni (COS)	Izek Strazni	4. World Almanac/NPCs/Izek Strazni (COS).md	4. World Almanac/Places of Interest/Greyfen Hollow.md	healthy		
+npc	Kasimir Velikov (COS)	Kasimir Velikov	4. World Almanac/NPCs/Kasimir Velikov (COS).md		healthy		
+npc	Kiril Stoyanovich (COS)	Kiril Stoyanovich	4. World Almanac/NPCs/Kiril Stoyanovich (COS).md		dead		
+npc	Lady Fiona Wachter (COS)	Lady Fiona Wachter	4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	4. World Almanac/Places of Interest/Wachterhaus.md	healthy		
+npc	Lady Lydia Petrovna (COS)	Lady Lydia Petrovna	4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Lief Lipsiege (COS)	Lief Lipsiege	4. World Almanac/NPCs/Lief Lipsiege (COS).md		healthy		
+npc	Lord Caldris Velmont	Velmont	4. World Almanac/NPCs/Lord Caldris Velmont.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
+npc	Ludmilla Vilisevic (COS)	Ludmilla Vilisevic	4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md		healthy		
+npc	Luvash (COS)	Luvash	4. World Almanac/NPCs/Luvash (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Mab	Queen of Air and Darkness	4. World Almanac/NPCs/Mab.md		healthy		
+npc	Mad Mary (COS)	Mad Mary	4. World Almanac/NPCs/Mad Mary (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
+npc	Madam Eva (COS)	Madam Eva	4. World Almanac/NPCs/Madam Eva (COS).md	4. World Almanac/Places of Interest/Tser Pool.md	healthy		
+npc	Magister Kaelor Stormbrand	Kaelor Stormbrand	4. World Almanac/NPCs/Magister Kaelor Stormbrand.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
+npc	Majesto (COS)	Majesto	4. World Almanac/NPCs/Majesto (COS).md	4. World Almanac/Places of Interest/Wachterhaus.md	healthy		
+npc	Martin Thricefold		4. World Almanac/NPCs/Martin Thricefold.md	4. World Almanac/Settlements/Bruokdon.md	healthy		
+npc	Marzena Belview (COS)	Marzena Belview	4. World Almanac/NPCs/Marzena Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
+npc	Milivoj (COS)	Milivoj	4. World Almanac/NPCs/Milivoj (COS).md		healthy		
+npc	Mishka Belview (COS)	Mishka Belview	4. World Almanac/NPCs/Mishka Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
+npc	Mistress Lyssandra Veil		4. World Almanac/NPCs/Mistress Lyssandra Veil.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
+npc	Morgantha (COS)	Morgantha	4. World Almanac/NPCs/Morgantha (COS).md		healthy		
+npc	Naerissa	the Elder	4. World Almanac/NPCs/Naerissa.md	4. World Almanac/Settlements/Duskferry.md	healthy		Elder of a small, reclusive dusk elf community at Duskferry's edge, tending a hidden shrine to Eilistraee on a reed-bank spit downshore of the Waterline. She wa
+npc	Nikolai Wachter (COS)	Nikolai Wachter	4. World Almanac/NPCs/Nikolai Wachter (COS).md	4. World Almanac/Places of Interest/Wachterhaus.md	healthy		
+npc	Nimrie		4. World Almanac/NPCs/Nimrie.md	4. World Almanac/Settlements/Duskferry.md	healthy		A drow woman the party met at Duskferry, who recognized something in Faerah worth acting on and brought her to Naerissa and the shrine. She didn't explain herse
+npc	Ostwin Reyes	the Tallyman	4. World Almanac/NPCs/Ostwin Reyes.md	4. World Almanac/Settlements/Duskferry.md	healthy		
+npc	Otto Belview (COS)	Otto Belview	4. World Almanac/NPCs/Otto Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
+npc	Parriwimple (COS)	Parriwimple	4. World Almanac/NPCs/Parriwimple (COS).md		healthy		
+npc	Patrina Velikovna (COS)	Patrina Velikovna	4. World Almanac/NPCs/Patrina Velikovna (COS).md		healthy		
+npc	Piccolo (COS)	Piccolo	4. World Almanac/NPCs/Piccolo (COS).md		healthy		
+npc	Pidlwick Ii (COS)	Pidlwick II	4. World Almanac/NPCs/Pidlwick Ii (COS).md		healthy		
+npc	Professor Alindra Quicksilver		4. World Almanac/NPCs/Professor Alindra Quicksilver.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
+npc	Professor Gousse Windcaller		4. World Almanac/NPCs/Professor Gousse Windcaller.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
+npc	Rahadin (COS)	Rahadin	4. World Almanac/NPCs/Rahadin (COS).md		dead		
+npc	Rictavio (COS)	Rictavio	4. World Almanac/NPCs/Rictavio (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
+npc	Rosavalda Rose Durst (COS)	Rosavalda "Rose" Durst	4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md		healthy		
+npc	Sangzor (COS)	Sangzor	4. World Almanac/NPCs/Sangzor (COS).md	4. World Almanac/Places of Interest/Tsolenka Pass.md	healthy		
+npc	Savid (COS)	Savid	4. World Almanac/NPCs/Savid (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Seer Ithildra Moonveil	Ithildra Moonveil	4. World Almanac/NPCs/Seer Ithildra Moonveil.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
+npc	Sir Godfrey Gwilym (COS)	Sir Godfrey Gwilym	4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	4. World Almanac/Places of Interest/Argynvostholt.md	dead		
+npc	Stanimir (COS)	Stanimir	4. World Almanac/NPCs/Stanimir (COS).md	4. World Almanac/Places of Interest/Tser Pool.md	healthy		
+npc	Stefania Martikov		4. World Almanac/NPCs/Stefania Martikov.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
+npc	Stella Wachter (COS)	Stella Wachter	4. World Almanac/NPCs/Stella Wachter (COS).md	4. World Almanac/Places of Interest/Wachterhaus.md	healthy		
+npc	Strahd Von Zarovich (COS)	Strahd von Zarovich	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		dead		
+npc	Strahds Animated Armor (COS)	Strahd's Animated Armor	4. World Almanac/NPCs/Strahds Animated Armor (COS).md		healthy		
+npc	Szoldar Szoldarovich (COS)	Szoldar Szoldarovich	4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	The Abbot (COS)	The Abbot	4. World Almanac/NPCs/The Abbot (COS).md		healthy		
+npc	The Mad Mage Of Mount Baratok (COS)	The Mad Mage of Mount Baratok	4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md		healthy		
+npc	Thornboldt Thorn Durst (COS)	Thornboldt "Thorn" Durst	4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md		healthy		
+npc	Unfinished Amber Warden		4. World Almanac/NPCs/Unfinished Amber Warden.md	4. World Almanac/Places of Interest/Greyfen Hollow.md	healthy		
+npc	Urwin Martikov (COS)	Urwin Martikov	4. World Almanac/NPCs/Urwin Martikov (COS).md	4. World Almanac/Shops/Blue Water Inn.md	healthy		
+npc	Vasilka (COS)	Vasilka	4. World Almanac/NPCs/Vasilka (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
+npc	Victor Vallakovich (COS)	Victor Vallakovich	4. World Almanac/NPCs/Victor Vallakovich (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Vilnius (COS)	Vilnius	4. World Almanac/NPCs/Vilnius (COS).md	4. World Almanac/Places of Interest/The Amber Temple.md	healthy		
+npc	Vladimir Horngaard (COS)	Vladimir Horngaard	4. World Almanac/NPCs/Vladimir Horngaard (COS).md		healthy		
+npc	Volenta Popofsky (COS)	Volenta Popofsky	4. World Almanac/NPCs/Volenta Popofsky (COS).md		healthy		
+npc	Yevgeni Krushkin (COS)	Yevgeni Krushkin	4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Zuleika Toranescu (COS)	Zuleika Toranescu	4. World Almanac/NPCs/Zuleika Toranescu (COS).md		healthy		
+npc	Zygfrek Belview (COS)	Zygfrek Belview	4. World Almanac/NPCs/Zygfrek Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
+party	Midnight Covenant		3. The Party/Parties/Midnight Covenant.md				
+place-of-interest	Abbey of Saint Markovia		4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	4. World Almanac/Settlements/Krezk.md			
+place-of-interest	Argynvostholt		4. World Almanac/Places of Interest/Argynvostholt.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Castle Ravenloft		4. World Almanac/Places of Interest/Castle Ravenloft.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Coffin Maker's Shop		4. World Almanac/Places of Interest/Coffin Maker's Shop.md	4. World Almanac/Settlements/Vallaki.md			
+place-of-interest	Death House		4. World Almanac/Places of Interest/Death House.md	4. World Almanac/Settlements/Village of Barovia.md			
+place-of-interest	Greyfen Hollow	The Hollow	4. World Almanac/Places of Interest/Greyfen Hollow.md	4. World Almanac/Regions/Greenfall.md			A drowned stand of dead trees deep in the Greenfall marsh below Duskferry — officially nothing, unofficially the mouth of a cave system where the Silent Ascende
+place-of-interest	Lake Zarovich		4. World Almanac/Places of Interest/Lake Zarovich.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Old Bonegrinder		4. World Almanac/Places of Interest/Old Bonegrinder.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Ruins of Berez		4. World Almanac/Places of Interest/Ruins of Berez.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	St. Andral's Church		4. World Almanac/Places of Interest/St. Andral's Church.md	4. World Almanac/Settlements/Vallaki.md			
+place-of-interest	The Amber Temple		4. World Almanac/Places of Interest/The Amber Temple.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	The Cinderworks	The Old Kiln	4. World Almanac/Places of Interest/The Cinderworks.md	4. World Almanac/Settlements/Bruokdon.md			A condemned charm-foundry on Bruokdon's outskirts, officially unsafe and avoided by locals — unofficially a Silent Ascendency consolidation point for stolen mag
+place-of-interest	The Umbral Athenaeum		4. World Almanac/Places of Interest/The Umbral Athenaeum.md	4. World Almanac/Settlements/Bruokdon.md			
+place-of-interest	The Wizard of Wines		4. World Almanac/Places of Interest/The Wizard of Wines.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Tser Pool		4. World Almanac/Places of Interest/Tser Pool.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Tsolenka Pass		4. World Almanac/Places of Interest/Tsolenka Pass.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Van Richten's Tower		4. World Almanac/Places of Interest/Van Richten's Tower.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Wachterhaus		4. World Almanac/Places of Interest/Wachterhaus.md	4. World Almanac/Settlements/Vallaki.md			
+place-of-interest	Werewolf Den		4. World Almanac/Places of Interest/Werewolf Den.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Yester Hill		4. World Almanac/Places of Interest/Yester Hill.md	4. World Almanac/Regions/Barovia.md			
+player	Faerah Duskrane		3. The Party/Players/Faerah Duskrane.md	4. World Almanac/Settlements/Bruokdon.md	active		
+player	Marin		3. The Party/Players/Marin.md	4. World Almanac/Settlements/Thornmere.md	inactive		
+player	Redgrave		3. The Party/Players/Redgrave.md	4. World Almanac/Settlements/Bruokdon.md	active		
+player	Roark Battleborn		3. The Party/Players/Roark Battleborn.md	4. World Almanac/Settlements/Bruokdon.md	active		
+player	Seluvis Felo'melorn		3. The Party/Players/Seluvis Felo'melorn.md	4. World Almanac/Places of Interest/Castle Ravenloft.md	inactive		
+player	Wisp		3. The Party/Players/Wisp.md	4. World Almanac/Settlements/Bruokdon.md	active		
+player	Yevelda Ovak		3. The Party/Players/Yevelda Ovak.md	4. World Almanac/Settlements/Bruokdon.md	active		
+quest	The Ones Who Were Forgotten		3. The Party/Quests/The Ones Who Were Forgotten.md		completed		
+quest	The Second Ledger		3. The Party/Quests/The Second Ledger.md		active		
+quest	The Well of Many Worlds		3. The Party/Quests/The Well of Many Worlds.md		active		
+region	Barovia		4. World Almanac/Regions/Barovia.md	4. World Almanac/Worlds/Eldoria.md			
+region	Greenfall		4. World Almanac/Regions/Greenfall.md	4. World Almanac/Worlds/Eldoria.md			
+settlement	Bruokdon	The Spellforge City	4. World Almanac/Settlements/Bruokdon.md	4. World Almanac/Regions/Greenfall.md			
+settlement	Duskferry		4. World Almanac/Settlements/Duskferry.md	4. World Almanac/Regions/Greenfall.md			A river-crossing trade town downstream of Bruokdon, run by a ferrymen's guild that profits from asking no questions — the last reliable checkpoint before goods
+settlement	Krezk		4. World Almanac/Settlements/Krezk.md	4. World Almanac/Regions/Barovia.md			
+settlement	Thornmere		4. World Almanac/Settlements/Thornmere.md	4. World Almanac/Regions/Greenfall.md			
+settlement	Vallaki		4. World Almanac/Settlements/Vallaki.md	4. World Almanac/Regions/Barovia.md			Hello
+settlement	Village of Barovia		4. World Almanac/Settlements/Village of Barovia.md	4. World Almanac/Regions/Barovia.md			
+shop	Bildrath's Mercantile		4. World Almanac/Shops/Bildrath's Mercantile.md	4. World Almanac/Settlements/Village of Barovia.md			
+shop	Blinsky Toys		4. World Almanac/Shops/Blinsky Toys.md	4. World Almanac/Settlements/Vallaki.md			
+shop	Blood of the Vine Tavern		4. World Almanac/Shops/Blood of the Vine Tavern.md	4. World Almanac/Settlements/Village of Barovia.md			
+shop	Blue Water Inn		4. World Almanac/Shops/Blue Water Inn.md	4. World Almanac/Settlements/Vallaki.md			
+shop	Golden Hammer		4. World Almanac/Shops/Golden Hammer.md	4. World Almanac/Settlements/Bruokdon.md			
+world	Eldoria		4. World Almanac/Worlds/Eldoria.md				

@@ -1,0 +1,569 @@
+source	type	target	learned_by	note
+1. DM Toolkit/Campaigns/The Hunt for Vecna.md	party	3. The Party/Parties/Midnight Covenant.md		
+1. DM Toolkit/Campaigns/The Hunt for Vecna.md	world	4. World Almanac/Worlds/Eldoria.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md	session-visited	4. World Almanac/Settlements/Village of Barovia.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	session-visited	4. World Almanac/Settlements/Village of Barovia.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	session-visited	4. World Almanac/Places of Interest/Castle Ravenloft.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	session-met	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	session-met	4. World Almanac/NPCs/Victor Vallakovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	session-met	4. World Almanac/NPCs/Ismark Kolyanovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	session-met	4. World Almanac/NPCs/Gertruda (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	session-met	4. World Almanac/NPCs/Mad Mary (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-12-30.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S11 Deal with the Devil.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S11 Deal with the Devil.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-12-31.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md	session-visited	4. World Almanac/Places of Interest/Van Richten's Tower.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md	session-met	4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md	session-met	4. World Almanac/NPCs/Lady Fiona Wachter (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md	session-met	4. World Almanac/NPCs/Yevgeni Krushkin (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md	session-met	4. World Almanac/NPCs/Urwin Martikov (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md	session-met	4. World Almanac/NPCs/Gadof Blinsky (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-01-21.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	session-visited	4. World Almanac/Places of Interest/Van Richten's Tower.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	session-met	4. World Almanac/NPCs/Kiril Stoyanovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	session-met	4. World Almanac/NPCs/Ireena Kolyana (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	session-met	4. World Almanac/NPCs/Izek Strazni (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	session-met	4. World Almanac/NPCs/Rictavio (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	session-met	4. World Almanac/NPCs/Rahadin (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-02-24.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md	session-visited	4. World Almanac/Places of Interest/Van Richten's Tower.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md	session-met	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md	session-met	4. World Almanac/NPCs/Rictavio (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-03-09.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md	session-visited	4. World Almanac/Places of Interest/Van Richten's Tower.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md	session-met	4. World Almanac/NPCs/Kiril Stoyanovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md	session-met	4. World Almanac/NPCs/Ezmerelda Davenir (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md	session-met	4. World Almanac/NPCs/Izek Strazni (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-03-30.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md	session-visited	4. World Almanac/Places of Interest/Argynvostholt.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md	session-met	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md	session-met	4. World Almanac/NPCs/Vladimir Horngaard (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md	session-met	4. World Almanac/NPCs/Ezmerelda Davenir (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md	session-met	4. World Almanac/NPCs/Ireena Kolyana (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md	session-met	4. World Almanac/NPCs/Izek Strazni (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md	session-met	4. World Almanac/NPCs/Savid (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-04-13.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S17 Secrets long Dead.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S17 Secrets long Dead.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S17 Secrets long Dead.md	session-visited	4. World Almanac/Places of Interest/Argynvostholt.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S17 Secrets long Dead.md	session-visited	4. World Almanac/Places of Interest/Ruins of Berez.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S17 Secrets long Dead.md	session-met	4. World Almanac/NPCs/Ireena Kolyana (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S17 Secrets long Dead.md	session-met	4. World Almanac/NPCs/Savid (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S17 Secrets long Dead.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-05-11.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-visited	4. World Almanac/Places of Interest/Ruins of Berez.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-met	4. World Almanac/NPCs/Baba Lysaga (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-met	4. World Almanac/NPCs/Madam Eva (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-05-26.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S19 Temple of Darkness.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S19 Temple of Darkness.md	session-visited	4. World Almanac/Places of Interest/The Amber Temple.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S19 Temple of Darkness.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-06-29.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S2 Secrets in the Dark.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S2 Secrets in the Dark.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S2 Secrets in the Dark.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S2 Secrets in the Dark.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S2 Secrets in the Dark.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S2 Secrets in the Dark.md	session-visited	4. World Almanac/Settlements/Village of Barovia.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S20 Escape the Darkness.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S20 Escape the Darkness.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S20 Escape the Darkness.md	session-visited	4. World Almanac/Places of Interest/The Amber Temple.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S20 Escape the Darkness.md	session-met	4. World Almanac/NPCs/Exethanter (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S20 Escape the Darkness.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-07-13.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S21 Crossing the Bridge.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S21 Crossing the Bridge.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S21 Crossing the Bridge.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S21 Crossing the Bridge.md	session-visited	4. World Almanac/Places of Interest/Tsolenka Pass.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S21 Crossing the Bridge.md	session-met	4. World Almanac/NPCs/Savid (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S21 Crossing the Bridge.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-07-27.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S22 Ghostly Past.md	session-visited	4. World Almanac/Places of Interest/Ruins of Berez.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S22 Ghostly Past.md	session-met	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S22 Ghostly Past.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-08-17.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S23 Thieves in the Bog.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S23 Thieves in the Bog.md	session-visited	4. World Almanac/Places of Interest/Ruins of Berez.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S23 Thieves in the Bog.md	session-met	4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S23 Thieves in the Bog.md	session-met	4. World Almanac/NPCs/Baba Lysaga (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S23 Thieves in the Bog.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-09-14.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S24 Secret Allies.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S24 Secret Allies.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S24 Secret Allies.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S24 Secret Allies.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S24 Secret Allies.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S24 Secret Allies.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S24 Secret Allies.md	session-met	4. World Almanac/NPCs/Urwin Martikov (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S24 Secret Allies.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-10-05.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S25 The Calm before the Storm.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S25 The Calm before the Storm.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S25 The Calm before the Storm.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S25 The Calm before the Storm.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S25 The Calm before the Storm.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S25 The Calm before the Storm.md	session-visited	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S25 The Calm before the Storm.md	session-met	4. World Almanac/NPCs/The Abbot (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S25 The Calm before the Storm.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-10-19.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S26 Shopping Day.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S26 Shopping Day.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S26 Shopping Day.md	session-visited	4. World Almanac/Settlements/Krezk.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S26 Shopping Day.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-10-26.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S27 Trip to the Winery.md	session-visited	4. World Almanac/Settlements/Krezk.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S27 Trip to the Winery.md	session-visited	4. World Almanac/Places of Interest/The Wizard of Wines.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S27 Trip to the Winery.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2024-12-06.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S28 The Siege on the Winery.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S28 The Siege on the Winery.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S28 The Siege on the Winery.md	session-visited	4. World Almanac/Places of Interest/The Wizard of Wines.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S29 Yester Hill Ritual.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S29 Yester Hill Ritual.md	session-visited	4. World Almanac/Places of Interest/The Wizard of Wines.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S29 Yester Hill Ritual.md	session-visited	4. World Almanac/Places of Interest/Yester Hill.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S29 Yester Hill Ritual.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2025-01-19.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md	session-visited	4. World Almanac/Settlements/Village of Barovia.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md	session-met	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md	session-met	4. World Almanac/NPCs/Ismark Kolyanovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md	session-met	4. World Almanac/NPCs/Ireena Kolyana (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S30 Second Gem Found.md	session-visited	4. World Almanac/Places of Interest/Yester Hill.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S30 Second Gem Found.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2025-02-21.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S31 Preparing for the End.md	session-present	3. The Party/Players/Seluvis Felo'melorn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S31 Preparing for the End.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S31 Preparing for the End.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S31 Preparing for the End.md	session-visited	4. World Almanac/Places of Interest/The Wizard of Wines.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S31 Preparing for the End.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S31 Preparing for the End.md	session-met	4. World Almanac/NPCs/Ezmerelda Davenir (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S31 Preparing for the End.md	session-met	4. World Almanac/NPCs/The Abbot (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S31 Preparing for the End.md	session-met	4. World Almanac/NPCs/Rictavio (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S31 Preparing for the End.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2025-02-28.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S32 Into the Lion's Den.md	session-visited	4. World Almanac/Places of Interest/Castle Ravenloft.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S32 Into the Lion's Den.md	session-met	4. World Almanac/NPCs/Ezmerelda Davenir (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S32 Into the Lion's Den.md	session-met	4. World Almanac/NPCs/Rictavio (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S32 Into the Lion's Den.md	session-met	4. World Almanac/NPCs/Rahadin (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S32 Into the Lion's Den.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2025-03-15.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S33 The Fall of Strahd.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S33 The Fall of Strahd.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S33 The Fall of Strahd.md	session-met	4. World Almanac/NPCs/Ezmerelda Davenir (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S33 The Fall of Strahd.md	session-met	4. World Almanac/NPCs/Nikolai Wachter (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S33 The Fall of Strahd.md	session-met	4. World Almanac/NPCs/Emil Toranescu (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S33 The Fall of Strahd.md	session-met	4. World Almanac/NPCs/Rictavio (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S33 The Fall of Strahd.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2025-10-25.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S34 Farewell to Barovia.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S34 Farewell to Barovia.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S34 Farewell to Barovia.md	session-met	4. World Almanac/NPCs/Rictavio (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S34 Farewell to Barovia.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2025-12-21.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S35 The Forgotten Man of Thornmere.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S35 The Forgotten Man of Thornmere.md	session-visited	4. World Almanac/Settlements/Thornmere.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S35 The Forgotten Man of Thornmere.md	session-met	4. World Almanac/NPCs/Eamon Morcant.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S35 The Forgotten Man of Thornmere.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2026-01-11.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S36 The Big City.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S36 The Big City.md	session-present	3. The Party/Players/Wisp.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S36 The Big City.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S36 The Big City.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S37 The Vanishing Scholar.md	session-present	3. The Party/Players/Wisp.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S37 The Vanishing Scholar.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S37 The Vanishing Scholar.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-04-11.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S38 Into the Kidnappers' Den.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S38 Into the Kidnappers' Den.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S38 Into the Kidnappers' Den.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2026-04-11.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S39 The Freeing of Martin Thricefold.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S39 The Freeing of Martin Thricefold.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S39 The Freeing of Martin Thricefold.md	session-met	4. World Almanac/NPCs/Martin Thricefold.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S39 The Freeing of Martin Thricefold.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-02.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S4 Knowing the Road.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S4 Knowing the Road.md	session-present	3. The Party/Players/Marin.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S4 Knowing the Road.md	session-visited	4. World Almanac/Places of Interest/Tser Pool.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S4 Knowing the Road.md	session-met	4. World Almanac/NPCs/Madam Eva (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S40 Secrets of the Silent Ascendency.md	session-present	3. The Party/Players/Roark Battleborn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S40 Secrets of the Silent Ascendency.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S40 Secrets of the Silent Ascendency.md	session-met	4. World Almanac/NPCs/Professor Gousse Windcaller.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S40 Secrets of the Silent Ascendency.md	prep	z_Templates/Templater/DM Prep/Session Prep.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S41 The Warehouse Raid.md	session-present	3. The Party/Players/Wisp.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S41 The Warehouse Raid.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S41 The Warehouse Raid.md	prep	1. DM Toolkit/Session Prep/Midnight Covenant/2026-05-30.md (UNRESOLVED)		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S42 Unmasking Lord Velmont.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S42 Unmasking Lord Velmont.md	session-present	3. The Party/Players/Wisp.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S42 Unmasking Lord Velmont.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S42 Unmasking Lord Velmont.md	session-met	4. World Almanac/NPCs/Lord Caldris Velmont.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S42 Unmasking Lord Velmont.md	prep	z_Templates/Templater/DM Prep/Session Prep.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	session-present	3. The Party/Players/Roark Battleborn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	session-present	3. The Party/Players/Wisp.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	session-met	4. World Almanac/NPCs/Professor Gousse Windcaller.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	session-met	4. World Almanac/NPCs/Mistress Lyssandra Veil.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	session-met	4. World Almanac/NPCs/Lord Caldris Velmont.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md	prep	z_Templates/Templater/DM Prep/Session Prep.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-present	3. The Party/Players/Roark Battleborn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-present	3. The Party/Players/Wisp.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-visited	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-met	4. World Almanac/NPCs/Professor Gousse Windcaller.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-met	4. World Almanac/NPCs/Lord Caldris Velmont.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-met	4. World Almanac/NPCs/Marrow.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-met	4. World Almanac/NPCs/Corwin Vantor.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	session-met	4. World Almanac/NPCs/Mistress Lyssandra Veil.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-01.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-present	3. The Party/Players/Wisp.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-present	3. The Party/Players/Roark Battleborn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-visited	4. World Almanac/Settlements/Bruokdon.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-visited	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-visited	4. World Almanac/Places of Interest/The Cinderworks.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-met	4. World Almanac/NPCs/Lord Caldris Velmont.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-met	4. World Almanac/NPCs/Hesper Crane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-met	4. World Almanac/NPCs/Professor Alindra Quicksilver.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-touched	3. The Party/Quests/The Second Ledger.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-found	5. Mechanics/Items/Potion Of Healing.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-found	5. Mechanics/Items/Potion Of Greater Healing.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-found	5. Mechanics/Items/Salamander Fire (HHHVI).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-found	5. Mechanics/Items/Dust Of Disappearance.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-found	5. Mechanics/Items/Cloak Of The Manta Ray.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-found	5. Mechanics/Items/Sending Stones.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	session-found	5. Mechanics/Items/Ring Of Protection.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-08-22.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-present	3. The Party/Players/Wisp.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-present	3. The Party/Players/Roark Battleborn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-visited	4. World Almanac/Settlements/Duskferry.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-visited	4. World Almanac/Places of Interest/Greyfen Hollow.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-met	4. World Almanac/NPCs/Nimrie.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-met	4. World Almanac/NPCs/Naerissa.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	session-touched	3. The Party/Quests/The Second Ledger.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-09-05.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S47 New Session Journal.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S47 New Session Journal.md	session-present	3. The Party/Players/Wisp.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S47 New Session Journal.md	session-present	3. The Party/Players/Roark Battleborn.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S47 New Session Journal.md	session-present	3. The Party/Players/Redgrave.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S47 New Session Journal.md	session-present	3. The Party/Players/Faerah Duskrane.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S47 New Session Journal.md	session-visited	4. World Almanac/Places of Interest/Greyfen Hollow.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S47 New Session Journal.md	session-touched	3. The Party/Quests/The Second Ledger.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S48 New Session Journal.md	session-visited	4. World Almanac/Places of Interest/Greyfen Hollow.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S48 New Session Journal.md	session-met	4. World Almanac/NPCs/Izek Strazni (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S48 New Session Journal.md	session-touched	3. The Party/Quests/The Second Ledger.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S48 New Session Journal.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-10-17.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S5 Never Trust a Hunter.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S5 Never Trust a Hunter.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-09-17.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	session-met	4. World Almanac/NPCs/Victor Vallakovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	session-met	4. World Almanac/NPCs/Lady Fiona Wachter (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	session-met	4. World Almanac/NPCs/Ireena Kolyana (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	session-met	4. World Almanac/NPCs/Izek Strazni (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	session-met	4. World Almanac/NPCs/Gertruda (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	session-met	4. World Almanac/NPCs/Rictavio (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	session-met	4. World Almanac/NPCs/Milivoj (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-11-04.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S7 Making Friends with the Necromancer.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S7 Making Friends with the Necromancer.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-11-10.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S8 Meeting Strahd.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S8 Meeting Strahd.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-11-25.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md	session-present	3. The Party/Players/Yevelda Ovak.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md	session-visited	4. World Almanac/Settlements/Vallaki.md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md	session-met	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md	session-met	4. World Almanac/NPCs/Victor Vallakovich (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md	session-met	4. World Almanac/NPCs/Izek Strazni (COS).md		
+1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-12-16.md		
+1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-09-17.md	journal	1. DM Toolkit/Session Journals/The Hunt for Vecna/S5 Never Trust a Hunter.md		
+1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-11-04.md	journal	1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md		
+1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-11-10.md	journal	1. DM Toolkit/Session Journals/The Hunt for Vecna/S7 Making Friends with the Necromancer.md		
+1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-11-25.md	journal	1. DM Toolkit/Session Journals/The Hunt for Vecna/S8 Meeting Strahd.md		
+1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-12-16.md	journal	1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md		
+1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-12-30.md	journal	1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md		
+1. DM Toolkit/Session Prep/The Hunt for Vecna/2023-12-31.md	journal	1. DM Toolkit/Session Journals/The Hunt for Vecna/S11 Deal with the Devil.md		
+1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-01-21.md	journal	1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md		
+3. The Party/Players/Faerah Duskrane.md	location	4. World Almanac/Settlements/Bruokdon.md		
+3. The Party/Players/Faerah Duskrane.md	party	3. The Party/Parties/Midnight Covenant.md		
+3. The Party/Players/Marin.md	location	4. World Almanac/Settlements/Thornmere.md		
+3. The Party/Players/Marin.md	party	3. The Party/Parties/Midnight Covenant.md		
+3. The Party/Players/Redgrave.md	location	4. World Almanac/Settlements/Bruokdon.md		
+3. The Party/Players/Redgrave.md	party	3. The Party/Parties/Midnight Covenant.md		
+3. The Party/Players/Roark Battleborn.md	location	4. World Almanac/Settlements/Bruokdon.md		
+3. The Party/Players/Roark Battleborn.md	party	3. The Party/Parties/Midnight Covenant.md		
+3. The Party/Players/Seluvis Felo'melorn.md	location	4. World Almanac/Places of Interest/Castle Ravenloft.md		
+3. The Party/Players/Seluvis Felo'melorn.md	party	3. The Party/Parties/Midnight Covenant.md		
+3. The Party/Players/Wisp.md	location	4. World Almanac/Settlements/Bruokdon.md		
+3. The Party/Players/Wisp.md	party	3. The Party/Parties/Midnight Covenant.md		
+3. The Party/Players/Yevelda Ovak.md	location	4. World Almanac/Settlements/Bruokdon.md		
+3. The Party/Players/Yevelda Ovak.md	party	3. The Party/Parties/Midnight Covenant.md		
+3. The Party/Quests/The Ones Who Were Forgotten.md	world	4. World Almanac/Worlds/Eldoria.md		
+3. The Party/Quests/The Ones Who Were Forgotten.md	quest-npc	4. World Almanac/NPCs/Eamon Morcant.md		Greets the party as they enter the village and recognizes them by name. No one else in the village knows who he is.
+3. The Party/Quests/The Second Ledger.md	world	4. World Almanac/Worlds/Eldoria.md		
+3. The Party/Quests/The Second Ledger.md	quest-npc	4. World Almanac/NPCs/Lord Caldris Velmont.md		Proposes and leads the ruse. Genuinely wants the Ascendency hurt; not above quietly serving himself if the chance costs him nothing.
+3. The Party/Quests/The Second Ledger.md	quest-npc	4. World Almanac/NPCs/Hesper Crane.md		The Cinderworks' quartermaster. Never met the real Velmont in person, tests via password if suspicious, breaks if the ruse fails twice.
+3. The Party/Quests/The Second Ledger.md	quest-npc	4. World Almanac/NPCs/Ostwin Reyes.md		The Duskferry lead named in Crane's ledger, known to the party only by his code name "the Tallyman" until they earn the real identity. Not yet met.
+3. The Party/Quests/The Second Ledger.md	quest-npc	4. World Almanac/NPCs/Anselm Corrow.md		Duskferry's Guildmaster — not part of the Ascendency, a potential honest ally if approached directly. Not yet met.
+3. The Party/Quests/The Well of Many Worlds.md	world	4. World Almanac/Worlds/Eldoria.md		
+3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Professor Gousse Windcaller.md		Guides the party through the Well of Many Worlds' resonance principle and the planned route.
+3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Baba Lysaga (COS).md		Ambushes the party in the Feywild, disguised as a fey bargain-broker, in revenge for Strahd's death.
+3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Mab.md		Ruler of the Gloaming Court; arrives once Lysaga flees to collect on the bargain that made the ambush possible.
+4. World Almanac/NPCs/Adrian Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
+4. World Almanac/NPCs/Adrian Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
+4. World Almanac/NPCs/Adrian Martikov.md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
+4. World Almanac/NPCs/Amber Warden.md	member	Silent Ascendency (UNRESOLVED)		
+4. World Almanac/NPCs/Anastrasya Karelova (COS).md	member	Strahd's brides (UNRESOLVED)		
+4. World Almanac/NPCs/Anselm Corrow.md	location	4. World Almanac/Settlements/Duskferry.md		
+4. World Almanac/NPCs/Anselm Corrow.md	member	Ferrymen's Guild (UNRESOLVED)		
+4. World Almanac/NPCs/Arabelle (COS).md	location	4. World Almanac/Places of Interest/Lake Zarovich.md		
+4. World Almanac/NPCs/Arabelle (COS).md	member	Vistani (Vallaki camp) (UNRESOLVED)		
+4. World Almanac/NPCs/Archmortician Valeris Thorne.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+4. World Almanac/NPCs/Archmortician Valeris Thorne.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Archwarden Selvara Kain.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+4. World Almanac/NPCs/Archwarden Selvara Kain.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Arrigal (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Arrigal (COS).md	member	Vistani (Vallaki camp) (UNRESOLVED)		
+4. World Almanac/NPCs/Baba Lysaga (COS).md	location	4. World Almanac/Places of Interest/Ruins of Berez.md		
+4. World Almanac/NPCs/Baba Lysaga (COS).md	ally of convenience	4. World Almanac/NPCs/Mab.md		
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	member	House Vallakovich (UNRESOLVED)		
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Bluto Krogarov (COS).md	location	4. World Almanac/Places of Interest/Lake Zarovich.md		
+4. World Almanac/NPCs/Bray Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
+4. World Almanac/NPCs/Bray Martikov (COS).md	father	4. World Almanac/NPCs/Urwin Martikov (COS).md		
+4. World Almanac/NPCs/Bray Martikov (COS).md	mother	4. World Almanac/NPCs/Danika Dorakova (COS).md		
+4. World Almanac/NPCs/Bray Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Brom Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
+4. World Almanac/NPCs/Brom Martikov (COS).md	father	4. World Almanac/NPCs/Urwin Martikov (COS).md		
+4. World Almanac/NPCs/Brom Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Clovin Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Clovin Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Clovin Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Corwin Vantor.md	location	4. World Almanac/Settlements/Bruokdon.md		
+4. World Almanac/NPCs/Cyrus Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Cyrus Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Cyrus Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Dag Tomescu.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
+4. World Almanac/NPCs/Dag Tomescu.md	wife	4. World Almanac/NPCs/Stefania Martikov.md		
+4. World Almanac/NPCs/Danika Dorakova (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
+4. World Almanac/NPCs/Danika Dorakova (COS).md	husband	4. World Almanac/NPCs/Urwin Martikov (COS).md		
+4. World Almanac/NPCs/Danika Dorakova (COS).md	son	4. World Almanac/NPCs/Bray Martikov (COS).md		
+4. World Almanac/NPCs/Danika Dorakova (COS).md	son	4. World Almanac/NPCs/Brom Martikov (COS).md		
+4. World Almanac/NPCs/Danika Dorakova (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Davian Martikov (COS).md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
+4. World Almanac/NPCs/Davian Martikov (COS).md	son	4. World Almanac/NPCs/Adrian Martikov.md		
+4. World Almanac/NPCs/Davian Martikov (COS).md	son	4. World Almanac/NPCs/Elvir Martikov.md		
+4. World Almanac/NPCs/Davian Martikov (COS).md	son	4. World Almanac/NPCs/Urwin Martikov (COS).md		
+4. World Almanac/NPCs/Davian Martikov (COS).md	daughter	4. World Almanac/NPCs/Stefania Martikov.md		
+4. World Almanac/NPCs/Davian Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Donavich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Donavich (COS).md	member	Clergy of the Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Donavich (COS).md	worships	Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Doru (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Eamon Morcant.md	location	4. World Almanac/Settlements/Thornmere.md		
+4. World Almanac/NPCs/Elvir Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
+4. World Almanac/NPCs/Elvir Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
+4. World Almanac/NPCs/Emil Toranescu (COS).md	member	Children of Mother Night (UNRESOLVED)		
+4. World Almanac/NPCs/Emil Toranescu (COS).md	worships	Mother Night (UNRESOLVED)		
+4. World Almanac/NPCs/Exethanter (COS).md	location	4. World Almanac/Places of Interest/The Amber Temple.md		
+4. World Almanac/NPCs/Exethanter (COS).md	member	The Amber Temple's original order of wizards (last survivor) (UNRESOLVED)		
+4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	location	4. World Almanac/Places of Interest/Van Richten's Tower.md		
+4. World Almanac/NPCs/Gadof Blinsky (COS).md	location	4. World Almanac/Shops/Blinsky Toys.md		
+4. World Almanac/NPCs/Gertruda (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Hesper Crane.md	location	4. World Almanac/Places of Interest/The Cinderworks.md		
+4. World Almanac/NPCs/Hesper Crane.md	member	Silent Ascendency (UNRESOLVED)		
+4. World Almanac/NPCs/Ireena Kolyana (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Ismark Kolyanovich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Izek Strazni (COS).md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
+4. World Almanac/NPCs/Izek Strazni (COS).md	member	Vecna's claimed (UNRESOLVED)		
+4. World Almanac/NPCs/Izek Strazni (COS).md	member	Baron Vallakovich's household (former) (UNRESOLVED)		
+4. World Almanac/NPCs/Kasimir Velikov (COS).md	member	Vistani (adopted) (UNRESOLVED)		
+4. World Almanac/NPCs/Kasimir Velikov (COS).md	member	Dusk elves (last of) (UNRESOLVED)		
+4. World Almanac/NPCs/Kiril Stoyanovich (COS).md	member	Children of Mother Night (UNRESOLVED)		
+4. World Almanac/NPCs/Kiril Stoyanovich (COS).md	worships	Mother Night (UNRESOLVED)		
+4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
+4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	member	House Wachter (UNRESOLVED)		
+4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	member	Loyalists of House von Zarovich (UNRESOLVED)		
+4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	worships	Devil worship (a cult of her own founding) (UNRESOLVED)		
+4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	member	House Vallakovich (UNRESOLVED)		
+4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	member	House Petrovich (UNRESOLVED)		
+4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Lord Caldris Velmont.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+4. World Almanac/NPCs/Lord Caldris Velmont.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md	member	Strahd's brides (UNRESOLVED)		
+4. World Almanac/NPCs/Luvash (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Luvash (COS).md	member	Vistani (Vallaki camp) (UNRESOLVED)		
+4. World Almanac/NPCs/Mab.md	ally of convenience	4. World Almanac/NPCs/Baba Lysaga (COS).md		
+4. World Almanac/NPCs/Mab.md	member	Gloaming Court (UNRESOLVED)		
+4. World Almanac/NPCs/Mad Mary (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Madam Eva (COS).md	location	4. World Almanac/Places of Interest/Tser Pool.md		
+4. World Almanac/NPCs/Magister Kaelor Stormbrand.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+4. World Almanac/NPCs/Magister Kaelor Stormbrand.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Majesto (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
+4. World Almanac/NPCs/Majesto (COS).md	member	Fiona Wachter’s Cult (UNRESOLVED)		
+4. World Almanac/NPCs/Martin Thricefold.md	location	4. World Almanac/Settlements/Bruokdon.md		
+4. World Almanac/NPCs/Marzena Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Marzena Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Marzena Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Milivoj (COS).md	member	4. World Almanac/Places of Interest/St. Andral's Church.md		
+4. World Almanac/NPCs/Mishka Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Mishka Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Mishka Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Mistress Lyssandra Veil.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+4. World Almanac/NPCs/Mistress Lyssandra Veil.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Morgantha (COS).md	member	Morgantha's Coven (UNRESOLVED)		
+4. World Almanac/NPCs/Morgantha (COS).md	worships	Ceithlenn of the Crooked Teeth (UNRESOLVED)		
+4. World Almanac/NPCs/Naerissa.md	location	4. World Almanac/Settlements/Duskferry.md		
+4. World Almanac/NPCs/Naerissa.md	member	The Unbroken Circle (UNRESOLVED)		
+4. World Almanac/NPCs/Naerissa.md	member	Dusk Elves of Duskferry (UNRESOLVED)		
+4. World Almanac/NPCs/Naerissa.md	worships	5. Mechanics/Deities/Drow Eilistraee (MTF).md		
+4. World Almanac/NPCs/Nikolai Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
+4. World Almanac/NPCs/Nikolai Wachter (COS).md	member	House Wachter (UNRESOLVED)		
+4. World Almanac/NPCs/Nimrie.md	location	4. World Almanac/Settlements/Duskferry.md		
+4. World Almanac/NPCs/Nimrie.md	worships	5. Mechanics/Deities/Drow Eilistraee (MTF).md		
+4. World Almanac/NPCs/Ostwin Reyes.md	location	4. World Almanac/Settlements/Duskferry.md		
+4. World Almanac/NPCs/Ostwin Reyes.md	member	Ferrymen's Guild (UNRESOLVED)		
+4. World Almanac/NPCs/Ostwin Reyes.md	member	Silent Ascendency (UNRESOLVED)		
+4. World Almanac/NPCs/Otto Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Otto Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Otto Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Patrina Velikovna (COS).md	member	Dusk elves of Barovia (UNRESOLVED)		
+4. World Almanac/NPCs/Patrina Velikovna (COS).md	worships	The nameless god of secrets (UNRESOLVED)		
+4. World Almanac/NPCs/Professor Alindra Quicksilver.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+4. World Almanac/NPCs/Professor Alindra Quicksilver.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Professor Gousse Windcaller.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+4. World Almanac/NPCs/Professor Gousse Windcaller.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Rahadin (COS).md	member	Von Zarovich family (honorary) (UNRESOLVED)		
+4. World Almanac/NPCs/Rictavio (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Rictavio (COS).md	member	Keepers of the Feather (ally) (UNRESOLVED)		
+4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md	member	Durst Family (UNRESOLVED)		
+4. World Almanac/NPCs/Sangzor (COS).md	location	4. World Almanac/Places of Interest/Tsolenka Pass.md		
+4. World Almanac/NPCs/Savid (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Savid (COS).md	member	Dusk elves (last of) (UNRESOLVED)		
+4. World Almanac/NPCs/Savid (COS).md	member	Vistani (Vallaki camp, allied) (UNRESOLVED)		
+4. World Almanac/NPCs/Seer Ithildra Moonveil.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+4. World Almanac/NPCs/Seer Ithildra Moonveil.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	location	4. World Almanac/Places of Interest/Argynvostholt.md		
+4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	member	Order of the Silver Dragon (UNRESOLVED)		
+4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Stanimir (COS).md	location	4. World Almanac/Places of Interest/Tser Pool.md		
+4. World Almanac/NPCs/Stanimir (COS).md	member	Vistani (Tser Pool camp) (UNRESOLVED)		
+4. World Almanac/NPCs/Stefania Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
+4. World Almanac/NPCs/Stefania Martikov.md	husband	4. World Almanac/NPCs/Dag Tomescu.md		
+4. World Almanac/NPCs/Stefania Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
+4. World Almanac/NPCs/Stella Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
+4. World Almanac/NPCs/Stella Wachter (COS).md	member	House Wachter (UNRESOLVED)		
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	member	House von Zarovich (UNRESOLVED)		
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	worships	Dark Powers of the Shadowfell (pact) (UNRESOLVED)		
+4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	member	Vallaki wolf hunters (UNRESOLVED)		
+4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	member	Circle of Eight (UNRESOLVED)		
+4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md	member	Durst Family (UNRESOLVED)		
+4. World Almanac/NPCs/Unfinished Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
+4. World Almanac/NPCs/Unfinished Amber Warden.md	member	Silent Ascendency (UNRESOLVED)		
+4. World Almanac/NPCs/Urwin Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
+4. World Almanac/NPCs/Urwin Martikov (COS).md	wife	4. World Almanac/NPCs/Danika Dorakova (COS).md		
+4. World Almanac/NPCs/Urwin Martikov (COS).md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
+4. World Almanac/NPCs/Urwin Martikov (COS).md	son	4. World Almanac/NPCs/Bray Martikov (COS).md		
+4. World Almanac/NPCs/Urwin Martikov (COS).md	son	4. World Almanac/NPCs/Brom Martikov (COS).md		
+4. World Almanac/NPCs/Urwin Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Vasilka (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Vasilka (COS).md	member	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Victor Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Victor Vallakovich (COS).md	member	House Vallakovich (UNRESOLVED)		
+4. World Almanac/NPCs/Vilnius (COS).md	location	4. World Almanac/Places of Interest/The Amber Temple.md		
+4. World Almanac/NPCs/Vilnius (COS).md	member	Jakarion's expedition (Amber Temple) (UNRESOLVED)		
+4. World Almanac/NPCs/Vladimir Horngaard (COS).md	member	Order of the Silver Dragon (UNRESOLVED)		
+4. World Almanac/NPCs/Volenta Popofsky (COS).md	member	Strahd's brides (UNRESOLVED)		
+4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	member	Vallaki wolf hunters (UNRESOLVED)		
+4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Zuleika Toranescu (COS).md	member	Children of Mother Night (UNRESOLVED)		
+4. World Almanac/NPCs/Zuleika Toranescu (COS).md	worships	Mother Night (UNRESOLVED)		
+4. World Almanac/NPCs/Zygfrek Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Zygfrek Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Zygfrek Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
+4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	location	4. World Almanac/Settlements/Krezk.md		
+4. World Almanac/Places of Interest/Argynvostholt.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/Castle Ravenloft.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/Coffin Maker's Shop.md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/Places of Interest/Death House.md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/Places of Interest/Greyfen Hollow.md	location	4. World Almanac/Regions/Greenfall.md		
+4. World Almanac/Places of Interest/Lake Zarovich.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/Old Bonegrinder.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/Ruins of Berez.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/St. Andral's Church.md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/Places of Interest/The Amber Temple.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/The Amber Temple.md	route	4. World Almanac/Regions/Barovia.md		5 mi
+4. World Almanac/Places of Interest/The Cinderworks.md	location	4. World Almanac/Settlements/Bruokdon.md		
+4. World Almanac/Places of Interest/The Umbral Athenaeum.md	location	4. World Almanac/Settlements/Bruokdon.md		
+4. World Almanac/Places of Interest/The Wizard of Wines.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/Tser Pool.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/Tsolenka Pass.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/Van Richten's Tower.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/Wachterhaus.md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/Places of Interest/Werewolf Den.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Places of Interest/Yester Hill.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Regions/Barovia.md	location	4. World Almanac/Worlds/Eldoria.md		
+4. World Almanac/Regions/Barovia.md	ruler	4. World Almanac/NPCs/Strahd Von Zarovich.md (UNRESOLVED)		
+4. World Almanac/Regions/Barovia.md	route	4. World Almanac/Shops/Blinsky Toys.md		60 mi
+4. World Almanac/Regions/Greenfall.md	location	4. World Almanac/Worlds/Eldoria.md		
+4. World Almanac/Settlements/Bruokdon.md	location	4. World Almanac/Regions/Greenfall.md		
+4. World Almanac/Settlements/Duskferry.md	location	4. World Almanac/Regions/Greenfall.md		
+4. World Almanac/Settlements/Duskferry.md	ruler	4. World Almanac/NPCs/Anselm Corrow.md		
+4. World Almanac/Settlements/Krezk.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Settlements/Thornmere.md	location	4. World Almanac/Regions/Greenfall.md		
+4. World Almanac/Settlements/Vallaki.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Settlements/Vallaki.md	ruler	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md		
+4. World Almanac/Settlements/Vallaki.md	route	4. World Almanac/Places of Interest/Van Richten's Tower.md		12.7 mi
+4. World Almanac/Settlements/Village of Barovia.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Shops/Bildrath's Mercantile.md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/Shops/Bildrath's Mercantile.md	staff	4. World Almanac/NPCs/Parriwimple (COS).md		
+4. World Almanac/Shops/Blinsky Toys.md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/Shops/Blinsky Toys.md	owner	4. World Almanac/NPCs/Gadof Blinsky (COS).md		
+4. World Almanac/Shops/Blood of the Vine Tavern.md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/Shops/Blue Water Inn.md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/Shops/Blue Water Inn.md	owner	4. World Almanac/NPCs/Urwin Martikov.md (UNRESOLVED)		
+4. World Almanac/Shops/Blue Water Inn.md	owner	4. World Almanac/NPCs/Danika Dorakova.md (UNRESOLVED)		
+4. World Almanac/Shops/Blue Water Inn.md	staff	4. World Almanac/NPCs/Brom Martikov.md (UNRESOLVED)		
+4. World Almanac/Shops/Blue Water Inn.md	staff	4. World Almanac/NPCs/Bray Martikov.md (UNRESOLVED)		
+4. World Almanac/Shops/Blue Water Inn.md	stocks	5. Mechanics/Items/Shield.md		
+4. World Almanac/Shops/Golden Hammer.md	location	4. World Almanac/Settlements/Bruokdon.md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Pike.md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Battleaxe.md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Club.md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Greataxe.md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Studded Leather Armor.md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Silver Star Cane (GRIFFONSSADDLEBAG2).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Smoldering Armor (XGE).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Armor Of Gleaming (XGE).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Moon Touched Sword (XGE).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Redsmith Hammer (GRIFFONSSADDLEBAG2).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Shield Of Expression (XGE).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Campers Crutch (GRIFFONSSADDLEBAG2).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Cast Off Armor (XGE).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Weapon Of Showmanship (TGS1).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Intrepid Knife (GRIFFONSSADDLEBAG4).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Bane Shield (GRIFFONSSADDLEBAG2).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Scorpion Lasher (GRIFFONSSADDLEBAG2).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Wildskin Armor (GRIFFONSSADDLEBAG2).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Club Of Dancing (GRIFFONSSADDLEBAG2).md		
+4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Armor Of Vulnerability Slashing.md		
