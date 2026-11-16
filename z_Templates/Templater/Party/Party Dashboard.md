@@ -73,9 +73,9 @@ messenger_cost_per_mile: 5
 ship_cost_per_mile: 5
 tags:
   - party
+funds: {cp: 0, sp: 0, ep: 0, gp: 0, pp: 0}
 ---
 > [!infobox]
-> # `=this.file.name`
 > ###### Travel
 >  |
 >  ---|---|
@@ -88,99 +88,125 @@ tags:
 > **Travel Hours Per Day** | `INPUT[number(class(mb-35)):travel_hours_per_day]` |
 > **Exhaustion Level** | `INPUT[inlineSelect(class(mb-35), option(0, 0 No exhaustion), option(1, 1 Disadvantage on ability checks), option(2, 2 Speed halved), option(3, 3 Disadvantage on attack rolls and saving throws), option(4, 4 Hit point maximum halved), option(5, 5 Speed reduced to 0), option(6, 6 Death)):exhaustion_level]` |
 > **Travel Calc** | `VIEW[({var_mins}/(({travel_speed} / ({exhaustion_level} > 1 ? 2 : 1) + ({encumbered} ? -10 : 0) + ({horseshoes_of_speed} ? 30 : 0) + {travel_bonus}) / 10) * {travel_multiplier})][math:travel_calc]` |
-> ###### Lazy DM Encounter Benchmark
-> ```dataviewjs
-> await dv.view('views/encounterBenchmark', { current: dv.current() })
-> ```
-## Transport Services
-> [!info]- Travel time and transport costs
-> Uses the party's Method, pace, and hours above.
->
-> | | |
-> | --- | --- |
-> | **Miles to travel** | `INPUT[number:travel_distance]` |
-> | **Travel time** | `VIEW[round({travel_distance} * {travel_calc} / 60, 1)]` hours · `VIEW[round({travel_distance} * {travel_calc} / 60 / {travel_hours_per_day}, 1)]` days |
-> | **Danger level** | `INPUT[inlineSelect(option(1.5, Safe Route), option(2, Chance of Bandits), option(3, Hostile Lands), option(5, Warzone)):danger_level]` |
-> | **Familiar route** | `INPUT[toggle:familiar_route]` |
-> | **Party members** | `INPUT[number:party_members]` |
-> | **Lifestyle** | `INPUT[inlineSelect(option(0, Wretched), option(1, Squalid), option(2, Poor), option(10, Modest), option(20, Comfortable), option(40, Wealthy), option(100, Aristocratic)):lifestyle_cost_sp]` |
-> | **Include meals** | `INPUT[toggle:include_meals]` `VIEW[round(({include_meals} ? 1 : 0) * (({lifestyle_cost_sp} / 10) * {party_members}) * round({travel_distance} * {travel_calc} / 60 / {travel_hours_per_day}), 1)]` gp |
->
-> | Service | Cost per mile (cp) | Total (gp) |
-> | --- | --- | --- |
-> | Coach (between towns) | `INPUT[number:coach_cost_per_mile]` | `VIEW[round({travel_distance} * ({coach_cost_per_mile} * ({danger_level} + ({familiar_route} ? -0.5 : 0)) * {party_members}), 0) / 100 + (({include_meals} ? 1 : 0) * (({lifestyle_cost_sp} / 10) * {party_members}) * round({travel_distance} * {travel_calc} / 60 / {travel_hours_per_day}))]` |
-> | Coach (within city) | `INPUT[number:coach_cost]` | `VIEW[round(({coach_cost} * ({danger_level} + ({familiar_route} ? -0.5 : 0)) * {party_members}), 0) / 100]` |
-> | Send messenger | `INPUT[number:messenger_cost_per_mile]` | `VIEW[round({travel_distance} * ({messenger_cost_per_mile} * ({danger_level} + ({familiar_route} ? -0.5 : 0))), 0) / 100]` |
-> | Ship's passage | `INPUT[number:ship_cost_per_mile]` | `VIEW[round({travel_distance} * ({ship_cost_per_mile} * ({danger_level} + ({familiar_route} ? -0.5 : 0)) * {party_members}), 0) / 100 + (({include_meals} ? 1 : 0) * (({lifestyle_cost_sp} / 10) * {party_members}) * round({travel_distance} * {travel_calc} / 60 / {travel_hours_per_day}))]` |
->
-> **Travelling more than 8 hours a day** requires a [[08 Using Ability Scores#Constitution Checks|Constitution check]] each hour after 8: DC 11 at hour 9, DC 12 at hour 10, and so on. Each failure adds a level of [[Conditions#Exhaustion|Exhaustion]].
+> ###### Treasury
+>  |
+>  ---|---|
+> **cp** | `INPUT[number:funds.cp]` |
+> **sp** | `INPUT[number:funds.sp]` |
+> **ep** | `INPUT[number:funds.ep]` |
+> **gp** | `INPUT[number:funds.gp]` |
+> **pp** | `INPUT[number:funds.pp]` |
 
-## **Characters**
-> [!cards|dataview 3]
->```dataview
-> TABLE WITHOUT ID
->	link(file.path, name) AS "Name",
->	"![|150x250](" + image + ")" AS "Image",
->	race AS "Race",
->	"`INPUT[inlineSelect(option(healthy),option(injured),option(dead)):" + file.path + "#condition]`" AS "Condition",
->	"`INPUT[suggester(optionQuery(#location)):" + file.path + "#location]`" AS "Location"
->	FROM #player
-> WHERE party = this.file.link AND active
-> SORT file.name asc
->```
-
-## NPC Relationships
-```dataview
-TABLE WITHOUT ID
-  link(file.path, file.name) AS "Name",
-  party_relationships[this.file.name] AS "Relationship"
-FROM #npc
-WHERE contains(party_relationships, this.file.name)
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false, editAll: false})
 ```
 
-## Quests
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const quests = dc.useQuery("#quest and @page")
-  const activeQuests = quests.filter(q => q.value('active') && q.value('active')[currentPage.$name])
-  const questsGrouped = dc.useArray(quests, array => array.groupBy(quest => {
-    const active = quest.value('active')
-    const completed = quest.value('completed')
-    if (!!completed && completed[currentPage.$name]) {
-      return 'Completed'
-    } else if ((active && active[currentPage.$name])) {
-      return 'Active'
-    } else {
-      return 'Inactive'
-    }
-  })).sort((a, b) => {
-    const order = ['Inactive', 'Active', 'Completed']
-    return order.indexOf(a.key) - order.indexOf(b.key)
-  })
-  const columns = [
-    {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)},
-    {id: 'Active', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', path:'${value}', field: ['active', '${currentPage.$name}']})\``},
-    {id: 'Complete', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', path: '${value}', field: ['completed', '${currentPage.$name}']})\``},
-    {id: 'Completed Steps', value: (row) => ({completed: row.value('steps').filter(s => !!s.completed && !!s.completed[currentPage.$name]).length, total: row.value('steps').length}), render: (value, row) => `${value.completed}/${value.total}`}
-  ]
-
-  return <dc.Table rows={questsGrouped} columns={columns} groupings={(key) => <h3>{key}</h3>} />
-}
+```meta-bind
+INPUT[select(class(tabbed), option(Overview), option(Travel), option(Quests), option(Standing), option(Session Log), option(Timelines)):memory^tab]
 ```
+> [!tabbed-box]
+> > [!tab|no-t] Overview
+> > > [!cards|dataview 3]
+> > >```dataview
+> > > TABLE WITHOUT ID
+> > >	link(file.path, name) AS "Name",
+> > >	"![|150x250](" + image + ")" AS "Image",
+> > >	race AS "Race",
+> > >	"`INPUT[inlineSelect(option(healthy),option(injured),option(dead)):" + file.path + "#condition]`" AS "Condition",
+> > >	"`INPUT[suggester(optionQuery(#location)):" + file.path + "#location]`" AS "Location"
+> > >	FROM #player
+> > > WHERE party = this.file.link AND active
+> > > SORT file.name asc
+> > >```
+> >
+> >
+> > **Encounter benchmark**
+> > ###### Lazy DM Encounter Benchmark
+> > ```dataviewjs
+> > await dv.view('views/encounterBenchmark', { current: dv.current() })
+> > ```
+>
+> > [!tab|no-t] Travel
+> > > [!info] Travel time and transport costs
+> > > Uses the party's Method, pace, and hours above.
+> > >
+> > > | | |
+> > > | --- | --- |
+> > > | **Miles to travel** | `INPUT[number:travel_distance]` |
+> > > | **Travel time** | `VIEW[round({travel_distance} * {travel_calc} / 60, 1)]` hours · `VIEW[round({travel_distance} * {travel_calc} / 60 / {travel_hours_per_day}, 1)]` days |
+> > > | **Danger level** | `INPUT[inlineSelect(option(1.5, Safe Route), option(2, Chance of Bandits), option(3, Hostile Lands), option(5, Warzone)):danger_level]` |
+> > > | **Familiar route** | `INPUT[toggle:familiar_route]` |
+> > > | **Party members** | `INPUT[number:party_members]` |
+> > > | **Lifestyle** | `INPUT[inlineSelect(option(0, Wretched), option(1, Squalid), option(2, Poor), option(10, Modest), option(20, Comfortable), option(40, Wealthy), option(100, Aristocratic)):lifestyle_cost_sp]` |
+> > > | **Include meals** | `INPUT[toggle:include_meals]` `VIEW[round(({include_meals} ? 1 : 0) * (({lifestyle_cost_sp} / 10) * {party_members}) * round({travel_distance} * {travel_calc} / 60 / {travel_hours_per_day}), 1)]` gp |
+> > >
+> > > | Service | Cost per mile (cp) | Total (gp) |
+> > > | --- | --- | --- |
+> > > | Coach (between towns) | `INPUT[number:coach_cost_per_mile]` | `VIEW[round({travel_distance} * ({coach_cost_per_mile} * ({danger_level} + ({familiar_route} ? -0.5 : 0)) * {party_members}), 0) / 100 + (({include_meals} ? 1 : 0) * (({lifestyle_cost_sp} / 10) * {party_members}) * round({travel_distance} * {travel_calc} / 60 / {travel_hours_per_day}))]` |
+> > > | Coach (within city) | `INPUT[number:coach_cost]` | `VIEW[round(({coach_cost} * ({danger_level} + ({familiar_route} ? -0.5 : 0)) * {party_members}), 0) / 100]` |
+> > > | Send messenger | `INPUT[number:messenger_cost_per_mile]` | `VIEW[round({travel_distance} * ({messenger_cost_per_mile} * ({danger_level} + ({familiar_route} ? -0.5 : 0))), 0) / 100]` |
+> > > | Ship's passage | `INPUT[number:ship_cost_per_mile]` | `VIEW[round({travel_distance} * ({ship_cost_per_mile} * ({danger_level} + ({familiar_route} ? -0.5 : 0)) * {party_members}), 0) / 100 + (({include_meals} ? 1 : 0) * (({lifestyle_cost_sp} / 10) * {party_members}) * round({travel_distance} * {travel_calc} / 60 / {travel_hours_per_day}))]` |
+> > >
+> > > **Travelling more than 8 hours a day** requires a [[08 Using Ability Scores#Constitution Checks|Constitution check]] each hour after 8: DC 11 at hour 9, DC 12 at hour 10, and so on. Each failure adds a level of [[Conditions#Exhaustion|Exhaustion]].
+>
+> > [!tab|no-t] Quests
+> > ```datacorejsx
+> > return function View() {
+> >   const currentPage = dc.useCurrentFile()
+> >   const quests = dc.useQuery("#quest and @page")
+> >   const activeQuests = quests.filter(q => q.value('active') && q.value('active')[currentPage.$name])
+> >   const questsGrouped = dc.useArray(quests, array => array.groupBy(quest => {
+> >     const active = quest.value('active')
+> >     const completed = quest.value('completed')
+> >     if (!!completed && completed[currentPage.$name]) {
+> >       return 'Completed'
+> >     } else if ((active && active[currentPage.$name])) {
+> >       return 'Active'
+> >     } else {
+> >       return 'Inactive'
+> >     }
+> >   })).sort((a, b) => {
+> >     const order = ['Inactive', 'Active', 'Completed']
+> >     return order.indexOf(a.key) - order.indexOf(b.key)
+> >   })
+> >   const columns = [
+> >     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)},
+> >     {id: 'Active', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', path:'${value}', field: ['active', '${currentPage.$name}']})\``},
+> >     {id: 'Complete', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', path: '${value}', field: ['completed', '${currentPage.$name}']})\``},
+> >     {id: 'Completed Steps', value: (row) => ({completed: row.value('steps').filter(s => !!s.completed && !!s.completed[currentPage.$name]).length, total: row.value('steps').length}), render: (value, row) => `${value.completed}/${value.total}`}
+> >   ]
+> >
+> >   return <dc.Table rows={questsGrouped} columns={columns} groupings={(key) => <h3>{key}</h3>} />
+> > }
+> > ```
+>
+> > [!tab|no-t] Standing
+> > ```dataview
+> > TABLE WITHOUT ID
+> >   link(file.path, file.name) AS "Name",
+> >   party_relationships[this.file.name] AS "Relationship"
+> > FROM #npc
+> > WHERE contains(party_relationships, this.file.name)
+> > ```
+>
+> > [!tab|no-t] Session Log
+> > > [!cards|dataview 3]
+> > >```dataview
+> > > TABLE WITHOUT ID
+> > >	link(file.path, name) AS "Name",
+> > >	summary
+> > > FROM #session-journal
+> > > WHERE party = this.file.link
+> > > SORT file.frontmatter.date DESC
+> > >```
+>
+> > [!tab|no-t] Timelines
+> > ```aat-vertical
+> > <% tp.file.title %>
+> > ```
 
-## Session Log
-> [!cards|dataview 3]
->```dataview
-> TABLE WITHOUT ID
->	link(file.path, name) AS "Name",
->	summary
-> FROM #session-journal
-> WHERE party = this.file.link
-> SORT file.frontmatter.date DESC
->```
+# Notes
 
-# **Notes**
 <%* } else { -%>
 
 
