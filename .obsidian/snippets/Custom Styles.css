@@ -279,3 +279,6 @@
   clear: none;
   overflow: hidden;
 }
+
+/* Prose notes: section bar and session navigation */
+.section-bar, .session-nav { color: var(--text-muted); font-size: var(--font-ui-small); margin: 0.2em 0 0.8em; }

@@ -3,10 +3,11 @@ let templateError = false
 let formattedDate = ''
 let selectedParty = null
 let selectedCampaign = null
+let sessionNumber = ''
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
-  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['preps', 'parties', 'campaigns'])
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['preps', 'journals', 'parties', 'campaigns'])
 
   const data = await init.openForm(modalForm, {
     title: "Session Prep Setup",
@@ -27,7 +28,11 @@ try {
     throw new Error(`No campaign found whose party is ${selectedParty.file.name}`)
   }
 
-  await tp.file.move(path.join(config.locations.preps, selectedCampaign.file.name, formattedDate), tp.file.find_tfile(tp.file.title))
+  // The session this prep targets: one after the latest journal for the campaign.
+  const journals = dataview.pages(`"${path.posix.join(config.locations.journals, selectedCampaign.file.name)}"`).where(j => j.session_number != null).sort(j => j.session_number, 'desc').array()
+  sessionNumber = journals.length ? Number(journals[0].session_number) + 1 : 0
+
+  await init.moveFile(tp, path.posix.join(config.locations.preps, selectedCampaign.file.name), formattedDate)
 } catch (e) {
   templateError = e.message
   console.error(e)
@@ -38,9 +43,25 @@ try {
 ---
 obsidianUIMode: preview
 date: <% formattedDate || '' %>
+session_number: <% sessionNumber %>
+journal: ""
 tags:
   - session-prep
 ---
+> [!infobox]
+> ###### At a glance
+> `$=await dv.view('views/prepPanel', {current: dv.current()})`
+> ###### This prep
+>  |
+>  ---|---|
+> **Session #** | `INPUT[number:session_number]` |
+> **Journal** | `INPUT[suggester(optionQuery(#session-journal)):journal]` |
+
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false, editAll: false})
+```
+`$=await dv.view('views/sectionBar', {current: dv.current()})`
+
 ## Resources
 
 
@@ -154,6 +175,9 @@ await dv.view('views/listsGroupedByTag', {searchTag: '#session-journal', listTag
 > * What meaningful non-gold reward exists here?
 >
 > ✅ Consider information, favors, allies, titles, or strange magic.
+
+## Improvisation Kit
+
 <%* } else { -%>
 
 
