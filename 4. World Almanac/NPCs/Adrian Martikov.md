@@ -27,7 +27,7 @@ goals:
   - To restore the Wizard of Wines to full production, to aid in the fight against Strahd.
 likes: The craft of winemaking, birds, the quiet of nature.
 dislikes: Threats to his family and winery, Strahd and his minions, failure to protect his loved ones
-partyRelationships:
+party_relationships:
   Midnight Covenant: Ally
 ---
 
@@ -56,7 +56,7 @@ partyRelationships:
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

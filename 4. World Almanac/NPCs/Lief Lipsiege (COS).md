@@ -27,7 +27,7 @@ history: >-
   hanging from the ceiling, sounding a gong that summons Castle Ravenloft's
   guardians to deal with the intrusion.
 relationships: []
-partyRelationships: {}
+party_relationships: {}
 location: null
 pronounced: LEEF LIP-seej
 race: '[[5. Mechanics/Races/Human.md|Human]]'
@@ -76,7 +76,7 @@ dislikes: 'Interruptions, visitors, the creak of the tasseled rope overhead'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 62*

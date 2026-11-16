@@ -34,7 +34,7 @@ history: >-
   vengeful but still childlike ghosts who want nothing more than to keep their
   small family together.
 relationships: []
-partyRelationships: {}
+party_relationships: {}
 location: null
 pronounced: ROH-suh-VAL-duh DURST (called "Rose")
 race: '[[5. Mechanics/Races/Human.md|Human]]'
@@ -87,7 +87,7 @@ dislikes: >-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 217*

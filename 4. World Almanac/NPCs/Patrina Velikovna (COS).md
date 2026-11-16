@@ -29,7 +29,7 @@ history: >-
   She now speaks to Kasimir in dreams, claiming a repentance she does not feel,
   hoping he will find a way to restore her to life and power.
 relationships: []
-partyRelationships: {}
+party_relationships: {}
 location: null
 pronounced: puh-TREE-nuh vel-ih-KOV-nuh
 race: Dusk Elf
@@ -87,7 +87,7 @@ dislikes: >-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 89*

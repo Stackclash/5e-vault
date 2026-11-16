@@ -39,7 +39,7 @@ history: >-
   Blinsky, ever hopeful, believes that if he can just make enough people smile —
   starting with Barovia's children — the town's suffering might finally lift.
 relationships: []
-partyRelationships:
+party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]'
 pronounced: GAD-off BLIN-skee
@@ -94,7 +94,7 @@ dislikes: 'Being laughed at, Izek Strazni''s threats, empty shelves, silence in 
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 118*

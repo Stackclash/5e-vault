@@ -27,7 +27,7 @@ history: >-
   Bildrath's side and won't chase down anyone who leaves the shop so long as his
   uncle has nothing further to say about it.
 relationships: []
-partyRelationships: {}
+party_relationships: {}
 location: null
 pronounced: PAIR-ee-WIM-pull
 race: '[[5. Mechanics/Races/Human.md|Human]]'
@@ -81,7 +81,7 @@ dislikes: >-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 43*

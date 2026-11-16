@@ -36,7 +36,7 @@ goals: ""                     # string
 likes: ""
 dislikes: ""
 secrets: ""
-partyRelationships: {}        # {Party: Acquaintance|Friendly|Ally|Disgruntled|Enemy}
+party_relationships: {}      # {Party: Acquaintance|Friendly|Ally|Disgruntled|Enemy}
 ```
 
 Stat block: fill the `statblock` block under `## Stats` via the `statblock-creator` skill; `name` must equal the note name. No notes for nameless one-off characters; record them in the journal.
@@ -112,7 +112,7 @@ type: construct
 environments: []
 ```
 
-For a *kind* of creature, not an individual: no `location`, `condition`, `partyRelationships`, or personality fields. Its makers and users are `relationships` edges (e.g. `serves` → a faction). The stat block goes in a `statblock` block under `## Stats` with a `^statblock` anchor, and `name` equal to the note name, so encounter blocks can link `[[Note Name]]`. Add `monster/cr/…`, `monster/size/…`, `monster/type/…` facet tags; never the bare `monster` tag. Lore and tactics go in the body under `## DM Notes`; what the party can learn about it goes in `facts`.
+For a *kind* of creature, not an individual: no `location`, `condition`, `party_relationships`, or personality fields. Its makers and users are `relationships` edges (e.g. `serves` → a faction). The stat block goes in a `statblock` block under `## Stats` with a `^statblock` anchor, and `name` equal to the note name, so encounter blocks can link `[[Note Name]]`. Add `monster/cr/…`, `monster/size/…`, `monster/type/…` facet tags; never the bare `monster` tag. Lore and tactics go in the body under `## DM Notes`; what the party can learn about it goes in `facts`.
 
 A specific named member of the kind (a boss, a survivor) is an NPC note that links the creature note in its `description`.
 

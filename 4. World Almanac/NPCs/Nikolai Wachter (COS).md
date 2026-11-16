@@ -29,7 +29,7 @@ history: >-
   in town: sneaking into Arasek's Stockyard on a bet, one of the brothers rocked
   a caged saber-toothed tiger's wagon and let it loose on Vallaki's streets.
 relationships: []
-partyRelationships: {}
+party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 pronounced: NIK-oh-lye VAHK-ter
 race: '[[5. Mechanics/Races/Human.md|Human]]'
@@ -80,7 +80,7 @@ dislikes: 'His mother''s lectures and her cult, sobriety, the burgomaster''s fes
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 110*

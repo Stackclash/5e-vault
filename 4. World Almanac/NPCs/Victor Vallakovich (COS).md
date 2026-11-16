@@ -33,7 +33,7 @@ history: >-
   purple light. Undeterred, Victor keeps refining the circle, certain that
   escape from Barovia is only one working spell away.
 relationships: []
-partyRelationships:
+party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 pronounced: VIK-tor val-lah-KO-vich
@@ -88,7 +88,7 @@ dislikes: >-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 105*

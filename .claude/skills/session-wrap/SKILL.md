@@ -25,7 +25,7 @@ Deliver everything below in a single reply, every line numbered, so it can be an
    - Prepped facts that landed: match the prep note's secrets and clues against the notes; list each as learned or not.
    - New facts, worded for players.
    - Relationship edges the party learned.
-5. **State changes.** NPC `condition`, `location`, `partyRelationships`; quest `active`/`completed`; story-item `holder`; faction `status` and `clock`.
+5. **State changes.** NPC `condition`, `location`, `party_relationships`; quest `active`/`completed`; story-item `holder`; faction `status` and `clock`.
 6. **Improvised canon.** Each line of the live-session log: where it will be filed, or why not.
 7. **Contradictions.** Anything in the notes that conflicts with canon, with both sources. Never resolved here.
 

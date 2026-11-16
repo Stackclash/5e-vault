@@ -36,7 +36,7 @@ flaw: His comfortable rule of not asking questions has let something dangerous g
 goals: Keep the crossing running, keep the crown satisfied, keep the Guild's business the Guild's own.
 likes: a clean ledger, paid tolls, a quiet dock at night
 dislikes: crown inspectors, being lied to by his own clerks, anyone who threatens the bargain that keeps Duskferry independent
-partyRelationships:
+party_relationships:
   Midnight Covenant: Acquaintance
 summary: ""
 secrets: |-
@@ -70,7 +70,7 @@ secrets: |-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

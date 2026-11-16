@@ -86,9 +86,9 @@ ship_cost_per_mile: 5
 ```dataview
 TABLE WITHOUT ID
   link(file.path, file.name) AS "Name",
-  partyRelationships[this.file.name] AS "Relationship"
+  party_relationships[this.file.name] AS "Relationship"
 FROM #npc
-WHERE contains(partyRelationships, this.file.name)
+WHERE contains(party_relationships, this.file.name)
 ```
 
 ## Quests

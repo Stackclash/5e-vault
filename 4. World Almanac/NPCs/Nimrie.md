@@ -30,7 +30,7 @@ flaw: ""
 goals: ""
 likes: ""
 dislikes: ""
-partyRelationships:
+party_relationships:
   Midnight Covenant: Friendly
 summary: |-
   A drow woman the party met at Duskferry, who recognized something in Faerah worth acting on and brought her to Naerissa and the shrine. She didn't explain herself further, and the party hasn't learned much about her yet.
@@ -62,7 +62,7 @@ secrets: ""
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

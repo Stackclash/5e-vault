@@ -40,7 +40,7 @@ flaw: Believes he is smarter than everyone else.
 goals: Expand the Institute's influence over Bruokdon politics. Presently, quiet revenge against the Silent Ascendency for capturing, replacing, and discarding him.
 likes: elegant parties, persuasion
 dislikes: unpredictability
-partyRelationships:
+party_relationships:
   Midnight Covenant: Disgruntled
 secrets: |-
   Revealed to the party (S43): the Silent Ascendency captured him and set up the magic-item smuggling operation; he did not say — and they did not ask — how a captive academic came to have a fully operational smuggling ring for a doppelganger to inherit.
@@ -73,7 +73,7 @@ secrets: |-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

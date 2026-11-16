@@ -24,7 +24,7 @@ history: >-
   quasit familiar, surviving on vermin and refusing to leave the lecture hall
   until he knows the amber golem patrolling the hall outside has been destroyed.
 relationships: []
-partyRelationships: {}
+party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]'
 pronounced: VIL-nee-us
 race: '[[5. Mechanics/Races/Human.md|Human]]'
@@ -78,7 +78,7 @@ dislikes: >-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 185*

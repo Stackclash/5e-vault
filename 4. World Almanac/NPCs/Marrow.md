@@ -42,7 +42,7 @@ flaw: Its improvisation has limits — it can copy behavior it has observed, not
 goals: Salvage its cover and the Bruokdon cell before either collapses; failing that, escape clean and re-embed elsewhere.
 likes: Clean exits, useful people, being underestimated.
 dislikes: Loose ends, being seen clearly, spending resources it can't recover.
-partyRelationships:
+party_relationships:
   Midnight Covenant: Enemy
 summary: |-
   The party knows the doppelganger that impersonated Lord Caldris Velmont and then Professor Gousse Windcaller (S43) never left Bruokdon. It ambushed Roark Battleborn and Lyssandra Veil at Corwin Vantor's handoff, killed Corwin, took them both captive, and came back wearing Roark's face with a fake device and a cover story that held for days.
@@ -81,7 +81,7 @@ secrets: |-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

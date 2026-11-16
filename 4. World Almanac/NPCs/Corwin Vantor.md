@@ -33,7 +33,7 @@ flaw: Worked alone out of habit, even when caution said otherwise — he arrange
 goals: (deceased — unrealized) Get the device into hands that could use it before more infiltrators went unnoticed.
 likes: Fieldwork, plain talk, being useful.
 dislikes: Bureaucracy, being patronized, unfinished work.
-partyRelationships:
+party_relationships:
   Midnight Covenant: Ally
 summary: |-
   A monster-hunter Lyssandra Veil brought in to build a doppelganger-detection device once the Athenaeum's crisis broke; Roark escorted her to the handoff, nothing more. The party now knows the meeting was ambushed by Silent Ascendency agents and that Corwin was killed defending the device (S44) — Wisp's familiar found his body with the real prototype crushed beneath it, which is what exposed the working device "Roark" had brought back as a fake.
@@ -65,7 +65,7 @@ secrets: ""
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

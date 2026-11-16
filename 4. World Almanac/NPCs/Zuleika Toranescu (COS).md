@@ -28,7 +28,7 @@ history: >-
   and the rest of the pack — having watched what happened to Emil — won't risk
   Strahd's wrath by helping her.
 relationships: []
-partyRelationships: {}
+party_relationships: {}
 location: null
 pronounced: zoo-LAY-kah tor-uh-NES-koo
 race: '[[5. Mechanics/Races/Human.md|Human]]'
@@ -80,7 +80,7 @@ dislikes: 'Kiril Stoyanovich, cowardice, empty prayers'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 204*

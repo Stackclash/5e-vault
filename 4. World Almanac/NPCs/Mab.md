@@ -58,7 +58,7 @@ goals: >-
   travelers of real consequence.
 likes: Precise language, old debts, ravens and owls, the look on a mortal's face when they realize what they agreed to.
 dislikes: Sloppy bargains, being rushed, the Summer Court's easy warmth.
-partyRelationships:
+party_relationships:
   Midnight Covenant: Acquaintance
 ---
 
@@ -87,7 +87,7 @@ partyRelationships:
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

@@ -2,7 +2,7 @@ filters:
   and:
     - file.tags.contains("npc")
 formulas:
-  relationships: partyRelationships.keys().map(value + '(' + partyRelationships[value] + ')').join(', ')
+  relationships: party_relationships.keys().map(value + '(' + party_relationships[value] + ')').join(', ')
 properties:
   formula.relationships:
     displayName: party relationships
@@ -42,7 +42,7 @@ views:
     name: Party Relationships
     filters:
       and:
-        - partyRelationships.keys().contains('Midnight Covenant')
+        - party_relationships.keys().contains('Midnight Covenant')
     order:
       - file.name
       - pronounced

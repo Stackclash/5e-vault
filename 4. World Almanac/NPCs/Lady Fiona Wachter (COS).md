@@ -37,7 +37,7 @@ history: >-
   knows enough of her secrets to blackmail her should their arrangement ever
   sour.
 relationships: []
-partyRelationships:
+party_relationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 pronounced: FEE-oh-nuh VAHK-ter
@@ -93,7 +93,7 @@ dislikes: 'Baron Vallakovich''s buffoonery, weakness, disobedience, enemies of S
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 110*

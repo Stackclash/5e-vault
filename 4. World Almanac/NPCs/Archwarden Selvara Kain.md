@@ -28,7 +28,7 @@ flaw: Overly cautious and distrustful of outsiders.
 goals: Keep dangerous magic contained, Prevent magical disasters
 likes: structure, clear rules, defensive magic
 dislikes: reckless experimentation, illusionists
-partyRelationships:
+party_relationships:
   Midnight Covenant: Acquaintance
 description: |-
   Selvara Kain is tall and severe, with steel-gray hair braided tightly down her back and sharp, disciplined features. Her robes are layered with faintly glowing protective sigils stitched in silver thread, forming subtle warding patterns across the fabric.
@@ -69,7 +69,7 @@ history: |-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

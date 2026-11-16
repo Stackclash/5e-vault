@@ -38,7 +38,7 @@ flaw: His pride in never being questioned makes him overconfident that he never 
 goals: Keep the arrangement quiet, keep the extra income coming, and stay exactly as invisible as he's always been.
 likes: exact books, being underestimated, fine boots
 dislikes: audits, couriers who ask questions, anyone implying his ledgers could be wrong
-partyRelationships:
+party_relationships:
   Midnight Covenant: Acquaintance
 summary: ""
 secrets: |-
@@ -73,7 +73,7 @@ secrets: |-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

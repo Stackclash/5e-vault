@@ -24,7 +24,7 @@ flaw: His paranoia makes him distrustful of institutions and slow to trust allie
 goals: Discover why knowledge about Vecna is changing, Protect Roark until the truth of his lineage matters,Preserve forbidden knowledge before it disappears
 likes: riddles and wordplay, hidden doors, forgotten libraries, clever lies
 dislikes: authoritarian institutions, rigid rules, divination magic used for surveillance
-partyRelationships: {}
+party_relationships: {}
 description: |-
   A thin, sharp-eyed half-elf with prematurely silver hair and deep lines around his eyes from years of sleepless study. His cloak is worn and patched in many places but carefully maintained, suggesting someone who has lived on the road or in hiding for a long time. Ink stains mark his fingertips and the cuffs of his sleeves, and small scraps of parchment poke from nearly every pocket of his cloak.
 
@@ -75,7 +75,7 @@ secrets: ""
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

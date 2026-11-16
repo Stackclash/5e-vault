@@ -514,7 +514,6 @@ source	type	target	learned_by	note
 4. World Almanac/Places of Interest/Ruins of Berez.md	location	4. World Almanac/Regions/Barovia.md		
 4. World Almanac/Places of Interest/St. Andral's Church.md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/Places of Interest/The Amber Temple.md	location	4. World Almanac/Regions/Barovia.md		
-4. World Almanac/Places of Interest/The Amber Temple.md	route	4. World Almanac/Regions/Barovia.md		5 mi
 4. World Almanac/Places of Interest/The Cinderworks.md	location	4. World Almanac/Settlements/Bruokdon.md		
 4. World Almanac/Places of Interest/The Umbral Athenaeum.md	location	4. World Almanac/Settlements/Bruokdon.md		
 4. World Almanac/Places of Interest/The Wizard of Wines.md	location	4. World Almanac/Regions/Barovia.md		
@@ -526,7 +525,6 @@ source	type	target	learned_by	note
 4. World Almanac/Places of Interest/Yester Hill.md	location	4. World Almanac/Regions/Barovia.md		
 4. World Almanac/Regions/Barovia.md	location	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Regions/Barovia.md	ruler	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
-4. World Almanac/Regions/Barovia.md	route	4. World Almanac/Shops/Blinsky Toys.md		60 mi
 4. World Almanac/Regions/Greenfall.md	location	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Settlements/Bruokdon.md	location	4. World Almanac/Regions/Greenfall.md		
 4. World Almanac/Settlements/Duskferry.md	location	4. World Almanac/Regions/Greenfall.md		

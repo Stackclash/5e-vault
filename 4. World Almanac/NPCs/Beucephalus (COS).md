@@ -22,7 +22,7 @@ history: >-
   Strahd von Zarovich's steed for longer than anyone in Barovia can remember,
   carried to war whenever its master rides out.
 relationships: []
-partyRelationships: {}
+party_relationships: {}
 location: null
 pronounced: byoo-SEF-uh-lus
 race: '[[5. Mechanics/Bestiary/Fiend/Nightmare.md|Nightmare]]'
@@ -67,7 +67,7 @@ dislikes: 'Sunlight, holy magic, being parted from Strahd'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 93*

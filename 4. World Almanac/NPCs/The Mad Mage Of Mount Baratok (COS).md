@@ -27,7 +27,7 @@ history: >-
   that — while active — prevents any magic from restoring his sanity or his
   memory of who he truly is.
 relationships: []
-partyRelationships: {}
+party_relationships: {}
 location: null
 pronounced: BAR-uh-tok
 race: '[[5. Mechanics/Races/Human.md|Human]]'
@@ -80,7 +80,7 @@ dislikes: 'Being underestimated, fools, Strahd von Zarovich'
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 39*

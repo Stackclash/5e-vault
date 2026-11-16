@@ -33,7 +33,7 @@ flaw: Cannot be reasoned with, bribed, or intimidated — only fought, evaded, o
 goals: Destroy or drive off any intruder at Greyfen Hollow that its binding marks as a threat.
 likes: "—"
 dislikes: "—"
-partyRelationships:
+party_relationships:
   Midnight Covenant: Enemy
 summary: ""
 secrets: |-
@@ -67,7 +67,7 @@ secrets: |-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 

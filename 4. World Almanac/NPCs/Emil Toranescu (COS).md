@@ -31,7 +31,7 @@ history: >-
   to Castle Ravenloft, where Strahd has kept him imprisoned in the South Dungeon
   ever since — punishment, and a lesson to the rest of the pack.
 relationships: []
-partyRelationships:
+party_relationships:
   Midnight Covenant: Friendly
 location: null
 pronounced: EH-mil tor-uh-NES-koo
@@ -89,7 +89,7 @@ dislikes: 'Kiril''s cruelty toward captured children, being doubted, confinement
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 81*

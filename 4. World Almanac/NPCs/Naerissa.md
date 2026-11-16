@@ -36,7 +36,7 @@ flaw: Protective silence — she will not be pushed past what she's willing to s
 goals: Protect the shrine and the enclave's quiet life in Duskferry; watch for any sign the Circle's bearer-line is still moving.
 likes: moonlit water, old songs, patient listeners
 dislikes: being rushed, questions asked as demands, the shrine's location spreading
-partyRelationships:
+party_relationships:
   Midnight Covenant: Friendly
 summary: |-
   Elder of a small, reclusive dusk elf community at Duskferry's edge, tending a hidden shrine to Eilistraee on a reed-bank spit downshore of the Waterline. She was guided out of the Underdark years ago by a group led by Faerah's sister, and recognized Faerah's pendant on sight as the twin of the one her sister wore — proof the sister's escape work was real, organized, and larger than Faerah ever knew. She spoke of a bigger, older congregation of the same order somewhere in the Greenfall wilds, but wouldn't say more about it.
@@ -70,7 +70,7 @@ secrets: |-
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
 # **`=this.file.name`**
 
