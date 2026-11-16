@@ -1,6 +1,6 @@
 # Entity schemas
 
-**Common block** (every type below, creature notes included): `gist`, `summary`, `revealed`, `reveal`, `public_name` (optional), `facts`, `relationships`, `secrets`, `aliases`, `images`, `tags`. See `knowledge-model.md` and `relationships.md`.
+**Common block** (every type below, creature notes included): `gist`, `summary`, `revealed`, `reveal`, `public_name` (optional), `facts`, `relationships`, `aliases`, `images`, `tags`. See `knowledge-model.md` and `relationships.md`. There is no `secrets` field (dropped 2026-11-16): anything the party could learn is a fact; other DM-only prose goes under `## DM Notes`.
 
 Body scaffold: copy from the matching template in `z_Templates/Templater/World Building/`. DM-only prose goes under `## DM Notes` (`### Plot Hooks`, `### Hidden Details`, `### General Notes`); a DM aside elsewhere uses a `> [!dm]` callout.
 
@@ -35,7 +35,6 @@ flaw: ""
 goals: ""                     # string
 likes: ""
 dislikes: ""
-secrets: ""
 party_relationships: {}      # {Party: Acquaintance|Friendly|Ally|Disgruntled|Enemy}
 ```
 

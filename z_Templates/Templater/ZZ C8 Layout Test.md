@@ -9,7 +9,6 @@ summary: ""
 revealed: {}
 facts: []
 relationships: []
-secrets: ""
 tags:
   - npc
 ---

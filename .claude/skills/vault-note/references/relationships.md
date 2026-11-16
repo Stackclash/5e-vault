@@ -54,6 +54,6 @@ Flat links have no per-edge `learned`. They are shown when the field is in the o
 
 ## Do not
 
-- Leave a relationship only in `history`, `secrets`, or DM Notes when a field exists for it.
+- Leave a relationship only in `history` or DM Notes when a field exists for it.
 - Add the inverse by hand.
-- Point `target` at a name with no note. Create the note (with approval) or leave the tie in `secrets` and say so.
+- Point `target` at a name with no note. Create the note (with approval) or leave the tie in `## DM Notes` and say so.

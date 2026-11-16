@@ -62,7 +62,8 @@ const inbound = (types, label) => [derived(label), ...block(['```datacorejsx',
   '  if (!rows.length) return <p>None recorded.</p>',
   '  return <dc.Table rows={rows} columns={[{ id: "Who", value: x => x.p.$link }, { id: "Tie", value: x => x.r.type }, { id: "Note", value: x => x.r.note ?? "" }]} />',
   '}', '```']), '']
-const secrets = (extra = []) => ({ name: 'Secrets', type: 'dm', lines: [...extra, ...textArea('secrets', 'Secrets')] })
+// DM panel (secrets field dropped 2026-11-16): unlearned facts, type extras, legacy secrets until batch F.
+const dm = (extra = []) => ({ name: 'DM', type: 'dm', lines: [...extra, ...block(['```dataviewjs', 'await dv.view("views/dmPanel", {current: dv.current()})', '```'])] })
 const player = { name: 'Player-Facing', include: INCLUDE_PLAYER }
 
 const locationRoutes = () => [derived('Routes'), ...block(['```dataviewjs', "await dv.view('views/travelTimes', {current: dv.current()})", '```']),
@@ -81,7 +82,7 @@ const PARTIALS = {
     { name: 'Connections', lines: [...relationshipButtons(), ...block(['```dataviewjs', 'await dv.view("views/npcRelationships", { current: dv.current() })', '```']), '',
       derived('Quests'), ...block(['```dataview', 'LIST FROM #quest WHERE contains(npcs.name, this.file.link)', '```']), '',
       derived('Sessions'), ...sessionsWith('npcs')] },
-    secrets(),
+    dm(),
   ],
   'Tabs - Location': () => [
     { name: 'At the Table', lines: [...textArea('atmosphere', 'Atmosphere'), ...textArea('hazards', 'Hazards'), ...text('climate', 'Climate'), ...locationRoutes()] },
@@ -93,7 +94,7 @@ const PARTIALS = {
     { name: 'Map', lines: block(['```leaflet', 'id: <% tp.file.title.replace(/[^A-Za-z0-9]/g, "") %>', 'image: [[z_Assets/PlaceholderImage.png]]',
       'bounds: [[0,0], [1815.07, 2805.48]]', 'height: 900px', 'width: 95%', 'lat: 907.53', 'long: 1402.74', 'minZoom: -1.5', 'maxZoom: 1.5',
       'defaultZoom: -1', 'zoomDelta: 0.5', 'unit: miles', 'scale: 1', 'lock: true', 'recenter: true', 'noScrollZoom: true', 'darkMode: false', '```']) },
-    { ...secrets(), name: 'DM Notes' },
+    dm(),
   ],
   'Tabs - Shop': () => [
     { name: 'Inventory', lines: [
@@ -106,7 +107,7 @@ const PARTIALS = {
     { name: 'At the Table', lines: [`**Owners** \`INPUT[inlineListSuggester(optionQuery(#npc)):owners]\``, '',
       `**Staff** \`INPUT[inlineListSuggester(optionQuery(#npc)):staff]\``, '', ...textArea('atmosphere', 'Atmosphere')] },
     player,
-    { ...secrets(), name: 'DM Notes' },
+    dm(),
   ],
   'Tabs - World': () => [
     { name: 'Overview', lines: [derived('Regions'), ...block(['```dataviewjs', 'await dv.view("views/locations", {current: dv.current()})', '```']), '',
@@ -116,14 +117,14 @@ const PARTIALS = {
     { name: 'Map', lines: block(['```leaflet', 'id: <% tp.file.title.replace(/[^A-Za-z0-9]/g, "") %>', 'image: [[z_Assets/PlaceholderImage.png]]',
       'bounds: [[0,0], [1815.07, 2805.48]]', 'height: 900px', 'width: 95%', 'lat: 907.53', 'long: 1402.74', 'minZoom: -1.5', 'maxZoom: 1.5',
       'defaultZoom: -1', 'zoomDelta: 0.5', 'unit: miles', 'scale: 1', 'lock: true', 'recenter: true', 'noScrollZoom: true', 'darkMode: false', '```']) },
-    { ...secrets(), name: 'DM Notes' },
+    dm(),
   ],
   'Tabs - Faction': () => [
     { name: 'At the Table', lines: [...textArea('goals', 'Goals'), ...textArea('resources', 'Resources'), ...text('symbol', 'Symbol'), ...text('motto', 'Motto')] },
     { name: 'Members', lines: inbound(['leader', 'founder', 'member', 'agent', 'former-member'], 'Members') },
     { name: 'Clock', lines: ['Faction clocks arrive with J8. Until then, `clock` steps live in frontmatter.'] },
     player,
-    secrets(),
+    dm(),
   ],
   'Tabs - Story Item': () => [
     { name: 'Overview', lines: [`**Holder** \`INPUT[suggester(optionQuery(#player), optionQuery(#npc), optionQuery(#faction), optionQuery(#party)):holder]\``, '',
@@ -133,14 +134,14 @@ const PARTIALS = {
       `**Charges** \`INPUT[number:charges.current]\` of \`INPUT[number:charges.max]\` · recharge \`INPUT[text:charges.recharge]\``] },
     player,
     { name: 'Connections', lines: [derived('Sessions'), ...sessionsWith('items')] },
-    secrets(textArea('curse', 'Curse')),
+    dm(textArea('curse', 'Curse')),
   ],
   'Tabs - Deity': () => [
     { name: 'Overview', lines: [...text('title', 'Title'), ...text('symbol', 'Symbol'), ...text('alignment', 'Alignment'),
       `**Domains** \`INPUT[inlineList:domains]\``, '', `**Mechanics** \`INPUT[suggester(optionQuery("5. Mechanics/Deities")):mechanics]\``] },
     player,
     { name: 'Connections', lines: inbound(['worships', 'cleric-of'], 'Worshippers') },
-    secrets(),
+    dm(),
   ],
   'Tabs - Creature': () => [
     { name: 'Overview', lines: [`**Base creature** \`INPUT[suggester(optionQuery("5. Mechanics/Bestiary")):base_creature]\``, '',
@@ -149,7 +150,7 @@ const PARTIALS = {
     player,
     { name: 'Connections', lines: [...relationshipButtons(), derived('Named individuals'),
       ...block(['```dataview', 'LIST FROM #npc WHERE contains(file.outlinks, this.file.link)', '```'])] },
-    secrets(),
+    dm(),
   ],
   'Tabs - Quest': () => [
     { name: 'Steps', lines: [
@@ -163,7 +164,7 @@ const PARTIALS = {
       derived('Sessions'), ...sessionsWith('quests')] },
     { name: 'Description', lines: [...textArea('description', 'Description'), ...textArea('stakes', 'Stakes'), ...text('reward', 'Reward'), ...text('deadline', 'Deadline')] },
     player,
-    secrets(),
+    dm(),
   ],
 }
 

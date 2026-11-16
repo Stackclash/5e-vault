@@ -22,7 +22,7 @@ CLAUDE.md holds the rules that bind all work. This skill holds the mechanics of 
 | Working on | Read |
 |---|---|
 | Where a note goes, which tags | `references/folders-tags.md` |
-| `gist`, `summary`, `facts`, `revealed`, `reveal`, `secrets`, what is player-facing | `references/knowledge-model.md` |
+| `gist`, `summary`, `facts`, `revealed`, `reveal`, DM Notes, what is player-facing | `references/knowledge-model.md` |
 | `relationships`, factions, deities, routes, who owns which link | `references/relationships.md` |
 | NPC, location, shop, world, faction, item, deity | `references/entity-schemas.md` |
 | Quest/arc, journal, prep, campaign, party, player | `references/campaign-schemas.md` |

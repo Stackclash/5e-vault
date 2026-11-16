@@ -12,10 +12,10 @@ An Obsidian vault for planning and running D&D 5e campaigns. There is no build, 
 
 1. **Read before writing.** Look up what the vault already says about a subject before creating or changing anything.
 2. **Canon is fixed.** Canon is: a session journal with `wrapped: true`; any fact or relationship the party has `learned`; any fact with `locked: true`; and state set by an approved session wrap. Agents never change canon. Only the DM reopens it, explicitly, per item; corrections to a wrapped journal go under `## Errata`.
-3. **The plan bends to play.** Unplayed steps, unlearned unlocked facts, `secrets`, and prep are plan. Change them by proposal, and log the reason in the note's `## Plan Changelog`. Never alter what happened to fit the plan.
+3. **The plan bends to play.** Unplayed steps, unlearned unlocked facts, `## DM Notes`, and prep are plan. Change them by proposal, and log the reason in the note's `## Plan Changelog`. Never alter what happened to fit the plan.
 4. **Flag contradictions; never resolve them.** Report both sources and stop.
 5. **The DM approves every reveal.** `revealed`, `reveal`, `public_name`, `summary`, every `learned` value, `locked`, and any `## Public` section are written only from a proposal line the DM accepted.
-6. **Player-facing text is separate from DM text.** `summary`, learned `facts`, and `## Public` sections are the only player-facing content in the vault. Never infer what the party knows from DM-voice fields (`description`, `history`, `personality`, `goals`, `secrets`, quest `description`).
+6. **Player-facing text is separate from DM text.** `summary`, learned `facts`, and `## Public` sections are the only player-facing content in the vault. Never infer what the party knows from DM-voice fields (`description`, `history`, `personality`, `goals`, quest `description`, `## DM Notes`).
 7. **Follow the campaign bible** (the active campaign note) for tone, power level, and lines and veils. If it is silent on something that matters, ask.
 8. **Outline, approval, then detail**, unless asked for a finished draft. Ask targeted questions when underspecified. Push back with alternatives when something is off.
 9. **Every note write goes through the `vault-note` skill.** No new folders, tags, fields, or note types without the DM's approval. If no convention covers a case, deliver content in the reply and ask.
@@ -54,7 +54,7 @@ Full schemas live in `.claude/skills/vault-note/references/`. The essentials:
 - `relationships` is a list of typed, directed links stored on one side only. Factions, deities, story items, and custom creatures are notes, not strings. Campaign-made notes use the tags `story-item`, `story-deity`, `story-creature`; the bare `item`, `deity`, and `monster` tags belong to generated content in `5. Mechanics/`.
 - Session journals are the record of play. Their link arrays (`party_present`, `locations`, `npcs`, `quests`, `items`, `factions`) are the ledger of what was actually encountered.
 
-**Migration in progress.** The vault is moving to these schemas per `z_Extra/Vault Design/03 Migration Plan.md`. Until it finishes, older shapes exist (`groups`, `religions`, `"Name|type"` relationship strings, `player_impression`, `player_summary`, `public_premise`, journal `campaign:`, `travel`). The index normalizes them; the lint lists them. Do not write the old shapes, and do not convert notes piecemeal outside the migration.
+**Migration in progress.** The vault is moving to these schemas per `z_Extra/Vault Design/03 Migration Plan.md`. Until it finishes, older shapes exist (`groups`, `religions`, `"Name|type"` relationship strings, `player_impression`, `player_summary`, `public_premise`, journal `campaign:`, `travel`, `secrets`). The index normalizes them; the lint lists them. Do not write the old shapes, and do not convert notes piecemeal outside the migration.
 
 ## Agents, skills, commands
 

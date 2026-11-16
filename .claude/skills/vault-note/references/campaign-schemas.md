@@ -14,7 +14,6 @@ summary: ""                   # player-safe hook-level blurb
 description: ""               # DM planning; may hold unrevealed beats
 revealed: {}
 facts: []
-secrets: ""
 giver: "[[…]]"
 npcs: []                      # [{name: "[[…]]", description: ""}]
 locations: []

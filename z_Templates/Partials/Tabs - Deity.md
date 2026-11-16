@@ -1,5 +1,5 @@
 ```meta-bind
-INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Connections), option(Secrets)):memory^tab]
+INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Connections), option(DM)):memory^tab]
 ```
 > [!tabbed-box]
 > > [!tab|no-t] Overview
@@ -27,24 +27,11 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Conn
 > > }
 > > ```
 >
-> > [!dm] Secrets
-> > **Secrets** `BUTTON[pop-secrets]`
-> > `INPUT[textArea:secrets]`
+> > [!dm] DM
+> > ```dataviewjs
+> > await dv.view("views/dmPanel", {current: dv.current()})
+> > ```
 
-```meta-bind-button
-label: ""
-icon: maximize-2
-tooltip: Edit Secrets in a larger window
-style: default
-id: pop-secrets
-hidden: true
-actions:
-  - type: js
-    file: z_Scripts/Meta Bind/popOutEditor.js
-    args:
-      field: secrets
-      label: Secrets
-```
 ```meta-bind-button
 label: ""
 icon: maximize-2

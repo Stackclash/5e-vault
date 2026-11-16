@@ -127,6 +127,7 @@ function load(rootArg) {
     // ---- entity
     const summary = fm.summary ?? fm.player_impression ?? fm.player_summary ?? fm.public_premise ?? ''
     for (const k of ['player_impression', 'player_summary', 'public_premise']) if (k in fm) legacy(n, `${k}: (should be summary:)`)
+    if (typeof fm.secrets === 'string' && fm.secrets.trim()) legacy(n, 'secrets: (dropped: facts and ## DM Notes; batch F)')
     const revealed = learnedParties(fm.revealed)
     const status = n.type === 'npc' ? (fm.condition ?? '') : n.type === 'quest'
       ? (fm.completed && Object.values(fm.completed).some(Boolean) ? 'completed' : fm.active && Object.values(fm.active).some(Boolean) ? 'active' : 'inactive')

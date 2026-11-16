@@ -333,6 +333,8 @@ Dated 2026-11-15 unless noted.
 | G2 reveal backfill | Starts at S1; S0 is excluded. |
 | Q6 list entry (2026-11-16) | Facts and quest steps use an Add button, not an empty last row. Route `mode` dropped. |
 | Party travel (2026-11-16) | `horseshoes_of_speed` toggle on the party (+30 speed). |
+| `secrets` field (2026-11-16) | Dropped. Learnable truths are facts; other DM prose goes under `## DM Notes`. The DM tab shows unlearned facts. Batch F converts the 11 notes that have it. |
+| Relationship tools (2026-11-16) | E4's graph view and Add/Remove forms pulled forward; the data conversion stays in E4. |
 | Campaign `summary` (2026-11-16) | Agents may edit it without a proposal line; it stays player-safe. |
 | CLAUDE.md lines (enums and `note_fields` in C11; casing in C5b) | Both approved. |
 

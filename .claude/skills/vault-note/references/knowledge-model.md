@@ -8,7 +8,7 @@ Per-party state is always a map keyed by the party note's name (e.g. `Midnight C
 |---|---|---|
 | `gist` | DM and agents | One line, 20 words or fewer: who or what this is and why it matters. Required on every entity. Never exported. |
 | `summary` | Players | One or two sentences, spoiler-safe. Exported when the entity is revealed. On journals it is the recap read aloud. |
-| `secrets` | DM only | Never exported. |
+| `## DM Notes` body section | DM only | Motives, plans, contingencies, continuity: DM prose that is not a learnable fact. Never exported. Replaces the dropped `secrets` field. |
 | `description`, `history`, `personality`, `ideal`, `bond`, `flaw`, `goals`, quest `description` | DM only | Written omnisciently. Never treat as what the party knows. |
 | `## Public` body section | Players | Optional long form. Exported verbatim. Everything else in a body is DM-only. |
 
@@ -43,7 +43,7 @@ facts:
 
 ## What a site export shows for a revealed entity
 
-Always: display name (`public_name` or the note name), `pronounced`, type, `summary`, sessions appeared in. When learned: each fact, each relationship edge whose target is also revealed. Only if listed in `reveal`: any other frontmatter field. Never: the body outside `## Public`, `secrets`, `gist`, `dm`, aliases, stat blocks.
+Always: display name (`public_name` or the note name), `pronounced`, type, `summary`, sessions appeared in. When learned: each fact, each relationship edge whose target is also revealed. Only if listed in `reveal`: any other frontmatter field. Never: the body outside `## Public`, `gist`, `dm`, aliases, stat blocks.
 
 Writing player-facing text: do not link an entity the party has not been shown; name it only if the party knows the name.
 
@@ -53,11 +53,11 @@ Writing player-facing text: do not link an entity the party has not been shown; 
 |---|---|
 | A journal with `wrapped: true` (body, `summary`, ledger) | Unplayed quest steps |
 | A fact or edge with `learned` set | Unlearned facts without `locked` |
-| A fact with `locked: true` | `secrets`, prep notes, the roadmap in the campaign note |
+| A fact with `locked: true` | `## DM Notes`, prep notes, the roadmap in the campaign note |
 | State set by an approved wrap: NPC `condition`, quest `completed`, item `holder` | |
 
 Only the DM reopens canon, explicitly, per item. Corrections to a wrapped journal go under `## Errata` with a date.
 
 ## Who may write what
 
-Every field in "The three knowledge states", plus `summary`, `locked`, and `## Public`, is written only from a proposal line the DM accepted. `gist`, `secrets`, unlearned unlocked facts, and DM-voice fields may be drafted freely as part of approved creative work.
+Every field in "The three knowledge states", plus `summary`, `locked`, and `## Public`, is written only from a proposal line the DM accepted. `gist`, `## DM Notes`, unlearned unlocked facts, and DM-voice fields may be drafted freely as part of approved creative work.

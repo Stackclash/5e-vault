@@ -271,16 +271,16 @@ Run after A3 (repairs `prep-notes` values) and C5 (drops `travelDistances` and `
 
 | Template | Frontmatter additions (as empty values) | Body |
 |---|---|---|
-| `World Building/NPC.md` | `gist: ""`, `summary: ""`, `revealed: {}`, `reveal: {}`, `facts: []`, `secrets: ""`. Remove `groups: []`, `religions: []`. | The gist input goes in the skeleton's gist strip (`04 Expansion` §2.1), not the infobox; the same applies to every "Gist row" in this table. Leave the Group(s)/Religion(s) rows until E2/E3. Add `### Plot Hooks` above `### Hidden Details` (matches the mirror). |
-| `World Building/Location.md` | `gist`, `revealed`, `reveal`, `facts`, `secrets`, `routes: []`. Remove `religions: []`. | Add a Gist row; remove the Religions row. |
+| `World Building/NPC.md` | `gist: ""`, `summary: ""`, `revealed: {}`, `reveal: {}`, `facts: []`. No `secrets` (dropped 2026-11-16). Remove `groups: []`, `religions: []`. | The gist input goes in the skeleton's gist strip (`04 Expansion` §2.1), not the infobox; the same applies to every "Gist row" in this table. Leave the Group(s)/Religion(s) rows until E2/E3. Add `### Plot Hooks` above `### Hidden Details` (matches the mirror). |
+| `World Building/Location.md` | `gist`, `revealed`, `reveal`, `facts`, `routes: []`. Remove `religions: []`. | Add a Gist row; remove the Religions row. |
 | `World Building/Shop.md` | done in C4 | — |
-| `Campaign/Quest.md` | `kind: quest`, `parent: ""`, `gist`, `revealed`, `facts`, `secrets`, `giver: ""`, `locations: []`, `items: []`, `factions: []`, `pcs: []` | Replace the four legacy button scripts (`addItem.js`, `removeItem.js`, `moveUp.js`, `moveDown.js`) with `arrayActions.js` calls per `vault-note/references/templates.md`. |
+| `Campaign/Quest.md` | `kind: quest`, `parent: ""`, `gist`, `revealed`, `facts`, `giver: ""`, `locations: []`, `items: []`, `factions: []`, `pcs: []` | Replace the four legacy button scripts (`addItem.js`, `removeItem.js`, `moveUp.js`, `moveDown.js`) with `arrayActions.js` calls per `vault-note/references/templates.md`. |
 | `Campaign/Campaign.md` | `site_slug: ""` | — |
 | `DM Prep/Session Journal.md` | `factions: []`, `wrapped: false`, `publish: false` | Add a **Factions** row to Session Links (`inlineListSuggester(optionQuery(#faction))`). Change the Items row per T3's result. |
 | `DM Prep/Session Prep.md` | `session_number:`, `journal: ""`, `obsidianUIMode: preview` | Add `## Improvisation Kit` as the last heading. |
 | **New** `World Building/Faction.md`, `Item.md`, `Deity.md`, `Creature.md` | Per `vault-note/references/entity-schemas.md` | Model on `Shop.md`: the `templateInit`/`formFields` pattern, a name field, `init.moveFile(tp, config.locations.factions|items|deities|creatures, data.name)`, an infobox with inputs for the type's fields, `## DM Notes`. `Creature.md` also gets the `## Stats` section with an empty `statblock` block and `^statblock` anchor, copied from `NPC.md`. |
 
-- **`monster.txt` `isNpc` branch:** bring its frontmatter to parity with `NPC.md`: emit every key `NPC.md` emits, with empty defaults where the import has no data (`location:` empty, `relationships: []`, `race:`, `gender:`, `age:`, `occupation: []`, `gist: ""`, `summary: ""`, `revealed: {}`, `reveal: {}`, `facts: []`, `secrets: ""`, `party_relationships: {}`, and the text fields as `""`). Make the same body changes as `NPC.md`. Qute syntax: literal braces are written `\{` and `\}`.
+- **`monster.txt` `isNpc` branch:** bring its frontmatter to parity with `NPC.md`: emit every key `NPC.md` emits, with empty defaults where the import has no data (`location:` empty, `relationships: []`, `race:`, `gender:`, `age:`, `occupation: []`, `gist: ""`, `summary: ""`, `revealed: {}`, `reveal: {}`, `facts: []`, `party_relationships: {}`, and the text fields as `""`). Make the same body changes as `NPC.md`. Qute syntax: literal braces are written `\{` and `\}`.
 - **Delete** the empty stub `World Building/Group.md` (replaced by `Faction.md`; approved 2026-11-15). **Leave `Event.md`:** the DM wants an Event note type with a location; it is an open design item (`04 Expansion` §5), not part of the migration.
 - **Verify:** `grep -c "groups:\|religions:" "z_Templates/Templater/World Building/NPC.md"` → 0. Ask the DM to create one throwaway NPC, Faction, Item, Deity, and Quest from the templates, confirm each lands in the right folder with the right tags, then delete them. `diff <(grep -o "^[a-zA-Z_]*:" NPC-template-frontmatter) <(same for monster.txt isNpc)` shows the same key set.
 
@@ -372,6 +372,8 @@ A field is finished only when every skill, agent, and script that reads or write
 - **Rollback paths:** `.claude/skills/`, `.claude/agents/`, `CLAUDE.md`.
 - **Reminder:** `.claude/` is globally git-ignored; changed skill files that were force-added are tracked, new files need `git add -f` (H7).
 
+- **`secrets` dropped (2026-11-16):** every skill and agent that reads or writes `secrets` (`canon-check`, `session-prep`, `reveal-review`, `story-creator`, `encounter-builder`, `session-wrap`, `world-builder`, `lore-researcher`, `vault-keeper`, `table-assistant`) switches to facts (learnable truths) and `## DM Notes` (other DM prose). Session prep's "Secrets & Clues" draws its secrets from unlearned facts.
+
 ### J-batch skill follow-ups
 
 Each J batch that ships a tool also updates the skills named *later* above in the same batch: J1 → `dnd-qa`, `table-assistant`; J2 → `vault-note/references/folders-tags.md`; J3 → `vault-note` shop schema notes on `pinned_items`/`last_stocked`; J5 → `session-prep` (open the Session Dashboard); J6 → `table-assistant`, `session-prep`; J7 → `session-wrap` (advance time is a DM action, the wrap reads the result); J8 → `encounter-builder`.
@@ -386,8 +388,8 @@ Each J batch that ships a tool also updates the skills named *later* above in th
 
 | Notes | Keys, in this order, inserted after `condition`/`location` |
 |---|---|
-| NPC, region, settlement, place of interest, shop, world | `gist: ""`, `summary: ""`, `revealed: {}`, `reveal: {}`, `facts: []`, `secrets: ""` (skip `secrets` on shop and world) |
-| Quest | `kind: quest`, `gist: ""`, `summary: ""`, `revealed: {}`, `facts: []`, `secrets: ""`, `giver: ""`, `locations: []`, `items: []`, `factions: []`, `pcs: []`; on each `steps[]` entry add `status: played` if any `completed` value is true, else `status: planned` |
+| NPC, region, settlement, place of interest, shop, world | `gist: ""`, `summary: ""`, `revealed: {}`, `reveal: {}`, `facts: []` |
+| Quest | `kind: quest`, `gist: ""`, `summary: ""`, `revealed: {}`, `facts: []`, `giver: ""`, `locations: []`, `items: []`, `factions: []`, `pcs: []`; on each `steps[]` entry add `status: played` if any `completed` value is true, else `status: planned` |
 | Player | `gist: ""`, `summary: ""`, `revealed: {<their party name>: true}`, `facts: []`, `tagline: ""` |
 | Campaign | `summary: ""`, `site_slug: ""` |
 | Journal | `factions: []`, `wrapped: false`, `publish: false` |
@@ -427,7 +429,7 @@ Each J batch that ships a tool also updates the skills named *later* above in th
 | **Ask:** Vistani — one faction, or one per camp (Vallaki, Tser Pool)? | 5 strings incl. "(adopted)", "(allied)" | — |
 | **Ask:** Dusk elves — one faction or two (Barovia, Duskferry)? | 4 strings | — |
 | **Ask:** Fiona Wachter's Cult — separate, or part of House Wachter? | 1 | — |
-| **Ask:** "Vecna's claimed", "Jakarion's expedition", "The Amber Temple's original order of wizards" — faction, or leave in `secrets`? | 3 | — |
+| **Ask:** "Vecna's claimed", "Jakarion's expedition", "The Amber Temple's original order of wizards" — faction, or leave in `## DM Notes`? | 3 | — |
 | **Not factions (places):** St. Andral's Church, Abbey of Saint Markovia → a `works-at` or `home` edge to the existing location note | 2 | — |
 | **Ask:** stubs for factions named only in the campaign note — Eternal Watch, Watchers over the Fallen? | — | — |
 
@@ -455,6 +457,8 @@ Each J batch that ships a tool also updates the skills named *later* above in th
 ### E4 [M] Legacy relationship strings → typed edges, and the views that read them
 
 One batch; the notes and the scripts must change together.
+
+**Pulled forward (2026-11-16, DM):** the `npcRelationships.js` rewrite and both forms are done (they read legacy strings until the notes convert; Remove lists edges stored on either end; inbound inverse labels use the storing note's gender). E4 still does the note conversion, `data/npcs.js`, and `relationship_mapping` removal.
 
 - **Notes (11):** convert `"Name|type"` to `{target: "<full-path link>", type: <type>}`. Then remove redundant mirrors: for parent/child pairs keep the child's `father`/`mother` edge and delete the parent's `son`/`daughter` edge; for `husband`/`wife` and other pairs keep the edge on the alphabetically earlier note. "ally of convenience" → `type: ally`, `note: "of convenience"` (keep both directions only if both notes had it; the lint will flag the mirror for the DM to decide).
 - **`z_Scripts/Dataview/views/npcRelationships.js` — rewrite to this spec:**
@@ -514,6 +518,7 @@ Propose each move as a before/after pair; change no wording.
 | Journals with `#secret` lines or inline "DM-only:" sentences (S14, S15, S44, S45) | Wrap each in a `> [!dm]` callout |
 | Superseded design text (Greyfen Hollow and Izek General Notes, "revised 2026-11-13") | Ask whether to delete the superseded part |
 | `Settlements/Duskferry.md` "Not yet visited by the party" | Contradicts S46: report, ask |
+| The 11 notes with `secrets` text (`lint.js --rule "legacy: secrets"`); the field was dropped 2026-11-16 | Per note, propose: each learnable truth as a fact (one sentence, `locked` only on the DM's word), and the remaining prose moved verbatim under `## DM Notes`. Then delete the key. |
 
 **Verify:** `grep -c "#secret" ` over journals → 0 outside callouts.
 
@@ -531,7 +536,7 @@ For every entity under `missing-gist` (129): draft a `gist` of 20 words or fewer
 
 - **Order:** S1 → S48 (S0 excluded, per the DM), five sessions per sitting (about 10 sittings).
 - **Per session:** ledger corrections; entities first encountered → `revealed` with a draft `summary` and `reveal` list; facts learned (attached to entities, `learned` = this journal); edges learned; a title for untitled journals (S46–S48); missing `fc-end`.
-- **Sources:** journal text only. Never `secrets`, DM-voice fields, or `6. Resources/`.
+- **Sources:** journal text only. Never `## DM Notes`, legacy `secrets`, DM-voice fields, or `6. Resources/`.
 - **After acceptance:** write; set `wrapped: true` when the DM confirms the journal is final.
 - **Verify per sitting:** `ledger-entity-undecided` → 0 for the wrapped sessions; `revealed-no-summary`, `learned-*`, `public-text-links-unrevealed` → 0.
 
