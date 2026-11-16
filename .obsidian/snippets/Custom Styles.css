@@ -244,3 +244,12 @@
 /* Gist strip */
 .callout[data-callout="gist"] { --callout-color: var(--color-accent-rgb, 120, 120, 120); margin: 0.4em 0 0.8em; }
 .callout[data-callout="gist"] > .callout-title { display: none; }
+.entity-chip-clear {
+  padding: 0 0.35em;
+  height: auto;
+  line-height: 1.2;
+  background: transparent;
+  box-shadow: none;
+  color: var(--text-faint);
+}
+.entity-chip-clear:hover { color: var(--text-error); }

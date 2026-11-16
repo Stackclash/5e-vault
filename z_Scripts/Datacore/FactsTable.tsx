@@ -41,6 +41,14 @@ function FactsTable() {
     { action: "add", field: "facts", template: { text: "", learned: {} } },
     { style: "primary", label: "Add Fact" }))
 
+  // Clears the learned link for the active party, so the fact goes back to unlearned.
+  const clearLearned = async (i) => {
+    const file = app.vault.getAbstractFileByPath(sourcePath)
+    await app.fileManager.processFrontMatter(file, fm => {
+      if (fm.facts?.[i]?.learned && typeof fm.facts[i].learned === "object") delete fm.facts[i].learned[party]
+    })
+  }
+
   const rows = facts.map((fact, i) => ({ i, fact }))
   const columns = [
     {
@@ -49,12 +57,19 @@ function FactsTable() {
     },
     {
       id: party ? `Learned (${party})` : "Learned",
-      value: ({ i }) => party
-        ? md(generateMetaBindInput({
-            type: "suggester",
-            options: ["optionQuery(#session-journal)"],
-            field: ["facts", i, "learned", party],
-          }))
+      value: ({ i, fact }) => party
+        ? (
+          <span style={{ display: "inline-flex", alignItems: "center", gap: "0.3em" }}>
+            {md(generateMetaBindInput({
+              type: "suggester",
+              options: ["optionQuery(#session-journal)"],
+              field: ["facts", i, "learned", party],
+            }))}
+            {fact?.learned?.[party] != null && (
+              <button className="entity-chip-clear" aria-label="Clear learned" onClick={() => clearLearned(i)}>×</button>
+            )}
+          </span>
+        )
         : "",
     },
     {

@@ -95,5 +95,23 @@ const img = imagesMd()
 if (img) dv.el("div", img, { cls: "entity-images", container: root })
 dv.el("h1", current.file.name, { cls: "entity-name", container: root })
 dv.el("div", "`INPUT[text(placeholder(pronounced)):pronounced]`", { cls: "entity-pronounced", container: root })
-const state = [...chips.map(chipMarkdown).filter(Boolean), badge()].filter(Boolean)
-if (state.length) dv.el("div", state.join(" "), { cls: "entity-chips", container: root })
+// Per-party select chips get a clear button: it deletes the party's key so the value goes back to unset.
+async function clearPartyKey(field) {
+    const file = app.vault.getAbstractFileByPath(current.file.path)
+    await app.fileManager.processFrontMatter(file, fm => {
+        if (fm[field] && typeof fm[field] === "object") delete fm[field][party]
+    })
+}
+const chipsEl = dv.el("div", "", { cls: "entity-chips", container: root })
+for (const f of chips) {
+    const md = chipMarkdown(f)
+    if (!md) continue
+    const el = dv.el("span", md, { container: chipsEl })
+    const perParty = f.per_party ?? PER_PARTY.has(f.field)
+    if (perParty && f.input !== "toggle" && current[f.field]?.[party] != null) {
+        const btn = el.createEl("button", { cls: "entity-chip-clear", text: "×", attr: { "aria-label": `Clear ${label(f)}` } })
+        btn.onclick = () => clearPartyKey(f.field)
+    }
+}
+const b = badge()
+if (b) dv.el("span", b, { container: chipsEl })
