@@ -253,7 +253,6 @@ item_pricing:
     short-rest: 0.95
     long-rest: 0.85
 enums:
-  npc_roles: [ villain, lieutenant, patron, ally, contact, rival, minor ]
   npc_conditions: [ healthy, injured, captured, missing, dead, unknown ]
   party_relationships: [ Acquaintance, Friendly, Ally, Disgruntled, Enemy ]
   party_standings: [ Hostile, Unfriendly, Neutral, Friendly, Allied ]
