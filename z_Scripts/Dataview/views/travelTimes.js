@@ -14,9 +14,12 @@ const inbound = dv.pages('#location')
         .map(r => ({ page: p, miles: r.miles })))
     .array()
 
-const days = miles => minsPerMile > 0 && hoursPerDay > 0
-    ? `${Math.round(miles * minsPerMile / 60 / hoursPerDay * 10) / 10} days`
-    : 'set party pace'
+const round1 = n => Math.round(n * 10) / 10
+const days = miles => {
+    if (!(minsPerMile > 0 && hoursPerDay > 0)) return 'set party pace'
+    const hours = miles * minsPerMile / 60
+    return hours < hoursPerDay ? `${round1(hours)} hours` : `${round1(hours / hoursPerDay)} days`
+}
 
 dv.table(['Location', 'Distance', 'Travel Time'], [...outbound, ...inbound]
     .filter(r => r.page)
