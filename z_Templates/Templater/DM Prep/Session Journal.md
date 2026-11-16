@@ -68,7 +68,7 @@ timelines: <% latestJournal ? `\n  - ${latestJournal.timelines[0]}` : '' %>
 aat-render-enabled: true
 fc-category: Session
 party: "<% selectedParty ? selectedParty.file.link : '' %>"
-prep-notes: "<% prepNote ? prepNote : '' %>"
+prep_notes: "<% prepNote ? prepNote : '' %>"
 party_present: []
 locations: []
 npcs: []
@@ -84,7 +84,7 @@ tags:
 > | **Session #:** | `INPUT[number:session_number]` |
 > | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
 > ## Fantasy Dates
 > | | |
 > |---|---|

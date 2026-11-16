@@ -45,7 +45,7 @@ date: 2026-10-17              # real-world play date; never guess
 session_number: 48
 summary: ""                   # player-facing recap, read aloud
 party: "[[3. The Party/Parties/….md|…]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/<Campaign>/<date>.md|<date>]]"
+prep_notes: "[[1. DM Toolkit/Session Prep/<Campaign>/<date>.md|<date>]]"
 fc-date: 973-2-31
 fc-end: 973-2-31
 fc-category: Session

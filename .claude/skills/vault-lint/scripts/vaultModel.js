@@ -119,7 +119,7 @@ function load(rootArg) {
         counts: Object.fromEntries(Object.keys(LEDGER).map(k => [k, arr(fm[k]).length])) })
       if ('campaign' in fm) legacy(n, 'journal uses campaign: (should be party:)')
       for (const [field, type] of Object.entries(LEDGER)) for (const v of arr(fm[field])) edge(n, 'session-' + type, v, { field })
-      for (const v of linkTargets(fm['prep-notes'])) edge(n, 'prep', v, { field: 'prep-notes' })
+      for (const v of linkTargets(fm.prep_notes ?? fm['prep-notes'])) edge(n, 'prep', v, { field: 'prep_notes' })
       continue
     }
     if (n.type === 'session-prep') { for (const v of linkTargets(fm.journal)) edge(n, 'journal', v, { field: 'journal' }); continue }

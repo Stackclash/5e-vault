@@ -11,7 +11,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: ""
+prep_notes: ""
 party_present:
   - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
   - "[[3. The Party/Players/Wisp.md|Wisp]]"
@@ -34,7 +34,7 @@ tags:
 > | **Session #:** | `INPUT[number:session_number]` |
 > | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
 > ## Fantasy Dates
 > | | |
 > |---|---|

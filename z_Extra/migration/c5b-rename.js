@@ -16,7 +16,7 @@ const GROUPS = {
     dirs: ['1. DM Toolkit/Session Journals'],
     keys: { 'prep-notes': 'prep_notes' },
     body: [['):prep-notes]', '):prep_notes]']],
-    expectKeys: 49, expectBody: 48,
+    expectKeys: 48, expectBody: 48,
   },
 }
 

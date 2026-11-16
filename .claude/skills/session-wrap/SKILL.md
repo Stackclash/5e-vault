@@ -17,7 +17,7 @@ Turn what happened into canon, with the DM approving every line. Draft first, wr
 
 Deliver everything below in a single reply, every line numbered, so it can be answered in one pass.
 
-1. **Journal draft.** Title, `summary` (player-facing, read aloud, zero DM-only content), body sections, `date`, `fc-date`, `fc-end`, `prep-notes`. Put what you cannot know in a short question list; never guess dates.
+1. **Journal draft.** Title, `summary` (player-facing, read aloud, zero DM-only content), body sections, `date`, `fc-date`, `fc-end`, `prep_notes`. Put what you cannot know in a short question list; never guess dates.
 2. **Ledger.** `party_present`, `locations`, `npcs`, `quests`, `items`, `factions`, each entry with the note line it came from.
 3. **New entities.** Names with no note: create (which type), alias to an existing note, or skip. Nameless one-off characters are skipped by default and stay in the journal.
 4. **Reveals.**

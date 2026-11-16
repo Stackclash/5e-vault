@@ -80,7 +80,7 @@ for (const s of model.sessions) {
   if (!s.party && s.number !== 0) E('journal-no-party', s.path, 'no party: link')
   if (!s.summary) W('journal-no-summary', s.path, '')
   if (!s.fcEnd && s.number !== 0) W('journal-no-fc-end', s.path, '')
-  if (s.number !== 0 && !arr(n.fm['prep-notes']).filter(Boolean).length) W('journal-no-prep-link', s.path, '')
+  if (s.number !== 0 && !arr(n.fm.prep_notes ?? n.fm['prep-notes']).filter(Boolean).length) W('journal-no-prep-link', s.path, '')
   if (s.number !== 0 && s.counts.npcs + s.counts.locations === 0) W('journal-empty-ledger', s.path, '')
   if (s.wrapped || s.publish) for (const e of model.edges.filter(x => x.source === s.path && x.type.startsWith('session-') && x.resolved)) {
     const t = ent.get(e.target)

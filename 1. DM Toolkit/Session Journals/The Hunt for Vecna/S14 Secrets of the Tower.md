@@ -15,7 +15,7 @@ aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[2024-03-09]]"
+prep_notes: "[[2024-03-09]]"
 tags:
   - session-journal
 locations:
@@ -38,7 +38,7 @@ items: []
 > | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
 > | **Session #:** | `INPUT[number:session_number]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
 > ## Fantasy Dates
 > | | |
 > |---|---|

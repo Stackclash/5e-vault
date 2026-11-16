@@ -11,7 +11,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-10-17.md|2026-10-17]]"
+prep_notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2026-10-17.md|2026-10-17]]"
 party_present: []
 locations:
   - "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"
@@ -30,7 +30,7 @@ tags:
 > | **Session #:** | `INPUT[number:session_number]` |
 > | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
 > ## Fantasy Dates
 > | | |
 > |---|---|

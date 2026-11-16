@@ -13,7 +13,7 @@ aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-08-17.md|2024-08-17]]"
+prep_notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-08-17.md|2024-08-17]]"
 tags:
   - session-journal
 locations:
@@ -32,7 +32,7 @@ items: []
 > | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
 > | **Session #:** | `INPUT[number:session_number]` |
 > | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
+> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
 > ## Fantasy Dates
 > | | |
 > |---|---|
