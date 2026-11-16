@@ -4,24 +4,20 @@ location: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 images:
   - z_Assets/Barovia_Banner.webp
 pronounced: Bar - o - via
-resources:
-population:
-terrain:
+resources: 
+population: 
+terrain: 
 rulers:
   - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
-government:
-army:
-religions:
-imports:
-exports:
+government: 
+army: 
+religions: 
+imports: 
+exports: 
 routes:
-  - to: "[[4. World Almanac/Shops/Golden Hammer.md|Golden Hammer]]"
-    miles: 10
-  - to: "[[4. World Almanac/Regions/Greenfall.md|Greenfall]]"
-    miles: 20
-  - to: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
-    miles: 10
-aliases:
+  - to: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]"
+    miles: 60
+aliases: 
 tags:
   - region
   - location

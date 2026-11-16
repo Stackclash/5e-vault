@@ -526,9 +526,7 @@ source	type	target	learned_by	note
 4. World Almanac/Places of Interest/Yester Hill.md	location	4. World Almanac/Regions/Barovia.md		
 4. World Almanac/Regions/Barovia.md	location	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Regions/Barovia.md	ruler	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
-4. World Almanac/Regions/Barovia.md	route	4. World Almanac/Shops/Golden Hammer.md		10 mi
-4. World Almanac/Regions/Barovia.md	route	4. World Almanac/Regions/Greenfall.md		20 mi
-4. World Almanac/Regions/Barovia.md	route	4. World Almanac/Places of Interest/Wachterhaus.md		10 mi
+4. World Almanac/Regions/Barovia.md	route	4. World Almanac/Shops/Blinsky Toys.md		60 mi
 4. World Almanac/Regions/Greenfall.md	location	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Settlements/Bruokdon.md	location	4. World Almanac/Regions/Greenfall.md		
 4. World Almanac/Settlements/Duskferry.md	location	4. World Almanac/Regions/Greenfall.md		
@@ -538,7 +536,6 @@ source	type	target	learned_by	note
 4. World Almanac/Settlements/Vallaki.md	location	4. World Almanac/Regions/Barovia.md		
 4. World Almanac/Settlements/Vallaki.md	ruler	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md		
 4. World Almanac/Settlements/Vallaki.md	route	4. World Almanac/Places of Interest/Van Richten's Tower.md		12.7 mi
-4. World Almanac/Settlements/Vallaki.md	route	4. World Almanac/Settlements/Duskferry.md		20 mi
 4. World Almanac/Settlements/Village of Barovia.md	location	4. World Almanac/Regions/Barovia.md		
 4. World Almanac/Shops/Bildrath's Mercantile.md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/Shops/Bildrath's Mercantile.md	staff	4. World Almanac/NPCs/Parriwimple (COS).md		
