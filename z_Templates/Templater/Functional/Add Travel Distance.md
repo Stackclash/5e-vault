@@ -30,27 +30,22 @@ const result = await modalForm.openForm({
             input: {
                 type: 'number'
             }
-        },
-        {
-            name: 'mode',
-            label: 'Mode',
-            description: 'How is the route travelled?',
-            isRequired: true,
-            input: {
-                type: 'select',
-                source: 'fixed',
-                options: ['road', 'river', 'trail', 'sea', 'air'].map(m => ({ label: m, value: m }))
-            }
         }
     ]
 })
 if (result.status !== 'ok') return
-const { location: selectedPath, distance, mode } = result.getData()
+const { location: selectedPath, distance } = result.getData()
 const page = dv.page(selectedPath)
+const here = tp.config.active_file.path
+const linksTo = (p, path) => (p?.routes || []).some(r => dv.page(r?.to?.path ?? r?.to)?.file.path === path)
+if (linksTo(dv.page(here), page.file.path) || linksTo(page, here)) {
+    new Notice(`A route between ${tp.file.title} and ${page.file.name} already exists.`)
+    return
+}
 app.fileManager.processFrontMatter(tp.config.active_file, (fm) => {
     fm.routes = [
         ...(fm.routes || []),
-        { to: "[[" + page.file.path + "|" + page.file.name + "]]", miles: Number(distance), mode }
+        { to: "[[" + page.file.path + "|" + page.file.name + "]]", miles: Number(distance) }
     ]
 })
 -%>

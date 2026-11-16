@@ -54,7 +54,7 @@ army:
 imports: []
 exports: []
 resources: []                 # links into 6. Resources
-routes: []                    # [{to: "[[…]]", miles: 12, mode: road, note: ""}]
+routes: []                    # [{to: "[[…]]", miles: 12, note: ""}]; stored on one end only; no mode (travel method is on the party)
 ```
 
 ## Shop — `shop`, `location`

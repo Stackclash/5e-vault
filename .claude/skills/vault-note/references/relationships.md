@@ -35,7 +35,7 @@ relationships:
 |---|---|---|
 | Thing → current place, or location → parent | the thing | `location` |
 | Location → ruler | location | `rulers` |
-| Location ↔ location route | either end, once | `routes: [{to, miles, mode, note}]` |
+| Location ↔ location route | either end, once | `routes: [{to, miles, note}]`. No `mode`: how the party travels is the party note's Method and pace. |
 | Shop → owners, staff, stock | shop | `owners`, `staff`, `items` |
 | Story item → who holds it / where it rests | item | `holder`, `location` |
 | Quest → NPCs | quest | `npcs: [{name, description}]` |
