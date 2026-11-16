@@ -16,6 +16,10 @@ locations:
   groups: 4. World Almanac/Groups
   monsters: 5. Mechanics/Bestiary
   campaigns: 1. DM Toolkit/Campaigns
+  factions: 4. World Almanac/Factions
+  items: 4. World Almanac/Items
+  deities: 4. World Almanac/Deities
+  creatures: 4. World Almanac/Creatures
 relationship_mapping:
   - to: Father
     from:
@@ -70,6 +74,46 @@ relationship_mapping:
       male: Nephew
       female: Niece
     to: Aunt
+relationship_types:
+  - { type: father, category: family, inverse: { male: son, female: daughter } }
+  - { type: mother, category: family, inverse: { male: son, female: daughter } }
+  - { type: son, category: family, inverse: { male: father, female: mother } }
+  - { type: daughter, category: family, inverse: { male: father, female: mother } }
+  - { type: husband, category: family, inverse: wife }
+  - { type: wife, category: family, inverse: husband }
+  - { type: brother, category: family, inverse: { male: brother, female: sister } }
+  - { type: sister, category: family, inverse: { male: brother, female: sister } }
+  - { type: uncle, category: family, inverse: { male: nephew, female: niece } }
+  - { type: aunt, category: family, inverse: { male: nephew, female: niece } }
+  - { type: nephew, category: family, inverse: { male: uncle, female: aunt } }
+  - { type: niece, category: family, inverse: { male: uncle, female: aunt } }
+  - { type: cousin, category: family, inverse: cousin, symmetric: true }
+  - { type: friend, category: personal, inverse: friend, symmetric: true }
+  - { type: ally, category: personal, inverse: ally }
+  - { type: rival, category: personal, inverse: rival }
+  - { type: enemy, category: personal, inverse: enemy }
+  - { type: lover, category: personal, inverse: lover, symmetric: true }
+  - { type: mentor, category: personal, inverse: student }
+  - { type: student, category: personal, inverse: mentor }
+  - { type: employer, category: work, inverse: employee }
+  - { type: employee, category: work, inverse: employer }
+  - { type: serves, category: work, inverse: master }
+  - { type: master, category: work, inverse: serves }
+  - { type: handler, category: work, inverse: asset }
+  - { type: asset, category: work, inverse: handler }
+  - { type: patron, category: work, inverse: client }
+  - { type: client, category: work, inverse: patron }
+  - { type: member, category: faction }
+  - { type: leader, category: faction }
+  - { type: founder, category: faction }
+  - { type: agent, category: faction }
+  - { type: former-member, category: faction }
+  - { type: worships, category: faith }
+  - { type: cleric-of, category: faith }
+  - { type: home, category: place }
+  - { type: works-at, category: place }
+  - { type: origin, category: place }
+  - { type: imprisoned-at, category: place }
 shop_types:
   - name: Blacksmith
     filters:

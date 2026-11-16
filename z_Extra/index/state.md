@@ -1,4 +1,4 @@
-built: 2026-11-16T04:35:47.192Z
+built: 2026-11-16T12:46:39.154Z
 campaign: The Hunt for Vecna
 party: Midnight Covenant
 latest session: S48 New Session Journal (played 2026-10-17; in-world 973-2-31; wrapped: false)
