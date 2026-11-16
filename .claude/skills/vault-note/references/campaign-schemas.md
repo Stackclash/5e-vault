@@ -74,7 +74,7 @@ Body headings: `## Session Overview`, `## Key Learnings`, `## Items Of Importanc
 
 ## Party — `party`
 
-Travel fields only (`travel_speed`, `travel_multiplier`, `travel_bonus`, `travel_hours_per_day`, `exhaustion_level`, `encumbered`, `var_mins`, `travel_calc`, `hours_per_day`, `movement`, `speed`). Roster comes from player notes.
+Travel fields only (`travel_speed`, `travel_multiplier`, `travel_bonus`, `travel_hours_per_day`, `exhaustion_level`, `encumbered`, `var_mins`, `travel_calc`, `hours_per_day`, `movement`, `speed`) and transport-cost inputs (`travel_distance`, `danger_level`, `familiar_route`, `party_members`, `lifestyle_cost_sp`, `include_meals`, `coach_cost`, `coach_cost_per_mile`, `messenger_cost_per_mile`, `ship_cost_per_mile`; moved from the retired Travel calculator in J4). Roster comes from player notes.
 
 ## Player character — `player`
 
