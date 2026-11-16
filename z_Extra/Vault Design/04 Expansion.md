@@ -335,6 +335,7 @@ Dated 2026-11-15 unless noted.
 | Party travel (2026-11-16) | `horseshoes_of_speed` toggle on the party (+30 speed). |
 | `secrets` field (2026-11-16) | Dropped. Learnable truths are facts; other DM prose goes under `## DM Notes`. The DM tab shows unlearned facts. Batch F converts the 11 notes that have it. |
 | `derived` labels (2026-11-16) | Removed everywhere. |
+| Note layout (2026-11-16) | Image in the infobox, which comes first and floats beside the header and tabs. Pronounced and Edit all on the chip row; gist as a strip in the header. DM Notes inside the DM tab. Stats becomes a tab if T12 passes. |
 | Relationship tools (2026-11-16) | E4's graph view and Add/Remove forms pulled forward; the data conversion stays in E4. |
 | Campaign `summary` (2026-11-16) | Agents may edit it without a proposal line; it stays player-safe. |
 | CLAUDE.md lines (enums and `note_fields` in C11; casing in C5b) | Both approved. |
