@@ -57,6 +57,7 @@ army:
 religions: []
 imports: []
 exports: []
+routes: []
 aliases: []
 tags:
   - location

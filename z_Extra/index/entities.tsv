@@ -1,5 +1,5 @@
 type	name	aliases	path	parent	status	revealed_to	gist
-campaign	The Hunt for Vecna		1. DM Toolkit/Campaigns/The Hunt for Vecna.md				
+campaign	The Hunt for Vecna		1. DM Toolkit/Campaigns/The Hunt for Vecna.md				Testing
 npc	Adrian Martikov		4. World Almanac/NPCs/Adrian Martikov.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
 npc	Amber Warden		4. World Almanac/NPCs/Amber Warden.md	4. World Almanac/Places of Interest/Greyfen Hollow.md	healthy		
 npc	Anastrasya Karelova (COS)	Anastrasya Karelova	4. World Almanac/NPCs/Anastrasya Karelova (COS).md		healthy		
@@ -123,7 +123,7 @@ player	Seluvis Felo'melorn		3. The Party/Players/Seluvis Felo'melorn.md	4. World
 player	Wisp		3. The Party/Players/Wisp.md	4. World Almanac/Settlements/Bruokdon.md	active		
 player	Yevelda Ovak		3. The Party/Players/Yevelda Ovak.md	4. World Almanac/Settlements/Bruokdon.md	active		
 quest	The Ones Who Were Forgotten		3. The Party/Quests/The Ones Who Were Forgotten.md		completed		
-quest	The Second Ledger		3. The Party/Quests/The Second Ledger.md		active		
+quest	The Second Ledger		3. The Party/Quests/The Second Ledger.md		active		Testing
 quest	The Well of Many Worlds		3. The Party/Quests/The Well of Many Worlds.md		active		
 region	Barovia		4. World Almanac/Regions/Barovia.md	4. World Almanac/Worlds/Eldoria.md			
 region	Greenfall		4. World Almanac/Regions/Greenfall.md	4. World Almanac/Worlds/Eldoria.md			

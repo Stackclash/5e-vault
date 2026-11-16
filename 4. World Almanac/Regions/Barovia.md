@@ -14,9 +14,9 @@ army:
 religions: 
 imports: 
 exports: 
-travel:
-  - - Blinsky Toys
-    - "60"
+routes:
+  - to: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]"
+    miles: 60
 aliases: 
 tags:
   - region

@@ -15,9 +15,9 @@ religions:
 imports: 
 exports: 
 aliases: 
-travelDistances:
-  - - "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-    - 5
+routes:
+  - to: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
+    miles: 5
 tags:
   - place-of-interest
   - location
