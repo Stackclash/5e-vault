@@ -146,6 +146,8 @@ INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Fa
 > > ```dataviewjs
 > > await dv.view("views/dmPanel", \{current: dv.current()\})
 > > ```
+> >
+> > ## DM Notes
 
 ```meta-bind-button
 label: ""
@@ -326,14 +328,12 @@ actions:
 ```
 ^statblock
 
-## DM Notes
-### General Notes
+## Source
 *Source: {resource.source}*
 
 {#if resource.description }
 {resource.description}
 {/if}
-
 
 ```meta-bind-button
 label: Edit all

@@ -24,6 +24,8 @@ INPUT[select(class(tabbed), option(Inventory), option(At the Table), option(Play
 > > ```dataviewjs
 > > await dv.view("views/dmPanel", {current: dv.current()})
 > > ```
+> >
+> > ## DM Notes
 
 ```meta-bind-button
 style: primary

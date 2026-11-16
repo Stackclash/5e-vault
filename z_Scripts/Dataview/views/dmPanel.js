@@ -15,4 +15,4 @@ if (typeof current.secrets === "string" && current.secrets.trim()) {
   dv.paragraph("**Secrets (legacy: moves to `## DM Notes` in batch F)**")
   dv.paragraph("`INPUT[textArea:secrets]`")
 }
-dv.paragraph("*Other DM-only prose (motives, plans, contingencies) goes under `## DM Notes` below the tabs.*")
+dv.paragraph("*Other DM-only prose (motives, plans, contingencies) goes under DM Notes below.*")

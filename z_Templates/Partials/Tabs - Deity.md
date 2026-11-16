@@ -31,6 +31,8 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Conn
 > > ```dataviewjs
 > > await dv.view("views/dmPanel", {current: dv.current()})
 > > ```
+> >
+> > ## DM Notes
 
 ```meta-bind-button
 label: ""

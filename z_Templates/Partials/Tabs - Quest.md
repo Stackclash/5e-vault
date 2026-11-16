@@ -41,6 +41,8 @@ INPUT[select(class(tabbed), option(Steps), option(NPCs & Links), option(Descript
 > > ```dataviewjs
 > > await dv.view("views/dmPanel", {current: dv.current()})
 > > ```
+> >
+> > ## DM Notes
 
 ```meta-bind-button
 label: ""

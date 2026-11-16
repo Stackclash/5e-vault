@@ -67,7 +67,6 @@ function template({ create, fm, infobox, tabs, stats = false }) {
     ...HEADER,
     `<% tp.file.include("[[z_Templates/Partials/Tabs - ${tabs}]]") %>`, '',
     ...(stats ? STATS : []),
-    '## DM Notes', '', '',
     ...EDIT_ALL,
     ERROR,
   ].join('\n')

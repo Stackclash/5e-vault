@@ -94,9 +94,6 @@ await dv.view('views/entityHeader', {current: dv.current()})
 ```
 ^statblock
 
-## DM Notes
-
-
 ```meta-bind-button
 label: Edit all
 icon: pencil

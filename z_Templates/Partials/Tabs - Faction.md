@@ -34,6 +34,8 @@ INPUT[select(class(tabbed), option(At the Table), option(Members), option(Clock)
 > > ```dataviewjs
 > > await dv.view("views/dmPanel", {current: dv.current()})
 > > ```
+> >
+> > ## DM Notes
 
 ```meta-bind-button
 label: ""

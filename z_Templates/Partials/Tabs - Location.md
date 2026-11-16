@@ -63,6 +63,8 @@ INPUT[select(class(tabbed), option(At the Table), option(What's Here), option(Pl
 > > ```dataviewjs
 > > await dv.view("views/dmPanel", {current: dv.current()})
 > > ```
+> >
+> > ## DM Notes
 
 ```meta-bind-button
 label: ""

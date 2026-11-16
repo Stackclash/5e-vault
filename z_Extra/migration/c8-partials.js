@@ -63,7 +63,8 @@ const inbound = (types, label) => [derived(label), ...block(['```datacorejsx',
   '  return <dc.Table rows={rows} columns={[{ id: "Who", value: x => x.p.$link }, { id: "Tie", value: x => x.r.type }, { id: "Note", value: x => x.r.note ?? "" }]} />',
   '}', '```']), '']
 // DM panel (secrets field dropped 2026-11-16): unlearned facts, type extras, legacy secrets until batch F.
-const dm = (extra = []) => ({ name: 'DM', type: 'dm', lines: [...extra, ...block(['```dataviewjs', 'await dv.view("views/dmPanel", {current: dv.current()})', '```'])] })
+// DM Notes prose lives in this tab too (DM, 2026-11-16): the heading keeps the #DM Notes anchor.
+const dm = (extra = []) => ({ name: 'DM', type: 'dm', lines: [...extra, ...block(['```dataviewjs', 'await dv.view("views/dmPanel", {current: dv.current()})', '```']), '', '## DM Notes', ''] })
 const player = { name: 'Player-Facing', include: INCLUDE_PLAYER }
 
 const locationRoutes = () => [derived('Routes'), ...block(['```dataviewjs', "await dv.view('views/travelTimes', {current: dv.current()})", '```']),

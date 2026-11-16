@@ -57,9 +57,6 @@ await dv.view('views/entityHeader', {current: dv.current()})
 
 <% tp.file.include("[[z_Templates/Partials/Tabs - World]]") %>
 
-## DM Notes
-
-
 ```meta-bind-button
 label: Edit all
 icon: pencil

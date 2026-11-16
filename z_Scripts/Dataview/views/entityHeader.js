@@ -113,10 +113,10 @@ for (const f of chips) {
         btn.onclick = () => clearPartyKey(f.field)
     }
 }
-const b = badge()
-if (b) dv.el("span", b, { container: chipsEl })
 if (input.pronounced !== false && type !== "session-journal" && type !== "session-prep")
     dv.el("span", `<span class="entity-chip entity-chip-pronounced"><span class="entity-chip-label">Pronounced</span> \`INPUT[text(placeholder(—)):pronounced]\`</span>`, { container: chipsEl })
+const b = badge()
+if (b) dv.el("span", b, { container: chipsEl })
 // The note defines the hidden edit-all button (templates do); the header just places it.
 if (input.editAll !== false) dv.el("span", "`BUTTON[edit-all]`", { cls: "entity-edit-all", container: chipsEl })
 // Gist strip: the line read first.
