@@ -62,6 +62,8 @@ Rule ids in this plan are prefixes: `--rule "legacy: groups"` matches `legacy: g
 | T11 | [M, after C9] | Ask the DM to open Lord Caldris Velmont and Duskferry cold (after an Obsidian restart) and time: note open to fully rendered, and typing lag in a text area. Target under 1 s and no visible lag. Then disable the CSS tabs on that note and repeat. | Q5: replace CSS tabs with a Datacore component that renders only the open tab; rerun T11. |
 | T8 | [M] | Read Calendarium's API surface for setting the current date (`app.plugins.plugins.calendarium.api`); report whether a script can advance the date. Do not change the date. | Advance Time shows the new date for the DM to set by hand. |
 
+**T-test results (DM, 2026-11-16):** T3 pass (syntax; no story items exist yet). T4 pass (needs the `value.isType("object")` guard until E4 converts legacy strings). T5 pass with the select in a `meta-bind` block. T5b pass. T6 pass. T9 pass. T10 fail with the correct selector (`field-sizing` unsupported): C8 uses the pop-out modal editor. T7 pending.
+
 **T8 result (2026-11-16, code read of Calendarium 2.1.0):** passes. `app.plugins.plugins.calendarium.api.getAPI(<calendar name>).getStore().setCurrentDate({day, month, year})` sets and saves the current date (the same call as the "Set as Today" menu). Not executed.
 
 ---
