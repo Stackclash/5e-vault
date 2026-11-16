@@ -10,7 +10,7 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\baba-lysaga.webp
+  - 4. World Almanac/NPCs/img/baba-lysaga.webp
 aliases:
   - Baba Lysaga
 alignment: Chaotic Evil

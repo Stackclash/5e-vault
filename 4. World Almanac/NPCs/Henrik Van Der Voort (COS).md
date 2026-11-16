@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\henrik-van-der-voort.webp
+  - 4. World Almanac/NPCs/img/henrik-van-der-voort.webp
 aliases:
   - Henrik van der Voort
 alignment: Lawful Evil

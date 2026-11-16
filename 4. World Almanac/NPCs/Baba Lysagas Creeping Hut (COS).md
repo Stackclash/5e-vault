@@ -9,7 +9,7 @@ tags:
   - monster/type/construct
 condition: dead
 images:
-  - 4. World Almanac\NPCs\img\baba-lysagas-creeping-hut.webp
+  - 4. World Almanac/NPCs/img/baba-lysagas-creeping-hut.webp
 aliases:
   - Baba Lysaga's Creeping Hut
 alignment: Unaligned

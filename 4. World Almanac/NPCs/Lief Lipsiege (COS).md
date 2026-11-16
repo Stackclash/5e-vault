@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\lief-lipsiege.webp
+  - 4. World Almanac/NPCs/img/lief-lipsiege.webp
 aliases:
   - Lief Lipsiege
 alignment: Chaotic Evil

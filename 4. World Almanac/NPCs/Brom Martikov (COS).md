@@ -10,7 +10,7 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\brom-martikov.webp
+  - 4. World Almanac/NPCs/img/brom-martikov.webp
 aliases:
   - Brom Martikov
 alignment: Lawful Good

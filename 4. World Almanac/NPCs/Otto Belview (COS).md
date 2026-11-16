@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/mongrelfolk
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\otto-belview.webp
+  - 4. World Almanac/NPCs/img/otto-belview.webp
 aliases:
   - Otto Belview
 alignment: Any alignment

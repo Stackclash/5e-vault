@@ -9,7 +9,7 @@ tags:
   - monster/type/undead
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\doru.webp
+  - 4. World Almanac/NPCs/img/doru.webp
 aliases:
   - Doru
 alignment: Neutral Evil

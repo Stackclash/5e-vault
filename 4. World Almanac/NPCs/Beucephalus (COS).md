@@ -9,7 +9,7 @@ tags:
   - monster/type/fiend
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\beucephalus.webp
+  - 4. World Almanac/NPCs/img/beucephalus.webp
 aliases:
   - Beucephalus
 alignment: Neutral Evil

@@ -9,7 +9,7 @@ tags:
   - monster/type/undead
 condition: dead
 images:
-  - 4. World Almanac\NPCs\img\sir-godfrey-gwilym.webp
+  - 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
 aliases:
   - Sir Godfrey Gwilym
 alignment: Lawful Evil

@@ -10,7 +10,7 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: dead
 images:
-  - 4. World Almanac\NPCs\img\kiril-stoyanovich.webp
+  - 4. World Almanac/NPCs/img/kiril-stoyanovich.webp
 aliases:
   - Kiril Stoyanovich
 alignment: Chaotic Evil

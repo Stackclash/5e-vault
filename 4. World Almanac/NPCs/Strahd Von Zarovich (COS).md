@@ -9,7 +9,7 @@ tags:
   - monster/type/undead/shapechanger
 condition: dead
 images:
-  - 4. World Almanac\NPCs\img\153-636988936829621698.webp
+  - 4. World Almanac/NPCs/img/153-636988936829621698.webp
 aliases:
   - Strahd von Zarovich
 alignment: Lawful Evil

@@ -9,7 +9,7 @@ tags:
   - monster/type/undead
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\thornboldt-thorn-durst.webp
+  - 4. World Almanac/NPCs/img/thornboldt-thorn-durst.webp
 aliases:
   - Thornboldt "Thorn" Durst
 alignment: Lawful Good

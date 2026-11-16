@@ -9,7 +9,7 @@ tags:
   - monster/type/undead
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\rosavalda-rose-durst.webp
+  - 4. World Almanac/NPCs/img/rosavalda-rose-durst.webp
 aliases:
   - Rosavalda "Rose" Durst
 alignment: Lawful Good

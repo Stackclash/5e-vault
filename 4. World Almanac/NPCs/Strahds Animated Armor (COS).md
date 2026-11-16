@@ -9,7 +9,7 @@ tags:
   - monster/type/construct
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\strahds-animated-armor.webp
+  - 4. World Almanac/NPCs/img/strahds-animated-armor.webp
 aliases:
   - Strahd's Animated Armor
 alignment: Lawful Evil

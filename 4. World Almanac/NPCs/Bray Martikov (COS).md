@@ -10,7 +10,7 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\bray-martikov.webp
+  - 4. World Almanac/NPCs/img/bray-martikov.webp
 aliases:
   - Bray Martikov
 alignment: Lawful Good

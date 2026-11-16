@@ -10,7 +10,7 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\davian-martikov.webp
+  - 4. World Almanac/NPCs/img/davian-martikov.webp
 aliases:
   - Davian Martikov
 alignment: Lawful Good

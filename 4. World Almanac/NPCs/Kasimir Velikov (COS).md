@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/dusk-elf
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\kasimir-velikov.webp
+  - 4. World Almanac/NPCs/img/kasimir-velikov.webp
 aliases:
   - Kasimir Velikov
 alignment: Neutral

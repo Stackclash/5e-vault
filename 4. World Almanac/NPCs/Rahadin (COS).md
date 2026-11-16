@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/elf
 condition: dead
 images:
-  - 4. World Almanac\NPCs\img\rahadin.webp
+  - 4. World Almanac/NPCs/img/rahadin.webp
 aliases:
   - Rahadin
 alignment: Lawful Evil
