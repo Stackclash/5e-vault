@@ -20,60 +20,6 @@ locations:
   items: 4. World Almanac/Items
   deities: 4. World Almanac/Deities
   creatures: 4. World Almanac/Creatures
-relationship_mapping:
-  - to: Father
-    from:
-      male: Son
-      female: Daughter
-  - to: Mother
-    from:
-      male: Son
-      female: Daughter
-  - to: Husband
-    from:
-      male: ""
-      female: Wife
-  - to: Wife
-    from:
-      male: Husband
-      female: ""
-  - to: Son
-    from:
-      male: Father
-      female: Mother
-  - to: Daughter
-    from:
-      male: Father
-      female: Mother
-  - to: Sister
-    from:
-      male: Brother
-      female: Sister
-  - to: Brother
-    from:
-      male: Brother
-      female: Sister
-  - to: Cousin
-    from:
-      male: Cousin
-      female: Cousin
-  - to: Niece
-    from:
-      male: Uncle
-      female: Aunt
-  - to: Nephew
-    from:
-      male: Uncle
-      female: Aunt
-  - to: Uncle
-    from:
-      male: Nephew
-      female: Niece
-  - name: ""
-    from:
-      male: Nephew
-      female: Niece
-    to: Aunt
 relationship_types:
   - { type: father, category: family, inverse: { male: son, female: daughter } }
   - { type: mother, category: family, inverse: { male: son, female: daughter } }
@@ -387,7 +333,7 @@ actions:
 
 # Configuration
 ```meta-bind
-INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Mapping'), option(3, 'Shop Configuration'), option(4, 'Item Pricing'), class(tabbed))]
+INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Types'), option(3, 'Shop Configuration'), option(4, 'Item Pricing'), class(tabbed))]
 ```
 >[!tabbed-box]
 >>[!div-m] File Location Configuration
@@ -418,35 +364,50 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >> >> | Groups | `INPUT[text:locations.groups]` |
 >> >> | Monsters | `INPUT[text:locations.monsters]` |
 >
->> [!div-m] Relationship Mapping
->> `BUTTON[add-relationship-mapping]`
+>> [!div-m] Relationship Types
+>> Read as: *this note* has `type` relationship to the target ("Adrian → father → Davian": Davian is Adrian's father). The **inverse** is how the other side reads it; a gendered inverse is picked by the gender of the note storing the edge. **Symmetric** types read the same both ways (cousin, friend).
+>> `BUTTON[add-relationship-type]`
 >> ```meta-bind-button
->> label: Add Relationship Mapping
+>> label: Add Relationship Type
 >> hidden: true
->> id: add-relationship-mapping
+>> id: add-relationship-type
 >> style: primary
 >> actions:
->>   - type: inlineJS
->>     code: |-
->>       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
->>         if (!Array.isArray(fm.relationship_mapping)) {
->>           fm.relationship_mapping = [{to: '', from: {male: '', female: ''}}]
->>         } else {
->>           fm.relationship_mapping = [...fm.relationship_mapping, {to: '', from: {male: '', female: ''}}]
->>         }
->>       })
+>>   - type: js
+>>     file: z_Scripts/Meta Bind/arrayActions.js
+>>     args:
+>>       action: add
+>>       field: relationship_types
+>>       template: {"type": "", "category": "personal", "inverse": ""}
 >> ```
 >> ```datacorejsx
 >> return function View() {
 >>   const file = dc.useCurrentFile()
->>   const count = (file.value('relationship_mapping') || []).length
->>   const rows = Array.from({ length: count }, (_, i) => i)
->>   const md = (content) => <dc.Markdown content={content} />
+>>   const types = file.value('relationship_types') || []
+>>   const rows = types.map((t, i) => ({ i, t }))
+>>   const md = (content) => <dc.Markdown content={content} sourcePath={file.$path} />
+>>   const CATEGORIES = ['family', 'personal', 'work', 'faction', 'faith', 'place']
+>>   const toggleGendered = async (i) => {
+>>     const tfile = app.vault.getAbstractFileByPath(file.$path)
+>>     await app.fileManager.processFrontMatter(tfile, fm => {
+>>       const inv = fm.relationship_types?.[i]?.inverse
+>>       if (inv && typeof inv === 'object') fm.relationship_types[i].inverse = inv.male || inv.female || ''
+>>       else fm.relationship_types[i].inverse = { male: inv || '', female: inv || '' }
+>>     })
+>>   }
 >>   const columns = [
->>     { id: 'Relationship', value: (i) => i, render: (i) => md(`\`INPUT[text:relationship_mapping[${i}].to]\``) },
->>     { id: 'Male', value: (i) => i, render: (i) => md(`\`INPUT[text:relationship_mapping[${i}].from.male]\``) },
->>     { id: 'Female', value: (i) => i, render: (i) => md(`\`INPUT[text:relationship_mapping[${i}].from.female]\``) },
->>     { id: 'Delete', value: (i) => i, render: (i) => md('```meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item-' + i + '\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: relationship_mapping\n      index: ' + i + '\n```') }
+>>     { id: 'Type', value: ({ i }) => md(`\`INPUT[text:relationship_types[${i}].type]\``) },
+>>     { id: 'Category', value: ({ i }) => md(`\`INPUT[inlineSelect(${CATEGORIES.map(c => 'option(' + c + ')').join(', ')}):relationship_types[${i}].category]\``) },
+>>     { id: 'Inverse', value: ({ i, t }) => (
+>>       <span style={{ display: 'inline-flex', gap: '0.4em', alignItems: 'center' }}>
+>>         {t.inverse && typeof t.inverse === 'object'
+>>           ? <>{md(`male \`INPUT[text:relationship_types[${i}].inverse.male]\``)}{md(`female \`INPUT[text:relationship_types[${i}].inverse.female]\``)}</>
+>>           : md(`\`INPUT[text:relationship_types[${i}].inverse]\``)}
+>>         <button className="entity-chip-clear" aria-label="Switch between one inverse and male/female" onClick={() => toggleGendered(i)}>{t.inverse && typeof t.inverse === 'object' ? 'one' : 'm/f'}</button>
+>>       </span>
+>>     ) },
+>>     { id: 'Symmetric', value: ({ i }) => md(`\`INPUT[toggle:relationship_types[${i}].symmetric]\``) },
+>>     { id: '', value: ({ i }) => md('```meta-bind-button\nicon: x\ntooltip: Delete type\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/arrayActions.js\n    args:\n      action: remove\n      field: relationship_types\n      index: ' + i + '\n```') }
 >>   ]
 >>   return <dc.Table rows={rows} columns={columns} paging={false} />
 >> }
