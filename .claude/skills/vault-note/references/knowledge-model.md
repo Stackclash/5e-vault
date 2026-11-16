@@ -34,6 +34,7 @@ facts:
     learned: {}
     locked: true                 # DM-finalized truth, not yet learned
     dm: "Only Hesper's handler knows."   # optional DM aside, never exported
+    rumor: false                 # optional; false keeps it out of the rumor roll (default true)
 ```
 
 - **`facts`** is the DM's list of learnable things about an entity. One sentence each, worded so it can be shown to players once learned. A fact with `learned[party]` set is published.

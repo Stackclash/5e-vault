@@ -4,7 +4,7 @@
 
 ```yaml
 obsidianUIMode: preview
-kind: quest                   # arc | quest | thread
+kind: quest                   # Configuration.enums.quest_kinds: arc | quest | thread
 parent: "[[arc|…]]"          # optional
 world: "[[…|…]]"
 active: {}                    # {Party: bool}
@@ -12,6 +12,9 @@ completed: {}                 # {Party: bool}
 gist: ""
 summary: ""                   # player-safe hook-level blurb
 description: ""               # DM planning; may hold unrevealed beats
+stakes: ""                    # what happens if the party ignores it
+reward: ""                    # what is on offer, as the giver states it
+deadline: ""                  # in-world date, optional
 revealed: {}
 facts: []
 giver: "[[…]]"
@@ -56,6 +59,8 @@ npcs: []
 quests: []
 items: []                     # story-item notes or 5. Mechanics items
 factions: []
+party_level: 5                # for encounter tuning and recaps
+spotlight: []                 # links to PCs whose story moved
 wrapped: false                # true once the DM approved the wrap; then canon
 publish: false                # true = the recap may go to the site
 tags: [session-journal]
@@ -69,11 +74,11 @@ Body headings: `## Session Overview`, `## Key Learnings`, `## Items Of Importanc
 
 ## Campaign — `campaign`
 
-`party`, `world`, `summary` (player-safe premise), `site_slug`. The body is the campaign bible and is DM-only in whole. Exception: agents may draft or edit the campaign `summary` without a proposal line when the work calls for it (DM, 2026-11-16); it stays player-safe. It carries `## Plan Changelog`.
+`party`, `world`, `summary` (player-safe premise), `site_slug`, `status` (Configuration.enums.campaign_statuses), `level_range` (e.g. "3–12"). The body is the campaign bible and is DM-only in whole. Exception: agents may draft or edit the campaign `summary` without a proposal line when the work calls for it (DM, 2026-11-16); it stays player-safe. It carries `## Plan Changelog`.
 
 ## Party — `party`
 
-Travel fields only (`travel_speed`, `travel_multiplier`, `travel_bonus`, `travel_hours_per_day`, `exhaustion_level`, `encumbered`, `horseshoes_of_speed`, `var_mins`, `travel_calc`, `hours_per_day`, `movement`, `speed`) and transport-cost inputs (`travel_distance`, `danger_level`, `familiar_route`, `party_members`, `lifestyle_cost_sp`, `include_meals`, `coach_cost`, `coach_cost_per_mile`, `messenger_cost_per_mile`, `ship_cost_per_mile`; moved from the retired Travel calculator in J4). Roster comes from player notes.
+Travel fields (`travel_speed`, `travel_multiplier`, `travel_bonus`, `travel_hours_per_day`, `exhaustion_level`, `encumbered`, `horseshoes_of_speed`, `var_mins`, `travel_calc`, `hours_per_day`, `movement`, `speed`) and transport-cost inputs (`travel_distance`, `danger_level`, `familiar_route`, `party_members`, `lifestyle_cost_sp`, `include_meals`, `coach_cost`, `coach_cost_per_mile`, `messenger_cost_per_mile`, `ship_cost_per_mile`; moved from the retired Travel calculator in J4). Roster comes from player notes. `funds: {cp, sp, ep, gp, pp}` is the shared treasury (loot not yet split).
 
 ## Player character — `player`
 

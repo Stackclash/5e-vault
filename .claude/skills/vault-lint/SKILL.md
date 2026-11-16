@@ -45,7 +45,7 @@ Node is managed by mise; if `node` is not on PATH, use `mise exec -- node …`. 
 | `journal-no-party`, `location-cotag` | error | Views and exports will miss the note |
 | `ledger-entity-undecided` | warn | In a wrapped journal's ledger, neither revealed nor held back |
 | `legacy: …` | warn | A pre-migration shape; see `z_Extra/Vault Design/03 Migration Plan.md` |
-| `missing-gist`, `journal-untitled`, `journal-no-fc-end`, `journal-no-prep-link`, `mirrored-edge`, `image-path`, `step-played-no-outcome`, `key-case` | warn | Housekeeping |
+| `missing-gist`, `journal-untitled`, `journal-no-fc-end`, `journal-no-prep-link`, `mirrored-edge`, `image-path`, `step-played-no-outcome`, `key-case`, `note-fields` | warn | Housekeeping |
 
 ## What to do with findings
 

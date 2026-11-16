@@ -36,7 +36,8 @@ for (const n of model.notes) {
 const KEY_CASE = /^[a-z][a-z0-9]*(_[a-z0-9]+)*$/
 const PLUGIN_KEYS = new Set(['tags', 'aliases', 'cssclasses', 'obsidianUIMode', 'obsidianEditingMode', 'aat-render-enabled'])
 const VALUE_KEYED_MAPS = new Set(['revealed', 'reveal', 'standing', 'renown', 'party_relationships',
-  'item_pricing.base_prices', 'item_pricing.recharge_modifiers', 'shop_types', 'active', 'completed', 'steps.completed'])
+  'item_pricing.base_prices', 'item_pricing.recharge_modifiers', 'shop_types', 'active', 'completed', 'steps.completed',
+  'facts.learned', 'relationships.learned', 'public_name', 'note_fields'])
 const KEY_CASE_SKIP = /^(5\. Mechanics|6\. Resources|z_Templates|z_Extra|node_modules|\.)/
 function checkKeys(value, at, file) {
   if (Array.isArray(value)) return value.forEach(v => checkKeys(v, at, file))
@@ -59,6 +60,24 @@ if (!only || only.startsWith('key-case')) {
     try { checkKeys(YAML.parse(m[1]) || {}, '', r) } catch { /* yaml-parse reports entity notes */ }
   })
   scan('')
+}
+
+// note-fields: every Configuration.note_fields entry names a snake_case field the vault-note schema documents,
+// and an enum that exists (Configuration.enums, or a top-level list of {name}).
+if (!only || only.startsWith('note-fields')) {
+  const YAML = require('yaml')
+  const cfgRaw = fs.readFileSync(path.join(model.root, '1. DM Toolkit/Configuration.md'), 'utf8')
+  const cfg = YAML.parse(/^---\r?\n([\s\S]*?)\r?\n---/.exec(cfgRaw)?.[1] ?? '') || {}
+  const refDir = path.join(model.root, '.claude/skills/vault-note/references')
+  const schemaText = fs.existsSync(refDir) ? fs.readdirSync(refDir).map(n => fs.readFileSync(path.join(refDir, n), 'utf8')).join('\n') : ''
+  for (const [type, entries] of Object.entries(cfg.note_fields || {})) {
+    for (const e of entries || []) {
+      const where = `note_fields.${type}.${e?.field}`
+      if (!e?.field || !KEY_CASE.test(e.field)) W('note-fields', 'Configuration', `${where}: field name is not snake_case`)
+      else if (!new RegExp('(^|[\\s`({,])' + e.field + '(:|`)', 'm').test(schemaText)) W('note-fields', 'Configuration', `${where}: not in the vault-note schema references`)
+      if (e?.enum && !Array.isArray(cfg.enums?.[e.enum]) && !Array.isArray(cfg[e.enum])) W('note-fields', 'Configuration', `${where}: enum ${e.enum} does not exist`)
+    }
+  }
 }
 
 for (const u of model.unresolved) {

@@ -10,7 +10,7 @@ Body scaffold: copy from the matching template in `z_Templates/Templater/World B
 obsidianUIMode: preview
 statblock: inline
 location: "[[…|…]]"          # current whereabouts; null for the dead or placeless
-condition: healthy            # healthy | injured | dead
+condition: healthy            # Configuration.enums.npc_conditions: healthy | injured | captured | missing | dead | unknown
 gist: ""
 summary: ""
 revealed: {}
@@ -22,10 +22,12 @@ tags: [npc]
 aliases: ["Bare Name"]
 pronounced: ""
 race: "[[5. Mechanics/Races/….md|…]]"
-gender: male                  # male | female
+gender: male                  # Configuration.enums.genders
 age: 40                       # number or null
 alignment: "Neutral Good"
 occupation: []                # role only, e.g. "Guildmaster"; the employer is an edge
+appearance: ""                # one line, read aloud on first meeting
+voice: ""                     # speech, cadence, mannerism, catchphrase
 description: ""               # DM voice
 history: ""
 personality: ""
@@ -53,6 +55,11 @@ army:
 imports: []
 exports: []
 resources: []                 # links into 6. Resources
+status: ""                    # Configuration.enums.location_statuses
+atmosphere: ""                # sights, sounds, smells: the read-aloud line
+hazards: ""                   # environmental danger, checkpoints, closures
+climate: ""                   # a weather climate name; empty inherits from the parent
+wealth: ""                    # settlements only: a Configuration.settlement_wealth name
 routes: []                    # [{to: "[[…]]", miles: 12, note: ""}]; stored on one end only; no mode (travel method is on the party)
 ```
 
@@ -66,6 +73,11 @@ cost_modifier: 1
 type: ""                      # a Configuration.shop_types name
 size: ""                      # a Configuration.shop_sizes name
 items: []                     # links into 5. Mechanics/Items
+pinned_items: []              # kept when Generate Inventory replaces items
+buy_rate: 0.5                 # what the shop pays; default Configuration.shop_defaults.buy_rate
+last_stocked: ""              # in-world date, stamped by Generate Inventory
+status: ""                    # Configuration.enums.location_statuses
+atmosphere: ""
 resources: []
 ```
 
@@ -84,6 +96,10 @@ location: "[[base|…]]"       # optional
 goals: ""
 resources: ""
 clock: []                     # optional: [{step: "", done: false}] for a faction's own timeline
+standing: {}                  # {Party: Configuration.enums.party_standings}
+renown: {}                    # {Party: number}, optional
+symbol: ""
+motto: ""
 ```
 
 Leader and members are not stored here; they are inbound `leader`/`member` edges from NPC notes. Faction-to-faction ties go in this note's `relationships`.
@@ -96,6 +112,8 @@ holder: "[[PC, NPC, faction, or party]]"      # empty when not held
 location: "[[…]]"                             # where it rests when not held
 rarity: ""
 attunement: false
+charges: {}                   # optional {max, current, recharge}
+curse: ""                     # DM-only; kept apart so a wrap can propose "curse discovered" as a fact
 ```
 
 Mechanics go in the body. Update `holder` in the wrap when an item changes hands.
@@ -119,6 +137,9 @@ A specific named member of the kind (a boss, a survivor) is an NPC note that lin
 
 ```yaml
 mechanics: "[[5. Mechanics/Deities/….md|…]]"   # optional
+title: ""
+symbol: ""
+alignment: ""                 # Configuration.enums.alignments
 domains: []
 ```
 
