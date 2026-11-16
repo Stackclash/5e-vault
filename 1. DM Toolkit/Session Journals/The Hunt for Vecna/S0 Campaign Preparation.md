@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 date: 2023-06-24T00:00:00.000Z
 summary: Went over theme of campaign and characters.
 party: '[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]'
