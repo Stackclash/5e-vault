@@ -2,12 +2,12 @@ filters:
   and:
     - file.tags.contains("player")
 formulas:
-  strength: abilityScores.strength.value
-  dexterity: abilityScores.dexterity.value
-  constitution: abilityScores.constitution.value
-  intelligence: abilityScores.intelligence.value
-  wisdom: abilityScores.wisdom.value
-  charisma: abilityScores.charisma.value
+  strength: ability_scores.strength.value
+  dexterity: ability_scores.dexterity.value
+  constitution: ability_scores.constitution.value
+  intelligence: ability_scores.intelligence.value
+  wisdom: ability_scores.wisdom.value
+  charisma: ability_scores.charisma.value
   class: classes[0].name
 views:
   - type: table

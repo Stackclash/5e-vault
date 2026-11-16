@@ -4,6 +4,26 @@ const findFile = require('./find_file.js')
 
 class DnDBeyondCharacter {
 
+  // Frontmatter keys are snake_case (C5b group 4). The class keeps D&D Beyond's names internally;
+  // toFrontmatter renames them on the way out, at any depth.
+  static FRONTMATTER_KEYS = {
+    abilityScores: 'ability_scores', savingThrows: 'saving_throws', racialTraits: 'racial_traits',
+    classFeatures: 'class_features', raceSpells: 'race_spells', classSpells: 'class_spells',
+    armorClass: 'armor_class', baseValue: 'base_value', canEquip: 'can_equip', canAttune: 'can_attune',
+    damageType: 'damage_type', isPrepared: 'is_prepared', cantripsKnown: 'cantrips_known',
+    spellSlots: 'spell_slots', subClass: 'subclass', 'animal-handling': 'animal_handling',
+    'sleight-of-hand': 'sleight_of_hand'
+  }
+
+  static LEGACY_KEYS = ['abilityScores', 'savingThrows', 'racialTraits', 'classFeatures', 'raceSpells', 'classSpells']
+
+  static toFrontmatter(value) {
+    if (Array.isArray(value)) return value.map(v => DnDBeyondCharacter.toFrontmatter(v))
+    if (value === null || typeof value !== 'object') return value
+    return Object.fromEntries(Object.entries(value).map(([k, v]) =>
+      [DnDBeyondCharacter.FRONTMATTER_KEYS[k] ?? k, DnDBeyondCharacter.toFrontmatter(v)]))
+  }
+
   static ABILITY_SCORES = {
     1: 'strength',
     2: 'dexterity',
@@ -510,8 +530,8 @@ class DnDBeyondCharacter {
     fm.proficiency = this.proficiencyBonus
     fm.url = this.url
     fm.image = this.image
-    fm.race = `"${await findFile(this.race.fullName, '5. Mechanics/Races')}"`
-    fm.alignment = `"${this.alignment}"`
+    fm.race = await findFile(this.race.fullName, '5. Mechanics/Races')
+    fm.alignment = this.alignment
     fm.description = this.description
     fm.passives = this.passives
     fm.proficiencies = this.proficiencies
@@ -532,15 +552,7 @@ class DnDBeyondCharacter {
     fm.classFeatures = this.classFeatures
     fm.feats = this.feats
     fm.raceSpells = this.spells.race
-    // console.log('Class Spells', this.spells.class[0].spells)
-    // fm.classSpells = await Promise.all(this.spells.class.map(async (classSpell) => {
-    //   console.log('Class Spell', classSpell)
-    //   return {
-    //     name: await findFile(classSpell, '5. Mechanics/Spells'),
-    //     level: classSpell.level,
-    //     isPrepared: classSpell.isPrepared
-    //   }
-    // }))
+    fm.classSpells = this.spells.class
     fm.currencies = this.currencies
     fm.inventory = await Promise.all(this.inventory.map(async (inv) => {
       return {
@@ -558,8 +570,7 @@ class DnDBeyondCharacter {
       }
     }))
 
-    console.log(fm)
-    return fm
+    return DnDBeyondCharacter.toFrontmatter(fm)
   }
 }
 
