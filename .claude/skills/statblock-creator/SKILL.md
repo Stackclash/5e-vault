@@ -21,7 +21,7 @@ Stat blocks that express the fiction, hit their CR honestly, and render in the F
 
 ## Where the block goes
 
-- **NPC notes:** fill the empty `statblock` block under `## Stats`; keep the `^statblock` anchor. `statblock: inline` in frontmatter registers it so encounter blocks can link the note.
+- **NPC notes:** fill the empty `statblock` block in the **Stats** tab (inside the tab box, so every line carries the `> > ` callout prefix; older notes not yet re-skinned still have it under `## Stats`). To show a stat block in another note, use a `statblock` block with `monster: <Name>`; block embeds (`#^statblock`) do not resolve inside callouts. `statblock: inline` in frontmatter registers it so encounter blocks can link the note.
 - **`name` must equal the note's file name.**
 - Add tags beside `npc`: `monster/cr/<cr>` (fractions as `1-2`), `monster/size/<size>`, `monster/type/<type>`.
 - **A reusable kind of creature** (recurs, or several appear at once): a creature note in `4. World Almanac/Creatures/`, tag `story-creature` (schema: `vault-note` skill, `references/entity-schemas.md`). Same block placement and naming rule as an NPC note.

@@ -88,12 +88,6 @@ await dv.view('views/entityHeader', {current: dv.current()})
 
 <% tp.file.include("[[z_Templates/Partials/Tabs - NPC]]") %>
 
-## Stats
-```statblock
-
-```
-^statblock
-
 ```meta-bind-button
 label: Edit all
 icon: pencil

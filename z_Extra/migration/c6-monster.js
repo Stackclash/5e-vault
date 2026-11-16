@@ -25,7 +25,9 @@ if (/<%/.test(body)) throw new Error('Templater syntax left in the NPC body')
 const esc = s => s.replace(/[{}]/g, c => '\\' + c)
 body = esc(body)
 // Qute expressions go in after escaping.
-body = body.replace('```statblock\n\n```', '```statblock\n{resource.5eStatblockYaml}\n```')
+// The stat block sits in the Stats tab, so every YAML line needs the callout prefix (Java replaceAll, as the converter's own templates use).
+if (!body.includes('> > ```statblock\n> >\n> > ```')) throw new Error('stats block not found')
+body = body.replace('> > ```statblock\n> >\n> > ```', "> > ```statblock\n{resource.5eStatblockYaml.replaceAll('(?m)^', '> > ')}\n> > ```")
 // Module text is multi-line and Qute can't prefix it into the DM tab callout, so it gets its own section.
 body = body.replace('```meta-bind-button\nlabel: Edit all', '## Source\n*Source: {resource.source}*\n\n{#if resource.description }\n{resource.description}\n{/if}\n\n```meta-bind-button\nlabel: Edit all')
 if (!body.includes('## Source')) throw new Error('source anchor not found')

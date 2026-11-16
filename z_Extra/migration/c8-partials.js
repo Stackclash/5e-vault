@@ -64,7 +64,12 @@ const inbound = (types, label) => [derived(label), ...block(['```datacorejsx',
   '}', '```']), '']
 // DM panel (secrets field dropped 2026-11-16): unlearned facts, type extras, legacy secrets until batch F.
 // DM Notes prose lives in this tab too (DM, 2026-11-16): the heading keeps the #DM Notes anchor.
-const dm = (extra = []) => ({ name: 'DM', type: 'dm', lines: [...extra, ...block(['```dataviewjs', 'await dv.view("views/dmPanel", {current: dv.current()})', '```']), '', '## DM Notes', ''] })
+const dm = (extra = []) => ({ name: 'DM', type: 'dm', lines: [...extra, ...block(['```dataviewjs', 'await dv.view("views/dmPanel", {current: dv.current()})', '```']), '',
+  defButton('edit-dm-notes', ['```meta-bind-button', 'label: Edit DM Notes', 'icon: pencil', 'style: default', 'id: edit-dm-notes', 'hidden: true',
+    'actions:', '  - type: js', '    file: z_Scripts/Meta Bind/editSection.js', '    args:', '      heading: DM Notes', '      prefix: "> > "', '```']),
+  '## DM Notes', ''] })
+// Stat block in a tab (T12: Fantasy Statblocks and the Initiative Tracker still read it; block embeds don't).
+const stats = () => ({ name: 'Stats', lines: block(['```statblock', '', '```']) })
 const player = { name: 'Player-Facing', include: INCLUDE_PLAYER }
 
 const locationRoutes = () => [derived('Routes'), ...block(['```dataviewjs', "await dv.view('views/travelTimes', {current: dv.current()})", '```']),
@@ -83,6 +88,7 @@ const PARTIALS = {
     { name: 'Connections', lines: [...relationshipButtons(), ...block(['```dataviewjs', 'await dv.view("views/npcRelationships", { current: dv.current() })', '```']), '',
       derived('Quests'), ...block(['```dataview', 'LIST FROM #quest WHERE contains(npcs.name, this.file.link)', '```']), '',
       derived('Sessions'), ...sessionsWith('npcs')] },
+    stats(),
     dm(),
   ],
   'Tabs - Location': () => [
@@ -151,6 +157,7 @@ const PARTIALS = {
     player,
     { name: 'Connections', lines: [...relationshipButtons(), derived('Named individuals'),
       ...block(['```dataview', 'LIST FROM #npc WHERE contains(file.outlinks, this.file.link)', '```'])] },
+    stats(),
     dm(),
   ],
   'Tabs - Quest': () => [

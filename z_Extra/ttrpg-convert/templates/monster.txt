@@ -72,7 +72,7 @@ await dv.view('views/entityHeader', \{current: dv.current()\})
 ```
 
 ```meta-bind
-INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(DM)):memory^tab]
+INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
 ```
 > [!tabbed-box]
 > > [!tab|no-t] At the Table
@@ -142,11 +142,17 @@ INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Fa
 > > LIST FROM #session-journal WHERE contains(npcs, this.file.link) SORT session_number ASC
 > > ```
 >
+> > [!tab|no-t] Stats
+> > ```statblock
+{resource.5eStatblockYaml.replaceAll('(?m)^', '> > ')}
+> > ```
+>
 > > [!dm] DM
 > > ```dataviewjs
 > > await dv.view("views/dmPanel", \{current: dv.current()\})
 > > ```
 > >
+> > `BUTTON[edit-dm-notes]`
 > > ## DM Notes
 
 ```meta-bind-button
@@ -308,6 +314,19 @@ actions:
     templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
 ```
 ```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
+```
+```meta-bind-button
 label: ""
 icon: maximize-2
 tooltip: Edit Summary in a larger window
@@ -321,12 +340,6 @@ actions:
       field: summary
       label: Summary
 ```
-
-## Stats
-```statblock
-{resource.5eStatblockYaml}
-```
-^statblock
 
 ## Source
 *Source: {resource.source}*

@@ -42,6 +42,7 @@ INPUT[select(class(tabbed), option(Steps), option(NPCs & Links), option(Descript
 > > await dv.view("views/dmPanel", {current: dv.current()})
 > > ```
 > >
+> > `BUTTON[edit-dm-notes]`
 > > ## DM Notes
 
 ```meta-bind-button
@@ -71,6 +72,19 @@ actions:
     args:
       field: stakes
       label: Stakes
+```
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
 ```
 ```meta-bind-button
 label: ""

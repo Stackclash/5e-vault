@@ -1,5 +1,5 @@
 ```meta-bind
-INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Connections), option(DM)):memory^tab]
+INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
 ```
 > [!tabbed-box]
 > > [!tab|no-t] Overview
@@ -22,11 +22,17 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Conn
 > > LIST FROM #npc WHERE contains(file.outlinks, this.file.link)
 > > ```
 >
+> > [!tab|no-t] Stats
+> > ```statblock
+> >
+> > ```
+>
 > > [!dm] DM
 > > ```dataviewjs
 > > await dv.view("views/dmPanel", {current: dv.current()})
 > > ```
 > >
+> > `BUTTON[edit-dm-notes]`
 > > ## DM Notes
 
 ```meta-bind-button
@@ -60,6 +66,19 @@ hidden: true
 actions:
   - type: runTemplaterFile
     templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
+```
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
 ```
 ```meta-bind-button
 label: ""

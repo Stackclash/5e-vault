@@ -66,7 +66,6 @@ function template({ create, fm, infobox, tabs, stats = false }) {
     '> [!infobox]', ...imagesBlock, ...(infobox ?? []), '',
     ...HEADER,
     `<% tp.file.include("[[z_Templates/Partials/Tabs - ${tabs}]]") %>`, '',
-    ...(stats ? STATS : []),
     ...EDIT_ALL,
     ERROR,
   ].join('\n')
