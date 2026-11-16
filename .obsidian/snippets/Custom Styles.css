@@ -201,8 +201,58 @@
   opacity: 70%;
   background-color: whitesmoke;
 }
-/* T10 (migration): Meta Bind text areas grow with their content. */
-textarea.mb-input-textarea {
-  field-sizing: content;
-  min-height: 6lh;
+/* ===== Note layout (migration C8, 04 Expansion §2) ===== */
+
+/* Player-facing vs DM-only callouts */
+.callout[data-callout="player"] {
+  --callout-color: var(--color-green-rgb, 46, 160, 67);
+  --callout-icon: lucide-eye;
+  border-left: 4px solid rgb(var(--callout-color));
+  background-color: rgba(var(--callout-color), 0.08);
 }
+.callout[data-callout="dm"] {
+  --callout-color: var(--color-red-rgb, 207, 34, 46);
+  --callout-icon: lucide-eye-off;
+  border-left: 4px solid rgb(var(--callout-color));
+  background-color: rgba(var(--callout-color), 0.08);
+}
+
+/* Editable cue: Meta Bind inputs in reading view */
+.markdown-reading-view .mb-input {
+  text-decoration: underline dotted var(--text-faint);
+  text-underline-offset: 3px;
+}
+
+/* View-generated sections: do not edit */
+.derived {
+  margin-left: 0.5em;
+  padding: 0 0.4em;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  color: var(--text-faint);
+  font-size: var(--font-ui-smaller);
+  font-weight: normal;
+  vertical-align: middle;
+  text-transform: lowercase;
+}
+
+/* Shared header */
+.entity-header .entity-breadcrumb { color: var(--text-muted); font-size: var(--font-ui-small); }
+.entity-header .entity-name { margin: 0.2em 0 0; }
+.entity-header .entity-pronounced { color: var(--text-muted); font-style: italic; }
+.entity-header .entity-chips { display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center; margin: 0.4em 0; }
+.entity-chip {
+  display: inline-flex; align-items: center; gap: 0.35em;
+  padding: 0.1em 0.5em;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 999px;
+  background-color: var(--background-secondary);
+}
+.entity-chip-label { color: var(--text-muted); font-size: var(--font-ui-smaller); }
+.knowledge-badge { padding: 0.1em 0.6em; border-radius: 999px; font-size: var(--font-ui-smaller); }
+.knowledge-badge.is-revealed { background-color: rgba(var(--color-green-rgb, 46, 160, 67), 0.15); color: var(--text-normal); }
+.knowledge-badge.is-hidden { background-color: var(--background-modifier-hover); color: var(--text-faint); }
+
+/* Gist strip */
+.callout[data-callout="gist"] { --callout-color: var(--color-accent-rgb, 120, 120, 120); margin: 0.4em 0 0.8em; }
+.callout[data-callout="gist"] > .callout-title { display: none; }

@@ -50,9 +50,13 @@ export function renderTable(container, columns, rows) {
  * @param {HTMLElement} container
  * @param {string} text
  * @param {number} [level=2]
+ * @param {Object} [options]
+ * @param {boolean} [options.derived] - Add a small "derived" label: the section is generated, not edited here
  */
-export function renderHeader(container, text, level = 2) {
-    return container.createEl(`h${level}`, { text: String(text) })
+export function renderHeader(container, text, level = 2, { derived = false } = {}) {
+    const h = container.createEl(`h${level}`, { text: String(text) })
+    if (derived) h.createEl("span", { cls: "derived", text: "derived" })
+    return h
 }
 
 /**
@@ -63,7 +67,7 @@ export function renderHeader(container, text, level = 2) {
  * @param {string[]} columns
  * @param {Array[]} rows
  */
-export function renderTableWithHeader(container, title, level = 2, columns, rows) {
-    renderHeader(container, title, level)
+export function renderTableWithHeader(container, title, level = 2, columns, rows, options = {}) {
+    renderHeader(container, title, level, options)
     return renderTable(container, columns, rows)
 }

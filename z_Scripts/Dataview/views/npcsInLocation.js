@@ -12,6 +12,7 @@ if (npcs.length > 0) {
         "Notable NPCs",
         2,
         ["Name", "Occupation", "Location"],
-        npcs.map(n => [n.link, n.occupation, n.location])
+        npcs.map(n => [n.link, n.occupation, n.location]),
+        { derived: true }
     )
 }

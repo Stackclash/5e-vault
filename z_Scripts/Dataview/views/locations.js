@@ -6,7 +6,7 @@ const locations = getLocations({ parentPath: currentPath })
 
 if (locations.length === 0) return
 
-renderHeader(dv.container, "Notable Locations", 2)
+renderHeader(dv.container, "Notable Locations", 2, { derived: true })
 
 // Group by the immediate containing folder name
 const groups = {}

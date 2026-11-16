@@ -121,6 +121,7 @@ const relationshipString = buildRelationshipArray(input.current, keys).map(i => 
 // It uses the keys array to create the nodes and the relationship array to create the relationships
 // It also creates a classDef and class for each node to style
 // Add more classDef and class if you need to style different types of relationships
+dv.el("span", "derived", { cls: "derived" })
 dv.paragraph(
   `${backticks}mermaid
 graph LR
