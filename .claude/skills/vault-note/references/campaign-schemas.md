@@ -70,11 +70,11 @@ Body headings: `## Session Overview`, `## Key Learnings`, `## Items Of Importanc
 
 ## Campaign — `campaign`
 
-`party`, `world`, `summary` (player-safe premise), `site_slug`. The body is the campaign bible and is DM-only in whole. It carries `## Plan Changelog`.
+`party`, `world`, `summary` (player-safe premise), `site_slug`. The body is the campaign bible and is DM-only in whole. Exception: agents may draft or edit the campaign `summary` without a proposal line when the work calls for it (DM, 2026-11-16); it stays player-safe. It carries `## Plan Changelog`.
 
 ## Party — `party`
 
-Travel fields only (`travel_speed`, `travel_multiplier`, `travel_bonus`, `travel_hours_per_day`, `exhaustion_level`, `encumbered`, `var_mins`, `travel_calc`, `hours_per_day`, `movement`, `speed`) and transport-cost inputs (`travel_distance`, `danger_level`, `familiar_route`, `party_members`, `lifestyle_cost_sp`, `include_meals`, `coach_cost`, `coach_cost_per_mile`, `messenger_cost_per_mile`, `ship_cost_per_mile`; moved from the retired Travel calculator in J4). Roster comes from player notes.
+Travel fields only (`travel_speed`, `travel_multiplier`, `travel_bonus`, `travel_hours_per_day`, `exhaustion_level`, `encumbered`, `horseshoes_of_speed`, `var_mins`, `travel_calc`, `hours_per_day`, `movement`, `speed`) and transport-cost inputs (`travel_distance`, `danger_level`, `familiar_route`, `party_members`, `lifestyle_cost_sp`, `include_meals`, `coach_cost`, `coach_cost_per_mile`, `messenger_cost_per_mile`, `ship_cost_per_mile`; moved from the retired Travel calculator in J4). Roster comes from player notes.
 
 ## Player character — `player`
 

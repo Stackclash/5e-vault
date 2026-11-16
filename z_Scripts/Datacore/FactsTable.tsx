@@ -65,6 +65,16 @@ function FactsTable() {
     {
       id: "",
       width: "minimum",
+      value: ({ i }) => md(buttonMarkdown({ action: "moveUp", field: "facts", index: i }, { style: "default", icon: "move-up", tooltip: "Move up" })),
+    },
+    {
+      id: " ",
+      width: "minimum",
+      value: ({ i }) => md(buttonMarkdown({ action: "moveDown", field: "facts", index: i }, { style: "default", icon: "move-down", tooltip: "Move down" })),
+    },
+    {
+      id: "  ",
+      width: "minimum",
       value: ({ i }) => md(buttonMarkdown({ action: "remove", field: "facts", index: i }, { icon: "x", tooltip: "Delete fact" })),
     },
   ]

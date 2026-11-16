@@ -332,6 +332,8 @@ Dated 2026-11-15 unless noted.
 | X11 key casing (§1.3) | snake_case only. |
 | G2 reveal backfill | Starts at S1; S0 is excluded. |
 | Q6 list entry (2026-11-16) | Facts and quest steps use an Add button, not an empty last row. Route `mode` dropped. |
+| Party travel (2026-11-16) | `horseshoes_of_speed` toggle on the party (+30 speed). |
+| Campaign `summary` (2026-11-16) | Agents may edit it without a proposal line; it stays player-safe. |
 | CLAUDE.md lines (enums and `note_fields` in C11; casing in C5b) | Both approved. |
 
 Where a decision depends on a test (T5, T5b, T7, T9–T11), the test result picks between the design and the fallback named in that row. The fallback isn't a new decision.

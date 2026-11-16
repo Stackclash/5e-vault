@@ -85,6 +85,7 @@ Rule ids in this plan are prefixes: `--rule "legacy: groups"` matches `legacy: g
 - **[M] Change:** where `prep-notes` contains `Session Prep/Midnight Covenant/`, replace that segment with `Session Prep/The Hunt for Vecna/` **only if** the resulting file exists. Expected: 23 journals (verified 2026-11-15; every target exists). The audit's "28" counted other broken links.
 - **[J] Propose, do not write:** journals whose `prep-notes` is empty, points at `Session Prep.md` (the template; S40, S42, S43), or points at a date that is not the journal's own `date` (S37). For each, list the prep notes within 3 days of the journal's `date` and ask the DM which is right. Known oddities to include: S28 `date: 2024-01-11` (probably 2025-01-11); S33 `date: 2025-04-19` vs prep `2025-10-25`. Dates are canon-adjacent: the DM decides.
 - **Verify:** `lint.js --rule unresolved-link` shows no `prep-notes:` rows; `journal-no-prep-link` count reported.
+- **[J] resolved (DM, 2026-11-16):** a journal gets a prep link only when a prep note has its exact date. S1–S4, S33, S47 have none and stay blank (`journal-no-prep-link` 6 is expected).
 
 ### A4 [J] Stray file
 
