@@ -244,7 +244,7 @@ Run after A3 (repairs `prep-notes` values) and C5 (drops `travelDistances` and `
 - dm-assistant agent memory: `.claude/agent-memory/dm-assistant/project_campaign-state.md` and `feedback_session-log-workflow.md`.
 - CLAUDE.md "Conventions in brief": one line, "Frontmatter field names are snake_case; plugin keys (`obsidianUIMode`, `fc-*`) are the exception." (Approved 2026-11-15.)
 
-**New lint rule `key-case`** (warning): any frontmatter key outside `5. Mechanics/` and `6. Resources/` that isn't `^[a-z][a-z0-9]*(_[a-z0-9]+)*$`. It checks top-level keys and field names inside nested objects. It skips the plugin allowlist above and the children of value-keyed maps. Those maps are listed in one constant in `lint.js`: `revealed`, `reveal`, `standing`, `renown`, `party_relationships`, `item_pricing.base_prices`, `item_pricing.recharge_modifiers`, `shop_types`. The C6 `note-fields` rule also rejects a `note_fields` entry whose field isn't snake_case.
+**New lint rule `key-case`** (warning): any frontmatter key outside `5. Mechanics/` and `6. Resources/` that isn't `^[a-z][a-z0-9]*(_[a-z0-9]+)*$`. It checks top-level keys and field names inside nested objects. It skips the plugin allowlist above and the children of value-keyed maps. Those maps are listed in one constant in `lint.js`: `revealed`, `reveal`, `standing`, `renown`, `party_relationships`, `item_pricing.base_prices`, `item_pricing.recharge_modifiers`, `shop_types`, plus `active`, `completed`, `steps.completed` (per-party quest state; added during C5b, 2026-11-16). The C6 `note-fields` rule also rejects a `note_fields` entry whose field isn't snake_case.
 
 - **Verify:**
   - `lint.js --rule key-case --max 999` → 0 rows.

@@ -11,7 +11,7 @@ CLAUDE.md holds the rules that bind all work. This skill holds the mechanics of 
 
 1. **Links.** Internal links are wikilinks, never markdown links. In frontmatter use the full path with `.md` and an alias, quoted: `"[[4. World Almanac/NPCs/Anselm Corrow.md|Anselm Corrow]]"`. In body prose `[[Anselm Corrow]]` is fine. External URLs use `[text](https://…)`.
 2. **Folder and tags.** Place the note and tag it per `references/folders-tags.md`. A wrong tag silently removes the note from every query. Location-type notes carry their type tag plus `location`.
-3. **First key** is `obsidianUIMode: preview`.
+3. **First key** is `obsidianUIMode: preview`. **Field names are snake_case** (`party_relationships`, `prep_notes`). Exempt: plugin keys (`tags`, `aliases`, `cssclasses`, `obsidianUIMode`, `obsidianEditingMode`, `fc-*`, `aat-render-enabled`); map keys that are values (party names, rarities, shop type names); `5. Mechanics/` and `6. Resources/`; parameters inside `leaflet` blocks and Modal Forms definitions. The lint rule `key-case` checks it.
 4. **Start from the template's shape.** Copy the body scaffold from the Templater template in `z_Templates/Templater/` (or from a sibling note of the same type). The scaffold is how the note renders in Obsidian; do not invent body layouts.
 5. **Text lives in frontmatter** for NPCs, quests, and factions. The body is inputs and views bound to those fields.
 6. **Never write these without an approved proposal line from the DM:** `revealed`, `reveal`, `public_name`, `summary`, any `learned` value, `locked`, a `## Public` section, or anything in a journal with `wrapped: true`. Propose; write after a yes.

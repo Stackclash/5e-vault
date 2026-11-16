@@ -49,6 +49,7 @@ Full schemas live in `.claude/skills/vault-note/references/`. The essentials:
 - Each note type has one folder and one canonical tag; location-type notes also carry `location`. A wrong tag hides the note from every query.
 - `location` is the immediate parent (World → Region → Settlement → Place of Interest → Shop), or an NPC's or item's current whereabouts.
 - Every entity has a one-line `gist` (DM-facing) and may have a `summary` (player-safe).
+- Frontmatter field names are snake_case; plugin keys (`obsidianUIMode`, `fc-*`) are the exception.
 - `facts` is the list of learnable truths about an entity; `learned` on a fact or relationship links the journal where the party learned it.
 - `relationships` is a list of typed, directed links stored on one side only. Factions, deities, story items, and custom creatures are notes, not strings. Campaign-made notes use the tags `story-item`, `story-deity`, `story-creature`; the bare `item`, `deity`, and `monster` tags belong to generated content in `5. Mechanics/`.
 - Session journals are the record of play. Their link arrays (`party_present`, `locations`, `npcs`, `quests`, `items`, `factions`) are the ledger of what was actually encountered.

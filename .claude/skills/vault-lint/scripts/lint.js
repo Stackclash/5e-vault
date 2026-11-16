@@ -31,6 +31,36 @@ for (const n of model.notes) {
   if (imgs.some(i => i.includes('\\') || /^Z_Assets/.test(i))) W('image-path', n.path, 'backslash or wrong-case image path')
 }
 
+// key-case: vault-owned frontmatter field names are snake_case (C5b). Scans every note outside the
+// generated and source folders, since the model only loads entity folders.
+const KEY_CASE = /^[a-z][a-z0-9]*(_[a-z0-9]+)*$/
+const PLUGIN_KEYS = new Set(['tags', 'aliases', 'cssclasses', 'obsidianUIMode', 'obsidianEditingMode', 'aat-render-enabled'])
+const VALUE_KEYED_MAPS = new Set(['revealed', 'reveal', 'standing', 'renown', 'party_relationships',
+  'item_pricing.base_prices', 'item_pricing.recharge_modifiers', 'shop_types', 'active', 'completed', 'steps.completed'])
+const KEY_CASE_SKIP = /^(5\. Mechanics|6\. Resources|z_Templates|z_Extra|node_modules|\.)/
+function checkKeys(value, at, file) {
+  if (Array.isArray(value)) return value.forEach(v => checkKeys(v, at, file))
+  if (!value || typeof value !== 'object' || value instanceof Date || VALUE_KEYED_MAPS.has(at)) return
+  for (const [k, v] of Object.entries(value)) {
+    const p = at ? at + '.' + k : k
+    if (!(at === '' && (PLUGIN_KEYS.has(k) || k.startsWith('fc-'))) && !KEY_CASE.test(k)) W('key-case', file, p)
+    checkKeys(v, p, file)
+  }
+}
+if (!only || only.startsWith('key-case')) {
+  const YAML = require('yaml')
+  const scan = rel => fs.readdirSync(path.join(model.root, rel), { withFileTypes: true }).forEach(e => {
+    const r = rel ? rel + '/' + e.name : e.name
+    if (KEY_CASE_SKIP.test(r)) return
+    if (e.isDirectory()) return scan(r)
+    if (!e.name.endsWith('.md')) return
+    const m = /^---\r?\n([\s\S]*?)\r?\n---/.exec(fs.readFileSync(path.join(model.root, r), 'utf8'))
+    if (!m) return
+    try { checkKeys(YAML.parse(m[1]) || {}, '', r) } catch { /* yaml-parse reports entity notes */ }
+  })
+  scan('')
+}
+
 for (const u of model.unresolved) {
   const legacyString = ['groups', 'religions'].includes(u.field)
   if (legacyString) continue // reported under legacy
@@ -80,7 +110,7 @@ for (const s of model.sessions) {
   if (!s.party && s.number !== 0) E('journal-no-party', s.path, 'no party: link')
   if (!s.summary) W('journal-no-summary', s.path, '')
   if (!s.fcEnd && s.number !== 0) W('journal-no-fc-end', s.path, '')
-  if (s.number !== 0 && !arr(n.fm.prep_notes ?? n.fm['prep-notes']).filter(Boolean).length) W('journal-no-prep-link', s.path, '')
+  if (s.number !== 0 && !arr(n.fm.prep_notes).filter(Boolean).length) W('journal-no-prep-link', s.path, '')
   if (s.number !== 0 && s.counts.npcs + s.counts.locations === 0) W('journal-empty-ledger', s.path, '')
   if (s.wrapped || s.publish) for (const e of model.edges.filter(x => x.source === s.path && x.type.startsWith('session-') && x.resolved)) {
     const t = ent.get(e.target)
