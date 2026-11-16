@@ -22,6 +22,8 @@ tags:
 routes:
   - to: "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
     miles: 12.7
+  - to: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
+    miles: 20
 ---
 > [!infobox | wsmall]
 > # `=this.file.name`
