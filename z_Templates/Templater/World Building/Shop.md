@@ -36,6 +36,10 @@ try {
 ---
 obsidianUIMode: preview
 location: "<% data.location %>"
+gist: ""
+summary: ""
+revealed: {}
+facts: []
 resources: []
 owners: <%* if (data.owners && data.owners.length == 0) { %>[]<%* } %>
 <%* for (owner of data.owners) { -%>
@@ -46,8 +50,8 @@ staff: <%* if (data.staff && data.staff.length == 0) { %>[]<%* } %>
   - "<% dataview.page(staff).file.link.toString() %>"
 <%* } -%>
 cost_modifier: 1
-shop_type: ""
-shop_size: ""
+type: ""
+size: ""
 items: []
 tags:
   - location
