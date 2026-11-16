@@ -81,6 +81,8 @@ async function openForm(modalFormApi, formConfig) {
  */
 async function moveFile(tp, basePath, fileName) {
     const path = require('path')
+    // Folders approved in Configuration may not exist yet (git does not track empty folders).
+    if (!app.vault.getAbstractFileByPath(basePath)) await app.vault.createFolder(basePath)
     await tp.file.move(
         path.posix.join(basePath, fileName),
         tp.file.find_tfile(tp.file.title)

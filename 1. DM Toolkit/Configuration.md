@@ -21,45 +21,136 @@ locations:
   deities: 4. World Almanac/Deities
   creatures: 4. World Almanac/Creatures
 relationship_types:
-  - { type: father, category: family, inverse: { male: son, female: daughter } }
-  - { type: mother, category: family, inverse: { male: son, female: daughter } }
-  - { type: son, category: family, inverse: { male: father, female: mother } }
-  - { type: daughter, category: family, inverse: { male: father, female: mother } }
-  - { type: husband, category: family, inverse: wife }
-  - { type: wife, category: family, inverse: husband }
-  - { type: brother, category: family, inverse: { male: brother, female: sister } }
-  - { type: sister, category: family, inverse: { male: brother, female: sister } }
-  - { type: uncle, category: family, inverse: { male: nephew, female: niece } }
-  - { type: aunt, category: family, inverse: { male: nephew, female: niece } }
-  - { type: nephew, category: family, inverse: { male: uncle, female: aunt } }
-  - { type: niece, category: family, inverse: { male: uncle, female: aunt } }
-  - { type: cousin, category: family, inverse: cousin, symmetric: true }
-  - { type: friend, category: personal, inverse: friend, symmetric: true }
-  - { type: ally, category: personal, inverse: ally }
-  - { type: rival, category: personal, inverse: rival }
-  - { type: enemy, category: personal, inverse: enemy }
-  - { type: lover, category: personal, inverse: lover, symmetric: true }
-  - { type: mentor, category: personal, inverse: student }
-  - { type: student, category: personal, inverse: mentor }
-  - { type: employer, category: work, inverse: employee }
-  - { type: employee, category: work, inverse: employer }
-  - { type: serves, category: work, inverse: master }
-  - { type: master, category: work, inverse: serves }
-  - { type: handler, category: work, inverse: asset }
-  - { type: asset, category: work, inverse: handler }
-  - { type: patron, category: work, inverse: client }
-  - { type: client, category: work, inverse: patron }
-  - { type: member, category: faction }
-  - { type: leader, category: faction }
-  - { type: founder, category: faction }
-  - { type: agent, category: faction }
-  - { type: former-member, category: faction }
-  - { type: worships, category: faith }
-  - { type: cleric-of, category: faith }
-  - { type: home, category: place }
-  - { type: works-at, category: place }
-  - { type: origin, category: place }
-  - { type: imprisoned-at, category: place }
+  - type: father
+    category: family
+    inverse:
+      male: son
+      female: daughter
+  - type: mother
+    category: family
+    inverse:
+      male: son
+      female: daughter
+  - type: son
+    category: family
+    inverse:
+      male: father
+      female: mother
+  - type: daughter
+    category: family
+    inverse:
+      male: father
+      female: mother
+  - type: husband
+    category: family
+    inverse: wife
+  - type: wife
+    category: family
+    inverse: husband
+  - type: brother
+    category: family
+    inverse:
+      male: brother
+      female: sister
+  - type: sister
+    category: family
+    inverse:
+      male: brother
+      female: sister
+  - type: uncle
+    category: family
+    inverse:
+      male: nephew
+      female: niece
+  - type: aunt
+    category: family
+    inverse:
+      male: nephew
+      female: niece
+  - type: nephew
+    category: family
+    inverse:
+      male: uncle
+      female: aunt
+  - type: niece
+    category: family
+    inverse:
+      male: uncle
+      female: aunt
+  - type: cousin
+    category: family
+    inverse: cousin
+    symmetric: true
+  - type: friend
+    category: personal
+    inverse: friend
+    symmetric: true
+  - type: ally
+    category: personal
+    inverse: ally
+  - type: rival
+    category: personal
+    inverse: rival
+  - type: enemy
+    category: personal
+    inverse: enemy
+  - type: lover
+    category: personal
+    inverse: lover
+    symmetric: true
+  - type: mentor
+    category: personal
+    inverse: student
+  - type: student
+    category: personal
+    inverse: mentor
+  - type: employer
+    category: work
+    inverse: employee
+  - type: employee
+    category: work
+    inverse: employer
+  - type: serves
+    category: work
+    inverse: master
+  - type: master
+    category: work
+    inverse: serves
+  - type: handler
+    category: work
+    inverse: asset
+  - type: asset
+    category: work
+    inverse: handler
+  - type: patron
+    category: work
+    inverse: client
+  - type: client
+    category: work
+    inverse: patron
+  - type: member
+    category: faction
+  - type: leader
+    category: faction
+  - type: founder
+    category: faction
+    inverse: ""
+  - type: agent
+    category: faction
+  - type: former-member
+    category: faction
+  - type: worships
+    category: faith
+  - type: cleric-of
+    category: faith
+  - type: home
+    category: place
+  - type: works-at
+    category: place
+  - type: origin
+    category: place
+  - type: imprisoned-at
+    category: place
 shop_types:
   - name: Blacksmith
     filters:
@@ -199,27 +290,247 @@ item_pricing:
     short-rest: 0.95
     long-rest: 0.85
 enums:
-  npc_conditions: [ healthy, injured, captured, missing, dead, unknown ]
-  party_relationships: [ Acquaintance, Friendly, Ally, Disgruntled, Enemy ]
-  party_standings: [ Hostile, Unfriendly, Neutral, Friendly, Allied ]
-  location_statuses: [ thriving, stable, wary, besieged, occupied, ruined ]
-  faction_kinds: [ guild, cult, order, house, court, family, company, other ]
-  faction_statuses: [ active, broken, dormant, destroyed ]
-  alignments: [ Lawful Good, Neutral Good, Chaotic Good, Lawful Neutral, Neutral, Chaotic Neutral, Lawful Evil, Neutral Evil, Chaotic Evil ]
+  npc_conditions:
+    - healthy
+    - injured
+    - captured
+    - missing
+    - dead
+    - unknown
+  party_relationships:
+    - Acquaintance
+    - Friendly
+    - Ally
+    - Disgruntled
+    - Enemy
+  party_standings:
+    - Hostile
+    - Unfriendly
+    - Neutral
+    - Friendly
+    - Allied
+  location_statuses:
+    - thriving
+    - stable
+    - wary
+    - besieged
+    - occupied
+    - ruined
+  faction_kinds:
+    - guild
+    - cult
+    - order
+    - house
+    - court
+    - family
+    - company
+    - other
+  faction_statuses:
+    - active
+    - broken
+    - dormant
+    - destroyed
+  alignments:
+    - Lawful Good
+    - Neutral Good
+    - Chaotic Good
+    - Lawful Neutral
+    - Neutral
+    - Chaotic Neutral
+    - Lawful Evil
+    - Neutral Evil
+    - Chaotic Evil
+  genders: [ male, female ]
+  quest_kinds: [ arc, quest, thread ]
+  step_statuses: [ planned, played, skipped, void ]
+  campaign_statuses: [ planning, active, hiatus, finished ]
 settlement_wealth:
-  - { name: destitute, price: 0.8 }
-  - { name: poor, price: 0.9 }
-  - { name: modest, price: 1 }
-  - { name: prosperous, price: 1.15 }
-  - { name: rich, price: 1.3 }
-shop_defaults: { buy_rate: 0.5 }
+  - name: destitute
+    price: 0.8
+  - name: poor
+    price: 0.9
+  - name: modest
+    price: 1
+  - name: prosperous
+    price: 1.15
+  - name: rich
+    price: 1.3
+shop_defaults:
+  buy_rate: 0.5
 rules_lookup:
   sources:
-    - { path: "5. Mechanics/Spells", kind: Spell }
-    - { path: "5. Mechanics/Rules", kind: Rule, sections: true }
-    - { path: "6. Resources/Books/Players Handbook 2014", kind: Rule, sections: true }
-    - { path: "6. Resources/Books/Dungeon Masters Guide 2014", kind: Rule, sections: true }
-    - { path: "5. Mechanics/Items", kind: Item, default_off: true }
+    - path: 5. Mechanics/Spells
+      kind: Spell
+    - path: 5. Mechanics/Rules
+      kind: Rule
+      sections: true
+    - path: 6. Resources/Books/Players Handbook 2014
+      kind: Rule
+      sections: true
+    - path: 6. Resources/Books/Dungeon Masters Guide 2014
+      kind: Rule
+      sections: true
+    - path: 5. Mechanics/Items
+      kind: Item
+      default_off: true
+note_fields:
+  npc:
+    - { field: condition, input: inlineSelect, tab: header, enum: npc_conditions, chip: true, bulk: true }
+    - { field: party_relationships, input: inlineSelect, tab: header, enum: party_relationships, chip: true, bulk: true, per_party: true, label: Party relationship }
+    - { field: pronounced, input: text, tab: header }
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: race, input: suggester, tab: infobox, source: '"5. Mechanics/Races"', bulk: true }
+    - { field: gender, input: inlineSelect, tab: infobox, enum: genders, bulk: true }
+    - { field: age, input: number, tab: infobox, bulk: true }
+    - { field: alignment, input: inlineSelect, tab: infobox, enum: alignments, bulk: true }
+    - { field: occupation, input: inlineList, tab: infobox }
+    - { field: location, input: suggester, tab: infobox, source: "#location", label: Current location, bulk: true }
+    - { field: appearance, input: text, tab: At the Table }
+    - { field: voice, input: textArea, tab: At the Table }
+    - { field: goals, input: textArea, tab: At the Table }
+    - { field: personality, input: textArea, tab: At the Table }
+    - { field: ideal, input: textArea, tab: At the Table }
+    - { field: bond, input: textArea, tab: At the Table }
+    - { field: flaw, input: textArea, tab: At the Table }
+    - { field: likes, input: textArea, tab: At the Table }
+    - { field: dislikes, input: textArea, tab: At the Table }
+    - { field: description, input: textArea, tab: Lore }
+    - { field: history, input: textArea, tab: Lore }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  region:
+    - { field: status, input: inlineSelect, tab: header, enum: location_statuses, chip: true, bulk: true }
+    - { field: pronounced, input: text, tab: header }
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: location, input: suggester, tab: infobox, source: "#location", label: Parent, bulk: true }
+    - { field: population, input: number, tab: infobox, bulk: true }
+    - { field: terrain, input: text, tab: infobox, bulk: true }
+    - { field: rulers, input: inlineListSuggester, tab: infobox, source: "#npc" }
+    - { field: government, input: text, tab: infobox }
+    - { field: army, input: text, tab: infobox }
+    - { field: imports, input: inlineList, tab: infobox }
+    - { field: exports, input: inlineList, tab: infobox }
+    - { field: atmosphere, input: textArea, tab: At the Table }
+    - { field: hazards, input: textArea, tab: At the Table }
+    - { field: climate, input: text, tab: At the Table, bulk: true }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  settlement:
+    - { field: status, input: inlineSelect, tab: header, enum: location_statuses, chip: true, bulk: true }
+    - { field: pronounced, input: text, tab: header }
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: location, input: suggester, tab: infobox, source: "#location", label: Parent, bulk: true }
+    - { field: population, input: number, tab: infobox, bulk: true }
+    - { field: terrain, input: text, tab: infobox, bulk: true }
+    - { field: rulers, input: inlineListSuggester, tab: infobox, source: "#npc" }
+    - { field: government, input: text, tab: infobox }
+    - { field: army, input: text, tab: infobox }
+    - { field: imports, input: inlineList, tab: infobox }
+    - { field: exports, input: inlineList, tab: infobox }
+    - { field: atmosphere, input: textArea, tab: At the Table }
+    - { field: hazards, input: textArea, tab: At the Table }
+    - { field: climate, input: text, tab: At the Table, bulk: true }
+    - { field: summary, input: textArea, tab: Player-Facing }
+    - { field: wealth, input: inlineSelect, tab: infobox, enum: settlement_wealth, bulk: true }
+  place-of-interest:
+    - { field: status, input: inlineSelect, tab: header, enum: location_statuses, chip: true, bulk: true }
+    - { field: pronounced, input: text, tab: header }
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: location, input: suggester, tab: infobox, source: "#location", label: Parent, bulk: true }
+    - { field: population, input: number, tab: infobox, bulk: true }
+    - { field: terrain, input: text, tab: infobox, bulk: true }
+    - { field: rulers, input: inlineListSuggester, tab: infobox, source: "#npc" }
+    - { field: government, input: text, tab: infobox }
+    - { field: army, input: text, tab: infobox }
+    - { field: imports, input: inlineList, tab: infobox }
+    - { field: exports, input: inlineList, tab: infobox }
+    - { field: atmosphere, input: textArea, tab: At the Table }
+    - { field: hazards, input: textArea, tab: At the Table }
+    - { field: climate, input: text, tab: At the Table, bulk: true }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  shop:
+    - { field: status, input: inlineSelect, tab: header, enum: location_statuses, chip: true, bulk: true }
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: location, input: suggester, tab: infobox, source: "#location", label: Parent, bulk: true }
+    - { field: type, input: inlineSelect, tab: infobox, enum: shop_types, label: Shop type, bulk: true }
+    - { field: size, input: inlineSelect, tab: infobox, enum: shop_sizes, label: Shop size, bulk: true }
+    - { field: cost_modifier, input: number, tab: infobox, bulk: true }
+    - { field: buy_rate, input: number, tab: infobox, bulk: true }
+    - { field: owners, input: inlineListSuggester, tab: At the Table, source: "#npc" }
+    - { field: staff, input: inlineListSuggester, tab: At the Table, source: "#npc" }
+    - { field: atmosphere, input: textArea, tab: At the Table }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  world:
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: economic_scale, input: number, tab: infobox, bulk: true }
+    - { field: calendar, input: text, tab: infobox }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  faction:
+    - { field: standing, input: inlineSelect, tab: header, enum: party_standings, chip: true, bulk: true, per_party: true }
+    - { field: status, input: inlineSelect, tab: header, enum: faction_statuses, chip: true, bulk: true }
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: kind, input: inlineSelect, tab: infobox, enum: faction_kinds, bulk: true }
+    - { field: location, input: suggester, tab: infobox, source: "#location", label: Base, bulk: true }
+    - { field: renown, input: number, tab: infobox, per_party: true }
+    - { field: goals, input: textArea, tab: At the Table }
+    - { field: resources, input: textArea, tab: At the Table }
+    - { field: symbol, input: text, tab: At the Table }
+    - { field: motto, input: text, tab: At the Table }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  story-item:
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: holder, input: suggester, tab: Overview, source: "#player" }
+    - { field: location, input: suggester, tab: Overview, source: "#location", label: Rests at }
+    - { field: base_item, input: suggester, tab: Overview, source: '"5. Mechanics/Items"' }
+    - { field: rarity, input: text, tab: Overview, bulk: true }
+    - { field: attunement, input: toggle, tab: Overview, bulk: true }
+    - { field: curse, input: textArea, tab: DM }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  story-deity:
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: title, input: text, tab: Overview }
+    - { field: symbol, input: text, tab: Overview }
+    - { field: alignment, input: inlineSelect, tab: Overview, enum: alignments, bulk: true }
+    - { field: domains, input: inlineList, tab: Overview }
+    - { field: mechanics, input: suggester, tab: Overview, source: '"5. Mechanics/Deities"' }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  story-creature:
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: base_creature, input: suggester, tab: Overview, source: '"5. Mechanics/Bestiary"' }
+    - { field: cr, input: text, tab: Overview, bulk: true }
+    - { field: size, input: text, tab: Overview, bulk: true }
+    - { field: type, input: text, tab: Overview, bulk: true }
+    - { field: environments, input: inlineList, tab: Overview }
+    - { field: description, input: textArea, tab: Overview }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  quest:
+    - { field: active, input: toggle, tab: header, chip: true, bulk: true, per_party: true }
+    - { field: completed, input: toggle, tab: header, chip: true, bulk: true, per_party: true }
+    - { field: gist, input: text, tab: gist, bulk: true }
+    - { field: kind, input: inlineSelect, tab: infobox, enum: quest_kinds, bulk: true }
+    - { field: parent, input: suggester, tab: infobox, source: "#quest", label: Arc }
+    - { field: giver, input: suggester, tab: NPCs & Links, source: "#npc" }
+    - { field: description, input: textArea, tab: Description }
+    - { field: stakes, input: textArea, tab: Description }
+    - { field: reward, input: text, tab: Description }
+    - { field: deadline, input: text, tab: Description, bulk: true }
+    - { field: summary, input: textArea, tab: Player-Facing }
+  session-journal:
+    - { field: party_level, input: number, tab: header, chip: true, bulk: true }
+    - { field: wrapped, input: toggle, tab: header, chip: true, bulk: true }
+    - { field: session_number, input: number, tab: infobox, bulk: true }
+    - { field: spotlight, input: inlineListSuggester, tab: infobox, source: "#player" }
+    - { field: summary, input: textArea, tab: Recap }
+  party:
+    - { field: travel_multiplier, input: number, tab: Travel }
+    - { field: travel_bonus, input: number, tab: Travel }
+    - { field: travel_hours_per_day, input: number, tab: Travel }
+    - { field: encumbered, input: toggle, tab: Travel }
+    - { field: horseshoes_of_speed, input: toggle, tab: Travel }
+    - { field: exhaustion_level, input: number, tab: Travel }
+  campaign:
+    - { field: status, input: inlineSelect, tab: infobox, enum: campaign_statuses, bulk: true }
+    - { field: level_range, input: text, tab: infobox }
+    - { field: site_slug, input: text, tab: infobox }
+    - { field: summary, input: textArea, tab: infobox }
 ---
   > [!infobox|n-th]
 > | | |

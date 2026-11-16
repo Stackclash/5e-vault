@@ -4,13 +4,13 @@
 const { getLocationBreadcrumbs } = await self.require.import("z_Scripts/Dataview/data/locations.js")
 const { getLinkPath } = await self.require.import("z_Scripts/Dataview/utils/helpers.js")
 const { generateMetaBindInput } = await self.require.import("z_Scripts/Dataview/utils/generateMetaBindInput.js")
+const { enumOptions } = await self.require.import("z_Scripts/Dataview/utils/noteFields.js")
 
 const current = input.current
 const config = dv.page("Configuration")
 const campaign = dv.page(getLinkPath(config?.active_campaign) ?? "")
 const partyPage = dv.page(getLinkPath(campaign?.party) ?? "")
 const party = partyPage?.file.name ?? ""
-const enums = config?.enums ?? {}
 
 const TYPES = ["npc", "region", "settlement", "place-of-interest", "shop", "world", "faction", "story-item",
     "story-deity", "story-creature", "quest", "player", "party", "session-journal", "session-prep", "campaign"]
@@ -43,7 +43,7 @@ const label = f => f.label ?? f.field.replace(/_/g, " ").replace(/^./, c => c.to
 const chipMarkdown = f => {
     const perParty = f.per_party ?? PER_PARTY.has(f.field)
     if (perParty && !party) return ""
-    const options = f.enum ? (enums[f.enum] ?? []).map(o => `option(${o})`) : []
+    const options = enumOptions(config, f.enum).map(o => `option(${o})`)
     const input = generateMetaBindInput({ type: f.input ?? "text", options, field: perParty ? [f.field, party] : f.field })
     return `<span class="entity-chip"><span class="entity-chip-label">${label(f)}</span> ${input}</span>`
 }
