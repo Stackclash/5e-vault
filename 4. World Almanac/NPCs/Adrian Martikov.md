@@ -4,7 +4,8 @@ statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
 relationships:
-  - Davian Martikov (COS)|father
+  - target: "[[4. World Almanac/NPCs/Davian Martikov (COS).md|Davian Martikov]]"
+    type: father
 tags:
   - npc
   - compendium/src/5e/cos

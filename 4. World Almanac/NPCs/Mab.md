@@ -6,7 +6,9 @@ condition: healthy
 images:
   - z_Assets/PlaceholderImage.png
 relationships:
-  - "Baba Lysaga (COS)|ally of convenience"
+  - target: "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga]]"
+    type: ally
+    note: of convenience
 tags:
   - npc
 aliases:

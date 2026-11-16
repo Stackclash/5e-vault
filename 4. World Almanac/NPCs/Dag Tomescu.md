@@ -4,7 +4,8 @@ statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
 relationships:
-  - Stefania Martikov|wife
+  - target: "[[4. World Almanac/NPCs/Stefania Martikov.md|Stefania Martikov]]"
+    type: wife
 tags:
   - npc
   - compendium/src/5e/cos

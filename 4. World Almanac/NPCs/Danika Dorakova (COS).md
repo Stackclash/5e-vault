@@ -27,9 +27,10 @@ history: >-
   [[Bray Martikov (COS)|Bray]] and [[Brom Martikov (COS)|Brom]], to take up the
   family’s hidden duties in turn.
 relationships:
-  - Urwin Martikov (COS)|husband
-  - Bray Martikov (COS)|son
-  - Brom Martikov (COS)|son
+  - target: "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov]]"
+    type: husband
+  - target: "[[4. World Almanac/NPCs/Brom Martikov (COS).md|Brom Martikov]]"
+    type: son
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'

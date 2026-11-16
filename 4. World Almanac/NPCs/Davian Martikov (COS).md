@@ -28,11 +28,7 @@ history: >-
   remain estranged. In recent weeks Baba Lysaga's scarecrows and a band of evil
   druids have stolen the remaining two gems and driven Davian's family from the
   winery entirely, leaving the vineyard's future in doubt.
-relationships:
-  - Adrian Martikov|son
-  - Elvir Martikov|son
-  - Urwin Martikov (COS)|son
-  - Stefania Martikov|daughter
+relationships: []
 party_relationships:
   Midnight Covenant: Ally
 location: >-

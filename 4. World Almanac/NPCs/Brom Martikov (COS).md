@@ -25,7 +25,8 @@ history: >-
   allowed, chafing at being treated like a child even as he remains blissfully
   unaware of just how dangerous the family business really is.
 relationships:
-  - Urwin Martikov (COS)|father
+  - target: "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov]]"
+    type: father
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'

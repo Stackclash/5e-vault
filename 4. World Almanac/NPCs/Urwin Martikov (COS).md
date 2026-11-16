@@ -14,10 +14,8 @@ aliases:
   - Urwin Martikov
 alignment: Lawful Good
 relationships:
-  - Danika Dorakova (COS)|wife
-  - Davian Martikov (COS)|father
-  - Bray Martikov (COS)|son
-  - Brom Martikov (COS)|son
+  - target: "[[4. World Almanac/NPCs/Davian Martikov (COS).md|Davian Martikov]]"
+    type: father
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'

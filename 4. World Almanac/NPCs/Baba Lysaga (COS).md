@@ -15,7 +15,9 @@ aliases:
   - Baba Lysaga
 alignment: Chaotic Evil
 relationships:
-  - Mab|ally of convenience
+  - target: "[[4. World Almanac/NPCs/Mab.md|Mab]]"
+    type: ally
+    note: of convenience
 party_relationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'

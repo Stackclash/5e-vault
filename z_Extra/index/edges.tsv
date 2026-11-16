@@ -341,7 +341,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Arrigal (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Arrigal (COS).md	member	Vistani (Vallaki camp) (UNRESOLVED)		
 4. World Almanac/NPCs/Baba Lysaga (COS).md	location	4. World Almanac/Places of Interest/Ruins of Berez.md		
-4. World Almanac/NPCs/Baba Lysaga (COS).md	ally of convenience	4. World Almanac/NPCs/Mab.md		
+4. World Almanac/NPCs/Baba Lysaga (COS).md	ally	4. World Almanac/NPCs/Mab.md		of convenience
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	member	House Vallakovich (UNRESOLVED)		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	worships	The Morninglord (UNRESOLVED)		
@@ -364,14 +364,9 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Dag Tomescu.md	wife	4. World Almanac/NPCs/Stefania Martikov.md		
 4. World Almanac/NPCs/Danika Dorakova (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Danika Dorakova (COS).md	husband	4. World Almanac/NPCs/Urwin Martikov (COS).md		
-4. World Almanac/NPCs/Danika Dorakova (COS).md	son	4. World Almanac/NPCs/Bray Martikov (COS).md		
 4. World Almanac/NPCs/Danika Dorakova (COS).md	son	4. World Almanac/NPCs/Brom Martikov (COS).md		
 4. World Almanac/NPCs/Danika Dorakova (COS).md	member	Keepers of the Feather (UNRESOLVED)		
 4. World Almanac/NPCs/Davian Martikov (COS).md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
-4. World Almanac/NPCs/Davian Martikov (COS).md	son	4. World Almanac/NPCs/Adrian Martikov.md		
-4. World Almanac/NPCs/Davian Martikov (COS).md	son	4. World Almanac/NPCs/Elvir Martikov.md		
-4. World Almanac/NPCs/Davian Martikov (COS).md	son	4. World Almanac/NPCs/Urwin Martikov (COS).md		
-4. World Almanac/NPCs/Davian Martikov (COS).md	daughter	4. World Almanac/NPCs/Stefania Martikov.md		
 4. World Almanac/NPCs/Davian Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
 4. World Almanac/NPCs/Donavich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Donavich (COS).md	member	Clergy of the Morninglord (UNRESOLVED)		
@@ -411,7 +406,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md	member	Strahd's brides (UNRESOLVED)		
 4. World Almanac/NPCs/Luvash (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Luvash (COS).md	member	Vistani (Vallaki camp) (UNRESOLVED)		
-4. World Almanac/NPCs/Mab.md	ally of convenience	4. World Almanac/NPCs/Baba Lysaga (COS).md		
+4. World Almanac/NPCs/Mab.md	ally	4. World Almanac/NPCs/Baba Lysaga (COS).md		of convenience
 4. World Almanac/NPCs/Mab.md	member	Gloaming Court (UNRESOLVED)		
 4. World Almanac/NPCs/Mad Mary (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Madam Eva (COS).md	location	4. World Almanac/Places of Interest/Tser Pool.md		
@@ -469,7 +464,6 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Stanimir (COS).md	location	4. World Almanac/Places of Interest/Tser Pool.md		
 4. World Almanac/NPCs/Stanimir (COS).md	member	Vistani (Tser Pool camp) (UNRESOLVED)		
 4. World Almanac/NPCs/Stefania Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
-4. World Almanac/NPCs/Stefania Martikov.md	husband	4. World Almanac/NPCs/Dag Tomescu.md		
 4. World Almanac/NPCs/Stefania Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	member	House Wachter (UNRESOLVED)		
@@ -482,10 +476,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Unfinished Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
 4. World Almanac/NPCs/Unfinished Amber Warden.md	member	Silent Ascendency (UNRESOLVED)		
 4. World Almanac/NPCs/Urwin Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
-4. World Almanac/NPCs/Urwin Martikov (COS).md	wife	4. World Almanac/NPCs/Danika Dorakova (COS).md		
 4. World Almanac/NPCs/Urwin Martikov (COS).md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
-4. World Almanac/NPCs/Urwin Martikov (COS).md	son	4. World Almanac/NPCs/Bray Martikov (COS).md		
-4. World Almanac/NPCs/Urwin Martikov (COS).md	son	4. World Almanac/NPCs/Brom Martikov (COS).md		
 4. World Almanac/NPCs/Urwin Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
 4. World Almanac/NPCs/Vasilka (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Vasilka (COS).md	member	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		

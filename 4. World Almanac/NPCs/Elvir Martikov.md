@@ -6,7 +6,8 @@ condition: healthy
 images:
   - z_Assets/PlaceholderImage.png
 relationships:
-  - Davian Martikov (COS)|father
+  - target: "[[4. World Almanac/NPCs/Davian Martikov (COS).md|Davian Martikov]]"
+    type: father
 tags:
   - npc
 aliases: []

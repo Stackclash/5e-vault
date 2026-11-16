@@ -25,8 +25,10 @@ history: >-
   against Strahd, he pesters his parents for real responsibilities and dreams of
   the day he’s trusted with a Keeper’s errand of his own.
 relationships:
-  - Urwin Martikov (COS)|father
-  - Danika Dorakova (COS)|mother
+  - target: "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov]]"
+    type: father
+  - target: "[[4. World Almanac/NPCs/Danika Dorakova (COS).md|Danika Dorakova]]"
+    type: mother
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
