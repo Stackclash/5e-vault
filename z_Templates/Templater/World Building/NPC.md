@@ -59,15 +59,10 @@ likes: ""
 dislikes: ""
 party_relationships: {}
 ---
-```dataviewjs
-await dv.view('views/entityHeader', {current: dv.current()})
-```
-`BUTTON[edit-all]`
-
-> [!gist]
-> `INPUT[text(placeholder(One-line gist)):gist]`
-
 > [!infobox]
+> ```dataviewjs
+> await dv.view('views/imageCarousel', {current: dv.current()})
+> ```
 > ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
@@ -84,8 +79,12 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s) (legacy, until E2)** | `INPUT[inlineList:groups]` |
-> **Religion(s) (legacy, until E3)** | `INPUT[inlineList:religions]` |
+> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Religion(s)** | `INPUT[inlineList:religions]` |
+
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
 <% tp.file.include("[[z_Templates/Partials/Tabs - NPC]]") %>
 

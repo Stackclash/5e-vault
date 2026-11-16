@@ -91,10 +91,10 @@ function imagesMd() {
 const crumbs = breadcrumb().filter(Boolean)
 const root = dv.el("div", "", { cls: "entity-header" })
 if (crumbs.length) dv.el("div", crumbs.join(" › "), { cls: "entity-breadcrumb", container: root })
-const img = imagesMd()
+// Images live in the infobox (templates); pass {images: true} to show a carousel here instead.
+const img = input.images ? imagesMd() : ""
 if (img) dv.el("div", img, { cls: "entity-images", container: root })
 dv.el("h1", current.file.name, { cls: "entity-name", container: root })
-dv.el("div", "`INPUT[text(placeholder(pronounced)):pronounced]`", { cls: "entity-pronounced", container: root })
 // Per-party select chips get a clear button: it deletes the party's key so the value goes back to unset.
 async function clearPartyKey(field) {
     const file = app.vault.getAbstractFileByPath(current.file.path)
@@ -115,3 +115,10 @@ for (const f of chips) {
 }
 const b = badge()
 if (b) dv.el("span", b, { container: chipsEl })
+if (input.pronounced !== false && type !== "session-journal" && type !== "session-prep")
+    dv.el("span", `<span class="entity-chip entity-chip-pronounced"><span class="entity-chip-label">Pronounced</span> \`INPUT[text(placeholder(—)):pronounced]\`</span>`, { container: chipsEl })
+// The note defines the hidden edit-all button (templates do); the header just places it.
+if (input.editAll !== false) dv.el("span", "`BUTTON[edit-all]`", { cls: "entity-edit-all", container: chipsEl })
+// Gist strip: the line read first.
+if (input.gist !== false && ENTITY_TYPES.includes(type))
+    dv.el("div", "`INPUT[text(placeholder(One-line gist)):gist]`", { cls: "entity-gist", container: root })

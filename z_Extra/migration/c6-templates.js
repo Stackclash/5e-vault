@@ -10,16 +10,12 @@ const q = expr => `<% JSON.stringify(${expr}) %>`   // YAML-safe scalar from a T
 const row = (label, field) => `> **${label}** | \`$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: '${field}'})\` |`
 const rawRow = (label, input) => `> **${label}** | \`${input}\` |`
 const group = (title, rows) => [`> ###### ${title}`, '>  |', '>  ---|---|', ...rows]
-const imagesBlock = ['> ```meta-bind', '> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]', '> ```']
+const imagesBlock = ['> ```dataviewjs', "> await dv.view('views/imageCarousel', {current: dv.current()})", '> ```', '> ```meta-bind', '> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]', '> ```']
 
 const HEADER = [
   '```dataviewjs',
   "await dv.view('views/entityHeader', {current: dv.current()})",
   '```',
-  '`BUTTON[edit-all]`',
-  '',
-  '> [!gist]',
-  '> `INPUT[text(placeholder(One-line gist)):gist]`',
   '',
 ]
 const EDIT_ALL = ['```meta-bind-button', 'label: Edit all', 'icon: pencil', 'style: default', 'id: edit-all', 'hidden: true',
@@ -66,8 +62,9 @@ const COMMON_FM = ['gist: ' + q('data.gist ?? ""'), 'summary: ""', 'revealed: {}
 function template({ create, fm, infobox, tabs, stats = false }) {
   return [
     create, '---', 'obsidianUIMode: preview', ...fm, '---',
+    // Infobox first: it floats right, so the header and the tabs sit beside it.
+    '> [!infobox]', ...imagesBlock, ...(infobox ?? []), '',
     ...HEADER,
-    ...(infobox ? ['> [!infobox]', ...infobox, ''] : []),
     `<% tp.file.include("[[z_Templates/Partials/Tabs - ${tabs}]]") %>`, '',
     ...(stats ? STATS : []),
     '## DM Notes', '', '',
@@ -84,10 +81,9 @@ const TEMPLATES = {
       'relationships: []', 'tags:', '  - npc', 'aliases:', '  - ' + q('data.name'), 'pronounced: ""', ...COMMON_FM,
       'race: ""', 'gender: ""', 'age: ""', 'alignment: ""', 'occupation: []', 'appearance: ""', 'voice: ""', 'description: ""', 'history: ""',
       'personality: ""', 'ideal: ""', 'bond: ""', 'flaw: ""', 'goals: ""', 'likes: ""', 'dislikes: ""', 'party_relationships: {}'],
-    infobox: [...imagesBlock,
-      ...group('Bio', [row('Race', 'race'), row('Gender', 'gender'), row('Age', 'age'), row('Alignment', 'alignment')]),
+    infobox: [...group('Bio', [row('Race', 'race'), row('Gender', 'gender'), row('Age', 'age'), row('Alignment', 'alignment')]),
       ...group('Info', [rawRow('Alias(es)', 'INPUT[inlineList:aliases]'), row('Occupation(s)', 'occupation'), row('Current Location', 'location'),
-        rawRow('Group(s) (legacy, until E2)', 'INPUT[inlineList:groups]'), rawRow('Religion(s) (legacy, until E3)', 'INPUT[inlineList:religions]')])],
+        rawRow('Group(s)', 'INPUT[inlineList:groups]'), rawRow('Religion(s)', 'INPUT[inlineList:religions]')])],
     tabs: 'NPC', stats: true,
   }),
   'World Building/Location.md': template({
@@ -103,8 +99,7 @@ const TEMPLATES = {
       'government: ""', 'army: ""', 'imports: []', 'exports: []', 'routes: []',
       "<%* if (data.type === 'settlements') { -%>", 'wealth: ""', '<%* } -%>',
       'aliases: []', 'tags:', '  - location', '  - <% data.tag %>'],
-    infobox: [...imagesBlock,
-      ...group('Overview', [row('Parent', 'location'), row('Population', 'population'), row('Terrain', 'terrain'),
+    infobox: [...group('Overview', [row('Parent', 'location'), row('Population', 'population'), row('Terrain', 'terrain'),
         rawRow('Resources', 'INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):resources]')]),
       ...group('Politics', [row('Ruler(s)', 'rulers'), row('Government', 'government'), row('Army', 'army')]),
       "<%* if (data.type === 'settlements') { -%>",
@@ -127,7 +122,7 @@ const TEMPLATES = {
   'World Building/World.md': template({
     create: creation({ title: 'World Setup', locationKey: 'worlds', fields: ['fields.name("World Name", "Name of World")', GIST_FIELD] }),
     fm: ['images:', '  - z_Assets/PlaceholderImage.png', ...COMMON_FM, 'economic_scale: 1', 'calendar: ""', 'aliases: []', 'tags:', '  - location', '  - world'],
-    infobox: [...imagesBlock, ...group('Settings', [row('Economic scale', 'economic_scale'), row('Calendar', 'calendar')])],
+    infobox: [...group('Settings', [row('Economic scale', 'economic_scale'), row('Calendar', 'calendar')])],
     tabs: 'World',
   }),
   'World Building/Faction.md': template({
@@ -135,7 +130,7 @@ const TEMPLATES = {
       'fields.tagSelect(dataview, "location", "Base", \'#location\', "Where the faction is based (optional)", false)'] }),
     fm: ['kind: ""', 'status: active', 'location: ' + q('data.location ?? ""'), 'images: []', ...COMMON_FM, 'goals: ""', 'resources: ""',
       'symbol: ""', 'motto: ""', 'clock: []', 'standing: {}', 'renown: {}', 'relationships: []', 'aliases: []', 'tags:', '  - faction'],
-    infobox: [...imagesBlock, ...group('Overview', [row('Kind', 'kind'), row('Base', 'location'), row('Renown', 'renown')])],
+    infobox: [...group('Overview', [row('Kind', 'kind'), row('Base', 'location'), row('Renown', 'renown')])],
     tabs: 'Faction',
   }),
   'World Building/Item.md': template({

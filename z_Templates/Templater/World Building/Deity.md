@@ -40,13 +40,17 @@ aliases: []
 tags:
   - story-deity
 ---
+> [!infobox]
+> ```dataviewjs
+> await dv.view('views/imageCarousel', {current: dv.current()})
+> ```
+> ```meta-bind
+> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
+> ```
+
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})
 ```
-`BUTTON[edit-all]`
-
-> [!gist]
-> `INPUT[text(placeholder(One-line gist)):gist]`
 
 <% tp.file.include("[[z_Templates/Partials/Tabs - Deity]]") %>
 

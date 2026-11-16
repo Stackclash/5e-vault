@@ -253,3 +253,29 @@
   color: var(--text-faint);
 }
 .entity-chip-clear:hover { color: var(--text-error); }
+
+/* Header inputs that should read as text until edited */
+.entity-header .entity-chip-pronounced input,
+.entity-header .entity-gist input {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+.entity-header .entity-chip-pronounced input { font-style: italic; width: 12ch; }
+.entity-header .entity-gist {
+  margin: 0.3em 0 0.8em;
+  padding: 0.35em 0.75em;
+  border-left: 3px solid var(--interactive-accent);
+  background-color: var(--background-secondary);
+  border-radius: 4px;
+}
+.entity-header .entity-gist .mb-input, .entity-header .entity-gist input { width: 100%; font-size: var(--font-text-size); }
+.entity-header .entity-edit-all { margin-left: auto; }
+
+/* Let the tab bar and tab box sit beside a floated infobox instead of below it */
+.markdown-rendered .block-language-meta-bind:has(.mb-input-type-select.tabbed),
+.markdown-rendered .callout[data-callout="tabbed-box"] {
+  width: auto;
+  clear: none;
+  overflow: hidden;
+}

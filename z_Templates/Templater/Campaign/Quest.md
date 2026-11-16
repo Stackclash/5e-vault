@@ -49,15 +49,13 @@ steps: []
 tags:
   - quest
 ---
-```dataviewjs
-await dv.view('views/entityHeader', {current: dv.current()})
-```
-`BUTTON[edit-all]`
-
-> [!gist]
-> `INPUT[text(placeholder(One-line gist)):gist]`
-
 > [!infobox]
+> ```dataviewjs
+> await dv.view('views/imageCarousel', {current: dv.current()})
+> ```
+> ```meta-bind
+> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
+> ```
 > ###### Hook
 >  |
 >  ---|---|
@@ -65,6 +63,10 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > **Arc** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'parent'})` |
 > **Giver** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'giver'})` |
 > **Reward** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'reward'})` |
+
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
 <% tp.file.include("[[z_Templates/Partials/Tabs - Quest]]") %>
 

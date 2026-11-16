@@ -38,15 +38,10 @@ tags:
   - location
   - world
 ---
-```dataviewjs
-await dv.view('views/entityHeader', {current: dv.current()})
-```
-`BUTTON[edit-all]`
-
-> [!gist]
-> `INPUT[text(placeholder(One-line gist)):gist]`
-
 > [!infobox]
+> ```dataviewjs
+> await dv.view('views/imageCarousel', {current: dv.current()})
+> ```
 > ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
@@ -55,6 +50,10 @@ await dv.view('views/entityHeader', {current: dv.current()})
 >  ---|---|
 > **Economic scale** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'economic_scale'})` |
 > **Calendar** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'calendar'})` |
+
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
 <% tp.file.include("[[z_Templates/Partials/Tabs - World]]") %>
 

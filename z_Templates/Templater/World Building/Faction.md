@@ -46,15 +46,10 @@ aliases: []
 tags:
   - faction
 ---
-```dataviewjs
-await dv.view('views/entityHeader', {current: dv.current()})
-```
-`BUTTON[edit-all]`
-
-> [!gist]
-> `INPUT[text(placeholder(One-line gist)):gist]`
-
 > [!infobox]
+> ```dataviewjs
+> await dv.view('views/imageCarousel', {current: dv.current()})
+> ```
 > ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
@@ -64,6 +59,10 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > **Kind** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'kind'})` |
 > **Base** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Renown** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'renown'})` |
+
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
 <% tp.file.include("[[z_Templates/Partials/Tabs - Faction]]") %>
 
