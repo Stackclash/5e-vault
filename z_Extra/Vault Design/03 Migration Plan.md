@@ -166,7 +166,7 @@ relationship_types:
 
 - **File:** `1. DM Toolkit/Configuration.md`; `1. DM Toolkit/Tools/Weather Generation.md`; `z_Scripts/JS/weatherGenerator.js`.
 - **Change 1:** add `enums`, `settlement_wealth`, `shop_defaults`, and `rules_lookup` exactly as in `04 Expansion` §1.2.
-- **Change 2:** move the keys `useCalendarium`, `tempFlux`, `seasons`, `months`, `climates`, `states` from Weather Generation's frontmatter to Configuration under `weather:`, values unchanged. Repoint `weatherGenerator.js` to read `Configuration.weather`. Move the Add/Remove Month, Season, Climate, and State buttons and their tables into a Weather section of the Configuration body, targeting Configuration. Weather Generation keeps only a "Roll weather" UI.
+- **Change 2 — deferred to J7 (DM, 2026-11-16).** Found during B3: Weather Generation has no "Roll weather" UI, `weatherGenerator.js` has no caller or export, and the Months dataviewjs block rewrites the active note's frontmatter via `processFrontMatter` on every render when `useCalendarium` is true. Do this change inside J7, guarding that block so it writes only when Calendarium's months differ. Original text: move the keys `useCalendarium`, `tempFlux`, `seasons`, `months`, `climates`, `states` from Weather Generation's frontmatter to Configuration under `weather:`, values unchanged. Repoint `weatherGenerator.js` to read `Configuration.weather`. Move the Add/Remove Month, Season, Climate, and State buttons and their tables into a Weather section of the Configuration body, targeting Configuration. Weather Generation keeps only a "Roll weather" UI.
 - **First:** grep `z_Scripts` and `z_Templates` for every reader of those keys (`weatherGenerator.js` is the only known one). Any other reader is a stop-and-report.
 - **Verify:** `node -e` parse of Configuration shows `weather.climates.length` equal to the old count; ask the DM to roll weather once in Obsidian and get a result.
 - **Rollback paths:** those three files.
@@ -487,7 +487,7 @@ Independent of the site exporter. J1 runs **after H5** (the DM declined building
 | J4 | [M] | **Retire `Calculators/Travel.md`.** After C5 points `travelTimes.js` at the party, move its transport-cost section into the Party Dashboard template and the party note; ask the DM before deleting the calculator. | C5 | Vallaki's Travel Distances table matches the old values for the same pace. |
 | J5 | [M] | **Session Dashboard** (`04 Expansion` §3.4 #3). | party `location` (C6), C8 | DM opens it at the start of a session. |
 | J6 | [M] | **Rumor roll** on the location At the Table tab. | G2 (facts exist) | Rolls only unlearned facts with `rumor` not false. |
-| J7 | [M] | **Advance Time.** | T8 | Date moves; weather rolls for the party's `climate`. |
+| J7 | [M] | **Advance Time.** First do B3 change 2 (weather into Configuration), deferred here. | T8 | Date moves; weather rolls for the party's `climate`. |
 | J8 | [M] | **Loot**, **faction clock view**, **region encounter tables**, **party treasury** (`04 Expansion` §3.4 #7–10), one at a time, each after the DM asks for it. | E1 for clocks | per tool |
 
 ---

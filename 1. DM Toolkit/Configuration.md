@@ -252,6 +252,29 @@ item_pricing:
     dawn: 0.9
     short-rest: 0.95
     long-rest: 0.85
+enums:
+  npc_roles: [ villain, lieutenant, patron, ally, contact, rival, minor ]
+  npc_conditions: [ healthy, injured, captured, missing, dead, unknown ]
+  party_relationships: [ Acquaintance, Friendly, Ally, Disgruntled, Enemy ]
+  party_standings: [ Hostile, Unfriendly, Neutral, Friendly, Allied ]
+  location_statuses: [ thriving, stable, wary, besieged, occupied, ruined ]
+  faction_kinds: [ guild, cult, order, house, court, family, company, other ]
+  faction_statuses: [ active, broken, dormant, destroyed ]
+  alignments: [ Lawful Good, Neutral Good, Chaotic Good, Lawful Neutral, Neutral, Chaotic Neutral, Lawful Evil, Neutral Evil, Chaotic Evil ]
+settlement_wealth:
+  - { name: destitute, price: 0.8 }
+  - { name: poor, price: 0.9 }
+  - { name: modest, price: 1 }
+  - { name: prosperous, price: 1.15 }
+  - { name: rich, price: 1.3 }
+shop_defaults: { buy_rate: 0.5 }
+rules_lookup:
+  sources:
+    - { path: "5. Mechanics/Spells", kind: Spell }
+    - { path: "5. Mechanics/Rules", kind: Rule, sections: true }
+    - { path: "6. Resources/Books/Players Handbook 2014", kind: Rule, sections: true }
+    - { path: "6. Resources/Books/Dungeon Masters Guide 2014", kind: Rule, sections: true }
+    - { path: "5. Mechanics/Items", kind: Item, default_off: true }
 ---
   > [!infobox|n-th]
 > | | |
