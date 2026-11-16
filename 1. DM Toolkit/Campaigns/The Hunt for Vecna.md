@@ -14,7 +14,7 @@ tags:
 
 ## Public Premise
 > [!div|no-t clean]
-> `INPUT[textArea:public_premise]`
+> `INPUT[textArea:summary]`
 
 > [!abstract] Campaign Bible
 > This note is the campaign bible. Agents (`dm-assistant`, `world-builder`, `story-creator`, `encounter-builder`) read it for tone, power level, and content boundaries before generating anything. Locked canon here is fixed unless the DM reopens it. Where a section is marked *(TODO)* or is silent, agents ask rather than assume.

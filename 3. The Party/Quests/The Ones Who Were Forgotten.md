@@ -30,7 +30,7 @@ tags:
 
 ## Player Summary
 > [!div|no-t clean]
-> `INPUT[textArea:player_summary]`
+> `INPUT[textArea:summary]`
 
 ## Description
 `INPUT[textArea:description]`

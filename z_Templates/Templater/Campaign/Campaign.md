@@ -30,7 +30,7 @@ try {
 obsidianUIMode: preview
 party: "<% data.party %>"
 world: "<% data.world %>"
-public_premise: ""
+summary: ""
 tags:
   - campaign
 ---
@@ -43,7 +43,7 @@ tags:
 
 ## Public Premise
 > [!div|no-t clean]
-> `INPUT[textArea:public_premise]`
+> `INPUT[textArea:summary]`
 <%* } else { -%>
 
 

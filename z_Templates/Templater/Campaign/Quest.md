@@ -33,7 +33,7 @@ active: {}
 completed: {}
 world: "<% selectedWorld.file.link %>"
 description: ""
-player_summary: ""
+summary: ""
 steps: []
 npcs: []
 tags:
@@ -48,7 +48,7 @@ tags:
 
 ## Player Summary
 > [!div|no-t clean]
-> `INPUT[textArea:player_summary]`
+> `INPUT[textArea:summary]`
 
 ## Description
 `INPUT[textArea:description]`
