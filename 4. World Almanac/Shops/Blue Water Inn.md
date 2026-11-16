@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 owners:
-  - "[[4. World Almanac/NPCs/Urwin Martikov.md|Urwin Martikov]]"
-  - "[[4. World Almanac/NPCs/Danika Dorakova.md|Danika Dorakova]]"
+  - "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov]]"
+  - "[[4. World Almanac/NPCs/Danika Dorakova (COS).md|Danika Dorakova]]"
 staff:
-  - "[[4. World Almanac/NPCs/Brom Martikov.md|Brom Martikov]]"
-  - "[[4. World Almanac/NPCs/Bray Martikov.md|Bray Martikov]]"
+  - "[[4. World Almanac/NPCs/Brom Martikov (COS).md|Brom Martikov]]"
+  - "[[4. World Almanac/NPCs/Bray Martikov (COS).md|Bray Martikov]]"
 cost_modifier: 1
 items:
   - "[[5. Mechanics/Items/Shield.md|Shield]]"

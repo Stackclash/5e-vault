@@ -525,7 +525,7 @@ source	type	target	learned_by	note
 4. World Almanac/Places of Interest/Werewolf Den.md	location	4. World Almanac/Regions/Barovia.md		
 4. World Almanac/Places of Interest/Yester Hill.md	location	4. World Almanac/Regions/Barovia.md		
 4. World Almanac/Regions/Barovia.md	location	4. World Almanac/Worlds/Eldoria.md		
-4. World Almanac/Regions/Barovia.md	ruler	4. World Almanac/NPCs/Strahd Von Zarovich.md (UNRESOLVED)		
+4. World Almanac/Regions/Barovia.md	ruler	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/Regions/Barovia.md	route	4. World Almanac/Shops/Blinsky Toys.md		60 mi
 4. World Almanac/Regions/Greenfall.md	location	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Settlements/Bruokdon.md	location	4. World Almanac/Regions/Greenfall.md		
@@ -543,10 +543,10 @@ source	type	target	learned_by	note
 4. World Almanac/Shops/Blinsky Toys.md	owner	4. World Almanac/NPCs/Gadof Blinsky (COS).md		
 4. World Almanac/Shops/Blood of the Vine Tavern.md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/Shops/Blue Water Inn.md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/Shops/Blue Water Inn.md	owner	4. World Almanac/NPCs/Urwin Martikov.md (UNRESOLVED)		
-4. World Almanac/Shops/Blue Water Inn.md	owner	4. World Almanac/NPCs/Danika Dorakova.md (UNRESOLVED)		
-4. World Almanac/Shops/Blue Water Inn.md	staff	4. World Almanac/NPCs/Brom Martikov.md (UNRESOLVED)		
-4. World Almanac/Shops/Blue Water Inn.md	staff	4. World Almanac/NPCs/Bray Martikov.md (UNRESOLVED)		
+4. World Almanac/Shops/Blue Water Inn.md	owner	4. World Almanac/NPCs/Urwin Martikov (COS).md		
+4. World Almanac/Shops/Blue Water Inn.md	owner	4. World Almanac/NPCs/Danika Dorakova (COS).md		
+4. World Almanac/Shops/Blue Water Inn.md	staff	4. World Almanac/NPCs/Brom Martikov (COS).md		
+4. World Almanac/Shops/Blue Water Inn.md	staff	4. World Almanac/NPCs/Bray Martikov (COS).md		
 4. World Almanac/Shops/Blue Water Inn.md	stocks	5. Mechanics/Items/Shield.md		
 4. World Almanac/Shops/Golden Hammer.md	location	4. World Almanac/Settlements/Bruokdon.md		
 4. World Almanac/Shops/Golden Hammer.md	stocks	5. Mechanics/Items/Pike.md		

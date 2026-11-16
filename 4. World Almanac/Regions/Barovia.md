@@ -8,7 +8,7 @@ resources:
 population: 
 terrain: 
 rulers:
-  - "[[4. World Almanac/NPCs/Strahd Von Zarovich.md|Strahd Von Zarovich]]"
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
 government: 
 army: 
 religions: 
