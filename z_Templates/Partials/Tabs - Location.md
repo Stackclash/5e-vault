@@ -11,7 +11,7 @@ INPUT[select(class(tabbed), option(At the Table), option(What's Here), option(Pl
 > >
 > > **Climate** `INPUT[text:climate]`
 > >
-> > **Routes** <span class="derived">derived</span>
+> > **Routes**
 > > ```dataviewjs
 > > await dv.view('views/travelTimes', {current: dv.current()})
 > > ```
@@ -26,12 +26,12 @@ INPUT[select(class(tabbed), option(At the Table), option(What's Here), option(Pl
 > > await dv.view("views/npcsInLocation", {current: dv.current()})
 > > ```
 > >
-> > **Factions based here** <span class="derived">derived</span>
+> > **Factions based here**
 > > ```dataview
 > > LIST FROM #faction WHERE location = this.file.link
 > > ```
 > >
-> > **Visits** <span class="derived">derived</span>
+> > **Visits**
 > > ```dataview
 > > LIST FROM #session-journal WHERE contains(locations, this.file.link) SORT session_number ASC
 > > ```

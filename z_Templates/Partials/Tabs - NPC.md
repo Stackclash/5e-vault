@@ -45,12 +45,12 @@ INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Fa
 > > await dv.view("views/npcRelationships", { current: dv.current() })
 > > ```
 > >
-> > **Quests** <span class="derived">derived</span>
+> > **Quests**
 > > ```dataview
 > > LIST FROM #quest WHERE contains(npcs.name, this.file.link)
 > > ```
 > >
-> > **Sessions** <span class="derived">derived</span>
+> > **Sessions**
 > > ```dataview
 > > LIST FROM #session-journal WHERE contains(npcs, this.file.link) SORT session_number ASC
 > > ```

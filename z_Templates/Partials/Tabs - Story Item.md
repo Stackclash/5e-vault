@@ -16,7 +16,7 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Conn
 <% tp.file.include("[[z_Templates/Partials/Player-Facing]]") %>
 >
 > > [!tab|no-t] Connections
-> > **Sessions** <span class="derived">derived</span>
+> > **Sessions**
 > > ```dataview
 > > LIST FROM #session-journal WHERE contains(items, this.file.link) SORT session_number ASC
 > > ```

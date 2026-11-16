@@ -305,9 +305,9 @@ return function View() { return <FactsTable /> }
 - **New files:**
   - `z_Scripts/Dataview/views/entityHeader.js`: breadcrumb (reuse `locationBreadcrumbs` logic), image carousel (reuse `imageCarousel`), name, `pronounced`, state chips (NPC `condition`, `party_relationships[party]`; location `status`; faction `standing[party]`; quest active/completed; journal `wrapped`), a type-aware breadcrumb (location parents; for PCs, quests, parties, journals and prep: party, arc, or campaign), and, on entity types, the knowledge badge for the active party: "Revealed · n of m facts learned" or "Hidden". It reads only frontmatter.
   - `z_Templates/Partials/` (**new folder, approved with X4**): `Tabs - <Type>.md` for each type in `04 Expansion` §2.2, holding the `tabbed` select (`memory^tab` or the T5 fallback) and the `[!tabbed-box]` callout with one child callout per tab; `Player-Facing.md` holding the `summary` input in a `[!player]` callout and the C7 facts block. Use `tp.file.include` if T5b passed; otherwise C6 inlines them.
-  - In `.obsidian/snippets/Custom Styles.css`: callout types `player` (green border, tinted background) and `dm` (red), a dotted underline on `.mb-input` in reading view, a `.derived` label style, and the auto-growing text area from T10 (or the pop-out button if T10 failed). Colours come from theme variables where they exist.
+  - In `.obsidian/snippets/Custom Styles.css`: callout types `player` (green border, tinted background) and `dm` (red), a dotted underline on `.mb-input` in reading view, and the auto-growing text area from T10 (or the pop-out button if T10 failed). Colours come from theme variables where they exist.
   - **Header chips are inputs (Q1):** `entityHeader.js` renders each `chip: true` field from `note_fields` as a Meta Bind inline input through `utils/metaBindInput` (per-party fields keyed by the active party), not as text.
-- **Changed views:** `npcRelationships`, `npcsInLocation`, `locations`, and the quest tables print a small `derived` label in their heading.
+- **Changed views:** none. (The `derived` label was built, then dropped by the DM on 2026-11-16.)
 - **Verify:** ask the DM to open a scratch note using the header and one tab partial and confirm it renders in reading view and in the ITS theme's dark and light modes.
 - **Rollback paths:** the new files, `Custom Styles.css`.
 

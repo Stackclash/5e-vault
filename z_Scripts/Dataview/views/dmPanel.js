@@ -7,8 +7,7 @@ const party = dv.page(getLinkPath(dv.page(getLinkPath(config?.active_campaign) ?
 
 const facts = (Array.isArray(current.facts) ? current.facts : [])
   .filter(f => f && f.text && !(party && f.learned?.[party]))
-const header = dv.el("p", "**Not yet learned** ", {})
-header.createEl("span", { cls: "derived", text: "derived" })
+dv.paragraph("**Not yet learned**")
 if (facts.length) dv.list(facts.map(f => f.text + (f.locked ? " *(locked)*" : "")))
 else dv.paragraph("*Every fact is learned, or there are none yet.*")
 

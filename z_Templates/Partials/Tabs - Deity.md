@@ -16,7 +16,7 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Conn
 <% tp.file.include("[[z_Templates/Partials/Player-Facing]]") %>
 >
 > > [!tab|no-t] Connections
-> > **Worshippers** <span class="derived">derived</span>
+> > **Worshippers**
 > > ```datacorejsx
 > > return function View() {
 > >   const here = dc.useCurrentFile()

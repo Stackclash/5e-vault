@@ -19,7 +19,7 @@ INPUT[select(class(tabbed), option(Steps), option(NPCs & Links), option(Descript
 > >
 > > **PCs** `INPUT[inlineListSuggester(optionQuery(#player)):pcs]`
 > >
-> > **Sessions** <span class="derived">derived</span>
+> > **Sessions**
 > > ```dataview
 > > LIST FROM #session-journal WHERE contains(quests, this.file.link) SORT session_number ASC
 > > ```

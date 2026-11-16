@@ -70,7 +70,8 @@ while (queue.length) {
     const category = categoryOf(e.type)
     if (depth > 0 && category !== 'family') continue
     const other = out ? e.target : e.source
-    const key = [e.source.file.path, e.target.file.path].sort().join('|') + '|' + e.type
+    // One line per pair per category: legacy data often stores both sides (son on one note, father on the other).
+    const key = [e.source.file.path, e.target.file.path].sort().join('|') + '|' + category
     if (seen.has(key)) continue
     seen.add(key)
     const from = nodeFor(page, 'self').id
@@ -85,7 +86,6 @@ while (queue.length) {
   }
 }
 
-dv.el("span", "derived", { cls: "derived" })
 if (lines.length === 0) {
   dv.paragraph('*No relationships recorded.*')
 } else {

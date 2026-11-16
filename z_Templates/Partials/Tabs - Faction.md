@@ -14,7 +14,7 @@ INPUT[select(class(tabbed), option(At the Table), option(Members), option(Clock)
 > > **Motto** `INPUT[text:motto]`
 >
 > > [!tab|no-t] Members
-> > **Members** <span class="derived">derived</span>
+> > **Members**
 > > ```datacorejsx
 > > return function View() {
 > >   const here = dc.useCurrentFile()

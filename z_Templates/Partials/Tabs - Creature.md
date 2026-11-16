@@ -17,7 +17,7 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Conn
 > > [!tab|no-t] Connections
 > > `BUTTON[add-relationship]` `BUTTON[remove-relationship]`
 > >
-> > **Named individuals** <span class="derived">derived</span>
+> > **Named individuals**
 > > ```dataview
 > > LIST FROM #npc WHERE contains(file.outlinks, this.file.link)
 > > ```

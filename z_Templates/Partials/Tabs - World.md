@@ -3,17 +3,17 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Map)
 ```
 > [!tabbed-box]
 > > [!tab|no-t] Overview
-> > **Regions** <span class="derived">derived</span>
+> > **Regions**
 > > ```dataviewjs
 > > await dv.view("views/locations", {current: dv.current()})
 > > ```
 > >
-> > **Factions** <span class="derived">derived</span>
+> > **Factions**
 > > ```dataview
 > > LIST FROM #faction
 > > ```
 > >
-> > **Deities** <span class="derived">derived</span>
+> > **Deities**
 > > ```dataview
 > > LIST FROM #story-deity
 > > ```

@@ -19,7 +19,7 @@ const popButton = (field, label) => {
 const defButton = (id, lines) => { buttons.set(id, lines); return `\`BUTTON[${id}]\`` }
 const textArea = (field, label) => [`**${label}** ${popButton(field, label)}`, `\`INPUT[textArea:${field}]\``, '']
 const text = (field, label) => [`**${label}** \`INPUT[text:${field}]\``, '']
-const derived = label => `**${label}** <span class="derived">derived</span>`
+const derived = label => `**${label}**`
 const block = lines => lines  // code blocks are written as plain lines; panel() adds the prefix
 
 function panel(title, lines, { type = 'tab' } = {}) {

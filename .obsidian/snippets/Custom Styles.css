@@ -223,18 +223,6 @@
   text-underline-offset: 3px;
 }
 
-/* View-generated sections: do not edit */
-.derived {
-  margin-left: 0.5em;
-  padding: 0 0.4em;
-  border: 1px solid var(--background-modifier-border);
-  border-radius: 4px;
-  color: var(--text-faint);
-  font-size: var(--font-ui-smaller);
-  font-weight: normal;
-  vertical-align: middle;
-  text-transform: lowercase;
-}
 
 /* Shared header */
 .entity-header .entity-breadcrumb { color: var(--text-muted); font-size: var(--font-ui-small); }
