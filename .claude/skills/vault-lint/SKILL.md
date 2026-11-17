@@ -43,7 +43,7 @@ Node is managed by mise; if `node` is not on PATH, use `mise exec -- node …`. 
 | `public-text-links-unrevealed` | error | Player-facing text links something the party has not been shown |
 | `learned-not-a-journal`, `learned-on-unrevealed`, `learned-edge-to-unrevealed` | error | Knowledge state is inconsistent |
 | `journal-no-party`, `location-cotag` | error | Views and exports will miss the note |
-| `ledger-entity-undecided` | warn | In a wrapped journal's ledger, neither revealed nor held back |
+| `ledger-entity-undecided` | warn | In any journal's ledger, neither revealed nor held back. Cleared by a DM decision either way (reveal with a `summary`, or `revealed: false`), never automatically; `reveal-review` backfill works through it |
 | `legacy: …` | warn | A pre-migration shape; see `z_Extra/Vault Design/03 Migration Plan.md` |
 | `enum-value` | warn | A `note_fields` field holds a value missing from its enum. Propose an enum addition or a corrected value; never change the enum silently |
 | `climate-unknown` | warn | `climate` is not a weather climate (Weather Generation's frontmatter) |

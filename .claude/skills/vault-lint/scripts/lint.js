@@ -174,7 +174,8 @@ for (const s of model.sessions) {
   if (!s.fcEnd && s.number !== 0) W('journal-no-fc-end', s.path, '')
   if (s.number !== 0 && !arr(n.fm.prep_notes).filter(Boolean).length) W('journal-no-prep-link', s.path, '')
   if (s.number !== 0 && s.counts.npcs + s.counts.locations === 0) W('journal-empty-ledger', s.path, '')
-  if (s.wrapped || s.publish) for (const e of model.edges.filter(x => x.source === s.path && x.type.startsWith('session-') && x.resolved)) {
+  // Every journal, wrapped or not (DM, 2026-11-17): each ledger entity needs a reveal decision, revealed or held back.
+  for (const e of model.edges.filter(x => x.source === s.path && x.type.startsWith('session-') && x.resolved)) {
     const t = ent.get(e.target)
     if (t && ENTITY_TYPES.includes(t.type) && !t.revealed.includes(party) && !t.heldBack.includes(party)) W('ledger-entity-undecided', s.path, `${t.name} is in the ledger but neither revealed nor held back (revealed: false)`)
   }
