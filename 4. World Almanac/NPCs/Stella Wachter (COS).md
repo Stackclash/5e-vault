@@ -13,12 +13,12 @@ aliases:
   - Stella Wachter
 alignment: Chaotic Good
 description: >-
-  Stella Wachter is [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]]'s daughter. She and [[Victor Vallakovich (COS)|Victor Vallakovich]] were secret lovers. Using his teleportation circle, she ended up at Castle Ravenloft, where she was captured and eventually turned into one of Strahd's brides.
+  Stella Wachter is [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]]'s teenage daughter, driven mad after a cruel, failed arranged marriage to [[Victor Vallakovich (COS)|Victor Vallakovich]]. Convinced she is a cat, she is kept locked in a bare, straw-strewn room at Wachterhaus, scurrying on all fours and hissing at anyone who comes near.
 history: >-
-  Stella and Victor Vallakovich were secret lovers. Using Victor's teleportation circle, she ended up at Castle Ravenloft, where she was captured. She was eventually turned into one of Strahd's brides. (Given in play in S10 Finding Victor.)
-relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: mother }, { target: "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich]]", type: lover, note: secret }, { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member } ]
+  Fiona arranged Stella's betrothal to Victor Vallakovich as part of a scheme to gain a foothold in the burgomaster's mansion, but Victor showed no interest in Stella and spoke to her with such cruelty that something in her broke. Convinced now that she is a cat, Stella scratches and hisses at visitors and begs to be left alone. A greater restoration spell can cure her madness; if freed of it, she blames her mother bitterly for treating her as a pawn, has nothing kind to say about Victor, and, having no one else left to trust in Vallaki, will gladly accept a place in Father Lucian's care at St. Andral's church if the characters bring her there.
+relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: mother } ]
 party_relationships: {}
-location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 gist: ""
 summary: ""
 revealed: {}

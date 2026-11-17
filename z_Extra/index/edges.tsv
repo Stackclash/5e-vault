@@ -413,7 +413,9 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Gadof Blinsky (COS).md	works-at	4. World Almanac/Shops/Blinsky Toys.md		
 4. World Almanac/NPCs/Gadof Blinsky (COS).md	client	4. World Almanac/NPCs/Rictavio (COS).md		
 4. World Almanac/NPCs/Gadof Blinsky (COS).md	patron	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md		monthly stipend for festival toys
-4. World Almanac/NPCs/Gertruda (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Gertruda (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Gertruda (COS).md	lover	4. World Almanac/NPCs/Victor Vallakovich (COS).md		secret
+4. World Almanac/NPCs/Gertruda (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
 4. World Almanac/NPCs/Hesper Crane.md	location	4. World Almanac/Places of Interest/The Cinderworks.md		
 4. World Almanac/NPCs/Hesper Crane.md	agent	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Hesper Crane.md	works-at	4. World Almanac/Places of Interest/The Cinderworks.md		
@@ -535,11 +537,9 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Stanimir (COS).md	serves	4. World Almanac/NPCs/Madam Eva (COS).md		
 4. World Almanac/NPCs/Stefania Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Stefania Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
-4. World Almanac/NPCs/Stella Wachter (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Stella Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	member	4. World Almanac/Factions/House Wachter.md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	mother	4. World Almanac/NPCs/Lady Fiona Wachter (COS).md		
-4. World Almanac/NPCs/Stella Wachter (COS).md	lover	4. World Almanac/NPCs/Victor Vallakovich (COS).md		secret
-4. World Almanac/NPCs/Stella Wachter (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	leader	4. World Almanac/Factions/House von Zarovich.md		
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	worships	4. World Almanac/Deities/Dark Powers of the Shadowfell.md		pact
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		

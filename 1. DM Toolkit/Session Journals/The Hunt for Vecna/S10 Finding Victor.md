@@ -131,7 +131,7 @@ New NPC Met.
 The party sets out to find Victor. They discover that he may have used his teleportation sigil to visit [[Gertruda]]. The teleportation circle takes them to the [[Village of Barovia]]. Having got there they talk the [[Mad Mary]] and [[Ismark Kolyanovich]]. Finding out that Gertruda has been missing for about a week they take the teleportation circle to get back to [[Vallaki]], however it ends up teleporting them to Castle Ravenloft. They find [[Victor Vallakovich]] here. They decipher the trick to the teleportation system and make it to the [[Coffin Maker's Shop]]. 
 
 ## Errata
-- 2026-11-17: This session also gave Stella Wachter's backstory: she and Victor Vallakovich were secret lovers; using his teleportation circle she ended up at Castle Ravenloft, was captured, and was turned into one of Strahd's brides. (Added from the DM's account during migration E5.)
+- 2026-11-17: This session also gave Gertruda's backstory: she and Victor Vallakovich were secret lovers; using his teleportation circle she ended up at Castle Ravenloft, was captured, and was turned into one of Strahd's brides. (Added from the DM's account during migration E5.)
 
 ```meta-bind-button
 label: Edit all

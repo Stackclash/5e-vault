@@ -14,14 +14,11 @@ aliases:
   - Gertruda
 alignment: Neutral Good
 description: >-
-  Gertruda is a sheltered teenage girl, kept hidden from the world her entire
-  life by her overprotective mother, [[Mad Mary (COS)|Mad Mary]]. Years as a
-  shut-in have left her naive to the point of real danger, prone to viewing life
-  through a fairy-tale lens.
-relationships: []
+  Gertruda is the daughter of [[Mad Mary (COS)|Mad Mary]]. She and [[Victor Vallakovich (COS)|Victor Vallakovich]] were secret lovers. Using his teleportation circle, she ended up at Castle Ravenloft, where she was captured and eventually turned into one of Strahd's brides.
+relationships: [ { target: "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich]]", type: lover, note: secret }, { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member } ]
 party_relationships:
   Midnight Covenant: Friendly
-location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""
 summary: ""
 revealed: {}
@@ -46,15 +43,7 @@ goals: >-
 likes: 'Fairy tales, pretty things, the idea of adventure and romance'
 dislikes: 'Being confined, being treated like a child, gloom and despair'
 history: >-
-  Gertruda's mother hid her away in their Barovia townhouse for her whole life,
-  fearful of the horrors that stalk the village at night. A week before the
-  adventurers typically arrive, Gertruda finally slipped out of the house she
-  had never been allowed to leave, drawn by curiosity toward the wider world —
-  and toward Castle Ravenloft itself, whose distant majesty had always
-  captivated her. She has not been seen in the village since, and her mother
-  fears the worst. In truth, Gertruda reached the castle, where Strahd has
-  charmed her and installed her in a bedchamber of her own; oblivious to her
-  peril, she awaits whatever the vampire intends for her next.
+  Gertruda and Victor Vallakovich were secret lovers. Using Victor's teleportation circle, she ended up at Castle Ravenloft, where she was captured. She was eventually turned into one of Strahd's brides. (Given in play in S10 Finding Victor.)
 ---
 > [!infobox]
 > ```dataviewjs
