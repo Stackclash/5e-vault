@@ -30,7 +30,7 @@ history: >-
   church's young gravedigger, to do it for him. Now Henrik bars his doors and
   shutters day and night, terrified of the tenants living above him and
   unwilling to explain himself to anyone who comes knocking.
-relationships: [ { target: "[[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]]", type: works-at } ]
+relationships: [ { target: "[[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]]", type: works-at }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: patron, note: as Vasili von Holtz } ]
 party_relationships: {}
 location: null
 gist: ""
