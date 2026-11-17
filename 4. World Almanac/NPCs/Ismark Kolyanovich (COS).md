@@ -19,7 +19,7 @@ description: >-
   father, the burgomaster. He carries himself with practiced ease in the tavern,
   but a fierce protectiveness surfaces the moment his sister or Strahd come up
   in conversation.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy } ]
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'

@@ -12,7 +12,7 @@ images: []
 aliases:
   - Madam Eva
 alignment: Chaotic Neutral
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: brother, note: half-brother; he doesn't know }, { target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]", type: worships, note: "pact: her youth for foresight" }, { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: lives among them; not truly one } ]
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'

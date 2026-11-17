@@ -13,7 +13,7 @@ images:
 aliases:
   - Izek Strazni
 alignment: Neutral Evil
-relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: former-member, note: Baron Vallakovich's household } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: former-member, note: Baron Vallakovich's household }, { target: "[[4. World Almanac/NPCs/Vecna.md|Vecna]]", type: serves }, { target: "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana]]", type: sister, note: both know }, { target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]", type: employer, note: former; the Baron pardoned him and took him in }, { target: "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]", type: friend, note: she flirted with him in Vallaki (S9) } ]
 party_relationships:
   Midnight Covenant: Friendly
 location: "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"

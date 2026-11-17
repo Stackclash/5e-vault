@@ -18,6 +18,16 @@ relationships:
   - target: "[[4. World Almanac/NPCs/Mab.md|Mab]]"
     type: ally
     note: of convenience
+  - target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+    type: son
+    note: believes herself his true mother; she was his midwife
+  - target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]"
+    type: worships
+  - target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]"
+    type: enemy
+  - target: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+    type: enemy
+    note: avenging Strahd
 party_relationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'

@@ -13,7 +13,7 @@ images:
 aliases:
   - Strahd von Zarovich
 alignment: Lawful Evil
-relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member }, { target: "[[4. World Almanac/Deities/Dark Powers of the Shadowfell.md|Dark Powers of the Shadowfell]]", type: worships, note: pact } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: leader }, { target: "[[4. World Almanac/Deities/Dark Powers of the Shadowfell.md|Dark Powers of the Shadowfell]]", type: worships, note: pact }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home }, { target: "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana]]", type: lover, note: "obsession: Tatyana reborn" } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: null

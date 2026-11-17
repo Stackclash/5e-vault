@@ -13,7 +13,7 @@ images:
 aliases:
   - Rictavio
 alignment: Lawful Good
-relationships: [ { target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]", type: ally } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]", type: ally }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy }, { target: "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]", type: home }, { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: enemy, note: blames them for Erasmus } ]
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'

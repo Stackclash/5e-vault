@@ -351,6 +351,10 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Arrigal (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp
 4. World Almanac/NPCs/Baba Lysaga (COS).md	location	4. World Almanac/Places of Interest/Ruins of Berez.md		
 4. World Almanac/NPCs/Baba Lysaga (COS).md	ally	4. World Almanac/NPCs/Mab.md		of convenience
+4. World Almanac/NPCs/Baba Lysaga (COS).md	son	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		believes herself his true mother; she was his midwife
+4. World Almanac/NPCs/Baba Lysaga (COS).md	worships	4. World Almanac/Deities/Mother Night.md		
+4. World Almanac/NPCs/Baba Lysaga (COS).md	enemy	4. World Almanac/Factions/Keepers of the Feather.md		
+4. World Almanac/NPCs/Baba Lysaga (COS).md	enemy	3. The Party/Parties/Midnight Covenant.md		avenging Strahd
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	member	4. World Almanac/Factions/House Vallakovich.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
@@ -390,18 +394,31 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Emil Toranescu (COS).md	worships	4. World Almanac/Deities/Mother Night.md		
 4. World Almanac/NPCs/Exethanter (COS).md	location	4. World Almanac/Places of Interest/The Amber Temple.md		
 4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	location	4. World Almanac/Places of Interest/Van Richten's Tower.md		
+4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	mentor	4. World Almanac/NPCs/Rictavio (COS).md		van Richten's former protégé
+4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	member	4. World Almanac/Factions/Vistani.md		by birth; ran away at fifteen
+4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	enemy	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Gadof Blinsky (COS).md	location	4. World Almanac/Shops/Blinsky Toys.md		
+4. World Almanac/NPCs/Gadof Blinsky (COS).md	client	4. World Almanac/NPCs/Izek Strazni (COS).md		forced to carve dolls of Ireena
 4. World Almanac/NPCs/Gertruda (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Hesper Crane.md	location	4. World Almanac/Places of Interest/The Cinderworks.md		
 4. World Almanac/NPCs/Hesper Crane.md	agent	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Hesper Crane.md	works-at	4. World Almanac/Places of Interest/The Cinderworks.md		
 4. World Almanac/NPCs/Hesper Crane.md	employer	4. World Almanac/NPCs/Marrow.md		
 4. World Almanac/NPCs/Ireena Kolyana (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Ireena Kolyana (COS).md	brother	4. World Almanac/NPCs/Ismark Kolyanovich (COS).md		adoptive
+4. World Almanac/NPCs/Ireena Kolyana (COS).md	enemy	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Ismark Kolyanovich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
+4. World Almanac/NPCs/Ismark Kolyanovich (COS).md	enemy	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Izek Strazni (COS).md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
 4. World Almanac/NPCs/Izek Strazni (COS).md	former-member	4. World Almanac/Factions/House Vallakovich.md		Baron Vallakovich's household
+4. World Almanac/NPCs/Izek Strazni (COS).md	serves	4. World Almanac/NPCs/Vecna.md		
+4. World Almanac/NPCs/Izek Strazni (COS).md	sister	4. World Almanac/NPCs/Ireena Kolyana (COS).md		both know
+4. World Almanac/NPCs/Izek Strazni (COS).md	employer	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md		former; the Baron pardoned him and took him in
+4. World Almanac/NPCs/Izek Strazni (COS).md	friend	3. The Party/Players/Yevelda Ovak.md		she flirted with him in Vallaki (S9)
 4. World Almanac/NPCs/Kasimir Velikov (COS).md	member	4. World Almanac/Factions/Vistani.md		adopted
 4. World Almanac/NPCs/Kasimir Velikov (COS).md	member	4. World Almanac/Factions/Dusk Elves of Barovia.md		last of
+4. World Almanac/NPCs/Kasimir Velikov (COS).md	sister	4. World Almanac/NPCs/Patrina Velikovna (COS).md		
+4. World Almanac/NPCs/Kasimir Velikov (COS).md	works-at	4. World Almanac/Places of Interest/The Amber Temple.md		watcher
 4. World Almanac/NPCs/Kiril Stoyanovich (COS).md	member	4. World Almanac/Factions/Children of Mother Night.md		
 4. World Almanac/NPCs/Kiril Stoyanovich (COS).md	worships	4. World Almanac/Deities/Mother Night.md		
 4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
@@ -422,6 +439,9 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Mab.md	leader	4. World Almanac/Factions/Gloaming Court.md		
 4. World Almanac/NPCs/Mad Mary (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Madam Eva (COS).md	location	4. World Almanac/Places of Interest/Tser Pool.md		
+4. World Almanac/NPCs/Madam Eva (COS).md	brother	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		half-brother; he doesn't know
+4. World Almanac/NPCs/Madam Eva (COS).md	worships	4. World Almanac/Deities/Mother Night.md		pact: her youth for foresight
+4. World Almanac/NPCs/Madam Eva (COS).md	member	4. World Almanac/Factions/Vistani.md		lives among them; not truly one
 4. World Almanac/NPCs/Magister Kaelor Stormbrand.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Magister Kaelor Stormbrand.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Majesto (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
@@ -465,8 +485,13 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Professor Gousse Windcaller.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Professor Gousse Windcaller.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Rahadin (COS).md	member	4. World Almanac/Factions/House von Zarovich.md		honorary family
+4. World Almanac/NPCs/Rahadin (COS).md	serves	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
+4. World Almanac/NPCs/Rahadin (COS).md	works-at	4. World Almanac/Places of Interest/Castle Ravenloft.md		chamberlain
 4. World Almanac/NPCs/Rictavio (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Rictavio (COS).md	ally	4. World Almanac/Factions/Keepers of the Feather.md		
+4. World Almanac/NPCs/Rictavio (COS).md	enemy	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
+4. World Almanac/NPCs/Rictavio (COS).md	home	4. World Almanac/Places of Interest/Van Richten's Tower.md		
+4. World Almanac/NPCs/Rictavio (COS).md	enemy	4. World Almanac/Factions/Vistani.md		blames them for Erasmus
 4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md	member	4. World Almanac/Factions/Durst Family.md		
 4. World Almanac/NPCs/Sangzor (COS).md	location	4. World Almanac/Places of Interest/Tsolenka Pass.md		
 4. World Almanac/NPCs/Savid (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
@@ -483,8 +508,10 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Stefania Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	member	4. World Almanac/Factions/House Wachter.md		
-4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	member	4. World Almanac/Factions/House von Zarovich.md		
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	leader	4. World Almanac/Factions/House von Zarovich.md		
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	worships	4. World Almanac/Deities/Dark Powers of the Shadowfell.md		pact
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	lover	4. World Almanac/NPCs/Ireena Kolyana (COS).md		obsession: Tatyana reborn
 4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	member	4. World Almanac/Factions/Vallaki Wolf Hunters.md		
 4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	member	4. World Almanac/Factions/Circle of Eight.md		

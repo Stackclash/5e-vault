@@ -18,7 +18,7 @@ description: >-
   daughter of the late burgomaster Kolyan Indirovich. She carries herself with
   quiet, strong-willed dignity despite the terror Strahd has already visited on
   her twice.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md|Ismark Kolyanovich]]", type: brother, note: adoptive }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy } ]
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'

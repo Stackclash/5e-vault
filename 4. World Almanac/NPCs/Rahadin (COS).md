@@ -13,7 +13,7 @@ images:
 aliases:
   - Rahadin
 alignment: Lawful Evil
-relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member, note: honorary family } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member, note: honorary family }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: works-at, note: chamberlain } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: null

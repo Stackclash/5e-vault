@@ -13,7 +13,7 @@ images:
 aliases:
   - Ezmerelda d'Avenir
 alignment: Chaotic Good
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]", type: mentor, note: van Richten's former protégé }, { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: by birth; ran away at fifteen }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy } ]
 party_relationships:
   Midnight Covenant: Ally
 location: >-

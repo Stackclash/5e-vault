@@ -38,7 +38,7 @@ history: >-
   keeps him afloat with a small monthly stipend for festival decorations, and
   Blinsky, ever hopeful, believes that if he can just make enough people smile —
   starting with Barovia's children — the town's suffering might finally lift.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni]]", type: client, note: forced to carve dolls of Ireena } ]
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]'

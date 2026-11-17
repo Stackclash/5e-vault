@@ -13,7 +13,7 @@ images:
 aliases:
   - Kasimir Velikov
 alignment: Neutral
-relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: adopted }, { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member, note: last of } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: adopted }, { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member, note: last of }, { target: "[[4. World Almanac/NPCs/Patrina Velikovna (COS).md|Patrina Velikovna]]", type: sister }, { target: "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]", type: works-at, note: watcher } ]
 party_relationships: {}
 location: null
 gist: ""
