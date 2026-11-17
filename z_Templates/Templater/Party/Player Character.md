@@ -157,7 +157,7 @@ actions:
 ```
 
 ```meta-bind
-INPUT[select(class(tabbed), option(Sheet), option(Spells), option(Inventory), option(Story), option(Player-Facing), option(DM)):memory^tab]
+INPUT[select(class(tabbed), option(Sheet), option(Skills), option(Features), option(Class Features), option(Spells), option(Inventory), option(Story), option(Player-Facing), option(DM)):memory^tab]
 ```
 > [!tabbed-box]
 > > [!tab|no-t] Sheet
@@ -195,6 +195,13 @@ INPUT[select(class(tabbed), option(Sheet), option(Spells), option(Inventory), op
 > > >> | **Constitution** | `$=dv.current().saving_throws.constitution.proficiency ? '✅' : '❌'` | `$=dv.current().saving_throws.constitution.value` | **Charisma** | `$=dv.current().saving_throws.charisma.proficiency ? '✅' : '❌'` | `$=dv.current().saving_throws.charisma.value` |
 > > >> **Notes**: `$=dv.current().saving_throws.notes`
 > >
+> > > [!infobox|center wm-tl]
+> > > ## Defences
+> > > | **Imunities** | **Resistances** |
+> > > |:---:|:---:|
+> > > | `$=dv.current().defences.immunities.length > 0 ? dv.current().defences.immunities : ""` | `$=dv.current().defences.resistances.length > 0 ? dv.current().defences.resistances : ""` |
+>
+> > [!tab|no-t] Skills
 > > > [!infobox|wfull]
 > > > ## Skills
 > > > || **Prof** | **Exp** ||| **Prof** | **Exp** ||
@@ -216,21 +223,8 @@ INPUT[select(class(tabbed), option(Sheet), option(Spells), option(Inventory), op
 > > > | **Perception** | `$=dv.current().passives.perception` |
 > > > | **Investigation** | `$=dv.current().passives.investigation` |
 > > > | **Insight** | `$=dv.current().passives.insight` |
-> >
-> > > [!infobox|center n-th wm-tl]
-> > > ## Description
-> > > |||
-> > > |:---:|:---:|:---:|:---:|:---:|:---:|
-> > > | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` | **Skin** | `$=dv.current().description.skin` |
-> > > | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
-> > > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
-> >
-> > > [!infobox|center wm-tl]
-> > > ## Defences
-> > > | **Imunities** | **Resistances** |
-> > > |:---:|:---:|
-> > > | `$=dv.current().defences.immunities.length > 0 ? dv.current().defences.immunities : ""` | `$=dv.current().defences.resistances.length > 0 ? dv.current().defences.resistances : ""` |
-> >
+>
+> > [!tab|no-t] Features
 > > > [!cards|dataview wfull]
 > > > ## Classes
 > > > ```dataview
@@ -248,20 +242,21 @@ INPUT[select(class(tabbed), option(Sheet), option(Spells), option(Inventory), op
 > > > ```
 > >
 > > > [!cards|dataview wfull]
-> > > ## Class Features
-> > > ```dataview
-> > > TABLE WITHOUT ID "**"+class_features.name+"**",
-> > > class_features.description
-> > > FLATTEN class_features
-> > > WHERE this.file.name = file.name
-> > > ```
-> >
-> > > [!cards|dataview wfull]
 > > > ## Feats
 > > > ```dataview
 > > > TABLE WITHOUT ID "**"+feats.name+"**",
 > > > feats.description
 > > > FLATTEN feats
+> > > WHERE this.file.name = file.name
+> > > ```
+>
+> > [!tab|no-t] Class Features
+> > > [!cards|dataview wfull]
+> > > ## Class Features
+> > > ```dataview
+> > > TABLE WITHOUT ID "**"+class_features.name+"**",
+> > > class_features.description
+> > > FLATTEN class_features
 > > > WHERE this.file.name = file.name
 > > > ```
 >
@@ -339,6 +334,14 @@ INPUT[select(class(tabbed), option(Sheet), option(Spells), option(Inventory), op
 > > > ```
 >
 > > [!tab|no-t] Story
+> > > [!infobox|center n-th wm-tl]
+> > > ## Description
+> > > |||
+> > > |:---:|:---:|:---:|:---:|:---:|:---:|
+> > > | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` | **Skin** | `$=dv.current().description.skin` |
+> > > | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
+> > > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
+> >
 > > ## Background (`$=dv.current().background.background.name`)
 > > `$=dv.current().background.background.description`
 > > ## Backstory
