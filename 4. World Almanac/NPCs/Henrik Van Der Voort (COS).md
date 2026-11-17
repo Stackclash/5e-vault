@@ -30,7 +30,7 @@ history: >-
   church's young gravedigger, to do it for him. Now Henrik bars his doors and
   shutters day and night, terrified of the tenants living above him and
   unwilling to explain himself to anyone who comes knocking.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]]", type: works-at } ]
 party_relationships: {}
 location: null
 gist: ""

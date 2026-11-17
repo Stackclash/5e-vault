@@ -26,7 +26,7 @@ history: >-
   for his ledgers. The instant he feels threatened, Lief pulls a tasseled rope
   hanging from the ceiling, sounding a gong that summons Castle Ravenloft's
   guardians to deal with the intrusion.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: imprisoned-at, note: chained in the records room }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: employer } ]
 party_relationships: {}
 location: null
 gist: ""

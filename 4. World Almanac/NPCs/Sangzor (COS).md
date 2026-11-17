@@ -21,7 +21,7 @@ history: >-
   ordinary beast and evading every hunting party sent after it. Wearing its pelt
   is said to earn the wary respect of Strahd's mountain berserkers, who leave
   the wearer and their companions unmolested.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]", type: home } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]'
 gist: ""

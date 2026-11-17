@@ -359,6 +359,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Baba Lysaga (COS).md	worships	4. World Almanac/Deities/Mother Night.md		
 4. World Almanac/NPCs/Baba Lysaga (COS).md	enemy	4. World Almanac/Factions/Keepers of the Feather.md		
 4. World Almanac/NPCs/Baba Lysaga (COS).md	enemy	3. The Party/Parties/Midnight Covenant.md		avenging Strahd
+4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md	master	4. World Almanac/NPCs/Baba Lysaga (COS).md		
+4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md	home	4. World Almanac/Places of Interest/Ruins of Berez.md		inert since the gem was torn out
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	leader	4. World Almanac/Factions/House Vallakovich.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
@@ -414,6 +416,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Escher (COS).md	lover	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		favored consort (former)
 4. World Almanac/NPCs/Escher (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		
 4. World Almanac/NPCs/Exethanter (COS).md	location	4. World Almanac/Places of Interest/The Amber Temple.md		
+4. World Almanac/NPCs/Exethanter (COS).md	works-at	4. World Almanac/Places of Interest/The Amber Temple.md		self-appointed keeper
+4. World Almanac/NPCs/Exethanter (COS).md	client	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		shared the temple's secrets with him
 4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	location	4. World Almanac/Places of Interest/Van Richten's Tower.md		
 4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	mentor	4. World Almanac/NPCs/Rictavio (COS).md		van Richten's former protégé
 4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	member	4. World Almanac/Factions/Vistani.md		by birth; ran away at fifteen
@@ -427,6 +431,9 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Gertruda (COS).md	lover	4. World Almanac/NPCs/Victor Vallakovich (COS).md		secret
 4. World Almanac/NPCs/Gertruda (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
 4. World Almanac/NPCs/Gertruda (COS).md	mother	4. World Almanac/NPCs/Mad Mary (COS).md		
+4. World Almanac/NPCs/Helga Ruvak (COS).md	serves	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
+4. World Almanac/NPCs/Helga Ruvak (COS).md	works-at	4. World Almanac/Places of Interest/Castle Ravenloft.md		guest quarters; maid cover
+4. World Almanac/NPCs/Henrik Van Der Voort (COS).md	works-at	4. World Almanac/Places of Interest/Coffin Maker's Shop.md		
 4. World Almanac/NPCs/Hesper Crane.md	location	4. World Almanac/Places of Interest/The Cinderworks.md		
 4. World Almanac/NPCs/Hesper Crane.md	agent	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Hesper Crane.md	works-at	4. World Almanac/Places of Interest/The Cinderworks.md		
@@ -459,6 +466,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	member	4. World Almanac/Factions/House Petrovich.md		
 4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
 4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	rival	4. World Almanac/NPCs/Lady Fiona Wachter (COS).md		
+4. World Almanac/NPCs/Lief Lipsiege (COS).md	imprisoned-at	4. World Almanac/Places of Interest/Castle Ravenloft.md		chained in the records room
+4. World Almanac/NPCs/Lief Lipsiege (COS).md	employer	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Lord Caldris Velmont.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Lord Caldris Velmont.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Lord Caldris Velmont.md	enemy	4. World Almanac/Factions/Silent Ascendency.md		
@@ -529,6 +538,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	enemy	4. World Almanac/NPCs/Rahadin (COS).md		
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	imprisoned-at	4. World Almanac/Places of Interest/Castle Ravenloft.md		bound to her crypt in the catacombs
 4. World Almanac/NPCs/Piccolo (COS).md	master	4. World Almanac/NPCs/Gadof Blinsky (COS).md		a gift from Rictavio
+4. World Almanac/NPCs/Piccolo (COS).md	master	4. World Almanac/NPCs/Rictavio (COS).md		former
 4. World Almanac/NPCs/Pidlwick Ii (COS).md	master	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		kept on to dispose of unwanted guests
 4. World Almanac/NPCs/Pidlwick Ii (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		
 4. World Almanac/NPCs/Professor Alindra Quicksilver.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
@@ -547,6 +557,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md	brother	4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md		
 4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md	home	4. World Almanac/Places of Interest/Death House.md		her ghost lingers there
 4. World Almanac/NPCs/Sangzor (COS).md	location	4. World Almanac/Places of Interest/Tsolenka Pass.md		
+4. World Almanac/NPCs/Sangzor (COS).md	home	4. World Almanac/Places of Interest/Tsolenka Pass.md		
 4. World Almanac/NPCs/Savid (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Savid (COS).md	member	4. World Almanac/Factions/Dusk Elves of Barovia.md		last of
 4. World Almanac/NPCs/Savid (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp, allied
@@ -578,7 +589,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	friend	4. World Almanac/NPCs/Yevgeni Krushkin (COS).md		
 4. World Almanac/NPCs/The Abbot (COS).md	home	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/The Abbot (COS).md	patron	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		as Vasili von Holtz; supplied Amber Temple lore
-4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	member	4. World Almanac/Factions/Circle of Eight.md		
+4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	leader	4. World Almanac/Factions/Circle of Eight.md		former leader
+4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	enemy	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md	member	4. World Almanac/Factions/Durst Family.md		
 4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md	home	4. World Almanac/Places of Interest/Death House.md		his ghost lingers there
 4. World Almanac/NPCs/Unfinished Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		

@@ -26,7 +26,7 @@ history: >-
   his defeat broke his mind. He has since cast mind blank on himself, a spell
   that — while active — prevents any magic from restoring his sanity or his
   memory of who he truly is.
-relationships: [ { target: "[[4. World Almanac/Factions/Circle of Eight.md|Circle of Eight]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Circle of Eight.md|Circle of Eight]]", type: leader, note: former leader }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy } ]
 party_relationships: {}
 location: null
 gist: ""

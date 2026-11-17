@@ -24,7 +24,7 @@ history: >-
   appointed himself the temple's new keeper — not to hoard its forbidden
   secrets, but to share them with anyone who came seeking power, Strahd von
   Zarovich included.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]", type: works-at, note: self-appointed keeper }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: client, note: shared the temple's secrets with him } ]
 party_relationships:
   Midnight Covenant: Acquaintance
 location: '[[The Amber Temple]]'
