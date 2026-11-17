@@ -12,7 +12,10 @@ summary: "An amber gem that was lodged at the base of Marrow's neck. Redgrave to
 revealed:
   Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: The gem can hold a creature's essence, and it held Roark Battleborn's.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md|S44 The Other Roark]]"
 relationships: []
 aliases: []
 tags:
