@@ -19,7 +19,7 @@ aliases:
   - Amber Warden
 race: "[[5. Mechanics/Bestiary/Construct/Stone Golem.md|Stone Golem]]"
 gender: N/A
-age: unknown
+age: null
 alignment: Unaligned
 occupation:
   - Guardian construct, Silent Ascendency soul-vessel works
@@ -28,6 +28,8 @@ groups:
 religions: []
 description: |-
   A hulking, roughly humanoid shape of fitted grey stone, seamed rather than carved — as if assembled, not sculpted. Thread-thin veins of amber run beneath its surface in the same pattern as the graft found on Marrow's corpse, but scaled up and multiplied: three fist-sized amber conduits are set into its shoulders and chest, each glowing faintly, each holding what looks — to anyone who stops to really look — like a slow, trapped current of light. When it moves, the amber pulses in time with its steps, and if a fight goes on long enough, a faint chorus of overlapping voices becomes audible from inside it, wordless and exhausted.
+
+  Age: unknown.
 history: |-
   One of the Silent Ascendency's constructed guardians, grown around a core of stolen Eludrax soul-craft — the same "Amber Warden" motif referenced in the pipeline's power-harvesting operation (see the campaign bible's Active Threads). Built and stationed at [[Greyfen Hollow]] to protect the soul-vessel works there, animated by fragments of bound souls fed into it rather than any true will of its own. This is the first Amber Warden the party would actually encounter in person, rather than hear about secondhand through Marrow's neck-graft.
 personality: None — a mindless construct animated by bound souls, not a mind of its own. It follows its binding, nothing more.

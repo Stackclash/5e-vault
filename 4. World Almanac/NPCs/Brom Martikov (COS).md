@@ -48,8 +48,7 @@ personality: 'Curious, playful, slightly mischievous'
 ideal: Adventure and discovery are the spices of life.
 bond: 'His family, especially his brother Bray, and the adventures they dream of'
 flaw: His curiosity and mischievousness sometimes get him into trouble
-goals:
-  - 'To explore the world beyond Vallaki, to make a name for himself'
+goals: To explore the world beyond Vallaki, to make a name for himself
 likes: 'Pranks, stories of faraway places, animals'
 dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 ---

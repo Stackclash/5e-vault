@@ -19,7 +19,7 @@ aliases:
   - Unfinished Amber Warden
 race: "[[5. Mechanics/Bestiary/Construct/Stone Golem.md|Stone Golem]]"
 gender: N/A
-age: unknown
+age: null
 alignment: Unaligned
 occupation:
   - Incomplete guardian construct, Silent Ascendency soul-vessel works
@@ -29,6 +29,8 @@ religions: []
 description: |-
   A Warden that isn't finished. The frame is there — legs, spine, the heavy shoulders — but the fitted plating stops partway up the chest, leaving the internal armature open to the air: raw stone, iron banding, and a single amber conduit socketed where three should be. It has no face yet. The apertures the finished models use for eyes are unbored, and it navigates by something else entirely, turning its blank head toward sound and warmth with an unpleasant, insectile deliberateness.
   It moves badly. The joints haven't been trued, so every step lands hard and slightly wrong, and the single conduit flares with the effort like something straining.
+
+  Age: unknown.
 history: |-
   One of several incomplete constructs standing in assembly cradles on the Foundry floor at [[Greyfen Hollow]]. Not intended to walk yet — these come online only when a cradle is released early, whether by a panicking cultist, a stray area effect, or a party clever enough to hijack one.
 personality: None. Less than none — the finished Wardens at least follow a binding. This one has a single soul-fragment doing the work of three and no completed instruction set to follow.

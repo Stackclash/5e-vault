@@ -21,7 +21,7 @@ aliases:
 pronounced: MAIR-oh
 race: "[[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md|Doppelganger]]"
 gender: male
-age: unknown
+age: null
 alignment: Neutral Evil
 occupation:
   - Silent Ascendency Cell Leader, Bruokdon
@@ -32,6 +32,8 @@ description: |-
   In its true form, Marrow is a gaunt, grey-skinned humanoid with smooth, half-formed features — the standard doppelganger blank, unremarkable until it chooses to be. It rarely shows this face to anyone still breathing.
   Worn as Lord Caldris Velmont, it was flawless: the same rehearsed charm, the same calculating eyes, right down to the habitual smoothing of an embroidered sleeve. It went on to wear Professor Gousse Windcaller for less than an hour, and then Roark Battleborn — the face it died in.
   Under a strong light, or to a detect magic-primed eye, a careful look finds thread-thin veins of amber beneath the skin at the nape of the neck — the graft that makes it more dangerous than its kind.
+
+  Age: unknown.
 history: |-
   Marrow captured Lord Caldris Velmont on the Silent Ascendency's orders, chained him in his own basement behind a stone golem and an anti-magic field, and stepped into his life. As "Velmont," it ran the Athenaeum council seat, cultivated the smuggling ring that funneled stolen magic items toward Vecna's ascension, and personally oversaw its sharp escalation after Vecna's escape (S40–S42).
   Redgrave's Geas unraveled it in Gousse's office (S43) — Marrow felt the compulsion fail to take and knew the game was up before anyone else in the room did. It stormed out rather than let anyone watch a Geas visibly slide off "Lord Velmont." Cornered again minutes later wearing Gousse's face when Faerah came looking for the professor, it slipped away into a crowd the instant Nyxia's detect magic made it.
