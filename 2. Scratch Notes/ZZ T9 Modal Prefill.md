@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
-gist: "x"
-condition: injured
+gist: x test
+condition: injured test
 ---
 **T9.** Press the button. Do both fields open pre-filled (`x`, `injured`)? Does Enter submit? After submitting with changed values, do `gist` and `condition` update?
 

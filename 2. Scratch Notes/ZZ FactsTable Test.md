@@ -6,8 +6,7 @@ facts:
       Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S41 The Warehouse Raid.md|S41 The Warehouse Raid]]"
     locked: true
   - text: Test fact two
-    learned:
-      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md|S14 Secrets of the Tower]]"
+    learned: {}
   - text: Test
     learned:
       Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S30 Second Gem Found.md|S30 Second Gem Found]]"

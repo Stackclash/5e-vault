@@ -3,15 +3,15 @@ obsidianUIMode: preview
 statblock: true
 active: true
 name: Wisp
-level: 10
-ac: 14
-hp: 42
+level: 11
+ac: 15
+hp: 46
 modifier: 4
 proficiency: 4
 url: https://dndbeyond.com/characters/28108973
 image: https://www.dndbeyond.com/avatars/54009/264/1581111423-28108973.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: Awakened Cat
-alignment: character.alignment
+alignment: Chaotic Neutral
 description:
   gender: Male
   age: 5
@@ -47,11 +47,14 @@ background:
   organizations:
   allies: ""
   enemies:
-  notes: "\n"
+  notes: |+
+    Tome of Firebolt & Acid Spray found in dorm
+    Question the monster hunters dead body with speak with dead in the morning after a full rest
+
 classes:
   - name: "[[5. Mechanics/Classes/Wizard.md|Wizard]]"
     subclass: "[[5. Mechanics/Classes/Wizard School Of Illusion.md|Wizard School Of Illusion]]"
-    level: 10
+    level: 11
 ability_scores:
   strength:
     value: 2
@@ -73,27 +76,27 @@ ability_scores:
     modifier: 1
 saving_throws:
   strength:
-    value: -4
+    value: -3
     base_value: -4
     proficiency: false
   dexterity:
-    value: 4
+    value: 5
     base_value: 4
     proficiency: false
   constitution:
-    value: 0
+    value: 1
     base_value: 0
     proficiency: false
   intelligence:
-    value: 8
+    value: 9
     base_value: 4
     proficiency: true
   wisdom:
-    value: 6
+    value: 7
     base_value: 2
     proficiency: true
   charisma:
-    value: 1
+    value: 2
     base_value: 1
     proficiency: false
   notes: []
@@ -256,16 +259,16 @@ class_spells:
         - 3
         - 3
         - 2
-        - 0
+        - 1
         - 0
         - 0
         - 0
       used:
-        - 0
-        - 0
-        - 2
-        - 0
+        - 4
         - 1
+        - 2
+        - 3
+        - 2
         - 0
         - 0
         - 0
@@ -277,13 +280,13 @@ class_spells:
       - name: Prestidigitation
         level: 0
         is_prepared: true
-      - name: Fire Bolt
-        level: 0
-        is_prepared: true
       - name: Message
         level: 0
         is_prepared: true
-      - name: Dancing Lights
+      - name: Shocking Grasp
+        level: 0
+        is_prepared: true
+      - name: Fire Bolt
         level: 0
         is_prepared: true
       - name: Sleep
@@ -300,7 +303,7 @@ class_spells:
         is_prepared: false
       - name: Mage Armor
         level: 1
-        is_prepared: false
+        is_prepared: true
       - name: Shield
         level: 1
         is_prepared: true
@@ -315,7 +318,7 @@ class_spells:
         is_prepared: true
       - name: False Life
         level: 1
-        is_prepared: false
+        is_prepared: true
       - name: Charm Person
         level: 1
         is_prepared: false
@@ -326,6 +329,15 @@ class_spells:
         level: 1
         is_prepared: false
       - name: Identify
+        level: 1
+        is_prepared: false
+      - name: Disguise Self
+        level: 1
+        is_prepared: false
+      - name: Find Familiar
+        level: 1
+        is_prepared: false
+      - name: Silent Image
         level: 1
         is_prepared: false
       - name: Alter Self
@@ -345,7 +357,16 @@ class_spells:
         is_prepared: false
       - name: Mirror Image
         level: 2
-        is_prepared: true
+        is_prepared: false
+      - name: Levitate
+        level: 2
+        is_prepared: false
+      - name: Suggestion
+        level: 2
+        is_prepared: false
+      - name: Scorching Ray
+        level: 2
+        is_prepared: false
       - name: Fireball
         level: 3
         is_prepared: true
@@ -364,21 +385,30 @@ class_spells:
       - name: Counterspell
         level: 3
         is_prepared: true
+      - name: Water Breathing
+        level: 3
+        is_prepared: false
       - name: Phantasmal Killer
         level: 4
         is_prepared: false
       - name: Dimension Door
         level: 4
         is_prepared: true
+      - name: Polymorph
+        level: 4
+        is_prepared: true
       - name: Mislead
         level: 5
-        is_prepared: true
+        is_prepared: false
       - name: Conjure Elemental
         level: 5
-        is_prepared: true
+        is_prepared: false
       - name: Seeming
         level: 5
         is_prepared: false
+      - name: Programmed Illusion
+        level: 6
+        is_prepared: true
 currencies:
   cp: 0
   sp: 0
@@ -405,6 +435,28 @@ inventory:
     equipped: true
     can_attune: false
     attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: ""
+  - name: "[[5. Mechanics/Items/Ring Of Protection.md|Ring Of Protection]]"
+    type: Ring
+    rarity: Rare
+    quantity: 1
+    can_equip: true
+    equipped: true
+    can_attune: true
+    attuned: true
+    damage: ""
+    damage_type: ""
+    armor_class: ""
+  - name: "[[5. Mechanics/Items/Pearl Of Power.md|Pearl Of Power]]"
+    type: Wondrous item
+    rarity: Uncommon
+    quantity: 1
+    can_equip: true
+    equipped: true
+    can_attune: true
+    attuned: true
     damage: ""
     damage_type: ""
     armor_class: ""

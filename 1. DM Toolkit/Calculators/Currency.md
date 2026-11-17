@@ -1,8 +1,8 @@
 ---
 obsidianUIMode: preview
-coins_copper: 32500
-coins_silver: 21000
-coins_electrum: 6600
+coins_copper: 1000
+coins_silver: 500
+coins_electrum: 1
 coins_gold: 0
 coins_platinum: 0
 party_size: 5

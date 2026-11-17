@@ -4,20 +4,18 @@ location: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 images:
   - z_Assets/Barovia_Banner.webp
 pronounced: Bar - o - via
-resources: 
-population: 
-terrain: 
+resources:
+population:
+terrain:
 rulers:
   - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
-government: 
-army: 
-religions: 
-imports: 
-exports: 
-routes:
-  - to: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]"
-    miles: 60
-aliases: 
+government:
+army:
+religions:
+imports:
+exports:
+routes: []
+aliases:
 tags:
   - region
   - location

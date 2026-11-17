@@ -4,20 +4,18 @@ location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 images:
   - z_Assets/Amber Temple.png
   - Z_Assets/Locations/Maps/Amber Temple 1
-pronounced: 
-resources: 
-population: 
-terrain: 
-rulers: 
-government: 
-army: 
-religions: 
-imports: 
-exports: 
-aliases: 
-routes:
-  - to: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-    miles: 5
+pronounced:
+resources:
+population:
+terrain:
+rulers:
+government:
+army:
+religions:
+imports:
+exports:
+aliases:
+routes: []
 tags:
   - place-of-interest
   - location

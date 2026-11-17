@@ -15,7 +15,7 @@ travel_hours_per_day: 8
 travel_bonus: 0
 var_mins: 60
 travel_calc: 14.998875084368672
-travel_distance: 12
+travel_distance: 150
 danger_level: 3
 familiar_route: true
 party_members: 6
