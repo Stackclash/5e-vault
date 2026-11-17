@@ -22,14 +22,19 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   selectedParty = dataview.page(data.party)
 
-  // Prep notes are organized by campaign. Resolve the campaign that owns the selected party.
-  selectedCampaign = dataview.pages(`"${config.locations.campaigns}"`).find(c => c.party && c.party.path === selectedParty.file.path)
+  // Prep notes are organized by campaign. Resolve the campaign that owns the selected party,
+  // preferring the active campaign when a party has carried on into a new one.
+  const ownsParty = c => c.party && c.party.path === selectedParty.file.path
+  const activeCampaign = dataview.page(config.active_campaign?.path ?? "")
+  selectedCampaign = activeCampaign && ownsParty(activeCampaign) ? activeCampaign : dataview.pages(`"${config.locations.campaigns}"`).find(ownsParty)
   if (!selectedCampaign) {
     throw new Error(`No campaign found whose party is ${selectedParty.file.name}`)
   }
 
-  // The session this prep targets: one after the latest journal for the campaign.
-  const journals = dataview.pages(`"${path.posix.join(config.locations.journals, selectedCampaign.file.name)}"`).where(j => j.session_number != null).sort(j => j.session_number, 'desc').array()
+  // The session this prep targets: one after the latest journal for this campaign and party.
+  const journals = dataview.pages(`"${path.posix.join(config.locations.journals, selectedCampaign.file.name)}"`)
+    .where(j => j.party?.path === selectedParty.file.path && j.session_number != null)
+    .sort(j => Number(j.session_number), 'desc').array()
   sessionNumber = journals.length ? Number(journals[0].session_number) + 1 : 0
 
   await init.moveFile(tp, path.posix.join(config.locations.preps, selectedCampaign.file.name), formattedDate)
@@ -55,7 +60,7 @@ tags:
 >  |
 >  ---|---|
 > **Session #** | `INPUT[number:session_number]` |
-> **Journal** | `INPUT[suggester(optionQuery(#session-journal)):journal]` |
+> **Journal** | `$=await dv.view('views/journalPicker', {current: dv.current()})` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current(), pronounced: false, editAll: false})

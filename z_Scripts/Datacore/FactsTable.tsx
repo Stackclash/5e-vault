@@ -24,6 +24,9 @@ function buttonMarkdown(args, { style = "destructive", label = "", icon, tooltip
   ].join("\n")
 }
 
+// Meta Bind single-quoted argument: escape backslashes and single quotes (journal titles carry apostrophes).
+const quoteArg = (s) => `'${String(s).replace(/\\/g, "\\\\").replace(/'/g, "\\'")}'`
+
 function FactsTable() {
   const note = dc.useCurrentFile()
   const sourcePath = note.$path
@@ -33,6 +36,15 @@ function FactsTable() {
   const campaign = dc.useQuery(`@page and $path = "${campaignPath}"`)[0]
   const partyPath = campaign?.value("party")?.path ?? ""
   const party = partyPath.split("/").pop()?.replace(/\.md$/, "") ?? ""
+
+  // Learned picker offers the active campaign's journals (its folder) played by its party, newest first.
+  // Both filters: a party can carry on into a new campaign, and a campaign can be rerun with a new party.
+  const journalsRoot = String(config?.value("locations")?.journals ?? "").replace(/\/+$/, "")
+  const campaignFolder = campaign && journalsRoot ? `${journalsRoot}/${campaign.$name}/` : ""
+  const journalOptions = dc.useQuery(`@page and #session-journal`)
+    .filter(j => campaignFolder && j.$path.startsWith(campaignFolder) && j.value("party")?.path === partyPath)
+    .sort((a, b) => (Number(b.value("session_number")) || 0) - (Number(a.value("session_number")) || 0))
+    .map(j => `option(${quoteArg(`[[${j.$path}|${j.$name}]]`)}, ${quoteArg(j.$name)})`)
 
   const raw = note.value("facts")
   const facts = Array.isArray(raw) ? raw : []
@@ -62,7 +74,7 @@ function FactsTable() {
           <span style={{ display: "inline-flex", alignItems: "center", gap: "0.3em" }}>
             {md(generateMetaBindInput({
               type: "suggester",
-              options: ["optionQuery(#session-journal)"],
+              options: journalOptions,
               field: ["facts", i, "learned", party],
             }))}
             {fact?.learned?.[party] != null && (
