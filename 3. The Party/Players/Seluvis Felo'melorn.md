@@ -4,27 +4,26 @@ statblock: "true"
 active: false
 name: Seluvis Felo'melorn
 level: 10
-ac: 23
-hp: 59
+ac: 24
+hp: 73
 modifier: 3
-proficiency: 3
+proficiency: 4
 url: https://dndbeyond.com/characters/103214475
 image: https://www.dndbeyond.com/avatars/35471/817/1581111423-103214475.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Elf High.md|Elf High]]"
-alignment: undefined
 description:
-  gender: ""
-  age: ""
-  hair: ""
-  eyes: ""
-  skin: ""
-  height: ""
-  weight: ""
+  gender:
+  age:
+  hair:
+  eyes:
+  skin:
+  height:
+  weight:
   size: Medium
 passives:
-  perception: 14
-  investigation: 17
-  insight: 14
+  perception: 15
+  investigation: 19
+  insight: 15
 proficiencies:
   armor:
     - Light Armor
@@ -53,21 +52,24 @@ background:
   background:
     name: Guild Artisan / Guild Merchant
     description: <p>You are a member of an artisan’s guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.</p>
-  backstory: ""
+  backstory:
   organizations: "I.T.E.M.S: International Traders Emporium Merchant Services - Current guild."
-  allies: ""
-  enemies: ""
-  notes: |
+  allies:
+  enemies:
+  notes: |+
     Day 3: "Proof of Concept" - Weapon Construction Logs
      Redgrave and I have begun working on a device to focus magic projectiles through.  The device combined with my magical infusion would be able to be more compact than this crossbow I currently use.  (At this moment Yevelda is entering a drinking contest with a half elf for his hat, we'll see who wins.  Results are in!  She reached for his hat while passing out )  The device maybe able to be able to be attached to these Gauntlets.
 
 
 
     Day 5: Back in the bar continuing work with Redgrave.  The rest of the party has ventured out in a love mission for Yevelda.   Progress is slow...
+
+
+
 classes:
-  - name: "[[5. Mechanics/Classes/Artificer.md|Artificer]]"
-    subclass: "[[5. Mechanics/Classes/Artificer Armorer.md|Artificer Armorer]]"
-    level: 7
+  - name: "[[5. Mechanics/Classes/Artificer (TCE).md|Artificer (TCE)]]"
+    subclass: "[[5. Mechanics/Classes/Artificer Armorer (TCE).md|Artificer Armorer (TCE)]]"
+    level: 10
 ability_scores:
   strength:
     value: 8
@@ -79,8 +81,8 @@ ability_scores:
     value: 13
     modifier: 1
   intelligence:
-    value: 18
-    modifier: 4
+    value: 20
+    modifier: 5
   wisdom:
     value: 12
     modifier: 1
@@ -97,12 +99,12 @@ saving_throws:
     base_value: 3
     proficiency: false
   constitution:
-    value: 4
+    value: 5
     base_value: 1
     proficiency: true
   intelligence:
-    value: 7
-    base_value: 4
+    value: 9
+    base_value: 5
     proficiency: true
   wisdom:
     value: 1
@@ -130,8 +132,8 @@ skills:
     disadvantage: false
     advantage: false
   arcana:
-    value: 4
-    base_value: 4
+    value: 5
+    base_value: 5
     proficiency: false
     expertise: false
     disadvantage: false
@@ -151,14 +153,14 @@ skills:
     disadvantage: false
     advantage: false
   history:
-    value: 4
-    base_value: 4
+    value: 5
+    base_value: 5
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   insight:
-    value: 4
+    value: 5
     base_value: 1
     proficiency: true
     expertise: false
@@ -172,8 +174,8 @@ skills:
     disadvantage: false
     advantage: false
   investigation:
-    value: 7
-    base_value: 4
+    value: 9
+    base_value: 5
     proficiency: true
     expertise: false
     disadvantage: false
@@ -186,14 +188,14 @@ skills:
     disadvantage: false
     advantage: false
   nature:
-    value: 7
-    base_value: 4
+    value: 9
+    base_value: 5
     proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
   perception:
-    value: 4
+    value: 5
     base_value: 1
     proficiency: true
     expertise: false
@@ -207,15 +209,15 @@ skills:
     disadvantage: false
     advantage: false
   persuasion:
-    value: 3
+    value: 4
     base_value: 0
     proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
   religion:
-    value: 4
-    base_value: 4
+    value: 5
+    base_value: 5
     proficiency: false
     expertise: false
     disadvantage: false
@@ -250,12 +252,16 @@ racial_traits:
     description: You have advantage on saves against being charmed, and magic can’t put you to sleep.
   - name: Trance
     description: You don't need to sleep, but meditate semiconsciously for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+  - name: Ability Score Increase
+    description: Your Dexterity score increases by 2.
   - name: Elf Weapon Training
     description: You have proficiency with the longsword, shortsword, shortbow, and longbow.
   - name: Cantrip
     description: You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it.
   - name: Extra Language
     description: You can speak, read, and write one extra language of your choice.
+  - name: Ability Score Increase
+    description: Your Intelligence score increases by 1.
 class_features:
   - name: Tools of the Trade
     description: You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice.
@@ -267,10 +273,12 @@ class_features:
     description: "You can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator."
   - name: Extra Attack
     description: You can attack twice, rather than once, whenever you take the Attack action on your turn.
+  - name: Armor Modifications
+    description: "Your Arcane Armor now counts as separate items for the purposes of your Infuse Item feature: armor (the chest piece), boots, helmet, and the armor’s special weapon. Each of those items can bear one of your infusions, and the infusions transfer over if you change your armor’s model with the Armor Model feature. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your Arcane Armor."
   - name: Magical Tinkering
     description: "Imbue a Tiny nonmagical object with a magical property of your choice: 5ft. radius light, up to 6 second long recorded message, emits odor or nonverbal sound, static visual effect including up to 25 words of text. You can affect a maximum of {{modifier:int@min:1#unsigned}} objects at a time."
   - name: Spellcasting
-    description: You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 15, Spell Attack 7) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature.
+    description: You can cast prepared artificer spells using INT as your spellcasting modifier (Spell DC 17, Spell Attack 9) and prepared artificer spells as rituals if they have the ritual tag. You must have a spellcasting focus — specifically thieves’ tools or some kind of artisan’s tool — in hand when you cast any spell with this feature.
   - name: Infuse Item
     description: "Whenever you finish a long rest, you can touch up to {{scalevalue}} nonmagical objects, imbuing each of them with one of your artificer infusions, turning it into a magic item. You can attune yourself to the item the instant you infuse it, or you can forgo attunement so that someone else can attune to the item. Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after {{modifier:int@min:1#unsigned}} days. The infusion also vanishes if you give up your knowledge of the infusion or you exceed your maximum number of infusions. "
   - name: Artificer Infusions
@@ -283,6 +291,8 @@ class_features:
     description: Your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
   - name: Flash of Genius
     description: When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add {{modifier:int#signed}} to the roll. You can use this feature {{modifier:int@min:1#unsigned}} times, regaining uses on finishing a long rest.
+  - name: Magic Item Adept
+    description: You can now attune to up to four magic items at once. If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
 feats: []
 race_spells:
   - name: Prestidigitation
@@ -290,12 +300,12 @@ race_spells:
     is_prepared: true
 class_spells:
   - name: Artificer
-    cantrips_known: 2
+    cantrips_known: 3
     spell_slots:
       max:
         - 4
         - 3
-        - 0
+        - 2
         - 0
         - 0
         - 0
@@ -303,8 +313,8 @@ class_spells:
         - 0
         - 0
       used:
-        - 1
-        - 2
+        - 0
+        - 0
         - 0
         - 0
         - 0
@@ -313,46 +323,80 @@ class_spells:
         - 0
         - 0
     spells:
-      - name: "[[5. Mechanics/Spells/Guidance.md|Guidance]]"
+      - name: Acid Splash
         level: 0
         is_prepared: true
-      - name: "[[5. Mechanics/Spells/Acid Splash.md|Acid Splash]]"
+      - name: Fire Bolt
         level: 0
         is_prepared: true
-      - name: "[[5. Mechanics/Spells/Absorb Elements.md|Absorb Elements]]"
+      - name: Guidance
+        level: 0
+        is_prepared: true
+      - name: Absorb Elements
         level: 1
         is_prepared: true
-      - name: "[[5. Mechanics/Spells/Purify Food And Drink.md|Purify Food And Drink]]"
+      - name: Cure Wounds
         level: 1
         is_prepared: true
-      - name: "[[5. Mechanics/Spells/Feather Fall.md|Feather Fall]]"
-        level: 1
-        is_prepared: true
-      - name: "[[5. Mechanics/Spells/Invisibility.md|Invisibility]]"
+      - name: Aid
         level: 2
         is_prepared: true
-      - name: "[[5. Mechanics/Spells/Web.md|Web]]"
+      - name: Enhance Ability
         level: 2
         is_prepared: true
-      - name: "[[5. Mechanics/Spells/Levitate.md|Levitate]]"
+      - name: Invisibility
         level: 2
         is_prepared: true
-      - name: "[[5. Mechanics/Spells/Blur.md|Blur]]"
+      - name: Skywrite
         level: 2
+        is_prepared: true
+      - name: Web
+        level: 2
+        is_prepared: true
+      - name: Dispel Magic
+        level: 3
+        is_prepared: true
+      - name: Glyph of Warding
+        level: 3
+        is_prepared: true
+      - name: Haste
+        level: 3
         is_prepared: true
 currencies:
   cp: 0
   sp: 35
-  gp: 34
+  gp: 28
   ep: 0
   pp: 0
 inventory:
+  - name: "[[5. Mechanics/Items/Amulet Of Health.md|Amulet Of Health]]"
+    type: Wondrous item
+    rarity: Rare
+    quantity: 1
+    can_equip: true
+    equipped: true
+    can_attune: true
+    attuned: true
+    damage: ""
+    damage_type: ""
+    armor_class: ""
   - name: "[[5. Mechanics/Items/Bag Of Holding.md|Bag Of Holding]]"
     type: Wondrous item
     rarity: Uncommon
     quantity: 1
     can_equip: true
     equipped: true
+    can_attune: false
+    attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: ""
+  - name: "[[5. Mechanics/Items/Bag Of Holding.md|Bag Of Holding]]"
+    type: Wondrous item
+    rarity: Uncommon
+    quantity: 1
+    can_equip: true
+    equipped: false
     can_attune: false
     attuned: false
     damage: ""
@@ -376,11 +420,11 @@ inventory:
     can_equip: true
     equipped: true
     can_attune: false
-    attuned: false
+    attuned: true
     damage: ""
     damage_type: ""
     armor_class: 2
-  - name: "[[5. Mechanics/Items/Contagion Plate.md|Contagion Plate]]"
+  - name: "[[5. Mechanics/Items/Dwarven Plate.md|Dwarven Plate]]"
     type: Armor
     rarity: Common
     quantity: 1
@@ -391,38 +435,16 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: 18
-  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
-    type: Weapon
-    rarity: Common
-    quantity: 1
-    can_equip: true
-    equipped: false
-    can_attune: false
-    attuned: false
-    damage: 1d6
-    damage_type: Slashing
-    armor_class: ""
   - name: "[[5. Mechanics/Items/Light Crossbow.md|Light Crossbow]]"
     type: Weapon
     rarity: Common
     quantity: 1
     can_equip: true
-    equipped: true
+    equipped: false
     can_attune: false
     attuned: false
     damage: 1d8
     damage_type: Piercing
-    armor_class: ""
-  - name: "[[5. Mechanics/Items/Crossbow Bolts 20.md|Crossbow Bolts 20]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 20
-    can_equip: true
-    equipped: false
-    can_attune: false
-    attuned: false
-    damage: ""
-    damage_type: ""
     armor_class: ""
   - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
     type: Other Gear
@@ -446,17 +468,6 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: ""
-  - name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 0
-    can_equip: false
-    equipped: false
-    can_attune: false
-    attuned: false
-    damage: ""
-    damage_type: ""
-    armor_class: ""
   - name: "[[5. Mechanics/Items/Pouch.md|Pouch]]"
     type: Other Gear
     rarity: Common
@@ -465,6 +476,17 @@ inventory:
     equipped: false
     can_attune: false
     attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: ""
+  - name: "[[5. Mechanics/Items/Signet Ring.md|Signet Ring]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 1
+    can_equip: false
+    equipped: true
+    can_attune: false
+    attuned: true
     damage: ""
     damage_type: ""
     armor_class: ""
@@ -479,7 +501,7 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: ""
-  - name: "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
+  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
     type: Other Gear
     rarity: Common
     quantity: 1
@@ -501,11 +523,33 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: ""
-  - name: "[[5. Mechanics/Items/Tinkers Tools.md|Tinkers Tools]]"
+  - name: "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
     type: Other Gear
     rarity: Common
     quantity: 1
     can_equip: false
+    equipped: false
+    can_attune: false
+    attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: ""
+  - name: "[[5. Mechanics/Items/Potion Of Greater Healing.md|Potion Of Greater Healing]]"
+    type: Potion
+    rarity: Uncommon
+    quantity: 4
+    can_equip: false
+    equipped: false
+    can_attune: false
+    attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: ""
+  - name: "[[5. Mechanics/Items/Driftglobe.md|Driftglobe]]"
+    type: Wondrous item
+    rarity: Uncommon
+    quantity: 1
+    can_equip: true
     equipped: false
     can_attune: false
     attuned: false
@@ -545,7 +589,7 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: 16
-  - name: "[[5. Mechanics/Items/Contagion Plate.md|Contagion Plate]]"
+  - name: "[[5. Mechanics/Items/Dwarven Plate.md|Dwarven Plate]]"
     type: Armor
     rarity: Common
     quantity: 1
@@ -556,22 +600,22 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: 18
-  - name: "[[5. Mechanics/Items/Hunting Trap.md|Hunting Trap]]"
-    type: Other Gear
+  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
+    type: Weapon
     rarity: Common
-    quantity: 6
-    can_equip: false
+    quantity: 1
+    can_equip: true
     equipped: false
     can_attune: false
     attuned: false
-    damage: ""
-    damage_type: ""
+    damage: 1d6
+    damage_type: Slashing
     armor_class: ""
-  - name: "[[5. Mechanics/Items/Cooks Utensils.md|Cooks Utensils]]"
+  - name: "[[5. Mechanics/Items/Crossbow Bolts 20.md|Crossbow Bolts 20]]"
     type: Other Gear
     rarity: Common
-    quantity: 1
-    can_equip: false
+    quantity: 20
+    can_equip: true
     equipped: false
     can_attune: false
     attuned: false
@@ -589,10 +633,21 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: ""
+  - name: "[[5. Mechanics/Items/Hunting Trap.md|Hunting Trap]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 6
+    can_equip: false
+    equipped: false
+    can_attune: false
+    attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: ""
   - name: "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
     type: Other Gear
     rarity: Common
-    quantity: 1
+    quantity: 10
     can_equip: false
     equipped: false
     can_attune: false
@@ -603,7 +658,7 @@ inventory:
   - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
     type: Other Gear
     rarity: Common
-    quantity: 7
+    quantity: 23
     can_equip: false
     equipped: false
     can_attune: false
@@ -633,11 +688,45 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: ""
+  - name: "[[5. Mechanics/Items/Cooks Utensils.md|Cooks Utensils]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 1
+    can_equip: false
+    equipped: false
+    can_attune: false
+    attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: ""
+  - name: "[[5. Mechanics/Items/Vial.md|Vial]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 55
+    can_equip: false
+    equipped: false
+    can_attune: false
+    attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: ""
+  - name: "[[5. Mechanics/Items/Holy Water Flask.md|Holy Water Flask]]"
+    type: Other Gear
+    rarity: Common
+    quantity: 15
+    can_equip: false
+    equipped: false
+    can_attune: false
+    attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: ""
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 condition: healthy
 location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 tags:
   - player
+feat_spells: []
 ---
 > [!infobox]
 > `$="[![Char Image](" + dv.current().image + ")](" + dv.current().url + ")"`

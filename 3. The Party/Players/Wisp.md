@@ -274,70 +274,70 @@ class_spells:
         - 0
         - 0
     spells:
-      - name: Mage Hand
+      - name: Fire Bolt
         level: 0
         is_prepared: true
-      - name: Prestidigitation
+      - name: Mage Hand
         level: 0
         is_prepared: true
       - name: Message
         level: 0
         is_prepared: true
+      - name: Minor Illusion
+        level: 0
+        is_prepared: true
+      - name: Prestidigitation
+        level: 0
+        is_prepared: true
       - name: Shocking Grasp
         level: 0
         is_prepared: true
-      - name: Fire Bolt
-        level: 0
-        is_prepared: true
-      - name: Sleep
+      - name: Alarm
         level: 1
         is_prepared: false
       - name: Charm Person
         level: 1
         is_prepared: false
+      - name: Color Spray
+        level: 1
+        is_prepared: true
       - name: Comprehend Languages
         level: 1
         is_prepared: false
       - name: Detect Magic
         level: 1
         is_prepared: false
-      - name: Mage Armor
-        level: 1
-        is_prepared: true
-      - name: Shield
-        level: 1
-        is_prepared: true
-      - name: Magic Missile
-        level: 1
-        is_prepared: true
-      - name: Illusory Script
+      - name: Disguise Self
         level: 1
         is_prepared: false
-      - name: Color Spray
-        level: 1
-        is_prepared: true
       - name: False Life
         level: 1
         is_prepared: true
-      - name: Charm Person
-        level: 1
-        is_prepared: false
-      - name: Alarm
-        level: 1
-        is_prepared: false
       - name: Feather Fall
-        level: 1
-        is_prepared: false
-      - name: Identify
-        level: 1
-        is_prepared: false
-      - name: Disguise Self
         level: 1
         is_prepared: false
       - name: Find Familiar
         level: 1
         is_prepared: false
+      - name: Identify
+        level: 1
+        is_prepared: false
+      - name: Illusory Script
+        level: 1
+        is_prepared: false
+      - name: Mage Armor
+        level: 1
+        is_prepared: true
+      - name: Magic Missile
+        level: 1
+        is_prepared: true
+      - name: Shield
+        level: 1
+        is_prepared: true
       - name: Silent Image
+        level: 1
+        is_prepared: false
+      - name: Sleep
         level: 1
         is_prepared: false
       - name: Alter Self
@@ -349,24 +349,33 @@ class_spells:
       - name: Invisibility
         level: 2
         is_prepared: true
-      - name: Magic Mouth
+      - name: Levitate
         level: 2
         is_prepared: false
-      - name: Spider Climb
+      - name: Magic Mouth
         level: 2
         is_prepared: false
       - name: Mirror Image
         level: 2
         is_prepared: false
-      - name: Levitate
+      - name: Scorching Ray
+        level: 2
+        is_prepared: false
+      - name: Spider Climb
         level: 2
         is_prepared: false
       - name: Suggestion
         level: 2
         is_prepared: false
-      - name: Scorching Ray
-        level: 2
-        is_prepared: false
+      - name: Counterspell
+        level: 3
+        is_prepared: true
+      - name: Dispel Magic
+        level: 3
+        is_prepared: true
+      - name: Fear
+        level: 3
+        is_prepared: true
       - name: Fireball
         level: 3
         is_prepared: true
@@ -376,31 +385,22 @@ class_spells:
       - name: Major Image
         level: 3
         is_prepared: true
-      - name: Fear
-        level: 3
-        is_prepared: true
-      - name: Dispel Magic
-        level: 3
-        is_prepared: true
-      - name: Counterspell
-        level: 3
-        is_prepared: true
       - name: Water Breathing
         level: 3
-        is_prepared: false
-      - name: Phantasmal Killer
-        level: 4
         is_prepared: false
       - name: Dimension Door
         level: 4
         is_prepared: true
+      - name: Phantasmal Killer
+        level: 4
+        is_prepared: false
       - name: Polymorph
         level: 4
         is_prepared: true
-      - name: Mislead
+      - name: Conjure Elemental
         level: 5
         is_prepared: false
-      - name: Conjure Elemental
+      - name: Mislead
         level: 5
         is_prepared: false
       - name: Seeming
@@ -564,6 +564,7 @@ tags:
   - player
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+feat_spells: []
 ---
 > [!infobox]
 > `$="[![Char Image](" + dv.current().image + ")](" + dv.current().url + ")"`

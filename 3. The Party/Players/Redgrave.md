@@ -3,15 +3,15 @@ obsidianUIMode: preview
 statblock: true
 active: true
 name: Redgrave
-level: 10
-ac: 24
-hp: 73
+level: 11
+ac: 25
+hp: 80
 modifier: -1
 proficiency: 4
 url: https://dndbeyond.com/characters/29682199
 image: https://www.dndbeyond.com/avatars/10846/680/1581111423-29682199.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: Warforged Envoy
-alignment: character.alignment
+alignment: Neutral Good
 description:
   gender: ""
   age:
@@ -122,7 +122,7 @@ background:
 classes:
   - name: "[[5. Mechanics/Classes/Cleric.md|Cleric]]"
     subclass: "[[5. Mechanics/Classes/Cleric Forge Domain (XGE).md|Cleric Forge Domain (XGE)]]"
-    level: 10
+    level: 11
 ability_scores:
   strength:
     value: 16
@@ -331,7 +331,7 @@ class_features:
   - name: Destroy Undead
     description: When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level.
   - name: Divine Intervention
-    description: As an action, you can request your deity's aid and roll percentile dice. If your roll is equal to or less than 10, your deity intervenes (your DM chooses the nature of the intervention). If successful, you can't use this feature again for 7 days, otherwise, you can use it again after a long rest. At 20th level, your request succeeds automatically, no roll required.
+    description: As an action, you can request your deity's aid and roll percentile dice. If your roll is equal to or less than 11, your deity intervenes (your DM chooses the nature of the intervention). If successful, you can't use this feature again for 7 days, otherwise, you can use it again after a long rest. At 20th level, your request succeeds automatically, no roll required.
 feats: []
 race_spells: []
 class_spells:
@@ -344,7 +344,7 @@ class_spells:
         - 3
         - 3
         - 2
-        - 0
+        - 1
         - 0
         - 0
         - 0
@@ -359,28 +359,25 @@ class_spells:
         - 0
         - 0
     spells:
-      - name: Word of Radiance
-        level: 0
-        is_prepared: true
-      - name: Thaumaturgy
-        level: 0
-        is_prepared: true
-      - name: Sacred Flame
+      - name: Guidance
         level: 0
         is_prepared: true
       - name: Mending
         level: 0
         is_prepared: true
+      - name: Thaumaturgy
+        level: 0
+        is_prepared: true
       - name: Toll the Dead
         level: 0
         is_prepared: true
-      - name: Healing Word
-        level: 1
+      - name: Word of Radiance
+        level: 0
         is_prepared: true
       - name: Cure Wounds
         level: 1
         is_prepared: true
-      - name: Command
+      - name: Healing Word
         level: 1
         is_prepared: true
       - name: Silence
@@ -389,35 +386,41 @@ class_spells:
       - name: Spiritual Weapon
         level: 2
         is_prepared: true
-      - name: Locate Object
+      - name: Zone of Truth
         level: 2
         is_prepared: true
-      - name: Revivify
+      - name: Mass Healing Word
         level: 3
         is_prepared: true
-      - name: Remove Curse
+      - name: Revivify
         level: 3
         is_prepared: true
       - name: Spirit Guardians
         level: 3
         is_prepared: true
-      - name: Dispel Magic
-        level: 3
-        is_prepared: true
-      - name: Mass Healing Word
-        level: 3
+      - name: Control Water
+        level: 4
         is_prepared: true
       - name: Guardian of Faith
         level: 4
         is_prepared: true
-      - name: Control Water
+      - name: Stone Shape
         level: 4
         is_prepared: true
-      - name: Banishment
-        level: 4
+      - name: Geas
+        level: 5
+        is_prepared: true
+      - name: Greater Restoration
+        level: 5
         is_prepared: true
       - name: Mass Cure Wounds
         level: 5
+        is_prepared: true
+      - name: Heal
+        level: 6
+        is_prepared: true
+      - name: Sunbeam
+        level: 6
         is_prepared: true
 currencies:
   cp: 0
@@ -426,17 +429,6 @@ currencies:
   ep: 0
   pp: 0
 inventory:
-  - name: "[[5. Mechanics/Items/Animated Shield.md|Animated Shield]]"
-    type: Armor
-    rarity: Very Rare
-    quantity: 1
-    can_equip: true
-    equipped: true
-    can_attune: true
-    attuned: true
-    damage: ""
-    damage_type: ""
-    armor_class: 2
   - name: "[[5. Mechanics/Items/Cloak Of Protection.md|Cloak Of Protection]]"
     type: Wondrous item
     rarity: Uncommon
@@ -453,7 +445,7 @@ inventory:
     rarity: Uncommon
     quantity: 1
     can_equip: true
-    equipped: false
+    equipped: true
     can_attune: false
     attuned: false
     damage: ""
@@ -488,7 +480,7 @@ inventory:
     can_equip: true
     equipped: true
     can_attune: true
-    attuned: false
+    attuned: true
     damage: ""
     damage_type: ""
     armor_class: ""
@@ -591,6 +583,17 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: ""
+  - name: "[[5. Mechanics/Items/Animated Shield.md|Animated Shield]]"
+    type: Armor
+    rarity: Very Rare
+    quantity: 1
+    can_equip: true
+    equipped: false
+    can_attune: true
+    attuned: false
+    damage: ""
+    damage_type: ""
+    armor_class: 2
   - name: "[[5. Mechanics/Items/Shield.md|Shield]]"
     type: Armor
     rarity: Common
@@ -684,6 +687,7 @@ tags:
   - player
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+feat_spells: []
 ---
 > [!infobox]
 > `$="[![Char Image](" + dv.current().image + ")](" + dv.current().url + ")"`

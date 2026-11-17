@@ -11,7 +11,6 @@ proficiency: 4
 url: https://dndbeyond.com/characters/146541185
 image: https://www.dndbeyond.com/avatars/17/230/636377844267563561.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Human.md|Human]]"
-alignment: character.alignment
 description:
   gender:
   age:
@@ -51,7 +50,7 @@ background:
   organizations:
   allies:
   enemies:
-  notes: Sword's name Uthraad.
+  notes:
 classes:
   - name: "[[5. Mechanics/Classes/Barbarian.md|Barbarian]]"
     subclass: "[[5. Mechanics/Classes/Barbarian Path Of The Berserker.md|Barbarian Path Of The Berserker]]"
@@ -273,6 +272,7 @@ tags:
   - player
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+feat_spells: []
 ---
 > [!infobox]
 > `$="[![Char Image](" + dv.current().image + ")](" + dv.current().url + ")"`

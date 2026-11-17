@@ -3,15 +3,15 @@ obsidianUIMode: preview
 statblock: true
 active: true
 name: Faerah Duskrane
-level: 10
-ac: 17
-hp: 73
+level: 11
+ac: 18
+hp: 79
 modifier: 7
 proficiency: 4
 url: https://dndbeyond.com/characters/105635812
 image: https://www.dndbeyond.com/avatars/36048/643/1581111423-105635812.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Elf Drow.md|Elf Drow]]"
-alignment: character.alignment
+alignment: Chaotic Good
 description:
   gender: Female
   age: 88
@@ -59,7 +59,7 @@ background:
 classes:
   - name: "[[5. Mechanics/Classes/Rogue.md|Rogue]]"
     subclass: "[[5. Mechanics/Classes/Rogue Swashbuckler (XGE).md|Rogue Swashbuckler (XGE)]]"
-    level: 10
+    level: 11
 ability_scores:
   strength:
     value: 8
@@ -225,7 +225,7 @@ skills:
     proficiency: true
     expertise: true
     disadvantage: false
-    advantage: false
+    advantage: true
   survival:
     value: 5
     base_value: 1
@@ -271,6 +271,8 @@ class_features:
     description: When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
   - name: Evasion
     description: When you are subjected to an effect that allows you to make a DEX saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+  - name: Reliable Talent
+    description: Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
   - name: Expertise
     description: Your proficiency bonus is doubled for any ability check you make that uses any of the chosen proficiencies.
 feats: []
@@ -299,7 +301,7 @@ inventory:
     can_equip: true
     equipped: true
     can_attune: true
-    attuned: false
+    attuned: true
     damage: ""
     damage_type: ""
     armor_class: ""
@@ -310,13 +312,13 @@ inventory:
     can_equip: true
     equipped: true
     can_attune: true
-    attuned: false
+    attuned: true
     damage: ""
     damage_type: ""
     armor_class: ""
   - name: "[[5. Mechanics/Items/Glamoured Studded Leather.md|Glamoured Studded Leather]]"
     type: Armor
-    rarity: Common
+    rarity: Rare
     quantity: 1
     can_equip: true
     equipped: true
@@ -325,6 +327,17 @@ inventory:
     damage: ""
     damage_type: ""
     armor_class: 12
+  - name: "[[5. Mechanics/Items/Longbow.md|Longbow]]"
+    type: Weapon
+    rarity: Rare
+    quantity: 1
+    can_equip: true
+    equipped: true
+    can_attune: false
+    attuned: false
+    damage: 1d8
+    damage_type: Piercing
+    armor_class: ""
   - name: "[[5. Mechanics/Items/Dagger.md|Dagger]]"
     type: Weapon
     rarity: Common
@@ -407,7 +420,7 @@ inventory:
     rarity: Common
     quantity: 1
     can_equip: true
-    equipped: true
+    equipped: false
     can_attune: false
     attuned: false
     damage: 1d6
@@ -418,7 +431,7 @@ inventory:
     rarity: Common
     quantity: 1
     can_equip: true
-    equipped: true
+    equipped: false
     can_attune: false
     attuned: false
     damage: 1d8
@@ -715,6 +728,7 @@ tags:
   - player
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+feat_spells: []
 ---
 > [!infobox]
 > `$="[![Char Image](" + dv.current().image + ")](" + dv.current().url + ")"`
