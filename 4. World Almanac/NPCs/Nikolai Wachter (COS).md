@@ -28,7 +28,7 @@ history: >-
   at the Blue Water Inn, and their recklessness has already caused real trouble
   in town: sneaking into Arasek's Stockyard on a bet, one of the brothers rocked
   a caged saber-toothed tiger's wagon and let it loose on Vallaki's streets.
-relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: mother }, { target: "[[4. World Almanac/NPCs/Stella Wachter (COS).md|Stella Wachter]]", type: sister } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 gist: ""

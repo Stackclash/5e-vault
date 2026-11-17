@@ -28,7 +28,7 @@ history: >-
   of the Blazing Sun. Her nervous laughter at the baron's every remark has
   become a reflex, and it has only grown more brittle since her lady-in-waiting
   vanished without a trace alongside the household butler.
-relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/Factions/House Petrovich.md|House Petrovich]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/Factions/House Petrovich.md|House Petrovich]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: rival } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""

@@ -38,7 +38,7 @@ history: >-
   keeps him afloat with a small monthly stipend for festival decorations, and
   Blinsky, ever hopeful, believes that if he can just make enough people smile —
   starting with Barovia's children — the town's suffering might finally lift.
-relationships: [ { target: "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni]]", type: client, note: forced to carve dolls of Ireena } ]
+relationships: [ { target: "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni]]", type: client, note: forced to carve dolls of Ireena }, { target: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]", type: works-at }, { target: "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]", type: client }, { target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]", type: patron, note: monthly stipend for festival toys } ]
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]'

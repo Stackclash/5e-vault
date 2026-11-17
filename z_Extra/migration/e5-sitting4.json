@@ -1,0 +1,116 @@
+[
+ {
+  "source": "Baron Vargas Vallakovich (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]",
+  "replace": "member"
+ },
+ {
+  "source": "Baron Vargas Vallakovich (COS)",
+  "type": "wife",
+  "target": "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]"
+ },
+ {
+  "source": "Victor Vallakovich (COS)",
+  "type": "father",
+  "target": "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]"
+ },
+ {
+  "source": "Victor Vallakovich (COS)",
+  "type": "mother",
+  "target": "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]"
+ },
+ {
+  "source": "Lady Lydia Petrovna (COS)",
+  "type": "rival",
+  "target": "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]"
+ },
+ {
+  "source": "Lady Fiona Wachter (COS)",
+  "type": "rival",
+  "target": "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]"
+ },
+ {
+  "source": "Lady Fiona Wachter (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]",
+  "replace": "member"
+ },
+ {
+  "source": "Nikolai Wachter (COS)",
+  "type": "mother",
+  "target": "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]"
+ },
+ {
+  "source": "Stella Wachter (COS)",
+  "type": "mother",
+  "target": "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]"
+ },
+ {
+  "source": "Nikolai Wachter (COS)",
+  "type": "sister",
+  "target": "[[4. World Almanac/NPCs/Stella Wachter (COS).md|Stella Wachter]]"
+ },
+ {
+  "source": "Stella Wachter (COS)",
+  "type": "lover",
+  "target": "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich]]",
+  "note": "secret"
+ },
+ {
+  "source": "Stella Wachter (COS)",
+  "type": "member",
+  "target": "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]"
+ },
+ {
+  "source": "Majesto (COS)",
+  "type": "master",
+  "target": "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]"
+ },
+ {
+  "source": "Gadof Blinsky (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]"
+ },
+ {
+  "source": "Gadof Blinsky (COS)",
+  "type": "client",
+  "target": "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]"
+ },
+ {
+  "source": "Gadof Blinsky (COS)",
+  "type": "patron",
+  "target": "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]",
+  "note": "monthly stipend for festival toys"
+ },
+ {
+  "source": "Piccolo (COS)",
+  "type": "master",
+  "target": "[[4. World Almanac/NPCs/Gadof Blinsky (COS).md|Gadof Blinsky]]",
+  "note": "a gift from Rictavio"
+ },
+ {
+  "source": "Danika Dorakova (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+ },
+ {
+  "source": "Urwin Martikov (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+ },
+ {
+  "source": "Urwin Martikov (COS)",
+  "type": "member",
+  "target": "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]",
+  "note": "high-ranking",
+  "replace": "member"
+ },
+ {
+  "source": "Urwin Martikov (COS)",
+  "type": "father",
+  "target": "[[4. World Almanac/NPCs/Davian Martikov (COS).md|Davian Martikov]]",
+  "note": "estranged over the stolen gem",
+  "replace": "father"
+ }
+]

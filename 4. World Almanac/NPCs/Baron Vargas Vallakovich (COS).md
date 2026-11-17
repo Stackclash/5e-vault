@@ -33,7 +33,7 @@ history: >-
   and his wife's lady-in-waiting, vanished without a trace in the past week, and
   though he has charged [[Izek Strazni (COS)|Izek Strazni]] with finding them,
   no answers have come.
-relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: leader }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]", type: wife } ]
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'

@@ -32,7 +32,7 @@ history: >-
   compelled with suggestion - both were torn apart and vanished in flashes of
   purple light. Undeterred, Victor keeps refining the circle, certain that
   escape from Barovia is only one working spell away.
-relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]", type: father }, { target: "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]", type: mother } ]
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'

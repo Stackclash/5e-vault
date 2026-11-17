@@ -36,7 +36,7 @@ history: >-
   Larnak, to keep her informed of everything that happens in town, though he
   knows enough of her secrets to blackmail her should their arrangement ever
   sour.
-relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member }, { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member, note: loyalist } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: leader }, { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member, note: loyalist }, { target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]", type: rival } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'

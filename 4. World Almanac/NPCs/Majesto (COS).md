@@ -22,7 +22,7 @@ history: >-
   coins as if bestowed by “princes of darkness,” reinforcing her claim to speak
   for infernal powers. It otherwise stays out of sight and fights only if Fiona
   herself is threatened.
-relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member, note: Fiona Wachter's cult } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member, note: Fiona Wachter's cult }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: master } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 gist: ""

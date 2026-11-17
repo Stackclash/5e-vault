@@ -20,7 +20,7 @@ history: >-
   Once Rictavio's traveling companion and carnival monkey, Piccolo was given
   away as a gift to the lonely Vallaki toymaker Gadof Blinsky, who has since
   trained it as a shop assistant.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Gadof Blinsky (COS).md|Gadof Blinsky]]", type: master, note: a gift from Rictavio } ]
 party_relationships: {}
 location: null
 gist: ""

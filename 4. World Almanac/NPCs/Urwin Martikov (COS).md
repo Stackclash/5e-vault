@@ -16,8 +16,12 @@ alignment: Lawful Good
 relationships:
   - target: "[[4. World Almanac/NPCs/Davian Martikov (COS).md|Davian Martikov]]"
     type: father
+    note: estranged over the stolen gem
   - target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]"
     type: member
+    note: high-ranking
+  - target: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+    type: works-at
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'

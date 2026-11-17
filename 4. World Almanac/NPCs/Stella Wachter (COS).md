@@ -28,7 +28,7 @@ history: >-
   nothing kind to say about Victor, and, having no one else left to trust in
   Vallaki, will gladly accept a place in Father Lucian's care at St. Andral's
   church if the characters bring her there.
-relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: mother }, { target: "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich]]", type: lover, note: secret }, { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 gist: ""
