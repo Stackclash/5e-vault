@@ -29,6 +29,7 @@ const TPL = {
   world: 'z_Templates/Templater/World Building/World.md',
   shop: 'z_Templates/Templater/World Building/Shop.md',
   quest: 'z_Templates/Templater/Campaign/Quest.md',
+  player: 'z_Templates/Templater/Party/Player Character.md',
 }
 function include(src) {
   return src.replace(/^<% tp\.file\.include\("\[\[(z_Templates\/Partials\/[^\]]+)\]\]"\) %>$/gm, (_, p) => include(read(p + '.md')).trimEnd())
@@ -64,6 +65,7 @@ const HIST = {
   world: [T + 'Location.md', O + 'Location.md'],
   shop: [T + 'Shop.md', O + 'Shop.md'],
   quest: ['z_Templates/Templater/Campaign/Quest.md'],
+  player: ['z_Templates/Templater/Party/Player Character.md', 'z_Templates/Party/Player Character.md', 'z_Templates/Templater/PC_template.md'],
 }
 const SCAFFOLD = [
   /^> \[!infobox ?\| ?wsmall\]$/,
@@ -158,6 +160,27 @@ function handProse(type, lines) {
   return { prose: out, images }
 }
 
+// PC DM sections: Hidden Details text first, then each later section under its heading demoted one level;
+// a section with no text is dropped.
+function pcDmNotes(lines) {
+  const sections = [{ heading: null, body: [] }]
+  for (const l of lines) {
+    if (/^## \S/.test(l)) sections.push({ heading: l, body: [] })
+    else sections[sections.length - 1].body.push(/^#{1,5}\s/.test(l) ? '#' + l : l)
+  }
+  const out = []
+  for (const s of sections) {
+    const body = [...s.body]
+    while (body.length && !body[0].trim()) body.shift()
+    while (body.length && !body[body.length - 1].trim()) body.pop()
+    if (!body.length) continue
+    if (out.length) out.push('')
+    if (s.heading) out.push('#' + s.heading)
+    out.push(...body)
+  }
+  return out
+}
+
 // ---------- per note
 function reskin(rel, type) {
   const raw = read(rel)
@@ -165,9 +188,10 @@ function reskin(rel, type) {
   if (!m) throw new Error('no frontmatter')
   const fmText = m[0], body = raw.slice(fmText.length)
   const title = path.posix.basename(rel, '.md')
-  if (/views\/entityHeader/.test(body)) return { skip: 'already re-skinned' }
+  if (/views\/entityHeader|^> \[!tabs\]/m.test(body)) return { skip: 'already re-skinned' }
 
-  const dmIdx = body.search(/^## DM Notes[ \t]*$/m)
+  // PCs keep their DM text under ## Hidden Details and ## Notes at the end of the body.
+  const dmIdx = body.search(type === 'player' ? /^## Hidden Details[ \t]*$/m : /^## DM Notes[ \t]*$/m)
   const statsIdx = type === 'npc' ? body.search(/^## Stats[ \t]*$/m) : -1
   const aboveEnd = statsIdx >= 0 ? statsIdx : dmIdx >= 0 ? dmIdx : body.length
   const above = body.slice(0, aboveEnd)
@@ -196,7 +220,8 @@ function reskin(rel, type) {
     if (units(ls).filter(x => x.lang === 'statblock').length > 1) throw new Error('more than one stat block under ## Stats')
     statblock = ls.length ? ls : null
   }
-  const dmLines = dmPart ? dmPart.split('\n').slice(1) : []
+  let dmLines = dmPart ? dmPart.split('\n').slice(1) : []
+  if (type === 'player') dmLines = pcDmNotes(dmLines)
   while (dmLines.length && !dmLines[dmLines.length - 1].trim()) dmLines.pop()
   while (dmLines.length && !dmLines[0].trim()) dmLines.shift()
 
@@ -250,7 +275,7 @@ const typeOf = raw => {
   return Object.keys(TPL).find(t => tags.includes(t))
 }
 const onlyType = arg('--type'), onlyName = arg('--only')
-const files = ['4. World Almanac', '3. The Party/Quests'].flatMap(d => walk(d))
+const files = ['4. World Almanac', '3. The Party/Quests', '3. The Party/Players'].flatMap(d => walk(d))
 const counts = {}
 for (const rel of files) {
   const type = typeOf(read(rel))
