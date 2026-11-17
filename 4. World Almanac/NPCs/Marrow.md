@@ -49,7 +49,7 @@ party_relationships:
   Midnight Covenant: Enemy
 summary: |-
   The party knows the doppelganger that impersonated Lord Caldris Velmont and then Professor Gousse Windcaller (S43) never left Bruokdon. It ambushed Roark Battleborn and Lyssandra Veil at Corwin Vantor's handoff, killed Corwin, took them both captive, and came back wearing Roark's face with a fake device and a cover story that held for days.
-  Faerah Duskrane killed it in a Bruokdon street (S44). The corpse reverted to its true grey form with an amber gem lodged at the base of its neck; the party left the body in place and has not yet investigated the gem. A cultist taken at the smuggling wagon gave them its name — Marrow — and identified it as the leader of the Ascendency's Bruokdon cell.
+  Faerah Duskrane killed it in a Bruokdon street (S44). The corpse reverted to its true grey form with an amber gem lodged at the base of its neck; the party left the body in place; Redgrave later examined it and took the gem. A cultist taken at the smuggling wagon gave them its name — Marrow — and identified it as the leader of the Ascendency's Bruokdon cell.
 secrets: |-
   Mostly resolved in play (S43-S44). What the party now knows is in summary; what remains DM-only is flagged below.
   Revealed: Marrow was the Silent Ascendency's cell leader in Bruokdon, not a rank-and-file infiltrator — it ran the local operation from inside Velmont's stolen identity from the day it took him captive. A cultist taken at the wagon gave the party both its name and its rank.
