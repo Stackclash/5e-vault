@@ -19,19 +19,7 @@ description: >-
   father's library. He wants nothing more than to vanish through a doorway of
   his own making and never see Barovia again.
 history: >-
-  Years ago Victor found an old spellbook hidden in the mansion's library and
-  began teaching himself magic in secret, eventually retreating to the mansion's
-  attic to avoid his mother's fussing and his father's disapproving glares. His
-  mother's rival, [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]], once tried to
-  marry her daughter [[Stella Wachter (COS)|Stella Wachter]] to him to gain a
-  foothold in the burgomaster's household, but Victor showed no interest in
-  Stella and spoke to her so cruelly that she lost her mind. He has since thrown
-  himself entirely into deciphering his spellbook's most advanced text: an
-  incomplete teleportation circle spell. He has already inscribed a flawed
-  version of the circle on his workroom floor and tested it twice on servants he
-  compelled with suggestion - both were torn apart and vanished in flashes of
-  purple light. Undeterred, Victor keeps refining the circle, certain that
-  escape from Barovia is only one working spell away.
+  Years ago Victor found an old spellbook hidden in the mansion's library and began teaching himself magic in secret, eventually retreating to the mansion's attic to avoid his mother's fussing and his father's disapproving glares. His mother's rival, [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]], once tried to marry her daughter [[Stella Wachter (COS)|Stella Wachter]] to him to gain a foothold in the burgomaster's household. Stella Wachter became his secret lover; using his teleportation circle, she ended up at Castle Ravenloft and was captured. He has since thrown himself entirely into deciphering his spellbook's most advanced text: an incomplete teleportation circle spell. He has already inscribed a flawed version of the circle on his workroom floor and tested it twice on servants he compelled with suggestion - both were torn apart and vanished in flashes of purple light. Undeterred, Victor keeps refining the circle, certain that escape from Barovia is only one working spell away.
 relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]", type: father }, { target: "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]", type: mother } ]
 party_relationships:
   Midnight Covenant: Ally
