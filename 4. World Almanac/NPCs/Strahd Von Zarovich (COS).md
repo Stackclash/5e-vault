@@ -19,8 +19,9 @@ party_relationships:
   Midnight Covenant: Enemy
 location: null
 gist: ""
-summary: ""
-revealed: {}
+summary: "The vampire count who ruled Barovia from Castle Ravenloft, sealed in the mists with his domain. He sometimes went about disguised as the nobleman Vasili von Holtz. The Midnight Covenant destroyed him."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: [ { text: Strahd poses as the nobleman Vasili von Holtz., learned: { Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md|S6 Best Weapon against Vampires are Old Men]]" } } ]
 pronounced: strahd von zah-ROH-vich
