@@ -12,6 +12,7 @@ images:
   - 4. World Almanac/NPCs/img/153-636988936829621698.webp
 aliases:
   - Strahd von Zarovich
+  - Vasili von Holtz
 alignment: Lawful Evil
 relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: leader }, { target: "[[4. World Almanac/Deities/Dark Powers of the Shadowfell.md|Dark Powers of the Shadowfell]]", type: worships, note: pact }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home }, { target: "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana]]", type: lover, note: "obsession: Tatyana reborn" } ]
 party_relationships:
@@ -21,7 +22,7 @@ gist: ""
 summary: ""
 revealed: {}
 reveal: {}
-facts: []
+facts: [ { text: Strahd poses as the nobleman Vasili von Holtz., learned: { Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md|S6 Best Weapon against Vampires are Old Men]]" } } ]
 pronounced: strahd von zah-ROH-vich
 race: '[[5. Mechanics/Bestiary/Undead/Vampire|Vampire]]'
 gender: male
