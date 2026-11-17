@@ -32,6 +32,11 @@ relationships:
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: BRAY MAR-ti-kov
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

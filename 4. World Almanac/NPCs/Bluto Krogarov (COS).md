@@ -26,6 +26,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: BLOO-toh KRO-gah-rov
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

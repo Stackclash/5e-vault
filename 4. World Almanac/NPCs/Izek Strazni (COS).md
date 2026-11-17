@@ -17,6 +17,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Friendly
 location: "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: EYE-zek STRAHZ-nee
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

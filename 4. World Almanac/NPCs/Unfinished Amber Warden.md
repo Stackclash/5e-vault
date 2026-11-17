@@ -3,6 +3,10 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"
 condition: healthy
+gist: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/PlaceholderImage.png
 relationships: []

@@ -20,6 +20,11 @@ description: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: null
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

@@ -28,6 +28,11 @@ party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: mar-ZEH-nah BEL-view
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

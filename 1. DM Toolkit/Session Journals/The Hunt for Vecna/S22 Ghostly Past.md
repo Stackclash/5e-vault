@@ -24,6 +24,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

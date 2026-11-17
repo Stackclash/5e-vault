@@ -24,6 +24,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: byoo-SEF-uh-lus
 race: '[[5. Mechanics/Bestiary/Fiend/Nightmare.md|Nightmare]]'
 gender: male

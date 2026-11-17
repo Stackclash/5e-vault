@@ -3,6 +3,11 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Umbral Athenaeum.md|The Umbral Athenaeum]]"
 condition: healthy
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/NPCs/Caldris Velmont.png
 relationships: []
@@ -46,6 +51,7 @@ secrets: |-
   Revealed to the party (S43): the Silent Ascendency captured him and set up the magic-item smuggling operation; he did not say — and they did not ask — how a captive academic came to have a fully operational smuggling ring for a doppelganger to inherit.
   STILL DM-ONLY: the ring predates the Ascendency entirely. Velmont built it himself over years, quietly moving stolen and grey-market magic items through the Umbral Athenaeum's enchantment trade to fund himself and buy leverage over the noble patrons he answers to. When Marrow took him captive, the Ascendency didn't construct a network from nothing — it seized a mature, working one and drove it harder. This is also the mechanism, not yet needed in play, by which Velmont could resume being "Lord Velmont" to the wider network without any disguise at all: everyone above Bruokdon has only ever dealt with "Velmont," real or worn, and neither Marrow's impression nor the genuine article required inventing anything.
   STILL DM-ONLY: his cooperation against the Ascendency is genuine — being captured, replaced, and discarded is a wound to his pride and his sense of control, and revenge matters more to him than scruples ever did. He will hold up his end for as long as it's aimed at hurting the Ascendency. He is not loyal to the party and won't betray them for spite or ideology, but if a low-risk chance appears to quietly reclaim the ring for himself once the Ascendency's grip on it is broken, he will take it without announcing it — a reckoning the party may need to have with him later, not a twist to force tonight.
+voice: Proper speech
 ---
 > [!infobox]
 > ```dataviewjs

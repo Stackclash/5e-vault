@@ -427,6 +427,10 @@ inventory:
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 condition: healthy
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+gist: ""
+summary: ""
+facts: []
+tagline: ""
 tags:
   - player
 ---

@@ -15,11 +15,22 @@ steps:
   - text: The party enters the village and meets Eamon.
     completed:
       Midnight Covenant: true
+    status: played
 npcs:
   - name: "[[4. World Almanac/NPCs/Eamon Morcant.md|Eamon Morcant]]"
     description: Greets the party as they enter the village and recognizes them by name. No one else in the village knows who he is.
 tags:
   - quest
+kind: quest
+gist: ""
+summary: ""
+revealed: {}
+facts: []
+giver: ""
+locations: []
+items: []
+factions: []
+pcs: []
 ---
 > [!infobox]
 > ```dataviewjs

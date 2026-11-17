@@ -1,6 +1,11 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 owners:
   - "[[4. World Almanac/NPCs/Gadof Blinsky (COS).md|Gadof Blinsky (COS)]]"
 staff:

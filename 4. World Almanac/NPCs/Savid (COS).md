@@ -24,6 +24,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: SAV-id
 race: '[[5. Mechanics/Races/Elf.md|Elf]]'
 gender: male

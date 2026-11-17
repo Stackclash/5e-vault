@@ -23,6 +23,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: IS-mark KOHL-yan-o-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

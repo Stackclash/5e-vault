@@ -36,6 +36,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

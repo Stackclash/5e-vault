@@ -17,6 +17,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Enemy
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: ah-nah-STRAH-sya ka-REL-o-va
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

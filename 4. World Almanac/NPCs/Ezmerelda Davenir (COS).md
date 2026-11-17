@@ -19,6 +19,11 @@ party_relationships:
 location: >-
   [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
   Tower]]
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: ez-meh-REL-da dah-veh-NEER
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

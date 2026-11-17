@@ -17,6 +17,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Enemy
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: strahd von zah-ROH-vich
 race: '[[5. Mechanics/Bestiary/Undead/Vampire|Vampire]]'
 gender: male

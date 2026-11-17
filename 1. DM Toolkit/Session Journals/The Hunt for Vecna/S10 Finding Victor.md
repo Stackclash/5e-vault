@@ -33,6 +33,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Mad Mary (COS).md|Mad Mary (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

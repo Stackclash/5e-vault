@@ -27,6 +27,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Savid (COS).md|Savid (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

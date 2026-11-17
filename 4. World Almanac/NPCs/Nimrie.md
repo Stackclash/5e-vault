@@ -3,6 +3,10 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 condition: healthy
+gist: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/PlaceholderImage.png
 relationships: []

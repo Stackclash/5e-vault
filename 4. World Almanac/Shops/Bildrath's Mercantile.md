@@ -1,6 +1,11 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 owners: []
 staff:
   - "[[4. World Almanac/NPCs/Parriwimple (COS).md|Parriwimple (COS)]]"

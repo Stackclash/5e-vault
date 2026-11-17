@@ -3,6 +3,11 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/PlaceholderImage.png
 relationships:

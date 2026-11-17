@@ -34,6 +34,11 @@ party_relationships:
 location: >-
   [[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of
   Wines]]
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: DAY-vee-an MAR-ti-kov
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

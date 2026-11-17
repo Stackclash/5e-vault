@@ -33,6 +33,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: mor-GAN-thuh
 race: Night Hag
 gender: female

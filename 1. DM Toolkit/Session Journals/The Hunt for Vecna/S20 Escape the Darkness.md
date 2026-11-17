@@ -30,6 +30,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Exethanter (COS).md|Exethanter (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

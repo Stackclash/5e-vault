@@ -31,6 +31,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: STEL-uh VAHK-ter
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

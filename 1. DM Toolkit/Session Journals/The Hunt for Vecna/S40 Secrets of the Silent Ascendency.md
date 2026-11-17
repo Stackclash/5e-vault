@@ -21,6 +21,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Professor Gousse Windcaller.md|Professor Gousse Windcaller]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

@@ -4,6 +4,8 @@ party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 tags:
   - campaign
+summary: ""
+site_slug: ""
 ---
 > [!infobox]
 > ###### Summary (player-safe)

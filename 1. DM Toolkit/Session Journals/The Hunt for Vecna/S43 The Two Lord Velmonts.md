@@ -32,6 +32,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Lord Caldris Velmont.md|Lord Caldris Velmont]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

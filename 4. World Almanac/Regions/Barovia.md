@@ -1,6 +1,11 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/Barovia_Banner.webp
 pronounced: Bar - o - via

@@ -798,6 +798,9 @@ inventory:
     damage_type: ''
     armor_class: ''
 condition: healthy
+gist: ""
+summary: ""
+facts: []
 tags:
   - player
 party: '[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]'

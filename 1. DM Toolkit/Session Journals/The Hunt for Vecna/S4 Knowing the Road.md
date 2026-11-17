@@ -26,6 +26,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Madam Eva (COS).md|Madam Eva (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

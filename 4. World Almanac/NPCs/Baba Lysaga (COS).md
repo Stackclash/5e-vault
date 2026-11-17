@@ -21,6 +21,11 @@ relationships:
 party_relationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: BAH-bah LEE-sah-gah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

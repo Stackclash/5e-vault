@@ -1,6 +1,11 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/PlaceholderImage.png
 pronounced:

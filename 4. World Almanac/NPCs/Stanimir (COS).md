@@ -26,6 +26,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: STAN-ih-meer
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

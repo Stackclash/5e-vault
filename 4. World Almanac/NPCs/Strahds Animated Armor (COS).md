@@ -16,6 +16,11 @@ alignment: Lawful Evil
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: null
 race: Animated Construct
 gender: null

@@ -35,6 +35,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Mistress Lyssandra Veil.md|Mistress Lyssandra Veil]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

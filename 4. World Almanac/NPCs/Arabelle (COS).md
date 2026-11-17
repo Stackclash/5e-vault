@@ -27,6 +27,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: AIR-uh-bell
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

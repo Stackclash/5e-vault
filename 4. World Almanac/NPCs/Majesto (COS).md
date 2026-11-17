@@ -25,6 +25,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: muh-JES-toh
 race: Imp (devil)
 gender: male

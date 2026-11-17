@@ -24,6 +24,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: SANG-zor
 race: Giant Goat
 gender: male

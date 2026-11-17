@@ -28,6 +28,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Acquaintance
 location: '[[The Amber Temple]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: ex-ETH-an-ter
 race: '[[5. Mechanics/Bestiary/Undead/Lich|Lich]]'
 gender: male

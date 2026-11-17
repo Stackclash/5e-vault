@@ -17,6 +17,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Ally
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: null
 race: '[[Revenant|Revenant]]'
 gender: male

@@ -1,6 +1,11 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/Amber Temple.png
   - Z_Assets/Locations/Maps/Amber Temple 1

@@ -15,6 +15,11 @@ alignment: Neutral Evil
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: voh-LEN-tah poh-POF-skee
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

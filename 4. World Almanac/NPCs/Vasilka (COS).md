@@ -29,6 +29,11 @@ party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: vah-SIL-kah
 race: Flesh Golem (Construct)
 gender: female

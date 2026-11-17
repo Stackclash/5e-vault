@@ -26,6 +26,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: ZOL-dar zol-DAR-oh-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

@@ -38,9 +38,8 @@ description: >-
   followed.
 steps:
   - text: >-
-      Velmont proposes the plan: resume being "Lord Velmont" to the wider
-      network, with the party as his escort, to find out where the
-      Ascendency's shipments actually go.
+      Velmont proposes the plan: resume being "Lord Velmont" to the wider network, with the party as his escort, to find out where the Ascendency's shipments actually go.
+    status: planned
 npcs:
   - name: "[[Lord Caldris Velmont]]"
     description: Proposes and leads the ruse. Genuinely wants the Ascendency hurt; not above quietly serving himself if the chance costs him nothing.
@@ -52,6 +51,16 @@ npcs:
     description: Duskferry's Guildmaster — not part of the Ascendency, a potential honest ally if approached directly. Not yet met.
 tags:
   - quest
+kind: quest
+gist: ""
+summary: ""
+revealed: {}
+facts: []
+giver: ""
+locations: []
+items: []
+factions: []
+pcs: []
 ---
 > [!infobox]
 > ```dataviewjs

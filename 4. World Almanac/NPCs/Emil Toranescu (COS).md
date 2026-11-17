@@ -34,6 +34,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Friendly
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: EH-mil tor-uh-NES-koo
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

@@ -36,6 +36,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: VIK-tor val-lah-KO-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

@@ -122,9 +122,9 @@ player	Roark Battleborn		3. The Party/Players/Roark Battleborn.md	4. World Alman
 player	Seluvis Felo'melorn		3. The Party/Players/Seluvis Felo'melorn.md	4. World Almanac/Places of Interest/Castle Ravenloft.md	inactive		
 player	Wisp		3. The Party/Players/Wisp.md	4. World Almanac/Settlements/Bruokdon.md	active		
 player	Yevelda Ovak		3. The Party/Players/Yevelda Ovak.md	4. World Almanac/Settlements/Bruokdon.md	active		
-quest	The Ones Who Were Forgotten		3. The Party/Quests/The Ones Who Were Forgotten.md		completed		
-quest	The Second Ledger		3. The Party/Quests/The Second Ledger.md		active		
-quest	The Well of Many Worlds		3. The Party/Quests/The Well of Many Worlds.md		active		
+quest:quest	The Ones Who Were Forgotten		3. The Party/Quests/The Ones Who Were Forgotten.md		completed		
+quest:quest	The Second Ledger		3. The Party/Quests/The Second Ledger.md		active		
+quest:quest	The Well of Many Worlds		3. The Party/Quests/The Well of Many Worlds.md		active		
 region	Barovia		4. World Almanac/Regions/Barovia.md	4. World Almanac/Worlds/Eldoria.md			
 region	Greenfall		4. World Almanac/Regions/Greenfall.md	4. World Almanac/Worlds/Eldoria.md			
 settlement	Bruokdon	The Spellforge City	4. World Almanac/Settlements/Bruokdon.md	4. World Almanac/Regions/Greenfall.md			

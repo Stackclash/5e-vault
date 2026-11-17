@@ -26,6 +26,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: VIL-nee-us
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

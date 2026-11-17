@@ -42,6 +42,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: GAD-off BLIN-skee
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

@@ -22,6 +22,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Eamon Morcant.md|Eamon Morcant]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

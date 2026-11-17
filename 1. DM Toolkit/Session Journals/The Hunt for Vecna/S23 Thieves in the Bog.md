@@ -26,6 +26,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

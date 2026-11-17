@@ -21,6 +21,11 @@ description: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: DOR-oo
 race: Vampire Spawn
 gender: male

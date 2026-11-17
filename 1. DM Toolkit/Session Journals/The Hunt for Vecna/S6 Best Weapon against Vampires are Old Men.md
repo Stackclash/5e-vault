@@ -33,6 +33,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Milivoj (COS).md|Milivoj (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

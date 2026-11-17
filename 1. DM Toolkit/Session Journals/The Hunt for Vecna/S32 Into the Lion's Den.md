@@ -25,6 +25,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Rahadin (COS).md|Rahadin (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

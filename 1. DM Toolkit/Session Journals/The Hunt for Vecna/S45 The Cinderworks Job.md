@@ -46,6 +46,9 @@ items:
   - "[[5. Mechanics/Items/Ring Of Protection.md|Ring Of Protection]]"
 tags:
   - session-journal
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

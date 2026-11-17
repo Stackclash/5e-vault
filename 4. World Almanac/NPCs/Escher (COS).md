@@ -16,6 +16,11 @@ alignment: Neutral Evil
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: null
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

@@ -36,6 +36,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: ROH-suh-VAL-duh DURST (called "Rose")
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

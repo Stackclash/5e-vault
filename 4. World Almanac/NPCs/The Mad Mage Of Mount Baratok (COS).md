@@ -29,6 +29,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: BAR-uh-tok
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

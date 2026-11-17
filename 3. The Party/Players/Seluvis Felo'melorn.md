@@ -724,6 +724,10 @@ inventory:
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 condition: healthy
 location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+gist: ""
+summary: ""
+facts: []
+tagline: ""
 tags:
   - player
 feat_spells: []

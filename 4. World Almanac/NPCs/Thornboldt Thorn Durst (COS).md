@@ -34,6 +34,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: THORN-bohlt DURST (called "Thorn")
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

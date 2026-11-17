@@ -33,6 +33,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Enemy
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: KEER-il stoy-uh-NO-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

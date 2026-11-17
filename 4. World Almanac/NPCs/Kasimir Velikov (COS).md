@@ -16,6 +16,11 @@ alignment: Neutral
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: KAH-sih-meer VEL-ih-kov
 race: Dusk Elf
 gender: male

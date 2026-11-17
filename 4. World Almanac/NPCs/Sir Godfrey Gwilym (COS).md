@@ -32,6 +32,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: sir GOD-free GWIL-im
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

@@ -26,6 +26,9 @@ npcs:
   - "[[4. World Almanac/NPCs/The Abbot (COS).md|The Abbot (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

@@ -3,6 +3,10 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Cinderworks.md|The Cinderworks]]"
 condition: healthy
+gist: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/PlaceholderImage.png
 relationships: []

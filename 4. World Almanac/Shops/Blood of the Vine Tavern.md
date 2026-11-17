@@ -1,6 +1,11 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 owners: []
 staff: []
 cost_modifier: 1

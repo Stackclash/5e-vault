@@ -31,6 +31,11 @@ history: >-
 relationships: []
 party_relationships: {}
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: puh-TREE-nuh vel-ih-KOV-nuh
 race: Dusk Elf
 gender: female

@@ -21,6 +21,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Martin Thricefold.md|Martin Thricefold]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

@@ -10,6 +10,9 @@ party_present: []
 npcs: []
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

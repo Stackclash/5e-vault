@@ -17,6 +17,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Enemy
 location: null
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: RAH-hah-din
 race: Dusk Elf
 gender: male

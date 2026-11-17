@@ -3,6 +3,11 @@ obsidianUIMode: preview
 statblock: inline
 location:
 condition: healthy
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/PlaceholderImage.png
 relationships:

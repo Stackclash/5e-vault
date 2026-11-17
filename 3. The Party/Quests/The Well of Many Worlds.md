@@ -20,8 +20,8 @@ description: >-
   animating gem, and has bought herself a way to intercept them mid-journey.
 steps:
   - text: >-
-      Gousse briefs the party on the Well's resonance principle and the route:
-      Plane of Water, then the Feywild, then Limbo, then the Great Library.
+      Gousse briefs the party on the Well's resonance principle and the route: Plane of Water, then the Feywild, then Limbo, then the Great Library.
+    status: planned
 npcs:
   - name: "[[Professor Gousse Windcaller]]"
     description: Guides the party through the Well of Many Worlds' resonance principle and the planned route.
@@ -31,6 +31,16 @@ npcs:
     description: Ruler of the Gloaming Court; arrives once Lysaga flees to collect on the bargain that made the ambush possible.
 tags:
   - quest
+kind: quest
+gist: ""
+summary: ""
+revealed: {}
+facts: []
+giver: ""
+locations: []
+items: []
+factions: []
+pcs: []
 ---
 > [!infobox]
 > ```dataviewjs

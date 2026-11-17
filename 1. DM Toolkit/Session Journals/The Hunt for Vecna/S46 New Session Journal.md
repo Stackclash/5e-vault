@@ -33,6 +33,9 @@ quests:
 items: []
 tags:
   - session-journal
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
 > ###### Prep

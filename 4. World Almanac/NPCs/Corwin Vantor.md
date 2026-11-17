@@ -3,6 +3,10 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 condition: dead
+gist: ""
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/PlaceholderImage.png
 relationships: []

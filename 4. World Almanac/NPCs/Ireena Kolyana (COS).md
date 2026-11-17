@@ -22,6 +22,11 @@ relationships: []
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+gist: ""
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
 pronounced: ee-REE-nah kohl-YAH-nah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
