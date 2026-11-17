@@ -283,10 +283,16 @@
 /* Prose notes: section bar and session navigation */
 .section-bar, .session-nav { color: var(--text-muted); font-size: var(--font-ui-small); margin: 0.2em 0 0.8em; }
 
-/* Tabs 9 and 10 (the TabsInObsidian snippet stops at 8); same pattern for reading view and Live Preview */
+/* Tabs 9 and 10: the TabsInObsidian snippet stops at 8. Generated from every selector form it uses for tab 8
+   (reading view, Live Preview, and the .el-div wrapper). */
 :has(.tabbed.mb-input-type-select > :nth-child(9).is-selected) + .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(9),
 :has(.tabbed.mb-input-type-select > :nth-child(9).is-selected) + .cm-callout > * > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(9),
+:has(.tabbed.mb-input-type-select > :nth-child(9).is-selected) + .el-div > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(9),
 :has(.tabbed.mb-input-type-select > :nth-child(10).is-selected) + .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(10),
-:has(.tabbed.mb-input-type-select > :nth-child(10).is-selected) + .cm-callout > * > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(10) {
+:has(.tabbed.mb-input-type-select > :nth-child(10).is-selected) + .cm-callout > * > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(10),
+:has(.tabbed.mb-input-type-select > :nth-child(10).is-selected) + .el-div > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(10) {
   display: block;
 }
+
+/* Gist-strip callouts (e.g. the PC tagline): the input reads as a line of text */
+.callout[data-callout="gist"] input { background: transparent; border: none; box-shadow: none; width: 100%; }

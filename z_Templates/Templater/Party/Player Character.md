@@ -131,10 +131,18 @@ try {
   tR += yaml.dump(tp.user.dndBeyondCharacter.toFrontmatter(properties))
 -%>
 ---
-`$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
+> [!infobox]
+> `$="[![Char Image](" + dv.current().image + ")](" + dv.current().url + ")"`
+> ###### Bio
+>  |
+>  ---|---|
+> **Level** | `$=dv.current().level` |
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
-> [!div|no-t clean]
-> `INPUT[text:tagline]`
+> [!gist]
+> `INPUT[text(placeholder(Tagline)):tagline]`
 ```meta-bind-button
 style: primary
 label: Update From DnD Beyond
