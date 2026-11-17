@@ -8,7 +8,7 @@ attunement: false
 curse: ""
 images: []
 gist: "The amber graft from the nape of Marrow's neck: a sliver of Eludrax's soul-craft, the same craft behind the Amber Wardens."
-summary: ""
+summary: "An amber gem that was lodged at the base of Marrow's neck. Redgrave took it from the body after Faerah killed Marrow in Bruokdon (S44)."
 revealed:
   Midnight Covenant: true
 reveal: {}
