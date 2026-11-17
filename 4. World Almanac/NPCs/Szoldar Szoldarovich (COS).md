@@ -23,7 +23,7 @@ history: >-
   Krushkin]], selling the meat to survive. The dangerous, bloody work has left
   both men grim and quietly broken, and Szoldar spends most of his free time
   drowning his sorrows at the [[Blue Water Inn]].
-relationships: [ { target: "[[4. World Almanac/Factions/Vallaki Wolf Hunters.md|Vallaki Wolf Hunters]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Vallaki Wolf Hunters.md|Vallaki Wolf Hunters]]", type: member }, { target: "[[4. World Almanac/NPCs/Yevgeni Krushkin (COS).md|Yevgeni Krushkin]]", type: friend } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""

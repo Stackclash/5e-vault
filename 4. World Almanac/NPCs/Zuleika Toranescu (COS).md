@@ -27,7 +27,7 @@ history: >-
   releasing him. She lacks the strength or allies to move against Kiril alone,
   and the rest of the pack — having watched what happened to Emil — won't risk
   Strahd's wrath by helping her.
-relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member }, { target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member }, { target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]", type: worships }, { target: "[[4. World Almanac/NPCs/Emil Toranescu (COS).md|Emil Toranescu]]", type: husband, note: mate }, { target: "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]]", type: enemy } ]
 party_relationships: {}
 location: null
 gist: ""

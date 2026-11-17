@@ -33,7 +33,7 @@ history: >-
   travelers inside, and later — once their true, skeletal remains are found — as
   vengeful but still childlike ghosts who want nothing more than to keep their
   small family together.
-relationships: [ { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member }, { target: "[[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md|Thornboldt Thorn Durst]]", type: brother }, { target: "[[4. World Almanac/Places of Interest/Death House.md|Death House]]", type: home, note: her ghost lingers there } ]
 party_relationships: {}
 location: null
 gist: ""

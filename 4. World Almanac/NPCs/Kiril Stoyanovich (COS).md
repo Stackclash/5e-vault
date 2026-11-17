@@ -29,7 +29,7 @@ history: >-
   in his werewolf servants. The dire wolves dragged Emil away to Castle
   Ravenloft, and Kiril reasserted his dominance — ruling now through fear of
   Strahd's wrath as much as his own.
-relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member }, { target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: leader }, { target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]", type: worships }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: null

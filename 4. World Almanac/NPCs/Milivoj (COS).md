@@ -29,7 +29,7 @@ history: >-
   it, leaving the church without its protection against Strahd's minions. Father
   Lucian suspects him but hasn't confronted him, fearing what the temperamental
   young man might do.
-relationships: [ { target: "[[4. World Almanac/Places of Interest/St. Andral's Church.md|St. Andral's Church]]", type: works-at } ]
+relationships: [ { target: "[[4. World Almanac/Places of Interest/St. Andral's Church.md|St. Andral's Church]]", type: works-at }, { target: "[[4. World Almanac/NPCs/Henrik Van Der Voort (COS).md|Henrik Van Der Voort]]", type: employer, note: paid him to steal St. Andral's bones } ]
 party_relationships: {}
 location: null
 gist: ""

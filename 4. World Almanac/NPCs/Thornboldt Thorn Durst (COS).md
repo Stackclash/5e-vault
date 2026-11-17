@@ -31,7 +31,7 @@ history: >-
   house conjures to lure travelers inside, and later — once his true, skeletal
   remains are found — as a frightened but still childlike ghost who only wants
   to keep his sister close.
-relationships: [ { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member }, { target: "[[4. World Almanac/Places of Interest/Death House.md|Death House]]", type: home, note: his ghost lingers there } ]
 party_relationships: {}
 location: null
 gist: ""

@@ -26,7 +26,7 @@ history: >-
   simple, repetitive tasks than to shrewd bargaining. He rarely leaves
   Bildrath's side and won't chase down anyone who leaves the shop so long as his
   uncle has nothing further to say about it.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Shops/Bildrath's Mercantile.md|Bildrath's Mercantile]]", type: works-at } ]
 party_relationships: {}
 location: null
 gist: ""
