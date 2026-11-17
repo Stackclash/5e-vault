@@ -323,9 +323,9 @@ source	type	target	learned_by	note
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Professor Gousse Windcaller.md		Guides the party through the Well of Many Worlds' resonance principle and the planned route.
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Baba Lysaga (COS).md		Ambushes the party in the Feywild, disguised as a fey bargain-broker, in revenge for Strahd's death.
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Mab.md		Ruler of the Gloaming Court; arrives once Lysaga flees to collect on the bargain that made the ambush possible.
-4. World Almanac/Creatures/Amber Warden.md	member	4. World Almanac/Factions/Silent Ascendency.md		
+4. World Almanac/Creatures/Amber Warden.md	serves	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/Creatures/Amber Warden.md	home	4. World Almanac/Places of Interest/Greyfen Hollow.md		
-4. World Almanac/Creatures/Unfinished Amber Warden.md	member	4. World Almanac/Factions/Silent Ascendency.md		
+4. World Almanac/Creatures/Unfinished Amber Warden.md	serves	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/Creatures/Unfinished Amber Warden.md	home	4. World Almanac/Places of Interest/Greyfen Hollow.md		
 4. World Almanac/Deities/Dark Powers of the Shadowfell.md	world	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Deities/Mother Night.md	world	4. World Almanac/Worlds/Eldoria.md		

@@ -21,7 +21,7 @@ images:
 gist: ""
 relationships:
   - target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]"
-    type: member
+    type: serves
   - target: "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"
     type: home
 aliases:
