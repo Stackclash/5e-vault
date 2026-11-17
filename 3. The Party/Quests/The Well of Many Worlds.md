@@ -32,14 +32,16 @@ npcs:
 tags:
   - quest
 kind: quest
+parent: "[[3. The Party/Quests/Act I - The World-Truth Working.md|Act I - The World-Truth Working]]"
 gist: ""
 summary: ""
 revealed: {}
 facts: []
-giver: ""
+giver: "[[4. World Almanac/NPCs/Professor Gousse Windcaller.md|Professor Gousse Windcaller]]"
 locations: []
 items: []
-factions: []
+factions:
+  - "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]"
 pcs: []
 ---
 > [!infobox]

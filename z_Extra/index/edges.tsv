@@ -313,13 +313,28 @@ source	type	target	learned_by	note
 3. The Party/Players/Wisp.md	party	3. The Party/Parties/Midnight Covenant.md		
 3. The Party/Players/Yevelda Ovak.md	location	4. World Almanac/Settlements/Bruokdon.md		
 3. The Party/Players/Yevelda Ovak.md	party	3. The Party/Parties/Midnight Covenant.md		
+3. The Party/Quests/Act I - The World-Truth Working.md	parent	3. The Party/Quests/The Hunt.md		
+3. The Party/Quests/Act I - The World-Truth Working.md	world	4. World Almanac/Worlds/Eldoria.md		
+3. The Party/Quests/Act II - The Ascension Rite.md	parent	3. The Party/Quests/The Hunt.md		
+3. The Party/Quests/Act II - The Ascension Rite.md	world	4. World Almanac/Worlds/Eldoria.md		
+3. The Party/Quests/The Hunt.md	world	4. World Almanac/Worlds/Eldoria.md		
 3. The Party/Quests/The Ones Who Were Forgotten.md	world	4. World Almanac/Worlds/Eldoria.md		
 3. The Party/Quests/The Ones Who Were Forgotten.md	quest-npc	4. World Almanac/NPCs/Eamon Morcant.md		Greets the party as they enter the village and recognizes them by name. No one else in the village knows who he is.
+3. The Party/Quests/The Second Ledger.md	quest-giver	4. World Almanac/NPCs/Lord Caldris Velmont.md		
+3. The Party/Quests/The Second Ledger.md	quest-location	4. World Almanac/Places of Interest/The Cinderworks.md		
+3. The Party/Quests/The Second Ledger.md	quest-location	4. World Almanac/Settlements/Duskferry.md		
+3. The Party/Quests/The Second Ledger.md	quest-location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
+3. The Party/Quests/The Second Ledger.md	quest-faction	4. World Almanac/Factions/Silent Ascendency.md		
+3. The Party/Quests/The Second Ledger.md	quest-faction	4. World Almanac/Factions/Ferrymen's Guild.md		
+3. The Party/Quests/The Second Ledger.md	parent	3. The Party/Quests/Act I - The World-Truth Working.md		
 3. The Party/Quests/The Second Ledger.md	world	4. World Almanac/Worlds/Eldoria.md		
 3. The Party/Quests/The Second Ledger.md	quest-npc	4. World Almanac/NPCs/Lord Caldris Velmont.md		Proposes and leads the ruse. Genuinely wants the Ascendency hurt; not above quietly serving himself if the chance costs him nothing.
 3. The Party/Quests/The Second Ledger.md	quest-npc	4. World Almanac/NPCs/Hesper Crane.md		The Cinderworks' quartermaster. Never met the real Velmont in person, tests via password if suspicious, breaks if the ruse fails twice.
 3. The Party/Quests/The Second Ledger.md	quest-npc	4. World Almanac/NPCs/Ostwin Reyes.md		The Duskferry lead named in Crane's ledger, known to the party only by his code name "the Tallyman" until they earn the real identity. Not yet met.
 3. The Party/Quests/The Second Ledger.md	quest-npc	4. World Almanac/NPCs/Anselm Corrow.md		Duskferry's Guildmaster — not part of the Ascendency, a potential honest ally if approached directly. Not yet met.
+3. The Party/Quests/The Well of Many Worlds.md	quest-giver	4. World Almanac/NPCs/Professor Gousse Windcaller.md		
+3. The Party/Quests/The Well of Many Worlds.md	quest-faction	4. World Almanac/Factions/Silent Ascendency.md		
+3. The Party/Quests/The Well of Many Worlds.md	parent	3. The Party/Quests/Act I - The World-Truth Working.md		
 3. The Party/Quests/The Well of Many Worlds.md	world	4. World Almanac/Worlds/Eldoria.md		
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Professor Gousse Windcaller.md		Guides the party through the Well of Many Worlds' resonance principle and the planned route.
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Baba Lysaga (COS).md		Ambushes the party in the Feywild, disguised as a fey bargain-broker, in revenge for Strahd's death.

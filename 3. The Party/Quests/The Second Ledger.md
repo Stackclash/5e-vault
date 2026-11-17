@@ -52,14 +52,20 @@ npcs:
 tags:
   - quest
 kind: quest
+parent: "[[3. The Party/Quests/Act I - The World-Truth Working.md|Act I - The World-Truth Working]]"
 gist: ""
 summary: ""
 revealed: {}
 facts: []
-giver: ""
-locations: []
+giver: "[[4. World Almanac/NPCs/Lord Caldris Velmont.md|Lord Caldris Velmont]]"
+locations:
+  - "[[4. World Almanac/Places of Interest/The Cinderworks.md|The Cinderworks]]"
+  - "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
+  - "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"
 items: []
-factions: []
+factions:
+  - "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]"
+  - "[[4. World Almanac/Factions/Ferrymen's Guild.md|Ferrymen's Guild]]"
 pcs: []
 ---
 > [!infobox]
