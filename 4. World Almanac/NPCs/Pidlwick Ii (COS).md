@@ -13,7 +13,7 @@ images:
 aliases:
   - Pidlwick II
 alignment: Neutral Evil
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: master, note: kept on to dispose of unwanted guests }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home } ]
 party_relationships: {}
 location: null
 gist: ""

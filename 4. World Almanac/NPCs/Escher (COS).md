@@ -13,7 +13,7 @@ images:
 aliases:
   - Escher
 alignment: Neutral Evil
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: lover, note: favored consort (former) }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home } ]
 party_relationships: {}
 location: null
 gist: ""

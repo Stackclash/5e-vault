@@ -363,6 +363,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	leader	4. World Almanac/Factions/House Vallakovich.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	wife	4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md		
+4. World Almanac/NPCs/Beucephalus (COS).md	master	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
+4. World Almanac/NPCs/Beucephalus (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		Crypt 39
 4. World Almanac/NPCs/Bluto Krogarov (COS).md	location	4. World Almanac/Places of Interest/Lake Zarovich.md		
 4. World Almanac/NPCs/Bray Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Bray Martikov (COS).md	father	4. World Almanac/NPCs/Urwin Martikov (COS).md		
@@ -383,6 +385,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Cyrus Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Cyrus Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Cyrus Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
+4. World Almanac/NPCs/Cyrus Belview (COS).md	serves	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Dag Tomescu.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Dag Tomescu.md	wife	4. World Almanac/NPCs/Stefania Martikov.md		
 4. World Almanac/NPCs/Danika Dorakova (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
@@ -403,6 +406,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Elvir Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
 4. World Almanac/NPCs/Emil Toranescu (COS).md	member	4. World Almanac/Factions/Children of Mother Night.md		
 4. World Almanac/NPCs/Emil Toranescu (COS).md	worships	4. World Almanac/Deities/Mother Night.md		
+4. World Almanac/NPCs/Escher (COS).md	lover	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		favored consort (former)
+4. World Almanac/NPCs/Escher (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		
 4. World Almanac/NPCs/Exethanter (COS).md	location	4. World Almanac/Places of Interest/The Amber Temple.md		
 4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	location	4. World Almanac/Places of Interest/Van Richten's Tower.md		
 4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	mentor	4. World Almanac/NPCs/Rictavio (COS).md		van Richten's former protégé
@@ -416,6 +421,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Gertruda (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Gertruda (COS).md	lover	4. World Almanac/NPCs/Victor Vallakovich (COS).md		secret
 4. World Almanac/NPCs/Gertruda (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
+4. World Almanac/NPCs/Gertruda (COS).md	mother	4. World Almanac/NPCs/Mad Mary (COS).md		
 4. World Almanac/NPCs/Hesper Crane.md	location	4. World Almanac/Places of Interest/The Cinderworks.md		
 4. World Almanac/NPCs/Hesper Crane.md	agent	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Hesper Crane.md	works-at	4. World Almanac/Places of Interest/The Cinderworks.md		
@@ -452,6 +458,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Lord Caldris Velmont.md	enemy	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Lord Caldris Velmont.md	enemy	4. World Almanac/NPCs/Marrow.md		
 4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
+4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		catacombs, near Strahd's coffin
 4. World Almanac/NPCs/Luvash (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Luvash (COS).md	leader	4. World Almanac/Factions/Vistani.md		Vallaki camp, co-leader
 4. World Almanac/NPCs/Luvash (COS).md	serves	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
@@ -509,6 +516,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	enemy	4. World Almanac/NPCs/Rahadin (COS).md		
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	imprisoned-at	4. World Almanac/Places of Interest/Castle Ravenloft.md		bound to her crypt in the catacombs
 4. World Almanac/NPCs/Piccolo (COS).md	master	4. World Almanac/NPCs/Gadof Blinsky (COS).md		a gift from Rictavio
+4. World Almanac/NPCs/Pidlwick Ii (COS).md	master	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		kept on to dispose of unwanted guests
+4. World Almanac/NPCs/Pidlwick Ii (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		
 4. World Almanac/NPCs/Professor Alindra Quicksilver.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Professor Alindra Quicksilver.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Professor Gousse Windcaller.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
@@ -544,6 +553,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	worships	4. World Almanac/Deities/Dark Powers of the Shadowfell.md		pact
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	lover	4. World Almanac/NPCs/Ireena Kolyana (COS).md		obsession: Tatyana reborn
+4. World Almanac/NPCs/Strahds Animated Armor (COS).md	master	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		masterless since Strahd's death
+4. World Almanac/NPCs/Strahds Animated Armor (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		
 4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	member	4. World Almanac/Factions/Vallaki Wolf Hunters.md		
 4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	member	4. World Almanac/Factions/Circle of Eight.md		
@@ -563,6 +574,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Vilnius (COS).md	location	4. World Almanac/Places of Interest/The Amber Temple.md		
 4. World Almanac/NPCs/Vladimir Horngaard (COS).md	member	4. World Almanac/Factions/Order of the Silver Dragon.md		
 4. World Almanac/NPCs/Volenta Popofsky (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
+4. World Almanac/NPCs/Volenta Popofsky (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		catacombs, near Strahd's coffin
 4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	member	4. World Almanac/Factions/Vallaki Wolf Hunters.md		
 4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		

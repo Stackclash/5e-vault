@@ -1,0 +1,68 @@
+[
+ {
+  "source": "Ludmilla Vilisevic (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]",
+  "note": "catacombs, near Strahd's coffin"
+ },
+ {
+  "source": "Volenta Popofsky (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]",
+  "note": "catacombs, near Strahd's coffin"
+ },
+ {
+  "source": "Escher (COS)",
+  "type": "lover",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]",
+  "note": "favored consort (former)"
+ },
+ {
+  "source": "Escher (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+ },
+ {
+  "source": "Cyrus Belview (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Beucephalus (COS)",
+  "type": "master",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Beucephalus (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]",
+  "note": "Crypt 39"
+ },
+ {
+  "source": "Strahds Animated Armor (COS)",
+  "type": "master",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]",
+  "note": "masterless since Strahd's death"
+ },
+ {
+  "source": "Strahds Animated Armor (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+ },
+ {
+  "source": "Pidlwick Ii (COS)",
+  "type": "master",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]",
+  "note": "kept on to dispose of unwanted guests"
+ },
+ {
+  "source": "Pidlwick Ii (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+ },
+ {
+  "source": "Gertruda (COS)",
+  "type": "mother",
+  "target": "[[4. World Almanac/NPCs/Mad Mary (COS).md|Mad Mary]]"
+ }
+]

@@ -26,7 +26,7 @@ history: >-
   Saint Markovia's madhouse, Cyrus somehow found his way into [[Strahd Von
   Zarovich (COS)|Strahd von Zarovich]]'s service and has tended Castle Ravenloft
   as the vampire's devoted, half-mad manservant for longer than he can remember.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves } ]
 party_relationships:
   Midnight Covenant: Acquaintance
 location: >-

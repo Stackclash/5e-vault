@@ -21,7 +21,7 @@ history: >-
   epitaph reading "Beucephalus, the Wonder Horse" — this nightmare has served as
   Strahd von Zarovich's steed for longer than anyone in Barovia can remember,
   carried to war whenever its master rides out.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: master }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home, note: Crypt 39 } ]
 party_relationships: {}
 location: null
 gist: ""

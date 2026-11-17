@@ -12,7 +12,7 @@ images: []
 aliases:
   - Ludmilla Vilisevic
 alignment: Neutral Evil
-relationships: [ { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home, note: "catacombs, near Strahd's coffin" } ]
 party_relationships: {}
 location: null
 gist: ""
