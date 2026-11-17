@@ -605,4 +605,5 @@ The vault is usable after every batch. Mechanical batches A–D need about one w
 
 ## After the migration
 
+- **Race matching (DM, 2026-11-17).** 15 notes carry `race` as plain text because no matching note in `5. Mechanics/Races/` was found: 13 COS NPC imports (creature types such as "Dusk Elf", "Animated Construct", "Night Hag") and the PCs Redgrave ("Warforged Envoy") and Wisp ("Awakened Cat"). Refine the race lookup (the D&D Beyond sync in `z_Scripts/Templater/dndBeyondCharacter.js` and the NPC import), then review the results with the DM before relinking any note. D2 reported them; nothing was changed.
 - **Dice Roller plugin (DM, 2026-11-16).** Enabled but fails to load (`app.plugins.plugins["obsidian-dice-roller"]` is undefined; installed copy from 2025-05). Find the load error (console), update or replace the plugin, then rerun T7 (`z_Templates/Templater/ZZ T7 Dice Test.md` prints diagnostics). If it passes, add the "roll from tables" checkbox to quick-create, and check the `dice:` lines in `1. DM Toolkit/Tools/NPC Generator.md`.

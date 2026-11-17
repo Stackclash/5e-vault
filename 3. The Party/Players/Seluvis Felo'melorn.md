@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-statblock: "true"
+statblock: true
 active: false
 name: Seluvis Felo'melorn
 level: 10
