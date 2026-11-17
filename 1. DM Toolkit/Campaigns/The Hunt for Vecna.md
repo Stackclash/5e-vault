@@ -5,12 +5,23 @@ world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 tags:
   - campaign
 ---
-> [!infobox|n-th]
-> # Configuration
-> | | |
-> |---|---|
-> | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
-> | **World:** | `INPUT[suggester(optionQuery(#world)):world]` |
+> [!infobox]
+> ###### Summary (player-safe)
+> `INPUT[textArea:summary]`
+> ###### Setup
+>  |
+>  ---|---|
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **World** | `INPUT[suggester(optionQuery(#world)):world]` |
+> **Status** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'status'})` |
+> **Level range** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'level_range'})` |
+> **Site slug** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'site_slug'})` |
+> ###### Now
+> `$=await dv.view('views/campaignNow', {current: dv.current()})`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
+```
+`$=await dv.view('views/sectionBar', {current: dv.current(), level: 1})`
 
 ## Public Premise
 > [!div|no-t clean]
@@ -197,4 +208,15 @@ Facts the DM has finalized. Agents treat these as fixed unless the DM explicitly
 # Timelines
 ```aat-vertical
 COS
+```
+
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
 ```
