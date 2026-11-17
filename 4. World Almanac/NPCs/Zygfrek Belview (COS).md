@@ -12,7 +12,7 @@ images:
   - 4. World Almanac/NPCs/img/zygfrek-belview.webp
 aliases:
   - Zygfrek Belview
-alignment: Any alignment
+alignment: ""
 description: >-
   Zygfrek stands 4 feet, 7 inches tall. Lizard scales cover the left side of her
   face and body, tufts of gray wolf fur the right, with pale human skin showing

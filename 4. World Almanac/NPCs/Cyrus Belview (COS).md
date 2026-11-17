@@ -12,7 +12,7 @@ images:
   - 4. World Almanac/NPCs/img/cyrus-belview.webp
 aliases:
   - Cyrus Belview
-alignment: Any alignment
+alignment: ""
 description: >-
   Cyrus stands 4 feet, 9 inches tall, his hunched posture making him look
   shorter still. Lizard scales cover the left side of his face, and he has the

@@ -12,7 +12,7 @@ images:
   - 4. World Almanac/NPCs/img/otto-belview.webp
 aliases:
   - Otto Belview
-alignment: Any alignment
+alignment: ""
 description: >-
   Otto stands 4 feet, 9 inches tall and squats rather than stands upright,
   giving him the look of a beardless dwarf beneath patches of donkey flesh. He

@@ -11,7 +11,7 @@ condition: healthy
 images: []
 aliases:
   - Marzena Belview
-alignment: Any alignment
+alignment: ""
 description: >-
   Marzena stands 4 feet, 5 inches tall with a hunched, wary posture. Long,
   stringy black hair hides much of her face, but her spider mandibles and teeth

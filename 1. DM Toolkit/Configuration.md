@@ -343,6 +343,7 @@ enums:
   genders:
     - male
     - female
+    - N/A
   quest_kinds:
     - arc
     - quest
