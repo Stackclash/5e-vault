@@ -24,7 +24,6 @@ faction:order	Umbral Athenaeum Council		4. World Almanac/Factions/Umbral Athenae
 faction:other	Vallaki Wolf Hunters		4. World Almanac/Factions/Vallaki Wolf Hunters.md		active		
 faction:other	Vistani		4. World Almanac/Factions/Vistani.md		active		
 npc	Adrian Martikov		4. World Almanac/NPCs/Adrian Martikov.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
-npc	Amber Warden		4. World Almanac/NPCs/Amber Warden.md	4. World Almanac/Places of Interest/Greyfen Hollow.md	healthy		
 npc	Anastrasya Karelova (COS)	Anastrasya Karelova	4. World Almanac/NPCs/Anastrasya Karelova (COS).md		healthy		
 npc	Anselm Corrow	the Guildmaster	4. World Almanac/NPCs/Anselm Corrow.md	4. World Almanac/Settlements/Duskferry.md	healthy		
 npc	Arabelle (COS)	Arabelle	4. World Almanac/NPCs/Arabelle (COS).md	4. World Almanac/Places of Interest/Lake Zarovich.md	healthy		
@@ -107,7 +106,6 @@ npc	Szoldar Szoldarovich (COS)	Szoldar Szoldarovich	4. World Almanac/NPCs/Szolda
 npc	The Abbot (COS)	The Abbot	4. World Almanac/NPCs/The Abbot (COS).md		healthy		
 npc	The Mad Mage Of Mount Baratok (COS)	The Mad Mage of Mount Baratok	4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md		healthy		
 npc	Thornboldt Thorn Durst (COS)	Thornboldt "Thorn" Durst	4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md		healthy		
-npc	Unfinished Amber Warden		4. World Almanac/NPCs/Unfinished Amber Warden.md	4. World Almanac/Places of Interest/Greyfen Hollow.md	healthy		
 npc	Urwin Martikov (COS)	Urwin Martikov	4. World Almanac/NPCs/Urwin Martikov (COS).md	4. World Almanac/Shops/Blue Water Inn.md	healthy		
 npc	Vasilka (COS)	Vasilka	4. World Almanac/NPCs/Vasilka (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
 npc	Vecna		4. World Almanac/NPCs/Vecna.md		healthy		
@@ -162,6 +160,8 @@ shop	Blinsky Toys		4. World Almanac/Shops/Blinsky Toys.md	4. World Almanac/Settl
 shop	Blood of the Vine Tavern		4. World Almanac/Shops/Blood of the Vine Tavern.md	4. World Almanac/Settlements/Village of Barovia.md			
 shop	Blue Water Inn		4. World Almanac/Shops/Blue Water Inn.md	4. World Almanac/Settlements/Vallaki.md			
 shop	Golden Hammer		4. World Almanac/Shops/Golden Hammer.md	4. World Almanac/Settlements/Bruokdon.md			
+story-creature	Amber Warden		4. World Almanac/Creatures/Amber Warden.md				
+story-creature	Unfinished Amber Warden		4. World Almanac/Creatures/Unfinished Amber Warden.md				
 story-deity	Dark Powers of the Shadowfell		4. World Almanac/Deities/Dark Powers of the Shadowfell.md				
 story-deity	Mother Night		4. World Almanac/Deities/Mother Night.md				
 story-deity	The Nameless God of Secrets		4. World Almanac/Deities/The Nameless God of Secrets.md				

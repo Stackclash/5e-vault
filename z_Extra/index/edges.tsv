@@ -323,6 +323,10 @@ source	type	target	learned_by	note
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Professor Gousse Windcaller.md		Guides the party through the Well of Many Worlds' resonance principle and the planned route.
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Baba Lysaga (COS).md		Ambushes the party in the Feywild, disguised as a fey bargain-broker, in revenge for Strahd's death.
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Mab.md		Ruler of the Gloaming Court; arrives once Lysaga flees to collect on the bargain that made the ambush possible.
+4. World Almanac/Creatures/Amber Warden.md	member	4. World Almanac/Factions/Silent Ascendency.md		
+4. World Almanac/Creatures/Amber Warden.md	home	4. World Almanac/Places of Interest/Greyfen Hollow.md		
+4. World Almanac/Creatures/Unfinished Amber Warden.md	member	4. World Almanac/Factions/Silent Ascendency.md		
+4. World Almanac/Creatures/Unfinished Amber Warden.md	home	4. World Almanac/Places of Interest/Greyfen Hollow.md		
 4. World Almanac/Deities/Dark Powers of the Shadowfell.md	world	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Deities/Mother Night.md	world	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Deities/The Nameless God of Secrets.md	world	4. World Almanac/Worlds/Eldoria.md		
@@ -357,8 +361,6 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Adrian Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
 4. World Almanac/NPCs/Adrian Martikov.md	member	4. World Almanac/Factions/Keepers of the Feather.md		
 4. World Almanac/NPCs/Adrian Martikov.md	works-at	4. World Almanac/Places of Interest/The Wizard of Wines.md		
-4. World Almanac/NPCs/Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
-4. World Almanac/NPCs/Amber Warden.md	member	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Anastrasya Karelova (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
 4. World Almanac/NPCs/Anselm Corrow.md	location	4. World Almanac/Settlements/Duskferry.md		
 4. World Almanac/NPCs/Anselm Corrow.md	leader	4. World Almanac/Factions/Ferrymen's Guild.md		
@@ -615,8 +617,6 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	enemy	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md	member	4. World Almanac/Factions/Durst Family.md		
 4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md	home	4. World Almanac/Places of Interest/Death House.md		his ghost lingers there
-4. World Almanac/NPCs/Unfinished Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
-4. World Almanac/NPCs/Unfinished Amber Warden.md	member	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Urwin Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Urwin Martikov (COS).md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		estranged over the stolen gem
 4. World Almanac/NPCs/Urwin Martikov (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		high-ranking

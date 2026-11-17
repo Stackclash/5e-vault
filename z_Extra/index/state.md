@@ -1,4 +1,4 @@
-built: 2026-11-17T21:42:24.600Z
+built: 2026-11-17T22:33:35.607Z
 campaign: The Hunt for Vecna
 party: Midnight Covenant
 latest session: S48 New Session Journal (played 2026-10-17; in-world 973-2-31; wrapped: false)
@@ -9,4 +9,4 @@ recent spotlight: S48: —; S47: —; S46: —
 active quests: The Second Ledger; The Well of Many Worlds
 unfiled live-session logs: S44 Live Session - Improvised Facts.md; S49 Live Session - Improvised Facts.md
 counts: 181 entities, 727 edges, 1 facts, 49 sessions
-legacy shapes still present: 11 (run lint.js for detail)
+legacy shapes still present: 9 (run lint.js for detail)
