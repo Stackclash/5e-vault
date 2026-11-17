@@ -61,8 +61,6 @@ secrets: >-
   stay to be finished off.
 ---
 > [!infobox]
-> # `=this.file.name`
-> **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('views/imageCarousel', {current: dv.current()})
 > ```
@@ -72,22 +70,375 @@ secrets: >-
 > ###### Bio
 >  |
 >  ---|---|
-> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
-> **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
-> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
+> **Race** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'race'})` |
+> **Gender** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'gender'})` |
+> **Age** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'age'})` |
+> **Alignment** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'alignment'})` |
 > ###### Info
 >  |
 >  ---|---|
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
-> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
+> **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
-> **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
-# **`=this.file.name`**
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
+
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
+> ```
+>
+> > [!tab|no-t] At the Table
+> > **Appearance** `INPUT[text:appearance]`
+> >
+> > **Voice** `BUTTON[pop-voice]`
+> > `INPUT[textArea:voice]`
+> >
+> > **Goals** `BUTTON[pop-goals]`
+> > `INPUT[textArea:goals]`
+> >
+> > **Personality** `BUTTON[pop-personality]`
+> > `INPUT[textArea:personality]`
+> >
+> > **Ideal** `BUTTON[pop-ideal]`
+> > `INPUT[textArea:ideal]`
+> >
+> > **Bond** `BUTTON[pop-bond]`
+> > `INPUT[textArea:bond]`
+> >
+> > **Flaw** `BUTTON[pop-flaw]`
+> > `INPUT[textArea:flaw]`
+> >
+> > **Likes** `BUTTON[pop-likes]`
+> > `INPUT[textArea:likes]`
+> >
+> > **Dislikes** `BUTTON[pop-dislikes]`
+> > `INPUT[textArea:dislikes]`
+>
+> > [!tab|no-t] Lore
+> > **Description** `BUTTON[pop-description]`
+> > `INPUT[textArea:description]`
+> >
+> > **History** `BUTTON[pop-history]`
+> > `INPUT[textArea:history]`
+>
+> > [!player] Player-Facing
+> > **Revealed to the party** `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['revealed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})`
+> >
+> > **Public name** `$=await dv.view('utils/metaBindInput', {type: 'text', field: ['public_name', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (optional: shown instead of the note name)
+> >
+> > **Also show** `$=await dv.view('utils/metaBindInput', {type: 'inlineList', field: ['reveal', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (extra fields the site may show, e.g. images, occupation)
+> >
+> > **Summary** `BUTTON[pop-summary]`
+> > `INPUT[textArea:summary]`
+> >
+> > **Facts**
+> > ```datacorejsx
+> > const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
+> > return function View() { return <FactsTable /> }
+> > ```
+>
+> > [!tab|no-t] Connections
+> > `BUTTON[add-relationship]` `BUTTON[remove-relationship]`
+> >
+> > ```dataviewjs
+> > await dv.view("views/npcRelationships", { current: dv.current() })
+> > ```
+> >
+> > **Quests**
+> > ```dataview
+> > LIST FROM #quest WHERE contains(npcs.name, this.file.link)
+> > ```
+> >
+> > **Sessions**
+> > ```dataview
+> > LIST FROM #session-journal WHERE contains(npcs, this.file.link) SORT session_number ASC
+> > ```
+>
+> > [!tab|no-t] Stats
+> > ```statblock
+> > "name": "Baba Lysaga (COS)"
+> > "size": "Medium"
+> > "type": "humanoid"
+> > "subtype": "human, shapechanger"
+> > "alignment": "Chaotic Evil"
+> > "ac": !!int "15"
+> > "ac_class": "natural armor"
+> > "hp": !!int "120"
+> > "hit_dice": "16d8 + 48"
+> > "modifier": !!int "0"
+> > "stats":
+> >   - !!int "18"
+> >   - !!int "10"
+> >   - !!int "16"
+> >   - !!int "20"
+> >   - !!int "17"
+> >   - !!int "13"
+> > "speed": "30 ft."
+> > "saves":
+> >   - "wisdom": !!int "7"
+> > "skillsaves":
+> >   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
+> >     "desc": "+13"
+> >   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+> >     "desc": "+13"
+> > "gear":
+> >   - "[[/5. Mechanics/Items/Quarterstaff.md|quarterstaff]]"
+> > "senses": "passive Perception 13"
+> > "languages": "Abyssal, Common, Draconic, Dwarvish, Giant"
+> > "cr": "11"
+> > "traits":
+> >   - "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is\
+> >       \ Intelligence (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga\
+> >       \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Acid Splash.md|acid\
+> >       \ splash]], [[/5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+> >       \ [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+> >       \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**1st level\
+> >       \ (4 slots):** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Magic Missile.md|magic missile]],\
+> >       \ [[/5. Mechanics/Spells/Sleep.md|sleep]], [[/5. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\
+> >       \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Crown Of Madness.md|crown of madness]],\
+> >       \ [[/5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]], [[/5. Mechanics/Spells/Misty Step.md|misty step]]\n\
+> >       \n**3rd level (3 slots):** [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+> >       \ [[/5. Mechanics/Spells/Fireball.md|fireball]], [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\
+> >       \n**4th level (3 slots):** [[/5. Mechanics/Spells/Blight.md|blight]], [[/5. Mechanics/Spells/Evards Black Tentacles.md|Evard's\
+> >       \ black tentacles]], [[/5. Mechanics/Spells/Polymorph.md|polymorph]]\n\
+> >       \n**5th level (2 slots):** [[/5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[/5. Mechanics/Spells/Geas.md|geas]],\
+> >       \ [[/5. Mechanics/Spells/Scrying.md|scrying]]\n\n**6th level (1 slots):** [[/5. Mechanics/Spells/Programmed Illusion.md|programmed\
+> >       \ illusion]], [[/5. Mechanics/Spells/True Seeing.md|true seeing]]\n\
+> >       \n**7th level (1 slots):** [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+> >       \ [[/5. Mechanics/Spells/Mirage Arcane.md|mirage arcane]]\n\n**8th level (1 slots):**\
+> >       \ [[/5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
+> >     "name": "Spellcasting"
+> >   - "desc": "Baba Lysaga can use an action to polymorph into a [[/5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]]\
+> >       \ (flies), or back into her true form. While in swarm form, she has a walking\
+> >       \ speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms\
+> >       \ with her, but nothing she is carrying does."
+> >     "name": "Shapechanger"
+> >   - "desc": "Baba Lysaga is shielded against divination magic, as though protected\
+> >       \ by a [[/5. Mechanics/Spells/Nondetection.md|nondetection]] spell."
+> >     "name": "Blessing of Mother Night"
+> > "actions":
+> >   - "desc": "Baba Lysaga makes three attacks with her quarterstaff."
+> >     "name": "Multiattack"
+> >   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
+> >       \ + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if wielded with\
+> >       \ two hands."
+> >     "name": "Quarterstaff"
+> >   - "desc": "Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in\
+> >       \ an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It\
+> >       \ remains until it dies or until Baba Lysaga dismisses it as an action."
+> >     "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
+> > "source":
+> >   - "CoS"
+> > "image": "/4. World Almanac/NPCs/token/baba-lysaga-cos.webp"
+> > ```
+>
+> > [!dm] DM
+> > ```dataviewjs
+> > await dv.view("views/dmPanel", {current: dv.current()})
+> > ```
+> >
+> > `BUTTON[edit-dm-notes]`
+> > ## DM Notes
+> > ### Plot Hooks
+> >
+> >
+> > ### Hidden Details
+> >
+> >
+> > ### General Notes
+
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Voice in a larger window
+style: default
+id: pop-voice
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: voice
+      label: Voice
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Goals in a larger window
+style: default
+id: pop-goals
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: goals
+      label: Goals
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Personality in a larger window
+style: default
+id: pop-personality
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: personality
+      label: Personality
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Ideal in a larger window
+style: default
+id: pop-ideal
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: ideal
+      label: Ideal
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Bond in a larger window
+style: default
+id: pop-bond
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: bond
+      label: Bond
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Flaw in a larger window
+style: default
+id: pop-flaw
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: flaw
+      label: Flaw
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Likes in a larger window
+style: default
+id: pop-likes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: likes
+      label: Likes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Dislikes in a larger window
+style: default
+id: pop-dislikes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: dislikes
+      label: Dislikes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Description in a larger window
+style: default
+id: pop-description
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: description
+      label: Description
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit History in a larger window
+style: default
+id: pop-history
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: history
+      label: History
+```
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: runTemplaterFile
+    templateFile: "z_Templates/Templater/Functional/Add Relationship.md"
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: runTemplaterFile
+    templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
+```
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Summary in a larger window
+style: default
+id: pop-summary
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: summary
+      label: Summary
+```
+
+## Source
 *Source: Curse of Strahd p. 228*
 
 Two women gave life to Strahd von Zarovich. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named Baba Lysaga. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
@@ -118,174 +469,13 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 - **Bond.** "I am the mother of Strahd. Anyone who disputes this fact can rot."  
 - **Flaw.** "I will not rest until the last of my son's enemies are destroyed."  
 
-> [!column|no-t flex]
->> [!metadata|text-Center] Description
->> `INPUT[textArea:description]`
->
->> [!metadata|text-Center] History
->> `INPUT[textArea:history]`
-
-## Traits/Goals
-> [!column|no-t flex]
->> [!metadata|text-Center bg-c-yellow] Personality
->> `INPUT[textArea:personality]`
->
->> [!metadata|text-Center bg-c-pink] Ideal
->> `INPUT[textArea:ideal]`
->
->> [!metadata|text-Center bg-c-brown] Bond
->> `INPUT[textArea:bond]`
->
->> [!metadata|text-Center bg-c-orange] Flaw
->> `INPUT[textArea:flaw]`
->
->> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[textArea:likes]`
->
->> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[textArea:dislikes]`
->
->> [!metadata|text-Center] Goals
->> `INPUT[textArea:goals]`
-
-## Player-Facing
-> [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:summary]`
-
-## Secrets
-`INPUT[textArea:secrets]`
-
-## Relationships
-`BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button
-style: primary
-label: Add Relationship
-id: add-relationship
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
 hidden: true
 actions:
-  - type: runTemplaterFile
-    templateFile: "z_Templates/Templater/Functional/Add Relationship.md"
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
 ```
-```meta-bind-button
-style: destructive
-label: Remove Relationship
-id: remove-relationship
-hidden: true
-actions:
-  - type: runTemplaterFile
-    templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
-```
-> [!div | no-t clean txt-c]
-> `$=await dv.view("views/npcRelationships", { current: dv.current() })`
-
-## Quests
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-  const columns = [
-    {
-      id: 'Quest',
-      value: (row) => row.$link
-    },
-    {
-      id: 'Description',
-      value: (row) => row.$frontmatter.description.raw || ''
-    },
-    {
-      id: 'Involvement',
-      value: (row) => row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)).description || ''
-    }
-  ]
-  
-  return <dc.Table rows={quests} columns={columns}/>
-}
-```
-
-## Stats
-```statblock
-"name": "Baba Lysaga (COS)"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "human, shapechanger"
-"alignment": "Chaotic Evil"
-"ac": !!int "15"
-"ac_class": "natural armor"
-"hp": !!int "120"
-"hit_dice": "16d8 + 48"
-"modifier": !!int "0"
-"stats":
-  - !!int "18"
-  - !!int "10"
-  - !!int "16"
-  - !!int "20"
-  - !!int "17"
-  - !!int "13"
-"speed": "30 ft."
-"saves":
-  - "wisdom": !!int "7"
-"skillsaves":
-  - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
-    "desc": "+13"
-  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
-    "desc": "+13"
-"gear":
-  - "[[/5. Mechanics/Items/Quarterstaff.md|quarterstaff]]"
-"senses": "passive Perception 13"
-"languages": "Abyssal, Common, Draconic, Dwarvish, Giant"
-"cr": "11"
-"traits":
-  - "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is\
-      \ Intelligence (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga\
-      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Acid Splash.md|acid\
-      \ splash]], [[/5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
-      \ [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**1st level\
-      \ (4 slots):** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Magic Missile.md|magic missile]],\
-      \ [[/5. Mechanics/Spells/Sleep.md|sleep]], [[/5. Mechanics/Spells/Witch Bolt.md|witch bolt]]\n\
-      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Crown Of Madness.md|crown of madness]],\
-      \ [[/5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]], [[/5. Mechanics/Spells/Misty Step.md|misty step]]\n\
-      \n**3rd level (3 slots):** [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-      \ [[/5. Mechanics/Spells/Fireball.md|fireball]], [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]\n\
-      \n**4th level (3 slots):** [[/5. Mechanics/Spells/Blight.md|blight]], [[/5. Mechanics/Spells/Evards Black Tentacles.md|Evard's\
-      \ black tentacles]], [[/5. Mechanics/Spells/Polymorph.md|polymorph]]\n\
-      \n**5th level (2 slots):** [[/5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[/5. Mechanics/Spells/Geas.md|geas]],\
-      \ [[/5. Mechanics/Spells/Scrying.md|scrying]]\n\n**6th level (1 slots):** [[/5. Mechanics/Spells/Programmed Illusion.md|programmed\
-      \ illusion]], [[/5. Mechanics/Spells/True Seeing.md|true seeing]]\n\
-      \n**7th level (1 slots):** [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
-      \ [[/5. Mechanics/Spells/Mirage Arcane.md|mirage arcane]]\n\n**8th level (1 slots):**\
-      \ [[/5. Mechanics/Spells/Power Word Stun.md|power word stun]]"
-    "name": "Spellcasting"
-  - "desc": "Baba Lysaga can use an action to polymorph into a [[/5. Mechanics/Bestiary/Beast/Swarm Of Insects.md|swarm of insects]]\
-      \ (flies), or back into her true form. While in swarm form, she has a walking\
-      \ speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms\
-      \ with her, but nothing she is carrying does."
-    "name": "Shapechanger"
-  - "desc": "Baba Lysaga is shielded against divination magic, as though protected\
-      \ by a [[/5. Mechanics/Spells/Nondetection.md|nondetection]] spell."
-    "name": "Blessing of Mother Night"
-"actions":
-  - "desc": "Baba Lysaga makes three attacks with her quarterstaff."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if wielded with\
-      \ two hands."
-    "name": "Quarterstaff"
-  - "desc": "Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in\
-      \ an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It\
-      \ remains until it dies or until Baba Lysaga dismisses it as an action."
-    "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
-"source":
-  - "CoS"
-"image": "/4. World Almanac/NPCs/token/baba-lysaga-cos.webp"
-```
-^statblock
-
-## DM Notes
-### Plot Hooks
-
-
-### Hidden Details
-
-
-### General Notes

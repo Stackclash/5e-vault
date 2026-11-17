@@ -56,8 +56,6 @@ history: >-
   Barovia's mists along with the vampire he despises.
 ---
 > [!infobox]
-> # `=this.file.name`
-> **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('views/imageCarousel', {current: dv.current()})
 > ```
@@ -67,22 +65,378 @@ history: >-
 > ###### Bio
 >  |
 >  ---|---|
-> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
-> **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
-> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
+> **Race** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'race'})` |
+> **Gender** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'gender'})` |
+> **Age** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'age'})` |
+> **Alignment** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'alignment'})` |
 > ###### Info
 >  |
 >  ---|---|
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
-> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
+> **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
-> **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
-# **`=this.file.name`**
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
+
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
+> ```
+>
+> > [!tab|no-t] At the Table
+> > **Appearance** `INPUT[text:appearance]`
+> >
+> > **Voice** `BUTTON[pop-voice]`
+> > `INPUT[textArea:voice]`
+> >
+> > **Goals** `BUTTON[pop-goals]`
+> > `INPUT[textArea:goals]`
+> >
+> > **Personality** `BUTTON[pop-personality]`
+> > `INPUT[textArea:personality]`
+> >
+> > **Ideal** `BUTTON[pop-ideal]`
+> > `INPUT[textArea:ideal]`
+> >
+> > **Bond** `BUTTON[pop-bond]`
+> > `INPUT[textArea:bond]`
+> >
+> > **Flaw** `BUTTON[pop-flaw]`
+> > `INPUT[textArea:flaw]`
+> >
+> > **Likes** `BUTTON[pop-likes]`
+> > `INPUT[textArea:likes]`
+> >
+> > **Dislikes** `BUTTON[pop-dislikes]`
+> > `INPUT[textArea:dislikes]`
+>
+> > [!tab|no-t] Lore
+> > **Description** `BUTTON[pop-description]`
+> > `INPUT[textArea:description]`
+> >
+> > **History** `BUTTON[pop-history]`
+> > `INPUT[textArea:history]`
+>
+> > [!player] Player-Facing
+> > **Revealed to the party** `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['revealed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})`
+> >
+> > **Public name** `$=await dv.view('utils/metaBindInput', {type: 'text', field: ['public_name', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (optional: shown instead of the note name)
+> >
+> > **Also show** `$=await dv.view('utils/metaBindInput', {type: 'inlineList', field: ['reveal', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (extra fields the site may show, e.g. images, occupation)
+> >
+> > **Summary** `BUTTON[pop-summary]`
+> > `INPUT[textArea:summary]`
+> >
+> > **Facts**
+> > ```datacorejsx
+> > const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
+> > return function View() { return <FactsTable /> }
+> > ```
+>
+> > [!tab|no-t] Connections
+> > `BUTTON[add-relationship]` `BUTTON[remove-relationship]`
+> >
+> > ```dataviewjs
+> > await dv.view("views/npcRelationships", { current: dv.current() })
+> > ```
+> >
+> > **Quests**
+> > ```dataview
+> > LIST FROM #quest WHERE contains(npcs.name, this.file.link)
+> > ```
+> >
+> > **Sessions**
+> > ```dataview
+> > LIST FROM #session-journal WHERE contains(npcs, this.file.link) SORT session_number ASC
+> > ```
+>
+> > [!tab|no-t] Stats
+> > ```statblock
+> > "name": "Vladimir Horngaard (COS)"
+> > "size": "Medium"
+> > "type": "undead"
+> > "alignment": "Lawful Evil"
+> > "ac": !!int "17"
+> > "ac_class": "[[/5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
+> > "hp": !!int "192"
+> > "hit_dice": "16d8 + 64"
+> > "modifier": !!int "2"
+> > "stats":
+> >   - !!int "18"
+> >   - !!int "14"
+> >   - !!int "18"
+> >   - !!int "13"
+> >   - !!int "16"
+> >   - !!int "18"
+> > "speed": "30 ft."
+> > "saves":
+> >   - "strength": !!int "7"
+> >   - "constitution": !!int "7"
+> >   - "wisdom": !!int "6"
+> >   - "charisma": !!int "7"
+> > "damage_resistances": "necrotic, psychic"
+> > "damage_immunities": "poison"
+> > "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
+> >   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
+> >   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
+> > "gear":
+> >   - "[[/5. Mechanics/Items/2 Weapon.md|+2 greatsword]]"
+> > "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+> >   \ 13"
+> > "languages": "Common, Draconic"
+> > "cr": "7"
+> > "traits":
+> >   - "desc": "Vladimir regains 10 hit points at the start of his turn. If he takes\
+> >       \ fire or radiant damage, this trait doesn't function at the start of his next\
+> >       \ turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points\
+> >       \ and doesn't regenerate."
+> >     "name": "Regeneration"
+> >   - "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours,\
+> >       \ the soul inhabits and animates another corpse on the same plane of existence\
+> >       \ and regains all its hit points. While the soul is bodiless, a [[/5. Mechanics/Spells/Wish.md|wish]]\
+> >       \ spell can be used to force the soul to go to the afterlife and not return."
+> >     "name": "Rejuvenation"
+> >   - "desc": "Vladimir wields a [[/5. Mechanics/Items/2 Weapon.md|+2 greatsword]] with\
+> >       \ a hilt sculpted to resemble silver dragon wings and a pommel shaped like a\
+> >       \ silver dragon's head clutching a black opal between its teeth. "
+> >     "name": "Special Equipment"
+> >   - "desc": "Vladimir is immune to effects that turn undead."
+> >     "name": "Turn Immunity"
+> >   - "desc": "Vladimir knows the distance to and direction of Strahd, even if Strahd\
+> >       \ and Vladimir are on different planes of existence. If Strahd is destroyed,\
+> >       \ Vladimir knows."
+> >     "name": "Vengeful Tracker"
+> > "actions":
+> >   - "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword."
+> >     "name": "Multiattack"
+> >   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
+> >       \ (2d6 + 4) bludgeoning damage. Strahd, the target of Vladimir's sworn vengeance,\
+> >       \ takes an extra 14 (4d6) bludgeoning damage. Instead of dealing damage, Vladimir\
+> >       \ can grapple the target (escape DC 14) provided the target is Large or smaller."
+> >     "name": "Fist"
+> >   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 20\
+> >       \ (4d6 + 6) slashing damage. Against Strahd, Vladimir deals an extra 14 (4d6)\
+> >       \ slashing damage with this weapon."
+> >     "name": "Greatsword +2"
+> >   - "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd.\
+> >       \ Strahd must make a DC 15 Wisdom saving throw. On a failure, Strahd is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
+> >       \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
+> >       \ When the paralysis ends, Strahd is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+> >       \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of\
+> >       \ each of his turns, with disadvantage if he can see Vladimir, ending the [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
+> >       \ condition on itself on a success."
+> >     "name": "Vengeful Glare"
+> > "source":
+> >   - "CoS"
+> > "image": "/4. World Almanac/NPCs/token/vladimir-horngaard-cos.webp"
+> > ```
+>
+> > [!dm] DM
+> > ```dataviewjs
+> > await dv.view("views/dmPanel", {current: dv.current()})
+> > ```
+> >
+> > `BUTTON[edit-dm-notes]`
+> > ## DM Notes
+> > ### Plot Hooks
+> >
+> >
+> > ### Hidden Details
+> >
+> >
+> > ### General Notes
+
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Voice in a larger window
+style: default
+id: pop-voice
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: voice
+      label: Voice
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Goals in a larger window
+style: default
+id: pop-goals
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: goals
+      label: Goals
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Personality in a larger window
+style: default
+id: pop-personality
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: personality
+      label: Personality
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Ideal in a larger window
+style: default
+id: pop-ideal
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: ideal
+      label: Ideal
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Bond in a larger window
+style: default
+id: pop-bond
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: bond
+      label: Bond
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Flaw in a larger window
+style: default
+id: pop-flaw
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: flaw
+      label: Flaw
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Likes in a larger window
+style: default
+id: pop-likes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: likes
+      label: Likes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Dislikes in a larger window
+style: default
+id: pop-dislikes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: dislikes
+      label: Dislikes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Description in a larger window
+style: default
+id: pop-description
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: description
+      label: Description
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit History in a larger window
+style: default
+id: pop-history
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: history
+      label: History
+```
+```meta-bind-button
+style: primary
+label: Add Relationship
+id: add-relationship
+hidden: true
+actions:
+  - type: runTemplaterFile
+    templateFile: "z_Templates/Templater/Functional/Add Relationship.md"
+```
+```meta-bind-button
+style: destructive
+label: Remove Relationship
+id: remove-relationship
+hidden: true
+actions:
+  - type: runTemplaterFile
+    templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
+```
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Summary in a larger window
+style: default
+id: pop-summary
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: summary
+      label: Summary
+```
+
+## Source
 *Source: Curse of Strahd p. 241*
 
 Vladimir Horngaard joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a knight of the order, he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
@@ -134,177 +488,13 @@ A revenant doesn't require air, food, drink, or sleep.
 - **Bond.** "I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken though the order may be, my allegiance never dies."  
 - **Flaw.** "Destroying Strahd would end the vampire's torment, and that is something I will never allow."  
 
-> [!column|no-t flex]
->> [!metadata|text-Center] Description
->> `INPUT[textArea:description]`
->
->> [!metadata|text-Center] History
->> `INPUT[textArea:history]`
-
-## Traits/Goals
-> [!column|no-t flex]
->> [!metadata|text-Center bg-c-yellow] Personality
->> `INPUT[textArea:personality]`
->
->> [!metadata|text-Center bg-c-pink] Ideal
->> `INPUT[textArea:ideal]`
->
->> [!metadata|text-Center bg-c-brown] Bond
->> `INPUT[textArea:bond]`
->
->> [!metadata|text-Center bg-c-orange] Flaw
->> `INPUT[textArea:flaw]`
->
->> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[textArea:likes]`
->
->> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[textArea:dislikes]`
->
->> [!metadata|text-Center] Goals
->> `INPUT[textArea:goals]`
-
-## Player-Facing
-> [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:summary]`
-
-## Secrets
-`INPUT[textArea:secrets]`
-
-## Relationships
-`BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button
-style: primary
-label: Add Relationship
-id: add-relationship
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
 hidden: true
 actions:
-  - type: runTemplaterFile
-    templateFile: "z_Templates/Templater/Functional/Add Relationship.md"
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
 ```
-```meta-bind-button
-style: destructive
-label: Remove Relationship
-id: remove-relationship
-hidden: true
-actions:
-  - type: runTemplaterFile
-    templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
-```
-> [!div | no-t clean txt-c]
-> `$=await dv.view("views/npcRelationships", { current: dv.current() })`
-
-## Quests
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-  const columns = [
-    {
-      id: 'Quest',
-      value: (row) => row.$link
-    },
-    {
-      id: 'Description',
-      value: (row) => row.$frontmatter.description.raw || ''
-    },
-    {
-      id: 'Involvement',
-      value: (row) => row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)).description || ''
-    }
-  ]
-  
-  return <dc.Table rows={quests} columns={columns}/>
-}
-```
-
-## Stats
-```statblock
-"name": "Vladimir Horngaard (COS)"
-"size": "Medium"
-"type": "undead"
-"alignment": "Lawful Evil"
-"ac": !!int "17"
-"ac_class": "[[/5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
-"hp": !!int "192"
-"hit_dice": "16d8 + 64"
-"modifier": !!int "2"
-"stats":
-  - !!int "18"
-  - !!int "14"
-  - !!int "18"
-  - !!int "13"
-  - !!int "16"
-  - !!int "18"
-"speed": "30 ft."
-"saves":
-  - "strength": !!int "7"
-  - "constitution": !!int "7"
-  - "wisdom": !!int "6"
-  - "charisma": !!int "7"
-"damage_resistances": "necrotic, psychic"
-"damage_immunities": "poison"
-"condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
-  \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"gear":
-  - "[[/5. Mechanics/Items/2 Weapon.md|+2 greatsword]]"
-"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
-  \ 13"
-"languages": "Common, Draconic"
-"cr": "7"
-"traits":
-  - "desc": "Vladimir regains 10 hit points at the start of his turn. If he takes\
-      \ fire or radiant damage, this trait doesn't function at the start of his next\
-      \ turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points\
-      \ and doesn't regenerate."
-    "name": "Regeneration"
-  - "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours,\
-      \ the soul inhabits and animates another corpse on the same plane of existence\
-      \ and regains all its hit points. While the soul is bodiless, a [[/5. Mechanics/Spells/Wish.md|wish]]\
-      \ spell can be used to force the soul to go to the afterlife and not return."
-    "name": "Rejuvenation"
-  - "desc": "Vladimir wields a [[/5. Mechanics/Items/2 Weapon.md|+2 greatsword]] with\
-      \ a hilt sculpted to resemble silver dragon wings and a pommel shaped like a\
-      \ silver dragon's head clutching a black opal between its teeth. "
-    "name": "Special Equipment"
-  - "desc": "Vladimir is immune to effects that turn undead."
-    "name": "Turn Immunity"
-  - "desc": "Vladimir knows the distance to and direction of Strahd, even if Strahd\
-      \ and Vladimir are on different planes of existence. If Strahd is destroyed,\
-      \ Vladimir knows."
-    "name": "Vengeful Tracker"
-"actions":
-  - "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword."
-    "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) bludgeoning damage. Strahd, the target of Vladimir's sworn vengeance,\
-      \ takes an extra 14 (4d6) bludgeoning damage. Instead of dealing damage, Vladimir\
-      \ can grapple the target (escape DC 14) provided the target is Large or smaller."
-    "name": "Fist"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 20\
-      \ (4d6 + 6) slashing damage. Against Strahd, Vladimir deals an extra 14 (4d6)\
-      \ slashing damage with this weapon."
-    "name": "Greatsword +2"
-  - "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd.\
-      \ Strahd must make a DC 15 Wisdom saving throw. On a failure, Strahd is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
-      \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
-      \ When the paralysis ends, Strahd is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-      \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of\
-      \ each of his turns, with disadvantage if he can see Vladimir, ending the [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
-      \ condition on itself on a success."
-    "name": "Vengeful Glare"
-"source":
-  - "CoS"
-"image": "/4. World Almanac/NPCs/token/vladimir-horngaard-cos.webp"
-```
-^statblock
-
-## DM Notes
-### Plot Hooks
-
-
-### Hidden Details
-
-
-### General Notes

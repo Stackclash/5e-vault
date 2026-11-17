@@ -21,99 +21,150 @@ npcs:
 tags:
   - quest
 ---
-> [!infobox|n-th]
-> | | |
-> |---|---|
-> | **Completed:** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['completed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
-> | **Active** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['active', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
-# **`=this.file.name`**
+> [!infobox]
+> ```dataviewjs
+> await dv.view('views/imageCarousel', {current: dv.current()})
+> ```
+> ```meta-bind
+> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
+> ```
+> ###### Hook
+>  |
+>  ---|---|
+> **Kind** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'kind'})` |
+> **Arc** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'parent'})` |
+> **Giver** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'giver'})` |
+> **Reward** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'reward'})` |
 
-## Player Summary
-> [!div|no-t clean]
-> `INPUT[textArea:summary]`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
-## Description
-`INPUT[textArea:description]`
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(Steps), option(NPCs & Links), option(Description), option(Player-Facing), option(DM)):memory^tab]
+> ```
+>
+> > [!tab|no-t] Steps
+> > ```datacorejsx
+> > const { QuestSteps } = await dc.require("z_Scripts/Datacore/QuestSteps.tsx")
+> > return function View() { return <QuestSteps /> }
+> > ```
+>
+> > [!tab|no-t] NPCs & Links
+> > **Giver** `INPUT[suggester(optionQuery(#npc), optionQuery(#faction)):giver]`
+> >
+> > **Locations** `INPUT[inlineListSuggester(optionQuery(#location)):locations]`
+> >
+> > **Items** `INPUT[inlineListSuggester(optionQuery(#story-item), optionQuery("5. Mechanics/Items")):items]`
+> >
+> > **Factions** `INPUT[inlineListSuggester(optionQuery(#faction)):factions]`
+> >
+> > **PCs** `INPUT[inlineListSuggester(optionQuery(#player)):pcs]`
+> >
+> > **Sessions**
+> > ```dataview
+> > LIST FROM #session-journal WHERE contains(quests, this.file.link) SORT session_number ASC
+> > ```
+>
+> > [!tab|no-t] Description
+> > **Description** `BUTTON[pop-description]`
+> > `INPUT[textArea:description]`
+> >
+> > **Stakes** `BUTTON[pop-stakes]`
+> > `INPUT[textArea:stakes]`
+> >
+> > **Reward** `INPUT[text:reward]`
+> >
+> > **Deadline** `INPUT[text:deadline]`
+>
+> > [!player] Player-Facing
+> > **Revealed to the party** `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['revealed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})`
+> >
+> > **Public name** `$=await dv.view('utils/metaBindInput', {type: 'text', field: ['public_name', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (optional: shown instead of the note name)
+> >
+> > **Also show** `$=await dv.view('utils/metaBindInput', {type: 'inlineList', field: ['reveal', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (extra fields the site may show, e.g. images, occupation)
+> >
+> > **Summary** `BUTTON[pop-summary]`
+> > `INPUT[textArea:summary]`
+> >
+> > **Facts**
+> > ```datacorejsx
+> > const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
+> > return function View() { return <FactsTable /> }
+> > ```
+>
+> > [!dm] DM
+> > ```dataviewjs
+> > await dv.view("views/dmPanel", {current: dv.current()})
+> > ```
+> >
+> > `BUTTON[edit-dm-notes]`
+> > ## DM Notes
 
-## Quest Hooks
-- 
-
-## Related NPCs
 ```meta-bind-button
-label: Add NPC
-id: add-npc
-style: primary
+label: ""
+icon: maximize-2
+tooltip: Edit Description in a larger window
+style: default
+id: pop-description
+hidden: true
 actions:
   - type: js
-    file: z_Scripts/Meta Bind/addItem.js
+    file: z_Scripts/Meta Bind/popOutEditor.js
     args:
-      field: npcs
+      field: description
+      label: Description
 ```
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const columns = [
-    {
-      id: 'NPC',
-      width: '15%',
-      value: ({i}) => `\`INPUT[suggester(optionQuery(#npc)):npcs[${i}].name]\``
-    },
-    {
-      id: 'Description/Quest Hook',
-      value: ({i}) => `\`INPUT[textArea:npcs[${i}].description]\``
-    },
-    {
-      id: 'Delete',
-      width: 'minimum',
-      value: ({i}) => `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: npcs\n      index: ${i}\n\`\`\``
-    }
-  ]
-
-  return <dc.Table rows={currentPage.value('npcs').map((s,i) => ({...s, i}))} columns={columns}/>
-}
-```
-
-## Quest Steps
 ```meta-bind-button
-label: Add Step
-id: add-step
-style: primary
+label: ""
+icon: maximize-2
+tooltip: Edit Stakes in a larger window
+style: default
+id: pop-stakes
+hidden: true
 actions:
   - type: js
-    file: z_Scripts/Meta Bind/addItem.js
+    file: z_Scripts/Meta Bind/popOutEditor.js
     args:
-      field: steps
+      field: stakes
+      label: Stakes
 ```
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const columns = [
-    {
-      id: 'Complete',
-      width: 'minimum',
-      value: ({i}) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['steps', ${i}, 'completed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})\`` 
-    },
-    {
-      id: 'Description',
-      value: ({i}) => `\`INPUT[textArea:steps[${i}].text]\``
-    },
-    {
-      id: 'Move Up',
-      width: 'minimum',
-      value: ({i}) => `\`\`\`meta-bind-button\nicon: move-up\ntooltip: Move Up?\nid: move-up\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/moveUp.js\n    args:\n      field: steps\n      index: ${i}\n\`\`\``
-    },
-    {
-      id: 'Move Down',
-      width: 'minimum',
-      value: ({i}) => `\`\`\`meta-bind-button\nicon: move-down\ntooltip: Move Down\nid: move-down\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/moveDown.js\n    args:\n      field: steps\n      index: ${i}\n\`\`\``
-    },
-    {
-      id: 'Delete',
-      width: 'minimum',
-      value: ({i}) => `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: steps\n      index: ${i}\n\`\`\``
-    }
-  ]
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Summary in a larger window
+style: default
+id: pop-summary
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: summary
+      label: Summary
+```
 
-  return <dc.Table rows={currentPage.value('steps').map((s,i) => ({...s, i}))} columns={columns}/>
-}
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
 ```

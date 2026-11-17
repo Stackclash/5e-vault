@@ -74,7 +74,6 @@ source	type	target	learned_by	note
 1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-present	3. The Party/Players/Redgrave.md		
 1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-visited	4. World Almanac/Places of Interest/Ruins of Berez.md		
 1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-met	4. World Almanac/NPCs/Baba Lysaga (COS).md		
-1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	session-met	4. World Almanac/NPCs/Madam Eva (COS).md		
 1. DM Toolkit/Session Journals/The Hunt for Vecna/S18 Straight to the Tip.md	prep	1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-05-26.md		
 1. DM Toolkit/Session Journals/The Hunt for Vecna/S19 Temple of Darkness.md	session-present	3. The Party/Players/Marin.md		
 1. DM Toolkit/Session Journals/The Hunt for Vecna/S19 Temple of Darkness.md	session-visited	4. World Almanac/Places of Interest/The Amber Temple.md		
@@ -530,6 +529,22 @@ source	type	target	learned_by	note
 4. World Almanac/Shops/Bildrath's Mercantile.md	staff	4. World Almanac/NPCs/Parriwimple (COS).md		
 4. World Almanac/Shops/Blinsky Toys.md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/Shops/Blinsky Toys.md	owner	4. World Almanac/NPCs/Gadof Blinsky (COS).md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Mace.md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Chain Mail.md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Longbow.md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Bone Plate Armor (HHHVII).md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/War Pick.md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Plate Armor.md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Light Crossbow.md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Trident.md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Potion Of Healing.md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Wand Of Conducting (XGE).md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Ring Of Perching (GRIFFONSSADDLEBAG3).md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Chicken Tonic (GRIFFONSSADDLEBAG3).md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Wand Of Smiles (XGE).md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Jocatian Denier (GRIFFONSSADDLEBAG2).md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Ring Of Eight Eyes (GRIFFONSSADDLEBAG3).md		
+4. World Almanac/Shops/Blinsky Toys.md	stocks	5. Mechanics/Items/Bounty Hunter Enforcer (TGS1).md		
 4. World Almanac/Shops/Blood of the Vine Tavern.md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/Shops/Blue Water Inn.md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/Shops/Blue Water Inn.md	owner	4. World Almanac/NPCs/Urwin Martikov (COS).md		
