@@ -8,14 +8,8 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Map)
 > > await dv.view("views/locations", {current: dv.current()})
 > > ```
 > >
-> > **Factions**
-> > ```dataview
-> > LIST FROM #faction
-> > ```
-> >
-> > **Deities**
-> > ```dataview
-> > LIST FROM #story-deity
+> > ```dataviewjs
+> > await dv.view("views/worldMembers", {current: dv.current()})
 > > ```
 >
 <% tp.file.include("[[z_Templates/Partials/Player-Facing]]") %>

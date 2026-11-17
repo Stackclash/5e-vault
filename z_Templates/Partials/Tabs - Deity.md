@@ -3,6 +3,8 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Conn
 ```
 > [!tabbed-box]
 > > [!tab|no-t] Overview
+> > **Worlds** `INPUT[inlineListSuggester(optionQuery(#world)):worlds]`
+> >
 > > **Title** `INPUT[text:title]`
 > >
 > > **Symbol** `INPUT[text:symbol]`

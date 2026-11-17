@@ -28,7 +28,7 @@ Lore that is consistent, discoverable in play, and usable at the table.
 | Place | Origin, present state, who holds power, two or three live tensions, hooks, sensory anchors | `gist`, `location` (parent), `rulers`, `routes`, `secrets`, `facts` |
 | Faction | What it wants, how it gets it, what it controls, internal fault line, public face vs truth | `gist`, `kind`, `status`, `location`, `relationships` to other factions, `clock` if it has a timeline |
 | Story item | What it does, who made it, who wants it back | `gist`, `base_item`, `holder` or `location`, `secrets` |
-| Custom creature | What it is, who makes or commands it, how it behaves, what it leaves behind, its weakness | `gist`, `relationships` (maker, master), `facts`, `secrets`; stats via `statblock-creator` |
+| Custom creature | What it is, who makes or commands it, how it behaves, what it leaves behind, its weakness | `gist`, `relationships` (maker, master); lore and weakness under `## DM Notes` (no `facts`: creatures are never published); stats via `statblock-creator` |
 | Deity | Portfolio, how worship looks locally, what the faith wants here | `gist`, `domains`, `mechanics` link |
 
 Scale: one NPC gets full depth. A town gets 4–8 sketched NPCs, notable places, 2–3 tensions. A city adds districts and a power map. A region adds settlements, routes, and the regional conflict. A dungeon gets its history, its occupants as an ecology, and a layout with loops and more than one approach.

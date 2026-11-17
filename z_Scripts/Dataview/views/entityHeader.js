@@ -17,6 +17,8 @@ const TYPES = ["npc", "region", "settlement", "place-of-interest", "shop", "worl
 const LOCATION_TYPES = ["region", "settlement", "place-of-interest", "shop", "world"]
 const ENTITY_TYPES = ["npc", "region", "settlement", "place-of-interest", "shop", "faction", "story-item",
     "story-deity", "story-creature", "quest"]
+// Creatures are never published and PCs show whenever they are in the party, so neither gets a Revealed toggle.
+const REVEAL_TYPES = ENTITY_TYPES.filter(t => t !== "story-creature")
 const tags = (current.file.tags ?? []).map(t => t.replace(/^#/, ""))
 const type = TYPES.find(t => tags.includes(t))
 
@@ -73,7 +75,7 @@ function breadcrumb() {
 // Knowledge badge: a Revealed toggle for the active party (manual control; off writes false = held back)
 // plus the learned-facts count.
 function badge() {
-    if (!ENTITY_TYPES.includes(type) || !party) return ""
+    if (!REVEAL_TYPES.includes(type) || !party) return ""
     const revealed = current.revealed?.[party] === true
     const facts = Array.isArray(current.facts) ? current.facts : []
     const learned = facts.filter(f => f?.learned?.[party]).length

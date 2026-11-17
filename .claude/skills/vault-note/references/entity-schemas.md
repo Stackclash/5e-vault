@@ -1,6 +1,6 @@
 # Entity schemas
 
-**Common block** (every type below, creature notes included): `gist`, `summary`, `revealed`, `reveal`, `public_name` (optional), `facts`, `relationships`, `aliases`, `images`, `tags`. See `knowledge-model.md` and `relationships.md`. There is no `secrets` field (dropped 2026-11-16): anything the party could learn is a fact; other DM-only prose goes under `## DM Notes`.
+**Common block** (every type below): `gist`, `summary`, `revealed`, `reveal`, `public_name` (optional), `facts`, `relationships`, `aliases`, `images`, `tags`. See `knowledge-model.md` and `relationships.md`. There is no `secrets` field (dropped 2026-11-16): anything the party could learn is a fact; other DM-only prose goes under `## DM Notes`. Creature notes omit `summary`, `revealed`, `reveal`, `public_name`, and `facts`, and have no Player-Facing tab: creatures are never published (DM, 2026-11-17).
 
 Body scaffold: copy from the matching template in `z_Templates/Templater/World Building/`. DM-only prose goes under `## DM Notes` (`### Plot Hooks`, `### Hidden Details`, `### General Notes`); a DM aside elsewhere uses a `> [!dm]` callout.
 
@@ -92,7 +92,8 @@ The fields are `type` and `size` (that is what the inventory scripts read), not 
 ```yaml
 kind: cult                    # guild | cult | order | house | court | family | company | other
 status: active                # active | broken | dormant | destroyed
-location: "[[base|…]]"       # optional
+location: "[[base|…]]"       # optional: headquarters
+bases: []                     # other bases: location links (DM, 2026-11-17). The faction belongs to every world its HQ or a base sits in.
 goals: ""
 resources: ""
 clock: []                     # optional: [{step: "", done: false}] for a faction's own timeline
@@ -129,13 +130,14 @@ type: construct
 environments: []
 ```
 
-For a *kind* of creature, not an individual: no `location`, `condition`, `party_relationships`, or personality fields. Its makers and users are `relationships` edges (e.g. `serves` → a faction). The stat block goes in a `statblock` block under `## Stats` with a `^statblock` anchor, and `name` equal to the note name, so encounter blocks can link `[[Note Name]]`. Add `monster/cr/…`, `monster/size/…`, `monster/type/…` facet tags; never the bare `monster` tag. Lore and tactics go in the body under `## DM Notes`; what the party can learn about it goes in `facts`.
+For a *kind* of creature, not an individual: no `location`, `condition`, `party_relationships`, or personality fields. Its makers and users are `relationships` edges (e.g. `serves` → a faction). The stat block goes in a `statblock` block under `## Stats` with a `^statblock` anchor, and `name` equal to the note name, so encounter blocks can link `[[Note Name]]`. Add `monster/cr/…`, `monster/size/…`, `monster/type/…` facet tags; never the bare `monster` tag. Lore and tactics go in the body under `## DM Notes`.
 
 A specific named member of the kind (a boss, a survivor) is an NPC note that links the creature note in its `description`.
 
 ## Deity — `4. World Almanac/Deities/` — `story-deity`
 
 ```yaml
+worlds: []                    # world links where the deity is known; it is listed only on those worlds (DM, 2026-11-17)
 mechanics: "[[5. Mechanics/Deities/….md|…]]"   # optional
 title: ""
 symbol: ""

@@ -181,7 +181,7 @@ breadcrumb (world › region › settlement › place)
 | Type | Body | Panels (first = default) | Infobox |
 |---|---|---|---|
 | NPC | tabs | At the Table (voice, appearance, goals, personality/ideal/bond/flaw, likes/dislikes) · Lore (description, history) · Player-Facing · Connections (relationships, quests, sessions) · Secrets · Stats | Bio · Info · Knowledge |
-| Region / Settlement / Place of Interest | tabs | At the Table (atmosphere, hazards, services, rumor roll, routes) · What's Here (child locations, NPCs, shops, factions, visits) · Player-Facing · Map · DM Notes | Overview · Politics · Trade (`wealth` on settlements) · Today (weather) |
+| Region / Settlement / Place of Interest | tabs | At the Table (atmosphere, hazards, services, rumor roll, routes) · What’s Here (child locations, NPCs, shops, factions, visits) · Player-Facing · Map · DM Notes | Overview · Politics · Trade (`wealth` on settlements) · Today (weather) |
 | Shop | tabs | Inventory (buy and sell columns, Generate, Add, pins, haggle) · At the Table (owners, staff, atmosphere) · Player-Facing · DM Notes | People · Pricing · Generator |
 | World | tabs | Overview (regions, party whereabouts, factions, deities: all derived) · Regions · Factions & Faiths · Player-Facing · Map · DM Notes (lore) | Settings (calendar, `economic_scale`, default climate) · Campaigns here |
 | Faction | tabs | At the Table (goals, standing) · Members (derived) · Clock · Player-Facing · Secrets | Overview · Ties · Knowledge |

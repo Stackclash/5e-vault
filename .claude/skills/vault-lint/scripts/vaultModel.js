@@ -12,7 +12,8 @@ const SCAN_DIRS = ['1. DM Toolkit/Campaigns', '1. DM Toolkit/Session Journals', 
 const FLAT_LINK_FIELDS = { // field -> edge type
   location: 'location', owners: 'owner', staff: 'staff', rulers: 'ruler', holder: 'holder',
   giver: 'quest-giver', locations: 'quest-location', items: 'quest-item', factions: 'quest-faction',
-  pcs: 'quest-pc', parent: 'parent', party: 'party', world: 'world', base_item: 'base-item', mechanics: 'mechanics',
+  pcs: 'quest-pc', parent: 'parent', party: 'party', world: 'world', worlds: 'world', bases: 'base',
+  base_item: 'base-item', mechanics: 'mechanics',
 }
 const LEDGER = { party_present: 'present', locations: 'visited', npcs: 'met', quests: 'touched', items: 'found', factions: 'encountered' }
 

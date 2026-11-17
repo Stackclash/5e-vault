@@ -33,10 +33,6 @@ environments: []
 description: ""
 images: []
 gist: <% JSON.stringify(data.gist ?? "") %>
-summary: ""
-revealed: {}
-reveal: {}
-facts: []
 relationships: []
 aliases: []
 tags:

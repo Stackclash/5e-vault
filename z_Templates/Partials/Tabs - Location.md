@@ -1,5 +1,5 @@
 ```meta-bind
-INPUT[select(class(tabbed), option(At the Table), option(What's Here), option(Player-Facing), option(Map), option(DM)):memory^tab]
+INPUT[select(class(tabbed), option(At the Table), option(What’s Here), option(Player-Facing), option(Map), option(DM)):memory^tab]
 ```
 > [!tabbed-box]
 > > [!tab|no-t] At the Table
@@ -17,7 +17,7 @@ INPUT[select(class(tabbed), option(At the Table), option(What's Here), option(Pl
 > > ```
 > > `BUTTON[addtravel]` `BUTTON[removetravel]`
 >
-> > [!tab|no-t] What's Here
+> > [!tab|no-t] What’s Here
 > > ```dataviewjs
 > > await dv.view("views/locations", {current: dv.current()})
 > > ```
@@ -28,7 +28,7 @@ INPUT[select(class(tabbed), option(At the Table), option(What's Here), option(Pl
 > >
 > > **Factions based here**
 > > ```dataview
-> > LIST FROM #faction WHERE location = this.file.link
+> > LIST FROM #faction WHERE location = this.file.link OR contains(bases, this.file.link)
 > > ```
 > >
 > > **Visits**

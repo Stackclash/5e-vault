@@ -28,6 +28,8 @@ function panel(title, lines, { type = 'tab' } = {}) {
   return [head, ...lines.map(l => (l === '' ? '> >' : P + l))]
 }
 const INCLUDE_PLAYER = '<% tp.file.include("[[z_Templates/Partials/Player-Facing]]") %>'
+// PCs (shown whenever in the party) get no reveal controls; the PC template includes this directly.
+const INCLUDE_PLAYER_NO_REVEAL = '<% tp.file.include("[[z_Templates/Partials/Player-Facing - No Reveal]]") %>'
 
 function tabBox(panels) {
   const names = panels.map(p => p.name)
@@ -93,9 +95,9 @@ const PARTIALS = {
   ],
   'Tabs - Location': () => [
     { name: 'At the Table', lines: [...textArea('atmosphere', 'Atmosphere'), ...textArea('hazards', 'Hazards'), ...text('climate', 'Climate'), ...locationRoutes()] },
-    { name: "What's Here", lines: [...block(['```dataviewjs', 'await dv.view("views/locations", {current: dv.current()})', '```']), '',
+    { name: "What’s Here", lines: [...block(['```dataviewjs', 'await dv.view("views/locations", {current: dv.current()})', '```']), '',
       ...block(['```dataviewjs', 'await dv.view("views/npcsInLocation", {current: dv.current()})', '```']), '',
-      derived('Factions based here'), ...block(['```dataview', 'LIST FROM #faction WHERE location = this.file.link', '```']), '',
+      derived('Factions based here'), ...block(['```dataview', 'LIST FROM #faction WHERE location = this.file.link OR contains(bases, this.file.link)', '```']), '',
       derived('Visits'), ...sessionsWith('locations')] },
     player,
     { name: 'Map', lines: block(['```leaflet', 'id: <% tp.file.title.replace(/[^A-Za-z0-9]/g, "") %>', 'image: [[z_Assets/PlaceholderImage.png]]',
@@ -118,8 +120,7 @@ const PARTIALS = {
   ],
   'Tabs - World': () => [
     { name: 'Overview', lines: [derived('Regions'), ...block(['```dataviewjs', 'await dv.view("views/locations", {current: dv.current()})', '```']), '',
-      derived('Factions'), ...block(['```dataview', 'LIST FROM #faction', '```']), '',
-      derived('Deities'), ...block(['```dataview', 'LIST FROM #story-deity', '```'])] },
+      ...block(['```dataviewjs', 'await dv.view("views/worldMembers", {current: dv.current()})', '```'])] },
     player,
     { name: 'Map', lines: block(['```leaflet', 'id: <% tp.file.title.replace(/[^A-Za-z0-9]/g, "") %>', 'image: [[z_Assets/PlaceholderImage.png]]',
       'bounds: [[0,0], [1815.07, 2805.48]]', 'height: 900px', 'width: 95%', 'lat: 907.53', 'long: 1402.74', 'minZoom: -1.5', 'maxZoom: 1.5',
@@ -144,7 +145,8 @@ const PARTIALS = {
     dm(textArea('curse', 'Curse')),
   ],
   'Tabs - Deity': () => [
-    { name: 'Overview', lines: [...text('title', 'Title'), ...text('symbol', 'Symbol'), ...text('alignment', 'Alignment'),
+    { name: 'Overview', lines: [`**Worlds** \`INPUT[inlineListSuggester(optionQuery(#world)):worlds]\``, '',
+      ...text('title', 'Title'), ...text('symbol', 'Symbol'), ...text('alignment', 'Alignment'),
       `**Domains** \`INPUT[inlineList:domains]\``, '', `**Mechanics** \`INPUT[suggester(optionQuery("5. Mechanics/Deities")):mechanics]\``] },
     player,
     { name: 'Connections', lines: inbound(['worships', 'cleric-of'], 'Worshippers') },
@@ -154,7 +156,6 @@ const PARTIALS = {
     { name: 'Overview', lines: [`**Base creature** \`INPUT[suggester(optionQuery("5. Mechanics/Bestiary")):base_creature]\``, '',
       `**CR** \`INPUT[text:cr]\` **Size** \`INPUT[text:size]\` **Type** \`INPUT[text:type]\``, '',
       `**Environments** \`INPUT[inlineList:environments]\``, '', ...textArea('description', 'Description')] },
-    player,
     { name: 'Connections', lines: [...relationshipButtons(), derived('Named individuals'),
       ...block(['```dataview', 'LIST FROM #npc WHERE contains(file.outlinks, this.file.link)', '```'])] },
     stats(),
@@ -178,14 +179,15 @@ const PARTIALS = {
 
 // Party-keyed controls go through utils/metaBindInput so the key is the active party's name.
 const partyInput = (type, field, extra = '') => `\`$=await dv.view('utils/metaBindInput', {type: '${type}', field: ['${field}', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]${extra}})\``
-const PLAYER_FACING = [
-  '> > [!player] Player-Facing',
+const REVEAL_CONTROLS = [
   `> > **Revealed to the party** ${partyInput('toggle', 'revealed')}`,
   '> >',
   `> > **Public name** ${partyInput('text', 'public_name')} (optional: shown instead of the note name)`,
   '> >',
   `> > **Also show** ${partyInput('inlineList', 'reveal')} (extra fields the site may show, e.g. images, occupation)`,
   '> >',
+]
+const SUMMARY_AND_FACTS = [
   `> > **Summary** ${'`BUTTON[pop-summary]`'}`,
   '> > `INPUT[textArea:summary]`',
   '> >',
@@ -194,16 +196,19 @@ const PLAYER_FACING = [
   '> > const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")',
   '> > return function View() { return <FactsTable /> }',
   '> > ```',
-].join('\n')  // no trailing newline: the include sits inside the tab box
+]
+// no trailing newline: the include sits inside the tab box
+const PLAYER_FACING = ['> > [!player] Player-Facing', ...REVEAL_CONTROLS, ...SUMMARY_AND_FACTS].join('\n')
+const PLAYER_FACING_NO_REVEAL = ['> > [!player] Player-Facing', ...SUMMARY_AND_FACTS].join('\n')
 const PLAYER_FACING_BUTTON = ['```meta-bind-button', 'label: ""', 'icon: maximize-2', 'tooltip: Edit Summary in a larger window', 'style: default',
   'id: pop-summary', 'hidden: true', 'actions:', '  - type: js', '    file: z_Scripts/Meta Bind/popOutEditor.js', '    args:', '      field: summary',
   '      label: Summary', '```'].join('\n')
 
-const outputs = { 'Player-Facing': PLAYER_FACING }
+const outputs = { 'Player-Facing': PLAYER_FACING, 'Player-Facing - No Reveal': PLAYER_FACING_NO_REVEAL }
 for (const [name, build] of Object.entries(PARTIALS)) {
   buttons.clear()
   let content = file(name, build())
-  if (content.includes(INCLUDE_PLAYER)) content = content.trimEnd() + (buttons.size ? '\n' : '\n\n') + PLAYER_FACING_BUTTON + '\n'
+  if (content.includes(INCLUDE_PLAYER) || content.includes(INCLUDE_PLAYER_NO_REVEAL)) content = content.trimEnd() + (buttons.size ? '\n' : '\n\n') + PLAYER_FACING_BUTTON + '\n'
   outputs[name] = content
 }
 for (const [name, content] of Object.entries(outputs)) {

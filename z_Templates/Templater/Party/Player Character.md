@@ -367,7 +367,7 @@ INPUT[select(class(tabbed), option(Sheet), option(Skills), option(Features), opt
 > > ## Additional Notes From Players
 > > `$=dv.current().background.notes`
 >
-<% tp.file.include("[[z_Templates/Partials/Player-Facing]]") %>
+<% tp.file.include("[[z_Templates/Partials/Player-Facing - No Reveal]]") %>
 >
 > > [!dm] DM
 > > `BUTTON[edit-dm-notes]`

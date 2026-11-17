@@ -11,7 +11,7 @@ try {
     fields: [
       fields.name("Faction Name", "Name of Faction"),
       fields.text("gist", "Gist", "One line: who or what this is and why it matters"),
-      fields.tagSelect(dataview, "location", "Base", '#location', "Where the faction is based (optional)", false)
+      fields.tagSelect(dataview, "location", "Base", '#location', "Headquarters (optional); add other bases in the note", false)
     ],
     version: "2"
   })
@@ -28,6 +28,7 @@ obsidianUIMode: preview
 kind: ""
 status: active
 location: <% JSON.stringify(data.location ?? "") %>
+bases: []
 images: []
 gist: <% JSON.stringify(data.gist ?? "") %>
 summary: ""
@@ -58,6 +59,7 @@ tags:
 >  ---|---|
 > **Kind** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'kind'})` |
 > **Base** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
+> **Other bases** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'bases'})` |
 > **Renown** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'renown'})` |
 
 ```dataviewjs

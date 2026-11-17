@@ -10,10 +10,13 @@ try {
     title: "Deity Setup",
     fields: [
       fields.name("Deity Name", "Name of Deity"),
-      fields.text("gist", "Gist", "One line: who or what this is and why it matters")
+      fields.text("gist", "Gist", "One line: who or what this is and why it matters"),
+      fields.tagMultiSelect(dataview, "worlds", "Worlds", '#world', "Worlds where this deity is known", false)
     ],
     version: "2"
   })
+  const worldNames = data.worlds ?? []
+  data.worlds = dataview.pages('#world').where(p => worldNames.includes(p.file.name)).map(p => p.file.link.toString()).array()
   await init.moveFile(tp, config.locations.deities, data.name)
 } catch (e) {
   templateError = e.message
@@ -24,6 +27,7 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
+worlds: <% JSON.stringify(data.worlds ?? []) %>
 mechanics: ""
 title: ""
 symbol: ""

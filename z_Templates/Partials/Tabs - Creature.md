@@ -1,5 +1,5 @@
 ```meta-bind
-INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
+INPUT[select(class(tabbed), option(Overview), option(Connections), option(Stats), option(DM)):memory^tab]
 ```
 > [!tabbed-box]
 > > [!tab|no-t] Overview
@@ -11,8 +11,6 @@ INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Conn
 > >
 > > **Description** `BUTTON[pop-description]`
 > > `INPUT[textArea:description]`
->
-<% tp.file.include("[[z_Templates/Partials/Player-Facing]]") %>
 >
 > > [!tab|no-t] Connections
 > > `BUTTON[add-relationship]` `BUTTON[remove-relationship]`
@@ -79,18 +77,4 @@ actions:
     args:
       heading: DM Notes
       prefix: "> > "
-```
-```meta-bind-button
-label: ""
-icon: maximize-2
-tooltip: Edit Summary in a larger window
-style: default
-id: pop-summary
-hidden: true
-actions:
-  - type: js
-    file: z_Scripts/Meta Bind/popOutEditor.js
-    args:
-      field: summary
-      label: Summary
 ```
