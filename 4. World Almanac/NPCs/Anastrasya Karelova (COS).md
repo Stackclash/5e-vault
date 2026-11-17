@@ -21,7 +21,10 @@ gist: ""
 summary: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: Anastrasya survived Strahd's wedding-night battle and fled, and Vecna's forces are courting her.
+    learned: {}
+    locked: true
 pronounced: ah-nah-STRAH-sya ka-REL-o-va
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

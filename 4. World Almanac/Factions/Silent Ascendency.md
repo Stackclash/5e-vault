@@ -9,7 +9,13 @@ gist: ""
 summary: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: The Silent Ascendency buys stolen magic items, and targets the party's own magical power, to drain them into soul-vessels built from stolen fragments of Eludrax's soul-craft and feed the energy to Vecna's ascension.
+    learned: {}
+    locked: true
+  - text: Eludrax's soul-craft is the same craft that fed the original seal binding Vecna and produced Redgrave's bound soul.
+    learned: {}
+    locked: true
 goals: ""
 resources: ""
 symbol: ""

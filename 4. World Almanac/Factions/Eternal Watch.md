@@ -9,7 +9,10 @@ gist: ""
 summary: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: Wisp's master is a member of the Eternal Watch, and fell into a coma the instant Vecna's escape broke the ward he maintained.
+    learned: {}
+    locked: true
 goals: ""
 resources: ""
 symbol: ""

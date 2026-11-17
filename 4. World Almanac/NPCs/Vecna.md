@@ -15,7 +15,20 @@ gist: ""
 summary: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: Vecna's end goal is to become the God of Truth and dominate reality.
+    learned: {}
+    locked: true
+  - text: Redgrave's killing blow on Strahd drew out Strahd's soul, and that was the final piece that freed Vecna from the Amber Temple.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S33 The Fall of Strahd.md|S33 The Fall of Strahd]]"
+    locked: true
+  - text: "Vecna's ascension takes two rituals: the World-Truth Working creates a vacant Truth-domain and stakes his claim to it through a built-in exception, and the Ascension Rite executes that claim."
+    learned: {}
+    locked: true
+  - text: Vecna's claim on the Truth-domain is dishonestly won, so a genuinely total, unhedged claimant could override it at the Rite.
+    learned: {}
+    locked: true
 race: ""
 gender: ""
 age: ""

@@ -429,7 +429,11 @@ condition: healthy
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 gist: ""
 summary: ""
-facts: []
+facts:
+  - text: Yevelda's parents died defending Barovia.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S29 Yester Hill Ritual.md|S29 Yester Hill Ritual]]"
+    locked: true
 tagline: ""
 tags:
   - player

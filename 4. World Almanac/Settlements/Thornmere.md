@@ -5,7 +5,10 @@ gist: ""
 summary: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: Thornmere was only a small-scale prototype of Vecna's truth-magic, not the Working itself.
+    learned: {}
+    locked: true
 images:
   - z_Assets/Locations/Maps/thornmere.png
 pronounced:

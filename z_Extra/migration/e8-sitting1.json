@@ -1,0 +1,31 @@
+{
+  "4. World Almanac/NPCs/Vecna.md": [
+    { "text": "Vecna's end goal is to become the God of Truth and dominate reality.", "learned": null },
+    { "text": "Redgrave's killing blow on Strahd drew out Strahd's soul, and that was the final piece that freed Vecna from the Amber Temple.", "learned": "S33 The Fall of Strahd" },
+    { "text": "Vecna's ascension takes two rituals: the World-Truth Working creates a vacant Truth-domain and stakes his claim to it through a built-in exception, and the Ascension Rite executes that claim.", "learned": null },
+    { "text": "Vecna's claim on the Truth-domain is dishonestly won, so a genuinely total, unhedged claimant could override it at the Rite.", "learned": null }
+  ],
+  "3. The Party/Players/Redgrave.md": [
+    { "text": "Redgrave carries the soul of a member of the Order of the Silver Dragon.", "learned": "S16 Dark Castle in the Storm" }
+  ],
+  "3. The Party/Players/Faerah Duskrane.md": [
+    { "text": "Faerah is a servant of Eilistraee.", "learned": "S14 Secrets of the Tower" },
+    { "text": "Faerah's sister may have survived and escaped the Underdark.", "learned": null }
+  ],
+  "3. The Party/Players/Yevelda Ovak.md": [
+    { "text": "Yevelda's parents died defending Barovia.", "learned": "S29 Yester Hill Ritual" }
+  ],
+  "4. World Almanac/Factions/Eternal Watch.md": [
+    { "text": "Wisp's master is a member of the Eternal Watch, and fell into a coma the instant Vecna's escape broke the ward he maintained.", "learned": null }
+  ],
+  "4. World Almanac/NPCs/Anastrasya Karelova (COS).md": [
+    { "text": "Anastrasya survived Strahd's wedding-night battle and fled, and Vecna's forces are courting her.", "learned": null }
+  ],
+  "4. World Almanac/Factions/Silent Ascendency.md": [
+    { "text": "The Silent Ascendency buys stolen magic items, and targets the party's own magical power, to drain them into soul-vessels built from stolen fragments of Eludrax's soul-craft and feed the energy to Vecna's ascension.", "learned": null },
+    { "text": "Eludrax's soul-craft is the same craft that fed the original seal binding Vecna and produced Redgrave's bound soul.", "learned": null }
+  ],
+  "4. World Almanac/Settlements/Thornmere.md": [
+    { "text": "Thornmere was only a small-scale prototype of Vecna's truth-magic, not the Working itself.", "learned": null }
+  ]
+}

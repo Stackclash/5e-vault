@@ -689,7 +689,11 @@ party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 gist: ""
 summary: ""
-facts: []
+facts:
+  - text: Redgrave carries the soul of a member of the Order of the Silver Dragon.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S16 Dark Castle in the Storm.md|S16 Dark Castle in the Storm]]"
+    locked: true
 tagline: ""
 feat_spells: []
 ---

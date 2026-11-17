@@ -730,7 +730,14 @@ party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 gist: ""
 summary: ""
-facts: []
+facts:
+  - text: Faerah is a servant of Eilistraee.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md|S14 Secrets of the Tower]]"
+    locked: true
+  - text: Faerah's sister may have survived and escaped the Underdark.
+    learned: {}
+    locked: true
 tagline: ""
 feat_spells: []
 ---
