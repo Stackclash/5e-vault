@@ -113,6 +113,7 @@ class DnDBeyondCharacter {
             value: mod.value,
             componentId: mod.componentId,
             statId: mod.statId,
+            bonusTypes: mod.bonusTypes,
             friendlyTypeName: mod.friendlyTypeName,
             friendlySubtypeName: mod.friendlySubtypeName,
             restriction: mod.restriction
@@ -210,7 +211,7 @@ class DnDBeyondCharacter {
             let ac = 0
             if (!isArmored) {
               ac += !ignoreDex ? Math.min(...maxUnamoredDexMods, this.abilityScores.dexterity.modifier) : 0
-              ac += unArmoredAc ? (unArmoredAc.value || this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[unArmoredAc.statId]].modifier) : 0
+              ac += unArmoredAc ? (unArmoredAc.value || this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[unArmoredAc.statId]]?.modifier || 0) : 0
               ac += unArmoredBonus
             }
             return ac
@@ -253,7 +254,12 @@ class DnDBeyondCharacter {
         get: () => {
           const initiativeBonus = this.modifiers.reduce((accum, mod) => {
             if (mod.type === 'bonus' && mod.subType === 'initiative') {
-              accum += this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[mod.statId]].modifier
+              // An initiative bonus is an ability modifier (statId), a fixed value, or the proficiency bonus
+              // (bonusTypes 1, e.g. the 2024 Alert feat, which has no statId or value).
+              const ability = this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[mod.statId]]
+              if (ability) accum += ability.modifier
+              else if (typeof mod.value === 'number') accum += mod.value
+              else if (Array.isArray(mod.bonusTypes) && mod.bonusTypes.includes(1)) accum += this.proficiencyBonus
             }
 
             return accum
