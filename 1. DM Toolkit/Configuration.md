@@ -340,6 +340,7 @@ enums:
     - Lawful Evil
     - Neutral Evil
     - Chaotic Evil
+    - Unaligned
   genders:
     - male
     - female
