@@ -36,7 +36,9 @@ For each journal:
    - anything the journal shows the party did **not** learn that a note presents as known.
 3. After acceptance: write, set `wrapped: true` on the journal if the DM confirms it is final, move to the next session.
 
-Draft from journals only. Never use `secrets`, `history`, `description`, or module text in `6. Resources/` as evidence of what the party knows.
+Draft from journals only. Never use `## DM Notes`, `history`, `description`, other DM-voice fields, or module text in `6. Resources/` as evidence of what the party knows.
+
+When proposing a `reveal` list, consider the expansion fields: `appearance`, `atmosphere`, `symbol`, `motto`, `title` are often safe once seen; `hazards` that describe traps, `standing`, `stakes`, and `deadline` usually are not; `curse` never is (`references/knowledge-model.md`).
 
 ## Pre-publish review
 

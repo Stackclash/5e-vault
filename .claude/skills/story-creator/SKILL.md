@@ -26,12 +26,13 @@ description: Design quests, hooks, branches, foreshadowing, red herrings, and re
 
 Schema: `vault-note` skill, `references/campaign-schemas.md`.
 
-- `kind` and `parent` (its arc).
+- `kind` (from `Configuration.enums.quest_kinds`) and `parent` (its arc). Step `status` values come from `Configuration.enums.step_statuses`.
 - `gist`; `description` (DM planning); `summary` left empty for the DM.
+- `stakes` (what is lost if it fails), `reward`, and `deadline` (in-world date or event) when the quest has one. These are plan, not canon.
 - `steps`: situations in likely order, each `status: planned`.
 - Links: `giver`, `npcs`, `locations`, `items`, `factions`, `pcs`.
-- **Reveals as facts.** Each truth the quest can surface is a `fact` on the entity it concerns (the culprit's note, the site's note), unlearned. The quest `description` points to them. This is what lets the wrap ask which landed.
-- `secrets`: the true culprit, the twist, hidden timelines.
+- **Reveals as facts.** Each truth the quest can surface is a `fact` on the entity it concerns (the culprit's note, the site's note), unlearned. The quest `description` points to them. This is what lets the wrap ask which landed. A truth only one source could know gets `rumor: false`.
+- The true culprit, the twist, hidden timelines: facts where learnable, otherwise `## DM Notes` on the quest. There is no `secrets` field.
 
 ## Encounter brief
 

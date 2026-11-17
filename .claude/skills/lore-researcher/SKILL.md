@@ -13,8 +13,8 @@ Answer from the vault only. Cite the note (and session) for every claim. Report 
 
 | Question | Read |
 |---|---|
-| Where are we now? | `state.md` |
-| Who or what is X? | grep X in `entities.tsv` (name and aliases columns) |
+| Where are we now? | `state.md` (party location is derived from active PCs' `location`; "split" when they differ) |
+| Who or what is X? | grep X in `entities.tsv` (name and aliases columns); `status` holds NPC `condition`, location and faction `status`, quest state. At the table, lead an NPC answer with its `voice` and `appearance` |
 | Who is connected to X? | grep X's path in `edges.tsv` |
 | Who or what is in a place? | `edges.tsv` rows `type = location` with that target; repeat one level down |
 | When did the party meet X? | `edges.tsv` rows `session-*` with target X; session numbers from `sessions.tsv` |
@@ -40,7 +40,7 @@ Grep frontmatter in `4. World Almanac/` and `3. The Party/`: `target:` lines (ty
 
 1. Wrapped session journals — what happened. Canon.
 2. Facts and edges with `learned` set, and facts with `locked: true` — canon.
-3. Entity notes' DM fields, `secrets`, quest `description`, the campaign note — the DM's current intent. May be plan.
+3. Entity notes' DM fields, `## DM Notes`, quest `description`, the campaign note — the DM's current intent. May be plan.
 4. Session prep — what was planned. When prep and journal disagree, the journal wins; name the difference.
 
 Dataview, Datacore, and Meta Bind blocks do not render outside Obsidian; read frontmatter instead.

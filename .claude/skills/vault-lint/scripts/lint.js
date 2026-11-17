@@ -80,6 +80,49 @@ if (!only || only.startsWith('note-fields')) {
   }
 }
 
+// enum-value: a note_fields field that names an enum holds a value from it (Configuration.enums, or a top-level
+// list of {name}). Per-party fields check each party's value.
+{
+  const cfg = model.config
+  const optionsFor = key => {
+    if (Array.isArray(cfg.enums?.[key])) return cfg.enums[key].map(String)
+    return Array.isArray(cfg[key]) ? cfg[key].map(o => (o && typeof o === 'object' ? o.name : o)).filter(Boolean).map(String) : null
+  }
+  for (const n of model.notes) for (const f of arr(n.type && cfg.note_fields?.[n.type])) {
+    if (!f?.enum || !(f.field in n.fm)) continue
+    const opts = optionsFor(f.enum)
+    if (!opts) continue
+    const v = n.fm[f.field]
+    const values = f.per_party && v && typeof v === 'object' && !Array.isArray(v) ? Object.values(v) : arr(v)
+    for (const x of values) if (x !== null && x !== '' && !opts.includes(String(x))) W('enum-value', n.path, `${f.field}: "${x}" is not in ${f.enum}`)
+  }
+}
+
+// climate-unknown: climate names a climate the weather generator knows
+// (Configuration.weather.climates once J7 moves them; until then Weather Generation's frontmatter).
+{
+  let climates = arr(model.config.weather?.climates)
+  const wg = path.join(model.root, '1. DM Toolkit/Tools/Weather Generation.md')
+  if (!climates.length && fs.existsSync(wg)) {
+    try { climates = arr(require(path.join(model.root, 'node_modules', 'gray-matter'))(fs.readFileSync(wg, 'utf8')).data?.climates) } catch { /* reported nowhere: no climates, no check */ }
+  }
+  const names = new Set(climates.map(c => (c && typeof c === 'object' ? c.name : c)).filter(Boolean).map(String))
+  if (names.size) for (const n of model.notes) {
+    const c = n.fm.climate
+    if (c !== undefined && c !== null && c !== '' && !names.has(String(c))) W('climate-unknown', n.path, `climate "${c}" is not a Weather Generation climate`)
+  }
+}
+
+for (const n of model.notes) {
+  if (n.type && n.type !== 'settlement' && 'wealth' in n.fm) W('wealth-not-settlement', n.path, 'wealth applies to settlements only')
+  if (n.type === 'party' && 'location' in n.fm) W('party-location-field', n.path, 'party location is derived from active PCs; set each PC\'s location instead')
+  if (n.type === 'shop') for (const v of arr(n.fm.pinned_items)) for (const t of linkTargets(v)) if (!model.resolve(t)) W('pinned-unresolved', n.path, `pinned_items: ${t}`)
+  if (n.type === 'session-journal') {
+    const present = new Set(arr(n.fm.party_present).flatMap(linkTargets).map(t => model.resolve(t)).filter(Boolean))
+    for (const t of arr(n.fm.spotlight).flatMap(linkTargets)) if (!present.has(model.resolve(t))) W('spotlight-not-present', n.path, `${t} is in spotlight but not in party_present`)
+  }
+}
+
 for (const u of model.unresolved) {
   const legacyString = ['groups', 'religions'].includes(u.field)
   if (legacyString) continue // reported under legacy

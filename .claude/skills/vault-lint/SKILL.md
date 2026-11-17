@@ -25,7 +25,7 @@ Node is managed by mise; if `node` is not on PATH, use `mise exec -- node …`. 
 
 | File | Use |
 |---|---|
-| `state.md` | Latest session, in-world date, location, active quests, unfiled live-session logs |
+| `state.md` | Latest session, in-world date, location, party location (from active PCs), recent spotlight, active quests, unfiled live-session logs |
 | `entities.tsv` | One row per entity: type, name, aliases, path, parent, status, revealed_to, gist |
 | `edges.tsv` | Every link: source, type, target, learned_by, note |
 | `sessions.tsv` | One row per journal with ledger counts and summary |
@@ -45,6 +45,12 @@ Node is managed by mise; if `node` is not on PATH, use `mise exec -- node …`. 
 | `journal-no-party`, `location-cotag` | error | Views and exports will miss the note |
 | `ledger-entity-undecided` | warn | In a wrapped journal's ledger, neither revealed nor held back |
 | `legacy: …` | warn | A pre-migration shape; see `z_Extra/Vault Design/03 Migration Plan.md` |
+| `enum-value` | warn | A `note_fields` field holds a value missing from its enum. Propose an enum addition or a corrected value; never change the enum silently |
+| `climate-unknown` | warn | `climate` is not a weather climate (Weather Generation's frontmatter) |
+| `wealth-not-settlement` | warn | `wealth` on a note that is not a settlement |
+| `pinned-unresolved` | warn | A shop's `pinned_items` entry points at nothing |
+| `spotlight-not-present` | warn | A journal's `spotlight` PC is missing from `party_present` |
+| `party-location-field` | warn | A party note carries `location`; party location is derived from active PCs |
 | `missing-gist`, `journal-untitled`, `journal-no-fc-end`, `journal-no-prep-link`, `mirrored-edge`, `image-path`, `step-played-no-outcome`, `key-case`, `note-fields` | warn | Housekeeping |
 
 ## What to do with findings

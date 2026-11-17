@@ -14,6 +14,8 @@ Per-party state is always a map keyed by the party note's name (e.g. `Midnight C
 
 `summary` replaces the older `player_impression`, `player_summary`, and `public_premise`.
 
+Every other field, including the expansion fields (`voice`, `appearance`, `atmosphere`, `hazards`, `climate`, `wealth`, `symbol`, `motto`, `standing`, `charges`, `title`, `stakes`, `reward`, `deadline`), is DM-voice. It reaches players only when the note's `reveal` lists it. `curse` is never listable.
+
 ## The three knowledge states
 
 ```yaml
@@ -39,6 +41,7 @@ facts:
 
 - **`facts`** is the DM's list of learnable things about an entity. One sentence each, worded so it can be shown to players once learned. A fact with `learned[party]` set is published.
 - **`learned`** values are a link to the journal where it was learned. Present means learned.
+- **`rumor`** (default true): `false` keeps a fact out of the rumor roll and the prep's table rumors. Use it for truths only one source could know. It has no effect on reveals.
 - Relationship edges carry the same `learned` map (see `relationships.md`).
 - **Sessions an entity appears in** are derived from journal ledger arrays. Do not store them on the entity.
 
@@ -55,7 +58,7 @@ Writing player-facing text: do not link an entity the party has not been shown; 
 | A journal with `wrapped: true` (body, `summary`, ledger) | Unplayed quest steps |
 | A fact or edge with `learned` set | Unlearned facts without `locked` |
 | A fact with `locked: true` | `## DM Notes`, prep notes, the roadmap in the campaign note |
-| State set by an approved wrap: NPC `condition`, quest `completed`, item `holder` | |
+| State set by an approved wrap: NPC `condition`, quest `completed`, item `holder` and `charges`, location `status`, faction `standing`, `renown`, and `status`, journal `party_level` and `spotlight` | Quest `deadline`, `stakes`, `reward` |
 
 Only the DM reopens canon, explicitly, per item. Corrections to a wrapped journal go under `## Errata` with a date.
 

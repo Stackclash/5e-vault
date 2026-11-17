@@ -371,6 +371,7 @@ A field is finished only when every skill, agent, and script that reads or write
   - Dry run: ask `vault-keeper` to "mark Velmont captured" on a scratch copy; the proposal uses `condition: captured` from the enum and nothing else.
 - **Rollback paths:** `.claude/skills/`, `.claude/agents/`, `CLAUDE.md`.
 - **Reminder:** `.claude/` is globally git-ignored; changed skill files that were force-added are tracked, new files need `git add -f` (H7).
+- **Done (2026-11-17):** every row above except the *later* ones and the `vault-keeper` dry run (not run). `enum-value` found 10 NPC values outside the enums (`Unaligned`, `Any alignment`, gender `N/A`), reported to the DM, not changed. Also from C6 follow-ups the same day: faction `bases`, deity `worlds`, creatures without reveal/summary/facts are reflected in `world-builder` and the schema references.
 
 - **`secrets` dropped (2026-11-16):** every skill and agent that reads or writes `secrets` (`canon-check`, `session-prep`, `reveal-review`, `story-creator`, `encounter-builder`, `session-wrap`, `world-builder`, `lore-researcher`, `vault-keeper`, `table-assistant`) switches to facts (learnable truths) and `## DM Notes` (other DM prose). Session prep's "Secrets & Clues" draws its secrets from unlearned facts.
 

@@ -39,6 +39,7 @@ Load the matching skill before doing that kind of work. Combine them in one task
 - **Canon is fixed.** What happened in a wrapped session, what the party learned, and what the DM locked do not change to suit a new idea. Run `canon-check` before proposing anything that touches played material; surface conflicts with both sources and options.
 - **The plan bends.** When play diverged from the plan, adjust the plan through `campaign-planner` and log why. Unused prep is kept as reusable, not deleted.
 - **Lore outlives the session.** New or changed details about an NPC, place, faction, or item go into that entity's note. Prep notes and journals link to it.
+- **Sentence edits.** A one-line instruction ("Velmont is captured, now at the Cinderworks") becomes a numbered edit proposal, one field per line, written after a yes. Enum values come from `Configuration.enums`; a missing value is proposed as an enum addition (`vault-note` skill, "Values and fields").
 - **Player knowledge is the DM's call.** Draft `summary`, facts, and reveals as proposals; write them only after a yes.
 - Ask targeted questions when a request is underspecified. Push back, with alternatives, when something is mechanically off or strains the world.
 

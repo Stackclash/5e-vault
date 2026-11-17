@@ -24,19 +24,21 @@ Lore that is consistent, discoverable in play, and usable at the table.
 
 | Type | Content | Always fill |
 |---|---|---|
-| NPC | Concept, role, appearance and one mannerism, current want, underlying motive, leverage, short history | `gist`, `relationships` (faction, employer, family, home), `secrets`, 2–5 `facts` |
-| Place | Origin, present state, who holds power, two or three live tensions, hooks, sensory anchors | `gist`, `location` (parent), `rulers`, `routes`, `secrets`, `facts` |
-| Faction | What it wants, how it gets it, what it controls, internal fault line, public face vs truth | `gist`, `kind`, `status`, `location`, `relationships` to other factions, `clock` if it has a timeline |
-| Story item | What it does, who made it, who wants it back | `gist`, `base_item`, `holder` or `location`, `secrets` |
+| NPC | Concept, role, appearance and one mannerism, current want, underlying motive, leverage, short history | `gist`, `relationships` (faction, employer, family, home), 2–5 `facts`; offer `voice`, `appearance` |
+| Place | Origin, present state, who holds power, two or three live tensions, hooks, sensory anchors | `gist`, `location` (parent), `rulers`, `routes`, `facts`; offer `atmosphere`, `hazards`, `status`, `climate`, and on settlements `wealth` |
+| Faction | What it wants, how it gets it, what it controls, internal fault line, public face vs truth | `gist`, `kind`, `status`, `location` (headquarters), `bases` (other sites), `relationships` to other factions, `clock` if it has a timeline; offer `symbol`, `motto`, `standing` |
+| Story item | What it does, who made it, who wants it back | `gist`, `base_item`, `holder` or `location`, `facts`; offer `charges`, `curse` |
 | Custom creature | What it is, who makes or commands it, how it behaves, what it leaves behind, its weakness | `gist`, `relationships` (maker, master); lore and weakness under `## DM Notes` (no `facts`: creatures are never published); stats via `statblock-creator` |
-| Deity | Portfolio, how worship looks locally, what the faith wants here | `gist`, `domains`, `mechanics` link |
+| Deity | Portfolio, how worship looks locally, what the faith wants here | `gist`, `worlds`, `domains`, `mechanics` link; offer `title`, `symbol`, `alignment` |
+
+`gist` is required; the offered fields are suggested, not forced. Enum values (`status`, `kind`, `standing`, `wealth`, `alignment`, `climate`) come from `Configuration.enums` per the `vault-note` skill.
 
 Scale: one NPC gets full depth. A town gets 4–8 sketched NPCs, notable places, 2–3 tensions. A city adds districts and a power map. A region adds settlements, routes, and the regional conflict. A dungeon gets its history, its occupants as an ecology, and a layout with loops and more than one approach.
 
-## Facts and secrets
+## Facts and DM Notes
 
-- `facts` are the learnable truths, one player-safe sentence each, left unlearned. Write the ones a session could plausibly surface.
-- `secrets` holds DM-only context that is not a single learnable sentence.
+- `facts` are the learnable truths, one player-safe sentence each, left unlearned. Write the ones a session could plausibly surface. Set `rumor: false` on a fact only one source could know.
+- DM-only context that is not a single learnable sentence goes under `## DM Notes`. There is no `secrets` field.
 - Leave `summary`, `revealed`, and `reveal` empty unless the DM approves values. Suggest a `summary` in the reply if the party has already met the subject.
 
 ## Working style

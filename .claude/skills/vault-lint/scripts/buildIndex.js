@@ -3,7 +3,7 @@
 // Usage: node buildIndex.js [--root <vault>] [--out <dir>]
 const fs = require('fs')
 const path = require('path')
-const { load } = require('./vaultModel')
+const { load, arr, linkTargets } = require('./vaultModel')
 
 const arg = k => { const i = process.argv.indexOf(k); return i > -1 ? process.argv[i + 1] : null }
 const model = load(arg('--root') || process.cwd())
@@ -38,13 +38,26 @@ const lastNote = last && model.noteByPath.get(last.path)
 const quests = model.entities.filter(e => e.type === 'quest' && e.status === 'active')
 const scratch = fs.existsSync(path.join(model.root, '2. Scratch Notes'))
   ? fs.readdirSync(path.join(model.root, '2. Scratch Notes')).filter(f => /Live Session/i.test(f) && !/filed:\s*true/.test(fs.readFileSync(path.join(model.root, '2. Scratch Notes', f), 'utf8').slice(0, 400))) : []
-const where = lastNote ? [].concat(lastNote.fm.locations || []).map(l => String(l).replace(/^\[\[|\]\]$/g, '').split('|').pop().replace(/\.md$/, '')).join(', ') : ''
+// Party location is derived from the active PCs in the active party; "split" when they differ.
+const linkName = l => String(l ?? '').replace(/^\[\[|\]\]$/g, '').split('|').pop().replace(/\.md$/, '').split('/').pop()
+const resolveFirst = v => { const t = linkTargets(v)[0]; return t ? model.resolve(t) : null }
+const pcs = model.notes.filter(n => n.type === 'player' && n.fm.active === true && resolveFirst(n.fm.party)
+  && path.posix.basename(resolveFirst(n.fm.party), '.md') === model.party)
+const pcPlaces = new Map()
+for (const pc of pcs) { const at = linkName(arr(pc.fm.location)[0]) || 'unknown'; pcPlaces.set(at, [...(pcPlaces.get(at) || []), pc.name]) }
+const partyWhere = !pcs.length ? 'unknown (no active PCs)' : pcPlaces.size === 1 ? [...pcPlaces.keys()][0]
+  : 'split: ' + [...pcPlaces].map(([at, who]) => `${at} (${who.join(', ')})`).join('; ')
+const recent = model.sessions.filter(s => s.party === model.party).slice(-3).reverse()
+const spotlight = recent.map(s => `S${s.number}: ${arr(model.noteByPath.get(s.path)?.fm.spotlight).map(linkName).join(', ') || '—'}`).join('; ')
+const where = lastNote ?[].concat(lastNote.fm.locations || []).map(l => String(l).replace(/^\[\[|\]\]$/g, '').split('|').pop().replace(/\.md$/, '')).join(', ') : ''
 fs.writeFileSync(path.join(out, 'state.md'), [
   `built: ${new Date().toISOString()}`,
   `campaign: ${model.campaign}`, `party: ${model.party}`,
   last ? `latest session: S${last.number} ${last.title} (played ${last.date}; in-world ${last.fcDate}${last.fcEnd ? ' to ' + last.fcEnd : ''}; wrapped: ${last.wrapped})` : 'latest session: none',
   `latest session locations: ${where}`,
   `latest session path: ${last ? last.path : ''}`,
+  `party location (from active PCs): ${partyWhere}`,
+  `recent spotlight: ${spotlight || 'none'}`,
   `active quests: ${quests.map(q => q.name).join('; ') || 'none'}`,
   `unfiled live-session logs: ${scratch.join('; ') || 'none'}`,
   `counts: ${model.entities.length} entities, ${model.edges.length} edges, ${model.facts.length} facts, ${model.sessions.length} sessions`,

@@ -28,6 +28,13 @@ CLAUDE.md holds the rules that bind all work. This skill holds the mechanics of 
 | Quest/arc, journal, prep, campaign, party, player | `references/campaign-schemas.md` |
 | Editing a Templater template or the `monster.txt` mirror | `references/templates.md` |
 
+## Values and fields
+
+- **Option values come from `Configuration.enums`** (`condition`, `status`, `standing`, `kind`, `alignment`, …), or a top-level Configuration list of `{name}` (`settlement_wealth`). `climate` comes from the weather climates (Weather Generation's frontmatter). A value not in its list is proposed as an enum addition, never written. The lint rule `enum-value` checks it.
+- **`Configuration.note_fields`** is each type's editable field list; template inputs, header chips, Edit all, and Bases edit views render from it. Adding a field means a schema entry in `references/` and a `note_fields` entry, both approved.
+- **Party location is derived** from the active PCs' `location`. Never write `location` on a party note; propose PC `location` changes.
+- **Sentence edits.** A one-line DM instruction ("Velmont is captured, now at the Cinderworks") becomes a numbered edit proposal, one field per line (`condition: captured`; `location: "[[…Cinderworks.md|Cinderworks]]"`), with values from the enums. Write each accepted line. Knowledge fields (rule 6) still need their own accepted line.
+
 ## Creating a note
 
 1. Check it does not already exist: grep `z_Extra/index/entities.tsv` for the name and aliases (fall back to a filename glob).

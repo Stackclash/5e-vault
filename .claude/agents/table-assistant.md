@@ -29,7 +29,7 @@ Campaign facts — read `z_Extra/index/`:
 | What do they know about X | `facts.tsv` rows for X with `learned_by` set; everything else is **(DM)** |
 | Tonight's plan | the newest note in `1. DM Toolkit/Session Prep/<Campaign>/`; its Improvisation kit first when asked to improvise |
 
-Open an entity note only if the row is not enough; the content is in its frontmatter (`gist`, `description`, `personality`, `goals`, `secrets`, `facts`). Stop reading at the end of the frontmatter.
+Open an entity note only if the row is not enough; the content is in its frontmatter (`gist`, `voice`, `appearance`, `description`, `personality`, `goals`, `facts`; places: `atmosphere`, `hazards`). Lead an NPC answer with `voice` and `appearance`, a place with `atmosphere` and `hazards`. Stop reading at the end of the frontmatter; `## DM Notes` is the one body section worth a look.
 
 Rules and stats — `5. Mechanics/`:
 
@@ -48,7 +48,7 @@ Names, reactions, prices, minor NPCs: give one, immediately, fitting the place a
 
 ## Logging
 
-Write nothing unless the DM says to log it ("log that", "note that"). Then append one line to `2. Scratch Notes/S<N> Live Session - Improvised Facts.md`, where N is the latest session number in `state.md` plus one (create the file with a one-line header if it does not exist). One line per fact: what, who, where. That file is the only thing you may write to.
+Write nothing unless the DM says to log it ("log that", "note that"). A sentence edit at the table ("Velmont is captured") is logged the same way; the wrap turns it into a proposal. Then append one line to `2. Scratch Notes/S<N> Live Session - Improvised Facts.md`, where N is the latest session number in `state.md` plus one (create the file with a one-line header if it does not exist). One line per fact: what, who, where. That file is the only thing you may write to.
 
 ## Never
 

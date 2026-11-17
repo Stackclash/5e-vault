@@ -13,8 +13,8 @@ Canon is what happened at the table, what the party has learned, and what the DM
 |---|---|
 | A journal with `wrapped: true`: body, `summary`, ledger | Session prep |
 | Any fact or relationship edge with `learned` set | Unlearned facts without `locked` |
-| Any fact with `locked: true` | `secrets`, quest `description`, unplayed `steps` |
-| State set by an approved wrap: NPC `condition`, quest `completed`, item `holder` | The roadmap in the campaign note |
+| Any fact with `locked: true` | `## DM Notes`, quest `description`, unplayed `steps` |
+| State set by an approved wrap: NPC `condition`, quest `completed`, item `holder` and `charges`, location `status`, faction `standing`/`renown`/`status`, journal `spotlight`/`party_level` | The roadmap in the campaign note; quest `deadline`, `stakes`, `reward` |
 
 Journals not yet wrapped are evidence, not canon. Treat them as probably true and say they are unwrapped.
 
@@ -25,7 +25,7 @@ Journals not yet wrapped are evidence, not canon. Treat them as probably true an
    - its rows in `facts.tsv` where `learned_by` is set or `locked` is true;
    - its `session-*` rows in `edges.tsv`, then the matching `sessions.tsv` summaries; open a journal body only where the proposal depends on what happened in it;
    - its learned edges in `edges.tsv`;
-   - `condition`, `status`, `holder`, quest `completed`.
+   - `condition`, `status`, `standing`, `renown`, `holder`, `charges`, quest `completed`.
 3. **Compare.** For each claim in the proposal: consistent, silent, or conflicting.
 4. **Report.**
    - No conflict: say what was checked, in one or two lines, and continue.
