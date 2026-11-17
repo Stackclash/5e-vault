@@ -16,7 +16,6 @@ rulers:
   - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
 government:
 army:
-religions:
 imports:
 exports:
 routes: []

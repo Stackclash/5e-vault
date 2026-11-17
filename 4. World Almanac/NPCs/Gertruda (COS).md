@@ -32,7 +32,6 @@ race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: null
 occupation: []
-religions: []
 personality: >-
   Innocent, naive, and dangerously trusting; views the world through a
   fairy-tale lens after a lifetime of confinement
@@ -78,7 +77,7 @@ history: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

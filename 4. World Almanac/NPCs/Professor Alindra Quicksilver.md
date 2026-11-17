@@ -22,7 +22,6 @@ age: 80
 alignment: Chaotic Good
 occupation:
   - Councilor of Transmutation
-religions: []
 description: |-
   Alindra Quicksilver is a small gnome with wild copper hair that sticks out in every direction. Large goggles rest permanently on her forehead, and her robes are covered with scorch marks, chemical stains, and tiny tool pockets.
   She speaks rapidly, often jumping from one topic to another mid-sentence.
@@ -59,7 +58,7 @@ party_relationships:
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

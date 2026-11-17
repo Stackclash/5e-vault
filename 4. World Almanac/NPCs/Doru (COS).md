@@ -31,7 +31,6 @@ race: Vampire Spawn
 gender: male
 age: null
 occupation: []
-religions: []
 personality: 'Tormented, ravenous, still driven by fragments of love for his father'
 ideal: 'I would not hurt my father, whatever I''ve become.'
 bond: 'His father, Donavich, who still refuses to give up on him'
@@ -74,7 +73,7 @@ history: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

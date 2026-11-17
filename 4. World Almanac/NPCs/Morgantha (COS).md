@@ -45,8 +45,6 @@ age: null
 occupation:
   - Proprietor of Old Bonegrinder
   - Baker of dream pastries
-religions:
-  - Ceithlenn of the Crooked Teeth
 personality: >-
   Business-like and outwardly grandmotherly in her human disguise, proud of her
   baking "craft," but venomous, greedy, and cruel the moment a customer refuses
@@ -92,7 +90,7 @@ dislikes: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})
@@ -264,6 +262,8 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > >
 > > `BUTTON[edit-dm-notes]`
 > > ## DM Notes
+> > Religion (from the old religions field): Ceithlenn of the Crooked Teeth
+> >
 > > ### Plot Hooks
 > >
 > >

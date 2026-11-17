@@ -18,7 +18,7 @@ description: >-
   betray a year spent in solitary vigil. He kneels before the claw-scarred altar
   of Barovia's church at all hours, his prayers only occasionally drowned out by
   the inhuman screams rising from beneath the floor.
-relationships: [ { target: "[[4. World Almanac/Factions/Clergy of the Morninglord.md|Clergy of the Morninglord]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Clergy of the Morninglord.md|Clergy of the Morninglord]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: cleric-of } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: ""
@@ -32,8 +32,6 @@ gender: male
 age: 50
 occupation:
   - Priest
-religions:
-  - Morninglord
 personality: 'Devout, troubled, compassionate'
 ideal: 'Through faith and perseverance, we can endure the darkest nights.'
 bond: 'His congregation, his son'
@@ -76,7 +74,7 @@ history: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

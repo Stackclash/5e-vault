@@ -53,7 +53,6 @@ gender: male
 age: 54
 occupation:
   - Toymaker
-religions: []
 personality: >-
   Eccentric, lonely, desperate for approval; hides real fear behind a sing-song
   showman's patter
@@ -94,7 +93,7 @@ dislikes: 'Being laughed at, Izek Strazni''s threats, empty shelves, silence in 
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

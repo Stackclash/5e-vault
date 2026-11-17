@@ -42,7 +42,6 @@ gender: male
 age: 27
 occupation:
   - Nobleman of House Wachter
-religions: []
 personality: 'Brash, hard-drinking, quick to boast, secretly aimless'
 ideal: >-
   Live for tonight's bottle and tomorrow's dare - Vallaki offers nothing else
@@ -79,7 +78,7 @@ dislikes: 'His mother''s lectures and her cult, sobriety, the burgomaster''s fes
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

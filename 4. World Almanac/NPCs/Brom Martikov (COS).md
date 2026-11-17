@@ -43,7 +43,6 @@ gender: male
 age: 13
 occupation:
   - Bar Assistant
-religions: []
 personality: 'Curious, playful, slightly mischievous'
 ideal: Adventure and discovery are the spices of life.
 bond: 'His family, especially his brother Bray, and the adventures they dream of'
@@ -73,7 +72,7 @@ dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

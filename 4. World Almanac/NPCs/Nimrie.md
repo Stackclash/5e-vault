@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[5. Mechanics/Deities/Drow Eilistraee (MTF).md|Eilistraee]]", type: worships } ]
 tags:
   - npc
 aliases:
@@ -20,8 +20,6 @@ gender: female
 age:
 alignment: Neutral Good
 occupation: []
-religions:
-  - "[[Drow Eilistraee (MTF)|Eilistraee]]"
 description: |-
   A drow woman met in passing at Duskferry, on the Waterline the night the fog broke early. Little is established about her beyond that meeting — she recognized [[Faerah Duskrane]] as kin in some sense worth acting on, and brought her to Naerissa without ceremony or explanation.
 history: |-
@@ -60,7 +58,7 @@ secrets: ""
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

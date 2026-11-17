@@ -29,7 +29,7 @@ history: >-
   in his werewolf servants. The dire wolves dragged Emil away to Castle
   Ravenloft, and Kiril reasserted his dominance — ruling now through fear of
   Strahd's wrath as much as his own.
-relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member }, { target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]", type: worships } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: null
@@ -45,8 +45,6 @@ age: 47
 occupation:
   - Pack leader
   - Strahd's enforcer among the werewolves
-religions:
-  - Mother Night
 personality: 'Domineering, ruthless, and quick to violence when his authority is questioned'
 ideal: >-
   Strength and purity ensure the pack's survival — only the strongest deserve to
@@ -84,7 +82,7 @@ dislikes: 'Dissent, weakness, being made to look foolish in front of the pack'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

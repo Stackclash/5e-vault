@@ -26,7 +26,7 @@ history: >-
   Belview]], he is one of the few mongrelfolk trusted to guard the abbey's north
   gate by day and dig up fresh graves in Krezk by night — a task he performs
   poorly but with tremendous, oblivious confidence.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
@@ -43,8 +43,6 @@ age: 51
 occupation:
   - Gate guard
   - Gravedigger
-religions:
-  - The Morninglord
 personality: 'Vain, dim-witted, good-natured despite the horror of it all'
 ideal: >-
   I am the smartest, wisest, strongest, fastest, and most beautiful person I
@@ -78,7 +76,7 @@ dislikes: 'Locked gates, empty graves, anyone who won''t play along with his boa
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

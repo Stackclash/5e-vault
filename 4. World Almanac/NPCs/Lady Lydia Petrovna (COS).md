@@ -28,7 +28,7 @@ history: >-
   of the Blazing Sun. Her nervous laughter at the baron's every remark has
   become a reflex, and it has only grown more brittle since her lady-in-waiting
   vanished without a trace alongside the household butler.
-relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/Factions/House Petrovich.md|House Petrovich]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/Factions/House Petrovich.md|House Petrovich]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""
@@ -42,8 +42,6 @@ gender: female
 age: 39
 occupation:
   - Baroness of Vallaki
-religions:
-  - The Morninglord
 personality: Anxiously cheerful - her good humor is a nervous habit as much as genuine hope
 ideal: 'If I stop smiling, I don''t know what happens next.'
 bond: >-
@@ -83,7 +81,7 @@ dislikes: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

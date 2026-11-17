@@ -23,7 +23,6 @@ alignment: Chaotic Good
 occupation:
   - Councilor of Evocation
   - Battle Magic Instructor
-religions: []
 description: |-
   Kaelor Stormbrand is a broad-shouldered dwarf with a thick braided beard streaked with ash and burn scars across his arms. His heavy robes are reinforced with leather plating to withstand the explosive nature of evocation magic.
   The air around him occasionally crackles with faint sparks of residual magical energy.
@@ -60,7 +59,7 @@ party_relationships:
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

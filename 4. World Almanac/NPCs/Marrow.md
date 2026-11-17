@@ -25,7 +25,6 @@ age: null
 alignment: Neutral Evil
 occupation:
   - Silent Ascendency Cell Leader, Bruokdon
-religions: []
 description: |-
   In its true form, Marrow is a gaunt, grey-skinned humanoid with smooth, half-formed features — the standard doppelganger blank, unremarkable until it chooses to be. It rarely shows this face to anyone still breathing.
   Worn as Lord Caldris Velmont, it was flawless: the same rehearsed charm, the same calculating eyes, right down to the habitual smoothing of an embroidered sleeve. It went on to wear Professor Gousse Windcaller for less than an hour, and then Roark Battleborn — the face it died in.
@@ -80,7 +79,7 @@ secrets: |-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

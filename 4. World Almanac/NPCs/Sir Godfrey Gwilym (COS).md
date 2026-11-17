@@ -28,7 +28,7 @@ history: >-
   other fallen knights — back into the world as revenants. Bound by oaths to
   Vladimir, Godfrey has haunted the ruins of Argynvostholt ever since, his honor
   buried under centuries of impotent vengeance.
-relationships: [ { target: "[[4. World Almanac/Factions/Order of the Silver Dragon.md|Order of the Silver Dragon]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Order of the Silver Dragon.md|Order of the Silver Dragon]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]'
@@ -43,8 +43,6 @@ gender: male
 age: null
 occupation:
   - Knight of the Order of the Silver Dragon
-religions:
-  - The Morninglord
 personality: 'Stoic, honorable, deeply melancholic'
 ideal: Redemption for the Order and peace for Barovia are my only pursuits.
 bond: >-
@@ -84,7 +82,7 @@ dislikes: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

@@ -26,7 +26,6 @@ alignment: Neutral Evil
 occupation:
   - Senior Tally Clerk, Ferrymen's Guild
   - Silent Ascendency Logistics Liaison (unofficial)
-religions: []
 description: |-
   Narrow, ink-stained hands and a clerk's stoop from decades bent over ledgers. Dresses a rank above his actual station — good boots, a guild coat cut better than his pay grade — paid for, though nobody's ever asked, by money that never touches an official book. Precise to the point of tedium in conversation, the kind of man who corrects your arithmetic before he's finished agreeing with you.
 history: |-
@@ -69,7 +68,7 @@ secrets: |-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

@@ -48,7 +48,6 @@ age: 34
 occupation:
   - Innkeeper
   - Barkeep
-religions: []
 personality: 'Warm but sharp-eyed, fiercely protective of her family and patrons'
 ideal: 'A safe home is worth defending with tooth, claw, and steel.'
 bond: >-
@@ -85,7 +84,7 @@ dislikes: 'Strahd’s spies, danger to her sons, wasted wine'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

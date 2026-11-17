@@ -36,7 +36,6 @@ gender: male
 age: null
 occupation:
   - Familiar
-religions: []
 personality: 'Sly, theatrical, utterly devoted to Fiona'
 ideal: Whatever serves my mistress serves me.
 bond: 'Fiona Wachter, the woman it serves and the only master it answers to.'
@@ -70,7 +69,7 @@ dislikes: 'Being ignored, anything that threatens Fiona’s schemes'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

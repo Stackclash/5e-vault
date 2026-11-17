@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: [ { target: "[[4. World Almanac/Factions/The Unbroken Circle.md|The Unbroken Circle]]", type: member }, { target: "[[4. World Almanac/Factions/Dusk Elves of Duskferry.md|Dusk Elves of Duskferry]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/The Unbroken Circle.md|The Unbroken Circle]]", type: member }, { target: "[[4. World Almanac/Factions/Dusk Elves of Duskferry.md|Dusk Elves of Duskferry]]", type: member }, { target: "[[5. Mechanics/Deities/Drow Eilistraee (MTF).md|Eilistraee]]", type: worships } ]
 tags:
   - npc
 aliases:
@@ -23,8 +23,6 @@ alignment: Neutral Good
 occupation:
   - Elder, dusk elf enclave of Duskferry
   - Shrine-keeper, Eilistraee
-religions:
-  - "[[Drow Eilistraee (MTF)|Eilistraee]]"
 description: |-
   Twilight-skinned and soft-spoken, with the unhurried stillness of someone who stopped being surprised by the world a long time ago. She wears no pendant, no mark of rank at all — a deliberate absence, for someone who leads a shrine. Her voice carries the low, patient cadence of a person used to sitting with grief rather than rushing past it.
 history: |-
@@ -66,7 +64,7 @@ secrets: |-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

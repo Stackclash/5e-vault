@@ -44,7 +44,6 @@ race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 7
 occupation: []
-religions: []
 personality: >-
   Timid and easily frightened, clinging to his sister Rose and his stuffed doll
   for comfort; as a ghost he weeps and panics rather than fights, and possessing
@@ -88,7 +87,7 @@ dislikes: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

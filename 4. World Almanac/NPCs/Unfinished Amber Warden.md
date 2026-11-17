@@ -23,7 +23,6 @@ age: null
 alignment: Unaligned
 occupation:
   - Incomplete guardian construct, Silent Ascendency soul-vessel works
-religions: []
 description: |-
   A Warden that isn't finished. The frame is there — legs, spine, the heavy shoulders — but the fitted plating stops partway up the chest, leaving the internal armature open to the air: raw stone, iron banding, and a single amber conduit socketed where three should be. It has no face yet. The apertures the finished models use for eyes are unbored, and it navigates by something else entirely, turning its blank head toward sound and warmth with an unpleasant, insectile deliberateness.
   It moves badly. The joints haven't been trued, so every step lands hard and slightly wrong, and the single conduit flares with the effort like something straining.
@@ -66,7 +65,7 @@ secrets: |-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

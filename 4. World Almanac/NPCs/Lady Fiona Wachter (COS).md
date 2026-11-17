@@ -52,8 +52,6 @@ age: 52
 occupation:
   - Governess of Wachterhaus
   - Hidden leader of Vallaki's devil-worshipping cult
-religions:
-  - Devil worship (a cult of her own founding)
 personality: 'Cold, composed, and utterly ruthless beneath an aristocratic veneer'
 ideal: >-
   Strahd is no tyrant, only a negligent landlord - true power lies in serving
@@ -91,7 +89,7 @@ dislikes: 'Baron Vallakovich''s buffoonery, weakness, disobedience, enemies of S
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})
@@ -233,6 +231,8 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > >
 > > `BUTTON[edit-dm-notes]`
 > > ## DM Notes
+> > Religion (from the old religions field): Devil worship (a cult of her own founding)
+> >
 > > ### Plot Hooks
 > >
 > >

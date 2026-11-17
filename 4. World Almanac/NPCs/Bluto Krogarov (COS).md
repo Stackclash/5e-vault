@@ -37,7 +37,6 @@ gender: male
 age: 46
 occupation:
   - Fisherman
-religions: []
 personality: 'Despondent, superstitious, unstable'
 ideal: 'Luck is a lie, and hope is for the foolish.'
 bond: 'His boat and the lake, the only constants in his life of failure'
@@ -69,7 +68,7 @@ dislikes: 'The mockery of others, his own bad luck, the Burgomaster''s enforced 
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

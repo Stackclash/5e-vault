@@ -24,7 +24,6 @@ age: 37
 alignment: Neutral Good
 occupation:
   - Vintner
-religions:
 personality: Hardworking, practical, deeply loyal to his family and cause
 ideal: We must protect our own and fight against the darkness that encroaches.
 bond: His family's legacy and the secret mission of the Keepers of the Feather.
@@ -56,7 +55,7 @@ party_relationships:
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

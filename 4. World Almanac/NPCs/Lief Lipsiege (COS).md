@@ -40,7 +40,6 @@ gender: male
 age: 44
 occupation:
   - Accountant
-religions: []
 personality: 'Obsessive, resigned, utterly indifferent to anyone but his ledgers'
 ideal: 'The books must balance, no matter what happens around them.'
 bond: >-
@@ -76,7 +75,7 @@ dislikes: 'Interruptions, visitors, the creak of the tasseled rope overhead'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

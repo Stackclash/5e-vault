@@ -33,7 +33,7 @@ history: >-
   and his wife's lady-in-waiting, vanished without a trace in the past week, and
   though he has charged [[Izek Strazni (COS)|Izek Strazni]] with finding them,
   no answers have come.
-relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
@@ -48,8 +48,6 @@ gender: male
 age: 43
 occupation:
   - Burgomaster of Vallaki
-religions:
-  - The Morninglord
 personality: 'Authoritarian, paranoid, obsessed with maintaining a façade of happiness'
 ideal: All will be well if we just keep pretending it is.
 bond: >-
@@ -83,7 +81,7 @@ dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s '
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

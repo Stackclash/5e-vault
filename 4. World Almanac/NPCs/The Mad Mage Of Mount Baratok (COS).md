@@ -41,7 +41,6 @@ age: 300
 occupation:
   - Archmage
   - Circle of Eight (former leader)
-religions: []
 personality: >-
   While mad: paranoid and violent, convinced enemies are hunting him everywhere.
   Once restored: stubborn, taciturn, and utterly certain of his own authority.
@@ -79,7 +78,7 @@ dislikes: 'Being underestimated, fools, Strahd von Zarovich'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

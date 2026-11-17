@@ -27,7 +27,7 @@ history: >-
   as the Abbot's manservant, ringing the abbey bell (area S17) to call the
   mongrelfolk to dinner and doling out meals to the sixty-odd madhouse captives
   at his own discretion — which the starving prefer to call cruelty.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
 party_relationships:
   Midnight Covenant: Acquaintance
 location: >-
@@ -44,8 +44,6 @@ gender: male
 age: 54
 occupation:
   - Caretaker
-religions:
-  - The Morninglord
 personality: 'Subservient, eccentric, deeply troubled'
 ideal: >-
   Survival and obedience are the utmost priorities in a world that neither wants
@@ -85,7 +83,7 @@ dislikes: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

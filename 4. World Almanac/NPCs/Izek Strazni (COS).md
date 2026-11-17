@@ -29,7 +29,6 @@ age: 34
 occupation:
   - Hand of the Whispered One
   - Enforcer to Baron Vallakovich (former)
-religions: []
 personality: >-
   Quieter than he was. The old volatility has gone somewhere colder — he no
   longer needs to raise his voice to be obeyed, and he knows it. Still capable of
@@ -136,7 +135,7 @@ secrets: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

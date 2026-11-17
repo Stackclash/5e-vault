@@ -22,7 +22,6 @@ age: 310
 alignment: Neutral
 occupation:
   - Councilor of Necromancy
-religions: []
 description: |-
   Valeris Thorne is a gaunt elf with pale skin and long black robes trimmed in silver bone motifs. His expression is calm to the point of unsettling, and his eyes hold the quiet patience of someone who has spent centuries contemplating mortality.
   His voice is low and clinical, rarely showing emotion.
@@ -59,7 +58,7 @@ party_relationships:
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

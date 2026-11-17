@@ -16,7 +16,6 @@ terrain:
 rulers:
 government:
 army:
-religions:
 imports:
 exports:
 aliases:

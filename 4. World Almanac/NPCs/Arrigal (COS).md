@@ -38,7 +38,6 @@ gender: male
 age: 35
 occupation:
   - Assassin
-religions: []
 personality: 'Charismatic, ruthless, cunning'
 ideal: >-
   Loyalty to family and clan above all else, but personal gain is a close
@@ -70,7 +69,7 @@ dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

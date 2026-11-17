@@ -40,7 +40,6 @@ gender: female
 age: null
 occupation:
   - Bride-to-be of Strahd (construct)
-religions: []
 personality: 'Silent, obedient, hauntingly vacant — seems lost in her own thoughts'
 ideal: 'Obedience to her creator''s commands, absolute and unquestioning.'
 bond: 'The Abbot, her creator and only guide in the world.'
@@ -76,7 +75,7 @@ dislikes: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

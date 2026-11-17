@@ -15,7 +15,6 @@ terrain: flat
 rulers: []
 government: Council
 army:
-religions: []
 imports: []
 exports:
   - Charms

@@ -23,7 +23,7 @@ history: >-
   "perfection." He lurks twenty feet down the abbey's courtyard well, scuttling
   up the shaft to attack anyone who shines a light on him; in his madness, he
   has discovered that he enjoys killing.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
@@ -39,8 +39,6 @@ gender: male
 age: 26
 occupation:
   - Abbey captive
-religions:
-  - The Morninglord
 personality: 'Feral, predatory, unpredictable'
 ideal: Power belongs to whoever is willing to take it from the weak.
 bond: The dark of the well is the only home he has left.
@@ -70,7 +68,7 @@ dislikes: 'Bright light, open spaces, being pulled from his well'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

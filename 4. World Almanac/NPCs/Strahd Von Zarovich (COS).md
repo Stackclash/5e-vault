@@ -13,7 +13,7 @@ images:
 aliases:
   - Strahd von Zarovich
 alignment: Lawful Evil
-relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member }, { target: "[[4. World Almanac/Deities/Dark Powers of the Shadowfell.md|Dark Powers of the Shadowfell]]", type: worships, note: pact } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: null
@@ -29,8 +29,6 @@ age: 400
 occupation:
   - Count of Barovia (former)
   - Master of Castle Ravenloft
-religions:
-  - Dark Powers of the Shadowfell (pact)
 personality: >-
   Believes his soul already lost to evil; feels neither pity nor remorse.
   Seductive and subtle when it suits him, coldly controlling always — he views
@@ -86,7 +84,7 @@ history: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

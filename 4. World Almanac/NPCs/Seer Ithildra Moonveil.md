@@ -22,7 +22,6 @@ age: 230
 alignment: Neutral Good
 occupation:
   - Councilor of Divination
-religions: []
 description: |-
   Ithildra Moonveil is a pale elf with long silver hair and eyes that seem perpetually unfocused, as though she is seeing events unfolding moments before they happen. Her robes are decorated with delicate constellations stitched in moonlight thread.
   She speaks softly and slowly, often pausing mid-sentence as if listening to something distant.
@@ -59,7 +58,7 @@ party_relationships:
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

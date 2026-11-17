@@ -25,7 +25,6 @@ age: 51
 alignment: Neutral Evil
 occupation:
   - Silent Ascendency Logistics Handler, The Cinderworks
-religions: []
 description: |-
   Grey-haired and wiry, dressed like a foreman rather than a cultist — soot-stained coat, ledger always under one arm. A milky scar closes her left eye, a souvenir from a smuggling run that went wrong decades before the Ascendency ever found her useful. She counts everything twice, out loud, under her breath, whether or not anyone's listening.
 history: |-
@@ -68,7 +67,7 @@ secrets: |-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

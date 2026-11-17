@@ -15,7 +15,6 @@ terrain: outskirts, industrial ruin
 rulers: []
 government:
 army:
-religions: []
 imports: []
 exports: []
 aliases:

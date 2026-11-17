@@ -24,7 +24,7 @@ history: >-
   "perfection." Alongside her partner [[Otto Belview (COS)|Otto Belview]], she
   guards the abbey's north gate by day and digs up fresh graves in Krezk by
   night, resenting every imagined slight along the way.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
@@ -41,8 +41,6 @@ age: 46
 occupation:
   - Gate guard
   - Gravedigger
-religions:
-  - The Morninglord
 personality: 'Gruff, defensive, quietly resentful'
 ideal: I don't like the way people judge me all the time.
 bond: >-
@@ -75,7 +73,7 @@ dislikes: 'Stares, whispers, being laughed at'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

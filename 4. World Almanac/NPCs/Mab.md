@@ -29,7 +29,6 @@ alignment: Chaotic Neutral
 occupation:
   - Queen of Air and Darkness
   - Ruler of the Gloaming Court
-religions: []
 description: >-
   Mab appears as a tall, sharp-featured woman wrapped in layers of dusk-grey and
   black, her gown seeming to trail off into mist rather than hem at any fixed
@@ -89,7 +88,7 @@ party_relationships:
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

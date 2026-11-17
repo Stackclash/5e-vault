@@ -28,7 +28,7 @@ history: >-
   the dusk elf women and mutilate her brother Kasimir for his role in her death.
   She now speaks to Kasimir in dreams, claiming a repentance she does not feel,
   hoping he will find a way to restore her to life and power.
-relationships: [ { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member }, { target: "[[4. World Almanac/Deities/The Nameless God of Secrets.md|The Nameless God of Secrets]]", type: worships } ]
 party_relationships: {}
 location: null
 gist: ""
@@ -43,8 +43,6 @@ age: null
 occupation:
   - Archmage
   - Would-be bride of Strahd von Zarovich
-religions:
-  - The nameless god of secrets
 personality: >-
   Ambitious and coldly manipulative, masking a ruthless hunger for power behind
   a veneer of contrition and love.
@@ -86,7 +84,7 @@ dislikes: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

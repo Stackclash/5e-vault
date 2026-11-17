@@ -15,7 +15,6 @@ terrain: marsh, flooded deadwood, sinkhole ground, limestone caves
 rulers: []
 government:
 army:
-religions: []
 imports: []
 exports: []
 aliases:

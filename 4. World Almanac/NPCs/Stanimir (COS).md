@@ -38,7 +38,6 @@ age: 61
 occupation:
   - Vistani wizard
   - Caravan leader
-religions: []
 personality: 'Charismatic storyteller, calculating, protective of his own'
 ideal: The clan's safety and freedom come before any oath to outsiders.
 bond: 'His children, Damia and Ratka, and the caravan he leads across the lost roads.'
@@ -72,7 +71,7 @@ dislikes: 'Being doubted, threats to his children, reckless outsiders'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

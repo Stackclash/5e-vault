@@ -16,7 +16,6 @@ rulers:
   - "[[4. World Almanac/NPCs/Anselm Corrow.md|Anselm Corrow]]"
 government: Ferrymen's Guild
 army:
-religions: []
 imports: []
 exports: []
 aliases: []

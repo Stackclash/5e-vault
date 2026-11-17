@@ -37,7 +37,6 @@ gender: male
 age: 34
 occupation:
   - Wolf hunter
-religions: []
 personality: 'Grim, taciturn, haunted by the dangerous work he does'
 ideal: Hard work and silence are their own kind of honesty.
 bond: 'His hunting partner, Yevgeni Krushkin, and the family he rarely speaks of.'
@@ -71,7 +70,7 @@ dislikes: >-
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

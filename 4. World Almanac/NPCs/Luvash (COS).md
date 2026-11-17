@@ -40,7 +40,6 @@ age: 43
 occupation:
   - Vistani chieftain
   - Bandit captain
-religions: []
 personality: 'Brutal, domineering, feared even by his own people'
 ideal: Strength earns obedience; weakness is punished.
 bond: His daughter Arabelle is the one soft spot in an otherwise hardened heart.
@@ -74,7 +73,7 @@ dislikes: 'Weakness, disobedience, outsiders who threaten his camp'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})

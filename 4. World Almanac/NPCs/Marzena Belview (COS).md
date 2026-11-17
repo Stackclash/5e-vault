@@ -23,7 +23,7 @@ history: >-
   "perfection." She is chained to a post in the abbey's courtyard, convinced
   that unseen enemies watch her every move; only her brother [[Clovin Belview
   (COS)|Clovin Belview]] can get close enough to feed her.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
@@ -39,8 +39,6 @@ gender: female
 age: 32
 occupation:
   - Abbey captive
-religions:
-  - The Morninglord
 personality: 'Paranoid, skittish, feral'
 ideal: Trust no one — everyone is an agent sent to hunt you down.
 bond: >-
@@ -72,7 +70,7 @@ dislikes: 'Strangers, being watched, sudden movement, cages'
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
 ```dataviewjs
 await dv.view('views/entityHeader', {current: dv.current()})
