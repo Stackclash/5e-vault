@@ -326,6 +326,7 @@ source	type	target	learned_by	note
 4. World Almanac/Deities/Dark Powers of the Shadowfell.md	world	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Deities/Mother Night.md	world	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Deities/The Nameless God of Secrets.md	world	4. World Almanac/Worlds/Eldoria.md		
+4. World Almanac/Deities/The Trickster God.md	world	4. World Almanac/Worlds/Eldoria.md		
 4. World Almanac/Factions/Dusk Elves of Barovia.md	location	4. World Almanac/Regions/Barovia.md		
 4. World Almanac/Factions/Dusk Elves of Duskferry.md	location	4. World Almanac/Settlements/Duskferry.md		
 4. World Almanac/Factions/Ferrymen's Guild.md	location	4. World Almanac/Settlements/Duskferry.md		
@@ -334,6 +335,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Adrian Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Adrian Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
 4. World Almanac/NPCs/Adrian Martikov.md	member	4. World Almanac/Factions/Keepers of the Feather.md		
+4. World Almanac/NPCs/Adrian Martikov.md	works-at	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
 4. World Almanac/NPCs/Amber Warden.md	member	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Anastrasya Karelova (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
@@ -428,6 +430,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Marrow.md	leader	4. World Almanac/Factions/Silent Ascendency.md		Bruokdon cell
 4. World Almanac/NPCs/Marrow.md	enemy	3. The Party/Players/Faerah Duskrane.md		killed by her (S44)
 4. World Almanac/NPCs/Martin Thricefold.md	location	4. World Almanac/Settlements/Bruokdon.md		
+4. World Almanac/NPCs/Martin Thricefold.md	ally	3. The Party/Players/Roark Battleborn.md		protects him until his lineage matters
+4. World Almanac/NPCs/Martin Thricefold.md	worships	4. World Almanac/Deities/The Trickster God.md		acts as the god's indirect agent
 4. World Almanac/NPCs/Marzena Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Marzena Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Marzena Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
@@ -437,6 +441,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Mishka Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
 4. World Almanac/NPCs/Mistress Lyssandra Veil.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Mistress Lyssandra Veil.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
+4. World Almanac/NPCs/Mistress Lyssandra Veil.md	enemy	4. World Almanac/Factions/Silent Ascendency.md		held captive (S44)
 4. World Almanac/NPCs/Morgantha (COS).md	member	4. World Almanac/Factions/Morgantha's Coven.md		
 4. World Almanac/NPCs/Naerissa.md	location	4. World Almanac/Settlements/Duskferry.md		
 4. World Almanac/NPCs/Naerissa.md	member	4. World Almanac/Factions/The Unbroken Circle.md		

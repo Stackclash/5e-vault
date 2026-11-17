@@ -10,7 +10,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[3. The Party/Players/Roark Battleborn.md|Roark Battleborn]]", type: ally, note: protects him until his lineage matters }, { target: "[[4. World Almanac/Deities/The Trickster God.md|The Trickster God]]", type: worships, note: acts as the god's indirect agent } ]
 tags:
   - npc
 aliases: []

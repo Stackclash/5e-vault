@@ -10,7 +10,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/NPCs/Lyssandra Veil.png
-relationships: [ { target: "[[4. World Almanac/Factions/Umbral Athenaeum Council.md|Umbral Athenaeum Council]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Umbral Athenaeum Council.md|Umbral Athenaeum Council]]", type: member }, { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: enemy, note: held captive (S44) } ]
 tags:
   - npc
 aliases:

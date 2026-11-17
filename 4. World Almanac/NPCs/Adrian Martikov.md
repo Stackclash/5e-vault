@@ -13,6 +13,8 @@ relationships:
     type: father
   - target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]"
     type: member
+  - target: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
+    type: works-at
 tags:
   - npc
   - compendium/src/5e/cos
