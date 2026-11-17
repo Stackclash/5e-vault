@@ -28,7 +28,7 @@ history: >-
   other fallen knights — back into the world as revenants. Bound by oaths to
   Vladimir, Godfrey has haunted the ruins of Argynvostholt ever since, his honor
   buried under centuries of impotent vengeance.
-relationships: [ { target: "[[4. World Almanac/Factions/Order of the Silver Dragon.md|Order of the Silver Dragon]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Order of the Silver Dragon.md|Order of the Silver Dragon]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Vladimir Horngaard (COS).md|Vladimir Horngaard]]", type: lover }, { target: "[[4. World Almanac/NPCs/Vladimir Horngaard (COS).md|Vladimir Horngaard]]", type: serves, note: oath-bound as a revenant }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy } ]
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]'

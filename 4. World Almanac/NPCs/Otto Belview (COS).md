@@ -26,7 +26,7 @@ history: >-
   Belview]], he is one of the few mongrelfolk trusted to guard the abbey's north
   gate by day and dig up fresh graves in Krezk by night — a task he performs
   poorly but with tremendous, oblivious confidence.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Zygfrek Belview (COS).md|Zygfrek Belview]]", type: friend, note: work partner }, { target: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]", type: works-at, note: north gate; gravedigger } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of

@@ -24,7 +24,7 @@ history: >-
   cannot speak, has no memories or will of her own, and obeys the Abbot's every
   command; he is currently teaching her etiquette and dance in preparation for
   presenting her to the vampire.
-relationships: [ { target: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]", type: home } ]
+relationships: [ { target: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]", type: home }, { target: "[[4. World Almanac/NPCs/The Abbot (COS).md|The Abbot]]", type: master }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: lover, note: intended bride; not yet presented } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of

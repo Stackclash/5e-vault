@@ -23,7 +23,7 @@ history: >-
   "perfection." He lurks twenty feet down the abbey's courtyard well, scuttling
   up the shaft to attack anyone who shines a light on him; in his madness, he
   has discovered that he enjoys killing.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]", type: home, note: the courtyard well } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of

@@ -18,7 +18,7 @@ description: >-
   betray a year spent in solitary vigil. He kneels before the claw-scarred altar
   of Barovia's church at all hours, his prayers only occasionally drowned out by
   the inhuman screams rising from beneath the floor.
-relationships: [ { target: "[[4. World Almanac/Factions/Clergy of the Morninglord.md|Clergy of the Morninglord]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: cleric-of } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Clergy of the Morninglord.md|Clergy of the Morninglord]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: cleric-of }, { target: "[[4. World Almanac/NPCs/Doru (COS).md|Doru]]", type: son } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: ""

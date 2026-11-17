@@ -23,7 +23,7 @@ history: >-
   "perfection." She is chained to a post in the abbey's courtyard, convinced
   that unseen enemies watch her every move; only her brother [[Clovin Belview
   (COS)|Clovin Belview]] can get close enough to feed her.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Clovin Belview (COS).md|Clovin Belview]]", type: brother }, { target: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]", type: imprisoned-at, note: chained in the courtyard } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of

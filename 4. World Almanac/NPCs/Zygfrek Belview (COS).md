@@ -24,7 +24,7 @@ history: >-
   "perfection." Alongside her partner [[Otto Belview (COS)|Otto Belview]], she
   guards the abbey's north gate by day and digs up fresh graves in Krezk by
   night, resenting every imagined slight along the way.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]", type: works-at, note: north gate; gravedigger } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of

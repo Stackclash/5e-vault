@@ -379,6 +379,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Clovin Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Clovin Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Clovin Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
+4. World Almanac/NPCs/Clovin Belview (COS).md	serves	4. World Almanac/NPCs/The Abbot (COS).md		
+4. World Almanac/NPCs/Clovin Belview (COS).md	works-at	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Corwin Vantor.md	location	4. World Almanac/Settlements/Bruokdon.md		
 4. World Almanac/NPCs/Corwin Vantor.md	client	4. World Almanac/NPCs/Mistress Lyssandra Veil.md		arranged to acquire the heartbeat prototype
 4. World Almanac/NPCs/Corwin Vantor.md	enemy	4. World Almanac/Factions/Silent Ascendency.md		killed by its agents
@@ -400,6 +402,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Donavich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Donavich (COS).md	member	4. World Almanac/Factions/Clergy of the Morninglord.md		
 4. World Almanac/NPCs/Donavich (COS).md	cleric-of	5. Mechanics/Deities/Forgotten Realms Lathander.md		
+4. World Almanac/NPCs/Donavich (COS).md	son	4. World Almanac/NPCs/Doru (COS).md		
 4. World Almanac/NPCs/Doru (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Eamon Morcant.md	location	4. World Almanac/Settlements/Thornmere.md		
 4. World Almanac/NPCs/Elvir Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
@@ -483,10 +486,13 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Marzena Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Marzena Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Marzena Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
+4. World Almanac/NPCs/Marzena Belview (COS).md	brother	4. World Almanac/NPCs/Clovin Belview (COS).md		
+4. World Almanac/NPCs/Marzena Belview (COS).md	imprisoned-at	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		chained in the courtyard
 4. World Almanac/NPCs/Milivoj (COS).md	works-at	4. World Almanac/Places of Interest/St. Andral's Church.md		
 4. World Almanac/NPCs/Mishka Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Mishka Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Mishka Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
+4. World Almanac/NPCs/Mishka Belview (COS).md	home	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		the courtyard well
 4. World Almanac/NPCs/Mistress Lyssandra Veil.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Mistress Lyssandra Veil.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Mistress Lyssandra Veil.md	enemy	4. World Almanac/Factions/Silent Ascendency.md		held captive (S44)
@@ -510,6 +516,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Otto Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Otto Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Otto Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
+4. World Almanac/NPCs/Otto Belview (COS).md	friend	4. World Almanac/NPCs/Zygfrek Belview (COS).md		work partner
+4. World Almanac/NPCs/Otto Belview (COS).md	works-at	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		north gate; gravedigger
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	member	4. World Almanac/Factions/Dusk Elves of Barovia.md		
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	worships	4. World Almanac/Deities/The Nameless God of Secrets.md		
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	lover	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		would-be bride; cast aside
@@ -541,6 +549,9 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	location	4. World Almanac/Places of Interest/Argynvostholt.md		
 4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	member	4. World Almanac/Factions/Order of the Silver Dragon.md		
 4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
+4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	lover	4. World Almanac/NPCs/Vladimir Horngaard (COS).md		
+4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	serves	4. World Almanac/NPCs/Vladimir Horngaard (COS).md		oath-bound as a revenant
+4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	enemy	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Stanimir (COS).md	location	4. World Almanac/Places of Interest/Tser Pool.md		
 4. World Almanac/NPCs/Stanimir (COS).md	leader	4. World Almanac/Factions/Vistani.md		Tser Pool caravan
 4. World Almanac/NPCs/Stanimir (COS).md	serves	4. World Almanac/NPCs/Madam Eva (COS).md		
@@ -557,6 +568,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Strahds Animated Armor (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		
 4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	member	4. World Almanac/Factions/Vallaki Wolf Hunters.md		
+4. World Almanac/NPCs/The Abbot (COS).md	home	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/The Abbot (COS).md	patron	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		as Vasili von Holtz; supplied Amber Temple lore
 4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	member	4. World Almanac/Factions/Circle of Eight.md		
 4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md	member	4. World Almanac/Factions/Durst Family.md		
 4. World Almanac/NPCs/Unfinished Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
@@ -567,12 +580,16 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Urwin Martikov (COS).md	works-at	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Vasilka (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Vasilka (COS).md	home	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Vasilka (COS).md	master	4. World Almanac/NPCs/The Abbot (COS).md		
+4. World Almanac/NPCs/Vasilka (COS).md	lover	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		intended bride; not yet presented
 4. World Almanac/NPCs/Victor Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Victor Vallakovich (COS).md	member	4. World Almanac/Factions/House Vallakovich.md		
 4. World Almanac/NPCs/Victor Vallakovich (COS).md	father	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md		
 4. World Almanac/NPCs/Victor Vallakovich (COS).md	mother	4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md		
 4. World Almanac/NPCs/Vilnius (COS).md	location	4. World Almanac/Places of Interest/The Amber Temple.md		
-4. World Almanac/NPCs/Vladimir Horngaard (COS).md	member	4. World Almanac/Factions/Order of the Silver Dragon.md		
+4. World Almanac/NPCs/Vladimir Horngaard (COS).md	leader	4. World Almanac/Factions/Order of the Silver Dragon.md		field commander
+4. World Almanac/NPCs/Vladimir Horngaard (COS).md	enemy	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
+4. World Almanac/NPCs/Vladimir Horngaard (COS).md	home	4. World Almanac/Places of Interest/Argynvostholt.md		
 4. World Almanac/NPCs/Volenta Popofsky (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
 4. World Almanac/NPCs/Volenta Popofsky (COS).md	home	4. World Almanac/Places of Interest/Castle Ravenloft.md		catacombs, near Strahd's coffin
 4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
@@ -583,6 +600,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Zygfrek Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Zygfrek Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Zygfrek Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
+4. World Almanac/NPCs/Zygfrek Belview (COS).md	works-at	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		north gate; gravedigger
 4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	location	4. World Almanac/Settlements/Krezk.md		
 4. World Almanac/Places of Interest/Argynvostholt.md	location	4. World Almanac/Regions/Barovia.md		
 4. World Almanac/Places of Interest/Castle Ravenloft.md	location	4. World Almanac/Regions/Barovia.md		

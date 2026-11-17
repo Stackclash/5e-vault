@@ -13,7 +13,7 @@ images:
 aliases:
   - Vladimir Horngaard
 alignment: Lawful Neutral
-relationships: [ { target: "[[4. World Almanac/Factions/Order of the Silver Dragon.md|Order of the Silver Dragon]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Order of the Silver Dragon.md|Order of the Silver Dragon]]", type: leader, note: field commander }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy }, { target: "[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]", type: home } ]
 party_relationships:
   Midnight Covenant: Ally
 location: null

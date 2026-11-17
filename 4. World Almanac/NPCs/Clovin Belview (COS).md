@@ -27,7 +27,7 @@ history: >-
   as the Abbot's manservant, ringing the abbey bell (area S17) to call the
   mongrelfolk to dinner and doling out meals to the sixty-odd madhouse captives
   at his own discretion — which the starving prefer to call cruelty.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/The Abbot (COS).md|The Abbot]]", type: serves }, { target: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]", type: works-at } ]
 party_relationships:
   Midnight Covenant: Acquaintance
 location: >-
