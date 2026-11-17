@@ -6,7 +6,7 @@ const { VAULT } = require('./fm')
 
 const dryRun = process.argv.includes('--dry-run')
 const OUT = path.join(VAULT, 'z_Templates/Partials')
-const P = '> > '  // panel content depth (inside [!tabbed-box] > panel callout)
+const P = '> > '  // panel content depth (inside [!tabs] > panel callout)
 
 const buttons = new Map()
 const popButton = (field, label) => {
@@ -33,8 +33,9 @@ const INCLUDE_PLAYER_NO_REVEAL = '<% tp.file.include("[[z_Templates/Partials/Pla
 
 function tabBox(panels) {
   const names = panels.map(p => p.name)
-  const out = ['```meta-bind', `INPUT[select(class(tabbed), ${names.map(n => `option(${n})`).join(', ')}):memory^tab]`, '```',
-    '> [!tabbed-box]']
+  // The tab bar sits inside the box: reading view unloads off-screen blocks, and a tab bar in its own block
+  // was unloaded while a long panel was read, hiding every panel (T13, 2026-11-17).
+  const out = ['> [!tabs]', '> ```meta-bind', `> INPUT[select(class(tabbed), ${names.map(n => `option(${n})`).join(', ')}):memory^tab]`, '> ```', '>']
   panels.forEach((p, i) => {
     if (i) out.push('>')
     if (p.include) out.push(p.include)

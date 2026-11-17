@@ -1,7 +1,8 @@
-```meta-bind
-INPUT[select(class(tabbed), option(At the Table), option(Members), option(Clock), option(Player-Facing), option(DM)):memory^tab]
-```
-> [!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(At the Table), option(Members), option(Clock), option(Player-Facing), option(DM)):memory^tab]
+> ```
+>
 > > [!tab|no-t] At the Table
 > > **Goals** `BUTTON[pop-goals]`
 > > `INPUT[textArea:goals]`

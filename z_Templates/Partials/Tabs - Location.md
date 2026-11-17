@@ -1,7 +1,8 @@
-```meta-bind
-INPUT[select(class(tabbed), option(At the Table), option(What’s Here), option(Player-Facing), option(Map), option(DM)):memory^tab]
-```
-> [!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(At the Table), option(What’s Here), option(Player-Facing), option(Map), option(DM)):memory^tab]
+> ```
+>
 > > [!tab|no-t] At the Table
 > > **Atmosphere** `BUTTON[pop-atmosphere]`
 > > `INPUT[textArea:atmosphere]`

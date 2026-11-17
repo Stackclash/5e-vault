@@ -1,7 +1,8 @@
-```meta-bind
-INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Connections), option(DM)):memory^tab]
-```
-> [!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(Overview), option(Player-Facing), option(Connections), option(DM)):memory^tab]
+> ```
+>
 > > [!tab|no-t] Overview
 > > **Worlds** `INPUT[inlineListSuggester(optionQuery(#world)):worlds]`
 > >

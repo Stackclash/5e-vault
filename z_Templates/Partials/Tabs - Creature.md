@@ -1,7 +1,8 @@
-```meta-bind
-INPUT[select(class(tabbed), option(Overview), option(Connections), option(Stats), option(DM)):memory^tab]
-```
-> [!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(Overview), option(Connections), option(Stats), option(DM)):memory^tab]
+> ```
+>
 > > [!tab|no-t] Overview
 > > **Base creature** `INPUT[suggester(optionQuery("5. Mechanics/Bestiary")):base_creature]`
 > >

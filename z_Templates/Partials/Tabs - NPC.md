@@ -1,7 +1,8 @@
-```meta-bind
-INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
-```
-> [!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
+> ```
+>
 > > [!tab|no-t] At the Table
 > > **Appearance** `INPUT[text:appearance]`
 > >

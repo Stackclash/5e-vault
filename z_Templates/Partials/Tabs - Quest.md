@@ -1,7 +1,8 @@
-```meta-bind
-INPUT[select(class(tabbed), option(Steps), option(NPCs & Links), option(Description), option(Player-Facing), option(DM)):memory^tab]
-```
-> [!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(Steps), option(NPCs & Links), option(Description), option(Player-Facing), option(DM)):memory^tab]
+> ```
+>
 > > [!tab|no-t] Steps
 > > ```datacorejsx
 > > const { QuestSteps } = await dc.require("z_Scripts/Datacore/QuestSteps.tsx")

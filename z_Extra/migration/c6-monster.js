@@ -63,7 +63,7 @@ facts: []
 race: ""
 gender: ""
 age: ""
-alignment: {resource.alignment}
+alignment: {#if resource.alignment && resource.alignment.toLowerCase.startsWith('any')}""{#else}{resource.alignment}{/if}
 occupation: []
 appearance: ""
 voice: ""

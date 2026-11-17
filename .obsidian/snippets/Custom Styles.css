@@ -294,5 +294,41 @@
   display: block;
 }
 
+/* [!tabs]: the tab bar lives inside the tab box. Reading view unloads blocks that are far off-screen, and a
+   tab bar in its own block above [!tabbed-box] was unloaded while a long panel was read, hiding every panel
+   (2026-11-17). Panels are the box's direct child callouts; the first shows until a tab is picked. */
+.markdown-rendered .callout[data-callout="tabs"] { width: auto; clear: none; overflow: hidden; }
+:root:root .callout[data-callout="tabs"] {
+  --callout-content-padding: 0;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  mix-blend-mode: normal;
+}
+.callout[data-callout="tabs"] > .callout-title { display: none; }
+.callout[data-callout="tabs"] > .callout-content { padding: 0; }
+.callout[data-callout="tabs"] > .callout-content > .block-language-meta-bind { margin: 0; }
+.callout[data-callout="tabs"] > .callout-content > .callout {
+  display: none;
+  margin: 0;
+  border: var(--mb-border-width, 1px) solid var(--background-modifier-border);
+  border-top: none;
+  border-radius: 0 0 5px 5px;
+}
+.callout[data-callout="tabs"]:not(:has(.tabbed.mb-input-type-select > .is-selected)) > .callout-content > .callout:nth-child(1 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(1).is-selected) > .callout-content > .callout:nth-child(1 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(2).is-selected) > .callout-content > .callout:nth-child(2 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(3).is-selected) > .callout-content > .callout:nth-child(3 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(4).is-selected) > .callout-content > .callout:nth-child(4 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(5).is-selected) > .callout-content > .callout:nth-child(5 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(6).is-selected) > .callout-content > .callout:nth-child(6 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(7).is-selected) > .callout-content > .callout:nth-child(7 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(8).is-selected) > .callout-content > .callout:nth-child(8 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(9).is-selected) > .callout-content > .callout:nth-child(9 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(10).is-selected) > .callout-content > .callout:nth-child(10 of .callout) {
+  display: block;
+}
+
 /* Gist-strip callouts (e.g. the PC tagline): the input reads as a line of text */
 .callout[data-callout="gist"] input { background: transparent; border: none; box-shadow: none; width: 100%; }

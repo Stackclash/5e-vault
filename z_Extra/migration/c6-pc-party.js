@@ -8,7 +8,7 @@ const dryRun = process.argv.includes('--dry-run')
 const prefix = lines => lines.map(l => (l.trim() === '' ? '> >' : '> > ' + l))
 const trimBlank = lines => { while (lines.length && !lines[0].trim()) lines.shift(); while (lines.length && !lines[lines.length - 1].trim()) lines.pop(); return lines }
 const panel = (title, lines, type = 'tab|no-t') => [`> > [!${type}] ${title}`, ...prefix(trimBlank([...lines]))]
-const tabBox = panels => ['```meta-bind', `INPUT[select(class(tabbed), ${panels.map(p => `option(${p.name})`).join(', ')}):memory^tab]`, '```', '> [!tabbed-box]',
+const tabBox = panels => ['> [!tabs]', '> ```meta-bind', `> INPUT[select(class(tabbed), ${panels.map(p => `option(${p.name})`).join(', ')}):memory^tab]`, '> ```', '>',
   ...panels.flatMap((p, i) => [...(i ? ['>'] : []), ...(p.raw ?? panel(p.name, p.lines, p.type))])]
 const between = (lines, from, to) => {
   const a = lines.findIndex(l => from.test(l)); const b = to ? lines.findIndex((l, i) => i > a && to.test(l)) : lines.length
@@ -26,7 +26,7 @@ const PLAYER_INCLUDE = '<% tp.file.include("[[z_Templates/Partials/Player-Facing
 function relay(rel, build) {
   const f = path.join(VAULT, 'z_Templates/Templater', rel)
   const text = fs.readFileSync(f, 'utf8')
-  if (text.includes('[!tabbed-box]')) { console.log(`skip ${rel}: already tabbed`); return }
+  if ((text.includes('[!tabbed-box]') || text.includes('[!tabs]'))) { console.log(`skip ${rel}: already tabbed`); return }
   const out = build(text)
   if (dryRun) console.log(`would rewrite ${rel}: ${text.split('\n').length} -> ${out.split('\n').length} lines`)
   else { fs.writeFileSync(f, out); console.log(`rewrote ${rel}`) }

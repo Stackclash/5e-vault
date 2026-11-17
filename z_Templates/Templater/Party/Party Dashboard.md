@@ -101,10 +101,11 @@ funds: {cp: 0, sp: 0, ep: 0, gp: 0, pp: 0}
 await dv.view('views/entityHeader', {current: dv.current(), pronounced: false, editAll: false})
 ```
 
-```meta-bind
-INPUT[select(class(tabbed), option(Overview), option(Travel), option(Quests), option(Standing), option(Session Log), option(Timelines)):memory^tab]
-```
-> [!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(Overview), option(Travel), option(Quests), option(Standing), option(Session Log), option(Timelines)):memory^tab]
+> ```
+>
 > > [!tab|no-t] Overview
 > > > [!cards|dataview 3]
 > > >```dataview

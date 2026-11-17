@@ -1,7 +1,8 @@
-```meta-bind
-INPUT[select(class(tabbed), option(Inventory), option(At the Table), option(Player-Facing), option(DM)):memory^tab]
-```
-> [!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(Inventory), option(At the Table), option(Player-Facing), option(DM)):memory^tab]
+> ```
+>
 > > [!tab|no-t] Inventory
 > > `BUTTON[generate-inventory]` `BUTTON[add-item]`
 > >

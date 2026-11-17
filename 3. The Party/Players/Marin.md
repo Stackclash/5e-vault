@@ -835,10 +835,11 @@ actions:
       new Notice(`Updated ${character.name} from D&D Beyond`)
 ```
 
-```meta-bind
-INPUT[select(class(tabbed), option(Sheet), option(Skills), option(Features), option(Class Features), option(Spells), option(Inventory), option(Story), option(Player-Facing), option(DM)):memory^tab]
-```
-> [!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(Sheet), option(Skills), option(Features), option(Class Features), option(Spells), option(Inventory), option(Story), option(Player-Facing), option(DM)):memory^tab]
+> ```
+>
 > > [!tab|no-t] Sheet
 > > > [!infobox|n-th center wm-tl]
 > > > ### Status

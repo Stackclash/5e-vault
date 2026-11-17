@@ -1074,10 +1074,11 @@ actions:
 ```
 
 # Configuration
-```meta-bind
-INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Types'), option(3, 'Shop Configuration'), option(4, 'Item Pricing'), class(tabbed))]
-```
->[!tabbed-box]
+> [!tabs]
+> ```meta-bind
+> INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship Types'), option(3, 'Shop Configuration'), option(4, 'Item Pricing'), class(tabbed))]
+> ```
+>
 >>[!div-m] File Location Configuration
 >> > [!columns|no-t 3]
 >> >> ## DM Details

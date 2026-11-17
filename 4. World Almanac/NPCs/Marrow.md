@@ -55,75 +55,313 @@ secrets: |-
   STILL DM-ONLY: the amber graft (the "Marrow-rite" in Ascendency parlance) seated at the base of its skull is a sliver of the same stolen Eludrax soul-craft powering the Amber Wardens and the soul-vessel pipeline. Given prior contact with a target (blood, a grapple, or having watched them fight), the graft let Marrow draw on a whisper of that target's soul-print: trained reflexes, muscle memory, even a taste of talent, layered over its own shapeshifting for as long as the disguise held. This is why "Roark" fought like Roark. See Stats below for the mechanism and its cost. The party left the corpse in the street with the gem still in it and has examined neither — this is the live hook into the Amber Wardens thread.
   STILL DM-ONLY: rank and file, Marrow included, knew Vecna only by title — the Whispered One, God of Secrets, the Undying King.
 ---
-
 > [!infobox]
-> # `=this.file.name`
-> **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('views/imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
 >  |
 >  ---|---|
-> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
-> **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
-> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
+> **Race** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'race'})` |
+> **Gender** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'gender'})` |
+> **Age** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'age'})` |
+> **Alignment** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'alignment'})` |
 > ###### Info
 >  |
 >  ---|---|
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
-> **Occupation(s)** | `INPUT[inlineList:occupation]` |
+> **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
+> **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
-> **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['party_relationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
 
-# **`=this.file.name`**
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
-> [!column|no-t flex]
->> [!metadata|text-Center] Description
->> `INPUT[textArea:description]`
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
+> ```
 >
->> [!metadata|text-Center] History
->> `INPUT[textArea:history]`
+> > [!tab|no-t] At the Table
+> > **Appearance** `INPUT[text:appearance]`
+> >
+> > **Voice** `BUTTON[pop-voice]`
+> > `INPUT[textArea:voice]`
+> >
+> > **Goals** `BUTTON[pop-goals]`
+> > `INPUT[textArea:goals]`
+> >
+> > **Personality** `BUTTON[pop-personality]`
+> > `INPUT[textArea:personality]`
+> >
+> > **Ideal** `BUTTON[pop-ideal]`
+> > `INPUT[textArea:ideal]`
+> >
+> > **Bond** `BUTTON[pop-bond]`
+> > `INPUT[textArea:bond]`
+> >
+> > **Flaw** `BUTTON[pop-flaw]`
+> > `INPUT[textArea:flaw]`
+> >
+> > **Likes** `BUTTON[pop-likes]`
+> > `INPUT[textArea:likes]`
+> >
+> > **Dislikes** `BUTTON[pop-dislikes]`
+> > `INPUT[textArea:dislikes]`
+>
+> > [!tab|no-t] Lore
+> > **Description** `BUTTON[pop-description]`
+> > `INPUT[textArea:description]`
+> >
+> > **History** `BUTTON[pop-history]`
+> > `INPUT[textArea:history]`
+>
+> > [!player] Player-Facing
+> > **Revealed to the party** `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['revealed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})`
+> >
+> > **Public name** `$=await dv.view('utils/metaBindInput', {type: 'text', field: ['public_name', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (optional: shown instead of the note name)
+> >
+> > **Also show** `$=await dv.view('utils/metaBindInput', {type: 'inlineList', field: ['reveal', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (extra fields the site may show, e.g. images, occupation)
+> >
+> > **Summary** `BUTTON[pop-summary]`
+> > `INPUT[textArea:summary]`
+> >
+> > **Facts**
+> > ```datacorejsx
+> > const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
+> > return function View() { return <FactsTable /> }
+> > ```
+>
+> > [!tab|no-t] Connections
+> > `BUTTON[add-relationship]` `BUTTON[remove-relationship]`
+> >
+> > ```dataviewjs
+> > await dv.view("views/npcRelationships", { current: dv.current() })
+> > ```
+> >
+> > **Quests**
+> > ```dataview
+> > LIST FROM #quest WHERE contains(npcs.name, this.file.link)
+> > ```
+> >
+> > **Sessions**
+> > ```dataview
+> > LIST FROM #session-journal WHERE contains(npcs, this.file.link) SORT session_number ASC
+> > ```
+>
+> > [!tab|no-t] Stats
+> > *Reskin of [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md|Doppelganger]] (CR 3, MM p.82) — same chassis, hardened by survival and given one signature ability. Tonight's fight ("Roark") is run directly off [[3. The Party/Players/Roark Battleborn|Roark Battleborn]]'s own character sheet per the Marrow-rite below, not off this block — this statblock is Marrow's baseline/true form for any future appearance without a borrowed identity active. See DM Notes for CR rationale.*
+> > ```statblock
+> > name: Marrow
+> > size: Medium
+> > type: monstrosity
+> > subtype: shapechanger
+> > alignment: Neutral Evil
+> > ac: 15
+> > hp: 66
+> > hit_dice: 12d8 + 12
+> > modifier: 4
+> > speed: 30 ft.
+> > stats:
+> >   - 11
+> >   - 18
+> >   - 12
+> >   - 13
+> >   - 14
+> >   - 16
+> > skillsaves:
+> >   - name: "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
+> >     desc: "+9"
+> >   - name: "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
+> >     desc: "+5"
+> >   - name: "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
+> >     desc: "+6"
+> > condition_immunities: "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]"
+> > senses: "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception 12"
+> > languages: Common, plus any two others it has recently stolen
+> > cr: "4"
+> > traits:
+> >   - name: Shapechanger
+> >     desc: "Marrow can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form unless Marrow-rite is active (below). Any equipment it is wearing or carrying isn't transformed. It reverts to its true form immediately if it dies or is knocked unconscious."
+> >   - name: Marrow-rite (1/Long Rest)
+> >     desc: "Given prior contact with a specific creature within the last 24 hours (drawn its blood, grappled it, or watched it fight), Marrow can graft a whisper of that creature's soul-print over its own while disguised as them, using that creature's game statistics (attacks, class features, and saving throws, but not spells requiring lengthy preparation) in place of its own for up to 1 hour. Starting the second hour, and every hour thereafter, Marrow takes 1d6 necrotic damage at the start of its turn as the graft burns hot. If Marrow drops to 0 hit points while grafted, it reverts to its true form and true statistics before damage is finalized."
+> >   - name: Ambusher
+> >     desc: "In the first round of a combat, Marrow has advantage on attack rolls against any creature it [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]."
+> >   - name: Cunning Escape
+> >     desc: "As a reaction when a creature Marrow can see targets it with an attack, Marrow can move up to half its speed without provoking opportunity attacks, provided it ends the movement out of the attacker's reach or line of sight."
+> > actions:
+> >   - name: Multiattack
+> >     desc: "Marrow makes two Slam attacks."
+> >   - name: Slam
+> >     desc: "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 4) bludgeoning damage."
+> >   - name: Read Thoughts
+> >     desc: "Marrow magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, Marrow can continue reading its thoughts, as long as its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]] isn't broken (as if concentrating on a spell). While reading the target's mind, Marrow has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target."
+> > source:
+> >   - Homebrew
+> > ```
+>
+> > [!dm] DM
+> > ```dataviewjs
+> > await dv.view("views/dmPanel", {current: dv.current()})
+> > ```
+> >
+> > `BUTTON[edit-dm-notes]`
+> > ## DM Notes
+> > ### Hidden Details
+> > See Secrets above for the full picture: cell leadership, the Velmont/Gousse burn, the Roark ambush and its two real motives, the framing plan, and the Marrow-rite mechanism.
+> >
+> > ### General Notes
+> > **Stat block design (2026-08-01):** Reskin of the MM Doppelganger (CR 3), kept close to the original chassis — the published block already undershoots the DMG's CR3 table (AC/HP well below the row) because its value is utility, not raw combat math; Marrow follows that same logic rather than fighting it. Bumped AC 14→15 and HP 52→66 (added ~1 hit die worth) to reflect a hardened survivor rather than a fresh specimen, kept Multiattack/Slam damage identical to stock, and added two new traits: **Cunning Escape** (thematic, low mechanical weight — comparable to plenty of CR3 skirmisher reactions) and **Marrow-rite**, the signature ability that justifies the character concept.
+> >
+> > Marrow-rite is the one axis that doesn't reduce to a clean CR shift: at baseline it does nothing (no active graft), but for its duration it can make Marrow *functionally as dangerous as whatever creature he's copying* — a level 10 PC, in tonight's case. That's a power ceiling no flat CR can honestly represent. Landed on CR 4 (one step above stock) as the *baseline* rating for use when Marrow is fighting as himself or a lower-stakes target; **any encounter where Marrow-rite is actively grafted onto someone significant should be treated as a second, separate creature layered on top for encounter-balancing purposes, not as "CR 4."** Tonight's fight sidesteps this by having the player run Roark's real sheet directly rather than trying to simulate the graft through this block.
+> >
+> > **Cunning Escape and Marrow-rite together are also the reason he's survived two blown identities in one afternoon** — if you need him to escape again in a future appearance, this block already supports it without further reskinning.
 
-## Traits/Goals
-> [!column|no-t flex]
->> [!metadata|text-Center bg-c-yellow] Personality
->> `INPUT[textArea:personality]`
->
->> [!metadata|text-Center bg-c-pink] Ideal
->> `INPUT[textArea:ideal]`
->
->> [!metadata|text-Center bg-c-brown] Bond
->> `INPUT[textArea:bond]`
->
->> [!metadata|text-Center bg-c-orange] Flaw
->> `INPUT[textArea:flaw]`
->
->> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[textArea:likes]`
->
->> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[textArea:dislikes]`
->
->> [!metadata|text-Center] Goals
->> `INPUT[textArea:goals]`
-
-## Player-Facing
-> [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:summary]`
-
-## Secrets
-`INPUT[textArea:secrets]`
-
-## Relationships
-`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Voice in a larger window
+style: default
+id: pop-voice
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: voice
+      label: Voice
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Goals in a larger window
+style: default
+id: pop-goals
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: goals
+      label: Goals
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Personality in a larger window
+style: default
+id: pop-personality
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: personality
+      label: Personality
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Ideal in a larger window
+style: default
+id: pop-ideal
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: ideal
+      label: Ideal
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Bond in a larger window
+style: default
+id: pop-bond
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: bond
+      label: Bond
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Flaw in a larger window
+style: default
+id: pop-flaw
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: flaw
+      label: Flaw
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Likes in a larger window
+style: default
+id: pop-likes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: likes
+      label: Likes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Dislikes in a larger window
+style: default
+id: pop-dislikes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: dislikes
+      label: Dislikes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Description in a larger window
+style: default
+id: pop-description
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: description
+      label: Description
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit History in a larger window
+style: default
+id: pop-history
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: history
+      label: History
+```
 ```meta-bind-button
 style: primary
 label: Add Relationship
@@ -142,92 +380,41 @@ actions:
   - type: runTemplaterFile
     templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
 ```
-> [!div | no-t clean txt-c]
-> `$=await dv.view("views/npcRelationships", { current: dv.current() })`
-
-## Quests
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-  const columns = [
-    {
-      id: 'Quest',
-      value: (row) => row.$link
-    },
-    {
-      id: 'Description',
-      value: (row) => row.$frontmatter.description.raw || ''
-    },
-    {
-      id: 'Involvement',
-      value: (row) => row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)).description || ''
-    }
-  ]
-  
-  return <dc.Table rows={quests} columns={columns}/>
-}
-```
-
-## Stats
-*Reskin of [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md|Doppelganger]] (CR 3, MM p.82) — same chassis, hardened by survival and given one signature ability. Tonight's fight ("Roark") is run directly off [[3. The Party/Players/Roark Battleborn|Roark Battleborn]]'s own character sheet per the Marrow-rite below, not off this block — this statblock is Marrow's baseline/true form for any future appearance without a borrowed identity active. See DM Notes for CR rationale.*
-```statblock
-name: Marrow
-size: Medium
-type: monstrosity
-subtype: shapechanger
-alignment: Neutral Evil
-ac: 15
-hp: 66
-hit_dice: 12d8 + 12
-modifier: 4
-speed: 30 ft.
-stats:
-  - 11
-  - 18
-  - 12
-  - 13
-  - 14
-  - 16
-skillsaves:
-  - name: "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
-    desc: "+9"
-  - name: "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
-    desc: "+5"
-  - name: "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
-    desc: "+6"
-condition_immunities: "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]"
-senses: "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception 12"
-languages: Common, plus any two others it has recently stolen
-cr: "4"
-traits:
-  - name: Shapechanger
-    desc: "Marrow can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form unless Marrow-rite is active (below). Any equipment it is wearing or carrying isn't transformed. It reverts to its true form immediately if it dies or is knocked unconscious."
-  - name: Marrow-rite (1/Long Rest)
-    desc: "Given prior contact with a specific creature within the last 24 hours (drawn its blood, grappled it, or watched it fight), Marrow can graft a whisper of that creature's soul-print over its own while disguised as them, using that creature's game statistics (attacks, class features, and saving throws, but not spells requiring lengthy preparation) in place of its own for up to 1 hour. Starting the second hour, and every hour thereafter, Marrow takes 1d6 necrotic damage at the start of its turn as the graft burns hot. If Marrow drops to 0 hit points while grafted, it reverts to its true form and true statistics before damage is finalized."
-  - name: Ambusher
-    desc: "In the first round of a combat, Marrow has advantage on attack rolls against any creature it [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]."
-  - name: Cunning Escape
-    desc: "As a reaction when a creature Marrow can see targets it with an attack, Marrow can move up to half its speed without provoking opportunity attacks, provided it ends the movement out of the attacker's reach or line of sight."
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
 actions:
-  - name: Multiattack
-    desc: "Marrow makes two Slam attacks."
-  - name: Slam
-    desc: "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 4) bludgeoning damage."
-  - name: Read Thoughts
-    desc: "Marrow magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, Marrow can continue reading its thoughts, as long as its [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]] isn't broken (as if concentrating on a spell). While reading the target's mind, Marrow has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target."
-source:
-  - Homebrew
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
 ```
-^statblock
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Summary in a larger window
+style: default
+id: pop-summary
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: summary
+      label: Summary
+```
 
-## DM Notes
-### Hidden Details
-See Secrets above for the full picture: cell leadership, the Velmont/Gousse burn, the Roark ambush and its two real motives, the framing plan, and the Marrow-rite mechanism.
-
-### General Notes
-**Stat block design (2026-08-01):** Reskin of the MM Doppelganger (CR 3), kept close to the original chassis — the published block already undershoots the DMG's CR3 table (AC/HP well below the row) because its value is utility, not raw combat math; Marrow follows that same logic rather than fighting it. Bumped AC 14→15 and HP 52→66 (added ~1 hit die worth) to reflect a hardened survivor rather than a fresh specimen, kept Multiattack/Slam damage identical to stock, and added two new traits: **Cunning Escape** (thematic, low mechanical weight — comparable to plenty of CR3 skirmisher reactions) and **Marrow-rite**, the signature ability that justifies the character concept.
-
-Marrow-rite is the one axis that doesn't reduce to a clean CR shift: at baseline it does nothing (no active graft), but for its duration it can make Marrow *functionally as dangerous as whatever creature he's copying* — a level 10 PC, in tonight's case. That's a power ceiling no flat CR can honestly represent. Landed on CR 4 (one step above stock) as the *baseline* rating for use when Marrow is fighting as himself or a lower-stakes target; **any encounter where Marrow-rite is actively grafted onto someone significant should be treated as a second, separate creature layered on top for encounter-balancing purposes, not as "CR 4."** Tonight's fight sidesteps this by having the player run Roark's real sheet directly rather than trying to simulate the graft through this block.
-
-**Cunning Escape and Marrow-rite together are also the reason he's survived two blown identities in one afternoon** — if you need him to escape again in a future appearance, this block already supports it without further reskinning.
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```
