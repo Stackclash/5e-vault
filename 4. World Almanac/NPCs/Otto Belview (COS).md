@@ -26,7 +26,7 @@ history: >-
   Belview]], he is one of the few mongrelfolk trusted to guard the abbey's north
   gate by day and dig up fresh graves in Krezk by night — a task he performs
   poorly but with tremendous, oblivious confidence.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
@@ -43,8 +43,6 @@ age: 51
 occupation:
   - Gate guard
   - Gravedigger
-groups:
-  - Belview family
 religions:
   - The Morninglord
 personality: 'Vain, dim-witted, good-natured despite the horror of it all'
@@ -79,7 +77,7 @@ dislikes: 'Locked gates, empty graves, anyone who won''t play along with his boa
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

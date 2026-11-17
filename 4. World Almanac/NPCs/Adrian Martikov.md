@@ -11,6 +11,8 @@ facts: []
 relationships:
   - target: "[[4. World Almanac/NPCs/Davian Martikov (COS).md|Davian Martikov]]"
     type: father
+  - target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]"
+    type: member
 tags:
   - npc
   - compendium/src/5e/cos
@@ -22,8 +24,6 @@ age: 37
 alignment: Neutral Good
 occupation:
   - Vintner
-groups:
-  - Keepers of the Feather
 religions:
 personality: Hardworking, practical, deeply loyal to his family and cause
 ideal: We must protect our own and fight against the darkness that encroaches.
@@ -55,7 +55,7 @@ party_relationships:
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

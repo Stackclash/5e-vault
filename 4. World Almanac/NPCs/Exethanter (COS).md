@@ -40,8 +40,6 @@ age: null
 occupation:
   - Self-appointed keeper of the Amber Temple
   - Former archmage
-groups:
-  - The Amber Temple's original order of wizards (last survivor)
 religions: []
 personality: >-
   Detached and scholarly, but his mind is fraying — he forgets his own name and
@@ -83,7 +81,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs
@@ -258,6 +256,8 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > >
 > > `BUTTON[edit-dm-notes]`
 > > ## DM Notes
+> > Group (from the old groups field): The Amber Temple's original order of wizards (last survivor)
+> >
 > > ### Plot Hooks
 > >
 > >

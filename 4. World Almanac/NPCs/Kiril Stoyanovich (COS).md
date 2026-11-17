@@ -29,7 +29,7 @@ history: >-
   in his werewolf servants. The dire wolves dragged Emil away to Castle
   Ravenloft, and Kiril reasserted his dominance — ruling now through fear of
   Strahd's wrath as much as his own.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: null
@@ -45,8 +45,6 @@ age: 47
 occupation:
   - Pack leader
   - Strahd's enforcer among the werewolves
-groups:
-  - Children of Mother Night
 religions:
   - Mother Night
 personality: 'Domineering, ruthless, and quick to violence when his authority is questioned'
@@ -85,7 +83,7 @@ dislikes: 'Dissent, weakness, being made to look foolish in front of the pack'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

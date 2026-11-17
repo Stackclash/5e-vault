@@ -22,7 +22,7 @@ history: >-
   coins as if bestowed by “princes of darkness,” reinforcing her claim to speak
   for infernal powers. It otherwise stays out of sight and fights only if Fiona
   herself is threatened.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member, note: Fiona Wachter's cult } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 gist: ""
@@ -36,8 +36,6 @@ gender: male
 age: null
 occupation:
   - Familiar
-groups:
-  - Fiona Wachter’s Cult
 religions: []
 personality: 'Sly, theatrical, utterly devoted to Fiona'
 ideal: Whatever serves my mistress serves me.
@@ -71,7 +69,7 @@ dislikes: 'Being ignored, anything that threatens Fiona’s schemes'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

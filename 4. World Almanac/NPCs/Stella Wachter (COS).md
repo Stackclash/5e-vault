@@ -28,7 +28,7 @@ history: >-
   nothing kind to say about Victor, and, having no one else left to trust in
   Vallaki, will gladly accept a place in Father Lucian's care at St. Andral's
   church if the characters bring her there.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 gist: ""
@@ -41,8 +41,6 @@ race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 19
 occupation: []
-groups:
-  - House Wachter
 religions: []
 personality: >-
   Currently convinced she is a cat - feral, frightened, and starved for any real
@@ -84,7 +82,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

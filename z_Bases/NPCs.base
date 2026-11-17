@@ -2,8 +2,11 @@ filters:
   and:
     - file.tags.contains("npc")
 formulas:
+  factions: 'relationships.filter(value.isType("object") && ["member", "leader", "founder", "agent", "former-member"].contains(value.type)).map(value.target)'
   relationships: party_relationships.keys().map(value + '(' + party_relationships[value] + ')').join(', ')
 properties:
+  formula.factions:
+    displayName: factions
   formula.relationships:
     displayName: party relationships
 views:
@@ -23,7 +26,7 @@ views:
       - occupation
       - location
       - formula.relationships
-      - groups
+      - formula.factions
       - religions
       - description
       - history
@@ -54,7 +57,7 @@ views:
       - occupation
       - location
       - formula.relationships
-      - groups
+      - formula.factions
       - religions
       - description
       - history

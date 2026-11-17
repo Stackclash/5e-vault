@@ -12,7 +12,7 @@ images: []
 aliases:
   - Ludmilla Vilisevic
 alignment: Neutral Evil
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member } ]
 party_relationships: {}
 location: null
 gist: ""
@@ -25,8 +25,6 @@ race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 24
 occupation: []
-groups:
-  - Strahd's brides
 religions: []
 personality: >-
   Vain and pining even in undeath — clings to the memory of being chosen, though
@@ -68,7 +66,7 @@ history: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

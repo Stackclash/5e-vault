@@ -18,7 +18,7 @@ description: >-
   betray a year spent in solitary vigil. He kneels before the claw-scarred altar
   of Barovia's church at all hours, his prayers only occasionally drowned out by
   the inhuman screams rising from beneath the floor.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Clergy of the Morninglord.md|Clergy of the Morninglord]]", type: member } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: ""
@@ -32,8 +32,6 @@ gender: male
 age: 50
 occupation:
   - Priest
-groups:
-  - Clergy of the Morninglord
 religions:
   - Morninglord
 personality: 'Devout, troubled, compassionate'
@@ -77,7 +75,7 @@ history: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -28,7 +28,7 @@ history: >-
   the dusk elf women and mutilate her brother Kasimir for his role in her death.
   She now speaks to Kasimir in dreams, claiming a repentance she does not feel,
   hoping he will find a way to restore her to life and power.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member } ]
 party_relationships: {}
 location: null
 gist: ""
@@ -43,8 +43,6 @@ age: null
 occupation:
   - Archmage
   - Would-be bride of Strahd von Zarovich
-groups:
-  - Dusk elves of Barovia
 religions:
   - The nameless god of secrets
 personality: >-
@@ -87,7 +85,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

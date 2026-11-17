@@ -10,7 +10,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/NPCs/Caldris Velmont.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Umbral Athenaeum Council.md|Umbral Athenaeum Council]]", type: member } ]
 tags:
   - npc
   - monster/cr/12
@@ -26,8 +26,6 @@ age: 48
 alignment: Neutral Evil
 occupation:
   - Councilor of Enchantment
-groups:
-  - Umbral Athenaeum Council
 religions: []
 description: |-
   Lord Caldris Velmont is a strikingly handsome human dressed in elegant aristocratic robes adorned with gold-thread embroidery. His dark hair is always perfectly styled, and several rings bearing subtle enchantment runes adorn his fingers.
@@ -73,7 +71,7 @@ voice: Proper speech
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

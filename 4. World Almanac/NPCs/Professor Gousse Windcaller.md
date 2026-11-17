@@ -10,7 +10,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/NPCs/Gousse Windcaller.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Umbral Athenaeum Council.md|Umbral Athenaeum Council]]", type: member } ]
 tags:
   - npc
 aliases:
@@ -23,8 +23,6 @@ alignment: Neutral Good
 occupation:
   - Councilor of Conjuration
   - Professor of Planar Studies
-groups:
-  - Umbral Athenaeum Council
 religions: []
 description: |-
   Professor Gousse is a tall aarakocra with sleek ash-gray feathers tipped in white along his wings and crest. His sharp golden eyes rarely blink, giving the impression that he is constantly studying everything in the room at once. His robes are specially tailored to allow his wings to fold comfortably through slits in the back, and the fabric is embroidered with silver glyphs representing planar gateways and summoning circles.
@@ -76,7 +74,7 @@ party_relationships:
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

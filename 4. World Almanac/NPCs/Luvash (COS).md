@@ -25,7 +25,7 @@ history: >-
   only real tenderness reserved for his young daughter, Arabelle, whose recent
   disappearance from camp has driven him to send half his people into the woods
   to search for her.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Vallaki camp } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""
@@ -40,8 +40,6 @@ age: 43
 occupation:
   - Vistani chieftain
   - Bandit captain
-groups:
-  - Vistani (Vallaki camp)
 religions: []
 personality: 'Brutal, domineering, feared even by his own people'
 ideal: Strength earns obedience; weakness is punished.
@@ -75,7 +73,7 @@ dislikes: 'Weakness, disobedience, outsiders who threaten his camp'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -24,7 +24,7 @@ history: >-
   "perfection." Alongside her partner [[Otto Belview (COS)|Otto Belview]], she
   guards the abbey's north gate by day and digs up fresh graves in Krezk by
   night, resenting every imagined slight along the way.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
@@ -41,8 +41,6 @@ age: 46
 occupation:
   - Gate guard
   - Gravedigger
-groups:
-  - Belview family
 religions:
   - The Morninglord
 personality: 'Gruff, defensive, quietly resentful'
@@ -76,7 +74,7 @@ dislikes: 'Stares, whispers, being laughed at'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

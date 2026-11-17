@@ -34,7 +34,6 @@ gender: male
 age: 25
 occupation:
   - Burgomaster
-groups: []
 religions: []
 personality: 'Protective, responsible, deeply concerned for his sister''s safety'
 ideal: 'Duty above all, especially to family and those under my care.'
@@ -76,7 +75,7 @@ history: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

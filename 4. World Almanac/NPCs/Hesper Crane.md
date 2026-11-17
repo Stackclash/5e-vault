@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: member } ]
 tags:
   - npc
   - monster/cr/8
@@ -25,8 +25,6 @@ age: 51
 alignment: Neutral Evil
 occupation:
   - Silent Ascendency Logistics Handler, The Cinderworks
-groups:
-  - Silent Ascendency
 religions: []
 description: |-
   Grey-haired and wiry, dressed like a foreman rather than a cultist — soot-stained coat, ledger always under one arm. A milky scar closes her left eye, a souvenir from a smuggling run that went wrong decades before the Ascendency ever found her useful. She counts everything twice, out loud, under her breath, whether or not anyone's listening.
@@ -69,7 +67,7 @@ secrets: |-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

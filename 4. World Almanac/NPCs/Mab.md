@@ -14,6 +14,8 @@ relationships:
   - target: "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga]]"
     type: ally
     note: of convenience
+  - target: "[[4. World Almanac/Factions/Gloaming Court.md|Gloaming Court]]"
+    type: member
 tags:
   - npc
 aliases:
@@ -27,8 +29,6 @@ alignment: Chaotic Neutral
 occupation:
   - Queen of Air and Darkness
   - Ruler of the Gloaming Court
-groups:
-  - Gloaming Court
 religions: []
 description: >-
   Mab appears as a tall, sharp-featured woman wrapped in layers of dusk-grey and
@@ -88,7 +88,7 @@ party_relationships:
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -21,7 +21,7 @@ history: >-
   camp outside Vallaki. A skilled tracker, he was searching the woods for the
   missing [[Arabelle (COS)|Arabelle]] when a wandering mob of needle blights
   forced him to take refuge, wounded, inside [[Argynvostholt]].
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member, note: last of }, { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: "Vallaki camp, allied" } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""
@@ -36,9 +36,6 @@ age: 430
 occupation:
   - Scout
   - Tracker
-groups:
-  - Dusk elves (last of)
-  - 'Vistani (Vallaki camp, allied)'
 religions: []
 personality: 'Loyal, watchful, quietly weary from centuries of subjugation'
 ideal: 'Protect what''s left of his people, whatever the cost.'
@@ -74,7 +71,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -13,7 +13,7 @@ images:
 aliases:
   - Rictavio
 alignment: Lawful Good
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]", type: ally } ]
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
@@ -29,8 +29,6 @@ age: 60
 occupation:
   - Carnival ringmaster (disguise)
   - Vampire hunter (true identity — Rudolph van Richten)
-groups:
-  - Keepers of the Feather (ally)
 religions: []
 personality: >-
   Wary, calculating, and haunted — plays the jovial showman but trusts almost no
@@ -77,7 +75,7 @@ history: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/The Unbroken Circle.md|The Unbroken Circle]]", type: member }, { target: "[[4. World Almanac/Factions/Dusk Elves of Duskferry.md|Dusk Elves of Duskferry]]", type: member } ]
 tags:
   - npc
 aliases:
@@ -23,9 +23,6 @@ alignment: Neutral Good
 occupation:
   - Elder, dusk elf enclave of Duskferry
   - Shrine-keeper, Eilistraee
-groups:
-  - The Unbroken Circle
-  - Dusk Elves of Duskferry
 religions:
   - "[[Drow Eilistraee (MTF)|Eilistraee]]"
 description: |-
@@ -68,7 +65,7 @@ secrets: |-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

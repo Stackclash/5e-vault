@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: member } ]
 tags:
   - npc
   - monster/cr/10
@@ -23,8 +23,6 @@ age: null
 alignment: Unaligned
 occupation:
   - Guardian construct, Silent Ascendency soul-vessel works
-groups:
-  - Silent Ascendency
 religions: []
 description: |-
   A hulking, roughly humanoid shape of fitted grey stone, seamed rather than carved — as if assembled, not sculpted. Thread-thin veins of amber run beneath its surface in the same pattern as the graft found on Marrow's corpse, but scaled up and multiplied: three fist-sized amber conduits are set into its shoulders and chest, each glowing faintly, each holding what looks — to anyone who stops to really look — like a slow, trapped current of light. When it moves, the amber pulses in time with its steps, and if a fight goes on long enough, a faint chorus of overlapping voices becomes audible from inside it, wordless and exhausted.
@@ -67,7 +65,7 @@ secrets: |-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

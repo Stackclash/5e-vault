@@ -26,7 +26,7 @@ history: >-
   his defeat broke his mind. He has since cast mind blank on himself, a spell
   that — while active — prevents any magic from restoring his sanity or his
   memory of who he truly is.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Circle of Eight.md|Circle of Eight]]", type: member } ]
 party_relationships: {}
 location: null
 gist: ""
@@ -41,8 +41,6 @@ age: 300
 occupation:
   - Archmage
   - Circle of Eight (former leader)
-groups:
-  - Circle of Eight
 religions: []
 personality: >-
   While mad: paranoid and violent, convinced enemies are hunting him everywhere.
@@ -80,7 +78,7 @@ dislikes: 'Being underestimated, fools, Strahd von Zarovich'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

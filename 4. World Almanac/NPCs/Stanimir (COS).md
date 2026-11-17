@@ -23,7 +23,7 @@ history: >-
   tale of a cursed, noble prince, then guides those who agree to help back
   through the mists to Barovia — delivering them safely to Madam Eva's camp at
   [[Tser Pool]] before his own part in their story ends.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Tser Pool camp } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 gist: ""
@@ -38,8 +38,6 @@ age: 61
 occupation:
   - Vistani wizard
   - Caravan leader
-groups:
-  - Vistani (Tser Pool camp)
 religions: []
 personality: 'Charismatic storyteller, calculating, protective of his own'
 ideal: The clan's safety and freedom come before any oath to outsiders.
@@ -73,7 +71,7 @@ dislikes: 'Being doubted, threats to his children, reckless outsiders'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

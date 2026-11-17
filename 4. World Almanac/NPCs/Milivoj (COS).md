@@ -29,7 +29,7 @@ history: >-
   it, leaving the church without its protection against Strahd's minions. Father
   Lucian suspects him but hasn't confronted him, fearing what the temperamental
   young man might do.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Places of Interest/St. Andral's Church.md|St. Andral's Church]]", type: works-at } ]
 party_relationships: {}
 location: null
 gist: ""
@@ -44,8 +44,6 @@ age: 17
 occupation:
   - Gravedigger
   - Groundskeeper
-groups:
-  - St. Andral's Church
 religions: []
 personality: 'Brooding, temperamental, protective; carries himself like a man twice his age'
 ideal: 'Family comes before anything else, even the law.'
@@ -77,7 +75,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

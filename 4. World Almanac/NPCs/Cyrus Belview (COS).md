@@ -26,7 +26,7 @@ history: >-
   Saint Markovia's madhouse, Cyrus somehow found his way into [[Strahd Von
   Zarovich (COS)|Strahd von Zarovich]]'s service and has tended Castle Ravenloft
   as the vampire's devoted, half-mad manservant for longer than he can remember.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
 party_relationships:
   Midnight Covenant: Acquaintance
 location: >-
@@ -43,8 +43,6 @@ gender: male
 age: 48
 occupation:
   - Strahd's manservant (Castle Ravenloft)
-groups:
-  - Belview family
 religions:
   - The Morninglord
 personality: 'Meek, obliging, somewhat naive'
@@ -81,7 +79,7 @@ dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

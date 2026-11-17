@@ -23,7 +23,7 @@ history: >-
   "perfection." She is chained to a post in the abbey's courtyard, convinced
   that unseen enemies watch her every move; only her brother [[Clovin Belview
   (COS)|Clovin Belview]] can get close enough to feed her.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
@@ -39,8 +39,6 @@ gender: female
 age: 32
 occupation:
   - Abbey captive
-groups:
-  - Belview family
 religions:
   - The Morninglord
 personality: 'Paranoid, skittish, feral'
@@ -73,7 +71,7 @@ dislikes: 'Strangers, being watched, sudden movement, cages'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

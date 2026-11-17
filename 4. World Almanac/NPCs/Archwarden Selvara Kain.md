@@ -10,7 +10,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/NPCs/Selvara Kain.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Umbral Athenaeum Council.md|Umbral Athenaeum Council]]", type: member } ]
 tags:
   - npc
 aliases:
@@ -23,8 +23,6 @@ alignment: Lawful Neutral
 occupation:
   - Councilor of Abjuration
   - Defensive Magic Master
-groups:
-  - Umbral Athenaeum Council
 religions: []
 personality: Disciplined, calm, and authoritative.
 ideal: Protection above all. Knowledge must be guarded.
@@ -68,7 +66,7 @@ history: |-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: member } ]
 tags:
   - npc
   - monster/cr/5
@@ -23,8 +23,6 @@ age: null
 alignment: Unaligned
 occupation:
   - Incomplete guardian construct, Silent Ascendency soul-vessel works
-groups:
-  - Silent Ascendency
 religions: []
 description: |-
   A Warden that isn't finished. The frame is there — legs, spine, the heavy shoulders — but the fitted plating stops partway up the chest, leaving the internal armature open to the air: raw stone, iron banding, and a single amber conduit socketed where three should be. It has no face yet. The apertures the finished models use for eyes are unbored, and it navigates by something else entirely, turning its blank head toward sound and warmth with an unpleasant, insectile deliberateness.
@@ -67,7 +65,7 @@ secrets: |-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

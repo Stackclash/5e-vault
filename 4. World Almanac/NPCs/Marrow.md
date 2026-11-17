@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: member } ]
 tags:
   - npc
   - monster/cr/4
@@ -25,8 +25,6 @@ age: null
 alignment: Neutral Evil
 occupation:
   - Silent Ascendency Cell Leader, Bruokdon
-groups:
-  - Silent Ascendency
 religions: []
 description: |-
   In its true form, Marrow is a gaunt, grey-skinned humanoid with smooth, half-formed features — the standard doppelganger blank, unremarkable until it chooses to be. It rarely shows this face to anyone still breathing.
@@ -81,7 +79,7 @@ secrets: |-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

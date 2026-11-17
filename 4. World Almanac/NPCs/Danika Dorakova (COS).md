@@ -31,6 +31,8 @@ relationships:
     type: husband
   - target: "[[4. World Almanac/NPCs/Brom Martikov (COS).md|Brom Martikov]]"
     type: son
+  - target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]"
+    type: member
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
@@ -46,8 +48,6 @@ age: 34
 occupation:
   - Innkeeper
   - Barkeep
-groups:
-  - Keepers of the Feather
 religions: []
 personality: 'Warm but sharp-eyed, fiercely protective of her family and patrons'
 ideal: 'A safe home is worth defending with tooth, claw, and steel.'
@@ -84,7 +84,7 @@ dislikes: 'Strahd’s spies, danger to her sons, wasted wine'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

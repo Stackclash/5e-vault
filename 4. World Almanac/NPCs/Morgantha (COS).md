@@ -30,7 +30,7 @@ history: >-
   Morgantha gave her coven's hag eye to Cyrus Belview, Strahd's disfigured
   manservant, so she could spy on Castle Ravenloft and stay a step ahead of the
   vampire she fears and respects.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Morgantha's Coven.md|Morgantha's Coven]]", type: member } ]
 party_relationships: {}
 location: null
 gist: ""
@@ -45,8 +45,6 @@ age: null
 occupation:
   - Proprietor of Old Bonegrinder
   - Baker of dream pastries
-groups:
-  - Morgantha's Coven
 religions:
   - Ceithlenn of the Crooked Teeth
 personality: >-
@@ -93,7 +91,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

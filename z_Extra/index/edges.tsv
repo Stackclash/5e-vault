@@ -323,175 +323,177 @@ source	type	target	learned_by	note
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Professor Gousse Windcaller.md		Guides the party through the Well of Many Worlds' resonance principle and the planned route.
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Baba Lysaga (COS).md		Ambushes the party in the Feywild, disguised as a fey bargain-broker, in revenge for Strahd's death.
 3. The Party/Quests/The Well of Many Worlds.md	quest-npc	4. World Almanac/NPCs/Mab.md		Ruler of the Gloaming Court; arrives once Lysaga flees to collect on the bargain that made the ambush possible.
+4. World Almanac/Factions/Dusk Elves of Barovia.md	location	4. World Almanac/Regions/Barovia.md		
+4. World Almanac/Factions/Dusk Elves of Duskferry.md	location	4. World Almanac/Settlements/Duskferry.md		
+4. World Almanac/Factions/Ferrymen's Guild.md	location	4. World Almanac/Settlements/Duskferry.md		
+4. World Almanac/Factions/House Wachter.md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
+4. World Almanac/Factions/Umbral Athenaeum Council.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Adrian Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Adrian Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
-4. World Almanac/NPCs/Adrian Martikov.md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Adrian Martikov.md	member	4. World Almanac/Factions/Keepers of the Feather.md		
 4. World Almanac/NPCs/Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
-4. World Almanac/NPCs/Amber Warden.md	member	Silent Ascendency (UNRESOLVED)		
-4. World Almanac/NPCs/Anastrasya Karelova (COS).md	member	Strahd's brides (UNRESOLVED)		
+4. World Almanac/NPCs/Amber Warden.md	member	4. World Almanac/Factions/Silent Ascendency.md		
+4. World Almanac/NPCs/Anastrasya Karelova (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
 4. World Almanac/NPCs/Anselm Corrow.md	location	4. World Almanac/Settlements/Duskferry.md		
-4. World Almanac/NPCs/Anselm Corrow.md	member	Ferrymen's Guild (UNRESOLVED)		
+4. World Almanac/NPCs/Anselm Corrow.md	member	4. World Almanac/Factions/Ferrymen's Guild.md		
 4. World Almanac/NPCs/Arabelle (COS).md	location	4. World Almanac/Places of Interest/Lake Zarovich.md		
-4. World Almanac/NPCs/Arabelle (COS).md	member	Vistani (Vallaki camp) (UNRESOLVED)		
+4. World Almanac/NPCs/Arabelle (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp
 4. World Almanac/NPCs/Archmortician Valeris Thorne.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
-4. World Almanac/NPCs/Archmortician Valeris Thorne.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Archmortician Valeris Thorne.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Archwarden Selvara Kain.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
-4. World Almanac/NPCs/Archwarden Selvara Kain.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Archwarden Selvara Kain.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Arrigal (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Arrigal (COS).md	member	Vistani (Vallaki camp) (UNRESOLVED)		
+4. World Almanac/NPCs/Arrigal (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp
 4. World Almanac/NPCs/Baba Lysaga (COS).md	location	4. World Almanac/Places of Interest/Ruins of Berez.md		
 4. World Almanac/NPCs/Baba Lysaga (COS).md	ally	4. World Almanac/NPCs/Mab.md		of convenience
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	member	House Vallakovich (UNRESOLVED)		
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	member	4. World Almanac/Factions/House Vallakovich.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	worships	The Morninglord (UNRESOLVED)		
 4. World Almanac/NPCs/Bluto Krogarov (COS).md	location	4. World Almanac/Places of Interest/Lake Zarovich.md		
 4. World Almanac/NPCs/Bray Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Bray Martikov (COS).md	father	4. World Almanac/NPCs/Urwin Martikov (COS).md		
 4. World Almanac/NPCs/Bray Martikov (COS).md	mother	4. World Almanac/NPCs/Danika Dorakova (COS).md		
-4. World Almanac/NPCs/Bray Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Bray Martikov (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		
 4. World Almanac/NPCs/Brom Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Brom Martikov (COS).md	father	4. World Almanac/NPCs/Urwin Martikov (COS).md		
-4. World Almanac/NPCs/Brom Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Brom Martikov (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		
 4. World Almanac/NPCs/Clovin Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
-4. World Almanac/NPCs/Clovin Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Clovin Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Clovin Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
 4. World Almanac/NPCs/Corwin Vantor.md	location	4. World Almanac/Settlements/Bruokdon.md		
 4. World Almanac/NPCs/Cyrus Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
-4. World Almanac/NPCs/Cyrus Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Cyrus Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Cyrus Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
 4. World Almanac/NPCs/Dag Tomescu.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Dag Tomescu.md	wife	4. World Almanac/NPCs/Stefania Martikov.md		
 4. World Almanac/NPCs/Danika Dorakova (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Danika Dorakova (COS).md	husband	4. World Almanac/NPCs/Urwin Martikov (COS).md		
 4. World Almanac/NPCs/Danika Dorakova (COS).md	son	4. World Almanac/NPCs/Brom Martikov (COS).md		
-4. World Almanac/NPCs/Danika Dorakova (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Danika Dorakova (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		
 4. World Almanac/NPCs/Davian Martikov (COS).md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
-4. World Almanac/NPCs/Davian Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Davian Martikov (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		
 4. World Almanac/NPCs/Donavich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
-4. World Almanac/NPCs/Donavich (COS).md	member	Clergy of the Morninglord (UNRESOLVED)		
+4. World Almanac/NPCs/Donavich (COS).md	member	4. World Almanac/Factions/Clergy of the Morninglord.md		
 4. World Almanac/NPCs/Donavich (COS).md	worships	Morninglord (UNRESOLVED)		
 4. World Almanac/NPCs/Doru (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Eamon Morcant.md	location	4. World Almanac/Settlements/Thornmere.md		
 4. World Almanac/NPCs/Elvir Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Elvir Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
-4. World Almanac/NPCs/Emil Toranescu (COS).md	member	Children of Mother Night (UNRESOLVED)		
+4. World Almanac/NPCs/Emil Toranescu (COS).md	member	4. World Almanac/Factions/Children of Mother Night.md		
 4. World Almanac/NPCs/Emil Toranescu (COS).md	worships	Mother Night (UNRESOLVED)		
 4. World Almanac/NPCs/Exethanter (COS).md	location	4. World Almanac/Places of Interest/The Amber Temple.md		
-4. World Almanac/NPCs/Exethanter (COS).md	member	The Amber Temple's original order of wizards (last survivor) (UNRESOLVED)		
 4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	location	4. World Almanac/Places of Interest/Van Richten's Tower.md		
 4. World Almanac/NPCs/Gadof Blinsky (COS).md	location	4. World Almanac/Shops/Blinsky Toys.md		
 4. World Almanac/NPCs/Gertruda (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Hesper Crane.md	location	4. World Almanac/Places of Interest/The Cinderworks.md		
-4. World Almanac/NPCs/Hesper Crane.md	member	Silent Ascendency (UNRESOLVED)		
+4. World Almanac/NPCs/Hesper Crane.md	member	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Ireena Kolyana (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Ismark Kolyanovich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Izek Strazni (COS).md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
-4. World Almanac/NPCs/Izek Strazni (COS).md	member	Vecna's claimed (UNRESOLVED)		
-4. World Almanac/NPCs/Izek Strazni (COS).md	member	Baron Vallakovich's household (former) (UNRESOLVED)		
-4. World Almanac/NPCs/Kasimir Velikov (COS).md	member	Vistani (adopted) (UNRESOLVED)		
-4. World Almanac/NPCs/Kasimir Velikov (COS).md	member	Dusk elves (last of) (UNRESOLVED)		
-4. World Almanac/NPCs/Kiril Stoyanovich (COS).md	member	Children of Mother Night (UNRESOLVED)		
+4. World Almanac/NPCs/Izek Strazni (COS).md	former-member	4. World Almanac/Factions/House Vallakovich.md		Baron Vallakovich's household
+4. World Almanac/NPCs/Kasimir Velikov (COS).md	member	4. World Almanac/Factions/Vistani.md		adopted
+4. World Almanac/NPCs/Kasimir Velikov (COS).md	member	4. World Almanac/Factions/Dusk Elves of Barovia.md		last of
+4. World Almanac/NPCs/Kiril Stoyanovich (COS).md	member	4. World Almanac/Factions/Children of Mother Night.md		
 4. World Almanac/NPCs/Kiril Stoyanovich (COS).md	worships	Mother Night (UNRESOLVED)		
 4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
-4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	member	House Wachter (UNRESOLVED)		
-4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	member	Loyalists of House von Zarovich (UNRESOLVED)		
+4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	member	4. World Almanac/Factions/House Wachter.md		
+4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	member	4. World Almanac/Factions/House von Zarovich.md		loyalist
 4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	worships	Devil worship (a cult of her own founding) (UNRESOLVED)		
 4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	member	House Vallakovich (UNRESOLVED)		
-4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	member	House Petrovich (UNRESOLVED)		
+4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	member	4. World Almanac/Factions/House Vallakovich.md		
+4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	member	4. World Almanac/Factions/House Petrovich.md		
 4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	worships	The Morninglord (UNRESOLVED)		
 4. World Almanac/NPCs/Lord Caldris Velmont.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
-4. World Almanac/NPCs/Lord Caldris Velmont.md	member	Umbral Athenaeum Council (UNRESOLVED)		
-4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md	member	Strahd's brides (UNRESOLVED)		
+4. World Almanac/NPCs/Lord Caldris Velmont.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
+4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
 4. World Almanac/NPCs/Luvash (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Luvash (COS).md	member	Vistani (Vallaki camp) (UNRESOLVED)		
+4. World Almanac/NPCs/Luvash (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp
 4. World Almanac/NPCs/Mab.md	ally	4. World Almanac/NPCs/Baba Lysaga (COS).md		of convenience
-4. World Almanac/NPCs/Mab.md	member	Gloaming Court (UNRESOLVED)		
+4. World Almanac/NPCs/Mab.md	member	4. World Almanac/Factions/Gloaming Court.md		
 4. World Almanac/NPCs/Mad Mary (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Madam Eva (COS).md	location	4. World Almanac/Places of Interest/Tser Pool.md		
 4. World Almanac/NPCs/Magister Kaelor Stormbrand.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
-4. World Almanac/NPCs/Magister Kaelor Stormbrand.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Magister Kaelor Stormbrand.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Majesto (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
-4. World Almanac/NPCs/Majesto (COS).md	member	Fiona Wachter’s Cult (UNRESOLVED)		
+4. World Almanac/NPCs/Majesto (COS).md	member	4. World Almanac/Factions/House Wachter.md		Fiona Wachter's cult
 4. World Almanac/NPCs/Marrow.md	location	4. World Almanac/Settlements/Bruokdon.md		
-4. World Almanac/NPCs/Marrow.md	member	Silent Ascendency (UNRESOLVED)		
+4. World Almanac/NPCs/Marrow.md	member	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Martin Thricefold.md	location	4. World Almanac/Settlements/Bruokdon.md		
 4. World Almanac/NPCs/Marzena Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
-4. World Almanac/NPCs/Marzena Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Marzena Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Marzena Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
-4. World Almanac/NPCs/Milivoj (COS).md	member	4. World Almanac/Places of Interest/St. Andral's Church.md		
+4. World Almanac/NPCs/Milivoj (COS).md	works-at	4. World Almanac/Places of Interest/St. Andral's Church.md		
 4. World Almanac/NPCs/Mishka Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
-4. World Almanac/NPCs/Mishka Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Mishka Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Mishka Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
 4. World Almanac/NPCs/Mistress Lyssandra Veil.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
-4. World Almanac/NPCs/Mistress Lyssandra Veil.md	member	Umbral Athenaeum Council (UNRESOLVED)		
-4. World Almanac/NPCs/Morgantha (COS).md	member	Morgantha's Coven (UNRESOLVED)		
+4. World Almanac/NPCs/Mistress Lyssandra Veil.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
+4. World Almanac/NPCs/Morgantha (COS).md	member	4. World Almanac/Factions/Morgantha's Coven.md		
 4. World Almanac/NPCs/Morgantha (COS).md	worships	Ceithlenn of the Crooked Teeth (UNRESOLVED)		
 4. World Almanac/NPCs/Naerissa.md	location	4. World Almanac/Settlements/Duskferry.md		
-4. World Almanac/NPCs/Naerissa.md	member	The Unbroken Circle (UNRESOLVED)		
-4. World Almanac/NPCs/Naerissa.md	member	Dusk Elves of Duskferry (UNRESOLVED)		
+4. World Almanac/NPCs/Naerissa.md	member	4. World Almanac/Factions/The Unbroken Circle.md		
+4. World Almanac/NPCs/Naerissa.md	member	4. World Almanac/Factions/Dusk Elves of Duskferry.md		
 4. World Almanac/NPCs/Naerissa.md	worships	5. Mechanics/Deities/Drow Eilistraee (MTF).md		
 4. World Almanac/NPCs/Nikolai Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
-4. World Almanac/NPCs/Nikolai Wachter (COS).md	member	House Wachter (UNRESOLVED)		
+4. World Almanac/NPCs/Nikolai Wachter (COS).md	member	4. World Almanac/Factions/House Wachter.md		
 4. World Almanac/NPCs/Nimrie.md	location	4. World Almanac/Settlements/Duskferry.md		
 4. World Almanac/NPCs/Nimrie.md	worships	5. Mechanics/Deities/Drow Eilistraee (MTF).md		
 4. World Almanac/NPCs/Ostwin Reyes.md	location	4. World Almanac/Settlements/Duskferry.md		
-4. World Almanac/NPCs/Ostwin Reyes.md	member	Ferrymen's Guild (UNRESOLVED)		
-4. World Almanac/NPCs/Ostwin Reyes.md	member	Silent Ascendency (UNRESOLVED)		
+4. World Almanac/NPCs/Ostwin Reyes.md	member	4. World Almanac/Factions/Ferrymen's Guild.md		
+4. World Almanac/NPCs/Ostwin Reyes.md	member	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Otto Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
-4. World Almanac/NPCs/Otto Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Otto Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Otto Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
-4. World Almanac/NPCs/Patrina Velikovna (COS).md	member	Dusk elves of Barovia (UNRESOLVED)		
+4. World Almanac/NPCs/Patrina Velikovna (COS).md	member	4. World Almanac/Factions/Dusk Elves of Barovia.md		
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	worships	The nameless god of secrets (UNRESOLVED)		
 4. World Almanac/NPCs/Professor Alindra Quicksilver.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
-4. World Almanac/NPCs/Professor Alindra Quicksilver.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Professor Alindra Quicksilver.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Professor Gousse Windcaller.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
-4. World Almanac/NPCs/Professor Gousse Windcaller.md	member	Umbral Athenaeum Council (UNRESOLVED)		
-4. World Almanac/NPCs/Rahadin (COS).md	member	Von Zarovich family (honorary) (UNRESOLVED)		
+4. World Almanac/NPCs/Professor Gousse Windcaller.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
+4. World Almanac/NPCs/Rahadin (COS).md	member	4. World Almanac/Factions/House von Zarovich.md		honorary family
 4. World Almanac/NPCs/Rictavio (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
-4. World Almanac/NPCs/Rictavio (COS).md	member	Keepers of the Feather (ally) (UNRESOLVED)		
-4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md	member	Durst Family (UNRESOLVED)		
+4. World Almanac/NPCs/Rictavio (COS).md	ally	4. World Almanac/Factions/Keepers of the Feather.md		
+4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md	member	4. World Almanac/Factions/Durst Family.md		
 4. World Almanac/NPCs/Sangzor (COS).md	location	4. World Almanac/Places of Interest/Tsolenka Pass.md		
 4. World Almanac/NPCs/Savid (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Savid (COS).md	member	Dusk elves (last of) (UNRESOLVED)		
-4. World Almanac/NPCs/Savid (COS).md	member	Vistani (Vallaki camp, allied) (UNRESOLVED)		
+4. World Almanac/NPCs/Savid (COS).md	member	4. World Almanac/Factions/Dusk Elves of Barovia.md		last of
+4. World Almanac/NPCs/Savid (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp, allied
 4. World Almanac/NPCs/Seer Ithildra Moonveil.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
-4. World Almanac/NPCs/Seer Ithildra Moonveil.md	member	Umbral Athenaeum Council (UNRESOLVED)		
+4. World Almanac/NPCs/Seer Ithildra Moonveil.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	location	4. World Almanac/Places of Interest/Argynvostholt.md		
-4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	member	Order of the Silver Dragon (UNRESOLVED)		
+4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	member	4. World Almanac/Factions/Order of the Silver Dragon.md		
 4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	worships	The Morninglord (UNRESOLVED)		
 4. World Almanac/NPCs/Stanimir (COS).md	location	4. World Almanac/Places of Interest/Tser Pool.md		
-4. World Almanac/NPCs/Stanimir (COS).md	member	Vistani (Tser Pool camp) (UNRESOLVED)		
+4. World Almanac/NPCs/Stanimir (COS).md	member	4. World Almanac/Factions/Vistani.md		Tser Pool camp
 4. World Almanac/NPCs/Stefania Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Stefania Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
-4. World Almanac/NPCs/Stella Wachter (COS).md	member	House Wachter (UNRESOLVED)		
-4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	member	House von Zarovich (UNRESOLVED)		
+4. World Almanac/NPCs/Stella Wachter (COS).md	member	4. World Almanac/Factions/House Wachter.md		
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	member	4. World Almanac/Factions/House von Zarovich.md		
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	worships	Dark Powers of the Shadowfell (pact) (UNRESOLVED)		
 4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	member	Vallaki wolf hunters (UNRESOLVED)		
-4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	member	Circle of Eight (UNRESOLVED)		
-4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md	member	Durst Family (UNRESOLVED)		
+4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	member	4. World Almanac/Factions/Vallaki Wolf Hunters.md		
+4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md	member	4. World Almanac/Factions/Circle of Eight.md		
+4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md	member	4. World Almanac/Factions/Durst Family.md		
 4. World Almanac/NPCs/Unfinished Amber Warden.md	location	4. World Almanac/Places of Interest/Greyfen Hollow.md		
-4. World Almanac/NPCs/Unfinished Amber Warden.md	member	Silent Ascendency (UNRESOLVED)		
+4. World Almanac/NPCs/Unfinished Amber Warden.md	member	4. World Almanac/Factions/Silent Ascendency.md		
 4. World Almanac/NPCs/Urwin Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Urwin Martikov (COS).md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
-4. World Almanac/NPCs/Urwin Martikov (COS).md	member	Keepers of the Feather (UNRESOLVED)		
+4. World Almanac/NPCs/Urwin Martikov (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		
 4. World Almanac/NPCs/Vasilka (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
-4. World Almanac/NPCs/Vasilka (COS).md	member	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
+4. World Almanac/NPCs/Vasilka (COS).md	home	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Victor Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Victor Vallakovich (COS).md	member	House Vallakovich (UNRESOLVED)		
+4. World Almanac/NPCs/Victor Vallakovich (COS).md	member	4. World Almanac/Factions/House Vallakovich.md		
 4. World Almanac/NPCs/Vilnius (COS).md	location	4. World Almanac/Places of Interest/The Amber Temple.md		
-4. World Almanac/NPCs/Vilnius (COS).md	member	Jakarion's expedition (Amber Temple) (UNRESOLVED)		
-4. World Almanac/NPCs/Vladimir Horngaard (COS).md	member	Order of the Silver Dragon (UNRESOLVED)		
-4. World Almanac/NPCs/Volenta Popofsky (COS).md	member	Strahd's brides (UNRESOLVED)		
+4. World Almanac/NPCs/Vladimir Horngaard (COS).md	member	4. World Almanac/Factions/Order of the Silver Dragon.md		
+4. World Almanac/NPCs/Volenta Popofsky (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
 4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	member	Vallaki wolf hunters (UNRESOLVED)		
+4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	member	4. World Almanac/Factions/Vallaki Wolf Hunters.md		
 4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	worships	The Morninglord (UNRESOLVED)		
-4. World Almanac/NPCs/Zuleika Toranescu (COS).md	member	Children of Mother Night (UNRESOLVED)		
+4. World Almanac/NPCs/Zuleika Toranescu (COS).md	member	4. World Almanac/Factions/Children of Mother Night.md		
 4. World Almanac/NPCs/Zuleika Toranescu (COS).md	worships	Mother Night (UNRESOLVED)		
 4. World Almanac/NPCs/Zygfrek Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
-4. World Almanac/NPCs/Zygfrek Belview (COS).md	member	Belview family (UNRESOLVED)		
+4. World Almanac/NPCs/Zygfrek Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Zygfrek Belview (COS).md	worships	The Morninglord (UNRESOLVED)		
 4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	location	4. World Almanac/Settlements/Krezk.md		
 4. World Almanac/Places of Interest/Argynvostholt.md	location	4. World Almanac/Regions/Barovia.md		

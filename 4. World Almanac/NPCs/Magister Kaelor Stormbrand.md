@@ -10,7 +10,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/NPCs/Kaelor Stormbrand.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Umbral Athenaeum Council.md|Umbral Athenaeum Council]]", type: member } ]
 tags:
   - npc
 aliases:
@@ -23,8 +23,6 @@ alignment: Chaotic Good
 occupation:
   - Councilor of Evocation
   - Battle Magic Instructor
-groups:
-  - Umbral Athenaeum Council
 religions: []
 description: |-
   Kaelor Stormbrand is a broad-shouldered dwarf with a thick braided beard streaked with ash and burn scars across his arms. His heavy robes are reinforced with leather plating to withstand the explosive nature of evocation magic.
@@ -61,7 +59,7 @@ party_relationships:
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

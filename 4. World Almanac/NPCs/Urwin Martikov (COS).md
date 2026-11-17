@@ -16,6 +16,8 @@ alignment: Lawful Good
 relationships:
   - target: "[[4. World Almanac/NPCs/Davian Martikov (COS).md|Davian Martikov]]"
     type: father
+  - target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]"
+    type: member
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
@@ -31,8 +33,6 @@ age: 36
 occupation:
   - Innkeeper
   - Cook
-groups:
-  - Keepers of the Feather
 religions: []
 personality: 'Warm, protective, quietly stubborn'
 ideal: A safe hearth and a full cup can hold back even Strahd’s darkness.
@@ -86,7 +86,7 @@ history: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

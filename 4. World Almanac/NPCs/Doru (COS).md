@@ -31,7 +31,6 @@ race: Vampire Spawn
 gender: male
 age: null
 occupation: []
-groups: []
 religions: []
 personality: 'Tormented, ravenous, still driven by fragments of love for his father'
 ideal: 'I would not hurt my father, whatever I''ve become.'
@@ -74,7 +73,7 @@ history: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

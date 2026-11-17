@@ -27,7 +27,7 @@ history: >-
   releasing him. She lacks the strength or allies to move against Kiril alone,
   and the rest of the pack — having watched what happened to Emil — won't risk
   Strahd's wrath by helping her.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member } ]
 party_relationships: {}
 location: null
 gist: ""
@@ -42,8 +42,6 @@ age: 26
 occupation:
   - Keeper of the Shrine of Mother Night
   - Guard of the kidnapped children
-groups:
-  - Children of Mother Night
 religions:
   - Mother Night
 personality: 'Devout and grief-stricken, with a quiet, patient rage simmering underneath'
@@ -80,7 +78,7 @@ dislikes: 'Kiril Stoyanovich, cowardice, empty prayers'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

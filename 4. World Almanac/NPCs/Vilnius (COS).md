@@ -37,8 +37,6 @@ gender: male
 age: 26
 occupation:
   - Apprentice wizard
-groups:
-  - Jakarion's expedition (Amber Temple)
 religions: []
 personality: >-
   Greedy, treacherous, cowardly — quick to abandon anyone who isn't useful to
@@ -78,7 +76,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs
@@ -221,6 +219,8 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > >
 > > `BUTTON[edit-dm-notes]`
 > > ## DM Notes
+> > Group (from the old groups field): Jakarion's expedition (Amber Temple)
+> >
 > > ### Plot Hooks
 > >
 > >

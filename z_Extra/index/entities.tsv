@@ -1,5 +1,28 @@
 type	name	aliases	path	parent	status	revealed_to	gist
 campaign	The Hunt for Vecna		1. DM Toolkit/Campaigns/The Hunt for Vecna.md				
+faction:family	Belview Family		4. World Almanac/Factions/Belview Family.md		active		
+faction:other	Children of Mother Night		4. World Almanac/Factions/Children of Mother Night.md		active		
+faction:other	Circle of Eight		4. World Almanac/Factions/Circle of Eight.md		active		
+faction:other	Clergy of the Morninglord		4. World Almanac/Factions/Clergy of the Morninglord.md		active		
+faction:family	Durst Family		4. World Almanac/Factions/Durst Family.md		active		
+faction:other	Dusk Elves of Barovia		4. World Almanac/Factions/Dusk Elves of Barovia.md	4. World Almanac/Regions/Barovia.md	active		
+faction:other	Dusk Elves of Duskferry		4. World Almanac/Factions/Dusk Elves of Duskferry.md	4. World Almanac/Settlements/Duskferry.md	active		
+faction:other	Eternal Watch		4. World Almanac/Factions/Eternal Watch.md		active		
+faction:guild	Ferrymen's Guild		4. World Almanac/Factions/Ferrymen's Guild.md	4. World Almanac/Settlements/Duskferry.md	active		
+faction:other	Gloaming Court		4. World Almanac/Factions/Gloaming Court.md		active		
+faction:house	House Petrovich		4. World Almanac/Factions/House Petrovich.md		active		
+faction:house	House Vallakovich		4. World Almanac/Factions/House Vallakovich.md		active		
+faction:house	House von Zarovich		4. World Almanac/Factions/House von Zarovich.md		active		
+faction:house	House Wachter		4. World Almanac/Factions/House Wachter.md	4. World Almanac/Places of Interest/Wachterhaus.md	active		
+faction:order	Keepers of the Feather		4. World Almanac/Factions/Keepers of the Feather.md		active		
+faction:other	Morgantha's Coven		4. World Almanac/Factions/Morgantha's Coven.md		active		
+faction:order	Order of the Silver Dragon		4. World Almanac/Factions/Order of the Silver Dragon.md		active		
+faction:cult	Silent Ascendency		4. World Almanac/Factions/Silent Ascendency.md		active		
+faction:other	Strahd's Brides		4. World Almanac/Factions/Strahd's Brides.md		active		
+faction:other	The Unbroken Circle		4. World Almanac/Factions/The Unbroken Circle.md		active		
+faction:order	Umbral Athenaeum Council		4. World Almanac/Factions/Umbral Athenaeum Council.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	active		
+faction:other	Vallaki Wolf Hunters		4. World Almanac/Factions/Vallaki Wolf Hunters.md		active		
+faction:other	Vistani		4. World Almanac/Factions/Vistani.md		active		
 npc	Adrian Martikov		4. World Almanac/NPCs/Adrian Martikov.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
 npc	Amber Warden		4. World Almanac/NPCs/Amber Warden.md	4. World Almanac/Places of Interest/Greyfen Hollow.md	healthy		
 npc	Anastrasya Karelova (COS)	Anastrasya Karelova	4. World Almanac/NPCs/Anastrasya Karelova (COS).md		healthy		

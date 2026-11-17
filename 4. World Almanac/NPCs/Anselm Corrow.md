@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Ferrymen's Guild.md|Ferrymen's Guild]]", type: member } ]
 tags:
   - npc
   - monster/cr/1/8
@@ -25,8 +25,6 @@ age: 58
 alignment: Lawful Neutral
 occupation:
   - Guildmaster, Ferrymen's Guild
-groups:
-  - Ferrymen's Guild
 religions: []
 description: |-
   A broad, weathered man who still dresses like a working ferryman rather than the wealthiest person in Duskferry — oilskin coat, boots that have never been dry long enough to stay clean, a guild signet ring worn smooth from decades of use. Speaks in short, practical sentences, the way a man does who has spent his life on a river that doesn't care how much he talks. Keeps a private ledger of favors owed alongside the Guild's official one and treats the two with equal seriousness.
@@ -68,7 +66,7 @@ secrets: |-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -23,7 +23,7 @@ history: >-
   Krushkin]], selling the meat to survive. The dangerous, bloody work has left
   both men grim and quietly broken, and Szoldar spends most of his free time
   drowning his sorrows at the [[Blue Water Inn]].
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Vallaki Wolf Hunters.md|Vallaki Wolf Hunters]]", type: member } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""
@@ -37,8 +37,6 @@ gender: male
 age: 34
 occupation:
   - Wolf hunter
-groups:
-  - Vallaki wolf hunters
 religions: []
 personality: 'Grim, taciturn, haunted by the dangerous work he does'
 ideal: Hard work and silence are their own kind of honesty.
@@ -72,7 +70,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -24,7 +24,7 @@ history: >-
   [[Bluto Krogarov (COS)|Bluto Krogarov]], who believed drowning a lucky Vistana
   would end his run of bad luck on Lake Zarovich. Rescued in time, she demands
   only to be returned home, certain that a great destiny still awaits her.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Vallaki camp } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 gist: ""
@@ -37,8 +37,6 @@ race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 7
 occupation: []
-groups:
-  - Vistani (Vallaki camp)
 religions: []
 personality: 'Curious, spirited, innocent'
 ideal: The world is full of wonder and adventure.
@@ -70,7 +68,7 @@ dislikes: 'Being confined or restricted, cruelty'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -10,7 +10,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/NPCs/Lyssandra Veil.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Umbral Athenaeum Council.md|Umbral Athenaeum Council]]", type: member } ]
 tags:
   - npc
 aliases:
@@ -22,8 +22,6 @@ age: 74
 alignment: Chaotic Neutral
 occupation:
   - Councilor of Illusion
-groups:
-  - Umbral Athenaeum Council
 religions: []
 description: |-
   Lyssandra Veil is a tiefling with violet skin and curved obsidian horns that frame her face elegantly. Her robes shimmer constantly with shifting illusion magic, causing the colors and patterns to subtly change every few moments.
@@ -62,7 +60,7 @@ party_relationships:
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

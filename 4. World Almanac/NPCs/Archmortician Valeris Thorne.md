@@ -10,7 +10,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/NPCs/Valeris Thorne.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Umbral Athenaeum Council.md|Umbral Athenaeum Council]]", type: member } ]
 tags:
   - npc
 aliases:
@@ -22,8 +22,6 @@ age: 310
 alignment: Neutral
 occupation:
   - Councilor of Necromancy
-groups:
-  - Umbral Athenaeum Council
 religions: []
 description: |-
   Valeris Thorne is a gaunt elf with pale skin and long black robes trimmed in silver bone motifs. His expression is calm to the point of unsettling, and his eyes hold the quiet patience of someone who has spent centuries contemplating mortality.
@@ -60,7 +58,7 @@ party_relationships:
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

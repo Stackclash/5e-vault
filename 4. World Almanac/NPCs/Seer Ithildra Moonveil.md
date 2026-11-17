@@ -10,7 +10,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/NPCs/Ithildra Moonveil.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Umbral Athenaeum Council.md|Umbral Athenaeum Council]]", type: member } ]
 tags:
   - npc
 aliases:
@@ -22,8 +22,6 @@ age: 230
 alignment: Neutral Good
 occupation:
   - Councilor of Divination
-groups:
-  - Umbral Athenaeum Council
 religions: []
 description: |-
   Ithildra Moonveil is a pale elf with long silver hair and eyes that seem perpetually unfocused, as though she is seeing events unfolding moments before they happen. Her robes are decorated with delicate constellations stitched in moonlight thread.
@@ -60,7 +58,7 @@ party_relationships:
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

@@ -24,7 +24,7 @@ history: >-
   cannot speak, has no memories or will of her own, and obeys the Abbot's every
   command; he is currently teaching her etiquette and dance in preparation for
   presenting her to the vampire.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]", type: home } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
@@ -40,8 +40,6 @@ gender: female
 age: null
 occupation:
   - Bride-to-be of Strahd (construct)
-groups:
-  - Abbey of Saint Markovia
 religions: []
 personality: 'Silent, obedient, hauntingly vacant — seems lost in her own thoughts'
 ideal: 'Obedience to her creator''s commands, absolute and unquestioning.'
@@ -77,7 +75,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

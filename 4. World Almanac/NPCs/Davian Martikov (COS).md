@@ -28,7 +28,7 @@ history: >-
   remain estranged. In recent weeks Baba Lysaga's scarecrows and a band of evil
   druids have stolen the remaining two gems and driven Davian's family from the
   winery entirely, leaving the vineyard's future in doubt.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]", type: member } ]
 party_relationships:
   Midnight Covenant: Ally
 location: >-
@@ -46,8 +46,6 @@ age: 61
 occupation:
   - Vintner
   - Winery Owner
-groups:
-  - Keepers of the Feather
 religions: []
 personality: 'Suspicious, gruff, stubbornly proud'
 ideal: >-
@@ -86,7 +84,7 @@ dislikes: 'Baba Lysaga’s scarecrows, thieves, being defied - especially by Urw
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

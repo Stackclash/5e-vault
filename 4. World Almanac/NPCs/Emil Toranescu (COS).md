@@ -30,7 +30,7 @@ history: >-
   with Emil's attempt to fracture his werewolves. The dire wolves dragged Emil
   to Castle Ravenloft, where Strahd has kept him imprisoned in the South Dungeon
   ever since — punishment, and a lesson to the rest of the pack.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member } ]
 party_relationships:
   Midnight Covenant: Friendly
 location: null
@@ -46,8 +46,6 @@ age: 27
 occupation:
   - Werewolf pack hunter
   - Prisoner of Castle Ravenloft
-groups:
-  - Children of Mother Night
 religions:
   - Mother Night
 personality: >-
@@ -89,7 +87,7 @@ dislikes: 'Kiril''s cruelty toward captured children, being doubted, confinement
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

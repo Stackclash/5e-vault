@@ -28,7 +28,7 @@ history: >-
   at the Blue Water Inn, and their recklessness has already caused real trouble
   in town: sneaking into Arasek's Stockyard on a bet, one of the brothers rocked
   a caged saber-toothed tiger's wagon and let it loose on Vallaki's streets.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 gist: ""
@@ -42,8 +42,6 @@ gender: male
 age: 27
 occupation:
   - Nobleman of House Wachter
-groups:
-  - House Wachter
 religions: []
 personality: 'Brash, hard-drinking, quick to boast, secretly aimless'
 ideal: >-
@@ -80,7 +78,7 @@ dislikes: 'His mother''s lectures and her cult, sobriety, the burgomaster''s fes
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

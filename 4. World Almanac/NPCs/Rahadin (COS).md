@@ -13,7 +13,7 @@ images:
 aliases:
   - Rahadin
 alignment: Lawful Evil
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member, note: honorary family } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: null
@@ -29,8 +29,6 @@ age: 500
 occupation:
   - Castle chamberlain
   - General
-groups:
-  - Von Zarovich family (honorary)
 religions: []
 personality: >-
   Cold, exacting, and utterly without mercy for weakness — a perfect instrument
@@ -81,7 +79,7 @@ history: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

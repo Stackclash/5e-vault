@@ -23,7 +23,7 @@ history: >-
   "perfection." He lurks twenty feet down the abbey's courtyard well, scuttling
   up the shaft to attack anyone who shines a light on him; in his madness, he
   has discovered that he enjoys killing.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
 party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
@@ -39,8 +39,6 @@ gender: male
 age: 26
 occupation:
   - Abbey captive
-groups:
-  - Belview family
 religions:
   - The Morninglord
 personality: 'Feral, predatory, unpredictable'
@@ -71,7 +69,7 @@ dislikes: 'Bright light, open spaces, being pulled from his well'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

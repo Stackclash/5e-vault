@@ -13,7 +13,7 @@ images:
 aliases:
   - Kasimir Velikov
 alignment: Neutral
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: adopted }, { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member, note: last of } ]
 party_relationships: {}
 location: null
 gist: ""
@@ -28,9 +28,6 @@ age: 340
 occupation:
   - Hermit scholar
   - Amber Temple watcher
-groups:
-  - Vistani (adopted)
-  - Dusk elves (last of)
 religions: []
 personality: >-
   Grief-stricken, guarded, and quietly vengeful — a scholar-turned-spy consumed
@@ -83,7 +80,7 @@ history: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

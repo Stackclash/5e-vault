@@ -36,7 +36,7 @@ history: >-
   Larnak, to keep her informed of everything that happens in town, though he
   knows enough of her secrets to blackmail her should their arrangement ever
   sour.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member }, { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member, note: loyalist } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
@@ -52,9 +52,6 @@ age: 52
 occupation:
   - Governess of Wachterhaus
   - Hidden leader of Vallaki's devil-worshipping cult
-groups:
-  - House Wachter
-  - Loyalists of House von Zarovich
 religions:
   - Devil worship (a cult of her own founding)
 personality: 'Cold, composed, and utterly ruthless beneath an aristocratic veneer'
@@ -93,7 +90,7 @@ dislikes: 'Baron Vallakovich''s buffoonery, weakness, disobedience, enemies of S
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

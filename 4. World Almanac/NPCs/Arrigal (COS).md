@@ -24,7 +24,7 @@ history: >-
   brute force, Arrigal works through cunning, theft, and the occasional quiet
   murder — delivering anything useful or dangerous to Strahd that falls into his
   hands, and killing to keep it if he must.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Vallaki camp } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""
@@ -38,8 +38,6 @@ gender: male
 age: 35
 occupation:
   - Assassin
-groups:
-  - Vistani (Vallaki camp)
 religions: []
 personality: 'Charismatic, ruthless, cunning'
 ideal: >-
@@ -71,7 +69,7 @@ dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

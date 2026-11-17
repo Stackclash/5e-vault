@@ -28,7 +28,7 @@ history: >-
   of the Blazing Sun. Her nervous laughter at the baron's every remark has
   become a reflex, and it has only grown more brittle since her lady-in-waiting
   vanished without a trace alongside the household butler.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/Factions/House Petrovich.md|House Petrovich]]", type: member } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""
@@ -42,9 +42,6 @@ gender: female
 age: 39
 occupation:
   - Baroness of Vallaki
-groups:
-  - House Vallakovich
-  - House Petrovich
 religions:
   - The Morninglord
 personality: Anxiously cheerful - her good humor is a nervous habit as much as genuine hope
@@ -85,7 +82,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

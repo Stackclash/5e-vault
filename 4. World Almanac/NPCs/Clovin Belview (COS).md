@@ -27,7 +27,7 @@ history: >-
   as the Abbot's manservant, ringing the abbey bell (area S17) to call the
   mongrelfolk to dinner and doling out meals to the sixty-odd madhouse captives
   at his own discretion — which the starving prefer to call cruelty.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member } ]
 party_relationships:
   Midnight Covenant: Acquaintance
 location: >-
@@ -44,8 +44,6 @@ gender: male
 age: 54
 occupation:
   - Caretaker
-groups:
-  - Belview family
 religions:
   - The Morninglord
 personality: 'Subservient, eccentric, deeply troubled'
@@ -86,7 +84,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

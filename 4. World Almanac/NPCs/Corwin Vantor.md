@@ -21,7 +21,6 @@ age: 58
 alignment: Neutral Good
 occupation:
   - Field Naturalist and Monster-Hunter (independent)
-groups: []
 religions: []
 description: |-
   A grizzled human, thick-armed and weathered, with a stiff left hand — three fingers replaced by scar tissue after "getting too close" to something monstrous decades ago. He kept his gray hair cropped short out of practicality, not vanity, and always smelled faintly of preserving oils and old leather from a lifetime of field specimens.
@@ -63,7 +62,7 @@ secrets: ""
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

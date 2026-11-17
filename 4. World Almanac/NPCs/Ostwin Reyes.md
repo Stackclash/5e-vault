@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Ferrymen's Guild.md|Ferrymen's Guild]]", type: member }, { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: member } ]
 tags:
   - npc
   - monster/cr/1
@@ -26,9 +26,6 @@ alignment: Neutral Evil
 occupation:
   - Senior Tally Clerk, Ferrymen's Guild
   - Silent Ascendency Logistics Liaison (unofficial)
-groups:
-  - Ferrymen's Guild
-  - Silent Ascendency
 religions: []
 description: |-
   Narrow, ink-stained hands and a clerk's stoop from decades bent over ledgers. Dresses a rank above his actual station — good boots, a guild coat cut better than his pay grade — paid for, though nobody's ever asked, by money that never touches an official book. Precise to the point of tedium in conversation, the kind of man who corrects your arithmetic before he's finished agreeing with you.
@@ -71,7 +68,7 @@ secrets: |-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

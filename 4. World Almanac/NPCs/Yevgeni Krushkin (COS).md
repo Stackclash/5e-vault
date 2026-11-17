@@ -27,7 +27,7 @@ history: >-
   outsiders through the valley by daylight; neither will venture out after dark
   except for an exorbitant fee, knowing too well what truly walks these woods at
   night.
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Vallaki Wolf Hunters.md|Vallaki Wolf Hunters]]", type: member } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""
@@ -42,8 +42,6 @@ age: null
 occupation:
   - Wolf hunter
   - Wilderness guide
-groups:
-  - Vallaki wolf hunters
 religions:
   - The Morninglord
 personality: 'Grim, taciturn, quietly haunted'
@@ -80,7 +78,7 @@ dislikes: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

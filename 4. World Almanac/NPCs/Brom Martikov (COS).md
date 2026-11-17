@@ -27,6 +27,8 @@ history: >-
 relationships:
   - target: "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov]]"
     type: father
+  - target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]"
+    type: member
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
@@ -41,8 +43,6 @@ gender: male
 age: 13
 occupation:
   - Bar Assistant
-groups:
-  - Keepers of the Feather
 religions: []
 personality: 'Curious, playful, slightly mischievous'
 ideal: Adventure and discovery are the spices of life.
@@ -72,7 +72,7 @@ dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

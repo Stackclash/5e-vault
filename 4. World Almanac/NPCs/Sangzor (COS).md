@@ -34,7 +34,6 @@ race: Giant Goat
 gender: male
 age: null
 occupation: []
-groups: []
 religions: []
 personality: 'Feral, territorial, supernaturally resilient'
 ideal: Territory is everything — trespassers are ended.
@@ -68,7 +67,7 @@ dislikes: 'Trespassers on its pass, the mountain-folk hunters who pursue it'
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs

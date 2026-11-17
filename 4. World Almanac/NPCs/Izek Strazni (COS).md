@@ -13,7 +13,7 @@ images:
 aliases:
   - Izek Strazni
 alignment: Neutral Evil
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: former-member, note: Baron Vallakovich's household } ]
 party_relationships:
   Midnight Covenant: Friendly
 location: "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"
@@ -29,9 +29,6 @@ age: 34
 occupation:
   - Hand of the Whispered One
   - Enforcer to Baron Vallakovich (former)
-groups:
-  - Vecna's claimed
-  - Baron Vallakovich's household (former)
 religions: []
 personality: >-
   Quieter than he was. The old volatility has gone somewhere colder — he no
@@ -138,7 +135,7 @@ secrets: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs
@@ -297,6 +294,8 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > >
 > > `BUTTON[edit-dm-notes]`
 > > ## DM Notes
+> > Group (from the old groups field): Vecna's claimed
+> >
 > > ### Plot Hooks
 > > - He is the party's first proof that Vecna takes people *personally* — not as a distant cosmic threat but as someone who reached into Barovia, picked a specific dying man out of the rubble, and kept him.
 > > - He is [[Yevelda Ovak]]'s thread. She flirted with him in Vallaki (S9); he held a tower door against werewolves alongside [[Faerah Duskrane]] (S15). Every person in the party has a reason to hesitate.

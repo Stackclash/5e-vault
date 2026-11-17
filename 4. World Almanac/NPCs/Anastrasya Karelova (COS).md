@@ -13,7 +13,7 @@ images:
 aliases:
   - Anastrasya Karelova
 alignment: Neutral Evil
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: null
@@ -27,8 +27,6 @@ race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 28
 occupation: []
-groups:
-  - Strahd's brides
 religions: []
 personality: 'Aristocratic, manipulative, fiercely loyal to Strahd.'
 ideal: Power and status are everything; those without them are to be used as pawns.
@@ -71,7 +69,7 @@ secrets: >-
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
 > **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
 > **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 
 ```dataviewjs
