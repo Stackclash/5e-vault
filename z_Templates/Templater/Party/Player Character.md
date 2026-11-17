@@ -268,7 +268,8 @@ INPUT[select(class(tabbed), option(Sheet), option(Skills), option(Features), opt
 > > ```dataviewjs
 > > const result = []
 > > const spellLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-> > (dv.current().class_spells ?? []).map((classSpellConfig, classIndex) => {
+> > const casterClasses = dv.current().class_spells ?? []
+> > casterClasses.map((classSpellConfig, classIndex) => {
 > >   const classSpellLevels = spellLevels.filter(level => classSpellConfig.spell_slots.max[level-1] > 0 || level === 0)
 > >   dv.header(3, classSpellConfig.name)
 > >   classSpellLevels.forEach(level => {
