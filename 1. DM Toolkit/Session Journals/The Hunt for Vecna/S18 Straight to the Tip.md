@@ -29,7 +29,6 @@ party_present:
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
 npcs:
   - "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga (COS)]]"
-  - "[[4. World Almanac/NPCs/Madam Eva (COS).md|Madam Eva (COS)]]"
 quests: []
 items: []
 ---
