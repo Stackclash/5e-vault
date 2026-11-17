@@ -30,6 +30,7 @@ const TPL = {
   shop: 'z_Templates/Templater/World Building/Shop.md',
   quest: 'z_Templates/Templater/Campaign/Quest.md',
   player: 'z_Templates/Templater/Party/Player Character.md',
+  party: 'z_Templates/Templater/Party/Party Dashboard.md',
 }
 function include(src) {
   return src.replace(/^<% tp\.file\.include\("\[\[(z_Templates\/Partials\/[^\]]+)\]\]"\) %>$/gm, (_, p) => include(read(p + '.md')).trimEnd())
@@ -50,6 +51,7 @@ function render(type, title) {
   }
   body = include(out.join('\n'))
   body = body.replace(/<% tp\.file\.title\.replace\(\/\[\^A-Za-z0-9\]\/g, ""\) %>/g, title.replace(/[^A-Za-z0-9]/g, ''))
+  body = body.replace(/<% tp\.file\.title %>/g, title)
   if (/<%/.test(body)) throw new Error(`Templater syntax left in the ${type} body`)
   return body.trimEnd() + '\n'
 }
@@ -66,12 +68,15 @@ const HIST = {
   shop: [T + 'Shop.md', O + 'Shop.md'],
   quest: ['z_Templates/Templater/Campaign/Quest.md'],
   player: ['z_Templates/Templater/Party/Player Character.md', 'z_Templates/Party/Player Character.md', 'z_Templates/Templater/PC_template.md'],
+  party: ['z_Templates/Templater/Party/Party Dashboard.md', 'z_Templates/Party/Party Dashboard.md', 'z_Templates/Party Dashboard.md'],
 }
 const SCAFFOLD = [
   /^> \[!infobox ?\| ?wsmall\]$/,
   /^> \*\*Party Relationship\*\* \| `\$=await dv\.view\('utils\/metaBindInput'.*party_relationships.*\|$/,
   /^`INPUT\[number\(title\("Economic Scale"\)\):economic_scale\]`$/,
   /^`\$=await dv\.view\("views\/locations", \{current: dv\.current\(\)\}\)`$/,
+  /^`\$= await dv\.view\('utils\/editingView', \{current: dv\.current\(\), type: 'number', field: 'travel_bonus'.*\)`$/,  // party: Travel tab has it
+  /^# Timelines$/,  // party: now the Timelines tab
   /^> \*\*Resource\(s\):\*\* \| `INPUT\[inlineListSuggester\(optionQuery\("6\. Resources"\)\)\]` \|$/,  // Barovia: no bind target
 ]
 const git = (...a) => execFileSync('git', a, { cwd: VAULT, encoding: 'utf8', maxBuffer: 64 << 20, stdio: ['ignore', 'pipe', 'ignore'] })
@@ -142,7 +147,7 @@ function handProse(type, lines) {
   let heading = null, emitted = false, calloutBody = false, pendingBlank = false
   for (const u of units(lines)) {
     const first = u.lines[0]
-    if (u.lang === 'leaflet' || /^> \[!infobox/.test(first)) { if (!u.lang) heading = null; continue }
+    if (u.lang === 'leaflet' || u.lang === 'aat-vertical' || /^> \[!infobox/.test(first)) { if (!u.lang) heading = null; continue }
     const content = u.lines.some(l => !isTemplate(type, l))
     const ht = u.lines.length === 1 ? headingText(first) : null
     if (ht !== null && !content) { heading = ht; emitted = false; calloutBody = /^>/.test(first); pendingBlank = false; continue }
@@ -191,7 +196,8 @@ function reskin(rel, type) {
   if (/views\/entityHeader|^> \[!tabs\]/m.test(body)) return { skip: 'already re-skinned' }
 
   // PCs keep their DM text under ## Hidden Details and ## Notes at the end of the body.
-  const dmIdx = body.search(type === 'player' ? /^## Hidden Details[ \t]*$/m : /^## DM Notes[ \t]*$/m)
+  // The party note keeps a plain "# Notes" section after the tabs; it is carried over byte-identical.
+  const dmIdx = body.search(type === 'player' ? /^## Hidden Details[ \t]*$/m : type === 'party' ? /^# Notes[ \t]*$/m : /^## DM Notes[ \t]*$/m)
   const statsIdx = type === 'npc' ? body.search(/^## Stats[ \t]*$/m) : -1
   const aboveEnd = statsIdx >= 0 ? statsIdx : dmIdx >= 0 ? dmIdx : body.length
   const above = body.slice(0, aboveEnd)
@@ -220,7 +226,8 @@ function reskin(rel, type) {
     if (units(ls).filter(x => x.lang === 'statblock').length > 1) throw new Error('more than one stat block under ## Stats')
     statblock = ls.length ? ls : null
   }
-  let dmLines = dmPart ? dmPart.split('\n').slice(1) : []
+  const partyNotes = type === 'party' ? dmPart : ''
+  let dmLines = dmPart && type !== 'party' ? dmPart.split('\n').slice(1) : []
   if (type === 'player') dmLines = pcDmNotes(dmLines)
   while (dmLines.length && !dmLines[dmLines.length - 1].trim()) dmLines.pop()
   while (dmLines.length && !dmLines[0].trim()) dmLines.shift()
@@ -239,9 +246,23 @@ function reskin(rel, type) {
     nb = nb.replace('> > ```statblock\n> >\n> > ```', statblock.map(prefix).join('\n'))
   }
   const dmContent = [...prose, ...(prose.length && dmLines.length ? [''] : []), ...dmLines]
+  if (dmContent.length && type === 'party') throw new Error(`hand content with nowhere to go: ${dmContent[0]}`)
   if (dmContent.length) {
     if (nb.split('\n').filter(l => l === '> > ## DM Notes').length !== 1) throw new Error('template DM Notes heading not found once')
     nb = nb.replace('> > ## DM Notes\n', '> > ## DM Notes\n' + dmContent.map(prefix).join('\n') + '\n')
+  }
+  if (type === 'party') {
+    // The note's own timeline value (the template writes the note title).
+    const own = units(above.split('\n')).find(x => x.lang === 'aat-vertical')
+    if (own) {
+      const tm = /^> > ```aat-vertical\n> > [^\n]*\n> > ```$/m.exec(nb)
+      if (!tm) throw new Error('template timeline block not found')
+      nb = nb.replace(tm[0], unprefix(own.lines, (/^((?:>\s?)*)/.exec(own.lines[0])[1].match(/>/g) || []).length).map(prefix).join('\n'))
+    }
+    if (partyNotes) {
+      if (!/^# Notes\n*$/m.test(nb.slice(nb.lastIndexOf('# Notes')))) throw new Error('template # Notes is not last')
+      nb = nb.slice(0, nb.lastIndexOf('# Notes')) + partyNotes.replace(/\n*$/, '\n')
+    }
   }
   if (source.length) {
     const anchor = '```meta-bind-button\nlabel: Edit all'
@@ -253,8 +274,8 @@ function reskin(rel, type) {
   const strip = l => norm(l.replace(/^(>\s?)+/, '').replace(/^#+\s*/, ''))
   const have = new Set(nb.split('\n').map(strip))
   const must = [
-    ...above.replace(/^(>\s?)*```leaflet[\s\S]*?^(>\s?)*```\s*$/gm, '').split('\n').filter(l => !isTemplate(type, l)),
-    ...(leaflet ? leaflet : []), ...(statblock || []), ...dmLines,
+    ...above.replace(/^(>\s?)*```(leaflet|aat-vertical)[\s\S]*?^(>\s?)*```\s*$/gm, '').split('\n').filter(l => !isTemplate(type, l)),
+    ...(leaflet ? leaflet : []), ...(statblock || []), ...dmLines, ...partyNotes.split('\n'),
   ].map(strip).filter(Boolean)
   const lost = must.filter(l => !have.has(l))
   if (lost.length) return { skip: `would lose ${lost.length} line(s): ${lost.slice(0, 2).join(' / ')}` }
@@ -275,7 +296,7 @@ const typeOf = raw => {
   return Object.keys(TPL).find(t => tags.includes(t))
 }
 const onlyType = arg('--type'), onlyName = arg('--only')
-const files = ['4. World Almanac', '3. The Party/Quests', '3. The Party/Players'].flatMap(d => walk(d))
+const files = ['4. World Almanac', '3. The Party/Quests', '3. The Party/Players', '3. The Party/Parties'].flatMap(d => walk(d))
 const counts = {}
 for (const rel of files) {
   const type = typeOf(read(rel))
