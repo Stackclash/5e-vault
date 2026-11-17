@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: agent }, { target: "[[4. World Almanac/Places of Interest/The Cinderworks.md|The Cinderworks]]", type: works-at }, { target: "[[4. World Almanac/NPCs/Marrow.md|Marrow]]", type: employer } ]
 tags:
   - npc
   - monster/cr/8

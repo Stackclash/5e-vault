@@ -15,7 +15,7 @@ relationships:
     type: ally
     note: of convenience
   - target: "[[4. World Almanac/Factions/Gloaming Court.md|Gloaming Court]]"
-    type: member
+    type: leader
 tags:
   - npc
 aliases:

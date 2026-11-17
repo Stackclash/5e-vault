@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: [ { target: "[[4. World Almanac/Factions/The Unbroken Circle.md|The Unbroken Circle]]", type: member }, { target: "[[4. World Almanac/Factions/Dusk Elves of Duskferry.md|Dusk Elves of Duskferry]]", type: member }, { target: "[[5. Mechanics/Deities/Drow Eilistraee (MTF).md|Eilistraee]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/The Unbroken Circle.md|The Unbroken Circle]]", type: member }, { target: "[[4. World Almanac/Factions/Dusk Elves of Duskferry.md|Dusk Elves of Duskferry]]", type: leader, note: elder }, { target: "[[5. Mechanics/Deities/Drow Eilistraee (MTF).md|Eilistraee]]", type: cleric-of } ]
 tags:
   - npc
 aliases:

@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/NPCs/Mistress Lyssandra Veil.md|Mistress Lyssandra Veil]]", type: client, note: arranged to acquire the heartbeat prototype }, { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: enemy, note: killed by its agents } ]
 tags:
   - npc
 aliases:

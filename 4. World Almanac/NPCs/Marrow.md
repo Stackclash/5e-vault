@@ -9,7 +9,7 @@ reveal: {}
 facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: leader, note: Bruokdon cell }, { target: "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]", type: enemy, note: killed by her (S44) } ]
 tags:
   - npc
   - monster/cr/4
