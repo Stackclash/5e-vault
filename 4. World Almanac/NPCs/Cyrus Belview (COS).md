@@ -20,13 +20,8 @@ description: >-
   along his arms. He giggles to himself for no clear reason and can't resist a
   poor joke at the worst possible moment.
 history: >-
-  Cyrus is one of the Belview family, transformed generations ago by [[The Abbot
-  (COS)|the Abbot]] at the family's own desperate request for bestial
-  "perfection." Unlike the rest of his kin, who remain confined in the Abbey of
-  Saint Markovia's madhouse, Cyrus somehow found his way into [[Strahd Von
-  Zarovich (COS)|Strahd von Zarovich]]'s service and has tended Castle Ravenloft
-  as the vampire's devoted, half-mad manservant for longer than he can remember.
-relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves } ]
+  Cyrus is one of the Belview family, transformed generations ago by [[The Abbot (COS)|the Abbot]] at the family's own desperate request for bestial "perfection." Like the rest of his kin, Cyrus remained at the Abbey of Saint Markovia, where he keeps the abbey in order and tries to please the Abbot.
+relationships: [ { target: "[[4. World Almanac/Factions/Belview Family.md|Belview Family]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/The Abbot (COS).md|The Abbot]]", type: serves } ]
 party_relationships:
   Midnight Covenant: Acquaintance
 location: >-
@@ -42,7 +37,7 @@ race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 48
 occupation:
-  - Strahd's manservant (Castle Ravenloft)
+  - Servant of the Abbot (Abbey of Saint Markovia)
 personality: 'Meek, obliging, somewhat naive'
 ideal: Kindness and diligence can make even the darkest places a bit brighter
 bond: >-
