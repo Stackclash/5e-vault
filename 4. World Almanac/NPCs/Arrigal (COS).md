@@ -24,7 +24,7 @@ history: >-
   brute force, Arrigal works through cunning, theft, and the occasional quiet
   murder — delivering anything useful or dangerous to Strahd that falls into his
   hands, and killing to keep it if he must.
-relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Vallaki camp } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: leader, note: "Vallaki camp, co-leader" }, { target: "[[4. World Almanac/NPCs/Luvash (COS).md|Luvash]]", type: brother }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""

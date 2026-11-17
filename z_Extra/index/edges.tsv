@@ -343,12 +343,16 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Anselm Corrow.md	leader	4. World Almanac/Factions/Ferrymen's Guild.md		
 4. World Almanac/NPCs/Arabelle (COS).md	location	4. World Almanac/Places of Interest/Lake Zarovich.md		
 4. World Almanac/NPCs/Arabelle (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp
+4. World Almanac/NPCs/Arabelle (COS).md	father	4. World Almanac/NPCs/Luvash (COS).md		
+4. World Almanac/NPCs/Arabelle (COS).md	enemy	4. World Almanac/NPCs/Bluto Krogarov (COS).md		kidnapped her
 4. World Almanac/NPCs/Archmortician Valeris Thorne.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Archmortician Valeris Thorne.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Archwarden Selvara Kain.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Archwarden Selvara Kain.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Arrigal (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Arrigal (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp
+4. World Almanac/NPCs/Arrigal (COS).md	leader	4. World Almanac/Factions/Vistani.md		Vallaki camp, co-leader
+4. World Almanac/NPCs/Arrigal (COS).md	brother	4. World Almanac/NPCs/Luvash (COS).md		
+4. World Almanac/NPCs/Arrigal (COS).md	serves	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Baba Lysaga (COS).md	location	4. World Almanac/Places of Interest/Ruins of Berez.md		
 4. World Almanac/NPCs/Baba Lysaga (COS).md	ally	4. World Almanac/NPCs/Mab.md		of convenience
 4. World Almanac/NPCs/Baba Lysaga (COS).md	son	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		believes herself his true mother; she was his midwife
@@ -364,9 +368,12 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Bray Martikov (COS).md	father	4. World Almanac/NPCs/Urwin Martikov (COS).md		
 4. World Almanac/NPCs/Bray Martikov (COS).md	mother	4. World Almanac/NPCs/Danika Dorakova (COS).md		
 4. World Almanac/NPCs/Bray Martikov (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		
+4. World Almanac/NPCs/Bray Martikov (COS).md	brother	4. World Almanac/NPCs/Brom Martikov (COS).md		
+4. World Almanac/NPCs/Bray Martikov (COS).md	works-at	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Brom Martikov (COS).md	location	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Brom Martikov (COS).md	father	4. World Almanac/NPCs/Urwin Martikov (COS).md		
 4. World Almanac/NPCs/Brom Martikov (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		
+4. World Almanac/NPCs/Brom Martikov (COS).md	works-at	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Clovin Belview (COS).md	location	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Clovin Belview (COS).md	member	4. World Almanac/Factions/Belview Family.md		
 4. World Almanac/NPCs/Clovin Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
@@ -384,7 +391,9 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Danika Dorakova (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		
 4. World Almanac/NPCs/Danika Dorakova (COS).md	works-at	4. World Almanac/Shops/Blue Water Inn.md		
 4. World Almanac/NPCs/Davian Martikov (COS).md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
-4. World Almanac/NPCs/Davian Martikov (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		
+4. World Almanac/NPCs/Davian Martikov (COS).md	member	4. World Almanac/Factions/Keepers of the Feather.md		senior
+4. World Almanac/NPCs/Davian Martikov (COS).md	home	4. World Almanac/Places of Interest/The Wizard of Wines.md		owner
+4. World Almanac/NPCs/Davian Martikov (COS).md	enemy	4. World Almanac/NPCs/Baba Lysaga (COS).md		
 4. World Almanac/NPCs/Donavich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Donavich (COS).md	member	4. World Almanac/Factions/Clergy of the Morninglord.md		
 4. World Almanac/NPCs/Donavich (COS).md	cleric-of	5. Mechanics/Deities/Forgotten Realms Lathander.md		
@@ -442,7 +451,8 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Lord Caldris Velmont.md	enemy	4. World Almanac/NPCs/Marrow.md		
 4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md	member	4. World Almanac/Factions/Strahd's Brides.md		
 4. World Almanac/NPCs/Luvash (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
-4. World Almanac/NPCs/Luvash (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp
+4. World Almanac/NPCs/Luvash (COS).md	leader	4. World Almanac/Factions/Vistani.md		Vallaki camp, co-leader
+4. World Almanac/NPCs/Luvash (COS).md	serves	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		
 4. World Almanac/NPCs/Mab.md	ally	4. World Almanac/NPCs/Baba Lysaga (COS).md		of convenience
 4. World Almanac/NPCs/Mab.md	leader	4. World Almanac/Factions/Gloaming Court.md		
 4. World Almanac/NPCs/Mad Mary (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
@@ -471,7 +481,9 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Mistress Lyssandra Veil.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Mistress Lyssandra Veil.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Mistress Lyssandra Veil.md	enemy	4. World Almanac/Factions/Silent Ascendency.md		held captive (S44)
-4. World Almanac/NPCs/Morgantha (COS).md	member	4. World Almanac/Factions/Morgantha's Coven.md		
+4. World Almanac/NPCs/Morgantha (COS).md	leader	4. World Almanac/Factions/Morgantha's Coven.md		
+4. World Almanac/NPCs/Morgantha (COS).md	home	4. World Almanac/Places of Interest/Old Bonegrinder.md		
+4. World Almanac/NPCs/Morgantha (COS).md	asset	4. World Almanac/NPCs/Cyrus Belview (COS).md		carries her hag eye to spy on Ravenloft
 4. World Almanac/NPCs/Naerissa.md	location	4. World Almanac/Settlements/Duskferry.md		
 4. World Almanac/NPCs/Naerissa.md	member	4. World Almanac/Factions/The Unbroken Circle.md		
 4. World Almanac/NPCs/Naerissa.md	leader	4. World Almanac/Factions/Dusk Elves of Duskferry.md		elder
@@ -491,6 +503,9 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Otto Belview (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	member	4. World Almanac/Factions/Dusk Elves of Barovia.md		
 4. World Almanac/NPCs/Patrina Velikovna (COS).md	worships	4. World Almanac/Deities/The Nameless God of Secrets.md		
+4. World Almanac/NPCs/Patrina Velikovna (COS).md	lover	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		would-be bride; cast aside
+4. World Almanac/NPCs/Patrina Velikovna (COS).md	enemy	4. World Almanac/NPCs/Rahadin (COS).md		
+4. World Almanac/NPCs/Patrina Velikovna (COS).md	imprisoned-at	4. World Almanac/Places of Interest/Castle Ravenloft.md		bound to her crypt in the catacombs
 4. World Almanac/NPCs/Piccolo (COS).md	master	4. World Almanac/NPCs/Gadof Blinsky (COS).md		a gift from Rictavio
 4. World Almanac/NPCs/Professor Alindra Quicksilver.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Professor Alindra Quicksilver.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
@@ -509,16 +524,18 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Savid (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Savid (COS).md	member	4. World Almanac/Factions/Dusk Elves of Barovia.md		last of
 4. World Almanac/NPCs/Savid (COS).md	member	4. World Almanac/Factions/Vistani.md		Vallaki camp, allied
+4. World Almanac/NPCs/Savid (COS).md	patron	4. World Almanac/NPCs/Kasimir Velikov (COS).md		protector
 4. World Almanac/NPCs/Seer Ithildra Moonveil.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
 4. World Almanac/NPCs/Seer Ithildra Moonveil.md	member	4. World Almanac/Factions/Umbral Athenaeum Council.md		
 4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	location	4. World Almanac/Places of Interest/Argynvostholt.md		
 4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	member	4. World Almanac/Factions/Order of the Silver Dragon.md		
 4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
 4. World Almanac/NPCs/Stanimir (COS).md	location	4. World Almanac/Places of Interest/Tser Pool.md		
-4. World Almanac/NPCs/Stanimir (COS).md	member	4. World Almanac/Factions/Vistani.md		Tser Pool camp
+4. World Almanac/NPCs/Stanimir (COS).md	leader	4. World Almanac/Factions/Vistani.md		Tser Pool caravan
+4. World Almanac/NPCs/Stanimir (COS).md	serves	4. World Almanac/NPCs/Madam Eva (COS).md		
 4. World Almanac/NPCs/Stefania Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Stefania Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
-4. World Almanac/NPCs/Stella Wachter (COS).md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
+4. World Almanac/NPCs/Stella Wachter (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	member	4. World Almanac/Factions/House Wachter.md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	mother	4. World Almanac/NPCs/Lady Fiona Wachter (COS).md		
 4. World Almanac/NPCs/Stella Wachter (COS).md	lover	4. World Almanac/NPCs/Victor Vallakovich (COS).md		secret

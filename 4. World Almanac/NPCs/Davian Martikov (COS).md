@@ -28,7 +28,7 @@ history: >-
   remain estranged. In recent weeks Baba Lysaga's scarecrows and a band of evil
   druids have stolen the remaining two gems and driven Davian's family from the
   winery entirely, leaving the vineyard's future in doubt.
-relationships: [ { target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]", type: member, note: senior }, { target: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]", type: home, note: owner }, { target: "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga]]", type: enemy } ]
 party_relationships:
   Midnight Covenant: Ally
 location: >-

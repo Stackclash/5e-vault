@@ -25,7 +25,7 @@ history: >-
   only real tenderness reserved for his young daughter, Arabelle, whose recent
   disappearance from camp has driven him to send half his people into the woods
   to search for her.
-relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Vallaki camp } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: leader, note: "Vallaki camp, co-leader" }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: ""

@@ -30,7 +30,7 @@ history: >-
   Morgantha gave her coven's hag eye to Cyrus Belview, Strahd's disfigured
   manservant, so she could spy on Castle Ravenloft and stay a step ahead of the
   vampire she fears and respects.
-relationships: [ { target: "[[4. World Almanac/Factions/Morgantha's Coven.md|Morgantha's Coven]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Morgantha's Coven.md|Morgantha's Coven]]", type: leader }, { target: "[[4. World Almanac/Places of Interest/Old Bonegrinder.md|Old Bonegrinder]]", type: home }, { target: "[[4. World Almanac/NPCs/Cyrus Belview (COS).md|Cyrus Belview]]", type: asset, note: carries her hag eye to spy on Ravenloft } ]
 party_relationships: {}
 location: null
 gist: ""

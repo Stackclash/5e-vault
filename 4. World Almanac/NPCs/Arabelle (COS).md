@@ -24,7 +24,7 @@ history: >-
   [[Bluto Krogarov (COS)|Bluto Krogarov]], who believed drowning a lucky Vistana
   would end his run of bad luck on Lake Zarovich. Rescued in time, she demands
   only to be returned home, certain that a great destiny still awaits her.
-relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Vallaki camp } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Vallaki camp }, { target: "[[4. World Almanac/NPCs/Luvash (COS).md|Luvash]]", type: father }, { target: "[[4. World Almanac/NPCs/Bluto Krogarov (COS).md|Bluto Krogarov]]", type: enemy, note: kidnapped her } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 gist: ""

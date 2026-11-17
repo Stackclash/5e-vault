@@ -28,7 +28,7 @@ history: >-
   the dusk elf women and mutilate her brother Kasimir for his role in her death.
   She now speaks to Kasimir in dreams, claiming a repentance she does not feel,
   hoping he will find a way to restore her to life and power.
-relationships: [ { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member }, { target: "[[4. World Almanac/Deities/The Nameless God of Secrets.md|The Nameless God of Secrets]]", type: worships } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member }, { target: "[[4. World Almanac/Deities/The Nameless God of Secrets.md|The Nameless God of Secrets]]", type: worships }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: lover, note: would-be bride; cast aside }, { target: "[[4. World Almanac/NPCs/Rahadin (COS).md|Rahadin]]", type: enemy }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: imprisoned-at, note: bound to her crypt in the catacombs } ]
 party_relationships: {}
 location: null
 gist: ""

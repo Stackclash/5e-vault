@@ -23,7 +23,7 @@ history: >-
   tale of a cursed, noble prince, then guides those who agree to help back
   through the mists to Barovia — delivering them safely to Madam Eva's camp at
   [[Tser Pool]] before his own part in their story ends.
-relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Tser Pool camp } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: leader, note: Tser Pool caravan }, { target: "[[4. World Almanac/NPCs/Madam Eva (COS).md|Madam Eva]]", type: serves } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 gist: ""
