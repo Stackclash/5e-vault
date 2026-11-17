@@ -159,10 +159,3 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false, e
 
 # Notes
 
-## Fortunes of Ravenloft
-- [[Tome Of Strahd (COS)]] 
-	- Van Richten's Tower
-- [[Sunsword (COS)]]
-	- Ruins of Berez in Baba Lysaga's Creeping Hut
-- [[Holy Symbol Of Ravenkind (COS)]] 
-	- Amber Temple

@@ -332,6 +332,27 @@ source	type	target	learned_by	note
 4. World Almanac/Factions/Ferrymen's Guild.md	location	4. World Almanac/Settlements/Duskferry.md		
 4. World Almanac/Factions/House Wachter.md	location	4. World Almanac/Places of Interest/Wachterhaus.md		
 4. World Almanac/Factions/Umbral Athenaeum Council.md	location	4. World Almanac/Places of Interest/The Umbral Athenaeum.md		
+4. World Almanac/Items/Dusk Dagger.md	holder	3. The Party/Players/Roark Battleborn.md		
+4. World Almanac/Items/Dusk Dagger.md	base-item	5. Mechanics/Items/Dusk Dagger Rare (GRIFFONSSADDLEBAG2).md		
+4. World Almanac/Items/Gulthias Staff.md	holder	3. The Party/Parties/Midnight Covenant.md		
+4. World Almanac/Items/Gulthias Staff.md	base-item	5. Mechanics/Items/Gulthias Staff (COS).md		
+4. World Almanac/Items/Holy Symbol of Ravenkind.md	holder	3. The Party/Players/Redgrave.md		
+4. World Almanac/Items/Holy Symbol of Ravenkind.md	base-item	5. Mechanics/Items/Holy Symbol Of Ravenkind (COS).md		
+4. World Almanac/Items/Kahkan's Wand of Secrets.md	holder	3. The Party/Parties/Midnight Covenant.md		
+4. World Almanac/Items/Kahkan's Wand of Secrets.md	base-item	5. Mechanics/Items/Wand Of Secrets.md		
+4. World Almanac/Items/Marrow's Amber Gem.md	holder	3. The Party/Players/Redgrave.md		
+4. World Almanac/Items/Skull of Argynvost.md	location	4. World Almanac/Places of Interest/Argynvostholt.md		
+4. World Almanac/Items/Soul-Vessel Core.md	holder	3. The Party/Parties/Midnight Covenant.md		
+4. World Almanac/Items/Sunsword.md	holder	3. The Party/Players/Redgrave.md		
+4. World Almanac/Items/Sunsword.md	base-item	5. Mechanics/Items/Sunsword (COS).md		
+4. World Almanac/Items/Teleportation Gem.md	holder	3. The Party/Parties/Midnight Covenant.md		
+4. World Almanac/Items/The Hand of Vecna.md	holder	4. World Almanac/NPCs/Vecna.md		
+4. World Almanac/Items/The Hand of Vecna.md	base-item	5. Mechanics/Items/Hand Of Vecna.md		
+4. World Almanac/Items/Tome of Strahd.md	holder	3. The Party/Parties/Midnight Covenant.md		
+4. World Almanac/Items/Tome of Strahd.md	base-item	5. Mechanics/Items/Tome Of Strahd (COS).md		
+4. World Almanac/Items/Wizard of Wines Gems.md	holder	4. World Almanac/Factions/Keepers of the Feather.md		
+4. World Almanac/Items/Yester Hill Axe.md	holder	3. The Party/Players/Yevelda Ovak.md		
+4. World Almanac/Items/Yester Hill Axe.md	base-item	5. Mechanics/Items/Yester Hill Axe (COS).md		
 4. World Almanac/NPCs/Adrian Martikov.md	location	4. World Almanac/Places of Interest/The Wizard of Wines.md		
 4. World Almanac/NPCs/Adrian Martikov.md	father	4. World Almanac/NPCs/Davian Martikov (COS).md		
 4. World Almanac/NPCs/Adrian Martikov.md	member	4. World Almanac/Factions/Keepers of the Feather.md		

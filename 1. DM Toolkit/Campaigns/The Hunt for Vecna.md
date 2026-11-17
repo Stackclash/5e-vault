@@ -55,7 +55,7 @@ Register: gothic and ominous in Barovia; grander and more mythic as the Vecna ar
 - **Party:** 5 active PCs at **level 10** (tier 3). Roster: [[Faerah Duskrane]] (Drow), [[Redgrave]] (Warforged Envoy), [[Roark Battleborn]] (Human), [[Wisp]] (Awakened Cat), [[Yevelda Ovak]] (Human). [[Marin]] and [[Seluvis Felo'melorn]] are currently inactive.
 - **Lethality: hard but survivable.** Encounters should genuinely threaten the party, but rarely kill outright without bad luck or bad decisions. Player death is on the table as a consequence, not a baseline expectation.
 - **Encounter budgeting:** use the Lazy DM (Sly Flourish) encounter benchmark — the same method surfaced in the [[Midnight Covenant]] infobox. Verify current level and active roster from the party note before building fights.
-- **Magic / rewards:** significant artifacts are in play via the Fortunes of Ravenloft ([[Tome Of Strahd (COS)]], [[Sunsword (COS)]], [[Holy Symbol Of Ravenkind (COS)]]). Treat major magic items as story-weighted rewards, not routine loot.
+- **Magic / rewards:** significant artifacts are in play via the Fortunes of Ravenloft ([[Tome of Strahd]], [[Sunsword]], [[Holy Symbol of Ravenkind]]). Treat major magic items as story-weighted rewards, not routine loot.
 
 # Lines & Veils
 
@@ -180,12 +180,12 @@ Open questions and hooks the agents should track for continuity:
 - The Great Library, reached via the Well of Many Worlds with [[Professor Gousse Windcaller]]'s help — next session; expect Silent Ascendency agents already at work there *(Act I, Arc 3)*. The actual World-Truth Working casting site is separate from the Library and gets identified later, at The Convergence (Act I, Arc 6).
 - **[[Baba Lysaga (COS)|Baba Lysaga]]'s vendetta** — unresolved from the Curse of Strahd arc. She has not forgiven Strahd's death or the theft of her hut's gem, and (barely a week removed from the loss, by her own reckoning) has struck a bargain with [[Mab]], Queen of Air and Darkness and ruler of the Gloaming Court, to intercept the party the moment they cross into fey territory. Mab now holds a debt over the party from however that confrontation resolves — a hook, not a one-off fight.
 - The gods' non-interference compact and Roark's father, the Trickster God — background force shaping [[Roark Battleborn]]'s arc; [[Martin Thricefold]] acts as the god's indirect agent.
-- The Fortunes of Ravenloft — locations tracked below.
+- The Fortunes of Ravenloft — where each was found is below; the item notes track who holds them.
 
 ## Fortunes of Ravenloft
-- [[Tome Of Strahd (COS)]] — Van Richten's Tower
-- [[Sunsword (COS)]] — Ruins of Berez, in Baba Lysaga's Creeping Hut
-- [[Holy Symbol Of Ravenkind (COS)]] — Amber Temple
+- [[Tome of Strahd]] — found in Van Richten's Tower (S12)
+- [[Sunsword]] — found with one of the Wizard of Wines gems in Baba Lysaga's Creeping Hut
+- [[Holy Symbol of Ravenkind]] — found in a treasure hoard in the Amber Temple
 
 # Locked Canon
 
