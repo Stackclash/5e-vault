@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.hasTag("session-journal")
+    - file.inFolder("1. DM Toolkit/Session Journals")
+views:
+  - type: table
+    name: Edit
+    order:
+      - file.name
+      - session_number
+      - party_level
+      - wrapped
+    sort:
+      - property: session_number
+        direction: DESC

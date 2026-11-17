@@ -71,3 +71,23 @@ views:
       note.race: 128
       note.age: 146
       formula.relationships: 247
+  - type: table
+    name: Edit
+    filters:
+      and:
+        - '!file.inFolder("5. Mechanics")'
+        - '!file.inFolder("z_Templates")'
+    order:
+      - file.name
+      - condition
+      - gist
+      - race
+      - gender
+      - age
+      - alignment
+      - location
+    sort:
+      - property: location
+        direction: ASC
+      - property: file.name
+        direction: ASC
