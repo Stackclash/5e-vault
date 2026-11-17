@@ -9,7 +9,8 @@ curse: ""
 images: []
 gist: "The amber graft from the nape of Marrow's neck: a sliver of Eludrax's soul-craft, the same craft behind the Amber Wardens."
 summary: ""
-revealed: {}
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 relationships: []
