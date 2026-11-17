@@ -100,12 +100,8 @@ try {
     classFeatures: character.classFeatures,
     feats: character.feats,
     raceSpells: character.spells.race,
-    classSpells: await Promise.all(character.spells.class.map(async function(classSpell) {
-      return {
-        ...classSpell,
-        name: await tp.user.find_file(classSpell.name, '5. Mechanics/Spells')
-      }
-    })),
+    classSpells: character.spells.class,
+    featSpells: character.spells.feat,
     currencies: character.currencies,
     inventory: await Promise.all(character.inventory.map(async function(inv) {
       return {
@@ -272,7 +268,7 @@ INPUT[select(class(tabbed), option(Sheet), option(Skills), option(Features), opt
 > > ```dataviewjs
 > > const result = []
 > > const spellLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-> > dv.current().class_spells.map((classSpellConfig, classIndex) => {
+> > (dv.current().class_spells ?? []).map((classSpellConfig, classIndex) => {
 > >   const classSpellLevels = spellLevels.filter(level => classSpellConfig.spell_slots.max[level-1] > 0 || level === 0)
 > >   dv.header(3, classSpellConfig.name)
 > >   classSpellLevels.forEach(level => {
@@ -288,6 +284,12 @@ INPUT[select(class(tabbed), option(Sheet), option(Skills), option(Features), opt
 > >   })
 > > })
 > > dv.paragraph(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
+> > for (const [title, list] of [['Race spells', dv.current().race_spells], ['Feat spells', dv.current().feat_spells]]) {
+> >   if (Array.isArray(list) && list.length) {
+> >     dv.header(3, title)
+> >     dv.list(list.map(sp => `${sp.name} (${sp.level === 0 ? 'cantrip' : 'level ' + sp.level})`))
+> >   }
+> > }
 > > ```
 >
 > > [!tab|no-t] Inventory

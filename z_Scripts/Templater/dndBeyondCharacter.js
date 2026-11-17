@@ -8,14 +8,14 @@ class DnDBeyondCharacter {
   // toFrontmatter renames them on the way out, at any depth.
   static FRONTMATTER_KEYS = {
     abilityScores: 'ability_scores', savingThrows: 'saving_throws', racialTraits: 'racial_traits',
-    classFeatures: 'class_features', raceSpells: 'race_spells', classSpells: 'class_spells',
+    classFeatures: 'class_features', raceSpells: 'race_spells', classSpells: 'class_spells', featSpells: 'feat_spells',
     armorClass: 'armor_class', baseValue: 'base_value', canEquip: 'can_equip', canAttune: 'can_attune',
     damageType: 'damage_type', isPrepared: 'is_prepared', cantripsKnown: 'cantrips_known',
     spellSlots: 'spell_slots', subClass: 'subclass', 'animal-handling': 'animal_handling',
     'sleight-of-hand': 'sleight_of_hand'
   }
 
-  static LEGACY_KEYS = ['abilityScores', 'savingThrows', 'racialTraits', 'classFeatures', 'raceSpells', 'classSpells']
+  static LEGACY_KEYS = ['abilityScores', 'savingThrows', 'racialTraits', 'classFeatures', 'raceSpells', 'classSpells', 'featSpells']
 
   static toFrontmatter(value) {
     if (Array.isArray(value)) return value.map(v => DnDBeyondCharacter.toFrontmatter(v))
@@ -417,37 +417,37 @@ class DnDBeyondCharacter {
       },
       spells: {
         get: () => {
-          const classSpells = this.#data.classes.filter(dndClass => dndClass.definition.canCastSpells)
-            .map(dndClass => ({
-              name: dndClass.definition.name,
-              cantripsKnown: dndClass.definition.spellRules.levelCantripsKnownMaxes[this.level],
-              spellSlots: {
-                max: dndClass.definition.spellRules.levelSpellSlots[this.level],
-                used: this.#data.spellSlots.sort((a, b) => a - b).map(slot => slot.used)
-              },
-              spells: this.#data.classSpells.find(spellClass => spellClass.characterClassId === dndClass.id ).spells.map(spell => {
-                let isPrepared = spell.prepared || spell.alwaysPrepared
-                if (!isPrepared && spell.definition.level === 0) isPrepared = true
-                
-                return {
-                  name: spell.definition.name,
-                  level: spell.definition.level,
-                  isPrepared
-                }
-              }).sort((a, b) => a.level - b.level)
-            }))
-          const raceSpells = this.#data.spells.race.map(raceSpell => {
-            let isPrepared = raceSpell.prepared || raceSpell.alwaysPrepared
-            if (!isPrepared && raceSpell.definition.level === 0) isPrepared = true
+          // D&D Beyond keeps spells in several places: classSpells (the class list and prepared spells),
+          // spells.class (granted by class features, e.g. a druid circle or domain), spells.race, and
+          // spells.feat (e.g. Magic Initiate). Entries without a definition are skipped.
+          const toSpell = spell => {
+            let isPrepared = spell.prepared || spell.alwaysPrepared
+            if (!isPrepared && spell.definition.level === 0) isPrepared = true
+            return { name: spell.definition.name, level: spell.definition.level, isPrepared: !!isPrepared }
+          }
+          const list = spells => {
+            const seen = new Set()
+            return (spells || []).filter(sp => sp && sp.definition).map(toSpell)
+              .filter(sp => !seen.has(sp.name) && seen.add(sp.name))
+              .sort((a, b) => a.level - b.level || a.name.localeCompare(b.name))
+          }
+          const casters = this.#data.classes.filter(dndClass => dndClass.definition.canCastSpells)
+          const featureSpells = this.#data.spells?.class || []
+          const classSpells = casters.map((dndClass, i) => ({
+            name: dndClass.definition.name,
+            cantripsKnown: dndClass.definition.spellRules.levelCantripsKnownMaxes[this.level],
+            spellSlots: {
+              max: dndClass.definition.spellRules.levelSpellSlots[this.level],
+              used: this.#data.spellSlots.sort((a, b) => a - b).map(slot => slot.used)
+            },
+            // Feature-granted spells carry no class id; they go with the first casting class.
+            spells: list([
+              ...(this.#data.classSpells.find(spellClass => spellClass.characterClassId === dndClass.id)?.spells || []),
+              ...(i === 0 ? featureSpells : []),
+            ])
+          }))
 
-            return {
-              name: raceSpell.definition.name,
-              level: raceSpell.definition.level,
-              isPrepared
-            }
-          }).sort((a, b) => a.level - b.level)
-
-          return {race: raceSpells, class: classSpells}
+          return { race: list(this.#data.spells?.race), class: classSpells, feat: list(this.#data.spells?.feat) }
         },
         enumerable: true
       },
@@ -559,6 +559,7 @@ class DnDBeyondCharacter {
     fm.feats = this.feats
     fm.raceSpells = this.spells.race
     fm.classSpells = this.spells.class
+    fm.featSpells = this.spells.feat
     fm.currencies = this.currencies
     fm.inventory = await Promise.all(this.inventory.map(async (inv) => {
       return {
