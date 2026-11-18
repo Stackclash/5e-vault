@@ -28,7 +28,7 @@ relationships: [ { target: "[[4. World Almanac/Places of Interest/The Amber Temp
 party_relationships:
   Midnight Covenant: Acquaintance
 location: '[[The Amber Temple]]'
-gist: ""
+gist: "Lich and self-appointed keeper of the Amber Temple, his mind fraying; shared its secrets with Strahd. Met S20."
 summary: ""
 revealed: {}
 reveal: {}

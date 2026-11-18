@@ -20,7 +20,7 @@ tags:
   - compendium/src/5e/cos
 aliases:
 pronounced: AY-dree-an MAR-ti-kov
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: "[[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]"
 gender: male
 age: 37
 alignment: Neutral Good

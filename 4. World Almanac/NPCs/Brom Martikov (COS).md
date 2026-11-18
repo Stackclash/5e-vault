@@ -34,13 +34,13 @@ relationships:
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
-gist: ""
+gist: "Urwin and Danika's younger son at the Blue Water Inn, still unaware of his family's Keeper secret."
 summary: ""
 revealed: {}
 reveal: {}
 facts: []
 pronounced: BROM MAR-ti-kov
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: '[[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]'
 gender: male
 age: 13
 occupation:

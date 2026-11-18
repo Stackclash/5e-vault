@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
 condition: healthy
-gist: ""
+gist: "Elderly Thornmere villager whom a buried rune made the village forget; the party broke it (S35)."
 summary: ""
 revealed: {}
 reveal: {}

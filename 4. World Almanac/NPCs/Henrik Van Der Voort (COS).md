@@ -33,7 +33,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]]", type: works-at }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: patron, note: as Vasili von Holtz } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Vallaki's coffin maker, whose shop Strahd (as Vasili von Holtz) made a vampire-spawn lair; Milivoj's employer."
 summary: ""
 revealed: {}
 reveal: {}

@@ -26,7 +26,7 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
-gist: ""
+gist: "Vallaki's hard-luck drunk fisherman on Lake Zarovich, who kidnapped Arabelle hoping drowning her would change his luck."
 summary: ""
 revealed: {}
 reveal: {}

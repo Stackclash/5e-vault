@@ -33,7 +33,7 @@ party_relationships:
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
-gist: ""
+gist: "Mongrelfolk caretaker and manservant to the Abbot at the Abbey of Saint Markovia; rings the bell and doles out meals."
 summary: ""
 revealed: {}
 reveal: {}

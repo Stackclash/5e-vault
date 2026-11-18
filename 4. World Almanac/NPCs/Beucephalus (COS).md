@@ -24,7 +24,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: master }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home, note: Crypt 39 } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Strahd's nightmare steed, entombed in Crypt 39 beneath Castle Ravenloft."
 summary: ""
 revealed: {}
 reveal: {}

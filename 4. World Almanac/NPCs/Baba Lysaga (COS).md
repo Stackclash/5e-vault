@@ -31,7 +31,7 @@ relationships:
 party_relationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
-gist: ""
+gist: "Mad witch who believes she is Strahd's true mother; allied with Mab, she hunts the party to avenge him."
 summary: ""
 revealed: {}
 reveal: {}

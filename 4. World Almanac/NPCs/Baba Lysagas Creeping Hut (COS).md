@@ -16,7 +16,7 @@ alignment: Unaligned
 relationships: [ { target: "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga]]", type: master }, { target: "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]", type: home, note: inert since the gem was torn out } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Baba Lysaga's animated hut at the Ruins of Berez, inert since Seluvis pulled out its stolen Wizard of Wines gem (S23)."
 summary: ""
 revealed: {}
 reveal: {}

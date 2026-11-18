@@ -15,7 +15,7 @@ tags:
   - npc
 aliases: []
 pronounced:
-race:
+race: "[[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]"
 gender:
 age:
 alignment:

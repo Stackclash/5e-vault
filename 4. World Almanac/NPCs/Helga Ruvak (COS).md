@@ -15,7 +15,7 @@ alignment: Neutral Evil
 relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: works-at, note: guest quarters; maid cover } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Vampire spawn posing as a kidnapped maid in Castle Ravenloft's guest quarters; chose to serve Strahd."
 summary: ""
 revealed: {}
 reveal: {}

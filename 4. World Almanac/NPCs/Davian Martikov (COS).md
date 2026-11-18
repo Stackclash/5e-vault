@@ -34,13 +34,13 @@ party_relationships:
 location: >-
   [[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of
   Wines]]
-gist: ""
+gist: "Wereraven patriarch who owns the Wizard of Wines; senior Keeper, estranged from Urwin over a stolen vineyard gem."
 summary: ""
 revealed: {}
 reveal: {}
 facts: []
 pronounced: DAY-vee-an MAR-ti-kov
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: '[[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]'
 gender: male
 age: 61
 occupation:

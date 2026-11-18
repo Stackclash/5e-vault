@@ -37,7 +37,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|Hou
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-gist: ""
+gist: "Vallaki's paranoid former burgomaster, head of House Vallakovich and Izek's employer; now alive in the Village of Barovia."
 summary: ""
 revealed: {}
 reveal: {}

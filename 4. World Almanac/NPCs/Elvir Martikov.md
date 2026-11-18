@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
-gist: ""
+gist: "Davian Martikov's son, a wereraven living at the Wizard of Wines; an ally of the party."
 summary: ""
 revealed: {}
 reveal: {}
@@ -17,7 +17,7 @@ tags:
   - npc
 aliases: []
 pronounced:
-race: "[[Werewolf|Werewolf]]"
+race: "[[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]"
 gender: male
 age:
 alignment: Chaotic Neutral

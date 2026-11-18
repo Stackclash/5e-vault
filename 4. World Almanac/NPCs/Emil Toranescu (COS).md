@@ -34,7 +34,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night
 party_relationships:
   Midnight Covenant: Friendly
 location: null
-gist: ""
+gist: "Werewolf the party freed from Castle Ravenloft; now free and leading the Children of Mother Night."
 summary: "The werewolf the party freed from Castle Ravenloft, who went back to lead the werewolf pack."
 revealed:
   Midnight Covenant: true
@@ -64,9 +64,7 @@ flaw: >-
   My conscience made me reckless — I challenged Kiril in the open instead of
   building support in secret.
 goals: >-
-  Escape Castle Ravenloft and prove his worth to Strahd, reclaiming standing in
-  the pack — unless he can be convinced instead to abandon that dream and flee
-  to Zuleika.
+  Hold and grow the Children of Mother Night now that he leads them.
 likes: 'Loyalty, a growing pack, the open sky beyond the castle walls'
 dislikes: 'Kiril''s cruelty toward captured children, being doubted, confinement'
 ---

@@ -38,7 +38,7 @@ relationships:
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
-gist: ""
+gist: "Urwin Martikov's wife and co-keeper of the Blue Water Inn; a wereraven of the Keepers of the Feather."
 summary: ""
 revealed: {}
 reveal: {}

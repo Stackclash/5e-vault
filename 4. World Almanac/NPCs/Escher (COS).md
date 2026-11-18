@@ -16,7 +16,7 @@ alignment: Neutral Evil
 relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: lover, note: favored consort (former) }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Strahd's former favored consort, a vampire spawn in Castle Ravenloft's spires dreading the catacombs."
 summary: ""
 revealed: {}
 reveal: {}

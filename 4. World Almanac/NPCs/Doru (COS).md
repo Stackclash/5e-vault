@@ -21,7 +21,7 @@ description: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-gist: ""
+gist: "Donavich's son, turned vampire spawn after a failed revolt at Castle Ravenloft; starving, chained beneath his father's church."
 summary: ""
 revealed: {}
 reveal: {}

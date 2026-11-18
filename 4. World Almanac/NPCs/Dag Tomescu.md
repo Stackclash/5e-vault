@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
-gist: ""
+gist: "Stefania Martikov's husband, living at the Wizard of Wines."
 summary: ""
 revealed: {}
 reveal: {}

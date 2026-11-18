@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 condition: dead
-gist: ""
+gist: "Dead monster-hunter who built a doppelganger-detecting heartbeat device for Lyssandra Veil; killed by Ascendency agents at the handoff (S44)."
 revealed: {}
 reveal: {}
 facts: []

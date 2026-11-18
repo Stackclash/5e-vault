@@ -19,30 +19,27 @@ description: >-
   jester's cap. His shop sells cheerful trinkets alongside disturbingly morbid
   ones, and business has all but dried up.
 history: >-
-  Blinsky considers himself a student of the legendary inventor Fritz von Weerg,
-  and has spent years perfecting his craft in a shop most of Vallaki now avoids
-  — his fondness for macabre playthings unsettles as many customers as it
-  charms. For six months only one paying customer crossed his threshold: a
-  foreign traveler named [[Rictavio (COS)|Rictavio]], who bought a stuffed
-  Vistana doll and, sensing the toymaker's loneliness, gave him a pet monkey
-  named [[Piccolo (COS)|Piccolo]]. Overjoyed, Blinsky has been training Piccolo
-  to fetch stock from high shelves and dressed him in a tailored ballerina tutu.
+  Blinsky considers himself a student of the legendary inventor Fritz von Weerg, and has spent years perfecting his craft in a shop most of Vallaki now avoids — his fondness for macabre playthings unsettles as many customers as it charms. For six months only one paying customer crossed his threshold: a foreign traveler named [[Rictavio (COS)|Rictavio]], who bought a stuffed Vistana doll and, sensing the toymaker's loneliness, gave him a pet monkey named [[Piccolo (COS)|Piccolo]]. Overjoyed, Blinsky has been training Piccolo to fetch stock from high shelves and dressed him in a tailored ballerina tutu.
 
-  Behind his cheerful patter lies a darker secret: for months, [[Izek Strazni
-  (COS)|Izek Strazni]] — the burgomaster's fire-armed henchman — has forced
-  Blinsky to craft an increasingly lifelike doll of a woman he's never met every
-  month, threatening to burn down the shop if he refuses. Izek pays nothing for
-  the dolls and has never told Blinsky who they're modeled after; Blinsky
-  quietly obeys out of fear, never suspecting the cruelty behind the commission.
-  The burgomaster, [[Baron Vargas Vallakovich (COS)|Baron Vargas Vallakovich]],
-  keeps him afloat with a small monthly stipend for festival decorations, and
-  Blinsky, ever hopeful, believes that if he can just make enough people smile —
-  starting with Barovia's children — the town's suffering might finally lift.
-relationships: [ { target: "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni]]", type: client, note: forced to carve dolls of Ireena }, { target: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]", type: works-at }, { target: "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]", type: client }, { target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]", type: patron, note: monthly stipend for festival toys } ]
+  Behind his cheerful patter lies a darker secret: for months, [[Izek Strazni (COS)|Izek Strazni]] — the burgomaster's fire-armed henchman — has forced Blinsky to craft an increasingly lifelike doll of a woman he's never met every month, threatening to burn down the shop if he refuses. Izek pays nothing for the dolls and has never told Blinsky who they're modeled after; Blinsky quietly obeys out of fear, never suspecting the cruelty behind the commission. The burgomaster, [[Baron Vargas Vallakovich (COS)|Baron Vargas Vallakovich]], keeps him afloat with a small monthly stipend for festival decorations, and Blinsky, ever hopeful, believes that if he can just make enough people smile — starting with Barovia's children — the town's suffering might finally lift.
+
+
+  The commission has since ended: once Izek began working with the party and learned that Ireena, the woman in the dolls, is his long-lost sister, he stopped having them made.
+relationships:
+  - target: "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni]]"
+    type: client
+    note: formerly forced to carve dolls of Ireena
+  - target: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]"
+    type: works-at
+  - target: "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]"
+    type: client
+  - target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]"
+    type: patron
+    note: monthly stipend for festival toys
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]'
-gist: ""
+gist: "Vallaki's lonely, eccentric toymaker at Blinsky Toys; upgraded Nyxia and gave the party Eyes of Minute Seeing (S12)."
 summary: ""
 revealed: {}
 reveal: {}
@@ -70,7 +67,7 @@ goals: >-
 likes: >-
   Cheerful company, Piccolo, praise for his craftsmanship, stories about the
   legendary toymaker Fritz von Weerg
-dislikes: 'Being laughed at, Izek Strazni''s threats, empty shelves, silence in the shop'
+dislikes: 'Being laughed at, empty shelves, silence in the shop'
 ---
 > [!infobox]
 > ```dataviewjs

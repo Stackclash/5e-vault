@@ -19,7 +19,7 @@ party_relationships:
 location: >-
   [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
   Tower]]
-gist: ""
+gist: "One-legged Vistana monster hunter, Rictavio's former protégé, sworn against Strahd; met S15-S33."
 summary: ""
 revealed: {}
 reveal: {}

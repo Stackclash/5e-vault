@@ -21,6 +21,10 @@ locations:
 session_number: 23
 party_present:
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
 npcs:
   - "[[4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md|Baba Lysagas Creeping Hut (COS)]]"
   - "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga (COS)]]"

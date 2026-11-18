@@ -27,7 +27,7 @@ party_relationships:
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
-gist: ""
+gist: "Mongrelfolk servant keeping the Abbey of Saint Markovia in order for the Abbot; Morgantha counts him an asset."
 summary: ""
 revealed: {}
 reveal: {}

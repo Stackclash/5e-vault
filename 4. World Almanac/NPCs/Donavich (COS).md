@@ -21,7 +21,7 @@ description: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Clergy of the Morninglord.md|Clergy of the Morninglord]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: cleric-of }, { target: "[[4. World Almanac/NPCs/Doru (COS).md|Doru]]", type: son } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-gist: ""
+gist: "Village of Barovia's Morninglord priest, who keeps his vampire-spawn son Doru chained beneath the church."
 summary: ""
 revealed: {}
 reveal: {}

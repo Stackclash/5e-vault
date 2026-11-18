@@ -31,7 +31,7 @@ revealed: {}
 reveal: {}
 facts: []
 pronounced: UR-win MAR-ti-kov
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: '[[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]'
 gender: male
 age: 36
 occupation:

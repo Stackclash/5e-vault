@@ -19,7 +19,7 @@ relationships: [ { target: "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Mad Mary's daughter and Victor Vallakovich's secret lover, turned Strahd's bride; one of two surviving brides."
 summary: ""
 revealed: {}
 reveal: {}
