@@ -30,8 +30,8 @@ history: >-
   vanished without a trace alongside the household butler.
 relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/Factions/House Petrovich.md|House Petrovich]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: rival } ]
 party_relationships: {}
-location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+gist: "Baron Vallakovich's anxiously cheerful wife, Father Lucian's sister, and Victor's mother."
 summary: ""
 revealed: {}
 reveal: {}

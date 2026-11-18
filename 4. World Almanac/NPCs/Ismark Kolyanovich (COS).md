@@ -23,7 +23,7 @@ relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-gist: ""
+gist: "Burgomaster of the Village of Barovia and Ireena's adoptive brother, long sworn against Strahd."
 summary: ""
 revealed: {}
 reveal: {}

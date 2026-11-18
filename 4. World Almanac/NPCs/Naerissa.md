@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 condition: healthy
-gist: ""
+gist: "Elder of Duskferry's dusk elves and Eilistraee shrine-keeper; Faerah's sister guided her out of the Underdark."
 revealed: {}
 reveal: {}
 facts:

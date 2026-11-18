@@ -28,7 +28,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: leader, note: "Vallaki camp, co-leader" }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Arabelle's brutal father, co-leader of the Vallaki Vistani camp with his brother Arrigal; sworn to Strahd."
 summary: ""
 revealed: {}
 reveal: {}

@@ -22,7 +22,7 @@ relationships: [ { target: "[[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md|
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-gist: ""
+gist: "Ismark's adopted sister and Izek's lost sister, carrying Tatyana's soul; Strahd hunted her as his bride."
 summary: ""
 revealed: {}
 reveal: {}

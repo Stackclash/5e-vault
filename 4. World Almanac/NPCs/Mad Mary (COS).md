@@ -20,7 +20,7 @@ description: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-gist: ""
+gist: "Gertruda's grief-stricken mother in the Village of Barovia, barricaded in her townhouse since Gertruda vanished; met S10."
 summary: ""
 revealed: {}
 reveal: {}

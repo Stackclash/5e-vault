@@ -32,7 +32,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Places of Interest/St. Andral's Church.md|St. Andral's Church]]", type: works-at }, { target: "[[4. World Almanac/NPCs/Henrik Van Der Voort (COS).md|Henrik Van Der Voort]]", type: employer, note: paid him to steal St. Andral's bones } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Gravedigger at Vallaki's St. Andral's Church who told Henrik Van Der Voort where the saint's bones lay; met S6."
 summary: ""
 revealed: {}
 reveal: {}

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location:
 condition: healthy
-gist: ""
+gist: "Queen of Air and Darkness, ruler of the Gloaming Court; collecting on her bargain with Baba Lysaga."
 summary: ""
 revealed: {}
 reveal: {}

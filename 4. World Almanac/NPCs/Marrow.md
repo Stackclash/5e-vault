@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 condition: dead
-gist: ""
+gist: "Dead doppelganger leader of the Ascendency's Bruokdon cell who impersonated Velmont, Gousse, and Roark; Faerah killed it (S44)."
 revealed:
   Midnight Covenant: true
 reveal: {}

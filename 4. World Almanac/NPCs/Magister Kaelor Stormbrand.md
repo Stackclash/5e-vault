@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Umbral Athenaeum.md|The Umbral Athenaeum]]"
 condition: healthy
-gist: ""
+gist: "The Umbral Athenaeum's dwarf Councilor of Evocation, a bold battle-magic instructor training mages to defend Bruokdon."
 summary: ""
 revealed: {}
 reveal: {}

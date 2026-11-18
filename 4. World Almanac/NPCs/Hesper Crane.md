@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Cinderworks.md|The Cinderworks]]"
 condition: healthy
-gist: ""
+gist: "Hired Ascendency handler running the Cinderworks depot for Marrow; her ledger pointed the party to Duskferry's 'Tallyman' (S45)."
 revealed:
   Midnight Covenant: true
 reveal: {}

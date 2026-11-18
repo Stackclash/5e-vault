@@ -16,7 +16,7 @@ relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
-gist: ""
+gist: "Ageless Vistani seer at Tser Pool and Strahd's secret half-sister; traded her youth to Mother Night for foresight."
 summary: ""
 revealed: {}
 reveal: {}

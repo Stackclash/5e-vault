@@ -25,7 +25,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member, note: Fiona Wachter's cult }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: master } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
-gist: ""
+gist: "Fiona Wachter's hidden imp familiar at Wachterhaus, used as proof of her cult's infernal favor."
 summary: ""
 revealed: {}
 reveal: {}

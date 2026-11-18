@@ -29,7 +29,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: imprisoned-at, note: chained in the records room }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: employer } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Strahd's accountant, chained to a desk in Castle Ravenloft's records room, caring only for his ledgers."
 summary: ""
 revealed: {}
 reveal: {}

@@ -40,7 +40,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House W
 party_relationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Head of House Wachter and Vallaki's secret devil cult, Baron Vallakovich's rival; now captured at Vallaki."
 summary: ""
 revealed: {}
 reveal: {}

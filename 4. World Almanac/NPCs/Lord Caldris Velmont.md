@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Umbral Athenaeum.md|The Umbral Athenaeum]]"
 condition: healthy
-gist: ""
+gist: "Athenaeum Councilor of Enchantment who built the smuggling ring Marrow stole while impersonating him; freed by the party, wants revenge."
 summary: "The Bruokdon noble the party freed from the doppelganger who had taken his place."
 revealed:
   Midnight Covenant: true

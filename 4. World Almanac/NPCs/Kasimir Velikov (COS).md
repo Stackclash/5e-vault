@@ -16,7 +16,7 @@ alignment: Neutral
 relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: adopted }, { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member, note: last of }, { target: "[[4. World Almanac/NPCs/Patrina Velikovna (COS).md|Patrina Velikovna]]", type: sister }, { target: "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]", type: works-at, note: watcher }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy, note: mutilated him } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Last of Barovia's dusk elves, a watcher at the Amber Temple seeking a way to restore his sister Patrina."
 summary: ""
 revealed: {}
 reveal: {}

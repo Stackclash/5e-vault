@@ -33,7 +33,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night
 party_relationships:
   Midnight Covenant: Enemy
 location: null
-gist: ""
+gist: "Dead former leader of the Children of Mother Night, a cruel werewolf and Strahd's enforcer; Emil replaced him."
 summary: ""
 revealed: {}
 reveal: {}

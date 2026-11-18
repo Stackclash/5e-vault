@@ -33,7 +33,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Morgantha's Coven.md|Morgantha's Coven]]", type: leader }, { target: "[[4. World Almanac/Places of Interest/Old Bonegrinder.md|Old Bonegrinder]]", type: home }, { target: "[[4. World Almanac/NPCs/Cyrus Belview (COS).md|Cyrus Belview]]", type: asset, note: carries her hag eye to spy on Ravenloft } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Night hag of Old Bonegrinder whose coven bakes dream pastries from children's bones; spies on Ravenloft through Cyrus Belview."
 summary: ""
 revealed: {}
 reveal: {}

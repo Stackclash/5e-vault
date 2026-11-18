@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 condition: healthy
-gist: ""
+gist: "Disgraced half-elf historian and the Trickster God's agent, protecting Roark and tracking how knowledge of Vecna changes; met S39."
 summary: ""
 revealed: {}
 reveal: {}
