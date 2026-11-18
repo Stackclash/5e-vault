@@ -30,7 +30,7 @@ history: >-
   with Emil's attempt to fracture his werewolves. The dire wolves dragged Emil
   to Castle Ravenloft, where Strahd has kept him imprisoned in the South Dungeon
   ever since — punishment, and a lesson to the rest of the pack.
-relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member }, { target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]", type: worships }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: imprisoned-at, note: South Dungeon }, { target: "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]]", type: rival } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: leader }, { target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]", type: worships }, { target: "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]]", type: rival } ]
 party_relationships:
   Midnight Covenant: Friendly
 location: null
