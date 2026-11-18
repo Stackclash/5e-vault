@@ -12,13 +12,13 @@ resources:
 population: 100
 terrain:
 rulers:
-  - "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich (COS)]]"
-government:
+  - "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov]]"
+government: Council of elders
 army:
 imports:
 exports:
 aliases:
-summary: Hello
+summary: A Barovian town governed by a council of elders that the party set up after Strahd's fall, with Urwin Martikov as head elder.
 tags:
   - settlement
   - location

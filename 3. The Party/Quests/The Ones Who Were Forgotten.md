@@ -18,7 +18,7 @@ steps:
     completed:
       Midnight Covenant: true
     status: played
-    outcome: Met Eamon Morcant in Thornmere ([[1. DM Toolkit/Session Journals/The Hunt for Vecna/S35 The Forgotten Man of Thornmere.md|S35]]).
+    outcome: The party broke the magic rune that hid Eamon from the villagers' memories, and Redgrave cured the children of their unnatural knowledge with Remove Curse ([[1. DM Toolkit/Session Journals/The Hunt for Vecna/S35 The Forgotten Man of Thornmere.md|S35]]).
 npcs:
   - name: "[[4. World Almanac/NPCs/Eamon Morcant.md|Eamon Morcant]]"
     description: Greets the party as they enter the village and recognizes them by name. No one else in the village knows who he is.

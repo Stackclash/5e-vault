@@ -37,6 +37,7 @@ age: 36
 occupation:
   - Innkeeper
   - Cook
+  - Head Elder of Vallaki
 personality: 'Warm, protective, quietly stubborn'
 ideal: A safe hearth and a full cup can hold back even Strahd’s darkness.
 bond: >-
