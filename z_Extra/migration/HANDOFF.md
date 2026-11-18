@@ -1,10 +1,10 @@
 Continue the vault migration in this repo (5e-vault, branch v2). Read CLAUDE.md and z_Extra/Vault Design/03 Migration Plan.md first; load the vault-note skill before any note write.
 
 ## Where things stand (2026-11-18)
-Done and committed: everything through G1, and G2 sitting 1 (S1-S5 wrapped; commit 59ef33476d). Lint 0 errors, 168 warnings (ledger-entity-undecided 106, key-case 49). Index: 185 entities, 774 edges, 58 facts. Check git status first; the tree should be clean apart from .obsidian/.
+Done and committed: everything through G1, and G2 sittings 1-2 (S1-S10 wrapped; last commit a6439be1f6). Lint 0 errors, 148 warnings (ledger-entity-undecided 86, key-case 49). Index: 185 entities, 800 edges, 72 facts. Check git status first; the tree should be clean apart from .obsidian/.
 
 ## Next
-G2: session-by-session reveals, S6 to S48, five sessions per sitting (see 03 Migration Plan G2). Then G3, H.
+G2: session-by-session reveals, S11 to S48. Carry-over proposal: add Lydia to the S9 npcs ledger (she was saved from the mob in S9; not yet proposed)., five sessions per sitting (see 03 Migration Plan G2). Then G3, H.
 
 ## How I work with you
 - Proposal first: numbered lines, each with the quoted source passage. I answer by number; write only accepted lines. Silence on a line is not acceptance. If I only list exceptions, the rest are accepted.
@@ -24,7 +24,7 @@ G2: session-by-session reveals, S6 to S48, five sessions per sitting (see 03 Mig
 - Savid is dead (S17), no location. Lydia and the Vallakovichs are in the Village of Barovia. Izek serves Vecna is former.
 - The Well of Many Worlds is planned, not yet given (active false). Gadof no longer makes Izek dolls. Emil leads the pack; Zuleika stands with him.
 - S23 party present: Redgrave, Seluvis, Yevelda, Marin, Faerah; Seluvis pulled the hut gem.
-- G2 pattern: g2-sitting1.js (ledgers, reveals, public_name, learned edges, wrap) + e8-facts.js g2-sitting1-facts.json. Every entity added to a ledger needs a reveal decision and summary in the same proposal. S4 and S5 party_present: all PCs but Wisp and Roark (DM); confirm for later sessions with empty or short lists.
+- G2 pattern: write a spec (see g2-s2/spec.json) and run g2-apply.js <spec> (ledgers, party, body fill, reveals, public_name, learned edges, wrap), then e8-facts.js <facts.json>. Every entity added to a ledger needs a reveal decision and summary in the same proposal. Many ledgers were name-matched from embedded prep: check each NPC against the record (summary, Events, New NPCs, End of Session Notes), never the Plan or Keep in Mind. Unfilled bodies get filled from the summary, drafted in the proposal. party_present S1-S10: all PCs but Wisp and Roark (DM); they first appear S36. In body links, Strahd needs [[Strahd Von Zarovich (COS)|...]]; run z_Scripts/JS/link-check.js on new text.
 - NPC notes have no Plan Changelog section; plan changes to NPCs are logged in the commit message.
 
 ## Deferred to the S49 wrap (raise each as a proposal line)
