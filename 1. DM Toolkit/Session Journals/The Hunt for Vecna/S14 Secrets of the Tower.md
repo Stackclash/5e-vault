@@ -75,9 +75,15 @@ Description
 
 ## What Happened
 - The party uncovers Khazan and defeat him in his dark dimension
-	- Khazan is now bound to [[5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS)|Strahd Von Zarovich]] in his castle #secret #remember
+
+> [!dm]
+> - Khazan is now bound to [[5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS)|Strahd Von Zarovich]] in his castle #secret #remember
+
 - [[5. Mechanics/Deities/Drow Eilistraee (MTF)|Eilistraee]] contacted [[Faerah Duskrane]] through her pendant asking her to be her champion in freeing the people of [[Barovia]] #remember 
 - [[Marin]] accepts power from the Dark Powers to bring Yan's head alive permanently #remember 
+
+## Errata
+- 2026-11-17: After the party defeated Khazan in Van Richten's Tower, he was bound to Strahd in Castle Ravenloft. The party never encountered him in the castle, and with Castle Ravenloft destroyed he is gone (DM).
 
 ```meta-bind-button
 label: Edit all
