@@ -29,7 +29,7 @@ party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
-gist: ""
+gist: "Flesh golem the Abbot built from Krezk's dead as Strahd's bride, never presented."
 summary: ""
 revealed: {}
 reveal: {}

@@ -15,7 +15,7 @@ alignment: Neutral Evil
 relationships: [ { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home, note: "catacombs, near Strahd's coffin" }, { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Dead vampire-spawn bride of Strahd, once dormant near his coffin in Castle Ravenloft's catacombs."
 summary: ""
 revealed: {}
 reveal: {}

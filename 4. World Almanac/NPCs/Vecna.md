@@ -11,7 +11,7 @@ tags:
 aliases:
   - Vecna
 pronounced: ""
-gist: ""
+gist: "The Whispered One, freed from the Amber Temple by Strahd's death (S33); seeks to become the God of Truth."
 summary: "The power freed from the Amber Temple when Strahd died (S33); the party has hunted him ever since."
 revealed:
   Midnight Covenant: true

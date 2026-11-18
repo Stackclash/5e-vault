@@ -34,7 +34,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member }, { target: "[[4. World Almanac/Places of Interest/Death House.md|Death House]]", type: home, note: his ghost lingers there } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Ghost of the younger Durst child at Death House, clinging to his sister Rose."
 summary: ""
 revealed: {}
 reveal: {}

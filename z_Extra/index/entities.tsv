@@ -106,17 +106,17 @@ npc	Strahds Animated Armor (COS)	Strahd's Animated Armor	4. World Almanac/NPCs/S
 npc	Szoldar Szoldarovich (COS)	Szoldar Szoldarovich	4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		Grim Vallaki wolf hunter, Yevgeni Krushkin's partner, selling wolf meat to feed his family; met S12.
 npc	The Abbot (COS)	The Abbot	4. World Almanac/NPCs/The Abbot (COS).md		healthy		Deva master of the Abbey of Saint Markovia who made the Belviews mongrelfolk and built Vasilka as Strahd's bride.
 npc	The Mad Mage Of Mount Baratok (COS)	The Mad Mage of Mount Baratok	4. World Almanac/NPCs/The Mad Mage Of Mount Baratok (COS).md		healthy		Mordenkainen, maddened former Circle of Eight leader, beaten by Strahd; his staff and spellbook lost at Tser Falls.
-npc	Thornboldt Thorn Durst (COS)	Thornboldt "Thorn" Durst	4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md		healthy		
-npc	Urwin Martikov (COS)	Urwin Martikov	4. World Almanac/NPCs/Urwin Martikov (COS).md	4. World Almanac/Shops/Blue Water Inn.md	healthy		
-npc	Vasilka (COS)	Vasilka	4. World Almanac/NPCs/Vasilka (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
-npc	Vecna		4. World Almanac/NPCs/Vecna.md		healthy	Midnight Covenant	The power freed from the Amber Temple when Strahd died (S33); the party has hunted him ever since.
-npc	Victor Vallakovich (COS)	Victor Vallakovich	4. World Almanac/NPCs/Victor Vallakovich (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
-npc	Vilnius (COS)	Vilnius	4. World Almanac/NPCs/Vilnius (COS).md	4. World Almanac/Places of Interest/The Amber Temple.md	healthy		
-npc	Vladimir Horngaard (COS)	Vladimir Horngaard	4. World Almanac/NPCs/Vladimir Horngaard (COS).md		healthy		
-npc	Volenta Popofsky (COS)	Volenta Popofsky	4. World Almanac/NPCs/Volenta Popofsky (COS).md		dead		
-npc	Yevgeni Krushkin (COS)	Yevgeni Krushkin	4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
-npc	Zuleika Toranescu (COS)	Zuleika Toranescu	4. World Almanac/NPCs/Zuleika Toranescu (COS).md		healthy		
-npc	Zygfrek Belview (COS)	Zygfrek Belview	4. World Almanac/NPCs/Zygfrek Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
+npc	Thornboldt Thorn Durst (COS)	Thornboldt "Thorn" Durst	4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md		healthy		Ghost of the younger Durst child at Death House, clinging to his sister Rose.
+npc	Urwin Martikov (COS)	Urwin Martikov	4. World Almanac/NPCs/Urwin Martikov (COS).md	4. World Almanac/Shops/Blue Water Inn.md	healthy		Head elder of Vallaki's council and keeper of the Blue Water Inn; wereraven Keeper estranged from his father Davian.
+npc	Vasilka (COS)	Vasilka	4. World Almanac/NPCs/Vasilka (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		Flesh golem the Abbot built from Krezk's dead as Strahd's bride, never presented.
+npc	Vecna		4. World Almanac/NPCs/Vecna.md		healthy	Midnight Covenant	The Whispered One, freed from the Amber Temple by Strahd's death (S33); seeks to become the God of Truth.
+npc	Victor Vallakovich (COS)	Victor Vallakovich	4. World Almanac/NPCs/Victor Vallakovich (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		Baron Vallakovich's son, a self-taught wizard whose teleportation circle sent Gertruda to Ravenloft; now in the Village of Barovia.
+npc	Vilnius (COS)	Vilnius	4. World Almanac/NPCs/Vilnius (COS).md	4. World Almanac/Places of Interest/The Amber Temple.md	healthy		Apprentice wizard hiding in the Amber Temple's lecture hall since flameskulls killed his master Jakarion.
+npc	Vladimir Horngaard (COS)	Vladimir Horngaard	4. World Almanac/NPCs/Vladimir Horngaard (COS).md		healthy		Revenant commander of the Order of the Silver Dragon at Argynvostholt, Godfrey's beloved, wanting Strahd to suffer forever; met S16.
+npc	Volenta Popofsky (COS)	Volenta Popofsky	4. World Almanac/NPCs/Volenta Popofsky (COS).md		dead		Dead vampire-spawn bride of Strahd, once dormant near his coffin in Castle Ravenloft's catacombs.
+npc	Yevgeni Krushkin (COS)	Yevgeni Krushkin	4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		Vallaki wolf hunter and wilderness guide, Szoldar Szoldarovich's partner; met S12.
+npc	Zuleika Toranescu (COS)	Zuleika Toranescu	4. World Almanac/NPCs/Zuleika Toranescu (COS).md		healthy		Emil Toranescu's mate in the Children of Mother Night, keeper of the Shrine of Mother Night and its kidnapped children.
+npc	Zygfrek Belview (COS)	Zygfrek Belview	4. World Almanac/NPCs/Zygfrek Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		Mongrelfolk Belview who guards the Abbey of Saint Markovia's north gate and digs up Krezk graves with Otto.
 party	Midnight Covenant		3. The Party/Parties/Midnight Covenant.md				
 place-of-interest	Abbey of Saint Markovia		4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	4. World Almanac/Settlements/Krezk.md			The Abbot's abbey in Krezk, home to Vasilka and the Belview family; the party visited in S25.
 place-of-interest	Argynvostholt		4. World Almanac/Places of Interest/Argynvostholt.md	4. World Almanac/Regions/Barovia.md			Barovian mansion of the fallen Order of the Silver Dragon and Vladimir Horngaard's home; holds Argynvost's skull.

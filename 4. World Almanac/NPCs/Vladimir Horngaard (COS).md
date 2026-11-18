@@ -17,13 +17,13 @@ relationships: [ { target: "[[4. World Almanac/Factions/Order of the Silver Drag
 party_relationships:
   Midnight Covenant: Ally
 location: null
-gist: ""
+gist: "Revenant commander of the Order of the Silver Dragon at Argynvostholt, Godfrey's beloved, wanting Strahd to suffer forever; met S16."
 summary: ""
 revealed: {}
 reveal: {}
 facts: []
 pronounced: null
-race: '[[Revenant|Revenant]]'
+race: '[[5. Mechanics/Bestiary/Undead/Revenant.md|Revenant]]'
 gender: male
 age: 34
 occupation:

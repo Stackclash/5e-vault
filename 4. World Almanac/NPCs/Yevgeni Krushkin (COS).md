@@ -30,7 +30,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Vallaki Wolf Hunters.md|Vallaki Wolf Hunters]]", type: member }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Vallaki wolf hunter and wilderness guide, Szoldar Szoldarovich's partner; met S12."
 summary: ""
 revealed: {}
 reveal: {}

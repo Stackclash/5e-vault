@@ -24,7 +24,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|Hou
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-gist: ""
+gist: "Baron Vallakovich's son, a self-taught wizard whose teleportation circle sent Gertruda to Ravenloft; now in the Village of Barovia."
 summary: ""
 revealed: {}
 reveal: {}

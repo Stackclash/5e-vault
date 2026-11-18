@@ -26,7 +26,7 @@ history: >-
 relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]'
-gist: ""
+gist: "Apprentice wizard hiding in the Amber Temple's lecture hall since flameskulls killed his master Jakarion."
 summary: ""
 revealed: {}
 reveal: {}

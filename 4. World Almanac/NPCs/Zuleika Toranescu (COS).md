@@ -19,18 +19,14 @@ description: >-
   idol of Mother Night, praying in a low, unbroken murmur. Grief has hollowed
   her, but there's a coiled violence beneath the mourning.
 history: >-
-  Zuleika is Emil Toranescu's mate. When Strahd's dire wolves dragged Emil away
-  to Castle Ravenloft, Kiril Stoyanovich forbade her from hunting and set her to
-  guard the pack's kidnapped children at the Shrine of Mother Night instead — a
-  punishment disguised as duty. Believing Emil dead by Strahd's hand, she prays
-  daily to Mother Night for a sign that the goddess might sway Strahd into
-  releasing him. She lacks the strength or allies to move against Kiril alone,
-  and the rest of the pack — having watched what happened to Emil — won't risk
-  Strahd's wrath by helping her.
+  Zuleika is Emil Toranescu's mate. When Strahd's dire wolves dragged Emil away to Castle Ravenloft, Kiril Stoyanovich forbade her from hunting and set her to guard the pack's kidnapped children at the Shrine of Mother Night instead — a punishment disguised as duty. Believing Emil dead by Strahd's hand, she prays daily to Mother Night for a sign that the goddess might sway Strahd into releasing him. She lacks the strength or allies to move against Kiril alone, and the rest of the pack — having watched what happened to Emil — won't risk Strahd's wrath by helping her.
+
+
+  That has since changed: the party freed Emil from Castle Ravenloft, and he returned to the pack and took control of it from Kiril.
 relationships: [ { target: "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]", type: member }, { target: "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]", type: worships }, { target: "[[4. World Almanac/NPCs/Emil Toranescu (COS).md|Emil Toranescu]]", type: husband, note: mate }, { target: "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]]", type: enemy } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Emil Toranescu's mate in the Children of Mother Night, keeper of the Shrine of Mother Night and its kidnapped children."
 summary: ""
 revealed: {}
 reveal: {}
@@ -51,8 +47,7 @@ flaw: >-
   My grief has made me patient to the point of paralysis — I wait for others to
   act rather than act myself.
 goals: >-
-  See Kiril Stoyanovich dead and Emil returned to her, whatever the cost to
-  herself.
+  Stand beside Emil as he remakes the Children of Mother Night.
 likes: 'Mother Night''s shrine, quiet devotion, the memory of Emil'
 dislikes: 'Kiril Stoyanovich, cowardice, empty prayers'
 ---

@@ -29,7 +29,7 @@ party_relationships: {}
 location: >-
   [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
   Saint Markovia]]
-gist: ""
+gist: "Mongrelfolk Belview who guards the Abbey of Saint Markovia's north gate and digs up Krezk graves with Otto."
 summary: ""
 revealed: {}
 reveal: {}
