@@ -157,7 +157,7 @@ How each PC's story hooks into the campaign. These are threads and open question
 - Finding the Eternal Watch (**Act II, Arc 4**) to save him is Wisp's throughline — this is also where the Watch explains how domain-claiming actually works, setting the rules for the finale (see The Hunt — Campaign Arc → Endings). Getting at what's buried in the master's mind will require some way to actually enter it — the Eternal Watch is expected to hold the method (DM-only working name: **the Hollow Vigil**, unrevealed) when the party finds them. Whatever's recovered there is a strong candidate for the "specific knowledge from the Eternal Watch" the Endings section gates both the worthier-claimant and domain-collapse options behind — not yet committed to which, or both.
 
 ### [[Roark Battleborn]]
-- His father is a Trickster God, bound — like all gods — by an ancient compact never to act in ways that would strip mortals of their own agency. He cannot move against Vecna directly; Roark, his mortal son, is the sanctioned loophole.
+- His father is a Trickster God, bound — like all gods — by an ancient compact never to act in ways that would strip mortals of their own agency. He cannot move against Vecna directly; He seeks to use Roark as a mortal loophole.
 - [[Martin Thricefold]] is bonded to protect Roark on the god's behalf, having received a warning years ago that the corruption of knowledge would be Vecna's first sign of return — a warning that's already proven true at the Umbral Athenaeum.
 - Roark's arc is growing into the role of his father's hands in the mortal world.
 
@@ -196,7 +196,7 @@ Facts the DM has finalized. Agents treat these as fixed unless the DM explicitly
 - [[Faerah Duskrane]] is a servant of [[Drow Eilistraee (MTF)|Eilistraee]].
 - [[Yevelda Ovak]]'s parents died defending [[Barovia]].
 - Killing Strahd (S33) — specifically Redgrave's final blow, drawing out Strahd's soul — delivered "the final piece" that freed Vecna from the Amber Temple. The party witnessed this and knows it.
-- Roark's father is a Trickster God, bound by the gods' ancient non-interference compact; Roark is his sanctioned mortal agent.
+- Roark's father is a Trickster God, bound by the gods' ancient non-interference compact; he seeks Roark's help as his mortal agent.
 - [[Wisp]]'s master is a member of the Eternal Watch and fell into a coma the instant Vecna's escape broke the ward he maintained.
 - [[Izek Strazni (COS)|Izek Strazni]] survived the fall of Castle Ravenloft and was claimed by Vecna's power in that moment; he served him until the party freed him from Vecna's control (S49).
 - [[Anastrasya Karelova (COS)|Anastrasya Karelova]] survived Strahd's wedding-night battle and fled; she is being courted by Vecna's forces.

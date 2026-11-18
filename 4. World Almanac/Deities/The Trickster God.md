@@ -18,6 +18,9 @@ facts:
     learned:
       Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S40 Secrets of the Silent Ascendency.md|S40 Secrets of the Silent Ascendency]]"
     locked: true
+  - text: Bound by the gods' ancient non-interference compact, the Trickster God seeks Roark Battleborn's help as his mortal agent.
+    learned: {}
+    locked: true
 relationships: []
 aliases: []
 tags:
