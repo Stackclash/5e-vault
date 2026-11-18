@@ -3,9 +3,21 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 condition: healthy
+gist: "The Tallyman: Ferrymen's Guild senior clerk secretly falsifying Duskferry manifests for Ascendency cargo bound for Greyfen Hollow."
+revealed:
+  Midnight Covenant: true
+reveal: {}
+facts:
+  - text: Reyes falsifies or omits manifest entries for 'special cargo' shipments in exchange for payment.
+    learned: {}
+  - text: Reyes knows the shipments' onward route toward Greyfen Hollow, but not what happens there.
+    learned: {}
+  - text: Ostwin Reyes is the Tallyman, the Silent Ascendency's contact in Duskferry.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md|S46 New Session Journal]]"
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[4. World Almanac/Factions/Ferrymen's Guild.md|Ferrymen's Guild]]", type: member }, { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: agent, note: the Tallyman }, { target: "[[4. World Almanac/NPCs/Anselm Corrow.md|Anselm Corrow]]", type: employer } ]
 tags:
   - npc
   - monster/cr/1
@@ -22,10 +34,6 @@ alignment: Neutral Evil
 occupation:
   - Senior Tally Clerk, Ferrymen's Guild
   - Silent Ascendency Logistics Liaison (unofficial)
-groups:
-  - Ferrymen's Guild
-  - Silent Ascendency
-religions: []
 description: |-
   Narrow, ink-stained hands and a clerk's stoop from decades bent over ledgers. Dresses a rank above his actual station — good boots, a guild coat cut better than his pay grade — paid for, though nobody's ever asked, by money that never touches an official book. Precise to the point of tedium in conversation, the kind of man who corrects your arithmetic before he's finished agreeing with you.
 history: |-
@@ -38,84 +46,273 @@ flaw: His pride in never being questioned makes him overconfident that he never 
 goals: Keep the arrangement quiet, keep the extra income coming, and stay exactly as invisible as he's always been.
 likes: exact books, being underestimated, fine boots
 dislikes: audits, couriers who ask questions, anyone implying his ledgers could be wrong
-partyRelationships:
+party_relationships:
   Midnight Covenant: Acquaintance
-player_impression: ""
-secrets: |-
-  STILL DM-ONLY (not yet revealed, and not yet named to the party — they only have the code name "the Tallyman" from [[Hesper Crane]]'s ledger as of the 2026-08-22 session): Reyes is the actual Silent Ascendency contact in Duskferry, not Guildmaster [[Anselm Corrow]]. He personally falsifies or omits manifest entries for "special cargo" shipments in exchange for payment, using his trusted position to keep them off the Guild's real books.
-  He knows the next physical link in the chain — the shipments' onward route toward [[Greyfen Hollow]] — but not what happens there or who's ultimately behind any of it; he's never been curious enough to ask, and it's safer not to know.
-  He is not a believer and has no loyalty worth risking his neck for. Under real pressure (arrest, exposure to Corrow, or a credible threat) he gives up the next link in the chain quickly, the same way [[Hesper Crane]] would — but he's proud and careful enough that getting him to that point takes real leverage, not just a direct question.
-  Three findable pointers that he — not Corrow — is the real contact (three-clue rule): (1) [[Hesper Crane]]'s ledger, naming "the Tallyman" by code name in a pattern matching her own password arrangement; (2) the tally-house's public records, which a DC 15 Investigation check reveals have a small, consistent set of manifests with sequential entries missing, all in the same clerk's hand; (3) Reyes himself, under pressure or careful questioning, confirming it.
+summary: "The Ferrymen's Guild clerk in Duskferry who was the Ascendency's contact, known by the code name 'the Tallyman.'"
 ---
-
 > [!infobox]
-> # `=this.file.name`
-> **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('views/imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
 >  |
 >  ---|---|
-> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
-> **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
-> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
+> **Race** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'race'})` |
+> **Gender** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'gender'})` |
+> **Age** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'age'})` |
+> **Alignment** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'alignment'})` |
 > ###### Info
 >  |
 >  ---|---|
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
-> **Occupation(s)** | `INPUT[inlineList:occupation]` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
-> **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
+> **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
-# **`=this.file.name`**
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
-> [!column|no-t flex]
->> [!metadata|text-Center] Description
->> `INPUT[textArea:description]`
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
+> ```
 >
->> [!metadata|text-Center] History
->> `INPUT[textArea:history]`
+> > [!tab|no-t] At the Table
+> > **Appearance** `INPUT[text:appearance]`
+> >
+> > **Voice** `BUTTON[pop-voice]`
+> > `INPUT[textArea:voice]`
+> >
+> > **Goals** `BUTTON[pop-goals]`
+> > `INPUT[textArea:goals]`
+> >
+> > **Personality** `BUTTON[pop-personality]`
+> > `INPUT[textArea:personality]`
+> >
+> > **Ideal** `BUTTON[pop-ideal]`
+> > `INPUT[textArea:ideal]`
+> >
+> > **Bond** `BUTTON[pop-bond]`
+> > `INPUT[textArea:bond]`
+> >
+> > **Flaw** `BUTTON[pop-flaw]`
+> > `INPUT[textArea:flaw]`
+> >
+> > **Likes** `BUTTON[pop-likes]`
+> > `INPUT[textArea:likes]`
+> >
+> > **Dislikes** `BUTTON[pop-dislikes]`
+> > `INPUT[textArea:dislikes]`
+>
+> > [!tab|no-t] Lore
+> > **Description** `BUTTON[pop-description]`
+> > `INPUT[textArea:description]`
+> >
+> > **History** `BUTTON[pop-history]`
+> > `INPUT[textArea:history]`
+>
+> > [!player] Player-Facing
+> > **Revealed to the party** `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['revealed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})`
+> >
+> > **Public name** `$=await dv.view('utils/metaBindInput', {type: 'text', field: ['public_name', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (optional: shown instead of the note name)
+> >
+> > **Also show** `$=await dv.view('utils/metaBindInput', {type: 'inlineList', field: ['reveal', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (extra fields the site may show, e.g. images, occupation)
+> >
+> > **Summary** `BUTTON[pop-summary]`
+> > `INPUT[textArea:summary]`
+> >
+> > **Facts**
+> > ```datacorejsx
+> > const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
+> > return function View() { return <FactsTable /> }
+> > ```
+>
+> > [!tab|no-t] Connections
+> > `BUTTON[add-relationship]` `BUTTON[remove-relationship]`
+> >
+> > ```dataviewjs
+> > await dv.view("views/npcRelationships", { current: dv.current() })
+> > ```
+> >
+> > **Quests**
+> > ```dataview
+> > LIST FROM #quest WHERE contains(npcs.name, this.file.link)
+> > ```
+> >
+> > **Sessions**
+> > ```dataview
+> > LIST FROM #session-journal WHERE contains(npcs, this.file.link) SORT session_number ASC
+> > ```
+>
+> > [!tab|no-t] Stats
+> > *Unmodified [[5. Mechanics/Bestiary/Humanoid/Spy.md|Spy]] (CR 1, MM) — no stat changes. Reyes reads as exactly what he is: a clerk who's dangerous with information and a hidden blade, not a fighter. Use the linked bestiary note directly if a scene ever needs his stats; this note carries his identity, motive, and secrets.*
+>
+> > [!dm] DM
+> > ```dataviewjs
+> > await dv.view("views/dmPanel", {current: dv.current()})
+> > ```
+> >
+> > `BUTTON[edit-dm-notes]`
+> > ## DM Notes
+> > ### Hidden Details
+> > See Secrets above: he's the real Duskferry contact behind the code name "the Tallyman," not Guildmaster [[Anselm Corrow]], and he knows the route onward toward [[Greyfen Hollow]] without knowing what it actually is.
+> >
+> > STILL DM-ONLY (not yet revealed, and not yet named to the party — they only have the code name "the Tallyman" from [[Hesper Crane]]'s ledger as of the 2026-08-22 session): Reyes is the actual Silent Ascendency contact in Duskferry, not Guildmaster [[Anselm Corrow]]. He personally falsifies or omits manifest entries for "special cargo" shipments in exchange for payment, using his trusted position to keep them off the Guild's real books.
+> >
+> > He knows the next physical link in the chain — the shipments' onward route toward [[Greyfen Hollow]] — but not what happens there or who's ultimately behind any of it; he's never been curious enough to ask, and it's safer not to know.
+> >
+> > He is not a believer and has no loyalty worth risking his neck for. Under real pressure (arrest, exposure to Corrow, or a credible threat) he gives up the next link in the chain quickly, the same way [[Hesper Crane]] would — but he's proud and careful enough that getting him to that point takes real leverage, not just a direct question.
+> >
+> > Three findable pointers that he — not Corrow — is the real contact (three-clue rule): (1) [[Hesper Crane]]'s ledger, naming "the Tallyman" by code name in a pattern matching her own password arrangement; (2) the tally-house's public records, which a DC 15 Investigation check reveals have a small, consistent set of manifests with sequential entries missing, all in the same clerk's hand; (3) Reyes himself, under pressure or careful questioning, confirming it.
+> >
+> > ### General Notes
+> > Created 2026-08-22 alongside [[Anselm Corrow]] and [[Greyfen Hollow]] while expanding [[Duskferry]] ahead of a likely [[The Second Ledger]] session — built for a *future* visit to Duskferry, not the Cinderworks infiltration itself. The party has only the code name as of the 2026-08-22 prep; don't reveal "Reyes" at the table until they've actually earned it.
 
-## Traits/Goals
-> [!column|no-t flex]
->> [!metadata|text-Center bg-c-yellow] Personality
->> `INPUT[textArea:personality]`
->
->> [!metadata|text-Center bg-c-pink] Ideal
->> `INPUT[textArea:ideal]`
->
->> [!metadata|text-Center bg-c-brown] Bond
->> `INPUT[textArea:bond]`
->
->> [!metadata|text-Center bg-c-orange] Flaw
->> `INPUT[textArea:flaw]`
->
->> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[textArea:likes]`
->
->> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[textArea:dislikes]`
->
->> [!metadata|text-Center] Goals
->> `INPUT[textArea:goals]`
-
-## Player-Facing
-> [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
-
-## Secrets
-`INPUT[textArea:secrets]`
-
-## Relationships
-`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Voice in a larger window
+style: default
+id: pop-voice
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: voice
+      label: Voice
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Goals in a larger window
+style: default
+id: pop-goals
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: goals
+      label: Goals
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Personality in a larger window
+style: default
+id: pop-personality
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: personality
+      label: Personality
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Ideal in a larger window
+style: default
+id: pop-ideal
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: ideal
+      label: Ideal
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Bond in a larger window
+style: default
+id: pop-bond
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: bond
+      label: Bond
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Flaw in a larger window
+style: default
+id: pop-flaw
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: flaw
+      label: Flaw
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Likes in a larger window
+style: default
+id: pop-likes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: likes
+      label: Likes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Dislikes in a larger window
+style: default
+id: pop-dislikes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: dislikes
+      label: Dislikes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Description in a larger window
+style: default
+id: pop-description
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: description
+      label: Description
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit History in a larger window
+style: default
+id: pop-history
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: history
+      label: History
+```
 ```meta-bind-button
 style: primary
 label: Add Relationship
@@ -134,39 +331,41 @@ actions:
   - type: runTemplaterFile
     templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
 ```
-> [!div | no-t clean txt-c]
-> `$=await dv.view("views/npcRelationships", { current: dv.current() })`
-
-## Quests
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-  const columns = [
-    {
-      id: 'Quest',
-      value: (row) => row.$link
-    },
-    {
-      id: 'Description',
-      value: (row) => row.$frontmatter.description.raw || ''
-    },
-    {
-      id: 'Involvement',
-      value: (row) => row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)).description || ''
-    }
-  ]
-  
-  return <dc.Table rows={quests} columns={columns}/>
-}
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Summary in a larger window
+style: default
+id: pop-summary
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: summary
+      label: Summary
 ```
 
-## Stats
-*Unmodified [[5. Mechanics/Bestiary/Humanoid/Spy.md|Spy]] (CR 1, MM) — no stat changes. Reyes reads as exactly what he is: a clerk who's dangerous with information and a hidden blade, not a fighter. Use the linked bestiary note directly if a scene ever needs his stats; this note carries his identity, motive, and secrets.*
-
-## DM Notes
-### Hidden Details
-See Secrets above: he's the real Duskferry contact behind the code name "the Tallyman," not Guildmaster [[Anselm Corrow]], and he knows the route onward toward [[Greyfen Hollow]] without knowing what it actually is.
-
-### General Notes
-Created 2026-08-22 alongside [[Anselm Corrow]] and [[Greyfen Hollow]] while expanding [[Duskferry]] ahead of a likely [[The Second Ledger]] session — built for a *future* visit to Duskferry, not the Cinderworks infiltration itself. The party has only the code name as of the 2026-08-22 prep; don't reveal "Reyes" at the table until they've actually earned it.
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```

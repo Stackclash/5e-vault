@@ -21,8 +21,8 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
-campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
-prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2024-04-13.md|2024-04-13]]"
+party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+prep_notes: "[[1. DM Toolkit/Session Prep/The Hunt for Vecna/2024-04-13.md|2024-04-13]]"
 fc-end: 973-2-19
 tags:
   - session-journal
@@ -40,30 +40,38 @@ npcs:
   - "[[4. World Almanac/NPCs/Savid (COS).md|Savid (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 ---
 > [!infobox]
-> ## Info
-> | | |
-> |---|---|
-> | **Campaign:** | `INPUT[suggester(optionQuery(#campaign)):campaign]` |
-> | **Session #:** | `INPUT[number:session_number]` |
-> | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
-> ## Fantasy Dates
-> | | |
-> |---|---|
-> | **Start Date:** | `INPUT[text:fc-date]`
-> | **End Date:** | `INPUT[text:fc-end]` |
-> | **Timelines:** | `INPUT[inlineList:timelines]` |
-> | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
-> ## Session Links
-> | | |
-> |---|---|
-> | **Party Present:** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
-> | **NPCs Met:** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
-> | **Quests Touched:** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
-> | **Items Found:** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
-# `=this.file.name`
+> ###### Prep
+>  |
+>  ---|---|
+> **Session #** | `INPUT[number:session_number]` |
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **Played on** | `INPUT[datePicker:date]` |
+> **Prep notes** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
+> **In-world start** | `INPUT[text:fc-date]` |
+> **In-world end** | `INPUT[text:fc-end]` |
+> **Timelines** | `INPUT[inlineList:timelines]` |
+> ###### Ledger
+>  |
+>  ---|---|
+> **Party present** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
+> **Spotlight** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'spotlight'})` |
+> **Locations** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
+> **NPCs met** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
+> **Quests touched** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
+> **Items** | `INPUT[inlineListSuggester(optionQuery(#story-item), optionQuery("5. Mechanics/Items")):items]` |
+> **Factions** | `INPUT[inlineListSuggester(optionQuery(#faction)):factions]` |
+`$=await dv.view('views/sessionNav', {current: dv.current()})`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
+```
+`BUTTON[wrap-session]`
+`$=await dv.view('views/sectionBar', {current: dv.current()})`
+
 ## Session Overview
 > [!div|no-t clean]
 > `INPUT[textArea:summary]`
@@ -88,3 +96,27 @@ Description
 - [[Redgrave]] is able to convince the [[5. Mechanics/Bestiary/Undead/Revenant|Revenant]] that they come in peace
 - The party is brought before [[Vladimir Horngaard]] and was told that [[4. World Almanac/NPCs/Strahd Von Zarovich (COS)|Strahd Von Zarovich's]] suffering must not end
 - [[Vladimir Horngaard]] agreed to let them go if they passed a trail. The party walks through a wall of fire
+
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```
+```meta-bind-button
+label: Wrap this session
+icon: clipboard-copy
+style: primary
+id: wrap-session
+hidden: true
+actions:
+  - type: inlineJS
+    code: |-
+      const name = app.workspace.getActiveFile()?.basename ?? ''
+      await navigator.clipboard.writeText(`/wrap ${name}`)
+      new Notice(`Copied "/wrap ${name}": paste it into Claude Code to wrap this session`)
+```

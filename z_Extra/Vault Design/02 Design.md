@@ -97,7 +97,7 @@ Every note keeps `obsidianUIMode: preview` first. "Common block" = `gist`, `summ
 
 | Type | Folder · tags | Fields beyond the common block | Changes from today |
 |---|---|---|---|
-| **NPC** | `4. World Almanac/NPCs/` · `npc` | `statblock`, `location` (current whereabouts), `condition`, `race`, `gender`, `age`, `alignment`, `occupation`, `pronounced`, `description`, `history`, `personality`, `ideal`, `bond`, `flaw`, `goals`, `likes`, `dislikes`, `secrets`, `partyRelationships` | `groups`, `religions` removed (become edges). `relationships` changes shape. `player_impression` → `summary`. `age` number or null; `goals` string. |
+| **NPC** | `4. World Almanac/NPCs/` · `npc` | `statblock`, `location` (current whereabouts), `condition`, `race`, `gender`, `age`, `alignment`, `occupation`, `pronounced`, `description`, `history`, `personality`, `ideal`, `bond`, `flaw`, `goals`, `likes`, `dislikes`, `secrets`, `party_relationships` | `groups`, `religions` removed (become edges). `relationships` changes shape. `player_impression` → `summary`. `partyRelationships` → `party_relationships` (`04 Expansion` §1.3, batch C5b), shape `{<Party>: <value>}` keyed by party note name, values from `Configuration.enums.party_relationships`. `age` number or null; `goals` string. |
 | **Location** (region, settlement, place of interest) | existing · type + `location` | `location` (parent), `pronounced`, `population`, `terrain`, `rulers`, `government`, `army`, `imports`, `exports`, `resources`, `routes`, `secrets` | `religions` removed. `travel`/`travelDistances` → `routes`. |
 | **Shop** | existing · `shop` + `location` | `location`, `owners`, `staff`, `cost_modifier`, `type`, `size`, `items`, `resources` | CLAUDE.md corrected to `type`/`size` (what the code reads). Template frontmatter fixed to match. |
 | **World** | existing | `economic_scale`, `calendar` | none |
@@ -108,7 +108,7 @@ Every note keeps `obsidianUIMode: preview` first. "Common block" = `gist`, `summ
 | **Player character** | existing · `player` | D&D Beyond schema plus common block, `tagline` | Verified: the "Update From DnD Beyond" button sets named keys only, so added keys survive a sync. `revealed` defaults true. |
 | **Party** | existing | travel fields | none |
 | **Campaign** | existing · `campaign` | `party`, `world`, `summary`, `site_slug` | `public_premise` → `summary`. Body stays DM-only in whole. |
-| **Session journal** | existing · `session-journal` | `date`, `session_number`, `summary`, `party`, `prep-notes`, calendar fields, `party_present`, `locations`, `npcs`, `quests`, `items`, `factions`, `publish` | `campaign:` → `party:` on 42 notes. Adds `factions` and `publish` (bool: recap may go to the site). |
+| **Session journal** | existing · `session-journal` | `date`, `session_number`, `summary`, `party`, `prep_notes`, calendar fields, `party_present`, `locations`, `npcs`, `quests`, `items`, `factions`, `publish` | `campaign:` → `party:` on 42 notes. `prep-notes` → `prep_notes` (`04 Expansion` §1.3, batch C5b). Adds `factions` and `publish` (bool: recap may go to the site). |
 | **Session prep** | existing · `session-prep` | `date`, `session_number` (target), `journal` (back-link once played) | Never exported. |
 
 Body convention for humans (the exporter does not rely on it): DM content goes under `## DM Notes`; the one marker for DM asides elsewhere is a `> [!dm]` callout. Migration moves the stray cases.
@@ -333,7 +333,7 @@ table-assistant ──"log that"──▶ scratch log ──▶ session-wrap (ca
    - Entities to mark `revealed`, with a proposed `summary` and `reveal` list.
    - Prepped facts that landed (matched against the prep note's list) and new facts worded for players.
    - Relationship edges the party learned.
-5. **State changes** — NPC `condition`, `location`, `partyRelationships`; quest `active`/`completed`/steps; item `holder`; faction `status`/`clock`.
+5. **State changes** — NPC `condition`, `location`, `party_relationships`; quest `active`/`completed`/steps; item `holder`; faction `status`/`clock`.
 6. **Contradictions** — anything in the notes that conflicts with existing canon, flagged with both sources. Never resolved.
 
 You answer by number: accept, strike, or reword. Only accepted lines are written. Then the lint runs, the index rebuilds, and the scratch log is marked filed.

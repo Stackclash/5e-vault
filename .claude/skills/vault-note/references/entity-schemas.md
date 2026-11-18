@@ -1,6 +1,6 @@
 # Entity schemas
 
-**Common block** (every type below, creature notes included): `gist`, `summary`, `revealed`, `reveal`, `public_name` (optional), `facts`, `relationships`, `secrets`, `aliases`, `images`, `tags`. See `knowledge-model.md` and `relationships.md`.
+**Common block** (every type below): `gist`, `summary`, `revealed`, `reveal`, `public_name` (optional), `facts`, `relationships`, `aliases`, `images`, `tags`. See `knowledge-model.md` and `relationships.md`. There is no `secrets` field (dropped 2026-11-16): anything the party could learn is a fact; other DM-only prose goes under `## DM Notes`. Creature notes omit `summary`, `revealed`, `reveal`, `public_name`, and `facts`, and have no Player-Facing tab: creatures are never published (DM, 2026-11-17).
 
 Body scaffold: copy from the matching template in `z_Templates/Templater/World Building/`. DM-only prose goes under `## DM Notes` (`### Plot Hooks`, `### Hidden Details`, `### General Notes`); a DM aside elsewhere uses a `> [!dm]` callout.
 
@@ -10,7 +10,7 @@ Body scaffold: copy from the matching template in `z_Templates/Templater/World B
 obsidianUIMode: preview
 statblock: inline
 location: "[[…|…]]"          # current whereabouts; null for the dead or placeless
-condition: healthy            # healthy | injured | dead
+condition: healthy            # Configuration.enums.npc_conditions: healthy | injured | captured | missing | dead | unknown
 gist: ""
 summary: ""
 revealed: {}
@@ -22,10 +22,12 @@ tags: [npc]
 aliases: ["Bare Name"]
 pronounced: ""
 race: "[[5. Mechanics/Races/….md|…]]"
-gender: male                  # male | female
+gender: male                  # Configuration.enums.genders
 age: 40                       # number or null
 alignment: "Neutral Good"
 occupation: []                # role only, e.g. "Guildmaster"; the employer is an edge
+appearance: ""                # one line, read aloud on first meeting
+voice: ""                     # speech, cadence, mannerism, catchphrase
 description: ""               # DM voice
 history: ""
 personality: ""
@@ -35,8 +37,7 @@ flaw: ""
 goals: ""                     # string
 likes: ""
 dislikes: ""
-secrets: ""
-partyRelationships: {}        # {Party: Acquaintance|Friendly|Ally|Disgruntled|Enemy}
+party_relationships: {}      # {Party: Acquaintance|Friendly|Ally|Disgruntled|Enemy}
 ```
 
 Stat block: fill the `statblock` block under `## Stats` via the `statblock-creator` skill; `name` must equal the note name. No notes for nameless one-off characters; record them in the journal.
@@ -54,7 +55,12 @@ army:
 imports: []
 exports: []
 resources: []                 # links into 6. Resources
-routes: []                    # [{to: "[[…]]", miles: 12, mode: road, note: ""}]
+status: ""                    # Configuration.enums.location_statuses
+atmosphere: ""                # sights, sounds, smells: the read-aloud line
+hazards: ""                   # environmental danger, checkpoints, closures
+climate: ""                   # a weather climate name; empty inherits from the parent
+wealth: ""                    # settlements only: a Configuration.settlement_wealth name
+routes: []                    # [{to: "[[…]]", miles: 12, note: ""}]; stored on one end only; no mode (travel method is on the party)
 ```
 
 ## Shop — `shop`, `location`
@@ -67,6 +73,11 @@ cost_modifier: 1
 type: ""                      # a Configuration.shop_types name
 size: ""                      # a Configuration.shop_sizes name
 items: []                     # links into 5. Mechanics/Items
+pinned_items: []              # kept when Generate Inventory replaces items
+buy_rate: 0.5                 # what the shop pays; default Configuration.shop_defaults.buy_rate
+last_stocked: ""              # in-world date, stamped by Generate Inventory
+status: ""                    # Configuration.enums.location_statuses
+atmosphere: ""
 resources: []
 ```
 
@@ -81,10 +92,15 @@ The fields are `type` and `size` (that is what the inventory scripts read), not 
 ```yaml
 kind: cult                    # guild | cult | order | house | court | family | company | other
 status: active                # active | broken | dormant | destroyed
-location: "[[base|…]]"       # optional
+location: "[[base|…]]"       # optional: headquarters
+bases: []                     # other bases: location links (DM, 2026-11-17). The faction belongs to every world its HQ or a base sits in.
 goals: ""
 resources: ""
 clock: []                     # optional: [{step: "", done: false}] for a faction's own timeline
+standing: {}                  # {Party: Configuration.enums.party_standings}
+renown: {}                    # {Party: number}, optional
+symbol: ""
+motto: ""
 ```
 
 Leader and members are not stored here; they are inbound `leader`/`member` edges from NPC notes. Faction-to-faction ties go in this note's `relationships`.
@@ -97,6 +113,8 @@ holder: "[[PC, NPC, faction, or party]]"      # empty when not held
 location: "[[…]]"                             # where it rests when not held
 rarity: ""
 attunement: false
+charges: {}                   # optional {max, current, recharge}
+curse: ""                     # DM-only; kept apart so a wrap can propose "curse discovered" as a fact
 ```
 
 Mechanics go in the body. Update `holder` in the wrap when an item changes hands.
@@ -112,14 +130,18 @@ type: construct
 environments: []
 ```
 
-For a *kind* of creature, not an individual: no `location`, `condition`, `partyRelationships`, or personality fields. Its makers and users are `relationships` edges (e.g. `serves` → a faction). The stat block goes in a `statblock` block under `## Stats` with a `^statblock` anchor, and `name` equal to the note name, so encounter blocks can link `[[Note Name]]`. Add `monster/cr/…`, `monster/size/…`, `monster/type/…` facet tags; never the bare `monster` tag. Lore and tactics go in the body under `## DM Notes`; what the party can learn about it goes in `facts`.
+For a *kind* of creature, not an individual: no `location`, `condition`, `party_relationships`, or personality fields. Its makers and users are `relationships` edges (e.g. `serves` → a faction). The stat block goes in a `statblock` block under `## Stats` with a `^statblock` anchor, and `name` equal to the note name, so encounter blocks can link `[[Note Name]]`. Add `monster/cr/…`, `monster/size/…`, `monster/type/…` facet tags; never the bare `monster` tag. Lore and tactics go in the body under `## DM Notes`.
 
 A specific named member of the kind (a boss, a survivor) is an NPC note that links the creature note in its `description`.
 
 ## Deity — `4. World Almanac/Deities/` — `story-deity`
 
 ```yaml
+worlds: []                    # world links where the deity is known; it is listed only on those worlds (DM, 2026-11-17)
 mechanics: "[[5. Mechanics/Deities/….md|…]]"   # optional
+title: ""
+symbol: ""
+alignment: ""                 # Configuration.enums.alignments
 domains: []
 ```
 

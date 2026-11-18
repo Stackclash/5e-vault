@@ -1,0 +1,37 @@
+{
+  "journals": {
+    "S9 The Mob of Vallaki": { "add": { "npcs": ["4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md"] } },
+    "S11 Deal with the Devil": { "add": { "npcs": ["4. World Almanac/NPCs/Lady Fiona Wachter (COS).md"], "locations": ["4. World Almanac/Places of Interest/Wachterhaus.md"] }, "party": true, "body": "S11.md" },
+    "S12 Sanctuary": { "remove": { "npcs": ["4. World Almanac/NPCs/Lady Fiona Wachter (COS).md"] },
+      "add": { "npcs": ["4. World Almanac/NPCs/Ireena Kolyana (COS).md", "4. World Almanac/NPCs/Izek Strazni (COS).md"],
+               "items": ["4. World Almanac/Items/Tome of Strahd.md", "5. Mechanics/Items/Boots Of Striding And Springing.md", "5. Mechanics/Items/Elven Chain.md", "5. Mechanics/Items/Cloak Of Elvenkind.md", "5. Mechanics/Items/Eyes Of Minute Seeing.md"] },
+      "party": true, "body": "S12.md" },
+    "S13 The History of Strahd": { "remove": { "npcs": ["4. World Almanac/NPCs/Rictavio (COS).md"] },
+      "add": { "npcs": ["4. World Almanac/NPCs/Ezmerelda Davenir (COS).md", "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md"], "items": ["4. World Almanac/Items/Tome of Strahd.md", "4. World Almanac/Items/Khazan's Wand of Secrets.md"], "factions": ["4. World Almanac/Factions/Order of the Silver Dragon.md", "4. World Almanac/Factions/Children of Mother Night.md"] },
+      "party": true },
+    "S14 Secrets of the Tower": { "remove": { "npcs": ["4. World Almanac/NPCs/Strahd Von Zarovich (COS).md", "4. World Almanac/NPCs/Rictavio (COS).md"] },
+      "add": { "npcs": ["4. World Almanac/NPCs/Izek Strazni (COS).md"], "items": ["4. World Almanac/Items/Khazan's Wand of Secrets.md"] },
+      "party": true, "body": "S14.md", "filler": "S14-filler.md" },
+    "S15 The Seige of the Werewolves": { "add": { "factions": ["4. World Almanac/Factions/Children of Mother Night.md"] }, "party": true }
+  },
+  "entities": {
+    "4. World Almanac/Places of Interest/Wachterhaus.md": { "summary": "Fiona Wachter's house in Vallaki. A hidden cellar beneath it holds occult paraphernalia and a trap that summons skeletal warriors." },
+    "4. World Almanac/NPCs/Urwin Martikov (COS).md": { "summary": "A Vallaki man who gave the party Boots of Striding and Springing." },
+    "4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md": { "summary": "A Vallaki man who, with Yevgeni Krushkin, gave the party Elven Chain and a Cloak of Elvenkind.",
+      "edges": [{ "type": "friend", "target": "4. World Almanac/NPCs/Yevgeni Krushkin (COS).md", "learned": "S12 Sanctuary" }] },
+    "4. World Almanac/NPCs/Yevgeni Krushkin (COS).md": { "summary": "A Vallaki man who, with Szoldar Szoldarovich, gave the party Elven Chain and a Cloak of Elvenkind." },
+    "4. World Almanac/NPCs/Gadof Blinsky (COS).md": { "summary": "A Vallaki tinkerer who upgraded Nyxia with Docent qualities and gave the party his Eyes of Minute Seeing." },
+    "4. World Almanac/Places of Interest/Van Richten's Tower.md": { "summary": "A vine-choked tower on a small island in a murky lake, opened by a magical lock that demands a dance. The party found the Tome of Strahd there, restored the tower with a wand, and held it against a werewolf siege." },
+    "4. World Almanac/Items/Tome of Strahd.md": { "summary": "Strahd's own history, written in his hand. Reading its chapters draws the reader into vivid memories of his life." },
+    "4. World Almanac/Items/Khazan's Wand of Secrets.md": { "summary": "A wand that appeared in the tower; it can reveal hidden things and reshape and repair the tower itself." },
+    "4. World Almanac/NPCs/Rahadin (COS).md": { "summary": "Strahd's stern chamberlain, seen in a vision from the Tome of Strahd sparring with the young Strahd.",
+      "edges": [{ "type": "serves", "target": "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md", "learned": "S13 The History of Strahd" }] },
+    "4. World Almanac/Factions/Order of the Silver Dragon.md": { "summary": "A knightly order whose members defended the village of Zmei against Strahd's army. The memory stirred something buried in Redgrave." },
+    "4. World Almanac/Regions/Barovia.md": { "summary": "Strahd's mist-bound domain, where the party found themselves trapped." },
+    "4. World Almanac/NPCs/Ezmerelda Davenir (COS).md": { "summary": "A fierce monster hunter who came to the tower looking for her mentor, Rudolph van Richten. The werewolves besieged the tower to take her after she failed to kill Strahd.",
+      "edges": [{ "type": "enemy", "target": "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md", "learned": "S13 The History of Strahd" }] },
+    "4. World Almanac/NPCs/Kiril Stoyanovich (COS).md": { "summary": "Leader of the werewolves who besieged the tower to take Ezmerelda; Yevelda killed him." },
+    "4. World Almanac/Deities/Dark Powers of the Shadowfell.md": { "summary": "Whispering powers that offered Marin renewed life and, later, the power to wake Yan's head." },
+    "4. World Almanac/NPCs/Rictavio (COS).md": { "summary": "A traveler whom Yan's severed head named as his killer." }
+  }
+}

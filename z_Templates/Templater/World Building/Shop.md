@@ -1,31 +1,21 @@
 <%*
 let templateError = false
 let data = {}
-let dataview = null
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
-  const plugins = init.getPlugins(tp, ['shops'])
-  dataview = plugins.dataview
-  const { modalForm, config } = plugins
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['shops'])
 
   data = await init.openForm(modalForm, {
     title: "Shop Setup",
-    name: "shop-setup",
     fields: [
       fields.name("Shop Name", "Name of Shop"),
-      fields.tagSelect(dataview, "location", "Location", '#location', "Where this shop is located"),
-      fields.tagMultiSelect(dataview, "owners", "Owners", '#npc', "Who owns this shop", false),
-      fields.tagMultiSelect(dataview, "staff", "Staff", '#npc', "Who works in this shop", false),
+      fields.text("gist", "Gist", "One line: who or what this is and why it matters"),
+      fields.tagSelect(dataview, "location", "Location", '#location', "Where this shop is", false)
     ],
-    version: "1"
+    version: "2"
   })
-  
-  if (!data.owners) data.owners = []
-  if (!data.staff) data.staff = []
-
   await init.moveFile(tp, config.locations.shops, data.name)
-
 } catch (e) {
   templateError = e.message
   console.error(e)
@@ -35,70 +25,62 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-location: "<% data.location %>"
+location: <% JSON.stringify(data.location ?? "") %>
+gist: <% JSON.stringify(data.gist ?? "") %>
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
+status: ""
+atmosphere: ""
 resources: []
-owners: <%* if (data.owners && data.owners.length == 0) { %>[]<%* } %>
-<%* for (owner of data.owners) { -%>
-  - "<% dataview.page(owner).file.link.toString() %>"
-<%* } -%>
-staff: <%* if (data.staff && data.staff.length == 0) { %>[]<%* } %>
-<%* for (staff of data.staff) { -%>
-  - "<% dataview.page(staff).file.link.toString() %>"
-<%* } -%>
+owners: []
+staff: []
 cost_modifier: 1
-shop_type: ""
-shop_size: ""
+buy_rate: <% dataview.page("Configuration")?.shop_defaults?.buy_rate ?? 0.5 %>
+type: ""
+size: ""
 items: []
+pinned_items: []
+last_stocked: ""
 tags:
   - location
   - shop
 ---
 > [!infobox]
-> # `=this.file.name`
-> |||
-> |---|---|
-> | **Owner(s)** | `INPUT[inlineListSuggester(optionQuery(#npc)):owners]` |
-> | **Staff** | `INPUT[inlineListSuggester(optionQuery(#npc)):staff]` |
-> | **Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> | **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
-> ###### Inventory Info
-> |||
-> |---|---|
-> | **Cost Modifier** | `INPUT[number:cost_modifier]` |
-> ###### Shop Settings
-> |||
-> |---|---|
-> | **Shop Type** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: dv.page('Configuration').shop_types.map(t => 'option(' + t.name + ')'), field: 'type' })` |
-> | **Shop Size** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: [...new Set(dv.page('Configuration').shop_sizes.map(t => 'option(' + t.name + ')'))], field: 'size' })` |
-> | | `BUTTON[add-item]` `BUTTON[generate-inventory]` |
-```meta-bind-button
-style: primary
-label: Generate Inventory
-id: generate-inventory
-hidden: true
-actions:
-  - type: js
-    file: z_Scripts/Meta Bind/generateShopInventory.js
-```
-```meta-bind-button
-style: default
-label: Add Item
-id: add-item
-hidden: true
-actions:
-  - type: js
-    file: z_Scripts/Meta Bind/addShopItem.js
-    args:
-      field: items
-      folder: 5. Mechanics/Items
+> ```dataviewjs
+> await dv.view('views/imageCarousel', {current: dv.current()})
+> ```
+> ```meta-bind
+> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
+> ```
+> ###### Pricing
+>  |
+>  ---|---|
+> **Shop type** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'type'})` |
+> **Shop size** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'size'})` |
+> **Cost modifier** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'cost_modifier'})` |
+> **Buy rate** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'buy_rate'})` |
+> ###### Where
+>  |
+>  ---|---|
+> **Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
+
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
 ```
 
-`$= await dv.view("views/locationBreadcrumbs", {current: dv.current()})`
-# `=this.file.name`
-## Inventory
-```datacorejsx
-const { ShopInventory } = await dc.require("z_Scripts/Datacore/ShopInventory.tsx")
-return function View() { return <ShopInventory /> }
+<% tp.file.include("[[z_Templates/Partials/Tabs - Shop]]") %>
+
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
 ```
 <%* } else { -%>
 

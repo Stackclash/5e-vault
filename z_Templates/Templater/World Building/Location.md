@@ -1,39 +1,23 @@
 <%*
 let templateError = false
-let data = null
-const typeLocations = {
-  Region: 'regions',
-  Settlement: 'settlements',
-  "Place of Interest": 'pois'
-}
+let data = {}
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
-  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['regions', 'settlements', 'pois'])
-
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, [])
+  const typeLocations = { Region: 'regions', Settlement: 'settlements', 'Place of Interest': 'pois' }
   data = await init.openForm(modalForm, {
     title: "Location Setup",
-    name: "location-setup",
     fields: [
       fields.name("Location Name", "Name of Location"),
-      {
-        name: "type",
-        label: "Location Type",
-        description: "Type of Location",
-        isRequired: true,
-        input: {
-          type: "select",
-          options: Object.entries(typeLocations).map(([key, value]) => ({ label: key, value })),
-          source: "fixed"
-        }
-      },
-      fields.tagSelect(dataview, "location", "Parent Location", '#location', "Where this location is located"),
+      { name: "type", label: "Level", description: "Region, settlement, or place of interest", isRequired: true, input: { type: "select", source: "fixed", options: Object.entries(typeLocations).map(([label, value]) => ({ label, value })) } },
+      fields.text("gist", "Gist", "One line: who or what this is and why it matters"),
+      fields.tagSelect(dataview, "location", "Parent Location", '#location', "What this location sits inside", false)
     ],
-    version: "1"
+    version: "2"
   })
-
+  data.tag = Object.keys(typeLocations).find(k => typeLocations[k] === data.type).toLowerCase().replaceAll(' ', '-')
   await tp.file.move(path.posix.join(config.locations[data.type], data.name), tp.file.find_tfile(tp.file.title))
-
 } catch (e) {
   templateError = e.message
   console.error(e)
@@ -43,135 +27,87 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-location: "<% data.location %>"
+location: <% JSON.stringify(data.location ?? "") %>
 images:
-- z_Assets/PlaceholderImage.png
-pronounced: 
-summary: 
+  - z_Assets/PlaceholderImage.png
+pronounced: ""
+gist: <% JSON.stringify(data.gist ?? "") %>
+summary: ""
+revealed: {}
+reveal: {}
+facts: []
+status: ""
+atmosphere: ""
+hazards: ""
+climate: ""
 resources: []
-population: 
-terrain: 
+population: ""
+terrain: ""
 rulers: []
-government: 
-army: 
-religions: []
+government: ""
+army: ""
 imports: []
 exports: []
+routes: []
+<%* if (data.type === 'settlements') { -%>
+wealth: ""
+<%* } -%>
 aliases: []
 tags:
   - location
-  - <% Object.keys(typeLocations).find(k => typeLocations[k] === data.type).toLowerCase().replace(' ', '-') %>
+  - <% data.tag %>
 ---
 > [!infobox]
-> # `=this.file.name`
 > ```dataviewjs
 > await dv.view('views/imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
+> ###### Overview
 >  |
-> ---|---|
-> **Pronounced:** | `INPUT[text:pronounced]` |
-> **Summary:** | `INPUT[text:summary]` |
-> **Location:** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
-> ###### Info
->  |
-> ---|---|
-> **Alias:** | `INPUT[inlineList:aliases]` |
-> **Population:** | `INPUT[number:population]` |
-> **Terrain:** | `INPUT[text:terrain]` |
+>  ---|---|
+> **Parent** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
+> **Population** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'population'})` |
+> **Terrain** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'terrain'})` |
+> **Resources** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):resources]` |
 > ###### Politics
 >  |
-> ---|---|
-> **Ruler(s):** | `INPUT[inlineListSuggester(optionQuery("#npc")):rulers]` |
-> **Govt Type:** | `INPUT[text:government]` |
-> **Army:** | `INPUT[text:army]` |
-> **Religions:** | `INPUT[inlineList:religions]` |
-> ###### Logistics
+>  ---|---|
+> **Ruler(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'rulers'})` |
+> **Government** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'government'})` |
+> **Army** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'army'})` |
+<%* if (data.type === 'settlements') { -%>
+> ###### Trade
 >  |
-> ---|---|
-> **Imports:** | `INPUT[inlineList:imports]` |
-> **Exports:** | `INPUT[inlineList:exports]` |
-> ###### Travel Distances
-> ```dataviewjs
-> dv.view('views/travelTimes', {current: dv.current()})
-> ```
-> `BUTTON[addtravel,removetravel]`
-> ```meta-bind-button
-> style: primary
-> id: addtravel
-> label: Add Travel Distance
-> hidden: true
-> actions:
->   - type: runTemplaterFile
->     templateFile: "z_Templates/Templater/Functional/Add Travel Distance.md"
-> ```
-> ```meta-bind-button
-> style: primary
-> id: removetravel
-> label: Remove Travel Distance
-> hidden: true
-> actions:
->   - type: runTemplaterFile
->     templateFile: "z_Templates/Templater/Functional/Remove Travel Distance.md"
-> ```
+>  ---|---|
+> **Wealth** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'wealth'})` |
+> **Imports** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'imports'})` |
+> **Exports** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'exports'})` |
+<%* } else { -%>
+> ###### Trade
+>  |
+>  ---|---|
+> **Imports** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'imports'})` |
+> **Exports** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'exports'})` |
+<%* } -%>
 
-`$= await dv.view("views/locationBreadcrumbs", {current: dv.current()})`
-# **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
-TBD
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
-## Map
-> [!div | no-t clean]
-> ```leaflet   
-> ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
-> ### id must be unique  
-> id: Faerun_Map  
-> ### Lock pins so they can't be moved  
-> lock: true  
-> ### If true, view of map will recenter as you zoom out.  
-> recenter: true  
-> ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
-> noScrollZoom: true  
-> image: [[PlaceholderImage.png]]
-> ### Map Pixel Height x 1 / (Pixels between Bar Scale / 100)  
-> ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
-> ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
-> ### Bounds is entered as [Height, Width]  
-> bounds: [[0,0], [1815.07, 2805.48]]  
-> height: 900px  
-> width: 95%  
-> ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
-> lat: 907.53  
-> long: 1402.74  
-> ### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
-> minZoom: -1.5  
-> ### Max zoom is 18.  
-> maxZoom: 1.5  
-> ### Hover mouse over the Reset Zoom icon to see your current zoom level.  
-> defaultZoom: -1  
-> ### How far it zooms in or out with each step. Can be in decimals.  
-> zoomDelta: 0.5  
-> ### This is a string so can be any text. Change it to match your maps measurement scale.  
-> unit: miles  
-> scale: 1  
-> darkMode: false  
-> ```
+<% tp.file.include("[[z_Templates/Partials/Tabs - Location]]") %>
 
-`$=await dv.view("views/locations", {current: dv.current()})`
-
-`$=await dv.view("npcsInLocation", {current: dv.current()})`
-
-## DM Notes
-### Plot Hooks
-
-
-### Hidden Details
-
-
-### General Notes
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```
 <%* } else { -%>
 
 

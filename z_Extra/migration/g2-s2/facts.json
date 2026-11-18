@@ -1,0 +1,34 @@
+{
+  "4. World Almanac/NPCs/Henrik Van Der Voort (COS).md": [
+    { "text": "Strahd ordered Henrik to steal St. Andral's bones.", "learned": "S6 Best Weapon against Vampires are Old Men", "locked": false },
+    { "text": "Henrik knew his patron only as the nobleman Vasili von Holtz, and later learned he was Strahd.", "learned": "S6 Best Weapon against Vampires are Old Men", "locked": false }
+  ],
+  "4. World Almanac/NPCs/Milivoj (COS).md": [
+    { "text": "Milivoj knew that St. Andral's stolen bones had been taken to Henrik van der Voort's coffin shop.", "learned": "S6 Best Weapon against Vampires are Old Men", "locked": false }
+  ],
+  "4. World Almanac/Places of Interest/Coffin Maker's Shop.md": [
+    { "text": "Vampire spawn lurk at the Coffin Maker's Shop.", "learned": "S6 Best Weapon against Vampires are Old Men", "locked": false }
+  ],
+  "4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md": [
+    { "text": "Baron Vargas believes his festivals' enforced happiness will free Vallaki from Strahd.", "learned": "S7 Making Friends with the Necromancer", "locked": false },
+    { "text": "Baron Vargas proposed that Ireena marry his son Victor.", "learned": "S7 Making Friends with the Necromancer", "locked": false },
+    { "text": "Baron Vargas hid in his mansion under guard during Strahd's attack, which enraged Vallaki's villagers.", "learned": "S9 The Mob of Vallaki", "locked": false }
+  ],
+  "4. World Almanac/NPCs/Victor Vallakovich (COS).md": [
+    { "text": "Victor is a self-taught necromancer who practises in his attic room.", "learned": "S7 Making Friends with the Necromancer", "locked": false },
+    { "text": "Victor used a teleportation sigil to visit Gertruda.", "learned": "S10 Finding Victor", "locked": false }
+  ],
+  "4. World Almanac/Places of Interest/St. Andral's Church.md": [
+    { "text": "St. Andral's bones were stolen again during Father Lucian's sermon; once they were returned, their power drove Strahd and his spawn from the church.", "learned": "S8 Meeting Strahd", "locked": false }
+  ],
+  "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md": [
+    { "text": "Strahd led a horde of vampire spawn against St. Andral's Church during the Festival of the Blazing Sun.", "learned": "S8 Meeting Strahd", "locked": false }
+  ],
+  "4. World Almanac/Places of Interest/Castle Ravenloft.md": [
+    { "text": "Victor's teleportation circle links to a network that can send travellers to Castle Ravenloft.", "learned": "S10 Finding Victor", "locked": false }
+  ],
+  "4. World Almanac/NPCs/Gertruda (COS).md": [
+    { "text": "Gertruda and Victor Vallakovich were secret lovers.", "learned": "S10 Finding Victor", "locked": false },
+    { "text": "Gertruda used Victor's teleportation circle and ended up at Castle Ravenloft.", "learned": "S10 Finding Victor", "locked": false }
+  ]
+}

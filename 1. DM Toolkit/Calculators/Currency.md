@@ -1,31 +1,31 @@
 ---
 obsidianUIMode: preview
-CoinsCopper: 32500
-CoinsSilver: 21000
-CoinsElectrum: 6600
-CoinsGold: 0
-CoinsPlatinum: 0
-PartySize: 5
+coins_copper: 1000
+coins_silver: 500
+coins_electrum: 1
+coins_gold: 0
+coins_platinum: 0
+party_size: 5
 ---
 
 # Amount
  
 | Type     | Input                         | Copper                       | Silver                      | Electrum                   | Gold                       | Platinum                   |
 | -------- | ----------------------------- | ---------------------------- | --------------------------- | -------------------------- | -------------------------- | -------------------------- |
-| Copper   | `INPUT[number:CoinsCopper]`   | `VIEW[{CoinsCopper}]`        | `VIEW[{CoinsCopper}/10]`    | `VIEW[{CoinsCopper}/50]`   | `VIEW[{CoinsCopper}/100]`  | `VIEW[{CoinsCopper}/1000]` |
-| Silver   | `INPUT[number:CoinsSilver]`   | `VIEW[{CoinsSilver}*10]`     | `VIEW[{CoinsSilver}]`       | `VIEW[{CoinsSilver}/5]`    | `VIEW[{CoinsSilver}/10]`   | `VIEW[{CoinsSilver}/100]`  |
-| Electrum | `INPUT[number:CoinsElectrum]` | `VIEW[{CoinsElectrum}*50]`   | `VIEW[{CoinsElectrum}*5]`   | `VIEW[{CoinsElectrum}]`    | `VIEW[{CoinsElectrum}/2]`  | `VIEW[{CoinsElectrum}/20]` |
-| Gold     | `INPUT[number:CoinsGold]`     | `VIEW[{CoinsGold}*100]`      | `VIEW[{CoinsGold}*10]`      | `VIEW[{CoinsGold}*2]`      | `VIEW[{CoinsGold}]`        | `VIEW[{CoinsGold}/10]`     |
-| Platinum | `INPUT[number:CoinsPlatinum]` | `VIEW[{CoinsPlatinum}*1000]` | `VIEW[{CoinsPlatinum}*100]` | `VIEW[{CoinsPlatinum}*20]` | `VIEW[{CoinsPlatinum}*10]` | `VIEW[{CoinsPlatinum}]`    |
+| Copper   | `INPUT[number:coins_copper]`   | `VIEW[{coins_copper}]`        | `VIEW[{coins_copper}/10]`    | `VIEW[{coins_copper}/50]`   | `VIEW[{coins_copper}/100]`  | `VIEW[{coins_copper}/1000]` |
+| Silver   | `INPUT[number:coins_silver]`   | `VIEW[{coins_silver}*10]`     | `VIEW[{coins_silver}]`       | `VIEW[{coins_silver}/5]`    | `VIEW[{coins_silver}/10]`   | `VIEW[{coins_silver}/100]`  |
+| Electrum | `INPUT[number:coins_electrum]` | `VIEW[{coins_electrum}*50]`   | `VIEW[{coins_electrum}*5]`   | `VIEW[{coins_electrum}]`    | `VIEW[{coins_electrum}/2]`  | `VIEW[{coins_electrum}/20]` |
+| Gold     | `INPUT[number:coins_gold]`     | `VIEW[{coins_gold}*100]`      | `VIEW[{coins_gold}*10]`      | `VIEW[{coins_gold}*2]`      | `VIEW[{coins_gold}]`        | `VIEW[{coins_gold}/10]`     |
+| Platinum | `INPUT[number:coins_platinum]` | `VIEW[{coins_platinum}*1000]` | `VIEW[{coins_platinum}*100]` | `VIEW[{coins_platinum}*20]` | `VIEW[{coins_platinum}*10]` | `VIEW[{coins_platinum}]`    |
  
  ## Total Converted Value
  
- Party Size: `INPUT[number:PartySize]`  
+ Party Size: `INPUT[number:party_size]`  
  
 | Type     | Total                                                                                                           | Total Per Player                                                                                                            |
 | -------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Copper   | `VIEW[{CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000)]`          | `VIEW[({CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/{PartySize}]`        |
-| Silver   | `VIEW[(({CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/10)]`   | `VIEW[(({CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/10)/{PartySize}]`   |
-| Electrum | `VIEW[(({CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/50)]`   | `VIEW[(({CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/50)/{PartySize}]`   |
-| Gold     | `VIEW[(({CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/100)]`  | `VIEW[(({CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/100)/{PartySize}]`  |
-| Platinum | `VIEW[(({CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/1000)]` | `VIEW[(({CoinsCopper}+({CoinsSilver}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/1000)/{PartySize}]` |
+| Copper   | `VIEW[{coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000)]`          | `VIEW[({coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000))/{party_size}]`        |
+| Silver   | `VIEW[(({coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000))/10)]`   | `VIEW[(({coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000))/10)/{party_size}]`   |
+| Electrum | `VIEW[(({coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000))/50)]`   | `VIEW[(({coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000))/50)/{party_size}]`   |
+| Gold     | `VIEW[(({coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000))/100)]`  | `VIEW[(({coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000))/100)/{party_size}]`  |
+| Platinum | `VIEW[(({coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000))/1000)]` | `VIEW[(({coins_copper}+({coins_silver}*10)+({coins_electrum}*50)+({coins_gold}*100)+({coins_platinum}*1000))/1000)/{party_size}]` |

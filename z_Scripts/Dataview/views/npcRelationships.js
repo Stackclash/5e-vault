@@ -1,135 +1,106 @@
-// This object is the configuration for the script
-// It is used to define the mermaid relationship string and style class for each relationship type
-const relationshipMapping = {
-    son: { string: '--Son -->', styleClass: 'family'},
-    daughter: { string: '--Daughter -->', styleClass: 'family'},
-    father: { string: '--Father -->', styleClass: 'family'},
-    mother: { string: '--Mother -->', styleClass: 'family'},
-    wife: { string: '--Wife ---', styleClass: 'family'},
-    husband: { string: '--Husband ---', styleClass: 'family'},
-    brother: { string: '--Brother ---', styleClass: 'family'},
-    sister: { string: '--Sister ---', styleClass: 'family'},
-    cousin: { string: '--Cousin ---', styleClass: 'family' },
-    uncle: { string: '--Uncle -->', styleClass: 'family' },
-    aunt: { string: '--Aunt -->', styleClass: 'family' },
-    nephew: { string: '--Nephew ---', styleClass: 'family' },
-    niece: { string: '--Niece ---', styleClass: 'family' }
-}
-
+// Relationship graph for the current note (03 Migration Plan E4 spec, pulled forward 2026-11-16).
+// Outbound edges: this note's `relationships`. Inbound: npc/faction/player/story-deity notes whose
+// `relationships` target this note. Each edge is drawn outward from the side nearer the current note;
+// an edge drawn against its stored direction is labelled with the inverse from Configuration.
+// Family edges recurse to depth 3; other categories stop at depth 1. Legacy "Name|type" strings are read
+// until E4 converts them. Never throws on an unknown type or an unresolvable target.
+const config = dv.page('Configuration')
+const TYPES = new Map((config?.relationship_types ?? []).map(t => [t.type, t]))
+const MAX_FAMILY_DEPTH = 3
 const backticks = "```"
 
-// This function iterates through the relationships of a page and their children
-// and builds an array of unique keys to use for mermaid (A-Z) for each page and its relationships
-// This results in an array of [ {name: 'NpcName1', key: 'A'}, {name: 'NpcName2', key: 'B'} ]
-function buildRelationshipKeys(page, charIndex=0, keys=[]) {
-  if (!keys.find(k => k.name === page.file.name)) {
-    keys.push({name: page.file.name, key: String.fromCharCode(65 + charIndex)})
-    charIndex++
-  }
-
-  const initialLength = keys.length
-
-  keys = keys.concat(page.relationships?.map(r => {
-    const name = r.split('|')[0],
-    styleClass = relationshipMapping[r.split('|')[1].split(',')[0]].styleClass
-    // Makes sure there isn't already a key for this NPC
-    if (!keys.find(k => k.name === name)) {
-      // 65 is unicode for A
-      // 97 is unicode for a
-      const key = String.fromCharCode(65 + charIndex)
-      charIndex++
-
-      return {
-        name,
-        key,
-        class: styleClass
-      }
-    } else {
-      return undefined
-    }
-  }).filter( Boolean ))
-
-  // If new NPC keys were added iterate through their relationships
-  if (initialLength !== keys.length) {
-
-    keys = keys.concat(page.relationships.filter(r => r.name !== page.file.name).flatMap(r => {
-      const relationshipPage = dv.page(r.split('|')[0])
-
-      if (relationshipPage) {
-        const results = buildRelationshipKeys(relationshipPage, charIndex, keys)
-        charIndex = results[1]
-  
-        return results[0].filter(r => !keys.map(k => k.name).includes(r.name))
-      } else {
-        return []
-      }
-    }))
-
-    return [keys, charIndex]
-  } else {
-    return [keys, charIndex]
-  }
+const pageFor = ref => {
+  if (!ref) return null
+  if (typeof ref === 'object' && ref.path) return dv.page(ref.path)
+  const s = String(ref).replace(/^\[\[|\]\]$/g, '').split('|')[0]
+  return dv.page(s) ?? null
 }
 
-function getKey(name, keys) {
-  return keys.find(k => k.name === name).key
-}
-
-// This function iterates through the relationships of a page and their children
-// and builds an array of relationship strings to use for mermaid
-// This results in an array of [ {from: 'NpcName1', to: 'NpcName2', string: 'A --Son --> B'} ]
-function buildRelationshipArray(page, keys, relationships=[]) {
-  const initialLength = relationships.length
-
-  page.relationships?.forEach((r) => {
-    const name = r.split('|')[0],
-    type = r.split('|')[1].split(',')[0],
-    conditional = r.split('|')[1].split(',')[1]
-    
-    if (!relationships.find(r => (r.from === page.file.name && r.to === name) || (r.to === page.file.name && r.from === name))) {
-      relationships.push({
-        from: page.file.name,
-        to: name,
-        string: `${getKey(page.file.name, keys)} ${conditional ? relationshipMapping[type].string.replace(/\s/, `, ${conditional} `) : relationshipMapping[type].string} ${getKey(name, keys)}
-`
-      })
+// Edges stored on a page, normalised to {source, target, type, note}.
+function storedEdges(page) {
+  return (page.relationships ?? []).flatMap(r => {
+    if (typeof r === 'string') {  // legacy "Name|type,condition"
+      const [name, rest = ''] = r.split('|')
+      const [type, note] = rest.split(',')
+      const target = pageFor(name)
+      return target && type ? [{ source: page, target, type: type.trim(), note: note?.trim() }] : []
     }
+    const target = pageFor(r?.target)
+    return target && r?.type ? [{ source: page, target, type: String(r.type), note: r.note }] : []
   })
+}
 
-  if (initialLength !== relationships.length) {
-    page.relationships.forEach((r, i) => {
-      const relationshipPage = dv.page(r.split('|')[0])
+let cachedInboundPages = null
+function inboundEdges(page) {
+  cachedInboundPages ??= dv.pages('#npc or #faction or #player or #story-deity').array()
+  return cachedInboundPages
+    .filter(p => p.file.path !== page.file.path)
+    .flatMap(storedEdges)
+    .filter(e => e.target.file.path === page.file.path)
+}
 
-      if (relationshipPage) {
-        relationships = buildRelationshipArray(relationshipPage, keys, relationships)
-      }
-    })
+const categoryOf = type => TYPES.get(type)?.category ?? 'other'
+function inverseLabel(edge) {
+  const inv = TYPES.get(edge.type)?.inverse
+  if (!inv) return null
+  if (typeof inv === 'string') return inv
+  const gender = String(edge.source.gender ?? '').toLowerCase()
+  return inv[gender] ?? null
+}
 
-    return relationships
-  } else {
-    return relationships
+// Breadth-first walk from the current page.
+const current = input.current
+const nodes = new Map()   // path -> {id, page, category}
+const nodeFor = (page, category) => {
+  if (!nodes.has(page.file.path)) nodes.set(page.file.path, { id: 'n' + nodes.size, page, category })
+  return nodes.get(page.file.path)
+}
+nodeFor(current, 'self')
+
+const lines = []
+const seen = new Set()
+const queue = [{ page: current, depth: 0 }]
+const visited = new Set()
+while (queue.length) {
+  const { page, depth } = queue.shift()
+  if (visited.has(page.file.path)) continue
+  visited.add(page.file.path)
+  const edges = [...storedEdges(page).map(e => ({ e, out: true })), ...inboundEdges(page).map(e => ({ e, out: false }))]
+  for (const { e, out } of edges) {
+    const category = categoryOf(e.type)
+    if (depth > 0 && category !== 'family') continue
+    const other = out ? e.target : e.source
+    // One line per pair per category: legacy data often stores both sides (son on one note, father on the other).
+    const key = [e.source.file.path, e.target.file.path].sort().join('|') + '|' + category
+    if (seen.has(key)) continue
+    seen.add(key)
+    const from = nodeFor(page, 'self').id
+    const to = nodeFor(other, category).id
+    const note = e.note ? ` (${String(e.note).replace(/"/g, "'")})` : ''
+    if (out) lines.push(`${from} -->|"${e.type}${note}"| ${to}`)
+    else {
+      const inv = inverseLabel(e)
+      lines.push(inv ? `${from} -->|"${inv}${note}"| ${to}` : `${to} -->|"${e.type}${note}"| ${from}`)
+    }
+    if (category === 'family' && depth + 1 < MAX_FAMILY_DEPTH) queue.push({ page: other, depth: depth + 1 })
   }
 }
 
-let keys = buildRelationshipKeys(input.current)[0]
-// removes duplicates that may happen
-keys = keys.filter((key, i) => keys.findIndex(k => k.name === key.name) === i)
-
-const relationshipString = buildRelationshipArray(input.current, keys).map(i => i.string).join('')
-
-// This creates the mermaid diagram
-// It uses the keys array to create the nodes and the relationship array to create the relationships
-// It also creates a classDef and class for each node to style
-// Add more classDef and class if you need to style different types of relationships
-dv.paragraph(
-  `${backticks}mermaid
+if (lines.length === 0) {
+  dv.paragraph('*No relationships recorded.*')
+} else {
+  const nodeLines = [...nodes.values()].map(n =>
+    `${n.id}["${n.page.file.name.replace(/"/g, "'")}"]${n.category !== 'self' ? `:::${n.category}` : ''}`)
+  dv.paragraph(`${backticks}mermaid
 graph LR
-${keys.map(k => `${k.key}["${k.name}"]${k.class ? `:::${k.class}` : ''}
-`).join('')}
-
-${relationshipString}
-
-classDef family stroke:#0f0
-class ${keys.map(r => r.key).join(',')} internal-link;
-${backticks}
-`)
+${nodeLines.join('\n')}
+${lines.join('\n')}
+classDef family stroke:#2ea043
+classDef personal stroke:#8250df
+classDef work stroke:#bf8700
+classDef faction stroke:#0969da
+classDef faith stroke:#cf222e
+classDef place stroke:#57606a
+class ${[...nodes.values()].map(n => n.id).join(',')} internal-link;
+${backticks}`)
+}

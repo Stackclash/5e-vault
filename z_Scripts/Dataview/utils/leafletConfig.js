@@ -24,7 +24,7 @@ const point2 = mapShapes[0].vertices[1]
 let scale = .1
 if (point1 && point2) {
     const distance = calcDistance(point1.lng, point1.lat, point2.lng, point2.lat)
-    scale = 1/(distance/currentPage.unitCount)
+    scale = 1/(distance/currentPage.unit_count)
 }
 
 const leafletMapConfig = `id: MapCalcExample ### Must be unique with no spaces
@@ -34,10 +34,10 @@ height: 900px
 width: 95% 
 lat: ${imageHeight/2}  
 long: ${imageWidth/2} 
-minZoom: ${currentPage.minZoom}  
-maxZoom: ${currentPage.maxZoom} 
-defaultZoom: ${currentPage.defaultZoom} 
-zoomDelta: ${currentPage.zoomDelta}
+minZoom: ${currentPage.min_zoom}  
+maxZoom: ${currentPage.max_zoom} 
+defaultZoom: ${currentPage.default_zoom} 
+zoomDelta: ${currentPage.zoom_delta}
 unit: ${currentPage.unit}
 scale: ${scale} 
 lock: true

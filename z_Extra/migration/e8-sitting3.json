@@ -1,0 +1,13 @@
+{
+  "4. World Almanac/Deities/The Trickster God.md": [
+    { "text": "The Trickster God is Roark Battleborn's father.", "learned": "S40 Secrets of the Silent Ascendency" }
+  ],
+  "4. World Almanac/Factions/Silent Ascendency.md": [
+    { "text": "The Silent Ascendency has been draining stolen magic items to fuel a ritual.", "learned": "S42 Unmasking Lord Velmont" }
+  ],
+  "4. World Almanac/NPCs/Marrow.md": [
+    { "text": "Marrow was the Silent Ascendency's cell leader in Bruokdon.", "learned": "S44 The Other Roark" },
+    { "text": "Marrow captured and impersonated Lord Caldris Velmont, then Professor Gousse Windcaller, and escaped into a crowd when Faerah saw through it.", "learned": "S43 The Two Lord Velmonts" },
+    { "text": "Marrow took Roark Battleborn's identity; Faerah saw through it and killed Marrow in single combat.", "learned": "S44 The Other Roark" }
+  ]
+}

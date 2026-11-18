@@ -8,11 +8,13 @@ Per-party state is always a map keyed by the party note's name (e.g. `Midnight C
 |---|---|---|
 | `gist` | DM and agents | One line, 20 words or fewer: who or what this is and why it matters. Required on every entity. Never exported. |
 | `summary` | Players | One or two sentences, spoiler-safe. Exported when the entity is revealed. On journals it is the recap read aloud. |
-| `secrets` | DM only | Never exported. |
+| `## DM Notes` body section | DM only | Motives, plans, contingencies, continuity: DM prose that is not a learnable fact. Never exported. Replaces the dropped `secrets` field. |
 | `description`, `history`, `personality`, `ideal`, `bond`, `flaw`, `goals`, quest `description` | DM only | Written omnisciently. Never treat as what the party knows. |
 | `## Public` body section | Players | Optional long form. Exported verbatim. Everything else in a body is DM-only. |
 
 `summary` replaces the older `player_impression`, `player_summary`, and `public_premise`.
+
+Every other field, including the expansion fields (`voice`, `appearance`, `atmosphere`, `hazards`, `climate`, `wealth`, `symbol`, `motto`, `standing`, `charges`, `title`, `stakes`, `reward`, `deadline`), is DM-voice. It reaches players only when the note's `reveal` lists it. `curse` is never listable.
 
 ## The three knowledge states
 
@@ -34,16 +36,18 @@ facts:
     learned: {}
     locked: true                 # DM-finalized truth, not yet learned
     dm: "Only Hesper's handler knows."   # optional DM aside, never exported
+    rumor: false                 # optional; false keeps it out of the rumor roll (default true)
 ```
 
 - **`facts`** is the DM's list of learnable things about an entity. One sentence each, worded so it can be shown to players once learned. A fact with `learned[party]` set is published.
 - **`learned`** values are a link to the journal where it was learned. Present means learned.
+- **`rumor`** (default true): `false` keeps a fact out of the rumor roll and the prep's table rumors. Use it for truths only one source could know. It has no effect on reveals.
 - Relationship edges carry the same `learned` map (see `relationships.md`).
 - **Sessions an entity appears in** are derived from journal ledger arrays. Do not store them on the entity.
 
 ## What a site export shows for a revealed entity
 
-Always: display name (`public_name` or the note name), `pronounced`, type, `summary`, sessions appeared in. When learned: each fact, each relationship edge whose target is also revealed. Only if listed in `reveal`: any other frontmatter field. Never: the body outside `## Public`, `secrets`, `gist`, `dm`, aliases, stat blocks.
+Always: display name (`public_name` or the note name), `pronounced`, type, `summary`, sessions appeared in. When learned: each fact, each relationship edge whose target is also revealed. Only if listed in `reveal`: any other frontmatter field. Never: the body outside `## Public`, `gist`, `dm`, aliases, stat blocks.
 
 Writing player-facing text: do not link an entity the party has not been shown; name it only if the party knows the name.
 
@@ -53,11 +57,13 @@ Writing player-facing text: do not link an entity the party has not been shown; 
 |---|---|
 | A journal with `wrapped: true` (body, `summary`, ledger) | Unplayed quest steps |
 | A fact or edge with `learned` set | Unlearned facts without `locked` |
-| A fact with `locked: true` | `secrets`, prep notes, the roadmap in the campaign note |
-| State set by an approved wrap: NPC `condition`, quest `completed`, item `holder` | |
+| A fact with `locked: true` | `## DM Notes`, prep notes, the roadmap in the campaign note |
+| State set by an approved wrap: NPC `condition`, quest `completed`, item `holder` and `charges`, location `status`, faction `standing`, `renown`, and `status`, journal `party_level` and `spotlight` | Quest `deadline`, `stakes`, `reward` |
 
 Only the DM reopens canon, explicitly, per item. Corrections to a wrapped journal go under `## Errata` with a date.
 
 ## Who may write what
 
-Every field in "The three knowledge states", plus `summary`, `locked`, and `## Public`, is written only from a proposal line the DM accepted. `gist`, `secrets`, unlearned unlocked facts, and DM-voice fields may be drafted freely as part of approved creative work.
+Every field in "The three knowledge states", plus `summary`, `locked`, and `## Public`, is written only from a proposal line the DM accepted. `gist`, `## DM Notes`, unlearned unlocked facts, and DM-voice fields may be drafted freely as part of approved creative work.
+
+The DM can also set these by hand at any time: the Revealed toggle in every entity header, and the Revealed, Public name, and Also show controls in the Player-Facing tab. Creatures and PCs have none of these: creatures are never published, and a PC is shown whenever it is in the campaign's party (DM, 2026-11-17). A value the DM set is approved by definition; agents read it and do not second-guess it.

@@ -1,0 +1,72 @@
+filters:
+  and:
+    - file.tags.contains("npc")
+formulas:
+  relationships: party_relationships.keys().map(value + '(' + party_relationships[value] + ')').join(', ')
+  t4_members: relationships.filter(value.isType("object") && value.type == "member").map(value.target)
+properties:
+  formula.relationships:
+    displayName: party relationships
+views:
+  - type: table
+    name: Overview
+    order:
+      - file.name
+      - formula.t4_members
+      - pronounced
+      - condition
+      - race
+      - gender
+      - age
+      - alignment
+      - occupation
+      - location
+      - formula.relationships
+      - groups
+      - religions
+      - description
+      - history
+      - personality
+      - ideal
+      - bond
+      - flaw
+      - likes
+      - dislikes
+      - goals
+    sort: []
+    columnSize:
+      note.age: 146
+      formula.relationships: 247
+  - type: table
+    name: Party Relationships
+    filters:
+      and:
+        - party_relationships.keys().contains('Midnight Covenant')
+    order:
+      - file.name
+      - pronounced
+      - condition
+      - race
+      - gender
+      - age
+      - alignment
+      - occupation
+      - location
+      - formula.relationships
+      - groups
+      - religions
+      - description
+      - history
+      - personality
+      - ideal
+      - bond
+      - flaw
+      - likes
+      - dislikes
+      - goals
+    sort: []
+    columnSize:
+      note.pronounced: 245
+      note.race: 128
+      note.age: 146
+      formula.relationships: 247

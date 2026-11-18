@@ -1,20 +1,33 @@
 ---
+obsidianUIMode: preview
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 tags:
   - campaign
-obsidianUIMode: preview
+summary: ""
+site_slug: ""
 ---
-> [!infobox|n-th]
-> # Configuration
-> | | |
-> |---|---|
-> | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
-> | **World:** | `INPUT[suggester(optionQuery(#world)):world]` |
+> [!infobox]
+> ###### Summary (player-safe)
+> `INPUT[textArea:summary]`
+> ###### Setup
+>  |
+>  ---|---|
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **World** | `INPUT[suggester(optionQuery(#world)):world]` |
+> **Status** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'status'})` |
+> **Level range** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'level_range'})` |
+> **Site slug** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'site_slug'})` |
+> ###### Now
+> `$=await dv.view('views/campaignNow', {current: dv.current()})`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
+```
+`$=await dv.view('views/sectionBar', {current: dv.current(), level: 1})`
 
 ## Public Premise
 > [!div|no-t clean]
-> `INPUT[textArea:public_premise]`
+> `INPUT[textArea:summary]`
 
 > [!abstract] Campaign Bible
 > This note is the campaign bible. Agents (`dm-assistant`, `world-builder`, `story-creator`, `encounter-builder`) read it for tone, power level, and content boundaries before generating anything. Locked canon here is fixed unless the DM reopens it. Where a section is marked *(TODO)* or is silent, agents ask rather than assume.
@@ -42,7 +55,7 @@ Register: gothic and ominous in Barovia; grander and more mythic as the Vecna ar
 - **Party:** 5 active PCs at **level 10** (tier 3). Roster: [[Faerah Duskrane]] (Drow), [[Redgrave]] (Warforged Envoy), [[Roark Battleborn]] (Human), [[Wisp]] (Awakened Cat), [[Yevelda Ovak]] (Human). [[Marin]] and [[Seluvis Felo'melorn]] are currently inactive.
 - **Lethality: hard but survivable.** Encounters should genuinely threaten the party, but rarely kill outright without bad luck or bad decisions. Player death is on the table as a consequence, not a baseline expectation.
 - **Encounter budgeting:** use the Lazy DM (Sly Flourish) encounter benchmark — the same method surfaced in the [[Midnight Covenant]] infobox. Verify current level and active roster from the party note before building fights.
-- **Magic / rewards:** significant artifacts are in play via the Fortunes of Ravenloft ([[Tome Of Strahd (COS)]], [[Sunsword (COS)]], [[Holy Symbol Of Ravenkind (COS)]]). Treat major magic items as story-weighted rewards, not routine loot.
+- **Magic / rewards:** significant artifacts are in play via the Fortunes of Ravenloft ([[Tome of Strahd]], [[Sunsword]], [[Holy Symbol of Ravenkind]]). Treat major magic items as story-weighted rewards, not routine loot.
 
 # Lines & Veils
 
@@ -144,7 +157,7 @@ How each PC's story hooks into the campaign. These are threads and open question
 - Finding the Eternal Watch (**Act II, Arc 4**) to save him is Wisp's throughline — this is also where the Watch explains how domain-claiming actually works, setting the rules for the finale (see The Hunt — Campaign Arc → Endings). Getting at what's buried in the master's mind will require some way to actually enter it — the Eternal Watch is expected to hold the method (DM-only working name: **the Hollow Vigil**, unrevealed) when the party finds them. Whatever's recovered there is a strong candidate for the "specific knowledge from the Eternal Watch" the Endings section gates both the worthier-claimant and domain-collapse options behind — not yet committed to which, or both.
 
 ### [[Roark Battleborn]]
-- His father is a Trickster God, bound — like all gods — by an ancient compact never to act in ways that would strip mortals of their own agency. He cannot move against Vecna directly; Roark, his mortal son, is the sanctioned loophole.
+- His father is a Trickster God, bound — like all gods — by an ancient compact never to act in ways that would strip mortals of their own agency. He cannot move against Vecna directly; He seeks to use Roark as a mortal loophole.
 - [[Martin Thricefold]] is bonded to protect Roark on the god's behalf, having received a warning years ago that the corruption of knowledge would be Vecna's first sign of return — a warning that's already proven true at the Umbral Athenaeum.
 - Roark's arc is growing into the role of his father's hands in the mortal world.
 
@@ -155,7 +168,7 @@ Open questions and hooks the agents should track for continuity:
 - **The Silent Ascendency** — Vecna's mortal network. Buying up far more stolen magic items than [[Lord Caldris Velmont]]'s ring normally moves, to siphon their energy toward the ascension (Act I, Arc 1) — and, per S42, escalating to target the party's own magical power directly. The items are drained into constructed **soul-vessels** built from stolen fragments of Eludrax's forbidden soul-craft (see Amber Wardens, below). Velmont's doppelganger impersonator was **[[Marrow]]**, the Ascendency's Bruokdon cell leader, killed in S44 — see below. **The Bruokdon cell is broken:** leader dead, a cell member in custody, the last outbound shipment taken. The network above and outside the city is untouched, and nobody caught in Bruokdon knew who ran it. What the Ascendency is after at the Great Library (Act I, Arc 3) is a separate, still-undefined open thread — no artifact/McGuffin is locked yet.
 - **The Eternal Watch** — the order that originally imprisoned Vecna at the Amber Temple, and has watched over the seal ever since. [[Wisp]]'s master is a member; the ward he maintained broke the instant Vecna escaped, dropping him into a coma. Surfaces at Act II, Arc 4 — also where they explain how domain-claiming works, setting the rules for the finale (see The Hunt — Campaign Arc → Endings). The 2026-08-22 Great Library prep surfaces the "originally imprisoned him" half of this as a discoverable clue (a founding-era text, restricted three years before Vecna's escape for reasons not yet explained) — the party doesn't know it yet as of this writing.
 - **Amber Wardens** *(working name, not yet confirmed)* — a recurring monster motif: some soul-vessels are grown into large mechanical guardian constructs, amber conduits threaded through the frame carrying bound souls of cult victims as a power source. Echoes the Stone Golem fight (S43) and pulls Amber Temple imagery through the whole hunt; expected to recur guarding anchors/vessel caches across both acts. No stat block built yet — `statblock-creator`/`encounter-builder` job when a concrete encounter needs one. **As of S45, the party possesses a physical sample** — an inert, half-formed soul-vessel core found in a locked crate at [[The Cinderworks]] — though they haven't identified what it is yet.
-- **[[Marrow]] and the Marrow-rite** — Marrow is a doppelganger grafted with a sliver of the same stolen Eludrax soul-craft that builds the Amber Wardens: a rare, individually-made augmentation (not a mass-produced template) that lets it draw on a whisper of a disguise target's soul-print — trained reflexes, muscle memory, a taste of talent — layered over its own shapeshifting, given prior contact with that target. It captured [[Lord Caldris Velmont]], ran Bruokdon's smuggling ring under his stolen identity, was unmasked by Redgrave's Geas (S43), burned a second identity (Professor Gousse Windcaller) within the hour, and then ambushed and captured Roark Battleborn and Mistress Lyssandra Veil, taking Roark's identity to salvage its cover and stay embedded with the party hunting it. **[[Faerah Duskrane]] killed it in a Bruokdon street in S44**, and the corpse reverted to its true form with the graft plainly visible at the nape of the neck. **The live piece of this thread is now the graft itself:** the party left the body in the street and has not examined the amber gem, which is uninvestigated physical evidence tying the Marrow-rite to the Amber Wardens and Eludrax's soul-craft — and a natural way into [[Redgrave]]'s Order of the Silver Dragon tie-in whenever it's wanted. The dwarf who falsely confessed to leading the cell is in custody and has not been re-questioned.
+- **[[Marrow]] and the Marrow-rite** — Marrow is a doppelganger grafted with a sliver of the same stolen Eludrax soul-craft that builds the Amber Wardens: a rare, individually-made augmentation (not a mass-produced template) that lets it draw on a whisper of a disguise target's soul-print — trained reflexes, muscle memory, a taste of talent — layered over its own shapeshifting, given prior contact with that target. It captured [[Lord Caldris Velmont]], ran Bruokdon's smuggling ring under his stolen identity, was unmasked by Redgrave's Geas (S43), burned a second identity (Professor Gousse Windcaller) within the hour, and then ambushed and captured Roark Battleborn and Mistress Lyssandra Veil, taking Roark's identity to salvage its cover and stay embedded with the party hunting it. **[[Faerah Duskrane]] killed it in a Bruokdon street in S44**, and the corpse reverted to its true form with the graft plainly visible at the nape of the neck. **The live piece of this thread is now the graft itself:** [[Redgrave]] examined the body and took the amber gem ([[Marrow's Amber Gem]], S44), physical evidence tying the Marrow-rite to the Amber Wardens and Eludrax's soul-craft — and a natural way into [[Redgrave]]'s Order of the Silver Dragon tie-in whenever it's wanted. The party knows the gem can hold a creature's essence and that it held Roark's (DM, 2026-11-17). The dwarf who falsely confessed to leading the cell is in custody and has not been re-questioned.
 - **The Great Unveiling** — Silent Ascendency doctrine, sincerely held by rank-and-file cultists: all hidden truths will one day surface in a promised revelation, and their secrecy now is preparation for it. They refer to their god only by title — the Whispered One, God of Secrets, the Undying King — never by name, and don't know who sits above their own cell leadership. Unbeknownst to them, this is devotional language for the World-Truth Working (Act I climax) — the party already knows the name Vecna (S33), so this is confirmation and tone, not new intel.
 - The fate and activity of the Order of the Silver Dragon *([[Redgrave]])* — expected to resurface at Act II, Arc 3, tied to Eludrax's soul-vessel craft.
 - Vecna's truth-magic loose in [[Greenfall]] — the Thornmere incident and its ripples; the party is unaware of his hand in it, or that it was only a small-scale prototype for the World-Truth Working *(see The Villain: Vecna)*.
@@ -167,12 +180,12 @@ Open questions and hooks the agents should track for continuity:
 - The Great Library, reached via the Well of Many Worlds with [[Professor Gousse Windcaller]]'s help — next session; expect Silent Ascendency agents already at work there *(Act I, Arc 3)*. The actual World-Truth Working casting site is separate from the Library and gets identified later, at The Convergence (Act I, Arc 6).
 - **[[Baba Lysaga (COS)|Baba Lysaga]]'s vendetta** — unresolved from the Curse of Strahd arc. She has not forgiven Strahd's death or the theft of her hut's gem, and (barely a week removed from the loss, by her own reckoning) has struck a bargain with [[Mab]], Queen of Air and Darkness and ruler of the Gloaming Court, to intercept the party the moment they cross into fey territory. Mab now holds a debt over the party from however that confrontation resolves — a hook, not a one-off fight.
 - The gods' non-interference compact and Roark's father, the Trickster God — background force shaping [[Roark Battleborn]]'s arc; [[Martin Thricefold]] acts as the god's indirect agent.
-- The Fortunes of Ravenloft — locations tracked below.
+- The Fortunes of Ravenloft — where each was found is below; the item notes track who holds them.
 
 ## Fortunes of Ravenloft
-- [[Tome Of Strahd (COS)]] — Van Richten's Tower
-- [[Sunsword (COS)]] — Ruins of Berez, in Baba Lysaga's Creeping Hut
-- [[Holy Symbol Of Ravenkind (COS)]] — Amber Temple
+- [[Tome of Strahd]] — found in Van Richten's Tower (S12)
+- [[Sunsword]] — found with one of the Wizard of Wines gems in Baba Lysaga's Creeping Hut
+- [[Holy Symbol of Ravenkind]] — found in a treasure hoard in the Amber Temple
 
 # Locked Canon
 
@@ -183,12 +196,12 @@ Facts the DM has finalized. Agents treat these as fixed unless the DM explicitly
 - [[Faerah Duskrane]] is a servant of [[Drow Eilistraee (MTF)|Eilistraee]].
 - [[Yevelda Ovak]]'s parents died defending [[Barovia]].
 - Killing Strahd (S33) — specifically Redgrave's final blow, drawing out Strahd's soul — delivered "the final piece" that freed Vecna from the Amber Temple. The party witnessed this and knows it.
-- Roark's father is a Trickster God, bound by the gods' ancient non-interference compact; Roark is his sanctioned mortal agent.
+- Roark's father is a Trickster God, bound by the gods' ancient non-interference compact; he seeks Roark's help as his mortal agent.
 - [[Wisp]]'s master is a member of the Eternal Watch and fell into a coma the instant Vecna's escape broke the ward he maintained.
-- [[Izek Strazni (COS)|Izek Strazni]] survived the fall of Castle Ravenloft and was claimed by Vecna's power in that moment; he now serves him.
+- [[Izek Strazni (COS)|Izek Strazni]] survived the fall of Castle Ravenloft and was claimed by Vecna's power in that moment; he served him until the party freed him from Vecna's control (S49).
 - [[Anastrasya Karelova (COS)|Anastrasya Karelova]] survived Strahd's wedding-night battle and fled; she is being courted by Vecna's forces.
 - The Silent Ascendency is buying up stolen magic items from [[Lord Caldris Velmont]]'s ring — and, per S42, targeting the party's own magical power — to siphon energy toward Vecna's ascension, draining them into constructed soul-vessels built from stolen fragments of Eludrax's forbidden soul-craft — the same craft that fed the original seal binding Vecna and produced [[Redgrave]]'s bound soul.
-- [[Marrow]] is the Silent Ascendency's cell leader in Bruokdon — the doppelganger who captured and impersonated [[Lord Caldris Velmont]], then briefly [[Professor Gousse Windcaller]], before escaping into a crowd (S43). It carries a rare soul-graft (the Marrow-rite) built from the same Eludrax soul-craft as the Amber Wardens, letting it borrow a disguise target's trained reflexes and muscle memory, not just their appearance. In the session after S43, it ambushed and captured Roark Battleborn and Mistress Lyssandra Veil (opportunistic, not premeditated — the Ascendency had no advance knowledge of the doppelganger-detection device [[Corwin Vantor]] built, and Vantor was killed defending it) and took Roark's identity to salvage its cover. **The party doesn't know any of this yet** — it's the DM-only spine of that session.
+- [[Marrow]] is the Silent Ascendency's cell leader in Bruokdon — the doppelganger who captured and impersonated [[Lord Caldris Velmont]], then briefly [[Professor Gousse Windcaller]], before escaping into a crowd (S43). It carries a rare soul-graft (the Marrow-rite) built from the same Eludrax soul-craft as the Amber Wardens, letting it borrow a disguise target's trained reflexes and muscle memory, not just their appearance. In the session after S43, it ambushed and captured Roark Battleborn and Mistress Lyssandra Veil (opportunistic, not premeditated — the Ascendency had no advance knowledge of the doppelganger-detection device [[Corwin Vantor]] built, and Vantor was killed defending it) and took Roark's identity to salvage its cover. In S44 Faerah saw through the Roark disguise and killed it. **The party knows** it was the cell leader, that it wore Velmont, Gousse, and then Roark, and that it is dead; the Marrow-rite and the opportunism of the ambush are still DM-only.
 - [[Faerah Duskrane]]'s sister may have survived and escaped the Underdark.
 - [[Thornmere]] (S35) was only a small-scale prototype of Vecna's truth-magic, not the working itself. The party doesn't know this.
 - Vecna's ascension is a two-ritual structure: **the World-Truth Working** (Act I climax) forces a global truth-compulsion, creates a vacant cosmic Truth-domain, and stakes Vecna's claim to it via a built-in hypocritical exception; **the Ascension Rite** (Act II climax) formally executes that claim. The party doesn't know this structure yet.
@@ -197,4 +210,19 @@ Facts the DM has finalized. Agents treat these as fixed unless the DM explicitly
 # Timelines
 ```aat-vertical
 COS
+```
+
+## Plan Changelog
+- 2026-11-17: Active Threads, Marrow bullet: the amber gem is no longer unexamined. Redgrave examined Marrow's body and took the gem in S44, and the party knows it can hold a creature's essence and held Roark's (DM correction, E6 follow-up).
+- 2026-11-17: Locked Canon reopened by the DM (E8): the Izek bullet no longer says he serves Vecna (freed in S49); the Marrow bullet records its death in S44 and what the party knows.
+
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
 ```

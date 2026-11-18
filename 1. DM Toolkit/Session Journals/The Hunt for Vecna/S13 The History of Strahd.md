@@ -15,8 +15,8 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
-campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
-prep-notes: "[[2024-02-24]]"
+party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+prep_notes: "[[2024-02-24]]"
 tags:
   - session-journal
 locations:
@@ -24,41 +24,56 @@ locations:
 fc-end: 973-2-17
 session_number: 13
 party_present:
-  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
-  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
   - "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich (COS)]]"
   - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
   - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
-  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
   - "[[4. World Almanac/NPCs/Rahadin (COS).md|Rahadin (COS)]]"
+  - "[[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md|Ezmerelda Davenir (COS)]]"
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
 quests: []
-items: []
+items:
+  - "[[4. World Almanac/Items/Tome of Strahd.md|Tome of Strahd]]"
+  - "[[4. World Almanac/Items/Khazan's Wand of Secrets.md|Khazan's Wand of Secrets]]"
+factions:
+  - "[[4. World Almanac/Factions/Order of the Silver Dragon.md|Order of the Silver Dragon]]"
+  - "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]"
+wrapped: true
+publish: false
 ---
 > [!infobox]
-> ## Info
-> | | |
-> |---|---|
-> | **Campaign:** | `INPUT[suggester(optionQuery(#campaign)):campaign]` |
-> | **Session #:** | `INPUT[number:session_number]` |
-> | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery("#session-prep")):prep-notes]` |
-> ## Fantasy Dates
-> | | |
-> |---|---|
-> | **Start Date:** | `INPUT[text:fc-date]`
-> | **End Date:** | `INPUT[text:fc-end]` |
-> | **Timelines:** | `INPUT[inlineList:timelines]` |
-> | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
-> ## Session Links
-> | | |
-> |---|---|
-> | **Party Present:** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
-> | **NPCs Met:** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
-> | **Quests Touched:** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
-> | **Items Found:** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
-# `=this.file.name`
+> ###### Prep
+>  |
+>  ---|---|
+> **Session #** | `INPUT[number:session_number]` |
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **Played on** | `INPUT[datePicker:date]` |
+> **Prep notes** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
+> **In-world start** | `INPUT[text:fc-date]` |
+> **In-world end** | `INPUT[text:fc-end]` |
+> **Timelines** | `INPUT[inlineList:timelines]` |
+> ###### Ledger
+>  |
+>  ---|---|
+> **Party present** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
+> **Spotlight** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'spotlight'})` |
+> **Locations** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
+> **NPCs met** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
+> **Quests touched** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
+> **Items** | `INPUT[inlineListSuggester(optionQuery(#story-item), optionQuery("5. Mechanics/Items")):items]` |
+> **Factions** | `INPUT[inlineListSuggester(optionQuery(#faction)):factions]` |
+`$=await dv.view('views/sessionNav', {current: dv.current()})`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
+```
+`BUTTON[wrap-session]`
+`$=await dv.view('views/sectionBar', {current: dv.current()})`
+
 ## Session Overview
 > [!div|no-t clean]
 > `INPUT[textArea:summary]`
@@ -72,7 +87,7 @@ items: []
 - [[Seluvis Felo'melorn]] learned about [[Barrier Coral]] #remember
 
 ## Items Of Importance
-- Kahkan's Wand of Secrets
+- Khazan's Wand of Secrets
 - Tome of Strahd
 
 ## What Happened
@@ -80,3 +95,30 @@ items: []
 - They find Yan, the severed head.
 - They use the wand of secrets once and find the freezer
 - The party reads the second chapter of the Tome of Strahd
+
+## Errata
+- 2026-11-18: Marin's pact to wake Yan's head, and learning that Rictavio killed him, happened in S14, not this session (DM).
+
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```
+```meta-bind-button
+label: Wrap this session
+icon: clipboard-copy
+style: primary
+id: wrap-session
+hidden: true
+actions:
+  - type: inlineJS
+    code: |-
+      const name = app.workspace.getActiveFile()?.basename ?? ''
+      await navigator.clipboard.writeText(`/wrap ${name}`)
+      new Notice(`Copied "/wrap ${name}": paste it into Claude Code to wrap this session`)
+```

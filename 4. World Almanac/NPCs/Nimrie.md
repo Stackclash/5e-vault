@@ -3,9 +3,13 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 condition: healthy
+gist: "Drow worshipper of Eilistraee at Duskferry who brought Faerah to Naerissa's shrine (S46); her own ties are undecided."
+revealed: {}
+reveal: {}
+facts: []
 images:
   - z_Assets/PlaceholderImage.png
-relationships: []
+relationships: [ { target: "[[5. Mechanics/Deities/Drow Eilistraee (MTF).md|Eilistraee]]", type: worships } ]
 tags:
   - npc
 aliases:
@@ -16,9 +20,6 @@ gender: female
 age:
 alignment: Neutral Good
 occupation: []
-groups: []
-religions:
-  - "[[Drow Eilistraee (MTF)|Eilistraee]]"
 description: |-
   A drow woman met in passing at Duskferry, on the Waterline the night the fog broke early. Little is established about her beyond that meeting — she recognized [[Faerah Duskrane]] as kin in some sense worth acting on, and brought her to Naerissa without ceremony or explanation.
 history: |-
@@ -30,81 +31,267 @@ flaw: ""
 goals: ""
 likes: ""
 dislikes: ""
-partyRelationships:
+party_relationships:
   Midnight Covenant: Friendly
-player_impression: |-
+summary: |-
   A drow woman the party met at Duskferry, who recognized something in Faerah worth acting on and brought her to Naerissa and the shrine. She didn't explain herself further, and the party hasn't learned much about her yet.
 secrets: ""
 ---
-
 > [!infobox]
-> # `=this.file.name`
-> **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('views/imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
 >  |
 >  ---|---|
-> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
-> **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
-> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
+> **Race** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'race'})` |
+> **Gender** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'gender'})` |
+> **Age** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'age'})` |
+> **Alignment** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'alignment'})` |
 > ###### Info
 >  |
 >  ---|---|
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
-> **Occupation(s)** | `INPUT[inlineList:occupation]` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
-> **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
+> **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
-# **`=this.file.name`**
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
-> [!column|no-t flex]
->> [!metadata|text-Center] Description
->> `INPUT[textArea:description]`
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
+> ```
 >
->> [!metadata|text-Center] History
->> `INPUT[textArea:history]`
+> > [!tab|no-t] At the Table
+> > **Appearance** `INPUT[text:appearance]`
+> >
+> > **Voice** `BUTTON[pop-voice]`
+> > `INPUT[textArea:voice]`
+> >
+> > **Goals** `BUTTON[pop-goals]`
+> > `INPUT[textArea:goals]`
+> >
+> > **Personality** `BUTTON[pop-personality]`
+> > `INPUT[textArea:personality]`
+> >
+> > **Ideal** `BUTTON[pop-ideal]`
+> > `INPUT[textArea:ideal]`
+> >
+> > **Bond** `BUTTON[pop-bond]`
+> > `INPUT[textArea:bond]`
+> >
+> > **Flaw** `BUTTON[pop-flaw]`
+> > `INPUT[textArea:flaw]`
+> >
+> > **Likes** `BUTTON[pop-likes]`
+> > `INPUT[textArea:likes]`
+> >
+> > **Dislikes** `BUTTON[pop-dislikes]`
+> > `INPUT[textArea:dislikes]`
+>
+> > [!tab|no-t] Lore
+> > **Description** `BUTTON[pop-description]`
+> > `INPUT[textArea:description]`
+> >
+> > **History** `BUTTON[pop-history]`
+> > `INPUT[textArea:history]`
+>
+> > [!player] Player-Facing
+> > **Revealed to the party** `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['revealed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})`
+> >
+> > **Public name** `$=await dv.view('utils/metaBindInput', {type: 'text', field: ['public_name', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (optional: shown instead of the note name)
+> >
+> > **Also show** `$=await dv.view('utils/metaBindInput', {type: 'inlineList', field: ['reveal', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (extra fields the site may show, e.g. images, occupation)
+> >
+> > **Summary** `BUTTON[pop-summary]`
+> > `INPUT[textArea:summary]`
+> >
+> > **Facts**
+> > ```datacorejsx
+> > const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
+> > return function View() { return <FactsTable /> }
+> > ```
+>
+> > [!tab|no-t] Connections
+> > `BUTTON[add-relationship]` `BUTTON[remove-relationship]`
+> >
+> > ```dataviewjs
+> > await dv.view("views/npcRelationships", { current: dv.current() })
+> > ```
+> >
+> > **Quests**
+> > ```dataview
+> > LIST FROM #quest WHERE contains(npcs.name, this.file.link)
+> > ```
+> >
+> > **Sessions**
+> > ```dataview
+> > LIST FROM #session-journal WHERE contains(npcs, this.file.link) SORT session_number ASC
+> > ```
+>
+> > [!tab|no-t] Stats
+> > *Not built for combat yet — nothing about her has been established in play that suggests she needs one. Revisit if she reappears.*
+>
+> > [!dm] DM
+> > ```dataviewjs
+> > await dv.view("views/dmPanel", {current: dv.current()})
+> > ```
+> >
+> > `BUTTON[edit-dm-notes]`
+> > ## DM Notes
+> > ### Hidden Details
+> > None written yet — she's a blank slate beyond the S46 introduction. Good candidate to tie into the Unbroken Circle / Eilistraee-congregation thread if the DM wants a recurring face for it, but that's not decided.
+> >
+> > ### General Notes
+> > Created 2026-09-05 (S46) as the bridge character who introduced [[Faerah Duskrane]] to [[Naerissa]] at the Duskferry shrine. Most fields intentionally left blank — race and religion are inferred from the scene (drow, present at an Eilistraee shrine) rather than stated outright in play; confirm or adjust if she comes up again.
 
-## Traits/Goals
-> [!column|no-t flex]
->> [!metadata|text-Center bg-c-yellow] Personality
->> `INPUT[textArea:personality]`
->
->> [!metadata|text-Center bg-c-pink] Ideal
->> `INPUT[textArea:ideal]`
->
->> [!metadata|text-Center bg-c-brown] Bond
->> `INPUT[textArea:bond]`
->
->> [!metadata|text-Center bg-c-orange] Flaw
->> `INPUT[textArea:flaw]`
->
->> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[textArea:likes]`
->
->> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[textArea:dislikes]`
->
->> [!metadata|text-Center] Goals
->> `INPUT[textArea:goals]`
-
-## Player-Facing
-> [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
-
-## Secrets
-`INPUT[textArea:secrets]`
-
-## Relationships
-`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Voice in a larger window
+style: default
+id: pop-voice
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: voice
+      label: Voice
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Goals in a larger window
+style: default
+id: pop-goals
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: goals
+      label: Goals
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Personality in a larger window
+style: default
+id: pop-personality
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: personality
+      label: Personality
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Ideal in a larger window
+style: default
+id: pop-ideal
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: ideal
+      label: Ideal
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Bond in a larger window
+style: default
+id: pop-bond
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: bond
+      label: Bond
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Flaw in a larger window
+style: default
+id: pop-flaw
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: flaw
+      label: Flaw
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Likes in a larger window
+style: default
+id: pop-likes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: likes
+      label: Likes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Dislikes in a larger window
+style: default
+id: pop-dislikes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: dislikes
+      label: Dislikes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Description in a larger window
+style: default
+id: pop-description
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: description
+      label: Description
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit History in a larger window
+style: default
+id: pop-history
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: history
+      label: History
+```
 ```meta-bind-button
 style: primary
 label: Add Relationship
@@ -123,39 +310,41 @@ actions:
   - type: runTemplaterFile
     templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
 ```
-> [!div | no-t clean txt-c]
-> `$=await dv.view("views/npcRelationships", { current: dv.current() })`
-
-## Quests
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-  const columns = [
-    {
-      id: 'Quest',
-      value: (row) => row.$link
-    },
-    {
-      id: 'Description',
-      value: (row) => row.$frontmatter.description.raw || ''
-    },
-    {
-      id: 'Involvement',
-      value: (row) => row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)).description || ''
-    }
-  ]
-  
-  return <dc.Table rows={quests} columns={columns}/>
-}
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Summary in a larger window
+style: default
+id: pop-summary
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: summary
+      label: Summary
 ```
 
-## Stats
-*Not built for combat yet — nothing about her has been established in play that suggests she needs one. Revisit if she reappears.*
-
-## DM Notes
-### Hidden Details
-None written yet — she's a blank slate beyond the S46 introduction. Good candidate to tie into the Unbroken Circle / Eilistraee-congregation thread if the DM wants a recurring face for it, but that's not decided.
-
-### General Notes
-Created 2026-09-05 (S46) as the bridge character who introduced [[Faerah Duskrane]] to [[Naerissa]] at the Duskferry shrine. Most fields intentionally left blank — race and religion are inferred from the scene (drow, present at an Eilistraee shrine) rather than stated outright in play; confirm or adjust if she comes up again.
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```

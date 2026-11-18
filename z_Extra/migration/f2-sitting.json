@@ -1,0 +1,41 @@
+{
+  "4. World Almanac/NPCs/Anselm Corrow.md": [
+    { "text": "Corrow is not part of the Silent Ascendency and does not know what the 'special cargo' is or who is behind it.", "learned": null, "locked": false },
+    { "text": "Corrow has long known that some manifests pay above the standard toll, and has chosen not to ask why.", "learned": null, "locked": false },
+    { "text": "Corrow does not know his senior clerk, Ostwin Reyes, is the Ascendency's contact.", "learned": null, "locked": false }
+  ],
+  "4. World Almanac/NPCs/Baba Lysaga (COS).md": [
+    { "text": "Baba Lysaga traded Mab a future favor for a pack of yeth hounds and a glamour that lets her pass as a fey bargain-broker.", "learned": null, "locked": false },
+    { "text": "Baba Lysaga means to trap Strahd's killers the moment they enter fey territory.", "learned": null, "locked": false }
+  ],
+  "4. World Almanac/NPCs/Hesper Crane.md": [
+    { "text": "Hesper Crane never met the real Velmont; she dealt only with Marrow wearing his face, through couriers and a password exchange.", "learned": null, "locked": false },
+    { "text": "Hesper Crane knows Vecna only as 'the Undying King.'", "learned": null, "locked": false },
+    { "text": "Hesper Crane's ledger named the network's next contact in Duskferry, known only as 'the Tallyman.'", "learned": "S45 The Cinderworks Job", "locked": false }
+  ],
+  "4. World Almanac/NPCs/Izek Strazni (COS).md": [
+    { "text": "Izek's fiendish arm was a gift from Vecna, granted from inside the Amber Temple.", "learned": null, "locked": false },
+    { "text": "Izek's arm is the Hand of Vecna, grafted onto the stump the dire wolf left.", "learned": null, "locked": false },
+    { "text": "Vecna speaks to Izek through the Hand, and Izek obeys out of debt, not compulsion.", "learned": null, "locked": false },
+    { "text": "The amber under Izek's skin is the same Eludrax soul-craft as the Amber Wardens' conduits and Marrow's graft.", "learned": null, "locked": false },
+    { "text": "Izek knows what the casked distillate leaving Greyfen Hollow is for.", "learned": null, "locked": false }
+  ],
+  "4. World Almanac/NPCs/Lord Caldris Velmont.md": [
+    { "text": "The Silent Ascendency captured Velmont and took over his magic-item smuggling operation.", "learned": "S43 The Two Lord Velmonts", "locked": false },
+    { "text": "Velmont built the smuggling ring himself, years before the Ascendency seized it.", "learned": null, "locked": false }
+  ],
+  "4. World Almanac/NPCs/Marrow.md": [
+    { "text": "The dwarf's confession to leading the Bruokdon cell was a lie.", "learned": "S44 The Other Roark", "locked": false },
+    { "text": "The dwarf was Marrow's frame, a cultist primed to take the fall.", "learned": null, "locked": false },
+    { "text": "Marrow took Lyssandra for her illusion mastery, earmarked for future ward-work.", "learned": null, "locked": false },
+    { "text": "Marrow knew Vecna only by title: the Whispered One, God of Secrets, the Undying King.", "learned": null, "locked": false }
+  ],
+  "4. World Almanac/NPCs/Naerissa.md": [
+    { "text": "Naerissa does not know whether Faerah's sister survived; she knows only that the sister did not leave with them.", "learned": null, "locked": false },
+    { "text": "The larger Unbroken Circle congregation lives in the Greenfall wilds.", "learned": null, "locked": false }
+  ],
+  "4. World Almanac/NPCs/Ostwin Reyes.md": [
+    { "text": "Reyes falsifies or omits manifest entries for 'special cargo' shipments in exchange for payment.", "learned": null, "locked": false },
+    { "text": "Reyes knows the shipments' onward route toward Greyfen Hollow, but not what happens there.", "learned": null, "locked": false }
+  ]
+}

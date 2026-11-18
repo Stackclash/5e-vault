@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "skills": {
+    "defuddle": {
+      "source": "obsidianmd/obsidian-skills",
+      "commit": "caf3e98cd22d810db164f26c9a442f0a280daa43",
+      "sourceType": "github",
+      "skillPath": "plugins/obsidian/skills/defuddle/SKILL.md",
+      "computedHash": "82614e1fedcb107d4e4d239900d71d3a94a9ac721e16fa5d98d9dfc7d113e774"
+    },
+    "json-canvas": {
+      "source": "obsidianmd/obsidian-skills",
+      "commit": "caf3e98cd22d810db164f26c9a442f0a280daa43",
+      "sourceType": "github",
+      "skillPath": "plugins/obsidian/skills/json-canvas/SKILL.md",
+      "computedHash": "5d0499ad8ce7f68bcd501bea93a80c3a0406722f182a5b50cd9d1ec3c34c4ea5"
+    },
+    "knap": {
+      "source": "obsidianmd/obsidian-skills",
+      "commit": "caf3e98cd22d810db164f26c9a442f0a280daa43",
+      "sourceType": "github",
+      "skillPath": "plugins/obsidian/skills/knap/SKILL.md",
+      "computedHash": "a1c609fa7cdc2de45a04d989b49b16ba691308d611733e08388f5e22c01cf5ec"
+    },
+    "obsidian-bases": {
+      "source": "obsidianmd/obsidian-skills",
+      "commit": "caf3e98cd22d810db164f26c9a442f0a280daa43",
+      "sourceType": "github",
+      "skillPath": "plugins/obsidian/skills/obsidian-bases/SKILL.md",
+      "computedHash": "69a3105a2237f0d09a74ee197a64be3c3a07e401e4dcd7fd9ad499c574b58cf6"
+    },
+    "obsidian-cli": {
+      "source": "obsidianmd/obsidian-skills",
+      "commit": "caf3e98cd22d810db164f26c9a442f0a280daa43",
+      "sourceType": "github",
+      "skillPath": "plugins/obsidian/skills/obsidian-cli/SKILL.md",
+      "computedHash": "c50a6a32f35be2656fcae1b1ead19fd8ef228fcd89b852d4d8b9f9b93b975a1c"
+    },
+    "obsidian-headless": {
+      "source": "obsidianmd/obsidian-skills",
+      "commit": "caf3e98cd22d810db164f26c9a442f0a280daa43",
+      "sourceType": "github",
+      "skillPath": "plugins/obsidian/skills/obsidian-headless/SKILL.md",
+      "computedHash": "4159b54757a4ed57d4625f27d0a689ab76b50f4acf8ff0703cd618ed3e02dcb0"
+    },
+    "obsidian-markdown": {
+      "source": "obsidianmd/obsidian-skills",
+      "commit": "caf3e98cd22d810db164f26c9a442f0a280daa43",
+      "sourceType": "github",
+      "skillPath": "plugins/obsidian/skills/obsidian-markdown/SKILL.md",
+      "computedHash": "c5c46fd4ab6321d2ccc3f680ee5372efd1d070749e6ddb8e571e0b0c2ac1ae16"
+    }
+  }
+}

@@ -5,7 +5,7 @@ metadata:
   type: project
 ---
 
-**S47 (played 2026-09-26, in-world 973-2-31):** the party went down the Hollow's gate elevator (replaces the timber stair; now in [[Greyfen Hollow]] B1), got spotted, beat the entrance guards. No alarm raised, 3 prisoners, no rest. **Duskferry's Corrow/Reyes scenes were skipped entirely**, so Reyes is unmet and unexposed and could come back later. The DM **cut the A1 threshold Warden**: the Foundry Warden (C3) is the party's first Warden, a late-dungeon reveal. **Prep for 2026-10-17 is written** (Izek's Exit, default 22.5 CR for the no-rest case; Sorting Floor loot: Bracers of Defense, Brooch of Shielding, Periapt of Wound Closure, Pearl of Power; C2 salvage: Wand of Web, Immovable Rod). The S47 journal's `prep-notes`/`fc-end` are blank, and its guard details were never recorded.
+**S47 (played 2026-09-26, in-world 973-2-31):** the party went down the Hollow's gate elevator (replaces the timber stair; now in [[Greyfen Hollow]] B1), got spotted, beat the entrance guards. No alarm raised, 3 prisoners, no rest. **Duskferry's Corrow/Reyes scenes were skipped entirely**, so Reyes is unmet and unexposed and could come back later. The DM **cut the A1 threshold Warden**: the Foundry Warden (C3) is the party's first Warden, a late-dungeon reveal. **Prep for 2026-10-17 is written** (Izek's Exit, default 22.5 CR for the no-rest case; Sorting Floor loot: Bracers of Defense, Brooch of Shielding, Periapt of Wound Closure, Pearl of Power; C2 salvage: Wand of Web, Immovable Rod). The S47 journal's `prep_notes`/`fc-end` are blank, and its guard details were never recorded.
 
 **Earlier, as of S46 ("Duskferry", played 2026-09-05, in-world 973-2-29–31): 46 sessions played.** Campaign is [[The Hunt for Vecna]] (Eldoria / Midnight Covenant), party level 10, Act I Arc 1 complete. S46 ran long on Duskferry itself — the prepped Corrow/Reyes/Amber Warden scenes (Scenes 3–10 of the 2026-09-05 prep) never fired; the party is only now arriving at Greyfen Hollow's approach. **No prep note exists yet for that continuation — next session needs to pick up mid-prep, not fresh.**
 
@@ -31,7 +31,7 @@ Thread ledger (established through S45, still current):
 
 Prep debts:
 - No quest note ever existed for the Athenaeum / Silent Ascendency arc (S40–S44), even though it ran five sessions. Quests folder holds [[The Ones Who Were Forgotten]], [[The Well of Many Worlds]], and now [[The Second Ledger]].
-- S43's `prep-notes` frontmatter points at a generic `[[Session Prep]]` link that does not resolve.
+- S43's `prep_notes` frontmatter points at a generic `[[Session Prep]]` link that does not resolve.
 - [[Greyfen Hollow]]'s ancient cap was built to seal the caves shut and the Ascendency cut it open — *why* is deliberately unanswered, a live thread and a candidate tie to whoever also built the Amber Temple and the stonework under [[The Cinderworks]].
 - No session prep note exists yet for the Greyfen Hollow return trip — the location note carries the encounter and machinery rules, but the scene ordering hasn't been staged.
 - **Next session's prep is a continuation, not a fresh build:** the 2026-09-05 prep note's Scenes 3–10 (Corrow → Reyes → the Amber Warden fight → the workroom find) never fired in S46 and are still fully usable as written — start there rather than re-planning Duskferry/Greyfen Hollow from scratch.

@@ -11,13 +11,16 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
-campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
-prep-notes: 
+party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+prep_notes: 
 fc-end: 973-2-12
 tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+  - "[[4. World Almanac/Places of Interest/Death House.md|Death House]]"
+  - "[[4. World Almanac/Shops/Blood of the Vine Tavern.md|Blood of the Vine Tavern]]"
+  - "[[4. World Almanac/Shops/Bildrath's Mercantile.md|Bildrath's Mercantile]]"
 session_number: 3
 party_present:
   - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
@@ -26,35 +29,44 @@ party_present:
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
 npcs:
-  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
   - "[[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md|Ismark Kolyanovich (COS)]]"
   - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
+  - "[[4. World Almanac/NPCs/Donavich (COS).md|Donavich (COS)]]"
 quests: []
-items: []
+items:
+  - "[[5. Mechanics/Items/Dagger.md|Dagger]]"
+factions: []
+wrapped: true
+publish: false
 ---
 > [!infobox]
-> ## Info
-> | | |
-> |---|---|
-> | **Campaign:** | `INPUT[suggester(optionQuery(#campaign)):campaign]` |
-> | **Session #:** | `INPUT[number:session_number]` |
-> | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery("#session-prep")):prep-notes]` |
-> ## Fantasy Dates
-> | | |
-> |---|---|
-> | **Start Date:** | `INPUT[text:fc-date]`
-> | **End Date:** | `INPUT[text:fc-end]` |
-> | **Timelines:** | `INPUT[inlineList:timelines]` |
-> | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
-> ## Session Links
-> | | |
-> |---|---|
-> | **Party Present:** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
-> | **NPCs Met:** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
-> | **Quests Touched:** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
-> | **Items Found:** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
-# `=this.file.name`
+> ###### Prep
+>  |
+>  ---|---|
+> **Session #** | `INPUT[number:session_number]` |
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **Played on** | `INPUT[datePicker:date]` |
+> **Prep notes** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
+> **In-world start** | `INPUT[text:fc-date]` |
+> **In-world end** | `INPUT[text:fc-end]` |
+> **Timelines** | `INPUT[inlineList:timelines]` |
+> ###### Ledger
+>  |
+>  ---|---|
+> **Party present** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
+> **Spotlight** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'spotlight'})` |
+> **Locations** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
+> **NPCs met** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
+> **Quests touched** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
+> **Items** | `INPUT[inlineListSuggester(optionQuery(#story-item), optionQuery("5. Mechanics/Items")):items]` |
+> **Factions** | `INPUT[inlineListSuggester(optionQuery(#faction)):factions]` |
+`$=await dv.view('views/sessionNav', {current: dv.current()})`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
+```
+`BUTTON[wrap-session]`
+`$=await dv.view('views/sectionBar', {current: dv.current()})`
+
 ## Session Overview
 > [!div|no-t clean]
 > `INPUT[textArea:summary]`
@@ -85,3 +97,27 @@ N/A
 - They hear a scream from the basement and the party presses Donovich about what it was
 - Donovich alludes that it was his son. He was very nervous and distraught
 - Donovich says that the burial happens at sundown. The party however doesn't want to stay till then and convinces Ireena Kolyana to leave early
+
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```
+```meta-bind-button
+label: Wrap this session
+icon: clipboard-copy
+style: primary
+id: wrap-session
+hidden: true
+actions:
+  - type: inlineJS
+    code: |-
+      const name = app.workspace.getActiveFile()?.basename ?? ''
+      await navigator.clipboard.writeText(`/wrap ${name}`)
+      new Notice(`Copied "/wrap ${name}": paste it into Claude Code to wrap this session`)
+```

@@ -1,0 +1,107 @@
+[
+ {
+  "source": "Clovin Belview (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/The Abbot (COS).md|The Abbot]]"
+ },
+ {
+  "source": "Clovin Belview (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
+ },
+ {
+  "source": "Marzena Belview (COS)",
+  "type": "brother",
+  "target": "[[4. World Almanac/NPCs/Clovin Belview (COS).md|Clovin Belview]]"
+ },
+ {
+  "source": "Marzena Belview (COS)",
+  "type": "imprisoned-at",
+  "target": "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]",
+  "note": "chained in the courtyard"
+ },
+ {
+  "source": "Mishka Belview (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]",
+  "note": "the courtyard well"
+ },
+ {
+  "source": "Otto Belview (COS)",
+  "type": "friend",
+  "target": "[[4. World Almanac/NPCs/Zygfrek Belview (COS).md|Zygfrek Belview]]",
+  "note": "work partner"
+ },
+ {
+  "source": "Otto Belview (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]",
+  "note": "north gate; gravedigger"
+ },
+ {
+  "source": "Zygfrek Belview (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]",
+  "note": "north gate; gravedigger"
+ },
+ {
+  "source": "The Abbot (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
+ },
+ {
+  "source": "The Abbot (COS)",
+  "type": "patron",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]",
+  "note": "as Vasili von Holtz; supplied Amber Temple lore"
+ },
+ {
+  "source": "Vasilka (COS)",
+  "type": "master",
+  "target": "[[4. World Almanac/NPCs/The Abbot (COS).md|The Abbot]]"
+ },
+ {
+  "source": "Vasilka (COS)",
+  "type": "lover",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]",
+  "note": "intended bride; not yet presented"
+ },
+ {
+  "source": "Sir Godfrey Gwilym (COS)",
+  "type": "lover",
+  "target": "[[4. World Almanac/NPCs/Vladimir Horngaard (COS).md|Vladimir Horngaard]]"
+ },
+ {
+  "source": "Sir Godfrey Gwilym (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/Vladimir Horngaard (COS).md|Vladimir Horngaard]]",
+  "note": "oath-bound as a revenant"
+ },
+ {
+  "source": "Sir Godfrey Gwilym (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Vladimir Horngaard (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/Order of the Silver Dragon.md|Order of the Silver Dragon]]",
+  "note": "field commander",
+  "replace": "member"
+ },
+ {
+  "source": "Vladimir Horngaard (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Vladimir Horngaard (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]"
+ },
+ {
+  "source": "Donavich (COS)",
+  "type": "son",
+  "target": "[[4. World Almanac/NPCs/Doru (COS).md|Doru]]"
+ }
+]

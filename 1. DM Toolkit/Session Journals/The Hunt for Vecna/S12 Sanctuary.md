@@ -13,8 +13,8 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
-campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
-prep-notes: "[[2024-01-21]]"
+party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+prep_notes: "[[2024-01-21]]"
 tags:
   - session-journal
 locations:
@@ -23,115 +23,169 @@ locations:
 fc-end: 973-2-17
 session_number: 12
 party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
   - "[[4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md|Szoldar Szoldarovich (COS)]]"
-  - "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter (COS)]]"
   - "[[4. World Almanac/NPCs/Yevgeni Krushkin (COS).md|Yevgeni Krushkin (COS)]]"
   - "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
   - "[[4. World Almanac/NPCs/Gadof Blinsky (COS).md|Gadof Blinsky (COS)]]"
+  - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
+  - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
 quests: []
-items: []
+items:
+  - "[[4. World Almanac/Items/Tome of Strahd.md|Tome of Strahd]]"
+  - "[[5. Mechanics/Items/Boots Of Striding And Springing.md|Boots Of Striding And Springing]]"
+  - "[[5. Mechanics/Items/Elven Chain.md|Elven Chain]]"
+  - "[[5. Mechanics/Items/Cloak Of Elvenkind.md|Cloak Of Elvenkind]]"
+  - "[[5. Mechanics/Items/Eyes Of Minute Seeing.md|Eyes Of Minute Seeing]]"
+factions: []
+wrapped: true
+publish: false
 ---
 > [!infobox]
-> ## Info
-> | | |
-> |---|---|
-> | **Campaign:** | `INPUT[suggester(optionQuery(#campaign)):campaign]` |
-> | **Session #:** | `INPUT[number:session_number]` |
-> | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
-> ## Fantasy Dates
-> | | |
-> |---|---|
-> | **Start Date:** | `INPUT[text:fc-date]`
-> | **End Date:** | `INPUT[text:fc-end]` |
-> | **Timelines:** | `INPUT[inlineList:timelines]` |
-> | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
-> ## Session Links
-> | | |
-> |---|---|
-> | **Party Present:** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
-> | **NPCs Met:** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
-> | **Quests Touched:** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
-> | **Items Found:** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
-# `=this.file.name`
+> ###### Prep
+>  |
+>  ---|---|
+> **Session #** | `INPUT[number:session_number]` |
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **Played on** | `INPUT[datePicker:date]` |
+> **Prep notes** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
+> **In-world start** | `INPUT[text:fc-date]` |
+> **In-world end** | `INPUT[text:fc-end]` |
+> **Timelines** | `INPUT[inlineList:timelines]` |
+> ###### Ledger
+>  |
+>  ---|---|
+> **Party present** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
+> **Spotlight** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'spotlight'})` |
+> **Locations** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
+> **NPCs met** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
+> **Quests touched** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
+> **Items** | `INPUT[inlineListSuggester(optionQuery(#story-item), optionQuery("5. Mechanics/Items")):items]` |
+> **Factions** | `INPUT[inlineListSuggester(optionQuery(#faction)):factions]` |
+`$=await dv.view('views/sessionNav', {current: dv.current()})`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
+```
+`BUTTON[wrap-session]`
+`$=await dv.view('views/sectionBar', {current: dv.current()})`
+
 ## Session Overview
 > [!div|no-t clean]
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- An abandoned wagon full of monster-hunting gear stands outside the tower on the lake
 
 ## Items Of Importance
-Description
+- Boots of Striding and Springing, from [[Urwin Martikov]]
+- A vial of Assassin's Blood, bought by [[Marin]]
+- Elven Chain and a Cloak of Elvenkind, from [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]
+- Eyes of Minute Seeing, from [[Gadof Blinsky]]
+- 8 potions of greater healing, 2 potions of healing, 2 draft horses, and a wagon
+- [[Tome of Strahd]]
 
 ## What Happened
-Small description.
+- Urwin Martikov gives the party Boots of Striding and Springing
+- Marin buys a vial of Assassin's Blood
+- Szoldar Szoldarovich and Yevgeni Krushkin give the party Elven Chain and a Cloak of Elvenkind
+- Gadof Blinsky upgrades Nyxia with Docent qualities and gives the party his Eyes of Minute Seeing
+- The party buys a wagon and two draft horses and sets out to escort [[Ireena Kolyana]] to Krezk
+- They reach a decaying tower on a small island in a murky lake, with an abandoned wagon of monster-hunting gear outside
+- [[Seluvis Felo'melorn]] solves the door's magical lock, which opens to a dance
+- Four golems run an elevator to the top floor, where the party finds signs of recent habitation and the [[Tome of Strahd]]
 
 
 # `=this.file.name`
-## Session Prep:
-Things I need to get ready before the session:
-- [ ] **Example 1**
-      Description.
-    - [ ] Sub-Point 1
-- [ ] **Example 2**
-      Description.
-    - [ ] Sub-Point 2
+> [!dm]- Session prep (leftover)
+> ## Session Prep:
+> Things I need to get ready before the session:
+> - [ ] **Example 1**
+>       Description.
+>     - [ ] Sub-Point 1
+> - [ ] **Example 2**
+>       Description.
+>     - [ ] Sub-Point 2
+>
+> ## Plan
+> High story beats, main things I want to happen this session.
+> - [ ] Point 1
+>     - [ ] Sub Point 1
+> - [ ] Point 2
+>     - [ ] Sub Point 1
+>
+> # Session
+> ## Start
+> The night falls over Vallaki, casting long shadows that stretch across the cobblestone streets like skeletal fingers. 
+>
+> A tense negotiation unfolds, and Lady Fiona Wachter, revealing a political acumen as sharp as a dagger's edge, extends an offer. With the Vallakovich family hidden away in the Village of Barovia, she proposes a seemingly pragmatic solution: allow her to rule Vallaki. Her argument hinges on the claim that she alone can rally the people, preventing the descent into chaos that would inevitably follow if Vallaki were left leaderless.
+>
+> Despite Lady Fiona's overtly malevolent inclinations and the whispers of her alliance with Strahd, the party reluctantly agrees to her proposal. Vallaki, a town on the precipice of anarchy, now bears the weight of Lady Wachter's ambitions. The party, unsettled by the uneasy pact, finds themselves dismissed by Lady Fiona, her cold gaze lingering as a harbinger of unsettling alliances and the shifting tides within the cursed land of Barovia.
+>
+> With the moon overhead you prepare to finally leave this town ensnared in the tendrils of political intrigue and the ever-present specter of darkness behind. The journey continues, and the choices made within the shadows of Vallaki will surely reverberate through the twisted corridors of Barovia.
+>
+> ## Loot, Rewards & Purchases
+> Loot, rewards and purchases.
+> - [x] [[Cloak Of Elvenkind]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
+> - [x] [[Boots Of Striding And Springing]] ([[Urwin Martikov]])
+> - [x] [[Elven Chain]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
+> - [x] [[Docent (ERLW)]] ([[Gadof Blinsky]])
+> - [x] [[Eyes Of Minute Seeing]] ([[Gadof Blinsky]])
+>
+> ## Keep in Mind
+> Things to keep in mind during the session, from items to important details
+>
+> ## Events
+> - [[Urwin Martikov]] gives [[Boots Of Striding And Springing]] to party
+> - [[Marin]] buys a vial of [[Assassins Blood]] for 2gp
+> - [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] gives [[Elven Chain]] and [[Cloak Of Elvenkind]] to party
+> - The party buys healing potion:
+> 	- 8x [[Potion Of Greater Healing]] @ 5gp
+> 	- 2x [[Potion Of Healing]] @ 2gp (They have 3 already)
+> - [[Gadof Blinsky]] tinkers with Nyxia and upgrades her with [[Docent (ERLW)]] qualities
+> - [[Gadof Blinsky]] gives his [[Eyes Of Minute Seeing]] to the party
+> - Party buys 2 [[5. Mechanics/Items/Draft Horse|draft horses]] and a [[Wagon|wagon]] @ 15gp
+> - Party gets to [[Van Richten's Tower]] 
+> - They find the [[Tome Of Strahd (COS)]] 
+>
+> # Summary
+> ## New NPCs
+> New NPC Met.
+> - Example 1
+> - Example 2
+>
+> ## New Locations
+> New Locations Discovered.
+> - Example 1
+> - Example 2
+>
+> ## End of Session Notes
+> Anything to take note of as the session has come to a close. 
 
-## Plan
-High story beats, main things I want to happen this session.
-- [ ] Point 1
-    - [ ] Sub Point 1
-- [ ] Point 2
-    - [ ] Sub Point 1
-
-# Session
-## Start
-The night falls over Vallaki, casting long shadows that stretch across the cobblestone streets like skeletal fingers. 
-
-A tense negotiation unfolds, and Lady Fiona Wachter, revealing a political acumen as sharp as a dagger's edge, extends an offer. With the Vallakovich family hidden away in the Village of Barovia, she proposes a seemingly pragmatic solution: allow her to rule Vallaki. Her argument hinges on the claim that she alone can rally the people, preventing the descent into chaos that would inevitably follow if Vallaki were left leaderless.
-
-Despite Lady Fiona's overtly malevolent inclinations and the whispers of her alliance with Strahd, the party reluctantly agrees to her proposal. Vallaki, a town on the precipice of anarchy, now bears the weight of Lady Wachter's ambitions. The party, unsettled by the uneasy pact, finds themselves dismissed by Lady Fiona, her cold gaze lingering as a harbinger of unsettling alliances and the shifting tides within the cursed land of Barovia.
-
-With the moon overhead you prepare to finally leave this town ensnared in the tendrils of political intrigue and the ever-present specter of darkness behind. The journey continues, and the choices made within the shadows of Vallaki will surely reverberate through the twisted corridors of Barovia.
-
-## Loot, Rewards & Purchases
-Loot, rewards and purchases.
-- [x] [[Cloak Of Elvenkind]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
-- [x] [[Boots Of Striding And Springing]] ([[Urwin Martikov]])
-- [x] [[Elven Chain]] ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] )
-- [x] [[Docent (ERLW)]] ([[Gadof Blinsky]])
-- [x] [[Eyes Of Minute Seeing]] ([[Gadof Blinsky]])
-
-## Keep in Mind
-Things to keep in mind during the session, from items to important details
-
-## Events
-- [[Urwin Martikov]] gives [[Boots Of Striding And Springing]] to party
-- [[Marin]] buys a vial of [[Assassins Blood]] for 2gp
-- [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] gives [[Elven Chain]] and [[Cloak Of Elvenkind]] to party
-- The party buys healing potion:
-	- 8x [[Potion Of Greater Healing]] @ 5gp
-	- 2x [[Potion Of Healing]] @ 2gp (They have 3 already)
-- [[Gadof Blinsky]] tinkers with Nyxia and upgrades her with [[Docent (ERLW)]] qualities
-- [[Gadof Blinsky]] gives his [[Eyes Of Minute Seeing]] to the party
-- Party buys 2 [[5. Mechanics/Items/Draft Horse|draft horses]] and a [[Wagon|wagon]] @ 15gp
-- Party gets to [[Van Richten's Tower]] 
-- They find the [[Tome Of Strahd (COS)]] 
-
-# Summary
-## New NPCs
-New NPC Met.
-- Example 1
-- Example 2
-
-## New Locations
-New Locations Discovered.
-- Example 1
-- Example 2
-
-## End of Session Notes
-Anything to take note of as the session has come to a close. 
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```
+```meta-bind-button
+label: Wrap this session
+icon: clipboard-copy
+style: primary
+id: wrap-session
+hidden: true
+actions:
+  - type: inlineJS
+    code: |-
+      const name = app.workspace.getActiveFile()?.basename ?? ''
+      await navigator.clipboard.writeText(`/wrap ${name}`)
+      new Notice(`Copied "/wrap ${name}": paste it into Claude Code to wrap this session`)
+```

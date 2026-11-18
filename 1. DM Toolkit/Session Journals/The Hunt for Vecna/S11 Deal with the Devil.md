@@ -13,98 +13,142 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
-campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
-prep-notes: "[[2023-12-31]]"
+party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+prep_notes: "[[2023-12-31]]"
 tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+  - "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
 fc-end: 973-2-16
 session_number: 11
-party_present: []
-npcs: []
+party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter (COS)]]"
 quests: []
 items: []
+factions: []
+wrapped: true
+publish: false
 ---
 > [!infobox]
-> ## Info
-> | | |
-> |---|---|
-> | **Campaign:** | `INPUT[suggester(optionQuery(#campaign)):campaign]` |
-> | **Session #:** | `INPUT[number:session_number]` |
-> | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
-> ## Fantasy Dates
-> | | |
-> |---|---|
-> | **Start Date:** | `INPUT[text:fc-date]`
-> | **End Date:** | `INPUT[text:fc-end]` |
-> | **Timelines:** | `INPUT[inlineList:timelines]` |
-> | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
-> ## Session Links
-> | | |
-> |---|---|
-> | **Party Present:** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
-> | **NPCs Met:** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
-> | **Quests Touched:** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
-> | **Items Found:** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
-# `=this.file.name`
+> ###### Prep
+>  |
+>  ---|---|
+> **Session #** | `INPUT[number:session_number]` |
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **Played on** | `INPUT[datePicker:date]` |
+> **Prep notes** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
+> **In-world start** | `INPUT[text:fc-date]` |
+> **In-world end** | `INPUT[text:fc-end]` |
+> **Timelines** | `INPUT[inlineList:timelines]` |
+> ###### Ledger
+>  |
+>  ---|---|
+> **Party present** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
+> **Spotlight** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'spotlight'})` |
+> **Locations** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
+> **NPCs met** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
+> **Quests touched** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
+> **Items** | `INPUT[inlineListSuggester(optionQuery(#story-item), optionQuery("5. Mechanics/Items")):items]` |
+> **Factions** | `INPUT[inlineListSuggester(optionQuery(#faction)):factions]` |
+`$=await dv.view('views/sessionNav', {current: dv.current()})`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
+```
+`BUTTON[wrap-session]`
+`$=await dv.view('views/sectionBar', {current: dv.current()})`
+
 ## Session Overview
 > [!div|no-t clean]
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Lady Fiona Wachter|Fiona Wachter]] serves Strahd
+- Fiona wants to lead Vallaki, believing the town needs a new direction away from the Vallakovichs
 
 ## Items Of Importance
-Description
+N/A
 
 ## What Happened
-Small description.
+- Investigating Fiona Wachter, the party finds a hidden cellar beneath her house full of occult paraphernalia
+- A trap summons skeletal warriors, and the party destroys them
+- The party confronts Fiona, who says Vallaki needs new leadership and openly admits her allegiance to Strahd
+- The party reluctantly agrees to let Fiona take power, judging it the lesser evil
+- The party prepares to leave Vallaki
 
 # `=this.file.name`
-## Session Prep:
-Things I need to get ready before the session:
-- [ ] **Example 1**
-      Description.
-    - [ ] Sub-Point 1
-- [ ] **Example 2**
-      Description.
-    - [ ] Sub-Point 2
+> [!dm]- Session prep (leftover)
+> ## Session Prep:
+> Things I need to get ready before the session:
+> - [ ] **Example 1**
+>       Description.
+>     - [ ] Sub-Point 1
+> - [ ] **Example 2**
+>       Description.
+>     - [ ] Sub-Point 2
+>
+> ## Plan
+> High story beats, main things I want to happen this session.
+> - [ ] Point 1
+>     - [ ] Sub Point 1
+> - [ ] Point 2
+>     - [ ] Sub Point 1
+>
+> # Session
+> ## Start
+> Intro, set the tone.
+>
+> ## Loot, Rewards & Purchases
+> Loot, rewards and purchases.
+> - [ ] Thing 1
+> - [ ] Thing 2
+>
+> ## Keep in Mind
+> Things to keep in mind during the session, from items to important details
+>
+> ## Events
+> What transpired over the course of the session? Update this during the session!
+>
+> # Summary
+> ## New NPCs
+> New NPC Met.
+> - Example 1
+> - Example 2
+>
+> ## New Locations
+> New Locations Discovered.
+> - Example 1
+> - Example 2
+>
+> ## End of Session Notes
+> Anything to take note of as the session has come to a close.
 
-## Plan
-High story beats, main things I want to happen this session.
-- [ ] Point 1
-    - [ ] Sub Point 1
-- [ ] Point 2
-    - [ ] Sub Point 1
-
-# Session
-## Start
-Intro, set the tone.
-
-## Loot, Rewards & Purchases
-Loot, rewards and purchases.
-- [ ] Thing 1
-- [ ] Thing 2
-
-## Keep in Mind
-Things to keep in mind during the session, from items to important details
-
-## Events
-What transpired over the course of the session? Update this during the session!
-
-# Summary
-## New NPCs
-New NPC Met.
-- Example 1
-- Example 2
-
-## New Locations
-New Locations Discovered.
-- Example 1
-- Example 2
-
-## End of Session Notes
-Anything to take note of as the session has come to a close.
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```
+```meta-bind-button
+label: Wrap this session
+icon: clipboard-copy
+style: primary
+id: wrap-session
+hidden: true
+actions:
+  - type: inlineJS
+    code: |-
+      const name = app.workspace.getActiveFile()?.basename ?? ''
+      await navigator.clipboard.writeText(`/wrap ${name}`)
+      new Notice(`Copied "/wrap ${name}": paste it into Claude Code to wrap this session`)
+```

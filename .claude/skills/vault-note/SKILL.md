@@ -11,7 +11,7 @@ CLAUDE.md holds the rules that bind all work. This skill holds the mechanics of 
 
 1. **Links.** Internal links are wikilinks, never markdown links. In frontmatter use the full path with `.md` and an alias, quoted: `"[[4. World Almanac/NPCs/Anselm Corrow.md|Anselm Corrow]]"`. In body prose `[[Anselm Corrow]]` is fine. External URLs use `[text](https://…)`.
 2. **Folder and tags.** Place the note and tag it per `references/folders-tags.md`. A wrong tag silently removes the note from every query. Location-type notes carry their type tag plus `location`.
-3. **First key** is `obsidianUIMode: preview`.
+3. **First key** is `obsidianUIMode: preview`. **Field names are snake_case** (`party_relationships`, `prep_notes`). Exempt: plugin keys (`tags`, `aliases`, `cssclasses`, `obsidianUIMode`, `obsidianEditingMode`, `fc-*`, `aat-render-enabled`); map keys that are values (party names, rarities, shop type names); `5. Mechanics/` and `6. Resources/`; parameters inside `leaflet` blocks and Modal Forms definitions. The lint rule `key-case` checks it.
 4. **Start from the template's shape.** Copy the body scaffold from the Templater template in `z_Templates/Templater/` (or from a sibling note of the same type). The scaffold is how the note renders in Obsidian; do not invent body layouts.
 5. **Text lives in frontmatter** for NPCs, quests, and factions. The body is inputs and views bound to those fields.
 6. **Never write these without an approved proposal line from the DM:** `revealed`, `reveal`, `public_name`, `summary`, any `learned` value, `locked`, a `## Public` section, or anything in a journal with `wrapped: true`. Propose; write after a yes.
@@ -22,11 +22,18 @@ CLAUDE.md holds the rules that bind all work. This skill holds the mechanics of 
 | Working on | Read |
 |---|---|
 | Where a note goes, which tags | `references/folders-tags.md` |
-| `gist`, `summary`, `facts`, `revealed`, `reveal`, `secrets`, what is player-facing | `references/knowledge-model.md` |
+| `gist`, `summary`, `facts`, `revealed`, `reveal`, DM Notes, what is player-facing | `references/knowledge-model.md` |
 | `relationships`, factions, deities, routes, who owns which link | `references/relationships.md` |
 | NPC, location, shop, world, faction, item, deity | `references/entity-schemas.md` |
 | Quest/arc, journal, prep, campaign, party, player | `references/campaign-schemas.md` |
 | Editing a Templater template or the `monster.txt` mirror | `references/templates.md` |
+
+## Values and fields
+
+- **Option values come from `Configuration.enums`** (`condition`, `status`, `standing`, `kind`, `alignment`, …), or a top-level Configuration list of `{name}` (`settlement_wealth`). `climate` comes from the weather climates (Weather Generation's frontmatter). A value not in its list is proposed as an enum addition, never written. The lint rule `enum-value` checks it.
+- **`Configuration.note_fields`** is each type's editable field list; template inputs, header chips, Edit all, and Bases edit views render from it. Adding a field means a schema entry in `references/` and a `note_fields` entry, both approved.
+- **Party location is derived** from the active PCs' `location`. Never write `location` on a party note; propose PC `location` changes.
+- **Sentence edits.** A one-line DM instruction ("Velmont is captured, now at the Cinderworks") becomes a numbered edit proposal, one field per line (`condition: captured`; `location: "[[…Cinderworks.md|Cinderworks]]"`), with values from the enums. Write each accepted line. Knowledge fields (rule 6) still need their own accepted line.
 
 ## Creating a note
 

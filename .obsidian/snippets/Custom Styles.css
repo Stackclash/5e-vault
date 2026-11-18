@@ -201,3 +201,134 @@
   opacity: 70%;
   background-color: whitesmoke;
 }
+/* ===== Note layout (migration C8, 04 Expansion §2) ===== */
+
+/* Player-facing vs DM-only callouts */
+.callout[data-callout="player"] {
+  --callout-color: var(--color-green-rgb, 46, 160, 67);
+  --callout-icon: lucide-eye;
+  border-left: 4px solid rgb(var(--callout-color));
+  background-color: rgba(var(--callout-color), 0.08);
+}
+.callout[data-callout="dm"] {
+  --callout-color: var(--color-red-rgb, 207, 34, 46);
+  --callout-icon: lucide-eye-off;
+  border-left: 4px solid rgb(var(--callout-color));
+  background-color: rgba(var(--callout-color), 0.08);
+}
+
+/* Editable cue: Meta Bind inputs in reading view */
+.markdown-reading-view .mb-input {
+  text-decoration: underline dotted var(--text-faint);
+  text-underline-offset: 3px;
+}
+
+
+/* Shared header */
+.entity-header .entity-breadcrumb { color: var(--text-muted); font-size: var(--font-ui-small); }
+.entity-header .entity-name { margin: 0.2em 0 0; }
+.entity-header .entity-pronounced { color: var(--text-muted); font-style: italic; }
+.entity-header .entity-chips { display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center; margin: 0.4em 0; }
+.entity-chip {
+  display: inline-flex; align-items: center; gap: 0.35em;
+  padding: 0.1em 0.5em;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 999px;
+  background-color: var(--background-secondary);
+}
+.entity-chip-label { color: var(--text-muted); font-size: var(--font-ui-smaller); }
+.knowledge-badge { padding: 0.1em 0.6em; border-radius: 999px; font-size: var(--font-ui-smaller); }
+.knowledge-badge.is-revealed { background-color: rgba(var(--color-green-rgb, 46, 160, 67), 0.15); color: var(--text-normal); }
+.knowledge-badge.is-hidden { background-color: var(--background-modifier-hover); color: var(--text-faint); }
+
+/* Gist strip */
+.callout[data-callout="gist"] { --callout-color: var(--color-accent-rgb, 120, 120, 120); margin: 0.4em 0 0.8em; }
+.callout[data-callout="gist"] > .callout-title { display: none; }
+.entity-chip-clear {
+  padding: 0 0.35em;
+  height: auto;
+  line-height: 1.2;
+  background: transparent;
+  box-shadow: none;
+  color: var(--text-faint);
+}
+.entity-chip-clear:hover { color: var(--text-error); }
+
+/* Header inputs that should read as text until edited */
+.entity-header .entity-chip-pronounced input,
+.entity-header .entity-gist input {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+.entity-header .entity-chip-pronounced input { font-style: italic; width: 12ch; }
+.entity-header .entity-gist {
+  margin: 0.3em 0 0.8em;
+  padding: 0.35em 0.75em;
+  border-left: 3px solid var(--interactive-accent);
+  background-color: var(--background-secondary);
+  border-radius: 4px;
+}
+.entity-header .entity-gist .mb-input, .entity-header .entity-gist input { width: 100%; font-size: var(--font-text-size); }
+.entity-header .entity-edit-all { margin-left: auto; }
+
+/* Let the tab bar and tab box sit beside a floated infobox instead of below it */
+.markdown-rendered .block-language-meta-bind:has(.mb-input-type-select.tabbed),
+.markdown-rendered .callout[data-callout="tabbed-box"] {
+  width: auto;
+  clear: none;
+  overflow: hidden;
+}
+
+/* Prose notes: section bar and session navigation */
+.section-bar, .session-nav { color: var(--text-muted); font-size: var(--font-ui-small); margin: 0.2em 0 0.8em; }
+
+/* Tabs 9 and 10: the TabsInObsidian snippet stops at 8. Generated from every selector form it uses for tab 8
+   (reading view, Live Preview, and the .el-div wrapper). */
+:has(.tabbed.mb-input-type-select > :nth-child(9).is-selected) + .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(9),
+:has(.tabbed.mb-input-type-select > :nth-child(9).is-selected) + .cm-callout > * > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(9),
+:has(.tabbed.mb-input-type-select > :nth-child(9).is-selected) + .el-div > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(9),
+:has(.tabbed.mb-input-type-select > :nth-child(10).is-selected) + .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(10),
+:has(.tabbed.mb-input-type-select > :nth-child(10).is-selected) + .cm-callout > * > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(10),
+:has(.tabbed.mb-input-type-select > :nth-child(10).is-selected) + .el-div > .callout[data-callout="tabbed-box"] > .callout-content > :nth-child(10) {
+  display: block;
+}
+
+/* [!tabs]: the tab bar lives inside the tab box. Reading view unloads blocks that are far off-screen, and a
+   tab bar in its own block above [!tabbed-box] was unloaded while a long panel was read, hiding every panel
+   (2026-11-17). Panels are the box's direct child callouts; the first shows until a tab is picked. */
+.markdown-rendered .callout[data-callout="tabs"] { width: auto; clear: none; overflow: hidden; }
+:root:root .callout[data-callout="tabs"] {
+  --callout-content-padding: 0;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  mix-blend-mode: normal;
+}
+.callout[data-callout="tabs"] > .callout-title { display: none; }
+.callout[data-callout="tabs"] > .callout-content { padding: 0; }
+.callout[data-callout="tabs"] > .callout-content > .block-language-meta-bind { margin: 0; }
+.callout[data-callout="tabs"] > .callout-content > .callout {
+  display: none;
+  margin: 0;
+  border: var(--mb-border-width, 1px) solid var(--background-modifier-border);
+  border-top: none;
+  border-radius: 0 0 5px 5px;
+}
+.callout[data-callout="tabs"]:not(:has(.tabbed.mb-input-type-select > .is-selected)) > .callout-content > .callout:nth-child(1 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(1).is-selected) > .callout-content > .callout:nth-child(1 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(2).is-selected) > .callout-content > .callout:nth-child(2 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(3).is-selected) > .callout-content > .callout:nth-child(3 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(4).is-selected) > .callout-content > .callout:nth-child(4 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(5).is-selected) > .callout-content > .callout:nth-child(5 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(6).is-selected) > .callout-content > .callout:nth-child(6 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(7).is-selected) > .callout-content > .callout:nth-child(7 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(8).is-selected) > .callout-content > .callout:nth-child(8 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(9).is-selected) > .callout-content > .callout:nth-child(9 of .callout),
+.callout[data-callout="tabs"]:has(.tabbed.mb-input-type-select > :nth-child(10).is-selected) > .callout-content > .callout:nth-child(10 of .callout) {
+  display: block;
+}
+
+/* Gist-strip callouts (e.g. the PC tagline): the input reads as a line of text */
+.callout[data-callout="gist"] input { background: transparent; border: none; box-shadow: none; width: 100%; }

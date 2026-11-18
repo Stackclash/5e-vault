@@ -1,0 +1,159 @@
+[
+ {
+  "source": "Strahd Von Zarovich (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+ },
+ {
+  "source": "Strahd Von Zarovich (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]",
+  "replace": "member"
+ },
+ {
+  "source": "Rahadin (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Rahadin (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]",
+  "note": "chamberlain"
+ },
+ {
+  "source": "Izek Strazni (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/Vecna.md|Vecna]]"
+ },
+ {
+  "source": "Izek Strazni (COS)",
+  "type": "sister",
+  "target": "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana]]",
+  "note": "both know"
+ },
+ {
+  "source": "Izek Strazni (COS)",
+  "type": "employer",
+  "target": "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]",
+  "note": "former; the Baron pardoned him and took him in"
+ },
+ {
+  "source": "Gadof Blinsky (COS)",
+  "type": "client",
+  "target": "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni]]",
+  "note": "forced to carve dolls of Ireena"
+ },
+ {
+  "source": "Ireena Kolyana (COS)",
+  "type": "brother",
+  "target": "[[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md|Ismark Kolyanovich]]",
+  "note": "adoptive"
+ },
+ {
+  "source": "Ireena Kolyana (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Ismark Kolyanovich (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Madam Eva (COS)",
+  "type": "brother",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]",
+  "note": "half-brother; he doesn't know"
+ },
+ {
+  "source": "Madam Eva (COS)",
+  "type": "worships",
+  "target": "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]",
+  "note": "pact: her youth for foresight"
+ },
+ {
+  "source": "Madam Eva (COS)",
+  "type": "member",
+  "target": "[[4. World Almanac/Factions/Vistani.md|Vistani]]",
+  "note": "lives among them; not truly one"
+ },
+ {
+  "source": "Ezmerelda Davenir (COS)",
+  "type": "mentor",
+  "target": "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]",
+  "note": "van Richten's former protégé"
+ },
+ {
+  "source": "Ezmerelda Davenir (COS)",
+  "type": "member",
+  "target": "[[4. World Almanac/Factions/Vistani.md|Vistani]]",
+  "note": "by birth; ran away at fifteen"
+ },
+ {
+  "source": "Ezmerelda Davenir (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Rictavio (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Rictavio (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
+ },
+ {
+  "source": "Rictavio (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/Factions/Vistani.md|Vistani]]",
+  "note": "blames them for Erasmus"
+ },
+ {
+  "source": "Baba Lysaga (COS)",
+  "type": "son",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]",
+  "note": "believes herself his true mother; she was his midwife"
+ },
+ {
+  "source": "Baba Lysaga (COS)",
+  "type": "worships",
+  "target": "[[4. World Almanac/Deities/Mother Night.md|Mother Night]]"
+ },
+ {
+  "source": "Baba Lysaga (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]"
+ },
+ {
+  "source": "Baba Lysaga (COS)",
+  "type": "enemy",
+  "target": "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]",
+  "note": "avenging Strahd"
+ },
+ {
+  "source": "Kasimir Velikov (COS)",
+  "type": "sister",
+  "target": "[[4. World Almanac/NPCs/Patrina Velikovna (COS).md|Patrina Velikovna]]"
+ },
+ {
+  "source": "Kasimir Velikov (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]",
+  "note": "watcher"
+ },
+ {
+  "source": "Izek Strazni (COS)",
+  "type": "friend",
+  "target": "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]",
+  "note": "she flirted with him in Vallaki (S9)"
+ },
+ {
+  "source": "Strahd Von Zarovich (COS)",
+  "type": "lover",
+  "target": "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana]]",
+  "note": "obsession: Tatyana reborn"
+ }
+]

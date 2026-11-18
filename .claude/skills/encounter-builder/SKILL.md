@@ -7,8 +7,8 @@ description: Build and balance D&D 5e encounters for the current party — comba
 
 ## Before building
 
-1. **The party, from frontmatter.** Resolve the active campaign's `party`, then read `3. The Party/Players/*.md` where `active: true` and `party` links to it: `level`, `classes`, `ac`, `hp`. If it looks stale or empty, ask.
-2. **The site.** Read the location note: terrain, who is present, what already happened there. Honor an encounter brief's constraints and payload.
+1. **The party, from frontmatter.** Level from the latest journal's `party_level`. Then resolve the active campaign's `party` and read `3. The Party/Players/*.md` where `active: true` and `party` links to it: `classes`, `ac`, `hp`, and `level` as the fallback. If it looks stale or empty, ask.
+2. **The site.** Read the location note: terrain, `hazards`, who is present, what already happened there. Honor an encounter brief's constraints and payload.
 3. The campaign note sets tone and lethality.
 
 ## Balancing method
@@ -39,8 +39,9 @@ Combat encounters in a vault note get an Initiative Tracker `encounter` block; s
 ## Treasure
 
 - **Published items:** search `5. Mechanics/Items/` by `rarity`, `tier`, `attunement`. Rough fit: uncommon in tiers 1–2, rare from 5th, very rare from 11th, legendary from 17th.
-- **Check what the party holds:** story-item notes with a `holder`, then player `inventory`. Inventory lags play, so confirm picks with the DM before finalizing.
-- **Custom or story-significant items** get a story-item note (via `world-builder` and `vault-note`): state rarity and attunement, benchmark against the closest published item, keep bonuses inside bounded accuracy, one memorable property, abuse cases in `secrets`.
+- **Check what the party holds:** story-item notes with a `holder` (and their `charges`), then player `inventory`. Inventory lags play, so confirm picks with the DM before finalizing.
+- **Where treasure goes:** a story item, a PC's inventory, or the party's `funds` for coin.
+- **Custom or story-significant items** get a story-item note (via `world-builder` and `vault-note`): state rarity and attunement, benchmark against the closest published item, keep bonuses inside bounded accuracy, one memorable property, abuse cases under `## DM Notes`.
 - Tie items to the world: who made it, who wants it back.
 
 ## Social and puzzle encounters

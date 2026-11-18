@@ -1,0 +1,68 @@
+[
+ {
+  "source": "Emil Toranescu (COS)",
+  "type": "imprisoned-at",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]",
+  "note": "South Dungeon"
+ },
+ {
+  "source": "Emil Toranescu (COS)",
+  "type": "rival",
+  "target": "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]]"
+ },
+ {
+  "source": "Zuleika Toranescu (COS)",
+  "type": "husband",
+  "target": "[[4. World Almanac/NPCs/Emil Toranescu (COS).md|Emil Toranescu]]",
+  "note": "mate"
+ },
+ {
+  "source": "Zuleika Toranescu (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich]]"
+ },
+ {
+  "source": "Kiril Stoyanovich (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]",
+  "replace": "member"
+ },
+ {
+  "source": "Kiril Stoyanovich (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Rosavalda Rose Durst (COS)",
+  "type": "brother",
+  "target": "[[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md|Thornboldt Thorn Durst]]"
+ },
+ {
+  "source": "Rosavalda Rose Durst (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Death House.md|Death House]]",
+  "note": "her ghost lingers there"
+ },
+ {
+  "source": "Thornboldt Thorn Durst (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Death House.md|Death House]]",
+  "note": "his ghost lingers there"
+ },
+ {
+  "source": "Szoldar Szoldarovich (COS)",
+  "type": "friend",
+  "target": "[[4. World Almanac/NPCs/Yevgeni Krushkin (COS).md|Yevgeni Krushkin]]"
+ },
+ {
+  "source": "Milivoj (COS)",
+  "type": "employer",
+  "target": "[[4. World Almanac/NPCs/Henrik Van Der Voort (COS).md|Henrik Van Der Voort]]",
+  "note": "paid him to steal St. Andral's bones"
+ },
+ {
+  "source": "Parriwimple (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Shops/Bildrath's Mercantile.md|Bildrath's Mercantile]]"
+ }
+]

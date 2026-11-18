@@ -1,25 +1,22 @@
 <%*
 let templateError = false
-let title = null
-let selectedWorld = null
+let data = {}
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
-  const { dataview, modalForm, config } = init.getPlugins(tp, ['quests', 'worlds'])
-
-  const data = await init.openForm(modalForm, {
-    title: 'Quest Setup',
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['quests'])
+  const campaign = dataview.page(config.active_campaign?.path ?? '')
+  data = await init.openForm(modalForm, {
+    title: "Quest Setup",
     fields: [
-      fields.name('Quest Name', 'What is the name of the Quest?'),
-      fields.folderSelect(dataview, 'world', 'World', config.locations.worlds, 'What World is this Quest for?'),
-    ]
+      fields.name("Quest Name", "What is the name of the quest?"),
+      fields.text("gist", "Gist", "One line: who or what this is and why it matters"),
+      fields.tagSelect(dataview, "parent", "Arc", '#quest', "The arc this belongs to (optional)", false)
+    ],
+    version: "2"
   })
-
-  title = data.name
-  selectedWorld = dataview.page(data.world)
-
-  await init.moveFile(tp, config.locations.quests, title)
-
+  data.world = campaign?.world ? `[[${campaign.world.path}|${dataview.page(campaign.world.path)?.file.name ?? ''}]]` : ''
+  await init.moveFile(tp, config.locations.quests, data.name)
 } catch (e) {
   templateError = e.message
   console.error(e)
@@ -29,111 +26,59 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
+kind: quest
+parent: <% JSON.stringify(data.parent ?? "") %>
+world: <% JSON.stringify(data.world ?? "") %>
 active: {}
 completed: {}
-world: "<% selectedWorld.file.link %>"
+gist: <% JSON.stringify(data.gist ?? "") %>
+summary: ""
+revealed: {}
+facts: []
 description: ""
-player_summary: ""
-steps: []
+stakes: ""
+reward: ""
+deadline: ""
+giver: ""
 npcs: []
+locations: []
+items: []
+factions: []
+pcs: []
+steps: []
 tags:
   - quest
 ---
-> [!infobox|n-th]
-> | | |
-> |---|---|
-> | **Completed:** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['completed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
-> | **Active** | `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['active', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
-# **`=this.file.name`**
+> [!infobox]
+> ```dataviewjs
+> await dv.view('views/imageCarousel', {current: dv.current()})
+> ```
+> ```meta-bind
+> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
+> ```
+> ###### Hook
+>  |
+>  ---|---|
+> **Kind** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'kind'})` |
+> **Arc** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'parent'})` |
+> **Giver** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'giver'})` |
+> **Reward** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'reward'})` |
 
-## Player Summary
-> [!div|no-t clean]
-> `INPUT[textArea:player_summary]`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
-## Description
-`INPUT[textArea:description]`
+<% tp.file.include("[[z_Templates/Partials/Tabs - Quest]]") %>
 
-## Quest Hooks
-- 
-
-## Related NPCs
 ```meta-bind-button
-label: Add NPC
-id: add-npc
-style: primary
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
 actions:
   - type: js
-    file: z_Scripts/Meta Bind/addItem.js
-    args:
-      field: npcs
-```
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const columns = [
-    {
-      id: 'NPC',
-      width: '15%',
-      value: ({i}) => `\`INPUT[suggester(optionQuery(#npc)):npcs[${i}].name]\``
-    },
-    {
-      id: 'Description/Quest Hook',
-      value: ({i}) => `\`INPUT[textArea:npcs[${i}].description]\``
-    },
-    {
-      id: 'Delete',
-      width: 'minimum',
-      value: ({i}) => `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: npcs\n      index: ${i}\n\`\`\``
-    }
-  ]
-
-  return <dc.Table rows={currentPage.value('npcs').map((s,i) => ({...s, i}))} columns={columns}/>
-}
-```
-
-## Quest Steps
-```meta-bind-button
-label: Add Step
-id: add-step
-style: primary
-actions:
-  - type: js
-    file: z_Scripts/Meta Bind/addItem.js
-    args:
-      field: steps
-```
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const columns = [
-    {
-      id: 'Complete',
-      width: 'minimum',
-      value: ({i}) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['steps', ${i}, 'completed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})\`` 
-    },
-    {
-      id: 'Description',
-      value: ({i}) => `\`INPUT[textArea:steps[${i}].text]\``
-    },
-    {
-      id: 'Move Up',
-      width: 'minimum',
-      value: ({i}) => `\`\`\`meta-bind-button\nicon: move-up\ntooltip: Move Up?\nid: move-up\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/moveUp.js\n    args:\n      field: steps\n      index: ${i}\n\`\`\``
-    },
-    {
-      id: 'Move Down',
-      width: 'minimum',
-      value: ({i}) => `\`\`\`meta-bind-button\nicon: move-down\ntooltip: Move Down\nid: move-down\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/moveDown.js\n    args:\n      field: steps\n      index: ${i}\n\`\`\``
-    },
-    {
-      id: 'Delete',
-      width: 'minimum',
-      value: ({i}) => `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: steps\n      index: ${i}\n\`\`\``
-    }
-  ]
-
-  return <dc.Table rows={currentPage.value('steps').map((s,i) => ({...s, i}))} columns={columns}/>
-}
+    file: z_Scripts/Meta Bind/editAll.js
 ```
 <%* } else { -%>
 

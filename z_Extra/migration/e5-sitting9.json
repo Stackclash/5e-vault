@@ -1,0 +1,75 @@
+[
+ {
+  "source": "Baba Lysagas Creeping Hut (COS)",
+  "type": "master",
+  "target": "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga]]"
+ },
+ {
+  "source": "Baba Lysagas Creeping Hut (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]",
+  "note": "inert since the gem was torn out"
+ },
+ {
+  "source": "Exethanter (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]",
+  "note": "self-appointed keeper"
+ },
+ {
+  "source": "Exethanter (COS)",
+  "type": "client",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]",
+  "note": "shared the temple's secrets with him"
+ },
+ {
+  "source": "Helga Ruvak (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Helga Ruvak (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]",
+  "note": "guest quarters; maid cover"
+ },
+ {
+  "source": "Henrik Van Der Voort (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]]"
+ },
+ {
+  "source": "Lief Lipsiege (COS)",
+  "type": "imprisoned-at",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]",
+  "note": "chained in the records room"
+ },
+ {
+  "source": "Lief Lipsiege (COS)",
+  "type": "employer",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Piccolo (COS)",
+  "type": "master",
+  "target": "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]",
+  "note": "former"
+ },
+ {
+  "source": "Sangzor (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]"
+ },
+ {
+  "source": "The Mad Mage Of Mount Baratok (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/Circle of Eight.md|Circle of Eight]]",
+  "note": "former leader",
+  "replace": "member"
+ },
+ {
+  "source": "The Mad Mage Of Mount Baratok (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ }
+]

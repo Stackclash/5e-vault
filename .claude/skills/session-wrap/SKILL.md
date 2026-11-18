@@ -17,7 +17,7 @@ Turn what happened into canon, with the DM approving every line. Draft first, wr
 
 Deliver everything below in a single reply, every line numbered, so it can be answered in one pass.
 
-1. **Journal draft.** Title, `summary` (player-facing, read aloud, zero DM-only content), body sections, `date`, `fc-date`, `fc-end`, `prep-notes`. Put what you cannot know in a short question list; never guess dates.
+1. **Journal draft.** Title, `summary` (player-facing, read aloud, zero DM-only content), body sections in the template's layout (recap, what happened; `## Errata` only after wrap), `date`, `fc-date`, `fc-end`, `prep_notes`, `party_level`, and `spotlight` (PCs who drove the session, each with an evidence line; every one must be in `party_present`). Put what you cannot know in a short question list; never guess dates.
 2. **Ledger.** `party_present`, `locations`, `npcs`, `quests`, `items`, `factions`, each entry with the note line it came from.
 3. **New entities.** Names with no note: create (which type), alias to an existing note, or skip. Nameless one-off characters are skipped by default and stay in the journal.
 4. **Reveals.**
@@ -25,7 +25,7 @@ Deliver everything below in a single reply, every line numbered, so it can be an
    - Prepped facts that landed: match the prep note's secrets and clues against the notes; list each as learned or not.
    - New facts, worded for players.
    - Relationship edges the party learned.
-5. **State changes.** NPC `condition`, `location`, `partyRelationships`; quest `active`/`completed`; story-item `holder`; faction `status` and `clock`.
+5. **State changes**, values from `Configuration.enums`: NPC `condition` (including captured, missing, unknown), `location`, `party_relationships`; location `status`; quest `active`/`completed`; story-item `holder` and `charges`; faction `standing`, `renown`, `status`, and `clock`; party `funds` when loot is banked. The party's whereabouts are proposed as PC `location` changes, never as a party field.
 6. **Improvised canon.** Each line of the live-session log: where it will be filed, or why not.
 7. **Contradictions.** Anything in the notes that conflicts with canon, with both sources. Never resolved here.
 

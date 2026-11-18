@@ -1,0 +1,27 @@
+filters:
+  and:
+    - file.hasTag("shop")
+    - '!file.inFolder("5. Mechanics")'
+    - '!file.inFolder("z_Templates")'
+properties:
+  note.type:
+    displayName: Shop type
+  note.size:
+    displayName: Shop size
+views:
+  - type: table
+    name: Edit
+    order:
+      - file.name
+      - status
+      - gist
+      - location
+      - type
+      - size
+      - cost_modifier
+      - buy_rate
+    sort:
+      - property: location
+        direction: ASC
+      - property: file.name
+        direction: ASC

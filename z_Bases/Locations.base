@@ -39,3 +39,28 @@ views:
     filters:
       and:
         - formula.type == ["world"]
+  - type: table
+    name: Edit
+    filters:
+      and:
+        - or:
+            - file.hasTag("region")
+            - file.hasTag("settlement")
+            - file.hasTag("place-of-interest")
+        - '!file.inFolder("5. Mechanics")'
+        - '!file.inFolder("z_Templates")'
+    order:
+      - file.name
+      - formula.type
+      - status
+      - gist
+      - location
+      - population
+      - terrain
+      - climate
+      - wealth
+    sort:
+      - property: location
+        direction: ASC
+      - property: file.name
+        direction: ASC

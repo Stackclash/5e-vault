@@ -12,7 +12,8 @@ const SCAN_DIRS = ['1. DM Toolkit/Campaigns', '1. DM Toolkit/Session Journals', 
 const FLAT_LINK_FIELDS = { // field -> edge type
   location: 'location', owners: 'owner', staff: 'staff', rulers: 'ruler', holder: 'holder',
   giver: 'quest-giver', locations: 'quest-location', items: 'quest-item', factions: 'quest-faction',
-  pcs: 'quest-pc', parent: 'parent', party: 'party', world: 'world', base_item: 'base-item', mechanics: 'mechanics',
+  pcs: 'quest-pc', parent: 'parent', party: 'party', world: 'world', worlds: 'world', bases: 'base',
+  base_item: 'base-item', mechanics: 'mechanics',
 }
 const LEDGER = { party_present: 'present', locations: 'visited', npcs: 'met', quests: 'touched', items: 'found', factions: 'encountered' }
 
@@ -119,7 +120,7 @@ function load(rootArg) {
         counts: Object.fromEntries(Object.keys(LEDGER).map(k => [k, arr(fm[k]).length])) })
       if ('campaign' in fm) legacy(n, 'journal uses campaign: (should be party:)')
       for (const [field, type] of Object.entries(LEDGER)) for (const v of arr(fm[field])) edge(n, 'session-' + type, v, { field })
-      for (const v of linkTargets(fm['prep-notes'])) edge(n, 'prep', v, { field: 'prep-notes' })
+      for (const v of linkTargets(fm.prep_notes)) edge(n, 'prep', v, { field: 'prep_notes' })
       continue
     }
     if (n.type === 'session-prep') { for (const v of linkTargets(fm.journal)) edge(n, 'journal', v, { field: 'journal' }); continue }
@@ -127,6 +128,7 @@ function load(rootArg) {
     // ---- entity
     const summary = fm.summary ?? fm.player_impression ?? fm.player_summary ?? fm.public_premise ?? ''
     for (const k of ['player_impression', 'player_summary', 'public_premise']) if (k in fm) legacy(n, `${k}: (should be summary:)`)
+    if (typeof fm.secrets === 'string' && fm.secrets.trim()) legacy(n, 'secrets: (dropped: facts and ## DM Notes; batch F)')
     const revealed = learnedParties(fm.revealed)
     const status = n.type === 'npc' ? (fm.condition ?? '') : n.type === 'quest'
       ? (fm.completed && Object.values(fm.completed).some(Boolean) ? 'completed' : fm.active && Object.values(fm.active).some(Boolean) ? 'active' : 'inactive')

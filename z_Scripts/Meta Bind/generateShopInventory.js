@@ -1,5 +1,5 @@
 /**
- * Generates shop inventory based on shop_type, shop_size, and config settings.
+ * Generates shop inventory based on the shop note's type, size, and config settings.
  *
  * Reads shop_types and shop_sizes from the Configuration note frontmatter,
  * selects items from 5. Mechanics/Items that match the shop type's filter

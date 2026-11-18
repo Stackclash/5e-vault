@@ -111,26 +111,6 @@ Make rewards more interesting:
 - **Titles:** Knighthood, guild membership, noble title
 - **Story Hooks:** Cursed items, mysterious keys, incomplete ritual components
 
-## Useful Frontmatter Fields for Note Types
-
-### NPC Notes — Consider Adding
-- `motivation:` — What drives this NPC right now?
-- `secret:` — What are they hiding?
-- `voiceNotes:` — Accent, cadence, catchphrases
-- `lastInteraction:` — When did the party last meet them?
-
-### Location Notes — Consider Adding
-- `mood:` — The overall atmosphere (eerie, bustling, sacred)
-- `sounds:` — Ambient audio description
-- `hazards:` — Environmental dangers
-- `hiddenFeatures:` — Secrets the players haven't discovered
-
-### Session Journal — Consider Adding
-- `xpAwarded:` — Track experience per session
-- `goldSpent:` — Economic tracking
-- `decisionsToTrack:` — Key player choices with future consequences
-- `openThreads:` — Unresolved plot hooks from this session
-
 ## Resources
 - [[DM Screen]] — Rules quick-reference
 - [[1. DM Toolkit/Sound Board]] — Session music management

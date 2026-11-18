@@ -14,7 +14,7 @@ try {
       fields.tagSelect(dataview, "party", "Campaign Party", "#party"),
       fields.tagSelect(dataview, "world", "Campaign World", "#world")
     ],
-    version: "1"
+    version: "2"
   })
 
   await init.moveFile(tp, config.locations.campaigns, data.name)
@@ -28,22 +28,84 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-party: "<% data.party %>"
-world: "<% data.world %>"
-public_premise: ""
+party: <% JSON.stringify(data.party ?? "") %>
+world: <% JSON.stringify(data.world ?? "") %>
+status: planning
+level_range: ""
+summary: ""
+site_slug: ""
 tags:
   - campaign
 ---
-> [!infobox|n-th]
-> # Configuration
-> | | |
-> |---|---|
-> | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
-> | **World:** | `INPUT[suggester(optionQuery(#world)):world]` |
+> [!infobox]
+> ###### Summary (player-safe)
+> `INPUT[textArea:summary]`
+> ###### Setup
+>  |
+>  ---|---|
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **World** | `INPUT[suggester(optionQuery(#world)):world]` |
+> **Status** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'status'})` |
+> **Level range** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'level_range'})` |
+> **Site slug** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'site_slug'})` |
+> ###### Now
+> `$=await dv.view('views/campaignNow', {current: dv.current()})`
 
-## Public Premise
-> [!div|no-t clean]
-> `INPUT[textArea:public_premise]`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
+```
+`$=await dv.view('views/sectionBar', {current: dv.current(), level: 1})`
+
+> [!dm] Lines & Veils
+> **Lines** (never in the game):
+> - 
+>
+> **Veils** (happens off-screen):
+> - 
+
+# Premise
+
+
+# Tone
+
+
+# Power Level
+
+
+# The Villain
+
+
+# Campaign Arc
+
+
+## Endings
+
+
+# Character Tie-Ins
+
+
+# Active Threads
+
+
+# Locked Canon
+
+
+# Timelines
+
+
+# Plan Changelog
+
+
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```
 <%* } else { -%>
 
 

@@ -24,17 +24,23 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   selectedParty = dataview.page(data.party)
 
-  // Journals are organized by campaign. Resolve the campaign that owns the selected party.
-  selectedCampaign = dataview.pages(`"${config.locations.campaigns}"`).find(c => c.party && c.party.path === selectedParty.file.path)
+  // Journals are organized by campaign. Resolve the campaign that owns the selected party,
+  // preferring the active campaign when a party has carried on into a new one.
+  const ownsParty = c => c.party && c.party.path === selectedParty.file.path
+  const activeCampaign = dataview.page(config.active_campaign?.path ?? "")
+  selectedCampaign = activeCampaign && ownsParty(activeCampaign) ? activeCampaign : dataview.pages(`"${config.locations.campaigns}"`).find(ownsParty)
   if (!selectedCampaign) {
     throw new Error(`No campaign found whose party is ${selectedParty.file.name}`)
   }
 
-  const journals = dataview.pages(`"${path.posix.join(config.locations.journals, selectedCampaign.file.name)}"`).sort(p => p.date, 'desc')
+  // Numbering is per campaign and party: a campaign rerun with a new party starts again at S0.
+  const journals = dataview.pages(`"${path.posix.join(config.locations.journals, selectedCampaign.file.name)}"`)
+    .where(j => j.party?.path === selectedParty.file.path && j.session_number != null)
+    .sort(j => Number(j.session_number), 'desc')
 
   if (journals.length > 0) {
     latestJournal = journals[0]
-    newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
+    newSessionNumber = Number(latestJournal.session_number) + 1
   }
 
   const sessionNotes = dataview.pages(`"${config.locations.preps}"`).filter(p => p.file.name === formattedDate)
@@ -61,58 +67,95 @@ try {
 obsidianUIMode: preview
 date: <% formattedDate %>
 session_number: <% newSessionNumber %>
-summary:
+party_level: <% latestJournal?.party_level ?? '""' %>
+summary: ""
 fc-date: <% latestJournal ? latestJournal['fc-end'] || latestJournal['fc-date'] : '' %>
 fc-end: 
 timelines: <% latestJournal ? `\n  - ${latestJournal.timelines[0]}` : '' %>
 aat-render-enabled: true
 fc-category: Session
 party: "<% selectedParty ? selectedParty.file.link : '' %>"
-prep-notes: "<% prepNote ? prepNote : '' %>"
+prep_notes: "<% prepNote ? prepNote : '' %>"
 party_present: []
+spotlight: []
 locations: []
 npcs: []
 quests: []
 items: []
+factions: []
+wrapped: false
+publish: false
 tags:
   - session-journal
 ---
 > [!infobox]
-> ## Info
-> | | |
-> |---|---|
-> | **Session #:** | `INPUT[number:session_number]` |
-> | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
-> | **Session Date:** | `INPUT[datePicker:date]` |
-> | **Prep Notes:** | `INPUT[suggester(optionQuery(#session-prep)):prep-notes]` |
-> ## Fantasy Dates
-> | | |
-> |---|---|
-> | **Start Date:** | `INPUT[text:fc-date]` |
-> | **End Date:** | `INPUT[text:fc-end]` |
-> | **Timelines:** | `INPUT[inlineList:timelines]` |
-> ## Session Links
-> | | |
-> |---|---|
-> | **Party Present:** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
-> | **Locations:** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
-> | **NPCs Met:** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
-> | **Quests Touched:** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
-> | **Items Found:** | `INPUT[inlineListSuggester(optionQuery("5. Mechanics/Items")):items]` |
-# `=this.file.name`
-## Session Overview
-> [!div|no-t clean]
+> ###### Prep
+>  |
+>  ---|---|
+> **Session #** | `INPUT[number:session_number]` |
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **Played on** | `INPUT[datePicker:date]` |
+> **Prep notes** | `INPUT[suggester(optionQuery(#session-prep)):prep_notes]` |
+> **In-world start** | `INPUT[text:fc-date]` |
+> **In-world end** | `INPUT[text:fc-end]` |
+> **Timelines** | `INPUT[inlineList:timelines]` |
+> ###### Ledger
+>  |
+>  ---|---|
+> **Party present** | `INPUT[inlineListSuggester(optionQuery(#player)):party_present]` |
+> **Spotlight** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'spotlight'})` |
+> **Locations** | `INPUT[inlineListSuggester(optionQuery(#location)):locations]` |
+> **NPCs met** | `INPUT[inlineListSuggester(optionQuery(#npc)):npcs]` |
+> **Quests touched** | `INPUT[inlineListSuggester(optionQuery(#quest)):quests]` |
+> **Items** | `INPUT[inlineListSuggester(optionQuery(#story-item), optionQuery("5. Mechanics/Items")):items]` |
+> **Factions** | `INPUT[inlineListSuggester(optionQuery(#faction)):factions]` |
+
+`$=await dv.view('views/sessionNav', {current: dv.current()})`
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
+```
+`BUTTON[wrap-session]`
+`$=await dv.view('views/sectionBar', {current: dv.current()})`
+
+## Recap
+> [!player] Recap (read aloud)
 > `INPUT[textArea:summary]`
+> **Publish to the site** `INPUT[toggle:publish]`
 
-## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
-
-## Items Of Importance
-Description
+## Learned this session
+```dataviewjs
+await dv.view('views/learnedThisSession', {current: dv.current()})
+```
 
 ## What Happened
-Small description.
+
+
+## Errata
+
+
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
+```
+```meta-bind-button
+label: Wrap this session
+icon: clipboard-copy
+style: primary
+id: wrap-session
+hidden: true
+actions:
+  - type: inlineJS
+    code: |-
+      const name = app.workspace.getActiveFile()?.basename ?? ''
+      await navigator.clipboard.writeText(`/wrap ${name}`)
+      new Notice(`Copied "/wrap ${name}": paste it into Claude Code to wrap this session`)
+```
 <%* } else { -%>
 
 

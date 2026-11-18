@@ -1,0 +1,50 @@
+{
+  "journals": {
+    "S6 Best Weapon against Vampires are Old Men": {
+      "remove": { "npcs": ["4. World Almanac/NPCs/Victor Vallakovich (COS).md", "4. World Almanac/NPCs/Lady Fiona Wachter (COS).md", "4. World Almanac/NPCs/Ireena Kolyana (COS).md", "4. World Almanac/NPCs/Izek Strazni (COS).md", "4. World Almanac/NPCs/Gertruda (COS).md", "4. World Almanac/NPCs/Rictavio (COS).md"] },
+      "add": { "npcs": ["4. World Almanac/NPCs/Henrik Van Der Voort (COS).md"], "locations": ["4. World Almanac/Places of Interest/Coffin Maker's Shop.md", "4. World Almanac/Places of Interest/St. Andral's Church.md"] },
+      "party": true, "body": "S6.md"
+    },
+    "S7 Making Friends with the Necromancer": {
+      "add": { "npcs": ["4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md", "4. World Almanac/NPCs/Victor Vallakovich (COS).md"], "factions": ["4. World Almanac/Factions/House Vallakovich.md"] },
+      "party": true, "body": "S7.md"
+    },
+    "S8 Meeting Strahd": {
+      "add": { "npcs": ["4. World Almanac/NPCs/Strahd Von Zarovich (COS).md", "4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md"], "locations": ["4. World Almanac/Places of Interest/St. Andral's Church.md"] },
+      "party": true, "body": "S8.md"
+    },
+    "S9 The Mob of Vallaki": {
+      "remove": { "npcs": ["4. World Almanac/NPCs/Victor Vallakovich (COS).md"] },
+      "add": { "npcs": ["4. World Almanac/NPCs/Lady Fiona Wachter (COS).md"], "locations": ["4. World Almanac/Places of Interest/St. Andral's Church.md"], "factions": ["4. World Almanac/Factions/House Vallakovich.md"] },
+      "party": true, "body": "S9.md"
+    },
+    "S10 Finding Victor": {
+      "remove": { "npcs": ["4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md", "4. World Almanac/NPCs/Gertruda (COS).md"] },
+      "dedupe": true,
+      "add": { "locations": ["4. World Almanac/Places of Interest/Coffin Maker's Shop.md"] },
+      "party": true, "body": "S10.md"
+    }
+  },
+  "entities": {
+    "4. World Almanac/NPCs/Henrik Van Der Voort (COS).md": { "summary": "Vallaki's coffin maker, who stole St. Andral's bones on Strahd's orders. Yevelda broke his leg throwing him at a vampire spawn.",
+      "edges": [{ "type": "patron", "target": "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md", "learned": "S6 Best Weapon against Vampires are Old Men" }] },
+    "4. World Almanac/NPCs/Milivoj (COS).md": { "summary": "A Vallaki man who, once persuaded, told the party where St. Andral's stolen bones had been taken." },
+    "4. World Almanac/Places of Interest/Coffin Maker's Shop.md": { "summary": "Henrik van der Voort's shop in Vallaki, where the party fought vampire spawn to recover St. Andral's bones. A teleportation stone later brought them back there from Castle Ravenloft." },
+    "4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md": { "summary": "Vallaki's burgomaster, who believes his festivals can free the town from Strahd. He proposed that Ireena marry his son Victor; the party later saved him and his wife from a mob.",
+      "edges": [{ "type": "leader", "target": "4. World Almanac/Factions/House Vallakovich.md", "learned": "S7 Making Friends with the Necromancer" },
+                { "type": "wife", "target": "4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md", "learned": "S9 The Mob of Vallaki" }] },
+    "4. World Almanac/NPCs/Victor Vallakovich (COS).md": { "summary": "Baron Vargas's son, a self-taught necromancer whom the party befriended. He went missing after the mob and turned up at Castle Ravenloft.",
+      "edges": [{ "type": "father", "target": "4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md", "learned": "S7 Making Friends with the Necromancer" },
+                { "type": "member", "target": "4. World Almanac/Factions/House Vallakovich.md", "learned": "S7 Making Friends with the Necromancer" }] },
+    "4. World Almanac/Factions/House Vallakovich.md": { "summary": "Vallaki's ruling family: Baron Vargas, his wife, and their son Victor." },
+    "4. World Almanac/NPCs/Lady Fiona Wachter (COS).md": { "summary": "A manipulative figure in Vallaki who stirred up the mob that tried to execute Baron Vargas and his wife.",
+      "edges": [{ "type": "rival", "target": "4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md", "learned": "S9 The Mob of Vallaki" }] },
+    "4. World Almanac/NPCs/Izek Strazni (COS).md": { "summary": "A man in Vallaki whom Yevelda flirted with on the night the mob gathered.",
+      "edges": [{ "type": "friend", "target": "3. The Party/Players/Yevelda Ovak.md", "learned": "S9 The Mob of Vallaki" }] },
+    "4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md": { "summary": "Baron Vargas's wife, whom the party saved from the Vallaki mob alongside her husband.", "public_name": "Lydia Petrovna" },
+    "4. World Almanac/NPCs/Mad Mary (COS).md": { "summary": "A distraught woman in the Village of Barovia who told the party that Gertruda had been missing for about a week." },
+    "4. World Almanac/NPCs/Gertruda (COS).md": { "summary": "A young woman of the Village of Barovia, missing for about a week, whom Victor had been visiting by teleportation.",
+      "edges": [{ "type": "lover", "target": "4. World Almanac/NPCs/Victor Vallakovich (COS).md", "learned": "S10 Finding Victor" }] },
+    "4. World Almanac/Places of Interest/Castle Ravenloft.md": { "summary": "Strahd's castle. A teleportation circle sent the party there by surprise, and they found Victor inside." }
+  }
+}

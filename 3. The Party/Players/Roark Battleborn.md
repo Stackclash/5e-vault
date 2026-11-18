@@ -11,7 +11,6 @@ proficiency: 4
 url: https://dndbeyond.com/characters/146541185
 image: https://www.dndbeyond.com/avatars/17/230/636377844267563561.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Human.md|Human]]"
-alignment: character.alignment
 description:
   gender:
   age:
@@ -51,12 +50,12 @@ background:
   organizations:
   allies:
   enemies:
-  notes: Sword's name Uthraad.
+  notes:
 classes:
   - name: "[[5. Mechanics/Classes/Barbarian.md|Barbarian]]"
-    subClass: "[[5. Mechanics/Classes/Barbarian Path Of The Berserker.md|Barbarian Path Of The Berserker]]"
+    subclass: "[[5. Mechanics/Classes/Barbarian Path Of The Berserker.md|Barbarian Path Of The Berserker]]"
     level: 10
-abilityScores:
+ability_scores:
   strength:
     value: 17
     modifier: 3
@@ -75,165 +74,165 @@ abilityScores:
   charisma:
     value: 11
     modifier: 0
-savingThrows:
+saving_throws:
   strength:
     value: 7
-    baseValue: 3
+    base_value: 3
     proficiency: true
   dexterity:
     value: 2
-    baseValue: 2
+    base_value: 2
     proficiency: false
   constitution:
     value: 7
-    baseValue: 3
+    base_value: 3
     proficiency: true
   intelligence:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
   wisdom:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
   charisma:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
   notes: []
 skills:
   acrobatics:
     value: 2
-    baseValue: 2
+    base_value: 2
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
-  animal-handling:
+  animal_handling:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   arcana:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   athletics:
     value: 7
-    baseValue: 3
+    base_value: 3
     proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
   deception:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   history:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   insight:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   intimidation:
     value: 4
-    baseValue: 0
+    base_value: 0
     proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
   investigation:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   medicine:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   nature:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   perception:
     value: 4
-    baseValue: 0
+    base_value: 0
     proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
   performance:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   persuasion:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   religion:
     value: 0
-    baseValue: 0
+    base_value: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
-  sleight-of-hand:
+  sleight_of_hand:
     value: 2
-    baseValue: 2
+    base_value: 2
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   stealth:
     value: 2
-    baseValue: 2
+    base_value: 2
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   survival:
     value: 4
-    baseValue: 0
+    base_value: 0
     proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
-racialTraits:
+racial_traits:
   - name: Languages
     description: You can speak, read, and write Common and one extra language.
   - name: Ability Score Increase
     description: Your ability scores each increase by 1.
-classFeatures:
+class_features:
   - name: Frenzy
     description: While raging, you can choose to frenzy. You can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion.
   - name: Mindless Rage
@@ -259,8 +258,8 @@ classFeatures:
 feats:
   - name: Hero's Journey Boon
     description: At your GM's discretion you have been granted a Hero's Journey Boon.
-raceSpells: []
-classSpells: []
+race_spells: []
+class_spells: []
 currencies:
   cp: 0
   sp: 0
@@ -273,11 +272,24 @@ tags:
   - player
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
+gist: ""
+summary: ""
+facts: []
+tagline: ""
+feat_spells: []
 ---
-`$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
+> [!infobox]
+> `$="[![Char Image](" + dv.current().image + ")](" + dv.current().url + ")"`
+> ###### Bio
+>  |
+>  ---|---|
+> **Level** | `$=dv.current().level` |
+> **Party** | `INPUT[suggester(optionQuery(#party)):party]` |
+> **Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
-> [!div|no-t clean]
-> `INPUT[text:tagline]`
+> [!gist]
+> `INPUT[text(placeholder(Tagline)):tagline]`
 ```meta-bind-button
 style: primary
 label: Update From DnD Beyond
@@ -291,258 +303,260 @@ actions:
       const dndBeyondId = app.metadataCache.getFileCache(activeFile).frontmatter.url.match(/\d+$/)[0]
       const character = new dndBeyondCharacter(dndBeyondId)
       await character.initialize()
-      const find_file = await self.require.import('z_Scripts/Templater/find_file.js')
-
-      app.fileManager.processFrontMatter(activeFile, async (fm) => {
-        fm.name = character.name
-        fm.level = character.level
-        fm.ac = character.armorClass
-        fm.hp = character.healthPoints.current
-        fm.modifier = character.initiative
-        fm.proficiency = character.proficiencyBonus
-        fm.url = character.url
-        fm.image = character.image
-        fm.race = `"${await find_file(character.race.fullName, '5. Mechanics/Races')}"`
-        fm.alignment = `"${character.alignment}"`
-        fm.description = character.description
-        fm.passives = character.passives
-        fm.proficiencies = character.proficiencies
-        fm.speed = character.speeds.walk
-        fm.defences = character.defences
-        fm.background = character.background
-        // FIXME: Classes is not updating
-        fm.classes = await Promise.all(character.classes.map(async (characterClass) => {
-          return {
-            name: await find_file(characterClass.name, '5. Mechanics/Classes'),
-            subClass: await find_file(characterClass.subClass, '5. Mechanics/Classes'),
-            level: characterClass.level
-          }
-        }))
-        fm.abilityScores = character.abilityScores
-        fm.savingThrows = character.savingThrows
-        fm.skills = character.skills
-        fm.racialTraits = character.racialTraits
-        fm.classFeatures = character.classFeatures
-        fm.feats = character.feats
-        fm.raceSpells = character.spells.race
-        fm.classSpells = await Promise.all(character.spells.class.map(async (classSpell) => {
-          return {
-            name: await find_file(classSpell, '5. Mechanics/Spells'),
-            level: classSpell.level,
-            isPrepared: classSpell.isPrepared
-          }
-        }))
-        fm.currencies = character.currencies
-        fm.inventory = await Promise.all(character.inventory.map(async (inv) => {
-          return {
-            name: await find_file(inv.name, '5. Mechanics/Items'),
-            type: inv.type,
-            rarity: inv.rarity,
-            quantity: inv.quantity,
-            canEquip: inv.canEquip,
-            equipped: inv.equipped,
-            canAttune: inv.canAttune,
-            attuned: inv.attuned,
-            damage: inv.damage,
-            damageType: inv.damageType,
-            armorClass: inv.armorClass
-          }
-        }))
+      const frontmatter = await character.generateFrontMatter()
+      await app.fileManager.processFrontMatter(activeFile, (fm) => {
+        for (const k of dndBeyondCharacter.LEGACY_KEYS) delete fm[k]
+        Object.assign(fm, frontmatter)
       })
+      new Notice(`Updated ${character.name} from D&D Beyond`)
 ```
 
-> [!infobox|n-th center wm-tl]
-> ### Status
-> |||||||
-> |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Party** | `INPUT[suggester(optionQuery(#party)):party]` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-
-> [!infobox|left clear n-th]
-> 
-> |||
-> |:---:|:---:|
-> | **Health Points** | `$=dv.current().hp` |
-> | **Armor Class** | `$=dv.current().ac` |
-> | **Initiative** | `$=dv.current().modifier` |
-> | **Speed** | `$=dv.current().speed` |
-
-> [!statblocks|columns]
-> 
->> [!blank]
->> ## Ability Scores
->> ||| Mod ||| Mod |
->> |:---:|:---:|:---:|:---:|:---:|:---:|
->> | **Strength** | `$=dv.current().abilityScores.strength.value` | `$=dv.current().abilityScores.strength.modifier` | **Intelligence** | `$=dv.current().abilityScores.intelligence.value` | `$=dv.current().abilityScores.intelligence.modifier` |
->> | **Dexterity** | `$=dv.current().abilityScores.dexterity.value` | `$=dv.current().abilityScores.dexterity.modifier` | **Wisdom** | `$=dv.current().abilityScores.wisdom.value` | `$=dv.current().abilityScores.wisdom.modifier` |
->> | **Constitution** | `$=dv.current().abilityScores.constitution.value` | `$=dv.current().abilityScores.constitution.modifier` | **Charisma** | `$=dv.current().abilityScores.charisma.value` | `$=dv.current().abilityScores.charisma.modifier` |
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(Sheet), option(Skills), option(Features), option(Class Features), option(Spells), option(Inventory), option(Story), option(Player-Facing), option(DM)):memory^tab]
+> ```
 >
->> [!blank]
->> ## Saving Throws
->> || Prof ||| Prof ||
->> |:---:|:---:|:---:|:---:|:---:|:---:|
->> | **Strength** | `$=dv.current().savingThrows.strength.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.strength.value` | **Intelligence** | `$=dv.current().savingThrows.intelligence.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.intelligence.value` |
->> | **Dexterity** | `$=dv.current().savingThrows.dexterity.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.dexterity.value` | **Wisdom** | `$=dv.current().savingThrows.wisdom.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.wisdom.value` |
->> | **Constitution** | `$=dv.current().savingThrows.constitution.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.constitution.value` | **Charisma** | `$=dv.current().savingThrows.charisma.proficiency ? '✅' : '❌'` | `$=dv.current().savingThrows.charisma.value` |
->> **Notes**: `$=dv.current().savingThrows.notes`
+> > [!tab|no-t] Sheet
+> > > [!infobox|n-th center wm-tl]
+> > > ### Status
+> > > |||||||
+> > > |:---:|:---:|:---:|:---:|:---:|:---:|
+> > > | **Party** | `INPUT[suggester(optionQuery(#party)):party]` | **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` | **Location** | `INPUT[suggester(optionQuery(#location)):location]` |
+> >
+> > > [!infobox|left clear n-th]
+> > > 
+> > > |||
+> > > |:---:|:---:|
+> > > | **Health Points** | `$=dv.current().hp` |
+> > > | **Armor Class** | `$=dv.current().ac` |
+> > > | **Initiative** | `$=dv.current().modifier` |
+> > > | **Speed** | `$=dv.current().speed` |
+> >
+> > > [!statblocks|columns]
+> > > 
+> > >> [!blank]
+> > >> ## Ability Scores
+> > >> ||| Mod ||| Mod |
+> > >> |:---:|:---:|:---:|:---:|:---:|:---:|
+> > >> | **Strength** | `$=dv.current().ability_scores.strength.value` | `$=dv.current().ability_scores.strength.modifier` | **Intelligence** | `$=dv.current().ability_scores.intelligence.value` | `$=dv.current().ability_scores.intelligence.modifier` |
+> > >> | **Dexterity** | `$=dv.current().ability_scores.dexterity.value` | `$=dv.current().ability_scores.dexterity.modifier` | **Wisdom** | `$=dv.current().ability_scores.wisdom.value` | `$=dv.current().ability_scores.wisdom.modifier` |
+> > >> | **Constitution** | `$=dv.current().ability_scores.constitution.value` | `$=dv.current().ability_scores.constitution.modifier` | **Charisma** | `$=dv.current().ability_scores.charisma.value` | `$=dv.current().ability_scores.charisma.modifier` |
+> > >
+> > >> [!blank]
+> > >> ## Saving Throws
+> > >> || Prof ||| Prof ||
+> > >> |:---:|:---:|:---:|:---:|:---:|:---:|
+> > >> | **Strength** | `$=dv.current().saving_throws.strength.proficiency ? '✅' : '❌'` | `$=dv.current().saving_throws.strength.value` | **Intelligence** | `$=dv.current().saving_throws.intelligence.proficiency ? '✅' : '❌'` | `$=dv.current().saving_throws.intelligence.value` |
+> > >> | **Dexterity** | `$=dv.current().saving_throws.dexterity.proficiency ? '✅' : '❌'` | `$=dv.current().saving_throws.dexterity.value` | **Wisdom** | `$=dv.current().saving_throws.wisdom.proficiency ? '✅' : '❌'` | `$=dv.current().saving_throws.wisdom.value` |
+> > >> | **Constitution** | `$=dv.current().saving_throws.constitution.proficiency ? '✅' : '❌'` | `$=dv.current().saving_throws.constitution.value` | **Charisma** | `$=dv.current().saving_throws.charisma.proficiency ? '✅' : '❌'` | `$=dv.current().saving_throws.charisma.value` |
+> > >> **Notes**: `$=dv.current().saving_throws.notes`
+> >
+> > > [!infobox|center wm-tl]
+> > > ## Defences
+> > > | **Imunities** | **Resistances** |
+> > > |:---:|:---:|
+> > > | `$=dv.current().defences.immunities.length > 0 ? dv.current().defences.immunities : ""` | `$=dv.current().defences.resistances.length > 0 ? dv.current().defences.resistances : ""` |
+>
+> > [!tab|no-t] Skills
+> > > [!infobox|wfull]
+> > > ## Skills
+> > > || **Prof** | **Exp** ||| **Prof** | **Exp** ||
+> > > |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+> > > | **Acrobatics (Dex)** | `$=dv.current().skills.acrobatics.proficiency ? '✅' : '❌'` | `$=dv.current().skills.acrobatics.expertise ? '✅' : '❌'` | `$=dv.current().skills.acrobatics.value` | **Medicine (Wis)** | `$=dv.current().skills.medicine.proficiency ? '✅' : '❌'` | `$=dv.current().skills.medicine.expertise ? '✅' : '❌'` | `$=dv.current().skills.medicine.value` |
+> > > | **Animal Handling (Wis)** | `$=dv.current().skills.animal_handling.proficiency ? '✅' : '❌'` | `$=dv.current().skills.animal_handling.expertise ? '✅' : '❌'` | `$=dv.current().skills.animal_handling.value` | **Nature (Int)** | `$=dv.current().skills.nature.proficiency ? '✅' : '❌'` | `$=dv.current().skills.nature.expertise ? '✅' : '❌'` | `$=dv.current().skills.nature.value` |
+> > > | **Arcana (Int)** | `$=dv.current().skills.arcana.proficiency ? '✅' : '❌'` | `$=dv.current().skills.arcana.expertise ? '✅' : '❌'` | `$=dv.current().skills.arcana.value` | **Perception (Wis)** | `$=dv.current().skills.perception.proficiency ? '✅' : '❌'` | `$=dv.current().skills.perception.expertise ? '✅' : '❌'` | `$=dv.current().skills.perception.value` |
+> > > | **Athletics (Str)** | `$=dv.current().skills.athletics.proficiency ? '✅' : '❌'` | `$=dv.current().skills.athletics.expertise ? '✅' : '❌'` | `$=dv.current().skills.athletics.value` | **Performance (Cha)** | `$=dv.current().skills.performance.proficiency ? '✅' : '❌'` | `$=dv.current().skills.performance.expertise ? '✅' : '❌'` | `$=dv.current().skills.performance.value` |
+> > > | **Deception (Cha)** | `$=dv.current().skills.deception.proficiency ? '✅' : '❌'` | `$=dv.current().skills.deception.expertise ? '✅' : '❌'` | `$=dv.current().skills.deception.value` | **Persuasion (Cha)** | `$=dv.current().skills.persuasion.proficiency ? '✅' : '❌'` | `$=dv.current().skills.persuasion.expertise ? '✅' : '❌'` | `$=dv.current().skills.persuasion.value` |
+> > > | **History (Int)** | `$=dv.current().skills.history.proficiency ? '✅' : '❌'` | `$=dv.current().skills.history.expertise ? '✅' : '❌'` | `$=dv.current().skills.history.value` | **Religion (Int)** | `$=dv.current().skills.religion.proficiency ? '✅' : '❌'` | `$=dv.current().skills.religion.expertise ? '✅' : '❌'` | `$=dv.current().skills.religion.value` |
+> > > | **Insight (Wis)** | `$=dv.current().skills.insight.proficiency ? '✅' : '❌'` | `$=dv.current().skills.insight.expertise ? '✅' : '❌'` | `$=dv.current().skills.insight.value` | **Sleight of Hand (Dex)** | `$=dv.current().skills.sleight_of_hand.proficiency ? '✅' : '❌'` | `$=dv.current().skills.sleight_of_hand.expertise ? '✅' : '❌'` | `$=dv.current().skills.sleight_of_hand.value` |
+> > > | **Intimidation (Cha)** | `$=dv.current().skills.intimidation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.intimidation.expertise ? '✅' : '❌'` | `$=dv.current().skills.intimidation.value` | **Stealth (Dex)** | `$=dv.current().skills.stealth.proficiency ? '✅' : '❌'` | `$=dv.current().skills.stealth.expertise ? '✅' : '❌'` | `$=dv.current().skills.stealth.value` |
+> > > | **Investigation (Int)** | `$=dv.current().skills.investigation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.investigation.expertise ? '✅' : '❌'` | `$=dv.current().skills.investigation.value` | **Survival (Wis)** | `$=dv.current().skills.survival.proficiency ? '✅' : '❌'` | `$=dv.current().skills.survival.expertise ? '✅' : '❌'` | `$=dv.current().skills.survival.value` |
+> >
+> > > [!infobox|left n-th]
+> > > ## Passive Skills
+> > > |||
+> > > |:---:|:---:|
+> > > | **Perception** | `$=dv.current().passives.perception` |
+> > > | **Investigation** | `$=dv.current().passives.investigation` |
+> > > | **Insight** | `$=dv.current().passives.insight` |
+>
+> > [!tab|no-t] Features
+> > > [!cards|dataview wfull]
+> > > ## Classes
+> > > ```dataview
+> > > TABLE WITHOUT ID "Class: " + classes.name AS Name, "SubClass: " + classes.subclass, "Level: " + classes.level AS Level
+> > > FLATTEN classes
+> > > WHERE this.file.name = file.name
+> > > ```
+> >
+> > > [!cards|dataview wfull]
+> > > ## Racial Traits
+> > > ```dataview
+> > > TABLE WITHOUT ID "**"+racial_traits.name+"**" AS Name, racial_traits.description AS Description
+> > > FLATTEN racial_traits
+> > > WHERE this.file.name = file.name
+> > > ```
+> >
+> > > [!cards|dataview wfull]
+> > > ## Feats
+> > > ```dataview
+> > > TABLE WITHOUT ID "**"+feats.name+"**",
+> > > feats.description
+> > > FLATTEN feats
+> > > WHERE this.file.name = file.name
+> > > ```
+>
+> > [!tab|no-t] Class Features
+> > > [!cards|dataview wfull]
+> > > ## Class Features
+> > > ```dataview
+> > > TABLE WITHOUT ID "**"+class_features.name+"**",
+> > > class_features.description
+> > > FLATTEN class_features
+> > > WHERE this.file.name = file.name
+> > > ```
+>
+> > [!tab|no-t] Spells
+> > ```dataviewjs
+> > const result = []
+> > const spellLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+> > const casterClasses = dv.current().class_spells ?? []
+> > casterClasses.map((classSpellConfig, classIndex) => {
+> >   const classSpellLevels = spellLevels.filter(level => classSpellConfig.spell_slots.max[level-1] > 0 || level === 0)
+> >   dv.header(3, classSpellConfig.name)
+> >   classSpellLevels.forEach(level => {
+> >     let levelText = ''
+> >     levelText += `>> ### ${level === 0 ? `Cantrips` : `Level ${level}`}\n`
+> >     if (level > 0) {
+> >       const totalSlots = classSpellConfig.spell_slots.max[level-1]
+> >       const usedSlots = classSpellConfig.spell_slots.used[level-1]
+> >       levelText += `>> ${`<input type="checkbox" disabled=true checked=true/>`.repeat(usedSlots)}${`<input type="checkbox" disabled=true/>`.repeat(totalSlots-usedSlots)}\n>>\n`
+> >     }
+> >     levelText += `>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>>\n>> `)}`
+> >     result.push(levelText)
+> >   })
+> > })
+> > dv.paragraph(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
+> > for (const [title, list] of [['Race spells', dv.current().race_spells], ['Feat spells', dv.current().feat_spells]]) {
+> >   if (Array.isArray(list) && list.length) {
+> >     dv.header(3, title)
+> >     dv.list(list.map(sp => `${sp.name} (${sp.level === 0 ? 'cantrip' : 'level ' + sp.level})`))
+> >   }
+> > }
+> > ```
+>
+> > [!tab|no-t] Inventory
+> > ## Weapons
+> > ```dataviewjs
+> > const weapons = dv.current().inventory.filter(inv => inv.type === 'Weapon')
+> >
+> > dv.table([
+> >   'Name',
+> >   'Equipped',
+> >   'Attuned',
+> >   'One Handed Damage',
+> >   'Two Handed Damage',
+> >   'Range',
+> >   'Damage Type'
+> >   ], weapons.map(inv => {
+> >   return [
+> >     inv.name,
+> >     inv.equipped ? '✅' : '❌',
+> >     inv.attuned ? '✅' : '❌',
+> >     dv.page(inv.name.path)['one-hand-damage'],
+> >     dv.page(inv.name.path)['two-hand-damage'],
+> >     dv.page(inv.name.path).range,
+> >     inv.damage_type
+> >   ]
+> > }))
+> > ```
+> >
+> > ## Armor
+> > ```dataviewjs
+> > const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
+> >
+> > dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
+> >   return [
+> >     inv.name,
+> >     inv.equipped ? '✅' : '❌',
+> >     inv.attuned ? '✅' : '❌',
+> >     dv.page(inv.name.path).armorClass || inv.armor_class]
+> > }))
+> > ```
+> >
+> > <!-- Group by rarity? -->
+> > > [!cards|dataview 4 wfull]
+> > > ## Inventory
+> > > ```dataview
+> > > TABLE WITHOUT ID "**"+inventory.name+"**",
+> > > "Quantity: "+inventory.quantity
+> > > FLATTEN inventory
+> > > WHERE this.file.name = file.name
+> > > AND inventory.type != "Armor"
+> > > AND inventory.type != "Weapon"
+> > > ```
+>
+> > [!tab|no-t] Story
+> > > [!infobox|center n-th wm-tl]
+> > > ## Description
+> > > |||
+> > > |:---:|:---:|:---:|:---:|:---:|:---:|
+> > > | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` | **Skin** | `$=dv.current().description.skin` |
+> > > | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
+> > > | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
+> >
+> > ## Background (`$=dv.current().background.background.name`)
+> > `$=dv.current().background.background.description`
+> > ## Backstory
+> > `$=dv.current().background.backstory`
+> > ## Organization
+> > `$=dv.current().background.organizations`
+> > ## Allies
+> > `$=dv.current().background.allies`
+> > ## Enemies
+> > `$=dv.current().background.enemies`
+> >
+> > ## Additional Notes From Players
+> > `$=dv.current().background.notes`
+>
+> > [!player] Player-Facing
+> > **Summary** `BUTTON[pop-summary]`
+> > `INPUT[textArea:summary]`
+> >
+> > **Facts**
+> > ```datacorejsx
+> > const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
+> > return function View() { return <FactsTable /> }
+> > ```
+>
+> > [!dm] DM
+> > `BUTTON[edit-dm-notes]`
+> > ## DM Notes
 
-> [!infobox|wfull]
-> ## Skills
-> || **Prof** | **Exp** ||| **Prof** | **Exp** ||
-> |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Acrobatics (Dex)** | `$=dv.current().skills.acrobatics.proficiency ? '✅' : '❌'` | `$=dv.current().skills.acrobatics.expertise ? '✅' : '❌'` | `$=dv.current().skills.acrobatics.value` | **Medicine (Wis)** | `$=dv.current().skills.medicine.proficiency ? '✅' : '❌'` | `$=dv.current().skills.medicine.expertise ? '✅' : '❌'` | `$=dv.current().skills.medicine.value` |
-> | **Animal Handling (Wis)** | `$=dv.current().skills['animal-handling'].proficiency ? '✅' : '❌'` | `$=dv.current().skills['animal-handling'].expertise ? '✅' : '❌'` | `$=dv.current().skills['animal-handling'].value` | **Nature (Int)** | `$=dv.current().skills.nature.proficiency ? '✅' : '❌'` | `$=dv.current().skills.nature.expertise ? '✅' : '❌'` | `$=dv.current().skills.nature.value` |
-> | **Arcana (Int)** | `$=dv.current().skills.arcana.proficiency ? '✅' : '❌'` | `$=dv.current().skills.arcana.expertise ? '✅' : '❌'` | `$=dv.current().skills.arcana.value` | **Perception (Wis)** | `$=dv.current().skills.perception.proficiency ? '✅' : '❌'` | `$=dv.current().skills.perception.expertise ? '✅' : '❌'` | `$=dv.current().skills.perception.value` |
-> | **Athletics (Str)** | `$=dv.current().skills.athletics.proficiency ? '✅' : '❌'` | `$=dv.current().skills.athletics.expertise ? '✅' : '❌'` | `$=dv.current().skills.athletics.value` | **Performance (Cha)** | `$=dv.current().skills.performance.proficiency ? '✅' : '❌'` | `$=dv.current().skills.performance.expertise ? '✅' : '❌'` | `$=dv.current().skills.performance.value` |
-> | **Deception (Cha)** | `$=dv.current().skills.deception.proficiency ? '✅' : '❌'` | `$=dv.current().skills.deception.expertise ? '✅' : '❌'` | `$=dv.current().skills.deception.value` | **Persuasion (Cha)** | `$=dv.current().skills.persuasion.proficiency ? '✅' : '❌'` | `$=dv.current().skills.persuasion.expertise ? '✅' : '❌'` | `$=dv.current().skills.persuasion.value` |
-> | **History (Int)** | `$=dv.current().skills.history.proficiency ? '✅' : '❌'` | `$=dv.current().skills.history.expertise ? '✅' : '❌'` | `$=dv.current().skills.history.value` | **Religion (Int)** | `$=dv.current().skills.religion.proficiency ? '✅' : '❌'` | `$=dv.current().skills.religion.expertise ? '✅' : '❌'` | `$=dv.current().skills.religion.value` |
-> | **Insight (Wis)** | `$=dv.current().skills.insight.proficiency ? '✅' : '❌'` | `$=dv.current().skills.insight.expertise ? '✅' : '❌'` | `$=dv.current().skills.insight.value` | **Sleight of Hand (Dex)** | `$=dv.current().skills['sleight-of-hand'].proficiency ? '✅' : '❌'` | `$=dv.current().skills['sleight-of-hand'].expertise ? '✅' : '❌'` | `$=dv.current().skills['sleight-of-hand'].value` |
-> | **Intimidation (Cha)** | `$=dv.current().skills.intimidation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.intimidation.expertise ? '✅' : '❌'` | `$=dv.current().skills.intimidation.value` | **Stealth (Dex)** | `$=dv.current().skills.stealth.proficiency ? '✅' : '❌'` | `$=dv.current().skills.stealth.expertise ? '✅' : '❌'` | `$=dv.current().skills.stealth.value` |
-> | **Investigation (Int)** | `$=dv.current().skills.investigation.proficiency ? '✅' : '❌'` | `$=dv.current().skills.investigation.expertise ? '✅' : '❌'` | `$=dv.current().skills.investigation.value` | **Survival (Wis)** | `$=dv.current().skills.survival.proficiency ? '✅' : '❌'` | `$=dv.current().skills.survival.expertise ? '✅' : '❌'` | `$=dv.current().skills.survival.value` |
-
-> [!infobox|left n-th]
-> ## Passive Skills
-> |||
-> |:---:|:---:|
-> | **Perception** | `$=dv.current().passives.perception` |
-> | **Investigation** | `$=dv.current().passives.investigation` |
-> | **Insight** | `$=dv.current().passives.insight` |
-
-> [!infobox|center n-th wm-tl]
-> ## Description
-> |||
-> |:---:|:---:|:---:|:---:|:---:|:---:|
-> | **Race** | `$=dv.current().race` | **Height** | `$=dv.current().description.height` | **Skin** | `$=dv.current().description.skin` |
-> | **Gender** | `$=dv.current().description.gender` | **Weight** | `$=dv.current().description.weight` | **Hair** | `$=dv.current().description.hair` |
-> | **Age** | `$=dv.current().description.age` | **Size** | `$=dv.current().description.size` | **Eyes** | `$=dv.current().description.eyes` |
-
-> [!infobox|center wm-tl]
-> ## Defences
-> | **Imunities** | **Resistances** |
-> |:---:|:---:|
-> | `$=dv.current().defences.immunities.length > 0 ? dv.current().defences.immunities : ""` | `$=dv.current().defences.resistances.length > 0 ? dv.current().defences.resistances : ""` |
-
-> [!cards|dataview wfull]
-> ## Classes
-> ```dataview
-> TABLE WITHOUT ID "Class: " + classes.name AS Name, "SubClass: " + classes.subClass, "Level: " + classes.level AS Level
-> FLATTEN classes
-> WHERE this.file.name = file.name
-> ```
-
-> [!cards|dataview wfull]
-> ## Racial Traits
-> ```dataview
-> TABLE WITHOUT ID "**"+racialTraits.name+"**" AS Name, racialTraits.description AS Description
-> FLATTEN racialTraits
-> WHERE this.file.name = file.name
-> ```
-
-> [!cards|dataview wfull]
-> ## Class Features
-> ```dataview
-> TABLE WITHOUT ID "**"+classFeatures.name+"**",
-> classFeatures.description
-> FLATTEN classFeatures
-> WHERE this.file.name = file.name
-> ```
-
-> [!cards|dataview wfull]
-> ## Feats
-> ```dataview
-> TABLE WITHOUT ID "**"+feats.name+"**",
-> feats.description
-> FLATTEN feats
-> WHERE this.file.name = file.name
-> ```
-
-## Spells
-```dataviewjs
-const result = []
-const spellLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-dv.current().classSpells.map((classSpellConfig, classIndex) => {
-  const classSpellLevels = spellLevels.filter(level => classSpellConfig.spellSlots.max[level-1] > 0 || level === 0)
-  dv.header(3, classSpellConfig.name)
-  classSpellLevels.forEach(level => {
-    let levelText = ''
-    levelText += `>> ### ${level === 0 ? `Cantrips` : `Level ${level}`}\n`
-    if (level > 0) {
-      const totalSlots = classSpellConfig.spellSlots.max[level-1]
-      const usedSlots = classSpellConfig.spellSlots.used[level-1]
-      levelText += `>> ${`<input type="checkbox" disabled=true checked=true/>`.repeat(usedSlots)}${`<input type="checkbox" disabled=true/>`.repeat(totalSlots-usedSlots)}\n>>\n`
-    }
-    levelText += `>> ${classSpellConfig.spells.filter(spell => spell.level === (level)).map(spell => spell.name).join(`\n>>\n>> `)}`
-    result.push(levelText)
-  })
-})
-dv.paragraph(`> [!cards|wfull]\n${result.join(`\n>\n`)}`)
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
 ```
-
-## Weapons
-```dataviewjs
-const weapons = dv.current().inventory.filter(inv => inv.type === 'Weapon')
-
-dv.table([
-  'Name',
-  'Equipped',
-  'Attuned',
-  'One Handed Damage',
-  'Two Handed Damage',
-  'Range',
-  'Damage Type'
-  ], weapons.map(inv => {
-  return [
-    inv.name,
-    inv.equipped ? '✅' : '❌',
-    inv.attuned ? '✅' : '❌',
-    dv.page(inv.name.path)['one-hand-damage'],
-    dv.page(inv.name.path)['two-hand-damage'],
-    dv.page(inv.name.path).range,
-    inv.damageType
-  ]
-}))
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Summary in a larger window
+style: default
+id: pop-summary
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: summary
+      label: Summary
 ```
-
-## Armor
-```dataviewjs
-const armor = dv.current().inventory.filter(inv => inv.type === 'Armor')
-
-dv.table(['Name', 'Equipped', 'Attuned', 'Armor Class'], armor.map(inv => {
-  return [
-    inv.name,
-    inv.equipped ? '✅' : '❌',
-    inv.attuned ? '✅' : '❌',
-    dv.page(inv.name.path).armorClass || inv.armorClass]
-}))
-```
-
-<!-- Group by rarity? -->
-> [!cards|dataview 4 wfull]
-> ## Inventory
-> ```dataview
-> TABLE WITHOUT ID "**"+inventory.name+"**",
-> "Quantity: "+inventory.quantity
-> FLATTEN inventory
-> WHERE this.file.name = file.name
-> AND inventory.type != "Armor"
-> AND inventory.type != "Weapon"
-> ```
-
-# Background
-## Background (`$=dv.current().background.background.name`)
-`$=dv.current().background.background.description`
-## Backstory
-`$=dv.current().background.backstory`
-## Organization
-`$=dv.current().background.organizations`
-## Allies
-`$=dv.current().background.allies`
-## Enemies
-`$=dv.current().background.enemies`
-
-# Notes
-## Additional Notes From Players
-`$=dv.current().background.notes`
-
-## Hidden Details
-
-## Notes

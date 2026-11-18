@@ -4,6 +4,26 @@ const findFile = require('./find_file.js')
 
 class DnDBeyondCharacter {
 
+  // Frontmatter keys are snake_case (C5b group 4). The class keeps D&D Beyond's names internally;
+  // toFrontmatter renames them on the way out, at any depth.
+  static FRONTMATTER_KEYS = {
+    abilityScores: 'ability_scores', savingThrows: 'saving_throws', racialTraits: 'racial_traits',
+    classFeatures: 'class_features', raceSpells: 'race_spells', classSpells: 'class_spells', featSpells: 'feat_spells',
+    armorClass: 'armor_class', baseValue: 'base_value', canEquip: 'can_equip', canAttune: 'can_attune',
+    damageType: 'damage_type', isPrepared: 'is_prepared', cantripsKnown: 'cantrips_known',
+    spellSlots: 'spell_slots', subClass: 'subclass', 'animal-handling': 'animal_handling',
+    'sleight-of-hand': 'sleight_of_hand'
+  }
+
+  static LEGACY_KEYS = ['abilityScores', 'savingThrows', 'racialTraits', 'classFeatures', 'raceSpells', 'classSpells', 'featSpells']
+
+  static toFrontmatter(value) {
+    if (Array.isArray(value)) return value.map(v => DnDBeyondCharacter.toFrontmatter(v))
+    if (value === null || typeof value !== 'object') return value
+    return Object.fromEntries(Object.entries(value).map(([k, v]) =>
+      [DnDBeyondCharacter.FRONTMATTER_KEYS[k] ?? k, DnDBeyondCharacter.toFrontmatter(v)]))
+  }
+
   static ABILITY_SCORES = {
     1: 'strength',
     2: 'dexterity',
@@ -93,6 +113,7 @@ class DnDBeyondCharacter {
             value: mod.value,
             componentId: mod.componentId,
             statId: mod.statId,
+            bonusTypes: mod.bonusTypes,
             friendlyTypeName: mod.friendlyTypeName,
             friendlySubtypeName: mod.friendlySubtypeName,
             restriction: mod.restriction
@@ -190,7 +211,7 @@ class DnDBeyondCharacter {
             let ac = 0
             if (!isArmored) {
               ac += !ignoreDex ? Math.min(...maxUnamoredDexMods, this.abilityScores.dexterity.modifier) : 0
-              ac += unArmoredAc ? (unArmoredAc.value || this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[unArmoredAc.statId]].modifier) : 0
+              ac += unArmoredAc ? (unArmoredAc.value || this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[unArmoredAc.statId]]?.modifier || 0) : 0
               ac += unArmoredBonus
             }
             return ac
@@ -233,7 +254,12 @@ class DnDBeyondCharacter {
         get: () => {
           const initiativeBonus = this.modifiers.reduce((accum, mod) => {
             if (mod.type === 'bonus' && mod.subType === 'initiative') {
-              accum += this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[mod.statId]].modifier
+              // An initiative bonus is an ability modifier (statId), a fixed value, or the proficiency bonus
+              // (bonusTypes 1, e.g. the 2024 Alert feat, which has no statId or value).
+              const ability = this.abilityScores[DnDBeyondCharacter.ABILITY_SCORES[mod.statId]]
+              if (ability) accum += ability.modifier
+              else if (typeof mod.value === 'number') accum += mod.value
+              else if (Array.isArray(mod.bonusTypes) && mod.bonusTypes.includes(1)) accum += this.proficiencyBonus
             }
 
             return accum
@@ -391,37 +417,37 @@ class DnDBeyondCharacter {
       },
       spells: {
         get: () => {
-          const classSpells = this.#data.classes.filter(dndClass => dndClass.definition.canCastSpells)
-            .map(dndClass => ({
-              name: dndClass.definition.name,
-              cantripsKnown: dndClass.definition.spellRules.levelCantripsKnownMaxes[this.level],
-              spellSlots: {
-                max: dndClass.definition.spellRules.levelSpellSlots[this.level],
-                used: this.#data.spellSlots.sort((a, b) => a - b).map(slot => slot.used)
-              },
-              spells: this.#data.classSpells.find(spellClass => spellClass.characterClassId === dndClass.id ).spells.map(spell => {
-                let isPrepared = spell.prepared || spell.alwaysPrepared
-                if (!isPrepared && spell.definition.level === 0) isPrepared = true
-                
-                return {
-                  name: spell.definition.name,
-                  level: spell.definition.level,
-                  isPrepared
-                }
-              }).sort((a, b) => a.level - b.level)
-            }))
-          const raceSpells = this.#data.spells.race.map(raceSpell => {
-            let isPrepared = raceSpell.prepared || raceSpell.alwaysPrepared
-            if (!isPrepared && raceSpell.definition.level === 0) isPrepared = true
+          // D&D Beyond keeps spells in several places: classSpells (the class list and prepared spells),
+          // spells.class (granted by class features, e.g. a druid circle or domain), spells.race, and
+          // spells.feat (e.g. Magic Initiate). Entries without a definition are skipped.
+          const toSpell = spell => {
+            let isPrepared = spell.prepared || spell.alwaysPrepared
+            if (!isPrepared && spell.definition.level === 0) isPrepared = true
+            return { name: spell.definition.name, level: spell.definition.level, isPrepared: !!isPrepared }
+          }
+          const list = spells => {
+            const seen = new Set()
+            return (spells || []).filter(sp => sp && sp.definition).map(toSpell)
+              .filter(sp => !seen.has(sp.name) && seen.add(sp.name))
+              .sort((a, b) => a.level - b.level || a.name.localeCompare(b.name))
+          }
+          const casters = this.#data.classes.filter(dndClass => dndClass.definition.canCastSpells)
+          const featureSpells = this.#data.spells?.class || []
+          const classSpells = casters.map((dndClass, i) => ({
+            name: dndClass.definition.name,
+            cantripsKnown: dndClass.definition.spellRules.levelCantripsKnownMaxes[this.level],
+            spellSlots: {
+              max: dndClass.definition.spellRules.levelSpellSlots[this.level],
+              used: this.#data.spellSlots.sort((a, b) => a - b).map(slot => slot.used)
+            },
+            // Feature-granted spells carry no class id; they go with the first casting class.
+            spells: list([
+              ...(this.#data.classSpells.find(spellClass => spellClass.characterClassId === dndClass.id)?.spells || []),
+              ...(i === 0 ? featureSpells : []),
+            ])
+          }))
 
-            return {
-              name: raceSpell.definition.name,
-              level: raceSpell.definition.level,
-              isPrepared
-            }
-          }).sort((a, b) => a.level - b.level)
-
-          return {race: raceSpells, class: classSpells}
+          return { race: list(this.#data.spells?.race), class: classSpells, feat: list(this.#data.spells?.feat) }
         },
         enumerable: true
       },
@@ -510,8 +536,8 @@ class DnDBeyondCharacter {
     fm.proficiency = this.proficiencyBonus
     fm.url = this.url
     fm.image = this.image
-    fm.race = `"${await findFile(this.race.fullName, '5. Mechanics/Races')}"`
-    fm.alignment = `"${this.alignment}"`
+    fm.race = await findFile(this.race.fullName, '5. Mechanics/Races')
+    fm.alignment = this.alignment
     fm.description = this.description
     fm.passives = this.passives
     fm.proficiencies = this.proficiencies
@@ -532,15 +558,8 @@ class DnDBeyondCharacter {
     fm.classFeatures = this.classFeatures
     fm.feats = this.feats
     fm.raceSpells = this.spells.race
-    // console.log('Class Spells', this.spells.class[0].spells)
-    // fm.classSpells = await Promise.all(this.spells.class.map(async (classSpell) => {
-    //   console.log('Class Spell', classSpell)
-    //   return {
-    //     name: await findFile(classSpell, '5. Mechanics/Spells'),
-    //     level: classSpell.level,
-    //     isPrepared: classSpell.isPrepared
-    //   }
-    // }))
+    fm.classSpells = this.spells.class
+    fm.featSpells = this.spells.feat
     fm.currencies = this.currencies
     fm.inventory = await Promise.all(this.inventory.map(async (inv) => {
       return {
@@ -558,8 +577,7 @@ class DnDBeyondCharacter {
       }
     }))
 
-    console.log(fm)
-    return fm
+    return DnDBeyondCharacter.toFrontmatter(fm)
   }
 }
 

@@ -3,10 +3,11 @@ let templateError = false
 let formattedDate = ''
 let selectedParty = null
 let selectedCampaign = null
+let sessionNumber = ''
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
-  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['preps', 'parties', 'campaigns'])
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['preps', 'journals', 'parties', 'campaigns'])
 
   const data = await init.openForm(modalForm, {
     title: "Session Prep Setup",
@@ -21,13 +22,22 @@ try {
   formattedDate = moment(data.date).format("YYYY-MM-DD")
   selectedParty = dataview.page(data.party)
 
-  // Prep notes are organized by campaign. Resolve the campaign that owns the selected party.
-  selectedCampaign = dataview.pages(`"${config.locations.campaigns}"`).find(c => c.party && c.party.path === selectedParty.file.path)
+  // Prep notes are organized by campaign. Resolve the campaign that owns the selected party,
+  // preferring the active campaign when a party has carried on into a new one.
+  const ownsParty = c => c.party && c.party.path === selectedParty.file.path
+  const activeCampaign = dataview.page(config.active_campaign?.path ?? "")
+  selectedCampaign = activeCampaign && ownsParty(activeCampaign) ? activeCampaign : dataview.pages(`"${config.locations.campaigns}"`).find(ownsParty)
   if (!selectedCampaign) {
     throw new Error(`No campaign found whose party is ${selectedParty.file.name}`)
   }
 
-  await tp.file.move(path.join(config.locations.preps, selectedCampaign.file.name, formattedDate), tp.file.find_tfile(tp.file.title))
+  // The session this prep targets: one after the latest journal for this campaign and party.
+  const journals = dataview.pages(`"${path.posix.join(config.locations.journals, selectedCampaign.file.name)}"`)
+    .where(j => j.party?.path === selectedParty.file.path && j.session_number != null)
+    .sort(j => Number(j.session_number), 'desc').array()
+  sessionNumber = journals.length ? Number(journals[0].session_number) + 1 : 0
+
+  await init.moveFile(tp, path.posix.join(config.locations.preps, selectedCampaign.file.name), formattedDate)
 } catch (e) {
   templateError = e.message
   console.error(e)
@@ -38,9 +48,25 @@ try {
 ---
 obsidianUIMode: preview
 date: <% formattedDate || '' %>
+session_number: <% sessionNumber %>
+journal: ""
 tags:
   - session-prep
 ---
+> [!infobox]
+> ###### At a glance
+> `$=await dv.view('views/prepPanel', {current: dv.current()})`
+> ###### This prep
+>  |
+>  ---|---|
+> **Session #** | `INPUT[number:session_number]` |
+> **Journal** | `$=await dv.view('views/journalPicker', {current: dv.current()})` |
+
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current(), pronounced: false, editAll: false})
+```
+`$=await dv.view('views/sectionBar', {current: dv.current()})`
+
 ## Resources
 
 
@@ -154,6 +180,9 @@ await dv.view('views/listsGroupedByTag', {searchTag: '#session-journal', listTag
 > * What meaningful non-gold reward exists here?
 >
 > ✅ Consider information, favors, allies, titles, or strange magic.
+
+## Improvisation Kit
+
 <%* } else { -%>
 
 

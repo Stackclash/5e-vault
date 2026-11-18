@@ -18,7 +18,7 @@ The plan is a living forecast. Play overrules it. This skill keeps the plan writ
 | PC threads | quest note with `pcs` set, or the bible's Character Tie-Ins | — |
 | Truths not yet revealed | `facts` on the entity they concern | `locked: true` once the DM finalizes them |
 
-Resolve the active campaign from `1. DM Toolkit/Configuration.md`. Schemas: `vault-note` skill, `references/campaign-schemas.md`.
+Resolve the active campaign from `1. DM Toolkit/Configuration.md`; read its `status` and `level_range`. Schemas: `vault-note` skill, `references/campaign-schemas.md`.
 
 ## Planning principles
 
@@ -37,8 +37,8 @@ Input: the approved journal for the session, the prep note it used, and the arc 
    - `skipped` — did not happen and still can. Say where it could be reused.
    - `void` — play made it impossible. Say why.
 2. **Record the unplanned.** Things that happened with no step behind them (improvised NPCs, a deal, a death, a detour): add as `played` steps with outcomes, on the quest they belong to, or propose a new thread.
-3. **Trace consequences.** For each divergence, list which later steps, clocks, facts, and PC threads depend on the changed assumption. Use `edges.tsv` and the quest `parent` chain.
-4. **Propose adjustments**, each as a numbered line with its reason: reroute a step, move a reveal to another carrier, advance or stall a faction clock, promote an improvised element into the plan, retire an arc. Offer two options when the choice is real.
+3. **Trace consequences.** For each divergence, list which later steps, clocks, facts, and PC threads depend on the changed assumption. Use `edges.tsv` and the quest `parent` chain. Check each active quest's `deadline` against the in-world date (`state.md`) and the faction clocks: say which deadlines passed or are close.
+4. **Propose adjustments**, each as a numbered line with its reason: reroute a step, move a reveal to another carrier, advance or stall a faction clock, change a faction's `standing` or `status` the plan implies (values from `Configuration.enums`), promote an improvised element into the plan, retire an arc. Offer two options when the choice is real.
 5. **Check purposes.** For each active arc: is its purpose still reachable? If not, say so plainly and propose a new purpose or an ending.
 6. **Write only accepted lines.** Then add one line per change to `## Plan Changelog` on the affected note: `YYYY-MM-DD (after S<N>): what changed — why`.
 

@@ -1,0 +1,127 @@
+[
+ {
+  "source": "Davian Martikov (COS)",
+  "type": "member",
+  "target": "[[4. World Almanac/Factions/Keepers of the Feather.md|Keepers of the Feather]]",
+  "note": "senior",
+  "replace": "member"
+ },
+ {
+  "source": "Davian Martikov (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]",
+  "note": "owner"
+ },
+ {
+  "source": "Davian Martikov (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Baba Lysaga (COS).md|Baba Lysaga]]"
+ },
+ {
+  "source": "Bray Martikov (COS)",
+  "type": "brother",
+  "target": "[[4. World Almanac/NPCs/Brom Martikov (COS).md|Brom Martikov]]"
+ },
+ {
+  "source": "Bray Martikov (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+ },
+ {
+  "source": "Brom Martikov (COS)",
+  "type": "works-at",
+  "target": "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+ },
+ {
+  "source": "Arabelle (COS)",
+  "type": "father",
+  "target": "[[4. World Almanac/NPCs/Luvash (COS).md|Luvash]]"
+ },
+ {
+  "source": "Arabelle (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Bluto Krogarov (COS).md|Bluto Krogarov]]",
+  "note": "kidnapped her"
+ },
+ {
+  "source": "Arrigal (COS)",
+  "type": "brother",
+  "target": "[[4. World Almanac/NPCs/Luvash (COS).md|Luvash]]"
+ },
+ {
+  "source": "Arrigal (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Luvash (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+ },
+ {
+  "source": "Luvash (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/Vistani.md|Vistani]]",
+  "note": "Vallaki camp, co-leader",
+  "replace": "member"
+ },
+ {
+  "source": "Arrigal (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/Vistani.md|Vistani]]",
+  "note": "Vallaki camp, co-leader",
+  "replace": "member"
+ },
+ {
+  "source": "Stanimir (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/Vistani.md|Vistani]]",
+  "note": "Tser Pool caravan",
+  "replace": "member"
+ },
+ {
+  "source": "Stanimir (COS)",
+  "type": "serves",
+  "target": "[[4. World Almanac/NPCs/Madam Eva (COS).md|Madam Eva]]"
+ },
+ {
+  "source": "Savid (COS)",
+  "type": "patron",
+  "target": "[[4. World Almanac/NPCs/Kasimir Velikov (COS).md|Kasimir Velikov]]",
+  "note": "protector"
+ },
+ {
+  "source": "Patrina Velikovna (COS)",
+  "type": "lover",
+  "target": "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]",
+  "note": "would-be bride; cast aside"
+ },
+ {
+  "source": "Patrina Velikovna (COS)",
+  "type": "enemy",
+  "target": "[[4. World Almanac/NPCs/Rahadin (COS).md|Rahadin]]"
+ },
+ {
+  "source": "Patrina Velikovna (COS)",
+  "type": "imprisoned-at",
+  "target": "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]",
+  "note": "bound to her crypt in the catacombs"
+ },
+ {
+  "source": "Morgantha (COS)",
+  "type": "leader",
+  "target": "[[4. World Almanac/Factions/Morgantha's Coven.md|Morgantha's Coven]]",
+  "replace": "member"
+ },
+ {
+  "source": "Morgantha (COS)",
+  "type": "home",
+  "target": "[[4. World Almanac/Places of Interest/Old Bonegrinder.md|Old Bonegrinder]]"
+ },
+ {
+  "source": "Morgantha (COS)",
+  "type": "asset",
+  "target": "[[4. World Almanac/NPCs/Cyrus Belview (COS).md|Cyrus Belview]]",
+  "note": "carries her hag eye to spy on Ravenloft"
+ }
+]

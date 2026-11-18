@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
-defaultZoom: -2
-minZoom: -2
-maxZoom: -1
+default_zoom: -2
+min_zoom: -2
+max_zoom: -1
 unit: ft
-unitCount: 656.168
-zoomDelta: 0.5
+unit_count: 656.168
+zoom_delta: 0.5
 id: CastleRavenloft
 image: z_Assets/Locations/bruokdon.png
 ---
@@ -17,17 +17,17 @@ image: z_Assets/Locations/bruokdon.png
 > **ID:**
 > `INPUT[text:id]`
 > **Default Zoom:**
-> `INPUT[number:defaultZoom]`
+> `INPUT[number:default_zoom]`
 > **Min Zoom:**
-> `INPUT[number:minZoom]`
+> `INPUT[number:min_zoom]`
 > **Max Zoom:**
-> `INPUT[number:maxZoom]`
+> `INPUT[number:max_zoom]`
 > **Zoom Delta**
-> `INPUT[number:zoomDelta]`
+> `INPUT[number:zoom_delta]`
 > **Unit:**
 > `INPUT[text:unit]`
 > **Unit Count:**
-> `INPUT[number:unitCount]`
+> `INPUT[number:unit_count]`
 
 ```dataviewjs
 await dv.view('utils/leafletConfig', {current:dv.current()})

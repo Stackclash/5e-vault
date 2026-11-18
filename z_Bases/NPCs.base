@@ -2,8 +2,14 @@ filters:
   and:
     - file.tags.contains("npc")
 formulas:
-  relationships: partyRelationships.keys().map(value + '(' + partyRelationships[value] + ')').join(', ')
+  religions: 'relationships.filter(value.isType("object") && ["worships", "cleric-of"].contains(value.type)).map(value.target)'
+  factions: 'relationships.filter(value.isType("object") && ["member", "leader", "founder", "agent", "former-member"].contains(value.type)).map(value.target)'
+  relationships: party_relationships.keys().map(value + '(' + party_relationships[value] + ')').join(', ')
 properties:
+  formula.religions:
+    displayName: religions
+  formula.factions:
+    displayName: factions
   formula.relationships:
     displayName: party relationships
 views:
@@ -23,8 +29,8 @@ views:
       - occupation
       - location
       - formula.relationships
-      - groups
-      - religions
+      - formula.factions
+      - formula.religions
       - description
       - history
       - personality
@@ -42,7 +48,7 @@ views:
     name: Party Relationships
     filters:
       and:
-        - partyRelationships.keys().contains('Midnight Covenant')
+        - party_relationships.keys().contains('Midnight Covenant')
     order:
       - file.name
       - pronounced
@@ -54,8 +60,8 @@ views:
       - occupation
       - location
       - formula.relationships
-      - groups
-      - religions
+      - formula.factions
+      - formula.religions
       - description
       - history
       - personality
@@ -71,3 +77,23 @@ views:
       note.race: 128
       note.age: 146
       formula.relationships: 247
+  - type: table
+    name: Edit
+    filters:
+      and:
+        - '!file.inFolder("5. Mechanics")'
+        - '!file.inFolder("z_Templates")'
+    order:
+      - file.name
+      - condition
+      - gist
+      - race
+      - gender
+      - age
+      - alignment
+      - location
+    sort:
+      - property: location
+        direction: ASC
+      - property: file.name
+        direction: ASC

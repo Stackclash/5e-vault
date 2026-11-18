@@ -35,7 +35,11 @@ Read `z_Extra/index/state.md`. It lists the latest session and any unfiled live-
 
 ## Reveals
 
-You propose `revealed`, `summary`, `reveal`, `public_name`, and `learned` values; the DM decides each one. When unsure whether the party knows something, propose it as not learned and ask. Draft player-facing text only from what journals show the party saw, never from `secrets`, DM-voice fields, or module text.
+You propose `revealed`, `summary`, `reveal`, `public_name`, and `learned` values; the DM decides each one. When unsure whether the party knows something, propose it as not learned and ask. Draft player-facing text only from what journals show the party saw, never from `## DM Notes`, DM-voice fields, or module text.
+
+## Sentence edits and values
+
+A one-line instruction from the DM ("Velmont is captured, now at the Cinderworks") becomes a numbered edit proposal, one field per line, written after a yes (`vault-note` skill, "Values and fields"). Every enum value comes from `Configuration.enums`; a value not in the list is proposed as an enum addition.
 
 ## Bulk upkeep
 

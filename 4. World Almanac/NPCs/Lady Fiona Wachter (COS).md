@@ -7,9 +7,9 @@ tags:
   - monster/cr/2
   - monster/size/medium
   - monster/type/humanoid/human
-condition: healthy
+condition: captured
 images:
-  - 4. World Almanac\NPCs\img\060-cos05-11.webp
+  - 4. World Almanac/NPCs/img/060-cos05-11.webp
 aliases:
   - Lady Fiona Wachter
 alignment: Lawful Evil
@@ -36,10 +36,27 @@ history: >-
   Larnak, to keep her informed of everything that happens in town, though he
   knows enough of her secrets to blackmail her should their arrangement ever
   sour.
-relationships: []
-partyRelationships:
+relationships:
+  - { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: leader }
+  - target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]"
+    type: rival
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md|S9 The Mob of Vallaki]]"
+party_relationships:
   Midnight Covenant: Enemy
-location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+gist: "Head of House Wachter and Vallaki's secret devil cult, Baron Vallakovich's rival; now captured at Vallaki."
+summary: "A manipulative figure in Vallaki who stirred up the mob that tried to execute Baron Vargas and his wife."
+revealed:
+  Midnight Covenant: true
+reveal: {}
+facts:
+  - text: Fiona Wachter openly admitted her allegiance to Strahd.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S11 Deal with the Devil.md|S11 Deal with the Devil]]"
+  - text: Fiona Wachter wanted to rule Vallaki, saying the town needed a new direction away from the Vallakovichs.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S11 Deal with the Devil.md|S11 Deal with the Devil]]"
 pronounced: FEE-oh-nuh VAHK-ter
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
@@ -47,11 +64,6 @@ age: 52
 occupation:
   - Governess of Wachterhaus
   - Hidden leader of Vallaki's devil-worshipping cult
-groups:
-  - House Wachter
-  - Loyalists of House von Zarovich
-religions:
-  - Devil worship (a cult of her own founding)
 personality: 'Cold, composed, and utterly ruthless beneath an aristocratic veneer'
 ideal: >-
   Strahd is no tyrant, only a negligent landlord - true power lies in serving
@@ -69,8 +81,6 @@ likes: 'Order, devotion, her cult''s growth, the memory of her husband'
 dislikes: 'Baron Vallakovich''s buffoonery, weakness, disobedience, enemies of Strahd'
 ---
 > [!infobox]
-> # `=this.file.name`
-> **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('views/imageCarousel', {current: dv.current()})
 > ```
@@ -80,65 +90,314 @@ dislikes: 'Baron Vallakovich''s buffoonery, weakness, disobedience, enemies of S
 > ###### Bio
 >  |
 >  ---|---|
-> **Race** | `INPUT[suggester(optionQuery("5. Mechanics/Races")):race]` |
-> **Gender** | `INPUT[inlineSelect(option(male),option(female)):gender]` |
-> **Age** | `INPUT[number:age]` |
-> **Alignment** | `INPUT[inlineSelect(option(Lawful Good),option(Neutral Good),option(Chaotic Good),option(Lawful Neutral),option(Neutral),option(Chaotic Neutral),option(Lawful Evil),option(Neutral Evil),option(Chaotic Evil)):alignment]` |
-> **Condition** | `INPUT[inlineSelect(option(healthy),option(injured),option(dead)):condition]` |
+> **Race** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'race'})` |
+> **Gender** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'gender'})` |
+> **Age** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'age'})` |
+> **Alignment** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'alignment'})` |
 > ###### Info
 >  |
 >  ---|---|
 > **Alias(es)** | `INPUT[inlineList:aliases]` |
-> **Occupation(s)** | `INPUT[inlineList:occupation]` |
-> **Group(s)** | `INPUT[inlineList:groups]` |
-> **Religion(s)** | `INPUT[inlineList:religions]` |
-> **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` |
+> **Occupation(s)** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'occupation'})` |
+> **Current Location** | `$=await dv.view('utils/noteFieldInput', {current: dv.current(), field: 'location'})` |
+> **Faction(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["member","leader","founder","agent","former-member"].includes(r.type)).map(r => r.target).join(", ")` |
+> **Religion(s)** | `$= (dv.current().relationships ?? []).filter(r => r && ["worships","cleric-of"].includes(r.type)).map(r => r.target).join(", ")` |
 
-# **`=this.file.name`**
-*Source: Curse of Strahd p. 110*
+```dataviewjs
+await dv.view('views/entityHeader', {current: dv.current()})
+```
 
-TBD
+> [!tabs]
+> ```meta-bind
+> INPUT[select(class(tabbed), option(At the Table), option(Lore), option(Player-Facing), option(Connections), option(Stats), option(DM)):memory^tab]
+> ```
+>
+> > [!tab|no-t] At the Table
+> > **Appearance** `INPUT[text:appearance]`
+> >
+> > **Voice** `BUTTON[pop-voice]`
+> > `INPUT[textArea:voice]`
+> >
+> > **Goals** `BUTTON[pop-goals]`
+> > `INPUT[textArea:goals]`
+> >
+> > **Personality** `BUTTON[pop-personality]`
+> > `INPUT[textArea:personality]`
+> >
+> > **Ideal** `BUTTON[pop-ideal]`
+> > `INPUT[textArea:ideal]`
+> >
+> > **Bond** `BUTTON[pop-bond]`
+> > `INPUT[textArea:bond]`
+> >
+> > **Flaw** `BUTTON[pop-flaw]`
+> > `INPUT[textArea:flaw]`
+> >
+> > **Likes** `BUTTON[pop-likes]`
+> > `INPUT[textArea:likes]`
+> >
+> > **Dislikes** `BUTTON[pop-dislikes]`
+> > `INPUT[textArea:dislikes]`
+>
+> > [!tab|no-t] Lore
+> > **Description** `BUTTON[pop-description]`
+> > `INPUT[textArea:description]`
+> >
+> > **History** `BUTTON[pop-history]`
+> > `INPUT[textArea:history]`
+>
+> > [!player] Player-Facing
+> > **Revealed to the party** `$=await dv.view('utils/metaBindInput', {type: 'toggle', field: ['revealed', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})`
+> >
+> > **Public name** `$=await dv.view('utils/metaBindInput', {type: 'text', field: ['public_name', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (optional: shown instead of the note name)
+> >
+> > **Also show** `$=await dv.view('utils/metaBindInput', {type: 'inlineList', field: ['reveal', dv.page(dv.page(dv.page('Configuration').active_campaign).party).file.name]})` (extra fields the site may show, e.g. images, occupation)
+> >
+> > **Summary** `BUTTON[pop-summary]`
+> > `INPUT[textArea:summary]`
+> >
+> > **Facts**
+> > ```datacorejsx
+> > const { FactsTable } = await dc.require("z_Scripts/Datacore/FactsTable.tsx")
+> > return function View() { return <FactsTable /> }
+> > ```
+>
+> > [!tab|no-t] Connections
+> > `BUTTON[add-relationship]` `BUTTON[remove-relationship]`
+> >
+> > ```dataviewjs
+> > await dv.view("views/npcRelationships", { current: dv.current() })
+> > ```
+> >
+> > **Quests**
+> > ```dataview
+> > LIST FROM #quest WHERE contains(npcs.name, this.file.link)
+> > ```
+> >
+> > **Sessions**
+> > ```dataview
+> > LIST FROM #session-journal WHERE contains(npcs, this.file.link) SORT session_number ASC
+> > ```
+>
+> > [!tab|no-t] Stats
+> > ```statblock
+> > "name": "Lady Fiona Wachter (COS)"
+> > "size": "Medium"
+> > "type": "humanoid"
+> > "subtype": "human"
+> > "alignment": "Lawful Evil"
+> > "ac": !!int "10"
+> > "hp": !!int "27"
+> > "hit_dice": "5d8 + 5"
+> > "modifier": !!int "0"
+> > "stats":
+> >   - !!int "10"
+> >   - !!int "10"
+> >   - !!int "12"
+> >   - !!int "13"
+> >   - !!int "16"
+> >   - !!int "13"
+> > "speed": "30 ft."
+> > "skillsaves":
+> >   - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
+> >     "desc": "+7"
+> >   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
+> >     "desc": "+3"
+> >   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
+> >     "desc": "+5"
+> > "gear":
+> >   - "[[/5. Mechanics/Items/Mace.md|mace]]"
+> > "senses": "passive Perception 13"
+> > "languages": "any two languages"
+> > "cr": "2"
+> > "traits":
+> >   - "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom\
+> >       \ (spell save DC 13, +5 to hit with spell attacks). Fiona has the following\
+> >       \ cleric spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Light.md|light]],\
+> >       \ [[/5. Mechanics/Spells/Mending.md|mending]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+> >       \n**1st level (4 slots):** [[/5. Mechanics/Spells/Command.md|command]], [[/5. Mechanics/Spells/Purify Food And Drink.md|purify\
+> >       \ food and drink]], [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
+> >       \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Augury.md|augury]], [[/5. Mechanics/Spells/Gentle Repose.md|gentle repose]],\
+> >       \ [[/5. Mechanics/Spells/Hold Person.md|hold person]]\n\n**3rd level (2 slots):**\
+> >       \ [[/5. Mechanics/Spells/Animate Dead.md|animate dead]], [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
+> >     "name": "Spellcasting"
+> >   - "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
+> >       \ attacks to magically deal an extra 10 (3d6) radiant damage to a target on\
+> >       \ a hit. This benefit lasts until the end of the turn. If Fiona expends a spell\
+> >       \ slot of 2nd level or higher, the extra damage increases by 1d6 for each level\
+> >       \ above 1st."
+> >     "name": "Divine Eminence"
+> > "actions":
+> >   - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
+> >       \ bludgeoning damage."
+> >     "name": "Mace"
+> > "source":
+> >   - "CoS"
+> > "image": "/4. World Almanac/NPCs/token/lady-fiona-wachter-cos.webp"
+> > ```
+>
+> > [!dm] DM
+> > ```dataviewjs
+> > await dv.view("views/dmPanel", {current: dv.current()})
+> > ```
+> >
+> > `BUTTON[edit-dm-notes]`
+> > ## DM Notes
+> > Religion (from the old religions field): Devil worship (a cult of her own founding)
+> >
+> > ### Plot Hooks
+> >
+> >
+> > ### Hidden Details
+> >
+> >
+> > ### General Notes
+> >
+> > #### Source
+> > *Source: Curse of Strahd p. 110*
+> >
+> > TBD
 
-> [!column|no-t flex]
->> [!metadata|text-Center] Description
->> `INPUT[textArea:description]`
->
->> [!metadata|text-Center] History
->> `INPUT[textArea:history]`
-
-## Traits/Goals
-> [!column|no-t flex]
->> [!metadata|text-Center bg-c-yellow] Personality
->> `INPUT[textArea:personality]`
->
->> [!metadata|text-Center bg-c-pink] Ideal
->> `INPUT[textArea:ideal]`
->
->> [!metadata|text-Center bg-c-brown] Bond
->> `INPUT[textArea:bond]`
->
->> [!metadata|text-Center bg-c-orange] Flaw
->> `INPUT[textArea:flaw]`
->
->> [!metadata|text-Center bg-c-green] Likes
->> `INPUT[textArea:likes]`
->
->> [!metadata|text-Center bg-c-red] Dislikes
->> `INPUT[textArea:dislikes]`
->
->> [!metadata|text-Center] Goals
->> `INPUT[textArea:goals]`
-
-## Player-Facing
-> [!metadata|text-Center] What the Party Knows
-> `INPUT[textArea:player_impression]`
-
-## Secrets
-`INPUT[textArea:secrets]`
-
-## Relationships
-`BUTTON[add-relationship,remove-relationship]`
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Voice in a larger window
+style: default
+id: pop-voice
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: voice
+      label: Voice
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Goals in a larger window
+style: default
+id: pop-goals
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: goals
+      label: Goals
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Personality in a larger window
+style: default
+id: pop-personality
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: personality
+      label: Personality
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Ideal in a larger window
+style: default
+id: pop-ideal
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: ideal
+      label: Ideal
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Bond in a larger window
+style: default
+id: pop-bond
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: bond
+      label: Bond
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Flaw in a larger window
+style: default
+id: pop-flaw
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: flaw
+      label: Flaw
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Likes in a larger window
+style: default
+id: pop-likes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: likes
+      label: Likes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Dislikes in a larger window
+style: default
+id: pop-dislikes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: dislikes
+      label: Dislikes
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Description in a larger window
+style: default
+id: pop-description
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: description
+      label: Description
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit History in a larger window
+style: default
+id: pop-history
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: history
+      label: History
+```
 ```meta-bind-button
 style: primary
 label: Add Relationship
@@ -157,96 +416,41 @@ actions:
   - type: runTemplaterFile
     templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
 ```
-> [!div | no-t clean txt-c]
-> `$=await dv.view("views/npcRelationships", { current: dv.current() })`
-
-## Quests
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-  const columns = [
-    {
-      id: 'Quest',
-      value: (row) => row.$link
-    },
-    {
-      id: 'Description',
-      value: (row) => row.$frontmatter.description.raw || ''
-    },
-    {
-      id: 'Involvement',
-      value: (row) => row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)).description || ''
-    }
-  ]
-  
-  return <dc.Table rows={quests} columns={columns}/>
-}
+```meta-bind-button
+label: Edit DM Notes
+icon: pencil
+style: default
+id: edit-dm-notes
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editSection.js
+    args:
+      heading: DM Notes
+      prefix: "> > "
+```
+```meta-bind-button
+label: ""
+icon: maximize-2
+tooltip: Edit Summary in a larger window
+style: default
+id: pop-summary
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/popOutEditor.js
+    args:
+      field: summary
+      label: Summary
 ```
 
-## Stats
-```statblock
-"name": "Lady Fiona Wachter (COS)"
-"size": "Medium"
-"type": "humanoid"
-"subtype": "human"
-"alignment": "Lawful Evil"
-"ac": !!int "10"
-"hp": !!int "27"
-"hit_dice": "5d8 + 5"
-"modifier": !!int "0"
-"stats":
-  - !!int "10"
-  - !!int "10"
-  - !!int "12"
-  - !!int "13"
-  - !!int "16"
-  - !!int "13"
-"speed": "30 ft."
-"skillsaves":
-  - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
-    "desc": "+7"
-  - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
-    "desc": "+3"
-  - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
-    "desc": "+5"
-"gear":
-  - "[[/5. Mechanics/Items/Mace.md|mace]]"
-"senses": "passive Perception 13"
-"languages": "any two languages"
-"cr": "2"
-"traits":
-  - "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom\
-      \ (spell save DC 13, +5 to hit with spell attacks). Fiona has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Light.md|light]],\
-      \ [[/5. Mechanics/Spells/Mending.md|mending]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Command.md|command]], [[/5. Mechanics/Spells/Purify Food And Drink.md|purify\
-      \ food and drink]], [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\
-      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Augury.md|augury]], [[/5. Mechanics/Spells/Gentle Repose.md|gentle repose]],\
-      \ [[/5. Mechanics/Spells/Hold Person.md|hold person]]\n\n**3rd level (2 slots):**\
-      \ [[/5. Mechanics/Spells/Animate Dead.md|animate dead]], [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
-    "name": "Spellcasting"
-  - "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
-      \ attacks to magically deal an extra 10 (3d6) radiant damage to a target on\
-      \ a hit. This benefit lasts until the end of the turn. If Fiona expends a spell\
-      \ slot of 2nd level or higher, the extra damage increases by 1d6 for each level\
-      \ above 1st."
-    "name": "Divine Eminence"
-"actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage."
-    "name": "Mace"
-"source":
-  - "CoS"
-"image": "/4. World Almanac/NPCs/token/lady-fiona-wachter-cos.webp"
+```meta-bind-button
+label: Edit all
+icon: pencil
+style: default
+id: edit-all
+hidden: true
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/editAll.js
 ```
-^statblock
-
-## DM Notes
-### Plot Hooks
-
-
-### Hidden Details
-
-
-### General Notes
