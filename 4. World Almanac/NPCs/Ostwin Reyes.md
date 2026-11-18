@@ -4,13 +4,17 @@ statblock: inline
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 condition: healthy
 gist: ""
-revealed: {}
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts:
   - text: Reyes falsifies or omits manifest entries for 'special cargo' shipments in exchange for payment.
     learned: {}
   - text: Reyes knows the shipments' onward route toward Greyfen Hollow, but not what happens there.
     learned: {}
+  - text: Ostwin Reyes is the Tallyman, the Silent Ascendency's contact in Duskferry.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S46 New Session Journal.md|S46 New Session Journal]]"
 images:
   - z_Assets/PlaceholderImage.png
 relationships: [ { target: "[[4. World Almanac/Factions/Ferrymen's Guild.md|Ferrymen's Guild]]", type: member }, { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: agent, note: the Tallyman }, { target: "[[4. World Almanac/NPCs/Anselm Corrow.md|Anselm Corrow]]", type: employer } ]
@@ -44,7 +48,7 @@ likes: exact books, being underestimated, fine boots
 dislikes: audits, couriers who ask questions, anyone implying his ledgers could be wrong
 party_relationships:
   Midnight Covenant: Acquaintance
-summary: ""
+summary: "The Ferrymen's Guild clerk in Duskferry who was the Ascendency's contact, known by the code name 'the Tallyman.'"
 ---
 > [!infobox]
 > ```dataviewjs
