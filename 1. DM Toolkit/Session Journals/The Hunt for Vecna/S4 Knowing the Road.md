@@ -28,7 +28,9 @@ party_present:
 npcs:
   - "[[4. World Almanac/NPCs/Madam Eva (COS).md|Madam Eva (COS)]]"
 quests: []
-items: []
+items:
+  - "[[5. Mechanics/Items/Potion Of Growth.md|Potion Of Growth]]"
+  - "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
 factions:
   - "[[4. World Almanac/Factions/Vistani.md|Vistani]]"
 wrapped: true

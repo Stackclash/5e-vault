@@ -35,7 +35,7 @@ party_relationships:
   Midnight Covenant: Friendly
 location: "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"
 gist: "Ireena's brother, his arm the Hand of Vecna; ran Vecna's works at Greyfen Hollow until the party freed him (S49)."
-summary: "A man in Vallaki whom Yevelda flirted with on the night the mob gathered."
+summary: "A man from Vallaki whom Yevelda flirted with during the mob; he left town with the party and fought beside them in the werewolf siege at the tower."
 revealed:
   Midnight Covenant: true
 reveal: {}

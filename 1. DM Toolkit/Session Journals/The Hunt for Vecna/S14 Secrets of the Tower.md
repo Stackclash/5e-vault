@@ -30,6 +30,7 @@ party_present:
   - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
   - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
+  - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
 quests: []
 items:
   - "[[4. World Almanac/Items/Khazan's Wand of Secrets.md|Khazan's Wand of Secrets]]"

@@ -87,7 +87,7 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 - [[Seluvis Felo'melorn]] learned about [[Barrier Coral]] #remember
 
 ## Items Of Importance
-- Kahkan's Wand of Secrets
+- Khazan's Wand of Secrets
 - Tome of Strahd
 
 ## What Happened
@@ -95,6 +95,9 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 - They find Yan, the severed head.
 - They use the wand of secrets once and find the freezer
 - The party reads the second chapter of the Tome of Strahd
+
+## Errata
+- 2026-11-18: Marin's pact to wake Yan's head, and learning that Rictavio killed him, happened in S14, not this session (DM).
 
 ```meta-bind-button
 label: Edit all

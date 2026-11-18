@@ -33,7 +33,8 @@ npcs:
   - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
   - "[[4. World Almanac/NPCs/Donavich (COS).md|Donavich (COS)]]"
 quests: []
-items: []
+items:
+  - "[[5. Mechanics/Items/Dagger.md|Dagger]]"
 factions: []
 wrapped: true
 publish: false

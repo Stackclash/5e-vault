@@ -28,7 +28,15 @@ party_present:
   - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
 npcs: []
 quests: []
-items: []
+items:
+  - "[[5. Mechanics/Items/Cloak Of Protection.md|Cloak Of Protection]]"
+  - "[[5. Mechanics/Items/Chain Shirt.md|Chain Shirt]]"
+  - "[[5. Mechanics/Items/Spellbook.md|Spellbook]]"
+  - "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
+  - "[[5. Mechanics/Items/Bullseye Lantern.md|Bullseye Lantern]]"
+  - "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
+  - "[[5. Mechanics/Items/Alchemists Fire Flask.md|Alchemists Fire Flask]]"
+  - "[[5. Mechanics/Items/Potion Of Healing.md|Potion Of Healing]]"
 factions: []
 wrapped: true
 publish: false

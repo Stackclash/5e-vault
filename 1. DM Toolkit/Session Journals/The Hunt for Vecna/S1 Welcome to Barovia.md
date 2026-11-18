@@ -30,7 +30,9 @@ npcs:
   - "[[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md|Rosavalda Rose Durst (COS)]]"
   - "[[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md|Thornboldt Thorn Durst (COS)]]"
 quests: []
-items: []
+items:
+  - "[[5. Mechanics/Items/Spell Scroll 1st Level.md|Spell Scroll 1st Level]]"
+  - "[[5. Mechanics/Items/Spell Scroll 2nd Level.md|Spell Scroll 2nd Level]]"
 factions: []
 wrapped: true
 publish: false
