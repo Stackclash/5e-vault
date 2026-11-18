@@ -11,10 +11,14 @@ entity	hash	text
 4. World Almanac/Factions/Silent Ascendency.md	c39920badb	The Silent Ascendency has been draining stolen magic items to fuel a ritual.
 4. World Almanac/Items/Marrow's Amber Gem.md	b987c25354	The gem can hold a creature's essence, and it held Roark Battleborn's.
 4. World Almanac/NPCs/Anastrasya Karelova (COS).md	dffc886b9b	Anastrasya survived Strahd's wedding-night battle and fled, and Vecna's forces are courting her.
+4. World Almanac/NPCs/Donavich (COS).md	d8a2d05251	Donavich's son is a vampire spawn, and the screams beneath the church are his.
 4. World Almanac/NPCs/Emil Toranescu (COS).md	1049f05a58	Once freed, Emil returned to the werewolf pack and took control of it.
 4. World Almanac/NPCs/Hesper Crane.md	029c87a380	Hesper Crane's ledger named the network's next contact in Duskferry, known only as 'the Tallyman.'
+4. World Almanac/NPCs/Ireena Kolyana (COS).md	ccf47ae7c9	Strahd wants Ireena and has bitten her twice.
+4. World Almanac/NPCs/Ireena Kolyana (COS).md	862f909cab	Ireena's adoptive father had just died, and she wanted him buried before she left.
 4. World Almanac/NPCs/Izek Strazni (COS).md	9da45a241f	Izek survived the fall of Castle Ravenloft and was claimed by Vecna's power in that moment; the party freed him from Vecna's control (S49).
 4. World Almanac/NPCs/Lord Caldris Velmont.md	34adac6484	The Silent Ascendency captured Velmont and took over his magic-item smuggling operation.
+4. World Almanac/NPCs/Madam Eva (COS).md	0945935b39	Madam Eva knows things about the party's pasts that she has no ordinary way of knowing.
 4. World Almanac/NPCs/Marrow.md	49d343bfba	Marrow carries a soul-graft, the Marrow-rite, built from the same Eludrax soul-craft as the Amber Wardens, which lets it borrow a disguise target's trained reflexes and muscle memory.
 4. World Almanac/NPCs/Marrow.md	dec1131934	The ambush on Roark and Lyssandra was opportunistic: the Ascendency had no advance knowledge of Corwin Vantor's detection device.
 4. World Almanac/NPCs/Marrow.md	0540ec1aa9	Marrow was the Silent Ascendency's cell leader in Bruokdon.
@@ -27,4 +31,9 @@ entity	hash	text
 4. World Almanac/NPCs/Vecna.md	dde97c328e	Redgrave's killing blow on Strahd drew out Strahd's soul, and that was the final piece that freed Vecna from the Amber Temple.
 4. World Almanac/NPCs/Vecna.md	ad92b40d10	Vecna's ascension takes two rituals: the World-Truth Working creates a vacant Truth-domain and stakes his claim to it through a built-in exception, and the Ascension Rite executes that claim.
 4. World Almanac/NPCs/Vecna.md	622420e315	Vecna's claim on the Truth-domain is dishonestly won, so a genuinely total, unhedged claimant could override it at the Rite.
+4. World Almanac/Places of Interest/Death House.md	20489885b4	The cultists who lived in Death House revered Strahd.
+4. World Almanac/Places of Interest/Death House.md	f8bcc41f7e	Rose and Thorn were locked in the attic of Death House, and their remains were found there.
+4. World Almanac/Places of Interest/Death House.md	e9e88fe728	The ghosts of Carl and Elisabeth, the house's previous owners, haunt Death House.
+4. World Almanac/Places of Interest/St. Andral's Church.md	72dd37e617	The bones of St. Andral protected the church from Barovia's evil until they were stolen from its crypt.
 4. World Almanac/Settlements/Thornmere.md	e44831c1db	Thornmere was only a small-scale prototype of Vecna's truth-magic, not the Working itself.
+4. World Almanac/Settlements/Village of Barovia.md	c2dc28c8c3	A wizard once gathered the townsfolk to rise against Strahd.

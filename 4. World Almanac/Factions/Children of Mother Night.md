@@ -7,7 +7,8 @@ bases: []
 images: []
 gist: "Barovia's werewolf pack, worshippers of Mother Night; Kiril led it, and Emil Toranescu now does."
 summary: ""
-revealed: {}
+revealed:
+  Midnight Covenant: false
 reveal: {}
 facts: []
 goals: ""

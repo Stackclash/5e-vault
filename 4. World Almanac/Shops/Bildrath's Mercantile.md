@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 gist: "General store in the Village of Barovia, staffed by Parriwimple."
-summary: ""
-revealed: {}
+summary: "A general store in the Village of Barovia, where Marin bought a dagger."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 owners: []

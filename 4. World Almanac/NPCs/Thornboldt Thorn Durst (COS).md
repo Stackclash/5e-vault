@@ -31,13 +31,22 @@ history: >-
   house conjures to lure travelers inside, and later — once his true, skeletal
   remains are found — as a frightened but still childlike ghost who only wants
   to keep his sister close.
-relationships: [ { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member }, { target: "[[4. World Almanac/Places of Interest/Death House.md|Death House]]", type: home, note: his ghost lingers there } ]
+relationships:
+  - { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member }
+  - target: "[[4. World Almanac/Places of Interest/Death House.md|Death House]]"
+    type: home
+    note: his ghost lingers there
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md|S1 Welcome to Barovia]]"
 party_relationships: {}
 location: null
 gist: "Ghost of the younger Durst child at Death House, clinging to his sister Rose."
-summary: ""
-revealed: {}
+summary: "The ghost of a small boy who lived in Death House with his sister Rose. His crying drew the party to the house, and they carried his bones out to rest."
+revealed:
+  Midnight Covenant: true
 reveal: {}
+public_name:
+  Midnight Covenant: Thorn
 facts: []
 pronounced: THORN-bohlt DURST (called "Thorn")
 race: '[[5. Mechanics/Races/Human.md|Human]]'

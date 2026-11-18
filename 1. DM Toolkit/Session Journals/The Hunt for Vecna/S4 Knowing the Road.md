@@ -20,14 +20,18 @@ locations:
 fc-end: 973-2-12
 session_number: 4
 party_present:
-  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
   - "[[4. World Almanac/NPCs/Madam Eva (COS).md|Madam Eva (COS)]]"
 quests: []
 items: []
-factions: []
-wrapped: false
+factions:
+  - "[[4. World Almanac/Factions/Vistani.md|Vistani]]"
+wrapped: true
 publish: false
 ---
 > [!infobox]

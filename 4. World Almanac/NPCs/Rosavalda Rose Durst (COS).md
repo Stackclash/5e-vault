@@ -33,13 +33,26 @@ history: >-
   travelers inside, and later — once their true, skeletal remains are found — as
   vengeful but still childlike ghosts who want nothing more than to keep their
   small family together.
-relationships: [ { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member }, { target: "[[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md|Thornboldt Thorn Durst]]", type: brother }, { target: "[[4. World Almanac/Places of Interest/Death House.md|Death House]]", type: home, note: her ghost lingers there } ]
+relationships:
+  - { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member }
+  - target: "[[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md|Thornboldt Thorn Durst]]"
+    type: brother
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md|S1 Welcome to Barovia]]"
+  - target: "[[4. World Almanac/Places of Interest/Death House.md|Death House]]"
+    type: home
+    note: her ghost lingers there
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md|S1 Welcome to Barovia]]"
 party_relationships: {}
 location: null
 gist: "Ghost of the elder Durst child at Death House, protective of her little brother Thorn."
-summary: ""
-revealed: {}
+summary: "The ghost of a girl who lived in Death House with her little brother Thorn. She guided the party to the house's hidden basement, and they carried her bones out to rest."
+revealed:
+  Midnight Covenant: true
 reveal: {}
+public_name:
+  Midnight Covenant: Rose
 facts: []
 pronounced: ROH-suh-VAL-duh DURST (called "Rose")
 race: '[[5. Mechanics/Races/Human.md|Human]]'

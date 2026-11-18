@@ -16,6 +16,7 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+  - "[[4. World Almanac/Places of Interest/Death House.md|Death House]]"
 calendar: Eldoria Calendar
 fc-end: 973-2-11
 session_number: 1
@@ -25,11 +26,13 @@ party_present:
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
   - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
   - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
-npcs: []
+npcs:
+  - "[[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md|Rosavalda Rose Durst (COS)]]"
+  - "[[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md|Thornboldt Thorn Durst (COS)]]"
 quests: []
 items: []
 factions: []
-wrapped: false
+wrapped: true
 publish: false
 ---
 > [!infobox]

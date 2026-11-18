@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
 gist: "Vistani camp of Madam Eva and Stanimir; the party met the Vistani there (S4)."
-summary: ""
-revealed: {}
+summary: "A Vistani camp by a pool, where the seer Madam Eva reads fortunes. The party laid the Death House children's bones to rest beneath a willow nearby."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 images:

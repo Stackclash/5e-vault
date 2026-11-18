@@ -18,6 +18,9 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+  - "[[4. World Almanac/Places of Interest/Death House.md|Death House]]"
+  - "[[4. World Almanac/Shops/Blood of the Vine Tavern.md|Blood of the Vine Tavern]]"
+  - "[[4. World Almanac/Shops/Bildrath's Mercantile.md|Bildrath's Mercantile]]"
 session_number: 3
 party_present:
   - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
@@ -26,13 +29,13 @@ party_present:
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
 npcs:
-  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
   - "[[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md|Ismark Kolyanovich (COS)]]"
   - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
+  - "[[4. World Almanac/NPCs/Donavich (COS).md|Donavich (COS)]]"
 quests: []
 items: []
 factions: []
-wrapped: false
+wrapped: true
 publish: false
 ---
 > [!infobox]

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 gist: "Tavern in the Village of Barovia."
-summary: ""
-revealed: {}
+summary: "A tavern in the Village of Barovia, where the party took a room to rest Marin and Ismark first asked for their help."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 owners: []

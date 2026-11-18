@@ -24,8 +24,9 @@ party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: "Burgomaster of the Village of Barovia and Ireena's adoptive brother, long sworn against Strahd."
-summary: ""
-revealed: {}
+summary: "Ireena's brother in the Village of Barovia, who asked the party to escort her to Vallaki."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 pronounced: IS-mark KOHL-yan-o-vich

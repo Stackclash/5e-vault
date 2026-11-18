@@ -17,6 +17,7 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+  - "[[4. World Almanac/Places of Interest/Death House.md|Death House]]"
 fc-end: 973-2-11
 session_number: 2
 party_present:
@@ -29,7 +30,7 @@ npcs: []
 quests: []
 items: []
 factions: []
-wrapped: false
+wrapped: true
 publish: false
 ---
 > [!infobox]

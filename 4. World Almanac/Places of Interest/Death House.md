@@ -2,10 +2,20 @@
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: "Haunted Durst house in the Village of Barovia, home of the ghost children Rose and Thorn; cleared in S1-S3."
-summary: ""
-revealed: {}
+summary: "A haunted house in the Village of Barovia, once home to a cult that revered Strahd. The party fought its ghosts and carried out the bones of the children Rose and Thorn."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: The cultists who lived in Death House revered Strahd.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md|S1 Welcome to Barovia]]"
+  - text: Rose and Thorn were locked in the attic of Death House, and their remains were found there.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S1 Welcome to Barovia.md|S1 Welcome to Barovia]]"
+  - text: The ghosts of Carl and Elisabeth, the house's previous owners, haunt Death House.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md|S3 The Look of Desperation]]"
 images:
   - z_Assets/PlaceholderImage.png
 pronounced: 

@@ -6,8 +6,9 @@ location: ""
 bases: []
 images: []
 gist: "Barovia's Vistani, led by Arrigal, Luvash, and Stanimir; Madam Eva and Ezmerelda are among them."
-summary: ""
-revealed: {}
+summary: "Barovia's travelling folk. At Tser Pool the party met Magda, who sells potions, Alek the storyteller, and Sergei the dollmaker."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 goals: ""

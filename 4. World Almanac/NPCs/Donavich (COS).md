@@ -22,10 +22,14 @@ relationships: [ { target: "[[4. World Almanac/Factions/Clergy of the Morninglor
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: "Village of Barovia's Morninglord priest, who keeps his vampire-spawn son Doru chained beneath the church."
-summary: ""
-revealed: {}
+summary: "The nervous priest of the Village of Barovia's church; screams rise from its basement, and he admits they come from his son."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Donavich's son is a vampire spawn, and the screams beneath the church are his.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md|S3 The Look of Desperation]]"
 pronounced: DON-a-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

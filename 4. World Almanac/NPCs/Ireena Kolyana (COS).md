@@ -18,15 +18,31 @@ description: >-
   daughter of the late burgomaster Kolyan Indirovich. She carries herself with
   quiet, strong-willed dignity despite the terror Strahd has already visited on
   her twice.
-relationships: [ { target: "[[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md|Ismark Kolyanovich]]", type: brother, note: adoptive }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy } ]
+relationships:
+  - target: "[[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md|Ismark Kolyanovich]]"
+    type: brother
+    note: adoptive
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md|S3 The Look of Desperation]]"
+  - target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+    type: enemy
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md|S3 The Look of Desperation]]"
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: "Ismark's adopted sister and Izek's lost sister, carrying Tatyana's soul; Strahd hunted her as his bride."
-summary: ""
-revealed: {}
+summary: "Ismark's sister, whom Strahd wants and has bitten twice. The party escorted her from the Village of Barovia to St. Andral's Church in Vallaki."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Strahd wants Ireena and has bitten her twice.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md|S3 The Look of Desperation]]"
+  - text: Ireena's adoptive father had just died, and she wanted him buried before she left.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md|S3 The Look of Desperation]]"
 pronounced: ee-REE-nah kohl-YAH-nah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

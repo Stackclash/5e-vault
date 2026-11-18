@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 gist: "Barovian village of 300 where the party arrived in S1, returning in S10."
-summary: ""
-revealed: {}
+summary: "A gloomy village where the mists first brought the party together, home to the haunted Death House, a tavern, a general store, and a church."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: A wizard once gathered the townsfolk to rise against Strahd.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S3 The Look of Desperation.md|S3 The Look of Desperation]]"
 images:
   - z_Assets/PlaceholderImage.png
 pronounced:

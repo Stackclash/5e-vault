@@ -17,10 +17,16 @@ party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 gist: "Ageless Vistani seer at Tser Pool and Strahd's secret half-sister; traded her youth to Mother Night for foresight."
-summary: ""
-revealed: {}
-reveal: {}
-facts: []
+summary: "A Vistani seer at Tser Pool who seemed to know the party's pasts and read their fortune with tarot cards."
+revealed:
+  Midnight Covenant: true
+reveal:
+  Midnight Covenant:
+    - occupation
+facts:
+  - text: Madam Eva knows things about the party's pasts that she has no ordinary way of knowing.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S4 Knowing the Road.md|S4 Knowing the Road]]"
 pronounced: MAD-ame EE-vah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

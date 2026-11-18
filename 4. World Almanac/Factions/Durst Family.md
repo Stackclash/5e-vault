@@ -6,9 +6,12 @@ location: ""
 bases: []
 images: []
 gist: "The Durst family; Rose and Thorn Durst are its known members."
-summary: ""
-revealed: {}
+summary: "The family who owned Death House. The party found their crypts beneath it and fought the ghosts of the parents, Carl and Elisabeth."
+revealed:
+  Midnight Covenant: true
 reveal: {}
+public_name:
+  Midnight Covenant: The Death House Family
 facts: []
 goals: ""
 resources: ""

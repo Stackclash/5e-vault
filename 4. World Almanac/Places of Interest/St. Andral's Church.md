@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: "Father Lucian's church in Vallaki; the party sheltered Ireena there (S5) and fought over St. Andral's bones (S6, S8)."
-summary: ""
-revealed: {}
+summary: "Father Lucian's church in Vallaki, where the party brought Ireena for sanctuary. The saint's bones, which protected it from Barovia's evil, were stolen from its crypt."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: The bones of St. Andral protected the church from Barovia's evil until they were stolen from its crypt.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S5 Never Trust a Hunter.md|S5 Never Trust a Hunter]]"
 images:
   - z_Assets/PlaceholderImage.png
 pronounced: 
