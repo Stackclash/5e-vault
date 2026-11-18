@@ -9,10 +9,15 @@ alignment: ""
 domains: []
 images: []
 gist: ""
-summary: ""
-revealed: {}
+summary: "The god who is Roark Battleborn's father."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: The Trickster God is Roark Battleborn's father.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S40 Secrets of the Silent Ascendency.md|S40 Secrets of the Silent Ascendency]]"
+    locked: true
 relationships: []
 aliases: []
 tags:

@@ -4,7 +4,8 @@ statblock: inline
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 condition: dead
 gist: ""
-revealed: {}
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts:
   - text: Marrow carries a soul-graft, the Marrow-rite, built from the same Eludrax soul-craft as the Amber Wardens, which lets it borrow a disguise target's trained reflexes and muscle memory.
@@ -12,6 +13,18 @@ facts:
     locked: true
   - text: "The ambush on Roark and Lyssandra was opportunistic: the Ascendency had no advance knowledge of Corwin Vantor's detection device."
     learned: {}
+    locked: true
+  - text: Marrow was the Silent Ascendency's cell leader in Bruokdon.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md|S44 The Other Roark]]"
+    locked: true
+  - text: Marrow captured and impersonated Lord Caldris Velmont, then Professor Gousse Windcaller, and escaped into a crowd when Faerah saw through it.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S43 The Two Lord Velmonts.md|S43 The Two Lord Velmonts]]"
+    locked: true
+  - text: Marrow took Roark Battleborn's identity; Faerah saw through it and killed Marrow in single combat.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md|S44 The Other Roark]]"
     locked: true
 images:
   - z_Assets/PlaceholderImage.png

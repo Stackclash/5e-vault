@@ -6,8 +6,9 @@ location: ""
 bases: []
 images: []
 gist: ""
-summary: ""
-revealed: {}
+summary: "The cult behind the stolen-magic smuggling in Bruokdon, draining the items' magic to fuel a ritual."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts:
   - text: The Silent Ascendency buys stolen magic items, and targets the party's own magical power, to drain them into soul-vessels built from stolen fragments of Eludrax's soul-craft and feed the energy to Vecna's ascension.
@@ -15,6 +16,10 @@ facts:
     locked: true
   - text: Eludrax's soul-craft is the same craft that fed the original seal binding Vecna and produced Redgrave's bound soul.
     learned: {}
+    locked: true
+  - text: The Silent Ascendency has been draining stolen magic items to fuel a ritual.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S42 Unmasking Lord Velmont.md|S42 Unmasking Lord Velmont]]"
     locked: true
 goals: ""
 resources: ""

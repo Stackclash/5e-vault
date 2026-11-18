@@ -17,7 +17,7 @@ faction:house	House Wachter		4. World Almanac/Factions/House Wachter.md	4. World
 faction:order	Keepers of the Feather		4. World Almanac/Factions/Keepers of the Feather.md		active		
 faction:other	Morgantha's Coven		4. World Almanac/Factions/Morgantha's Coven.md		active		
 faction:order	Order of the Silver Dragon		4. World Almanac/Factions/Order of the Silver Dragon.md		active		
-faction:cult	Silent Ascendency		4. World Almanac/Factions/Silent Ascendency.md		active		
+faction:cult	Silent Ascendency		4. World Almanac/Factions/Silent Ascendency.md		active	Midnight Covenant	The cult behind the stolen-magic smuggling in Bruokdon, draining the items' magic to fuel a ritual.
 faction:other	Strahd's Brides		4. World Almanac/Factions/Strahd's Brides.md		active		
 faction:other	The Unbroken Circle		4. World Almanac/Factions/The Unbroken Circle.md		active		
 faction:order	Umbral Athenaeum Council		4. World Almanac/Factions/Umbral Athenaeum Council.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	active		
@@ -72,7 +72,7 @@ npc	Mad Mary (COS)	Mad Mary	4. World Almanac/NPCs/Mad Mary (COS).md	4. World Alm
 npc	Madam Eva (COS)	Madam Eva	4. World Almanac/NPCs/Madam Eva (COS).md	4. World Almanac/Places of Interest/Tser Pool.md	healthy		
 npc	Magister Kaelor Stormbrand	Kaelor Stormbrand	4. World Almanac/NPCs/Magister Kaelor Stormbrand.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
 npc	Majesto (COS)	Majesto	4. World Almanac/NPCs/Majesto (COS).md	4. World Almanac/Places of Interest/Wachterhaus.md	healthy		
-npc	Marrow	the false Lord Velmont	4. World Almanac/NPCs/Marrow.md	4. World Almanac/Settlements/Bruokdon.md	dead		The party knows the doppelganger that impersonated Lord Caldris Velmont and then Professor Gousse Windcaller (S43) never left Bruokdon. It ambushed Roark Battle
+npc	Marrow	the false Lord Velmont	4. World Almanac/NPCs/Marrow.md	4. World Almanac/Settlements/Bruokdon.md	dead	Midnight Covenant	The party knows the doppelganger that impersonated Lord Caldris Velmont and then Professor Gousse Windcaller (S43) never left Bruokdon. It ambushed Roark Battle
 npc	Martin Thricefold		4. World Almanac/NPCs/Martin Thricefold.md	4. World Almanac/Settlements/Bruokdon.md	healthy		
 npc	Marzena Belview (COS)	Marzena Belview	4. World Almanac/NPCs/Marzena Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
 npc	Milivoj (COS)	Milivoj	4. World Almanac/NPCs/Milivoj (COS).md		healthy		
@@ -168,7 +168,7 @@ story-creature	Unfinished Amber Warden		4. World Almanac/Creatures/Unfinished Am
 story-deity	Dark Powers of the Shadowfell		4. World Almanac/Deities/Dark Powers of the Shadowfell.md				
 story-deity	Mother Night		4. World Almanac/Deities/Mother Night.md				
 story-deity	The Nameless God of Secrets		4. World Almanac/Deities/The Nameless God of Secrets.md				
-story-deity	The Trickster God		4. World Almanac/Deities/The Trickster God.md				
+story-deity	The Trickster God		4. World Almanac/Deities/The Trickster God.md			Midnight Covenant	The god who is Roark Battleborn's father.
 story-item	Dusk Dagger		4. World Almanac/Items/Dusk Dagger.md				A dusk dagger found with the Feeblemind papers under Velmont's house (S43); Roark has it, unidentified.
 story-item	Gulthias Staff		4. World Almanac/Items/Gulthias Staff.md				The blighted staff taken from the Gulthias Tree on Yester Hill (S29).
 story-item	Holy Symbol of Ravenkind		4. World Almanac/Items/Holy Symbol of Ravenkind.md				The sun-bright amulet of the Fortunes of Ravenloft; Redgrave used it to hold Strahd for the stake (S33).
