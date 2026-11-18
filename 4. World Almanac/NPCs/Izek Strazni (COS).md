@@ -326,20 +326,38 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > > - **Defense:** 325 HP plus about 30 from regeneration is 355. Magic Resistance counts as +2 AC (effective 20), plus three Legendary Resistances → **~19.5**.
 > > - **Verdict: CR 17.** In practice the party only has to burn through about half of that (to 162) before the recall.
 > >
-> > **Previous design (2026-09-05), superseded:**
-> >
-> > **Stat block redesign (2026-09-05).** Rebuilt from scratch at **CR 17** at the DM's direction — "very strong even for the whole party." Role: solo brute with a guaranteed exit. Benchmarked against [[5. Mechanics/Bestiary/Fiend/Balor.md|Balor]] (CR 19) and [[5. Mechanics/Bestiary/Giant/Fire Giant.md|Fire Giant]] (CR 9) for the shape of a large fire-flavoured melee threat, then pushed to solo-boss tier with legendary actions and resistances.
-> >
-> > **CR math.**
-> > - **Defensive.** 315 HP sits in the CR 17 row (311–325); AC 18 is one row below (CR 17 wants 19), which pulls down half a step. Amber-Threaded regeneration (15/round) and three Legendary Resistances push effective durability well back up at a tier where this party's control spells are its best answer → **CR 17 defensive**.
-> > - **Offensive.** Multiattack = 15 + 15 + 23 = 53. Pyre of the Whispered One at 34 against two targets = 68, expected roughly 1.5 times across three rounds → ~34/round. One legendary Claw per round ≈ 23. Total ≈ **110/round**, which is the CR 17 row (105–110). Attack +12 against the row's +10 shifts up half a step → **CR 17–18 offensive**.
-> > - **Verdict: CR 17**, running slightly hot on attack bonus. That's deliberate and not an error — the block's job is to be unmistakably out of reach, and a +12 that hits the party's AC most of the time communicates that faster than any amount of hit points.
-> >
-> > **Solo action economy** is handled with 3 legendary actions and 3 legendary resistances rather than minions, because in the scene he's written for he *has* minions — the entire Foundry fight is his action economy, and he leaves it behind for the party while he walks.
-> >
 > > **His Barovia-era stat block**, for reference or flashback: Medium humanoid, AC 14 (studded leather), HP 112 (15d8 + 45), speed 30 ft., STR 18 DEX 15 CON 16 INT 10 WIS 9 CHA 15, Intimidation +8, Perception +2, passive Perception 12, CR 5. *Brute.* Multiattack: two battleaxe attacks, +7 to hit, 13 (2d8 + 4) slashing, or 15 (2d10 + 4) two-handed. *Hurl Flame:* ranged spell attack +5, range 60 ft., 10 (3d6) fire. Source: CoS p. 232.
 > >
 > > **Design intent on the sadness.** He is lucid and uncoerced, which is what makes him work. The temptation is to write him as a tragic puppet; resist it. He weighed a debt against people he liked, and the debt won, and he knows exactly what that makes him. Play him quiet, brief, and a little embarrassed — never anguished. The anguish belongs to the players.
+> >
+> > #### Source
+> > *Source: Curse of Strahd p. 232*
+> >
+> > Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his left arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
+> >
+> > Unlike his sister, Izek was born without a soul. As time wore on, he forgot his lost sister and learned to cope with his disability.
+> >
+> > #### Orphaned Killer
+> >
+> > Izek's parents succumbed to their grief, leaving him an orphan. He became a sociopath. Other children ruthlessly mocked him because of his dead family and his missing arm, but he was a large boy and had no trouble killing them and disposing of their bodies. He was eventually caught in the act and brought to the burgomaster. Instead of punishing the boy for his crimes, Baron Vallakovich pardoned Izek and took him into his home. Izek has been loyal to the burgomaster ever since, enjoying the power of his position and the comforts of his master's mansion. When he isn't enforcing the burgomaster's will, Izek drinks copious amounts of wine.
+> >
+> > #### Fiendish Gift
+> >
+> > After years of doing Baron Vallakovich's dirty work, Izek awakened from a drunken stupor one morning to find that he had grown a new arm to replace the one he had lost.
+> >
+> > The new appendage has barbed spines, elongated fingers, and long nails. He can create fire with the snap of his fiendish fingers and has used the flames to put the fear of the devil in every Vallakian.
+> >
+> > #### Doll Collector
+> >
+> > Perhaps more disturbing than his fiendish arm and his murderous nature is Izek's collection of dolls, which he keeps in his bedroom in the burgomaster's mansion. Izek often has dreams of a beautiful young woman, and for years he has forced a local toymaker named Gadof Blinsky to craft dolls in her likeness. The woman is Ireena Kolyana, although Izek doesn't know her name.
+> >
+> > #### Family Is Forever
+> >
+> > Izek has dreams of Ireena. If he spots her, he tries to take her by force to the burgomaster's mansion. If he succeeds, he holds her captive in his bedroom (chapter 5, area N3j). Unknown to Izek and Ireena, they are brother and sister. Ireena fled after Izek was attacked by the dire wolf and became lost in the woods. She wandered for days in shock until she was found and adopted by Kolyan Indirovich in the village of Barovia. Izek covets her in an unwholesome way and won't allow anyone or anything to come between them.
+> >
+> > - **Ideal.** "Fear is a powerful weapon. I use it to get what I want."  
+> > - **Bond.** "I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family."  
+> > - **Flaw.** "I would do anything, kill anything, to find my sister."  
 
 ```meta-bind-button
 label: ""
@@ -526,35 +544,6 @@ actions:
       field: summary
       label: Summary
 ```
-
-## Source
-*Source: Curse of Strahd p. 232*
-
-Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his left arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
-
-Unlike his sister, Izek was born without a soul. As time wore on, he forgot his lost sister and learned to cope with his disability.
-
-## Orphaned Killer
-
-Izek's parents succumbed to their grief, leaving him an orphan. He became a sociopath. Other children ruthlessly mocked him because of his dead family and his missing arm, but he was a large boy and had no trouble killing them and disposing of their bodies. He was eventually caught in the act and brought to the burgomaster. Instead of punishing the boy for his crimes, Baron Vallakovich pardoned Izek and took him into his home. Izek has been loyal to the burgomaster ever since, enjoying the power of his position and the comforts of his master's mansion. When he isn't enforcing the burgomaster's will, Izek drinks copious amounts of wine.
-
-## Fiendish Gift
-
-After years of doing Baron Vallakovich's dirty work, Izek awakened from a drunken stupor one morning to find that he had grown a new arm to replace the one he had lost.
-
-The new appendage has barbed spines, elongated fingers, and long nails. He can create fire with the snap of his fiendish fingers and has used the flames to put the fear of the devil in every Vallakian.
-
-## Doll Collector
-
-Perhaps more disturbing than his fiendish arm and his murderous nature is Izek's collection of dolls, which he keeps in his bedroom in the burgomaster's mansion. Izek often has dreams of a beautiful young woman, and for years he has forced a local toymaker named Gadof Blinsky to craft dolls in her likeness. The woman is Ireena Kolyana, although Izek doesn't know her name.
-
-## Family Is Forever
-
-Izek has dreams of Ireena. If he spots her, he tries to take her by force to the burgomaster's mansion. If he succeeds, he holds her captive in his bedroom (chapter 5, area N3j). Unknown to Izek and Ireena, they are brother and sister. Ireena fled after Izek was attacked by the dire wolf and became lost in the woods. She wandered for days in shock until she was found and adopted by Kolyan Indirovich in the village of Barovia. Izek covets her in an unwholesome way and won't allow anyone or anything to come between them.
-
-- **Ideal.** "Fear is a powerful weapon. I use it to get what I want."  
-- **Bond.** "I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family."  
-- **Flaw.** "I would do anything, kill anything, to find my sister."  
 
 ```meta-bind-button
 label: Edit all

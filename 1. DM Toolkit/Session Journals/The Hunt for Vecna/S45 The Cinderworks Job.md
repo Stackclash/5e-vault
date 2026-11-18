@@ -86,9 +86,14 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 - The first stop for the Ascendency's smuggled magic items outside [[Bruokdon]] is [[The Cinderworks]] — now cleared out, its workers captured #remember
 - [[Hesper Crane]] named the network's next contact upriver at [[Duskferry]]: a courier known only as "the Tallyman" #remember
 - The code phrase to approach the Tallyman: "The day has been long, but the evening even longer" #remember
-- The Tallyman's real identity is [[Ostwin Reyes]] — [[Hesper Crane]] never learned it herself, only the code name #remember #secret
+
+> [!dm]
+> - The Tallyman's real identity is [[Ostwin Reyes]] — [[Hesper Crane]] never learned it herself, only the code name #remember #secret
+
 - A locked crate in [[The Cinderworks]]' loft office held [[Cloak Of The Manta Ray]], a pair of [[Sending Stones]], a [[Ring Of Protection]], a second dose of [[Dust Of Disappearance]], and an unidentified amber-cored device #remember
-- **DM-only:** the amber-cored device is an inert, half-formed soul-vessel core — the same Eludrax soul-craft behind the Amber Wardens motif and Marrow's own graft. The party has it in hand but hasn't identified what it is #remember #secret
+
+> [!dm]
+> - **DM-only:** the amber-cored device is an inert, half-formed soul-vessel core — the same Eludrax soul-craft behind the Amber Wardens motif and Marrow's own graft. The party has it in hand but hasn't identified what it is #remember #secret
 
 ## Items Of Importance
 - Gotten from [[Professor Alindra Quicksilver]]

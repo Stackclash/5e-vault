@@ -247,6 +247,11 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > >
 > >
 > > ### General Notes
+> >
+> > #### Source
+> > *Source: Curse of Strahd p. 89*
+> >
+> > TBD
 
 ```meta-bind-button
 label: ""
@@ -433,11 +438,6 @@ actions:
       field: summary
       label: Summary
 ```
-
-## Source
-*Source: Curse of Strahd p. 89*
-
-TBD
 
 ```meta-bind-button
 label: Edit all

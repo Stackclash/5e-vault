@@ -147,7 +147,7 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > > ### History
 > > Duskferry grew up around the river crossing generations before Bruokdon's spires went up, and the Ferrymen's Guild is older than any record of who founded it. Its founding bargain with the crown has never been renegotiated: the Guild keeps the crossing running and pays its toll tithe on schedule, and in exchange Bruokdon doesn't look too closely at how the Guild runs its own house. That arrangement has held for longer than anyone currently working the docks has been alive — and it's exactly the gap the Silent Ascendency's network has learned to work inside, one falsified manifest at a time.
 > >
-> > Introduced 2026-08-22 as the lead surfaced by [[The Cinderworks]] infiltration ([[The Second Ledger]]); expanded the same day once Path B looked likely to be the table's pick. Not yet visited by the party.
+> > Introduced 2026-08-22 as the lead surfaced by [[The Cinderworks]] infiltration ([[The Second Ledger]]); expanded the same day once Path B looked likely to be the table's pick. The party visited in S46.
 > >
 > > ### Plot Hooks
 > > - [[Hesper Crane]]'s ledger names a Ferrymen's Guild contact here — code name **the Tallyman** — as the Silent Ascendency's next relay point above Bruokdon. The party has only the code name as of the 2026-08-22 session, not the real identity.
