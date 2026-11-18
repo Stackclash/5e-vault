@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 active:
-  Midnight Covenant: true
+  Midnight Covenant: false
 completed:
   Midnight Covenant: false
 world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
