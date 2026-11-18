@@ -40,8 +40,9 @@ party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]'
 gist: "Vallaki's lonely, eccentric toymaker at Blinsky Toys; upgraded Nyxia and gave the party Eyes of Minute Seeing (S12)."
-summary: ""
-revealed: {}
+summary: "A Vallaki tinkerer who upgraded Nyxia with Docent qualities and gave the party his Eyes of Minute Seeing."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 pronounced: GAD-off BLIN-skee

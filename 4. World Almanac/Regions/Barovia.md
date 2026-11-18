@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 location: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 gist: "Strahd's domain on Eldoria and the setting of the Curse of Strahd arc."
-summary: ""
-revealed: {}
+summary: "Strahd's mist-bound domain, where the party found themselves trapped."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Many Barovians have no souls; souls in Barovia are reborn into new bodies.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
 images:
   - z_Assets/Barovia_Banner.webp
 pronounced: Bar - o - via

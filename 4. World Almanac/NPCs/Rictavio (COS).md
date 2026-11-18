@@ -18,10 +18,14 @@ party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: "Rudolph van Richten disguised as a carnival ringmaster; vampire hunter and Ezmerelda's mentor, met S6-S34."
-summary: ""
-revealed: {}
+summary: "A traveler whom Yan's severed head named as his killer."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Rictavio killed Yan, a Vistani whose preserved head was kept in the tower.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md|S14 Secrets of the Tower]]"
 pronounced: rik-TAH-vee-oh
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

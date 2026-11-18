@@ -5,7 +5,7 @@
 //   held_back: ["<vault path>"]
 // }
 // Paths are vault-relative with .md. Ledger links get the file's basename as alias. Edges are matched by type and target path.
-// body replaces the template filler (Key Learnings / Items Of Importance / What Happened) with the file's text; it must occur once.
+// body replaces the template filler (or the text in the journal's "filler" file) (Key Learnings / Items Of Importance / What Happened) with the file's text; it must occur once.
 const fs = require('fs')
 const path = require('path')
 const { VAULT, read, write, keyOf } = require('./fm')
@@ -53,8 +53,9 @@ for (const [name, js] of Object.entries(spec.journals || {})) {
   if (js.party) setSeq(note, 'party_present', PCS.map(link))
   if (js.body) {
     const text = fs.readFileSync(path.join(path.dirname(specFile), js.body), 'utf8')
-    if (note.body.split(FILLER).length !== 2) throw new Error(`${name}: filler not found exactly once`)
-    note.body = note.body.replace(FILLER, text)
+    const filler = js.filler ? fs.readFileSync(path.join(path.dirname(specFile), js.filler), 'utf8') : FILLER
+    if (note.body.split(filler).length !== 2) throw new Error(`${name}: filler not found exactly once`)
+    note.body = note.body.replace(filler, text)
   }
   if (js.wrap !== false) note.doc.set('wrapped', true)
   save(note, name)

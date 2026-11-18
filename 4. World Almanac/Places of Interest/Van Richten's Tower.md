@@ -2,10 +2,17 @@
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
 gist: "Rictavio's tower near Vallaki; the party's sanctuary in S12-S15, where they held off a werewolf siege."
-summary: ""
-revealed: {}
+summary: "A vine-choked tower on a small island in a murky lake, opened by a magical lock that demands a dance. The party found the Tome of Strahd there, restored the tower with a wand, and held it against a werewolf siege."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: An abandoned, colourful wagon full of monster-hunting gear stood outside the tower.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md|S12 Sanctuary]]"
+  - text: The tower's former owner, Khazan, was trapped and driven mad in a grim dimension behind a hidden door until the party defeated him.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md|S14 Secrets of the Tower]]"
 images:
   - z_Assets/PlaceholderImage.png
 pronounced: 

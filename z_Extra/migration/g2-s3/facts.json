@@ -1,0 +1,38 @@
+{
+  "4. World Almanac/NPCs/Lady Fiona Wachter (COS).md": [
+    { "text": "Fiona Wachter openly admitted her allegiance to Strahd.", "learned": "S11 Deal with the Devil", "locked": false },
+    { "text": "Fiona Wachter wanted to rule Vallaki, saying the town needed a new direction away from the Vallakovichs.", "learned": "S11 Deal with the Devil", "locked": false }
+  ],
+  "4. World Almanac/Settlements/Vallaki.md": [
+    { "text": "Fiona Wachter took power in Vallaki with the party's reluctant consent.", "learned": "S11 Deal with the Devil", "locked": false }
+  ],
+  "4. World Almanac/Places of Interest/Van Richten's Tower.md": [
+    { "text": "An abandoned, colourful wagon full of monster-hunting gear stood outside the tower.", "learned": "S12 Sanctuary", "locked": false },
+    { "text": "The tower's former owner, Khazan, was trapped and driven mad in a grim dimension behind a hidden door until the party defeated him.", "learned": "S14 Secrets of the Tower", "locked": false }
+  ],
+  "4. World Almanac/Items/Khazan's Wand of Secrets.md": [
+    { "text": "The wand can manipulate and repair the structure of the tower.", "learned": "S13 The History of Strahd", "locked": false },
+    { "text": "Used at growing strength, the wand revealed a hidden door in the tower.", "learned": "S14 Secrets of the Tower", "locked": false }
+  ],
+  "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md": [
+    { "text": "Strahd's homeland was the kingdom of Mauristatia.", "learned": "S13 The History of Strahd", "locked": false },
+    { "text": "Strahd's childhood was in the year 473.", "learned": "S13 The History of Strahd", "locked": false },
+    { "text": "As a boy, Strahd felt his family's pressure, and a younger sibling was on the way.", "learned": "S13 The History of Strahd", "locked": false },
+    { "text": "Strahd's army fought the Order of the Silver Dragon at the village of Zmei.", "learned": "S13 The History of Strahd", "locked": false },
+    { "text": "Delus was a commander in Strahd's army.", "learned": "S13 The History of Strahd", "locked": false }
+  ],
+  "4. World Almanac/Regions/Barovia.md": [
+    { "text": "Many Barovians have no souls; souls in Barovia are reborn into new bodies.", "learned": "S13 The History of Strahd", "locked": false }
+  ],
+  "4. World Almanac/NPCs/Ezmerelda Davenir (COS).md": [
+    { "text": "Ezmerelda is searching for her mentor, Rudolph van Richten.", "learned": "S13 The History of Strahd", "locked": false },
+    { "text": "Ezmerelda tried to assassinate Strahd and failed.", "learned": "S13 The History of Strahd", "locked": false },
+    { "text": "Ezmerelda knows the cure for lycanthropy: wolfsbane, the ground heart of the werewolf that bit the victim, and fiend's chilli from the slopes of Mt. Ghakis.", "learned": "S15 The Seige of the Werewolves", "locked": false }
+  ],
+  "4. World Almanac/NPCs/Rictavio (COS).md": [
+    { "text": "Rictavio killed Yan, a Vistani whose preserved head was kept in the tower.", "learned": "S14 Secrets of the Tower", "locked": false }
+  ],
+  "4. World Almanac/Deities/Dark Powers of the Shadowfell.md": [
+    { "text": "Marin accepted power from the Dark Powers to bring Yan's head to life permanently.", "learned": "S14 Secrets of the Tower", "locked": false }
+  ]
+}

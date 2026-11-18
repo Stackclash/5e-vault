@@ -8,8 +8,9 @@ attunement: false
 curse: ""
 images: []
 gist: "Strahd's own history, written in his hand; the party found it in Van Richten's Tower (S12) and has been reading it chapter by chapter."
-summary: ""
-revealed: {}
+summary: "Strahd's own history, written in his hand. Reading its chapters draws the reader into vivid memories of his life."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 relationships: []

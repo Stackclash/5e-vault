@@ -8,10 +8,17 @@ attunement: false
 curse: ""
 images: []
 gist: "A wand of secrets the party has carried since S13."
-summary: ""
-revealed: {}
+summary: "A wand that appeared in the tower; it can reveal hidden things and reshape and repair the tower itself."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: The wand can manipulate and repair the structure of the tower.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
+  - text: Used at growing strength, the wand revealed a hidden door in the tower.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md|S14 Secrets of the Tower]]"
 relationships: []
 aliases: []
 tags:

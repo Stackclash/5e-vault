@@ -28,6 +28,21 @@ facts:
   - text: Strahd led a horde of vampire spawn against St. Andral's Church during the Festival of the Blazing Sun.
     learned:
       Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S8 Meeting Strahd.md|S8 Meeting Strahd]]"
+  - text: Strahd's homeland was the kingdom of Mauristatia.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
+  - text: Strahd's childhood was in the year 473.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
+  - text: As a boy, Strahd felt his family's pressure, and a younger sibling was on the way.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
+  - text: Strahd's army fought the Order of the Silver Dragon at the village of Zmei.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
+  - text: Delus was a commander in Strahd's army.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
 pronounced: strahd von zah-ROH-vich
 race: '[[5. Mechanics/Bestiary/Undead/Vampire|Vampire]]'
 gender: male

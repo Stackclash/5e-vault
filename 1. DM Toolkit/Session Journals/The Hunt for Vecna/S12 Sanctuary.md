@@ -23,17 +23,27 @@ locations:
 fc-end: 973-2-17
 session_number: 12
 party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
   - "[[4. World Almanac/NPCs/Szoldar Szoldarovich (COS).md|Szoldar Szoldarovich (COS)]]"
-  - "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter (COS)]]"
   - "[[4. World Almanac/NPCs/Yevgeni Krushkin (COS).md|Yevgeni Krushkin (COS)]]"
   - "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
   - "[[4. World Almanac/NPCs/Gadof Blinsky (COS).md|Gadof Blinsky (COS)]]"
+  - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
+  - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
 quests: []
-items: []
+items:
+  - "[[4. World Almanac/Items/Tome of Strahd.md|Tome of Strahd]]"
+  - "[[5. Mechanics/Items/Boots Of Striding And Springing.md|Boots Of Striding And Springing]]"
+  - "[[5. Mechanics/Items/Elven Chain.md|Elven Chain]]"
+  - "[[5. Mechanics/Items/Cloak Of Elvenkind.md|Cloak Of Elvenkind]]"
+  - "[[5. Mechanics/Items/Eyes Of Minute Seeing.md|Eyes Of Minute Seeing]]"
 factions: []
-wrapped: false
+wrapped: true
 publish: false
 ---
 > [!infobox]
@@ -69,14 +79,25 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- An abandoned wagon full of monster-hunting gear stands outside the tower on the lake
 
 ## Items Of Importance
-Description
+- Boots of Striding and Springing, from [[Urwin Martikov]]
+- A vial of Assassin's Blood, bought by [[Marin]]
+- Elven Chain and a Cloak of Elvenkind, from [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]
+- Eyes of Minute Seeing, from [[Gadof Blinsky]]
+- 8 potions of greater healing, 2 potions of healing, 2 draft horses, and a wagon
+- [[Tome of Strahd]]
 
 ## What Happened
-Small description.
+- Urwin Martikov gives the party Boots of Striding and Springing
+- Marin buys a vial of Assassin's Blood
+- Szoldar Szoldarovich and Yevgeni Krushkin give the party Elven Chain and a Cloak of Elvenkind
+- Gadof Blinsky upgrades Nyxia with Docent qualities and gives the party his Eyes of Minute Seeing
+- The party buys a wagon and two draft horses and sets out to escort [[Ireena Kolyana]] to Krezk
+- They reach a decaying tower on a small island in a murky lake, with an abandoned wagon of monster-hunting gear outside
+- [[Seluvis Felo'melorn]] solves the door's magical lock, which opens to a dance
+- Four golems run an elevator to the top floor, where the party finds signs of recent habitation and the [[Tome of Strahd]]
 
 
 # `=this.file.name`

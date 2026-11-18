@@ -31,8 +31,9 @@ relationships: [ { target: "[[4. World Almanac/Factions/Vallaki Wolf Hunters.md|
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: "Vallaki wolf hunter and wilderness guide, Szoldar Szoldarovich's partner; met S12."
-summary: ""
-revealed: {}
+summary: "A Vallaki man who, with Szoldar Szoldarovich, gave the party Elven Chain and a Cloak of Elvenkind."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 pronounced: yev-GEH-nee KROOSH-kin

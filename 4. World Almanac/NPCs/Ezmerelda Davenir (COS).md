@@ -13,17 +13,33 @@ images:
 aliases:
   - Ezmerelda d'Avenir
 alignment: Chaotic Good
-relationships: [ { target: "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]", type: mentor, note: van Richten's former protégé }, { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: by birth; ran away at fifteen }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy } ]
+relationships:
+  - { target: "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]", type: mentor, note: van Richten's former protégé }
+  - { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: by birth; ran away at fifteen }
+  - target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+    type: enemy
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
 party_relationships:
   Midnight Covenant: Ally
 location: >-
   [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
   Tower]]
 gist: "One-legged Vistana monster hunter, Rictavio's former protégé, sworn against Strahd; met S15-S33."
-summary: ""
-revealed: {}
+summary: "A fierce monster hunter who came to the tower looking for her mentor, Rudolph van Richten. The werewolves besieged the tower to take her after she failed to kill Strahd."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Ezmerelda is searching for her mentor, Rudolph van Richten.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
+  - text: Ezmerelda tried to assassinate Strahd and failed.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
+  - text: "Ezmerelda knows the cure for lycanthropy: wolfsbane, the ground heart of the werewolf that bit the victim, and fiend's chilli from the slopes of Mt. Ghakis."
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S15 The Seige of the Werewolves.md|S15 The Seige of the Werewolves]]"
 pronounced: ez-meh-REL-da dah-veh-NEER
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

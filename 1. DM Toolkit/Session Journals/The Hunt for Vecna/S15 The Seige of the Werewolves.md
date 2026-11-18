@@ -26,18 +26,20 @@ locations:
   - "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 session_number: 15
 party_present:
-  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
   - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
-  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
   - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
   - "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich (COS)]]"
   - "[[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md|Ezmerelda Davenir (COS)]]"
   - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
 quests: []
 items: []
-factions: []
-wrapped: false
+factions:
+  - "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]"
+wrapped: true
 publish: false
 ---
 > [!infobox]

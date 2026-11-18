@@ -13,13 +13,20 @@ images:
 aliases:
   - Rahadin
 alignment: Lawful Evil
-relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member, note: honorary family }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: works-at, note: chamberlain } ]
+relationships:
+  - { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member, note: honorary family }
+  - target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]"
+    type: serves
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S13 The History of Strahd.md|S13 The History of Strahd]]"
+  - { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: works-at, note: chamberlain }
 party_relationships:
   Midnight Covenant: Enemy
 location: null
 gist: "Dead dusk elf chamberlain of Castle Ravenloft and honorary von Zarovich, Strahd's general for centuries; met S13 and S32."
-summary: ""
-revealed: {}
+summary: "Strahd's stern chamberlain, seen in a vision from the Tome of Strahd sparring with the young Strahd."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 pronounced: RAH-hah-din

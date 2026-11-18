@@ -3,12 +3,15 @@ entity	learned_by	locked	text
 3. The Party/Players/Faerah Duskrane.md		true	Faerah's sister may have survived and escaped the Underdark.
 3. The Party/Players/Redgrave.md	Midnight Covenant:S16	true	Redgrave carries the soul of a member of the Order of the Silver Dragon.
 3. The Party/Players/Yevelda Ovak.md	Midnight Covenant:S29	true	Yevelda's parents died defending Barovia.
+4. World Almanac/Deities/Dark Powers of the Shadowfell.md	Midnight Covenant:S14	false	Marin accepted power from the Dark Powers to bring Yan's head to life permanently.
 4. World Almanac/Deities/The Trickster God.md	Midnight Covenant:S40	true	The Trickster God is Roark Battleborn's father.
 4. World Almanac/Deities/The Trickster God.md		true	Bound by the gods' ancient non-interference compact, the Trickster God seeks Roark Battleborn's help as his mortal agent.
 4. World Almanac/Factions/Eternal Watch.md		true	Wisp's master is a member of the Eternal Watch, and fell into a coma the instant Vecna's escape broke the ward he maintained.
 4. World Almanac/Factions/Silent Ascendency.md		true	The Silent Ascendency buys stolen magic items, and targets the party's own magical power, to drain them into soul-vessels built from stolen fragments of Eludrax's soul-craft and feed the energy to Vecna's ascension.
 4. World Almanac/Factions/Silent Ascendency.md		true	Eludrax's soul-craft is the same craft that fed the original seal binding Vecna and produced Redgrave's bound soul.
 4. World Almanac/Factions/Silent Ascendency.md	Midnight Covenant:S42	true	The Silent Ascendency has been draining stolen magic items to fuel a ritual.
+4. World Almanac/Items/Khazan's Wand of Secrets.md	Midnight Covenant:S13	false	The wand can manipulate and repair the structure of the tower.
+4. World Almanac/Items/Khazan's Wand of Secrets.md	Midnight Covenant:S14	false	Used at growing strength, the wand revealed a hidden door in the tower.
 4. World Almanac/Items/Marrow's Amber Gem.md	Midnight Covenant:S44	false	The gem can hold a creature's essence, and it held Roark Battleborn's.
 4. World Almanac/NPCs/Anastrasya Karelova (COS).md		true	Anastrasya survived Strahd's wedding-night battle and fled, and Vecna's forces are courting her.
 4. World Almanac/NPCs/Anselm Corrow.md		false	Corrow is not part of the Silent Ascendency and does not know what the 'special cargo' is or who is behind it.
@@ -21,6 +24,9 @@ entity	learned_by	locked	text
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	Midnight Covenant:S9	false	Baron Vargas hid in his mansion under guard during Strahd's attack, which enraged Vallaki's villagers.
 4. World Almanac/NPCs/Donavich (COS).md	Midnight Covenant:S3	false	Donavich's son is a vampire spawn, and the screams beneath the church are his.
 4. World Almanac/NPCs/Emil Toranescu (COS).md	Midnight Covenant:S34	true	Once freed, Emil returned to the werewolf pack and took control of it.
+4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	Midnight Covenant:S13	false	Ezmerelda is searching for her mentor, Rudolph van Richten.
+4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	Midnight Covenant:S13	false	Ezmerelda tried to assassinate Strahd and failed.
+4. World Almanac/NPCs/Ezmerelda Davenir (COS).md	Midnight Covenant:S15	false	Ezmerelda knows the cure for lycanthropy: wolfsbane, the ground heart of the werewolf that bit the victim, and fiend's chilli from the slopes of Mt. Ghakis.
 4. World Almanac/NPCs/Gertruda (COS).md	Midnight Covenant:S10	false	Gertruda and Victor Vallakovich were secret lovers.
 4. World Almanac/NPCs/Gertruda (COS).md	Midnight Covenant:S10	false	Gertruda used Victor's teleportation circle and ended up at Castle Ravenloft.
 4. World Almanac/NPCs/Henrik Van Der Voort (COS).md	Midnight Covenant:S6	false	Strahd ordered Henrik to steal St. Andral's bones.
@@ -36,6 +42,8 @@ entity	learned_by	locked	text
 4. World Almanac/NPCs/Izek Strazni (COS).md		false	Vecna speaks to Izek through the Hand, and Izek obeys out of debt, not compulsion.
 4. World Almanac/NPCs/Izek Strazni (COS).md		false	The amber under Izek's skin is the same Eludrax soul-craft as the Amber Wardens' conduits and Marrow's graft.
 4. World Almanac/NPCs/Izek Strazni (COS).md		false	Izek knows what the casked distillate leaving Greyfen Hollow is for.
+4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	Midnight Covenant:S11	false	Fiona Wachter openly admitted her allegiance to Strahd.
+4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	Midnight Covenant:S11	false	Fiona Wachter wanted to rule Vallaki, saying the town needed a new direction away from the Vallakovichs.
 4. World Almanac/NPCs/Lord Caldris Velmont.md	Midnight Covenant:S43	false	The Silent Ascendency captured Velmont and took over his magic-item smuggling operation.
 4. World Almanac/NPCs/Lord Caldris Velmont.md		false	Velmont built the smuggling ring himself, years before the Ascendency seized it.
 4. World Almanac/NPCs/Madam Eva (COS).md	Midnight Covenant:S4	false	Madam Eva knows things about the party's pasts that she has no ordinary way of knowing.
@@ -54,8 +62,14 @@ entity	learned_by	locked	text
 4. World Almanac/NPCs/Ostwin Reyes.md		false	Reyes falsifies or omits manifest entries for 'special cargo' shipments in exchange for payment.
 4. World Almanac/NPCs/Ostwin Reyes.md		false	Reyes knows the shipments' onward route toward Greyfen Hollow, but not what happens there.
 4. World Almanac/NPCs/Ostwin Reyes.md	Midnight Covenant:S46	false	Ostwin Reyes is the Tallyman, the Silent Ascendency's contact in Duskferry.
+4. World Almanac/NPCs/Rictavio (COS).md	Midnight Covenant:S14	false	Rictavio killed Yan, a Vistani whose preserved head was kept in the tower.
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	Midnight Covenant:S6	false	Strahd poses as the nobleman Vasili von Holtz.
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	Midnight Covenant:S8	false	Strahd led a horde of vampire spawn against St. Andral's Church during the Festival of the Blazing Sun.
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	Midnight Covenant:S13	false	Strahd's homeland was the kingdom of Mauristatia.
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	Midnight Covenant:S13	false	Strahd's childhood was in the year 473.
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	Midnight Covenant:S13	false	As a boy, Strahd felt his family's pressure, and a younger sibling was on the way.
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	Midnight Covenant:S13	false	Strahd's army fought the Order of the Silver Dragon at the village of Zmei.
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	Midnight Covenant:S13	false	Delus was a commander in Strahd's army.
 4. World Almanac/NPCs/Vecna.md		true	Vecna's end goal is to become the God of Truth and dominate reality.
 4. World Almanac/NPCs/Vecna.md	Midnight Covenant:S33	true	Redgrave's killing blow on Strahd drew out Strahd's soul, and that was the final piece that freed Vecna from the Amber Temple.
 4. World Almanac/NPCs/Vecna.md		true	Vecna's ascension takes two rituals: the World-Truth Working creates a vacant Truth-domain and stakes his claim to it through a built-in exception, and the Ascension Rite executes that claim.
@@ -69,5 +83,9 @@ entity	learned_by	locked	text
 4. World Almanac/Places of Interest/Death House.md	Midnight Covenant:S3	false	The ghosts of Carl and Elisabeth, the house's previous owners, haunt Death House.
 4. World Almanac/Places of Interest/St. Andral's Church.md	Midnight Covenant:S5	false	The bones of St. Andral protected the church from Barovia's evil until they were stolen from its crypt.
 4. World Almanac/Places of Interest/St. Andral's Church.md	Midnight Covenant:S8	false	St. Andral's bones were stolen again during Father Lucian's sermon; once they were returned, their power drove Strahd and his spawn from the church.
+4. World Almanac/Places of Interest/Van Richten's Tower.md	Midnight Covenant:S12	false	An abandoned, colourful wagon full of monster-hunting gear stood outside the tower.
+4. World Almanac/Places of Interest/Van Richten's Tower.md	Midnight Covenant:S14	false	The tower's former owner, Khazan, was trapped and driven mad in a grim dimension behind a hidden door until the party defeated him.
+4. World Almanac/Regions/Barovia.md	Midnight Covenant:S13	false	Many Barovians have no souls; souls in Barovia are reborn into new bodies.
 4. World Almanac/Settlements/Thornmere.md		true	Thornmere was only a small-scale prototype of Vecna's truth-magic, not the Working itself.
+4. World Almanac/Settlements/Vallaki.md	Midnight Covenant:S11	false	Fiona Wachter took power in Vallaki with the party's reluctant consent.
 4. World Almanac/Settlements/Village of Barovia.md	Midnight Covenant:S3	false	A wizard once gathered the townsfolk to rise against Strahd.

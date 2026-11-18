@@ -50,7 +50,13 @@ summary: "A manipulative figure in Vallaki who stirred up the mob that tried to 
 revealed:
   Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Fiona Wachter openly admitted her allegiance to Strahd.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S11 Deal with the Devil.md|S11 Deal with the Devil]]"
+  - text: Fiona Wachter wanted to rule Vallaki, saying the town needed a new direction away from the Vallakovichs.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S11 Deal with the Devil.md|S11 Deal with the Devil]]"
 pronounced: FEE-oh-nuh VAHK-ter
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

@@ -24,19 +24,26 @@ locations:
 fc-end: 973-2-17
 session_number: 13
 party_present:
-  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
-  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
   - "[[4. World Almanac/NPCs/Kiril Stoyanovich (COS).md|Kiril Stoyanovich (COS)]]"
   - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
   - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
-  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
   - "[[4. World Almanac/NPCs/Rahadin (COS).md|Rahadin (COS)]]"
+  - "[[4. World Almanac/NPCs/Ezmerelda Davenir (COS).md|Ezmerelda Davenir (COS)]]"
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
 quests: []
-items: []
-factions: []
-wrapped: false
+items:
+  - "[[4. World Almanac/Items/Tome of Strahd.md|Tome of Strahd]]"
+  - "[[4. World Almanac/Items/Khazan's Wand of Secrets.md|Khazan's Wand of Secrets]]"
+factions:
+  - "[[4. World Almanac/Factions/Order of the Silver Dragon.md|Order of the Silver Dragon]]"
+  - "[[4. World Almanac/Factions/Children of Mother Night.md|Children of Mother Night]]"
+wrapped: true
 publish: false
 ---
 > [!infobox]

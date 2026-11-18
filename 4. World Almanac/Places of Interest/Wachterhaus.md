@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: "House Wachter's Vallaki seat, home of Stella Wachter and Majesto."
-summary: ""
-revealed: {}
+summary: "Fiona Wachter's house in Vallaki. A hidden cellar beneath it holds occult paraphernalia and a trap that summons skeletal warriors."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 images:

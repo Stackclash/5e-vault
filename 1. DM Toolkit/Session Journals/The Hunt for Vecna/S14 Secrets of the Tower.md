@@ -25,13 +25,16 @@ session_number: 14
 party_present:
   - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
   - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
-  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
-  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
+  - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
 quests: []
-items: []
+items:
+  - "[[4. World Almanac/Items/Khazan's Wand of Secrets.md|Khazan's Wand of Secrets]]"
 factions: []
-wrapped: false
+wrapped: true
 publish: false
 ---
 > [!infobox]
@@ -67,11 +70,12 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- Khazan, the tower's former owner, was trapped in a grim dimension behind a hidden door and driven mad
+- Yan's head says he was a Vistani killed by a traveler named Rictavio
+- Eilistraee has asked [[Faerah Duskrane]] to be her champion in freeing the souls of Barovia
 
 ## Items Of Importance
-Description
+N/A
 
 ## What Happened
 - The party uncovers Khazan and defeat him in his dark dimension

@@ -6,8 +6,9 @@ location: ""
 bases: []
 images: []
 gist: "Fallen knightly order of Argynvostholt under Vladimir Horngaard; Redgrave carries one member's soul."
-summary: ""
-revealed: {}
+summary: "A knightly order whose members defended the village of Zmei against Strahd's army. The memory stirred something buried in Redgrave."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 goals: ""

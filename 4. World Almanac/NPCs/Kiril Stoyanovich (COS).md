@@ -34,8 +34,9 @@ party_relationships:
   Midnight Covenant: Enemy
 location: null
 gist: "Dead former leader of the Children of Mother Night, a cruel werewolf and Strahd's enforcer; Emil replaced him."
-summary: ""
-revealed: {}
+summary: "Leader of the werewolves who besieged the tower to take Ezmerelda; Yevelda killed him."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 pronounced: KEER-il stoy-uh-NO-vich

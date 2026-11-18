@@ -23,12 +23,18 @@ history: >-
   Krushkin]], selling the meat to survive. The dangerous, bloody work has left
   both men grim and quietly broken, and Szoldar spends most of his free time
   drowning his sorrows at the [[Blue Water Inn]].
-relationships: [ { target: "[[4. World Almanac/Factions/Vallaki Wolf Hunters.md|Vallaki Wolf Hunters]]", type: member }, { target: "[[4. World Almanac/NPCs/Yevgeni Krushkin (COS).md|Yevgeni Krushkin]]", type: friend } ]
+relationships:
+  - { target: "[[4. World Almanac/Factions/Vallaki Wolf Hunters.md|Vallaki Wolf Hunters]]", type: member }
+  - target: "[[4. World Almanac/NPCs/Yevgeni Krushkin (COS).md|Yevgeni Krushkin]]"
+    type: friend
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S12 Sanctuary.md|S12 Sanctuary]]"
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: "Grim Vallaki wolf hunter, Yevgeni Krushkin's partner, selling wolf meat to feed his family; met S12."
-summary: ""
-revealed: {}
+summary: "A Vallaki man who, with Yevgeni Krushkin, gave the party Elven Chain and a Cloak of Elvenkind."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 pronounced: ZOL-dar zol-DAR-oh-vich

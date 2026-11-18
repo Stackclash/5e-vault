@@ -5,7 +5,10 @@ gist: "Barovian town ruled by Baron Vargas Vallakovich, 12.7 miles from Van Rich
 revealed:
   Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Fiona Wachter took power in Vallaki with the party's reluctant consent.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S11 Deal with the Devil.md|S11 Deal with the Devil]]"
 images:
   - z_Assets/PlaceholderImage.png
 pronounced:

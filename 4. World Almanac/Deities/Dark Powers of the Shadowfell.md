@@ -9,10 +9,14 @@ alignment: ""
 domains: []
 images: []
 gist: "The Shadowfell's Dark Powers, whom Strahd worships."
-summary: ""
-revealed: {}
+summary: "Whispering powers that offered Marin renewed life and, later, the power to wake Yan's head."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Marin accepted power from the Dark Powers to bring Yan's head to life permanently.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S14 Secrets of the Tower.md|S14 Secrets of the Tower]]"
 relationships: []
 aliases: []
 tags:

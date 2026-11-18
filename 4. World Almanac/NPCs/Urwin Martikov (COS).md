@@ -26,8 +26,9 @@ party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 gist: "Head elder of Vallaki's council and keeper of the Blue Water Inn; wereraven Keeper estranged from his father Davian."
-summary: ""
-revealed: {}
+summary: "A Vallaki man who gave the party Boots of Striding and Springing."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 pronounced: UR-win MAR-ti-kov

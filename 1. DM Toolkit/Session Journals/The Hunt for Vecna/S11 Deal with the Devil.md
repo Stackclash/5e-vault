@@ -19,14 +19,21 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+  - "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
 fc-end: 973-2-16
 session_number: 11
-party_present: []
-npcs: []
+party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter (COS)]]"
 quests: []
 items: []
 factions: []
-wrapped: false
+wrapped: true
 publish: false
 ---
 > [!infobox]
@@ -62,14 +69,18 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Lady Fiona Wachter|Fiona Wachter]] serves Strahd
+- Fiona wants to lead Vallaki, believing the town needs a new direction away from the Vallakovichs
 
 ## Items Of Importance
-Description
+N/A
 
 ## What Happened
-Small description.
+- Investigating Fiona Wachter, the party finds a hidden cellar beneath her house full of occult paraphernalia
+- A trap summons skeletal warriors, and the party destroys them
+- The party confronts Fiona, who says Vallaki needs new leadership and openly admits her allegiance to Strahd
+- The party reluctantly agrees to let Fiona take power, judging it the lesser evil
+- The party prepares to leave Vallaki
 
 # `=this.file.name`
 > [!dm]- Session prep (leftover)
