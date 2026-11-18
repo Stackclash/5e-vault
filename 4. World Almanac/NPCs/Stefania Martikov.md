@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
-gist: ""
+gist: "Davian Martikov's daughter, a wereraven at the Wizard of Wines, married to Dag Tomescu."
 summary: ""
 revealed: {}
 reveal: {}

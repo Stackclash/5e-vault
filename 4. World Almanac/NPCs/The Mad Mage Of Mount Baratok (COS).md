@@ -29,7 +29,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Circle of Eight.md|Circle of Eight]]", type: leader, note: former leader }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: enemy } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Mordenkainen, maddened former Circle of Eight leader, beaten by Strahd; his staff and spellbook lost at Tser Falls."
 summary: ""
 revealed: {}
 reveal: {}

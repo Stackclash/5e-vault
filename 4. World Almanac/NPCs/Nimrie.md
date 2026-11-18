@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 condition: healthy
-gist: ""
+gist: "Drow worshipper of Eilistraee at Duskferry who brought Faerah to Naerissa's shrine (S46); her own ties are undecided."
 revealed: {}
 reveal: {}
 facts: []

@@ -16,7 +16,7 @@ alignment: Lawful Evil
 relationships: [ { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: master, note: masterless since Strahd's death }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: home } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Strahd's old war armor, animated to defend Castle Ravenloft; masterless now, still patrolling the parapets."
 summary: ""
 revealed: {}
 reveal: {}

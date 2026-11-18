@@ -18,7 +18,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|Ho
 party_relationships:
   Midnight Covenant: Enemy
 location: null
-gist: ""
+gist: "Vampire count of Barovia and master of Castle Ravenloft, destroyed by the party (S33); sometimes posed as Vasili von Holtz."
 summary: "The vampire count who ruled Barovia from Castle Ravenloft, sealed in the mists with his domain. He sometimes went about disguised as the nobleman Vasili von Holtz. The Midnight Covenant destroyed him."
 revealed:
   Midnight Covenant: true

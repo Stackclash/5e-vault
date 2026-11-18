@@ -7,7 +7,7 @@ tags:
   - monster/cr/1-2
   - monster/size/medium
   - monster/type/humanoid/elf
-condition: healthy
+condition: dead
 images: []
 aliases:
   - Savid
@@ -24,7 +24,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member, note: last of }, { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: "Vallaki camp, allied" }, { target: "[[4. World Almanac/NPCs/Kasimir Velikov (COS).md|Kasimir Velikov]]", type: patron, note: protector } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Dead dusk elf under Kasimir's protection, met at Argynvostholt (S16); killed by a ghost while the party was away (S17)."
 summary: ""
 revealed: {}
 reveal: {}

@@ -36,7 +36,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Durst Family.md|Durst Family]]", type: member }, { target: "[[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md|Thornboldt Thorn Durst]]", type: brother }, { target: "[[4. World Almanac/Places of Interest/Death House.md|Death House]]", type: home, note: her ghost lingers there } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Ghost of the elder Durst child at Death House, protective of her little brother Thorn."
 summary: ""
 revealed: {}
 reveal: {}

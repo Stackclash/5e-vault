@@ -17,7 +17,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/Keepers of the Feather.m
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-gist: ""
+gist: "Rudolph van Richten disguised as a carnival ringmaster; vampire hunter and Ezmerelda's mentor, met S6-S34."
 summary: ""
 revealed: {}
 reveal: {}

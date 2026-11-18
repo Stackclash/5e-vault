@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 condition: healthy
-gist: ""
+gist: "The Tallyman: Ferrymen's Guild senior clerk secretly falsifying Duskferry manifests for Ascendency cargo bound for Greyfen Hollow."
 revealed:
   Midnight Covenant: true
 reveal: {}

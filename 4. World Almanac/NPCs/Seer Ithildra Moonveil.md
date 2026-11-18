@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Umbral Athenaeum.md|The Umbral Athenaeum]]"
 condition: healthy
-gist: ""
+gist: "The Umbral Athenaeum's elf Councilor of Divination, famed for foreseeing a plague; studying the Barovian arcane surge."
 summary: ""
 revealed: {}
 reveal: {}

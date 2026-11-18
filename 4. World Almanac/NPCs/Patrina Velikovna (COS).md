@@ -31,7 +31,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Dusk Elves of Barovia.md|Dusk Elves of Barovia]]", type: member }, { target: "[[4. World Almanac/Deities/The Nameless God of Secrets.md|The Nameless God of Secrets]]", type: worships }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: lover, note: would-be bride; cast aside }, { target: "[[4. World Almanac/NPCs/Rahadin (COS).md|Rahadin]]", type: enemy }, { target: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]", type: imprisoned-at, note: bound to her crypt in the catacombs } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Dusk elf archmage and Kasimir's sister who taught Strahd the Amber Temple's secrets; bound to her crypt beneath Castle Ravenloft."
 summary: ""
 revealed: {}
 reveal: {}

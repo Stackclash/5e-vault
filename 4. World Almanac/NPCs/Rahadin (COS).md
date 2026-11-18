@@ -17,7 +17,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/House von Zarovich.md|Ho
 party_relationships:
   Midnight Covenant: Enemy
 location: null
-gist: ""
+gist: "Dead dusk elf chamberlain of Castle Ravenloft and honorary von Zarovich, Strahd's general for centuries; met S13 and S32."
 summary: ""
 revealed: {}
 reveal: {}

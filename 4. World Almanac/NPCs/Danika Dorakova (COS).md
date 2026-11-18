@@ -44,7 +44,7 @@ revealed: {}
 reveal: {}
 facts: []
 pronounced: dah-NEE-kah dor-ah-KOH-vah
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: '[[5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md|Wereraven]]'
 gender: female
 age: 34
 occupation:

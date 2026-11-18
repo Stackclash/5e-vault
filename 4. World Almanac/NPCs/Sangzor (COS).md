@@ -24,7 +24,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]", type: home } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]'
-gist: ""
+gist: "'Bloodhorn,' the near-unkillable giant goat of Tsolenka Pass; its pelt earns the mountain berserkers' respect."
 summary: ""
 revealed: {}
 reveal: {}

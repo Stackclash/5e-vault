@@ -31,7 +31,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: mother }, { target: "[[4. World Almanac/NPCs/Stella Wachter (COS).md|Stella Wachter]]", type: sister } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Fiona Wachter's thrill-seeking son, a nobleman of House Wachter; captured with his family at Vallaki."
 summary: ""
 revealed: {}
 reveal: {}

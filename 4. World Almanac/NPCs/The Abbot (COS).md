@@ -15,7 +15,7 @@ alignment: Lawful Evil
 relationships: [ { target: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]", type: home }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: patron, note: as Vasili von Holtz; supplied Amber Temple lore } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Deva master of the Abbey of Saint Markovia who made the Belviews mongrelfolk and built Vasilka as Strahd's bride."
 summary: ""
 revealed: {}
 reveal: {}

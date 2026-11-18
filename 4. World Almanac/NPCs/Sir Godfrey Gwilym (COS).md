@@ -32,7 +32,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/Order of the Silver Drag
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Places of Interest/Argynvostholt.md|Argynvostholt]]'
-gist: ""
+gist: "Silver Dragon knight Strahd slew before his beloved Vladimir Horngaard; Redgrave learned in S17 that he was once Godfrey."
 summary: ""
 revealed: {}
 reveal: {}

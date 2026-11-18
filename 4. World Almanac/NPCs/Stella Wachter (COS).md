@@ -19,7 +19,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: member }, { target: "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter]]", type: mother } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
-gist: ""
+gist: "Fiona Wachter's daughter at Wachterhaus, broken by Victor Vallakovich's cruelty into believing she is a cat."
 summary: ""
 revealed: {}
 reveal: {}

@@ -26,7 +26,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Vallaki Wolf Hunters.md|Vallaki Wolf Hunters]]", type: member }, { target: "[[4. World Almanac/NPCs/Yevgeni Krushkin (COS).md|Yevgeni Krushkin]]", type: friend } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Grim Vallaki wolf hunter, Yevgeni Krushkin's partner, selling wolf meat to feed his family; met S12."
 summary: ""
 revealed: {}
 reveal: {}

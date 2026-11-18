@@ -26,7 +26,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: leader, note: Tser Pool caravan }, { target: "[[4. World Almanac/NPCs/Madam Eva (COS).md|Madam Eva]]", type: serves } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
-gist: ""
+gist: "Vistani wizard leading the Tser Pool caravan that guides fated strangers to Madam Eva."
 summary: ""
 revealed: {}
 reveal: {}

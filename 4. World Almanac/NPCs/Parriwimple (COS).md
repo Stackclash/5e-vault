@@ -29,7 +29,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Shops/Bildrath's Mercantile.md|Bildrath's Mercantile]]", type: works-at } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Bildrath Cantemir's hulking nephew and stock boy, the muscle at Bildrath's Mercantile."
 summary: ""
 revealed: {}
 reveal: {}

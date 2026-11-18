@@ -23,7 +23,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/NPCs/Gadof Blinsky (COS).md|Gadof Blinsky]]", type: master, note: a gift from Rictavio }, { target: "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio]]", type: master, note: former } ]
 party_relationships: {}
 location: null
-gist: ""
+gist: "Rictavio's former carnival monkey, given to Gadof Blinsky and trained as his shop assistant."
 summary: ""
 revealed: {}
 reveal: {}
