@@ -20,8 +20,9 @@ aliases:
   - Karl Wachter
 pronounced: ""
 gist: "Fiona Wachter's son and Nikolai's brother, a drunken young noble of House Wachter; arrested by the party in S33."
-summary: ""
-revealed: {}
+summary: "Lady Fiona Wachter's son, arrested by the party in Vallaki along with his mother and brother."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 race: "[[5. Mechanics/Races/Human.md|Human]]"
