@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Krezk family living at the Abbey of Saint Markovia: Clovin, Cyrus, Marzena, Mishka, Otto, and Zygfrek Belview."
 summary: ""
 revealed: {}
 reveal: {}

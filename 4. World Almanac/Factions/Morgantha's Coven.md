@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Night hag coven led by Morgantha."
 summary: ""
 revealed: {}
 reveal: {}

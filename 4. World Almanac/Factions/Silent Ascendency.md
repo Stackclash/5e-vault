@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Vecna's mortal cult, draining stolen magic into soul-vessels for his ascension; its Bruokdon cell fell in S44."
 summary: "The cult behind the stolen-magic smuggling in Bruokdon, draining the items' magic to fuel a ritual."
 revealed:
   Midnight Covenant: true

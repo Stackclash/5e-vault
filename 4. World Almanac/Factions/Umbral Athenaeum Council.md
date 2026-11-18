@@ -5,7 +5,7 @@ status: active
 location: "[[4. World Almanac/Places of Interest/The Umbral Athenaeum.md|The Umbral Athenaeum]]"
 bases: []
 images: []
-gist: ""
+gist: "Governing council of Bruokdon's Umbral Athenaeum, including Velmont, Gousse, Lyssandra Veil, and five other masters."
 summary: ""
 revealed: {}
 reveal: {}

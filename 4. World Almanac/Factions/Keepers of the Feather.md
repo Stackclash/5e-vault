@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "The Martikovs' wereraven order secretly fighting Strahd; holds the Wizard of Wines gems, allied with Rictavio."
 summary: ""
 revealed: {}
 reveal: {}

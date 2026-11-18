@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Strahd's house, with Rahadin and Lady Fiona Wachter among its members."
 summary: ""
 revealed: {}
 reveal: {}

@@ -5,7 +5,7 @@ status: active
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 bases: []
 images: []
-gist: ""
+gist: "Duskferry's ruling guild under Anselm Corrow; its clerk Ostwin Reyes secretly works for the Ascendency."
 summary: ""
 revealed: {}
 reveal: {}

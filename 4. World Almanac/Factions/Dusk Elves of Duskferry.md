@@ -5,7 +5,7 @@ status: active
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 bases: []
 images: []
-gist: ""
+gist: "Reclusive enclave of Underdark escapees and their descendants at Duskferry, led by Naerissa."
 summary: ""
 revealed: {}
 reveal: {}

@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Hidden Eilistraee congregation in the Greenfall wilds; Naerissa belongs to it."
 summary: ""
 revealed: {}
 reveal: {}

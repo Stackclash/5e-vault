@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Vallaki's former ruling house under Baron Vargas Vallakovich; Izek Strazni once served it."
 summary: ""
 revealed: {}
 reveal: {}

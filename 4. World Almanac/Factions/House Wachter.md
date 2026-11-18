@@ -5,7 +5,7 @@ status: active
 location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
 bases: []
 images: []
-gist: ""
+gist: "Lady Fiona Wachter's noble house at Wachterhaus in Vallaki, with Nikolai, Stella, and the imp Majesto."
 summary: ""
 revealed: {}
 reveal: {}

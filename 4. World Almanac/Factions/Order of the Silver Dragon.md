@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Fallen knightly order of Argynvostholt under Vladimir Horngaard; Redgrave carries one member's soul."
 summary: ""
 revealed: {}
 reveal: {}

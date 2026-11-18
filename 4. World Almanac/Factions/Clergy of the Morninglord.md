@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "The Morninglord's clergy in Barovia; Donavich is a member."
 summary: ""
 revealed: {}
 reveal: {}

@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Strahd's brides: Anastrasya Karelova, Gertruda, Ludmilla Vilisevic, and Volenta Popofsky."
 summary: ""
 revealed: {}
 reveal: {}

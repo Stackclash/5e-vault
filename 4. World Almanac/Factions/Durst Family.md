@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "The Durst family; Rose and Thorn Durst are its known members."
 summary: ""
 revealed: {}
 reveal: {}

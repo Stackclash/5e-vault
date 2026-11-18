@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Barovia's Vistani, led by Arrigal, Luvash, and Stanimir; Madam Eva and Ezmerelda are among them."
 summary: ""
 revealed: {}
 reveal: {}

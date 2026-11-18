@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Faction led by the Mad Mage of Mount Baratok."
 summary: ""
 revealed: {}
 reveal: {}

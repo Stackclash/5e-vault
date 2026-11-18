@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Lady Lydia Petrovna's family house."
 summary: ""
 revealed: {}
 reveal: {}

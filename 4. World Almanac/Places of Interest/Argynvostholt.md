@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Barovian mansion of the fallen Order of the Silver Dragon and Vladimir Horngaard's home; holds Argynvost's skull."
 summary: ""
 revealed: {}
 reveal: {}

@@ -5,7 +5,7 @@ status: active
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 bases: []
 images: []
-gist: ""
+gist: "Barovia's dusk elves, including Kasimir Velikov, Patrina Velikovna, and Savid."
 summary: ""
 revealed: {}
 reveal: {}

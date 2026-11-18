@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Krezk.md|Krezk]]'
-gist: ""
+gist: "The Abbot's abbey in Krezk, home to Vasilka and the Belview family; the party visited in S25."
 summary: ""
 revealed: {}
 reveal: {}

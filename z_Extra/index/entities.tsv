@@ -1,28 +1,28 @@
 type	name	aliases	path	parent	status	revealed_to	gist
 campaign	The Hunt for Vecna		1. DM Toolkit/Campaigns/The Hunt for Vecna.md				
-faction:family	Belview Family		4. World Almanac/Factions/Belview Family.md		active		
-faction:other	Children of Mother Night		4. World Almanac/Factions/Children of Mother Night.md		active		
-faction:other	Circle of Eight		4. World Almanac/Factions/Circle of Eight.md		active		
-faction:other	Clergy of the Morninglord		4. World Almanac/Factions/Clergy of the Morninglord.md		active		
-faction:family	Durst Family		4. World Almanac/Factions/Durst Family.md		active		
-faction:other	Dusk Elves of Barovia		4. World Almanac/Factions/Dusk Elves of Barovia.md	4. World Almanac/Regions/Barovia.md	active		
-faction:other	Dusk Elves of Duskferry		4. World Almanac/Factions/Dusk Elves of Duskferry.md	4. World Almanac/Settlements/Duskferry.md	active		
-faction:other	Eternal Watch		4. World Almanac/Factions/Eternal Watch.md		active		
-faction:guild	Ferrymen's Guild		4. World Almanac/Factions/Ferrymen's Guild.md	4. World Almanac/Settlements/Duskferry.md	active		
-faction:other	Gloaming Court		4. World Almanac/Factions/Gloaming Court.md		active		
-faction:house	House Petrovich		4. World Almanac/Factions/House Petrovich.md		active		
-faction:house	House Vallakovich		4. World Almanac/Factions/House Vallakovich.md		active		
-faction:house	House von Zarovich		4. World Almanac/Factions/House von Zarovich.md		active		
-faction:house	House Wachter		4. World Almanac/Factions/House Wachter.md	4. World Almanac/Places of Interest/Wachterhaus.md	active		
-faction:order	Keepers of the Feather		4. World Almanac/Factions/Keepers of the Feather.md		active		
-faction:other	Morgantha's Coven		4. World Almanac/Factions/Morgantha's Coven.md		active		
-faction:order	Order of the Silver Dragon		4. World Almanac/Factions/Order of the Silver Dragon.md		active		
-faction:cult	Silent Ascendency		4. World Almanac/Factions/Silent Ascendency.md		active	Midnight Covenant	The cult behind the stolen-magic smuggling in Bruokdon, draining the items' magic to fuel a ritual.
-faction:other	Strahd's Brides		4. World Almanac/Factions/Strahd's Brides.md		active		
-faction:other	The Unbroken Circle		4. World Almanac/Factions/The Unbroken Circle.md		active		
-faction:order	Umbral Athenaeum Council		4. World Almanac/Factions/Umbral Athenaeum Council.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	active		
-faction:other	Vallaki Wolf Hunters		4. World Almanac/Factions/Vallaki Wolf Hunters.md		active		
-faction:other	Vistani		4. World Almanac/Factions/Vistani.md		active		
+faction:family	Belview Family		4. World Almanac/Factions/Belview Family.md		active		Krezk family living at the Abbey of Saint Markovia: Clovin, Cyrus, Marzena, Mishka, Otto, and Zygfrek Belview.
+faction:other	Children of Mother Night		4. World Almanac/Factions/Children of Mother Night.md		active		Barovia's werewolf pack, worshippers of Mother Night; Kiril led it, and Emil Toranescu now does.
+faction:other	Circle of Eight		4. World Almanac/Factions/Circle of Eight.md		active		Faction led by the Mad Mage of Mount Baratok.
+faction:other	Clergy of the Morninglord		4. World Almanac/Factions/Clergy of the Morninglord.md		active		The Morninglord's clergy in Barovia; Donavich is a member.
+faction:family	Durst Family		4. World Almanac/Factions/Durst Family.md		active		The Durst family; Rose and Thorn Durst are its known members.
+faction:other	Dusk Elves of Barovia		4. World Almanac/Factions/Dusk Elves of Barovia.md	4. World Almanac/Regions/Barovia.md	active		Barovia's dusk elves, including Kasimir Velikov, Patrina Velikovna, and Savid.
+faction:other	Dusk Elves of Duskferry		4. World Almanac/Factions/Dusk Elves of Duskferry.md	4. World Almanac/Settlements/Duskferry.md	active		Reclusive enclave of Underdark escapees and their descendants at Duskferry, led by Naerissa.
+faction:other	Eternal Watch		4. World Almanac/Factions/Eternal Watch.md		active		The order that imprisoned Vecna in the Amber Temple and watched the seal; Wisp's master is a member.
+faction:guild	Ferrymen's Guild		4. World Almanac/Factions/Ferrymen's Guild.md	4. World Almanac/Settlements/Duskferry.md	active		Duskferry's ruling guild under Anselm Corrow; its clerk Ostwin Reyes secretly works for the Ascendency.
+faction:other	Gloaming Court		4. World Almanac/Factions/Gloaming Court.md		active		The fey court ruled by Mab, Queen of Air and Darkness.
+faction:house	House Petrovich		4. World Almanac/Factions/House Petrovich.md		active		Lady Lydia Petrovna's family house.
+faction:house	House Vallakovich		4. World Almanac/Factions/House Vallakovich.md		active		Vallaki's former ruling house under Baron Vargas Vallakovich; Izek Strazni once served it.
+faction:house	House von Zarovich		4. World Almanac/Factions/House von Zarovich.md		active		Strahd's house, with Rahadin and Lady Fiona Wachter among its members.
+faction:house	House Wachter		4. World Almanac/Factions/House Wachter.md	4. World Almanac/Places of Interest/Wachterhaus.md	active		Lady Fiona Wachter's noble house at Wachterhaus in Vallaki, with Nikolai, Stella, and the imp Majesto.
+faction:order	Keepers of the Feather		4. World Almanac/Factions/Keepers of the Feather.md		active		The Martikovs' wereraven order secretly fighting Strahd; holds the Wizard of Wines gems, allied with Rictavio.
+faction:other	Morgantha's Coven		4. World Almanac/Factions/Morgantha's Coven.md		active		Night hag coven led by Morgantha.
+faction:order	Order of the Silver Dragon		4. World Almanac/Factions/Order of the Silver Dragon.md		active		Fallen knightly order of Argynvostholt under Vladimir Horngaard; Redgrave carries one member's soul.
+faction:cult	Silent Ascendency		4. World Almanac/Factions/Silent Ascendency.md		active	Midnight Covenant	Vecna's mortal cult, draining stolen magic into soul-vessels for his ascension; its Bruokdon cell fell in S44.
+faction:other	Strahd's Brides		4. World Almanac/Factions/Strahd's Brides.md		active		Strahd's brides: Anastrasya Karelova, Gertruda, Ludmilla Vilisevic, and Volenta Popofsky.
+faction:other	The Unbroken Circle		4. World Almanac/Factions/The Unbroken Circle.md		active		Hidden Eilistraee congregation in the Greenfall wilds; Naerissa belongs to it.
+faction:order	Umbral Athenaeum Council		4. World Almanac/Factions/Umbral Athenaeum Council.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	active		Governing council of Bruokdon's Umbral Athenaeum, including Velmont, Gousse, Lyssandra Veil, and five other masters.
+faction:other	Vallaki Wolf Hunters		4. World Almanac/Factions/Vallaki Wolf Hunters.md		active		Vallaki's wolf hunters, Szoldar Szoldarovich and Yevgeni Krushkin.
+faction:other	Vistani		4. World Almanac/Factions/Vistani.md		active		Barovia's Vistani, led by Arrigal, Luvash, and Stanimir; Madam Eva and Ezmerelda are among them.
 npc	Adrian Martikov		4. World Almanac/NPCs/Adrian Martikov.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
 npc	Anastrasya Karelova (COS)	Anastrasya Karelova	4. World Almanac/NPCs/Anastrasya Karelova (COS).md		healthy		
 npc	Anselm Corrow	the Guildmaster	4. World Almanac/NPCs/Anselm Corrow.md	4. World Almanac/Settlements/Duskferry.md	healthy		
@@ -117,8 +117,8 @@ npc	Yevgeni Krushkin (COS)	Yevgeni Krushkin	4. World Almanac/NPCs/Yevgeni Krushk
 npc	Zuleika Toranescu (COS)	Zuleika Toranescu	4. World Almanac/NPCs/Zuleika Toranescu (COS).md		healthy		
 npc	Zygfrek Belview (COS)	Zygfrek Belview	4. World Almanac/NPCs/Zygfrek Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
 party	Midnight Covenant		3. The Party/Parties/Midnight Covenant.md				
-place-of-interest	Abbey of Saint Markovia		4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	4. World Almanac/Settlements/Krezk.md			
-place-of-interest	Argynvostholt		4. World Almanac/Places of Interest/Argynvostholt.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Abbey of Saint Markovia		4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	4. World Almanac/Settlements/Krezk.md			The Abbot's abbey in Krezk, home to Vasilka and the Belview family; the party visited in S25.
+place-of-interest	Argynvostholt		4. World Almanac/Places of Interest/Argynvostholt.md	4. World Almanac/Regions/Barovia.md			Barovian mansion of the fallen Order of the Silver Dragon and Vladimir Horngaard's home; holds Argynvost's skull.
 place-of-interest	Castle Ravenloft		4. World Almanac/Places of Interest/Castle Ravenloft.md	4. World Almanac/Regions/Barovia.md			
 place-of-interest	Coffin Maker's Shop		4. World Almanac/Places of Interest/Coffin Maker's Shop.md	4. World Almanac/Settlements/Vallaki.md			
 place-of-interest	Death House		4. World Almanac/Places of Interest/Death House.md	4. World Almanac/Settlements/Village of Barovia.md			

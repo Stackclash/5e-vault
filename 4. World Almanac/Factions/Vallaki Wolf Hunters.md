@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "Vallaki's wolf hunters, Szoldar Szoldarovich and Yevgeni Krushkin."
 summary: ""
 revealed: {}
 reveal: {}

@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "The order that imprisoned Vecna in the Amber Temple and watched the seal; Wisp's master is a member."
 summary: ""
 revealed: {}
 reveal: {}

@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: ""
+gist: "The fey court ruled by Mab, Queen of Air and Darkness."
 summary: ""
 revealed: {}
 reveal: {}
