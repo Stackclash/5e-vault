@@ -6,7 +6,13 @@ condition: healthy
 gist: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: Corrow is not part of the Silent Ascendency and does not know what the 'special cargo' is or who is behind it.
+    learned: {}
+  - text: Corrow has long known that some manifests pay above the standard toll, and has chosen not to ask why.
+    learned: {}
+  - text: Corrow does not know his senior clerk, Ostwin Reyes, is the Ascendency's contact.
+    learned: {}
 images:
   - z_Assets/PlaceholderImage.png
 relationships: [ { target: "[[4. World Almanac/Factions/Ferrymen's Guild.md|Ferrymen's Guild]]", type: leader } ]
@@ -40,10 +46,6 @@ dislikes: crown inspectors, being lied to by his own clerks, anyone who threaten
 party_relationships:
   Midnight Covenant: Acquaintance
 summary: ""
-secrets: |-
-  STILL DM-ONLY (not yet revealed): Corrow is not Silent Ascendency and doesn't know what "special cargo" actually is or who's ultimately behind it — his blindness is willful, not complicit. He's long known a handful of manifests move through the tally-house paid for above the standard toll and has chosen not to ask why, because the extra revenue and the Guild's reputation for discretion matter more to him than the question does.
-  He would cooperate honestly with the party if approached as themselves rather than as smugglers — legitimate access to the tally-house archives is his to grant, and he'd genuinely want to know if something dangerous were using his Guild. What he can't offer is insider knowledge of the falsified entries themselves; that's [[Ostwin Reyes]]'s doing, not his, and Corrow has no idea his own senior clerk is the actual contact.
-  If shown hard evidence of what's really moving through his docks, he reacts with real anger, not denial — this is a genuine violation of what he's spent his life building, not a front he's protecting.
 ---
 > [!infobox]
 > ```dataviewjs
@@ -156,6 +158,12 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > > ## DM Notes
 > > ### Hidden Details
 > > See Secrets above: his blindness to the Ascendency's use of the Guild is willful but genuine — he doesn't know, and would react with real anger if shown proof.
+> >
+> > STILL DM-ONLY (not yet revealed): Corrow is not Silent Ascendency and doesn't know what "special cargo" actually is or who's ultimately behind it — his blindness is willful, not complicit. He's long known a handful of manifests move through the tally-house paid for above the standard toll and has chosen not to ask why, because the extra revenue and the Guild's reputation for discretion matter more to him than the question does.
+> >
+> > He would cooperate honestly with the party if approached as themselves rather than as smugglers — legitimate access to the tally-house archives is his to grant, and he'd genuinely want to know if something dangerous were using his Guild. What he can't offer is insider knowledge of the falsified entries themselves; that's [[Ostwin Reyes]]'s doing, not his, and Corrow has no idea his own senior clerk is the actual contact.
+> >
+> > If shown hard evidence of what's really moving through his docks, he reacts with real anger, not denial — this is a genuine violation of what he's spent his life building, not a front he's protecting.
 > >
 > > ### General Notes
 > > Created 2026-08-22 alongside [[Ostwin Reyes]] and [[Greyfen Hollow]] while expanding [[Duskferry]] ahead of a likely [[The Second Ledger]] session — built for a *future* visit to Duskferry, not the Cinderworks infiltration itself.

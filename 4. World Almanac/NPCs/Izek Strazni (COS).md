@@ -25,6 +25,16 @@ facts:
   - text: Izek survived the fall of Castle Ravenloft and was claimed by Vecna's power in that moment; the party freed him from Vecna's control (S49).
     learned: {}
     locked: true
+  - text: Izek's fiendish arm was a gift from Vecna, granted from inside the Amber Temple.
+    learned: {}
+  - text: Izek's arm is the Hand of Vecna, grafted onto the stump the dire wolf left.
+    learned: {}
+  - text: Vecna speaks to Izek through the Hand, and Izek obeys out of debt, not compulsion.
+    learned: {}
+  - text: The amber under Izek's skin is the same Eludrax soul-craft as the Amber Wardens' conduits and Marrow's graft.
+    learned: {}
+  - text: Izek knows what the casked distillate leaving Greyfen Hollow is for.
+    learned: {}
 pronounced: EYE-zek STRAHZ-nee
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
@@ -79,43 +89,6 @@ history: >-
   leave him that way. He has not been seen since — until Greyfen Hollow, where
   he now stands over the Silent Ascendency's works as the only thing there that
   answers directly to the Whispered One.
-secrets: >-
-  STILL DM-ONLY — where the arm came from. Izek's fiendish arm was never a
-  Barovian accident and never Strahd's doing. It was a gift, granted from
-  inside the Amber Temple by Vecna himself, to a crippled, drunk, furious young
-  man who wanted it badly enough to be heard. Izek did not know who had answered
-  him then. He knows now. It is the single fact he will not say out loud.
-
-  The arm is the Hand of Vecna (DM decision, 2026-11-13; a player guessed it at
-  the table). Vecna's own severed left hand was sent out of the Amber Temple and
-  grafted onto the stump the dire wolf left. The red, barbed fiend-flesh is what
-  grew out of the Hand over the years, and since Ravenloft it has kept spreading
-  up the shoulder and across the ribs. Vecna is not inside Izek. The Hand is a
-  connection, and Vecna uses it to speak to him whenever he likes. No one else
-  hears that voice; they only hear Izek answering it. When Vecna gives an
-  order, Izek hesitates and then obeys, because he owes the debt. He is not
-  compelled. The Hand also makes him a far stronger candidate for Act II's
-  "Claim a Vessel" than anyone has realised.
-
-  This makes him the prototype the Amber Wardens are imitating: the first
-  successful graft of Eludrax's soul-craft onto a living frame, made by hand as
-  a favour, decades before the Ascendency began mass-producing a cruder version
-  in stone. The amber veining under his skin is the same substance as the
-  Wardens' conduits and as the graft at the nape of [[Marrow]]'s neck. A party
-  that looks properly can connect all three by sight alone — that is the
-  intended reveal here, and it is a reveal about Vecna's reach, not about his
-  plan.
-
-  He is NOT controlled, charmed, or compelled. He is lucid, and he is choosing
-  this. Vecna gave him the arm when he was nothing, and saved his life at
-  Ravenloft when he was dying, and Izek pays what he owes — the same bond he had
-  to Vallakovich, transplanted whole onto a worse master. He is not happy. He is
-  not conflicted enough to stop.
-
-  He knows what the casked distillate leaving Greyfen Hollow is for. He will not
-  say, and he cannot be made to.
-
-  [[Yevelda Ovak]] does not know any of this yet.
 ---
 > [!infobox]
 > ```dataviewjs
@@ -319,6 +292,18 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > > **Party relationship.** `partyRelationships` still reads *Friendly* and should stay that way until the S49 fight actually happens — as of now the party has no reason to think he's anything but a man who fought beside them and went missing. Flip it after Greyfen Hollow, and "Enemy" may still be the wrong word for it.
 > >
 > > **Campaign-bible dependency.** The bible currently slots Izek into Act II, Arc 3 ("Claim a Vessel") as a rescue-or-mercy dilemma. This early reappearance changes that; the DM has said the bible will be revised but is not making that change yet, so the Act II text stands as written for now.
+> >
+> > STILL DM-ONLY — where the arm came from. Izek's fiendish arm was never a Barovian accident and never Strahd's doing. It was a gift, granted from inside the Amber Temple by Vecna himself, to a crippled, drunk, furious young man who wanted it badly enough to be heard. Izek did not know who had answered him then. He knows now. It is the single fact he will not say out loud.
+> >
+> > The arm is the Hand of Vecna (DM decision, 2026-11-13; a player guessed it at the table). Vecna's own severed left hand was sent out of the Amber Temple and grafted onto the stump the dire wolf left. The red, barbed fiend-flesh is what grew out of the Hand over the years, and since Ravenloft it has kept spreading up the shoulder and across the ribs. Vecna is not inside Izek. The Hand is a connection, and Vecna uses it to speak to him whenever he likes. No one else hears that voice; they only hear Izek answering it. When Vecna gives an order, Izek hesitates and then obeys, because he owes the debt. He is not compelled. The Hand also makes him a far stronger candidate for Act II's "Claim a Vessel" than anyone has realised.
+> >
+> > This makes him the prototype the Amber Wardens are imitating: the first successful graft of Eludrax's soul-craft onto a living frame, made by hand as a favour, decades before the Ascendency began mass-producing a cruder version in stone. The amber veining under his skin is the same substance as the Wardens' conduits and as the graft at the nape of [[Marrow]]'s neck. A party that looks properly can connect all three by sight alone — that is the intended reveal here, and it is a reveal about Vecna's reach, not about his plan.
+> >
+> > He is NOT controlled, charmed, or compelled. He is lucid, and he is choosing this. Vecna gave him the arm when he was nothing, and saved his life at Ravenloft when he was dying, and Izek pays what he owes — the same bond he had to Vallakovich, transplanted whole onto a worse master. He is not happy. He is not conflicted enough to stop.
+> >
+> > He knows what the casked distillate leaving Greyfen Hollow is for. He will not say, and he cannot be made to.
+> >
+> > [[Yevelda Ovak]] does not know any of this yet.
 > >
 > > ### General Notes
 > > **Stat block redesign (2026-11-13).** Rebuilt again at the DM's direction. The CR 17 deterrent below was too weak to stand up to the whole party solo, and the scene is now a real fight. Changes: HP raised to 325. A Hand of Vecna trait adds +2d8 cold to every hit, *finger of death* and *teleport* from charges, and cold resistance. Spellcasting adds Deep Magic (KPDM) reality-bending spells (*alter time flow*, *chaotic world*, *time slippage*, *reset*, *swift exchange*) plus *synaptic static* and *counterspell*. **The Whispered Truth** replaces Pyre of the Whispered One: each target saves with its *lowest* modifier. Regeneration is 10 per round, and radiant damage switches it off. The guaranteed exit is now **Recalled by the Hand**.

@@ -46,10 +46,6 @@ history: >-
   turned into a vampire spawn and lay dormant for centuries near Strahd's coffin
   alongside her sister brides, Ludmilla Vilisevic and Volenta Popofsky, rising
   only to defend the tomb from intruders.
-secrets: >-
-  Anastrasya survived the battle that ended Strahd and fled Castle Ravenloft.
-  She is currently being courted by Vecna's mortal agents as a candidate vessel
-  or enforcer — she does not yet know who or what she'd truly be serving.
 ---
 > [!infobox]
 > ```dataviewjs
@@ -234,6 +230,7 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > >
 > > ### Hidden Details
 > >
+> > Anastrasya survived the battle that ended Strahd and fled Castle Ravenloft. She is currently being courted by Vecna's mortal agents as a candidate vessel or enforcer — she does not yet know who or what she'd truly be serving.
 > >
 > > ### General Notes
 > >

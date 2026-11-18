@@ -1,5 +1,5 @@
 // E8 (DM, 2026-11-17): Locked Canon bullets as locked facts, written only from accepted lines.
-// Appends to each note's facts; learned is set only where the DM accepted a session.
+// Appends to each note's facts; learned is set only where the DM accepted a session. "locked": false omits locked.
 // Usage: node e8-facts.js <sitting.json> [--dry-run]
 // sitting.json: { "<note path>": [{ "text": "...", "learned": "<journal file name without .md>" | null }] }
 const fs = require('fs')
@@ -23,7 +23,7 @@ for (const [rel, facts] of Object.entries(sitting)) {
       if (!fs.existsSync(path.join(VAULT, jp))) throw new Error('missing journal ' + jp)
       learned = { [PARTY]: `[[${jp}|${f.learned}]]` }
     }
-    list.items.push(note.doc.createNode({ text: f.text, learned, locked: true }))
+    list.items.push(note.doc.createNode(f.locked === false ? { text: f.text, learned } : { text: f.text, learned, locked: true }))
   }
   write(note, { dryRun })
   console.log(`${dryRun ? '[dry] ' : ''}${rel}: +${facts.length}`)

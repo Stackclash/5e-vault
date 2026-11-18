@@ -4,9 +4,17 @@ statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Cinderworks.md|The Cinderworks]]"
 condition: healthy
 gist: ""
-revealed: {}
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Hesper Crane never met the real Velmont; she dealt only with Marrow wearing his face, through couriers and a password exchange.
+    learned: {}
+  - text: Hesper Crane knows Vecna only as 'the Undying King.'
+    learned: {}
+  - text: Hesper Crane's ledger named the network's next contact in Duskferry, known only as 'the Tallyman.'
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S45 The Cinderworks Job.md|S45 The Cinderworks Job]]"
 images:
   - z_Assets/PlaceholderImage.png
 relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: agent }, { target: "[[4. World Almanac/Places of Interest/The Cinderworks.md|The Cinderworks]]", type: works-at }, { target: "[[4. World Almanac/NPCs/Marrow.md|Marrow]]", type: employer } ]
@@ -39,12 +47,7 @@ likes: exact counts, being paid on schedule, quiet nights
 dislikes: surprises, couriers who talk too much, owing anyone an explanation
 party_relationships:
   Midnight Covenant: Acquaintance
-summary: ""
-secrets: |-
-  STILL DM-ONLY (not yet revealed): Crane has never actually met Velmont in person — only Marrow-as-Velmont, and only ever remotely, through couriers and a standing password exchange. She has no way to detect the swap by sight. She *will* test the password if given any reason to doubt "Velmont," and she has already sent one unanswered inquiry up the chain about the missing shipment — a second silence from either direction is what breaks her composure.
-  Her ledger names the Cinderworks' next relay contact in [[Duskferry]] by name and code — the intended payoff of a successful infiltration.
-  She knows nothing about Vecna by name — only "the Undying King," Ascendency doctrine passed down the same way it reached Marrow's cell.
-  If the ruse breaks or the fight turns against her, she surrenders rather than dies for an employer who isn't answering her messages — she has no loyalty worth dying for. If she escapes instead, she disappears into Greenfall and doesn't reappear at the Cinderworks; treat her as a loose end for a future session, not a guaranteed capture.
+summary: "The Cinderworks quartermaster whose ledger pointed the party to Duskferry."
 ---
 > [!infobox]
 > ```dataviewjs
@@ -157,6 +160,14 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > > ## DM Notes
 > > ### Hidden Details
 > > See Secrets above: she's never met the real Velmont, tests via a password exchange if suspicious, and her ledger is the payoff pointing to [[Duskferry]].
+> >
+> > STILL DM-ONLY (not yet revealed): Crane has never actually met Velmont in person — only Marrow-as-Velmont, and only ever remotely, through couriers and a standing password exchange. She has no way to detect the swap by sight. She *will* test the password if given any reason to doubt "Velmont," and she has already sent one unanswered inquiry up the chain about the missing shipment — a second silence from either direction is what breaks her composure.
+> >
+> > Her ledger names the Cinderworks' next relay contact in [[Duskferry]] by name and code — the intended payoff of a successful infiltration.
+> >
+> > She knows nothing about Vecna by name — only "the Undying King," Ascendency doctrine passed down the same way it reached Marrow's cell.
+> >
+> > If the ruse breaks or the fight turns against her, she surrenders rather than dies for an employer who isn't answering her messages — she has no loyalty worth dying for. If she escapes instead, she disappears into Greenfall and doesn't reappear at the Cinderworks; treat her as a loose end for a future session, not a guaranteed capture.
 > >
 > > ### General Notes
 > > **Stat block design (2026-08-22):** built for [[The Second Ledger]]'s Cinderworks infiltration. Reskin choice: [[5. Mechanics/Bestiary/Humanoid/Blackguard (MPMM).md|Blackguard]] (CR 8) unmodified — she's dangerous enough to be a real threat if the ruse breaks, without inventing new mechanics for a secondary-op NPC. Paired with 2× [[5. Mechanics/Bestiary/Humanoid/Veteran.md|Veteran]] (CR 3 each) and 2× [[5. Mechanics/Bestiary/Humanoid/Thug.md|Thug]] (CR 1/2 each) for the full Cinderworks encounter — CR sum 15 against 5 level-10 PCs (Lazy DM benchmark: deadly at CR sum > 25) reads Hard-but-not-deadly, appropriately a notch below the Baba Lysaga fight on the other branch (CR sum 19) since this is a secondary op, not tonight's potential climax.

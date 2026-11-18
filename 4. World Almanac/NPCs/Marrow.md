@@ -26,6 +26,15 @@ facts:
     learned:
       Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md|S44 The Other Roark]]"
     locked: true
+  - text: The dwarf's confession to leading the Bruokdon cell was a lie.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S44 The Other Roark.md|S44 The Other Roark]]"
+  - text: The dwarf was Marrow's frame, a cultist primed to take the fall.
+    learned: {}
+  - text: Marrow took Lyssandra for her illusion mastery, earmarked for future ward-work.
+    learned: {}
+  - text: "Marrow knew Vecna only by title: the Whispered One, God of Secrets, the Undying King."
+    learned: {}
 images:
   - z_Assets/PlaceholderImage.png
 relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: leader, note: Bruokdon cell }, { target: "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]", type: enemy, note: killed by her (S44) } ]
@@ -69,13 +78,6 @@ party_relationships:
 summary: |-
   The party knows the doppelganger that impersonated Lord Caldris Velmont and then Professor Gousse Windcaller (S43) never left Bruokdon. It ambushed Roark Battleborn and Lyssandra Veil at Corwin Vantor's handoff, killed Corwin, took them both captive, and came back wearing Roark's face with a fake device and a cover story that held for days.
   Faerah Duskrane killed it in a Bruokdon street (S44). The corpse reverted to its true grey form with an amber gem lodged at the base of its neck; the party left the body in place; Redgrave later examined it and took the gem. A cultist taken at the smuggling wagon gave them its name — Marrow — and identified it as the leader of the Ascendency's Bruokdon cell.
-secrets: |-
-  Mostly resolved in play (S43-S44). What the party now knows is in summary; what remains DM-only is flagged below.
-  Revealed: Marrow was the Silent Ascendency's cell leader in Bruokdon, not a rank-and-file infiltrator — it ran the local operation from inside Velmont's stolen identity from the day it took him captive. A cultist taken at the wagon gave the party both its name and its rank.
-  Revealed: it orchestrated the ambush that captured Roark Battleborn and Lyssandra Veil (opportunistic, not planned in advance — the Ascendency had no prior knowledge of the heartbeat-detection device Corwin Vantor built). Lyssandra was taken for her illusion mastery, earmarked for future ward-work; Roark was taken as leverage and, worn as a disguise, as a door back into the party hunting the cell. The device "Roark" returned with was an inert prop.
-  STILL DM-ONLY: the nameless dwarf who confessed mid-sweep to leading the Bruokdon cell was Marrow's frame — a low-level cultist primed to take the fall so suspicion never landed on "Roark." He is in custody and can confirm it whenever the party thinks to ask him.
-  STILL DM-ONLY: the amber graft (the "Marrow-rite" in Ascendency parlance) seated at the base of its skull is a sliver of the same stolen Eludrax soul-craft powering the Amber Wardens and the soul-vessel pipeline. Given prior contact with a target (blood, a grapple, or having watched them fight), the graft let Marrow draw on a whisper of that target's soul-print: trained reflexes, muscle memory, even a taste of talent, layered over its own shapeshifting for as long as the disguise held. This is why "Roark" fought like Roark. See Stats below for the mechanism and its cost. The party left the corpse in the street with the gem still in it and has examined neither — this is the live hook into the Amber Wardens thread.
-  STILL DM-ONLY: rank and file, Marrow included, knew Vecna only by title — the Whispered One, God of Secrets, the Undying King.
 ---
 > [!infobox]
 > ```dataviewjs
@@ -236,6 +238,18 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > > ## DM Notes
 > > ### Hidden Details
 > > See Secrets above for the full picture: cell leadership, the Velmont/Gousse burn, the Roark ambush and its two real motives, the framing plan, and the Marrow-rite mechanism.
+> >
+> > Mostly resolved in play (S43-S44). What the party now knows is in summary; what remains DM-only is flagged below.
+> >
+> > Revealed: Marrow was the Silent Ascendency's cell leader in Bruokdon, not a rank-and-file infiltrator — it ran the local operation from inside Velmont's stolen identity from the day it took him captive. A cultist taken at the wagon gave the party both its name and its rank.
+> >
+> > Revealed: it orchestrated the ambush that captured Roark Battleborn and Lyssandra Veil (opportunistic, not planned in advance — the Ascendency had no prior knowledge of the heartbeat-detection device Corwin Vantor built). Lyssandra was taken for her illusion mastery, earmarked for future ward-work; Roark was taken as leverage and, worn as a disguise, as a door back into the party hunting the cell. The device "Roark" returned with was an inert prop.
+> >
+> > STILL DM-ONLY: the nameless dwarf who confessed mid-sweep to leading the Bruokdon cell was Marrow's frame — a low-level cultist primed to take the fall so suspicion never landed on "Roark." He is in custody and can confirm it whenever the party thinks to ask him.
+> >
+> > STILL DM-ONLY: the amber graft (the "Marrow-rite" in Ascendency parlance) seated at the base of its skull is a sliver of the same stolen Eludrax soul-craft powering the Amber Wardens and the soul-vessel pipeline. Given prior contact with a target (blood, a grapple, or having watched them fight), the graft let Marrow draw on a whisper of that target's soul-print: trained reflexes, muscle memory, even a taste of talent, layered over its own shapeshifting for as long as the disguise held. This is why "Roark" fought like Roark. See Stats below for the mechanism and its cost.
+> >
+> > STILL DM-ONLY: rank and file, Marrow included, knew Vecna only by title — the Whispered One, God of Secrets, the Undying King.
 > >
 > > ### General Notes
 > > **Stat block design (2026-08-01):** Reskin of the MM Doppelganger (CR 3), kept close to the original chassis — the published block already undershoots the DMG's CR3 table (AC/HP well below the row) because its value is utility, not raw combat math; Marrow follows that same logic rather than fighting it. Bumped AC 14→15 and HP 52→66 (added ~1 hit die worth) to reflect a hardened survivor rather than a fresh specimen, kept Multiattack/Slam damage identical to stock, and added two new traits: **Cunning Escape** (thematic, low mechanical weight — comparable to plenty of CR3 skirmisher reactions) and **Marrow-rite**, the signature ability that justifies the character concept.

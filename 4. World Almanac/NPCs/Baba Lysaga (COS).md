@@ -35,7 +35,11 @@ gist: ""
 summary: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: Baba Lysaga traded Mab a future favor for a pack of yeth hounds and a glamour that lets her pass as a fey bargain-broker.
+    learned: {}
+  - text: Baba Lysaga means to trap Strahd's killers the moment they enter fey territory.
+    learned: {}
 pronounced: BAH-bah LEE-sah-gah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
@@ -63,15 +67,6 @@ goals: >-
   who dealt the final blow; make them pay for what they took from her hut
 likes: 'Magic, Strahd, her creeping hut'
 dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
-secrets: >-
-  Strahd's death is barely a week old to her — she has not had time to cool,
-  only to plan. She has struck a bargain with Mab, Queen of Air and Darkness,
-  trading a future favor for a pack of Yeth Hounds and a glamour that lets her
-  pass as a fey bargain-broker. She intends to use it to lure Strahd's killers
-  into a trap the instant they set foot in fey territory — she is a schemer and
-  a shapechanger, not a duelist, and will not fight fair if she can help it. If
-  the trap turns against her, she has an escape already arranged and will not
-  stay to be finished off.
 ---
 > [!infobox]
 > ```dataviewjs
@@ -262,6 +257,7 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > >
 > > ### Hidden Details
 > >
+> > Strahd's death is barely a week old to her — she has not had time to cool, only to plan. She has struck a bargain with Mab, Queen of Air and Darkness, trading a future favor for a pack of Yeth Hounds and a glamour that lets her pass as a fey bargain-broker. She intends to use it to lure Strahd's killers into a trap the instant they set foot in fey territory — she is a schemer and a shapechanger, not a duelist, and will not fight fair if she can help it. If the trap turns against her, she has an escape already arranged and will not stay to be finished off.
 > >
 > > ### General Notes
 > >

@@ -6,7 +6,11 @@ condition: healthy
 gist: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: Naerissa does not know whether Faerah's sister survived; she knows only that the sister did not leave with them.
+    learned: {}
+  - text: The larger Unbroken Circle congregation lives in the Greenfall wilds.
+    learned: {}
 images:
   - z_Assets/PlaceholderImage.png
 relationships: [ { target: "[[4. World Almanac/Factions/The Unbroken Circle.md|The Unbroken Circle]]", type: member }, { target: "[[4. World Almanac/Factions/Dusk Elves of Duskferry.md|Dusk Elves of Duskferry]]", type: leader, note: elder }, { target: "[[5. Mechanics/Deities/Drow Eilistraee (MTF).md|Eilistraee]]", type: cleric-of } ]
@@ -39,9 +43,6 @@ party_relationships:
   Midnight Covenant: Friendly
 summary: |-
   Elder of a small, reclusive dusk elf community at Duskferry's edge, tending a hidden shrine to Eilistraee on a reed-bank spit downshore of the Waterline. She was guided out of the Underdark years ago by a group led by Faerah's sister, and recognized Faerah's pendant on sight as the twin of the one her sister wore — proof the sister's escape work was real, organized, and larger than Faerah ever knew. She spoke of a bigger, older congregation of the same order somewhere in the Greenfall wilds, but wouldn't say more about it.
-secrets: |-
-  STILL DM-ONLY (not yet revealed): per the campaign bible, [[Faerah Duskrane]]'s sister — believed killed fleeing the Underdark — may actually be alive, having escaped independently. That thread is reserved for Act II, Arc 2 and must not be confirmed through Naerissa (or anyone else) before then. Naerissa's own knowledge doesn't extend past "she did not leave with us" — she should not be played as secretly knowing whether the sister survived, only as someone who never learned what became of her.
-  The larger Unbroken Circle congregation lives in the Greenfall wilds. Naerissa deliberately avoids the subject and won't be drawn on why if pressed — this is the seed for the campaign bible's Act I/II Eilistraee-congregation side quest (a hidden surface congregation with a corrupted-convert infiltrator), not yet built or scheduled.
 ---
 > [!infobox]
 > ```dataviewjs
@@ -154,6 +155,10 @@ await dv.view('views/entityHeader', {current: dv.current()})
 > > ## DM Notes
 > > ### Hidden Details
 > > See Secrets above: the "sister may be alive" thread is a campaign-bible-level tension, not something Naerissa herself confirms or denies — she genuinely doesn't know.
+> >
+> > STILL DM-ONLY (not yet revealed): per the campaign bible, [[Faerah Duskrane]]'s sister — believed killed fleeing the Underdark — may actually be alive, having escaped independently. That thread is reserved for Act II, Arc 2 and must not be confirmed through Naerissa (or anyone else) before then. Naerissa's own knowledge doesn't extend past "she did not leave with us" — she should not be played as secretly knowing whether the sister survived, only as someone who never learned what became of her.
+> >
+> > The larger Unbroken Circle congregation lives in the Greenfall wilds. Naerissa deliberately avoids the subject and won't be drawn on why if pressed — this is the seed for the campaign bible's Act I/II Eilistraee-congregation side quest (a hidden surface congregation with a corrupted-convert infiltrator), not yet built or scheduled.
 > >
 > > ### General Notes
 > > Created 2026-09-05 (S46), alongside [[Nimrie]], when Faerah Duskrane's moonlit pendant led her to the Eilistraee shrine at Duskferry. Seeds the campaign bible's Act I/II Eilistraee-congregation side quest (Active Threads / Character Tie-Ins → Faerah) without launching it.
