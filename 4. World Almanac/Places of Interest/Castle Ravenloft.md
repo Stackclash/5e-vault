@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
 gist: "Strahd's castle in Barovia, where the party broke up his wedding (S32); Rahadin and Helga Ruvak work there."
-summary: ""
-revealed: {}
+summary: "Strahd's castle. A teleportation circle sent the party there by surprise, and they found Victor inside."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Victor's teleportation circle links to a network that can send travellers to Castle Ravenloft.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md|S10 Finding Victor]]"
 images:
   - z_Assets/PlaceholderImage.png
 pronounced: 

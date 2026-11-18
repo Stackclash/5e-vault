@@ -11,8 +11,15 @@ entity	hash	text
 4. World Almanac/Factions/Silent Ascendency.md	c39920badb	The Silent Ascendency has been draining stolen magic items to fuel a ritual.
 4. World Almanac/Items/Marrow's Amber Gem.md	b987c25354	The gem can hold a creature's essence, and it held Roark Battleborn's.
 4. World Almanac/NPCs/Anastrasya Karelova (COS).md	dffc886b9b	Anastrasya survived Strahd's wedding-night battle and fled, and Vecna's forces are courting her.
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	540e07e4ee	Baron Vargas believes his festivals' enforced happiness will free Vallaki from Strahd.
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	257a49bca3	Baron Vargas proposed that Ireena marry his son Victor.
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	68eb81064c	Baron Vargas hid in his mansion under guard during Strahd's attack, which enraged Vallaki's villagers.
 4. World Almanac/NPCs/Donavich (COS).md	d8a2d05251	Donavich's son is a vampire spawn, and the screams beneath the church are his.
 4. World Almanac/NPCs/Emil Toranescu (COS).md	1049f05a58	Once freed, Emil returned to the werewolf pack and took control of it.
+4. World Almanac/NPCs/Gertruda (COS).md	9254a86db9	Gertruda and Victor Vallakovich were secret lovers.
+4. World Almanac/NPCs/Gertruda (COS).md	0a27d13383	Gertruda used Victor's teleportation circle and ended up at Castle Ravenloft.
+4. World Almanac/NPCs/Henrik Van Der Voort (COS).md	a6dbff248e	Strahd ordered Henrik to steal St. Andral's bones.
+4. World Almanac/NPCs/Henrik Van Der Voort (COS).md	0ab310a8f7	Henrik knew his patron only as the nobleman Vasili von Holtz, and later learned he was Strahd.
 4. World Almanac/NPCs/Hesper Crane.md	029c87a380	Hesper Crane's ledger named the network's next contact in Duskferry, known only as 'the Tallyman.'
 4. World Almanac/NPCs/Ireena Kolyana (COS).md	ccf47ae7c9	Strahd wants Ireena and has bitten her twice.
 4. World Almanac/NPCs/Ireena Kolyana (COS).md	862f909cab	Ireena's adoptive father had just died, and she wanted him buried before she left.
@@ -25,15 +32,22 @@ entity	hash	text
 4. World Almanac/NPCs/Marrow.md	799892ce1a	Marrow captured and impersonated Lord Caldris Velmont, then Professor Gousse Windcaller, and escaped into a crowd when Faerah saw through it.
 4. World Almanac/NPCs/Marrow.md	4fdc2175d8	Marrow took Roark Battleborn's identity; Faerah saw through it and killed Marrow in single combat.
 4. World Almanac/NPCs/Marrow.md	f533b7fc4c	The dwarf's confession to leading the Bruokdon cell was a lie.
+4. World Almanac/NPCs/Milivoj (COS).md	8db54c76ec	Milivoj knew that St. Andral's stolen bones had been taken to Henrik van der Voort's coffin shop.
 4. World Almanac/NPCs/Ostwin Reyes.md	58ffe8f308	Ostwin Reyes is the Tallyman, the Silent Ascendency's contact in Duskferry.
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	f6b5c06f4c	Strahd poses as the nobleman Vasili von Holtz.
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	dc7c5fb0a8	Strahd led a horde of vampire spawn against St. Andral's Church during the Festival of the Blazing Sun.
 4. World Almanac/NPCs/Vecna.md	4e2036448e	Vecna's end goal is to become the God of Truth and dominate reality.
 4. World Almanac/NPCs/Vecna.md	dde97c328e	Redgrave's killing blow on Strahd drew out Strahd's soul, and that was the final piece that freed Vecna from the Amber Temple.
 4. World Almanac/NPCs/Vecna.md	ad92b40d10	Vecna's ascension takes two rituals: the World-Truth Working creates a vacant Truth-domain and stakes his claim to it through a built-in exception, and the Ascension Rite executes that claim.
 4. World Almanac/NPCs/Vecna.md	622420e315	Vecna's claim on the Truth-domain is dishonestly won, so a genuinely total, unhedged claimant could override it at the Rite.
+4. World Almanac/NPCs/Victor Vallakovich (COS).md	cd8d16da94	Victor is a self-taught necromancer who practises in his attic room.
+4. World Almanac/NPCs/Victor Vallakovich (COS).md	7c38322200	Victor used a teleportation sigil to visit Gertruda.
+4. World Almanac/Places of Interest/Castle Ravenloft.md	18ef6167f1	Victor's teleportation circle links to a network that can send travellers to Castle Ravenloft.
+4. World Almanac/Places of Interest/Coffin Maker's Shop.md	8d3af5d031	Vampire spawn lurk at the Coffin Maker's Shop.
 4. World Almanac/Places of Interest/Death House.md	20489885b4	The cultists who lived in Death House revered Strahd.
 4. World Almanac/Places of Interest/Death House.md	f8bcc41f7e	Rose and Thorn were locked in the attic of Death House, and their remains were found there.
 4. World Almanac/Places of Interest/Death House.md	e9e88fe728	The ghosts of Carl and Elisabeth, the house's previous owners, haunt Death House.
 4. World Almanac/Places of Interest/St. Andral's Church.md	72dd37e617	The bones of St. Andral protected the church from Barovia's evil until they were stolen from its crypt.
+4. World Almanac/Places of Interest/St. Andral's Church.md	8e5c570cf6	St. Andral's bones were stolen again during Father Lucian's sermon; once they were returned, their power drove Strahd and his spawn from the church.
 4. World Almanac/Settlements/Thornmere.md	e44831c1db	Thornmere was only a small-scale prototype of Vecna's truth-magic, not the Working itself.
 4. World Almanac/Settlements/Village of Barovia.md	c2dc28c8c3	A wizard once gathered the townsfolk to rise against Strahd.

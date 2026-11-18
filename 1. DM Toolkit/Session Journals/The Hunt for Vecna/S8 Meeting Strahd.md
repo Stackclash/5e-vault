@@ -17,14 +17,22 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+  - "[[4. World Almanac/Places of Interest/St. Andral's Church.md|St. Andral's Church]]"
 fc-end: 973-2-15
 session_number: 8
-party_present: []
-npcs: []
+party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich (COS)]]"
 quests: []
 items: []
 factions: []
-wrapped: false
+wrapped: true
 publish: false
 ---
 > [!infobox]
@@ -60,14 +68,17 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- St. Andral's bones protect the church from Strahd and his spawn
 
 ## Items Of Importance
-Description
+N/A
 
 ## What Happened
-Small description.
+- The party attends the Festival of the Blazing Sun; heavy rain keeps the bonfire from lighting
+- A guard laughs at the Baron's misfortune and is arrested; [[Yevelda Ovak]] stands up for him and is arrested too
+- During Father Lucian's sermon, St. Andral's bones are stolen again
+- [[Strahd Von Zarovich (COS)|Strahd Von Zarovich]] appears at [[St. Andral's Church]] with a horde of vampire spawn and attacks the villagers
+- [[Faerah Duskrane]] intercepts the stolen bones and returns them; their power drives Strahd and his spawn out
 
 
 # `=this.file.name`

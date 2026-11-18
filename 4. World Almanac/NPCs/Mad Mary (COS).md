@@ -21,8 +21,9 @@ relationships: []
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: "Gertruda's grief-stricken mother in the Village of Barovia, barricaded in her townhouse since Gertruda vanished; met S10."
-summary: ""
-revealed: {}
+summary: "A distraught woman in the Village of Barovia who told the party that Gertruda had been missing for about a week."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 pronounced: null

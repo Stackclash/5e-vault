@@ -19,12 +19,20 @@ locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 fc-end: 973-2-14
 session_number: 7
-party_present: []
-npcs: []
+party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
+npcs:
+  - "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich (COS)]]"
+  - "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich (COS)]]"
 quests: []
 items: []
-factions: []
-wrapped: false
+factions:
+  - "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]"
+wrapped: true
 publish: false
 ---
 > [!infobox]
@@ -60,14 +68,19 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Baron Vargas Vallakovich]] believes his festivals will free Vallaki from Strahd
+- The Baron wants [[Ireena Kolyana]] to marry his son, [[Victor Vallakovich]]
+- Victor is a self-taught necromancer
 
 ## Items Of Importance
-Description
+N/A
 
 ## What Happened
-Small description.
+- The party dines at Baron Vargas's home
+- The Baron explains that his festivals, meant to make everyone happy, will free Vallaki from Strahd's grip
+- He proposes that Ireena marry his son Victor
+- Victor storms off to his attic room, and the party follows him
+- The party discovers that Victor is a self-taught necromancer and befriends him
 
 # `=this.file.name`
 > [!dm]- Session prep (leftover)

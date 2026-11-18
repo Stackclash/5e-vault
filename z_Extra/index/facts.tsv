@@ -16,8 +16,15 @@ entity	learned_by	locked	text
 4. World Almanac/NPCs/Anselm Corrow.md		false	Corrow does not know his senior clerk, Ostwin Reyes, is the Ascendency's contact.
 4. World Almanac/NPCs/Baba Lysaga (COS).md		false	Baba Lysaga traded Mab a future favor for a pack of yeth hounds and a glamour that lets her pass as a fey bargain-broker.
 4. World Almanac/NPCs/Baba Lysaga (COS).md		false	Baba Lysaga means to trap Strahd's killers the moment they enter fey territory.
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	Midnight Covenant:S7	false	Baron Vargas believes his festivals' enforced happiness will free Vallaki from Strahd.
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	Midnight Covenant:S7	false	Baron Vargas proposed that Ireena marry his son Victor.
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	Midnight Covenant:S9	false	Baron Vargas hid in his mansion under guard during Strahd's attack, which enraged Vallaki's villagers.
 4. World Almanac/NPCs/Donavich (COS).md	Midnight Covenant:S3	false	Donavich's son is a vampire spawn, and the screams beneath the church are his.
 4. World Almanac/NPCs/Emil Toranescu (COS).md	Midnight Covenant:S34	true	Once freed, Emil returned to the werewolf pack and took control of it.
+4. World Almanac/NPCs/Gertruda (COS).md	Midnight Covenant:S10	false	Gertruda and Victor Vallakovich were secret lovers.
+4. World Almanac/NPCs/Gertruda (COS).md	Midnight Covenant:S10	false	Gertruda used Victor's teleportation circle and ended up at Castle Ravenloft.
+4. World Almanac/NPCs/Henrik Van Der Voort (COS).md	Midnight Covenant:S6	false	Strahd ordered Henrik to steal St. Andral's bones.
+4. World Almanac/NPCs/Henrik Van Der Voort (COS).md	Midnight Covenant:S6	false	Henrik knew his patron only as the nobleman Vasili von Holtz, and later learned he was Strahd.
 4. World Almanac/NPCs/Hesper Crane.md		false	Hesper Crane never met the real Velmont; she dealt only with Marrow wearing his face, through couriers and a password exchange.
 4. World Almanac/NPCs/Hesper Crane.md		false	Hesper Crane knows Vecna only as 'the Undying King.'
 4. World Almanac/NPCs/Hesper Crane.md	Midnight Covenant:S45	false	Hesper Crane's ledger named the network's next contact in Duskferry, known only as 'the Tallyman.'
@@ -41,19 +48,26 @@ entity	learned_by	locked	text
 4. World Almanac/NPCs/Marrow.md		false	The dwarf was Marrow's frame, a cultist primed to take the fall.
 4. World Almanac/NPCs/Marrow.md		false	Marrow took Lyssandra for her illusion mastery, earmarked for future ward-work.
 4. World Almanac/NPCs/Marrow.md		false	Marrow knew Vecna only by title: the Whispered One, God of Secrets, the Undying King.
+4. World Almanac/NPCs/Milivoj (COS).md	Midnight Covenant:S6	false	Milivoj knew that St. Andral's stolen bones had been taken to Henrik van der Voort's coffin shop.
 4. World Almanac/NPCs/Naerissa.md		false	Naerissa does not know whether Faerah's sister survived; she knows only that the sister did not leave with them.
 4. World Almanac/NPCs/Naerissa.md		false	The larger Unbroken Circle congregation lives in the Greenfall wilds.
 4. World Almanac/NPCs/Ostwin Reyes.md		false	Reyes falsifies or omits manifest entries for 'special cargo' shipments in exchange for payment.
 4. World Almanac/NPCs/Ostwin Reyes.md		false	Reyes knows the shipments' onward route toward Greyfen Hollow, but not what happens there.
 4. World Almanac/NPCs/Ostwin Reyes.md	Midnight Covenant:S46	false	Ostwin Reyes is the Tallyman, the Silent Ascendency's contact in Duskferry.
 4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	Midnight Covenant:S6	false	Strahd poses as the nobleman Vasili von Holtz.
+4. World Almanac/NPCs/Strahd Von Zarovich (COS).md	Midnight Covenant:S8	false	Strahd led a horde of vampire spawn against St. Andral's Church during the Festival of the Blazing Sun.
 4. World Almanac/NPCs/Vecna.md		true	Vecna's end goal is to become the God of Truth and dominate reality.
 4. World Almanac/NPCs/Vecna.md	Midnight Covenant:S33	true	Redgrave's killing blow on Strahd drew out Strahd's soul, and that was the final piece that freed Vecna from the Amber Temple.
 4. World Almanac/NPCs/Vecna.md		true	Vecna's ascension takes two rituals: the World-Truth Working creates a vacant Truth-domain and stakes his claim to it through a built-in exception, and the Ascension Rite executes that claim.
 4. World Almanac/NPCs/Vecna.md		true	Vecna's claim on the Truth-domain is dishonestly won, so a genuinely total, unhedged claimant could override it at the Rite.
+4. World Almanac/NPCs/Victor Vallakovich (COS).md	Midnight Covenant:S7	false	Victor is a self-taught necromancer who practises in his attic room.
+4. World Almanac/NPCs/Victor Vallakovich (COS).md	Midnight Covenant:S10	false	Victor used a teleportation sigil to visit Gertruda.
+4. World Almanac/Places of Interest/Castle Ravenloft.md	Midnight Covenant:S10	false	Victor's teleportation circle links to a network that can send travellers to Castle Ravenloft.
+4. World Almanac/Places of Interest/Coffin Maker's Shop.md	Midnight Covenant:S6	false	Vampire spawn lurk at the Coffin Maker's Shop.
 4. World Almanac/Places of Interest/Death House.md	Midnight Covenant:S1	false	The cultists who lived in Death House revered Strahd.
 4. World Almanac/Places of Interest/Death House.md	Midnight Covenant:S1	false	Rose and Thorn were locked in the attic of Death House, and their remains were found there.
 4. World Almanac/Places of Interest/Death House.md	Midnight Covenant:S3	false	The ghosts of Carl and Elisabeth, the house's previous owners, haunt Death House.
 4. World Almanac/Places of Interest/St. Andral's Church.md	Midnight Covenant:S5	false	The bones of St. Andral protected the church from Barovia's evil until they were stolen from its crypt.
+4. World Almanac/Places of Interest/St. Andral's Church.md	Midnight Covenant:S8	false	St. Andral's bones were stolen again during Father Lucian's sermon; once they were returned, their power drove Strahd and his spawn from the church.
 4. World Almanac/Settlements/Thornmere.md		true	Thornmere was only a small-scale prototype of Vecna's truth-magic, not the Working itself.
 4. World Almanac/Settlements/Village of Barovia.md	Midnight Covenant:S3	false	A wizard once gathered the townsfolk to rise against Strahd.

@@ -36,13 +36,19 @@ history: >-
   Larnak, to keep her informed of everything that happens in town, though he
   knows enough of her secrets to blackmail her should their arrangement ever
   sour.
-relationships: [ { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: leader }, { target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]", type: rival } ]
+relationships:
+  - { target: "[[4. World Almanac/Factions/House Wachter.md|House Wachter]]", type: leader }
+  - target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]"
+    type: rival
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md|S9 The Mob of Vallaki]]"
 party_relationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: "Head of House Wachter and Vallaki's secret devil cult, Baron Vallakovich's rival; now captured at Vallaki."
-summary: ""
-revealed: {}
+summary: "A manipulative figure in Vallaki who stirred up the mob that tried to execute Baron Vargas and his wife."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 pronounced: FEE-oh-nuh VAHK-ter

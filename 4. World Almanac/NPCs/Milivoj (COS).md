@@ -33,10 +33,14 @@ relationships: [ { target: "[[4. World Almanac/Places of Interest/St. Andral's C
 party_relationships: {}
 location: null
 gist: "Gravedigger at Vallaki's St. Andral's Church who told Henrik Van Der Voort where the saint's bones lay; met S6."
-summary: ""
-revealed: {}
+summary: "A Vallaki man who, once persuaded, told the party where St. Andral's stolen bones had been taken."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Milivoj knew that St. Andral's stolen bones had been taken to Henrik van der Voort's coffin shop.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md|S6 Best Weapon against Vampires are Old Men]]"
 pronounced: MIL-ih-voy
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

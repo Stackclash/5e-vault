@@ -29,12 +29,15 @@ relationships:
   - target: "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
     type: friend
     note: she flirted with him in Vallaki (S9)
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md|S9 The Mob of Vallaki]]"
 party_relationships:
   Midnight Covenant: Friendly
 location: "[[4. World Almanac/Places of Interest/Greyfen Hollow.md|Greyfen Hollow]]"
 gist: "Ireena's brother, his arm the Hand of Vecna; ran Vecna's works at Greyfen Hollow until the party freed him (S49)."
-summary: ""
-revealed: {}
+summary: "A man in Vallaki whom Yevelda flirted with on the night the mob gathered."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts:
   - text: Izek survived the fall of Castle Ravenloft and was claimed by Vecna's power in that moment; the party freed him from Vecna's control (S49).

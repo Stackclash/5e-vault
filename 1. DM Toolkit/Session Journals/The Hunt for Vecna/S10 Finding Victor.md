@@ -21,20 +21,23 @@ locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
   - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
   - "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
-  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+  - "[[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]]"
 fc-end: 973-2-16
 session_number: 10
-party_present: []
+party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
+  - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
-  - "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich (COS)]]"
   - "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich (COS)]]"
   - "[[4. World Almanac/NPCs/Ismark Kolyanovich (COS).md|Ismark Kolyanovich (COS)]]"
-  - "[[4. World Almanac/NPCs/Gertruda (COS).md|Gertruda (COS)]]"
   - "[[4. World Almanac/NPCs/Mad Mary (COS).md|Mad Mary (COS)]]"
 quests: []
 items: []
 factions: []
-wrapped: false
+wrapped: true
 publish: false
 ---
 > [!infobox]
@@ -70,14 +73,19 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Victor Vallakovich]] used a teleportation sigil to visit [[Gertruda]]
+- Gertruda has been missing for about a week
+- Victor's teleportation circle is part of a network that reaches [[Castle Ravenloft]]
 
 ## Items Of Importance
-Description
+N/A
 
 ## What Happened
-Small description.
+- Searching for Victor, the party finds evidence that he used a teleportation sigil to visit Gertruda
+- They use his teleportation circle and arrive in the [[Village of Barovia]]
+- [[Mad Mary]] and [[Ismark Kolyanovich]] tell them Gertruda has been missing for about a week; they find letters from Victor
+- Trying to return to Vallaki, the circle sends them to Castle Ravenloft, where they find Victor
+- The party works out the teleportation system, chooses the green stone, and arrives at the [[Coffin Maker's Shop]] in Vallaki
 
 
 # `=this.file.name`

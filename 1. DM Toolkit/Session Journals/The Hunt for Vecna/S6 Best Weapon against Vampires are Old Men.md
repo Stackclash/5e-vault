@@ -20,21 +20,22 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+  - "[[4. World Almanac/Places of Interest/Coffin Maker's Shop.md|Coffin Maker's Shop]]"
+  - "[[4. World Almanac/Places of Interest/St. Andral's Church.md|St. Andral's Church]]"
 session_number: 6
 party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
   - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
-  - "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich (COS)]]"
-  - "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter (COS)]]"
-  - "[[4. World Almanac/NPCs/Ireena Kolyana (COS).md|Ireena Kolyana (COS)]]"
-  - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
-  - "[[4. World Almanac/NPCs/Gertruda (COS).md|Gertruda (COS)]]"
-  - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
   - "[[4. World Almanac/NPCs/Milivoj (COS).md|Milivoj (COS)]]"
+  - "[[4. World Almanac/NPCs/Henrik Van Der Voort (COS).md|Henrik Van Der Voort (COS)]]"
 quests: []
 items: []
 factions: []
-wrapped: false
+wrapped: true
 publish: false
 ---
 > [!infobox]
@@ -70,14 +71,20 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Milivoj]] knew St. Andral's bones had been taken to Henrik van der Voort, the coffin maker
+- Henrik stole the bones on [[Strahd Von Zarovich (COS)|Strahd Von Zarovich]]'s orders
+- Henrik knew his patron only as the nobleman Vasili von Holtz, and later learned he was Strahd
 
 ## Items Of Importance
-Description
+N/A
 
 ## What Happened
-Small description.
+- The party finds [[Milivoj]] at his home and convinces him to tell them where the bones were taken
+- At the [[Coffin Maker's Shop]] they strong-arm Henrik van der Voort, who confesses that Strahd made him take the bones
+- A group of vampire spawn attacks; [[Yevelda Ovak]] throws Henrik at one, breaking his leg
+- One spawn tries to escape with the bones, but the party stops it
+- The party returns the bones to Father Lucian at [[St. Andral's Church]]
+- That evening, [[Baron Vargas Vallakovich]] invites the party to dine with his family
 
 
 # `=this.file.name`

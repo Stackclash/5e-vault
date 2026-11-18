@@ -23,7 +23,11 @@ summary: "The vampire count who ruled Barovia from Castle Ravenloft, sealed in t
 revealed:
   Midnight Covenant: true
 reveal: {}
-facts: [ { text: Strahd poses as the nobleman Vasili von Holtz., learned: { Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md|S6 Best Weapon against Vampires are Old Men]]" } } ]
+facts:
+  - { text: Strahd poses as the nobleman Vasili von Holtz., learned: { Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md|S6 Best Weapon against Vampires are Old Men]]" } }
+  - text: Strahd led a horde of vampire spawn against St. Andral's Church during the Festival of the Blazing Sun.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S8 Meeting Strahd.md|S8 Meeting Strahd]]"
 pronounced: strahd von zah-ROH-vich
 race: '[[5. Mechanics/Bestiary/Undead/Vampire|Vampire]]'
 gender: male

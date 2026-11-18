@@ -6,8 +6,9 @@ location: ""
 bases: []
 images: []
 gist: "Vallaki's former ruling house under Baron Vargas Vallakovich; Izek Strazni once served it."
-summary: ""
-revealed: {}
+summary: "Vallaki's ruling family: Baron Vargas, his wife, and their son Victor."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts: []
 goals: ""

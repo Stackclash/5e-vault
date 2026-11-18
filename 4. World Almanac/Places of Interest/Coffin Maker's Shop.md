@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: "Henrik Van Der Voort's coffin shop in Vallaki; a teleport stone dropped the party there (S10)."
-summary: ""
-revealed: {}
+summary: "Henrik van der Voort's shop in Vallaki, where the party fought vampire spawn to recover St. Andral's bones. A teleportation stone later brought them back there from Castle Ravenloft."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Vampire spawn lurk at the Coffin Maker's Shop.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S6 Best Weapon against Vampires are Old Men.md|S6 Best Weapon against Vampires are Old Men]]"
 images:
   - z_Assets/PlaceholderImage.png
 pronounced: 

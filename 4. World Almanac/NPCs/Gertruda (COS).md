@@ -15,15 +15,30 @@ aliases:
 alignment: Neutral Good
 description: >-
   Gertruda is the daughter of [[Mad Mary (COS)|Mad Mary]]. She and [[Victor Vallakovich (COS)|Victor Vallakovich]] were secret lovers. Using his teleportation circle, she ended up at Castle Ravenloft, where she was captured and eventually turned into one of Strahd's brides.
-relationships: [ { target: "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich]]", type: lover, note: secret }, { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member }, { target: "[[4. World Almanac/NPCs/Mad Mary (COS).md|Mad Mary]]", type: mother }, { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member } ]
+relationships:
+  - target: "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich]]"
+    type: lover
+    note: secret
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md|S10 Finding Victor]]"
+  - { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member }
+  - { target: "[[4. World Almanac/NPCs/Mad Mary (COS).md|Mad Mary]]", type: mother }
+  - { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member }
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 gist: "Mad Mary's daughter and Victor Vallakovich's secret lover, turned Strahd's bride; one of two surviving brides."
-summary: ""
-revealed: {}
+summary: "A young woman of the Village of Barovia, missing for about a week, whom Victor had been visiting by teleportation."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Gertruda and Victor Vallakovich were secret lovers.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md|S10 Finding Victor]]"
+  - text: Gertruda used Victor's teleportation circle and ended up at Castle Ravenloft.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md|S10 Finding Victor]]"
 pronounced: ger-TROO-dah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female

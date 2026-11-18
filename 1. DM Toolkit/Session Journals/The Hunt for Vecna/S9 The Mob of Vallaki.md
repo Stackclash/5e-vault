@@ -19,18 +19,24 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+  - "[[4. World Almanac/Places of Interest/St. Andral's Church.md|St. Andral's Church]]"
 fc-end: 973-2-15
 session_number: 9
 party_present:
+  - "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]"
+  - "[[3. The Party/Players/Marin.md|Marin]]"
+  - "[[3. The Party/Players/Redgrave.md|Redgrave]]"
+  - "[[3. The Party/Players/Seluvis Felo'melorn.md|Seluvis Felo'melorn]]"
   - "[[3. The Party/Players/Yevelda Ovak.md|Yevelda Ovak]]"
 npcs:
   - "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich (COS)]]"
-  - "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich (COS)]]"
   - "[[4. World Almanac/NPCs/Izek Strazni (COS).md|Izek Strazni (COS)]]"
+  - "[[4. World Almanac/NPCs/Lady Fiona Wachter (COS).md|Lady Fiona Wachter (COS)]]"
 quests: []
 items: []
-factions: []
-wrapped: false
+factions:
+  - "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]"
+wrapped: true
 publish: false
 ---
 > [!infobox]
@@ -66,14 +72,19 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Baron Vargas Vallakovich]] and his family hid in their mansion under guard during Strahd's attack
+- [[Lady Fiona Wachter|Fiona Wachter]] stirred up the mob against the Baron
 
 ## Items Of Importance
-Description
+N/A
 
 ## What Happened
-Small description.
+- The party helps restore order at [[St. Andral's Church]] after Strahd's attack
+- The Baron and his family are found holed up in their mansion under guard, which enrages the villagers
+- A quiet, angry mob grows overnight, while [[Yevelda Ovak]] flirts with [[Izek Strazni]]
+- In the morning the mob drags the Baron and his wife out to be executed, encouraged by Fiona Wachter
+- The party halts the execution and gets the Baron and his wife to safety
+- Victor is nowhere to be found
 
 
 # `=this.file.name`

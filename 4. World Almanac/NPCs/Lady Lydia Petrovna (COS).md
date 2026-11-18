@@ -32,9 +32,12 @@ relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|Hou
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: "Baron Vallakovich's anxiously cheerful wife, Father Lucian's sister, and Victor's mother."
-summary: ""
-revealed: {}
+summary: "Baron Vargas's wife, whom the party saved from the Vallaki mob alongside her husband."
+revealed:
+  Midnight Covenant: true
 reveal: {}
+public_name:
+  Midnight Covenant: Lydia Petrovna
 facts: []
 pronounced: LID-ee-uh peh-TROHV-nuh
 race: '[[5. Mechanics/Races/Human.md|Human]]'

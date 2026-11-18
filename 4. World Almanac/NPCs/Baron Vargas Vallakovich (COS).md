@@ -33,15 +33,34 @@ history: >-
   and his wife's lady-in-waiting, vanished without a trace in the past week, and
   though he has charged [[Izek Strazni (COS)|Izek Strazni]] with finding them,
   no answers have come.
-relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: leader }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]", type: wife } ]
+relationships:
+  - target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]"
+    type: leader
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S7 Making Friends with the Necromancer.md|S7 Making Friends with the Necromancer]]"
+  - { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }
+  - target: "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]"
+    type: wife
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md|S9 The Mob of Vallaki]]"
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: "Vallaki's paranoid former burgomaster, head of House Vallakovich and Izek's employer; now alive in the Village of Barovia."
-summary: ""
-revealed: {}
+summary: "Vallaki's burgomaster, who believes his festivals can free the town from Strahd. He proposed that Ireena marry his son Victor; the party later saved him and his wife from a mob."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Baron Vargas believes his festivals' enforced happiness will free Vallaki from Strahd.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S7 Making Friends with the Necromancer.md|S7 Making Friends with the Necromancer]]"
+  - text: Baron Vargas proposed that Ireena marry his son Victor.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S7 Making Friends with the Necromancer.md|S7 Making Friends with the Necromancer]]"
+  - text: Baron Vargas hid in his mansion under guard during Strahd's attack, which enraged Vallaki's villagers.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S9 The Mob of Vallaki.md|S9 The Mob of Vallaki]]"
 pronounced: VAR-gas val-lah-KO-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

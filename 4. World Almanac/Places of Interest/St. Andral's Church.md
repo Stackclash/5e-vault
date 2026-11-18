@@ -10,6 +10,9 @@ facts:
   - text: The bones of St. Andral protected the church from Barovia's evil until they were stolen from its crypt.
     learned:
       Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S5 Never Trust a Hunter.md|S5 Never Trust a Hunter]]"
+  - text: St. Andral's bones were stolen again during Father Lucian's sermon; once they were returned, their power drove Strahd and his spawn from the church.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S8 Meeting Strahd.md|S8 Meeting Strahd]]"
 images:
   - z_Assets/PlaceholderImage.png
 pronounced: 

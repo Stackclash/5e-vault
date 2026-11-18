@@ -20,15 +20,31 @@ description: >-
   his own making and never see Barovia again.
 history: >-
   Years ago Victor found an old spellbook hidden in the mansion's library and began teaching himself magic in secret, eventually retreating to the mansion's attic to avoid his mother's fussing and his father's disapproving glares. His mother's rival, [[Lady Fiona Wachter (COS)|Lady Fiona Wachter]], once tried to marry her daughter [[Stella Wachter (COS)|Stella Wachter]] to him to gain a foothold in the burgomaster's household. [[Gertruda (COS)|Gertruda]] became his secret lover; using his teleportation circle, she ended up at Castle Ravenloft and was captured. He has since thrown himself entirely into deciphering his spellbook's most advanced text: an incomplete teleportation circle spell. He has already inscribed a flawed version of the circle on his workroom floor and tested it twice on servants he compelled with suggestion - both were torn apart and vanished in flashes of purple light. Undeterred, Victor keeps refining the circle, certain that escape from Barovia is only one working spell away.
-relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]", type: father }, { target: "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]", type: mother } ]
+relationships:
+  - target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]"
+    type: member
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S7 Making Friends with the Necromancer.md|S7 Making Friends with the Necromancer]]"
+  - target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]"
+    type: father
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S7 Making Friends with the Necromancer.md|S7 Making Friends with the Necromancer]]"
+  - { target: "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]", type: mother }
 party_relationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: "Baron Vallakovich's son, a self-taught wizard whose teleportation circle sent Gertruda to Ravenloft; now in the Village of Barovia."
-summary: ""
-revealed: {}
+summary: "Baron Vargas's son, a self-taught necromancer whom the party befriended. He went missing after the mob and turned up at Castle Ravenloft."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Victor is a self-taught necromancer who practises in his attic room.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S7 Making Friends with the Necromancer.md|S7 Making Friends with the Necromancer]]"
+  - text: Victor used a teleportation sigil to visit Gertruda.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S10 Finding Victor.md|S10 Finding Victor]]"
 pronounced: VIK-tor val-lah-KO-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
