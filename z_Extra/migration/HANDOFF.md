@@ -1,10 +1,10 @@
 Continue the vault migration in this repo (5e-vault, branch v2). Read CLAUDE.md and z_Extra/Vault Design/03 Migration Plan.md first; load the vault-note skill before any note write.
 
-## Where things stand (2026-11-17)
-Done and committed: everything through F (E6, E6b, E7, E8, F, F2), plus G1 runs 1-2. Last migration commit: 55de2171a (this handoff file is committed after it). Lint 0 errors, 305 warnings (missing-gist 111, ledger-entity-undecided 132). Index: 185 entities, 752 edges, 49 facts. Check git status first; the tree should be clean apart from .obsidian/.
+## Where things stand (2026-11-18)
+Done and committed: everything through G1 (runs 1-7; missing-gist 0). Last migration commit: 8b391e7d24. Lint 0 errors, 194 warnings (ledger-entity-undecided 132, key-case 49). Index: 185 entities, 755 edges, 49 facts. Check git status first; the tree should be clean apart from .obsidian/.
 
 ## Next
-G1 runs 3-6: 111 gists left (18 places of interest, 93 NPCs). 25 per run, 20 words or fewer, drafted from the note's own fields, edges (z_Extra/index/edges.tsv) and facts. Write with z_Extra/migration/g1-gists.js <run.json>, then show me the list as a table to skim; I answer by number. Then G2, G3, H.
+G2: session-by-session reveals, S1 to S48, five sessions per sitting (see 03 Migration Plan G2). Then G3, H.
 
 ## How I work with you
 - Proposal first: numbered lines, each with the quoted source passage. I answer by number; write only accepted lines. Silence on a line is not acceptance. If I only list exceptions, the rest are accepted.
@@ -20,6 +20,11 @@ G1 runs 3-6: 111 gists left (18 places of interest, 93 NPCs). 25 per run, 20 wor
 - House von Zarovich: Rahadin and Strahd's brides; only Anastrasya and Gertruda survive. Fiona is not a member.
 - Emil leads the Children of Mother Night; Kiril (dead) is a former member.
 - The Nameless God of Secrets may be Vecna; not decided.
+- All Martikovs (incl. Danika) are wereravens; race links 5. Mechanics/Bestiary/Humanoid/Wereraven (VRGR).md.
+- Savid is dead (S17), no location. Lydia and the Vallakovichs are in the Village of Barovia. Izek serves Vecna is former.
+- The Well of Many Worlds is planned, not yet given (active false). Gadof no longer makes Izek dolls. Emil leads the pack; Zuleika stands with him.
+- S23 party present: Redgrave, Seluvis, Yevelda, Marin, Faerah; Seluvis pulled the hut gem.
+- NPC notes have no Plan Changelog section; plan changes to NPCs are logged in the commit message.
 
 ## Deferred to the S49 wrap (raise each as a proposal line)
 - Planes (Limbo etc.) should not be location notes; a new entity type may be needed. That is a schema change (folder, tag, template, note_fields) and needs my approval.
