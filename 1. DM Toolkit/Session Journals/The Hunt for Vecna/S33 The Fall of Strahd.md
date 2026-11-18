@@ -23,6 +23,7 @@ npcs:
   - "[[4. World Almanac/NPCs/Nikolai Wachter (COS).md|Nikolai Wachter (COS)]]"
   - "[[4. World Almanac/NPCs/Emil Toranescu (COS).md|Emil Toranescu (COS)]]"
   - "[[4. World Almanac/NPCs/Rictavio (COS).md|Rictavio (COS)]]"
+  - "[[4. World Almanac/NPCs/Karl Wachter (COS).md|Karl Wachter (COS)]]"
 quests: []
 items: []
 factions: []
