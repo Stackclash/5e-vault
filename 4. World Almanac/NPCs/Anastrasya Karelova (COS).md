@@ -13,7 +13,7 @@ images:
 aliases:
   - Anastrasya Karelova
 alignment: Neutral Evil
-relationships: [ { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member } ]
+relationships: [ { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member }, { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member } ]
 party_relationships:
   Midnight Covenant: Enemy
 location: null

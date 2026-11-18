@@ -12,8 +12,8 @@ faction:guild	Ferrymen's Guild		4. World Almanac/Factions/Ferrymen's Guild.md	4.
 faction:other	Gloaming Court		4. World Almanac/Factions/Gloaming Court.md		active		The fey court ruled by Mab, Queen of Air and Darkness.
 faction:house	House Petrovich		4. World Almanac/Factions/House Petrovich.md		active		Lady Lydia Petrovna's family house.
 faction:house	House Vallakovich		4. World Almanac/Factions/House Vallakovich.md		active		Vallaki's former ruling house under Baron Vargas Vallakovich; Izek Strazni once served it.
-faction:house	House von Zarovich		4. World Almanac/Factions/House von Zarovich.md		active		Strahd's house, with Rahadin and Lady Fiona Wachter among its members.
-faction:house	House Wachter		4. World Almanac/Factions/House Wachter.md	4. World Almanac/Places of Interest/Wachterhaus.md	active		Lady Fiona Wachter's noble house at Wachterhaus in Vallaki, with Nikolai, Stella, and the imp Majesto.
+faction:house	House von Zarovich		4. World Almanac/Factions/House von Zarovich.md		active		Strahd's house: Rahadin and Strahd's brides, all dead but Anastrasya Karelova, who escaped, and Gertruda.
+faction:house	House Wachter		4. World Almanac/Factions/House Wachter.md	4. World Almanac/Places of Interest/Wachterhaus.md	active		Lady Fiona Wachter's noble house at Wachterhaus in Vallaki, with Nikolai, Karl, Stella, and the imp Majesto.
 faction:order	Keepers of the Feather		4. World Almanac/Factions/Keepers of the Feather.md		active		The Martikovs' wereraven order secretly fighting Strahd; holds the Wizard of Wines gems, allied with Rictavio.
 faction:other	Morgantha's Coven		4. World Almanac/Factions/Morgantha's Coven.md		active		Night hag coven led by Morgantha.
 faction:order	Order of the Silver Dragon		4. World Almanac/Factions/Order of the Silver Dragon.md		active		Fallen knightly order of Argynvostholt under Vladimir Horngaard; Redgrave carries one member's soul.
@@ -59,13 +59,14 @@ npc	Hesper Crane	the Quartermaster	4. World Almanac/NPCs/Hesper Crane.md	4. Worl
 npc	Ireena Kolyana (COS)	Ireena Kolyana	4. World Almanac/NPCs/Ireena Kolyana (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
 npc	Ismark Kolyanovich (COS)	Ismark Kolyanovich	4. World Almanac/NPCs/Ismark Kolyanovich (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
 npc	Izek Strazni (COS)	Izek Strazni	4. World Almanac/NPCs/Izek Strazni (COS).md	4. World Almanac/Places of Interest/Greyfen Hollow.md	healthy		
+npc	Karl Wachter (COS)	Karl Wachter	4. World Almanac/NPCs/Karl Wachter (COS).md	4. World Almanac/Settlements/Vallaki.md	captured		Fiona Wachter's son and Nikolai's brother, a drunken young noble of House Wachter; arrested by the party in S33.
 npc	Kasimir Velikov (COS)	Kasimir Velikov	4. World Almanac/NPCs/Kasimir Velikov (COS).md		healthy		
 npc	Kiril Stoyanovich (COS)	Kiril Stoyanovich	4. World Almanac/NPCs/Kiril Stoyanovich (COS).md		dead		
-npc	Lady Fiona Wachter (COS)	Lady Fiona Wachter	4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	4. World Almanac/Places of Interest/Wachterhaus.md	healthy		
+npc	Lady Fiona Wachter (COS)	Lady Fiona Wachter	4. World Almanac/NPCs/Lady Fiona Wachter (COS).md	4. World Almanac/Settlements/Vallaki.md	captured		
 npc	Lady Lydia Petrovna (COS)	Lady Lydia Petrovna	4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
 npc	Lief Lipsiege (COS)	Lief Lipsiege	4. World Almanac/NPCs/Lief Lipsiege (COS).md		healthy		
 npc	Lord Caldris Velmont	Velmont	4. World Almanac/NPCs/Lord Caldris Velmont.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy	Midnight Covenant	The Bruokdon noble the party freed from the doppelganger who had taken his place.
-npc	Ludmilla Vilisevic (COS)	Ludmilla Vilisevic	4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md		healthy		
+npc	Ludmilla Vilisevic (COS)	Ludmilla Vilisevic	4. World Almanac/NPCs/Ludmilla Vilisevic (COS).md		dead		
 npc	Luvash (COS)	Luvash	4. World Almanac/NPCs/Luvash (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
 npc	Mab	Queen of Air and Darkness	4. World Almanac/NPCs/Mab.md		healthy		
 npc	Mad Mary (COS)	Mad Mary	4. World Almanac/NPCs/Mad Mary (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
@@ -80,7 +81,7 @@ npc	Mishka Belview (COS)	Mishka Belview	4. World Almanac/NPCs/Mishka Belview (CO
 npc	Mistress Lyssandra Veil		4. World Almanac/NPCs/Mistress Lyssandra Veil.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
 npc	Morgantha (COS)	Morgantha	4. World Almanac/NPCs/Morgantha (COS).md		healthy		
 npc	Naerissa	the Elder	4. World Almanac/NPCs/Naerissa.md	4. World Almanac/Settlements/Duskferry.md	healthy		Elder of a small, reclusive dusk elf community at Duskferry's edge, tending a hidden shrine to Eilistraee on a reed-bank spit downshore of the Waterline. She wa
-npc	Nikolai Wachter (COS)	Nikolai Wachter	4. World Almanac/NPCs/Nikolai Wachter (COS).md	4. World Almanac/Places of Interest/Wachterhaus.md	healthy		
+npc	Nikolai Wachter (COS)	Nikolai Wachter	4. World Almanac/NPCs/Nikolai Wachter (COS).md	4. World Almanac/Settlements/Vallaki.md	captured		
 npc	Nimrie		4. World Almanac/NPCs/Nimrie.md	4. World Almanac/Settlements/Duskferry.md	healthy		A drow woman the party met at Duskferry, who recognized something in Faerah worth acting on and brought her to Naerissa and the shrine. She didn't explain herse
 npc	Ostwin Reyes	the Tallyman	4. World Almanac/NPCs/Ostwin Reyes.md	4. World Almanac/Settlements/Duskferry.md	healthy	Midnight Covenant	The Ferrymen's Guild clerk in Duskferry who was the Ascendency's contact, known by the code name 'the Tallyman.'
 npc	Otto Belview (COS)	Otto Belview	4. World Almanac/NPCs/Otto Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
@@ -112,7 +113,7 @@ npc	Vecna		4. World Almanac/NPCs/Vecna.md		healthy	Midnight Covenant	The power f
 npc	Victor Vallakovich (COS)	Victor Vallakovich	4. World Almanac/NPCs/Victor Vallakovich (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
 npc	Vilnius (COS)	Vilnius	4. World Almanac/NPCs/Vilnius (COS).md	4. World Almanac/Places of Interest/The Amber Temple.md	healthy		
 npc	Vladimir Horngaard (COS)	Vladimir Horngaard	4. World Almanac/NPCs/Vladimir Horngaard (COS).md		healthy		
-npc	Volenta Popofsky (COS)	Volenta Popofsky	4. World Almanac/NPCs/Volenta Popofsky (COS).md		healthy		
+npc	Volenta Popofsky (COS)	Volenta Popofsky	4. World Almanac/NPCs/Volenta Popofsky (COS).md		dead		
 npc	Yevgeni Krushkin (COS)	Yevgeni Krushkin	4. World Almanac/NPCs/Yevgeni Krushkin (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
 npc	Zuleika Toranescu (COS)	Zuleika Toranescu	4. World Almanac/NPCs/Zuleika Toranescu (COS).md		healthy		
 npc	Zygfrek Belview (COS)	Zygfrek Belview	4. World Almanac/NPCs/Zygfrek Belview (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		

@@ -5,7 +5,7 @@ status: active
 location: ""
 bases: []
 images: []
-gist: "Strahd's house, with Rahadin and Lady Fiona Wachter among its members."
+gist: "Strahd's house: Rahadin and Strahd's brides, all dead but Anastrasya Karelova, who escaped, and Gertruda."
 summary: ""
 revealed: {}
 reveal: {}

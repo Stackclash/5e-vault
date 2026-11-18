@@ -15,7 +15,7 @@ aliases:
 alignment: Neutral Good
 description: >-
   Gertruda is the daughter of [[Mad Mary (COS)|Mad Mary]]. She and [[Victor Vallakovich (COS)|Victor Vallakovich]] were secret lovers. Using his teleportation circle, she ended up at Castle Ravenloft, where she was captured and eventually turned into one of Strahd's brides.
-relationships: [ { target: "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich]]", type: lover, note: secret }, { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member }, { target: "[[4. World Almanac/NPCs/Mad Mary (COS).md|Mad Mary]]", type: mother } ]
+relationships: [ { target: "[[4. World Almanac/NPCs/Victor Vallakovich (COS).md|Victor Vallakovich]]", type: lover, note: secret }, { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strahd's Brides]]", type: member }, { target: "[[4. World Almanac/NPCs/Mad Mary (COS).md|Mad Mary]]", type: mother }, { target: "[[4. World Almanac/Factions/House von Zarovich.md|House von Zarovich]]", type: member } ]
 party_relationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
