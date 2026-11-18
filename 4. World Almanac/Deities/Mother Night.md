@@ -8,7 +8,7 @@ symbol: ""
 alignment: ""
 domains: []
 images: []
-gist: ""
+gist: "Barovian goddess worshipped by Baba Lysaga, Madam Eva, and the Toranescu werewolves."
 summary: ""
 revealed: {}
 reveal: {}

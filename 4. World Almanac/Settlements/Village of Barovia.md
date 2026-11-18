@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-gist: ""
+gist: "Barovian village of 300 where the party arrived in S1, returning in S10."
 summary: ""
 revealed: {}
 reveal: {}

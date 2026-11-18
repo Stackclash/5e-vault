@@ -18,7 +18,7 @@ description: |-
   Goals: Destroy or drive off any intruder at Greyfen Hollow that its binding marks as a threat.
 images:
   - z_Assets/PlaceholderImage.png
-gist: ""
+gist: "Silent Ascendency stone guardian at Greyfen Hollow, powered by bound souls in three amber conduits; reskinned Stone Golem."
 relationships:
   - target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]"
     type: serves

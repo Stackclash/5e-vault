@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Greenfall.md|Greenfall]]"
-gist: ""
+gist: "Ferrymen's Guild river town under Anselm Corrow; the Ascendency's checkpoint, where the Tallyman works."
 revealed: {}
 reveal: {}
 facts: []

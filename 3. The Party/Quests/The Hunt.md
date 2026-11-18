@@ -7,7 +7,7 @@ active:
   Midnight Covenant: true
 completed:
   Midnight Covenant: false
-gist: ""
+gist: "Top campaign arc: the party's two-act hunt for Vecna, one act per ritual of his ascension."
 summary: ""
 revealed: {}
 facts: []

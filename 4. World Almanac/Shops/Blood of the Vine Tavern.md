@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
-gist: ""
+gist: "Tavern in the Village of Barovia."
 summary: ""
 revealed: {}
 reveal: {}

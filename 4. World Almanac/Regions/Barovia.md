@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-gist: ""
+gist: "Strahd's domain on Eldoria and the setting of the Curse of Strahd arc."
 summary: ""
 revealed: {}
 reveal: {}

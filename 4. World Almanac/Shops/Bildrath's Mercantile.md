@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
-gist: ""
+gist: "General store in the Village of Barovia, staffed by Parriwimple."
 summary: ""
 revealed: {}
 reveal: {}

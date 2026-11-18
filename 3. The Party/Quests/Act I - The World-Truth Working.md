@@ -7,7 +7,7 @@ active:
   Midnight Covenant: true
 completed:
   Midnight Covenant: false
-gist: ""
+gist: "Act I arc: the hunt toward Vecna's World-Truth Working, ending in the party's designed loss to him."
 summary: ""
 revealed: {}
 facts: []

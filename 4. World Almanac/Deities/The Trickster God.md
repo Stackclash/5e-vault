@@ -8,7 +8,7 @@ symbol: ""
 alignment: ""
 domains: []
 images: []
-gist: ""
+gist: "Roark Battleborn's father, bound by the gods' non-interference compact; he wants Roark as his mortal agent."
 summary: "The god who is Roark Battleborn's father."
 revealed:
   Midnight Covenant: true

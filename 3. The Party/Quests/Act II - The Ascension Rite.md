@@ -7,7 +7,7 @@ active:
   Midnight Covenant: false
 completed:
   Midnight Covenant: false
-gist: ""
+gist: "Act II arc: the post-Working world, building to the Ascension Rite and the campaign's decisive final battle."
 summary: ""
 revealed: {}
 facts: []

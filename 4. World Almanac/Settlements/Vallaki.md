@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-gist: ""
+gist: "Barovian town ruled by Baron Vargas Vallakovich, 12.7 miles from Van Richten's Tower."
 revealed: {}
 reveal: {}
 facts: []

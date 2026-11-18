@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
-gist: ""
+gist: "Large Bruokdon blacksmith selling weapons, armor, and minor magic items."
 summary: ""
 revealed: {}
 reveal: {}

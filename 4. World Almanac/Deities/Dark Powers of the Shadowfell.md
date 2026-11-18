@@ -8,7 +8,7 @@ symbol: ""
 alignment: ""
 domains: []
 images: []
-gist: ""
+gist: "The Shadowfell's Dark Powers, whom Strahd worships."
 summary: ""
 revealed: {}
 reveal: {}

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Greenfall.md|Greenfall]]"
-gist: ""
+gist: "Council-run Greenfall charm-making city of 3,700, where the party broke the Ascendency's cell (S40-S44)."
 summary: ""
 revealed: {}
 reveal: {}

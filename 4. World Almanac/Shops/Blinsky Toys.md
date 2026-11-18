@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
-gist: ""
+gist: "Gadof Blinsky's toy shop in Vallaki, stocked as a general store."
 summary: ""
 revealed: {}
 reveal: {}

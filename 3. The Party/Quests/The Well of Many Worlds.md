@@ -33,7 +33,7 @@ tags:
   - quest
 kind: quest
 parent: "[[3. The Party/Quests/Act I - The World-Truth Working.md|Act I - The World-Truth Working]]"
-gist: ""
+gist: "Gousse's Well route to the Great Library through Water, the Feywild, and Limbo; Baba Lysaga plans an ambush."
 summary: ""
 revealed: {}
 facts: []

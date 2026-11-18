@@ -19,7 +19,7 @@ description: |-
   Goals: None it could articulate. It moves toward noise and it swings.
 images:
   - z_Assets/PlaceholderImage.png
-gist: ""
+gist: "Half-built Warden in Greyfen Hollow's Foundry cradles: one exposed conduit, no protections, ruptures when destroyed."
 relationships:
   - target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]"
     type: serves

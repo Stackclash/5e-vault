@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-gist: ""
+gist: "Eldoria region holding Bruokdon, Duskferry, Thornmere, and Greyfen Hollow: the Silent Ascendency's smuggling ground."
 summary: ""
 revealed: {}
 reveal: {}

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Barovian village around the Abbey of Saint Markovia; the party visited in S26-S27."
 summary: ""
 revealed: {}
 reveal: {}

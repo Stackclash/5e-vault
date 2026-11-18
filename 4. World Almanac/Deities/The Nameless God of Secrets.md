@@ -8,7 +8,7 @@ symbol: ""
 alignment: ""
 domains: []
 images: []
-gist: ""
+gist: "A nameless god of secrets, worshipped by Patrina Velikovna."
 summary: ""
 revealed: {}
 reveal: {}

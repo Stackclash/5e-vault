@@ -144,31 +144,31 @@ player	Roark Battleborn		3. The Party/Players/Roark Battleborn.md	4. World Alman
 player	Seluvis Felo'melorn		3. The Party/Players/Seluvis Felo'melorn.md	4. World Almanac/Places of Interest/Castle Ravenloft.md	inactive		
 player	Wisp		3. The Party/Players/Wisp.md	4. World Almanac/Settlements/Bruokdon.md	active		
 player	Yevelda Ovak		3. The Party/Players/Yevelda Ovak.md	4. World Almanac/Settlements/Bruokdon.md	active		
-quest:arc	Act I - The World-Truth Working		3. The Party/Quests/Act I - The World-Truth Working.md		active		
-quest:arc	Act II - The Ascension Rite		3. The Party/Quests/Act II - The Ascension Rite.md		inactive		
-quest:arc	The Hunt		3. The Party/Quests/The Hunt.md		active		
-quest:quest	The Ones Who Were Forgotten		3. The Party/Quests/The Ones Who Were Forgotten.md		completed		
-quest:quest	The Second Ledger		3. The Party/Quests/The Second Ledger.md		active		
-quest:quest	The Well of Many Worlds		3. The Party/Quests/The Well of Many Worlds.md		active		
-region	Barovia		4. World Almanac/Regions/Barovia.md	4. World Almanac/Worlds/Eldoria.md			
-region	Greenfall		4. World Almanac/Regions/Greenfall.md	4. World Almanac/Worlds/Eldoria.md			
-settlement	Bruokdon	The Spellforge City	4. World Almanac/Settlements/Bruokdon.md	4. World Almanac/Regions/Greenfall.md			
-settlement	Duskferry		4. World Almanac/Settlements/Duskferry.md	4. World Almanac/Regions/Greenfall.md			A river-crossing trade town downstream of Bruokdon, run by a ferrymen's guild that profits from asking no questions — the last reliable checkpoint before goods
-settlement	Krezk		4. World Almanac/Settlements/Krezk.md	4. World Almanac/Regions/Barovia.md			
-settlement	Thornmere		4. World Almanac/Settlements/Thornmere.md	4. World Almanac/Regions/Greenfall.md			
-settlement	Vallaki		4. World Almanac/Settlements/Vallaki.md	4. World Almanac/Regions/Barovia.md			Hello
-settlement	Village of Barovia		4. World Almanac/Settlements/Village of Barovia.md	4. World Almanac/Regions/Barovia.md			
-shop	Bildrath's Mercantile		4. World Almanac/Shops/Bildrath's Mercantile.md	4. World Almanac/Settlements/Village of Barovia.md			
-shop	Blinsky Toys		4. World Almanac/Shops/Blinsky Toys.md	4. World Almanac/Settlements/Vallaki.md			
-shop	Blood of the Vine Tavern		4. World Almanac/Shops/Blood of the Vine Tavern.md	4. World Almanac/Settlements/Village of Barovia.md			
-shop	Blue Water Inn		4. World Almanac/Shops/Blue Water Inn.md	4. World Almanac/Settlements/Vallaki.md			
-shop	Golden Hammer		4. World Almanac/Shops/Golden Hammer.md	4. World Almanac/Settlements/Bruokdon.md			
-story-creature	Amber Warden		4. World Almanac/Creatures/Amber Warden.md				
-story-creature	Unfinished Amber Warden		4. World Almanac/Creatures/Unfinished Amber Warden.md				
-story-deity	Dark Powers of the Shadowfell		4. World Almanac/Deities/Dark Powers of the Shadowfell.md				
-story-deity	Mother Night		4. World Almanac/Deities/Mother Night.md				
-story-deity	The Nameless God of Secrets		4. World Almanac/Deities/The Nameless God of Secrets.md				
-story-deity	The Trickster God		4. World Almanac/Deities/The Trickster God.md			Midnight Covenant	The god who is Roark Battleborn's father.
+quest:arc	Act I - The World-Truth Working		3. The Party/Quests/Act I - The World-Truth Working.md		active		Act I arc: the hunt toward Vecna's World-Truth Working, ending in the party's designed loss to him.
+quest:arc	Act II - The Ascension Rite		3. The Party/Quests/Act II - The Ascension Rite.md		inactive		Act II arc: the post-Working world, building to the Ascension Rite and the campaign's decisive final battle.
+quest:arc	The Hunt		3. The Party/Quests/The Hunt.md		active		Top campaign arc: the party's two-act hunt for Vecna, one act per ritual of his ascension.
+quest:quest	The Ones Who Were Forgotten		3. The Party/Quests/The Ones Who Were Forgotten.md		completed		Completed quest: erased villagers' memories resurface, and Eamon greets the party though no one else remembers him.
+quest:quest	The Second Ledger		3. The Party/Quests/The Second Ledger.md		active		Velmont resumes his identity to trace the Ascendency pipeline: the Cinderworks, the Tallyman in Duskferry, then Greyfen Hollow.
+quest:quest	The Well of Many Worlds		3. The Party/Quests/The Well of Many Worlds.md		active		Gousse's Well route to the Great Library through Water, the Feywild, and Limbo; Baba Lysaga plans an ambush.
+region	Barovia		4. World Almanac/Regions/Barovia.md	4. World Almanac/Worlds/Eldoria.md			Strahd's domain on Eldoria and the setting of the Curse of Strahd arc.
+region	Greenfall		4. World Almanac/Regions/Greenfall.md	4. World Almanac/Worlds/Eldoria.md			Eldoria region holding Bruokdon, Duskferry, Thornmere, and Greyfen Hollow: the Silent Ascendency's smuggling ground.
+settlement	Bruokdon	The Spellforge City	4. World Almanac/Settlements/Bruokdon.md	4. World Almanac/Regions/Greenfall.md			Council-run Greenfall charm-making city of 3,700, where the party broke the Ascendency's cell (S40-S44).
+settlement	Duskferry		4. World Almanac/Settlements/Duskferry.md	4. World Almanac/Regions/Greenfall.md			Ferrymen's Guild river town under Anselm Corrow; the Ascendency's checkpoint, where the Tallyman works.
+settlement	Krezk		4. World Almanac/Settlements/Krezk.md	4. World Almanac/Regions/Barovia.md			Barovian village around the Abbey of Saint Markovia; the party visited in S26-S27.
+settlement	Thornmere		4. World Almanac/Settlements/Thornmere.md	4. World Almanac/Regions/Greenfall.md			Greenfall farming village on the forest edge, Eamon's home; site of Vecna's truth-magic prototype (S35).
+settlement	Vallaki		4. World Almanac/Settlements/Vallaki.md	4. World Almanac/Regions/Barovia.md			Barovian town ruled by Baron Vargas Vallakovich, 12.7 miles from Van Richten's Tower.
+settlement	Village of Barovia		4. World Almanac/Settlements/Village of Barovia.md	4. World Almanac/Regions/Barovia.md			Barovian village of 300 where the party arrived in S1, returning in S10.
+shop	Bildrath's Mercantile		4. World Almanac/Shops/Bildrath's Mercantile.md	4. World Almanac/Settlements/Village of Barovia.md			General store in the Village of Barovia, staffed by Parriwimple.
+shop	Blinsky Toys		4. World Almanac/Shops/Blinsky Toys.md	4. World Almanac/Settlements/Vallaki.md			Gadof Blinsky's toy shop in Vallaki, stocked as a general store.
+shop	Blood of the Vine Tavern		4. World Almanac/Shops/Blood of the Vine Tavern.md	4. World Almanac/Settlements/Village of Barovia.md			Tavern in the Village of Barovia.
+shop	Blue Water Inn		4. World Almanac/Shops/Blue Water Inn.md	4. World Almanac/Settlements/Vallaki.md			Vallaki inn owned by Urwin Martikov and Danika Dorakova, staffed by Brom and Bray Martikov.
+shop	Golden Hammer		4. World Almanac/Shops/Golden Hammer.md	4. World Almanac/Settlements/Bruokdon.md			Large Bruokdon blacksmith selling weapons, armor, and minor magic items.
+story-creature	Amber Warden		4. World Almanac/Creatures/Amber Warden.md				Silent Ascendency stone guardian at Greyfen Hollow, powered by bound souls in three amber conduits; reskinned Stone Golem.
+story-creature	Unfinished Amber Warden		4. World Almanac/Creatures/Unfinished Amber Warden.md				Half-built Warden in Greyfen Hollow's Foundry cradles: one exposed conduit, no protections, ruptures when destroyed.
+story-deity	Dark Powers of the Shadowfell		4. World Almanac/Deities/Dark Powers of the Shadowfell.md				The Shadowfell's Dark Powers, whom Strahd worships.
+story-deity	Mother Night		4. World Almanac/Deities/Mother Night.md				Barovian goddess worshipped by Baba Lysaga, Madam Eva, and the Toranescu werewolves.
+story-deity	The Nameless God of Secrets		4. World Almanac/Deities/The Nameless God of Secrets.md				A nameless god of secrets, worshipped by Patrina Velikovna.
+story-deity	The Trickster God		4. World Almanac/Deities/The Trickster God.md			Midnight Covenant	Roark Battleborn's father, bound by the gods' non-interference compact; he wants Roark as his mortal agent.
 story-item	Dusk Dagger		4. World Almanac/Items/Dusk Dagger.md				A dusk dagger found with the Feeblemind papers under Velmont's house (S43); Roark has it, unidentified.
 story-item	Gulthias Staff		4. World Almanac/Items/Gulthias Staff.md				The blighted staff taken from the Gulthias Tree on Yester Hill (S29).
 story-item	Holy Symbol of Ravenkind		4. World Almanac/Items/Holy Symbol of Ravenkind.md				The sun-bright amulet of the Fortunes of Ravenloft; Redgrave used it to hold Strahd for the stake (S33).

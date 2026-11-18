@@ -53,7 +53,7 @@ tags:
   - quest
 kind: quest
 parent: "[[3. The Party/Quests/Act I - The World-Truth Working.md|Act I - The World-Truth Working]]"
-gist: ""
+gist: "Velmont resumes his identity to trace the Ascendency pipeline: the Cinderworks, the Tallyman in Duskferry, then Greyfen Hollow."
 summary: ""
 revealed: {}
 facts: []

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
-gist: ""
+gist: "Vallaki inn owned by Urwin Martikov and Danika Dorakova, staffed by Brom and Bray Martikov."
 summary: ""
 revealed: {}
 reveal: {}

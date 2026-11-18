@@ -22,7 +22,7 @@ npcs:
 tags:
   - quest
 kind: quest
-gist: ""
+gist: "Completed quest: erased villagers' memories resurface, and Eamon greets the party though no one else remembers him."
 summary: ""
 revealed: {}
 facts: []

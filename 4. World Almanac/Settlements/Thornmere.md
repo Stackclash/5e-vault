@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Greenfall.md|Greenfall]]"
-gist: ""
+gist: "Greenfall farming village on the forest edge, Eamon's home; site of Vecna's truth-magic prototype (S35)."
 summary: ""
 revealed: {}
 reveal: {}
