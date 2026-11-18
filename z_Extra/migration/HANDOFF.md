@@ -4,7 +4,7 @@ Continue the vault migration in this repo (5e-vault, branch v2). Read CLAUDE.md 
 Done and committed: everything through G1, and G2 sittings 1-3 (S1-S15 wrapped; last commit f0fc680d7f). Lint 0 errors, 124 warnings (ledger-entity-undecided 62, key-case 49). Index: 185 entities, 830 edges, 90 facts. Check git status first; the tree should be clean apart from .obsidian/.
 
 ## Next
-G2: session-by-session reveals, S16 to S48. Open follow-ups from sitting 3 (proposed 2026-11-18, awaiting answer): Izek summary update (travels with the party from S12); S13 Errata that the Yan pact was S14; S13 body spells the wand Kahkan; item-ledger backfill for S1-S11 loot; Ireena in the S14 ledger.
+G2: session-by-session reveals, S16 to S48. Sitting 3 follow-ups done.
 
 ## How I work with you
 - Proposal first: numbered lines, each with the quoted source passage. I answer by number; write only accepted lines. Silence on a line is not acceptance. If I only list exceptions, the rest are accepted.
