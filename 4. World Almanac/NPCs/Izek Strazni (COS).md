@@ -21,7 +21,10 @@ gist: ""
 summary: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: Izek survived the fall of Castle Ravenloft and was claimed by Vecna's power in that moment; the party freed him from Vecna's control (S49).
+    learned: {}
+    locked: true
 pronounced: EYE-zek STRAHZ-nee
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male

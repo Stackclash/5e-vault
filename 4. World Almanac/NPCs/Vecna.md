@@ -12,8 +12,9 @@ aliases:
   - Vecna
 pronounced: ""
 gist: ""
-summary: ""
-revealed: {}
+summary: "The power freed from the Amber Temple when Strahd died (S33); the party has hunted him ever since."
+revealed:
+  Midnight Covenant: true
 reveal: {}
 facts:
   - text: Vecna's end goal is to become the God of Truth and dominate reality.

@@ -6,7 +6,13 @@ condition: dead
 gist: ""
 revealed: {}
 reveal: {}
-facts: []
+facts:
+  - text: Marrow carries a soul-graft, the Marrow-rite, built from the same Eludrax soul-craft as the Amber Wardens, which lets it borrow a disguise target's trained reflexes and muscle memory.
+    learned: {}
+    locked: true
+  - text: "The ambush on Roark and Lyssandra was opportunistic: the Ascendency had no advance knowledge of Corwin Vantor's detection device."
+    learned: {}
+    locked: true
 images:
   - z_Assets/PlaceholderImage.png
 relationships: [ { target: "[[4. World Almanac/Factions/Silent Ascendency.md|Silent Ascendency]]", type: leader, note: Bruokdon cell }, { target: "[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]", type: enemy, note: killed by her (S44) } ]

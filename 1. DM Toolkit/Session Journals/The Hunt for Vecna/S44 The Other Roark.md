@@ -79,7 +79,7 @@ await dv.view('views/entityHeader', {current: dv.current(), pronounced: false})
 - The doppelganger's name was [[Marrow]] — given up by a cultist taken at the wagon #remember
 - [[Marrow]] carried an amber gem lodged at the base of its neck. [[3. The Party/Players/Redgrave|Redgrave]] examined the body and took the gem #remember
 - The Silent Ascendency was still running shipments out of [[Bruokdon]] along [[Lord Caldris Velmont|Velmont's]] old smuggling routes after his exposure — captives moved alongside smuggled magic items #remember
-- The nameless dwarf's confession to leading the Bruokdon cell was a lie and a frame; [[Marrow]] was the cell leader #remember #secret
+- The nameless dwarf's confession to leading the Bruokdon cell was a lie and a frame; [[Marrow]] was the cell leader #remember
 
 ## Items Of Importance
 - [[Marrow's Amber Gem]], lodged at the base of [[Marrow|Marrow's]] neck — taken by [[3. The Party/Players/Redgrave|Redgrave]] after he examined the body
