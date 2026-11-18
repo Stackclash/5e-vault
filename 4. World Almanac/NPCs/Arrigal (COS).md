@@ -27,7 +27,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: leader, note: "Vallaki camp, co-leader" }, { target: "[[4. World Almanac/NPCs/Luvash (COS).md|Luvash]]", type: brother }, { target: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich]]", type: serves } ]
 party_relationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Luvash's brother and co-leader of the Vallaki Vistani camp; a cunning assassin sworn to Strahd."
 summary: ""
 revealed: {}
 reveal: {}

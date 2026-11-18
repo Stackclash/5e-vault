@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
-gist: ""
+gist: "Bruokdon's magic academy under the Umbral Athenaeum Council; the party exposed the Ascendency's Bruokdon cell leader there (S44)."
 summary: ""
 revealed: {}
 reveal: {}

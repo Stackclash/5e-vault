@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-gist: ""
+gist: "Temple where the Eternal Watch imprisoned Vecna; the party repaired the amber prison there (S19-S20). Exethanter and Kasimir remain."
 summary: ""
 revealed: {}
 reveal: {}

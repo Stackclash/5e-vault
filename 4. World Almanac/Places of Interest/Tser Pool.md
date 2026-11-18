@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Vistani camp of Madam Eva and Stanimir; the party met the Vistani there (S4)."
 summary: ""
 revealed: {}
 reveal: {}

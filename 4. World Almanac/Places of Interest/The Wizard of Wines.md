@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Martikov winery and Keepers of the Feather base; the party held it against the dark druids' siege (S28)."
 summary: ""
 revealed: {}
 reveal: {}

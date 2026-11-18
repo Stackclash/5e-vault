@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "House Wachter's Vallaki seat, home of Stella Wachter and Majesto."
 summary: ""
 revealed: {}
 reveal: {}

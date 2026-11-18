@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Henrik Van Der Voort's coffin shop in Vallaki; a teleport stone dropped the party there (S10)."
 summary: ""
 revealed: {}
 reveal: {}

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-gist: ""
+gist: "Haunted Durst house in the Village of Barovia, home of the ghost children Rose and Thorn; cleared in S1-S3."
 summary: ""
 revealed: {}
 reveal: {}

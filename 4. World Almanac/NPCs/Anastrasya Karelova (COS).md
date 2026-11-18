@@ -17,7 +17,7 @@ relationships: [ { target: "[[4. World Almanac/Factions/Strahd's Brides.md|Strah
 party_relationships:
   Midnight Covenant: Enemy
 location: null
-gist: ""
+gist: "Strahd's surviving vampire-spawn bride; she fled the wedding-night battle, and Vecna's forces are courting her."
 summary: ""
 revealed: {}
 reveal: {}

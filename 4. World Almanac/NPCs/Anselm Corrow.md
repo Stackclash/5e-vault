@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Settlements/Duskferry.md|Duskferry]]"
 condition: healthy
-gist: ""
+gist: "Guildmaster of Duskferry's Ferrymen's Guild; not Ascendency, but ignores overpaying manifests and doesn't suspect his clerk Ostwin Reyes."
 revealed: {}
 reveal: {}
 facts:

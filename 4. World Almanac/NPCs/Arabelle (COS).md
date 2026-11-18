@@ -27,7 +27,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/Vistani.md|Vistani]]", type: member, note: Vallaki camp }, { target: "[[4. World Almanac/NPCs/Luvash (COS).md|Luvash]]", type: father }, { target: "[[4. World Almanac/NPCs/Bluto Krogarov (COS).md|Bluto Krogarov]]", type: enemy, note: kidnapped her } ]
 party_relationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
-gist: ""
+gist: "Luvash's seven-year-old daughter, a Vistana kidnapped by Bluto Krogarov; unknowingly descended from Madam Eva."
 summary: ""
 revealed: {}
 reveal: {}

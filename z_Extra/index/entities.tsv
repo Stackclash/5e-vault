@@ -23,13 +23,13 @@ faction:other	The Unbroken Circle		4. World Almanac/Factions/The Unbroken Circle
 faction:order	Umbral Athenaeum Council		4. World Almanac/Factions/Umbral Athenaeum Council.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	active		Governing council of Bruokdon's Umbral Athenaeum, including Velmont, Gousse, Lyssandra Veil, and five other masters.
 faction:other	Vallaki Wolf Hunters		4. World Almanac/Factions/Vallaki Wolf Hunters.md		active		Vallaki's wolf hunters, Szoldar Szoldarovich and Yevgeni Krushkin.
 faction:other	Vistani		4. World Almanac/Factions/Vistani.md		active		Barovia's Vistani, led by Arrigal, Luvash, and Stanimir; Madam Eva and Ezmerelda are among them.
-npc	Adrian Martikov		4. World Almanac/NPCs/Adrian Martikov.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		
-npc	Anastrasya Karelova (COS)	Anastrasya Karelova	4. World Almanac/NPCs/Anastrasya Karelova (COS).md		healthy		
-npc	Anselm Corrow	the Guildmaster	4. World Almanac/NPCs/Anselm Corrow.md	4. World Almanac/Settlements/Duskferry.md	healthy		
-npc	Arabelle (COS)	Arabelle	4. World Almanac/NPCs/Arabelle (COS).md	4. World Almanac/Places of Interest/Lake Zarovich.md	healthy		
-npc	Archmortician Valeris Thorne	Valeris Thorne	4. World Almanac/NPCs/Archmortician Valeris Thorne.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
-npc	Archwarden Selvara Kain		4. World Almanac/NPCs/Archwarden Selvara Kain.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		
-npc	Arrigal (COS)	Arrigal	4. World Almanac/NPCs/Arrigal (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Adrian Martikov		4. World Almanac/NPCs/Adrian Martikov.md	4. World Almanac/Places of Interest/The Wizard of Wines.md	healthy		Davian Martikov's son, a vintner at the Wizard of Wines and a member of the Keepers of the Feather.
+npc	Anastrasya Karelova (COS)	Anastrasya Karelova	4. World Almanac/NPCs/Anastrasya Karelova (COS).md		healthy		Strahd's surviving vampire-spawn bride; she fled the wedding-night battle, and Vecna's forces are courting her.
+npc	Anselm Corrow	the Guildmaster	4. World Almanac/NPCs/Anselm Corrow.md	4. World Almanac/Settlements/Duskferry.md	healthy		Guildmaster of Duskferry's Ferrymen's Guild; not Ascendency, but ignores overpaying manifests and doesn't suspect his clerk Ostwin Reyes.
+npc	Arabelle (COS)	Arabelle	4. World Almanac/NPCs/Arabelle (COS).md	4. World Almanac/Places of Interest/Lake Zarovich.md	healthy		Luvash's seven-year-old daughter, a Vistana kidnapped by Bluto Krogarov; unknowingly descended from Madam Eva.
+npc	Archmortician Valeris Thorne	Valeris Thorne	4. World Almanac/NPCs/Archmortician Valeris Thorne.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		The Umbral Athenaeum's elf Councilor of Necromancy; a clinical scholar seeking immortality without corruption.
+npc	Archwarden Selvara Kain		4. World Almanac/NPCs/Archwarden Selvara Kain.md	4. World Almanac/Places of Interest/The Umbral Athenaeum.md	healthy		The Umbral Athenaeum's Councilor of Abjuration; a cautious warden who wants dangerous magic kept contained.
+npc	Arrigal (COS)	Arrigal	4. World Almanac/NPCs/Arrigal (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		Luvash's brother and co-leader of the Vallaki Vistani camp; a cunning assassin sworn to Strahd.
 npc	Baba Lysaga (COS)	Baba Lysaga	4. World Almanac/NPCs/Baba Lysaga (COS).md	4. World Almanac/Places of Interest/Ruins of Berez.md	healthy		
 npc	Baba Lysagas Creeping Hut (COS)	Baba Lysaga's Creeping Hut	4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md		dead		
 npc	Baron Vargas Vallakovich (COS)	Baron Vargas Vallakovich	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
@@ -120,24 +120,24 @@ npc	Zygfrek Belview (COS)	Zygfrek Belview	4. World Almanac/NPCs/Zygfrek Belview 
 party	Midnight Covenant		3. The Party/Parties/Midnight Covenant.md				
 place-of-interest	Abbey of Saint Markovia		4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	4. World Almanac/Settlements/Krezk.md			The Abbot's abbey in Krezk, home to Vasilka and the Belview family; the party visited in S25.
 place-of-interest	Argynvostholt		4. World Almanac/Places of Interest/Argynvostholt.md	4. World Almanac/Regions/Barovia.md			Barovian mansion of the fallen Order of the Silver Dragon and Vladimir Horngaard's home; holds Argynvost's skull.
-place-of-interest	Castle Ravenloft		4. World Almanac/Places of Interest/Castle Ravenloft.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	Coffin Maker's Shop		4. World Almanac/Places of Interest/Coffin Maker's Shop.md	4. World Almanac/Settlements/Vallaki.md			
-place-of-interest	Death House		4. World Almanac/Places of Interest/Death House.md	4. World Almanac/Settlements/Village of Barovia.md			
-place-of-interest	Greyfen Hollow	The Hollow	4. World Almanac/Places of Interest/Greyfen Hollow.md	4. World Almanac/Regions/Greenfall.md			A drowned stand of dead trees deep in the Greenfall marsh below Duskferry — officially nothing, unofficially the mouth of a cave system where the Silent Ascende
-place-of-interest	Lake Zarovich		4. World Almanac/Places of Interest/Lake Zarovich.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	Old Bonegrinder		4. World Almanac/Places of Interest/Old Bonegrinder.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	Ruins of Berez		4. World Almanac/Places of Interest/Ruins of Berez.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	St. Andral's Church		4. World Almanac/Places of Interest/St. Andral's Church.md	4. World Almanac/Settlements/Vallaki.md			
-place-of-interest	The Amber Temple		4. World Almanac/Places of Interest/The Amber Temple.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	The Cinderworks	The Old Kiln	4. World Almanac/Places of Interest/The Cinderworks.md	4. World Almanac/Settlements/Bruokdon.md			A condemned charm-foundry on Bruokdon's outskirts, officially unsafe and avoided by locals — unofficially a Silent Ascendency consolidation point for stolen mag
-place-of-interest	The Umbral Athenaeum		4. World Almanac/Places of Interest/The Umbral Athenaeum.md	4. World Almanac/Settlements/Bruokdon.md			
-place-of-interest	The Wizard of Wines		4. World Almanac/Places of Interest/The Wizard of Wines.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	Tser Pool		4. World Almanac/Places of Interest/Tser Pool.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	Tsolenka Pass		4. World Almanac/Places of Interest/Tsolenka Pass.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	Van Richten's Tower		4. World Almanac/Places of Interest/Van Richten's Tower.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	Wachterhaus		4. World Almanac/Places of Interest/Wachterhaus.md	4. World Almanac/Settlements/Vallaki.md			
-place-of-interest	Werewolf Den		4. World Almanac/Places of Interest/Werewolf Den.md	4. World Almanac/Regions/Barovia.md			
-place-of-interest	Yester Hill		4. World Almanac/Places of Interest/Yester Hill.md	4. World Almanac/Regions/Barovia.md			
+place-of-interest	Castle Ravenloft		4. World Almanac/Places of Interest/Castle Ravenloft.md	4. World Almanac/Regions/Barovia.md			Strahd's castle in Barovia, where the party broke up his wedding (S32); Rahadin and Helga Ruvak work there.
+place-of-interest	Coffin Maker's Shop		4. World Almanac/Places of Interest/Coffin Maker's Shop.md	4. World Almanac/Settlements/Vallaki.md			Henrik Van Der Voort's coffin shop in Vallaki; a teleport stone dropped the party there (S10).
+place-of-interest	Death House		4. World Almanac/Places of Interest/Death House.md	4. World Almanac/Settlements/Village of Barovia.md			Haunted Durst house in the Village of Barovia, home of the ghost children Rose and Thorn; cleared in S1-S3.
+place-of-interest	Greyfen Hollow	The Hollow	4. World Almanac/Places of Interest/Greyfen Hollow.md	4. World Almanac/Regions/Greenfall.md			Drowned deadwood in the Greenfall marsh over the Silent Ascendency's caves, where stolen magic is unmade; Izek waits there (S48).
+place-of-interest	Lake Zarovich		4. World Almanac/Places of Interest/Lake Zarovich.md	4. World Almanac/Regions/Barovia.md			Barovian lake where the fisherman Bluto Krogarov and Arabelle, the Vistana girl he kidnapped, are found.
+place-of-interest	Old Bonegrinder		4. World Almanac/Places of Interest/Old Bonegrinder.md	4. World Almanac/Regions/Barovia.md			Windmill in Barovia; home of Morgantha and her coven.
+place-of-interest	Ruins of Berez		4. World Almanac/Places of Interest/Ruins of Berez.md	4. World Almanac/Regions/Barovia.md			Swamp ruins in Barovia where Baba Lysaga's creeping hut stood; explored S17-S23, the hut raided in S23.
+place-of-interest	St. Andral's Church		4. World Almanac/Places of Interest/St. Andral's Church.md	4. World Almanac/Settlements/Vallaki.md			Father Lucian's church in Vallaki; the party sheltered Ireena there (S5) and fought over St. Andral's bones (S6, S8).
+place-of-interest	The Amber Temple		4. World Almanac/Places of Interest/The Amber Temple.md	4. World Almanac/Regions/Barovia.md			Temple where the Eternal Watch imprisoned Vecna; the party repaired the amber prison there (S19-S20). Exethanter and Kasimir remain.
+place-of-interest	The Cinderworks	The Old Kiln	4. World Almanac/Places of Interest/The Cinderworks.md	4. World Almanac/Settlements/Bruokdon.md			Condemned Bruokdon charm-foundry the Silent Ascendency uses to move stolen magic items out of the city; raided in S45.
+place-of-interest	The Umbral Athenaeum		4. World Almanac/Places of Interest/The Umbral Athenaeum.md	4. World Almanac/Settlements/Bruokdon.md			Bruokdon's magic academy under the Umbral Athenaeum Council; the party exposed the Ascendency's Bruokdon cell leader there (S44).
+place-of-interest	The Wizard of Wines		4. World Almanac/Places of Interest/The Wizard of Wines.md	4. World Almanac/Regions/Barovia.md			Martikov winery and Keepers of the Feather base; the party held it against the dark druids' siege (S28).
+place-of-interest	Tser Pool		4. World Almanac/Places of Interest/Tser Pool.md	4. World Almanac/Regions/Barovia.md			Vistani camp of Madam Eva and Stanimir; the party met the Vistani there (S4).
+place-of-interest	Tsolenka Pass		4. World Almanac/Places of Interest/Tsolenka Pass.md	4. World Almanac/Regions/Barovia.md			Frozen mountain pass with a ruined fortress, Sangzor's lair; the party sheltered there and read the Tome of Strahd (S21).
+place-of-interest	Van Richten's Tower		4. World Almanac/Places of Interest/Van Richten's Tower.md	4. World Almanac/Regions/Barovia.md			Rictavio's tower near Vallaki; the party's sanctuary in S12-S15, where they held off a werewolf siege.
+place-of-interest	Wachterhaus		4. World Almanac/Places of Interest/Wachterhaus.md	4. World Almanac/Settlements/Vallaki.md			House Wachter's Vallaki seat, home of Stella Wachter and Majesto.
+place-of-interest	Werewolf Den		4. World Almanac/Places of Interest/Werewolf Den.md	4. World Almanac/Regions/Barovia.md			Barovian lair of the werewolf pack, the Children of Mother Night.
+place-of-interest	Yester Hill		4. World Almanac/Places of Interest/Yester Hill.md	4. World Almanac/Regions/Barovia.md			Hill where the party broke the dark druids' ritual and felled the Gulthias Avatar, recovering the second gem (S29-S30).
 player	Faerah Duskrane		3. The Party/Players/Faerah Duskrane.md	4. World Almanac/Settlements/Bruokdon.md	active		
 player	Marin		3. The Party/Players/Marin.md	4. World Almanac/Places of Interest/Van Richten's Tower.md	inactive		
 player	Redgrave		3. The Party/Players/Redgrave.md	4. World Almanac/Settlements/Bruokdon.md	active		

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
-gist: ""
+gist: "Father Lucian's church in Vallaki; the party sheltered Ireena there (S5) and fought over St. Andral's bones (S6, S8)."
 summary: ""
 revealed: {}
 reveal: {}

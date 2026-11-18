@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
-gist: ""
+gist: "Davian Martikov's son, a vintner at the Wizard of Wines and a member of the Keepers of the Feather."
 summary: ""
 revealed: {}
 reveal: {}

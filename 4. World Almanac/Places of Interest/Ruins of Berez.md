@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Swamp ruins in Barovia where Baba Lysaga's creeping hut stood; explored S17-S23, the hut raided in S23."
 summary: ""
 revealed: {}
 reveal: {}

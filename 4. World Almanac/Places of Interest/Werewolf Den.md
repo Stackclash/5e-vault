@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Barovian lair of the werewolf pack, the Children of Mother Night."
 summary: ""
 revealed: {}
 reveal: {}

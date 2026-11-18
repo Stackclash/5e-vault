@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Hill where the party broke the dark druids' ritual and felled the Gulthias Avatar, recovering the second gem (S29-S30)."
 summary: ""
 revealed: {}
 reveal: {}

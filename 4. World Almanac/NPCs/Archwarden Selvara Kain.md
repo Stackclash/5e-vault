@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Umbral Athenaeum.md|The Umbral Athenaeum]]"
 condition: healthy
-gist: ""
+gist: "The Umbral Athenaeum's Councilor of Abjuration; a cautious warden who wants dangerous magic kept contained."
 summary: ""
 revealed: {}
 reveal: {}

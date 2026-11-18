@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Greenfall.md|Greenfall]]"
-gist: ""
+gist: "Drowned deadwood in the Greenfall marsh over the Silent Ascendency's caves, where stolen magic is unmade; Izek waits there (S48)."
 revealed: {}
 reveal: {}
 facts: []

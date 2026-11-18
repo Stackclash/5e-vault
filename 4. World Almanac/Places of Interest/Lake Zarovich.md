@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Barovian lake where the fisherman Bluto Krogarov and Arabelle, the Vistana girl he kidnapped, are found."
 summary: ""
 revealed: {}
 reveal: {}

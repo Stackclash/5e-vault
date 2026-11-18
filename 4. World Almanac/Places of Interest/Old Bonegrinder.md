@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Windmill in Barovia; home of Morgantha and her coven."
 summary: ""
 revealed: {}
 reveal: {}

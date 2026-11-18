@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Frozen mountain pass with a ruined fortress, Sangzor's lair; the party sheltered there and read the Tome of Strahd (S21)."
 summary: ""
 revealed: {}
 reveal: {}

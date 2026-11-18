@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
-gist: ""
+gist: "Condemned Bruokdon charm-foundry the Silent Ascendency uses to move stolen magic items out of the city; raided in S45."
 revealed: {}
 reveal: {}
 facts: []

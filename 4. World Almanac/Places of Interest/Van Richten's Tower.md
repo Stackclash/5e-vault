@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: '[[4. World Almanac/Regions/Barovia.md|Barovia]]'
-gist: ""
+gist: "Rictavio's tower near Vallaki; the party's sanctuary in S12-S15, where they held off a werewolf siege."
 summary: ""
 revealed: {}
 reveal: {}

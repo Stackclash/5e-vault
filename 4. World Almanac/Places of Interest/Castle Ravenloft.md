@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
-gist: ""
+gist: "Strahd's castle in Barovia, where the party broke up his wedding (S32); Rahadin and Helga Ruvak work there."
 summary: ""
 revealed: {}
 reveal: {}
