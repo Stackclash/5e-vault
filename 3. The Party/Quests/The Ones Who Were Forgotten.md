@@ -11,23 +11,27 @@ description: |-
   Rumors of disappearances haunt the villagers: decades ago, a handful of people vanished into the dark land. No one remembers exactly what happened—or even that their names were ever erased. But now, fragments of memory are returning, surfacing in children, the land, and an outsider who was never supposed to exist.
 
   The village trembles as old secrets resurface. Crops fail where graves were long forgotten. Children begin naming the dead. Parents begin to question their own memories. The party must decide how to respond: uncover and preserve the truth, protect the villagers from it, or navigate a delicate balance between both. Every choice carries consequences, and every action will shape how the village—and perhaps the wider world—remembers what truly happened.
+
+  The village is [[Thornmere]], and the elderly villager is [[Eamon Morcant]] (S35).
 steps:
   - text: The party enters the village and meets Eamon.
     completed:
       Midnight Covenant: true
     status: played
+    outcome: Met Eamon Morcant in Thornmere ([[1. DM Toolkit/Session Journals/The Hunt for Vecna/S35 The Forgotten Man of Thornmere.md|S35]]).
 npcs:
   - name: "[[4. World Almanac/NPCs/Eamon Morcant.md|Eamon Morcant]]"
     description: Greets the party as they enter the village and recognizes them by name. No one else in the village knows who he is.
 tags:
   - quest
 kind: quest
-gist: "Completed quest: erased villagers' memories resurface, and Eamon greets the party though no one else remembers him."
+gist: "Completed quest in Thornmere (S35): the villagers were made to forget Eamon Morcant, by a rune buried under his home."
 summary: ""
 revealed: {}
 facts: []
 giver: ""
-locations: []
+locations:
+  - "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
 items: []
 factions: []
 pcs: []

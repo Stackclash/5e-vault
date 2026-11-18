@@ -23,7 +23,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: member }, { target: "[[4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md|Baron Vargas Vallakovich]]", type: father }, { target: "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]", type: mother } ]
 party_relationships:
   Midnight Covenant: Ally
-location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: ""
 summary: ""
 revealed: {}

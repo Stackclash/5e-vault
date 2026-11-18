@@ -318,6 +318,7 @@ source	type	target	learned_by	note
 3. The Party/Quests/Act II - The Ascension Rite.md	parent	3. The Party/Quests/The Hunt.md		
 3. The Party/Quests/Act II - The Ascension Rite.md	world	4. World Almanac/Worlds/Eldoria.md		
 3. The Party/Quests/The Hunt.md	world	4. World Almanac/Worlds/Eldoria.md		
+3. The Party/Quests/The Ones Who Were Forgotten.md	quest-location	4. World Almanac/Settlements/Thornmere.md		
 3. The Party/Quests/The Ones Who Were Forgotten.md	world	4. World Almanac/Worlds/Eldoria.md		
 3. The Party/Quests/The Ones Who Were Forgotten.md	quest-npc	4. World Almanac/NPCs/Eamon Morcant.md		Greets the party as they enter the village and recognizes them by name. No one else in the village knows who he is.
 3. The Party/Quests/The Second Ledger.md	quest-giver	4. World Almanac/NPCs/Lord Caldris Velmont.md		
@@ -400,7 +401,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Baba Lysaga (COS).md	enemy	3. The Party/Parties/Midnight Covenant.md		avenging Strahd
 4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md	master	4. World Almanac/NPCs/Baba Lysaga (COS).md		
 4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md	home	4. World Almanac/Places of Interest/Ruins of Berez.md		inert since the gem was torn out
-4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	leader	4. World Almanac/Factions/House Vallakovich.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	worships	5. Mechanics/Deities/Forgotten Realms Lathander.md		
 4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	wife	4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md		
@@ -641,7 +642,7 @@ source	type	target	learned_by	note
 4. World Almanac/NPCs/Vasilka (COS).md	home	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md		
 4. World Almanac/NPCs/Vasilka (COS).md	master	4. World Almanac/NPCs/The Abbot (COS).md		
 4. World Almanac/NPCs/Vasilka (COS).md	lover	4. World Almanac/NPCs/Strahd Von Zarovich (COS).md		intended bride; not yet presented
-4. World Almanac/NPCs/Victor Vallakovich (COS).md	location	4. World Almanac/Settlements/Vallaki.md		
+4. World Almanac/NPCs/Victor Vallakovich (COS).md	location	4. World Almanac/Settlements/Village of Barovia.md		
 4. World Almanac/NPCs/Victor Vallakovich (COS).md	member	4. World Almanac/Factions/House Vallakovich.md		
 4. World Almanac/NPCs/Victor Vallakovich (COS).md	father	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md		
 4. World Almanac/NPCs/Victor Vallakovich (COS).md	mother	4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md		

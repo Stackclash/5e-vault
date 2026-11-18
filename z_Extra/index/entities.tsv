@@ -32,7 +32,7 @@ npc	Archwarden Selvara Kain		4. World Almanac/NPCs/Archwarden Selvara Kain.md	4.
 npc	Arrigal (COS)	Arrigal	4. World Almanac/NPCs/Arrigal (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
 npc	Baba Lysaga (COS)	Baba Lysaga	4. World Almanac/NPCs/Baba Lysaga (COS).md	4. World Almanac/Places of Interest/Ruins of Berez.md	healthy		
 npc	Baba Lysagas Creeping Hut (COS)	Baba Lysaga's Creeping Hut	4. World Almanac/NPCs/Baba Lysagas Creeping Hut (COS).md		dead		
-npc	Baron Vargas Vallakovich (COS)	Baron Vargas Vallakovich	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Baron Vargas Vallakovich (COS)	Baron Vargas Vallakovich	4. World Almanac/NPCs/Baron Vargas Vallakovich (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
 npc	Beucephalus (COS)	Beucephalus	4. World Almanac/NPCs/Beucephalus (COS).md		healthy		
 npc	Bluto Krogarov (COS)	Bluto Krogarov	4. World Almanac/NPCs/Bluto Krogarov (COS).md	4. World Almanac/Places of Interest/Lake Zarovich.md	healthy		
 npc	Bray Martikov (COS)	Bray Martikov	4. World Almanac/NPCs/Bray Martikov (COS).md	4. World Almanac/Shops/Blue Water Inn.md	healthy		
@@ -109,7 +109,7 @@ npc	Thornboldt Thorn Durst (COS)	Thornboldt "Thorn" Durst	4. World Almanac/NPCs/
 npc	Urwin Martikov (COS)	Urwin Martikov	4. World Almanac/NPCs/Urwin Martikov (COS).md	4. World Almanac/Shops/Blue Water Inn.md	healthy		
 npc	Vasilka (COS)	Vasilka	4. World Almanac/NPCs/Vasilka (COS).md	4. World Almanac/Places of Interest/Abbey of Saint Markovia.md	healthy		
 npc	Vecna		4. World Almanac/NPCs/Vecna.md		healthy	Midnight Covenant	The power freed from the Amber Temple when Strahd died (S33); the party has hunted him ever since.
-npc	Victor Vallakovich (COS)	Victor Vallakovich	4. World Almanac/NPCs/Victor Vallakovich (COS).md	4. World Almanac/Settlements/Vallaki.md	healthy		
+npc	Victor Vallakovich (COS)	Victor Vallakovich	4. World Almanac/NPCs/Victor Vallakovich (COS).md	4. World Almanac/Settlements/Village of Barovia.md	healthy		
 npc	Vilnius (COS)	Vilnius	4. World Almanac/NPCs/Vilnius (COS).md	4. World Almanac/Places of Interest/The Amber Temple.md	healthy		
 npc	Vladimir Horngaard (COS)	Vladimir Horngaard	4. World Almanac/NPCs/Vladimir Horngaard (COS).md		healthy		
 npc	Volenta Popofsky (COS)	Volenta Popofsky	4. World Almanac/NPCs/Volenta Popofsky (COS).md		healthy		
@@ -147,7 +147,7 @@ player	Yevelda Ovak		3. The Party/Players/Yevelda Ovak.md	4. World Almanac/Settl
 quest:arc	Act I - The World-Truth Working		3. The Party/Quests/Act I - The World-Truth Working.md		active		Act I arc: the hunt toward Vecna's World-Truth Working, ending in the party's designed loss to him.
 quest:arc	Act II - The Ascension Rite		3. The Party/Quests/Act II - The Ascension Rite.md		inactive		Act II arc: the post-Working world, building to the Ascension Rite and the campaign's decisive final battle.
 quest:arc	The Hunt		3. The Party/Quests/The Hunt.md		active		Top campaign arc: the party's two-act hunt for Vecna, one act per ritual of his ascension.
-quest:quest	The Ones Who Were Forgotten		3. The Party/Quests/The Ones Who Were Forgotten.md		completed		Completed quest: erased villagers' memories resurface, and Eamon greets the party though no one else remembers him.
+quest:quest	The Ones Who Were Forgotten		3. The Party/Quests/The Ones Who Were Forgotten.md		completed		Completed quest in Thornmere (S35): the villagers were made to forget Eamon Morcant, by a rune buried under his home.
 quest:quest	The Second Ledger		3. The Party/Quests/The Second Ledger.md		active		Velmont resumes his identity to trace the Ascendency pipeline: the Cinderworks, the Tallyman in Duskferry, then Greyfen Hollow.
 quest:quest	The Well of Many Worlds		3. The Party/Quests/The Well of Many Worlds.md		active		Gousse's Well route to the Great Library through Water, the Feywild, and Limbo; Baba Lysaga plans an ambush.
 region	Barovia		4. World Almanac/Regions/Barovia.md	4. World Almanac/Worlds/Eldoria.md			Strahd's domain on Eldoria and the setting of the Curse of Strahd arc.
@@ -167,7 +167,7 @@ story-creature	Amber Warden		4. World Almanac/Creatures/Amber Warden.md				Silen
 story-creature	Unfinished Amber Warden		4. World Almanac/Creatures/Unfinished Amber Warden.md				Half-built Warden in Greyfen Hollow's Foundry cradles: one exposed conduit, no protections, ruptures when destroyed.
 story-deity	Dark Powers of the Shadowfell		4. World Almanac/Deities/Dark Powers of the Shadowfell.md				The Shadowfell's Dark Powers, whom Strahd worships.
 story-deity	Mother Night		4. World Almanac/Deities/Mother Night.md				Barovian goddess worshipped by Baba Lysaga, Madam Eva, and the Toranescu werewolves.
-story-deity	The Nameless God of Secrets		4. World Almanac/Deities/The Nameless God of Secrets.md				A nameless god of secrets, worshipped by Patrina Velikovna.
+story-deity	The Nameless God of Secrets		4. World Almanac/Deities/The Nameless God of Secrets.md				A nameless god of secrets, worshipped by Patrina Velikovna; possibly Vecna, not decided.
 story-deity	The Trickster God		4. World Almanac/Deities/The Trickster God.md			Midnight Covenant	Roark Battleborn's father, bound by the gods' non-interference compact; he wants Roark as his mortal agent.
 story-item	Dusk Dagger		4. World Almanac/Items/Dusk Dagger.md				A dusk dagger found with the Feeblemind papers under Velmont's house (S43); Roark has it, unidentified.
 story-item	Gulthias Staff		4. World Almanac/Items/Gulthias Staff.md				The blighted staff taken from the Gulthias Tree on Yester Hill (S29).

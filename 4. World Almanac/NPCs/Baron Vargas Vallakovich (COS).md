@@ -36,7 +36,7 @@ history: >-
 relationships: [ { target: "[[4. World Almanac/Factions/House Vallakovich.md|House Vallakovich]]", type: leader }, { target: "[[5. Mechanics/Deities/Forgotten Realms Lathander.md|The Morninglord]]", type: worships }, { target: "[[4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md|Lady Lydia Petrovna]]", type: wife } ]
 party_relationships:
   Midnight Covenant: Friendly
-location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 gist: ""
 summary: ""
 revealed: {}
