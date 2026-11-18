@@ -35,10 +35,15 @@ party_relationships:
   Midnight Covenant: Friendly
 location: null
 gist: ""
-summary: ""
-revealed: {}
+summary: "The werewolf the party freed from Castle Ravenloft, who went back to lead the werewolf pack."
+revealed:
+  Midnight Covenant: true
 reveal: {}
-facts: []
+facts:
+  - text: Once freed, Emil returned to the werewolf pack and took control of it.
+    learned:
+      Midnight Covenant: "[[1. DM Toolkit/Session Journals/The Hunt for Vecna/S34 Farewell to Barovia.md|S34 Farewell to Barovia]]"
+    locked: true
 pronounced: EH-mil tor-uh-NES-koo
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
